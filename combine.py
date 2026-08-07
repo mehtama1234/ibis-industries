@@ -30,8 +30,13 @@ def _guess(b):
         if kw in t: return sec
     return 'Business Services'
 
-canon={it['slug']:it['title'] for it in json.load(open(f'{ROOT}/_run200.json'))}
-sources=['briefs_deep.json','briefs_full_1.json','briefs_full_2.json','briefs_full_3.json','briefs_full_R.json']
+canon={}
+for rl in ('_run200.json','_run300.json'):
+    p=f'{ROOT}/{rl}'
+    if os.path.exists(p):
+        for it in json.load(open(p)): canon[it['slug']]=it['title']
+sources=['briefs_deep.json','briefs_full_1.json','briefs_full_2.json','briefs_full_3.json','briefs_full_R.json',
+         'briefs_r2_1.json','briefs_r2_2.json','briefs_r2_3.json','briefs_r2_4.json','briefs_r2_5.json','briefs_r2_R.json']
 seen={}; order=[]
 for f in sources:
     p=f'{ROOT}/{f}'
