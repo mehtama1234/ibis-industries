@@ -1,0 +1,163 @@
+{
+ "force": {
+  "slug": "the-real-estate-reckoning",
+  "acc": "gold",
+  "lens": "Industrial",
+  "title": "The Real-Estate Reckoning",
+  "signature": "Hybrid work broke the office and higher rates broke the math \u2014 capital rotates from offices to logistics, data centers, and housing, and a debt wall forces the reckoning.",
+  "groups": {
+   "A \u00b7 The office breaks": [
+    [
+     "the-office-crisis",
+     "The office crisis",
+     "commercial-real-estate-in-the-us architects-in-the-us",
+     "Hybrid work and vacancies gut office values; a maturity wall forces losses."
+    ],
+    [
+     "adaptive-reuse",
+     "Adaptive reuse & conversion",
+     "commercial-property-remodeling commercial-building-construction-in-the-us",
+     "Dead offices and malls get converted \u2014 a remodeling and construction opportunity."
+    ]
+   ],
+   "B \u00b7 Where capital rotates": [
+    [
+     "housing-squeeze",
+     "The housing squeeze",
+     "home-builders-in-the-us apartment-rental-in-the-us",
+     "High rates freeze buying and pressure multifamily even as housing stays scarce."
+    ],
+    [
+     "logistics-and-data",
+     "Logistics & data centers",
+     "colocation-facilities heavy-engineering-construction-in-the-us",
+     "Capital flows to warehouses and data centers \u2014 the assets with demand."
+    ],
+    [
+     "the-land-play",
+     "Owning the land",
+     "land-leasing-in-the-us campgrounds-and-rv-parks-in-the-us",
+     "Land and ground-lease models become the quiet, durable real-estate bet."
+    ]
+   ],
+   "C \u00b7 Hospitality & retail property": [
+    [
+     "hospitality-property",
+     "Hotels as real estate",
+     "hotels-and-motels-in-the-us casino-hotels-in-the-us boutique-hotels",
+     "Lodging bifurcates and gets financialized as an asset class."
+    ],
+    [
+     "retail-property",
+     "Retail's property fallout",
+     "department-stores-in-the-us discount-department-stores",
+     "Store closures dump retail real estate onto the market for reuse."
+    ]
+   ],
+   "D \u00b7 The tensions": [
+    [
+     "the-debt-wall",
+     "The commercial-debt wall",
+     "commercial-real-estate-in-the-us commercial-banking-in-the-us",
+     "A wave of maturing CRE loans refinancing at higher rates is the sector's tail risk."
+    ],
+    [
+     "construction-costs",
+     "Building costs bite",
+     "commercial-building-construction-in-the-us home-builders-in-the-us",
+     "Tariffs, labor, and rates raise the cost to build anything new."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-real-estate-reckoning",
+     "The real-estate reckoning",
+     "commercial-real-estate-in-the-us apartment-rental-in-the-us colocation-facilities home-builders-in-the-us",
+     "Capstone: work and rates broke the old real-estate math; logistics, data, and housing win, offices lose."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "the-office-crisis",
+   "title": "The office crisis",
+   "group": "A \u00b7 The office breaks",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__the-office-crisis.txt",
+   "is_capstone": false,
+   "angle": "Hybrid work and vacancies gut office values; a maturity wall forces losses."
+  },
+  {
+   "slug": "adaptive-reuse",
+   "title": "Adaptive reuse & conversion",
+   "group": "A \u00b7 The office breaks",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__adaptive-reuse.txt",
+   "is_capstone": false,
+   "angle": "Dead offices and malls get converted \u2014 a remodeling and construction opportunity."
+  },
+  {
+   "slug": "housing-squeeze",
+   "title": "The housing squeeze",
+   "group": "B \u00b7 Where capital rotates",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__housing-squeeze.txt",
+   "is_capstone": false,
+   "angle": "High rates freeze buying and pressure multifamily even as housing stays scarce."
+  },
+  {
+   "slug": "logistics-and-data",
+   "title": "Logistics & data centers",
+   "group": "B \u00b7 Where capital rotates",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__logistics-and-data.txt",
+   "is_capstone": false,
+   "angle": "Capital flows to warehouses and data centers \u2014 the assets with demand."
+  },
+  {
+   "slug": "the-land-play",
+   "title": "Owning the land",
+   "group": "B \u00b7 Where capital rotates",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__the-land-play.txt",
+   "is_capstone": false,
+   "angle": "Land and ground-lease models become the quiet, durable real-estate bet."
+  },
+  {
+   "slug": "hospitality-property",
+   "title": "Hotels as real estate",
+   "group": "C \u00b7 Hospitality & retail property",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__hospitality-property.txt",
+   "is_capstone": false,
+   "angle": "Lodging bifurcates and gets financialized as an asset class."
+  },
+  {
+   "slug": "retail-property",
+   "title": "Retail's property fallout",
+   "group": "C \u00b7 Hospitality & retail property",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__retail-property.txt",
+   "is_capstone": false,
+   "angle": "Store closures dump retail real estate onto the market for reuse."
+  },
+  {
+   "slug": "the-debt-wall",
+   "title": "The commercial-debt wall",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__the-debt-wall.txt",
+   "is_capstone": false,
+   "angle": "A wave of maturing CRE loans refinancing at higher rates is the sector's tail risk."
+  },
+  {
+   "slug": "construction-costs",
+   "title": "Building costs bite",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__construction-costs.txt",
+   "is_capstone": false,
+   "angle": "Tariffs, labor, and rates raise the cost to build anything new."
+  },
+  {
+   "slug": "the-real-estate-reckoning",
+   "title": "The real-estate reckoning",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-real-estate-reckoning__the-real-estate-reckoning.txt",
+   "is_capstone": true,
+   "angle": "Capstone: work and rates broke the old real-estate math; logistics, data, and housing win, offices lose."
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "force": {
+  "slug": "the-channel-shift",
+  "acc": "green",
+  "lens": "Cultural",
+  "title": "The Channel Shift",
+  "signature": "The store stopped being where you buy \u2014 e-commerce, marketplaces, and direct-to-consumer hollow out physical retail, and only omnichannel or the experiential niche survives.",
+  "groups": {
+   "A \u00b7 The categories that went online first": [
+    [
+     "electronics-online",
+     "Electronics go online",
+     "consumer-electronics-stores-in-the-us computer-stores-in-the-us camera-stores-in-the-us",
+     "Commodity electronics were the first to move online; specialty stores nearly vanished."
+    ],
+    [
+     "media-and-hobby",
+     "Media & hobby retail",
+     "book-stores-in-the-us art-supply-stores hardware-stores-in-the-us",
+     "Amazon and marketplaces gutted these categories; survivors go experiential and expert."
+    ],
+    [
+     "apparel-online",
+     "Apparel & the try-before-you-buy problem",
+     "womens-clothing-stores-in-the-us shoe-stores-in-the-us family-clothing-stores-in-the-us",
+     "Clothing and shoes shift online despite fit friction; stores become showrooms."
+    ]
+   ],
+   "B \u00b7 The marketplace machine": [
+    [
+     "the-marketplace",
+     "The marketplace eats the middle",
+     "e-commerce-and-online-auctions-in-the-us",
+     "The platform takes a cut of everything and sets the terms of survival for sellers."
+    ],
+    [
+     "dtc-brands",
+     "Direct-to-consumer brands",
+     "beauty-cosmetics-and-fragrance-stores-in-the-us hiking-and-outdoor-equipment-stores",
+     "Brands sell straight to shoppers, cutting the retailer out entirely."
+    ]
+   ],
+   "C \u00b7 Who's holding on": [
+    [
+     "omnichannel-or-die",
+     "Omnichannel or die",
+     "home-improvement-stores-in-the-us sporting-goods-stores-in-the-us auto-parts-stores-in-the-us",
+     "Big-box survivors fuse online and store \u2014 ship-from-store, buy-online-pickup \u2014 or lose."
+    ],
+    [
+     "the-experiential-niche",
+     "The experiential survivor",
+     "jewelry-stores-in-the-us health-stores-in-the-us convenience-stores-in-the-us",
+     "Expertise, immediacy, and experience are the moats physical retail has left."
+    ]
+   ],
+   "D \u00b7 The tensions": [
+    [
+     "tariffs-and-de-minimis",
+     "Tariffs & the de-minimis end",
+     "womens-clothing-stores-in-the-us furniture-stores-in-the-us",
+     "Shein/Temu and the end of the de-minimis loophole reshape the price war online."
+    ],
+    [
+     "the-store-closures",
+     "The closure wave",
+     "department-stores-in-the-us discount-department-stores",
+     "Thousands of stores close a year; the real-estate and jobs fallout compounds."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-channel-shift",
+     "The channel shift",
+     "e-commerce-and-online-auctions-in-the-us womens-clothing-stores-in-the-us home-improvement-stores-in-the-us",
+     "Capstone: the point of sale moved online; platforms and omnichannel scale win, standalone mid-market stores lose."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "electronics-online",
+   "title": "Electronics go online",
+   "group": "A \u00b7 The categories that went online first",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__electronics-online.txt",
+   "is_capstone": false,
+   "angle": "Commodity electronics were the first to move online; specialty stores nearly vanished."
+  },
+  {
+   "slug": "media-and-hobby",
+   "title": "Media & hobby retail",
+   "group": "A \u00b7 The categories that went online first",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__media-and-hobby.txt",
+   "is_capstone": false,
+   "angle": "Amazon and marketplaces gutted these categories; survivors go experiential and expert."
+  },
+  {
+   "slug": "apparel-online",
+   "title": "Apparel & the try-before-you-buy problem",
+   "group": "A \u00b7 The categories that went online first",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__apparel-online.txt",
+   "is_capstone": false,
+   "angle": "Clothing and shoes shift online despite fit friction; stores become showrooms."
+  },
+  {
+   "slug": "the-marketplace",
+   "title": "The marketplace eats the middle",
+   "group": "B \u00b7 The marketplace machine",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__the-marketplace.txt",
+   "is_capstone": false,
+   "angle": "The platform takes a cut of everything and sets the terms of survival for sellers."
+  },
+  {
+   "slug": "dtc-brands",
+   "title": "Direct-to-consumer brands",
+   "group": "B \u00b7 The marketplace machine",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__dtc-brands.txt",
+   "is_capstone": false,
+   "angle": "Brands sell straight to shoppers, cutting the retailer out entirely."
+  },
+  {
+   "slug": "omnichannel-or-die",
+   "title": "Omnichannel or die",
+   "group": "C \u00b7 Who's holding on",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__omnichannel-or-die.txt",
+   "is_capstone": false,
+   "angle": "Big-box survivors fuse online and store \u2014 ship-from-store, buy-online-pickup \u2014 or lose."
+  },
+  {
+   "slug": "the-experiential-niche",
+   "title": "The experiential survivor",
+   "group": "C \u00b7 Who's holding on",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__the-experiential-niche.txt",
+   "is_capstone": false,
+   "angle": "Expertise, immediacy, and experience are the moats physical retail has left."
+  },
+  {
+   "slug": "tariffs-and-de-minimis",
+   "title": "Tariffs & the de-minimis end",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__tariffs-and-de-minimis.txt",
+   "is_capstone": false,
+   "angle": "Shein/Temu and the end of the de-minimis loophole reshape the price war online."
+  },
+  {
+   "slug": "the-store-closures",
+   "title": "The closure wave",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__the-store-closures.txt",
+   "is_capstone": false,
+   "angle": "Thousands of stores close a year; the real-estate and jobs fallout compounds."
+  },
+  {
+   "slug": "the-channel-shift",
+   "title": "The channel shift",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-channel-shift__the-channel-shift.txt",
+   "is_capstone": true,
+   "angle": "Capstone: the point of sale moved online; platforms and omnichannel scale win, standalone mid-market stores lose."
+  }
+ ]
+}

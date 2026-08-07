@@ -1,0 +1,605 @@
+[
+ {
+  "title": "The GLP-1 Shockwave",
+  "dek": "The drug that changed appetite—and killed an industry in a year.",
+  "one_sentence": "GLP-1 adoption went from 5.8% of American adults in early 2024 to 18% by 2026, collapsing demand for old diet programs and forcing the industry into pharmaceutical delivery or extinction.",
+  "lede": "A year and a half ago, the $2.6 billion U.S. weight-loss services industry looked stable. It had survived recessions, fads, and thousands of YouTube detox channels. Then GLP-1 drugs—semaglutide, tirzepatide, the whole class—went mainstream. Appetite literally shrank. The industry didn't adapt fast enough. Weight Watchers, the 60-year-old symbol of American dieting, filed for bankruptcy in May 2025. The rest are scrambling to become pill distributors instead of coaches.",
+  "what_changed": "GLP-1 medications made traditional weight-loss coaching obsolete in less than two years. The math is simple: obesity rates fell from 39.9% in 2022 to 36.4% in 2026 not because people changed habits, but because 18% of American adults are now on drugs that suppress hunger. The weight-loss services industry that had shrunk from $3.8 billion in 2022 to $2.6 billion by 2026 wasn't just declining—it was collapsing because the problem it sold solutions to was being solved by pharmaceuticals instead. Weight Watchers was the largest casualty. Founded in 1963 on behavioral coaching and community support, it carried $1.6 billion in debt when bankruptcy filing hit in May 2025. The company emerged as a private entity in June 2025 after shedding $1.15 billion in debt (70% of its prepetition load), but it was no longer a diet program—it was a shell trying to become a telehealth GLP-1 platform. Oprah Winfrey, the brand's cultural anchor, exited the board in February 2024, sensing the death before it happened.\n\nThe survivors are not the legacy diet programs. They are the vertical pharmacies disguised as telemedicine. Hims & Hers expanded into Europe by acquiring the Zava telehealth platform in June 2025, then doubled down by settling with Novo Nordisk in March 2026 to begin stocking brand-name semaglutide and phasing out compounded versions. Ro, Noom, and a dozen smaller platforms are building their own supply chains because access to GLP-1 medications is now the only competitive advantage that matters in weight loss. The FDA tightened compounding oversight in February 2026 after dosing errors, which accidentally reinforced this trend: large, well-capitalized providers with brand-name supply agreements are safer bets than regional clinics mixing drugs in back rooms. Smaller practices that didn't integrate GLP-1 prescribing are being forced out or absorbed.\n\nWhat makes this stunning is the speed of the price collapse in traditional weight-loss services. The industry contracted at a negative 2.4% CAGR from 2020-2025 even before the full force of GLP-1 adoption was priced in. By 2026, the addressable market for diet coaching is being hollowed out. The 13,413 establishments that existed in 2025 are fighting over a shrinking pie. Meanwhile, the GLP-1 pharmaceutical market itself grew to $82.0 billion in 2026, expanding at 12.4% annually—a tenfold larger market capturing all the growth and nearly all the margin. Oral GLP-1 formulations launched in 2026 (Novo Nordisk's Wegovy pill, Eli Lilly's oral tirzepatide anticipated), meaning the barrier to entry is even lower: swallow a pill, suppress your appetite, pay the pharmacy directly. The coaching boutique is dead. The pharmacy is immortal.",
+  "facts": [
+   {
+    "num": "18%",
+    "txt": "By 2026, 18% of U.S. adults are on GLP-1 medications, up from just 5.8% in February 2024."
+   },
+   {
+    "num": "$2.6B",
+    "txt": "The weight-loss services market shrank to $2.6 billion by 2026, down from $3.8 billion in 2022, a negative 2.4% CAGR."
+   },
+   {
+    "num": "39.9% → 36.4%",
+    "txt": "U.S. obesity rates fell from 39.9% in 2022 to 36.4% in 2026, driven directly by GLP-1 adoption rather than behavioral change."
+   },
+   {
+    "num": "May 2025",
+    "txt": "Weight Watchers filed Chapter 11 bankruptcy on May 6, 2025, eliminating the 60-year-old diet-program model almost overnight."
+   },
+   {
+    "num": "$1.15B",
+    "txt": "When Weight Watchers emerged from bankruptcy in June 2025, it had shed $1.15 billion in debt—70% of its prepetition load—but lost its cultural identity."
+   },
+   {
+    "num": "$82.0B",
+    "txt": "The GLP-1 obesity-drug market grew to $82.0 billion by 2026, expanding at 12.4% annually—a market 32 times larger than traditional weight-loss services."
+   },
+   {
+    "num": "Feb 2026",
+    "txt": "The FDA tightened oversight of compounded GLP-1 medications in February 2026 due to dosing errors, accelerating market consolidation around brand-name products and large telehealth providers."
+   },
+   {
+    "num": "2026",
+    "txt": "Oral GLP-1 formulations (Wegovy pill, oral tirzepatide) launched in 2026, removing the injection-aversion barrier and further accelerating pharmaceutical capture of the weight-loss market."
+   }
+  ],
+  "evidence": [
+   "Weight-loss services (U.S. healthcare): fell to $2.6 billion by 2026 from $3.8 billion in 2022, losing the 60-year-old diet-coaching model to pharmaceutical delivery.",
+   "Brand-name pharmaceuticals (U.S. healthcare): $293.9 billion market in 2026 growing at 3.0%, with GLP-1 obesity drugs alone now a $82.0 billion market expanding 12.4% annually.",
+   "GLP-1 adoption (U.S. consumer): jumped from 5.8% of adults in Feb 2024 to 18% by 2026, directly collapsing obesity rates from 39.9% (2022) to 36.4% (2026).",
+   "Telehealth consolidation (2025-2026): Hims acquired Zava (June 2025), settled with Novo Nordisk (March 2026) to shift to brand-name products; Ro and Noom built competing vertical pharmacies.",
+   "FDA regulation (Feb 2026): compounding oversight tightened due to dosing errors, accelerating market shift toward brand-name manufacturers and eliminating smaller regional clinics."
+  ],
+  "win": "Vertical telehealth pharmacies (Hims, Ro, Noom) and large brand-name manufacturers (Novo Nordisk, Eli Lilly, Merck) are the clear winners. They control the only thing consumers now want: reliable access to GLP-1 medications. Hims & Hers' Zava acquisition and Novo Nordisk settlement demonstrate the strategy: buy the direct-to-consumer channel, secure the supply, and become the default. Eli Lilly's Mounjaro and Novo Nordisk's Wegovy are pulling margin away from entire adjacent industries. The FDA's February 2026 crackdown on compounders also favors these giants, which can navigate regulation and afford clinical oversight. For pharma broadly, GLP-1 is a $82.0 billion market growing 12.4% annually—a life raft in an era of patent cliffs and biosimilar competition.",
+  "lose": "Regional weight-loss clinics, independent diet coaches, and the entire behavioral-nutrition coaching industry are being squeezed. The 13,413 weight-loss service establishments in 2025 are fighting over a shrinking pie. Weight Watchers' bankruptcy was the symbolic death, but thousands of smaller practices are experiencing the same death slow. They lose because they sell willpower and community in an era when appetite is solved by a 0.5 mg injection. Jenny Craig, smaller franchise programs, and local wellness centers have no moat against pharmaceutical delivery. Even digital diet apps (projected 8.6% CAGR through 2034) are surviving only as companions to GLP-1 prescriptions, not as standalone products. For them, growth is not replacement—it is subsistence.",
+  "worry": "The single biggest risk is supply chaos and access inequality. GLP-1 manufacturing is not yet domesticated. The U.S. brand pharmaceutical industry depends on overseas APIs and is racing to onshore production, but no major new plant finishes before 2026—leaving the country dependent on foreign supply for 3–5 more years. Demand is already outpacing supply. Compounding clinics sprang up to fill the gap, but the FDA's February 2026 tightening forced many to close, creating shortages and regional access deserts. Insurance coverage is volatile: private plans cover GLP-1s at different rates, Medicare began covering them in 2024 but with limits, and the IRA's drug price negotiation program (kicking in January 2026 with capped out-of-pocket costs at $2,000) means margins will shrink for manufacturers. If supply remains tight and prices regulated, the companies pivoting to GLP-1 as their profit engine (Novo Nordisk, Eli Lilly) will face margin pressure. If access expands too quickly without supply, we get shortages. If access stays expensive, the market doesn't grow as promised. The industry that was supposed to be solved by a drug is now held hostage by one.",
+  "slug": "the-glp1-shockwave",
+  "force": "the-health-reckoning",
+  "group": "A · The drug that changed appetite",
+  "nav_title": "The GLP-1 shockwave",
+  "cap": false
+ },
+ {
+  "title": "Snacking under siege",
+  "dek": "The drug that changed appetite.",
+  "lede": "GLP-1 drugs didn't invent health consciousness, but they turbocharged it. When your appetite shrinks and your body signals satiation faster, indulgent snacking becomes structurally irrational. The result is a bifurcated snacking landscape where traditional high-calorie, high-sugar categories face declining volume, tariffs that make them more expensive, and consumer scrutiny that wasn't there five years ago. Only the premium, the functional, and the texture-driven are growing.",
+  "what_changed": "The American candy industry illustrates the exact squeeze. The total US confectionery market (candy, chocolate, imports combined) sits at $55 billion in 2025, with modest growth of just 1.4% annually projected through 2030. But inside that flat number is a collapse: traditional hard candies and soft candies are shrinking as a share of total consumption. What's growing is chocolate (now 51.7% of all confectionery sales), freeze-dried candy (which jumped from niche to $1.31 billion globally in 2025 and is forecast to grow 12% annually through 2033), and functional formats like sugar-free and vitamin-fortified gummies. The gap is wider among consumers who actively seek healthier alternatives—47% of regular candy buyers now do—meaning the remaining volume is increasingly concentrated in premium, texture-forward, and health-aligned products. Mars' definitive acquisition of Kellanov, finalized in December 2025 for $36 billion, and Ferrero's $3.1 billion acquisition of WK Kellogg in September 2025 show that scale players are abandoning the hope that traditional volume returns; instead, they are building platforms to compete across premium, health-conscious, and value segments simultaneously. Meanwhile, tariffs have become a structural cost catastrophe. Starting in April 2025, the Trump administration imposed tariffs of 10% baseline on all imports, 20% from the EU, 31% from Switzerland, and 145% on bulk shipments from China. Chocolate production costs jumped 30% between December 2024 and September 2025 alone. Eighty-six percent of consumers now notice and resent higher prices, yet domestic producers cannot absorb these costs and remain competitive; imported goods still meet roughly 23% of domestic candy demand, meaning tariffs pinch without fully protecting home producers. The industry responded by premium-ifying: Ferrara launched freeze-dried SweeTARTS, Lemonheads, and Spree in August 2025; M&Ms introduced POP'd Caramel in early 2026; and Unilever paid $1.2 billion for Grüns, a functional gummy brand, in April 2026. Ice cream tells a parallel story. The US ice cream market is $20.03 billion in 2026, growing at only 2.66% annually through 2031. Regular bulk ice cream is in decline; what's growing are single-serve impulse products (42% of market), artisanal premium formats, and plant-based alternatives. Plant-based ice cream rocketed from $4.25 billion in 2025 to $5.15 billion in 2026—a 21% year-over-year jump—driven by health consciousness and perceived alignment with wellness trends. Unilever's decision to spin off its ice cream arm as The Magnum Company in December 2025, valuing it at $9.1 billion, signals that legacy CPG giants no longer see frozen desserts as a growth engine; they are retreating from volume and allowing specialized players to dominate premium tiers. Tariff retaliation and domestic dairy input costs have compounded the pain: China imposed a 125% retaliatory tariff on US ice cream exports in 2026, while tariffs on Canadian dairy are raising milk and butter costs domestically. Americans spent $31 on ice cream in May 2025, a 26.5% month-over-month jump, but that's pure inflation pass-through, not volume growth. The cookie, cracker, and pasta sector ($68.3 billion in 2026, growing 3.8% annually) is experiencing similar bifurcation. Health-conscious offerings are exploding: gluten-free sales grew 95% year-over-year in 2025, and organic options grew 75%, driven by celiac awareness and wellness trends. Yet tariffs remain a brutal lever. The US Commerce Department proposed tariffs reaching 91.74% on Italian pasta makers in September 2025; after review, rates were reduced to 2–14% in early 2026, but the uncertainty alone forced retailers and manufacturers to choose between absorbing costs or passing them to consumers. Italian pasta exports to the US, worth roughly $800 million annually, are now in constant jeopardy. Mars, Ferrero, and Flowers Foods (which acquired Simple Mills for $795 million in December 2024) are all betting that the future of snacking lies in scale-to-many-segments, not volume growth. In each category, the structural trend is identical: appetite suppression narrows volume, tariffs make indulgence expensive, and health consciousness makes indulgence ideologically costly.",
+  "facts": [
+   {
+    "num": "$55 billion",
+    "txt": "US confectionery market size in 2025, growing only 1.4% annually through 2030—a mature, barely growing category."
+   },
+   {
+    "num": "47%",
+    "txt": "Share of regular candy buyers actively seeking healthier alternatives in 2025-2026, signaling structural demand shift away from traditional indulgence."
+   },
+   {
+    "num": "$1.31 billion",
+    "txt": "Freeze-dried candy market size globally in 2025, forecast to grow 12% annually through 2033—a texture-driven category thriving as traditional candy shrinks."
+   },
+   {
+    "num": "30%",
+    "txt": "Production cost increase for chocolate between December 2024 and September 2025 due to tariffs (10% baseline, 20% EU, 31% Switzerland, 145% China)."
+   },
+   {
+    "num": "86%",
+    "txt": "Share of consumers who noticed and resented higher candy and snack prices in 2025-2026, a sign that tariff pass-throughs are eroding volume."
+   },
+   {
+    "num": "21% CAGR",
+    "txt": "Annual growth rate of plant-based ice cream from $4.25 billion (2025) to $5.15 billion (2026)—more than 8x the 2.66% growth of the total ice cream category."
+   },
+   {
+    "num": "$36 billion",
+    "txt": "Size of Mars' acquisition of Kellanov, finalized December 2025, signaling that scale now requires competing across premium, health, and value simultaneously rather than chasing traditional volume."
+   },
+   {
+    "num": "2.66% CAGR",
+    "txt": "Annual growth rate of the US ice cream market through 2031, while single-serve and plant-based segments grow 9.8–21%—structural decline masked by premiumization."
+   }
+  ],
+  "evidence": [
+   "Confectionery: Candy market $55B in 2025, 1.4% CAGR to 2030; 47% of buyers seek healthier alternatives; freeze-dried candy $1.31B globally 2025, 12% CAGR.",
+   "Ice cream: $20.03B market 2026, 2.66% CAGR; plant-based jumped 21% YoY to $5.15B in 2026 vs. 2.66% total market growth.",
+   "Tariffs: 10% baseline, 20% EU, 31% Switzerland, 145% China imposed April 2025; chocolate costs +30% Dec 2024–Sept 2025; 86% of consumers notice.",
+   "M&A: Mars-Kellanov $36B December 2025; Ferrero-WK Kellogg $3.1B September 2025; Flowers-Simple Mills $795M December 2024.",
+   "Pasta tariffs: US Commerce proposed 91.74% tariffs September 2025, reduced to 2–14% early 2026; Italian pasta exports to US ~$800M annually now at risk."
+  ],
+  "win": "Premium, functional, and health-aligned snack makers are winning. Freeze-dried candy, plant-based ice cream, functional gummies, gluten-free and organic crackers, and single-serve premium formats are all outpacing their traditional counterparts by 5–10x. Scale players like Mars, Ferrero, and Nestlé are winning by acquiring platforms that let them compete across all segments simultaneously—they've given up on volume growth and instead optimized for margin capture in premium tiers while maintaining value shelf space. Texture-forward innovation (freeze-dried, crunch, novelty formats) is a moat that GLP-1 appetites naturally support: if you eat less, you want it to count.",
+  "lose": "Traditional high-calorie, high-sugar snack manufacturers are getting squeezed on three sides. First, volume is structurally declining as GLP-1 use spreads and health consciousness deepens; 47% of candy buyers now seek alternatives, and plant-based ice cream is growing 21% annually while regular ice cream grows 2.66%. Second, tariffs have made indulgent snacks expensive—chocolate costs jumped 30% in nine months, and 86% of consumers resent the prices. Third, retail shelf space and manufacturer investment are shifting to premium and functional tiers, meaning traditional candy, cookies, and regular ice cream are losing the war for attention and promotion. Small, regional candy makers cannot absorb tariff costs and cannot afford the scale to play across multiple segments, leaving them vulnerable to acquisition or exit.",
+  "worry": "The biggest risk is margin collapse for mid-market snack producers trapped between tariff cost floors and consumer price resistance. A manufacturer like an Italian pasta maker or a regional candy producer faces tariffs of 91–145% (or retaliatory exposure), cannot raise retail prices without losing volume to premiumized alternatives, and cannot cut costs fast enough to offset input inflation. Unilever's decision to spin off ice cream signals that even legacy CPG giants see frozen desserts as a value-trap; for smaller players, the trap has no exit. Consolidation into a handful of mega-platforms (Mars, Ferrero, Nestlé, Mondelēz) may be inevitable, but that process can be catastrophic for communities and supplier networks that depended on now-acquired regional businesses.",
+  "one_sentence": "GLP-1 drugs crushed the appetite for traditional indulgent snacks just as tariffs made them expensive, leaving only premium, functional, and texture-driven formats viable.",
+  "slug": "snacking-under-siege",
+  "force": "the-health-reckoning",
+  "group": "A · The drug that changed appetite",
+  "nav_title": "Snacking under siege",
+  "cap": false
+ },
+ {
+  "title": "The Sober-Curious Wave",
+  "dek": "Younger Americans drink less; alcohol venues face structural decline as GLP-1 adoption and wellness reshape what gets ordered.",
+  "lede": "Drinking in America just hit a 90-year low. In August 2025, adult drinking participation fell to 54%—the lowest on record. At the same time, GLP-1 medications (used by 10–15% of U.S. adults) are cutting alcohol spending by 30% when out and 22% at home. The result is a sharp split: upscale, experiential venues survive. Everyone else shrinks.",
+  "what_changed": "Gen Z drinks differently than Millennials did at the same age—30% less, to be precise. Since 2019, monthly wine occasions among younger drinkers have collapsed by 34%. This is not a recession effect. It is structural. The Surgeon General issued an advisory in 2025 linking alcohol to nearly 100,000 annual cancer cases, while simultaneously the 2025 Dietary Guidelines removed explicit daily drink limits. That mixed message buried the lede: consumption is falling, and when younger people do drink, they're buying fewer drinks per night (3.9 in 2025 versus 4.4 in 2024) but spending more per drink when they do.\\n\\nThe pain shows up first in volume. Breweries saw production drop 5.1% in 2025 and another 4% in the first half of 2026. In June 2026, 9,344 craft breweries operated in the U.S., down 1.8% year-over-year, with 481 closures in 2025 alone. Wine bars—a $3.4 billion market in 2026—grew just -0.7% that year, having only doubled from $1.9 billion in 2022. On-premise bar and nightclub visits dropped 3.4% in 2025 versus 2024. The bars and nightclubs sector, worth $38.6 billion in 2026, is projected to grow only 1.5% annualized through 2030. Margins have eroded: bar and nightclub margins fell from 6.8% in 2022 to 5.4% in 2026.\\n\\nThe culprit is not one force but three stacked together. First, GLP-1 adoption reduces appetite for alcohol—both the urge to drink and the budget for it. Studies show 30% drops in on-premise alcohol spending and 22% drops in home consumption among GLP-1 users. Second, younger drinkers are deliberately moderating: 65% of Gen Z report intent to reduce alcohol in 2025, citing health and wellness (71%) and price sensitivity (56%). Third, cost inflation is real. Aluminum prices jumped 15% year-over-year in 2025. Tariffs on imported spirits pushed prices 15–20% higher by mid-2026. Labor costs in nightclubs exceed $25/hour in many markets. These forces don't just thin volume; they crush independents.\\n\\nThe industry is bifurcating sharply. Modern wine bars scaled by private equity are growing 6.8% CAGR and achieving 22% higher customer retention than traditional formats by investing in experiential elements—staff expertise, events, ambiance. Among craft breweries, only 54% of surveyed operations reported growth in 2025–2026; 43% reported declines. The winners are large producers with automation and scale, and small operators who pivot to experiential models—taproom-first, food programs, local sourcing. The losers are mid-sized regional breweries and traditional independents squeezed by labor, tariffs, and volume decline. Non-alcoholic beer is the outlier: U.S. NA volume jumped 111% from 2021 to 2025. Alcohol-free cocktails grew 36% in 2025. These are not substitutes; they are admissions that the drinking occasion itself is under pressure.\"",
+  "facts": [
+   {
+    "num": "54%",
+    "txt": "U.S. adult drinking participation rate in August 2025—the lowest in 90 years of Gallup surveys."
+   },
+   {
+    "num": "34%",
+    "txt": "Decline in Gen Z monthly wine occasions since 2019, per Katz Research Group (2025)."
+   },
+   {
+    "num": "30%",
+    "txt": "Reduction in on-premise alcohol spending among GLP-1 users, who now represent 10–15% of U.S. adults (2025)."
+   },
+   {
+    "num": "5.7%",
+    "txt": "Annual production decline in U.S. breweries for 2025–2026, with 481 closures in 2025 alone."
+   },
+   {
+    "num": "22%",
+    "txt": "Higher customer retention for modern, experiential wine bars scaled by private equity versus traditional formats (2026)."
+   },
+   {
+    "num": "65%",
+    "txt": "Share of Gen Z drinkers who report intent to reduce alcohol consumption in 2025, citing health (71%) and price (56%)."
+   },
+   {
+    "num": "15–20%",
+    "txt": "Price increase on imported spirits by mid-2026 due to tariff pass-through."
+   },
+   {
+    "num": "111%",
+    "txt": "Growth in U.S. non-alcoholic beer volume from 2021 to 2025."
+   }
+  ],
+  "evidence": [
+   "Wine bars (part of $3.4B market, 2026): customer bifurcation accelerating—Gen Z wine occasions down 34% since 2019; affluent 55+ remain loyal; GLP-1 users cut on-premise spending 30%.",
+   "Breweries (9,344 operating in June 2026, down 1.8% YoY): production fell 5.1% in 2025 and 4% H1 2026; only 54% of surveyed breweries report growth; 481 closures in 2025.",
+   "Bars and nightclubs ($38.6B market, 2026): on-premise visits dropped 3.4% in 2025; margins fell from 6.8% (2022) to 5.4% (2026); Gen Z showing 'selective premiumization'—fewer drinks per night (3.9 vs 4.4), higher per-drink spend.",
+   "Tariffs: aluminum up 15% YoY in 2025; imported spirits 15–20% higher by mid-2026; labor costs exceed $25/hour, squeezing mid-sized breweries and traditional bars.",
+   "Non-alcoholic alternatives: NA beer volume jumped 111% from 2021–2025; alcohol-free cocktails up 36% in 2025; experiential venues adding themed nights and alcohol-free offerings growing fastest."
+  ],
+  "win": "Upscale, experiential venues win. Private-equity-scaled wine bars are growing 6.8% CAGR and achieving 22% higher retention by layering in expertise, events, and ambiance. Large national breweries and spirits makers with automation and scale are consolidating market share and shifting portfolio weight to premium and non-alcoholic segments. Themed bars surged 32.9% in 2025. Alcohol-free cocktail venues and non-alcoholic beer makers are the only beverage category in double-digit growth. The affluent 55+ demographic remains loyal to established venues but is aging. The winners are those who can charge more per drink or occasion and build loyalty through experience, not volume.",
+  "lose": "Mid-sized regional breweries and traditional independent bars and wine bars lose. They face a triple squeeze: volume decline, cost inflation they cannot pass through, and labor retention challenges. Smaller breweries without economies of scale watch labor costs exceed $25/hour, tariff-driven packaging costs (aluminum, cans, bottles) jump 15%+, and consumer traffic decline 3–5% annually. Gen Z price sensitivity (56% cite it as a reason to cut back) destroys the lower-end venue model. Independent wine bars stay profitable only by serving older, affluent customers—a shrinking demographic. Businesses filing for insolvency or Chapter 11 restructuring in 2025–2026 include Alamo Beer, Duck-Rabbit Craft Brewery, and Nebraska Brewing Company. The independents that survive pivot hard to experiential or close.",
+  "worry": "The single biggest risk is that the decline is structural, not cyclical—meaning no recovery on the horizon. Gen Z drinks 30% less than Millennials at the same age. Adult drinking hit a 90-year low in August 2025 and is not rebounding. GLP-1 adoption is still climbing (now 10–15% of adults, but expected to reach 25%+ within five years). Even affluent drinkers are moderating frequency and occasions. If younger cohorts do not increase consumption as they age (the historical norm breaks), the total addressable market shrinks permanently. Tariffs and labor costs may ease, but volume will not return. The margin compression is durable.",
+  "one_sentence": "Drinking is becoming a premium, experiential niche rather than a volume business, leaving mid-market venues and breweries structurally squeezed.",
+  "slug": "sober-curious",
+  "force": "the-health-reckoning",
+  "group": "B · The retreat from alcohol",
+  "nav_title": "The sober-curious wave",
+  "cap": false
+ },
+ {
+  "title": "Spirits in Contraction",
+  "dek": "The bourbon glut, tariff wars, and younger drinkers opting out are turning a 20-year boom into a crisis of capacity and survival.",
+  "one_sentence": "Premium spirits face a perfect storm: 16+ million barrels in storage, tariffs cutting exports by a third, and Gen Z shifting to lower-alcohol drinks.",
+  "lede": "For two decades, American whiskey rode a wave of premiumization. Distilleries expanded to meet demand, aged barrels accumulated, and craft operations multiplied. But 2023 was the inflection. Whiskey sales went negative for the first time in 20+ years. By 2025, the industry wasn't just cooling—it was contracting hard, caught between massive unsold inventory, tariff cliffs, and younger consumers who'd simply stopped drinking spirits the way their parents did.",
+  "what_changed": "The boom built the glut. Between 2018 and 2022, the whiskey industry grew at 6%+ per year, convincing distilleries they needed to keep expanding. Production ramped, barrels piled up in Kentucky warehouses, aged inventory grew. Then demand flattened. Bourbon whiskey sales fell 4.9% by volume and 5.1% by revenue in the 12 months ending July 2025. Major brands cratered: Bulleit down 7%, Wild Turkey down 8%. The industry now sits on 16+ million barrels—a record high—with no clear off-ramp. Prices for aged barrels have fallen 30–40% in four years. Jim Beam, a century-old producer, halted production entirely at its flagship Clermont, Kentucky facility for all of 2026. MGP, one of the largest suppliers, slashed output and watched gross profits fall 68%.\n\nBut the tariff crisis is what's turned contraction into reckoning. American whiskey exports fell 3.8% to $2.37 billion in 2025. The EU's 25% retaliatory tariff—briefly suspended—didn't rekindle demand; it just moved timelines and costs. In March 2025, Canada banned US spirits from provincial retailers. Then in August 2026, the Trump administration imposed a 50% tariff on Canadian spirits, and the spiral tightened. For distilleries that counted on international sales, especially the premium segment that feeds a global luxury market, these tariffs aren't temporary friction—they're a reboot of supply relationships, pricing, and market share. Whiskey that can't ship at a profit doesn't get made.\n\nThe third wave hit distribution. RNDC, the second-largest spirits distributor in America, filed Chapter 11 bankruptcy in July 2026 with liabilities between $1 and $10 billion. The firm owed creditors roughly $400 million and lost $3 billion in annual supplier relationships in the prior three years. That's not a routine financial reset—that's systemic. Every distillery had to renegotiate distribution with Reyes, Breakthru, Martignetti, or Columbia as RNDC's book was carved up. Smaller producers scrambled. New players like Siren Spirits Group, a women-owned collective, emerged to pool distribution power. Meanwhile, younger drinkers (Gen Z) had already shifted ground. IWSR forecasted a 0.4% global beverage alcohol decline for 2025. The sober-curious wave, GLP-1 adoption, and the retreat from sugar hit spirits uniquely hard: there's no \"light\" bourbon, no \"functional\" whiskey. What grew instead was spirit-based ready-to-drink (RTD) cocktails, which jumped 16.4% in 2025 to $3.8 billion and are projected to grow 20.5% annually through 2033. Those capture younger, convenience-seeking drinkers who want pre-made, portion-controlled drinks. But RTDs eat margin.\n\nThe market size tells the story. The distilleries industry, a $36.8 billion sector in 2024, is expected to shrink to $21.7 billion revenue by 2026. Margins fell from 21.3% in 2021 to a projected 19.3% by 2026 as wage pressure and competition erode returns. The bourbon and whiskey segment specifically—$6.3 billion in 2025—contracted 2.8% year over year. Craft distillers, while growing in raw count to 3,069 by 2024, face severe margin pressure and fight for shelf space against entrenched brands. The industry is shedding jobs: Brown-Forman, a pillar, cut 12% of its workforce in 2025. Those 1.2 million jobs the spirits industry supports aren't safe.",
+  "facts": [
+   {
+    "num": "16.1 million",
+    "txt": "barrels aging in Kentucky warehouses (Jan 2025), the highest level ever recorded, as demand collapsed and production continued",
+    "warn": true
+   },
+   {
+    "num": "4.9% / 5.1%",
+    "txt": "bourbon whiskey volume and revenue decline in the 12 months ending July 2025, with major brands down 7–8%",
+    "warn": true
+   },
+   {
+    "num": "2026",
+    "txt": "year Jim Beam halted production at its main Clermont, Kentucky facility to manage the inventory glut",
+    "warn": true
+   },
+   {
+    "num": "30–40%",
+    "txt": "price decline for aged whiskey barrels over four years (2021–2025) as oversupply depressed values",
+    "warn": true
+   },
+   {
+    "num": "$2.37 billion",
+    "txt": "US whiskey export revenue in 2025, down 3.8% YoY as tariffs and weaker global demand squeezed shipments",
+    "warn": false
+   },
+   {
+    "num": "68%",
+    "txt": "gross profit decline at MGP, a major whiskey supplier, after slashing production in 2024–2025",
+    "warn": true
+   },
+   {
+    "num": "16.4%",
+    "txt": "growth in spirit-based ready-to-drink (RTD) cocktails in 2025, reaching $3.8 billion as younger drinkers shift away from traditional spirits",
+    "warn": false
+   },
+   {
+    "num": "July 2026",
+    "txt": "RNDC, the second-largest US spirits distributor, filed Chapter 11 bankruptcy with $1–10B liabilities, forcing every distillery to renegotiate distribution",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Bourbon distilleries: 16+ million barrels in storage (Jan 2025), Jim Beam halts all production for 2026, and barrel prices fell 30–40% in four years",
+   "Whiskey exports: fell 3.8% to $2.37 billion in 2025 as tariffs (25% EU, 50% Canada as of Aug 2026) cut global sales",
+   "Distribution crisis: RNDC bankruptcy in July 2026 with $1–10B liabilities and $400M in unpaid creditors disrupted every supplier relationship",
+   "Younger drinkers: IWSR forecasts 0.4% global beverage alcohol decline for 2025; spirit-based RTDs grow 16.4% (capturing convenience-seekers, not core spirits volume)",
+   "Industry contraction: Bourbon whiskey segment at $6.3B (2025), down 2.8% YoY; distilleries industry expected to shrink from $36.8B (2024) to $21.7B (2026)"
+  ],
+  "win": "Super-premium whiskey producers and owner-operators can survive if they have direct-to-consumer channels and deep supply chains. They're competing on quality and scarcity, not volume. Tequila and mezcal benefit by default—they don't face bourbon's specific glut, and younger drinkers see them as fresher, less dad-coded. Ready-to-drink spirits, especially those branded for women and Gen Z convenience, are winning hard: RTD cocktails posted 16.4% growth in 2025 and project 20.5% annual growth through 2033. Acquisitions by large firms like Gallo (buying Four Roses for up to $775M) and Bacardi (taking full control of Teeling Irish Whiskey) signal that size and balance-sheet strength matter when the industry contracts. New distribution collectives like Siren Spirits Group emerge to pool power and avoid the RNDC trap. Spirits that don't age (vodka, gin, clear spirits) dodge the barrel-glut problem, though tariffs still hurt exports.",
+  "lose": "Small and mid-sized craft distilleries face erasure. Three thousand craft distillers operate today, but profitability has evaporated. They compete for shelf space, fight tariff costs, and can't leverage scale like Brown-Forman or Diageo. Bourbon producers tied to export markets watch 19% export declines (2025) and 50% tariff threats (2026) swallow margins. Traditional on-premise channels (bars, restaurants) are losing share to off-premise retail, squeezing the operators who built relationships on handshake deals. Brown-Forman, an icon, cut 12% of its workforce in 2025, and a failed $30B merger with Pernod Ricard signaled even giants are under stress. Wholesalers and distributors got hammered: RNDC's bankruptcy in July 2026 was a $1–10B crater that reorganized the entire supply chain overnight. Regional distributors and smaller suppliers lost $3 billion in annual relationships. Kentucky distillers tied to barrel aging watch prices fall 30–40% in four years with no recovery in sight.",
+  "worry": "The tariff floor could stay permanent. If the 50% tariff on Canadian spirits and the 25% suspension on EU whiskey expire without renewal (the EU tariff suspension ends Feb 5, 2026, and was not renewed as of July 2026), international sales—a lifeline for premium producers—vanish. Distilleries built on export demand face stranded assets: aged barrels worth half what they cost to produce. The barrel glut is self-reinforcing. As long as 16+ million barrels sit unsold, prices stay depressed, and aging inventory ties up capital that smaller producers can't afford to lock up. There's no clear mechanism for managed drawdown. If even one major distillery fails (Brown-Forman is stressed, Sazerac rejected a $15B bid), cascade effects ripple through suppliers, distributors, and retailers. The shift to RTDs and lower-alcohol drinks is structural, not cyclical—it won't reverse. Any recovery depends on production staying cut and inventory slowly bleeding off. If demand doesn't return, the industry is smaller, permanently.",
+  "slug": "spirits-in-contraction",
+  "force": "the-health-reckoning",
+  "group": "B · The retreat from alcohol",
+  "nav_title": "Spirits in contraction",
+  "cap": false
+ },
+ {
+  "title": "Functional & Better-for-You Drinks",
+  "dek": "Energy drinks explode past $23 billion while juice rots; only sugar-free or premium survive.",
+  "lede": "The beverage market is splitting in two. Sugar-free energy drinks are booming—hitting $23.9 billion in 2025—while traditional juice has flatlined at $13.6 billion and quietly started losing customers. The dividing line is simple: drinks people feel good about buying versus the ones they've stopped believing in.",
+  "what_changed": "Energy drinks have nearly doubled since 2022, growing from $11.7 billion to $23.9 billion by 2025, but the real story is not growth—it's the category's complete reinvention. Sugar-free variants surpassed full-sugar drinks in dollar sales for the first time, driven by the fact that 70 percent of consumers now actively try to limit sugar intake. This is not a niche preference. Red Bull felt the pressure and launched Red Bull Zero in November 2024. Celsius didn't just capitalize on this shift; it went on an acquisition spree. The company paid $1.8 billion for Alani Nu in April 2025, a female-focused Gen Z energy drink brand, then secured Rockstar through a PepsiCo distribution deal in September 2025. The message was clear: the growth market was no longer men grabbing a can at a gas station—it was younger women and health-conscious consumers who'd been locked out of energy drinks because traditional options felt reckless.\n\nJuice, by contrast, is trapped in structural decline. Americans cut juice consumption by 20 percent between 2019 and 2024, a staggering shift driven by a simple fact: people stopped believing juice was healthy. The 2025–2030 federal Dietary Guidelines now actually warn against 100 percent juice, and in August 2025 the FDA proposed lowering the sugar standard for orange juice from 10.5 percent to 10 percent Brix—the first downward cut since 1963. This was not random regulatory tinkering; it reflected both relentless health pressure and Florida's decimated citrus crop, which has been ravaged by citrus greening for years. Within the juice category, the shape of survival is clear: 100 percent orange juice fell from 67 percent of beverage share in 2022 to 62 percent by 2024, while cheaper orange-flavored drinks steal market share. Cold-pressed and premium juice segments are the only growth story, expanding at 8 percent annually from 2025 to 2030, because consumers willing to pay more still exist—they just want minimal processing and no added sugar. Brands like Naked Juice captured this shift early, and new premium entrants keep launching.\n\nTariffs made the damage worse. Starting in March 2025, a 25 percent tariff on Mexican imports hit the industry first. In April 2025, aluminum can tariffs of 25 percent kicked in. Then in August 2025, a 15 percent duty on EU brands landed. These layered tariffs squeezed margins exactly when juice makers were already bleeding volume and juice workers at the 318 establishments (and 23,500 employees) in the industry faced pressure to cut costs. Energy drink makers fared better because they operate at higher margins and their growth narrative let them absorb cost increases. The contrast in employment tells the story: energy drink businesses climbed 10.6 year-over-year to 251 establishments by 2025, with employment growing 10.3 percent annually from 2020 to 2025 to nearly 39,000 workers. Juice employment was essentially flat over the same period, and the number of juice businesses either held steady or contracted. Distribution also shifted: convenience stores still dominate energy drink sales at 65.5 percent, but warehouse clubs now capture 19 percent as bulk-buying consumers gravitate there, and supermarkets hold 10.9 percent. This mirrors the broader consumer behavior: people are moving from impulse to planned purchase.",
+  "facts": [
+   {
+    "num": "$23.9B",
+    "txt": "US energy drink market in 2025, up from $11.7B in 2022—nearly doubled in three years as sugar-free positioning became mandatory.",
+    "warn": false
+   },
+   {
+    "num": "70%",
+    "txt": "Of consumers actively trying to limit sugar intake as of 2025, the core driver behind energy drink category reinvention.",
+    "warn": false
+   },
+   {
+    "num": "$1.8B",
+    "txt": "Celsius paid for Alani Nu in April 2025, signaling acquisition wars to capture younger women and health-conscious energy drinkers.",
+    "warn": false
+   },
+   {
+    "num": "20%",
+    "txt": "Decline in US juice consumption between 2019 and 2024, reflecting consumer belief that juice is just another sugary drink.",
+    "warn": true
+   },
+   {
+    "num": "10% Brix",
+    "txt": "FDA's proposed orange juice sugar standard in August 2025, down from 10.5% for the first time since 1963, driven by health and Florida crop pressures.",
+    "warn": true
+   },
+   {
+    "num": "67% to 62%",
+    "txt": "100 percent orange juice's share of beverage sales fell from 2022 to 2024 while cheaper orange-flavored drinks stole market share.",
+    "warn": true
+   },
+   {
+    "num": "8% annually",
+    "txt": "Growth rate of cold-pressed and premium juice segments (2025–2030), the only growth lane in a collapsing category.",
+    "warn": false
+   },
+   {
+    "num": "25-25-15%",
+    "txt": "Tariff cascade on Mexican imports (March 2025), aluminum cans (April 2025), and EU brands (August 2025) squeezed juice maker margins during demand collapse.",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Energy drinks: $23.9 billion market in 2025, up from $11.7B in 2022, with 251 establishments and 38,954 employees (2025), fueled by 70% of consumers seeking to limit sugar intake",
+   "Juice: $13.6 billion market in 2026, flat from $13.0B in 2022, with 318 establishments and 23,500 employees, hit by 20% consumption decline 2019–2024",
+   "Celsius: Paid $1.8B for Alani Nu (April 2025) and secured Rockstar via PepsiCo distribution (September 2025), capturing female and health-conscious consumers",
+   "FDA: Proposed orange juice sugar standard cut to 10% Brix in August 2025, first reduction since 1963, reflecting health pressure and Florida's citrus greening crisis",
+   "Tariffs: 25% on Mexican juice imports (March 2025), 25% on aluminum cans (April 2025), 15% on EU brands (August 2025), compressing margins across the collapsed juice category"
+  ],
+  "win": "Celsius and other sugar-free energy drink makers are winning decisively. They control the growth narrative and can charge premium prices because consumers now actively want their products and believe in them. Celsius's billion-dollar acquisitions signal that the company is capturing market share from traditional energy and from people who'd never bought energy drinks before—women, fitness enthusiasts, and health-conscious drinkers. Premium and cold-pressed juice makers also win, expanding at 8 percent annually, because they're positioned as a different category altogether. Warehouse clubs and supermarkets also gain, capturing more energy drink sales as consumers trade convenience-store impulse buys for planned purchases.",
+  "lose": "Traditional orange juice makers are squeezed on three sides: consumption collapsed 20 percent since 2019, federal dietary guidelines now warn against their core product, and tariffs on Mexican imports, aluminum cans, and EU brands hit them simultaneously. Large juice manufacturers face structural decline and margin pressure. The 318 juice establishments and 23,500 workers across the industry are not growing jobs the way energy drink makers are (growing 10.3 percent annually). Convenience stores also lose as bulk-buying consumers shift to warehouse clubs. And Florida's citrus growers remain in crisis, with production barely recovering and the state having to invest $140 million in replanting efforts that won't yield for 3–5 years.",
+  "worry": "The biggest risk is regulatory overshoot against all sugar-containing beverages, not just juice. The FDA's August 2025 move to cut orange juice sugar standards signals that health pressure is now baked into policy, and if standards keep tightening, even sugar-free energy drinks could face new scrutiny—artificial sweeteners, caffeine content, or marketing claims could become targets. For the juice industry, the risk is permanent demand destruction: if a generation of consumers now believes juice is just sugar, that belief may never reverse even if products improve. For energy drink makers, the risk is that acquisition costs will spiral beyond the cash flows these brands actually generate, especially if growth slows. Employment in juice (23,500 workers) faces real layoff risk if consolidation accelerates, and Florida's citrus industry remains vulnerable to disease and tariff policy shifts.",
+  "one_sentence": "Sugar-free energy drinks are the only real growth story in beverages, doubling to $23.9 billion as Celsius and rivals acquire health-conscious consumers away from traditional energy and juice, while orange juice collapses under health skepticism, tariffs, and federal regulatory pressure.",
+  "slug": "functional-drinks",
+  "force": "the-health-reckoning",
+  "group": "C · The health-aligned winners",
+  "nav_title": "Functional & better-for-you drinks",
+  "cap": false
+ },
+ {
+  "title": "When diet meets convenience",
+  "dek": "The health-conscious shift squeezes subscription fatigue from meal kits while forcing frozen-food makers to compete on speed, not nutrition—and tariffs are locking in higher costs for years.",
+  "lede": "GLP-1 drugs, the sober-curious wave, and the pull toward whole foods are thinning out the middle of packaged eating. What survives: either deeply convenient (frozen, ready-to-eat) or genuinely premium and health-forward (fresh meal kits, organic prepared). The subscriber model is collapsing under churn, and tariffs are making everything more expensive—especially the healthy options hardest to import.",
+  "what_changed": "Meal kit delivery, which promised the perfect marriage of health and convenience, is suffocating under its own subscription model. HelloFresh owned three-quarters of the US market in 2025, yet its revenue fell 9% that year because total orders dropped 12.3%—customers are simply exhausted. Monthly churn sits at a brutal 10.8% (73.6% annually), driven by meal fatigue, menu repetition (33% of cancellations cite boredom), and the simple fact that grocery apps like Instacart are growing 14% year-over-year and offer cheaper alternatives. Blue Apron, no longer even public, abandoned subscriptions entirely in 2026 and pivoted to à la carte ordering. HelloFresh itself is pivoting hard into ready-to-eat meals through its Factor brand, which now captures over 50% of the US RTE market. The message is clear: health-conscious customers still exist, but they don't want to be locked into a commitment or stuck cooking the same eight meals on repeat.\n\nWhat is actually winning, then, is convenience in its rawest form—especially frozen. The frozen food industry grew 4.0% compound annually from 2021 to 2026 and now sits at $50.7 billion. But here is the shift: convenience has overtaken health as the primary reason people buy frozen (61% of shoppers in 2026 vs. 52% in 2025). Frozen meals are no longer sold as nutritious alternatives. They are sold as time-savers, period. Packaged brands are doubling down on new flavors and formats—Conagra alone launched over 50 new frozen products in June 2025—precisely because private-label frozen food hit an all-time high of 23.8% market share in the first half of 2026, up from 23.5% in 2025. The conversation has moved from \"is this healthy?\" to \"can I eat in 8 minutes?\"\n\nThis pivot comes as tariffs are crushing the cost structure of both industries. Steel and aluminum tariffs surged from $1.6 billion in 2024 to $7.79 billion in 2025—all of it flowing into packaging costs for frozen pizzas and packaged meals. Imported seafood, frozen fries, and vegetables face new duties spreading 12 to 18 months through the supply chain, meaning the real retail pain hits in late 2026 and into 2027. Meanwhile, labor scarcity is forcing automation: cobots at $25,000 to $40,000 with 18-month ROI are now standard in large plants, and 40% of frozen-food plants are running digital twins to optimize throughput. This means two things for the consumer. First, prices for convenient frozen meals will rise sharply over the next 18 months. Second, only the companies with scale (to absorb tariff costs and automate aggressively) and brand power (to justify higher retail prices) will survive the shakeout.",
+  "facts": [
+   {
+    "num": "$9.1B",
+    "txt": "US meal-kit-delivery market size in 2025, up from $6.9B in 2022; but growth stalled at 2.8% as HelloFresh's 74% market share began cracking under 10.8% monthly churn."
+   },
+   {
+    "num": "12.3%",
+    "txt": "Drop in total orders at HelloFresh in 2025, the primary driver of 9% revenue decline in constant currency that year—customers voting with their feet.",
+    "warn": true
+   },
+   {
+    "num": "50%+",
+    "txt": "Market share of ready-to-eat meals captured by Factor (HelloFresh's RTE brand) in the US, signaling the collapse of cook-at-home and rise of grab-and-heat convenience."
+   },
+   {
+    "num": "$50.7B",
+    "txt": "US frozen food manufacturing market size in 2026, growing 4.0% compound annually from 2021–2026—the one category with genuine growth amid subscription collapse."
+   },
+   {
+    "num": "61%",
+    "txt": "Percentage of frozen-food shoppers citing convenience as primary motivation in 2026, up from 52% in 2025—health has been replaced by speed as the selling point."
+   },
+   {
+    "num": "$7.79B",
+    "txt": "US tariff cost on steel and aluminum in 2025, up from $1.6B in 2024; these costs flow directly into packaging for frozen meals and are expected to peak in late 2026 and early 2027.",
+    "warn": true
+   },
+   {
+    "num": "23.8%",
+    "txt": "Private-label frozen food market share in H1 2026 (all-time high), up from 23.5% in 2025—brand-name manufacturers are losing shelf space to cheaper store brands."
+   },
+   {
+    "num": "73.6%",
+    "txt": "Annualized churn rate for HelloFresh subscribers (10.8% monthly), with 33% citing menu repetition and 29% citing high price versus grocery alternatives—the subscription model is broken.",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Meal-kit market in terminal decline: HelloFresh revenue fell 9% in constant currency in 2025 while total orders dropped 12.3%, as monthly churn hit 10.8% and customers defected to cheaper grocery apps like Instacart (14% GMV growth in 2026).",
+   "Frozen food convenience dominates: convenience overtook health as primary shopping motivation (61% in 2026 vs. 52% in 2025), driving demand for ready-heat meals rather than fresh-meal-kit subscriptions.",
+   "Tariff shock hitting hard: steel and aluminum tariffs surged from $1.6B in 2024 to $7.79B in 2025, with frozen-food packaging costs and imported ingredients facing 12-18 month supply-chain delays, peaking in late 2026.",
+   "Private label stealing shelf space: private-label frozen food hit 23.8% market share in H1 2026 (all-time high), squeezing branded manufacturers as price pressure mounts; Conagra launched 50+ new frozen products in June 2025 to fight back.",
+   "Ready-to-eat meals emerging as growth vector: Factor (HelloFresh's RTE brand) captured 50%+ US market share; HelloFresh opened a 900-job Factor production facility in Germany in Q1 2026, abandoning cook-at-home as its core business model."
+  ],
+  "win": "Ready-to-eat meal brands (especially HelloFresh's Factor) are winning big by moving away from the subscription trap. Conagra, Nestlé, and other scaled frozen-food makers with brand equity and automation capacity are holding margin and shelf space. Grocery delivery apps like Instacart and DoorDash are the real victors—growing 14%+ by offering cheaper, more flexible alternatives to subscriptions. Retailers benefit from all this: convenience drives traffic, and private-label frozen meals are taking share precisely because they undercut branded competitors on price.",
+  "lose": "The meal-kit subscription model is hemorrhaging customers and is basically dead for cook-at-home. Blue Apron, which fought to stay public, gave up and switched to à la carte. Mid-market frozen and packaged brands without scale or automation are getting squeezed from both sides: tariffs are raising their input costs, private label is eating their margin, and they lack the brand power to pass those costs to the consumer. Smaller, newer health-forward brands (plant-based frozen, specialized diet meals) are stalling—plant-based frozen products in particular are not moving units. The customer willing to pay a premium for tailored, fresh, health-conscious meals exists, but she is not subscribing to a box.",
+  "worry": "Tariff costs are locked in for 12 to 18 months and will peak in late 2026 and into 2027. Consumers are not going to accept a 15-20% price hike on frozen dinners, so the real squeeze is on margin, not volume. Smaller manufacturers will be forced to cut corners (cheaper proteins, fewer vegetables, thinner packaging) or exit. The bigger risk: if tariffs persist or ratchet higher, the supply chain for frozen seafood, fries, and vegetables will hollow out, forcing more domestic sourcing at higher cost. By 2027, the frozen-food aisle will be dominated by two tiers—private label (cheap, basic) and premium branded (Conagra, Nestlé, premium RTE). The middle, which is most of the market today, is going to vanish.",
+  "one_sentence": "The health-conscious shift kills meal-kit subscriptions but props up convenience-first frozen food—until tariffs price all but the cheapest and the premium out of reach.",
+  "slug": "the-diet-rewires",
+  "force": "the-health-reckoning",
+  "group": "C · The health-aligned winners",
+  "nav_title": "When diet meets convenience",
+  "cap": false
+ },
+ {
+  "title": "What you drink now",
+  "dek": "Coffee and dairy face margin collapse; only health-aligned and premium survive.",
+  "one_sentence": "When arabica costs jumped 18.5% and milk prices collapsed, only premium chains and health-focused brands held volume.",
+  "lede": "Coffee shops and dairies are getting crushed. Arabica prices jumped 18.5% year-over-year by April 2026, tariffs keep whipsawing supply chains, and consumers won't absorb the cost. Milk prices crashed to $19.25 per hundredweight in 2026 from much higher peaks, bankruptcies surged 46% in 2025, and plant-based alternatives now own over 60% of the organic dairy market. In this squeeze, only two kinds of business survive: the premium chain that can afford to invest in technology and experience, or the health-aligned niche that owns a specific reason people choose it.",
+  "what_changed": "The coffee and dairy industries entered a margin death spiral in 2025-2026. For coffee shops, it started with commodity shocks: Arabica prices surged 21% year-over-year in August 2025 and stayed 18.5% higher in April 2026 compared to the year before. Then tariffs arrived—10% to 50% rates in spring 2025, removed in November, then 10% reinstated in February 2026—creating a constant whipsaw that left operators unable to predict costs or lock in pricing. Starbucks, the category's largest player, saw North America operating income fall 41% to $3.2 billion in fiscal 2025 from $5.4 billion the year before. The company tried to compensate by investing $500 million in extra shifts (500,000 additional hours in Q2 2025 alone) to handle mobile order congestion, but that only burned cash faster. Three significant bankruptcies—Compass Coffee (which closed 10 of 30 locations), Red Bay Coffee, and The Blend—signaled that independents and fast-growth concepts had no margin to absorb the shock.\n\nDairy faced an even sharper cliff. Milk prices collapsed from 2022 highs to $21.05 per hundredweight in 2025, then were forecast to fall further to $19.25 per hundredweight in 2026. This deflation squeezed producer margins while production actually rose 1.3% in 2026. Dairy farm bankruptcies surged 46% year-over-year in 2025, with 315 Chapter 12 filings and another 185 in the top 24 dairy states alone—structural consolidation is no longer debatable. Wisconsin, the nation's second-largest dairy state, has lost 76% of its herds over decades; what remains is consolidating at speed. Meanwhile, plant-based alternatives grew 13.8% annually and captured 62.8% of the organic dairy segment by 2026, fracturing the market. Labor made it worse: the US shed 155,000 agricultural workers between March and July 2025, and only about 5% of US farms had robotic milking versus 20% to 25% in Denmark and the Netherlands.\n\nInto this wreckage came tariffs. In July 2026, the Trump administration imposed 50% duties on select Canadian dairy imports (whey, powders, casein) while exempting cheese and fluid milk. The tariff created winners and losers overnight: cheese demand stayed resilient (24.5% market share), but powders and whey—inputs for premium infant formula, protein products, and supplement brands—faced a cost shock that only large players could absorb. Consolidation accelerated: Leprino Foods closed old California facilities (Lemoore and Tracy) and opened a high-capacity plant in Lubbock, Texas. General Mills divested Yoplait yogurt and :ratio brands in 2025 for $2.1 billion to Lactalis USA, reshaping North American yogurt competition around scale and efficiency. The coffee industry did the same when Keurig Dr Pepper closed an $18 billion acquisition of JDE Peet's in April 2026, creating Global Coffee Co. with 50+ brands and $16 billion in sales—the world's largest pure-play coffee company.\n\nWhat made it through this shakeout were two types: brands that commanded premium pricing because they offered health, performance, or experience worth the cost, or mega-players that could absorb tariffs and commodity swings through scale and vertical integration. Coffee shops that pivoted to cold brew, adaptogenic blends, or high-protein formats kept customers despite 59% of consumers buying via drive-thru and 38% via app in fall 2025. Dairy brands with a health story—organic, A2 casein, grass-fed, probiotic yogurt—captured margin while commodity milk foundered. The mass-market, low-margin, volume-dependent middle got deleted.",
+  "facts": [
+   {
+    "num": "18.5%",
+    "txt": "Arabica coffee prices were 18.5% higher in April 2026 compared to a year earlier (April 2025), after surging 21% year-over-year in August 2025, far outpacing consumer tolerance.",
+    "warn": true
+   },
+   {
+    "num": "$19.25/cwt",
+    "txt": "Milk prices were forecast to fall to $19.25 per hundredweight in 2026, down from $21.05/cwt in 2025, collapsing producer margins despite rising production of 1.3% in 2026.",
+    "warn": true
+   },
+   {
+    "num": "46%",
+    "txt": "Chapter 12 dairy farm bankruptcies surged 46% year-over-year in 2025, with 315 filings nationally and 185 additional filings in the top 24 dairy states, signaling structural consolidation.",
+    "warn": true
+   },
+   {
+    "num": "$3.2B",
+    "txt": "Starbucks North America operating income fell 41% to $3.2 billion in fiscal 2025 from $5.4 billion in fiscal 2024 due to commodity costs, tariffs, and labor investments totaling $500 million in Q2 2025 alone.",
+    "warn": true
+   },
+   {
+    "num": "62.8%",
+    "txt": "Plant-based dairy alternatives captured 62.8% of the organic dairy segment by 2026 while growing at 13.8% CAGR, fragmenting the traditional milk market.",
+    "warn": false
+   },
+   {
+    "num": "10 of 30",
+    "txt": "Compass Coffee closed 10 of its 30 locations after filing for Chapter 11 bankruptcy in early 2026, acquired by Nerò for $2.9 million in a fire-sale consolidation move.",
+    "warn": true
+   },
+   {
+    "num": "76%",
+    "txt": "Wisconsin, the nation's second-largest dairy state, has lost 76% of its dairy herds over recent decades, with consolidation now accelerating as remaining farms scale or exit.",
+    "warn": true
+   },
+   {
+    "num": "$18B",
+    "txt": "Keurig Dr Pepper closed an $18 billion acquisition of JDE Peet's in April 2026, creating Global Coffee Co. with 50+ brands and $16 billion in annual sales, the world's largest pure-play coffee company.",
+    "warn": false
+   }
+  ],
+  "evidence": [
+   "Coffee shops: Arabica prices 18.5% higher in April 2026 than April 2025; Starbucks North America operating income fell 41% to $3.2 billion (FY2025) from $5.4 billion (FY2024).",
+   "Dairy farms: Milk prices forecast at $19.25 per hundredweight in 2026, down from $21.05/cwt in 2025; Chapter 12 bankruptcies surged 46% to 315 filings in 2025.",
+   "Consolidation: Keurig acquired JDE Peet's for $18 billion (April 2026); Leprino closed California plants and opened Lubbock, Texas expansion (2025-2026).",
+   "Plant-based growth: Dairy alternatives grew 13.8% CAGR and captured 62.8% of organic dairy by 2026, fragmenting traditional milk volumes.",
+   "Tariffs: Trump administration imposed 50% duties on Canadian whey, powders, casein in July 2026 (effective August 2026), exempting cheese and fluid milk."
+  ],
+  "win": "Premium coffee chains like Starbucks that invested in technology (mobile orders 38% of sales in fall 2025, drive-thru 59%) and could absorb commodity and labor costs survived. Health-focused dairy brands—organic, A2 casein, grass-fed, probiotic yogurt—captured margin while commodity milk crashed. Mega-consolidators like Keurig Dr Pepper and Lactalis USA obtained pricing power and tariff absorption capacity that smaller competitors lacked. General Mills divested Yoplait to Lactalis for $2.1 billion, betting that scale and health positioning trumped mass-market yogurt.",
+  "lose": "Independents and fast-growth coffee concepts (Compass, Red Bay, The Blend) had no margin buffer to absorb 21% commodity spikes and tariff whipsaw. Dairy farmers producing commodity milk faced collapsing prices ($19.25/cwt in 2026) while production rose and competition from plant-based alternatives (62.8% of organic) picked off their volume. Small cheese makers and milk processors lacked the scale to navigate 50% tariffs on whey and powders. Wisconsin dairy herds, already down 76% over decades, shed farms faster as consolidation accelerated and labor remained unavailable (only 5% mechanized versus 20-25% in Denmark).",
+  "worry": "If commodity prices don't rebound and tariffs persist into 2027, the coffee and dairy industries risk permanent volume loss to at-home consumption, convenience QSRs (which poached coffee sales via drive-thru automation), and plant-based alternatives. Coffee shops' narrow margins mean any further tariff spike could trigger a chain-reaction bankruptcy of regional players and accelerate consolidation to the top three-to-five global chains. For dairy, the risk is structural: consolidation eliminates farm diversity and pushes remaining producers into commodity-scale competition, while plant-based alternatives keep chipping away at premium segments. If the administration extends tariffs to cheese and fluid milk in 2027, consumer prices could spike and trigger lasting demand destruction.",
+  "slug": "what-you-drink-now",
+  "force": "the-health-reckoning",
+  "group": "C · The health-aligned winners",
+  "nav_title": "What you drink now",
+  "cap": false
+ },
+ {
+  "title": "Fast Food's Reckoning",
+  "dek": "GLP-1, labor floors, and tariff-driven inflation squeeze margin so hard that chains abandon traffic for upsells, reformulate in desperation, or vanish.",
+  "lede": "Fast food chains face a three-front collapse. The appetite-suppressing effect of GLP-1 drugs is real enough that dinner spending at these chains dropped 6% among regular users—households with someone taking GLP-1 cut restaurant spending an average 5.3%. At the same time, labor costs have jumped structurally: California's $20/hour minimum for national chains (April 2024) forced operators to raise menu prices 8–12%, while tariffs and commodity inflation pushed food costs up another 34% above pre-pandemic levels. Customers aren't coming as often (traffic fell 0.3% in 2025, accelerating to -2% in Q4 2025), and when they do, they're less likely to spend big. The industry that built its empire on affordability and frequency is now locked in a death grip between shrinking visits and rising costs.",
+  "what_changed": "The $423.7 billion US fast food industry grew just 0.7% in 2026, dragging a structural decline backward from the 1.2% CAGR posted between 2021 and 2026. What changed is that the margin (already thin at 5.1% in 2021) collapsed under three simultaneous pressures. First came the wage floor: California's FAST Act mandated $20/hour for national chains with 60+ locations starting April 2024, an overnight 25% jump in labor costs for the largest franchisees. That forced menu prices up 8–12%, but price-sensitive customers can't absorb that without abandoning the category. Overtime was largely eliminated, hours were cut, and operators scrambled to offset lower ticket counts with higher average checks (which ticked up 3.3% year-over-year in 2025), but that's a trap—raise your burger to $10 in a category built on the $6 lunch special, and traffic falls faster.\n\nSecond came the tariff and commodity squeeze. Avian flu hammered poultry supplies, low beef inventories tightened across the board, and roughly 15% of all US food imports faced new tariff pressure. Food inflation ran 34% above pre-pandemic levels by 2025–2026. Operators absorbed much of that cost in their own margin because they couldn't pass it fully to traffic-conscious customers without losing volume they could no longer afford. Sixty-two percent of chain restaurants raised menu prices anyway, and 60% reported deteriorated business conditions in 2025. Half of all chain restaurant operators—42% of the segment—turned unprofitable.\n\nThird came GLP-1. Dinner spending at fast food fell 6% among regular users; that's not a rounding error, that's structural demand destruction. Households with a GLP-1 user cut restaurant spending an average 5.3%. The industry can quantify it now: traffic declined 0.3% in 2025, but Q4 2025 vs. Q4 2024 the decline accelerated to -2%. That's not just maturity, that's deflation happening in real time.\n\nThe chains betting on automation—AI-driven order systems, robotic fryers, wage-replacement tech—are placing long-dated bets to survive what used to be their core margin: labor efficiency at scale. But while they automate, their customer base is shrinking, and every price hike to offset labor costs pushes more traffic away.",
+  "facts": [
+   {
+    "num": "$423.7B",
+    "txt": "US fast food market size in 2026, growing just 0.7% that year—the slowest growth in the recovery period",
+    "warn": false
+   },
+   {
+    "num": "0.7%",
+    "txt": "Annual growth rate for fast food in 2026, down from 1.2% CAGR (2021–2026); structural stagnation",
+    "warn": true
+   },
+   {
+    "num": "-2.0%",
+    "txt": "Traffic decline in Q4 2025 vs. Q4 2024, accelerating from -0.3% for the full 2025 year as GLP-1 adoption spreads",
+    "warn": true
+   },
+   {
+    "num": "6%",
+    "txt": "Dinner spending drop at fast food chains among regular GLP-1 users (2025–2026)",
+    "warn": true
+   },
+   {
+    "num": "5.3%",
+    "txt": "Average restaurant spending cut by households with a GLP-1 user",
+    "warn": true
+   },
+   {
+    "num": "8–12%",
+    "txt": "Menu price increases across franchised QSR following California's April 2024 $20/hour minimum wage mandate",
+    "warn": true
+   },
+   {
+    "num": "34%",
+    "txt": "Food inflation above pre-pandemic levels by 2025–2026, driven by avian flu, tariffs (15% of US food imports), and low commodity inventory",
+    "warn": true
+   },
+   {
+    "num": "42%",
+    "txt": "Percentage of chain restaurant operators unprofitable in 2025",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Fast food traffic declined 2% in Q4 2025 vs. Q4 2024, driven by GLP-1 appetite suppression and consumer retrenchment (2025)",
+   "California's FAST Act ($20/hour minimum for national chains, April 2024) forced menu prices up 8–12%, absorbing a 25% labor cost jump",
+   "Dinner spending at fast food fell 6% among GLP-1 users; households with a GLP-1 taker cut restaurant spending 5.3% (2025–2026)",
+   "Food inflation ran 34% above pre-pandemic levels in 2025–2026; tariffs on 15% of US food imports added structural pressure",
+   "42% of chain restaurant operators turned unprofitable in 2025; 60% reported deteriorated business conditions"
+  ],
+  "win": "Value-focused casual dining (Chili's, Texas Roadhouse) and grocery/convenience store takeout are winning. Casual dining's $12 sit-down deals undercut fast-casual's $15 limited-service entrees, pulling traffic from the middle. Grocery and convenience stores absorb the traffic that once went to QSR—at-home eating, convenience-store prepared food, and delivery apps are all cheaper and require no GLP-1 patients to leave the house. Premium fast-casual chains that reformulated their menus (higher protein, lower sugar, smaller portions that align with appetite suppression) are holding share better than legacy QSR. Automation vendors and wage-management tech are winning too: chains desperate to offset labor are placing long bets on robotic systems and AI-driven order platforms. But the real winner is the home kitchen and the convenience store—the category itself is leaking traffic.",
+  "lose": "Legacy fast food—especially the volume-dependent value player—is squeezed hardest. BurgerFi filed Chapter 11 in September 2024 after losses mounted from labor inflation and a failed 2021 acquisition; it couldn't absorb the wage shock. Casual dining took a hammer: TGI Fridays and Red Lobster both filed Chapter 11 in 2024 and closed 130+ locations combined. FAT Brands (Smokey Bones parent) filed Chapter 11 in January 2026; all remaining Smokey Bones locations closed. On The Border Mexican Grill filed Chapter 11 in March 2025; Bravo Brio filed a second time in August 2025. Even mid-market chains going private (Denny's sold for $620 million all-cash to a private-equity consortium in Q1 2026, leaving public markets after decades) signals that the operational model is broken. Franchisees in California and other high-wage states face an impossible math: they can't raise prices without losing traffic, and they can't absorb labor costs without cutting margin to zero.",
+  "worry": "The biggest risk is a debt spiral for overleveraged chains. Fast food is built on the franchisee model: individuals borrow against future cash flows to buy the right to operate a location. As traffic shrinks 2% per quarter and operators turn unprofitable (42% of chain restaurants in 2025), franchisees can't service debt or reinvest. Many locations will close quietly, creating a wave of underperforming assets. Large chains that double down on automation to replace labor are betting the company on technology adoption they can't fully control and customer willingness to pay for convenience—but if customers stop coming altogether, the robots run empty. The second-order risk is that as premium casual dining (Chili's, Roadhouse) captures traffic with sit-down deals, even those gains look fragile if the consumer recession deepens and households tighten further. GLP-1 adoption is also accelerating—if 5-10% of the population is on a GLP-1 analog by 2027, the demand destruction at fast food could move from a rounding error to a permanent 15–20% traffic erosion that no amount of automation or menu engineering can fix.",
+  "one_sentence": "GLP-1 appetite suppression, $20/hour wage floors, and 34% food inflation have crushed the fast food model so thoroughly that chains are choosing automation over traffic, raising prices that drive away the customer base, or filing bankruptcy.",
+  "slug": "fast-food-reckoning",
+  "force": "the-health-reckoning",
+  "group": "D · The tensions",
+  "nav_title": "Fast food's reckoning",
+  "cap": false
+ },
+ {
+  "title": "Regulation & the Warning Label",
+  "dek": "Health warnings and sugar rules turn compliance into a repricing event.",
+  "one_sentence": "Regulation—FDA bans, tariff shocks, and the shift to cleaner labels—has made old-school sugar drinks and candies risky to hold, pushing billions into reformulation and reshuffling who survives.",
+  "lede": "Regulation doesn't kill the food and drink business. But it does make what you were selling yesterday suddenly cost more to sell today. A reformulation mandate, a tariff regime, or an FDA ban forces a reset: you either pay to change the formula, absorb the cost hit, or step aside. That reset is happening now, and it's remaking the energy drink and candy industries at the same time.",
+  "what_changed": "The US energy drink industry has doubled from $11.7 billion in 2022 to $23.9 billion by 2025—not because people drink more, but because the category is being remade. Sugar-free drinks now outsell full-sugar drinks for the first time, driven by consumers determined to cut sugar. Red Bull launched Red Bull Zero in November 2024 to keep pace. Celsius paid $1.8 billion for Alani Nu in April 2025 and then snapped up Rockstar through a distribution deal with PepsiCo in September 2025, racing to own the premium end before regulatory pressure and health consciousness make the sugar-heavy names untouchable. The FDA's ban on brominated vegetable oil (BVO) in August 2025 forced reformulation across dozens of brands—a small shock that signals bigger ones coming.\n\nTariffs have become a structural cost that reshapes economics overnight. When the Trump administration imposed tariffs in April 2025—10% baseline, 20% on EU goods, 31% on Swiss chocolate, and 145% on bulk shipments from China—candy production costs jumped 30% between December 2024 and September 2025. The US candy market, valued at $55 billion in 2025, is now projected to grow only 1.4% per year through 2030, a dramatic slowdown from earlier decades. That margin squeeze is forcing the industry to abandon cheap, commodity sugar drops in favor of premiumized, functional, and texture-driven innovations. Freeze-dried candy jumped to $1.31 billion globally in 2025 and is forecast to grow 12% annually through 2033, fueled by Gen Z craving crunch and seeing it on TikTok. Mars acquired Kellanov in December 2025—bringing Pringles, Cheez-It, and Pop-Tarts under the same roof—while Unilever paid $1.2 billion for the functional gummy brand Grüns in April 2026, betting that functional and premium are where the margin survives.\n\nWhat makes this different from past regulatory cycles is speed and simultaneity. The BVO ban, the tariff regime, and the consumer shift all hit within months of each other, compressing the timeline for reformulation and repositioning. A company sitting in commodity sugar or standard production—the traditional playbook—faces tariff costs on imports, margin pressure on domestic production, and consumer indifference to what it's selling. A company owning a premium or functional asset, or one with the scale to absorb tariff shocks (Mars, Mondelēz), can raise prices or shift to higher-margin categories. Convenience stores, which took 65.5% of energy drink sales, are losing ground to warehouse clubs (19%) and supermarkets (10.9%) as bulk-buying and price-conscious consumers shift. The warning label—whether literal (FDA guidance on sugar and additives) or figurative (social media calling out synthetic ingredients)—has become a repricing event. Brands that can't reformulate or pivot up are stuck: too cheap to grow, too risky to hold.",
+  "facts": [
+   {
+    "num": "$23.9B",
+    "txt": "US energy drink market size in 2025, doubling from $11.7B in 2022, driven by the shift to sugar-free formulations and consolidation.",
+    "warn": false
+   },
+   {
+    "num": "70%",
+    "txt": "Of consumers now seeking to limit sugar intake (2025), making sugar-free positioning mandatory for any brand competing for volume.",
+    "warn": false
+   },
+   {
+    "num": "$1.8B",
+    "txt": "Price Celsius paid for Alani Nu in April 2025, a female-focused Gen Z energy brand, signaling acquisition wars for health-conscious and younger demographics.",
+    "warn": true
+   },
+   {
+    "num": "30%",
+    "txt": "Jump in candy production costs between December 2024 and September 2025 after April 2025 tariff implementation (10% baseline, 20% EU, 31% Switzerland, 145% China).",
+    "warn": true
+   },
+   {
+    "num": "$55B",
+    "txt": "US candy market size in 2025, projected to grow only 1.4% per year through 2030—a historic slowdown from prior decades, signaling structural margin compression.",
+    "warn": true
+   },
+   {
+    "num": "47%",
+    "txt": "Of regular candy buyers actively seeking healthier alternatives in 2025, up from niche interest just years prior, forcing rapid innovation in sugar-free and functional categories.",
+    "warn": false
+   },
+   {
+    "num": "$1.31B",
+    "txt": "Global freeze-dried candy market in 2025, forecast to grow 12% annually through 2033, creating an entirely new category to escape commodity sugar positioning.",
+    "warn": false
+   },
+   {
+    "num": "86%",
+    "txt": "Of consumers noticing and resenting tariff-driven price increases on candy and snacking goods (2025), a sign that cost inflation is no longer absorbed quietly.",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Energy drinks: Celsius acquired Alani Nu for $1.8B (April 2025) and Rockstar (September 2025) as sugar-free positioning becomes mandatory and regulatory risk makes legacy sugar brands untouchable.",
+   "Candy: Tariffs (10% baseline, 20% EU, 31% Switzerland, 145% China as of April 2025) drove production costs up 30% by September 2025, compressing margins on commodity sugar and forcing a pivot to premium and functional.",
+   "Regulation: FDA ban on brominated vegetable oil (BVO) in August 2025 forced reformulation across energy drinks and candies, signaling coming waves of additive and sugar scrutiny.",
+   "Freeze-dried candy: Jumped to $1.31B globally in 2025 and forecast to grow 12% annually through 2033, becoming a major escape route from commodity sugar positioning.",
+   "Consumer shift: 70% of consumers seek to limit sugar intake in 2025, and 47% of regular candy buyers actively seek healthier alternatives, making health-aligned positioning essential for survival."
+  ],
+  "win": "Brands with scale and premium positioning—Mars (Kellanov acquisition December 2025, combined $36B global snacking portfolio), Mondelēz, and Celsius—can absorb tariff costs and shift to higher-margin categories. Functional and freeze-dried innovations, which grew at double digits, shelter from commodity economics. Companies that own the health-conscious narrative (Red Bull Zero, Alani Nu, Rockstar under premium distribution) and can reformulate without destroying margins survive the regulatory shock. Warehouse clubs (now 19% of energy drink sales) and supermarkets (10.9%) gain share as bulk-buying and price-sensitive consumers exit convenience stores (falling from 65.5%) seeking value in the new normal.",
+  "lose": "Mid-sized brands without reformulation budgets or premium assets get trapped: tariff shocks compress already-thin margins on commodity sugar products, and regulatory pressure makes old formulas legally or reputationally risky. Suppliers of additive-laden or high-sugar products lose shelf space as 70% of consumers demand lower sugar and brands move toward functional alternatives. Convenience stores, which relied on impulse purchases of high-margin, commodity energy drinks and candy, lose share to warehouse clubs and supermarkets. Smaller confectionery producers, already under pressure from the consolidated majors (Mars, Mondelēz, Ferrara), face tariff costs with no scale to negotiate or ability to pivot to premium positioning.",
+  "worry": "The biggest risk is a regulatory cascade. The BVO ban and tariff regime hit nearly simultaneously; if the FDA moves to restrict high-fructose corn syrup, further limit caffeine levels, or mandate sugar-reduction targets (as some countries have), the reformulation pipeline will choke. Brands already repricing to absorb tariffs cannot easily absorb a second round of compliance costs. Smaller producers will exit or consolidate, handing even more market power to Mars and Mondelēz. Consumer resentment at rising prices (86% notice and resent them in 2025) could trigger a retail or political backlash against tariffs, destabilizing the very cost environment companies are repricing into. Worse: if health-conscious consumers keep shrinking the addressable market for traditional candy and sugar-heavy energy drinks, the tariff-driven price increases will feel punitive rather than sustainable, leaving domestic producers with no escape route—they cannot lower costs enough to compete, and cannot raise prices enough to survive.",
+  "slug": "regulation-and-warnings",
+  "force": "the-health-reckoning",
+  "group": "D · The tensions",
+  "nav_title": "Regulation & the warning label",
+  "cap": false
+ },
+ {
+  "title": "The Health Reckoning",
+  "dek": "GLP-1 drugs and the sober-curious wave are shrinking demand across food and drink; only premium and health-aligned businesses survive.",
+  "lede": "Three converging forces are rewriting consumer spending on food and drink. GLP-1 medications reached 18% of U.S. adults by 2026, pharmaceutical weight loss now outpaces behavioral coaching, and Gen Z is drinking 30% less than Millennials at the same age. Businesses that rode volume growth for decades are now in structural decline—and only those positioned for premium, health-conscious, or high-margin customers are staying upright.",
+  "what_changed": "The retreat from traditional consumption is reshaping entire industries. Weight loss services, once a $3.8 billion industry in 2022, contracted to $2.6 billion by 2026 as GLP-1 adoption accelerated from 5.8% of adults in February 2024 to 18% by 2026. This wasn't a gradual shift—it was seismic. Weight Watchers, the 60-year-old icon of diet culture, filed for Chapter 11 bankruptcy on May 6, 2025, and emerged as a private company in June 2025 after cutting $1.15 billion in debt. Traditional coaching and accountability models became obsolete almost overnight. The industry consolidated around telehealth GLP-1 platforms like Hims, Ro, and Noom, which now function as prescription delivery networks rather than lifestyle programs. Obesity rates fell from 39.9% in 2022 to 36.4% by 2026, shrinking the addressable market for legacy diet services and forcing smaller regional clinics into margin pressure or shutdown.\n\nWine and beer faced a different structural wall: Americans simply stopped drinking. The U.S. adult drinking rate hit 54% participation in August 2025—the lowest in 90 years. Gen Z monthly wine occasions collapsed 34% since 2019, with 71% citing health and wellness concerns. GLP-1 drugs compounded this by reducing on-premise alcohol spending by 30% and home consumption by 22% among users. Wine bars, a $3.4 billion industry, barely grew (−0.7% in 2026) and bifurcated sharply: private equity-backed, experiential wine bars scaled 6.8% CAGR with premium positioning and staff expertise, while traditional independents faced margin compression. The 2025 Dietary Guidelines removed explicit daily drink limits (seemingly a win for the industry), but the U.S. Surgeon General simultaneously warned that alcohol linked to nearly 100,000 annual cancer cases. On-premise bar visits dropped 3.4% in 2025 versus 2024. The affluent, older drinker (55+) held loyalty, but that demographic is aging and numerically shrinking.\n\nFast food and energy drinks split into opposite trajectories, both driven by health and volume dynamics. Fast food entered freefall—traffic declined 0.3% in 2025, accelerating to −2% in Q4 2025 versus Q4 2024. Households with a GLP-1 taker cut restaurant spending by an average 5.3%; dinner spending at fast food dropped 6% among regular users. The $423.7 billion industry (2026) is growing below 1% annually, squeezed by labor costs (California's $20/hour minimum wage in April 2024 forced price hikes of 8–12%), tariff-driven food inflation, and disappearing customer frequency. BurgerFi, TGI Fridays, and Uncle Julio's filed bankruptcy or sold in foreclosure within three months of each other in late 2024, victims of structural demand collapse. Energy drinks, by contrast, exploded to $23.9 billion by 2025, up from $11.7 billion in 2022—a 104% increase. But the category underwent radical transformation: sugar-free surpassed full-sugar in dollar sales for the first time as 70% of consumers sought to limit sugar intake. Consolidation wars erupted as Celsius paid $1.8 billion for Alani Nu (April 2025) to capture younger, health-conscious women, and then acquired Rockstar through a PepsiCo distribution deal (September 2025). Red Bull launched Red Bull Zero in November 2024. The winners were companies that moved fast to offer zero-sugar, performance-oriented products; the losers were traditional, sugar-laden competitors left behind.\n\nWhat these industries share is that volume is no longer the business model. Consumers are eating less, drinking less, and when they spend, they're trading down to premium or health-aligned alternatives. Fast food chains couldn't offset traffic loss with pricing—customers just stopped coming. Wine bars couldn't rely on Gen Z to replace aging Boomers. Traditional weight loss coaching died overnight because GLP-1s work better and cost less in the long run. Energy drinks that didn't reformulate to zero-sugar faced category extinction. The health reckoning isn't gradual disruption; it's demand collapse followed by margin compression for everyone except the premium and the purpose-built.",
+  "facts": [
+   {
+    "num": "18%",
+    "txt": "GLP-1 adoption rate among U.S. adults by 2026, up from 5.8% in February 2024—a 210% jump in two years (2026)"
+   },
+   {
+    "num": "$2.6B",
+    "txt": "Weight loss services industry market size in 2026, down from $3.8B in 2022, a −31% contraction in four years (2026)"
+   },
+   {
+    "num": "May 6, 2025",
+    "txt": "Weight Watchers filed Chapter 11 bankruptcy after 60 years as the symbol of diet-program culture, forcing the industry to reckoning (2025)"
+   },
+   {
+    "num": "54%",
+    "txt": "U.S. adult drinking participation rate in August 2025, the lowest in survey's 90-year history (2025)"
+   },
+   {
+    "num": "−34%",
+    "txt": "Collapse in Gen Z monthly wine occasions since 2019, with 71% citing health/wellness concerns (2025)"
+   },
+   {
+    "num": "30%",
+    "txt": "Reduction in on-premise alcohol spending among GLP-1 users, and 22% reduction in home consumption (2025)"
+   },
+   {
+    "num": "$23.9B",
+    "txt": "Energy drink industry size in 2025, up 104% from $11.7B in 2022, driven entirely by sugar-free category growth (2025)"
+   },
+   {
+    "num": "−2%",
+    "txt": "Fast food traffic decline in Q4 2025 vs. Q4 2024, accelerating from −0.3% annual decline in 2025 (2025)"
+   }
+  ],
+  "evidence": [
+   "Weight loss services: Market contracted 31% (2022–2026) as GLP-1 adoption hit 18% of adults and Weight Watchers bankruptcy marked the end of 60-year diet-program era (2025)",
+   "Wine bars: U.S. adult drinking hit 54% participation in August 2025—lowest in 90 years—while Gen Z wine occasions fell 34% since 2019, forcing industry bifurcation toward premium and away from volume (2025)",
+   "Energy drinks: Category doubled to $23.9B by 2025 (from $11.7B in 2022) as sugar-free surpassed full-sugar in dollar sales for the first time, with Celsius paying $1.8B for Alani Nu to capture health-conscious women (2025)",
+   "Fast food: Traffic declined 0.3% in 2025, accelerating to −2% in Q4 2025 vs. Q4 2024, as GLP-1 adoption reduced spending by 5.3% among user households and California's $20/hour minimum wage (April 2024) forced price hikes of 8–12% (2025–2026)",
+   "Telehealth GLP-1 platforms: Consolidation accelerated as Hims acquired Zava (June 2025) and Celsius expanded via PepsiCo partnership (September 2025), favoring large, well-capitalized providers over regional clinics and legacy services (2025–2026)"
+  ],
+  "win": "Premium and health-aligned businesses. Experiential wine bars scaled by private equity grew 6.8% CAGR with 22% higher retention than traditional formats. Zero-sugar energy drinks, led by Celsius and Red Bull, doubled market size while driving consolidation and acquisition wars. Telehealth GLP-1 platforms like Hims and Ro grew vertically integrated supply chains and became the default weight-loss solution. Restaurants and chains that embraced smaller portions, healthier options, and premium positioning—rather than relying on volume and value—maintained margins. The formula is clear: premium pricing, health messaging, and experiential elements beat volume plays.",
+  "lose": "Volume-dependent, mass-market businesses. Traditional weight loss coaching and diet programs are extinct—Weight Watchers' bankruptcy was just the symbolic capstone. Fast food chains dependent on frequent, high-volume traffic face structural traffic collapse as GLP-1 adoption reduces appetite and frequency. Wine and beer suppliers targeting Gen Z or mid-market drinkers lost 30% of on-premise spending per GLP-1 user and faced a generational defection (Gen Z drinks 30% less than Millennials). Full-sugar energy drink makers and suppliers got stranded as the category pivoted to zero-sugar overnight. Regional weight loss clinics, independent wine bars without experiential positioning, and fast-food franchises without brand power or premium tiers all face margin compression and closure.",
+  "worry": "The biggest risk is the floor beneath fast food and casual dining collapses faster than replacement demand materializes. Traffic is already down 2% year-over-year in Q4 2025. If GLP-1 adoption continues climbing (current trajectory suggests 25–30% of adults by 2027–2028), fast food may lose not just volume but consumer habit entirely—the customer stops visiting, finds alternatives, and never returns. Chains can't raise prices indefinitely without killing traffic further. Labor costs and tariff inflation are structural, not cyclical, so they can't cut their way to profitability. The bankruptcy wave (BurgerFi, TGI Fridays, Uncle Julio's in late 2024) may not be over; it may be the opening chapter. Regional fast-food and casual-dining operators—the 50,000+ independent franchises and small chains that lack scale to invest in automation or brand transformation—face wipeout.",
+  "one_sentence": "GLP-1 drugs and the sober-curious wave are shrinking demand across food and drink; volume-dependent businesses are collapsing while only premium, health-aligned, and high-margin operators survive.",
+  "slug": "the-health-reckoning",
+  "force": "the-health-reckoning",
+  "group": "E · The big picture",
+  "nav_title": "The health reckoning",
+  "cap": true
+ }
+]

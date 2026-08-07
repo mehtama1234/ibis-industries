@@ -1,0 +1,149 @@
+{
+ "force": {
+  "slug": "the-pricing-power-collapse",
+  "acc": "red",
+  "lens": "Economic",
+  "title": "The Pricing-Power Collapse",
+  "signature": "Medicare cuts and payer power strip pricing from providers and device makers \u2014 volume rises with aging, but the price per unit keeps falling, and only scale survives.",
+  "groups": {
+   "A \u00b7 The providers get cut": [
+    [
+     "medicare-cuts",
+     "Death by reimbursement cut",
+     "dialysis-centers ambulatory-surgery-centers diagnostic-imaging-centers",
+     "Year after year, Medicare trims the rate while costs rise \u2014 a structural margin squeeze."
+    ],
+    [
+     "the-specialist-squeeze",
+     "The specialist squeeze",
+     "cardiologists dermatologists gynecologists-and-obstetricians",
+     "Specialists face flat reimbursement and rising costs, pushing them into groups."
+    ]
+   ],
+   "B \u00b7 The makers get squeezed": [
+    [
+     "device-pricing",
+     "The device price grind",
+     "orthopedic-products-manufacturing dialysis-equipment-manufacturing medical-device-manufacturing-in-the-us",
+     "Hospital consolidation and payers grind device prices down 1-2% a year."
+    ],
+    [
+     "generic-deflation",
+     "Generic-drug deflation",
+     "generic-pharmaceutical-manufacturing-in-the-us",
+     "Relentless price erosion in generics rewards only the largest, lowest-cost makers."
+    ]
+   ],
+   "C \u00b7 The payers hold the power": [
+    [
+     "payer-power",
+     "Who holds the purse",
+     "health-and-medical-insurance-in-the-us hmo-providers dental-insurance",
+     "Insurers and Medicare Advantage set prices and squeeze everyone downstream."
+    ],
+    [
+     "the-independent-exodus",
+     "The independent-practice exodus",
+     "dentists-in-the-us mental-health-and-substance-abuse-clinics-in-the-us",
+     "Solo and small practices sell to systems and PE to survive the pricing squeeze."
+    ]
+   ],
+   "D \u00b7 The tensions": [
+    [
+     "volume-vs-price",
+     "Volume up, price down",
+     "hospitals-in-the-us home-care-providers-in-the-us",
+     "Aging drives volume, but falling per-unit prices and wage costs eat the gains."
+    ],
+    [
+     "value-based-shift",
+     "The value-based bet",
+     "hmo-providers ambulatory-surgery-centers",
+     "Shifting to value-based, lower-cost sites of care is the industry's escape hatch."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-pricing-power-collapse",
+     "The pricing-power collapse",
+     "dialysis-centers orthopedic-products-manufacturing generic-pharmaceutical-manufacturing-in-the-us health-and-medical-insurance-in-the-us",
+     "Capstone: reimbursement and payer power strip pricing from healthcare; volume grows but only scale survives."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "medicare-cuts",
+   "title": "Death by reimbursement cut",
+   "group": "A \u00b7 The providers get cut",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__medicare-cuts.txt",
+   "is_capstone": false,
+   "angle": "Year after year, Medicare trims the rate while costs rise \u2014 a structural margin squeeze."
+  },
+  {
+   "slug": "the-specialist-squeeze",
+   "title": "The specialist squeeze",
+   "group": "A \u00b7 The providers get cut",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__the-specialist-squeeze.txt",
+   "is_capstone": false,
+   "angle": "Specialists face flat reimbursement and rising costs, pushing them into groups."
+  },
+  {
+   "slug": "device-pricing",
+   "title": "The device price grind",
+   "group": "B \u00b7 The makers get squeezed",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__device-pricing.txt",
+   "is_capstone": false,
+   "angle": "Hospital consolidation and payers grind device prices down 1-2% a year."
+  },
+  {
+   "slug": "generic-deflation",
+   "title": "Generic-drug deflation",
+   "group": "B \u00b7 The makers get squeezed",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__generic-deflation.txt",
+   "is_capstone": false,
+   "angle": "Relentless price erosion in generics rewards only the largest, lowest-cost makers."
+  },
+  {
+   "slug": "payer-power",
+   "title": "Who holds the purse",
+   "group": "C \u00b7 The payers hold the power",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__payer-power.txt",
+   "is_capstone": false,
+   "angle": "Insurers and Medicare Advantage set prices and squeeze everyone downstream."
+  },
+  {
+   "slug": "the-independent-exodus",
+   "title": "The independent-practice exodus",
+   "group": "C \u00b7 The payers hold the power",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__the-independent-exodus.txt",
+   "is_capstone": false,
+   "angle": "Solo and small practices sell to systems and PE to survive the pricing squeeze."
+  },
+  {
+   "slug": "volume-vs-price",
+   "title": "Volume up, price down",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__volume-vs-price.txt",
+   "is_capstone": false,
+   "angle": "Aging drives volume, but falling per-unit prices and wage costs eat the gains."
+  },
+  {
+   "slug": "value-based-shift",
+   "title": "The value-based bet",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__value-based-shift.txt",
+   "is_capstone": false,
+   "angle": "Shifting to value-based, lower-cost sites of care is the industry's escape hatch."
+  },
+  {
+   "slug": "the-pricing-power-collapse",
+   "title": "The pricing-power collapse",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-pricing-power-collapse__the-pricing-power-collapse.txt",
+   "is_capstone": true,
+   "angle": "Capstone: reimbursement and payer power strip pricing from healthcare; volume grows but only scale survives."
+  }
+ ]
+}

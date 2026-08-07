@@ -1,0 +1,179 @@
+{
+ "force": {
+  "slug": "the-ai-rewiring",
+  "acc": "blue",
+  "lens": "Technological",
+  "title": "The AI Rewiring",
+  "signature": "AI automates the routine cognitive work \u2014 and the value moves to whoever deploys it, owns the data, or sells the judgment a machine can't.",
+  "groups": {
+   "A \u00b7 Creative & knowledge work gets automated": [
+    [
+     "design-and-the-web",
+     "Design & the web",
+     "web-design-services website-creation-software-developers"
+    ],
+    [
+     "video-and-content",
+     "Video & content",
+     "video-postproduction-services-in-the-us advertising-agencies-in-the-us"
+    ],
+    [
+     "words-and-publishing",
+     "Words & publishing",
+     "book-publishing-in-the-us newspaper-publishing-in-the-us"
+    ]
+   ],
+   "B \u00b7 The back office thins out": [
+    [
+     "accounting-and-audit",
+     "Accounting & audit",
+     "accounting-services-in-the-us audit-services"
+    ],
+    [
+     "insurance-claims",
+     "Insurance claims & broking",
+     "claims-adjusting insurance-brokers-and-agencies-in-the-us"
+    ],
+    [
+     "law-and-consulting",
+     "Law & consulting",
+     "law-firms-in-the-us management-consulting-in-the-us hr-consulting-in-the-us expert-networks"
+    ]
+   ],
+   "C \u00b7 Even diagnosis & advice": [
+    [
+     "medical-diagnostics",
+     "Medical diagnostics",
+     "diagnostic-imaging-centers diagnostic-and-medical-laboratories-in-the-us dermatologists cardiologists"
+    ],
+    [
+     "money-and-advice",
+     "Money & advice",
+     "portfolio-management-in-the-us financial-planning-and-advice-in-the-us credit-bureaus-and-rating-agencies-in-the-us"
+    ],
+    [
+     "education-and-credentials",
+     "Education & credentials",
+     "colleges-and-universities-in-the-us business-certification-and-it-schools-in-the-us"
+    ]
+   ],
+   "D \u00b7 The new scarcities": [
+    [
+     "the-deploy-dividend",
+     "The deploy dividend",
+     "it-consulting-in-the-us data-processing-and-hosting-services-in-the-us"
+    ],
+    [
+     "the-human-premium",
+     "The human premium",
+     "web-design-services law-firms-in-the-us management-consulting-in-the-us"
+    ],
+    [
+     "the-junior-collapse",
+     "The junior-role collapse",
+     "accounting-services-in-the-us law-firms-in-the-us web-design-services"
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-ai-rewiring",
+     "The AI rewiring",
+     "web-design-services claims-adjusting diagnostic-imaging-centers portfolio-management-in-the-us"
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "design-and-the-web",
+   "title": "Design & the web",
+   "group": "A \u00b7 Creative & knowledge work gets automated",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__design-and-the-web.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "video-and-content",
+   "title": "Video & content",
+   "group": "A \u00b7 Creative & knowledge work gets automated",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__video-and-content.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "words-and-publishing",
+   "title": "Words & publishing",
+   "group": "A \u00b7 Creative & knowledge work gets automated",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__words-and-publishing.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "accounting-and-audit",
+   "title": "Accounting & audit",
+   "group": "B \u00b7 The back office thins out",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__accounting-and-audit.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "insurance-claims",
+   "title": "Insurance claims & broking",
+   "group": "B \u00b7 The back office thins out",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__insurance-claims.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "law-and-consulting",
+   "title": "Law & consulting",
+   "group": "B \u00b7 The back office thins out",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__law-and-consulting.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "medical-diagnostics",
+   "title": "Medical diagnostics",
+   "group": "C \u00b7 Even diagnosis & advice",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__medical-diagnostics.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "money-and-advice",
+   "title": "Money & advice",
+   "group": "C \u00b7 Even diagnosis & advice",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__money-and-advice.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "education-and-credentials",
+   "title": "Education & credentials",
+   "group": "C \u00b7 Even diagnosis & advice",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__education-and-credentials.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "the-deploy-dividend",
+   "title": "The deploy dividend",
+   "group": "D \u00b7 The new scarcities",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__the-deploy-dividend.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "the-human-premium",
+   "title": "The human premium",
+   "group": "D \u00b7 The new scarcities",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__the-human-premium.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "the-junior-collapse",
+   "title": "The junior-role collapse",
+   "group": "D \u00b7 The new scarcities",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__the-junior-collapse.txt",
+   "is_capstone": false
+  },
+  {
+   "slug": "the-ai-rewiring",
+   "title": "The AI rewiring",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-ai-rewiring__the-ai-rewiring.txt",
+   "is_capstone": true
+  }
+ ]
+}

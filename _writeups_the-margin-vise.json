@@ -1,0 +1,542 @@
+[
+ {
+  "title": "The Food-Producer Squeeze",
+  "dek": "Commodity, labor, and energy costs outrun what food makers can charge.",
+  "lede": "The U.S. food industry is caught in a margin vise. Bread makers, dairy producers, and meat processors face a collision of pressures: input costs are rising, labor is scarce, tariffs just landed, and consumers are shifting away from commodity products. Meanwhile, pricing power is flat. Only the biggest, the most automated, and the premium brands are escaping the squeeze.",
+  "what_changed": "Bread production tells the story most clearly. The U.S. bread market is $58.8 billion (2026) but growing at just 1.1% annually—a mature, flat market. Margins sit at 4.3%, leaving almost no room for cost shocks. Yet every input is moving up: wheat prices rose 11.1% year-over-year in June 2026. At the same time, consumers are leaving behind white bread and processed sandwich loaves, the volume drivers of decades past. Sourdough searches surged 178% in Q2 2025, and 67% of consumers now choose food based on health claims. Gluten-free bakery is forecast to grow 8.89% annually through 2031—reaching $12.99 billion by 2031 from $7.83 billion in 2025—but that's a niche. Automation is arriving fast: food manufacturing robot installations hit 21,000 in 2024, up 42% year-over-year. Bakeries are deploying AI-powered scheduling and robotic palletizing to escape the labor shortage. The winners are consolidators like Grupo Bimbo, which posted record full-year 2025 net sales of 427 billion Mexican pesos ($23.8 billion), up 4.6%, via five acquisitions and disciplined price increases. Flowers Foods holds the U.S. premium segment through Nature's Own and Dave's Killer Bread. The losers are regional commodity players who can't pass costs to customers and can't afford the automation build-out.\\n\\nDairy is worse. Milk prices have collapsed. All-milk prices fell to $21.05 per hundredweight in 2025 and are forecast at just $19.25 per cwt for 2026—a structural deflationary collapse despite production rising 1.3% in 2026. Farm bankruptcies surged 46% year-over-year in 2025, with 315 Chapter 12 filings and another 185 in the top 24 dairy states. Wisconsin, the nation's second-largest dairy state, has lost 76% of its herds over recent decades. The consolidation is structural now. Labor is the hidden crisis: the U.S. shed 155,000 agricultural workers between March and July 2025, and robotic milking covers only 5% of U.S. farms versus 20–25% in Denmark and the Netherlands. Tariffs landed in August 2026—the Trump administration imposed 50% duties on select Canadian dairy imports (whey, milk powders, casein), though cheese and fluid milk are exempt. Cheese demand is resilient at 24.5% market share, but plant-based alternatives are growing 13.8% annually and now capture 62.8% of the organic segment by 2026. In July 2025, General Mills divested Yoplait yogurt for $2.1 billion, and Lactalis USA acquired the U.S. operations—a sign that traditional players are stepping back from commodity dairy into higher-margin segments.\\n\\nMeat processing faces the sharpest collision. The industry is $387.7 billion (2026) with margins at 5.1%, healthy by food standards, but the inputs are soaring and labor is collapsing. Beef cattle prices in 2026 are forecast to average $240 per cwt, up 7% from 2025, driven by tight cattle supplies and strong demand. But plants can't fill de-boning, evisceration, and packaging roles at any wage—the work is physically brutal, and immigration enforcement has tightened labor supply. Processors are racing to automate: meat processors are investing heavily in cobots and AI vision systems to replace labor, and the global market for automation robots is projected at $4.5 billion by 2033 (9.2% CAGR). Export markets blew up: China locked out U.S. beef in 2025, wiping out 96% of sales (556 metric tons exported in September 2025, down 96% year-over-year), though a May 2026 trade deal restored some access. Plant-based competition, which was hyped as an existential threat in 2023–2024, has collapsed—it holds just 2–3% of retail share and falling as consumers cited \\\"lack of naturalness\\\" and taste issues. But antitrust is the real killer: the Big Four (JBS, Tyson, Cargill, National Beef) face DOJ investigations, and price-fixing settlements ran into hundreds of millions in 2025. Tariff chaos followed: Trump reciprocal tariffs in early 2025 created a 17% effective rate on food manufacturing (10% average paid), and China tariffs fell from 172% to 57% on pork after the May 2026 deal—but the damage to market confidence and planning is severe.",
+  "facts": [
+   {
+    "num": "$58.8B",
+    "txt": "U.S. bread market (2026), growing just 1.1% CAGR (2021–2026), with 4.3% margins—nearly no cushion for cost shocks."
+   },
+   {
+    "num": "$19.25/cwt",
+    "txt": "Milk prices forecast for 2026, down from $21.05/cwt in 2025 and far below 2022 highs—structural deflation squeezing dairy farms."
+   },
+   {
+    "num": "46%",
+    "txt": "Surge in U.S. farm bankruptcies (Chapter 12 filings) in 2025 year-over-year, with 315 filings and another 185 in the top 24 dairy states."
+   },
+   {
+    "num": "21,000",
+    "txt": "Food manufacturing robot installations in 2024, up 42% year-over-year, as bakeries and processors automate to escape labor shortages."
+   },
+   {
+    "num": "96%",
+    "txt": "Decline in U.S. beef exports to China (September 2025), dropping to 556 mt from prior-year levels after China lockout in 2025."
+   },
+   {
+    "num": "178%",
+    "txt": "Surge in sourdough search volume in Q2 2025, signaling mass consumer exodus from commodity white bread toward premium/artisanal.",
+    "warn": true
+   },
+   {
+    "num": "50%",
+    "txt": "New tariff rate on select Canadian dairy imports (whey, powders, casein) imposed by Trump administration effective August 19, 2026."
+   },
+   {
+    "num": "5%",
+    "txt": "Share of U.S. dairy farms using robotic milking, versus 20–25% in Denmark and Netherlands—a productivity and competitiveness gap."
+   }
+  ],
+  "evidence": [
+   "Bread production (U.S.): $58.8B market in 2026, flat growth at 1.1% CAGR, 4.3% margins, disrupted by consumer shift to sourdough (+178% search surge Q2 2025) and automation (21,000 robot installations in 2024, up 42% YoY).",
+   "Dairy production (U.S.): $153.0B market in 2026, milk prices collapsed to $19.25/cwt forecast for 2026 (down from $21.05/cwt in 2025), farm bankruptcies surged 46% YoY in 2025 (315 Chapter 12 filings).",
+   "Meat & beef processing (U.S.): $387.7B market in 2026, 5.1% margins, beef cattle prices averaging $240/cwt in 2026 (up 7% from 2025), China lockout wiped out 96% of beef exports in Sept 2025 (556 mt).",
+   "Labor crisis across food manufacturing: U.S. shed 155,000 ag workers March–July 2025, robotic milking only 5% of U.S. farms vs. 20–25% in Denmark/Netherlands, meat processors investing in cobots and AI vision automation.",
+   "Tariff shocks landed Aug 2026: 50% duties on Canadian dairy imports (whey, powders, casein), 17% effective tariff rate on food manufacturing early 2025, China tariffs fell 172% to 57% on pork after May 2026 trade deal."
+  ],
+  "win": "The biggest, most automated, and most premium escape the squeeze. Grupo Bimbo posted record full-year 2025 net sales of 427 billion Mexican pesos ($23.8 billion), up 4.6%, by consolidating via five acquisitions and enforcing price discipline. Flowers Foods holds U.S. premium bread through Nature's Own and Dave's Killer Bread, riding the consumer shift to gluten-free (forecast 8.89% CAGR through 2031) and protein-enriched products. Cheese makers thrive—cheese holds 24.5% of dairy market share and demand is resilient. Meat processors with capital for automation can replace labor and escape the plant-cutting bottleneck. Companies with export access (post-tariff) and antitrust clearance from the DOJ also gain pricing power from consolidation. And direct-to-consumer plays—flash-frozen bread subscriptions at $70–$100 per delivery—capture premium customers willing to pay for convenience and craft.",
+  "lose": "Regional commodity players are squeezed hardest. A small bread maker buying wheat at +11.1% can't raise prices fast enough in a 1.1% growth market. Dairy farms are collapsing: Wisconsin lost 76% of its herds over recent decades, and 2025 bankruptcies jumped 46%. Commodity dairy processors face falling milk prices ($19.25/cwt forecast for 2026) while labor shortages force them to invest in expensive automation they can't yet afford. Meat processors without antitrust exposure and automation capital are caught between soaring cattle prices (+7% in 2026) and chronically unfillable labor roles. Plant-based food companies, which were supposed to disrupt the industry, have collapsed to 2–3% retail share and are retreating. Tariffs also punish processors who depend on Canadian whey, milk powders, and casein inputs at the 50% rate imposed August 2026.",
+  "worry": "The biggest risk is that food prices don't keep pace with input inflation, leaving consumers with cheaper meals and producers with vanishing profits. Margins in bread (4.3%), dairy (2.8%), and meat (5.1%) are already razor-thin. If wheat, milk, and cattle prices stay elevated while consumer demand stalls in a recession, farm bankruptcies and plant closures will accelerate—consolidation will deepen, regional suppliers will disappear, and pricing power will shift entirely to the Big Four in meat and the handful of giants in dairy and bread. Automation can help long-term, but the upfront capital is brutal for smaller producers, and the payoff takes years. Tariffs add another layer of chaos: the 50% tariff on Canadian dairy imports and the shifting China tariffs create planning paralysis and supply-chain fragmentation. A supply shock—bad harvest, labor unrest, another trade war—could force rapid factory closures and worker layoffs. The food system will consolidate faster, become more brittle, and leave less room for regional producers and local supply chains.",
+  "one_sentence": "Labor, wheat, milk, and cattle prices are all up; bread and dairy prices are down or flat—and only the largest, most automated, and most premium food makers can survive the squeeze.",
+  "slug": "food-producers",
+  "force": "the-margin-vise",
+  "group": "A · Food gets squeezed",
+  "nav_title": "The food-producer squeeze",
+  "cap": false
+ },
+ {
+  "title": "The Sweet-Goods Squeeze",
+  "dek": "Cocoa, sugar, and dairy tariffs crush indulgent-category margins, leaving only premium brands and automation escapes.",
+  "lede": "The candy, ice cream, and chocolate industries are not dying—they're restructuring around a brutal math. Tariffs jumped costs 30% since late 2024, but consumer willingness to pay rose only 10-20%, compressing margins that were already thin. The industry is splitting into winners (premium, automation, locked-in scale) and losers (middle-market brands with no pricing power).",
+  "what_changed": "Tariffs transformed sweet-goods economics overnight. In April 2025, the U.S. imposed 10% baseline tariffs on all imports, 20% on EU goods, 31% on Swiss chocolate, and 145% on bulk shipments from China. For chocolate makers, cocoa tariffs hit 21% on Ivory Coast imports and 10% on Ghana—the world's top two suppliers. Overnight, a chocolate producer's input costs jumped 30% between December 2024 and September 2025. Consumers did notice and resent it—86% of candy buyers now report seeing price hikes they notice and dislike. But they didn't double their spending; they simply paid 10-20% more for chocolate in 2025 versus 2024, with another 14% year-over-year increase in early 2026. That gap—30% cost inflation against 14-20% price pass-through—is the vise closing on the middle.\n\nThe squeeze is most visible in candy and ice cream. The U.S. candy market is $55 billion (2025), projected to grow just 1.4% annually through 2030. Margins in candy production, which sat at 4.5-4.7% in 2022, are now under structural pressure with no recovery in sight. The ice cream sector, worth $20 billion (2026), is growing only 2.66% annually. Both categories saw their tariff bills explode while consumer demand stayed flat. Chocolate fared slightly better—still a $28.9 billion market growing 4.58% through 2031—but only because chocolate is consolidating upmarket. Hershey, the dominant mass-market player with 33.5% share ($11.7 billion revenue 2025), is locked into retail channels where it has no pricing power against Walmart and Amazon. In contrast, single-origin and craft chocolate are accelerating at 10.15% and growing substantially via direct-to-consumer e-commerce (7.12% CAGR). The premium escape hatch is real: craft chocolate earned $842 million by 2032 and captures 40% higher purchase intent from younger consumers who will pay for story and quality.\n\nWhat did this force make scarce and valuable? Premium positioning and automation. Unilever spun off its ice cream division as The Magnum Ice Cream Company (valued $9.1 billion, traded December 2025) precisely because ice cream is no longer a growth engine for conglomerates—but premium frozen desserts are growing. Plant-based ice cream jumped from $4.25 billion (2025) to $5.15 billion (2026), a 21% CAGR, as consumers trade regular bulk ice cream for higher-margin novelties. Single-serve impulse products now represent 42% of the ice cream market and are thriving. Meanwhile, technology adoption—3D printing, AI-driven coating sensors, IoT real-time monitoring—is accelerating in chocolate to reduce labor and yield variance, but adoption is uneven and expensive. Scale became newly valuable too: Mars spent $35.9 billion acquiring Kellanov (December 2025) to absorb Pringles, Pop-Tarts, and Cheez-It into its portfolio, a consolidation move driven by fear that only the very largest players can weather tariff shocks. Smaller players—like Kate Weiser Chocolate, a 12-year-old Dallas artisan brand—simply closed in April 2025, citing \"the economy.\" What is now scarce: mid-market independence, low-tech profitability, and bulk commodity margins.\n\nWhat did this force make cheap? Labor in manual confectionery and the ability to import finished goods at will. Tariffs inverted the economics of foreign manufacturing. When 31% tariffs on Swiss chocolate and 145% on Chinese bulk shipments kicked in, it became uneconomical for smaller U.S. brands to import finished products or semi-finished fills. Some producers shifted to lower-cost domestic sourcing or in-house automation to replace hand-packing. But labor itself (wages, benefits, turnover) did not cheapen—only the value of manual work diminished relative to automated alternatives. The industry employed roughly 24,500 in candy, 23,200 in ice cream, and 50,000 in chocolate (2022 baseline), with only 1% annual growth projected. Automation became the cheaper lever, not headcount cuts.",
+  "facts": [
+   {
+    "num": "30%",
+    "txt": "Chocolate production costs jumped 30% between December 2024 and September 2025 due to tariff-driven input inflation (2025).",
+    "warn": true
+   },
+   {
+    "num": "1.4%",
+    "txt": "U.S. candy market growth rate (annualized through 2030), down from historical ranges, as tariffs and pricing power mismatch constrain volume and margins (2025-2030).",
+    "warn": true
+   },
+   {
+    "num": "86%",
+    "txt": "Share of candy consumers who report noticing and resenting price hikes on sweet goods (2025).",
+    "warn": false
+   },
+   {
+    "num": "14%",
+    "txt": "Year-over-year price increase on chocolate in early 2026, following 10-20% hikes in 2025—a gap versus 30% cost inflation (2026).",
+    "warn": true
+   },
+   {
+    "num": "21% CAGR",
+    "txt": "Growth rate of plant-based ice cream (2025-2026), versus 2.66% for the overall ice cream market; single-serve and premium driving category bifurcation (2026).",
+    "warn": false
+   },
+   {
+    "num": "4.5-4.7%",
+    "txt": "Baseline margin in candy production (2022), now under structural pressure with tariff cost inflation exceeding pricing power (2022-2025).",
+    "warn": true
+   },
+   {
+    "num": "$35.9B",
+    "txt": "Mars acquisition of Kellanov (Pringles, Pop-Tarts, Cheez-It) finalized December 2025—a consolidation-driven by scale economics and tariff shock resilience (2025).",
+    "warn": false
+   },
+   {
+    "num": "40%",
+    "txt": "Higher purchase intent for craft chocolate versus mass brands among younger consumers, reflecting premium positioning escape (2032 projection).",
+    "warn": false
+   }
+  ],
+  "evidence": [
+   "Candy (2025): U.S. candy market at $55 billion growing only 1.4% annualized through 2030; tariffs and input-cost inflation compressing 4.5-4.7% baseline margins.",
+   "Ice cream (2026): $20 billion market growing 2.66% annually; plant-based segment exploding at 21% CAGR, while bulk ice cream declines; Americans' ice cream spending surged 26.5% month-over-month in May 2025 (inflation pass-through).",
+   "Chocolate (2026): $28.9 billion market growing 4.58% through 2031, but bifurcated—mass retail (Hershey 33.5% share) compressed, craft chocolate and single-origin accelerating at 10.15% CAGR, e-commerce at 7.12%.",
+   "Tariffs (2025-2026): 10% baseline, 20% EU, 31% Switzerland, 145% China; cocoa tariffs 21% Ivory Coast, 10% Ghana; chocolate input costs +30% Dec 2024–Sept 2025; early 2026 pricing +14% YoY against 30% cost inflation.",
+   "M&A (2025): Mars closed $35.9B Kellanov acquisition (December 2025); Unilever spun off $9.1B Magnum ice cream (December 2025); consolidation driven by tariff shock resilience and scale economics."
+  ],
+  "win": "Premium, automation, and locked-in scale are escaping the squeeze. Unilever's spinoff of The Magnum Company signals that CPG giants can still profit in ice cream if they own the premium end; plant-based ice cream is the growth lever (21% CAGR), and single-serve impulse products (42% of market) thrive. Craft chocolate at $842 million (2032) captures 40% higher consumer intent and bypasses retail middlemen via direct-to-consumer e-commerce. Mars's $35.9 billion acquisition of Kellanov signals that only the very largest can absorb tariff shocks and restructure; smaller players who invest in automation (3D printing, AI coating sensors, IoT monitoring) are squeezing margin back via yield and labor reduction. Ferrara's launch of freeze-dried SweeTARTS and Lemonheads (August 2025) and M&Ms' POP'd Caramel (early 2026) both exploit a real trend: freeze-dried candy jumped from niche to $1.31 billion globally (2025) and is forecast to grow 12% annually through 2033. Unilever's $1.2 billion acquisition of Grüns functional gummy brand (April 2026) buys positioning in the 47% of regular candy buyers who now seek healthier alternatives—a escape from commodity pricing.",
+  "lose": "Mid-market, import-dependent, and labor-heavy producers are squeezed between tariff costs and consumer price resistance. A brand with no direct-to-consumer presence and retail-only distribution (like mid-size regional candy makers or smaller ice cream producers) faces a brutal choice: absorb the 30% cost shock and collapse margin, or raise prices 14-20% and lose volume as consumers trade down or switch brands. The 760 ice cream establishments in 2022 are consolidating via M&A; smaller players lack the capital to invest in automation or build premium positioning. Kate Weiser Chocolate, a 12-year-old Dallas artisan, simply closed in April 2025, citing \"the economy\"—but the real story is that without scale or direct-to-consumer reach, tariff shocks are unrecoverable. Hershey, despite its 33.5% market share, is locked into mass retail (Walmart, Target, grocery chains) where Walmart and Amazon dictate margins. Import-dependent producers who relied on finished goods or semi-finished fills from Switzerland (31% tariff) or China (145% tariff) face immediate uneconomical unit economics.",
+  "worry": "The structural bifurcation of the sweet-goods market into a premium top tier and a low-margin commodity bottom tier could tip into permanent capacity contraction and job losses. If tariffs persist through 2027-2028 and middle-market brands continue to fail, consolidation into 3-5 mega-players (Mars, Mondelēz, Hershey, Nestlé, Ferrero) will accelerate. The U.S. confectionery and ice cream industries employ roughly 100,000 workers combined (candy ~24,500, ice cream ~23,200, chocolate ~50,000 as of 2022), and most of those jobs are in manufacturing and packing. If automation becomes the only lever for profitability and tariffs force further margin compression, the incentive to automate aggressively will outpace new hiring. Second, the rise of health-conscious alternatives (47% of candy buyers now seek healthier options) and plant-based ice cream (21% CAGR) may be cannibalizing the traditional indulgent categories faster than margin compression alone explains. If consumption volume declines on top of margin pressure, even the big players will be restructuring for a permanently smaller market. Third, retaliatory tariffs on U.S. ice cream exports to China (125% tariff in 2026) are already capping export upside and stranding capacity.",
+  "one_sentence": "Tariffs forced a 30% cost spike in sweet goods that consumers won't fully absorb, so only premium brands, automation, and mega-scale players escape the margin vise—mid-market producers are exiting or consolidating.",
+  "slug": "the-sweet-squeeze",
+  "force": "the-margin-vise",
+  "group": "A · Food gets squeezed",
+  "nav_title": "The sweet-goods squeeze",
+  "cap": false
+ },
+ {
+  "title": "The restaurant margin trap",
+  "dek": "Labor, food costs, and tariffs crush restaurant margins while customers stay home or eat cheaply.",
+  "lede": "Fast food and casual dining used to be a low-margin game: squeeze volume, train cheap, stay open late. That worked when labor was abundant, food prices stayed flat, and customers had spending room. Today, margins have compressed so hard that only the cheapest-to-operate, the most premium, or the locked-in chains escape without bleeding money. Between 42% of operators running unprofitable and bankruptcies hitting even established brands, the restaurant industry is learning the hard way that you can't serve food at a loss-leader price and stay alive when your inputs—labor, beef, coffee, cooking oil—are climbing 30-40% above pre-pandemic levels.",
+  "what_changed": "Fast food is hitting the structural wall. The $424 billion US fast-food market grew just 0.7% in 2026 with traffic declining 2% in Q4 2025, but here's the real problem: labor and commodities are rising far faster than restaurants can raise prices without losing customers. California's $20 fast-food minimum wage (April 2024) lifted operating costs roughly 25%, forcing menu prices up 8–12%. Across the sector, labor costs have jumped 39% since pre-pandemic, and food inflation sits 34% above pre-pandemic levels. Chains tried to offset this by raising average check (up 3.3% year-over-year in 2025) and cutting hours to eliminate overtime. But consumers responded by eating out less: GLP-1 adoption is slashing dinner spending—users cut restaurant spending by an average 5.3%—and traffic is deflating. Even worse, tariffs created a whipsaw on food prices: 15% of US food imports now carry tariffs, pushing beef inventories down (avian flu pressured poultry) and forcing repeated shocks in Q1 2025, then a removal in November 2025, then a 10% reimposition in February 2026 on coffee alone. Operators with 5.1% margins in 2021 have absorbed most of this in profit, unable to pass full costs to price-sensitive consumers without losing what little traffic remains.\n\nChain restaurants face a darker squeeze. The $231 billion market shrank 1% in 2026, and 42% of operators are unprofitable. Wage floors are $16–$20 per hour in major states (California's FAST Act, Washington at $16.66, Florida heading to $15), and 62% of operators have raised menu prices. Consumer spending is growing only 1.3% in real terms, and 60% of operators report deteriorated business conditions. The paradox is that weakness in fast-casual dining (where $15 entrees are standard) has saved casual dining: Chili's and Texas Roadhouse hold traffic by offering $12 sit-down deals that undercut limited-service prices. But this is a shrinking pie—consumers are defecting to grocery, convenience stores, takeout apps, and home cooking. The bankruptcies tell the story: Red Lobster and TGI Fridays closed 130+ locations in 2024; FAT Brands (Smokey Bones) filed Chapter 11 in January 2026 with all remaining locations closing; On The Border and Bravo Brio filed in 2025 and 2025 respectively. Even Denny's, a 60-year public company, went private in a $620 million all-cash deal (expected Q1 2026) because operational restructuring under public pressure became untenable.\n\nCoffee shops and snack bars face an industry-wide margin squeeze from commodity and tariff shocks they cannot absorb. Arabica prices surged 21% year-over-year in August 2025 and sit 18.5% higher than a year ago (April 2026), far outpacing any menu increase operators dare impose. Tariff volatility—10–50% rates in spring 2025, removal in November, then 10% reimposed in February 2026—creates planning chaos: buyers can't hedge, inventory gets trapped, and prices swing wildly. The $75.5 billion US coffee market barely grew (−0.2% in 2026; 2.5% CAGR 2021–2026), and three prominent independents filed bankruptcy: Compass Coffee closed 10 of 30 stores after Chapter 11 and sold for $2.9 million; Red Bay Coffee and The Blend also collapsed. Starbucks, the sector leader, is the canary in the coal mine: North America operating income fell 41% to $3.2 billion in fiscal 2025 from $5.4 billion in fiscal 2024, forcing a $500 million \"Green Apron Service\" investment just to staff bottlenecks created by mobile-order volume. Meanwhile, technology is cannibalizing independent shops—59% of US consumers now buy coffee via drive-thru, 38% via app, and mega-consolidation is reshaping the landscape: Keurig Dr Pepper closed its $18 billion acquisition of JDE Peet's in April 2026, creating a global coffee giant with 50+ brands and $16 billion in sales. Independents cannot compete at scale or speed.",
+  "facts": [
+   {
+    "num": "$424B",
+    "txt": "US fast-food market size in 2026, growing just 0.7% with traffic down 2% in Q4 2025 versus Q4 2024."
+   },
+   {
+    "num": "39%",
+    "txt": "Jump in labor costs since pre-pandemic (2019) across US restaurants by 2025–2026."
+   },
+   {
+    "num": "$20/hr",
+    "txt": "California fast-food minimum wage effective April 2024, lifting operating costs ~25% and forcing menu prices up 8–12%."
+   },
+   {
+    "num": "34%",
+    "txt": "Food inflation above pre-pandemic levels by 2026, with tariffs affecting 15% of US food imports."
+   },
+   {
+    "num": "42%",
+    "txt": "Percentage of US chain restaurant operators unprofitable in 2025, up from stable margins in early 2020s."
+   },
+   {
+    "num": "5.3%",
+    "txt": "Average cut in restaurant spending by households with a GLP-1 user, reducing traffic further in 2025–2026."
+   },
+   {
+    "num": "21%",
+    "txt": "Year-over-year surge in arabica coffee prices in August 2025, far outpacing operators' pricing power.",
+    "warn": true
+   },
+   {
+    "num": "41%",
+    "txt": "Starbucks North America operating income decline (to $3.2B fiscal 2025 from $5.4B fiscal 2024) due to labor, commodity, and tariff headwinds."
+   }
+  ],
+  "evidence": [
+   "Fast food: $424B market with 0.7% 2026 growth, traffic down 2% in Q4 2025; 224,000 establishments struggling to absorb 25% labor-cost spike from California $20/hr minimum.",
+   "Chain restaurants: 42% of operators unprofitable in 2025; $231B market shrinking 1%; 60% report deteriorated conditions as 39% wage inflation collides with 1.3% real consumer spending growth.",
+   "Coffee shops: Arabica prices up 21% YoY (August 2025) and 18.5% above April 2025; $75.5B market flat (−0.2% 2026); three bankruptcy filings (Compass, Red Bay, The Blend) signal margin death for independents.",
+   "Casual dining: Red Lobster, TGI Fridays closed 130+ locations (2024); FAT Brands (Smokey Bones) filed Chapter 11 (January 2026), all remaining stores closed; On The Border and Bravo Brio filed Chapter 11 in 2025.",
+   "Starbucks: Operating income fell 41% (fiscal 2025 vs fiscal 2024) to $3.2B; forced $500M labor investment just to handle operational bottlenecks; Keurig-JDE Peet's $18B mega-merger (April 2026) consolidates market power away from small players."
+  ],
+  "win": "Premium casual and automated QSRs hold pricing power. Chili's and Texas Roadhouse keep traffic by offering $12 sit-down meals that beat limited-service entrees—casual dining's value positioning saved it from fast-casual's death spiral. Mega-chains with scale (Starbucks, McDonald's) can absorb labor costs through technology, app ordering, and purchasing power; smaller chains that went private (Denny's to a $620M buyout, expected Q1 2026) escape public market pressure and can restructure. Consolidators win hardest: Keurig Dr Pepper's $18B JDE Peet's acquisition gives it 50+ brands and $16B annual sales—scale that can hedge tariffs and negotiate labor contracts. Grocery and convenience stores cannibalizes restaurant traffic with cheaper meals and home-delivery apps, and they're winning the time-and-money trade.",
+  "lose": "Independent restaurants, especially full-service casual dining and coffee shops, are getting crushed. Independents can't negotiate tariff hedges or bulk labor contracts; they absorb 21% coffee-price swings, 25% labor-cost jumps, and tariff shocks one quarter at a time. Compass Coffee, Red Bay Coffee, The Blend, and dozens of smaller concepts filed bankruptcy or closed stores outright. Fast-casual, once growth, is hollowed out—caught between $20/hr wage floors and $15 limited-service pricing that leaves no room for rent, food, or profit. GLP-1 adoption, which cuts dinner spending by 5.3% per household, hits volume-dependent operators hardest; they can't raise prices to offset traffic loss without accelerating defection to cheaper channels.",
+  "worry": "GLP-1 adoption is a silent erosion of traffic that restaurants can't price their way out of. A 5.3% cut in restaurant spending per GLP-1 household, scaling across millions of users in 2025–2026, is structural demand destruction—not cyclical. If adoption continues, restaurants face a 10–15% traffic cliff by 2027 while labor costs stay sticky (wages don't fall in recessions) and tariff uncertainty persists. Operators have already cut hours, closed locations, and gone private or bankrupt; the next shock—whether tariffs, recession, or faster GLP-1 adoption—will force consolidation or closure across the industry. The margin vise is now a choice between automation (which requires capital independents don't have), going premium (which locks out price-sensitive volume), or going dark.",
+  "one_sentence": "Restaurants face a structural margin trap where labor, tariffs, and commodities rise 25–40% faster than pricing power, driving bankruptcies, consolidation, and customer defection to cheaper at-home and convenience channels.",
+  "slug": "restaurant-margins",
+  "force": "the-margin-vise",
+  "group": "B · Serving food at a loss-leader price",
+  "nav_title": "The restaurant margin trap",
+  "cap": false
+ },
+ {
+  "title": "The drinks squeeze",
+  "dek": "Tariffs, aluminum, labor, and collapsing demand make beverages impossible to price at the old margins.",
+  "one_sentence": "In 2025-2026, input costs on labor and tariffed packaging rose too fast for beer, juice, and soda makers to raise prices, so margins vanished and hundreds of mid-sized players closed.",
+  "lede": "A beer costs what it cost three years ago, but the aluminum can is 15 percent more expensive. Workers at breweries and distributors demand $28 to $30 an hour. Consumers drink 20 percent less juice than they did five years ago and are switching to hard seltzers and spirits RTDs instead. The middle cannot raise prices fast enough.",
+  "what_changed": "The drinks industry is experiencing a three-front squeeze that has no easy escape. First, tariffs arrived fast and hit hardest on packaging. In April 2025, a 25 percent tariff on aluminum cans went into effect. Aluminum itself was already up 15 percent year-over-year as of early 2025, so the combined hit pushed packaging costs up double digits overnight. A craft brewery making 20,000 barrels a year cannot absorb a 20 percent jump in can costs and stay profitable at a $6 or $7 retail price. The large breweries—Molson Coors, Anheuser-Busch—have pricing power and scale to negotiate tariff costs or shift to bottled beer (which faces lower tariffs). The 481 craft brewery closures in 2025 and the bankruptcy of names like Duck-Rabbit and Alamo Beer happened because margins went negative, not because their beer was bad.\n\nSecond, labor costs are climbing in a shrinking industry. Beer wholesalers saw wage pressure spike 6.4 percent to $28.89 per hour in March 2026, even as total employment ticked down 0.6 percent and volumes fell 5.7 percent in 2025. That is the worst dynamic: fewer workers demanded, but they cost more. Brewery jobs were down 3 percent year-over-year as of 2025, with 191,000 workers left in the craft segment, but wages still climbed because the skilled roles—head brewer, packaging line operator, QA—could not be filled. A 500-barrel-per-month brewery cannot cut a full brewer's shift and still make good beer. It pays the wage or closes.\n\nThird, category collapse is cannibalizing beer's share. Spirits-based RTD cocktails surged 16.4 percent to $3.8 billion in 2025, and they completely bypass traditional beer wholesalers—they go through wine and spirits channels instead. That shift means beer volumes fall at the wholesaler level even if production is stable, so fixed costs (dispatch, warehouse, cold-chain) get spread over fewer cases per route. The wholesaler's margin, already thin at 4.8 to 5.0 percent of revenue in 2026, gets thinner still. Juice faces a different kind of demand cliff. Americans cut juice consumption by 20 percent from 2019 to 2024, viewing it as just another sugary drink despite being 100 percent fruit. The FDA's August 2025 proposal to lower the orange juice sugar standard from 10.5 percent to 10 percent Brix—the first standard cut since 1963—signaled regulatory surrender on traditional juice. Orange juice fell from 67 percent of juice beverage share in 2022 to 62 percent in 2024. The only juice segment growing is cold-pressed and premium, expanding at 8 percent annually as health-conscious consumers pay more for minimal processing. The mass market juice maker watching their 11 percent EBIT margin compress cannot compete there.",
+  "facts": [
+   {
+    "num": "15%",
+    "txt": "Aluminum prices up year-over-year as of early 2025, with an additional 25% tariff on cans effective April 2025 pushing total packaging cost inflation into double digits.",
+    "warn": false
+   },
+   {
+    "num": "$28.89/hr",
+    "txt": "Beer wholesaler wages spiked 6.4% to this level in March 2026, even as employment fell 0.6% and beer volumes declined 5.7% in 2025—labor getting costlier while demand shrinks.",
+    "warn": true
+   },
+   {
+    "num": "481",
+    "txt": "US craft brewery closures in 2025; operating breweries fell to 9,344 as of June 2026, down 1.8% year-over-year from 9,515.",
+    "warn": true
+   },
+   {
+    "num": "-3%",
+    "txt": "Craft brewery employment fell 3% year-over-year in 2025 to 191,000 workers, despite wage pressure, as smaller operations shut or automated.",
+    "warn": true
+   },
+   {
+    "num": "20%",
+    "txt": "Americans cut juice consumption from 2019 to 2024, viewing it as just another sugary drink despite being 100% fruit juice.",
+    "warn": false
+   },
+   {
+    "num": "62%",
+    "txt": "Orange juice fell to this share of juice beverage market by 2024, down from 67% in 2022, as consumers shifted to cheaper alternatives and health-conscious premium cold-pressed options.",
+    "warn": false
+   },
+   {
+    "num": "16.4%",
+    "txt": "Spirits-based RTD cocktails surged 16.4% in value to $3.8 billion in 2025, bypassing traditional beer wholesale channels and cannibalizing beer's share.",
+    "warn": true
+   },
+   {
+    "num": "4.8-5.0%",
+    "txt": "Beer wholesaler margin on revenue in 2026, already thin and under pressure from shrinking volumes, tariff pass-through costs, and category shift to RTDs.",
+    "warn": true
+   }
+  ],
+  "evidence": [
+   "Breweries: 481 closures in 2025; Duck-Rabbit Craft Brewery liquidated (Chapter 7) and Alamo Beer Company filed Chapter 11 (February–April 2025) as aluminum tariffs and margin compression accelerated.",
+   "Beer wholesaling: Wage pressure spiked 6.4% to $28.89/hour in March 2026 while beer volumes fell 5.7% in 2025 and RTDs surged 16.4% to $3.8 billion, fragmenting the three-tier distribution model.",
+   "Juice production: Americans cut juice consumption 20% from 2019 to 2024, and FDA proposed lowering orange juice sugar standard from 10.5% to 10% Brix in August 2025—first cut since 1963.",
+   "Aluminum: Up 15% year-over-year with an additional 25% tariff on cans (April 2025) and 25% on aluminum imports, pushing packaging costs up double digits for mid-sized makers.",
+   "Consolidation: 46 M&A deals across beverage alcohol in 2026 (YTD) vs. 26 in 2025; large players like Molson Coors gain premium segment share while mid-sized independents close or pivot to premium/experiential models."
+  ],
+  "win": "Large breweries with scale and automation—Molson Coors, Anheuser-Busch—can negotiate tariff costs, shift to bottled imports (which face lower tariffs), and raise prices in the premium segment (Above Premium now 28 percent of Molson Coors net sales, up from 23 percent three years prior). Consolidators and private equity buying distressed regional breweries also win because they can integrate packaging, cut labor overhead, and repricing the brands. Coffee and premium beverage makers win by pivoting away from traditional juice and RTDs—Keurig Dr Pepper's $4 billion acquisition of JDE Peet's (closing expected Q2 2026) signals the exit from margin-squeezed juice into higher-margin coffee and specialty beverages.",
+  "lose": "Mid-sized regional breweries, craft independents, and traditional juice makers get squeezed from both ends. Craft breweries fell 4 percent in production in H1 2026, with 9,344 operating breweries down 1.8 percent year-over-year. The 481 closures in 2025 are happening at this tier because they lack scale to absorb tariffs, cannot negotiate on cans or aluminum, and face an increasingly automated supply chain they cannot match. Juice makers face structural demand collapse as consumers view juice as unhealthy (20 percent consumption drop since 2019) and regulatory pressure (FDA sugar standards) makes the mass-market business unprofitable. Beer wholesalers are trapped: volumes shrink, labor costs climb, and RTD growth bypasses them entirely.",
+  "worry": "The single biggest risk is that tariff policies become permanent before the supply chain diversifies. Mexican beer and juice are highly tariffed, but 61.5 percent of beer trade is bottled or draft, which faces lower tariffs—so large players will shift format and leave canned craft beer to absorb the 25 percent cost alone. If tariffs stay and aluminum stays high, the US craft beer industry could shrink from 9,344 to under 8,000 breweries within two years, consolidating production into 15 to 20 national brands. Smaller makers cannot compete at any scale, and the experiential model (taproom-first, food programs) only works in high-rent urban and resort markets, not in regional towns where 70 percent of small breweries operate.",
+  "slug": "drinks-margins",
+  "force": "the-margin-vise",
+  "group": "B · Serving food at a loss-leader price",
+  "nav_title": "The drinks squeeze",
+  "cap": false
+ },
+ {
+  "title": "The lock-in defense",
+  "dek": "Where captive locations and bundles defend margin when switching is hard.",
+  "lede": "When competitors circle and costs rise, businesses with customers who can't easily leave have a huge advantage. Cable broadband isn't thriving—it's under siege by fiber and 5G home internet, yet cable providers still defend pricing and margin because most households have no real alternative. Vending machine operators in captive locations (offices, transit hubs) do the same: they charge differently where exits are expensive.",
+  "what_changed": "The margin vise squeezes hardest when pricing power has already eroded elsewhere. Cable providers face a brutal two-front collapse: cable TV subscriptions dropped -2.6% annually through 2025-2026, accelerated by price-sensitive households (only 16% of those under 50 still subscribe, versus 64% of over-65 demographics). That was supposed to be fixed by broadband growth—except broadband turned negative in 2025 for the first time in 30 years. Fiber now captures 27% of the broadband market, while T-Mobile's fixed wireless access alone added 1.8M customers in 2025 and hit 8M+ by late 2025; AT&T added 900K FWA customers. Yet cable margins stayed thin at 8.6–9.8%, and instead of competing on price or service, the industry consolidated: Charter and Comcast approved a $34.5B merger in March 2026 (expected to close summer 2026) that creates a 38M+ customer bundle across 41 states. The bundle is the lock-in—you don't buy broadband alone; you're offered bundled video, phone, and internet, making switching costs psychologically and administratively higher. Meanwhile, vending operators face direct headwinds: the $7.9B market shrank -1.6% CAGR through 2026, soda consumption per capita fell, and work-from-home never reversed (staying at 44% hybrid in 2025-2026, not pre-pandemic). The industry's response wasn't to compete on price; it was to weaponize location. Cashless machines now command 58% market share (2025), allowing dynamic pricing: average transaction value rose from $1.78 to $2.24, a 26% lift. Micromarkets—unattended self-checkout kiosks in high-value spots—generate $20/month per customer versus $7 at traditional vending, but they only work in captive locations (offices, transit hubs) where exits are real-time-cost-prohibitive. Top 20 vending operators consolidated 40+ regional players in 2023-2025, cementing control of the best locations. The lock-in, again, is location: if you're hungry or thirsty at the right machine, you pay what the operator charges.\n\nIn both industries, lock-in emerges because head-to-head price competition would destroy margin entirely. Cable broadband is technically obsolete (fiber is faster, 5G home internet is cheaper), but bundling with video and phone—services many households still want—forces customers to pay the bundle or defect entirely, and defecting means switching your phone number and TV provider too. The risk of losing everything motivates acceptance of price increases on the broadband line. Vending follows the same logic: a machine in a transit hub or corporate cafeteria can raise prices 26% when cashless payment removes friction and the customer can't easily exit to a store—the cost of leaving the workplace, missing transit time, or hiking to a competing location is higher than paying the 50-cent markup. This is not brand loyalty or product quality. This is geography and architecture made expensive.\n\nWhat the margin vise made scarce is *undefended shelf space*. When costs rise faster than revenue, only locations where competitors can't easily build defensible positions stay profitable. Cable defended itself through consolidation, bundling, and network duopolies (the last-mile fiber infrastructure remains hard to replicate). Vending defended itself through operator consolidation (top 20 now control the best captive locations) and the shift to cashless, dynamic pricing (which amplifies power in high-exit-cost locations). Neither industry made the customer better off. Cable subscribers in bundled markets now pay more for declining video quality and service while the company underfunds network maintenance to manage margin. Vending customers in transit hubs pay 26% more than pre-cashless averages for the same bag of chips, with no option to walk out.",
+  "facts": [
+   {
+    "num": "-2.6%",
+    "txt": "Cable TV subscribers declined at -2.6% annually (2025-2026), with cord-cutting among under-50 households especially steep: only 16% still subscribe versus 64% of over-65 demographics.",
+    "warn": false
+   },
+   {
+    "num": "8.6–9.8%",
+    "txt": "Cable provider operating margins remained thin at 8.6–9.8% (2025-2026 baseline), despite rate hikes, due to rising content costs and competitive pressure from fiber and 5G home internet.",
+    "warn": true
+   },
+   {
+    "num": "1.8M + 900K",
+    "txt": "Fixed wireless access captured market share: T-Mobile added 1.8M FWA customers in 2025 alone; AT&T added 900K. Fiber captured 27% of broadband market by 2025-2026.",
+    "warn": false
+   },
+   {
+    "num": "$34.5B",
+    "txt": "Charter-Cox merger ($34.5B) approved by FCC in March 2026 (expected close summer 2026) created a 38M+ customer bundle across 41 states to consolidate lock-in and defend margin.",
+    "warn": false
+   },
+   {
+    "num": "-1.6% CAGR",
+    "txt": "US vending machine market shrank -1.6% CAGR through 2026 ($7.9B market size in 2026, down from $10.2B in 2022), masked by technology shifts to cashless and AI-enabled machines.",
+    "warn": true
+   },
+   {
+    "num": "58% vs. 42%",
+    "txt": "Cashless payment captured 58% market share in vending (2025) versus cash at 42%, raising average transaction value from $1.78 to $2.24—a 26% lift enabling dynamic pricing in captive locations.",
+    "warn": false
+   },
+   {
+    "num": "$20 vs. $7",
+    "txt": "Micromarkets (self-checkout kiosks in captive locations) generate $20/month per customer versus $7 at traditional vending, demonstrating premium pricing power where exits are expensive.",
+    "warn": false
+   },
+   {
+    "num": "40+ acquisitions",
+    "txt": "Top 20 global vending operators consolidated 40+ regional acquisitions in 2023-2025, cementing control of high-value captive locations and preventing price competition.",
+    "warn": false
+   }
+  ],
+  "evidence": [
+   "Cable providers (Media & Entertainment): Cable broadband subscriber losses in 2025 for the first time in 30 years, yet margins defended at 8.6–9.8% through bundling strategy; Charter-Cox $34.5B merger (March 2026) consolidates 38M+ customers across 41 states.",
+   "Fixed wireless access (Telecommunications): T-Mobile added 1.8M FWA customers in 2025; AT&T added 900K; FWA now serves 7–8% of US broadband market, yet cable still holds pricing power through bundle lock-in.",
+   "Vending machine operators (Retail): Cashless payment rose to 58% market share (2025), enabling 26% transaction value lift ($1.78→$2.24); micromarkets in captive locations earn $20/month per customer versus $7 at traditional vending.",
+   "Vending consolidation (Retail): Top 20 global operators consolidated 40+ regional acquisitions (2023-2025), controlling high-value captive locations (offices, transit hubs) where exit costs are high.",
+   "Work-from-home stasis (Workplace): Hybrid work remained at 44% (2025-2026), never reverting to pre-pandemic norms, yet vending in captive locations (offices, transit) maintained pricing power through location lock-in despite declining foot traffic."
+  ],
+  "win": "Cable providers and regional broadband incumbents win by bundling declining services (video) with essential ones (broadband and phone). Switching costs—changing phone numbers, TV provider, and internet in one move—outweigh the price premium customers now pay. Vending operators win by controlling captive locations and consolidating the best spots; top 20 operators absorbed 40+ regional players to cement their hold. Both make money not by improving the product but by making the exit door more expensive than staying. Charter's $34.5B merger works because 38M+ bundled customers across 41 states can't easily switch without disrupting their entire household. A micromarket in a corporate cafeteria works because you're hungry *right now* and walking three blocks to a grocery store costs more time than paying the 50-cent markup.",
+  "lose": "Customers in bundled cable markets and captive vending locations lose. Cable subscribers pay higher rates for declining video quality and service (the price increases fund margin defense, not investment). Younger households especially lose—only 16% of under-50 cable TV subscribers remain, yet they're forced into bundled internet packages where they subsidize video losses with broadband overpayment. Vending customers lose to dynamic pricing: cashless payment enabled a 26% rise in transaction value, benefiting operators but shrinking customer surplus. Smaller regional cable providers and independent vending operators lose through consolidation: Charter-Cox creates a 38M+ duopoly that can raise rates with minimal competition, and top 20 vending operators now control the micromarket upside that smaller players can't access. The retail landscape becomes less competitive, not more efficient.",
+  "worry": "The single biggest risk is that lock-in margin defense is inherently temporary. Cable broadband lost customers to fiber and 5G for the first time in 2025 precisely because the bundle no longer justifies the price—video is dying, phone service is commodity, and pure internet-only entrants (fiber providers, 5G home internet) now offer the core service without the markup. As fiber deployment accelerates and FWA coverage expands, even bundled customers will defect. Vending micromarkets face a similar cliff: if workplace return accelerates or if mobile payment and delivery apps (DoorDash, Uber Eats) in office buildings compete for the same captive customer, the $20/month premium evaporates instantly. The lock-in works only as long as the exit actually costs more than the stay—the moment it doesn't, margin collapses.",
+  "one_sentence": "Lock-in defends margin by making the exit door more expensive than the stay—bundle services, consolidate captive locations, and control geography—but it buys time, not permanence, as newer competitors enter the same space.",
+  "slug": "the-lock-in-defense",
+  "force": "the-margin-vise",
+  "group": "C · Where the lock-in defends the margin",
+  "nav_title": "The lock-in defense",
+  "cap": false
+ },
+ {
+  "title": "Utility-like resilience",
+  "dek": "Regulated or contracted essential services hold margins when competitors get squeezed.",
+  "one_sentence": "Businesses that lock in long-term contracts or operate under regulatory price protection survive margin compression that destroys flexible competitors.",
+  "lede": "When labor and materials and energy get expensive fast, and you can't just raise your price without asking permission, most businesses get crushed. But some industries have built walls. They operate under contracts, regulatory approval, or essential-service status that let them pass costs to customers or lock in margins for years. That structural protection is becoming worth more than operational efficiency.",
+  "what_changed": "The US waste-to-energy sector shows how this protection works in practice. The market is $1.4 billion in 2025, running 64 plants across 21 states, operated by just 9 companies with 1,870 workers. Margins sit at 18-25% EBITDA in 2025—almost double the baseline of 8.7% net profit in 2021. The reason: data centers are signing long-term renewable baseload power contracts. AI-focused data centers tripled power consumption in 2025, and tech companies signed 40% of all new corporate renewable energy PPAs. Those contracts lock in prices for waste-to-energy operators years in advance. Yes, landfill gas capture is eating into the sector—598 systems now produce 64% of US renewable gas, and an EPA methane rule in 2027 will push 705 more landfills toward gas extraction. But waste-to-energy margins stay fat because the contracts are there. Competition from cheaper alternatives (landfill gas runs 25-30% EBITDA margins) actually makes the locked-in contracts more valuable, not less. Reworld, the rebranded Covanta under EQT Infrastructure, processes 20.8 million tons yearly and is consolidating the industry, signaling that only operators big enough to hold long-term customer relationships survive.\n\nNatural gas distribution shows the flip side. The US gas distribution market is $222.5 billion in 2025. It's fragmented—435 to 450 companies, ~99,000 workers—and operated by regulated utilities. Their margins should be stable. They're not. Natural gas prices jumped 60% from 2024 to 2025. Wholesale Henry Hub prices are forecast at $3.67/MMBtu for 2026 and $3.49 for 2027. The problem is structural: retail rates are regulated and move slowly through public utility commissions, but input costs spike overnight. In 2025, residential and commercial demand surged 7% to 22.5 Bcf/d due to weather and economic recovery. Industrial demand hit a record 23.6 Bcf/d, driven by manufacturing and the data center boom. Behind-the-meter natural gas generation—101 gigawatts of it—has been announced by hyperscalers bypassing the grid entirely. That demand surge should be good news for distributors. Instead, it's pressure. Regulators are adding fiber optic monitoring and methane controls to new pipe, and state climate targets (California wants 100% clean energy by 2045) directly contradict the utility business model that earns returns by building more gas infrastructure. The \"utility-like\" label protects distributors from price wars, but it also locks them into a rate-base model that's under siege from policy.\n\nWhat's scarce now is optionality. Waste-to-energy margins stayed wide because they locked in demand early through contracts; gas distribution margins compress despite the \"regulated utility\" label because regulation is asymmetric—prices go up for inputs, down for outputs, and policy is turning against the business. Energy transition risk is real. Updated methane rules (2027), LNG export surges anchoring high prices abroad, and data center electricity demand all shift the ground. But the companies that win are those that can lock in long-term customer commitments at predictable prices. Reworld signals this by consolidating regionally and shifting from incineration to materials recovery and alternative fuels—moving toward customers with longer-term needs. Gas distributors are trapped: essential service status means you can't walk away, but it also means you can't raise prices fast enough to match costs. April 2025 saw Chesapeake Utilities merge its three Maryland gas distribution companies into one unified operator; consolidation is the only lever left when regulation breaks.",
+  "facts": [
+   {
+    "num": "$1.4B",
+    "txt": "US waste-to-energy plant operation market size in 2025, up from $1.36B in 2021; 64 plants across 21 states, 9 operators."
+   },
+   {
+    "num": "18-25%",
+    "txt": "EBITDA margins for waste-to-energy in 2025, compared to 8.7% net profit margin in 2021—a jump of 10 percentage points."
+   },
+   {
+    "num": "17%",
+    "txt": "Surge in data center electricity consumption in 2025, with AI-focused facilities tripling power use and signing 40% of all new corporate renewable energy PPAs."
+   },
+   {
+    "num": "$222.5B",
+    "txt": "US natural gas distribution market size in 2025; fragmented across 435-450 enterprises, ~99,000 workers in 2022, projected 104,000+ by 2026."
+   },
+   {
+    "num": "60%",
+    "txt": "Increase in natural gas prices from 2024 to 2025; Henry Hub forecast at $3.67/MMBtu for 2026, creating cost pressure on regulated utilities with slow retail rate adjustment.",
+    "warn": true
+   },
+   {
+    "num": "23.6 Bcf/d",
+    "txt": "Record industrial natural gas consumption in 2025, driven by manufacturing and data center buildout; residential/commercial demand surged 7% to 22.5 Bcf/d."
+   },
+   {
+    "num": "101 GW",
+    "txt": "Behind-the-meter natural gas generation capacity announced by hyperscalers to bypass interconnection gridlock, fragmenting traditional utility distribution models."
+   },
+   {
+    "num": "705",
+    "txt": "Additional US landfills now eligible for gas extraction under updated EPA methane rule taking effect August 2025, intensifying competition for waste-to-energy operators."
+   }
+  ],
+  "evidence": [
+   "Waste-to-energy operators hold 18-25% EBITDA margins in 2025 because data centers signed 40% of new corporate renewable energy PPAs, locking in long-term baseload contracts.",
+   "Natural gas distributors (US market $222.5B, 2025) see margins compressed despite regulated status because input costs (Henry Hub $3.67/MMBtu forecast 2026) spike faster than retail rate adjustments.",
+   "Data center electricity demand surged 17% in 2025, with AI facilities tripling power use, creating new demand for contracted baseload capacity that protects waste-to-energy margins but leaves flexible gas distributors exposed.",
+   "Behind-the-meter natural gas generation (101 GW announced) bypasses traditional distribution utilities, fragmenting the once-stable rate-base model and forcing consolidation (Chesapeake Utilities, April 2025).",
+   "Updated EPA methane rule (August 2025) pushes 705 additional landfills toward gas extraction, intensifying competition for waste-to-energy but reinforcing that only consolidated, contract-focused operators survive."
+  ],
+  "win": "Waste-to-energy operators and regional gas consolidators that lock in long-term contracts and can pass through costs under regulation or PPAs. Reworld, the consolidated waste operator processing 20.8 million tons annually, wins by shifting toward materials recovery and alternative fuels—moving away from pure incineration toward customers with longer-term, stickier demand. Hyperscalers win by announcing 101 GW of behind-the-meter generation, circumventing grid constraints and forcing utilities to negotiate. Consolidated regional distributors (like Chesapeake after its 2025 merger) win by reducing operational complexity and bargaining power with regulators.",
+  "lose": "Fragmented, small-footprint waste operators that lack contracts or scale to negotiate with data center buyers. Traditional natural gas distributors caught between regulated retail rates and unregulated input costs—they can't raise prices fast enough to match the 60% surge in wholesale costs from 2024 to 2025. Independent landfill operators face margin pressure as 598 landfill gas systems now produce 64% of renewable natural gas, with 20 new projects adding 39.9 Bcf capacity in 2025 alone. Utilities serving areas with state climate targets conflicting with gas infrastructure earn returns on assets that policy is actively attempting to strand.",
+  "worry": "The regulatory protection that makes utilities \"resilient\" is eroding faster than expected. Data center demand (101 GW behind-the-meter) bypasses utilities entirely, fragmenting the rate base they depend on. State climate policy (California 100% clean energy by 2045) directly contradicts the gas utility business model. Updated EPA methane rules (2027) force capital spending on monitoring without guaranteed rate recovery. If regulators can't or won't raise retail rates in line with wholesale costs, the utility-like businesses become margin vises themselves—essential but unprofitable.",
+  "slug": "utility-like-margins",
+  "force": "the-margin-vise",
+  "group": "C · Where the lock-in defends the margin",
+  "nav_title": "Utility-like resilience",
+  "cap": false
+ },
+ {
+  "title": "Automating the cost away",
+  "dek": "When labor gets too expensive to pay and tariffs make material scarce, the only escape is to not need as many workers at all.",
+  "lede": "Across American manufacturing and retail, the margin vise is closing on two fronts at once: wages and input costs are climbing relentlessly, but pricing power is stuck. The only real lever left is automation. Industries aren't investing in robots and AI vision systems because they're trendy—they're doing it because without them, they have no choice but to shrink.",
+  "what_changed": "The meat processing industry offers the clearest picture of automation as a survival move. Beef cattle prices are forecast to average $240 per hundredweight in 2026, up 7% from 2025, driven by tight cattle supplies. But that's only half the pressure. The labor market has become nearly impossible to navigate. Meat-cutting and evisceration work is brutal—high injury rates, dangerous equipment, repetitive strain—and processors can't fill roles at any wage. Immigration enforcement under Trump has tightened labor supply further. So between 2025 and 2026, meat processors accelerated investment in cobots and AI vision systems to automate de-hoofing, evisceration, and packaging roles. The global market for automation robots is now projected to reach $4.5 billion by 2033 at a 9.2% annual growth rate. These aren't nice-to-have upgrades; they're the difference between margins staying at 5.1% (2026) or collapsing. The meat processing industry employed 539,000+ workers in 2021, with employment growing at just 0.65–0.7% annually—a sign that automation is deliberately slowing headcount even as production capacity expands. Meanwhile, tariff chaos has been adding salt to the wound. China locked out US beef in 2025, wiping out 96% of sales (down to 556 metric tons exported in September 2025). Even with the May 2026 trade deal that reduced China's tariffs on pork from 172% to 57%, processors haven't regained access, forcing them to find new markets or cut production. In this squeeze, automation becomes the only path forward.\\n\\nThe vending machine industry shows a different but equally stark version of this story. The market shrank from $10.2 billion in 2022 to $7.9 billion in 2026—a decline of 1.6% annually—even as technology investment surged. The core problem: per capita soda consumption is falling, return-to-office has stalled at roughly 44% of the workforce in 2025-2026 (nowhere near pre-pandemic norms), and health-conscious consumers are ditching traditional snacks. But rather than accept margin collapse, the top 20 global vending operators consolidated 40+ regional players between 2023 and 2025, then invested over $1.4 billion in connected hardware (EU alone in 2024) to automate location scouting, inventory prediction, and dynamic pricing. Cashless payment technology—led by modules like Crane NXT's CPI Evolution launched in January 2025—has captured 58% market share by 2025 and raised average transaction value from $1.78 to $2.24. Nearly 6.5 million connected vending machines with AI and IoT monitoring are now deployed globally (34% of revenue from North America as of January 2026). These machines don't need a person to restock them as often, don't require cash handling, and predict what sells before demand appears. Yet despite this heavy automation investment, the industry is still shrinking because demand itself is fragmenting: micromarkets—self-checkout unattended retail kiosks—are cannibalizing high-value vending locations, generating $20 per month per customer versus $7 at traditional machines. Automation here doesn't rescue the industry; it just lets the survivors cling to margin as the market underneath them shrinks.\\n\\nWhat automation does, in both cases, is make labor a smaller or optional part of the cost structure. It turns a brutal labor shortage (meat processing) or labor logistics problem (vending) into an engineering problem. In meat processing, the calculation is clear: automate the hardest-to-fill roles, keep the throughput up, and avoid wage escalation that would crater margins faster than the tariff shocks already have. In vending, the calculation is different but equally hard-nosed: replace location scouts and frequent restocking visits with AI and remote fleet management, raise transaction value through cashless payment, and compete on data and location optimization instead of manpower. Neither industry is becoming a bastion of good jobs. Both are shedding headcount relative to output, not adding it. Margins stay compressed because input costs (cattle, energy, commissions, product) are still rising faster than pricing power, but at least automation buys time and slows the bleeding.\"",
+  "facts": [
+   {
+    "num": "$387.7B",
+    "txt": "Meat and poultry processing industry size in 2026, up from $227.6B in 2021, with margins at 5.1% (2026) vs. 4.7% (2021).",
+    "warn": false
+   },
+   {
+    "num": "$240/cwt",
+    "txt": "Beef cattle prices forecast to average $240 per hundredweight in 2026, up 7% from 2025, driven by tight cattle supplies.",
+    "warn": true
+   },
+   {
+    "num": "96%",
+    "txt": "Decline in US beef exports to China in September 2025 (556 metric tons vs. prior year), after China's lockout of US beef in 2025.",
+    "warn": true
+   },
+   {
+    "num": "$4.5B by 2033",
+    "txt": "Global market projection for automation robots used in processing, growing at 9.2% annually from 2025 baseline.",
+    "warn": false
+   },
+   {
+    "num": "0.65–0.7%",
+    "txt": "Annual employment growth rate in meat processing (539,000+ workers baseline 2021), despite production growth—a sign automation is replacing headcount.",
+    "warn": true
+   },
+   {
+    "num": "$7.9B",
+    "txt": "Vending machine industry market size in 2026, down from $10.2B in 2022, declining at 1.6% annually through 2026.",
+    "warn": true
+   },
+   {
+    "num": "58%",
+    "txt": "Cashless payment market share in vending machines by 2025, up from cash's 42%, raising average transaction value from $1.78 to $2.24.",
+    "warn": false
+   },
+   {
+    "num": "6.5M",
+    "txt": "Connected vending machines with AI/IoT monitoring deployed globally as of January 2026, with North America representing 34% of revenue.",
+    "warn": false
+   }
+  ],
+  "evidence": [
+   "Meat processing (US): Beef cattle prices rising 7% YoY to $240/cwt (2026), while labor shortages force automation of evisceration and packaging roles; global automation robot market projected $4.5B by 2033 at 9.2% CAGR.",
+   "Meat processing (US): China lockout wiped out 96% of US beef exports in September 2025 (556 mt), forcing processors to redirect output or cut production amid tariff chaos.",
+   "Vending (US): Industry shrinking from $10.2B (2022) to $7.9B (2026) at 1.6% annual decline, yet operators consolidated 40+ regional players and invested $1.4B+ in connected hardware (EU 2024 alone) to automate location scouting and inventory.",
+   "Vending (US): Cashless AI-enabled machines captured 58% market share by 2025, raising per-machine transaction value 26% from $1.78 to $2.24, while micromarkets cannibalize traditional locations at $20/month per customer vs. $7.",
+   "Meat processing (US): Employment growing only 0.65–0.7% annually despite production growth, indicating automation deliberately replacing headcount to manage labor costs and tariff-driven squeezes."
+  ],
+  "win": "Big, consolidated players with scale and capital to invest in automation technology—the top 20 vending operators, the Big Four meat processors (JBS, Tyson, Cargill, National Beef). They can absorb the $1.4B+ CapEx costs of AI-enabled machines, robotics systems, and data infrastructure. They also win from consolidation itself: they've been buying out smaller regional rivals who can't afford to automate, concentrating margin capture among fewer, larger firms despite industry-wide demand shrinkage.",
+  "lose": "Independent and small-to-medium processors and vending operators. They lack the capital and scale to invest in automation fast enough to stay ahead of labor cost inflation and tariff shocks. In vending, independent operators are being squeezed from above (by consolidated giants with AI optimization) and from below (by micromarkets and work-from-home trends). In meat processing, smaller regional plants can't justify the cobot and AI vision system investments on their own, and they can't match the Big Four's bargaining power with suppliers or access to tariff-hedging mechanisms.",
+  "worry": "Automation investment is expensive and slow to pay back. In vending, despite the $1.4B+ hardware investment and consolidation of 40+ players, the industry is still shrinking—automation slows the bleeding but doesn't reverse it. In meat processing, even heavy automation of evisceration and packaging won't fix the tariff problem or cattle supply crunch. If tariffs stay high and cattle supplies remain tight, processors could find themselves with expensive new robots and no pricing power to recoup the investment. Worse, automation creates a debt spiral: once you've invested $1.4B in connected hardware, you have to keep running the machines at high utilization to pay it back, which means you can't easily cut capacity if demand drops further.",
+  "one_sentence": "Automation is the main escape route from the margin vise, but it's a expensive, consolidating move that mostly benefits large players—and it only buys time if pricing power ever returns.",
+  "slug": "automate-the-cost",
+  "force": "the-margin-vise",
+  "group": "D · The escape routes",
+  "nav_title": "Automating the cost away",
+  "cap": false
+ },
+ {
+  "title": "Premium as the Shield",
+  "dek": "When costs rise faster than commodities can absorb, trading up to premium products and customers is the other exit.",
+  "lede": "Labor costs, tariffs, and commodity shocks squeeze margins on standard products. But there's a parallel playbook: sell something worth more. Premium customers will pay more — if you can deliver it. This is not a strategy of last resort. It's where the survivors go.",
+  "what_changed": "The coffee industry in the US is a real-time example. The market sits at $75.5 billion in 2026, but margins are collapsing. Arabica coffee prices surged 21% year-over-year in August 2025 and stayed 18.5% higher than a year prior in April 2026, far faster than consumers will tolerate price increases. Tariffs whipped margins three times in a row: 10–50% rates in spring 2025, removal in November, then reimposed at 10% in February 2026. Starbucks, the largest chain, saw North America operating income plummet 41% — from $5.4 billion in fiscal 2024 to $3.2 billion in fiscal 2025 — because absorbing labor costs and tariff shocks in a commodity-price war doesn't work. Meanwhile, consolidation is already under way. Three independents went bankrupt — Compass Coffee (10 of 30 stores closed, acquired for $2.9 million), Red Bay Coffee, and The Blend — while Keurig Dr Pepper just closed an $18 billion acquisition of JDE Peet's in April 2026, creating a global coffee company with 50+ brands and $16 billion in sales. The consolidators are betting not on competing on price but on scale and brand power — the ability to steer customers toward higher-margin products and formats.\n\nThe dairy industry mirrors the same squeeze from a different angle. The market is $153 billion in 2026, but milk prices have collapsed from their 2022 highs: all-milk prices fell to $21.05 per hundredweight in 2025 and are forecast at just $19.25/cwt for 2026. This is deflation in the shadow of rising production costs. Dairy farm bankruptcies surged 46% year-over-year in 2025, with 315 Chapter 12 filings, plus another 185 in the top 24 dairy states. Wisconsin, once America's dairy heartland, has lost 76% of its herds over recent decades. Labor is a hidden crisis: the US shed 155,000 agricultural workers between March and July 2025 alone. Robotic milking covers only 5% of US farms, versus 20–25% in Denmark and the Netherlands. Tariffs arrived in July 2026 with 50% duties on certain Canadian dairy imports — whey, powders, casein — exempting cheese and fluid milk. Into this wreckage, Leprino Foods closed old California facilities and opened a high-capacity plant in Lubbock, Texas, consolidating for scale. General Mills divested Yoplait yogurt to Lactalis USA for $2.1 billion, reshaping regional competition. The commodity trap is clear: standard milk and yogurt margins are being eroded by deflation, labor shortages, and tariffs. The escape is not to compete harder at the bottom — it's to move up the value chain.\n\nWhere is the premium working? In dairy, cheese holds 24.5% market share and is resilient to tariffs because the July 2026 tariffs exempted cheese specifically — signaling which products the trade negotiators believe can bear higher prices. Plant-based alternatives are growing 13.8% CAGR and captured 62.8% of the organic segment by 2026, carving out a psychological premium (health, sustainability) even as they're often cheaper per unit. In coffee, the scale moves are toward brands — Starbucks' $500 million \"Green Apron Service\" investment in 2025 (500,000 extra shifts in Q2 alone) is a bet on service and convenience as the premium angle, not price. Sixty-five percent of coffee shops are investing in digital ordering, 59% of US consumers bought coffee via drive-thru in fall 2025, and 38% via app — the premiumization is happening in channel and experience, not product alone. The shops and chains that survive will be those that can charge $6–8 for a coffee because the ritual, the customization, the reliability, or the brand story justifies it — not $3 coffee shops competing on commodity fundamentals where tariffs and labor costs render margins unviable.",
+  "facts": [
+   {
+    "num": "$75.5B",
+    "txt": "US coffee and snack shops market size in 2026, with -0.2% growth in 2026 but 2.5% CAGR from 2021–2026, showing a market in transition from expansion to contraction."
+   },
+   {
+    "num": "21%",
+    "txt": "Year-over-year surge in Arabica coffee prices in August 2025, remaining 18.5% higher than April 2026 a year earlier — far outpacing pricing power in a commodity market."
+   },
+   {
+    "num": "41%",
+    "txt": "Starbucks North America operating income decline to $3.2 billion in fiscal 2025 from $5.4 billion in fiscal 2024, driven by labor investment ($500 million 'Green Apron Service' in Q2 2025 alone: 500,000 extra shifts) and tariff/commodity headwinds."
+   },
+   {
+    "num": "$153B",
+    "txt": "US dairy product production market size in 2026, growing only 1.8% year-over-year with a razor-thin 2.8% operating margin pressured by input costs and price deflation."
+   },
+   {
+    "num": "$19.25/cwt",
+    "txt": "Forecast all-milk price for 2026, down from $21.05/cwt in 2025 and far below 2022 peaks — structural deflation squeezing producer margins even as production rises 1.3%."
+   },
+   {
+    "num": "46%",
+    "txt": "Year-over-year surge in US dairy farm bankruptcies in 2025: 315 Chapter 12 filings plus 185 in the top 24 dairy states, with Wisconsin having lost 76% of its herds over recent decades.",
+    "warn": true
+   },
+   {
+    "num": "5%",
+    "txt": "Share of US dairy farms using robotic milking in 2025, versus 20–25% in Denmark and the Netherlands, illustrating the automation gap driving labor crises and consolidation."
+   },
+   {
+    "num": "62.8%",
+    "txt": "Market share of plant-based alternatives in the organic dairy segment by 2026, growing 13.8% CAGR and capturing psychological premiums (health, sustainability) while eroding traditional commodity yogurt margins."
+   }
+  ],
+  "evidence": [
+   "Coffee shops: Arabica prices surged 21% YoY in August 2025 and remained 18.5% higher than April 2026 a year prior, far exceeding consumers' price tolerance; Starbucks North America operating income fell 41% to $3.2B (FY2025) from $5.4B (FY2024).",
+   "Dairy farms: Milk prices collapsed to $21.05/cwt in 2025, forecast at $19.25/cwt for 2026; dairy farm bankruptcies surged 46% YoY in 2025 with 315 Chapter 12 filings (plus 185 in top 24 states).",
+   "Consolidation: Keurig Dr Pepper acquired JDE Peet's for $18 billion in April 2026, creating a $16B global coffee company; Leprino Foods closed California facilities and opened high-capacity plant in Lubbock, Texas.",
+   "Tariffs: 10% coffee tariffs reimposed February 2026 after November removal; July 2026 saw 50% duties on Canadian dairy imports (whey, powders, casein) with cheese exempted, signaling which products can bear higher prices.",
+   "Premium channels: 65% of coffee shops investing in digital ordering; 59% of US consumers bought coffee via drive-thru fall 2025; cheese holds 24.5% market share and is tariff-resilient; plant-based alternatives captured 62.8% of organic segment by 2026 via psychological premium."
+  ],
+  "win": "The consolidators and brand operators win. Keurig Dr Pepper and Lactalis can absorb tariff swings and commodity shocks because they own global supply chains and a portfolio of premium brands that command pricing power. Starbucks survives by moving customers to higher-ticket experiences and customization — not lower prices. Cheese producers win because tariff policy exempts them, and cheese has built a cultural and nutritional premium that resists deflation. Plant-based brands win by selling health and sustainability, not just calories, and captured nearly two-thirds of the organic segment. Retailers who can invest in digital ordering, app loyalty, and convenience win because they're selling the ritual and the experience, not a commodity.",
+  "lose": "Independent coffee shops and commodity dairy farms get squeezed out. Three coffee independents went bankrupt (Compass, Red Bay, The Blend) as tariffs and labor costs rendered their margins unviable. Small dairy producers can't afford robotic milking (which covers only 5% of US farms) or ride out the 46% bankruptcy surge in 2025. Commodity-focused producers have no escape: milk at $19.25/cwt forecast for 2026 doesn't justify the labor, the equipment, or the tariff risk on a standard product. The consolidation is not accidental — it's structural. Wisconsin lost 76% of its herds, and the remaining ones will belong to companies large enough to diversify into cheese, plant-based, or premium segments.",
+  "worry": "Premium segmentation only works if customers still exist to buy it. Starbucks' 41% operating income decline shows that even a global premium brand is vulnerable when labor costs rise and tariffs compress margins faster than pricing power allows. If tariffs stay high or escalate, even Keurig's $18 billion acquisition won't insulate it from commodity cost shocks. Coffee shops investing 65% of their base in digital infrastructure are betting that convenience and customization will hold customers at $6–8 price points — but if recession hits consumer discretionary spending, the upscale coffee ritual is the first expense to cut. Dairy's bet on cheese and plant-based is smart, but plant-based alternatives already captured 62.8% of the organic segment in 2026 — if that growth continues and commodity milk prices keep falling, even cheese margins could erode if consumers defect further to cheaper plant-based substitutes. The premium shield works only if it's actually scarce enough to be valuable.",
+  "one_sentence": "When commodity margins disappear, premium brands, consolidators with global scale, and experiences that customers will pay for survive — everyone else exits or consolidates into them.",
+  "slug": "premium-as-shield",
+  "force": "the-margin-vise",
+  "group": "D · The escape routes",
+  "nav_title": "Premium as the shield",
+  "cap": false
+ },
+ {
+  "title": "The Margin Vise",
+  "dek": "Costs rise faster than prices across food, media, and manufacturing—only the automated, premium, and locked-in survive.",
+  "lede": "Margins have turned into a squeeze. Labor costs rise faster than what customers will pay. Materials spike. Tariffs land on top. And pricing power—once the escape hatch—keeps slipping away. Three industries show the pattern: bread makers watching their 4.3% margins get hollowed out by wheat volatility and robot investments; fast food stuck at 5.1% margins while labor floors and tariffs collapse traffic; cable operators clinging to 8.6% margins as their core business—video—dies and broadband gets stolen by fiber.",
+  "what_changed": "The margin vise works like this: input costs move in jumps; pricing power moves in inches. Bread makers face this head-on. The US bread market sits flat at $58.8 billion (2026) with just 1.1% growth since 2021, but labor doesn't cooperate with that flatness. Bakeries deployed 21,000 automation robots in 2024—a 42% jump year-over-year—because the cost of a human worker with benefits simply outran the value they could extract from a loaf. Wheat prices swung 11.1% higher year-over-year by June 2026, then 12.3% lower in a single month, creating impossible planning. Grupo Bimbo, the largest player, posted record sales of 427 billion pesos ($23.8 billion in 2025, up 4.6%) not by raising prices on white bread but by buying competitors (five acquisitions), premiumizing into protein-enriched and gluten-free (forecast 8.89% growth through 2031), and squeezing volume—a textbook escape move. Small bakeries without those levers watched margin vanish.\n\nFast food shows the squeeze in real time. The sector sits at $423.7 billion (2026) with almost no growth—0.7% in 2026 alone—trapped between rising labor and falling traffic. California's $20/hour minimum, in effect since April 2024, lifted operating costs roughly 25% and forced menu prices up 8 to 12%. But customers noticed. Fast food traffic dropped 0.3% in 2025 then accelerated to minus 2% in Q4 2025 versus Q4 2024. GLP-1 adoption made it worse—dinner spending at fast food fell 6% among regular users of appetite-suppressants, and households with someone taking GLP-1 cut restaurant spending by an average 5.3%. Chains tried to offset by raising average check through bundling and upsells, but you can't bundle your way out of a visitor exodus. Tariffs added a hidden injury: low beef inventories, avian flu pressure on poultry, and 15% of US food imports now under tariff created a two-year climb in commodity costs. Operators absorbed much of this into margin because price-sensitive customers won't absorb it. By late 2024, the casualties mounted—BurgerFi Chapter 11 in September, TGI Fridays in November, Uncle Julio's foreclosed in December. The industry is making \"desperate bets on AI automation\" to replace payroll, but that requires capital most regional chains don't have.\n\nCable operators face a different but equally inescapable vise. The cable TV business, once the profit machine, is dying—subscribers fell 2.6% annually in 2025-2026—forcing rate hikes that accelerate cord-cutting, especially among younger households (only 16% still subscribe versus 64% of those over 65). Cable's escape hatch was supposed to be broadband, but in 2025, broadband turned negative for the first time in its 30-year history. Fiber now claims 27% of the broadband market. Fixed wireless access, powered by T-Mobile and AT&T, exploded—T-Mobile added 1.8 million FWA customers in 2025 alone to reach 8 million total by late 2025; AT&T added 900,000. FWA now serves 7 to 8% of the US broadband market. Cable's response is forced consolidation (the Charter-Cox $34.5 billion merger approved by the FCC in March 2026, expected to close summer 2026) and expensive technology upgrades—DOCSIS 4.0 deployments ramping in 2026—to compete with fiber and wireless. But cable operates at 8.6 to 9.8% margins (2022 baseline, under pressure in 2025-2026), and those margin dollars have to cover rising content costs, network upgrades, and competitive battles with rivals that don't carry video's dead weight. Over 50 cable TV companies are expected to cease operations or exit TV services in 2026. For cable, the squeeze isn't about labor or tariffs—it's about a shrinking customer base in the high-margin business forced to fund a brutal fight against fiber and wireless in the low-margin commodity business.",
+  "facts": [
+   {
+    "num": "$58.8B",
+    "txt": "US bread market size in 2026, up just 1.1% since 2021, trapping producers in flat revenue while costs climb"
+   },
+   {
+    "num": "42%",
+    "txt": "Year-over-year jump in food manufacturing robot installations (21,000 total in 2024), as bakeries deploy automation to offset labor scarcity and wage pressure"
+   },
+   {
+    "num": "$20/hr",
+    "txt": "California fast food minimum wage effective April 2024, lifting operating costs roughly 25% and forcing menu prices up 8–12%"
+   },
+   {
+    "num": "-2%",
+    "txt": "Fast food traffic decline in Q4 2025 versus Q4 2024, accelerating from -0.3% in 2025 as GLP-1 adoption and price hikes cut visits"
+   },
+   {
+    "num": "5.3%",
+    "txt": "Average restaurant spending cut by households with a GLP-1 user (2025–2026), creating hidden demand destruction in quick-service segments"
+   },
+   {
+    "num": "$34.5B",
+    "txt": "Charter-Cox cable merger approved March 2026, consolidation forced by 2.6% annual cable TV subscriber losses and fiber/5G competitive pressure"
+   },
+   {
+    "num": "27%",
+    "txt": "Fiber's share of US broadband market by 2025–2026, with cable broadband experiencing net subscriber losses for the first time in 30 years"
+   },
+   {
+    "num": "8.89%",
+    "txt": "Gluten-free bakery product market CAGR through 2031 (forecast $12.99B by 2031 from $7.83B in 2025), the escape hatch for premium bread makers"
+   }
+  ],
+  "evidence": [
+   "Bread production: Grupo Bimbo posted record 2025 sales of 427 billion Mexican pesos ($23.8 billion), +4.6%, by premiumizing into gluten-free (8.89% CAGR through 2031) and protein-enriched segments while the overall market grew just 1.1%",
+   "Fast food: California's $20/hour minimum wage (April 2024) forced menu prices up 8–12% and drove Q4 2025 traffic to -2% year-over-year as GLP-1 adoption cut household restaurant spending by an average 5.3%",
+   "Fast food: Food manufacturing robot installations jumped 42% year-over-year to 21,000 in 2024 as bakeries and QSR chains automate production and scheduling in response to labor scarcity and wage floors",
+   "Cable: Cable broadband experienced net subscriber losses for the first time in 2025 after decades of growth, losing ground to fiber (27% market share) and 5G fixed wireless (T-Mobile added 1.8M FWA customers in 2025 alone)",
+   "Cable: The Charter-Cox merger ($34.5B, approved March 2026, closing summer 2026) consolidates the industry as over 50 cable TV companies face existential pressure and are expected to cease operations or exit TV services in 2026"
+  ],
+  "win": "The winners are consolidators with scale and capital. Grupo Bimbo escaped the flat-market squeeze by buying four competitors, pivoting to premium health-focused bread, and disciplining price/mix—record 2025 results while smaller bakeries watch margin evaporate. Large fast food chains with leverage are pouring capital into AI automation and menu engineering to claw through the squeeze; those without it close or file for bankruptcy. Cable's survival play is the same: Charter and Comcast merge or upgrade to DOCSIS 4.0 and fight for the remaining broadband customer base with fiber-grade speed. The pattern is clear: if you're automated, premiumized, or locked in by customer switching costs, you escape. Everyone else gets squeezed.",
+  "lose": "Regional and independent operators are getting flattened. Small bakeries can't afford the automation investments (21,000 robots deployed in 2024 alone) or the premiumization R&D that Grupo Bimbo and artisanal makers use to escape. Regional fast food chains and franchisees absorb labor inflation and tariff shocks they can't pass through—BurgerFi, TGI Fridays, and Uncle Julio's filed for bankruptcy or foreclosure in late 2024 as traffic deflated and margins collapsed. Smaller cable providers (over 50 facing shutdown in 2026) can't fund the DOCSIS 4.0 upgrades or land the broadband customers needed to offset dying video revenue. They're stuck funding a legacy business that doesn't generate cash while being outcompeted in the growth business by fiber and wireless operators with deeper pockets.",
+  "worry": "The biggest risk is that automation and consolidation solve the squeeze for the big players but crater employment across the industries. Bakeries deployed 21,000 robots in 2024 (42% year-over-year growth), with AI-driven production planning expected to dominate 2026. Fast food is making \"desperate bets on AI automation to replace payroll.\" If that sticks—if a robot or AI system can do the work of 2–3 people—then the labor shortage that drove wage hikes becomes irrelevant, and all those workers have no place to go. The irony is that labor scarcity was the one thing that could force real wage growth for working people; automation kills that pressure. For the broader economy, if cheap fast food becomes cheap and unmanned, and if bread is made by robots, jobs disappear faster than retraining can absorb.",
+  "one_sentence": "When costs rise faster than prices, only the consolidated, automated, and premium survive—and everyone else becomes redundant.",
+  "slug": "the-margin-vise",
+  "force": "the-margin-vise",
+  "group": "E · The big picture",
+  "nav_title": "The margin vise",
+  "cap": true
+ }
+]

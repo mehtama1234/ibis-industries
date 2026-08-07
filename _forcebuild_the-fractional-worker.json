@@ -1,0 +1,133 @@
+{
+ "force": {
+  "slug": "the-fractional-worker",
+  "acc": "purple",
+  "lens": "Societal",
+  "title": "The Fractional Worker",
+  "signature": "Permanent jobs unbundle into gigs, fractional roles, and expert networks \u2014 the firm rents talent by the hour, and the platform in the middle takes the cut.",
+  "groups": {
+   "A \u00b7 Renting the expert": [
+    [
+     "expert-on-demand",
+     "The expert, on demand",
+     "expert-networks management-consulting-in-the-us",
+     "Companies rent senior judgment by the call or the project instead of hiring it full-time."
+    ],
+    [
+     "fractional-leaders",
+     "Fractional leadership",
+     "business-coaching-in-the-us executive-search-recruiters",
+     "Fractional CFOs, CMOs, and coaches replace full-time executives at smaller firms."
+    ],
+    [
+     "the-advice-business",
+     "Advice as a rented service",
+     "hr-consulting-in-the-us marketing-consultants environmental-consulting-in-the-us",
+     "Whole functions \u2014 HR, marketing, compliance \u2014 get rented from consultants instead of staffed."
+    ]
+   ],
+   "B \u00b7 The platforms in the middle": [
+    [
+     "staffing-platforms",
+     "Who places the talent",
+     "executive-search-recruiters freight-forwarding-brokerages-and-agencies-in-the-us",
+     "Recruiters and brokers monetize the matching as work fragments."
+    ],
+    [
+     "the-credential-market",
+     "Selling the credential",
+     "business-certification-and-it-schools-in-the-us educational-services-in-the-us",
+     "Short-course and certification providers sell the fast credentials the gig market rewards."
+    ]
+   ],
+   "C \u00b7 The tensions": [
+    [
+     "the-benefits-gap",
+     "The benefits gap",
+     "health-and-medical-insurance-in-the-us disability-insurance",
+     "Fractional work shifts benefits and stability onto the worker; insurers reprice the risk."
+    ],
+    [
+     "the-firm-thins",
+     "The firm gets thinner",
+     "law-firms-in-the-us accounting-services-in-the-us",
+     "Professional firms lean on contractors and offshoring, thinning the permanent core."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-fractional-worker",
+     "The fractional worker",
+     "expert-networks management-consulting-in-the-us business-coaching-in-the-us",
+     "Capstone: the unit of work shrinks from the job to the task; platforms and specialists win, stability loses."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "expert-on-demand",
+   "title": "The expert, on demand",
+   "group": "A \u00b7 Renting the expert",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__expert-on-demand.txt",
+   "is_capstone": false,
+   "angle": "Companies rent senior judgment by the call or the project instead of hiring it full-time."
+  },
+  {
+   "slug": "fractional-leaders",
+   "title": "Fractional leadership",
+   "group": "A \u00b7 Renting the expert",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__fractional-leaders.txt",
+   "is_capstone": false,
+   "angle": "Fractional CFOs, CMOs, and coaches replace full-time executives at smaller firms."
+  },
+  {
+   "slug": "the-advice-business",
+   "title": "Advice as a rented service",
+   "group": "A \u00b7 Renting the expert",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__the-advice-business.txt",
+   "is_capstone": false,
+   "angle": "Whole functions \u2014 HR, marketing, compliance \u2014 get rented from consultants instead of staffed."
+  },
+  {
+   "slug": "staffing-platforms",
+   "title": "Who places the talent",
+   "group": "B \u00b7 The platforms in the middle",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__staffing-platforms.txt",
+   "is_capstone": false,
+   "angle": "Recruiters and brokers monetize the matching as work fragments."
+  },
+  {
+   "slug": "the-credential-market",
+   "title": "Selling the credential",
+   "group": "B \u00b7 The platforms in the middle",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__the-credential-market.txt",
+   "is_capstone": false,
+   "angle": "Short-course and certification providers sell the fast credentials the gig market rewards."
+  },
+  {
+   "slug": "the-benefits-gap",
+   "title": "The benefits gap",
+   "group": "C \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__the-benefits-gap.txt",
+   "is_capstone": false,
+   "angle": "Fractional work shifts benefits and stability onto the worker; insurers reprice the risk."
+  },
+  {
+   "slug": "the-firm-thins",
+   "title": "The firm gets thinner",
+   "group": "C \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__the-firm-thins.txt",
+   "is_capstone": false,
+   "angle": "Professional firms lean on contractors and offshoring, thinning the permanent core."
+  },
+  {
+   "slug": "the-fractional-worker",
+   "title": "The fractional worker",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-fractional-worker__the-fractional-worker.txt",
+   "is_capstone": true,
+   "angle": "Capstone: the unit of work shrinks from the job to the task; platforms and specialists win, stability loses."
+  }
+ ]
+}

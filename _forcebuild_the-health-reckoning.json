@@ -1,0 +1,163 @@
+{
+ "force": {
+  "slug": "the-health-reckoning",
+  "acc": "red",
+  "lens": "Cultural",
+  "title": "The Health Reckoning",
+  "signature": "GLP-1 drugs, the sober-curious wave, and the retreat from sugar are rewriting what people eat and drink \u2014 volume shrinks, and only the health-aligned or premium survive.",
+  "groups": {
+   "A \u00b7 The drug that changed appetite": [
+    [
+     "the-glp1-shockwave",
+     "The GLP-1 shockwave",
+     "weight-loss-services-in-the-us brand-name-pharmaceutical-manufacturing-in-the-us",
+     "Weight-loss drugs cut appetite and are already reshaping food, drink, and weight-loss demand."
+    ],
+    [
+     "snacking-under-siege",
+     "Snacking under siege",
+     "candy-production-in-the-us ice-cream-production-in-the-us cookie-cracker-and-pasta-production-in-the-us",
+     "Indulgent, calorie-dense categories face structural demand pressure as appetites shrink and scrutiny rises."
+    ]
+   ],
+   "B \u00b7 The retreat from alcohol": [
+    [
+     "sober-curious",
+     "The sober-curious wave",
+     "wine-bars breweries-in-the-us bars-and-nightclubs-in-the-us",
+     "Younger drinkers drink less; alcohol venues and makers face a structural, not cyclical, decline."
+    ],
+    [
+     "spirits-in-contraction",
+     "Spirits in contraction",
+     "whiskey-and-bourbon-distilleries distilleries-in-the-us",
+     "A boom-to-bust hangover: gluts, tariffs, and moderation hit premium spirits hard."
+    ]
+   ],
+   "C \u00b7 The health-aligned winners": [
+    [
+     "functional-drinks",
+     "Functional & better-for-you drinks",
+     "energy-drink-production juice-production-in-the-us",
+     "Sugar-free, functional, and 'better-for-you' positioning is the only growth lane left in beverages."
+    ],
+    [
+     "the-diet-rewires",
+     "When diet meets convenience",
+     "meal-kit-delivery-services frozen-food-production-in-the-us",
+     "Health-conscious, convenient eating reshuffles who wins in packaged and prepared food."
+    ],
+    [
+     "what-you-drink-now",
+     "What you drink now",
+     "coffee-and-snack-shops-in-the-us dairy-product-production-in-the-us",
+     "Coffee, milk alternatives, and snacks reposition around health and premium to hold volume."
+    ]
+   ],
+   "D \u00b7 The tensions": [
+    [
+     "fast-food-reckoning",
+     "Fast food's reckoning",
+     "fast-food-restaurants-in-the-us chain-restaurants-in-the-us",
+     "Value and indulgence collide with health scrutiny and GLP-1; chains reformulate or lose share."
+    ],
+    [
+     "regulation-and-warnings",
+     "Regulation & the warning label",
+     "energy-drink-production candy-production-in-the-us",
+     "Health warnings, sugar rules, and scrutiny become a cost and a repositioning trigger."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-health-reckoning",
+     "The health reckoning",
+     "weight-loss-services-in-the-us wine-bars energy-drink-production fast-food-restaurants-in-the-us",
+     "Capstone: wellness and weight-loss drugs shrink volume across food and drink; health-aligned and premium win, vice loses."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "the-glp1-shockwave",
+   "title": "The GLP-1 shockwave",
+   "group": "A \u00b7 The drug that changed appetite",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__the-glp1-shockwave.txt",
+   "is_capstone": false,
+   "angle": "Weight-loss drugs cut appetite and are already reshaping food, drink, and weight-loss demand."
+  },
+  {
+   "slug": "snacking-under-siege",
+   "title": "Snacking under siege",
+   "group": "A \u00b7 The drug that changed appetite",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__snacking-under-siege.txt",
+   "is_capstone": false,
+   "angle": "Indulgent, calorie-dense categories face structural demand pressure as appetites shrink and scrutiny rises."
+  },
+  {
+   "slug": "sober-curious",
+   "title": "The sober-curious wave",
+   "group": "B \u00b7 The retreat from alcohol",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__sober-curious.txt",
+   "is_capstone": false,
+   "angle": "Younger drinkers drink less; alcohol venues and makers face a structural, not cyclical, decline."
+  },
+  {
+   "slug": "spirits-in-contraction",
+   "title": "Spirits in contraction",
+   "group": "B \u00b7 The retreat from alcohol",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__spirits-in-contraction.txt",
+   "is_capstone": false,
+   "angle": "A boom-to-bust hangover: gluts, tariffs, and moderation hit premium spirits hard."
+  },
+  {
+   "slug": "functional-drinks",
+   "title": "Functional & better-for-you drinks",
+   "group": "C \u00b7 The health-aligned winners",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__functional-drinks.txt",
+   "is_capstone": false,
+   "angle": "Sugar-free, functional, and 'better-for-you' positioning is the only growth lane left in beverages."
+  },
+  {
+   "slug": "the-diet-rewires",
+   "title": "When diet meets convenience",
+   "group": "C \u00b7 The health-aligned winners",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__the-diet-rewires.txt",
+   "is_capstone": false,
+   "angle": "Health-conscious, convenient eating reshuffles who wins in packaged and prepared food."
+  },
+  {
+   "slug": "what-you-drink-now",
+   "title": "What you drink now",
+   "group": "C \u00b7 The health-aligned winners",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__what-you-drink-now.txt",
+   "is_capstone": false,
+   "angle": "Coffee, milk alternatives, and snacks reposition around health and premium to hold volume."
+  },
+  {
+   "slug": "fast-food-reckoning",
+   "title": "Fast food's reckoning",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__fast-food-reckoning.txt",
+   "is_capstone": false,
+   "angle": "Value and indulgence collide with health scrutiny and GLP-1; chains reformulate or lose share."
+  },
+  {
+   "slug": "regulation-and-warnings",
+   "title": "Regulation & the warning label",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__regulation-and-warnings.txt",
+   "is_capstone": false,
+   "angle": "Health warnings, sugar rules, and scrutiny become a cost and a repositioning trigger."
+  },
+  {
+   "slug": "the-health-reckoning",
+   "title": "The health reckoning",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-health-reckoning__the-health-reckoning.txt",
+   "is_capstone": true,
+   "angle": "Capstone: wellness and weight-loss drugs shrink volume across food and drink; health-aligned and premium win, vice loses."
+  }
+ ]
+}

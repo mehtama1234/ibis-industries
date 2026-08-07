@@ -1,0 +1,149 @@
+{
+ "force": {
+  "slug": "the-margin-vise",
+  "acc": "red",
+  "lens": "Economic",
+  "title": "The Margin Vise",
+  "signature": "Labor, materials, energy, and tariffs rise faster than pricing power \u2014 margins compress, and only the automated, the premium, or the locked-in escape the squeeze.",
+  "groups": {
+   "A \u00b7 Food gets squeezed": [
+    [
+     "food-producers",
+     "The food-producer squeeze",
+     "bread-production-in-the-us dairy-product-production-in-the-us meat-beef-and-poultry-processing-in-the-us",
+     "Commodity, labor, and energy costs outrun what packaged-food makers can charge."
+    ],
+    [
+     "the-sweet-squeeze",
+     "The sweet-goods squeeze",
+     "candy-production-in-the-us ice-cream-production-in-the-us chocolate-production-in-the-us",
+     "Cocoa, sugar, and dairy inflation crush indulgent-category margins."
+    ]
+   ],
+   "B \u00b7 Serving food at a loss-leader price": [
+    [
+     "restaurant-margins",
+     "The restaurant margin trap",
+     "fast-food-restaurants-in-the-us chain-restaurants-in-the-us coffee-and-snack-shops-in-the-us",
+     "Wage and food inflation collide with price-sensitive diners."
+    ],
+    [
+     "drinks-margins",
+     "The drinks squeeze",
+     "breweries-in-the-us beer-wholesaling-in-the-us juice-production-in-the-us",
+     "Input costs and flat demand compress beverage margins."
+    ]
+   ],
+   "C \u00b7 Where the lock-in defends the margin": [
+    [
+     "the-lock-in-defense",
+     "The lock-in defense",
+     "cable-providers-in-the-us vending-machine-operators-in-the-us",
+     "Captive locations and bundles defend margin where switching is hard."
+    ],
+    [
+     "utility-like-margins",
+     "Utility-like resilience",
+     "waste-to-energy-plant-operation natural-gas-distribution-in-the-us",
+     "Regulated, contracted, or essential businesses hold margin better."
+    ]
+   ],
+   "D \u00b7 The escape routes": [
+    [
+     "automate-the-cost",
+     "Automating the cost away",
+     "meat-beef-and-poultry-processing-in-the-us vending-machine-operators-in-the-us",
+     "Automation is the main lever left to protect margin from labor inflation."
+    ],
+    [
+     "premium-as-shield",
+     "Premium as the shield",
+     "coffee-and-snack-shops-in-the-us dairy-product-production-in-the-us",
+     "Trading up to premium is the other way to keep pricing power."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-margin-vise",
+     "The margin vise",
+     "bread-production-in-the-us fast-food-restaurants-in-the-us cable-providers-in-the-us",
+     "Capstone: costs rise faster than prices; automate, premiumize, or lock customers in \u2014 or watch margin vanish."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "food-producers",
+   "title": "The food-producer squeeze",
+   "group": "A \u00b7 Food gets squeezed",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__food-producers.txt",
+   "is_capstone": false,
+   "angle": "Commodity, labor, and energy costs outrun what packaged-food makers can charge."
+  },
+  {
+   "slug": "the-sweet-squeeze",
+   "title": "The sweet-goods squeeze",
+   "group": "A \u00b7 Food gets squeezed",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__the-sweet-squeeze.txt",
+   "is_capstone": false,
+   "angle": "Cocoa, sugar, and dairy inflation crush indulgent-category margins."
+  },
+  {
+   "slug": "restaurant-margins",
+   "title": "The restaurant margin trap",
+   "group": "B \u00b7 Serving food at a loss-leader price",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__restaurant-margins.txt",
+   "is_capstone": false,
+   "angle": "Wage and food inflation collide with price-sensitive diners."
+  },
+  {
+   "slug": "drinks-margins",
+   "title": "The drinks squeeze",
+   "group": "B \u00b7 Serving food at a loss-leader price",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__drinks-margins.txt",
+   "is_capstone": false,
+   "angle": "Input costs and flat demand compress beverage margins."
+  },
+  {
+   "slug": "the-lock-in-defense",
+   "title": "The lock-in defense",
+   "group": "C \u00b7 Where the lock-in defends the margin",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__the-lock-in-defense.txt",
+   "is_capstone": false,
+   "angle": "Captive locations and bundles defend margin where switching is hard."
+  },
+  {
+   "slug": "utility-like-margins",
+   "title": "Utility-like resilience",
+   "group": "C \u00b7 Where the lock-in defends the margin",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__utility-like-margins.txt",
+   "is_capstone": false,
+   "angle": "Regulated, contracted, or essential businesses hold margin better."
+  },
+  {
+   "slug": "automate-the-cost",
+   "title": "Automating the cost away",
+   "group": "D \u00b7 The escape routes",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__automate-the-cost.txt",
+   "is_capstone": false,
+   "angle": "Automation is the main lever left to protect margin from labor inflation."
+  },
+  {
+   "slug": "premium-as-shield",
+   "title": "Premium as the shield",
+   "group": "D \u00b7 The escape routes",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__premium-as-shield.txt",
+   "is_capstone": false,
+   "angle": "Trading up to premium is the other way to keep pricing power."
+  },
+  {
+   "slug": "the-margin-vise",
+   "title": "The margin vise",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-margin-vise__the-margin-vise.txt",
+   "is_capstone": true,
+   "angle": "Capstone: costs rise faster than prices; automate, premiumize, or lock customers in \u2014 or watch margin vanish."
+  }
+ ]
+}

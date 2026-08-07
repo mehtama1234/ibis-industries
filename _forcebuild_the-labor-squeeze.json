@@ -1,0 +1,177 @@
+{
+ "force": {
+  "slug": "the-labor-squeeze",
+  "acc": "orange",
+  "lens": "Societal",
+  "title": "The Labor Squeeze",
+  "signature": "Workers got scarce \u2014 wages spiral, the trades can't fill the gap, and whoever can automate or pay up wins while everyone else eats the margin hit.",
+  "groups": {
+   "A \u00b7 The trades can't hire": [
+    [
+     "skilled-trades",
+     "The skilled-trades gap",
+     "electricians-in-the-us heating-and-air-conditioning-contractors-in-the-us roofing-contractors-in-the-us",
+     "An aging trades workforce and few new entrants push wages up faster than contractors can pass them on."
+    ],
+    [
+     "the-builders",
+     "The people who build things",
+     "masonry-in-the-us carpenters-in-the-us concrete-contractors-in-the-us",
+     "Construction demand meets a structural worker shortage; robots and prefab are the reluctant answer."
+    ],
+    [
+     "infrastructure-hands",
+     "Hands for the infrastructure boom",
+     "water-and-sewer-line-construction-in-the-us heavy-engineering-construction-in-the-us home-builders-in-the-us",
+     "Federal money and mandates create work, but the workers to do it are the bottleneck."
+    ]
+   ],
+   "B \u00b7 Care work runs short": [
+    [
+     "the-care-crunch",
+     "The care-worker crunch",
+     "hospitals-in-the-us home-care-providers-in-the-us residential-senior-care-franchises",
+     "Nurses and aides are the scarce input in a demographically guaranteed-demand sector."
+    ],
+    [
+     "clinical-labor",
+     "Clinical labor everywhere",
+     "mental-health-and-substance-abuse-clinics-in-the-us gynecologists-and-obstetricians ambulatory-surgery-centers",
+     "Clinician shortages ripple through every corner of outpatient care."
+    ]
+   ],
+   "C \u00b7 Moving things & serving people": [
+    [
+     "the-driver-shortage",
+     "The driver shortage",
+     "general-freight-trucking-truckload local-freight-trucking-in-the-us long-distance-refrigerated-trucking",
+     "Trucking's chronic driver churn collides with freight cycles; automation looms but isn't here yet."
+    ],
+    [
+     "aviation-labor",
+     "Aviation's people problem",
+     "domestic-airlines-in-the-us airport-operations-in-the-us airline-catering-services",
+     "Pilots, ground crew, and caterers are scarce and unionized; labor sets the cost floor."
+    ],
+    [
+     "hospitality-wages",
+     "The hospitality wage spiral",
+     "fast-food-restaurants-in-the-us chain-restaurants-in-the-us hotels-and-motels-in-the-us",
+     "Low-wage service work reprices upward; operators automate the counter or eat the margin."
+    ]
+   ],
+   "D \u00b7 The responses": [
+    [
+     "automate-or-die",
+     "Automate or eat the margin",
+     "meat-beef-and-poultry-processing-in-the-us dairy-product-production-in-the-us vending-machine-operators-in-the-us",
+     "Where labor can be mechanized, it is; where it can't, margins compress."
+    ],
+    [
+     "the-wage-passthrough",
+     "Passing the wages on",
+     "coffee-and-snack-shops-in-the-us bars-and-nightclubs-in-the-us breweries-in-the-us",
+     "Service businesses try to pass wage inflation to customers \u2014 until price resistance bites."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-labor-squeeze",
+     "The labor squeeze",
+     "electricians-in-the-us home-care-providers-in-the-us general-freight-trucking-truckload fast-food-restaurants-in-the-us",
+     "Capstone: labor is the new scarce resource; automation, wages, and consolidation are the three ways out."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "skilled-trades",
+   "title": "The skilled-trades gap",
+   "group": "A \u00b7 The trades can't hire",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__skilled-trades.txt",
+   "is_capstone": false,
+   "angle": "An aging trades workforce and few new entrants push wages up faster than contractors can pass them on."
+  },
+  {
+   "slug": "the-builders",
+   "title": "The people who build things",
+   "group": "A \u00b7 The trades can't hire",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__the-builders.txt",
+   "is_capstone": false,
+   "angle": "Construction demand meets a structural worker shortage; robots and prefab are the reluctant answer."
+  },
+  {
+   "slug": "infrastructure-hands",
+   "title": "Hands for the infrastructure boom",
+   "group": "A \u00b7 The trades can't hire",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__infrastructure-hands.txt",
+   "is_capstone": false,
+   "angle": "Federal money and mandates create work, but the workers to do it are the bottleneck."
+  },
+  {
+   "slug": "the-care-crunch",
+   "title": "The care-worker crunch",
+   "group": "B \u00b7 Care work runs short",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__the-care-crunch.txt",
+   "is_capstone": false,
+   "angle": "Nurses and aides are the scarce input in a demographically guaranteed-demand sector."
+  },
+  {
+   "slug": "clinical-labor",
+   "title": "Clinical labor everywhere",
+   "group": "B \u00b7 Care work runs short",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__clinical-labor.txt",
+   "is_capstone": false,
+   "angle": "Clinician shortages ripple through every corner of outpatient care."
+  },
+  {
+   "slug": "the-driver-shortage",
+   "title": "The driver shortage",
+   "group": "C \u00b7 Moving things & serving people",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__the-driver-shortage.txt",
+   "is_capstone": false,
+   "angle": "Trucking's chronic driver churn collides with freight cycles; automation looms but isn't here yet."
+  },
+  {
+   "slug": "aviation-labor",
+   "title": "Aviation's people problem",
+   "group": "C \u00b7 Moving things & serving people",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__aviation-labor.txt",
+   "is_capstone": false,
+   "angle": "Pilots, ground crew, and caterers are scarce and unionized; labor sets the cost floor."
+  },
+  {
+   "slug": "hospitality-wages",
+   "title": "The hospitality wage spiral",
+   "group": "C \u00b7 Moving things & serving people",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__hospitality-wages.txt",
+   "is_capstone": false,
+   "angle": "Low-wage service work reprices upward; operators automate the counter or eat the margin."
+  },
+  {
+   "slug": "automate-or-die",
+   "title": "Automate or eat the margin",
+   "group": "D \u00b7 The responses",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__automate-or-die.txt",
+   "is_capstone": false,
+   "angle": "Where labor can be mechanized, it is; where it can't, margins compress."
+  },
+  {
+   "slug": "the-wage-passthrough",
+   "title": "Passing the wages on",
+   "group": "D \u00b7 The responses",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__the-wage-passthrough.txt",
+   "is_capstone": false,
+   "angle": "Service businesses try to pass wage inflation to customers \u2014 until price resistance bites."
+  },
+  {
+   "slug": "the-labor-squeeze",
+   "title": "The labor squeeze",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-labor-squeeze__the-labor-squeeze.txt",
+   "is_capstone": true,
+   "angle": "Capstone: labor is the new scarce resource; automation, wages, and consolidation are the three ways out."
+  }
+ ]
+}

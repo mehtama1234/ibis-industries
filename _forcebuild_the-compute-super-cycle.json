@@ -1,0 +1,163 @@
+{
+ "force": {
+  "slug": "the-compute-super-cycle",
+  "acc": "green",
+  "lens": "Technological",
+  "title": "The Compute Super-Cycle",
+  "signature": "AI's hunger for power is reshaping the grid and everything plugged into it \u2014 whoever has electricity, land, and cooling near the data centers wins a once-in-a-generation buildout.",
+  "groups": {
+   "A \u00b7 Where the machines live": [
+    [
+     "the-data-center-rush",
+     "The data-center land rush",
+     "colocation-facilities data-processing-and-hosting-services-in-the-us",
+     "AI compute demand turns land, power, and cooling into the scarce inputs of the decade."
+    ],
+    [
+     "the-pipes",
+     "The pipes to the internet",
+     "internet-service-providers-in-the-us internet-hosting-services",
+     "Connectivity and hosting ride the same demand surge underneath the AI boom."
+    ],
+    [
+     "the-software-layer",
+     "The software that runs on top",
+     "business-analytics-and-enterprise-software-publishing-in-the-us database-storage-and-backup-software-publishing-in-the-us",
+     "Enterprise and data software monetize the compute build-out."
+    ]
+   ],
+   "B \u00b7 The power scramble": [
+    [
+     "generation-scramble",
+     "The generation scramble",
+     "coal-and-natural-gas-power-in-the-us solar-power-in-the-us wind-power-in-the-us hydroelectric-power-in-the-us",
+     "Data centers need firm power now; gas, solar, wind, and hydro all get pulled in."
+    ],
+    [
+     "the-grid-bottleneck",
+     "The grid bottleneck",
+     "electric-power-transmission-in-the-us natural-gas-distribution-in-the-us gas-pipeline-transportation-in-the-us",
+     "Transmission and gas delivery \u2014 not generation \u2014 become the real constraint."
+    ]
+   ],
+   "C \u00b7 The physical trades of the buildout": [
+    [
+     "the-electrical-trades",
+     "The electrical trades cash in",
+     "electricians-in-the-us heating-and-air-conditioning-contractors-in-the-us engine-and-turbine-manufacturing-in-the-us",
+     "Electricians, cooling contractors, and turbine makers are the picks-and-shovels of compute."
+    ],
+    [
+     "the-concrete-and-steel",
+     "Concrete, steel & the shell",
+     "commercial-building-construction-in-the-us cement-manufacturing-in-the-us",
+     "Data centers are also a construction-materials story \u2014 concrete, steel, and heavy build."
+    ]
+   ],
+   "D \u00b7 The tensions": [
+    [
+     "power-scarcity",
+     "When power gets scarce",
+     "coal-and-natural-gas-power-in-the-us electric-power-transmission-in-the-us",
+     "Whoever can't get power \u2014 homes, factories, small ISPs \u2014 pays more or waits."
+    ],
+    [
+     "waste-heat-and-water",
+     "Heat, water & the environment",
+     "waste-to-energy-plant-operation hydroelectric-power-in-the-us",
+     "Cooling water and waste heat turn into constraints and opportunities."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-compute-super-cycle",
+     "The compute super-cycle",
+     "colocation-facilities coal-and-natural-gas-power-in-the-us electric-power-transmission-in-the-us electricians-in-the-us",
+     "Capstone: AI made electricity and land scarce again; the power-and-buildout chain is the trade of the decade."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "the-data-center-rush",
+   "title": "The data-center land rush",
+   "group": "A \u00b7 Where the machines live",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-data-center-rush.txt",
+   "is_capstone": false,
+   "angle": "AI compute demand turns land, power, and cooling into the scarce inputs of the decade."
+  },
+  {
+   "slug": "the-pipes",
+   "title": "The pipes to the internet",
+   "group": "A \u00b7 Where the machines live",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-pipes.txt",
+   "is_capstone": false,
+   "angle": "Connectivity and hosting ride the same demand surge underneath the AI boom."
+  },
+  {
+   "slug": "the-software-layer",
+   "title": "The software that runs on top",
+   "group": "A \u00b7 Where the machines live",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-software-layer.txt",
+   "is_capstone": false,
+   "angle": "Enterprise and data software monetize the compute build-out."
+  },
+  {
+   "slug": "generation-scramble",
+   "title": "The generation scramble",
+   "group": "B \u00b7 The power scramble",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__generation-scramble.txt",
+   "is_capstone": false,
+   "angle": "Data centers need firm power now; gas, solar, wind, and hydro all get pulled in."
+  },
+  {
+   "slug": "the-grid-bottleneck",
+   "title": "The grid bottleneck",
+   "group": "B \u00b7 The power scramble",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-grid-bottleneck.txt",
+   "is_capstone": false,
+   "angle": "Transmission and gas delivery \u2014 not generation \u2014 become the real constraint."
+  },
+  {
+   "slug": "the-electrical-trades",
+   "title": "The electrical trades cash in",
+   "group": "C \u00b7 The physical trades of the buildout",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-electrical-trades.txt",
+   "is_capstone": false,
+   "angle": "Electricians, cooling contractors, and turbine makers are the picks-and-shovels of compute."
+  },
+  {
+   "slug": "the-concrete-and-steel",
+   "title": "Concrete, steel & the shell",
+   "group": "C \u00b7 The physical trades of the buildout",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-concrete-and-steel.txt",
+   "is_capstone": false,
+   "angle": "Data centers are also a construction-materials story \u2014 concrete, steel, and heavy build."
+  },
+  {
+   "slug": "power-scarcity",
+   "title": "When power gets scarce",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__power-scarcity.txt",
+   "is_capstone": false,
+   "angle": "Whoever can't get power \u2014 homes, factories, small ISPs \u2014 pays more or waits."
+  },
+  {
+   "slug": "waste-heat-and-water",
+   "title": "Heat, water & the environment",
+   "group": "D \u00b7 The tensions",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__waste-heat-and-water.txt",
+   "is_capstone": false,
+   "angle": "Cooling water and waste heat turn into constraints and opportunities."
+  },
+  {
+   "slug": "the-compute-super-cycle",
+   "title": "The compute super-cycle",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-compute-super-cycle__the-compute-super-cycle.txt",
+   "is_capstone": true,
+   "angle": "Capstone: AI made electricity and land scarce again; the power-and-buildout chain is the trade of the decade."
+  }
+ ]
+}
