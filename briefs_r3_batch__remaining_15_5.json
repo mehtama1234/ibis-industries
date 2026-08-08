@@ -1,0 +1,425 @@
+[
+  {
+    "title": "Online Antiques & Collectibles Sales",
+    "sector": "Retail",
+    "one_liner": "Online antiques and collectibles sellers benefit from durable e-commerce adoption and enthusiast demand, but discretionary spending pressure and marketplace competition keep growth moderate.",
+    "overview": "This industry retails or auctions antiques and collectibles online, excluding original art sales. The baseline IBIS-style report put 2020 revenue at $1.564 billion and forecast 2025 revenue of about $1.9 billion, implying a 3.5% 2020-2025 CAGR. Current 2025-2026 data support continued growth: US retail e-commerce reached $326.7 billion in Q1 2026, up 9.8% year over year, while large marketplaces reported strength in collectibles and resale. Growth is still constrained by softer consumer confidence, higher customer-acquisition costs, sales-tax compliance, authentication needs and shipping/returns friction for fragile or high-value goods.",
+    "key_stats": {
+      "market_size": "$2.0 billion US industry revenue in 2026 estimate, extrapolated from the 2025 baseline forecast and current e-commerce growth",
+      "growth": "about 3%-4% estimated 2026 revenue growth; baseline forecast was 3.5% CAGR for 2020-2025",
+      "ecommerce_context": "US retail e-commerce sales were $326.7 billion in Q1 2026, up 9.8% year over year and equal to 16.9% of total retail sales",
+      "profitability": "mid-single-digit operating margin profile; baseline 2020 profit margin was 5.5%",
+      "establishments": "about 10,300 online retailers and auction sellers by 2025 in the baseline forecast",
+      "demand_indicator": "Conference Board Consumer Confidence Index was 90.8 in July 2026, down 1.4 points from June 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "about $1.7 billion in 2022, estimated from 2020 revenue of $1.564 billion and the baseline 3.5% 2020-2025 CAGR forecast",
+      "growth": "about 3.5% estimated 2022 annual growth under the baseline forecast path",
+      "product_mix_2020": "world currencies 44.6%, antiques 17.6%, comics and animation art 14.7%, sports collectibles 13.0%, jewelry 7.5%, wine 2.6%",
+      "profit_margin_2020": "5.5%"
+    },
+    "how_it_makes_money": [
+      "Marketplace commissions and final-value fees on completed sales",
+      "Listing, store-subscription and promoted-listing fees paid by sellers",
+      "Auction buyer premiums and seller commissions for higher-value lots",
+      "Payment-processing, shipping-label and authentication service fees",
+      "Direct resale margins where operators purchase inventory and resell it online"
+    ],
+    "cost_structure": {
+      "largest_costs": "seller payouts or merchandise acquisition costs for inventory-owning retailers; technology, payments, shipping support and buyer/seller service for marketplaces",
+      "labor": "low to moderate versus brick-and-mortar retail because stores are digital, but authentication, cataloging, customer service and fulfillment add specialized labor costs",
+      "marketing": "rising in 2025-2026 as marketplaces compete for search traffic, app engagement and collector communities",
+      "fulfillment": "packing, insurance, returns, fraud prevention and damage claims are significant for fragile, unique or high-value items",
+      "compliance": "sales-tax collection, consumer protection, import rules for antiques, provenance documentation and anti-counterfeit controls add overhead",
+      "profit": "baseline 2020 EBIT margin was 5.5%; current margins vary widely by marketplace scale and whether the operator owns inventory"
+    },
+    "major_players": [
+      "eBay",
+      "Etsy",
+      "1stDibs",
+      "Heritage Auctions",
+      "Ruby Lane",
+      "Chairish",
+      "ShopGoodwill",
+      "Facebook Marketplace",
+      "LiveAuctioneers",
+      "Invaluable"
+    ],
+    "current_dynamics": "The industry is growing because collectibles are easier to discover online than in local shops, major marketplaces are improving search, payments and authentication, and auction houses have normalized online bidding. The demand mix is shifting toward enthusiast categories with active communities, including coins, cards, comics, entertainment memorabilia and luxury vintage goods. At the same time, lower consumer confidence in 2026, higher ad costs, tariff and de minimis changes, shipping risk and counterfeit concerns are pressuring smaller sellers and undifferentiated listings.",
+    "whats_growing": [
+      "Sports cards, trading-card games, comics, animation art and entertainment memorabilia, supported by record auction results in 2025",
+      "Live online auctions and app-based discovery, including eBay Live and specialist auction platforms",
+      "Authenticated and high-trust categories such as coins, watches, jewelry and luxury vintage goods",
+      "Value-oriented resale and vintage shopping among younger buyers",
+      "Marketplace services such as promoted listings, payments, shipping labels and authentication"
+    ],
+    "whats_shrinking": [
+      "Undifferentiated low-end listings that face high competition and weak search visibility",
+      "High-ticket antiques that depend on discretionary affluent spending and are expensive to ship",
+      "Standalone small seller websites that cannot match marketplace traffic or buyer protection",
+      "Platforms with flat or declining buyer counts in discretionary categories, such as Etsy marketplace active buyers declining 3.4% in 2025",
+      "Cross-border low-value flows exposed to tariff and de minimis policy changes in 2025-2026"
+    ],
+    "recent_developments": [
+      "2025-06-02: Etsy completed the sale of Reverb, reducing its exposure to instrument resale and collectibles marketplaces.",
+      "2025-12-31: eBay reported nearly $80 billion of 2025 GMV, with collectibles outpacing the rest of its marketplace.",
+      "2026-01-05: Heritage Auctions reported $2.158 billion in 2025 sales, its fifth consecutive annual record.",
+      "2026-02-27: 1stDibs reported 2025 GMV of $363.9 million and 2025 net revenue of $89.6 million, both roughly flat to modestly up from 2024.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% year over year.",
+      "2026-07-28: The Conference Board reported US consumer confidence at 90.8 for July 2026, signaling caution for discretionary purchases."
+    ],
+    "outlook": "Revenue should keep expanding modestly through 2026 as online buying remains structurally higher than before the pandemic and collectors continue to migrate to marketplaces with strong search, trust and authentication tools. Growth is likely to be uneven by category: scarce, community-driven collectibles should outperform, while bulky antiques and discretionary decor remain more sensitive to household sentiment, mortgage rates and shipping costs. Scale advantages will matter more as platforms absorb compliance, authentication, advertising and fraud-control costs that smaller operators struggle to match.",
+    "themes": [
+      "E-commerce penetration",
+      "Collector communities",
+      "Authentication and provenance",
+      "Marketplace concentration",
+      "Discretionary spending pressure",
+      "Live auctions and social commerce",
+      "Sales-tax and trade compliance",
+      "AI search and recommendation tools",
+      "Shipping, insurance and returns friction"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: online-antiques-and-collectibles-sales.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-antiques-and-collectibles-sales.txt', 'date': '2020-11-23', 'used_for': '2020 revenue, 2025 forecast, baseline product mix, profit margin and industry definition'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales', 'url': 'https://www.census.gov/retail/eCommerce.html', 'date': '2026-05-18', 'used_for': 'Q1 2026 US e-commerce sales, growth and share of retail'}",
+      "{'name': 'eBay Inc. 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm', 'date': '2026-02-18', 'used_for': '2025 GMV, focus categories and collectibles performance commentary'}",
+      "{'name': 'Etsy Inc. 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1370637/000137063726000019/etsy-20251231.htm', 'date': '2026-02-19', 'used_for': '2025 Etsy marketplace GMS, Depop GMS, Reverb sale and discretionary spending pressure'}",
+      "{'name': '1stDibs.com Inc. 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1600641/000160064126000007/dibs-20251231.htm', 'date': '2026-02-27', 'used_for': '2025 GMV, net revenue, users, listings and seller base'}",
+      "{'name': 'Heritage Auctions 2025 sales release', 'url': 'https://www.ha.com/heritage-auctions-press-releases-and-news/heritage-auctions-closes-2025-above-2.15-billion-for-its-fifth-consecutive-annual-sales-record.s?releaseId=5383', 'date': '2026-01-05', 'used_for': '2025 collectibles auction sales momentum'}",
+      "{'name': 'The Conference Board US Consumer Confidence', 'url': 'https://www.conference-board.org/topics/consumer-confidence/index.cfm?os=vbkn42___', 'date': '2026-07-28', 'used_for': 'July 2026 consumer confidence signal for discretionary demand'}",
+      "{'name': 'FRED real disposable personal income', 'url': 'https://fred.stlouisfed.org/series/A067RX1A020NBEA', 'date': '2026-05-28', 'used_for': '2025 real disposable personal income context'}"
+    ],
+    "one_sentence": "The US Online Antiques & Collectibles Sales industry is a small but resilient retail niche, with 2026 revenue estimated near $2.0 billion as collectors increasingly buy coins, sports memorabilia, comics, vintage jewelry and antiques through marketplaces, auctions and specialist platforms.",
+    "slug": "online-antiques-and-collectibles-sales"
+  },
+  {
+    "title": "Online Apartment Rental Services",
+    "sector": "Real Estate",
+    "one_liner": "Online rental marketplaces monetize apartment search by selling listing exposure, leads, leases, applications and marketing software to property managers and landlords.",
+    "overview": "Operators run websites and mobile apps that let renters search, compare, tour virtually, apply for and contact apartment owners or managers. The renter side is usually free; revenue comes from landlords, property managers, brokers and advertisers that pay for subscriptions, promoted placement, cost-per-lead or cost-per-lease products, listing packages, applications and related marketing tools. The baseline IBISWorld report described a young, high-growth industry with 2021 revenue of $591.4 million and a 2021-2026 projected CAGR of about 3.9% to $716.1 million, but public company disclosures now show a larger market: Apartments.com reported $1.25 billion of 2025 revenue and Zillow Rentals reported $630 million of 2025 revenue, before smaller platforms such as Apartment List, Zumper and independent local services.",
+    "key_stats": {
+      "market_size": "2025 estimated US online apartment/rental marketplace revenue: about $2.1 billion to $2.4 billion, based on 2025 Apartments.com revenue of $1.25 billion, 2025 Zillow Rentals revenue of $630 million and smaller competitors.",
+      "growth": "2025 estimated growth: about 20% to 25%, led by Zillow Rentals revenue growth of 39% in 2025 and Apartments.com revenue growth from about $1.07 billion in 2024 to $1.25 billion in 2025.",
+      "mobile_search": "2025 Zillow survey: 81% of recent renters used a mobile website and 73% used a mobile app during search.",
+      "rental_vacancy": "Q2 2026 US rental vacancy rate: 7.3%; Q2 2026 homeownership rate: 65.0%.",
+      "major_platform_scale": "2025 Apartments.com: 841 million renter visits, 152 million Matterport 3D tours and more than 1 million applications; Q4 2025 Zillow Rentals: 31 million average monthly unique visitors and 2.5 million average monthly active rental listings.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $614.5 million in 2021 dollars, derived from IBISWorld 2021 revenue of $591.4 million and its 2021-2026 projected 3.9% CAGR.",
+      "growth": "2022 projected growth: about 3.9%, based on the IBISWorld 2021-2026 forecast CAGR.",
+      "profit_margin": "2021 baseline profit margin: 18.5%.",
+      "enterprises": "2021 baseline enterprises: 4,542; projected 2026 enterprises: 6,415."
+    },
+    "how_it_makes_money": "Revenue comes from property-manager and landlord advertising packages, subscription listings, premium placement, featured search cards, cost-per-lead products, cost-per-lease products, application fees, listing syndication, renter screening tools, property analytics and some display advertising. CoStar says Apartments.com sells comprehensive advertising mainly by subscription, while Zillow Rentals sells packages and tools on cost-per-lead, cost-per-lease, listing, impression and fixed-fee models.",
+    "cost_structure": "The core cost base is technology development, data/listing ingestion, cloud hosting, ad serving, search and paid marketing, sales teams, customer success, listing verification, fraud prevention, content/media operations, legal and G&A. In the 2021 baseline, wages were $165 million, equal to about 27.9% of revenue, and profit was $109 million, equal to an 18.5% margin. In 2025-2026, leading platforms are spending more on AI search, 3D tours, lead acquisition and sales coverage while also emphasizing operating leverage; Zillow cited higher 2025 lead acquisition and ad-serving costs tied to rentals growth and the Redfin/Rent. syndication agreement.",
+    "major_players": [
+      "Apartments.com / CoStar Group: $1.25 billion 2025 Apartments.com revenue; $318 million Q2 2026 Apartments.com revenue, up 9% year over year.",
+      "Zillow Rentals: $630 million 2025 Rentals revenue, up 39%; Q1 2026 Rentals revenue of $183 million, up 42%; Q2 2026 Rentals revenue reportedly up 31%.",
+      "Apartment List: private marketplace emphasizing matching, AI-led search, tours and applications; reported 41 million renters matched and 7 million apartments on its platform in 2026 public app/site materials.",
+      "Zumper: private rental-search platform competing on listings, renter leads and market-rent data.",
+      "Redfin / Rent.com / ApartmentGuide.com: shifted 25+ unit multifamily listings to Zillow under a 2025 exclusive syndication arrangement, while retaining smaller-rental tools."
+    ],
+    "current_dynamics": "The market is consolidating around two national advertising networks: CoStar’s Apartments.com and Zillow’s expanded Rentals Network. Demand from renters remains strongly digital and mobile-first, but property-manager spending is being shaped by elevated vacancies, concessions and high new-apartment supply in many Sun Belt markets. Platforms are competing less on basic listings and more on lead quality, verified inventory, total price transparency, applications, 3D/virtual tours, AI search and measurable lease conversion.",
+    "whats_growing": "Mobile app and mobile-web search, AI-assisted apartment discovery, virtual tours, listing syndication, pay-per-lease products, richer pricing and fee transparency, multifamily advertising packages, renter applications embedded in search flows, and analytics that help property managers compare lead quality and leasing ROI.",
+    "whats_shrinking": "Standalone desktop-only search, print/classified apartment advertising, undifferentiated local listing sites, Redfin/Rent.com/ApartmentGuide.com as separate multifamily listing sales channels after the 2025 Zillow deal, and pricing power in oversupplied apartment markets where landlords have many vacant units and rely on concessions.",
+    "recent_developments": [
+      "Feb 2025: Zillow and Redfin announced Zillow would become the exclusive provider of 25+ unit multifamily rental listings on Redfin, Rent.com and ApartmentGuide.com.",
+      "Jun 2025: Rent.com said Zillow became the sole provider of 25+ unit multifamily listings on the Rent Network as of June 15, 2025.",
+      "Oct 2025: Zillow’s 2025 renter survey reported 81% of recent renters used a mobile website and 73% used a mobile app in rental search.",
+      "Feb 2026: Zillow reported 2025 Rentals revenue of $630 million, up 39%, and said multifamily rentals revenue rose 58% in 2025.",
+      "Feb 2026: CoStar reported 2025 Apartments.com revenue of $1.25 billion and 841 million renter visits.",
+      "Jul 2026: CoStar reported Q2 2026 revenue of $925 million, with Apartments.com revenue reported at $318 million, up 9% year over year."
+    ],
+    "outlook": "2026 revenue should continue rising faster than the old IBISWorld forecast because the two largest public platforms are still expanding monetization per property and per renter. Zillow guided to about 30% Rentals revenue growth for 2026, while CoStar reported Q2 2026 Apartments.com revenue growth of 9%. Growth is likely to remain positive but uneven: high vacancy and concessions make owners need leads, yet also make them more price sensitive. Over the next several years, the winners should be platforms that can prove lease conversion, reduce fraud and duplicate listings, surface true all-in pricing, and use AI and 3D media to shorten the renter decision cycle.",
+    "themes": [
+      "Mobile-first renter behavior",
+      "Marketplace consolidation",
+      "AI apartment search",
+      "3D and virtual tours",
+      "Lead quality over traffic volume",
+      "Fee transparency and total-cost disclosure",
+      "Multifamily oversupply and concessions",
+      "Subscription and pay-per-lease monetization"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-apartment-rental-services.txt",
+      "https://www.sec.gov/Archives/edgar/data/1617640/000161764026000015/z-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1617640/000161764026000012/exhibit993.htm",
+      "https://www.sec.gov/Archives/edgar/data/1617640/000161764026000039/z-20260331.htm",
+      "https://www.sec.gov/Archives/edgar/data/1057352/000105735226000020/csgp-20251231.htm",
+      "https://investors.costargroup.com/news-releases/news-release-details/costar-group-full-year-2025-revenue-increased-19-year-over-year",
+      "https://costargroup-prod.acquia.dshrp.com/press-room/2026/costar-group-q2-2026-results-mark-profitability-inflection-revenue-18-net-income",
+      "https://www.census.gov/housing/hvs/current/index.html?_sp=f26c8c8f-c663-4fc4-86d5-114b520dedde",
+      "https://www.zillow.com/research/renters-housing-trends-report-2025-35647/",
+      "https://www.apartments.com/grow/learning-center/renter-search-survey-q2-2025",
+      "https://www.apartments.com/grow/learning-center/rent-growth-update-may-2026",
+      "https://investors.zillowgroup.com/news-and-events/news/news-details/2025/Zillow-and-Redfin-partner-to-make-apartment-hunting-easier-and-give-listings-more-exposure/default.aspx",
+      "https://www.rent.com/solutions"
+    ],
+    "one_sentence": "The US online apartment rental services market has moved from early web adoption into a scaled, mobile-first and AI-assisted advertising marketplace dominated by Apartments.com and Zillow Rentals, with growth supported by high renter reliance on search sites but moderated by multifamily oversupply and price-sensitive property managers.",
+    "slug": "online-apartment-rental-services"
+  },
+  {
+    "title": "Online Art Sales",
+    "sector": "Retail",
+    "one_liner": "Online art sellers are resetting from the pandemic-era digital boom into a more selective, lower-volume but more normal e-commerce market.",
+    "overview": "Online Art Sales covers US revenue from original and limited-edition artworks sold or auctioned over the internet by online marketplaces, auction houses, galleries, dealers and artist platforms. The 2022 baseline expected the pandemic shift to leave a larger permanent online channel, but 2024 and 2025 art-market data show a correction: online sales remain structurally important, yet buyers have become more price-sensitive and high-value consignments have moved back toward curated live and private-sale channels. In 2025, the channel is strongest for lower- and mid-priced works, discovery of emerging artists, prints, photography and timed auctions, while ultra-high-value works still depend heavily on in-person inspection, advisory relationships and guarantees.",
+    "key_stats": {
+      "market_size": "2025 estimated US online art sales of about $3.9 billion, inferred from the 2025 US art market value of about $26.0 billion and the 2025 global online art-sales share of 15.0%.",
+      "growth": "2025 online art and antiques sales declined about 12.4% globally to $9.2 billion from $10.5 billion in 2024, indicating a shrinking online channel in 2025.",
+      "online_share": "2025 online art and antiques sales represented 15.0% of global art-market sales, down from 18.0% in 2024 and below the 25.0% pandemic peak in 2020.",
+      "us_art_market_share": "2025 the United States represented about 43.0% to 44.0% of the global art market, remaining the largest national market.",
+      "global_online_value": "2025 global online art and antiques sales were about $9.2 billion, compared with $10.5 billion in 2024.",
+      "ecommerce_backdrop": "2025 US retail e-commerce sales were $1.1926 trillion and accounted for 16.1% of total US retail sales.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate of about $5.8 billion, calculated from the January 2022 IBISWorld file's 2021 revenue of $5.646 billion and its 2021-2026 forecast CAGR of 3.5%.",
+      "growth": "2022 baseline growth assumption of about 3.5%, based on the January 2022 IBISWorld file's 2021-2026 projected annualized revenue growth.",
+      "context": "The January 2022 baseline expected US Online Art Sales revenue to rise from $5.646 billion in 2021 to $6.7 billion in 2026 as pandemic-driven acceptance of online auctions and marketplaces persisted."
+    },
+    "how_it_makes_money": {
+      "primary_revenue": "2025 operators earn revenue from selling owned inventory, brokering dealer or collector inventory, and taking commissions on marketplace or auction transactions.",
+      "auction_fees": "2025 auction platforms and auction-house websites collect seller commissions, buyer's premiums, payment fees and sometimes shipping, storage, insurance or authentication charges.",
+      "marketplace_fees": "2025 marketplaces monetize listing fees, subscriptions, promoted placement, lead generation, advisory services and transaction commissions.",
+      "traffic_and_data": "2025 larger platforms use collector data, saved searches, price databases and personalized recommendations to increase repeat bidding and conversion."
+    },
+    "cost_structure": {
+      "inventory_and_consignor_payments": "2025 the largest variable cost is payments to artists, consignors, galleries, estates and dealers when platforms act as principals or remit sale proceeds after commission.",
+      "technology": "2025 platforms spend on website operations, mobile bidding, payment processing, cybersecurity, image hosting, search, personalization, CRM and digital viewing tools.",
+      "marketing": "2025 customer acquisition costs remain high because platforms compete for consignments, collectors, artist traffic and paid search visibility.",
+      "labor": "2025 labor is concentrated in specialists, cataloging, client service, compliance, logistics coordination, technology and marketing.",
+      "fulfillment_and_risk": "2025 major operating costs include condition reports, authentication, fraud prevention, payment disputes, insurance, shipping coordination, storage and returns.",
+      "profit_reference": "2021 IBISWorld baseline profit margin was 10.3%, with 2021 profit of $582 million on 2021 revenue of $5.646 billion."
+    },
+    "major_players": [
+      "{'name': \"Sotheby's\", 'position': '2025 major auction-house platform with online-only auctions, live online bidding, private sales and a large digital bidder base.'}",
+      "{'name': \"Christie's\", 'position': '2025 major auction-house platform using online auctions, hybrid live sales, private sales and digital client acquisition.'}",
+      "{'name': 'Phillips', 'position': '2025 contemporary-art-focused auction house with online bidding and timed online auctions.'}",
+      "{'name': 'Artsy', 'position': '2025 large online marketplace connecting collectors with galleries, art fairs, auctions and artists.'}",
+      "{'name': 'Artnet', 'position': '2025 online auctions, gallery network and art-price database platform; 2026 transaction to combine with Artsy was announced.'}",
+      "{'name': 'Saatchi Art', 'position': '2025 online marketplace focused on direct-to-consumer sales of emerging and contemporary artists.'}",
+      "{'name': '1stDibs', 'position': '2025 luxury marketplace with fine art, design, furniture and collectible inventory sold online.'}"
+    ],
+    "current_dynamics": {
+      "demand": "2025 demand is weaker at the top end than in 2021, with fewer speculative buyers and more selective bidding after higher interest rates, slower wealth effects and softer auction volumes.",
+      "channel_mix": "2025 online remains essential for discovery, bidding registration, timed auctions and lower-priced works, but high-value sales increasingly rely on hybrid viewing, advisory relationships and private negotiation.",
+      "pricing": "2025 platforms benefit from transaction volume in lower-price bands, while average online ticket size is pressured by fewer trophy works sold purely online.",
+      "competition": "2025 competition is high because auction houses, gallery platforms, social media channels, artist-direct sites and luxury marketplaces all compete for the same collector attention.",
+      "technology": "2025 artificial intelligence, recommendation engines, richer images, augmented viewing and automated cataloging are improving conversion, but authenticity, condition and provenance remain core trust barriers.",
+      "regulation": "2025 sales-tax compliance, anti-money-laundering controls, sanctions screening, copyright disputes and payment fraud remain important operating risks."
+    },
+    "whats_growing": [
+      "2025 timed online auctions for lower- and mid-priced works.",
+      "2025 artist-direct and gallery-direct discovery through marketplaces and social platforms.",
+      "2025 demand for transparent pricing, condition reports, provenance documentation and secure payment workflows.",
+      "2025 online sales of prints, editions, photography and accessible contemporary works.",
+      "2025 data products, price databases and collector CRM tools used to target repeat buyers."
+    ],
+    "whats_shrinking": [
+      "2025 global online art and antiques value declined to about $9.2 billion from $10.5 billion in 2024.",
+      "2025 online share of total art-market sales fell to 15.0% from 18.0% in 2024.",
+      "2025 purely online sales of very high-value works are less favored than hybrid, private-sale or live-auction formats.",
+      "2025 speculative demand for NFTs and digital-art collectibles remains far below the 2021 peak.",
+      "2025 smaller platforms face pressure from customer-acquisition costs and lower discretionary art spending."
+    ],
+    "recent_developments": [
+      "2025-03 Art Basel and UBS reported 2024 global online art and antiques sales of $10.5 billion, equal to 18.0% of global sales.",
+      "2025-12 Christie's reported 2025 global sales of $5.8 billion and continued use of digital channels to reach new buyers.",
+      "2026-03 Art Basel and UBS reported 2025 global online art and antiques sales fell to about $9.2 billion, or 15.0% of global sales.",
+      "2026-05 The US Census Bureau reported 2025 US retail e-commerce sales of $1.1926 trillion, equal to 16.1% of total retail sales.",
+      "2026-07 Artsy and Artnet announced an agreement to combine, creating a larger online art marketplace, auction and price-data platform."
+    ],
+    "outlook": {
+      "2026": "2026 revenue is likely to remain below the 2021-2022 baseline forecast because the online share of art sales has normalized after the pandemic boom, but marketplaces should benefit from consolidation, better data tools and continued e-commerce adoption.",
+      "2027_to_2030": "2027-2030 growth should resume at a moderate pace if wealth markets stabilize, interest rates ease, and platforms improve trust, provenance, pricing transparency and fulfillment.",
+      "risks": "2026 risks include weak discretionary spending, fewer high-value consignments online, fraud, provenance disputes, platform take-rate pressure and compliance costs.",
+      "upside": "2026 upside comes from younger collectors, cross-border reach, online-only lower-price auctions, AI-assisted discovery, authenticated digital records and marketplace consolidation."
+    },
+    "themes": [
+      "post-pandemic normalization",
+      "hybrid auctions",
+      "marketplace consolidation",
+      "younger collectors",
+      "price transparency",
+      "provenance and authentication",
+      "AI-assisted discovery",
+      "sales-tax and compliance burden",
+      "lower-price online resilience"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "{'name': 'Baseline file: Online Art Sales, IBISWorld-style report, last updated 2022-01-31', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/online-art-sales.txt'}",
+      "{'name': 'Art Basel and UBS, The Art Market 2026', 'url': 'https://www.artbasel.com/about/initiatives/the-art-market'}",
+      "{'name': 'Art Basel and UBS, The Art Market 2025', 'url': 'https://www.artbasel.com/about/initiatives/the-art-market'}",
+      "{'name': 'US Census Bureau, Quarterly Retail E-Commerce Sales, 2026-05-18 release', 'url': 'https://www.census.gov/retail/ecommerce.html'}",
+      "{'name': \"Christie's, 2025 global sales results\", 'url': 'https://www.christies.com/about-us/press-archive/details?PressReleaseID=11538'}",
+      "{'name': 'Artsy, Artsy and Artnet combination announcement, 2026', 'url': 'https://www.artsy.net/article/artsy-editorial-artsy-artnet-announce-agreement-combine'}"
+    ],
+    "one_sentence": "The US Online Art Sales industry sells original and limited-edition art through marketplaces, online auctions, digital gallery platforms and auction-house websites, with 2025 demand shaped by softer high-end collecting, resilient lower-price discovery, and continued migration of research, bidding and client acquisition online.",
+    "slug": "online-art-sales"
+  },
+  {
+    "title": "Online Automotive Parts & Accessories Sales",
+    "sector": "Retail",
+    "one_liner": "Online auto parts sellers are benefiting from an older U.S. vehicle fleet, marketplace scale and omnichannel pickup, even as inflation, fitment complexity and shipping costs pressure margins.",
+    "overview": "Online Automotive Parts & Accessories Sales has moved from a niche catalog channel into a core aftermarket route. The 2022 IBISWorld baseline sized the narrower online industry at $8.1 billion, while current aftermarket e-commerce forecasts put 2025 U.S. online automotive aftermarket sales at about $44.6 billion including third-party marketplaces and about $23.0 billion excluding marketplaces. Demand is supported by a record-old 2025 U.S. light-vehicle fleet, high vehicle prices that encourage repair over replacement, and consumer comfort with researching fitment, price and availability online before buying. The strongest operators combine deep catalogs, accurate year-make-model-trim fitment data, fast fulfillment and store pickup or local delivery.",
+    "key_stats": {
+      "market_size": "2025 U.S. online automotive aftermarket parts sales forecast at $44.6 billion including third-party marketplaces and about $23.0 billion excluding marketplaces.",
+      "growth": "2025 Auto Care/MEMA forecast expects total online aftermarket sales CAGR above 5% from 2020-2030.",
+      "ecommerce_penetration": "2025 U.S. retail e-commerce represented 16.4% of total retail sales.",
+      "average_vehicle_age": "2025 average U.S. light-vehicle age reached 12.8 years.",
+      "vehicles_in_operation": "2025 U.S. vehicles in operation reached about 289 million.",
+      "specialty_equipment_spend": "2024 U.S. specialty-equipment spending was about $52.65 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$8.054 billion in 2022 revenue, in 2022 dollars, from the IBISWorld baseline file.",
+      "growth": "2022 revenue grew 4.5%; 2017-2022 revenue CAGR was 7.0%.",
+      "profit": "$346 million in 2022 EBIT, equal to a 4.3% margin.",
+      "establishments": "6,618 establishments in 2022.",
+      "enterprises": "6,261 enterprises in 2022.",
+      "employment": "54,148 employees in 2022.",
+      "wages": "$3.621 billion in wages in 2022.",
+      "average_vehicle_age": "12 years in 2022."
+    },
+    "how_it_makes_money": "Operators earn revenue from online sales of hard parts, maintenance parts, accessories, performance products, private-label products, marketplace storefront sales, wholesale or commercial-account orders, drop-ship programs, and add-on services such as warranties, expedited shipping and shop-management or repair-data subscriptions.",
+    "cost_structure": "The largest costs are product procurement, warehouse and distribution expense, parcel freight, store or fulfillment labor, paid search and marketplace fees, returns handling, technology platforms, catalog and fitment-data management, payment processing, and customer support. The 2022 IBISWorld baseline showed a 4.3% EBIT margin, illustrating how freight, labor, discounts and returns can absorb gross profit even in a growing channel.",
+    "major_players": [
+      "Amazon Automotive",
+      "eBay Motors",
+      "AutoZone",
+      "O'Reilly Auto Parts",
+      "Advance Auto Parts",
+      "NAPA Auto Parts",
+      "RockAuto",
+      "CarParts.com",
+      "Walmart Marketplace",
+      "specialty and performance retailers serving truck, wheel, tire, suspension, brake, off-road and enthusiast categories"
+    ],
+    "current_dynamics": "The market is growing faster than brick-and-mortar auto parts retail because shoppers use online channels for fitment research, price comparison and long-tail parts availability. Omnichannel chains have an advantage in urgent repairs because customers can order online and pick up in store, while marketplaces win on assortment and price. Persistent inflation keeps consumers seeking lower-cost online options, but it also raises parts tickets, freight expense and return costs. Accurate fitment data has become a central competitive requirement because wrong parts create costly returns and weak reviews.",
+    "whats_growing": "Online marketplace sales, buy-online-pick-up-in-store, professional-shop portals, mobile search, private-label replacement parts, brake, steering, suspension, engine, HVAC and maintenance categories, truck and CUV accessories, ADAS-related replacement components, and catalog tools built around real-time inventory and vehicle compatibility.",
+    "whats_shrinking": "Purely undifferentiated reseller models, listings with poor fitment data, discretionary mobile electronics such as GPS navigation and some sound-system categories, traditional passenger-car accessory demand relative to trucks and CUVs, and margin room for sellers exposed to high shipping, returns, wage and tariff-related input costs.",
+    "recent_developments": [
+      "2025 - Auto Care/MEMA forecast U.S. online aftermarket parts sales at $44.6B including marketplaces and about $23.0B excluding them.",
+      "May 21, 2025 - S&P Global Mobility said average U.S. light-vehicle age rose to 12.8 years and vehicles in operation reached 289M.",
+      "Jun 30, 2025 - SEMA reported 2024 U.S. specialty-equipment spending of about $52.65B and expected a return toward 4%-5% annual growth.",
+      "Oct 27, 2025 - AutoZone reported FY2025 net sales of $18.94B and continued sales through AutoZone.com and AutoZonePro.com.",
+      "Mar 5, 2026 - CarParts.com reported FY2025 net sales of $547.5M, down 7.0% from FY2024."
+    ],
+    "outlook": "The 2026 outlook is positive but less explosive than the pandemic-era shift online. Growth should track continued e-commerce penetration, a large and aging U.S. vehicle fleet, elevated new-vehicle prices, and better omnichannel fulfillment. Marketplace and store-backed retailers should gain share, while smaller sellers will need cleaner fitment data, tighter shipping economics and differentiated catalogs to defend margins. Tariffs, insurance and repair-cost inflation are key risks because they can lift ticket sizes while also weakening discretionary accessory demand.",
+    "themes": [
+      "aging vehicle fleet",
+      "marketplace expansion",
+      "omnichannel pickup",
+      "DIY repair economics",
+      "fitment-data accuracy",
+      "shipping and returns pressure",
+      "private-label parts",
+      "professional-shop portals",
+      "truck and CUV accessories",
+      "inflation and tariff risk"
+    ],
+    "data_year": "2026, using 2025 reported and forecast data",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/online-automotive-parts-and-accessories-sales.txt'}",
+      "{'name': 'Auto Care Association, 2025 Joint E-commerce Trends and Outlook Forecast', 'url': 'https://www.autocare.org/data-and-information/market-research/joint-e-commerce-trends-and-outlook-forecast'}",
+      "{'name': 'S&P Global Mobility, U.S. Vehicle Age Rises Again to 12.8 Years in 2025', 'url': 'https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility'}",
+      "{'name': 'SEMA, 2025 Market Report press release', 'url': 'https://www.sema.org/news-media/press-release/new-sema-research-2025-market-report'}",
+      "{'name': 'U.S. Census Bureau E-Commerce Statistics', 'url': 'https://www.census.gov/content/census/en/programs-surveys/e-stats.html/'}",
+      "{'name': 'AutoZone FY2025 Form 10-K', 'url': 'https://about.autozone.com/sec-filings/sec-filing/10-k/0001104659-25-102611'}",
+      "{'name': \"O'Reilly Automotive FY2025 Form 10-K\", 'url': 'https://www.sec.gov/Archives/edgar/data/898173/000089817326000009/orly-20251231x10k.htm'}",
+      "{'name': 'CarParts.com FY2025 results', 'url': 'https://www.carparts.com/investor/news-events/press-releases/detail/323/carparts-com-reports-fourth-quarter-and-fiscal-year-2025'}"
+    ],
+    "one_sentence": "The industry sells replacement parts, maintenance items, performance upgrades and accessories through websites, apps and online marketplaces to DIY consumers, repair shops and resellers.",
+    "slug": "online-automotive-parts-and-accessories-sales"
+  },
+  {
+    "title": "Online Baby & Infant Apparel Sales",
+    "sector": "Retail",
+    "one_liner": "Online baby and infant apparel sales remain a growth pocket in retail, but weaker U.S. births and tariff-driven sourcing costs are slowing the post-pandemic e-commerce surge.",
+    "overview": "U.S. online baby and infant apparel sales grew rapidly after 2020 as parents shifted more apparel purchases to e-commerce, mobile apps, marketplaces and buy-online-pickup-or-ship-from-store models. The 2021 IBISWorld baseline put 2021 revenue at $3.1 billion and projected continued expansion to $4.3 billion by 2026, but current 2025-2026 conditions are more mixed: U.S. retail e-commerce reached $326.7 billion in Q1 2026, up 9.8% year over year, while U.S. births fell 1% in 2025 to 3,606,400. The result is a market still expanding through channel shift, gifting, subscriptions, registries, faster replenishment and premium or organic lines, but with demand per child, pricing discipline and fulfillment efficiency doing more work than population growth.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. industry revenue of about $4.0 billion to $4.2 billion; 2026 run-rate about $4.2 billion to $4.4 billion if e-commerce share gains persist",
+      "growth": "2025 estimated revenue growth of about 3% to 5% year over year, below the 2021 baseline forecast CAGR of 6.5% for 2021-2026 because births declined and tariffs lifted costs",
+      "ecommerce_context": "U.S. retail e-commerce sales were $326.7 billion in Q1 2026, up 9.8% from Q1 2025 and equal to 16.9% of total retail sales",
+      "demand_base": "U.S. births were 3,606,400 in 2025, down 1% from 2024",
+      "input_cost": "Global cotton averaged 77.435 cents per pound in 2025, down from 86.648 cents in 2024 and 130.139 cents in 2022",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate of about $3.3 billion, derived from the 2021 IBISWorld revenue base of $3.115 billion and its 2021-2026 forecast path",
+      "growth": "2022 baseline implied growth of about 6% to 7% year over year, consistent with the 2021 IBISWorld forecast of 6.5% annualized revenue growth to 2026",
+      "profit_margin": "2022 baseline estimated profit margin around 5.7%, rising from 5.5% in 2021 toward the 2026 baseline forecast of 6.4%",
+      "context": "The baseline expected online adoption, broadband use and mobile commerce to offset weak birth trends, with girls' clothing at about 52% of 2021 revenue and boys' clothing at about 23%"
+    },
+    "how_it_makes_money": "Operators earn revenue from direct online sales of infant apparel, footwear and accessories; marketplace storefront sales; wholesale-branded products sold online through Amazon, Walmart and Target; registry and gifting purchases; shipping fees or minimum-order thresholds; loyalty programs; private-label margins; and markdown-driven inventory turns. Larger players combine owned e-commerce sites, stores, marketplaces and wholesale partnerships, while smaller brands depend more on paid social, search, influencer marketing and niche positioning such as organic cotton, sustainable basics or personalized babywear.",
+    "cost_structure": "The largest costs are merchandise purchases from apparel manufacturers and importers, fulfillment and parcel shipping, returns processing, warehousing, payment fees, online advertising, technology platforms, customer service, wages and packaging. Cotton costs eased in 2025 from the 2022 spike, but apparel margins were pressured by 2025 tariffs, higher landed costs, product-quality investments, promotions, and the high return and exchange rate typical of online apparel.",
+    "major_players": [
+      "Carter's Inc. / OshKosh B'gosh / Little Planet / Simple Joys by Carter's",
+      "Amazon",
+      "Walmart",
+      "Target",
+      "The Children's Place / Gymboree",
+      "Gap Inc. / babyGap",
+      "Primary.com",
+      "Hanna Andersson"
+    ],
+    "current_dynamics": "In 2025-2026, the industry is being pulled between strong online retail adoption and a weaker infant population base. Census data show e-commerce continuing to gain share of U.S. retail in Q1 2026, supporting online apparel penetration. CDC data show births declined again in 2025, limiting unit demand for newborn and infant sizes. Carter's reported 2025 U.S. Retail sales growth and higher e-commerce traffic, but also cited incremental tariff costs, higher product costs, distribution and transportation costs, and pressure in its Amazon-linked Simple Joys business. Marketplaces remain powerful, but brands are trying to improve mix, reduce promotions, push loyalty, and diversify sourcing.",
+    "whats_growing": "Mobile-first buying, marketplace baby-apparel search, registry-linked gifting, organic and sustainable cotton lines, premium basics, multipacks, seasonal capsules, personalization, resale-adjacent value behavior, omnichannel fulfillment, and retailer exclusive brands are growing. Higher-income parents and gift buyers are supporting premium price points even as value shoppers trade into multipacks, off-price channels and marketplace deals.",
+    "whats_shrinking": "Brick-and-mortar-only baby apparel buying, undifferentiated low-cost imports dependent on de minimis economics, slow-moving discretionary fashion styles, China-direct ultra-low-price shipments, and demand assumptions based on rising births are weakening. Newborn-volume growth is constrained by the 2025 birth decline, while tariff and fulfillment costs are narrowing the margin advantage once enjoyed by pure online sellers.",
+    "recent_developments": [
+      "2025-05-02: U.S. de minimis duty-free treatment ended for low-value China and Hong Kong shipments, raising landed costs for many online apparel sellers.",
+      "2025-07-31: DHS announced a broader suspension of duty-free de minimis treatment for low-value shipments from all countries, increasing compliance focus for cross-border e-commerce.",
+      "2025-12: Carter's disclosed that the U.S. baby and young children's apparel market was approximately $29 billion as of December 2025, with Carter's brands holding about 21% of the zero-to-two baby segment.",
+      "2026-02-27: Carter's reported fiscal 2025 net sales of $2.90 billion, up 1.9%, but operating margin fell to 5.0% due partly to incremental tariff costs and higher product costs.",
+      "2026-04-09: CDC reported 3,606,400 provisional U.S. births in 2025, down 1% from 2024.",
+      "2026-05-18: Census reported Q1 2026 U.S. retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but slower than the pandemic-era trajectory. Online penetration should keep rising as parents default to mobile purchasing, fast replenishment, registries and marketplace search, but weak births mean growth will rely more on share capture, higher average order values, premium product mix and repeat purchasing than on a larger infant population. Tariffs and de minimis changes are likely to keep pressure on low-price import models, favoring brands with diversified sourcing, strong wholesale relationships, better forecasting and profitable fulfillment. A reasonable near-term expectation is low- to mid-single-digit annual revenue growth after 2026, with upside from e-commerce share gains and downside from birth declines, consumer trade-down and import-cost shocks.",
+    "themes": [
+      "E-commerce share gain",
+      "Falling U.S. births",
+      "Tariff and de minimis disruption",
+      "Marketplace competition",
+      "Omnichannel fulfillment",
+      "Premium and organic babywear",
+      "Value multipacks and private label",
+      "Returns and fulfillment cost control"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-baby-and-infant-apparel-sales.txt",
+      "https://www.census.gov/retail/ecommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTNSA",
+      "https://www.cdc.gov/nchs/pressroom/releases/20260409.html",
+      "https://ir.carters.com/node/19936/html",
+      "https://ir.carters.com/node/19926",
+      "https://fred.stlouisfed.org/series/PCOTTINDUSDA",
+      "https://www.help.cbp.gov/s/article/Article-1915?language=en_US",
+      "https://www.dhs.gov/news/2025/07/31/president-trump-ends-unfair-de-minimis-tariff-exemption-major-victory-securing"
+    ],
+    "one_sentence": "The industry sells baby and infant clothing through websites, marketplaces and omnichannel retail platforms, benefiting from convenience-led parent spending while facing a smaller newborn base, heavy promotion, returns costs and import-cost volatility in 2025-2026.",
+    "slug": "online-baby-and-infant-apparel-sales"
+  }
+]

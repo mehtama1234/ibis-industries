@@ -1,0 +1,477 @@
+[
+  {
+    "title": "Online Sporting Apparel Sales",
+    "sector": "Retail",
+    "one_liner": "Online sellers of athletic apparel, footwear and sport-related wearables are moving from pandemic-era channel adoption to a more competitive, promotion-sensitive growth phase.",
+    "overview": "This industry retails sports-related apparel and accessories through e-commerce platforms, including online-only retailers, brand-owned digital stores and the online operations of brick-and-mortar sporting goods chains. Products include performance apparel, athleisure, warm-ups, outerwear, swimwear, athletic footwear and sport-related accessories. The industry expanded rapidly through 2020-2022 as consumers shifted more purchases online, but by 2025 the channel had matured: online penetration remained structurally higher than before the pandemic, while growth depended more on product innovation, mobile conversion, paid acquisition efficiency, loyalty programs, returns control and the ability to balance full-price selling against promotions.",
+    "key_stats": {
+      "market_size": "2025: estimated $13.1 billion in US online sporting apparel sales, based on the 2022 IBISWorld baseline of $12.173 billion and its 2022-2028 projected CAGR of 2.56%; this is consistent with Grips' 2025 tracked online sporting-goods GMV of about $13 billion across tracked retailers.",
+      "growth": "2025: tracked online sporting-goods revenue declined 5%-10% year over year according to Grips; 2026 tracked online sporting-goods revenue was forecast to grow 10%-20%.",
+      "ecommerce_context": "Q1 2026: US retail e-commerce sales were $326.7 billion, up 9.8% from Q1 2025, and accounted for 16.9% of total US retail sales, according to the US Census Bureau.",
+      "participation_demand": "2025: 250 million Americans ages 6+ participated in at least one sport, fitness or leisure activity, up 1.2% year over year, according to SFIA's 2026 Topline Participation Report.",
+      "product_mix_baseline": "2022: apparel accounted for 57.6% of industry revenue, footwear 24.5%, and surf, swimwear and other wearables 17.9% in the baseline IBISWorld file.",
+      "profitability_baseline": "2022: baseline industry profit was $645 million, equal to a 5.3% EBIT margin.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $12.173 billion in revenue.",
+      "growth": "2022: revenue grew 2.1%; 2017-2022 revenue CAGR was 15.0%.",
+      "profit": "2022: $645 million profit, or a 5.3% margin.",
+      "enterprises": "2022: 3,856 enterprises.",
+      "employment": "2022: 13,460 employees.",
+      "wages": "2022: $450 million in wages.",
+      "forecast_from_baseline": "2022-2027: revenue was projected to grow at a 2.6% CAGR to $13.9 billion by 2027."
+    },
+    "how_it_makes_money": "Operators make money by selling branded and private-label athletic apparel, footwear, swimwear and accessories online at retail margins. Revenue comes from direct product sales through websites, apps and marketplaces; omnichannel orders fulfilled from stores or distribution centers; loyalty-driven repeat purchases; limited releases; team and licensed merchandise; and, for large retailers, media-network or marketplace fees tied to digital traffic. Profitability depends on merchandise margin, vendor terms, inventory turns, shipping thresholds, return rates, payment fees, customer acquisition cost and the share of orders fulfilled through lower-cost store or local inventory.",
+    "cost_structure": {
+      "purchases": "Largest cost item: branded apparel, footwear and accessory inventory from manufacturers, wholesalers and private-label suppliers.",
+      "fulfillment_and_shipping": "High and rising cost area in 2025-2026 because free or fast delivery, split shipments, reverse logistics and apparel sizing returns weigh on online margins.",
+      "marketing_and_customer_acquisition": "Search, social, affiliate, creator and retail-media spending are material because competition for athletic consumers is intense and brand switching is common.",
+      "wages": "2022 baseline wages were $450 million; labor is concentrated in merchandising, customer service, technology, warehouse operations and store-based omnichannel fulfillment.",
+      "technology": "Website, app, personalization, payment, cybersecurity, inventory visibility and analytics spending are increasingly necessary operating costs.",
+      "profit": "2022 baseline EBIT margin was 5.3%; margin pressure in 2025-2026 came from promotions, digital traffic declines at some brands, higher fulfillment cost and returns."
+    },
+    "major_players": [
+      "Nike",
+      "DICK'S Sporting Goods",
+      "Fanatics",
+      "adidas",
+      "lululemon athletica",
+      "Under Armour",
+      "Foot Locker",
+      "Amazon"
+    ],
+    "current_dynamics": "The market is no longer being lifted mainly by first-time online adoption. In 2025, US e-commerce continued taking share of retail, but sporting-apparel sellers faced a more selective consumer, heavier promotional activity, higher return and fulfillment costs, and tougher comparisons for brand-owned digital channels. Demand is still supported by participation: SFIA reported 250 million active Americans in 2025, and wholesale sporting-goods sales rose 3.7% to $130 billion, with athletic footwear up 7.4%. The best-positioned operators combine strong product franchises, mobile-first shopping, loyalty data, rapid fulfillment and disciplined inventory. Weaker operators are exposed to paid-search inflation, excess seasonal stock, discount dependence and low differentiation against marketplaces and large omnichannel chains.",
+    "whats_growing": [
+      "2025: athletic footwear outperformed the broader sporting-goods market, with US wholesale sales up 7.4% to $24.1 billion.",
+      "2025: running footwear grew 7.3% to $7.1 billion at wholesale, benefiting online sellers with frequent replacement and performance-driven demand.",
+      "2025: fitness/workout footwear grew 8.6% to $2.5 billion at wholesale, supported by gym, training and athleisure usage.",
+      "2025: team uniforms rose 5.4% to $1.83 billion at wholesale, tied to organized sports participation.",
+      "2025-2026: mobile commerce, loyalty apps, retail media and omnichannel fulfillment are gaining importance as retailers try to convert digital traffic more profitably.",
+      "2026: Grips forecast tracked online sporting-goods revenue growth of 10%-20% after a 2025 decline."
+    ],
+    "whats_shrinking": [
+      "2025: tracked online sporting-goods revenue fell 5%-10%, suggesting post-pandemic normalization and pressure at weaker digital retailers.",
+      "Fiscal 2025: Nike North America digital sales declined 19%, showing stress in brand-direct online channels after years of aggressive DTC growth.",
+      "2025: outdoor equipment demand weakened in DICK'S reporting, while growth concentrated in footwear, athletic apparel, licensed merchandise and team sports.",
+      "2025-2026: undifferentiated apparel sellers are losing pricing power as shoppers compare prices across marketplaces, brand sites and omnichannel chains.",
+      "2025-2026: profitability is being squeezed by markdowns, shipping subsidies, returns and customer-acquisition costs."
+    ],
+    "recent_developments": [
+      "2025: US retail e-commerce sales totaled about $1.231 trillion on a seasonally adjusted basis, based on Census/FRED quarterly data for Q1-Q4 2025.",
+      "Fiscal 2025: Nike reported North America revenue down 8% on a currency-neutral basis and Nike Direct down 12%, including a 19% digital-sales decline.",
+      "Fiscal 2025: DICK'S Sporting Goods reported DICK'S Business net sales of $14.109 billion, up 5.0%, with comparable sales up 4.5% and growth in footwear, athletic apparel, licensed merchandise and team sports.",
+      "March 12, 2026: SFIA reported 250 million Americans participated in at least one sport, fitness or leisure activity in 2025, up 1.2% year over year.",
+      "March 31, 2026: SFIA's 2026 Manufacturers' Sales by Category Report put 2025 US sporting-goods wholesale sales at $130 billion, up 3.7%, with athletic footwear up 7.4%.",
+      "May 18, 2026: the US Census Bureau reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales."
+    ],
+    "outlook": "The industry outlook is modestly positive but more uneven than the 2020-2022 period. For 2026, online sporting-goods trackers point to a rebound of 10%-20% after a 2025 decline, while the baseline IBIS trajectory implies a mature low-single-digit CAGR toward about $13.9 billion by 2027. Participation, athletic footwear replacement, team sports, licensed merchandise and mobile shopping should support demand, especially around major sports events and youth participation. However, sustained margin expansion will be difficult because online apparel has high return rates, shoppers are promotion-sensitive, and major brands are still recalibrating direct-to-consumer strategies. Winners are likely to be retailers and brands with strong product launches, owned customer data, inventory discipline and omnichannel fulfillment economics.",
+    "themes": [
+      "E-commerce maturity",
+      "Athleisure and performance apparel convergence",
+      "Running and fitness footwear strength",
+      "Youth and team sports participation",
+      "Mobile-first shopping",
+      "Promotional pressure",
+      "Omnichannel fulfillment",
+      "Returns and reverse logistics",
+      "Brand-direct recalibration",
+      "Retail media and loyalty data"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Online Sporting Apparel Sales, IBISWorld extract, last updated May 12, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-sporting-apparel-sales.txt'}",
+      "{'title': 'US Census Bureau, Quarterly Retail E-Commerce Sales Report, Q1 2026, released May 18, 2026', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'title': 'FRED, E-Commerce Retail Sales (ECOMSA), updated May 18, 2026', 'url': 'https://fred.stlouisfed.org/series/ECOMSA'}",
+      "{'title': 'SFIA, 2026 Topline Participation Report press release, March 12, 2026', 'url': 'https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/'}",
+      "{'title': \"SGI Europe summary of SFIA 2026 Manufacturers' Sales by Category Report, April 8, 2026\", 'url': 'https://www.sgieurope.com/consumer/us-sporting-goods-wholesale-hits-130bn/120452.article'}",
+      "{'title': 'Nike FY2025 Form 10-K summary via Public, filed July 17, 2025', 'url': 'https://ebs.publicnow.com/view/DEBD99D911E8788C31B8A483642F0E81A750EC93'}",
+      "{'title': \"DICK'S Sporting Goods FY2025 Form 10-K summary via Public, filed March 27, 2026\", 'url': 'https://www.publicnow.com/view/A61172F8DA868470F9970B25E7E95AEEB2917D99'}",
+      "{'title': 'Grips Intelligence, Sporting Goods online industry intelligence, 2026', 'url': 'https://gripsintelligence.com/insights/industries/sporting-goods'}",
+      "{'title': 'Ken Research, USA Sports Apparel Market Outlook to 2030, July 2026', 'url': 'https://www.kenresearch.com/industry-reports/usa-sports-apparel-market'}"
+    ],
+    "one_sentence": "The US Online Sporting Apparel Sales industry generated an estimated $13.1 billion in 2025 under the baseline IBIS definition, with growth pressured by digital channel normalization, markdowns and weaker brand-direct traffic even as sports participation and athletic footwear demand remained supportive.",
+    "slug": "online-sporting-apparel-sales"
+  },
+  {
+    "title": "Online Sporting Goods Sales",
+    "sector": "Retail",
+    "one_liner": "Online sporting goods retailers sell sports, fitness, outdoor, hunting and recreation equipment through websites, marketplaces and omnichannel store networks.",
+    "overview": "This industry covers online stores and omnichannel retailers that sell new sporting goods such as exercise and fitness equipment, bicycles, camping gear, golf equipment, team sports gear, firearms and hunting equipment, and accessories; it excludes sporting apparel. The industry expanded sharply through 2022 as COVID-era shopping behavior pulled more sporting goods purchases online, but by 2025 the market had normalized into lower single-digit growth. Demand is supported by record sports and fitness participation, continued online retail share gains and specialty categories such as pickleball, running, golf and youth team sports. Pressure comes from high competition, shipping and returns costs, tariff-driven product inflation, weaker broad-based discretionary spending and category-specific softness in outdoor equipment and hunting/fishing retailers.",
+    "key_stats": {
+      "market_size": "$40.9 billion estimated 2026 US industry revenue, based on the 2022 IBISWorld baseline and its 2022-2027 forecast path in 2022 dollars",
+      "growth": "2.9% forecast CAGR for 2022-2027 industry revenue; US retail e-commerce grew 9.8% year over year in Q1 2026",
+      "ecommerce_context": "$1.234 trillion US retail e-commerce sales in 2025, up 5.4% year over year and equal to 16.4% of total retail sales",
+      "participation": "250.0 million Americans participated in at least one sport, fitness or leisure activity in 2025, up 1.2% year over year",
+      "profit_margin": "5.4% EBIT margin in 2022 baseline, forecast to ease toward 4.6% by 2027 as competition rises",
+      "product_mix_2022": "49.2% sporting goods and equipment, 34.1% firearms and hunting equipment, 14.4% accessories, 2.3% other",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$36.5 billion revenue in 2022 dollars",
+      "growth": "17.5% CAGR from 2017 to 2022; 0.5% growth in 2022",
+      "profit": "$2.0 billion EBIT in 2022",
+      "profit_margin": "5.4% in 2022",
+      "establishments": "18,439 establishments in 2022",
+      "employment": "40,816 workers in 2022",
+      "forecast": "$42.0 billion revenue by 2027 at a 2.9% CAGR from 2022"
+    },
+    "how_it_makes_money": "Operators buy sporting goods from manufacturers, wholesalers and brands, then sell them online through owned websites, mobile apps, marketplaces and omnichannel services such as ship-to-home, ship-from-store and buy-online-pickup-in-store. Revenue comes mainly from merchandise markups on equipment and accessories, with additional margin from private-label products, vendor allowances, paid retail media, warranties, memberships, marketplace commissions and delivery fees where applicable.",
+    "cost_structure": "The largest cost is merchandise procurement, followed by fulfillment, parcel shipping, store or warehouse occupancy for omnichannel operators, payment processing, website and app technology, digital advertising, customer service, returns handling and labor. Profitability is sensitive to freight rates, return rates, promotional intensity, tariffs on imported equipment components, inventory markdowns and the ability to use stores as local fulfillment nodes.",
+    "major_players": [
+      "Amazon",
+      "DICK'S Sporting Goods",
+      "Walmart",
+      "Academy Sports + Outdoors",
+      "Bass Pro Shops / Cabela's",
+      "REI",
+      "SCHEELS",
+      "PGA TOUR Superstore",
+      "Sportsman's Warehouse",
+      "Backcountry"
+    ],
+    "current_dynamics": "Online share continues to rise across US retail, but sporting goods is not moving uniformly. Large omnichannel retailers are using stores as fulfillment assets and experience centers, while marketplaces compete aggressively on price and selection. Premium and enthusiast-led categories are outperforming broad discretionary equipment. DICK'S added scale through Foot Locker in 2025 and is investing heavily in House of Sport, Field House, Golf Galaxy Performance Center and e-commerce technology. Academy's fiscal 2025 e-commerce sales rose 13.6% and reached 11.7% of merchandise sales, while stores still facilitated about 95% of total sales including omnichannel fulfillment. Consumer Edge reported a 9% year-over-year decline in sporting goods spending for the three months ended January 2026, showing that online channel growth does not fully offset category softness.",
+    "whats_growing": "Growth is strongest in participation-driven and enthusiast categories: pickleball, team sports, baseball/softball, golf consumables, running and running-inspired footwear, racquet sports, youth sports services, personalization, loyalty data, retail media, mobile apps and buy-online-pickup-in-store. SFIA reported 250.0 million active Americans in 2025 and team sports participation above 90 million, supporting replacement cycles for equipment. Online retailers with premium brands, niche communities and strong product discovery are gaining share.",
+    "whats_shrinking": "Broad discretionary hardgoods, entry-level outdoor equipment, some hunting and fishing retailers, and undifferentiated online sellers are under pressure. OIA reported 2025 outdoor equipment declines in the athletic specialty and sporting goods channel, and Consumer Edge reported 2025-2026 weakness among middle-income shoppers and tariff-exposed hunting/fishing retailers. Margins are also shrinking for operators that rely on paid search, heavy promotions, free shipping and high return rates without scale.",
+    "recent_developments": [
+      "2025-09-08: DICK'S Sporting Goods completed its Foot Locker acquisition, creating a sports retail platform with more than 3,200 stores plus e-commerce businesses across 20 countries.",
+      "2026-03-12: SFIA reported that 250.0 million Americans participated in at least one sport, fitness or leisure activity in 2025, up 1.2% year over year.",
+      "2026-03-17: Academy Sports + Outdoors reported fiscal 2025 e-commerce sales up 13.6% and e-commerce penetration of 11.7% of merchandise sales.",
+      "2026-03-19: Consumer Edge reported sporting goods spending down 9% year over year for the three months ended January 2026, citing inflation, tariffs and middle-income pullback.",
+      "2026-03-31: Outdoor Industry Association reported 2025 outdoor product sales in the ASSG channel slightly below 2024, with equipment down and running footwear outperforming.",
+      "2026-05-18: US Census reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales."
+    ],
+    "outlook": "The industry should remain a growth market through 2027, but the post-pandemic step-change is over. A reasonable 2026 outlook is low single-digit industry revenue growth, with upside from online penetration, participation, youth sports, golf, pickleball, running and omnichannel fulfillment, and downside from tariffs, promotions, returns costs and weaker discretionary purchases. Larger retailers with inventory scale, supplier leverage, private-label programs, store-enabled fulfillment and strong digital experiences are positioned to take share from smaller pure-play sellers.",
+    "themes": [
+      "Omnichannel fulfillment",
+      "Experiential retail",
+      "Participation-driven demand",
+      "Tariff and freight pressure",
+      "Marketplace competition",
+      "Private-label margin expansion",
+      "Premiumization and niche sports",
+      "Digital retail media",
+      "Used gear competition",
+      "Fitness and outdoor normalization"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Online Sporting Goods Sales, last updated Jun. 24, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-sporting-goods-sales.txt'}",
+      "{'name': 'US Census Bureau, Quarterly Retail E-Commerce Sales, Q1 2026 release', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'name': 'MTS Insights summary of Census Q4 2025 full-year e-commerce data', 'url': 'https://www.mtsinsights.com/events/4409/'}",
+      "{'name': 'Sports & Fitness Industry Association, 2026 Topline Participation Report release', 'url': 'https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/'}",
+      "{'name': \"DICK'S Sporting Goods, Foot Locker acquisition completion release, Sep. 8, 2025\", 'url': 'https://investors.dicks.com/news/news-details/2025/DICKS-Sporting-Goods-Completes-Acquisition-of-Foot-Locker/default.aspx'}",
+      "{'name': \"DICK'S Sporting Goods fiscal 2025 annual report summary via SEC/PublicNow search result\", 'url': 'https://www.sec.gov/Archives/edgar/data/1089063/000108906325000012/dks-20250201.htm'}",
+      "{'name': 'Academy Sports + Outdoors fiscal 2025 annual report summary', 'url': 'https://investors.academy.com/financials-filings/annual-reports'}",
+      "{'name': 'Outdoor Industry Association, 2026 Outdoor Retail Sales Trends Report executive summary', 'url': 'https://oia.outdoorindustry.org/l/51282/2026-03-31/f4pf72'}",
+      "{'name': 'Consumer Edge, Sporting Goods Outlook 2026 release', 'url': 'https://www.prnewswire.com/news-releases/consumer-edge-reports-sporting-goods-spending-declines-amid-inflation-tariffs-and-middle-income-pullback-302718318.html'}"
+    ],
+    "one_sentence": "The US Online Sporting Goods Sales industry is still larger than its pre-pandemic trajectory, but 2025-2026 growth is uneven as e-commerce penetration rises while discretionary equipment demand, tariffs and middle-income pressure weigh on volumes.",
+    "slug": "online-sporting-goods-sales"
+  },
+  {
+    "title": "Online Stock Brokerages",
+    "sector": "Finance & Insurance",
+    "one_liner": "Digital brokerages let retail and active investors trade stocks, ETFs, options, futures, crypto-adjacent products and cash-management products through web and mobile platforms.",
+    "overview": "Online stock brokerages provide self-directed and digitally assisted trading accounts, execution tools, custody, clearing, market data, education, cash sweep programs and adjacent wealth products. The 2021 IBISWorld baseline put industry revenue at $14.0 billion in 2021 and expected the market to reach about $17.0 billion by 2026; updated 2025-2026 public company and market-volume data indicate the category is tracking above that old path, with 2025 US online brokerage revenue estimated at about $18.3 billion and 2026 revenue on pace near $19.5 billion. Growth is being pulled by higher equity markets, record or near-record options volumes, larger client asset bases, high margin balances and product expansion into retirement, advisory, private markets and digital assets. The model remains exposed to trading-volume cyclicality, interest-rate compression, payment-for-order-flow scrutiny, execution-quality disclosure rules and cybersecurity and operational resilience demands.",
+    "key_stats": {
+      "market_size": "2025: estimated $18.3 billion US industry revenue; 2026: projected about $19.5 billion",
+      "growth": "2025: estimated +7.6% year over year; 2026: projected +6.6% year over year",
+      "legacy_forecast": "2021 IBISWorld baseline forecast 2026 revenue of $17.0 billion",
+      "retail_equity_participation": "2024: retail orders were 17.9% of total US equity volume, according to SIFMA",
+      "equity_market_volume": "2024: US equity average daily volume was 12.2 billion shares, up 10.2% year over year; 2Q 2026 ADV was 20.2 billion shares, up 9.9% year over year",
+      "options_volume": "2024: US options ADV was 47.3 million contracts, up 9.0% year over year; 2Q 2026 ADV was 72.8 million contracts, up 27.3% year over year",
+      "margin_balances": "January 2026: FINRA-reported customer securities margin debit balances were $1.279 trillion, versus $937.3 billion in January 2025",
+      "schwab_scale": "2025: Charles Schwab had $11.90 trillion in client assets, 38.5 million active brokerage accounts and 7.7 million daily average trades",
+      "robinhood_scale": "May 2026: Robinhood had 27.7 million funded customers and $377 billion in total platform assets",
+      "fidelity_scale": "2025: Fidelity reported $18.0 trillion in assets under administration and 4.4 million daily average trades",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $14.5 billion, derived from the 2021 IBISWorld baseline revenue of $14.0 billion and its 2021-2026 growth path",
+      "growth": "2022: approximately +4.0% on the 2021 IBISWorld forecast trajectory",
+      "context": "The 2021 baseline expected industry revenue to rise from $14.0 billion in 2021 to $17.0 billion in 2026 as online adoption, S&P 500 growth and platform innovation offset lower per-trade commissions."
+    },
+    "how_it_makes_money": {
+      "commissions_and_contract_fees": "2025: equity and ETF trades are often zero-commission, but options, futures, bonds and international trades still generate contract or ticket charges at many brokers.",
+      "payment_for_order_flow_and_rebates": "2025: zero-commission retail brokers monetize routing economics, especially in options and some equity order flow, subject to best-execution and disclosure rules.",
+      "net_interest_income": "2025: brokers earn spreads on uninvested cash, segregated cash, cash sweeps, margin loans and securities lending collateral.",
+      "margin_lending": "2025: elevated market values and active trading increased demand for margin loans; FINRA margin debit balances ended January 2026 at $1.279 trillion.",
+      "subscriptions_and_tools": "2025: premium tiers, market data, research, active-trader tools and API access add recurring revenue, such as Robinhood Gold and advanced trading platforms.",
+      "asset_management_and_advice": "2025: robo portfolios, managed accounts, RIA custody, retirement accounts and cash management help brokers turn trading customers into broader wealth clients.",
+      "digital_assets_and_private_markets": "2025-2026: crypto, tokenization, prediction-market style products and private-company share access are becoming expansion channels for large platforms."
+    },
+    "cost_structure": {
+      "technology_and_platform": "High fixed costs for trading systems, cloud infrastructure, mobile apps, APIs, cybersecurity, data storage and resilience testing.",
+      "clearing_and_settlement": "Costs include clearinghouse deposits, collateral, reconciliation, custody operations, T+1 settlement readiness and capital tied up during volatile periods.",
+      "regulatory_and_compliance": "Broker-dealers carry FINRA, SEC, AML, best-execution, order-routing, customer-protection, disclosure and market-structure compliance costs.",
+      "customer_acquisition": "Advertising, referral incentives, account-transfer bonuses, retirement matches and premium-tier promotions are major variable costs for growth platforms.",
+      "market_data_and_exchange_fees": "Real-time quotes, options data, exchange connectivity and routing fees are material, especially for active-trader offerings.",
+      "labor": "Engineering, security, product, compliance, customer support, trading operations and licensed personnel dominate headcount costs.",
+      "credit_and_fraud_losses": "Instant deposits, margin lending, crypto activity and account takeover risks create fraud, credit and operational-loss exposure."
+    },
+    "major_players": [
+      "{'name': 'Charles Schwab', 'position': 'Largest publicly reported US retail brokerage and RIA custodian by client assets; 2025 client assets were $11.90 trillion and active brokerage accounts were 38.5 million.'}",
+      "{'name': 'Fidelity Investments', 'position': 'Large private brokerage, retirement and asset-management platform; 2025 assets under administration were $18.0 trillion and daily average trades were 4.4 million.'}",
+      "{'name': 'Robinhood Markets', 'position': 'Mobile-first retail trading platform; 2025 net revenue was $4.5 billion and May 2026 total platform assets were $377 billion.'}",
+      "{'name': 'Interactive Brokers', 'position': 'Active-trader and global electronic brokerage; 2025 commissions rose 27% to $2.149 billion and DARTs rose 40% to 3.7 million.'}",
+      "{'name': 'Morgan Stanley E*TRADE', 'position': 'Self-directed channel inside Morgan Stanley Wealth Management; 2025 self-directed assets were $1.667 trillion, self-directed households were 8.5 million and DARTs were 1.029 million.'}",
+      "{'name': 'Webull', 'position': 'Private mobile brokerage competing on zero-commission equities, options, retirement products and active-trader tools.'}"
+    ],
+    "current_dynamics": "The industry is benefiting from a strong 2025 equity market, heavy options participation, higher account balances and larger margin books. The economics are less dependent on stock commissions than in prior cycles: net interest income, options routing, securities lending, premium subscriptions, advisory custody and crypto-adjacent products now matter more. At the same time, the competitive bar has moved from basic low-cost trading to whole-account relationships, including retirement, cash yield, tax tools, advisor access, private markets and 24-hour or extended-hours trading. Regulation is also moving from broad commission disclosure toward more granular execution-quality, odd-lot, tick-size and access-fee transparency that can affect routing revenue and platform disclosures in 2026.",
+    "whats_growing": [
+      "2025-2026: Options trading, especially short-dated contracts, is growing faster than underlying equity trading and supports contract fees and routing revenue.",
+      "2025-2026: Margin lending and securities lending are growing as market values, leverage appetite and active-trader engagement rise.",
+      "2025-2026: Cash sweep, high-yield cash and retirement products are growing as brokers compete to retain idle balances and deepen relationships.",
+      "2025-2026: Advisory and RIA custody are expanding, with Robinhood acquiring TradePMR in 2025 and Schwab continuing to scale RIA custody.",
+      "2025-2026: Digital assets, tokenization and private-market access are becoming strategic growth areas after Robinhood's Bitstamp deal and Schwab's Forge acquisition.",
+      "2026: 24-hour and extended-hours trading is expanding among large brokers as platforms compete for active traders."
+    ],
+    "whats_shrinking": [
+      "2025-2026: Explicit equity-trade commissions remain structurally compressed near zero for mainstream US stock and ETF trades.",
+      "2025-2026: Standalone trading-only apps with limited cash, retirement, advisory or lending products face pressure as larger platforms bundle more services.",
+      "2025-2026: Revenue tied purely to meme-stock surges is less reliable than during the 2020-2021 retail-trading spike, even though episodic volatility still boosts activity.",
+      "2025-2026: Uninvested-cash spread margins are vulnerable if short-term rates fall, making noninterest revenue diversification more important.",
+      "2026: Regulatory changes to execution-quality reporting and market-data transparency may reduce the opacity that supported some order-routing economics."
+    ],
+    "recent_developments": [
+      "2025-02-26: Robinhood closed its acquisition of TradePMR, adding an RIA custodial platform with more than 350 advisory firms and over $40 billion in assets under administration at announcement.",
+      "2025-06-02: Robinhood completed its acquisition of Bitstamp, adding a global crypto exchange with more than 50 licenses and registrations.",
+      "2025-07-30: Robinhood reported Q2 2025 revenue of $989 million, up 45% year over year, with total platform assets of $279 billion, up 99% year over year.",
+      "2025-10-31: The SEC delayed certain Regulation NMS tick-size and access-fee compliance dates to the first business day of November 2026.",
+      "2026-03-02: Charles Schwab completed its acquisition of Forge Global to expand private-market access for eligible individual investors and RIAs.",
+      "2026-07-16: SIFMA reported 2Q 2026 US equity ADV of 20.2 billion shares and options ADV of 72.8 million contracts, both at record-high levels."
+    ],
+    "outlook": "Revenue should continue growing in 2026 and 2027, but at a more normalized pace than the pandemic-era account-opening boom. The best-positioned firms are those with scale, trusted custody, strong cash economics, low-cost execution, credible active-trader tools and multiple ways to monetize assets after customers stop trading heavily. Upside comes from sustained market gains, higher options volume, margin borrowing, retirement-account growth, private-market access and digital-asset expansion. Downside risks include lower interest rates compressing cash spreads, weaker equity markets reducing asset-based revenue, regulatory pressure on payment for order flow and execution quality, and higher technology, fraud and compliance costs.",
+    "themes": [
+      "Zero-commission trading is now the baseline, not a differentiator",
+      "Revenue mix is shifting toward interest, lending, options, subscriptions and advice",
+      "Scale favors Schwab, Fidelity, Morgan Stanley and Interactive Brokers",
+      "Robinhood is evolving from trading app to broader financial platform",
+      "Options, futures, crypto and private markets are key growth battlegrounds",
+      "Regulation NMS changes will increase transparency around execution quality and market economics",
+      "Mobile-first design and 24-hour access are raising customer expectations",
+      "Customer acquisition is expensive, so retention depends on cash, retirement and advisory products"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-stock-brokerages.txt",
+      "https://www.aboutschwab.com/annual-report",
+      "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm",
+      "https://about.fidelity.com/data-and-insights/2025-annual-report",
+      "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2025-results",
+      "https://investors.robinhood.com/news-releases/news-release-details/robinhood-markets-inc-reports-may-2026-operating-data",
+      "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/ibkr-20251231.htm",
+      "https://www.secinfo.com/dRaDy.N2p.htm",
+      "https://www.sifma.org/research/insights/insights-equity-market-structure-compendium",
+      "https://www.sifma.org/research/statistics/research-quarterly-equity-and-related",
+      "https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics",
+      "https://robinhood.com/us/en/newsroom/robinhood-completes-acquisition-of-bitstamp/",
+      "https://robinhood.com/us/en/newsroom/robinhood-to-acquire-tradepmr/",
+      "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Completes-Acquisition-of-Forge-Global/default.aspx",
+      "https://www.sec.gov/newsroom/press-releases/2025-130-sec-issues-exemptive-order-regarding-compliance-certain-rules-under-regulation-nms",
+      "https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-rule-605-regulation-nms"
+    ],
+    "one_sentence": "The US online stock brokerage industry has shifted from commission-driven discount trading to scale-driven financial platforms that monetize client cash, margin lending, options and crypto activity, securities lending, subscriptions, advisory referrals and order routing economics.",
+    "slug": "online-stock-brokerages"
+  },
+  {
+    "title": "Plumbing & Heating Supplies Wholesaling in the US",
+    "sector": "Construction",
+    "one_liner": "A mature contractor-focused distribution industry where remodeling, waterworks, nonresidential projects and metal-cost volatility are offsetting weak new-home demand.",
+    "overview": "This industry is a construction supply-chain intermediary rather than a manufacturer or installer. In 2022, IBISWorld defined the market around merchant wholesale distribution of plumbing equipment, hydronic heating equipment, household-type water heaters and supplies, excluding most warm-air HVAC and appliance-only categories. The baseline 2022 industry was $80.5 billion and mature, with low concentration, light regulation and margin pressure from wholesale bypass, e-commerce, acquisition-driven scale and cost inflation. For 2025-2026, the industry is still expanding slowly in nominal terms, but the mix has shifted: weak affordability and volatile housing starts are restraining residential new construction, while repair-and-remodel, aging housing stock, water infrastructure, lead service line replacement, commercial mechanical work and data-center/industrial projects are supporting demand for PVF, fixtures, waterworks and flow-control products.",
+    "key_stats": {
+      "market_size": "2025: about $83.5 billion estimated US industry revenue, based on the 2022 IBISWorld $80.5 billion baseline and a roughly 1.2%-1.3% annualized post-2022 growth path.",
+      "growth": "2025: about +1.2% estimated industry revenue growth; 2026: low-single-digit nominal growth expected, with downside from residential construction and upside from nonresidential, remodeling and waterworks demand.",
+      "profit_margin": "2022: 4.0% EBIT margin in the IBISWorld baseline; 2025-2026: margin is supported by private label, scale purchasing and value-added services but pressured by wage, freight and tariff-linked metal costs.",
+      "adjacent_naics_output": "2025: BLS/FRED sectoral output for broader NAICS 4237 hardware plus plumbing/heating wholesalers was $217.4 billion, up 5.6% nominal from 2024, while real output rose 0.9%.",
+      "establishments": "2023: Census reported 6,410 employer establishments for NAICS 423720 plumbing and heating equipment and supplies merchant wholesalers.",
+      "construction_demand": "June 2026: total US construction spending was $2.1665 trillion SAAR, down 3.2% year over year; private residential was $877.1 billion SAAR and private nonresidential was $745.3 billion SAAR.",
+      "housing_starts": "June 2026: privately owned housing starts were 1.427 million SAAR, up 3.5% from June 2025, while permits were 1.367 million SAAR, down 2.3% from June 2025.",
+      "remodeling_demand": "Early 2026: JCHS projected owner-occupied improvement and repair spending to reach $524 billion, with LIRA growth of 2.4% in early 2026 easing to 1.9% by 2026 Q3.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $80.5 billion revenue in 2022 dollars.",
+      "growth": "2022: +0.9% annual revenue growth; 2017-2022: +2.8% revenue CAGR; 2022-2028 projected CAGR in the baseline: +1.24%.",
+      "profit": "2022: $3.2 billion EBIT profit.",
+      "profit_margin": "2022: 4.0% EBIT margin.",
+      "establishments": "2022: 7,693 establishments.",
+      "enterprises": "2022: 4,042 enterprises.",
+      "employment": "2022: 87,105 workers.",
+      "wages": "2022: $7.0 billion total wages.",
+      "product_mix": "2022: other plumbing supplies 31.5%, pipes/fittings/valves 25.6%, plumbing fixtures 18.4%, furnaces and water heaters 11.4%, HVAC equipment 4.8%, sump pumps and water treatment 4.2%, boilers/radiators/related products 4.1%."
+    },
+    "how_it_makes_money": "Wholesalers buy plumbing, heating, hydronic, PVF, fixture, pump, water treatment and water-heater products from manufacturers, hold inventory near contractors and job sites, and earn gross margin by selling through branches, counters, showrooms, inside sales teams, e-commerce portals, direct job-site delivery, project quoting, kitting, credit, technical support and vendor-managed procurement. Revenue is mainly transaction-based product resale, with higher-margin opportunities in private-label products, specialty PVF, waterworks packages, commercial mechanical projects, emergency replacement orders and value-added logistics.",
+    "cost_structure": {
+      "purchases": "2022-2026: product purchases are the dominant cost, especially metal and plastic pipe, fittings, valves, fixtures, water heaters, boilers and pumps; copper, steel, aluminum and resin prices directly affect gross margin and inventory gains or losses.",
+      "labor": "2022: wages were $7.0 billion; 2025-2026 labor costs remain important because counter sales, inside sales, drivers, warehouse staff, technical specialists and project estimators are part of the value proposition.",
+      "profit": "2022: EBIT profit margin was 4.0%; 2025-2026 margins depend on price pass-through, inventory discipline, private-label mix and branch productivity.",
+      "freight_and_warehousing": "2025-2026: branch networks, local delivery fleets, regional distribution centers and job-site logistics remain core operating costs as contractors value availability and speed.",
+      "occupancy_and_showrooms": "2025-2026: rent, utilities and showroom costs matter for kitchen/bath fixture sales, but online ordering and branch automation are reducing some physical selling friction.",
+      "technology": "2025-2026: spending is rising on e-commerce, ERP, inventory visibility, warehouse automation, pricing systems and customer portals."
+    },
+    "major_players": [
+      "{'name': 'Ferguson Enterprises', 'position': 'Largest North American value-added distributor in water and air solutions; major US player in plumbing, PVF, waterworks, HVAC and commercial mechanical supply.', 'current_scale': '2025: $31.3 billion calendar-year sales; 2026: approximately 35,000 associates and 1,700+ locations disclosed by Ferguson.'}",
+      "{'name': 'Winsupply', 'position': 'Large decentralized US wholesaler serving plumbing, heating, hydronics, PVF, HVAC, waterworks, utility and industrial customers.', 'current_scale': 'Fiscal year ended Jan. 31, 2026: $8.4 billion annual sales and about 9,500 employees; fiscal year ended Jan. 31, 2025: $7.8 billion annual sales.'}",
+      "{'name': 'Hajoca', 'position': 'Major privately held plumbing, HVAC, industrial, pool and waterworks distributor with regional trade names and local branch autonomy.', 'current_scale': '2026: 450+ locally managed locations and 60+ regional trade names disclosed by Hajoca.'}",
+      "{'name': 'Reece Group / MORSCO', 'position': 'Important plumbing and HVAC distributor presence through MORSCO and related US branch networks, with exposure to residential and commercial contractors.', 'current_scale': '2022 baseline: Reece Group was identified as a major consolidator after acquiring MORSCO.'}",
+      "{'name': 'F.W. Webb', 'position': 'Regional plumbing, heating, PVF, HVAC, industrial and waterworks distributor with strong Northeast presence.', 'current_scale': '2025-2026: privately held regional competitor; scale is meaningful in local contractor markets but less nationally concentrated than Ferguson.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is mixed rather than recessionary. Residential new construction is constrained by affordability, mortgage-rate lock-in and weaker permit activity, but replacement demand remains durable because plumbing failures, water-heater replacement and code-driven work cannot be deferred indefinitely. Remodeling is still positive but slowing from pandemic-era highs. Nonresidential, waterworks and commercial mechanical work are more resilient, with data centers, semiconductor projects, power generation, pharmaceuticals, public water infrastructure and lead service line replacement supporting PVF and flow-control demand. Metal tariffs and PPI stickiness create pricing risk, while consolidation favors large distributors with purchasing scale, inventory breadth, digital ordering and job-site logistics.",
+    "whats_growing": [
+      "2025-2026: repair, maintenance and improvement orders tied to aging homes, bathroom remodels, kitchen remodels, water heaters and aging-in-place upgrades.",
+      "2025-2026: waterworks, utility and municipal demand tied to lead service line replacement, drinking-water compliance and infrastructure funding.",
+      "2025-2026: nonresidential PVF and commercial mechanical demand for data centers, semiconductor facilities, power generation and pharmaceuticals.",
+      "2025-2026: e-commerce, mobile ordering, branch inventory visibility, warehouse automation and customer-specific pricing portals.",
+      "2025-2026: consolidation and tuck-in acquisitions by scaled distributors seeking broader branch density, technical talent and specialty flow-control capabilities."
+    ],
+    "whats_shrinking": [
+      "2025-2026: discretionary residential new-build demand in rate-sensitive markets, especially where permits and single-family starts weaken.",
+      "2025-2026: purely transactional wholesalers with limited delivery, quoting, credit, technical support or digital ordering capabilities.",
+      "2025-2026: margin room on commodity pipe, fittings and valves when copper, steel, aluminum, resin, freight or tariff costs move faster than price pass-through.",
+      "2025-2026: dependence on physical showroom traffic for routine replenishment orders as contractors shift more purchasing online or through account-managed channels."
+    ],
+    "recent_developments": [
+      "2025-02-25: NAHB forecast residential remodeling activity to gain 5% in 2025 and 3% nominally in 2026, while noting plumbing fixtures and fittings remained among difficult-to-source products.",
+      "2025-06-03: BLS/FRED reported 2025 broader NAICS 4237 sectoral output at $217.4 billion and real output growth at 0.9%.",
+      "2025-07-30: Federal copper import action imposed a 50% tariff on semi-finished copper products and intensive copper derivative products effective Aug. 1, 2025.",
+      "2025-10-16: JCHS projected owner-occupied remodeling and repair spending to reach $524 billion in early 2026, with growth easing from 2.4% to 1.9% by 2026 Q3.",
+      "2026-07-13: Ferguson announced a $1.6 billion agreement to acquire FloWorks, expanding valves, valve automation, specialty flow-control and nonresidential exposure.",
+      "2026-08-03: Census reported June 2026 construction spending of $2.1665 trillion SAAR, down 3.2% year over year, with private nonresidential spending up 0.1% from May 2026."
+    ],
+    "outlook": "The 2026-2028 outlook is slow-growth and mix-dependent. Industry revenue should continue to edge up in nominal terms, but real growth is likely modest because residential new construction is uneven and remodeling growth is slowing. The best opportunities are in water infrastructure, lead service line replacement, commercial mechanical work, data-center and industrial projects, repair-and-replacement demand, private-label assortments and digital branch productivity. The main risks are prolonged housing affordability pressure, weaker permits, contractor labor shortages, tariff-linked cost shocks, inventory misreads after price spikes, and continued manufacturer or marketplace bypass. Scale advantages should keep consolidation active, but local service quality will remain a key defense against national accounts and online-only competitors.",
+    "themes": [
+      "Mature construction distribution",
+      "Residential affordability headwind",
+      "Repair-and-remodel resilience",
+      "Water infrastructure and lead line replacement",
+      "Nonresidential PVF strength",
+      "Metal tariffs and cost pass-through",
+      "Distributor consolidation",
+      "Digital ordering and branch automation",
+      "Private-label margin expansion",
+      "Wholesale bypass risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Plumbing & Heating Supplies Wholesaling in the US, last updated Aug. 30, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/plumbing-and-heating-supplies-wholesaling-in-the-us.txt'}",
+      "{'title': 'IBISWorld Help Center, US industry title changes, May 15, 2026', 'url': 'https://help.ibisworld.com/en/articles/12466682-us-industry-report-title-changes'}",
+      "{'title': 'U.S. Census Bureau, Monthly Construction Spending, June 2026, released Aug. 3, 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'title': 'U.S. Census Bureau, Monthly New Residential Construction, June 2026, released July 17, 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'title': 'FRED/BLS, Sectoral Output for Wholesale Trade: Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers, 2025', 'url': 'https://fred.stlouisfed.org/series/IPUGN4237T300000000'}",
+      "{'title': 'FRED/BLS, Real Sectoral Output for Wholesale Trade: Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers, 2025', 'url': 'https://fred.stlouisfed.org/series/IPUGN4237T010000000'}",
+      "{'title': 'FRED/BLS, Producer Price Index: Plumbing Fixtures, Fittings, and Trim, June 2026', 'url': 'https://fred.stlouisfed.org/series/WPU105402'}",
+      "{'title': 'Joint Center for Housing Studies of Harvard University, LIRA release, Oct. 16, 2025', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-expected-continue-slow-steady-growth-next-year'}",
+      "{'title': 'NAHB, Remodeling Market Poised for Growth in 2025, Feb. 25, 2025', 'url': 'https://www.nahb.org/news-and-economics/press-releases/2025/02/remodeling-market-poised-for-growth-in-2025'}",
+      "{'title': 'NAHB, Expects Remodeling Growth in 2026 and Beyond, Feb. 18, 2026', 'url': 'https://www.nahb.org/news-and-economics/press-releases/2026/02/nahb-expects-remodeling-growth-in-2026-and-beyond'}",
+      "{'title': 'EPA, Lead and Copper Rule Improvements, last updated Dec. 29, 2025', 'url': 'https://www.epa.gov/ground-water-and-drinking-water/lead-and-copper-rule-improvements'}",
+      "{'title': 'Federal Register, Adjusting Imports of Copper Into the United States, Aug. 5, 2025', 'url': 'https://thefederalregister.org/documents/2025-14893/adjusting-imports-of-copper-into-the-united-states'}",
+      "{'title': 'Ferguson, 2025 results and 2026 guidance, Feb. 24, 2026', 'url': 'https://corporate.ferguson.com/pressroom/news-releases/news-details/2026/Ferguson-Reports-Strong-Calendar-2025-Results-and-Issues-2026-Guidance/default.aspx'}",
+      "{'title': 'Ferguson, FloWorks acquisition announcement, July 13, 2026', 'url': 'https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2026/Ferguson-to-Acquire-FloWorks-for-1-6-Billion-Increasing-its-Total-Addressable-Market-to-400-Billion-and-Expanding-its-Non-Residential-Value-Added-Capabilities/default.aspx'}",
+      "{'title': 'Hajoca company website, 2026 locations and business description', 'url': 'https://www.hajoca.com/'}",
+      "{'title': 'Winsupply company profile and 2026 sales disclosure', 'url': 'https://company.winsupply.com/about/leadership/richard-schwartz'}"
+    ],
+    "one_sentence": "US plumbing and heating supplies wholesalers move pipes, fittings, valves, fixtures, hydronic equipment, furnaces, water heaters and related supplies from manufacturers to plumbers, mechanical contractors, builders, remodelers, utilities and showrooms, with 2025-2026 growth tied more to repair, remodeling, infrastructure and nonresidential projects than to new single-family housing.",
+    "slug": "plumbing-and-heating-supplies-wholesaling-in-the-us"
+  },
+  {
+    "title": "Plumbing Service Franchises",
+    "sector": "Construction",
+    "one_liner": "Franchised plumbing operators sell essential repair, drain-cleaning, installation and pipe-system services under national brands.",
+    "overview": "This industry covers franchised outlets that provide plumbing repair, sewer and drain cleaning, fixture installation, water-heater work, mechanical piping, sprinkler systems and related maintenance for homes, property managers and commercial customers. The 2021 IBISWorld baseline placed franchised revenue at $1.375 billion and forecast slow growth to 2026, reflecting mature demand, high local competition and a cooling residential construction cycle. In 2025-2026, the broader plumbing market remains large, with Benjamin Franklin Plumbing citing IBISWorld's 2026 US plumbing industry value at $191.4 billion, but franchise-specific revenue is still driven mainly by local unit count, emergency call volume, brand advertising, technician capacity and the mix between essential repair and discretionary remodeling.",
+    "key_stats": {
+      "market_size": "$1.42 billion estimated franchised plumbing-service revenue in 2026, derived from the 2021 IBISWorld baseline of $1.375 billion and its 2021-2026 annualized growth forecast",
+      "growth": "0.6% estimated 2021-2026 CAGR for franchised revenue from the baseline forecast",
+      "total_plumbing_industry_value": "$191.4 billion cited for the broader US plumbing industry in 2026 by Benjamin Franklin Plumbing using IBISWorld",
+      "franchise_context": "US franchise establishments are projected by IFA to grow 1.5% in 2026 to 845,000 units",
+      "labor": "Plumbers, pipefitters and steamfitters held 504,500 US jobs in 2024; BLS projects 4% employment growth from 2024 to 2034",
+      "wages": "Median annual wage for plumbers, pipefitters and steamfitters was $62,970 in May 2024",
+      "housing_starts": "Privately owned housing starts were 1.427 million SAAR in June 2026, up 3.5% from June 2025",
+      "construction_spending": "Private residential construction was $877.1 billion SAAR in June 2026, down 4.7% year over year; private nonresidential construction was $745.3 billion, also down 4.7%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.38 billion estimated 2022 franchised revenue in 2021 dollars",
+      "growth": "0.6% estimated 2022 growth based on IBISWorld's 2021-2026 franchise-industry forecast",
+      "establishments": "IBISWorld forecast 3,927 franchise locations by 2026, up from 2,984 in 2021",
+      "profit_margin": "IBISWorld forecast franchise profit margin rising from 5.6% in 2021 to 5.7% in 2026"
+    },
+    "how_it_makes_money": "Revenue comes from service calls, emergency plumbing, sewer and drain cleaning, water-heater repair and installation, fixture replacement, repiping, leak repair, backflow and code-compliance work, commercial maintenance contracts, mechanical piping, sprinkler-related work and franchisor or franchisee add-ons such as memberships, warranties and financing. Franchisees benefit from national brands, call-center or booking systems, local digital marketing, vendor rebates, group purchasing and standardized dispatch/software workflows.",
+    "cost_structure": "The largest costs are technician wages, benefits and recruiting; vehicles, fuel and insurance; plumbing parts, water heaters, fixtures, pipe and fittings; franchise royalties and brand-fund or local advertising fees; dispatch, CRM and field-service software; rent or yard space; licensing, permits and training; and liability/workers' compensation coverage. Margins depend heavily on utilization, first-time fix rates, lead costs, parts inflation, emergency-call mix and the ability to price labor above wage growth.",
+    "major_players": [
+      "Roto-Rooter",
+      "Benjamin Franklin Plumbing",
+      "Mr. Rooter Plumbing",
+      "Rooter-Man",
+      "1-800-Plumber + Air",
+      "bluefrog Plumbing + Drain",
+      "Z PLUMBERZ",
+      "American Leak Detection"
+    ],
+    "current_dynamics": "Demand is resilient because plumbing failures are non-discretionary, but the growth mix has shifted away from mortgage-driven remodeling and new single-family work toward repairs, replacements, multifamily maintenance, commercial service and higher-value specialty jobs. Franchises are leaning on digital lead generation, branded emergency availability, field-service software and cross-brand home-services platforms to compete against independent plumbers. Labor remains the tightest constraint: BLS data show a large skilled workforce but only 4% projected 2024-2034 employment growth, while IFA's 2025 survey reported labor availability, quality and cost as the top franchisor challenge.",
+    "whats_growing": [
+      "Emergency repair, drain cleaning and leak-response work that customers cannot defer",
+      "Water-heater replacement, tankless upgrades and aging-home plumbing repairs",
+      "Commercial and multifamily maintenance contracts with repeat service volume",
+      "Technology-enabled scheduling, dispatch, customer reviews, memberships and price-book management",
+      "Franchise expansion in lower-cost, population-growth markets in the Southeast and Southwest",
+      "Water-efficiency, code-compliance and replacement work tied to aging infrastructure"
+    ],
+    "whats_shrinking": [
+      "Mortgage-rate-sensitive kitchen, bath and whole-home remodel plumbing tied to home sales",
+      "New single-family installation work in markets with weak starts or high builder incentives",
+      "Lower-margin commodity plumbing calls where independent contractors compete mainly on price",
+      "Discretionary lawn-sprinkler and upgrade projects when homeowners delay big-ticket improvements"
+    ],
+    "recent_developments": [
+      "2025-02-05: IFA forecast US franchise establishments would rise 2.5% in 2025 to about 851,000 units and output would reach $936.4 billion.",
+      "2025-02-25: IFA's 2025 franchisor survey found 37% of respondents named labor availability, quality and cost as their top business challenge, with 70% reporting unfilled franchisee vacancies.",
+      "2026-02-10: Authority Brands said it added 246 new franchise owners and 340 new territories in 2025 across 31 states, including brands such as Benjamin Franklin Plumbing.",
+      "2026-02-19: IFA projected franchise establishments would grow 1.5% in 2026 to 845,000 units, with commercial and residential services among the fastest-growing franchise industries.",
+      "2026-07-17: Census reported June 2026 housing starts at 1.427 million SAAR, 3.5% above June 2025, but single-family starts were 895,000 and essentially flat month to month.",
+      "2026-08-03: Census reported June 2026 private residential construction spending at $877.1 billion SAAR, down 4.7% year over year, pressuring new-installation demand."
+    ],
+    "outlook": "The 2026 outlook is slow growth rather than breakout growth. Essential repair demand, recurring commercial service and franchise unit expansion should keep revenue positive, while high financing costs, sluggish existing-home sales and softer private residential construction limit discretionary remodel and new-home installation work. Operators with strong recruiting, pricing discipline, membership programs, fast dispatch, water-heater capacity and commercial accounts should outperform smaller franchisees that rely heavily on paid residential leads.",
+    "themes": [
+      "Essential repair demand",
+      "Skilled labor shortage",
+      "High mortgage-rate drag",
+      "Franchise brand consolidation",
+      "Digital dispatch and lead generation",
+      "Water efficiency and code compliance",
+      "Commercial and multifamily maintenance",
+      "Aging housing stock"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/plumbing-service-franchises.txt",
+      "https://benjaminfranklinplumbingfranchise.com/",
+      "https://franchise.neighborly.com/mr-rooter",
+      "https://www.rotorooter.com/about-us/independent-franchises/",
+      "https://www.franchise.org/franchising-economic-outlook/",
+      "https://www.franchise.org/2025/02/for-second-consecutive-year-franchising-exceeds-economic-expectations-outpaces-broader-economy/",
+      "https://www.franchise.org/ifa-annual-franchisor-survey/",
+      "https://www.prnewswire.com/news-releases/authority-brands-closes-out-2025-with-strong-franchise-growth-building-on-a-three-year-acceleration-in-new-franchise-owners-and-territories-302683411.html",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://www.census.gov/construction/c30/pdf/totsa.pdf",
+      "https://www.jchs.harvard.edu/press-releases/remodeling-spending-poised-further-slowdown",
+      "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm"
+    ],
+    "one_sentence": "US plumbing service franchises remain a small, brand-led slice of the much larger plumbing contractor market, with recurring repair demand cushioning weak housing starts while labor availability and customer-acquisition costs constrain expansion.",
+    "slug": "plumbing-service-franchises"
+  }
+]

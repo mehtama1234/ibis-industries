@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Glucose Meter Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. glucose meter manufacturing is a mature, reimbursement-sensitive device niche being reshaped by fast-growing continuous glucose monitoring and OTC biosensors.",
+    "overview": "The legacy fingerstick glucose meter business remains mature because meters are widely available, reimbursement is tight and private-label retail products pressure pricing. Demand is still supported by a large diabetes population: CDC's 2026-updated National Diabetes Statistics Report estimates 40.1 million U.S. people had diagnosed or undiagnosed diabetes in 2023, or 12.0% of the population. The growth story has shifted toward CGM systems and sensors, including OTC products for non-insulin users and wellness consumers, while traditional meters and strips remain important for calibration, backup testing, Medicare-covered DME workflows and lower-cost monitoring.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. glucose meter manufacturing revenue: about $2.89 billion, extrapolated from IBISWorld's 2022 revenue base and 2022-2027 forecast CAGR; broader U.S. blood glucose monitoring market: $16.84 billion in 2026 per Mordor Intelligence, including CGM and related monitoring products.",
+      "growth": "2022-2027 U.S. manufacturing revenue forecast CAGR: 0.7% per IBISWorld baseline; broader U.S. blood glucose monitoring market 2026-2031 CAGR: 12.86% per Mordor Intelligence.",
+      "profit_margin": "2022 industry EBIT margin: 9.5%; 2027 forecast EBIT margin: 9.0% per IBISWorld baseline.",
+      "trade": "2022 exports: $1.379 billion and imports: $2.465 billion per IBISWorld baseline; 2027 forecast exports: $1.6 billion and imports: $2.9 billion.",
+      "employment": "2022 employment: 2,539 workers across 65 establishments per IBISWorld baseline.",
+      "demand_driver": "2023 U.S. diabetes prevalence: 40.1 million people, 12.0% of the population, per CDC's 2026-updated report.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.815 billion U.S. industry revenue in 2022 dollars.",
+      "growth": "2017-2022 revenue CAGR: -1.1%; 2022 revenue growth: +0.3%; 2022-2027 forecast CAGR: +0.7%.",
+      "profit": "$267 million profit in 2022, equal to a 9.5% EBIT margin.",
+      "exports": "$1.379 billion in 2022 exports.",
+      "imports": "$2.465 billion in 2022 imports.",
+      "domestic_demand": "$3.902 billion in 2022 domestic demand.",
+      "establishments": "65 establishments and 59 enterprises in 2022."
+    },
+    "how_it_makes_money": "Revenue comes from selling glucose meters, CGM-compatible receivers, test strips, lancets, control solutions, sensors, transmitters and related diabetes monitoring supplies to pharmacies, DME suppliers, hospitals, distributors, payers and export customers. The most attractive economics come from recurring consumables such as proprietary test strips and CGM sensors, while base meters are often low-margin, bundled, subsidized or replaced slowly.",
+    "cost_structure": {
+      "2022_profit_margin": "9.5% EBIT margin per IBISWorld baseline.",
+      "2022_wages": "$656 million in wages, about 23.3% of 2022 industry revenue.",
+      "main_costs": "Electronic components, biosensors, plastic housings, reagents and enzymes for strips, sterile packaging, contract manufacturing, quality systems, FDA compliance, clinical validation, warranty support, distribution and R&D.",
+      "pricing_pressure": "Medicare reimbursement rules, competitive bidding, pharmacy benefit pressure, retail private labels and imported products limit markups on standard meters and strips.",
+      "capital_intensity": "IBISWorld classifies capital intensity as low, but regulatory compliance and R&D barriers remain high."
+    },
+    "major_players": [
+      "Abbott Diabetes Care: FreeStyle Libre CGM, FreeStyle meters, Lingo and Libre Rio OTC systems; Abbott reported $7.998 billion in 2025 Diabetes Care sales worldwide, up 17.5%.",
+      "Dexcom: G7, Stelo OTC biosensor and CGM platform; Dexcom reported approximately $4.662 billion in 2025 revenue, up 16%.",
+      "Roche Diabetes Care: Accu-Chek meters, strips and mySugr digital tools; Roche announced a 2025 plan to invest up to $550 million by 2030 in Indianapolis for CGM manufacturing.",
+      "LifeScan: OneTouch meters and digital health products; LifeScan emerged from Chapter 11 restructuring in December 2025 after eliminating more than 75% of prepetition debt.",
+      "Ascensia Diabetes Care: CONTOUR meters, strips and diabetes data tools.",
+      "Medtronic: integrated glucose sensing and insulin delivery systems used in diabetes technology workflows."
+    ],
+    "current_dynamics": "The industry's center of gravity is moving from episodic fingerstick testing to connected, sensor-based monitoring. CGM reimbursement has widened since Medicare began covering therapeutic CGMs in 2017 and CMS's 2025 glucose monitor article recognizes both home BGMs and CGMs under the DME benefit when criteria are met. OTC clearances in 2024 opened a non-prescription channel for adults not using insulin and for wellness-oriented users, expanding the addressable market but increasing competition from consumer technology positioning. Legacy BGM volumes face pressure from CGM substitution, but meters and strips remain embedded in backup testing, lower-cost diabetes management and some payer coverage rules.",
+    "whats_growing": [
+      "Continuous glucose monitoring sensors, receivers and software-connected systems.",
+      "OTC glucose biosensors for non-insulin Type 2 diabetes users and metabolic-health consumers.",
+      "U.S. domestic CGM manufacturing capacity, highlighted by Roche's 2025 Indianapolis investment plan.",
+      "Data-sharing features that connect patients, caregivers, clinicians and insulin delivery devices.",
+      "Medicare and commercial payer-covered CGM supply allowances for eligible users."
+    ],
+    "whats_shrinking": [
+      "Standalone fingerstick meter replacement cycles as more insulin-treated users move to CGM.",
+      "Price realization on commodity meters and test strips due to reimbursement and retail competition.",
+      "Small independent manufacturing positions because FDA quality requirements, payer contracting and scale favor larger device platforms.",
+      "Separate billing opportunities for CGM sensors and transmitters when CMS treats them as bundled supply allowances."
+    ],
+    "recent_developments": [
+      "2024-03-05: FDA cleared Dexcom Stelo as the first OTC continuous glucose monitor for adults 18 and older not using insulin.",
+      "2024-06-10: Abbott received FDA clearance for OTC Lingo and Libre Rio glucose monitoring systems.",
+      "2025-02-18: CMS revised its Glucose Monitor policy article covering BGMs and CGMs under the DME benefit when criteria are met.",
+      "2025-05-12: Roche announced up to $550 million of investment by 2030 to expand Indianapolis CGM manufacturing capacity.",
+      "2025-12-08: LifeScan emerged from Chapter 11 restructuring after eliminating more than 75% of prepetition debt.",
+      "2026-01-22: Abbott reported 2025 Diabetes Care sales of $7.998 billion worldwide, up 17.5%, with U.S. Diabetes Care sales up 20.8%."
+    ],
+    "outlook": "U.S. manufacturing revenue for the narrow glucose meter industry is likely to edge up slowly through 2027, while the broader monitoring market grows much faster because CGM sensors and OTC biosensors carry higher recurring volume. The best-positioned manufacturers will pair regulated devices with proprietary consumables, payer access, digital coaching and insulin-delivery interoperability. Risks remain concentrated in reimbursement cuts, FDA accuracy and safety requirements, import competition, GLP-1-driven changes in Type 2 diabetes management, and the possibility that consumer CGM pricing compresses as Abbott, Dexcom, Roche and others scale capacity.",
+    "themes": [
+      "CGM substitution",
+      "OTC glucose biosensors",
+      "Medicare DME coverage",
+      "Recurring consumables",
+      "Connected diabetes data",
+      "Domestic manufacturing investment",
+      "Price-based competition",
+      "Aging population and diabetes prevalence",
+      "FDA accuracy requirements",
+      "Import exposure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/glucose-meter-manufacturing.txt",
+      "https://usdss.cdc.gov/diabetes/report.html",
+      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52464",
+      "https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor",
+      "https://abbott.mediaroom.com/2024-06-10-Abbott-Receives-U-S-FDA-Clearance-for-Two-New-Over-the-Counter-Continuous-Glucose-Monitoring-Systems",
+      "https://abbott.mediaroom.com/2026-01-22-Abbott-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Issues-2026-Financial-Outlook",
+      "https://investors.dexcom.com/news/news-details/2026/Dexcom-Reports-Preliminary-Unaudited-Results-for-the-Fourth-Quarter-and-Fiscal-Year-2025-and-Initial-2026-Outlook/default.aspx",
+      "https://diagnostics.roche.com/us/en/news-listing/2025/roche-announces-550-million-investment-to-expand-its-indianapolis-diagnostics-manufacturing-hub.html",
+      "https://www.mordorintelligence.com/industry-reports/us-blood-glucose-monitoring-market",
+      "https://www.lifescan.com/news-and-updates/2025-press-releases/lifescan-emerges-press-release"
+    ],
+    "one_sentence": "Manufacturers make blood glucose meters, test strips, lancets, CGM receivers and related diabetes monitoring supplies, earning recurring revenue from consumables while competing on accuracy, connectivity, payer coverage and price.",
+    "slug": "glucose-meter-manufacturing"
+  },
+  {
+    "title": "Golf Driving Ranges & Family Fun Centers in the US",
+    "sector": "Consumer Services",
+    "one_liner": "Golf ranges and family fun centers are growing from pandemic-rebound recreation into a broader social, tech-enabled entertainment market.",
+    "overview": "US golf driving ranges and family fun centers sit at the intersection of local recreation, experiential entertainment and casual sports. IBISWorld's 2022 baseline placed 2021 revenue at $13.4 billion and forecast 2026 revenue at $16.5 billion, implying recovery from COVID-19 closures and continued expansion of venues and service mixes. Current 2025–2026 indicators are mixed: golf participation is at record levels, with 48.1 million Americans age 6+ playing on-course or off-course golf in 2025, including 19.0 million off-course-only participants, while large entertainment chains reported negative same-venue or comparable sales in 2025 as consumers became more value-conscious.",
+    "key_stats": {
+      "market_size": "2026 revenue forecast: $16.5 billion",
+      "growth": "2021-2026 forecast revenue CAGR: 4.3%",
+      "participation": "2025 US golf participation: 48.1 million age 6+ on-course or off-course players; 19.0 million off-course-only players",
+      "establishments": "2021 establishments: 56,363; 2026 forecast establishments: 63,547 companies in the IBIS baseline outlook",
+      "employment": "2021 employment: 201,311 people; 2026 forecast employment: 243,859 people",
+      "profit_margin": "2021 profit margin: 10.9%; 2026 forecast profit margin: 11.1%",
+      "consumer_income": "2025 US per-capita disposable personal income: $66,871, up from $64,446 in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $13.9 billion, derived from the 2022 IBIS baseline's 2021 revenue of $13.4 billion and 2021-2026 forecast CAGR of 4.3%",
+      "growth": "2022 estimated revenue growth: about 4.3%, based on the 2022 IBIS baseline forecast path",
+      "baseline_report_date": "2022-06-23",
+      "baseline_2021_revenue": "2021 revenue: $13.353 billion",
+      "baseline_2021_growth": "2021 revenue growth: 9.1%",
+      "baseline_2026_forecast": "2026 revenue forecast: $16.5 billion"
+    },
+    "how_it_makes_money": "Operators earn revenue from pay-per-use admission and activity fees, hourly or bay-based driving range rentals, mini-golf and go-kart tickets, batting cage and laser tag fees, arcade and redemption games, birthday parties, group events, corporate outings, sports league registrations, lessons, equipment rental, memberships, sponsorships, and on-site food, beverage and merchandise sales. In the 2021 IBIS baseline, meals and beverages represented 8.9% of revenue, sports tournament and match registration 6.1%, fitness and recreational sports center services 4.3%, amusement and recreation services 24.1%, amateur sports teams and club services 15.6%, and other services 41.0%.",
+    "cost_structure": "The largest cost buckets are venue labor, rent or mortgage expense, utilities, insurance, maintenance, depreciation, attraction equipment, balls and sporting supplies, food and beverage inputs, payment systems, marketing, cleaning, property taxes and debt service. Profitability depends on visit volume, capacity utilization, group-event mix, weather exposure for outdoor facilities, and the ability to sell food, beverages and repeat-play packages. The IBIS baseline reported a 2021 profit margin of 10.9% and forecast a 2026 profit margin of 11.1%, while 2025 public-company results show pressure from same-venue sales declines, higher depreciation and tariff uncertainty on new equipment and venue investment.",
+    "major_players": [
+      "Topgolf",
+      "Dave & Buster's / Main Event",
+      "Drive Shack / Puttery",
+      "Urban Air Adventure Park",
+      "Scene75 Entertainment Centers",
+      "Bowlero-owned and independent local family entertainment operators"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions in 2025–2026. Golf-related venues benefit from the sport's higher post-pandemic participation baseline and off-course formats that introduce beginners and younger adults to golf. At the same time, value-sensitive households are limiting discretionary visits, and public operators reported weaker 2025 comparable sales despite new venues. Operators are responding with dynamic pricing, value promotions, higher food and beverage quality, birthday and corporate packages, tech-enabled attractions, redemption arcades, and more efficient staffing models.",
+    "whats_growing": "Tech-enabled golf bays, indoor simulators, Toptracer-style ball tracking, off-course golf participation, birthday-party packages, group sales, food and beverage programs, redemption arcades, self-service kiosks, cashless payments, loyalty databases, bundled activity passes and multi-attraction venues are growing. NGF reported 48.1 million US golf participants in 2025 and 19.0 million off-course-only participants, showing that driving ranges, simulators and golf-entertainment venues remain an important gateway into the sport.",
+    "whats_shrinking": "Traditional single-activity facilities, undifferentiated outdoor ranges, lightly themed mini-golf, low-utilization arcade corners, weather-exposed attractions without event or food revenue, and venues dependent on full-price walk-in traffic are under pressure. In 2025, Topgolf guided to full-year same-venue sales of negative 6% to negative 9%, and Dave & Buster's reported fiscal 2025 comparable-store sales down 5.0%, signaling weaker traffic and spend at some larger entertainment formats.",
+    "recent_developments": [
+      "2025-08-06: Topgolf Callaway reported Q2 2025 Topgolf revenue of $485.3 million and same-venue sales down 6%, partly offset by new venues.",
+      "2025-10-16: Topgolf announced its Woodbury, Minnesota venue would open on 2025-10-30 as its 111th global outdoor venue.",
+      "2025-11-18: Topgolf Callaway agreed to sell a 60% stake in Topgolf and Toptracer to Leonard Green & Partners at an approximately $1.1 billion valuation.",
+      "2025-11-21: IAAPA Expo 2025 reported record attendance of 38,520 verified attendees and 28,598 qualified buyers, indicating continued supplier and operator interest in attractions and family entertainment centers.",
+      "2026-01-30: NGF reported 2025 total US golf participation of 48.1 million age 6+ players, including 19.0 million off-course-only participants.",
+      "2026-03-31: Dave & Buster's reported fiscal 2025 revenue of $2.1 billion, down 1.4%, with comparable-store sales down 5.0%."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive. Revenue is expected to remain above the pre-pandemic baseline as families, young adults and corporate groups continue buying social recreation, and golf's off-course formats keep widening the customer funnel. Growth should be strongest for venues that combine multiple attractions, food and beverage, event hosting and technology-enhanced play. The main risks are consumer trade-down, wage inflation, equipment and construction costs, weather volatility, high interest rates for expansion projects, and competition from other out-of-home entertainment.",
+    "themes": [
+      "Experiential entertainment",
+      "Off-course golf growth",
+      "Value-seeking consumers",
+      "Technology-enabled recreation",
+      "Food and beverage monetization",
+      "Birthday and group events",
+      "Fragmented local competition",
+      "Private equity interest",
+      "Labor efficiency",
+      "Weather and discretionary-spending risk"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/golf-driving-ranges-and-family-fun-centers-in-the-us.txt",
+      "https://www.ngf.org/the-clubhouse/golf-industry-research/",
+      "https://www.ngf.org/short-game/golfs-state-of-industry-in-3-minutes-3/",
+      "https://ir.callawaygolf.com/node/26436",
+      "https://ir.callawaygolf.com/node/26686",
+      "https://press.topgolf.com/2025-10-16-No-Tricks%2C-Just-Swings-Topgolf-Woodbury-Opens-Thursday%2C-October-30%2C-Ahead-of-Halloween",
+      "https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-fourth-quarter-and-fiscal-year-end-2025",
+      "https://iaapa.org/about/press-room/press-release-iaapa-expo-2025-conclues-with-record-breaking-attendance",
+      "https://fred.stlouisfed.org/series/A229RC0A052NBEA"
+    ],
+    "one_sentence": "The industry sells out-of-home recreation through driving ranges, mini golf, go-karts, batting cages, party packages, food and beverages, and related amusement services, with 2025–2026 demand supported by record golf participation but pressured by cautious discretionary spending and higher labor, rent, equipment and financing costs.",
+    "slug": "golf-driving-ranges-and-family-fun-centers-in-the-us"
+  },
+  {
+    "title": "Graphic Designers in the US",
+    "sector": "Business Services",
+    "one_liner": "US graphic designers are growing with digital advertising and visual-content demand, but AI tools and low-cost freelance platforms are compressing basic production work.",
+    "overview": "Graphic Designers in the US covers firms and independent operators that plan, design, and manage visual communications such as logos, brand systems, advertising creative, packaging, print collateral, websites, social assets, presentations, illustrations, and motion graphics. The 2022 IBISWorld baseline placed industry revenue at $14.1 billion, with advertising and corporate branding generating 56.5% of revenue and online design and development another 18.6%. By 2025, public research-page indicators imply an all-operator market of roughly $17.0 billion, while employer-only Census/FRED data last reported $12.6 billion in 2022, underscoring that freelancers and micro-studios are a large part of the broader IBIS-style market. Demand is tied to advertising budgets, business formation, packaging refreshes, digital media use, and content volume across social, retail media, streaming, and creator-led channels.",
+    "key_stats": {
+      "market_size": "2025: about $17.0 billion in US industry revenue, derived from 18,922 companies and about $0.9 million average sales per company in ResearchAndMarkets' 2026 US Graphic Design report page",
+      "growth": "2020-2025: 8.7% CAGR according to ResearchAndMarkets' 2026 US Graphic Design report page",
+      "employment": "2024: 265,900 US graphic designer jobs according to BLS Occupational Outlook Handbook",
+      "median_pay": "2024: $61,300 median annual wage for graphic designers according to BLS",
+      "job_outlook": "2024-2034: 2.0% projected employment growth and about 20,000 openings per year according to BLS",
+      "digital_ad_market": "2025: US internet advertising revenue reached $294.6 billion, up 13.9% year over year, according to IAB/PwC",
+      "visual_content_economy": "2025: Canva cited $143 billion invested annually in the US visual content economy",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $14.120 billion revenue in the baseline IBISWorld file",
+      "growth": "2022: 2.3% annual revenue growth; 2017-2022 revenue CAGR of 2.6% in the baseline file",
+      "profit": "2022: $1.426 billion profit and 10.1% profit margin in the baseline file",
+      "employment": "2022: 174,483 employees in the baseline file",
+      "enterprises": "2022: 133,437 enterprises in the baseline file",
+      "establishments": "2022: 133,551 establishments in the baseline file",
+      "wages": "2022: $4.813 billion total wages in the baseline file",
+      "advertising_expenditure_driver": "2022: $342 billion total US advertising expenditure in the baseline file",
+      "product_mix": "2022: advertising and corporate branding 56.5%, online design and development 18.6%, other graphic design 12.2%, ancillary services 6.8%, print media design 5.9%"
+    },
+    "how_it_makes_money": "Revenue comes from project fees, retainers, hourly billing, and licensing or production markups for brand identity systems, advertising creative, campaign assets, packaging, signage, presentations, web and app visual design, social-media templates, motion graphics, illustration, and print collateral. Larger studios win higher-value rebrands, packaging systems, and integrated campaign work, while freelancers and small studios compete on logos, social content, web graphics, and recurring marketing support for local and mid-market clients.",
+    "cost_structure": {
+      "labor": "High: designers, art directors, project managers, strategists, account staff, and freelance specialists are the core cost; BLS reported 2024 median graphic designer pay of $61,300.",
+      "software_and_tools": "Rising: Adobe Creative Cloud, Figma, Canva, stock assets, font licenses, collaboration tools, generative-AI credits, cloud storage, and proofing systems are increasingly essential.",
+      "freelancers_and_contractors": "Material: studios use illustrators, motion designers, UX designers, photographers, copywriters, and production artists to flex capacity by project.",
+      "sales_and_marketing": "Important: portfolio development, awards, referrals, search visibility, agency partnerships, and client relationship management drive lead flow.",
+      "rent_and_overhead": "Moderate: remote work has reduced office intensity, but some agencies still maintain studios for collaboration and client work.",
+      "profitability": "2022 baseline profit margin was 10.1%; 2025-2026 margins are pressured by price competition and AI-enabled client self-service but helped by productivity gains and premium brand-strategy work."
+    },
+    "major_players": [
+      "Pentagram",
+      "Landor",
+      "IDEO",
+      "Wolff Olins",
+      "R/GA",
+      "frog / Capgemini Invent",
+      "MetaDesign",
+      "independent freelancers and small studios",
+      "in-house creative teams at large brands"
+    ],
+    "current_dynamics": "The market is being pulled in two directions. Record 2025 digital advertising revenue, growth in video, social, commerce media, and creator advertising are raising demand for fast, on-brand visual content. At the same time, Canva, Adobe Firefly, Figma, and other AI-enabled tools let marketers and non-design employees produce simple graphics, presentations, and variants internally, reducing some low-end freelance demand. Professional designers are moving up the value chain toward brand systems, campaign concepts, art direction, packaging, motion, UX-adjacent design, and governance of AI/template workflows.",
+    "whats_growing": [
+      "Digital-first brand systems for websites, apps, social media, retail media, and creator campaigns",
+      "Motion graphics, short-form video assets, streaming and connected-TV creative",
+      "Packaging, ecommerce merchandising graphics, and product-launch visual systems",
+      "Template systems and design operations for in-house marketing teams",
+      "AI-assisted creative production, versioning, localization, and brand-controlled content at scale",
+      "Visual communication for sales decks, internal communications, training, and executive storytelling"
+    ],
+    "whats_shrinking": [
+      "Standalone print-media design tied to newspapers and magazines",
+      "Commodity logo work and simple social graphics exposed to templates, AI tools, and low-cost freelance marketplaces",
+      "One-off static banner and display-ad production where automated variation tools are improving",
+      "Small freelancers that compete mainly on price without strategy, client access, or specialized technical skills",
+      "Traditional print collateral volumes, although premium packaging and point-of-sale design remain more resilient"
+    ],
+    "recent_developments": [
+      "2025-02-27: Adobe's FY2024 filing described Firefly Imaging, Vector, Design, and Video models plus Firefly Services APIs for scaled creative production.",
+      "2025-08-28: BLS released 2024-2034 projections showing graphic designer employment growing 2.0% from 265,900 jobs in 2024 to 271,500 in 2034.",
+      "2025-12: Canva reported reaching 260 million monthly users and $3.5 billion in 2025 revenue, highlighting mainstream adoption of design tools.",
+      "2026-01-16: EMARKETER cited Winterberry's forecast that US advertising, marketing, and data spending would reach $664.2 billion in 2026, up 9.4% year over year.",
+      "2026-04-16: IAB/PwC reported US internet advertising revenue of $294.6 billion in 2025, up 13.9% year over year, with social, video, commerce media, and creator advertising driving growth.",
+      "2026-05-27: dentsu's midyear ad-spend forecast projected 2026 global advertising growth of 5.0%, with digital representing 69% of spend across analyzed markets."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but uneven. Advertising and marketing budgets remain supportive, especially in digital, social, retail media, video, and creator-led channels, while 2026 sports and political cycles should add campaign work. Industry revenue should continue to expand from the 2022 baseline toward the mid-to-high teens in billions, but headcount growth will lag content volume because AI and templates automate production. Operators with brand strategy, motion, packaging, UX-adjacent skills, AI workflow governance, and enterprise client relationships should outperform; undifferentiated print and commodity freelance work should remain under pressure.",
+    "themes": [
+      "AI-assisted design production",
+      "Digital advertising growth",
+      "Creator and social content volume",
+      "Brand consistency and design systems",
+      "In-house creative teams",
+      "Freelance price competition",
+      "Shift away from print media",
+      "Packaging and ecommerce design",
+      "Motion and video-first creative",
+      "Design literacy outside creative departments"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Graphic Designers in the US, IBISWorld, last updated June 24, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/graphic-designers-in-the-us.txt'}",
+      "{'name': 'U.S. Bureau of Labor Statistics, Occupational Outlook Handbook: Graphic Designers, 2024 data and 2024-2034 projections', 'url': 'https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm'}",
+      "{'name': 'IAB/PwC Internet Advertising Revenue Report: Full Year 2025, released April 16, 2026', 'url': 'https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2025/'}",
+      "{'name': 'IAB news release: Digital Ad Revenue Climbs to Nearly $300B, April 16, 2026', 'url': 'https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/'}",
+      "{'name': 'FRED / U.S. Census Bureau, Total Revenue for Graphic Design Services, All Establishments, Employer Firms, 2022', 'url': 'https://fred.stlouisfed.org/series/REVEF54143ALLEST'}",
+      "{'name': 'ResearchAndMarkets, 2026 Graphic Design Market Research Report page, 2025 company count, sales per company, and 5-year growth indicators', 'url': 'https://www.researchandmarkets.com/report/united-states-graphic-design-market'}",
+      "{'name': 'Canva Visual Communications Report 2025', 'url': 'https://www.canva.com/visual-communications-report/'}",
+      "{'name': 'Canva 2025 in Review', 'url': 'https://www.canva.com/newsroom/news/canva-2025-wrap/'}",
+      "{'name': 'Adobe FY2024 SEC filing, filed February 27, 2025', 'url': 'https://www.sec.gov/Archives/edgar/data/796343/000079634325000048/adbe-20250227.htm'}",
+      "{'name': 'EMARKETER, US ad spending growth normalizes as digital maturity sets in, January 16, 2026', 'url': 'https://www.emarketer.com/content/us-ad-spending-growth-normalizes-digital-maturity-sets'}",
+      "{'name': 'dentsu Global Ad Spend Forecasts May 2026', 'url': 'https://insight.dentsu.com/ad-spend-may-2026/'}"
+    ],
+    "one_sentence": "The industry sells visual identity, advertising, packaging, web, social, and motion-design services to businesses, with 2025 demand supported by record digital ad spending and 2026 demand increasingly shaped by AI-assisted creative production.",
+    "slug": "graphic-designers-in-the-us"
+  },
+  {
+    "title": "Greeting Cards & Other Publishing in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "A mature print-and-social-expression publishing niche is stabilizing around premium cards, personalization and retail convenience, while calendars, planners and commodity paper formats keep losing ground to digital substitutes.",
+    "overview": "This industry publishes greeting cards in print or electronic form and related products such as postcards, calendars, coloring books, yearbooks, diaries and time schedulers, excluding newspapers, magazines, books, directories, maps, databases and music publishing. The core product is still the physical card, especially birthday, sympathy, thank-you, wedding, seasonal and holiday cards sold through supermarkets, drugstores, mass merchants, gift shops, bookstores, specialty stores and online platforms. The business is mature because smartphones, social media, digital calendars, e-cards and online invitation tools have displaced many low-value paper occasions. The counterweight is that consumers still buy tangible cards for emotionally sensitive or calendar-locked moments, and premium, personalized, artist-designed and small-batch cards can command higher prices.",
+    "key_stats": {
+      "market_size": "2025 US greeting-card publishers sales: $4.8 billion; 2025 broader US greeting-cards market: $7.12 billion",
+      "growth": "2020-2025 US greeting-card publishers CAGR: 1.3%; 2026-2033 broader US greeting-cards market forecast CAGR: 1.6%",
+      "forecast": "2026 broader US greeting-cards market: $7.21 billion; 2033 broader US greeting-cards market: $8.07 billion",
+      "channel_mix": "2025 offline greeting-card sales share: 71.55% of broader US greeting-cards market",
+      "segment_mix": "2025 stationery cards share: 65.30% of broader US greeting-cards market",
+      "premium_growth": "2026-2033 premium/luxury greeting-card CAGR: 2.2%",
+      "online_growth": "2026-2033 online greeting-card channel CAGR: 3.6%",
+      "postal_cost": "2025 First-Class Forever stamp price increased from $0.73 to $0.78 effective July 13, 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld industry revenue: $4.815 billion",
+      "growth": "2022 IBISWorld annual revenue growth: 2.1%",
+      "profit": "2022 IBISWorld profit: $106 million",
+      "profit_margin": "2022 IBISWorld profit margin: 2.2%",
+      "employment": "2022 IBISWorld employment: 20,415 workers",
+      "wages": "2022 IBISWorld wages: $844 million",
+      "establishments": "2022 IBISWorld establishments: 652",
+      "enterprises": "2022 IBISWorld enterprises: 626",
+      "product_mix": "2022 revenue mix: single greeting cards 42.5%, boxed greeting cards 33.0%, consumer publishing 16.0%, business/trade/professional publications 7.1%, other 1.4%"
+    },
+    "how_it_makes_money": {
+      "single_cards": "Publishes and sells individual occasion and seasonal cards through wholesale retail racks, owned sites, marketplaces and specialty retailers.",
+      "boxed_cards": "Sells boxed holiday, thank-you, sympathy and stationery sets, often at higher unit volume but lower per-card pricing.",
+      "consumer_publishing": "Publishes yearbooks, calendars, coloring books, postcards, posters and similar non-book consumer formats.",
+      "business_publishing": "Supplies catalogs, diaries, schedulers, corporate greeting programs, customer-retention cards and employee-recognition cards.",
+      "digital_and_personalized": "Earns from personalized print cards, photo cards, e-cards, subscriptions, print-on-demand orders and online design tools."
+    },
+    "cost_structure": {
+      "paper_printing_and_components": "Paper, envelopes, ink, foils, embellishments, printing, finishing and outsourced manufacturing are major variable costs; paper inflation and tariff exposure pressure margins.",
+      "retail_distribution": "Retail rack servicing, freight, warehousing, returns, retailer allowances and shelf-space economics are significant because offline retail still represented 71.55% of the broader US greeting-card market in 2025.",
+      "labor": "The 2022 baseline wage share was 17.5% of revenue, covering editorial, design, production, sales, merchandising and administrative staff.",
+      "creative_and_licensing": "Design, copywriting, artists, photography, character licenses, celebrity partnerships and branded collections are important differentiators in premium and seasonal cards.",
+      "technology_and_marketing": "E-commerce, personalization platforms, subscription e-card services, CRM, digital asset management and performance marketing are growing cost lines.",
+      "profitability": "The 2022 baseline EBIT margin was 2.2%, reflecting mature demand, retailer bargaining power and high competition from digital substitutes."
+    },
+    "major_players": [
+      "{'name': 'Hallmark Cards, Inc.', 'position': 'Largest legacy US social-expression brand with greeting cards, Hallmark Media, Crayola and global retail distribution; 2026 company materials say Hallmark employs more than 20,000 people worldwide.'}",
+      "{'name': 'American Greetings Corporation', 'position': 'Major US celebrations and greeting-card company with in-store, online, curbside, e-card and digital greeting offerings.'}",
+      "{'name': 'Designer Greetings', 'position': 'Independent US greeting-card publisher with mass, value and specialty retail exposure; represented in GCA leadership.'}",
+      "{'name': 'Avanti Press', 'position': 'Independent greeting-card publisher known for humor, photography-led cards and specialty/gift channels.'}",
+      "{'name': 'Minted', 'position': 'Design-led marketplace and card brand growing through online personalization and 2025 retail expansion into Whole Foods Market locations.'}",
+      "{'name': 'Shutterfly, Canva, Vistaprint, Etsy, Zazzle, Papier and The Knot/Zola', 'position': 'Adjacent personalization, invitation, marketplace and print-on-demand platforms that compete for custom card, invitation and stationery occasions.'}"
+    ],
+    "current_dynamics": "The industry is no longer simply shrinking at the pandemic-era pace. Publisher-level sales appear roughly flat around the 2022-2025 period, but growth is uneven: commodity print cards, calendars and planners face digital substitution, while premium, artist-designed, personalized, photo and corporate relationship cards are more resilient. Offline stores remain the largest channel because cards are browsed and bought during grocery, pharmacy and gift trips, but online selection and personalization are growing faster. Postal price increases raise the full cost of sending cards, while the 2025 end of broad de minimis duty-free treatment adds complexity for imported cards, stationery and supplies. Major brands are also reallocating labor and investment toward digital, data, personalization and higher-margin occasions.",
+    "whats_growing": [
+      "2025-2026 premium and luxury cards, supported by distinctive artwork, higher-quality materials and consumers trading up for important occasions.",
+      "2025-2026 personalized, photo and print-on-demand cards from marketplaces and design platforms.",
+      "2026-2033 online greeting-card sales, forecast to grow at a 3.6% CAGR in the broader US greeting-card market.",
+      "2025-2026 grocery, mass and natural-food retail distribution for card brands that can win impulse and convenience purchases.",
+      "2025-2026 corporate relationship cards, employee recognition and customer-retention card programs that use physical mail to stand out from digital marketing.",
+      "2025-2026 emotionally specific categories such as sympathy, encouragement, gratitude, mental-health support and milestone congratulations."
+    ],
+    "whats_shrinking": [
+      "2025-2026 low-differentiation commodity paper cards pressured by dollar stores, mass merchants and digital alternatives.",
+      "2025-2026 paper calendars, diaries and time schedulers as smartphone calendars and workplace software replace physical planning products.",
+      "2025-2026 bookstore and specialty-card-store dependency as downstream retail consolidation limits shelf opportunities.",
+      "2025-2026 mailed-card frequency among consumers sensitive to postage increases, including the 2025 stamp rise to $0.78.",
+      "2025-2026 small import-reliant publishers facing higher compliance and duty exposure after the August 29, 2025 de minimis change."
+    ],
+    "recent_developments": [
+      "2025-03-17: The Greeting Card Association named Carlos Llanso executive director and added operations, membership and digital-media roles.",
+      "2025-07-13: USPS raised the First-Class Forever stamp price from $0.73 to $0.78 and domestic postcards from $0.56 to $0.61.",
+      "2025-08-20: Hallmark eliminated 30 roles in a company-wide restructuring across multiple divisions.",
+      "2025-08-29: The US suspended duty-free de minimis treatment for low-value goods from all countries, affecting imported stationery and card shipments.",
+      "2025-12-11: Minted announced artist-designed greeting cards in select Whole Foods Market stores across the grocer’s more than 520 US locations.",
+      "2026-02-01: GCA’s Noted: The Greeting Card Expo opened with NY NOW at the Javits Center in New York City."
+    ],
+    "outlook": "The 2026 outlook is flat-to-modestly positive for greeting cards but still negative for the broader legacy publishing bundle. Public 2026 market-report snippets forecast the broader US greeting-cards market at $7.21 billion in 2026 and a 1.6% CAGR through 2033, while publisher-level sales were cited at $4.8 billion in 2025 after a 1.3% CAGR from 2020 to 2025. The best-positioned firms will combine strong physical retail relationships with online personalization, premium design, fast replenishment, seasonal discipline and efficient print sourcing. The weakest categories remain planners, calendars and generic boxed cards where digital substitutes or low-price retailers capture demand. Margins should stay tight because paper, freight, postage, retailer allowances and creative licensing limit pricing power.",
+    "themes": [
+      "Digital substitution versus tactile sentiment",
+      "Premiumization and personalization",
+      "Offline impulse retail resilience",
+      "Online and print-on-demand growth",
+      "Postal and tariff cost pressure",
+      "Retail shelf-space competition",
+      "Industry consolidation",
+      "Artist-led and independent card discovery",
+      "Corporate relationship marketing",
+      "Sustainability and paper sourcing"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Greeting Cards & Other Publishing in the US, IBISWorld text export, last updated July 31, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/greeting-cards-and-other-publishing-in-the-us.txt'}",
+      "{'title': 'ResearchAndMarkets/Kentley Insights, Greeting Card Publishers - U.S. Industry Market Research Report, July 2026 snippet', 'url': 'https://www.researchandmarkets.com/report/united-states-greeting-card-publisher-market'}",
+      "{'title': 'Grand View Research, U.S. Greeting Cards Market Size, January 2026 report page, last updated June 2026', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-greeting-cards-market-report'}",
+      "{'title': 'FRED / U.S. Census Bureau, Total Revenue for Greeting Card Publishers, 2002-2022', 'url': 'https://fred.stlouisfed.org/series/REVEF511191ALLEST'}",
+      "{'title': 'USPS Newsroom, July 2025 mailing-services price changes', 'url': 'https://about.usps.com/newsroom/national-releases/2025/0409-usps-recommends-new-prices-for-july-2025.htm'}",
+      "{'title': 'NRF, Valentine’s Day Spending Expected to Reach New Records, January 27, 2026', 'url': 'https://nrf.com/media-center/press-releases/valentine-s-day-spending-expected-reach-new-records'}",
+      "{'title': 'Greeting Card Association, Leadership Transition, March 17, 2025', 'url': 'https://www.greetingcard.org/greeting-card-association-announces-leadership-transition-and-key-team-additions/'}",
+      "{'title': 'White House, Executive Order suspending duty-free de minimis treatment, July 30, 2025', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/07/suspending-duty-free-de-minimis-treatment-for-all-countries/'}",
+      "{'title': 'Business Wire / Minted, Whole Foods Market welcomes Minted greeting cards, December 11, 2025', 'url': 'https://markets.financialcontent.com/wral/article/bizwire-2025-12-11-whole-foods-market-welcomes-minted-greeting-cards-to-stores-nationwide'}",
+      "{'title': 'Hallmark Corporate, About Hallmark, 2026 accessed page', 'url': 'https://corporate.hallmark.com/about/hallmark-cards-company/'}",
+      "{'title': 'American Greetings Corporate, About Us, 2026 accessed page', 'url': 'https://corporate.americangreetings.com/about-us/'}",
+      "{'title': 'TheWrap, Hallmark Eliminates 30 Roles Amid Company-Wide Restructuring, August 20, 2025', 'url': 'https://www.thewrap.com/hallmark-layoffs-company-restructuring/'}"
+    ],
+    "one_sentence": "US greeting-card and related publishers remain a declining-to-flat publishing category: the 2022 IBISWorld baseline was $4.815 billion of industry revenue with 2.1% growth in 2022, while 2025 public market-report snippets put US greeting-card publisher sales near $4.8 billion and the broader US greeting-card retail market at $7.12 billion.",
+    "slug": "greeting-cards-and-other-publishing-in-the-us"
+  },
+  {
+    "title": "Grocery Wholesaling in the US",
+    "sector": "Food & Drink",
+    "one_liner": "Scale, routing efficiency and customer mix determine who wins in a low-margin grocery distribution market.",
+    "overview": "The industry sits between food producers and downstream buyers such as supermarkets, convenience stores, independent grocers, restaurants, institutional foodservice operators and specialty food retailers. The 2022 IBIS baseline valued the industry at $255.0 billion, with profit of $5.9 billion and a 2.3% margin. Public 2026 Census/FRED data for the broader NAICS 4244 grocery and related products wholesaling category show seasonally adjusted sales of $82.921 billion in June 2026, underscoring a much larger adjacent wholesale grocery channel than the narrower IBIS general-line definition. Demand is stable because grocery products are essential, but operators face high price competition, fuel and labor exposure, and ongoing pressure from large retailers and manufacturers bypassing third-party wholesalers.",
+    "key_stats": {
+      "market_size": "2026 estimate: about $267 billion for the IBIS general-line grocery wholesaling market, based on the 2022 IBIS baseline and its 2022-2027 real CAGR outlook; broader Census NAICS 4244 grocery and related products wholesaler sales were $82.921 billion in June 2026, seasonally adjusted monthly.",
+      "growth": "2022-2027 projected CAGR: 1.2% in 2022 dollars; 2026 food-at-home CPI forecast: +2.7%; 2026 food-away-from-home CPI forecast: +3.5%.",
+      "profit_margin": "2022 IBIS baseline: 2.3%; 2027 IBIS outlook: 2.4%.",
+      "employment": "2022 IBIS baseline: 169,490 employees.",
+      "establishments": "2022 IBIS baseline: 5,044 establishments; 2027 IBIS outlook: 5,182 establishments.",
+      "wages": "2022 IBIS baseline: $11.0 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$255.0 billion revenue in 2022 dollars.",
+      "growth": "2022 revenue growth: +0.4%; 2017-2022 CAGR: +1.6%; 2022-2027 projected CAGR: +1.2%.",
+      "profit": "$5.9 billion.",
+      "profit_margin": "2.3%.",
+      "employment": "169,490 workers.",
+      "enterprises": "4,400 operators.",
+      "establishments": "5,044 locations."
+    },
+    "how_it_makes_money": "Wholesalers earn a markup and service fees by aggregating large volumes of dry grocery, refrigerated, frozen, fresh and nonfood grocery products, then selling and delivering them to grocers, convenience stores, restaurants and institutional buyers. Larger operators add value through procurement scale, private-label programs, category management, demand forecasting, inventory management, cold-chain logistics, merchandising support and store services for independent retailers.",
+    "cost_structure": "The model is high-volume and low-margin. Product purchases are the dominant cost, followed by warehouse labor, driver and logistics labor, fuel, fleet costs, rent or distribution-center occupancy, utilities, insurance, technology, shrink and financing costs. In 2022, IBIS reported $11.0 billion of wages, equal to about 4.3% of revenue, and $5.9 billion of profit, equal to a 2.3% margin. In 2025-2026, beef, fresh vegetables, sugar and beverage input inflation raised working-capital and inventory risk, while lower egg prices in 2026 eased one volatile category.",
+    "major_players": [
+      "C&S Wholesale Grocers, including SpartanNash after the September 22, 2025 acquisition",
+      "United Natural Foods Inc. (UNFI)",
+      "Associated Wholesale Grocers",
+      "Wakefern Food Corp.",
+      "McLane Company"
+    ],
+    "current_dynamics": "Food inflation has shifted from the 2022 shock to a steadier but still elevated pattern: USDA reported food-at-home prices rose 2.3% in 2025 and forecast another 2.7% increase in 2026, while food-away-from-home prices rose 3.8% in 2025 and are forecast to rise 3.5% in 2026. This supports nominal sales but does not automatically improve margins because wholesalers often pass through product costs while absorbing freight, labor and service-level pressure. Consolidation accelerated in 2025 as C&S bought SpartanNash, while the failed Kroger-Albertsons merger removed a major proposed divestiture opportunity for C&S. Independent grocers remain an important customer base, but large chains, clubs and supercenters continue to self-distribute and use scale to pressure wholesale pricing.",
+    "whats_growing": "Natural, organic, specialty, ethnic and fresh categories are growing faster than conventional center-store volume. UNFI reported fiscal 2025 net sales of $31.8 billion, up 4.6% on a comparable 52-week basis, with natural segment sales up about 9.2% on that same basis. Foodservice and away-from-home channels remain supportive because USDA reported 2025 food-away-from-home spending of $1.41 trillion versus $1.10 trillion for food at home. Private label, retail services, demand planning, digital ordering, route optimization and local sourcing are becoming more valuable as independent grocers seek scale-like capabilities.",
+    "whats_shrinking": "Traditional undifferentiated broadline distribution is under pressure where large retailers, warehouse clubs and manufacturers bypass wholesalers. Conventional volume growth is weaker than natural and specialty categories; UNFI reported fiscal 2025 conventional net sales were approximately flat on a comparable 52-week basis. Margin room is shrinking where wholesalers lack scale, dense delivery routes, technology investment or differentiated customer services. Egg-price inflation reversed in 2026, lowering revenue support for that category after very high 2025 prices.",
+    "recent_developments": [
+      "2024-12-10: A federal court blocked Kroger's $24.6 billion Albertsons acquisition, ending the associated plan to divest hundreds of stores to C&S Wholesale Grocers.",
+      "2025-06-23: C&S Wholesale Grocers agreed to acquire SpartanNash for $26.90 per share in cash, with total consideration of $1.77 billion including assumed net debt.",
+      "2025-09-22: C&S completed the SpartanNash acquisition, creating a company with more than 30,000 employees, nearly 60 distribution centers and service to close to 10,000 independent retail locations.",
+      "2025-09-30: UNFI reported fiscal 2025 net sales of $31.8 billion, up 4.6% on a comparable 52-week basis, with natural product sales up about 9.2%.",
+      "2026-07-24: USDA forecast 2026 food-at-home inflation of 2.7% and food-away-from-home inflation of 3.5%.",
+      "2026-08-06: FRED/Census reported June 2026 broader NAICS 4244 grocery and related products wholesaler sales of $82.921 billion, seasonally adjusted."
+    ],
+    "outlook": "The industry should grow modestly through 2027, mostly from population growth, food inflation, continued foodservice demand and demand for specialty products rather than from large volume gains. The most advantaged operators will be those with dense distribution networks, automated warehouses, procurement scale, strong private-label and merchandising programs, and services that help independent grocers compete with Walmart, Costco, Kroger, Amazon and regional chains. Risks include retailer self-distribution, fuel volatility, labor scarcity, food-price swings, cyber disruption, customer concentration and antitrust scrutiny around grocery consolidation.",
+    "themes": [
+      "Consolidation and scale economics",
+      "Low-margin pass-through inflation",
+      "Retailer self-distribution pressure",
+      "Independent grocer enablement",
+      "Natural, organic and specialty growth",
+      "Foodservice recovery and away-from-home demand",
+      "Cold-chain and route optimization",
+      "Private label and category management",
+      "Commodity and fuel volatility",
+      "Cybersecurity and supply-chain resilience"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/grocery-wholesaling-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/S4244SM144SCEN",
+      "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending",
+      "https://www.unfi.com/news-and-resources/articles/news/unfi-delivers-solid-fiscal-2025-results.html",
+      "https://corporate.spartannash.com/C-S-Wholesale-Grocers-Completes-Acquisition-of-SpartanNash",
+      "https://corporate.spartannash.com/2025-06-23-C-S-Wholesale-Grocers-to-Acquire-SpartanNash-for-26-90-per-Share-in-Cash",
+      "https://awginc.com/about-us/",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftc-victory-securing-halt-kroger-albertsons-grocery-merger"
+    ],
+    "one_sentence": "US grocery wholesalers distribute general-line food and nonfood grocery products between manufacturers, farms, retailers and foodservice operators, with 2025-2026 growth supported by food inflation, foodservice demand and consolidation but capped by retailer self-distribution and thin margins.",
+    "slug": "grocery-wholesaling-in-the-us"
+  }
+]

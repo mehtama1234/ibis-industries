@@ -1,9 +1,8 @@
-# Worker Handoff — build the remaining industry briefs (the "numbers" layer)
+# End-to-End Objective: complete all US IBISWorld industry briefs in one Codex-owned thread
 
-You are the **worker thread**. Your ONE job: turn the remaining ~970 US IBISWorld industries into
-**current 2025–2026 web-researched briefs** and grow `briefs_full.json` from 521 → the full ~1,491.
-You do the heavy lifting (pulling every number). A separate **synthesis thread** then mines the
-cross-cutting "forces" and writes the collections — **you do NOT build forces/collections.**
+Long-term goal (no helper threads): turn the remaining ~970 US IBISWorld industries into **current 2025–2026 web-researched
+briefs**, grow `briefs_full.json` from 521 → the full ~1,491, then refresh force and collection assets that consume
+those briefs, and commit + push the result.
 
 Work in tranches of ~300 (or 200) at a time. Everything below is already scripted in this repo.
 
@@ -19,8 +18,9 @@ Work in tranches of ~300 (or 200) at a time. Everything below is already scripte
 - **Already-done slugs:** the 521 slugs already in `briefs_full.json` — always dedupe against these.
 
 ## HARD RULES (non-negotiable)
-1. **Haiku only.** Every research agent runs on Haiku. In workflows: `agent(prompt, {schema, model:'haiku'})`.
-2. **No sub-agents.** Every agent prompt must forbid the Agent tool / deep-research / sub-agents ("if you do, you fail"). The workflow template already does.
+1. **Model-agnostic execution.** Run agents with the configured/default model for this environment; do not hardcode a model in the workflow.
+2. **No external helper threads.** This run is fully end-to-end and self-contained in this Codex thread; no Claude, no off-thread agents, no extra assistant handoff.
+   Every workflow prompt must still forbid the Agent tool / deep-research / sub-agents ("if you do, you fail"). The workflow template already does.
 3. **Never read a workflow/agent transcript `.output` into your context** — they're 600KB–1.5MB. Always harvest with the scripts (they parse on disk, print only a summary).
 4. **Git identity:** `user.name="Manish Mehta"`, `user.email="manishmehta@local"`.
 5. **PAT** for `mehtama1234` is in `~/.git-credentials` — extract host/user/token via python regex, **NEVER print it**. `git push origin main` uses the store helper automatically.
@@ -42,12 +42,11 @@ for n in allnames:
 json.dump(rem,open('_remaining_names.json','w')); print('remaining:',len(rem))
 PY
 ```
-2. Launch a **Haiku picker Agent** (`model:'haiku'`, `subagent_type:'general-purpose'`) that reads
-`_remaining_names.json` and returns `{"industries":[...300 exact names...]}`, favoring large/diverse
-industries and force-diverse coverage. (Copy the picker prompt from the memory or a prior run — it worked well.)
-It may over-return; that's fine, you cap to 300 next.
-3. Harvest the picker list (find the `{"industries":[...]}` in its task `.output`), then resolve to the zip
-and cap at 300 → `_run300.json` (list of `{title, slug, zippath, file}`). Reuse the resolve block:
+2. Select the next tranche from `_remaining_names.json` into `run` form.
+   Use a deterministic script (no picker model) that preserves sector diversity and returns ~300 exact names.
+   You can reuse a prior selector command, but keep the logic explicit and auditable in this handoff run.
+3. Resolve the selected names and cap at 300 → `_run300.json` (list of `{title, slug, zippath, file}`).
+   Reuse the exact resolve block format below:
 unescape `&amp;`→`&` but **keep the `_`** (IBIS uses `_` for apostrophes in filenames); display title = `_`→`'`;
 `file` = `<repo>/txt_full/<slug>.txt`. Dedupe vs `done`. (See the exact block in git history / prior `prep_200.py`.)
 
@@ -58,7 +57,7 @@ cap 38k chars, strip the `M/D/YY, H:MM` headers + searchfunder URLs → `txt_ful
 
 ## PHASE 3 — deep web-research briefs (the heavy lifting)
 This is where the numbers get pulled. Use **background Workflows in chunks of ~60** (5 chunks for 300).
-- The template is **`wf_ibis_full.js`** — a parameterized workflow: one Haiku agent per industry, reads its
+- The template is **`wf_ibis_full.js`** — a parameterized workflow: one model-configured agent per industry, reads its
   `txt_full/<slug>.txt` baseline AND **WebSearch/WebFetch's the current 2025-2026 data**, returns the full brief
   via a **loosened JSON schema** (schema already has NO `enum`, NO `additionalProperties:false`, minimal
   `required` — this is critical: strict schemas cause `StructuredOutput retry cap (5) exceeded` failures).
@@ -105,10 +104,18 @@ git -c user.name="Manish Mehta" -c user.email="manishmehta@local" commit -q -m "
 git push origin main
 ```
 
-## PHASE 5 — verify + hand back
-- **Model purity:** scan run logs for model usage and forbidden `Agent` delegation. Must be single-model runs, 0 sub-agents.
-- Report back to the synthesis thread: **new total count**, which sectors grew, and confirm `briefs_full.json`
-  is pushed. That's the trigger for the synthesis thread to re-mine forces over the larger set.
+## PHASE 5 — combine forces and collections
+1. Rebuild force packs and collection assets from the updated full briefs set:
+   - `python3 build_force_packs.py` (or the forced variant for any specific theme pass already used in this repo)
+   - `for f in _forcebuild_*.json; do s=${f#_forcebuild_}; s=${s%.json}; python3 build_collection.py "$s"; done`
+   - `python3 build_mega_bundle.py`
+2. Re-run `python3 build_full.py` if `index.html` changed or if force/collection content changed.
+3. Commit + push once briefs, forces, and collections are all updated and consistent.
+
+## PHASE 6 — verify + report
+- **Model purity:** scan run logs for forbidden `Agent` delegation. Must be single-model runs, 0 sub-agents.
+- Report back to the user: **new total count**, sectors gained, and confirm that `briefs_full.json` plus rebuilt force
+  files are pushed.
 
 ---
 
@@ -119,7 +126,7 @@ Media & Entertainment | Transport & Logistics | Real Estate), `one_liner, overvi
 `key_stats{market_size(+yr), growth, businesses, employees, profit_margin, concentration}`,
 `baseline_2022{market_size, growth}`, `how_it_makes_money, cost_structure, major_players[],
 current_dynamics` (deep), `whats_growing, whats_shrinking, recent_developments[]` (dated 2023-26),
-`outlook, themes[]` (4-6 reusable force-tags — these feed the synthesis thread), `data_year, sources[], one_sentence`.
+`outlook, themes[]` (4-6 reusable force-tags), `data_year, sources[], one_sentence`.
 
 ## Gotchas checklist
 - [ ] pypdf slow → background + first 22 pages only.
@@ -129,4 +136,4 @@ current_dynamics` (deep), `whats_growing, whats_shrinking, recent_developments[]
 - [ ] Agents rename `title` verbosely → combine.py must override from the `_run*.json` canon map.
 - [ ] Fire chunks one at a time and harvest between (keeps context clean; on 1M context you can also do 2).
 - [ ] Retry the handful of per-chunk schema failures at the end.
-- [ ] Do NOT touch `forces/`, `forces_config*.py`, or any collection build — that's the synthesis thread.
+- [ ] If this run is for final publish, refresh forces/collections after briefs merge (`build_force_packs.py`, `build_collection.py`, `build_mega_bundle.py`).

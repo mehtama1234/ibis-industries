@@ -1,0 +1,454 @@
+[
+  {
+    "title": "Public School Bus Services in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "A mature, contract-driven student transportation industry is being reshaped by driver shortages, district budget pressure, route cuts, and electric bus funding.",
+    "overview": "Public School Bus Services in the US includes private companies that transport K-12 students and school employees for public school districts, plus related activity, field-trip, special-needs, and charter services. The industry remains essential infrastructure for school attendance, but 2025-2026 demand is weaker than the pre-pandemic norm as districts consolidate routes, use walk zones and express stops, and experiment with vans and alternative transportation for hard-to-serve trips.",
+    "key_stats": {
+      "market_size": "$13.6 billion in 2026",
+      "growth": "Revenue declined 1.3% in 2026 and declined at a 0.1% CAGR from 2021 to 2026",
+      "businesses": "11,195 businesses in 2026, up at a 5.5% CAGR from 2021 to 2026",
+      "profit_margin": "5.5% of revenue in 2026, down from 7.3% in 2021",
+      "school_bus_system_scale": "483,041 yellow buses, 92,576 contractor-owned buses, 410,554 bus drivers, 20,346,165 public K-12 students transported daily, and 3,808,640,065 annual route miles in 2024-25 state-reported data",
+      "labor_market": "School bus drivers held about 387,300 jobs in 2024, with 34% employed in school and employee bus transportation",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$12.864 billion in 2022 revenue, in 2022 dollars",
+      "growth": "Revenue grew 8.4% in 2022 after a 24.6% decline in 2020 and 12.0% growth in 2021",
+      "profit": "$643 million in 2022 profit",
+      "profit_margin": "5.0% in 2022",
+      "industry_gross_product": "$8.044 billion in 2022",
+      "establishments": "11,591 establishments in 2022",
+      "enterprises": "9,793 enterprises in 2022",
+      "employment": "284,047 employees in 2022",
+      "wages": "$6.056 billion in total wages in 2022",
+      "outlook_from_baseline": "IBISWorld's 2022 baseline projected revenue to grow at a 1.7% CAGR to $14.0 billion in 2027"
+    },
+    "how_it_makes_money": {
+      "primary_revenue": "District contracts for scheduled home-to-school public school bus service in 2026",
+      "secondary_revenue": "Transportation for extracurricular activities, special-needs routes, summer programs, charter trips, employee busing, maintenance services, fleet management, route optimization, and parent-facing tracking services in 2025-2026",
+      "contract_model": "Revenue is usually earned through fixed multiyear contracts, per-route or per-bus pricing, billable service hours, fuel escalators, and change orders for added routes or special services in 2025-2026"
+    },
+    "cost_structure": {
+      "labor": "Largest operating cost in 2026 because CDL driver recruitment, training, retention bonuses, monitors, dispatchers, mechanics, and compliance staff are needed to keep routes staffed",
+      "fuel_and_energy": "Diesel, gasoline, propane, CNG, electricity, charging infrastructure, and fuel hedging or fuel pass-through clauses remain major 2025-2026 cost variables",
+      "fleet_and_maintenance": "Bus purchases or leases, parts, tires, insurance, inspections, repairs, telematics, cameras, and depot costs are significant capital and operating costs in 2025-2026",
+      "insurance_and_safety": "Liability insurance, workers compensation, claims management, background checks, cameras, stop-arm systems, and safety training are material costs in 2025-2026",
+      "margin_context": "IBISWorld reports profit margin fell to 5.5% in 2026 from 7.3% in 2021 as wage inflation and service inefficiency offset contract price increases"
+    },
+    "major_players": [
+      "{'name': 'First Student', 'position': 'Largest North American student transportation provider; reported 5.5 million students transported daily, more than 525 million miles, approximately 46,000 vehicles, and 7 million electric school bus miles in 2025'}",
+      "{'name': 'National Express School / Durham School Services', 'position': 'Major US contractor sold by Mobico to I Squared Capital in July 2025; Durham reports 340+ districts, 32 states, 14,400+ vehicles, 16,000+ employees, and 1,000,000+ students transported daily in 2026'}",
+      "{'name': 'Student Transportation Inc. / Student Transportation of America', 'position': 'Large private contractor active in school bus and alternative-fuel services; listed by IBISWorld among major 2026 companies'}",
+      "{'name': 'Beacon Mobility and regional contractors', 'position': 'Growing regional and specialized transportation operators benefiting from district outsourcing, special-needs demand, and large-company divestitures in 2025-2026'}",
+      "{'name': 'District-owned fleets', 'position': 'Public agencies remain important competitors and customers; 2024-25 state data counted 483,041 yellow buses and 92,576 contractor-owned buses'}"
+    ],
+    "current_dynamics": "The 2026 market is flat-to-down despite its essential role because many districts face enrollment softness, driver shortages, budget constraints, and pressure to reduce route miles. Contractors are recovering costs through contract renewals, fuel escalators, technology fees, and higher billable-hour pricing, while districts are narrowing eligibility, adding walk zones, clustering express stops, and shifting some individualized routes to vans or smaller vehicles. Electrification is growing, but deployment is paced by grants, charging infrastructure, utility coordination, maintenance training, and higher upfront bus costs.",
+    "whats_growing": [
+      "Electric and low-emission school bus replacements funded by 2022-2026 federal Clean School Bus Program awards",
+      "Special-needs, McKinney-Vento, out-of-district, and hard-to-serve student transportation using vans, SUVs, and sedans in 2025-2026",
+      "Route optimization, GPS tracking, student ridership tools, onboard cameras, parent apps, and fleet telematics in 2025-2026",
+      "Outsourced maintenance, fleet management, and electrification support services for districts in 2025-2026",
+      "Private equity ownership and regional acquisition activity following 2025 large-fleet divestitures"
+    ],
+    "whats_shrinking": [
+      "Traditional daily yellow-bus ridership share, with IBISWorld noting 28.0% of students used school buses in 2023 versus 36.0% in 2017",
+      "Long-distance and low-density routes where districts can create walk zones, express stops, or consolidated pickup points in 2025-2026",
+      "Profit headroom on legacy contracts that do not fully pass through 2025-2026 wage, insurance, vehicle, and fuel inflation",
+      "Diesel-only fleet procurement in districts receiving 2022-2026 clean bus funding",
+      "Large public-company ownership of US school bus operations after FirstGroup's 2021 exit and Mobico's 2025 sale"
+    ],
+    "recent_developments": [
+      "2025-06: First Student reported 1 billion 2024-25 student journeys, 5.5 million students transported daily, 525 million miles, and 7 million electric school bus miles.",
+      "2025-07: Mobico completed the sale of North America School Bus to I Squared Capital for enterprise value up to $608 million and $364 million of net upfront proceeds.",
+      "2025-12: School Bus Fleet's 2024-25 state survey totaled 483,041 yellow buses, 410,554 drivers, 20,346,165 daily public K-12 riders, and $12.922 billion of reported state transportation aid.",
+      "2026-01: IBISWorld reported 2026 industry revenue of $13.6 billion, down 1.3% in 2026 and down at a 0.1% CAGR from 2021 to 2026.",
+      "2026-02: EPA's 2024 Clean School Bus rebate guidance showed up to $965 million available, with selected projects expected to receive buses and close out by May 2027.",
+      "2026-06: EPA stated the 2021 infrastructure law funded the Clean School Bus Program at $5 billion over FY 2022-2026 and said more information on the revamped program was forthcoming."
+    ],
+    "outlook": "The 2026-2031 outlook is cautious: revenue is likely to track district budgets, enrollment, and driver availability more than underlying need for student mobility. Pricing should improve as contracts reset for higher wages and insurance, but volume growth is limited by lower school bus ridership, route consolidation, and public scrutiny of transportation costs. Electrification, special-needs transportation, and tech-enabled routing are the strongest growth lanes, while contractors with recruiting capacity, grant-writing expertise, charging partners, and dense local route networks should outperform small operators with aging diesel fleets and thin balance sheets.",
+    "themes": [
+      "Driver shortage and wage inflation",
+      "District budget constraints",
+      "Route consolidation",
+      "Electric school buses",
+      "Federal clean bus funding",
+      "Special-needs and alternative student transportation",
+      "Fleet telematics and parent visibility apps",
+      "Private equity ownership and consolidation",
+      "Fuel and insurance volatility",
+      "Enrollment and ridership decline"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld file, Public School Bus Services in the US, July 19 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/public-school-bus-services-in-the-us.txt'}",
+      "{'name': 'IBISWorld Public School Bus Services in the US Industry Data and Analysis, January 2026', 'url': 'https://www.ibisworld.com/united-states/industry/public-school-bus-services/1170/'}",
+      "{'name': 'School Bus Fleet K-12 Student Transportation Statistics 2024-25, December 8 2025', 'url': 'https://www.schoolbusfleet.com/news/k-12-student-transportation-statistics-2024-25'}",
+      "{'name': 'US EPA Clean School Bus Program Awards, last updated July 1 2026', 'url': 'https://www.epa.gov/cleanschoolbus/clean-school-bus-program-awards'}",
+      "{'name': 'US EPA Clean School Bus Program Rebates, last updated February 27 2026', 'url': 'https://www.epa.gov/cleanschoolbus/clean-school-bus-program-rebates'}",
+      "{'name': 'US EPA Clean School Bus Program, last updated June 3 2026', 'url': 'https://www.epa.gov/cleanschoolbus'}",
+      "{'name': 'US Bureau of Labor Statistics Occupational Outlook Handbook: Bus Drivers, 2024 employment data', 'url': 'https://www.bls.gov/ooh/transportation-and-material-moving/bus-drivers.htm'}",
+      "{'name': 'First Student 2024-2025 school year milestones, June 10 2025', 'url': 'https://firststudentinc.com/resources/newsroom/first-student-marks-major-milestones-in-innovation-service-and-sustainability-during2024-2025-school-year/'}",
+      "{'name': 'Mobico completion of North America School Bus sale, July 15 2025', 'url': 'https://www.mobicogroup.com/media/news-releases/2025/completion-of-north-america-school-bus-sale/'}",
+      "{'name': 'Durham School Services company quick facts, 2026 accessed', 'url': 'https://www.durhamschoolservices.com/'}"
+    ],
+    "one_sentence": "US public school bus contractors generate most revenue from multiyear district contracts to operate home-to-school, special-needs, activity, and employee transportation, but 2025-2026 growth is constrained by lower ridership, labor scarcity, and school budget discipline.",
+    "slug": "public-school-bus-services-in-the-us"
+  },
+  {
+    "title": "Savings Banks & Thrifts in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "A shrinking but still relevant group of savings institutions funds mortgages, consumer loans and selected commercial lending with deposits, while higher rates, digital competition and charter flexibility reshape the model.",
+    "overview": "Savings banks and thrifts accept customer deposits and invest those funds primarily in residential mortgages, consumer loans, commercial real estate, business loans and high-grade securities. The baseline IBISWorld report described a long-term declining industry, with 2021 revenue of $54.3 billion and a 2021-2026 forecast CAGR of 0.6% to $56.0 billion, pressured by commercial banks, fintech platforms and consolidation. Current public industry data for the broader NAICS 522180 category, Savings Institutions & Other Depository Credit Intermediation, shows a larger 2025 market size of $73.2 billion, while regulator data shows the federally chartered thrift base has continued to contract: the Cleveland Fed reported 233 federal savings associations with $538 billion in assets as of 2025:Q2.",
+    "key_stats": {
+      "market_size": "2025: $73.2 billion in US industry revenue for Savings Institutions & Other Depository Credit Intermediation, the current public NAICS 522180 match for savings banks and thrifts.",
+      "growth": "2025: 0.0% implied year-over-year revenue growth, based on IBISWorld's public page showing $73.2 billion in both 2024 and 2025; 2019-2024 CAGR was -1.4%.",
+      "federal_savings_associations": "2025:Q2: 233 federal savings associations with $538 billion in assets.",
+      "covered_savings_associations": "2025:Q2: 40 covered savings associations with $78 billion in combined assets.",
+      "banking_sector_context": "2025:Q4: FDIC-insured commercial banks and savings institutions reported $77.7 billion in quarterly net income, 3.39% net interest margin, 5.9% annual loan growth and 1.8% quarterly domestic deposit growth.",
+      "mortgage_rate": "2026-07-23: Freddie Mac reported an average 30-year fixed mortgage rate of 6.58%.",
+      "policy_rate": "2026-07-29: the Federal Reserve held the federal funds target range at 3.50% to 3.75%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $46.105 billion in total revenue for Savings Institutions, All Establishments, Employer Firms, from U.S. Census Bureau data via FRED.",
+      "growth": "2022: +6.9% versus 2021 revenue of $43.135 billion in the same FRED/Census series.",
+      "baseline_context": "The source IBISWorld baseline file was last updated 2021-12-30 and reported 2021 revenue of $54.296 billion, 2021 profit of $9.176 billion, a 2021 profit margin of 16.9%, 561 enterprises, 5,317 establishments and 80,689 employees, all stated in 2021 dollars."
+    },
+    "how_it_makes_money": "The industry earns mainly net interest income: deposits, CDs and wholesale funding are used to fund mortgages, home-equity loans, auto and other consumer credit, commercial real estate loans, commercial and industrial loans, and securities portfolios. Secondary revenue comes from loan origination fees, servicing, deposit account fees, trust or wealth services at diversified institutions, and gains or losses on securities and loan sales. In 2025-2026, profitability depends heavily on deposit repricing, loan yields, credit losses and mortgage-origination volume rather than branch growth.",
+    "cost_structure": "Major costs are interest paid on deposits and borrowings, credit-loss provisions, employee compensation, technology, occupancy, FDIC insurance and OCC assessment fees, compliance, and servicing or vendor costs. The baseline file showed 2021 wages of $6.481 billion against 2021 revenue of $54.296 billion, or about 11.9% of revenue, and 2021 profit of $9.176 billion, or 16.9% of revenue. Public IBISWorld reseller text reported 2023 profit margin of 44.5%, reflecting the high-rate period's boost to earnings before deposit and credit costs fully reset for some operators. OCC 2025 assessment changes raised large-bank assessment rates by 16% for assets above $40 billion and other general assessment rates by 2.65%, adding regulatory cost pressure.",
+    "major_players": [
+      "{'name': 'No single reportable leader', 'position': \"IBISWorld's public 2024 page states no company held a large enough market share to include in the product.\"}",
+      "{'name': 'Synchrony Bank', 'position': 'Large federal savings bank; iBanknet listed $114.855 billion in assets and $85.813 billion in deposits for 2026:Q1.'}",
+      "{'name': 'USAA Federal Savings Bank', 'position': 'Large federal savings bank; iBanknet listed $109.670 billion in assets and $94.938 billion in deposits for 2026:Q1.'}",
+      "{'name': 'MidFirst Bank', 'position': 'Large federal savings bank; iBanknet listed $42.110 billion in assets and $24.689 billion in deposits for 2026:Q1.'}",
+      "{'name': 'Axos Bank', 'position': 'Large digital-oriented federal savings bank; iBanknet listed $28.238 billion in assets and $22.685 billion in deposits for 2026:Q1.'}",
+      "{'name': 'WSFS Bank', 'position': 'Federal savings bank; WSFS reported $21.3 billion in assets at 2025-12-31.'}"
+    ],
+    "current_dynamics": "High mortgage rates are restraining home-purchase and refinance volumes, but they also support loan yields and net interest margins when deposit costs are controlled. The 2025-2026 thrift base is smaller and more specialized, with federal savings associations increasingly using the covered-savings-association election to move away from mandatory residential-mortgage concentration and toward commercial lending and national-bank-like powers. Deposit competition remains intense because customers can compare online savings, brokerage sweep, money-market fund and fintech products quickly. Credit risk is manageable in aggregate, but FDIC 2025:Q4 commentary flags elevated delinquency pressure in some commercial real estate and consumer portfolios.",
+    "whats_growing": "Commercial and industrial lending, commercial real estate lending, digital deposit acquisition, higher-yield CDs and savings products, loan servicing, and covered-savings-association strategies are growing. Mortgage activity is also expected to improve from a weak base: Fannie Mae projected 2025 single-family mortgage originations of $1.85 trillion and 2026 originations of $2.32 trillion, while MBA projected 2026 single-family originations of $2.2 trillion, up from $2.0 trillion in 2025.",
+    "whats_shrinking": "The number of traditional federal savings associations, branch-heavy thrift models, residential-mortgage-only balance sheets, low-rate legacy securities values, and small mutual institutions lacking scale are shrinking. The Cleveland Fed reported federal savings associations fell to 233 by 2025:Q2 from 670 in 2010, while IBISWorld's public 2024 data showed the broader industry had declined at a 2019-2024 CAGR of 1.4%.",
+    "recent_developments": [
+      "2024-11-27: OCC announced 2025 assessment increases, including 16% higher general assessment rates for assets above $40 billion and 2.65% higher rates for other general assessment tiers.",
+      "2025-09-23: Fannie Mae projected 30-year mortgage rates ending 2025 at 6.4% and 2026 at 5.9%, with single-family mortgage originations rising from $1.85 trillion in 2025 to $2.32 trillion in 2026.",
+      "2025-12-23: OCC set 2026 CRA thresholds for small banks and savings associations at less than $1.649 billion in assets and intermediate small institutions at $412 million to less than $1.649 billion.",
+      "2026-02-24: FDIC reported 2025:Q4 industry net income of $77.7 billion, net interest margin of 3.39%, annual loan growth of 5.9% and domestic deposit growth of 1.8%.",
+      "2026-05-04: Cleveland Fed reported 233 federal savings associations with $538 billion in assets as of 2025:Q2, including 40 covered savings associations with $78 billion in assets.",
+      "2026-07-29: Federal Reserve held the federal funds target range at 3.50% to 3.75%, keeping funding-cost and mortgage-rate uncertainty central to thrift earnings."
+    ],
+    "outlook": "The 2026-2030 outlook is low-growth rather than a full recovery. Revenue should be supported by higher asset yields, loan growth, easing but still elevated mortgage rates, and diversification by covered savings associations. Growth is capped by the continuing decline in traditional thrift charters, deposit-cost competition, weak affordability in housing, commercial-bank scale advantages and fintech alternatives. Margin improvement is possible if funding costs stabilize before loan yields fall, but credit provisions and CRE exposure remain the main downside risks.",
+    "themes": [
+      "Industry consolidation",
+      "Deposit-cost competition",
+      "Mortgage-rate sensitivity",
+      "Covered savings association flexibility",
+      "Residential-to-commercial loan diversification",
+      "Digital banking competition",
+      "Community bank regulation",
+      "Commercial real estate credit risk",
+      "Mutual thrift model pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Savings Banks & Thrifts in the US, IBISWorld, last updated 2021-12-30', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/savings-banks-and-thrifts-in-the-us.txt'}",
+      "{'title': 'IBISWorld public page: Savings Institutions & Other Depository Credit Intermediation in the US', 'url': 'https://www.ibisworld.com/united-states/industry/savings-institutions-other-depository-credit-intermediation/2037/'}",
+      "{'title': 'FRED/U.S. Census Bureau: Total Revenue for Savings Institutions, All Establishments, Employer Firms', 'url': 'https://fred.stlouisfed.org/series/REVEF52212ALLEST'}",
+      "{'title': 'Federal Reserve Bank of Cleveland: Covered Savings Associations: A New Type of Depository Institution, 2026-05-04', 'url': 'https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202608-covered-savings-associations'}",
+      "{'title': 'FDIC: Quarterly Banking Profile press release for 2025:Q4, 2026-02-24', 'url': 'https://content.govdelivery.com/accounts/USFDIC/bulletins/40b2c3e'}",
+      "{'title': 'OCC Bulletin 2025-48: CRA asset-size thresholds for banks and savings associations, 2025-12-23', 'url': 'https://www.occ.gov/news-issuances/bulletins/2025/bulletin-2025-48.html'}",
+      "{'title': 'OCC News Release 2024-127: 2025 assessments for national banks and federal savings associations, 2024-11-27', 'url': 'https://occ.gov/news-issuances/news-releases/2024/nr-occ-2024-127.html'}",
+      "{'title': 'Federal Reserve FOMC statement, 2026-07-29', 'url': 'https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm'}",
+      "{'title': 'Freddie Mac: Mortgage rates and affordability, average rates as of 2026-07-23', 'url': 'https://myhome.freddiemac.com/buying/mortgage-rates'}",
+      "{'title': 'Fannie Mae: Mortgage Rates Expected to Move Below 6 Percent by End of 2026, 2025-09-23', 'url': 'https://www.fanniemae.com/newsroom/fannie-mae-news/mortgage-rates-expected-move-below-6-percent-end-2026'}",
+      "{'title': 'Mortgage Bankers Association: 2026 single-family mortgage origination forecast, 2025-10-19', 'url': 'https://www.mba.org/news-and-research/newsroom/news/2025/10/19/mba-forecast--total-single-family-mortgage-originations-to-increase-8-percent-to--2.2-trillion-in-2026'}",
+      "{'title': 'iBanknet: Leading Federal Savings Banks, 2026:Q1', 'url': 'https://ibanknet.com/scripts/callreports/fiList.aspx?type=ots'}",
+      "{'title': 'WSFS Financial Corporation 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/828944/000082894426000006/wsfs-20251231.htm'}"
+    ],
+    "one_sentence": "Savings banks and thrifts remain deposit-funded lenders with a housing-finance legacy, but the 2025-2026 market is increasingly defined by margin management, consolidation, fintech and commercial-bank competition, and covered-savings-association flexibility.",
+    "slug": "savings-banks-and-thrifts-in-the-us"
+  },
+  {
+    "title": "Shoe & Footwear Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed domestic manufacturing niche built around premium, work, military and Made in USA footwear.",
+    "overview": "This industry manufactures athletic, casual, dress, work, protective, rubber, plastic, leather and slipper footwear for men, women and children. The domestic base is structurally small because most mass-market footwear production moved offshore to lower-cost countries, leaving US plants concentrated in premium sneakers, work boots, military-compliant footwear, heritage products, prototyping, short-run production and final assembly. In 2025, IBISWorld estimated industry revenue at $1.8 billion, while FDRA reported 2.015 billion pairs of shoes imported into the United States and only about 25 million pairs made domestically. The result is an industry with low concentration, high import competition, modest pricing power and selective growth where customers pay for speed, compliance, quality, durability or Made in USA labeling.",
+    "key_stats": {
+      "market_size": "2025: $1.8 billion",
+      "growth": "2025: -0.2% year over year; 2020-2025 CAGR: -1.2%",
+      "imports": "2025: 2.015 billion pairs imported into the US",
+      "domestic_production": "2025: about 25 million pairs made in the US",
+      "import_share": "2025: imported shoes represented about 99% of shoes sold in the US, according to FDRA",
+      "major_import_sources": "2025: China 47.8% of import volume, Vietnam 28.5%, Indonesia 9.6%",
+      "consumer_spending": "2025: $121 billion in US personal spending on footwear, according to FDRA",
+      "producer_prices": "May 2026: BLS footwear manufacturing PPI at 168.504, Dec. 2003=100",
+      "employment_indicator": "2025: BLS/FRED footwear manufacturing employment index at 83.459, 2017=100",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $2.091 billion revenue in 2022 dollars",
+      "growth": "2022: 9.3% annual revenue growth; 2017-2022 CAGR: 0.2%",
+      "profit": "2022: $151 million EBIT",
+      "profit_margin": "2022: 7.2%",
+      "establishments": "2022: 941 establishments",
+      "enterprises": "2022: 921 enterprises",
+      "employment": "2022: 12,646 workers",
+      "wages": "2022: $446 million",
+      "exports": "2022: $529 million",
+      "imports": "2022: $32.610 billion",
+      "domestic_demand": "2022: $34.172 billion",
+      "import_penetration": "2022: imports satisfied 95.4% of domestic demand"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling finished footwear and footwear components to wholesalers, retailers, direct brand channels, government buyers and specialty distributors. Higher-margin sales typically come from Made in USA athletic shoes, work and safety boots, military-compliant footwear, heritage leather products, premium limited runs, custom or orthopedic footwear, and contract manufacturing for brands that need shorter lead times or domestic compliance. Commodity sneakers and basic casual shoes are generally outsourced abroad, so domestic operators compete less on price and more on quality, durability, compliance, brand provenance and speed to market.",
+    "cost_structure": {
+      "materials": "2025-2026: leather, rubber, plastic, textiles, foam, adhesives, soles, packaging and imported components remain the largest variable inputs, with tariff and freight volatility affecting landed costs.",
+      "labor": "2025: shoe and leather workers and repairers had BLS mean annual wages of $37,830 within leather and allied product manufacturing; domestic footwear remains labor-intensive relative to outsourced production.",
+      "overhead": "2025-2026: rent, utilities, machinery maintenance, quality control, compliance, insurance and plant depreciation weigh most heavily on small-batch and specialty factories.",
+      "distribution": "2025-2026: freight, warehousing, returns handling and retailer chargebacks affect margins, especially for brands selling through wholesale channels.",
+      "profitability": "2022 baseline profit margin was 7.2%; 2025-2026 margins are pressured by wage inflation, materials costs, tariff uncertainty and the need to maintain premium pricing against lower-cost imports."
+    },
+    "major_players": [
+      "New Balance Athletics Inc.",
+      "Red Wing Shoe Company Inc.",
+      "Wolverine World Wide Inc.",
+      "Alden Shoe Company",
+      "Allen Edmonds / Caleres Inc.",
+      "Danner / LaCrosse Footwear Inc.",
+      "Nike Inc. and Adidas AG as major US-market brands with mostly outsourced manufacturing rather than large domestic production"
+    ],
+    "current_dynamics": "The 2025-2026 industry is stable to slightly declining in revenue but strategically more visible because tariffs, forced-labor compliance, supply-chain risk and Made in USA marketing have increased the value of limited domestic capacity. Imports still define the market: FDRA reported 99% of shoes sold in the US were imported in 2025, with China, Vietnam and Indonesia together accounting for most import volume. Domestic manufacturers are investing where US production has a clear reason to exist, including military procurement, premium lifestyle sneakers, work boots, heritage leather footwear, safety footwear, automation and lean manufacturing. Producer prices continued rising into 2026, and industry groups warned that tariff stacking, material costs and renewed freight pressure were lifting footwear costs for brands and consumers.",
+    "whats_growing": [
+      "Made in USA premium athletic and heritage footwear, supported by New Balance's 2025 Maine factory expansion.",
+      "Work, safety and protective boots tied to construction, utilities, logistics and industrial employment.",
+      "Military and government-compliant footwear where Berry Amendment rules favor domestic production.",
+      "Short-run, premium, custom and specialty footwear where speed, quality control and provenance matter more than lowest unit cost.",
+      "Automation, robotics and lean manufacturing investments that improve productivity in high-wage US plants."
+    ],
+    "whats_shrinking": [
+      "Commodity mass-market sneaker and casual shoe manufacturing in the US, which remains uneconomic against Asian imports.",
+      "Labor-intensive cut-and-sew production without premium branding or compliance advantages.",
+      "Domestic share of mainstream retail footwear volume, as imported shoes accounted for about 99% of US shoes sold in 2025.",
+      "Small operators exposed to material inflation, wage pressure, retailer bargaining power and limited access to automation capital.",
+      "China-only sourcing strategies, as brands continue diversifying toward Vietnam, Indonesia and other countries despite China remaining the largest US import source by volume in 2025."
+    ],
+    "recent_developments": [
+      "2025: IBISWorld estimated US shoe and footwear manufacturing market size at $1.8 billion, down 0.2% year over year.",
+      "2025: FDRA reported 2.015 billion pairs of shoes imported into the US and about 25 million pairs made domestically.",
+      "2025-04-21: USFMA announced Red Wing Shoe Company joined the association and Red Wing COO Mike Noonan joined its board.",
+      "2025-09-22: New Balance opened its expanded $65 million Central Maine factory in Skowhegan, adding 120,000 square feet and employing about 400 associates there.",
+      "2026-05: BLS/FRED footwear manufacturing PPI reached 168.504, up from January 2026's 166.928 index reading.",
+      "2026-07-10: FDRA warned that tariffs, rising material costs and renewed freight pressure would shape footwear industry conditions in the second half of 2026."
+    ],
+    "outlook": "The outlook is for a small domestic industry with limited broad-based growth but stronger niches. IBISWorld's 2025 market-size data show a $1.8 billion industry declining 0.2% in 2025 after a -1.2% 2020-2025 CAGR, indicating that the post-pandemic rebound did not reverse long-term offshoring. Through 2026, tariff volatility, higher producer prices and supply-chain compliance concerns may improve the strategic case for some US production, but they also raise costs for manufacturers that rely on imported components. Growth is most likely in premium Made in USA products, work and safety footwear, military procurement, automation-enabled production and brand-owned factories that use domestic manufacturing as a quality and marketing asset. Commodity footwear manufacturing is likely to keep shrinking or remain offshore.",
+    "themes": [
+      "Import dependence",
+      "Made in USA premiumization",
+      "Tariff and trade-policy volatility",
+      "China-plus-one sourcing",
+      "Work and safety footwear resilience",
+      "Military procurement and Berry Amendment compliance",
+      "Automation in labor-intensive manufacturing",
+      "Small domestic base with high niche value"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "Baseline IBISWorld file: /home/manishmehta/ui-projects/ibis-industries/txt_full/shoe-and-footwear-manufacturing-in-the-us.txt",
+      "https://www.ibisworld.com/united-states/market-size/shoe-footwear-manufacturing/369/",
+      "https://fdra.org/key-issues-and-advocacy/sourcing-compliance/",
+      "https://fdra.org/",
+      "https://fdra.org/fdra-press-releases/",
+      "https://fred.stlouisfed.org/series/IPUEN316210W010000000",
+      "https://fred.stlouisfed.org/series/PCU31623162",
+      "https://www.bls.gov/IAG/TGS/iag316.htm",
+      "https://newbalance.newsmarket.com/latest-news/new-balance-opens-expanded-central-maine-factory--strengthening-its----commitment-to-u.s.-manufactur/s/6bfe1c00-d47e-473a-980c-019e19617a14",
+      "https://www.newbalance.com/responsibly-made.html",
+      "https://www.redwingshoes.com/stories/made-in-usa/",
+      "https://usfma.org/2025/04/21/usfma-adds-red-wing-shoe-company-to-growing-roster-of-domestic-footwear-producers/"
+    ],
+    "one_sentence": "US shoe and footwear manufacturing generated about $1.8 billion in 2025, down 0.2% year over year, as domestic factories supplied only a tiny share of a footwear market still dominated by Asian imports.",
+    "slug": "shoe-and-footwear-manufacturing-in-the-us"
+  },
+  {
+    "title": "Shoe Repair in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented cobbler trade is stabilizing around premium repairs, mail-in service and sustainability demand, while low-cost imported footwear keeps the mainstream market under pressure.",
+    "overview": "The industry repairs footwear made with leather, rubber soles and related leather-like goods such as handbags, belts, briefcases and luggage. Its core demand still comes from consumers who own higher-value shoes where resoling, heel replacement, stitching, cleaning or restoration is cheaper than replacement. The long-term problem is structural: most everyday shoes are imported, relatively cheap and often not designed to be repaired. Since 2020, remote and hybrid work also reduced the regular use of formal office footwear. By 2025-2026, the industry is no longer in the acute pandemic shock, but it is not returning to its old dress-shoe-heavy model. Growth is shifting toward premium leather care, luxury handbag and sneaker restoration, online quoting, mail-in logistics, orthopedic modifications and sustainability-driven repair decisions.",
+    "key_stats": {
+      "market_size": "$315.6 million in 2025, based on an October 2025 IBISWorld-cited US shoe repair figure reported by PW Consulting.",
+      "growth": "-0.9% in 2025, with a cited 3.9% prior CAGR through 2025 for the US shoe repair segment.",
+      "employer_establishments": "698 employer establishments in 2023 for NAICS 811430 Footwear and Leather Goods Repair, according to Census Business Patterns.",
+      "occupational_employment": "7,450 US shoe and leather workers and repairers in May 2025 across all industries, according to BLS OEWS.",
+      "mean_wage": "$39,160 mean annual wage for shoe and leather workers and repairers in May 2025, according to BLS OEWS.",
+      "footwear_price_indicator": "The US footwear CPI was 149.824 in H1 2026, up from 146.443 in H2 2025, according to BLS/FRED.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$280.6 million in 2022 revenue, in 2022 dollars, from the baseline IBISWorld file.",
+      "growth": "5.9% revenue growth in 2022 after a 29.8% decline in 2020, from the baseline IBISWorld file.",
+      "profit": "$29.0 million profit in 2022, equal to a 10.2% profit margin, from the baseline IBISWorld file.",
+      "establishments": "3,899 establishments in 2022, from the baseline IBISWorld file.",
+      "enterprises": "3,847 enterprises in 2022, from the baseline IBISWorld file.",
+      "employment": "4,525 employees in 2022, from the baseline IBISWorld file.",
+      "wages": "$86.0 million total wages in 2022, from the baseline IBISWorld file."
+    },
+    "how_it_makes_money": {
+      "core_services": "Heel replacement, resoling, upper repair, stitching, stretching, cleaning, dyeing, waterproofing and other footwear repairs generated 86.8% of 2022 industry revenue in the baseline file.",
+      "customer_mix": "Women’s shoe repair was 47.9% of 2022 revenue, men’s shoe repair 30.5% and children’s shoe repair 8.4%, according to the baseline file.",
+      "adjacent_services": "Other leather and related repairs, including handbags, belts, briefcases, watchbands, sports gear and custom orthopedic insoles, accounted for 10.3% of 2022 revenue in the baseline file.",
+      "merchandise": "Polish, waxes, oils, waterproofing products, adhesives, brushes and small accessories accounted for 2.9% of 2022 revenue in the baseline file.",
+      "channels": "Revenue is still dominated by independent local shops, but 2025-2026 growth is coming from online quote flows, prepaid shipping boxes, centralized mail-in repair facilities and marketplace models that route work to specialist artisans."
+    },
+    "cost_structure": {
+      "labor": "Labor is the main operating cost because quality repair depends on skilled cobblers, leather workers and finishers; BLS reported a May 2025 mean annual wage of $39,160 for shoe and leather workers and repairers.",
+      "materials": "Key inputs include leather, rubber soles, heels, thread, adhesives, dyes, polishes, buckles, zippers and replacement hardware.",
+      "rent_and_utilities": "Storefront shops carry rent and utility costs, especially in office districts and urban retail corridors where walk-in traffic matters.",
+      "shipping_and_platform_costs": "Mail-in and marketplace operators incur prepaid-label, packaging, customer-service, photo-estimate, payment-processing and reverse-logistics costs.",
+      "equipment": "The industry has low capital intensity, but operators use sewing machines, presses, grinders, finishers, polishing equipment and, increasingly, scanners or machinery for custom insoles.",
+      "profitability": "The baseline file reported a 10.2% profit margin in 2022, with margin pressure from weaker foot traffic, supplier shortages and competition from replacement shoes."
+    },
+    "major_players": [
+      "Independent local shoe repair shops and cobblers",
+      "Nushoe Inc.",
+      "Resole America",
+      "The Cobblers",
+      "Cobbler Concierge",
+      "Kixo"
+    ],
+    "current_dynamics": "The industry is split between a shrinking legacy base and a more modern premium-repair niche. Traditional shops are pressured by casual footwear, fast fashion, cheap imports and fewer office dress-shoe routines. At the same time, replacement costs have risen, tariff uncertainty has made imported footwear more expensive, and consumers with premium leather shoes, boots, handbags or collectible sneakers are more willing to pay for repair. The 2025-2026 footwear market also favors performance, comfort and daily-use shoes, which helps sneaker cleaning and restoration more than classic formal shoe repair. Skilled labor remains a bottleneck, and many owners broaden the counter into keys, watch batteries, leather goods, orthopedic adjustments and mail-order restoration to keep revenue per customer up.",
+    "whats_growing": [
+      "Mail-in repair and online quote models with prepaid shipping labels in 2025-2026.",
+      "Luxury shoe, handbag and leather-goods restoration tied to high replacement values in 2025-2026.",
+      "Sneaker cleaning, repainting, sole work and collectible sneaker restoration in 2025-2026.",
+      "Sustainability-led repair messaging as footwear waste and circular-fashion concerns gained visibility in 2025-2026.",
+      "Custom insoles, orthopedic modifications and other higher-ticket specialty services."
+    ],
+    "whats_shrinking": [
+      "Routine low-value repairs on cheap imported shoes where replacement is cheaper than repair.",
+      "Walk-in demand in office-heavy districts compared with pre-2020 formal-attire patterns.",
+      "Traditional dress-shoe volume as casual, athletic and hybrid work styles remain entrenched in 2025-2026.",
+      "Employer storefront count, with Census showing only 698 employer establishments in 2023 for NAICS 811430.",
+      "Repair demand for footwear made with synthetic bonded materials that are difficult to resole or refinish."
+    ],
+    "recent_developments": [
+      "2025-04: IBISWorld released an April 2025 Shoe Repair in the US update, keeping the industry framed as weak but adapting to online and premium demand.",
+      "2025-12: Federal Reserve research found tariff effects on China-sourced goods reached an 8.5% year-over-year price increase by December 2025, supporting repair-versus-replacement economics for some footwear owners.",
+      "2026-01: Euromonitor reported US footwear volume and current-value sales declined marginally in 2025, with tariff uncertainty and supply-chain issues weighing on the category.",
+      "2026-02: Circana data reported US performance footwear dollars rose 6% in 2025 while fashion footwear declined 2%, shifting repair demand toward sneakers and comfort footwear rather than formal shoes.",
+      "2026-05: Circana reported Q1 2026 US footwear dollar sales rose 1% while units declined, indicating price-led growth and selective consumer spending.",
+      "2026-06: Fashion for Good reported 50% of post-consumer footwear waste was non-rewearable and 46% rewearable, reinforcing repair and sorting as circular-footwear themes."
+    ],
+    "outlook": "The 2026-2030 outlook is low-growth and uneven. Baseline IBISWorld expected revenue to rise only modestly after 2022, and newer public signals point to the same pattern: the core trade is small and fragmented, but not obsolete. Higher shoe prices, tariff pass-through, luxury resale, sneaker culture and sustainability give operators a path to higher-value tickets. The main risk is that most mass-market footwear remains cheap, imported and hard to repair. The likely winners are shops with strong craftsmanship, digital intake, shipping reach, premium materials knowledge and leather-goods diversification; the likely losers are undifferentiated storefronts dependent on low-margin heel and sole work from declining office foot traffic.",
+    "themes": [
+      "Fragmented independent operators",
+      "Premiumization",
+      "Mail-in repair",
+      "Sneaker restoration",
+      "Circular fashion",
+      "Luxury leather goods",
+      "Hybrid work headwind",
+      "Imported footwear pressure",
+      "Skilled labor shortage",
+      "Tariff-driven replacement cost inflation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld file supplied by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/shoe-repair-in-the-us.txt', 'date': '2022-02-28'}",
+      "{'name': 'Research and Markets, Shoe Repair in the US - Industry Market Research Report by IBISWorld', 'url': 'https://www.researchandmarkets.com/report/united-states-shoe-repair-market', 'date': '2025-04'}",
+      "{'name': 'PW Consulting, Worldwide Clothing and Footwear Repair Market 2026', 'url': 'https://pmarketresearch.com/worldwide-clothing-and-footwear-repair-market-research/', 'date': '2026'}",
+      "{'name': 'Kentley Insights, Shoe and Leather Repair Market Research Report', 'url': 'https://www.kentleyinsights.com/shoe-and-leather-repair-industry-market-research-report/', 'date': '2026-01'}",
+      "{'name': 'US Census Bureau, NAICS 811430 profile and 2023 Business Patterns', 'url': 'https://data.census.gov/profile/811430_-_Footwear_and_leather_goods_repair?codeset=naics~811430', 'date': '2023'}",
+      "{'name': 'BLS, May 2025 Occupational Employment and Wage Statistics', 'url': 'https://www.bls.gov/news.release/ocwage.t01.htm', 'date': '2025-05'}",
+      "{'name': 'FRED/BLS, CPI for Footwear in US City Average', 'url': 'https://fred.stlouisfed.org/series/CUUS0000SEAE', 'date': '2026-07-14'}",
+      "{'name': 'Circana, US Footwear Industry Delivers Modest First-Quarter Growth', 'url': 'https://www.circana.com/post/us-footwear-industry-delivers-modest-first-quarter-growth-driven-by-price-increases-and-strength-in', 'date': '2026-05-04'}",
+      "{'name': 'SGB Media, Circana performance leads footwear gains in 2025', 'url': 'https://sgbonline.com/circana-performance-leads-footwear-gains-in-2025/', 'date': '2026-02-03'}",
+      "{'name': 'Federal Reserve, The Slow Climb: How Tariffs Gradually Raised Retail Prices in 2025', 'url': 'https://www.federalreserve.gov/econres/notes/feds-notes/the-slow-climb-how-tariffs-gradually-raised-retail-prices-in-2025-20260305.html', 'date': '2026-03-05'}",
+      "{'name': 'Euromonitor via MarketResearch.com, Footwear in the US', 'url': 'https://www.marketresearch.com/Euromonitor-International-v746/Footwear-43903361/', 'date': '2026-01-26'}",
+      "{'name': 'Fashion for Good, Closing the Footwear Loop', 'url': 'https://www.fashionforgood.com/our_news/new-report-closing-the-footwear-loop/', 'date': '2026-06-01'}",
+      "{'name': 'The Cobblers official site', 'url': 'https://thecobblers.com/', 'date': '2026'}"
+    ],
+    "one_sentence": "Shoe Repair in the US remains a small, declining-to-stable consumer service industry: 2025 revenue was reported around $315.6 million with a 0.9% 2025 dip, but higher footwear prices, luxury leather goods, sneaker restoration and circular-fashion messaging are giving stronger operators new ways to defend margins.",
+    "slug": "shoe-repair-in-the-us"
+  },
+  {
+    "title": "Shopping Mall Management",
+    "sector": "Real Estate",
+    "one_liner": "US shopping mall managers are recovering rent and occupancy at top-tier assets while lower-quality enclosed malls lose tenants to e-commerce, bankruptcies and open-air retail formats.",
+    "overview": "The industry covers operators that manage enclosed regional malls, outlet centers, lifestyle centers and other mall-like retail properties, including leasing, rent collection, maintenance, security, marketing, tenant coordination and redevelopment. The 2020 baseline report described a pandemic-hit industry with 2020 revenue of $18.7bn and a 2020-2025 rebound forecast to $22.6bn, but the 2025-2026 market is more bifurcated: premier malls and outlet centers are posting high occupancy and rent growth, while weaker Class B and Class C malls face store closures, vacant anchors, higher redevelopment costs and pressure from online retail.",
+    "key_stats": {
+      "market_size": "2025 US industry revenue estimated at $22.6bn, based on the baseline IBISWorld 2020-2025 forecast.",
+      "growth": "2020-2025 revenue CAGR estimated at 3.8% from the baseline forecast, following a 2020 pandemic revenue decline of 15.3%.",
+      "retail_ecommerce_pressure": "2026 Q1 US retail e-commerce sales were $326.7bn, up 9.8% year over year, and accounted for 16.9% of total retail sales.",
+      "retail_property_vacancy": "2026 Q2 US shopping center vacancy was 6.0%, below the 7.4% historical average, while CoStar forecast overall US retail vacancy to peak in the mid-4.4% range in 2026.",
+      "top_tier_mall_occupancy": "2025 Simon US Malls and Premium Outlets occupancy was 96.4%, with base minimum rent of $60.97 per square foot and retailer sales of $799 per square foot.",
+      "outlet_center_occupancy": "2025 Tanger occupancy was 98.1%, with average tenant sales of $473 per square foot.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 market size estimated at about $20.2bn by applying the baseline 2020-2025 CAGR of 3.8% to 2020 revenue of $18.7bn.",
+      "growth": "2022 growth estimated at 3.8% under the baseline recovery path.",
+      "context": "The 2022 baseline period was still a post-COVID recovery phase, with operators rebuilding occupancy and rent collections while e-commerce and department-store closures continued to reduce demand for traditional enclosed mall space."
+    },
+    "how_it_makes_money": "Operators generate most revenue from 2025 tenant rent, percentage rent tied to store sales, common-area maintenance charges, leasing and management fees, parking, advertising, sponsorships, kiosks, pop-ups, events and redevelopment income. High-quality properties can also raise 2025-2026 net operating income by replacing weak anchors with restaurants, entertainment, fitness, medical, grocery, apartments, hotels or mixed-use components.",
+    "cost_structure": "The baseline report showed 2020 profit of $9.0bn on 2020 revenue of $18.7bn, equal to a 47.9% margin, and 2020 wages of $1.8bn, equal to about 9.7% of revenue. The same baseline forecast expected 2025 profit margin to fall to 40.7% as operators spent more on renovations, Wi-Fi, marketing and tenant-attraction investments. Major 2025-2026 costs include property staff, leasing teams, security, janitorial services, utilities, insurance, property taxes, repairs, capital improvements, marketing, technology, debt service and redevelopment carrying costs.",
+    "major_players": [
+      "Simon Property Group: 2025 US Malls and Premium Outlets occupancy of 96.4%, base minimum rent of $60.97 per square foot and retailer sales of $799 per square foot.",
+      "Brookfield Properties: 2026 global retail platform listed 100+ retail properties and 132m+ square feet of retail space across its broader operating portfolio.",
+      "Tanger: 2025 portfolio occupancy of 98.1%, 31 outlet centers, 3 open-air lifestyle centers and about 14.0m square feet of gross leasable area.",
+      "Macerich: major US regional mall owner and operator focused on town-center and high-productivity retail assets.",
+      "CBL Properties: 2025 portfolio included 47 malls, 25 open-air centers, 5 outlet centers and 4 lifestyle centers, with 2025 total revenue of $578.4m.",
+      "Brixmor Property Group: 2025 open-air shopping center portfolio included 348 centers and 62.7m square feet of gross leasable area, with 95.1% leased."
+    ],
+    "current_dynamics": "The strongest 2025-2026 dynamic is scarcity of good retail space rather than broad-based mall expansion. Limited new construction, retailer demand for productive physical locations and high occupancy are helping premier malls, outlet centers, grocery-anchored centers and open-air formats raise rents. At the same time, weaker enclosed malls are absorbing closures from bankrupt retailers and department-store rationalization, making management increasingly about redevelopment, mixed-use conversion and tenant curation rather than passive rent collection.",
+    "whats_growing": "Growing segments include 2025-2026 outlet centers, luxury malls, mixed-use town centers, open-air lifestyle centers, grocery and pharmacy-anchored retail, off-price retailers, restaurants, fitness, entertainment, medical tenants, experiential concepts, seasonal pop-ups, sponsorships and data-driven leasing. 2025 Simon retailer sales of $799 per square foot and 2025 Tanger occupancy of 98.1% show that high-quality destination and outlet formats remain attractive to tenants.",
+    "whats_shrinking": "Shrinking areas include 2025-2026 lower-tier enclosed malls, vacant department-store anchors, commodity apparel-heavy corridors, legacy food courts, undercapitalized suburban properties and malls dependent on distressed retailers. Coresight projected about 15,000 US store closures in 2025, and mall-specific vacancy remains materially higher in lower-productivity Class B and Class C properties than at Class A malls.",
+    "recent_developments": [
+      "2025-01: Coresight projected about 15,000 US store closures and about 5,800 US store openings for 2025.",
+      "2025-12: Simon reported 2025 US Malls and Premium Outlets occupancy of 96.4%, base minimum rent of $60.97 per square foot and retailer sales of $799 per square foot.",
+      "2025-12: Tanger reported 2025 occupancy of 98.1% and 2025 same-center NOI growth of 4.3%.",
+      "2026-05: Census reported 2026 Q1 US retail e-commerce sales of $326.7bn, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-05: CoStar forecast US retail vacancy to edge up and peak in the mid-4.4% range during 2026 before stabilizing in 2027.",
+      "2026-Q2: Cushman & Wakefield reported US shopping center vacancy of 6.0%, still below the 7.4% historical average."
+    ],
+    "outlook": "The 2026-2030 outlook is for low-to-moderate revenue growth with continued consolidation and redevelopment. Best-in-class malls should keep pricing power because 2025-2026 occupancy is high and new retail supply is limited, but industry growth will be capped by e-commerce share gains, retailer bankruptcies, elevated financing costs and the need to reinvest in aging assets. Operators with capital access will keep converting weak retail boxes into mixed-use, entertainment, outlet, medical, residential and service uses, while weaker owners are likely to sell assets, hand back properties to lenders or pursue redevelopment partnerships.",
+    "themes": [
+      "Asset-quality bifurcation",
+      "E-commerce displacement",
+      "Open-air and outlet resilience",
+      "Mixed-use redevelopment",
+      "Anchor tenant replacement",
+      "Experiential retail",
+      "Limited new supply",
+      "Higher capital intensity",
+      "Retailer bankruptcy risk",
+      "Tenant mix curation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: shopping-mall-management.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/shopping-mall-management.txt', 'notes': 'Used for 2020 revenue, 2020-2025 forecast, 2020 cost structure and 2025 margin forecast.'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales, 2026 Q1', 'url': 'https://www.census.gov/retail/eCommerce.html', 'notes': 'Used for 2026 Q1 e-commerce sales, growth and retail share.'}",
+      "{'name': 'CoStar, US retail forecast through 2026', 'url': 'https://www.costargroup.com/press-room/2026/costars-us-retail-forecast-remains-balanced-through-2026', 'notes': 'Used for 2026 retail vacancy and absorption outlook.'}",
+      "{'name': 'CBRE 2025 US Real Estate Market Outlook Midyear Review', 'url': 'https://www.cbre.com/insights/reports/2025-us-real-estate-market-outlook', 'notes': 'Used for 2025 retail availability, obsolete space and open-air demand trends.'}",
+      "{'name': 'Cushman & Wakefield US Shopping Center MarketBeat, 2026 Q2', 'url': 'https://www.cushmanwakefield.com/en/united-states/insights/us-marketbeats/us-shopping-center-marketbeat-report', 'notes': 'Used for 2026 Q2 shopping center vacancy and absorption.'}",
+      "{'name': 'Simon Property Group 2025 results', 'url': 'https://simonpg.gcs-web.com/news-releases/news-release-details/simonr-reports-fourth-quarter-and-full-year-2025-results', 'notes': 'Used for 2025 Simon occupancy, rent, retailer sales and NOI data.'}",
+      "{'name': 'Tanger 2025 results', 'url': 'https://investors.tanger.inc/press-releases/detail/634/tanger-reports-fourth-quarter-and-full-year-2025-results-and-introduces-2026-guidance', 'notes': 'Used for 2025 Tanger occupancy, tenant sales and same-center NOI data.'}",
+      "{'name': 'Coresight Research 2025 store openings and closures forecast', 'url': 'https://www.businesswire.com/news/home/20250123760119/en/Coresight-Research-Predicts-2025-Store-Opening-Closure-Numbers', 'notes': 'Used for 2025 projected US store closures and openings.'}",
+      "{'name': 'Brookfield Properties retail overview', 'url': 'https://www.brookfieldproperties.com/en/our-businesses/retail/', 'notes': 'Used for Brookfield retail portfolio scale and positioning.'}",
+      "{'name': 'CBL Properties 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/910612/000119312526087049/cbl-20251231.htm', 'notes': 'Used for 2025 CBL portfolio and revenue data.'}"
+    ],
+    "one_sentence": "Shopping mall management companies develop, lease, operate, maintain and secure retail properties, earning mainly from tenant rent and management fees, with 2025-2026 performance split sharply between high-traffic destination assets and obsolete suburban malls.",
+    "slug": "shopping-mall-management"
+  }
+]

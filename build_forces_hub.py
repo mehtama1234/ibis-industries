@@ -2,6 +2,7 @@
 """Top-level 'Forces from the Data' hub: all force collections grouped by lens."""
 import json, os, glob, html
 ROOT=os.path.dirname(os.path.abspath(__file__))
+industry_count=len(json.load(open(f'{ROOT}/briefs_full.json')))
 def e(s): return html.escape(str(s or ''),quote=True)
 forces=[]
 for p in sorted(glob.glob(f'{ROOT}/_forcebuild_*.json')):
@@ -32,7 +33,7 @@ for lens in LENS_ORDER:
 hub=f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Forces from the Data — what {totalpages} write-ups across 221 industries reveal</title>
+<title>Forces from the Data — what {totalpages} write-ups across {industry_count} industries reveal</title>
 <link rel="stylesheet" href="styles.css">
 <style>
 .wrap{{max-width:1180px}}
@@ -49,15 +50,15 @@ hub=f'''<!doctype html>
 </style></head>
 <body class="acc-blue">
 <div class="wrap">
-  <div class="top"><a href="../index.html">★ the 221 industry briefs</a><a href="../../strategy-under-a-force/index.html">the 50 forces</a></div>
+  <div class="top"><a href="../index.html">★ the {industry_count} industry briefs</a><a href="../../strategy-under-a-force/index.html">the 50 forces</a></div>
   <header class="hero">
     <div class="eyebrow">Forces from the data · US · 2025–2026</div>
     <h1>Forces from the Data</h1>
-    <div class="sub">We read {221} US industries side by side and asked one question: what forces keep showing up? These are the {total} that do — each built out into its own collection, with the real numbers as proof.</div>
+    <div class="sub">We read {industry_count} US industries side by side and asked one question: what forces keep showing up? These are the {total} that do — each built out into its own collection, with the real numbers as proof.</div>
   </header>
   <div class="big"><div class="lbl">The method</div><p>This is the companion to the <a href="../../strategy-under-a-force/index.html">Strategy Under a Force</a> series — but grounded in hard 2025–2026 industry data instead of headlines. Every claim traces back to a specific industry we researched. {totalpages} write-ups across {total} forces and five lenses.</p></div>
   {sections}
-  <footer>Built from our 2025–2026 US industry research (the <a href="../index.html">221 industry briefs</a>). A data-grounded companion to <a href="../../strategy-under-a-force/index.html">Strategy Under a Force</a>. Research run on Haiku.</footer>
+  <footer>Built from our 2025–2026 US industry research (the <a href="../index.html">{industry_count} industry briefs</a>). A data-grounded companion to <a href="../../strategy-under-a-force/index.html">Strategy Under a Force</a>. Research uses the configured model.</footer>
 </div></body></html>'''
 open(f'{ROOT}/forces/index.html','w').write(hub)
 print(f"built forces hub: {total} forces / {totalpages} write-ups across {len(bylens)} lenses")

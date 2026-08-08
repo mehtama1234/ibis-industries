@@ -1,0 +1,412 @@
+[
+  {
+    "title": "Daily Deals Sites",
+    "sector": "Technology & Digital",
+    "one_liner": "Daily deals sites are discount-driven online marketplaces connecting consumers with local services, experiences, travel and select goods through vouchers and digital offers.",
+    "overview": "Daily deals sites aggregate time-limited discounts from local merchants and national partners, sell vouchers or route coupon transactions through web and mobile channels, and share economics with merchants through commissions, merchant payouts or affiliate fees. The model remains most relevant for discretionary local services such as restaurants, spas, salons, fitness, events, attractions and travel-adjacent experiences. The 2022 baseline described a post-pandemic rebound from 2021 revenue of $5.552 billion and projected revenue of about $6.5 billion by 2026; public 2025-2026 data from Groupon, the category's clearest listed operator, supports a market that is growing modestly but remains pressured by high marketing costs, local merchant churn and substitution from Yelp, Google, social platforms, travel aggregators, off-price ecommerce and retailer-owned coupon programs.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: $6.3 billion",
+      "growth": "2025 estimated industry revenue growth: about 3.3% year over year, based on the baseline 2021-2026 projection path",
+      "groupon_us_revenue": "2025 Groupon US revenue: $381.4 million, up from $371.3 million in 2024",
+      "groupon_global_billings": "2025 Groupon global gross billings: $1.666 billion, up 7% from 2024",
+      "groupon_active_customers": "2025 Groupon trailing-twelve-month active customers: 16.2 million, up 5% from 2024",
+      "online_retail_context": "Q1 2026 US ecommerce share of retail sales: 16.9%, up from 16.0% in Q1 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: $5.7 billion, derived from the 2022 baseline's $5.552 billion 2021 revenue and 2021-2026 projected CAGR",
+      "growth": "2022 projected industry revenue growth: about 3.3% year over year",
+      "baseline_source_note": "The source file was last updated February 13, 2022 and reported 2021 revenue of $5.552 billion, 2021 profit of $189 million and a 2021 profit margin of 3.4%."
+    },
+    "how_it_makes_money": "Operators earn money by selling vouchers or deals on behalf of merchants and retaining a commission or spread, by earning affiliate commissions when shoppers use digital coupons, by charging promotional placement or advertising fees, and in some cases by selling inventory or travel offers directly. The strongest economics are usually in local services and experiences because marketplaces can deliver incremental demand to merchants without carrying physical inventory.",
+    "cost_structure": {
+      "merchant_payouts": "2025 primary variable cost: merchant remittances or deal costs tied to voucher redemptions and coupon transactions; reported revenue is often net of the merchant's share for public marketplace operators.",
+      "marketing": "2025 Groupon marketing expense: $165.9 million globally, equal to about 33.3% of revenue; 2025 North America marketing expense: $127.6 million, equal to 33.1% of North America revenue.",
+      "technology_and_payment_processing": "2025 Groupon cost of revenue: $45.9 million globally, equal to 9.2% of revenue; North America payment processing fees were $27.6 million in 2025.",
+      "labor_and_sga": "2025 Groupon SG&A expense: $273.7 million globally, equal to 54.9% of revenue; baseline industry wages were 10.3% of 2021 revenue.",
+      "profitability": "2025 Groupon adjusted EBITDA was $69.3 million, but GAAP net loss from continuing operations was $81.1 million, showing that the category still requires tight marketing and overhead discipline."
+    },
+    "major_players": [
+      "Groupon",
+      "LivingSocial, operated by Groupon",
+      "Woot",
+      "RetailMeNot and digital coupon marketplaces",
+      "Yelp Deals and local advertising platforms",
+      "Travelzoo and travel deal publishers",
+      "Local experience marketplaces and niche voucher sites"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026: bargain-seeking consumers remain receptive to discounts, but the old daily-email flash-sale model has faded. Growth is concentrated in searchable mobile marketplaces, local experiences, things-to-do categories and paid acquisition channels, while goods deals and broad undifferentiated coupons are less strategic. Groupon's 2025 return to billings and revenue growth after a decade is a useful signal that demand exists, but its 2026 Q1 update also shows the fragility of local merchant supply, organic traffic and health, beauty and wellness demand.",
+    "whats_growing": "Local experiences, things-to-do offers, mobile app discovery, paid search and social acquisition, AI-assisted merchandising, restaurant and leisure services, and merchant tools that make deal setup and redemption easier are growing. Demand also benefits from elevated consumer price sensitivity and the continued expansion of ecommerce as a share of retail activity, which reached 16.9% in Q1 2026.",
+    "whats_shrinking": "Email-only daily flash deals, undifferentiated local vouchers, goods-heavy deal marketplaces, low-margin national retail coupons, travel deals that compete directly with large aggregators, and small operators without enough marketing scale are shrinking or consolidating. Groupon's 2025 filings show North America Goods revenue fell to $5.5 million in 2025 from $11.0 million in 2024, underscoring the move away from physical-goods discounting.",
+    "recent_developments": [
+      "2025-08-06: Groupon reported Q2 2025 global revenue up 1% and billings up 12%, with North America Local billings up 20%.",
+      "2026-03-10: Groupon reported 2025 revenue of $498.4 million, gross billings of $1.666 billion and active customers of 16.2 million.",
+      "2026-03-10: Groupon disclosed 2025 US revenue of $381.4 million, up from $371.3 million in 2024.",
+      "2026-05-07: Groupon reported Q1 2026 global revenue flat and billings down 1%, while North America Local billings rose 2%.",
+      "2026-05-18: FRED/Census data showed US ecommerce reached 16.9% of retail sales in Q1 2026, up from 16.0% in Q1 2025.",
+      "2026-07-24: Groupon announced it intended to release Q2 2026 results after market close on August 6, 2026."
+    ],
+    "outlook": "Industry revenue is likely to edge up in 2026, but growth should remain modest, around the low single digits, because consumer interest in discounts is offset by merchant fatigue, high acquisition costs and competition from larger discovery and advertising ecosystems. The best-positioned operators will emphasize local experiences, better personalization, mobile discovery, AI-enabled merchant operations and measurable customer acquisition for small businesses. Goods-led daily deals should remain a declining segment, while local services and experiences should carry most incremental growth.",
+    "themes": [
+      "Mobile-first local commerce",
+      "Discount-seeking consumers",
+      "AI personalization and merchant operations",
+      "Shift from goods to experiences",
+      "High marketing intensity",
+      "Merchant churn and deal fatigue",
+      "Competition from platforms and aggregators",
+      "Consolidation around scaled marketplaces"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/daily-deals-sites.txt",
+      "https://www.sec.gov/Archives/edgar/data/1490281/000162828026016429/grpn-20251231.htm",
+      "https://investor.groupon.com/press-releases/press-release-details/2026/Groupon-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://investor.groupon.com/press-releases/press-release-details/2026/Groupon-Reports-First-Quarter-2026-Results/default.aspx",
+      "https://investor.groupon.com/press-releases/press-release-details/2025/Groupon-Reports-Second-Quarter-2025-Results/default.aspx",
+      "https://investor.groupon.com/press-releases/press-release-details/2026/Groupon-Announces-Date-for-Second-Quarter-2026-Financial-Results/default.aspx",
+      "https://fred.stlouisfed.org/series/ECOMPCTSA",
+      "https://fred.stlouisfed.org/series/DHCERC1A027NBEA"
+    ],
+    "one_sentence": "The US Daily Deals Sites industry is a mature but still growing digital marketplace niche, with 2025 revenue estimated at about $6.3 billion as operators pivot from email-led flash deals toward searchable, mobile-first local experiences and AI-assisted merchant matching.",
+    "slug": "daily-deals-sites"
+  },
+  {
+    "title": "Dairy Farms in the US",
+    "sector": "Agriculture",
+    "one_liner": "U.S. dairy farms remain a mature, price-driven agricultural industry where larger herds, higher milk solids demand and export growth are offset by falling farmgate prices, disease monitoring and long-run fluid milk decline.",
+    "overview": "Dairy farms raise cows and sell raw milk to cooperatives, processors and manufacturers that turn it into fluid milk, cheese, butter, yogurt, powders, whey ingredients and other dairy products. The industry is mature, highly fragmented at the farm level and structurally consolidating: ERS reported in 2026 that U.S. dairy output is increasingly concentrated in larger operations, while California, Wisconsin, Idaho, New York and Texas produced more than 65% of U.S. milk in 2024. Revenue is dominated by the farmgate all-milk price rather than unit volume alone, so 2025-2026 conditions are being shaped by expanding cow numbers, lower expected prices, feed margins, exports and HPAI testing requirements.",
+    "key_stats": {
+      "market_size": "2026F farm-level milk cash receipts of about $42.2 billion, inferred from USDA ERS forecast that 2026 milk receipts decline by $6.2 billion or 12.8% from 2025",
+      "growth": "2026F growth of -12.8% versus 2025F milk receipts, according to USDA ERS",
+      "milk_production": "2026F U.S. milk production forecast at 236.6 billion pounds; 2027F forecast at 238.1 billion pounds",
+      "all_milk_price": "2026F all-milk price forecast at $20.00 per cwt; 2027F forecast at $19.85 per cwt",
+      "herd_productivity": "2025 U.S. milk cow inventory peaked at 9.49 million head, while annual milk output exceeded 231 billion pounds",
+      "exports": "2025 U.S. dairy exports rose 4% by milk-solids-equivalent volume to 2.32 million metric tons and 15% by value to $9.63 billion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue of $45.491 billion in 2022 dollars",
+      "growth": "2017-2022 IBISWorld revenue CAGR of 1.0%; 2022 annual revenue growth of 4.4%",
+      "profit": "2022 IBISWorld profit of $1.638 billion and 3.6% profit margin",
+      "establishments": "2022 IBISWorld establishments of 38,683",
+      "enterprises": "2022 IBISWorld enterprises of 33,948",
+      "employment": "2022 IBISWorld employment of 141,059 workers",
+      "wages": "2022 IBISWorld wages of $4.694 billion",
+      "raw_milk_price": "2022 IBISWorld raw milk price of $14.068 per cwt in 2022 dollars"
+    },
+    "how_it_makes_money": "Dairy farms earn revenue by selling raw cow's milk, usually through cooperatives or directly to processors. The baseline 2022 IBISWorld split was 44.0% of revenue from milk used for manufactured dairy products, 33.9% from fluid milk and 22.1% from milk for pasteurization. Farmgate prices are set by milk class, component values, regional supply-demand balances and Federal Milk Marketing Order formulas, while farm margins depend heavily on feed costs, labor, herd health and milk yield per cow.",
+    "cost_structure": "The baseline 2022 IBISWorld cost structure was feed-heavy: purchase-related costs, mainly livestock feed, were 31.4% of industry revenue; other administrative, overhead and animal-health costs were 31.8%; wages were about 10.3% based on 2022 wages of $4.694 billion against 2022 revenue of $45.491 billion; profit was 3.6%. In 2026, USDA ERS forecasts total U.S. farm feed expenses down 6.8% from 2025 to $65.6 billion, while cash labor expenses rise 2.2% to $53.9 billion, improving some input pressure but not enough to offset lower milk receipts for dairy farmers.",
+    "major_players": [
+      "Dairy Farmers of America: member-owned dairy cooperative with 2025 net sales of $23.1 billion and about 5,000 dairy farm members referenced by DFA in 2026",
+      "Land O'Lakes: farmer-owned cooperative and dairy processor that influences member milk marketing rather than representing a single farm operator",
+      "California Dairies Inc.: major California milk marketing and processing cooperative tied to the 2024 top milk-producing state",
+      "Select Milk Producers: large dairy cooperative focused on raw milk supply, member marketing and value-added dairy channels",
+      "No single farm operator: the farm-level dairy industry remains low-concentration and fragmented in 2026, with consolidation occurring mainly through larger herds and cooperative marketing"
+    ],
+    "current_dynamics": "The 2025-2026 cycle has shifted from scarcity-driven price strength toward larger supply and lower expected prices. USDA ERS forecasts 2026 milk production at 236.6 billion pounds because of herd expansion, low slaughter rates, adequate milk margins above feed costs and longer cow retention. That added supply is expected to lower the all-milk price to $20.00 per cwt in 2026 and pull milk receipts down by $6.2 billion or 12.8% from 2025. At the same time, HPAI in dairy cattle has added testing, reporting and biosecurity burdens, while exports and cheese demand provide important outlets for surplus milk solids.",
+    "whats_growing": "Cheese, butterfat, high-protein whey and export-oriented dairy ingredients are growing. In 2025, U.S. cheese exports rose 20% to 613,045 metric tons, butterfat exports rose 167% to 122,085 metric tons and high-protein whey exports rose 6% to 77,811 metric tons. On the farm side, larger operations, higher milk per cow, component-focused breeding and cooperative integration are gaining share.",
+    "whats_shrinking": "Fluid milk remains structurally weak: ERS noted in 2026 that per capita fluid milk consumption has declined because of competition from other beverages and demographic shifts. Smaller dairy farms continue to lose ground to larger operations with lower unit costs, and USDA ERS expects 2026 milk receipts to shrink 12.8% from 2025 because prices fall faster than production rises. Nonfat dry milk and skim milk powder exports also shrank in 2025, falling 9% year over year.",
+    "recent_developments": [
+      "2025-01-16: USDA AMS issued the Federal Milk Marketing Order final rule, with most pricing formula changes effective 2025-06-01 and skim composition changes effective 2025-12-01.",
+      "2025-03-14: FDA reported interim FY2025 aged raw cow's milk cheese H5N1 sampling results, with 110 samples collected and 96 PCR-negative as of 2025-03-10.",
+      "2026-02-24: USDEC reported 2025 U.S. dairy exports of $9.63 billion, up 15% from 2024 and near the 2022 record of $9.66 billion.",
+      "2026-05-19: USDA ERS forecast 2026 milk receipts down $6.2 billion or 12.8% from 2025 because of lower prices.",
+      "2026-07-17: USDA ERS forecast 2026 milk production at 236.6 billion pounds and the 2026 all-milk price at $20.00 per cwt."
+    ],
+    "outlook": "The 2026 outlook is volume-positive but revenue-negative. Higher milk supply should help processors and exporters, but the farm brief is pressured because USDA expects lower all-milk prices and a 12.8% decline in 2026 milk receipts from 2025. Margins may be partly cushioned by lower 2026 feed costs and Dairy Margin Coverage support, but smaller operators remain exposed to labor, debt service, disease testing, drought and compliance costs. Through 2027, USDA expects production to rise to 238.1 billion pounds while prices ease to $19.85 per cwt, implying continued consolidation and a stronger role for large herds, cooperatives and export channels.",
+    "themes": [
+      "Farmgate price volatility",
+      "Consolidation into larger herds",
+      "Feed-cost margin management",
+      "HPAI testing and biosecurity",
+      "Cheese and butterfat demand",
+      "Export dependence",
+      "Fluid milk decline",
+      "Federal Milk Marketing Order reform",
+      "Milk components and protein demand",
+      "Climate and drought risk"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/dairy-farms-in-the-us.txt, last updated 2022-07-26",
+      "USDA ERS Dairy Market Outlook, updated 2026-07-17: https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "USDA ERS Dairy Background, updated 2026-01-29: https://www.ers.usda.gov/topics/animal-products/dairy/background",
+      "USDA ERS Farm Sector Income Forecast, updated 2026-05-19: https://ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast",
+      "USDA APHIS Federal Orders for HPAI in livestock and milk, last modified 2026-04-27: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock/federal-order",
+      "USDA AMS Federal Milk Marketing Order final rule, dated 2025-01-16: https://www.ams.usda.gov/content/usda-issues-final-rule-amendments-federal-milk-marketing-orders",
+      "FDA H5N1 dairy cattle investigation updates, 2025-03-14: https://www.fda.gov/food/alerts-advisories-safety-information/investigation-avian-influenza-h5n1-virus-dairy-cattle",
+      "U.S. Dairy Export Council 2025 export release, dated 2026-02-24: https://www.usdec.org/newsroom/news-releases/news-releases/news-release-2/24/2026",
+      "Dairy Farmers of America company information accessed 2026: https://www.dfamilk.com/who-we-are"
+    ],
+    "one_sentence": "In 2026, USDA forecasts higher U.S. milk production of 236.6 billion pounds but a lower all-milk price of $20.00 per cwt, pushing farm-level milk receipts down from an estimated 2025 peak even as cheese, butterfat and protein-oriented dairy products support demand.",
+    "slug": "dairy-farms-in-the-us"
+  },
+  {
+    "title": "Dairy Wholesaling in the US",
+    "sector": "Food & Drink",
+    "one_liner": "A low-margin, mature distribution industry that moves milk, cheese, butter, yogurt, cream and ice cream from producers and processors to grocers, foodservice operators and other buyers.",
+    "overview": "This industry covers merchant wholesalers of dairy products that are not dried or canned, including raw milk and cream, packaged milk and cream, cheese, butter, yogurt, ice cream and other refrigerated dairy products. The core function is aggregation, refrigerated storage, transportation, credit, inventory management and account service for grocery, convenience, foodservice, specialty retail and processing customers. The industry is mature and low-concentration, but its traditional role is being squeezed as large retailers, dairy manufacturers and cooperatives handle more distribution directly. Current 2025-2026 conditions are mixed: USDA expects higher 2026 and 2027 milk production, which supports volumes but pressures milk prices, while foodservice and export channels help offset weak fluid milk consumption and softer domestic demand for some categories.",
+    "key_stats": {
+      "market_size": "$97.2 billion estimated 2026 revenue, based on the 2022 IBISWorld baseline forecast path from $94.6 billion in 2022 to $98.0 billion in 2027",
+      "growth": "0.7% estimated 2022-2027 CAGR; roughly sub-1% annual growth in 2026",
+      "profit_margin": "1.6% EBIT margin in 2022 baseline and 1.6% projected for 2027 baseline",
+      "establishments": "1,766 employer establishments in 2023 for NAICS 42443, per Census Business Patterns profile",
+      "employment": "41,697 workers in 2022 baseline; 42,304 workers projected for 2027 baseline",
+      "milk_supply": "236.6 billion pounds of US milk production forecast for 2026 and 238.1 billion pounds for 2027 by USDA ERS July 2026 outlook",
+      "milk_price": "$20.00 per cwt all-milk price forecast for 2026 and $19.85 per cwt for 2027 by USDA ERS July 2026 outlook",
+      "exports": "2025 US dairy export value rose 15% to $9.63 billion and export volume rose 4% to 2.32 million metric tons milk-solids equivalent",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$94.6 billion revenue in 2022 dollars",
+      "growth": "0.1% revenue growth in 2022; 0.8% annualized revenue growth over 2017-2022",
+      "profit": "$1.5 billion profit in 2022",
+      "profit_margin": "1.6% in 2022",
+      "establishments": "1,880 establishments in 2022",
+      "enterprises": "1,403 enterprises in 2022",
+      "employment": "41,697 employees in 2022",
+      "wages": "$2.7 billion wages in 2022",
+      "forecast": "$98.0 billion revenue projected for 2027, equal to 0.7% CAGR over 2022-2027"
+    },
+    "how_it_makes_money": "Dairy wholesalers buy or broker refrigerated dairy products from farms, cooperatives and processors, then earn thin gross margins by reselling, storing, consolidating, transporting and managing inventory for supermarkets, warehouse clubs, convenience stores, restaurants, caterers, specialty food stores and dairy processors. Revenue is mostly tied to product throughput and dairy commodity prices rather than high service margins.",
+    "cost_structure": "Purchases of dairy products are the dominant cost and move with raw milk, cheese, butterfat and packaged dairy prices. Wages were $2.7 billion in 2022, about 2.9% of 2022 revenue, while profit was only 1.6% of revenue. Other important 2025-2026 costs include refrigerated warehousing, diesel and fleet expense, utilities, spoilage/shrink, insurance, compliance, order technology and customer credit. Because large retailers and foodservice buyers have strong bargaining power, wholesalers often cannot fully pass through spikes in milk, labor, fuel or cold-chain costs.",
+    "major_players": [
+      "Dairy Farmers of America Inc. / Dean Foods assets: major cooperative and processor-distributor with $23.1 billion net sales in 2025, but not purely a merchant wholesaler",
+      "National Dairy LLC: listed by NAICS.com among top businesses by annual sales for NAICS 424430",
+      "Pacific Cheese Co. Inc.: listed by NAICS.com among top businesses by annual sales for NAICS 424430",
+      "Dutch Farms Inc.: regional dairy and grocery distributor listed by NAICS.com for NAICS 424430",
+      "Challenge Dairy Products Inc.: butter and dairy supplier listed by NAICS.com for NAICS 424430",
+      "Regional dairy cooperatives and specialty distributors: important in local milk, cheese, yogurt, ice cream and foodservice supply despite low national concentration"
+    ],
+    "current_dynamics": "2025-2026 conditions are volume-positive but margin-challenged. USDA’s July 2026 outlook forecasts milk production rising to 236.6 billion pounds in 2026 and 238.1 billion pounds in 2027, which improves product availability but contributes to lower all-milk price expectations of $20.00 per cwt in 2026 and $19.85 per cwt in 2027. Domestic demand is split: cheese, butterfat, yogurt, protein-oriented dairy and foodservice use are healthier than fluid milk, while retailers and manufacturers continue to bypass traditional wholesalers through direct procurement and vertically integrated distribution. Export markets were a bright spot in 2025, with US dairy export value up 15% to $9.63 billion, but that mainly benefits wholesalers when they serve export traders, processors or ports rather than purely domestic retail routes.",
+    "whats_growing": [
+      "Cheese distribution, supported by the baseline 25.4% 2022 revenue share and 2025 US cheese export volume up 20% to 613,045 metric tons",
+      "Butterfat movement, with 2025 US butterfat exports up 167% to 122,085 metric tons",
+      "High-protein dairy ingredients and whey-adjacent channels, with 2025 high-protein whey exports up 6% to 77,811 metric tons",
+      "Foodservice and restaurant demand, which continues to use cheese, cream, butter and frozen dairy heavily after the pandemic disruption",
+      "Cold-chain technology, electronic inventory links and route optimization as wholesalers defend service value against direct-to-retailer distribution"
+    ],
+    "whats_shrinking": [
+      "Traditional merchant wholesaler share where retailers and dairy manufacturers source or distribute directly",
+      "Fluid milk exposure, as ERS highlighted continued per-capita fluid milk declines through 2024",
+      "Small independent wholesalers that lack scale in refrigerated logistics, procurement and customer systems",
+      "Nonfat dry milk/skim milk powder export channels, where 2025 US exports fell 9% because of lower US production availability",
+      "Margins when commodity, fuel, labor and utility costs rise faster than wholesalers can pass through to consolidated buyers"
+    ],
+    "recent_developments": [
+      "2025: US dairy export value rose 15% to $9.63 billion, near the 2022 record of $9.66 billion",
+      "2025: US cheese exports rose 20% to 613,045 metric tons, creating stronger throughput for cheese-oriented supply chains",
+      "2025: US butterfat exports rose 167% to 122,085 metric tons, with butter and AMF/spreads both expanding sharply",
+      "2025: Dairy Farmers of America net sales increased to $23.1 billion from $23.0 billion in 2024, according to S&P Global Ratings",
+      "July 2026: USDA ERS forecast 2026 milk production at 236.6 billion pounds and cut the 2026 all-milk price outlook to $20.00 per cwt",
+      "July 2026: USDA ERS reported dairy retail prices rose 1.2% from May 2026 to June 2026 while farm-level milk prices were 10.1% higher than June 2025"
+    ],
+    "outlook": "The 2026-2027 outlook is stable but not high-growth. Higher milk supply should support throughput, while lower all-milk price expectations may limit nominal revenue gains and pressure farm and processor economics. Wholesalers with dense refrigerated routes, export/logistics relationships, specialty cheese or foodservice accounts, and strong inventory technology should hold up better than smaller generalist distributors. The main long-run risks are retailer concentration, manufacturer sales branches, processor-owned distribution, private-label sourcing and weak fluid milk consumption. The main upside is demand for cheese, butterfat, yogurt, protein-rich dairy and export-linked dairy products.",
+    "themes": [
+      "Mature industry",
+      "Thin margins",
+      "Cold-chain logistics",
+      "Retailer bargaining power",
+      "Vertical integration",
+      "Commodity price volatility",
+      "Cheese and butterfat growth",
+      "Fluid milk decline",
+      "Export support",
+      "Consolidation pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/dairy-wholesaling-in-the-us.txt",
+      "USDA ERS Dairy Market Outlook, updated 2026-07-17: https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "USDA ERS Food Price Outlook, updated 2026-07-24: https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "USDA ERS Dairy Data, updated 2026-07-15: https://www.ers.usda.gov/data-products/dairy-data",
+      "US Dairy Export Council, 2026-02-24 release on 2025 exports: https://www.usdec.org/newsroom/news-releases/news-releases/news-release-2/24/2026",
+      "US Census AIES 2023 API documentation: https://www.census.gov/data/developers/data-sets/aies/2023.html",
+      "Census profile for NAICS 42443 employer establishments: https://data.census.gov/profile/42443_-_Dairy_product_%28except_dried_or_canned%29_merchant_wholesalers?codeset=naics~42443",
+      "NAICS.com 2022 NAICS 424430 top-business listing: https://www.naics.com/naics-code-description/?code=424430&v=2022",
+      "Dairy Foods 2025 Top 100 dairy companies: https://www.dairyfoods.com/articles/98403-annual-dairy-2025-top-100-chobani-and-fairlife-continue-ascent-on-dairy-foods-top-100-list",
+      "S&P Global Ratings DFA 2025 update: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3550080"
+    ],
+    "one_sentence": "US dairy wholesalers remain essential to cold-chain distribution, but 2025-2026 growth is restrained by retailer and processor bypass, soft domestic fluid-milk demand, volatile milk prices and rising logistics costs, while export strength in cheese and butterfat supports upstream volume.",
+    "slug": "dairy-wholesaling-in-the-us"
+  },
+  {
+    "title": "Dance Studios",
+    "sector": "Consumer Services",
+    "one_liner": "Dance studios sell recurring, local instruction and performance-related services to children, adults, and fitness-oriented consumers.",
+    "overview": "Dance studios provide class-style dance instruction across ballet, tap, hip-hop, ballroom, Latin, contemporary, fitness-fusion, competitive, and pre-professional programs. The industry remains highly local and fragmented, with many owner-operated studios, franchises, nonprofit schools, and part-time instructors. Demand is tied to household discretionary income, parents' spending on children's activities, leisure time, arts participation, and wellness trends.",
+    "key_stats": {
+      "market_size": "About $5.0 billion in U.S. dance studio revenue in 2025",
+      "growth": "2.3% U.S. revenue growth in 2025 and 0.8% CAGR from 2020 to 2025",
+      "businesses": "14,622 U.S. dance studio businesses in 2025, up from 14,330 in 2024",
+      "labor_market": "17,000 U.S. dancers and choreographers employed in 2024; BLS projected 5% employment growth from 2024 to 2034",
+      "median_pay": "$23.97 per hour for dancers and $26.73 per hour for choreographers in May 2024",
+      "arts_participation": "22% of U.S. adults did social dancing in 2022, the largest personal arts performance/creation category reported by NEA",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $3.8 billion in U.S. dance studio revenue in 2022",
+      "growth": "About 2.2% revenue growth in 2022, derived from the 2021 IBISWorld baseline of $3.718 billion and a 2022 estimate of $3.8 billion",
+      "establishments": "68,393 U.S. dance studios in 2022 in public secondary summaries of IBISWorld-linked data",
+      "context": "2022 was an early recovery year after the 18.4% revenue decline in 2020 and 8.4% partial rebound in 2021 reported in the baseline file"
+    },
+    "how_it_makes_money": {
+      "tuition": "In 2021, about 80.0% of revenue came from tuition for private lessons, group classes, camps, training programs, and ongoing dance instruction.",
+      "core_classes": "In 2021, ballet accounted for 12.2% of revenue, tap for 11.5%, hip-hop for 7.0%, and other dance genres for 49.3%.",
+      "ancillary_sales": "In 2021, merchandise, admission tickets, concessions, equipment rental, and studio rental accounted for 7.6% of revenue.",
+      "contributions_and_training": "In 2021, contributions, gifts, grants, and other instruction or certification programs accounted for about 12.4% of revenue.",
+      "recurring_model": "In 2025, the strongest operators relied on recurring monthly enrollment, recital fees, camps, intensives, private lessons, competition teams, digital registration, and parent communication platforms."
+    },
+    "cost_structure": {
+      "labor": "Labor is the largest controllable cost; the baseline file reported 2021 wages of $1.153 billion against 2021 revenue of $3.718 billion, or about 31.0% of revenue.",
+      "rent_and_facilities": "Studios carry meaningful fixed occupancy costs because the baseline file noted a typical need for about 100 square feet of studio space per student in 2021.",
+      "profit": "The baseline file reported a 6.7% industry profit margin in 2021 after the pandemic recovery began.",
+      "software_and_admin": "In 2025, scheduling, billing, enrollment, retention, and analytics software became more important because operators were trying to protect revenue while trial volumes declined.",
+      "materials": "Costumes, dancewear, music licensing, recital production, insurance, utilities, cleaning, payment processing, and marketing are material non-labor expenses."
+    },
+    "major_players": [
+      "Arthur Murray International",
+      "Fred Astaire Dance Studios",
+      "Dance With Me Studios",
+      "The Little Gym dance programs",
+      "Local independent youth and competitive dance studios",
+      "Nonprofit and community-based dance schools"
+    ],
+    "current_dynamics": "The market is growing but not rapidly in 2025-2026. Demand is supported by children's extracurricular spending, competitive dance, social-media-driven interest in hip-hop and contemporary styles, adult wellness classes, and recurring tuition models. Pressure comes from high local competition, family budget sensitivity, rent and wage inflation, lower trial volume in 2025 benchmarks, and substitutes such as gyms, boutique fitness, YouTube, TikTok, and app-based dance instruction.",
+    "whats_growing": [
+      "Adult recreational, ballroom, Latin, social, and wellness-oriented dance classes in 2025-2026",
+      "Competitive teams, intensives, camps, workshops, recital packages, and private lessons in 2025",
+      "Online registration, automated billing, retention analytics, and trial-conversion tracking in 2025",
+      "Hip-hop, contemporary, cultural dance, fitness-fusion, and short-format social-media-inspired choreography in 2025-2026",
+      "Retention-focused programming because 2025 benchmarks showed fewer new trial students entering the funnel"
+    ],
+    "whats_shrinking": [
+      "Pure drop-in class models without recurring enrollment in 2025",
+      "Studios dependent on weak summer retention, as 2025 benchmarks showed dance churn spiking in June-August",
+      "Undifferentiated children's programs in crowded local markets in 2025-2026",
+      "Standalone virtual dance classes as a primary revenue stream after in-person activity normalized in 2024-2025",
+      "Budget-sensitive discretionary enrollment when household costs pressure families in 2025-2026"
+    ],
+    "recent_developments": [
+      "2024: IBISWorld-linked public summaries put U.S. dance studio revenue at about $4.9 billion, with 0.9% growth in 2024.",
+      "May 2024: BLS reported median hourly pay of $23.97 for dancers and $26.73 for choreographers.",
+      "Nov 2024: NCES and NEA fielded the School Pulse Panel arts education survey across more than 4,000 U.S. public K-12 schools, reinforcing uneven access to school-based arts and dance education.",
+      "2025: IBISWorld-linked public summaries estimated U.S. dance studio revenue at about $5.0 billion, up 2.3% in 2025.",
+      "2025: iClassPro benchmark data showed dance trial volume down 7.69%, trial-to-enrollment conversion around 54%, and average dance churn around 15% with summer spikes.",
+      "2025: BLS projected 5% growth for dancers and choreographers from 2024 to 2034, with about 2,500 annual openings over the decade."
+    ],
+    "outlook": "The 2026 outlook is modestly positive. Revenue should continue to grow slowly if employment, disposable income, and recreation spending hold up, but operators will need pricing discipline, strong re-enrollment, summer-retention planning, and differentiated programming. The best positioned studios combine youth programs with adult/wellness classes, competitive teams, camps, private lessons, and software-enabled enrollment management.",
+    "themes": [
+      "Fragmented local competition",
+      "Recurring tuition and retention economics",
+      "Youth extracurricular spending",
+      "Adult wellness and social dance",
+      "Competitive dance and performance packages",
+      "Digital registration and studio-management software",
+      "Hybrid discovery through social media and in-person instruction",
+      "Rent and instructor wage pressure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/dance-studios.txt",
+      "https://sfconservatoryofdance.org/blog/dance-studio-statistics/",
+      "https://sfconservatoryofdance.org/blog/dance-education-statistics/",
+      "https://www.bls.gov/ooh/Entertainment-and-Sports/Dancers-and-choreographers.htm",
+      "https://www.iclasspro.com/iclasspro-blog/2025-youth-activity-industry-trends",
+      "https://www.arts.gov/news/press-releases/2023/new-data-reveal-how-adults-participated-arts-during-covid-19",
+      "https://www.arts.gov/impact/research/publications/arts-education-us-public-schools-insights-november-2024-school-pulse-panel-survey",
+      "https://www.census.gov/naics/?details=61&input=61&year=2022",
+      "https://www.statista.com/statistics/1175824/dance-studio-industry-market-size-us/"
+    ],
+    "one_sentence": "The U.S. dance studio industry is a fragmented discretionary-services market recovering into slow growth as youth enrollment, adult wellness classes, competitive dance, and studio-management technology offset competition from gyms, online fitness, and other extracurricular activities.",
+    "slug": "dance-studios"
+  },
+  {
+    "title": "Dark Fiber Network Operators",
+    "sector": "Technology & Digital",
+    "one_liner": "Dark fiber operators lease unused fiber-optic strands to carriers, cloud platforms, AI data centers, enterprises and public-sector buyers that want private, scalable network capacity.",
+    "overview": "Dark fiber network operators own or control unlit fiber-optic routes and monetize them through leases, indefeasible rights of use, enterprise private-network contracts, data-center interconnect, carrier backhaul and colocation or regeneration facilities. The baseline IBIS report described a fast-growing operator industry with 2020 revenue of $3.875 billion, 2020 growth of 7.2% and a 2020-2025 forecast CAGR of 9.3% to about $6.0 billion. Newer 2025-2026 market estimates use narrower dark-fiber-network definitions, with the US market estimated at $1.18 billion in 2025 and $1.27 billion in 2026 by Mordor Intelligence, and $1.027 billion in 2025 and $1.120 billion in 2026 by Grand View Research. The strategic direction is consistent across definitions: demand is rising for private, low-latency, high-capacity routes connecting data centers, cloud regions, wireless towers, campuses and AI compute clusters.",
+    "key_stats": {
+      "market_size": "2025 US dark fiber network market estimated at $1.18 billion; 2026 estimated at $1.27 billion",
+      "growth": "2026-2031 US CAGR estimated at 7.65%; alternative 2026-2033 US CAGR estimate is 12.0%",
+      "legacy_operator_revenue_benchmark": "IBIS baseline forecast 2025 US dark fiber network operator revenue at about $6.0 billion from a broader operator-revenue definition",
+      "global_context": "2025 global dark fiber network market estimated at $6.9 billion by Grand View Research and $4.22 billion by Fortune Business Insights under differing methodologies",
+      "network_mix": "2025 US metro deployments represented 64.58% of dark-fiber-network revenue in Mordor Intelligence's estimate; long-haul routes were forecast to grow at a 9.64% CAGR to 2031",
+      "major_demand_segments": "2025 US telecommunications service providers represented 47.11% of end-user demand in Mordor Intelligence's estimate",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated at about $4.63 billion using the IBIS baseline's 2020 revenue of $3.875 billion and 2020-2025 forecast CAGR of 9.3%",
+      "growth": "2022 implied growth about 9.3% under the IBIS 2020-2025 forecast path",
+      "baseline_source_year": "IBIS baseline file last updated 2021, with figures in 2020 dollars",
+      "known_2020_anchor": "2020 revenue $3.875 billion; 2020 profit $411 million; 2020 profit margin 10.6%; 2020 establishments 178; 2020 employment 3,250"
+    },
+    "how_it_makes_money": "Operators sell long-term access to unused fiber strands through leases, IRUs and wholesale contracts; add revenue from metro dark fiber, long-haul dark fiber, fiber-to-tower, data-center interconnect, private enterprise networks, government and education networks, colocation and regeneration sites. Customers typically buy their own electronics to light the strands, while operators earn recurring access fees and sometimes upfront construction, lateral-extension or route-diversity charges.",
+    "cost_structure": "The model is capital intensive. Major costs include network construction, rights-of-way, permits, conduit, fiber cable, engineering, route maintenance, splice repair, network operations centers, colocation or regeneration facilities, property access, insurance, financing and sales support for large enterprise and carrier contracts. Operating leverage is high once routes are built, but fixed long-haul costs, outage repair, labor, debt service and long-term contracts signed before cost inflation can pressure margins.",
+    "major_players": [
+      "Zayo Group",
+      "Lumen Technologies",
+      "Verizon Communications",
+      "AT&T",
+      "Comcast Business",
+      "Windstream",
+      "Consolidated Communications",
+      "Arelion",
+      "Cogent Communications",
+      "Uniti Group"
+    ],
+    "current_dynamics": "The 2025-2026 market is shifting from generic bandwidth expansion to AI-driven route planning. Hyperscalers, carriers, AI infrastructure providers and neoclouds are buying larger blocks of metro and long-haul fiber to connect GPU clusters, cloud regions and data centers. Consolidation is increasing scale, led by Zayo's 2025 agreement and 2026 closing of Crown Castle's Fiber Solutions acquisition. Competitive pressure remains high because telecom incumbents can bundle lit services, wavelengths, enterprise connectivity and wireless backhaul with dark fiber. BEAD policy changes in 2025 may support broadband buildouts but also make funding more technology-neutral, which can redirect some rural subsidy dollars away from fiber-only approaches.",
+    "whats_growing": "Metro dark fiber for AI inference, long-haul routes between AI data centers, data-center interconnect, cloud on-ramps, private enterprise networks, government and public-sector secure networks, route diversity and resilient connectivity are growing. Zayo reported that 2025 long-haul dark fiber demand doubled from 2024 and that metro dark fiber demand rose up to 20 times in some AI-driven metros. Lumen expects intercity fiber miles to increase from 16.6 million in 2025 to 47 million by 2028 to support AI connectivity.",
+    "whats_shrinking": "Standalone small regional operators are losing relative share as large infrastructure-backed platforms consolidate assets. Shorter-term, commodity dark fiber leases face pressure where customers choose managed wavelengths, lit services, cloud connectivity products or wireless/satellite alternatives funded under technology-neutral broadband programs. Crown Castle also exited fiber in 2026 to focus on towers, showing that diversified wireless infrastructure owners may divest fiber when returns or strategic fit lag tower assets.",
+    "recent_developments": [
+      "2025-03-13: Zayo agreed to acquire Crown Castle's Fiber Solutions business for about $4.25 billion, adding roughly 90,000 route miles of fiber and expanding reach to more than 70,000 on-net locations.",
+      "2025-06-06: NTIA issued a BEAD policy notice shifting the $42.45 billion broadband program toward a technology-neutral, lower-cost framework.",
+      "2025-12-01: Data Bridge estimated the North America dark fiber networks market at $2.32 billion in 2025 and forecast $5.66 billion by 2033, a 2026-2033 CAGR of 11.9%.",
+      "2026-05-01: Crown Castle closed the sale of its Fiber Solutions business to Zayo and Small Cell business to Arium/EQT for $8.5 billion gross proceeds, about $8.4 billion after preliminary adjustments.",
+      "2026-07-13: Fortune Business Insights estimated the global dark fiber market at $4.22 billion in 2025 and $4.81 billion in 2026, with a 2026-2034 CAGR of 15.90%.",
+      "2026-07-23: Zayo reported that 2025 long-haul dark fiber demand doubled from 2024 and metro dark fiber demand increased up to 20 times in some AI-driven metros."
+    ],
+    "outlook": "The 2026-2031 outlook is positive but uneven. Demand should rise as AI infrastructure, cloud computing, 5G backhaul, secure networks and data-center interconnect require high-capacity private routes. US market forecasts point to mid- to low-double-digit annual growth, with Mordor Intelligence estimating 7.65% CAGR from 2026 to 2031 and Grand View Research estimating 12.0% CAGR from 2026 to 2033. Operators with dense metro networks, long-haul diversity, data-center presence and balance-sheet capacity for construction are positioned to outperform. Risks include permitting delays, construction inflation, fiber cuts, long-term contract mispricing, carrier bundling, high debt costs and substitution by managed lit services or non-fiber broadband technologies in less dense areas.",
+    "themes": [
+      "AI data-center interconnect",
+      "Metro fiber densification",
+      "Long-haul route diversity",
+      "5G and tower backhaul",
+      "Cloud migration",
+      "Infrastructure consolidation",
+      "BEAD-funded broadband expansion",
+      "Private enterprise networks",
+      "Carrier and hyperscaler demand",
+      "High capital intensity"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/dark-fiber-network-operators.txt",
+      "https://www.mordorintelligence.com/industry-reports/united-states-dark-fiber-network-market",
+      "https://www.grandviewresearch.com/horizon/outlook/dark-fiber-network-market/united-states",
+      "https://www.grandviewresearch.com/industry-analysis/dark-fiber-networks-market",
+      "https://www.fortunebusinessinsights.com/dark-fiber-network-market-106077",
+      "https://www.zayo.com/newsroom/organizations-that-treat-networks-as-an-ai-afterthought-will-struggle-to-keep-pace-new-zayo-report-finds/",
+      "https://www.zayo.com/newsroom/zayo-to-acquire-crown-castles-fiber-solutions-business/",
+      "https://investor.crowncastle.com/news-releases/news-release-details/crown-castle-announces-closing-sale-fiber-and-small-cell",
+      "https://www.lumen.com/en-us/networking/private-connectivity-fabric.html",
+      "https://www.ntia.doc.gov/press-release/2025/trump-administration-announces-benefit-bargain-bead-program-removes-regulatory-burdens-lowers-costs"
+    ],
+    "one_sentence": "In 2025-2026, US dark fiber demand is being pulled by AI data-center interconnect, cloud migration, 5G backhaul and government broadband funding, while large carriers and infrastructure funds are consolidating metro and long-haul fiber assets.",
+    "slug": "dark-fiber-network-operators"
+  }
+]

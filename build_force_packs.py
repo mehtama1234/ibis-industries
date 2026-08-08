@@ -41,7 +41,7 @@ lite=[{"slug":s['slug'],"title":s['title'],"group":s['group'],"pack":s['pack'],"
        "sig":next(f['signature'] for f in FORCES if f['slug']==s['force'])} for s in all_specs]
 tmpl='''export const meta = {
   name: 'forces-writeups-all',
-  description: 'Write all subforce pages across the 14 data-grounded force collections (Haiku, evidence-grounded)',
+  description: 'Write all subforce pages across the 14 data-grounded force collections (evidence-grounded)',
   phases: [{ title: 'Write' }],
 }
 const SPECS = %SPECS%;
@@ -69,7 +69,7 @@ function prompt(s){
 }
 phase('Write')
 const out = await parallel(SPECS.map(s => () =>
-  agent(prompt(s), { label: `${s.force}:${s.slug}`, phase:'Write', schema: SCHEMA, model:'haiku' })
+  agent(prompt(s), { label: `${s.force}:${s.slug}`, phase:'Write', schema: SCHEMA })
     .then(r => r ? { ...r, slug:s.slug, force:s.force, group:s.group, nav_title:s.title, cap:s.cap } : null)))
 return out.filter(Boolean)
 '''

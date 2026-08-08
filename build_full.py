@@ -86,6 +86,8 @@ h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.025em;line-he
 .tabs{display:flex;gap:4px;margin:22px 0 0;border-bottom:1px solid var(--line)}
 .tab{font-family:var(--mono);font-size:.8rem;letter-spacing:.03em;color:var(--muted);background:none;border:none;border-bottom:2px solid transparent;padding:11px 16px;cursor:pointer}
 .tab:hover{color:var(--paper)} .tab.on{color:var(--brass);border-bottom-color:var(--brass)}
+.linktab{font-family:var(--mono);font-size:.8rem;letter-spacing:.03em;color:var(--muted);padding:11px 16px;border-bottom:2px solid transparent}
+.linktab:hover{color:var(--paper)}
 .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:20px 0 6px;position:sticky;top:0;background:var(--ink);padding:12px 0;z-index:6}
 #q{flex:1;min-width:200px;background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:10px 14px;color:var(--paper);font-size:.95rem;font-family:var(--sans)}
 #q::placeholder{color:var(--faint)} #q:focus{outline:2px solid var(--brass);border-color:var(--brass)}
@@ -169,12 +171,14 @@ footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:
  <header class="top">
   <div class="eyebrow">Plain-English business intelligence &middot; US &middot; 2025&ndash;2026</div>
   <h1>US Industry Briefs</h1>
-  <p class="lede">Every US industry distilled to one page: the <b>latest 2025&ndash;2026 data and dynamics</b> &mdash; how it makes money, what's disrupting it now, who wins, who's squeezed &mdash; researched live from the web, with the 2022 IBISWorld figure kept as a baseline. Covering the <b>200 largest and most-watched US industries</b> &mdash; the first tranche of a 1,491-report library.</p>
+  <p class="lede">Every US industry distilled to one page: the <b>latest 2025&ndash;2026 data and dynamics</b> &mdash; how it makes money, what's disrupting it now, who wins, who's squeezed &mdash; researched live from the web, with the 2022 IBISWorld figure kept as a baseline. Now covering <b>this growing tranche of the 1,491-report library</b>, with each batch expanding the industry map and the cross-industry force synthesis.</p>
   <div class="strip" id="strip"></div>
  </header>
  <div class="tabs">
   <button class="tab on" data-view="ind">Industries</button>
   <button class="tab" data-view="tr">Cross-cutting trends</button>
+  <a class="linktab" href="operators.html">Operator playbooks</a>
+  <a class="linktab" href="forces/index.html">Forces</a>
  </div>
  <section id="view-ind">
   <div class="controls">
@@ -188,7 +192,7 @@ footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:
   <div class="headline"><div class="l">The through-line across all 25, right now</div><p id="headline"></p></div>
   <div id="trends"></div>
  </section>
-<footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2024&ndash;2026 web research. Each brief and the trend synthesis written in plain English by the Codex research worker (Haiku). First tranche &mdash; the ~200 biggest of 1,491 industries. Figures carry their year; verify before relying on them.</footer>
+<footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2024&ndash;2026 web research. Each brief, operator playbook, and force synthesis is generated from the current researched corpus and grows toward the 1,491-report library. Figures carry their year; verify before relying on them.</footer>
 </div>
 <div class="scrim" id="scrim"></div>
 <aside class="panel" id="panel" aria-label="Industry detail"><div class="inner" id="pinner"></div></aside>

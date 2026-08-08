@@ -1,0 +1,460 @@
+[
+  {
+    "title": "Ice Cream & Gelato Store Franchises",
+    "sector": "Food & Drink",
+    "one_liner": "A mature, treat-led franchise category where brand scale, seasonality, premium mix-ins, and digital rewards offset slow volume growth and health-driven substitution.",
+    "overview": "This industry covers franchised U.S. outlets whose primary draw is ice cream, gelato, soft serve, frozen cakes, shakes, and related treats; it excludes corporate-owned locations and standalone frozen yogurt concepts. The baseline IBIS file placed 2021 franchise revenue at $5.686 billion and projected slow growth to roughly $5.9 billion by 2026, reflecting a mature category with high consumer awareness but limited traffic growth. Public 2025-2026 evidence supports that picture: the broader U.S. ice cream market was estimated at $21.64 billion in 2025 and $22.42 billion in 2026, while foodservice ice cream was forecast to grow more slowly than retail channels. Franchise chains are defending sales through seasonal limited-time offers, mobile rewards, co-branded units, catering, cakes, delivery, and premium mix-ins rather than relying on large gains in per-capita consumption.",
+    "key_stats": {
+      "market_size": "$5.9 billion in U.S. franchise outlet revenue in 2026, based on the 2021 IBIS baseline forecast for this franchise-only industry.",
+      "growth": "0.6% CAGR from 2021 to 2026 in the baseline franchise forecast; broader U.S. ice cream market growth is forecast at 4.2% CAGR from 2026 to 2033, with foodservice ice cream at 3.7% CAGR.",
+      "establishments": "13,223 franchise establishments projected for 2026 in the baseline file, up from 13,023 in 2021.",
+      "employment": "144,907 employees projected for 2026 in the baseline file, up from 141,810 in 2021.",
+      "profit_margin": "5.1% EBIT margin projected for 2026 in the baseline file; National Restaurant Association data show typical restaurant pre-tax margins near 5% in 2026.",
+      "consumer_price_context": "BLS reported ice cream and related products prices up 0.8% year over year in December 2025, while dairy and related products were down 0.9%.",
+      "input_context": "USDA projected 2026 U.S. milk production at 236.6 billion pounds and an all-milk price of $20.00 per cwt in July 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$5.72 billion in 2022, modeled from the baseline 2021 revenue of $5.686 billion and the 2021-2026 projected CAGR of about 0.6%.",
+      "growth": "0.6% estimated 2022 revenue growth under the baseline projection.",
+      "establishments": "About 13,062 establishments in 2022, interpolated from the baseline projection of 13,023 in 2021 to 13,223 in 2026.",
+      "profit_margin": "5.1% baseline industry EBIT margin carried forward from the 2021 report outlook."
+    },
+    "how_it_makes_money": "Franchisees earn revenue from counter-served scoops, cones, cups, sundaes, soft serve, gelato, Blizzards and other blended treats, shakes, smoothies, frozen cakes, takeout pints, catering, beverages, and small add-on snacks. The baseline 2021 mix was 52.9% on-premise consumption, 34.0% takeout, 12.0% drive-through, and 1.1% other revenue. Franchisors monetize the system through initial franchise fees, royalties, advertising or brand-fund contributions, required supply programs, technology fees, renewal fees, and sometimes rebates or purchasing scale.",
+    "cost_structure": {
+      "food_and_packaging": "Ice cream mix, dairy, sugar, inclusions, cones, toppings, cakes, cups, spoons, napkins, and delivery packaging are the core variable costs; USDA reported farmers received only 19% of the 2024 retail price of regular ice cream, so processing, retailing, labor, occupancy, and marketing account for most consumer price value.",
+      "labor": "Labor is a major expense because stores need counter service, cake production, cleaning, and rush-period staffing; National Restaurant Association data show limited-service restaurant payroll and benefits at a median 31.7% of sales in 2024.",
+      "royalties_and_brand_funds": "Cold Stone Creamery disclosed a 6% royalty and 3% ad fund in its 2025 FDD summary; Dairy Queen disclosed a 4% royalty and 6% brand fund in a 2026 FDD summary for 2025 operations; Baskin-Robbins franchise economics cited a 5.9% royalty in 2026 coverage.",
+      "occupancy_and_utilities": "Small store footprints limit rent, but premium street, mall, tourist, and suburban centers can be costly; freezers, dipping cabinets, refrigeration, HVAC, and water use make utilities structurally important.",
+      "profit": "The baseline industry profit margin was 5.1% in 2021 and projected at 5.1% in 2026; restaurantwide 2026 data from the National Restaurant Association indicate food and labor together are roughly two-thirds of sales for typical operators."
+    },
+    "major_players": [
+      "{'name': 'International Dairy Queen / American Dairy Queen', 'position': 'Largest legacy franchise system in the baseline file, with 33.3% baseline 2021 market share.', 'current_scale': \"DQ's U.S. locator showed 4,167 locations in 2026; International Dairy Queen stated in 2025 that the DQ system had more than 7,500 restaurants in 20 countries.\", 'notes': 'Most U.S. locations are independently owned franchised restaurants; the brand uses seasonal Blizzard launches, app rewards, and food-plus-treat formats to support traffic.'}",
+      "{'name': 'Baskin-Robbins / Inspire Brands', 'position': 'Large specialty ice cream franchise brand, entirely franchised in the U.S. according to 2026 reporting on 2025 FDD data.', 'current_scale': '967 U.S. restaurants at year-end 2025, down 9 net units in 2025; globally, Baskin-Robbins reported more than 7,800 restaurants in 36 markets in 2025.', 'notes': 'The brand leaned into its 80th birthday, rewards launch, flavor library, ice cream cakes, and convenience products in 2025.'}",
+      "{'name': 'Cold Stone Creamery / Kahala Brands / MTY Food Group', 'position': 'Major premium mix-in and made-in-store ice cream franchise concept.', 'current_scale': \"FranchiseDiff summarized Cold Stone's 2025 FDD at 994 total outlets, 52 openings, and 12 closures; ScrapeHero counted 1,125 U.S. Cold Stone locations as of June 17, 2026, reflecting a broader locator-based count and timing difference.\", 'notes': 'The chain emphasizes premium, customizable creations, cakes, co-branding, and targeted U.S. market expansion.'}",
+      "{'name': \"Ben & Jerry's Scoop Shops / Unilever\", 'position': 'Recognized premium scoop-shop franchise and licensed-store brand with a smaller U.S. footprint than DQ, Baskin-Robbins, or Cold Stone.', 'current_scale': 'Public U.S. unit counts are not consistently disclosed in 2025-2026 sources, but the brand remains a visible premium competitor in tourist, urban, and campus markets.', 'notes': 'Competes on premium flavors, brand identity, social mission positioning, and scoop-shop experience.'}",
+      "{'name': 'Regional and niche franchise systems', 'position': \"Includes Marble Slab Creamery, Bruster's, Handel's, Rita's Italian Ice and Frozen Custard, and other local or regional chains that compete for frozen-dessert occasions.\", 'current_scale': 'Fragmented long tail; individual systems are smaller than the national leaders but can be strong in warm-weather and suburban markets.', 'notes': 'Growth often depends on multi-unit franchisees, low-buildout kiosks, co-branding, and local real estate availability.'}"
+    ],
+    "current_dynamics": "The category is stable but not high-growth. Franchise systems benefit from inexpensive emotional indulgence, family occasions, warm-weather traffic, and premium customization, but volumes are constrained by health concerns, slower dairy consumption, grocery-channel competition, delivery fees, and consumer value sensitivity. In 2025, broader ice cream dollar growth came more from price, premiumization, flavor innovation, and retail availability than from large volume gains. In 2026, USDA's lower all-milk price outlook could ease dairy input pressure, while food-away-from-home inflation and wage costs keep franchisee margins tight.",
+    "whats_growing": [
+      "Seasonal limited-time flavors and event-driven promotions in 2025-2026.",
+      "Mobile app rewards, digital coupons, and loyalty-funded traffic generation.",
+      "Premium mix-ins, cakes, shakes, coffee-adjacent frozen beverages, and higher-ticket custom treats.",
+      "Dairy-free, low-sugar, low-fat, and protein-forward frozen desserts as health-conscious consumers seek permissible indulgence.",
+      "Co-branded and small-format stores that spread rent and labor across multiple concepts.",
+      "Foodservice ice cream, forecast at 3.7% CAGR from 2026 to 2033 in broader market data."
+    ],
+    "whats_shrinking": [
+      "Baseline per-capita sugar and sweetener consumption was projected to decline 0.8% annually from 2021 to 2026.",
+      "Baseline per-capita dairy consumption was projected to decline 0.1% annually from 2021 to 2026.",
+      "Low-fat, nonfat, sherbet, and frozen dairy treat production shares softened after 2023 according to USDA's 2025 review of production through 2024.",
+      "Traditional dine-in table service remains a minor and declining format, at only 0.9% of baseline 2021 revenue.",
+      "Undifferentiated single-unit operators are losing room to national loyalty programs, mall traffic shifts, grocery multipacks, and delivery-enabled dessert substitutes."
+    ],
+    "recent_developments": [
+      "2025-03-03: Dairy Queen announced 2025 Free Cone Day for March 20 and tied the event to DQ App and Rewards sign-ups.",
+      "2025-06-25: Dairy Queen announced a July 14-20, 2025 digital National Ice Cream Day offer for DQ Rewards members.",
+      "2025-07-16: USDA reported U.S. ice cream and other frozen dairy products production fell 10% from 2000 to 2024, to 1,386 million gallons in 2024.",
+      "2025-08-16: FRANdata's 2025 multi-unit franchise list included Cold Stone Creamery with 530 multi-unit and single-unit franchisees and DQ Treat with 760 franchisees in the ranking table.",
+      "2025-12-11: Baskin-Robbins marked its 80th anniversary and reported more than 7,800 restaurants across 36 global markets.",
+      "2026-07-17: USDA projected 2026 milk production at 236.6 billion pounds and the 2026 all-milk price at $20.00 per cwt, signaling possible dairy input relief."
+    ],
+    "outlook": "The 2026 outlook is modestly positive in dollars but mature in traffic. Franchise-only revenue is best viewed near the baseline $5.9 billion 2026 estimate, with growth likely below the broader packaged ice cream category because supermarkets, convenience stores, delivery marketplaces, frozen yogurt, and better-for-you desserts absorb many incremental occasions. Operators with strong brands, drive-through or takeout access, digital loyalty, high-margin cakes and blended treats, and disciplined labor scheduling should outperform. The main risks are weather seasonality, rent, wage pressure, franchisee profitability, consumer trade-down, and shifting preferences away from dairy and sugar. Milk-price relief in 2026 helps input costs, but food-away-from-home inflation means value offers and app promotions will remain central to traffic.",
+    "themes": [
+      "Mature franchise category",
+      "Premiumization over volume growth",
+      "Digital loyalty and app offers",
+      "Seasonal LTO flavor calendar",
+      "Health-conscious indulgence",
+      "Dairy-free and low-sugar alternatives",
+      "High labor and occupancy pressure",
+      "Drive-through and takeout resilience",
+      "Co-branding and multi-unit operators",
+      "Competition from grocery and frozen yogurt"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBIS-style file, Ice Cream & Gelato Store Franchises', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/ice-cream-and-gelato-store-franchises.txt', 'used_for': '2021 revenue, 2021-2026 forecast, establishments, employment, profit margin, product mix, baseline trends.'}",
+      "{'name': 'Grand View Research, U.S. Ice Cream Market Report', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-ice-cream-market-report', 'used_for': '2025 and 2026 broader U.S. ice cream market size; 2026-2033 CAGR; foodservice growth context.'}",
+      "{'name': 'USDA ERS, Ice cream and frozen dairy production dipped from 2000 to 2024', 'url': 'https://www.ers.usda.gov/data-products/charts-of-note/112892', 'used_for': '2024 production volume and long-term frozen dairy production trend.'}",
+      "{'name': 'USDA ERS, Dairy Market Outlook', 'url': 'https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook', 'used_for': '2026 milk production and all-milk price forecast.'}",
+      "{'name': 'USDA ERS, Price Spreads from Farm to Consumer', 'url': 'https://www.ers.usda.gov/data-products/charts-of-note/112838', 'used_for': '2024 farm share of retail ice cream price.'}",
+      "{'name': 'BLS CPI December 2025 release', 'url': 'https://www.bls.gov/news.release/archives/cpi_01132026.htm', 'used_for': '2025 CPI movement for ice cream and dairy categories.'}",
+      "{'name': 'National Restaurant Association, Inflation is Straining Restaurant Operations', 'url': 'https://restaurant.org/research-and-media/research/inflation/', 'used_for': '2026 restaurant cost structure and typical margin context.'}",
+      "{'name': 'National Restaurant Association, Restaurant labor costs are well above historical averages', 'url': 'https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-labor-costs-are-well-above-historical-averages/', 'used_for': '2024 limited-service labor cost share.'}",
+      "{'name': 'Dairy Queen location directory', 'url': 'https://www.dairyqueen.com/en-us/locations/', 'used_for': '2026 U.S. DQ location count shown by locator.'}",
+      "{'name': 'International Dairy Queen, 2025 Free Cone Day announcement', 'url': 'https://news.dq.com/announcements/details/2025/Free-Cone-Day-Is-Back-at-Dairy-Queen-On-March-20-Fans-Can-Celebrate-by-Enjoying-a-Free-Vanilla-Soft-serve-Cone-at-Participating-DQ-Locations/default.aspx', 'used_for': '2025 DQ system scale and promotion activity.'}",
+      "{'name': 'International Dairy Queen, National Ice Cream Day 2025 announcement', 'url': 'https://news.dq.com/announcements/details/2025/Celebrate-National-Ice-Cream-Day-All-Week-Long-with-a-Sweet-Treat-from-DQ-/default.aspx', 'used_for': '2025 DQ digital rewards promotion.'}",
+      "{'name': 'Inspire Brands, Baskin-Robbins Celebrates 80 Years', 'url': 'https://stories.inspirebrands.com/baskin-robbins-celebrates-80-years/', 'used_for': '2025 Baskin-Robbins global scale and anniversary development.'}",
+      "{'name': 'Yahoo Finance/QSR coverage of Inspire 2025 FDD data', 'url': 'https://finance.yahoo.com/small-business/articles/inspire-brands-plots-going-public-152454182.html', 'used_for': '2025 Baskin-Robbins U.S. unit count, openings, closures, and franchised status.'}",
+      "{'name': 'Cold Stone Creamery Franchising', 'url': 'https://www.coldstonefranchising.com/', 'used_for': 'Cold Stone brand positioning and over-1,000 U.S. locations statement.'}",
+      "{'name': 'FranchiseDiff, Cold Stone Creamery 2025 FDD changes', 'url': 'https://www.franchisediff.com/franchise/cold-stone-creamery/2025-vs-2023', 'used_for': '2025 Cold Stone outlet count, openings, closures, royalty, ad fund, and investment range.'}",
+      "{'name': 'ScrapeHero, Cold Stone Creamery locations in 2026', 'url': 'https://www.scrapehero.com/location-reports/Cold%20Stone%20Creamery-USA/', 'used_for': 'June 17, 2026 locator-based U.S. Cold Stone count.'}"
+    ],
+    "one_sentence": "Ice cream and gelato store franchises sell scoops, soft serve, Blizzards, cakes, shakes, beverages, and related snacks through franchised storefronts, with 2026 revenue still anchored near the preexisting IBIS forecast of about $5.9 billion but pressured by labor, rent, foodservice inflation, and competition from packaged, frozen yogurt, low-sugar, and dairy-free desserts.",
+    "slug": "ice-cream-and-gelato-store-franchises"
+  },
+  {
+    "title": "Ice Cream Stores",
+    "sector": "Food & Drink",
+    "one_liner": "Ice cream stores are a mature, impulse-driven foodservice niche where modest 2026 sales growth depends on premium treats, customization, warm-weather traffic and disciplined pricing against labor and dairy costs.",
+    "overview": "The 2022 IBIS baseline placed US Ice Cream Stores revenue at $5.081 billion, with 2022 growth of 0.5%, 14,021 establishments, 116,462 employees, $1.320 billion in wages and a 4.3% profit margin. Using the baseline's 2022-2028 projected CAGR of 1.34%, the store-channel market is estimated at about $5.29 billion in 2025 and $5.36 billion in 2026. The broader US ice cream market is much larger because it includes packaged retail and foodservice, with 2025 estimates ranging from $19.51 billion to $21.64 billion and 2026 estimates around $20.03 billion to $22.42 billion, but store operators remain a small experiential segment within that market.",
+    "key_stats": {
+      "market_size": "2026 estimate: $5.36 billion for US ice cream stores, extrapolated from the 2022 IBIS baseline at a 2022-2028 projected CAGR of 1.34%.",
+      "growth": "2026 estimate: +1.3% store-channel revenue growth, in line with the baseline 2022-2028 projected CAGR of 1.34%.",
+      "market_size_2025": "2025 estimate: $5.29 billion for US ice cream stores, extrapolated from the 2022 baseline.",
+      "establishments": "2022 baseline: 14,021 ice cream store establishments; 2027 baseline forecast: 14,654 establishments.",
+      "employment": "2022 baseline: 116,462 workers; 2027 baseline forecast: 122,832 workers.",
+      "profit_margin": "2022 baseline: 4.3% EBIT margin; 2027 baseline forecast: 4.5%.",
+      "broader_us_ice_cream_market": "2025 estimates: $19.51 billion to $21.64 billion; 2026 estimates: $20.03 billion to $22.42 billion, including packaged retail and foodservice.",
+      "restaurant_context": "2026 National Restaurant Association forecast: $1.55 trillion in US restaurant and foodservice sales and 1.3% real sales growth at the start of 2026, revised in July 2026 to 4.3% nominal and 0.8% real sales growth.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $5.081 billion revenue.",
+      "growth": "2022: +0.5% revenue growth.",
+      "profit": "2022: $219 million profit.",
+      "profit_margin": "2022: 4.3% EBIT margin.",
+      "establishments": "2022: 14,021 establishments.",
+      "enterprises": "2022: 11,086 enterprises.",
+      "employment": "2022: 116,462 employees.",
+      "wages": "2022: $1.320 billion total wages.",
+      "industry_gross_product": "2022: $1.720 billion."
+    },
+    "how_it_makes_money": "Ice cream stores earn revenue from scooped cones and cups, soft serve, gelato, sorbet, sundaes, shakes, floats, ice cream cakes, toppings, mix-ins, delivery orders, catering and seasonal limited-time flavors. Franchise systems also generate fees and royalties, while independent shops rely on local foot traffic, tourist districts, events and premium pricing for small-batch or artisanal products.",
+    "cost_structure": "The 2022 baseline shows wages at $1.320 billion, equal to about 26.0% of 2022 revenue, and profit at 4.3% of revenue. Major remaining cost lines are dairy mix, cream, sugar, cones, toppings, packaging, rent, utilities, refrigeration maintenance, card fees, franchise royalties, delivery-platform commissions and local marketing. In 2026, USDA forecast 236.6 billion pounds of US milk production and a $20.00/cwt all-milk price, while BLS June 2026 CPI data showed ice cream and related products down 1.3% year over year, creating some ingredient relief but limiting operators' ability to push prices aggressively.",
+    "major_players": [
+      "American Dairy Queen: 2026 locator count showed 4,167 US locations, though many DQ units also sell hot food and are not pure ice cream stores.",
+      "Baskin-Robbins: 2026 ScrapeHero count showed 2,142 US stores as of May 28, 2026.",
+      "Cold Stone Creamery: 2025 ScrapeHero count showed 1,081 US locations as of October 9, 2025.",
+      "Ben & Jerry's Scoop Shops: 2026 presence remains relevant in premium scoop shops, tourism markets and franchised storefronts.",
+      "Local and regional independents: 2022 baseline concentration was low, with 11,086 enterprises and 14,021 establishments."
+    ],
+    "current_dynamics": "The 2026 market is growing slowly rather than breaking out. Restaurant demand remains resilient, but July 2026 National Restaurant Association commentary noted uneven traffic and sales growth driven heavily by price rather than visits. For ice cream stores, this favors high-margin premium flavors, custom toppings, cakes and tourist/event traffic, while weakening low-frequency visits by stretched households. Dairy cost pressure is less severe than the 2021-2022 inflation shock, but labor, rent, utilities, refrigeration and delivery commissions still squeeze margins. Chain operators are using apps, loyalty, co-branding and delivery to improve utilization beyond peak summer hours.",
+    "whats_growing": "Premium and artisanal scoops, mix-ins, sundaes, shakes, ice cream cakes, vegan and dairy-free bases, low-sugar or higher-protein frozen desserts, limited-time flavors, online ordering, delivery, loyalty apps, tourism-adjacent stores and co-branded snack locations are growing in 2025-2026. The broader US ice cream market's foodservice channel was forecast in 2026 to grow faster than mature retail channels as consumers seek made-to-order, experiential frozen desserts.",
+    "whats_shrinking": "Commodity scoop shops with little differentiation, traffic dependent on low-income discretionary spending, older mall locations, sampling-heavy operations, and formats that cannot manage labor or refrigeration costs are under pressure in 2025-2026. Traditional high-sugar, high-fat products face share pressure from frozen yogurt, plant-based desserts, low-sugar products and supermarket multipacks, while June 2026 BLS data showing ice cream CPI down 1.3% year over year suggests less pricing power than in 2025.",
+    "recent_developments": [
+      "2025: National Restaurant Association projected $1.5 trillion in US restaurant and foodservice sales and 15.9 million restaurant jobs for 2025.",
+      "2025-12: BLS CPI data showed ice cream and related products up 0.8% year over year in December 2025.",
+      "2026-02: National Restaurant Association projected $1.55 trillion in 2026 restaurant and foodservice sales and 1.3% real sales growth.",
+      "2026-05: ScrapeHero reported 2,142 Baskin-Robbins US stores as of May 28, 2026.",
+      "2026-05: Wetzel's Pretzels and Cold Stone Creamery announced co-branded development, including plans for 8 additional units by the end of 2026.",
+      "2026-07: USDA forecast 2026 US milk production of 236.6 billion pounds and a 2026 all-milk price of $20.00 per cwt."
+    ],
+    "outlook": "The 2026-2028 outlook is steady but not high-growth. Baseline projections imply revenue near $5.4 billion by 2027 and about 14,654 establishments, with profit margin improving slightly to 4.5% in 2027. Upside comes from premiumization, warmer summers, travel occasions, customized mix-ins, cakes, plant-based offerings and co-branded locations that spread rent and labor across more dayparts. Downside comes from household budget pressure, uneven restaurant traffic, frozen yogurt's 2026 wellness-driven revival, supermarket promotions and persistent operating costs. Operators with disciplined labor scheduling, strong local marketing and differentiated products should outperform generic scoop shops.",
+    "themes": [
+      "Premiumization",
+      "Customization and mix-ins",
+      "Plant-based and dairy-free options",
+      "Low-sugar and protein-oriented frozen desserts",
+      "Delivery and digital ordering",
+      "Tourism and seasonal demand",
+      "Co-branded snack formats",
+      "Labor productivity",
+      "Dairy-cost volatility",
+      "Value promotions"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/ice-cream-stores.txt",
+      "https://www.grandviewresearch.com/industry-analysis/us-ice-cream-market-report",
+      "https://www.kenresearch.com/industry-reports/united-states-ice-cream-market",
+      "https://www.researchandmarkets.com/reports/4912365/united-states-ice-cream-market-share-analysis",
+      "https://www.restaurant.org/research-and-media/research/research-reports/state-of-the-industry",
+      "https://restaurant.org/research-and-media/media/press-releases/persistent-cost-increases-and-enduring-demand-will-shape-the-restaurant-industry-in-2026/",
+      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/",
+      "https://www.bls.gov/news.release/cpi.htm",
+      "https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "https://www.scrapehero.com/location-reports/Baskin%20Robbins-USA/",
+      "https://www.scrapehero.com/location-reports/Cold%20Stone%20Creamery-USA/",
+      "https://www.dairyqueen.com/en-us/locations/",
+      "https://www.bakemag.com/articles/21575-wetzels-pretzels-and-cold-stone-creamery-set-to-open-co-branded-locations"
+    ],
+    "one_sentence": "US ice cream stores prepare and serve ice cream, gelato, sorbet, shakes, sundaes, cakes and toppings for on-premise, takeout and delivery occasions, with 2026 demand supported by restaurant spending but constrained by value-seeking consumers and competition from packaged, frozen yogurt, coffee and snack formats.",
+    "slug": "ice-cream-stores"
+  },
+  {
+    "title": "Ice Making Machine Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. foodservice-equipment niche selling commercial ice makers into hospitals, restaurants, hotels, grocery stores and convenience channels.",
+    "overview": "This industry manufactures commercial ice cube, flake, nugget, combination and modular ice machines used mainly by healthcare, foodservice, hospitality and retail buyers. The 2022 baseline was a $963.7 million U.S. manufacturing industry growing 1.4% in 2022, with 18 enterprises, 22 establishments and 2,528 employees. By 2025-2026, demand conditions are better than the pandemic period: the National Restaurant Association projected 2025 restaurant sales of $1.5 trillion and 2026 sales of $1.55 trillion, while AHLA projected 2026 hotel guest spending of nearly $805 billion. However, the industry remains mature and exposed to imports, since the 2022 baseline showed $336.7 million of imports and projected imports reaching $431.8 million by 2027.",
+    "key_stats": {
+      "market_size": "2025: about $1.00 billion in U.S. manufacturing revenue, inferred from the 2022 IBISWorld baseline of $963.7 million and its 2022-2027 revenue CAGR forecast of 1.2%.",
+      "growth": "2022-2027: 1.2% CAGR forecast in the baseline; 2025-2035: 3.9% CAGR projected for the broader U.S. commercial refrigeration equipment market by Future Market Insights.",
+      "profit_margin": "2022: 7.4% EBIT margin in the baseline; 2027: 8.2% EBIT margin forecast in the baseline.",
+      "enterprises": "2022: 18 enterprises in the baseline; 2027: 19 enterprises forecast in the baseline.",
+      "employment": "2022: 2,528 employees in the baseline; 2027: 2,643 employees forecast in the baseline.",
+      "imports": "2022: $336.7 million of imports in the baseline; 2027: $431.8 million of imports forecast in the baseline.",
+      "exports": "2022: $67.3 million of exports in the baseline; 2027: $72.4 million of exports forecast in the baseline.",
+      "downstream_markets": "2022: hospitals accounted for 39.2% of industry sales in the baseline; 2025: U.S. restaurant sales were projected at $1.5 trillion; 2026: hotel guest spending was projected at nearly $805 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $963.7 million revenue.",
+      "growth": "2022: 1.4% annual revenue growth; 2017-2022: 0.5% annualized revenue growth.",
+      "profit": "2022: $71.0 million profit and 7.4% EBIT margin.",
+      "industry_gross_product": "2022: $220.0 million.",
+      "establishments": "2022: 22 establishments.",
+      "enterprises": "2022: 18 enterprises.",
+      "employment": "2022: 2,528 employees.",
+      "wages": "2022: $143.5 million wages.",
+      "imports": "2022: $336.7 million.",
+      "exports": "2022: $67.3 million.",
+      "domestic_demand": "2022: $1.233 billion."
+    },
+    "how_it_makes_money": "Manufacturers sell commercial ice machines, dispensers, bins and related equipment through foodservice-equipment dealers, distributors, service networks and direct account relationships. 2022 revenue mix in the baseline was 39.5% not self-contained ice makers, 27.8% combination ice makers, 24.1% self-contained ice cube makers and 8.6% self-contained flake or chip machines. Recurring economics are supported by replacement cycles, parts, service relationships, dealer programs and higher-priced energy-efficient or low-GWP refrigerant models.",
+    "cost_structure": {
+      "materials": "2022: purchases included steel, aluminum, electronics, plastics, compressors, refrigeration components and controls; 2026 steel mill products PPI reached 348.530 in May 2026, up from the 2025 annual average of 298.426, pressuring input costs.",
+      "labor": "2022: wages were $143.5 million, or about 14.9% of 2022 revenue.",
+      "profit": "2022: EBIT profit was 7.4% of revenue; 2027: EBIT margin was forecast at 8.2%.",
+      "freight_and_distribution": "2025-2026: large machines and bins remain freight-sensitive, which partly limits import penetration but raises landed cost volatility for domestic and imported units.",
+      "compliance_and_engineering": "2025-2026: DOE automatic commercial ice maker standards and ENERGY STAR criteria require testing, certification and design investment, especially for energy, water and refrigerant performance.",
+      "automation": "2022-2027: baseline outlook expected labor-saving technologies and facility consolidation to lower manufacturing costs."
+    },
+    "major_players": [
+      "{'name': 'Pentair / Manitowoc Ice', 'position': 'Major U.S. commercial ice maker brand; Manitowoc Ice generated about $308 million of 2021 sales before Pentair acquired it for $1.6 billion on 2022-07-28.'}",
+      "{'name': 'Ali Group / Scotsman Ice Systems / Kold-Draft', 'position': 'Major foodservice-equipment group with Scotsman and Kold-Draft ice brands; Ali completed the Welbilt acquisition on 2022-07-29 and expanded further with BUNN in 2026.'}",
+      "{'name': 'Hoshizaki America', 'position': 'Major U.S. commercial ice machine producer and distributor based in Georgia; in 2025 Hoshizaki acquired a Southeast distributor and planned a 120,000-square-foot Peachtree City warehouse completed in 2025.'}",
+      "{'name': 'Ice-O-Matic', 'position': 'Commercial ice machine brand serving foodservice, hospitality and retail buyers through dealer channels.'}",
+      "{'name': 'Follett Products', 'position': 'Specialist in healthcare, institutional and foodservice ice and beverage dispensing equipment.'}"
+    ],
+    "current_dynamics": "2025-2026 demand is steadier than the 2020-2022 shock period, with restaurant and hotel spending supporting replacement and new-unit purchases. Restaurant demand is still value-sensitive: the National Restaurant Association projected 2026 sales of $1.55 trillion but described the business environment as challenging because operators face high food, labor and occupancy costs. Hotel demand improved in 2026 after a constrained 2025, with AHLA projecting nearly $805 billion of 2026 hotel guest spending and CoStar/Tourism Economics raising the 2026 U.S. hotel RevPAR growth forecast to 2.8% in June 2026. Manufacturers are also responding to refrigerant and efficiency pressures, with Hoshizaki announcing 2025 model upgrades from HFCs to natural refrigerants for 22 cube ice maker models.",
+    "whats_growing": [
+      "2025-2026: replacement demand for energy- and water-efficient machines, supported by ENERGY STAR savings claims for certified batch and continuous commercial ice makers.",
+      "2025-2026: foodservice equipment demand linked to U.S. restaurant sales projected at $1.5 trillion in 2025 and $1.55 trillion in 2026.",
+      "2026: hotel-related demand as AHLA projected nearly $805 billion in hotel guest spending and CoStar/Tourism Economics forecast 2.8% U.S. hotel RevPAR growth.",
+      "2025: natural-refrigerant ice machines, highlighted by Hoshizaki's 22-model cube ice maker transition starting in April 2025.",
+      "2022-2027: imports, forecast in the baseline to rise from $336.7 million in 2022 to $431.8 million in 2027."
+    ],
+    "whats_shrinking": [
+      "2025-2026: legacy HFC equipment demand as buyers and manufacturers shift toward lower-GWP or natural refrigerants.",
+      "2025-2026: low-end replacement budgets at independent restaurants facing higher operating costs and value-driven consumers.",
+      "2022-2027: domestic share of demand, as import share was forecast in the baseline to rise to 31.3% by 2027.",
+      "2025: hotel profitability momentum, since AHLA said rising operating expenses kept 2025 GOPPAR at roughly 90% of 2019 levels.",
+      "2025-2026: margin cushion from steel inputs, as steel mill products PPI rose from a 2025 average of 298.426 to 348.530 in May 2026."
+    ],
+    "recent_developments": [
+      "2025-01-02: Hoshizaki acquired Cannon Marketing's U.S. Southeast distributor business to strengthen sales in North Carolina, South Carolina and eastern Tennessee.",
+      "2025-01-22: Hoshizaki announced 22 upgraded cube ice maker models switching from HFCs to natural refrigerants, with shipments starting in April 2025.",
+      "2025-05-16: DOE published a proposed rule to rescind amended water-use standards for automatic commercial ice makers and return them to the statutory baseline.",
+      "2026-01-27: AHLA projected 2026 hotel guest spending of nearly $805 billion and 2026 hotel taxes of nearly $87 billion.",
+      "2026-02-13: National Restaurant Association projected 2026 restaurant sales of $1.55 trillion despite a challenging cost environment.",
+      "2026-06-01: CoStar and Tourism Economics raised the 2026 U.S. hotel RevPAR growth forecast to 2.8% after stronger early-2026 demand."
+    ],
+    "outlook": "The industry should grow slowly through 2027, broadly tracking the baseline's 1.2% 2022-2027 CAGR rather than the faster growth of the broader commercial refrigeration market. Foodservice and hospitality demand support orders in 2025-2026, and healthcare remains a stable replacement market, but imports, steel volatility and compliance costs limit upside. Product strategy is likely to focus on modular capacity, nugget and specialty ice, touch-free dispensing, energy and water efficiency, IoT/service diagnostics and refrigerant transition. Domestic producers with strong dealer networks, service availability and shorter lead times should defend share better than small producers competing mainly on price.",
+    "themes": [
+      "mature niche manufacturing",
+      "foodservice recovery",
+      "hospital and healthcare demand",
+      "hotel replacement cycles",
+      "import competition",
+      "energy and water efficiency",
+      "natural refrigerants and low-GWP transition",
+      "steel and component cost pressure",
+      "dealer and service network control",
+      "automation and facility consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/ice-making-machine-manufacturing.txt, last updated 2022-02-24.",
+      "https://www.restaurant.org/education-and-resources/resource-library/report-sales-to-hit-%241-55t-in-2026-despite-challenging-business-environment/",
+      "https://go.restaurant.org/SOI2025-PR.html",
+      "https://www.ahla.com/news/ahla-releases-2026-state-industry",
+      "https://www.ahla.com/resource/2026-state-industry",
+      "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q2-2026",
+      "https://www.energy.gov/cmei/buildings/automatic-commercial-ice-makers",
+      "https://www.energystar.gov/products/commercial_ice_makers",
+      "https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Commercial-Ice-Machines/nak5-fsjf",
+      "https://www.hoshizaki.com/en/news/20250122_1",
+      "https://www.hoshizaki.com/en/news/20250106",
+      "https://www.hoshizakiamerica.com/product/0/",
+      "https://investors.pentair.com/news-releases/news-release-details/pentair-completes-transaction-acquire-manitowoc-ice",
+      "https://www.aligroup.com/news/ali-group-completes-acquisition-of-welbilt/",
+      "https://fred.stlouisfed.org/series/WPU1017",
+      "https://www.futuremarketinsights.com/reports/us-commercial-refrigeration-equipment-market"
+    ],
+    "one_sentence": "U.S. ice making machine manufacturers are benefiting from 2025-2026 foodservice and hotel demand recovery, but growth remains modest because imported machines, steel costs and refrigerant-efficiency compliance keep pressure on domestic producers.",
+    "slug": "ice-making-machine-manufacturing"
+  },
+  {
+    "title": "Ice Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, seasonal manufacturing industry where packaged ice demand rises with summer heat, road travel, convenience retail and foodservice traffic, while margins stay thin because ice is heavy, low-priced and costly to refrigerate and deliver.",
+    "overview": "Ice manufacturing is a mature, low-margin US manufacturing niche built around freezing potable water, bagging or packaging it, keeping it in cold storage and moving it through refrigerated delivery networks. The 2020 IBISWorld baseline described industry revenue of $835.0 million in 2020 and a forecast rise to $919.6 million in 2025, equal to 1.9% annualized 2020-2025 growth. Demand is highly seasonal and local: packaged ice sells through grocery stores, convenience stores, gas stations, mass merchants, restaurants, bars, airlines and event channels, while flake, plate, tube and block ice serve food preservation, concrete cooling, construction, industrial processes and emergency response. The 2025-2026 market is being pulled by strong summer travel and convenience-store in-store spending, but constrained by electricity, packaging, labor, fuel and refrigeration costs. Consolidation is the defining structural issue: in February 2026, Reddy Ice closed its Arctic Glacier acquisition after DOJ-required divestitures, combining two large platforms while preserving some regional competition in selected markets.",
+    "key_stats": {
+      "market_size": "$919.6 million US industry revenue in 2025, based on the IBISWorld baseline forecast from $835.0 million in 2020",
+      "growth": "1.9% annualized revenue growth forecast for 2020-2025 in the IBISWorld baseline",
+      "establishments": "415 US employer establishments in NAICS 312113 Ice Manufacturing in 2023 Census Business Patterns",
+      "producer_prices": "BLS/FRED Ice Manufacturing PPI was 330.790 in May 2026, up from 326.169 in January 2026",
+      "industrial_electricity": "US industrial electricity averaged 8.62 cents per kWh in 2025, up from 8.13 cents in 2024",
+      "retail_channel": "US convenience-store foodservice and merchandise sales were $341.2 billion in 2025, up 1.7% from 2024",
+      "foodservice_channel": "US restaurant and foodservice sales were projected at $1.5 trillion in 2025",
+      "travel_driver": "AAA projected 72.2 million US Independence Day travelers in 2025, up 2.4% from 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Approximately $867.0 million in 2022 revenue, derived from the baseline’s $835.0 million 2020 revenue and 1.9% 2020-2025 forecast CAGR",
+      "growth": "Approximately 1.9% 2022 year-over-year growth implied by the baseline 2020-2025 CAGR",
+      "profit_margin": "3.6% profit margin in 2020 baseline, used as the closest stated margin benchmark for the 2022 baseline period",
+      "wages": "$207.0 million wages in 2020 baseline, equal to 24.8% of 2020 revenue"
+    },
+    "how_it_makes_money": "Operators sell packaged ice by the bag or pallet to grocery stores, convenience stores, gas stations, mass merchants, restaurants, bars, airlines, caterers, event venues, emergency services and industrial users. Revenue also comes from direct-store-delivery programs, warehouse supply, private-label or co-packing relationships, in-store bagging machines, cold-storage distribution, and higher-spec products such as craft or premium ice. Most pricing is local or regional because transportation distance quickly erodes margins.",
+    "cost_structure": "The main 2025-2026 cost buckets are electricity for freezing and cold storage, water and sanitation, plastic bags and packaging, labor, refrigerated warehousing, fuel and truck delivery, maintenance on compressors and ice-making equipment, merchandisers/freezers placed at retail sites, insurance and food-safety compliance. The 2020 baseline showed wages of $207.0 million, or 24.8% of revenue, and profit of $30.0 million, or a 3.6% margin. Cost pressure in 2025-2026 is centered on industrial power rates, driver wages, fleet utilization, refrigeration maintenance and packaging inputs.",
+    "major_players": [
+      "Reddy Ice, including Arctic Glacier after the February 2026 closing",
+      "Home City Ice",
+      "Arctic Glacier, now part of Reddy Ice as of 2026",
+      "Columbia Basin Ice and Oregon Ice, regional divestiture buyers in 2026",
+      "San Diego Ice and other regional co-packers",
+      "Hundreds of local single-facility packaged ice manufacturers"
+    ],
+    "current_dynamics": "The market is growing slowly but becoming more concentrated. 2025 demand benefited from record Memorial Day and Independence Day travel, resilient restaurant sales, and continued growth in convenience-store foodservice and packaged beverage traffic. Hot weather remains a volume catalyst, including a June 2025 heatwave affecting more than 100 million people across 726 counties. The operating challenge is that ice is bulky and low-value per pound, so transport, refrigeration and route density matter more than national brand differentiation. In 2026, the Reddy Ice-Arctic Glacier combination increased scale in packaged ice while DOJ divestitures carved out assets and customer contracts in California, Oregon, Washington, New York and Boston-area markets to protect competition.",
+    "whats_growing": "Premium and craft ice, airline and caterer supply, convenience-store and gas-station channels, mass merchant and club-store programs, emergency-response supply, direct-store-delivery route density, co-packing relationships and industrial uses such as food processing and concrete cooling are growing or holding up best in 2025-2026. Demand also rises in hotter regions and during peak travel weeks, especially Memorial Day, July Fourth and Labor Day.",
+    "whats_shrinking": "Standalone small producers without route density, long-haul ice shipments, low-margin commodity bagged ice accounts, undifferentiated regional capacity, and operators exposed to high power or fleet costs are under pressure. Home refrigerator substitution remains a cap on household demand, and weaker discretionary spending can reduce party, event and leisure-use volumes. Imports and exports remain structurally limited because refrigerated transport costs are high relative to product value.",
+    "recent_developments": [
+      "2025-02-06: National Restaurant Association projected US restaurant and foodservice sales of $1.5 trillion in 2025, supporting foodservice ice demand.",
+      "2025-05-12: AAA projected 45.1 million US Memorial Day travelers in 2025, a new record for the holiday period.",
+      "2025-06-20: AAA projected 72.2 million US Independence Day travelers in 2025, up 2.4% from 2024.",
+      "2025-06-22 to 2025-06-25: NOAA reported a late-June 2025 heatwave brought record heat to more than 100 million people across 726 counties.",
+      "2026-01-30: DOJ required Reddy Ice and Arctic Glacier to divest assets in five states to address packaged ice competition concerns.",
+      "2026-02-18: Reddy Ice announced the closing of its Arctic Glacier acquisition, with required facility and customer-contract divestitures."
+    ],
+    "outlook": "The 2026 outlook is for modest revenue growth rather than a demand breakout. Convenience retail, foodservice, travel, events and hotter summer periods should keep volumes steady, while consolidation gives large platforms better procurement, routing, automation and cold-chain utilization. Margins are likely to remain narrow because electricity, fuel, packaging and labor costs absorb much of the pricing upside. The best-positioned operators in 2026 are those with dense regional routes, reliable freezer and merchandiser networks, strong retail-chain contracts, backup capacity during heat events and the ability to produce premium or specialized ice formats. Regulatory scrutiny may remain elevated after the 2026 DOJ action because local packaged ice markets can become concentrated even when national supply appears fragmented.",
+    "themes": [
+      "Seasonal summer demand",
+      "Route density and cold-chain logistics",
+      "Low-margin commodity manufacturing",
+      "Consolidation and antitrust scrutiny",
+      "Convenience-store and foodservice exposure",
+      "Electricity and refrigeration cost pressure",
+      "Premium and craft ice differentiation",
+      "Weather volatility and heatwave demand spikes"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld extract, Ice Manufacturing, last updated Dec. 14, 2020', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/ice-manufacturing.txt'}",
+      "{'title': 'Reddy Ice completes acquisition of Arctic Glacier, Feb. 18, 2026', 'url': 'https://www.reddyice.com/news/reddy-ice-announces-successful-closing-of-the-acquisition-of-arctic-glacier/'}",
+      "{'title': 'DOJ Federal Register notice on Reddy Ice-Arctic Glacier transaction, Feb. 18, 2026', 'url': 'https://regulations.justia.com/regulations/fedreg/2026/02/18/2026-03102.html'}",
+      "{'title': 'US Census Bureau profile for NAICS 312113 Ice Manufacturing, 2023 CBP establishments', 'url': 'https://data.census.gov/profile/312113_-_Ice_Manufacturing?codeset=naics~312113&g=010XX00US'}",
+      "{'title': 'BLS/FRED Producer Price Index by Industry: Ice Manufacturing, updated Jun. 11, 2026', 'url': 'https://fred.stlouisfed.org/series/PCU312113312113'}",
+      "{'title': 'EIA Electric Power Monthly Table 5.3, 2025 electricity prices', 'url': 'https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_03'}",
+      "{'title': 'NACS 2025 convenience-store sales release, Apr. 15, 2026', 'url': 'https://www.convenience.org/stay-current/press-releases/2026-press-releases/u-s-convenience-in-store-sales-top-%24340-billion'}",
+      "{'title': 'National Restaurant Association 2025 State of the Restaurant Industry release, Feb. 6, 2025', 'url': 'https://restaurant.org/research-and-media/media/press-releases/restaurant-industry-poised-for-growth-in-2025-industry-expected-to-employ-15-9-million-people-and-r/'}",
+      "{'title': 'AAA 2025 Independence Day travel forecast, Jun. 20, 2025', 'url': 'https://newsroom.aaa.com/2025/06/july4forecast/'}",
+      "{'title': 'NOAA/NCEI June 2025 US climate assessment', 'url': 'https://www.ncei.noaa.gov/news/national-climate-202506'}"
+    ],
+    "one_sentence": "US ice manufacturers make cubed, crushed, block, flake, tube and plate ice for retail, foodservice, airlines, events, construction and industrial cooling, with 2025 demand supported by record holiday travel and foodservice sales but 2026 competition reshaped by Reddy Ice’s acquisition of Arctic Glacier.",
+    "slug": "ice-manufacturing"
+  },
+  {
+    "title": "Ice Rinks",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented, local facility business recovering on hockey participation and youth programs while energy, labor, refrigerant compliance and redevelopment pressure keep margins tight.",
+    "overview": "The US Ice Rinks industry consists mainly of private, nonprofit and for-profit facilities that operate indoor and seasonal ice surfaces for public skating, hockey, figure skating, training, tournaments, parties and ancillary concessions. The 2022 baseline showed a pandemic-damaged industry at $500.9 million of revenue, followed by a rebound; an August 2025 IBISWorld resale page reported revenue of $585.6 million through the end of 2023. For 2025, current evidence points to a modestly larger but still capacity-constrained market: USA Hockey player registrations reached 577,864 in 2024-25 and 586,002 in 2025-26, while EIA reported 2025 commercial electricity prices at 13.41 cents per kWh, a material pressure for refrigerated facilities. The business remains mature and geographically concentrated around hockey participation, cold-weather states, affluent suburbs, school and club teams, and multi-sport complexes.",
+    "key_stats": {
+      "market_size": "2025 estimate: $610 million US private ice rink operator revenue, inferred from the 2023 IBISWorld figure of $585.6 million and low-single-digit recovery growth",
+      "growth": "2025 estimate: +2.0% year over year; August 2025 IBISWorld resale page reported a 2018-2023 CAGR of -3.4% through $585.6 million in 2023",
+      "employment": "2024 IBISWorld public statistics: 9,243 employees, up 0.2% in 2024",
+      "hockey_participation": "2025-26 USA Hockey: 586,002 registered players, up from 577,864 in 2024-25",
+      "rink_supply_context": "2023-24 IIHF/Statista: 2,601 US ice hockey rinks, including 2,101 indoor and 500 outdoor rinks; this broader count includes facilities outside the private IBIS scope",
+      "electricity_cost_indicator": "2025 EIA: US commercial retail electricity averaged 13.41 cents per kWh",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $500.9 million revenue in 2022 dollars",
+      "growth": "2022: +3.1% annual revenue growth; 2017-2022 CAGR: -4.8%",
+      "profit": "2022: $58 million profit",
+      "profit_margin": "2022: 11.6% EBIT margin",
+      "establishments": "2022: 604 establishments",
+      "enterprises": "2022: 496 enterprises",
+      "employment": "2022: 8,696 employees",
+      "wages": "2022: $229 million wages",
+      "industry_gross_product": "2022: $329 million"
+    },
+    "how_it_makes_money": {
+      "recreation_and_fitness_services": "2022 baseline: 60.0% of revenue from admissions, public skating, memberships and general rink access",
+      "sports_teams_and_tournaments": "2022 baseline: 11.7% from team services, games, tournaments and event support",
+      "equipment_rental_and_resale": "2022 baseline: 7.6% from skate and gear rentals, resale and related services",
+      "food_and_beverage": "2022 baseline: 5.2% from concessions such as snacks, drinks and simple prepared food",
+      "athletic_instruction": "2022 baseline: 5.1% from learn-to-skate, figure skating, hockey and private/group lessons",
+      "facility_rentals": "2022 baseline: 4.0% from private ice rentals, parties, practices and events",
+      "other": "2022 baseline: 6.4% from skate sharpening, games, parties, maintenance services and miscellaneous activities"
+    },
+    "cost_structure": {
+      "largest_costs": "Labor, facility rent or debt service, utilities, refrigeration maintenance, insurance, equipment, concessions inputs and repairs",
+      "labor": "2022 baseline wages were $229 million, equal to about 45.7% of 2022 revenue; staffing pressure remains elevated because rinks need instructors, maintenance staff, event staff and front-desk coverage across long operating hours",
+      "utilities": "2025 electricity is a major pressure point because refrigeration, dehumidification and lighting run for long hours; EIA reported 2025 commercial electricity at 13.41 cents per kWh",
+      "capital_and_maintenance": "Ice plants, chillers, dasher boards, resurfacing equipment and locker-room/building systems require large upfront investment and periodic replacement, making older single-rink facilities vulnerable",
+      "regulatory": "EPA HFC phasedown rules reduce HFC production and consumption to 60% of baseline for 2024-2028 and begin technology-transition restrictions for some refrigeration equipment in 2025, increasing planning pressure for rink refrigeration upgrades",
+      "margin_context": "2022 baseline profit margin was 11.6%, down from 14.9% in 2017; 2025 margins are likely mixed as higher prices and utilization offset wage, utility and repair costs"
+    },
+    "major_players": [
+      "Sports Facilities Companies: became a more visible rink manager in 2025 after assuming management of 13 community ice rinks across 11 states from Rink Management Services",
+      "Rink Management Services: legacy rink operator and manager that retained a smaller leased portfolio after the 2025 SFC deal",
+      "Local nonprofit and community rink operators: the industry remains highly fragmented, with no dominant national revenue-share leader",
+      "Private multi-sport complex operators: growing share of new capacity because they can pair ice sheets with gyms, courts, concessions, sports medicine and event space"
+    ],
+    "current_dynamics": "Demand is healthier than the 2020-2022 trough because organized hockey has recovered, girls' and women's hockey visibility has improved, and families continue to fund youth sports. The strongest operators are filling weekday ice time with clubs, lessons, school programs and tournaments while using weekends for public sessions, parties and events. At the same time, the industry is not a broad consumer boom: rink access is local, participation is expensive, and closures or redevelopment can remove meaningful capacity in a metro area. High commercial electricity prices, aging refrigeration systems and HFC compliance create a widening gap between modern multi-sheet facilities and older mall or standalone rinks.",
+    "whats_growing": [
+      "2024-25 and 2025-26 organized hockey registrations, especially female and youth pipelines",
+      "Multi-sheet and multi-sport complexes that spread fixed ice-plant costs across more programs and amenities",
+      "Women’s hockey visibility after PWHL expansion and Team USA success, which supports girls' participation and lesson demand",
+      "Learn-to-play, learn-to-skate and club rental programs that convert casual skaters into recurring customers",
+      "Energy-efficient refrigeration, low-GWP refrigerants, heat recovery and facility automation"
+    ],
+    "whats_shrinking": [
+      "Older single-sheet rinks with high deferred maintenance and limited ancillary revenue",
+      "Mall-based rinks exposed to redevelopment decisions and non-sport retail priorities",
+      "Seasonal outdoor rink reliability in warmer winters and shoulder seasons",
+      "Casual discretionary visits when families shift spending to travel or lower-cost recreation",
+      "Margins at facilities unable to pass through wage, insurance, utility and repair inflation"
+    ],
+    "recent_developments": [
+      "2025-04-30: PWHL announced Seattle would begin play in the 2025-26 season and train at Kraken Community Iceplex, adding visibility for women’s hockey in a US rink market.",
+      "2025-05-22: Sports Facilities Companies assumed management of 13 community ice rinks across 11 states from Rink Management Services.",
+      "2025-2026: USA Hockey player registrations reached 586,002, up from 577,864 in 2024-25 and 564,468 in 2023-24.",
+      "2025: EIA reported US commercial electricity averaged 13.41 cents per kWh, keeping refrigeration energy costs central to rink economics.",
+      "2026-04-20: Houston’s Ice Skate Memorial City closure plan highlighted redevelopment, energy cost and aging-infrastructure pressure on existing rinks.",
+      "2026-07-30: BEA reported real disposable personal income rose 0.3% in June 2026, a mild support for discretionary recreation spending."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive for operators with strong club relationships, modern refrigeration and enough programming density to keep ice time sold beyond peak public-skating windows. A reasonable 2026 revenue path is low-single-digit growth from the estimated 2025 base, helped by USA Hockey registration gains, PWHL-driven interest in girls' and women's hockey, and continued willingness by higher-income households to pay for youth sports. The downside is facility supply: every closure in a rink-scarce metro area can reduce participation, and older rinks face heavy capital decisions as utility, repair and refrigerant compliance costs rise. Over 2026-2030, the industry should grow fastest through replacement, renovation and multi-use facilities rather than a wave of small independent rink openings.",
+    "themes": [
+      "Youth sports monetization",
+      "Women’s hockey growth",
+      "Energy-intensive recreation",
+      "Aging infrastructure",
+      "Refrigerant transition",
+      "Local capacity scarcity",
+      "Fragmented operators",
+      "Multi-sport complex model"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/ice-rinks.txt",
+      "https://www.researchandmarkets.com/report/united-states-ice-rinks-market",
+      "https://www.usahockey.com/membershipstats",
+      "https://www.usahockey.com/news_article/show/1340900",
+      "https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php",
+      "https://www.epa.gov/hfcs/frequent-questions-phasedown-hydrofluorocarbons",
+      "https://www.sportsbusinessjournal.com/Articles/2025/05/22/sports-facilities-companies-grows-ice-rink-business/",
+      "https://www.thepwhl.com/en/news/2025/april/30/professional-womens-hockey-league-expands-to-seattle",
+      "https://www.bea.gov/data/income-saving/disposable-personal-income",
+      "https://www.click2houston.com/news/local/2026/04/20/save-our-rink-community-protests-to-stop-closure-of-ice-skate-memorial-city/",
+      "https://www.statista.com/statistics/282360/number-of-ice-hockey-rinks-in-the-united-states/"
+    ],
+    "one_sentence": "US ice rink operators earn most revenue from admissions, memberships, ice-time rentals, lessons, tournaments, equipment rental and concessions, with demand tied to household income, youth hockey, figure skating, winter recreation and the availability of nearby rink capacity.",
+    "slug": "ice-rinks"
+  }
+]

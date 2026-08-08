@@ -1,0 +1,386 @@
+[
+  {
+    "title": "Wood Pulp Mills in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US wood pulp mills are export-heavy producers of bleached, unbleached and specialty pulp used in tissue, hygiene, packaging and paper markets.",
+    "overview": "Wood pulp mills manufacture pulp without converting it into paper or paperboard, separating cellulose fibers from wood and other fibrous material for sale to paper, paperboard, tissue, hygiene and specialty cellulose users. The 2021 IBISWorld baseline showed a highly globalized industry, with exports equal to more than 70.0% of revenue and domestic demand partly supplied by imports. By 2025-2026, the market is still tied to global pulp pricing and foreign demand, but the mix is shifting toward fluff pulp, tissue, absorbent products and packaging while printing-writing paper continues to contract.",
+    "key_stats": {
+      "market_size": "$8.2 billion in 2025 estimated US industry revenue",
+      "growth": "1.5% in 2025 estimated revenue growth",
+      "ppi": "BLS/FRED wood pulp PPI was 204.086 in June 2026, index 1982=100",
+      "export_price_index": "BLS/FRED chemical woodpulp export price index averaged about 97.8 in 2025 and was 90.3 in May 2026, index Dec. 2022=100",
+      "downstream_production": "US paper and paperboard production declined 3.7% in 2025 to 66.3 million tons",
+      "fiber_consumption": "US wood pulp consumption used to make paper and paperboard declined 3.2% in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$8.3 billion in 2022 estimated industry revenue",
+      "growth": "22.6% in 2022 estimated revenue growth from 2021 baseline revenue of $6.803 billion",
+      "context": "Estimate derived from the 2025 IBISWorld resale summary stating 2023 revenue of $7.9 billion after a 5.3% decline and the 2022 baseline file showing 2021 revenue of $6.803 billion."
+    },
+    "how_it_makes_money": "Mills sell market pulp, fluff pulp, bleached sulfate pulp, unbleached sulfate pulp, mechanical and semimechanical pulp to domestic and foreign converters. Revenue depends on pulp selling prices, export volumes, downstream paper and packaging output, and demand from tissue, diaper, feminine care, incontinence, paperboard and specialty cellulose applications.",
+    "cost_structure": {
+      "materials_and_fiber": "Largest 2025 cost bucket; includes pulpwood, chips, recycled fiber, chemicals and process inputs.",
+      "energy_and_utilities": "High 2025 exposure because pulping is steam-, electricity- and water-intensive.",
+      "labor": "2021 baseline wages were $845 million, equal to about 12.4% of 2021 revenue.",
+      "distribution": "Material 2025 cost because export-heavy pulp moves by rail, truck, port and ocean freight.",
+      "depreciation_and_maintenance": "Significant 2025 fixed cost due to capital-intensive digesters, recovery boilers, environmental controls and mill conversions.",
+      "profit": "2021 baseline EBIT margin was 5.1%; 2026 baseline forecast was 5.2%, but 2025-2026 margins vary sharply by grade and mill utilization."
+    },
+    "major_players": [
+      "Global Cellulose Fibers, independent since AIP acquired International Paper's GCF business in January 2026",
+      "Rayonier Advanced Materials",
+      "Domtar",
+      "Georgia-Pacific",
+      "WestRock / Smurfit Westrock",
+      "Clearwater Paper"
+    ],
+    "current_dynamics": "The strongest structural demand is in fluff pulp and absorbent applications, while tissue and packaging provide steadier volume than printing-writing paper. Export exposure remains central, but 2025-2026 pricing signals are mixed: wood pulp PPI rose into June 2026, while the chemical woodpulp export price index fell from 2025 highs into 2026. Capacity is being reshuffled as large integrated paper companies exit noncore pulp assets, idle weaker mills and focus capital on packaging or specialty cellulose.",
+    "whats_growing": "Fluff pulp for diapers, feminine care and incontinence products; specialty cellulose for filters, food, pharmaceuticals, high-performance plastics and industrial additives; packaging-related pulp demand; biomaterials and pulp byproducts such as lignin, tall oil soap, bioenergy and turpentine.",
+    "whats_shrinking": "Printing-writing paper pulp demand, office paper-linked volumes, lower-return commodity cellulose capacity, and high-cost or underutilized pulp mills. AF&PA reported 2025 printing-writing capacity fell 13.9% to 7.7 million tons, while overall US paper and paperboard production declined 3.7%.",
+    "recent_developments": [
+      "2025-07-30: IBISWorld's updated report summary said industry revenue totaled $7.9 billion in 2023 after a 5.3% drop.",
+      "2025-08-20: International Paper agreed to sell its Global Cellulose Fibers business to American Industrial Partners for $1.5 billion.",
+      "2026-01-23: International Paper completed the GCF sale; the sold operations generated about $2.3 billion of 2024 revenue excluding closed mills.",
+      "2026-03-24: Domtar announced the indefinite idling of its Coosa Pines pulp mill for a period expected to exceed one year.",
+      "2026-05-29: AF&PA reported US 2025 paper and paperboard production declined 3.7% to 66.3 million tons and wood pulp fiber consumption fell 3.2%.",
+      "2026-06-15: BLS/FRED showed the May 2026 chemical woodpulp export price index at 90.3, below the 2025 average of about 97.8."
+    ],
+    "outlook": "Revenue should be roughly flat to modestly positive through 2026 if higher domestic pulp prices offset weaker paper-grade volume and softer export pricing. Fluff pulp, hygiene, tissue and specialty cellulose should outperform, while printing-writing and marginal commodity pulp capacity remain likely targets for downtime, idling or sale. The main risks are global pulp price volatility, tariffs and trade friction, energy costs, environmental compliance costs and a stronger US dollar hurting exports.",
+    "themes": [
+      "Export dependence",
+      "Fluff pulp and hygiene demand",
+      "Packaging substitution from plastic",
+      "Printing-writing paper decline",
+      "Mill rationalization and asset sales",
+      "Commodity price volatility",
+      "Specialty cellulose and biomaterials",
+      "Energy and environmental compliance"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/wood-pulp-mills-in-the-us.txt",
+      "https://www.marketresearch.com/IBISWorld-v2487/Wood-Pulp-Mills-Research-41925059/",
+      "https://www.afandpa.org/news/2026/afpa-releases-66th-annual-paper-industry-capacity-and-fiber-consumption-survey",
+      "https://fred.stlouisfed.org/series/WPU0911",
+      "https://fred.stlouisfed.org/series/ID4703",
+      "https://internationalpaper2022rd.q4web.com/news/news-details/2026/International-Paper-Completes-Sale-of-Global-Cellulose-Fibers-Business-to-American-Industrial-Partners-AIP/default.aspx",
+      "https://americanindustrial.com/portfolio/global-cellulose-fibers/",
+      "https://www.sec.gov/Archives/edgar/data/1381531/000119312526131800/ck0001381531-20251231.htm",
+      "https://investors.ryam.com/",
+      "https://www.census.gov/naics/?details=322110&input=322110&year=2022"
+    ],
+    "one_sentence": "The industry remains mature and volatile, with 2025 demand supported by tissue, fluff pulp and packaging uses but pressured by weaker paper grades, softer export prices and capacity rationalization.",
+    "slug": "wood-pulp-mills-in-the-us"
+  },
+  {
+    "title": "Woodworking Machinery Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US woodworking machinery makers are a small, import-exposed manufacturing niche tied closely to sawmills, cabinetry, furniture, housing starts and wood-product capital spending.",
+    "overview": "This industry manufactures machinery used to process wood and related hard materials, including sawmill equipment, lathes, planers, molders, routers, sanding machinery, CNC woodworking systems, panel-processing lines, parts and accessories. The 2021 IBISWorld baseline described a mature, low-concentration industry with high import penetration and demand tied to residential construction, nonresidential construction, sawmills, millwork, cabinetry, furniture and home-improvement channels. Current 2025 data show a larger nominal market than the 2021 baseline, but the near-term cycle is negative: IBISWorld reported a 2025 market size of $1.5 billion, down 2.0% in 2025 after a 2.6% decline in 2024, while Germany Trade & Invest reported that weak housing and trade conflict pushed the sector into a 2025 downturn.",
+    "key_stats": {
+      "market_size": "2025: $1.5 billion",
+      "growth": "2025: -2.0% nominal market-size growth",
+      "five_year_trend": "2020-2025: +2.3% CAGR per IBISWorld market-size page",
+      "businesses": "2025: 243 businesses, up 13.6% in 2025 per IBISWorld",
+      "employment": "2025: about 3,500 employees in the woodworking machinery market per GTAI/IBISWorld summary",
+      "import_indicator": "2024: US imports of woodworking machine tools and wood-panel presses fell 3%; 2025 Jan-Jul: imports fell another 4% per GTAI citing USITC",
+      "downstream_base": "2024: wood and wood-processing customer sectors totaled about $208.6 billion of revenue, 737,600 employees and 97,700 businesses per GTAI/IBISWorld summary",
+      "housing_indicator": "2026-06: US housing starts were 1.427 million SAAR, up 3.5% from 2025-06, while permits were 1.367 million SAAR, down 2.3% from 2025-06",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $0.79 billion implied from the Dec. 2021 IBISWorld baseline forecast after 2021 revenue of $794.3 million and a 2021-2026 projected CAGR of -0.8%",
+      "growth": "2022: about -0.8% forecast growth implied by the Dec. 2021 IBISWorld outlook",
+      "context": "2021 baseline: $794.3 million revenue, $39.0 million profit, 4.9% profit margin, 179 enterprises, 191 establishments, 3,601 employees, $120.1 million exports, $1.862 billion imports and $2.536 billion domestic demand in 2021 dollars"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from sales of industrial sawmill lines, woodworking and panel-processing machines, CNC routers, planers, molders, sanders, lathes, edgebanders, replacement parts, accessories, installation, training, maintenance and aftermarket service. Large-ticket demand comes from sawmills, cabinet and millwork plants, furniture makers, wood panel producers, wholesalers and contractors; smaller machines and parts flow through distributors and home-improvement channels.",
+    "cost_structure": "The 2021 baseline showed a machinery-manufacturing cost profile with 2021 profit at 4.9% of revenue and 2021 wages at $220 million. Major cost buckets are steel and fabricated metal components, motors, bearings, electronics, CNC controls, purchased subassemblies, skilled labor, engineering, freight, warranty, field service and dealer or distributor support. In 2025-2026, tariff exposure on steel, aluminum, imported machinery and wood-product demand increased landed costs and working-capital risk, while automation content raised the share of software, controls and technical support in total cost.",
+    "major_players": [
+      "Stiles Machinery / HOMAG Group",
+      "SCM North America / SCM Group",
+      "Biesse America / Biesse Group",
+      "Wood-Mizer",
+      "Timesavers",
+      "Oliver Machinery",
+      "Michael Weinig / Weinig Holz-Her USA",
+      "IMA Schelling Group"
+    ],
+    "current_dynamics": "The 2025 market is being squeezed from both sides: downstream sawmills and wood processors are cautious after 2021-2022 capacity additions, while builders and remodelers face high financing costs and elevated input costs. IBISWorld reported the 2025 market at $1.5 billion with a 2.0% nominal decline, and GTAI judged 2026 revenue likely to fall again because the 2025 trade conflict and weak housing had not cleared. Demand is stronger where customers need automation to offset labor shortages, improve yield and run batch-one cabinet or furniture production, but weaker for discretionary capacity additions tied to single-family housing and imported low-cost machinery.",
+    "whats_growing": "Automation, CNC machining, panel-processing cells, edgebanding, scanning/optimization systems, digital workflow software, aftermarket service, parts, rebuilds and productivity upgrades are growing in relevance. In 2025, automatic machines were identified as the largest US woodworking machinery operation segment by Grand View Research, and in 2026 Biesse highlighted a $25 million automated cabinet-production investment in Minnesota with more than a 400% capacity increase.",
+    "whats_shrinking": "New-capacity purchases tied to single-family homebuilding, smaller cabinet shops with financing constraints, imported low-end machines from China, and discretionary machinery upgrades are shrinking or being delayed. GTAI reported that US imports of woodworking machine tools and wood-panel presses fell 3% in 2024 and another 4% in 2025 Jan-Jul, with China-origin deliveries down 30% in 2025 Jan-Jul and German deliveries down 10% in 2025 Jan-Jul.",
+    "recent_developments": [
+      "2025-06: IBISWorld reported 2025 US woodworking machinery manufacturing market size at $1.5 billion, down 2.0% in 2025.",
+      "2025-09-29: The White House announced Section 232 tariffs of 10% on softwood timber and lumber and 25% on certain upholstered furniture, kitchen cabinets and vanities.",
+      "2025-10-14: US Section 232 wood-product tariffs took effect, raising cost and demand uncertainty for downstream wood-product customers.",
+      "2025-11-13: GTAI reported the US woodworking and furniture machinery market was in downturn, with 2024 imports down 3% and 2025 Jan-Jul imports down 4%.",
+      "2025-12-31: The White House delayed planned 2026 increases on upholstered furniture, kitchen cabinets and vanities for one year, keeping the 25% tariff in place.",
+      "2026-07-17: Census reported 2026-06 housing starts at 1.427 million SAAR, 3.5% above 2025-06, but permits at 1.367 million SAAR, 2.3% below 2025-06."
+    ],
+    "outlook": "The 2026 outlook is cautious. Replacement demand, automation and service revenue should support resilient players, but new-machine orders are likely to remain uneven until housing, wood-product margins and tariff rules stabilize. The best positioned manufacturers and distributors are those with strong service networks, domestic assembly or parts availability, automation expertise and exposure to sawmills, mass timber, cabinetry and larger industrial wood processors. Smaller producers face pressure from import competition, customer consolidation and higher component costs.",
+    "themes": [
+      "Housing-cycle sensitivity",
+      "Import competition",
+      "Tariff and trade-policy volatility",
+      "Automation and labor substitution",
+      "Sawmill and cabinet-shop capital spending",
+      "Aftermarket service and parts resilience",
+      "Domestic assembly and supply-chain localization",
+      "Mature fragmented manufacturing niche"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/woodworking-machinery-manufacturing-in-the-us.txt",
+      "https://www.ibisworld.com/united-states/market-size/woodworking-machinery-manufacturing/680/",
+      "https://www.ibisworld.com/industry-statistics/number-of-businesses/woodworking-machinery-manufacturing-united-states/",
+      "https://www.gtai.de/de/trade/usa/branchen/holzbearbeitungsmaschinen-1805204",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative-products-e810/",
+      "https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-adjusts-imports-of-timber-lumber-and-their-derivative-products-into-the-united-states/",
+      "https://www.bls.gov/iag/tgs/iag333.htm",
+      "https://stilesmachinery.com/about/",
+      "https://www.scmgroup.com/en_US/scmwood/company/scm-north-america",
+      "https://biesse.com/ww/en/hansen-and-company-woodworks/",
+      "https://www.grandviewresearch.com/horizon/outlook/woodworking-machinery-market/united-states"
+    ],
+    "one_sentence": "In 2025, the US woodworking machinery manufacturing market was about $1.5 billion and declined 2.0% as weak housing, tariff uncertainty and falling machine imports offset automation demand from sawmills, cabinet shops and furniture producers.",
+    "slug": "woodworking-machinery-manufacturing-in-the-us"
+  },
+  {
+    "title": "Workers' Compensation & Other Insurance Funds in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "State, employer, union, and association insurance funds collect premiums and invest reserves to cover workers' compensation and other sponsor-specific P&C risks.",
+    "overview": "This industry covers legal insurance funds, excluding pension and health-and-welfare funds, organized to insure a sponsor, firm, employees, or members; it includes workers' compensation insurance funds and self-insurance funds. Demand is tied to payroll, employment, workplace injury exposure, statutory coverage requirements, and the availability of private-market coverage. The 2022 IBISWorld baseline described a post-COVID rebound from 2021 revenue of $51.4 billion and projected 2026 revenue of $56.5 billion. Current 2025–2026 workers' compensation data show a mature, softening market: NCCI reported 2025 total workers' compensation net written premium of $45.6 billion including state funds, 2025 premium growth of -0.2%, and a 2025 combined ratio of 91%.",
+    "key_stats": {
+      "market_size": "2026 estimated revenue: $56.5 billion for Workers' Compensation & Other Insurance Funds in the US, based on the 2022 IBISWorld baseline projection.",
+      "growth": "2021–2026 projected CAGR: 1.86% in the 2022 IBISWorld baseline; 2025 workers' compensation net written premium growth: -0.2% according to NCCI.",
+      "workers_comp_premium": "2025 total workers' compensation net written premium: $45.6 billion including state funds; 2025 private-carrier net written premium: $41.6 billion according to NCCI.",
+      "profitability": "2025 private-carrier workers' compensation combined ratio: 91%, marking 2025 as the twelfth consecutive underwriting-gain year according to NCCI.",
+      "reserves": "2025 workers' compensation reserve position: $14 billion redundant according to NCCI.",
+      "claims": "2025 lost-time claim frequency declined 2%, while 2025 medical severity and 2025 indemnity severity each increased 4% according to NCCI.",
+      "residual_market": "2025 NCCI-serviced residual market premium was about $640 million, and the 2025 residual market share was about 5%.",
+      "employment_driver": "2025 payroll increased about 5%, with less than 1% from employment growth and most growth from wages, according to NCCI.",
+      "workplace_safety": "2024 fatal work injuries totaled 5,070, down 4.0% from 2023, according to BLS.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $52.4 billion, derived from the 2022 IBISWorld baseline's 2021 revenue of $51.4 billion and 2021–2026 projected CAGR of 1.86%.",
+      "growth": "2022 estimated annual growth: about 1.9%, consistent with the 2022 IBISWorld baseline 2021–2026 projected CAGR of 1.86%.",
+      "context": "The 2022 IBISWorld baseline reported 2021 revenue of $51.4 billion, 2021 profit of $3.0 billion, 2021 profit margin of 5.8%, 2021 employment of 33,301, and 2026 projected revenue of $56.5 billion."
+    },
+    "how_it_makes_money": "Funds earn money primarily from employer premiums, member or sponsor contributions, assessments, policy fees, and investment income on reserves. Workers' compensation premiums are usually payroll-linked, adjusted by class codes, experience modifiers, state rates, dividends, reinsurance, and safety credits. Investment income is strategically important because claim payments can occur over many years after policies are written.",
+    "cost_structure": "The largest 2025 cost buckets are incurred losses, medical and indemnity benefits, loss adjustment expenses, underwriting and administrative expenses, safety and claims-management services, reinsurance, state assessments, taxes, licenses, and policyholder dividends. NCCI's 2025 combined ratio of 91% implies a 2025 underwriting gain of 9 percentage points before investment income; NCCI also reported a 2025 investment gain ratio of 9%, producing an 18% pretax operating gain for workers' compensation.",
+    "major_players": [
+      "State Compensation Insurance Fund of California: 2025 net premiums earned were $956 million, 2025 combined ratio was 87.4%, and 2025 net investment income was $644 million.",
+      "New York State Insurance Fund: in 2026, New York reported NYSIF had returned more than $700 million to policyholders over the prior year through dividends and discount programs, and more than $2.8 billion under the current governor's leadership.",
+      "SAIF Corporation: in 2025, SAIF served more than 53,000 policyholders, processed nearly 37,000 claims, provided benefits to nearly 61,000 people, and returned $50 million to policyholders through a 2025 dividend.",
+      "Texas Mutual Insurance Company: in 2025, Texas Mutual announced $330 million in general dividends and more than $1 billion in dividends over the 2023–2025 period.",
+      "North Dakota Workforce Safety & Insurance: in 2026 reporting, North Dakota WSI was described as operating with a $1.2 billion surplus."
+    ],
+    "current_dynamics": "The 2025–2026 market is defined by strong underwriting profitability but weaker top-line momentum. Employers' insured payrolls are still expanding because wages are rising, but hiring slowed sharply in 2025 and workers' compensation rates remain under competitive pressure. Claim frequency continues to decline, supporting profitability, while 2025 medical and indemnity severity increases of 4% each are beginning to pressure loss trends. Investment income remains material because higher yields support reserve portfolios, but lower premium volume and policyholder dividends limit revenue growth for funds.",
+    "whats_growing": "Wage-driven payroll exposure grew about 5% in 2025, health care and social assistance employment remained the main 2025 job-growth contributor, investment income remained meaningful in 2025, and safety, return-to-work, analytics, online training, pharmacy-first-fill, and claims automation programs are expanding as funds compete on loss prevention and service quality.",
+    "whats_shrinking": "Workers' compensation pricing, residual-market volume, claim frequency, and premium volume are shrinking. NCCI reported 2025 workers' compensation net written premium down 0.2%, 2025 private-carrier direct written premium down 1.8%, 2025 lost-time claim frequency down 2%, and 2025 NCCI-serviced residual-market premium near $640 million after a long decline from the 2015 peak near $1.15 billion.",
+    "recent_developments": [
+      "2025-04-17: OSHA released 2024 workplace injury and illness data from 370,000 Form 300A reports and more than 732,000 partial Form 300/301 records.",
+      "2025-05-14: NCCI reported 2024 workers' compensation net written premium decreased 3% and the 2024 calendar-year combined ratio was 86%.",
+      "2025-10-08: NCCI finalized 2024 private-carrier workers' compensation net written premium at $41.6 billion, down 3.2% from 2023, with a 2024 combined ratio of 86.1%.",
+      "2026-02-19: BLS reported 2024 fatal work injuries of 5,070, down 4.0% from 2023, with a 2024 fatality rate of 3.3 per 100,000 full-time equivalent workers.",
+      "2026-05-12: NCCI reported 2025 workers' compensation net written premium down 0.2%, a 2025 combined ratio of 91%, and a 2025 reserve redundancy of $14 billion.",
+      "2026-07-15: New York announced an average 22% reduction in workers' compensation premium rates for 2026, estimating more than $1.0 billion in employer savings."
+    ],
+    "outlook": "Revenue growth through 2026 is modest rather than cyclical-boom driven. The 2022 IBISWorld baseline projected 2026 revenue of $56.5 billion and a 2021–2026 CAGR of 1.86%. Current 2025–2026 data support a cautious outlook: wage inflation helps payroll-based premiums, but slow hiring, soft commercial insurance pricing, rate reductions, and shrinking residual-market share restrain premium growth. Profitability should remain favorable in 2026 if claim frequency keeps declining and reserves remain redundant, but the margin cushion narrows if 2025 medical and indemnity severity growth persists.",
+    "themes": [
+      "Payroll-linked demand",
+      "Soft workers' compensation pricing",
+      "State-fund dividends and policyholder refunds",
+      "Declining claim frequency",
+      "Rising medical and indemnity severity",
+      "Reserve redundancy",
+      "Investment-income dependence",
+      "Residual-market contraction",
+      "Safety and return-to-work technology",
+      "State regulatory rate cuts"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': \"IBISWorld baseline file: Workers' Compensation & Other Insurance Funds in the US\", 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/workers-compensation-and-other-insurance-funds-in-the-us.txt', 'year': '2022'}",
+      "{'title': 'NCCI 2026 State of the Line Guide', 'url': 'https://www.ncci.com/SecureDocuments/SOLGuide_2026.html', 'year': '2026'}",
+      "{'title': 'NCCI State of the Line Report', 'url': 'https://www.ncci.com/Articles/Pages/Insights-AIS2026-SOTL-Report.aspx', 'year': '2026'}",
+      "{'title': 'NCCI 2025 in Sight, 2024 in Review', 'url': 'https://www.ncci.com/Articles/Pages/Insights-2025-in-Sight-2024-in-Review.aspx', 'year': '2025'}",
+      "{'title': 'BLS Injuries, Illnesses, and Fatalities', 'url': 'https://www.bls.gov/iif/', 'year': '2026'}",
+      "{'title': 'OSHA 2024 injury and illness data release', 'url': 'https://www.osha.gov/news/newsreleases/osha-trade-release/20250417', 'year': '2025'}",
+      "{'title': 'U.S. Census Bureau 2022 NAICS 525190 definition', 'url': 'https://www.census.gov/naics/?details=525190&input=525190&year=2022', 'year': '2026'}",
+      "{'title': \"State Compensation Insurance Fund of California 2025 President's Letter\", 'url': 'https://www.statefundca.com/about/2025-annual-report/2025-presidents-letter/', 'year': '2026'}",
+      "{'title': 'SAIF 2025 Annual Report', 'url': 'https://www.saif.com/aboutsaif/publications/annual-report-2025.html', 'year': '2026'}",
+      "{'title': 'Texas Mutual 2025 Year in Review', 'url': 'https://www.texasmutual.com/abouttxm/2025-year-in-review', 'year': '2026'}",
+      "{'title': 'New York Department of Financial Services premium savings announcement', 'url': 'https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260715', 'year': '2026'}"
+    ],
+    "one_sentence": "The industry remains profitable in 2025–2026 because payroll-based premiums and investment income are offsetting soft workers' compensation pricing, slower hiring, and rising medical and indemnity claim severity.",
+    "slug": "workers-compensation-and-other-insurance-funds-in-the-us"
+  },
+  {
+    "title": "Wound Care Product Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US wound care manufacturers are shifting from commodity bandages toward advanced dressings, biologics and negative-pressure systems as aging, diabetes and outpatient surgery expand demand.",
+    "overview": "IBISWorld's 2022 baseline described a mature but innovation-heavy US manufacturing niche with $2.533B of 2021 revenue and a 2021-2026 projected CAGR of about 2.3%, supported by healthcare utilization, private insurance coverage, Medicare and Medicaid funding, and growth in adults aged 65 and older. By 2025-2026, demand is still being pulled by chronic wounds, diabetes, surgical-site management and pressure-injury prevention, while growth is concentrated in higher-value advanced dressings, active wound care, skin substitutes and negative-pressure wound therapy rather than low-margin traditional gauze and adhesive products.",
+    "key_stats": {
+      "market_size": "$2.84B 2026E US manufacturing revenue, estimated from the IBISWorld 2021 base of $2.533B and its 2021-2026 2.3% CAGR projection.",
+      "growth": "2.3% 2021-2026E CAGR for US wound care product manufacturing in the IBISWorld baseline; broader global advanced wound care was valued at $13.32B in 2025 and forecast to grow 6.52% annually during 2026-2034 by Fortune Business Insights.",
+      "profit_margin": "6.5% 2026E EBIT margin in the IBISWorld baseline, down from 8.1% in 2021 as reimbursement, commodity and import pressure offset high-value product mix.",
+      "establishments": "About 108 US enterprises and 5,813 employees in 2026E in the IBISWorld baseline.",
+      "demand_indicators": "US national health expenditures were $5.3T in 2024 and CMS projected 5.4% average annual NHE growth for 2025-2034; the US age-65-plus population reached 61.2M in 2024; CDC estimated 40.1M Americans had diabetes in 2023.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.59B 2022E US manufacturing revenue, estimated by applying the IBISWorld 2021-2026 2.3% CAGR to the $2.533B 2021 baseline.",
+      "growth": "2.3% 2022E annual growth implied by the IBISWorld 2021-2026 projection.",
+      "product_mix_2021": "Advanced wound care 46.0% of 2021 revenue, traditional wound care 40.6%, active wound care 13.4%.",
+      "trade_2021": "Imports were $1.340B in 2021 and exports were $721M in 2021 in the IBISWorld baseline.",
+      "profit_2021": "$205M profit and 8.1% profit margin in 2021 in the IBISWorld baseline."
+    },
+    "how_it_makes_money": "Manufacturers sell sterile and non-sterile wound products through hospital contracts, group purchasing organizations, medical-surgical distributors, pharmacies, home-health suppliers and direct sales teams. Revenue comes from high-volume traditional consumables such as bandages and dressings, higher-margin advanced dressings such as foams, films, hydrogels, hydrocolloids and antimicrobial products, active products such as collagen and skin substitutes, and device-linked recurring consumables for negative-pressure wound therapy.",
+    "cost_structure": "The 2021-2026 baseline cost profile is materials-heavy, with nonwoven fabrics, adhesives, films, foams, hydrogel inputs, packaging, sterilization, device components and biologic inputs driving purchases. Wages were $440M in 2021, equal to about 17.4% of 2021 revenue, while profit was 8.1% of 2021 revenue. By 2025, large operators reported pressure from tariffs, logistics, inflation and supply-agreement markups, partly offset by pricing, procurement savings, manufacturing productivity and mix shift toward advanced products.",
+    "major_players": [
+      "Solventum",
+      "Smith+Nephew",
+      "Mölnlycke Health Care",
+      "Convatec",
+      "Coloplast",
+      "Medline Industries",
+      "Cardinal Health",
+      "Integra LifeSciences"
+    ],
+    "current_dynamics": "The competitive map changed after 3M spun off Solventum in 2024, making Solventum the visible public-company home for V.A.C. negative-pressure therapy, advanced dressings, skin care and tissue matrices. In 2025, Solventum reported $1.883B of advanced wound care sales globally, and Smith+Nephew reported $1.793B of Advanced Wound Management revenue with 5.6% underlying growth. Hospitals and payers are still pushing cost per episode down, but manufacturers are defending pricing with clinical evidence around faster healing, fewer dressing changes, fewer readmissions and movement of care into outpatient and home settings.",
+    "whats_growing": "Advanced wound dressings, foam dressings, films, antimicrobial products, collagen and biologic matrices, skin substitutes with clear reimbursement economics, single-use and portable negative-pressure wound therapy, pressure-injury prevention tools, and products tailored to ambulatory surgery centers and home-health use are growing in 2025-2026.",
+    "whats_shrinking": "Commodity dry bandages, generic gauze, basic adhesive dressings and other traditional products are losing share to imports and private-label competition. Some skin-substitute revenue is shrinking or becoming more volatile in 2025-2026 as Medicare contractors and CMS tighten coding, utilization and payment rules.",
+    "recent_developments": [
+      "2024-04-01: 3M completed the spin-off of Solventum, separating major wound care and negative-pressure therapy assets into a standalone public company.",
+      "2024-09-10: Solventum launched an all-in-one extended-wear V.A.C. dressing for negative-pressure wound therapy.",
+      "2025-12-31: Solventum reported 2025 advanced wound care net sales of $1.883B, up from $1.835B in 2024.",
+      "2025-12-31: Smith+Nephew reported 2025 Advanced Wound Management revenue of $1.793B, up 6.7% reported and 5.6% underlying.",
+      "2026-01-01: CMS rules shifted most skin substitutes away from ASP-based biologic reimbursement toward incident-to supply classification with flat per-square-centimeter payment."
+    ],
+    "outlook": "The US manufacturing outlook is modest but positive through 2026, with the IBISWorld baseline pointing to about $2.84B of 2026 revenue and 2.3% annualized 2021-2026 growth. Demand should keep rising with aging, diabetes, surgeries and chronic-wound prevalence, but domestic producers will need advanced products, evidence generation, reimbursement navigation and supply-chain productivity to offset imports, payer scrutiny and input-cost pressure.",
+    "themes": [
+      "Aging population",
+      "Diabetes and chronic wounds",
+      "Advanced dressings over traditional gauze",
+      "Negative-pressure wound therapy",
+      "Skin-substitute reimbursement reset",
+      "Hospital-to-outpatient shift",
+      "Import competition",
+      "MedTech consolidation",
+      "Clinical evidence and cost-of-care claims",
+      "Tariffs and supply-chain costs"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/wound-care-product-manufacturing.txt",
+      "https://news.3m.com/2024-04-01-3M-Completes-Spin-off-of-Solventum",
+      "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000007/solv-20251231.htm",
+      "https://www.smith-nephew.com/en/who-we-are/investors/annual-report-2025",
+      "https://www.convatecgroup.com/siteassets/investors/213800ls272l4fidoh92-2025-12-31.html",
+      "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56696",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.cdc.gov/diabetes/php/data-research/index.html",
+      "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html",
+      "https://www.fortunebusinessinsights.com/industry-reports/advanced-wound-care-market-100060"
+    ],
+    "one_sentence": "The industry makes bandages, dressings, hydrogels, foams, skin substitutes, collagen products and negative-pressure wound therapy consumables for hospitals, clinics, surgery centers, home-care channels and medical supply distributors.",
+    "slug": "wound-care-product-manufacturing"
+  },
+  {
+    "title": "X-Ray Machine Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, capital-intensive medical imaging equipment niche is being lifted by digital radiography, AI workflow tools and replacement demand, while hospital cost pressure and tariffs constrain margins.",
+    "overview": "The industry manufactures diagnostic X-ray machines, X-ray/CT systems, parts, accessories and other irradiation devices used in medical, dental, veterinary, industrial and research applications. The 2021 IBIS baseline put US industry revenue at $10.6 billion and projected a post-COVID replacement-cycle rebound to $11.6 billion by 2026. Current 2025-2026 signals are mixed but constructive: hospital and outpatient volumes are rising, digital X-ray adoption remains strong, and leading OEMs are embedding automation and AI into imaging platforms, while customers face high financing costs, constrained capital budgets, tariff expense and radiology labor shortages.",
+    "key_stats": {
+      "market_size": "$11.6 billion in 2026 estimated US industry revenue, based on the IBIS 2021-2026 projection for X-Ray Machine Manufacturing; broader NAICS 334510 electromedical apparatus employer-firm sales were $45.5 billion in 2023, so this X-ray-specific figure is a narrower subset estimate.",
+      "growth": "+1.9% CAGR in 2021-2026 for the IBIS US industry projection; the US medical X-ray market was valued at $3.62 billion in 2022 and projected at +5.3% CAGR to 2030, while the US digital X-ray market was estimated at $4.95 billion in 2025 and projected at +7.9% CAGR to 2030.",
+      "profit_margin": "5.7% of revenue in 2021 baseline; 2025 OEM segment margins were pressured by tariffs and mix, with GE HealthCare Imaging EBIT margin at 10.4% in Q4 2025 and Siemens Healthineers Imaging adjusted EBIT margin at 20.6% in Q4 FY2025.",
+      "establishments": "129 establishments in 2021 baseline, projected to decline modestly through 2026 as scale, regulatory compliance and R&D intensity favor large OEMs.",
+      "exports": "$3.0 billion in 2021 baseline, projected to decline to $2.7 billion by 2026 as domestic demand absorbs more output and global trade stays volatile.",
+      "imports": "$3.2 billion in 2021 baseline, projected to decline to $3.0 billion by 2026, with import share of domestic demand projected to fall from 29.5% in 2021 to 25.0% in 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$10.8 billion in 2022 estimated US industry revenue, derived from the IBIS 2021 revenue base of $10.6 billion and its +1.9% 2021-2026 CAGR projection.",
+      "growth": "+1.9% estimated 2022 annual growth in the IBIS outlook, with demand expected to be strongest in 2022 as hospitals and outpatient facilities resumed deferred equipment purchases after COVID-era disruption.",
+      "context": "The 2022 baseline was a recovery-and-replacement year: delayed hospital capital purchases, resumed procedures, dental demand and digital radiography upgrades supported demand, while imports, exports and profit remained pressured by logistics disruption and input-cost volatility."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from selling fixed and mobile X-ray systems, CT/X-ray combinations, fluoroscopy systems, mammography and DEXA equipment, X-ray tubes, flat-panel detectors, software, medical information systems, installation, training, maintenance contracts, replacement parts and detector upgrades. Buyers typically include hospitals, imaging centers, emergency and outpatient facilities, dental practices, veterinary clinics, government agencies and distributors. High-end OEMs increasingly bundle hardware with workflow software, AI-enabled reconstruction or positioning tools, dose-management features and multiyear service agreements.",
+    "cost_structure": {
+      "materials_and_components": "Largest cost bucket; includes X-ray tubes, detectors, generators, gantries, semiconductors, circuit boards, steel, glass, plastics, rare materials, shielding and precision components. 2025-2026 tariff expense, electronics availability and global logistics remain important margin risks.",
+      "labor": "About $1.37 billion in 2021 wages in the baseline, equal to roughly 13.0% of 2021 revenue; engineering, regulatory, software, service and manufacturing talent are critical because products are complex and regulated.",
+      "research_and_development": "High and rising; OEMs compete on dose reduction, image quality, portability, AI-assisted workflow, detector performance, CT reconstruction and service software. US R&D expenditure was projected in the baseline to grow about +3.1% annually over 2021-2027.",
+      "profit": "5.7% 2021 baseline EBIT margin for the average operator, with margins supported by premium equipment and service contracts but pressured by price competition, input inflation, tariffs, compliance costs and hospital purchasing leverage.",
+      "distribution_and_service": "Meaningful costs for installation, calibration, field service, warranty, clinical training, regulatory documentation and maintaining uptime for mission-critical imaging equipment."
+    },
+    "major_players": [
+      "GE HealthCare",
+      "Siemens Healthineers",
+      "Philips",
+      "Canon Medical Systems",
+      "FUJIFILM Healthcare Americas",
+      "Carestream Health",
+      "Hologic",
+      "Varian Medical Systems"
+    ],
+    "current_dynamics": "Demand is being pulled by outpatient imaging growth, aging-population diagnostics, emergency and orthopedic volumes, dental and mammography replacement cycles, and hospitals trying to improve throughput amid radiologist and technologist shortages. The strongest product momentum is in digital radiography, mobile bedside systems, CT and fluoroscopy platforms with lower-dose imaging, AI-enabled reconstruction and workflow automation. The main brakes are hospital capital discipline, high borrowing costs, tariffs, supply-chain complexity, FDA radiation and medical-device compliance, and aggressive procurement from large health systems.",
+    "whats_growing": "Digital radiography systems, mobile and portable X-ray units, detector upgrades, AI-assisted positioning and triage, dose optimization, CT/X-ray hybrid platforms, cloud-connected image workflow software, service contracts, government and VA procurement, and outpatient imaging center demand are growing. US digital X-ray was estimated at $4.95 billion in 2025 with a projected +7.9% CAGR to 2030, while CMS projected 2025-2034 hospital spending growth at +5.2% annually and physician and clinical services at +5.5% annually.",
+    "whats_shrinking": "Analog and computed radiography systems, film-adjacent workflows, standalone low-feature equipment, replacement of systems without software or service attach, and smaller domestic manufacturers lacking R&D scale are shrinking. The baseline projected US enterprises to decline from 117 in 2021 to 111 in 2026, and import share of domestic demand to fall from 29.5% in 2021 to 25.0% in 2026.",
+    "recent_developments": [
+      "2025-03-18: GE HealthCare and NVIDIA announced work on autonomous imaging, beginning with autonomous X-ray and ultrasound applications.",
+      "2025-07-24: GE HealthCare launched Definium Pace Select ET, a floor-mounted digital X-ray system aimed at high-throughput and affordability-focused settings.",
+      "2025-07-30: FUJIFILM Healthcare Americas launched the FDR Go iQ portable digital radiography system in the United States for bedside imaging.",
+      "2025-11-05: Siemens Healthineers reported FY2025 comparable revenue growth of +5.9%, with Q4 FY2025 Imaging comparable revenue growth of +6.5% and Imaging adjusted EBIT margin of 20.6%.",
+      "2025-12-02: GE HealthCare showcased NVIDIA-powered imaging solutions at RSNA 2025 and said it was gathering feedback on early autonomous workflow concepts for X-ray and ultrasound.",
+      "2026-03-23: FDA's AI-enabled medical device list included multiple 2026 radiology clearances from major imaging OEMs, underscoring continued AI integration into imaging systems."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but not explosive. Unit demand should rise with healthcare utilization, outpatient imaging, aging demographics and replacement of older radiography systems, while average selling prices should benefit from digital detectors, AI features, automation and service bundles. Growth will likely be stronger in software-enabled digital X-ray and portable systems than in legacy fixed analog equipment. Margins should improve for scaled OEMs that can price innovation and attach service contracts, but smaller manufacturers face tougher competition, regulatory costs and component exposure. A reasonable current view is low-single-digit growth for the broad US X-ray manufacturing base, with mid- to high-single-digit growth in the narrower US digital/medical X-ray equipment market.",
+    "themes": [
+      "Digital radiography conversion",
+      "AI-assisted imaging workflow",
+      "Radiologist and technologist shortage",
+      "Hospital capital budget pressure",
+      "Aging-population diagnostics",
+      "Outpatient and ambulatory imaging shift",
+      "Dose reduction and radiation safety",
+      "Service-contract revenue",
+      "Tariffs and supply-chain risk",
+      "OEM consolidation and scale advantage"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: x-ray-machine-manufacturing.txt', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/x-ray-machine-manufacturing.txt', 'notes': 'IBIS baseline last updated May 27, 2021; used for 2021 revenue, 2021-2026 projection, product mix, cost and structure context.'}",
+      "{'name': 'US Census Bureau AIES, NAICS 334510', 'url': 'https://data.census.gov/table/AIESBASICTIMESERIES.AIES00BASIC?codeset=naics~334510&g=010XX00US', 'notes': '2023 broader electromedical and electrotherapeutic apparatus manufacturing employer-firm sales of $45.5 billion.'}",
+      "{'name': 'FRED / US Census M3 shipments', 'url': 'https://fred.stlouisfed.org/series/A34KVS', 'notes': 'May 2026 broader electromedical, measuring and control instrument manufacturing shipments of $9.858 billion, seasonally adjusted.'}",
+      "{'name': 'Fortune Business Insights, US Medical X-ray Market', 'url': 'https://www.fortunebusinessinsights.com/u-s-medical-x-ray-market-108638', 'notes': '2022 US medical X-ray market value of $3.62 billion and +5.3% projected CAGR to 2030.'}",
+      "{'name': 'Ken Research, United States Digital X-Ray Market Outlook to 2030', 'url': 'https://www.kenresearch.com/industry-reports/usa-digital-x-ray-market', 'notes': '2025 US digital X-ray market estimate of $4.95 billion and +7.9% projected CAGR to 2030.'}",
+      "{'name': 'GE HealthCare 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1932393/000193239326000007/gehc-20251231.htm', 'notes': '2025 total revenue of $20.625 billion, Imaging revenue of $9.245 billion and USCAN revenue growth of +6.1%.'}",
+      "{'name': 'Siemens Healthineers FY2025 results', 'url': 'https://www.siemens-healthineers.com/press/releases/2025q4', 'notes': 'FY2025 comparable revenue growth of +5.9%, Q4 FY2025 Imaging comparable revenue growth of +6.5% and Imaging adjusted EBIT margin of 20.6%.'}",
+      "{'name': 'Philips 2025 annual report', 'url': 'https://www.sec.gov/Archives/edgar/data/313216/000162828026009470/phg-20251231.htm', 'notes': '2025 Diagnosis & Treatment sales of EUR 8.531 billion and North America comparable sales growth of +3%.'}",
+      "{'name': 'FDA Medical X-ray Imaging', 'url': 'https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging', 'notes': 'Regulatory and technical context for CT, radiography and fluoroscopy products.'}",
+      "{'name': 'FDA AI-enabled medical devices list', 'url': 'https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices', 'notes': '2025-2026 radiology AI clearance examples from major imaging OEMs.'}",
+      "{'name': 'CMS National Health Expenditure Fact Sheet', 'url': 'https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet', 'notes': '2024 NHE of $5.3 trillion and 2025-2034 projected health spending growth of +5.4% annually.'}",
+      "{'name': 'American Hospital Association Costs of Caring 2026', 'url': 'https://www.aha.org/costsofcaring', 'notes': '2025 hospital expense growth, supply growth and diagnostic imaging equipment spending context.'}",
+      "{'name': 'GE HealthCare Definium Pace Select ET launch', 'url': 'https://www.gehealthcare.com/en/about/newsroom/press-releases/ge-healthcare-launches-new-advanced-digital-x-ray-system-to-enable-access-and-increase-efficiency-in-high-throughput-settings', 'notes': 'July 24, 2025 launch of a digital X-ray system for high-throughput settings.'}",
+      "{'name': 'FUJIFILM FDR Go iQ launch', 'url': 'https://www.fujifilm.com/us/en/news/healthcare/fujifilm-launches-fdr-go-io-portable-digital-radiography-system', 'notes': 'July 30, 2025 US launch of portable digital radiography system.'}"
+    ],
+    "one_sentence": "US X-ray machine manufacturers sell high-value diagnostic imaging systems, CT/X-ray combinations, tubes, detectors, software and irradiation equipment to hospitals, outpatient centers, dental practices, government buyers and distributors.",
+    "slug": "x-ray-machine-manufacturing"
+  }
+]

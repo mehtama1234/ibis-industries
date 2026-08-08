@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Shortline Railroad Operation",
+    "sector": "Transport & Logistics",
+    "one_liner": "Shortline railroads provide the first- and last-mile freight links between local shippers and Class I rail networks.",
+    "overview": "Shortline railroad operators run local, regional, switching and terminal rail services that connect farms, mines, factories, warehouses, ports and industrial parks to the national Class I rail network. The business is local and asset-heavy: operators own or lease track, maintain bridges and yards, run locomotives and interchange cars with larger carriers. The FRA's 2025 freight-rail overview describes the U.S. freight rail system as nearly an $80 billion industry operating over almost 140,000 route miles, including 22 regional and 584 local or short line railroads. Shortlines are small relative to Class I railroads, but they are critical for carload freight in rural and industrial markets where trucking is expensive or less practical for dense bulk commodities.",
+    "key_stats": {
+      "market_size": "About $3.3 billion in 2026 U.S. industry revenue, estimated from the 2025-published IBISWorld abstract reporting $3.1 billion in 2023 and the baseline IBISWorld 2021-2026 forecast of $3.2 billion in 2026 in 2021 dollars.",
+      "growth": "2026 demand indicators are positive: 446 regional and shortline railroads handled 1,399,220 carloads in the first 12 weeks of 2026, up 6.0% year over year; the baseline IBISWorld outlook projected 3.1% annualized revenue growth from 2021 to 2026.",
+      "operators": "FRA's 2025 network overview cited 22 regional and 584 local or short line railroads in the U.S.",
+      "employment": "Baseline IBISWorld projected 12,125 workers in 2026, up from 10,872 in 2021.",
+      "profit_margin": "Baseline IBISWorld projected 11.0% EBIT margin in 2026, up from 10.3% in 2021.",
+      "network_role": "Shortlines feed and receive traffic from Class I railroads, with demand tied to industrial production, agriculture, mining, construction materials, chemicals, autos, ports and transload facilities.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $3.13 billion in 2022, implied by the 2025-published IBISWorld abstract stating 2023 revenue of $3.1 billion after a 1.0% decline.",
+      "growth": "About 12.5% in 2022 versus the local baseline's 2021 revenue of $2.783 billion; this is an implied estimate because the baseline file directly reports 2021 and 2026, not a 2022 table.",
+      "context": "The 2022 baseline followed the 2021 rebound from the 2020 COVID freight shock, with revenue still exposed to industrial production, trade volumes, fuel surcharges and commodity cycles."
+    },
+    "how_it_makes_money": "Shortline railroads earn revenue from hauling carloads over local and regional lines, switching railcars in terminals and industrial yards, interchange services with Class I carriers, demurrage and accessorial fees, transloading, railcar storage, industrial switching contracts and customer-specific logistics services. The highest-value relationships are usually with shippers that need dependable first- or last-mile rail access for bulk, heavy or recurring freight such as grain, chemicals, aggregates, metals, forest products, petroleum products, autos, waste and food products.",
+    "cost_structure": "The industry has high fixed costs and moderate labor intensity. Major costs include wages and benefits for train crews, dispatchers, maintenance and mechanical staff; diesel fuel and fuel-price exposure, partly offset by surcharges; track, bridge, signal, locomotive and rolling-stock maintenance; lease payments or trackage-rights costs; insurance and safety compliance; property taxes; depreciation; and purchased services such as engineering, technology, legal and environmental work. The 45G short line tax credit and FRA grants help fund track rehabilitation, bridge work, grade-crossing upgrades and safety technology, but operators still need substantial private capital to keep infrastructure serviceable.",
+    "major_players": [
+      "Genesee & Wyoming",
+      "Watco",
+      "Patriot Rail",
+      "OmniTRAX",
+      "R.J. Corman Railroad Group",
+      "Regional Rail",
+      "Anacostia Rail Holdings",
+      "Pinsly Railroad Company"
+    ],
+    "current_dynamics": "Shortline fundamentals are mixed but improving in 2026. The 2025 ASLRRA annual snapshot described 2025 shortline carloads as broadly consistent with 2024, with a slight net loss driven by bridged carloads while originations and terminations were relatively flat. The first quarter of 2026 was stronger: the RailConnect Index cited by Progressive Railroading showed 1,399,220 carloads across 446 regional and shortline railroads, up 6.0% year over year. Intermodal, waste and scrap, aggregates, grain, vehicles and petroleum/coke were positive in early 2026, while ores, paper, coal, lumber, metals, chemicals and farm and food products excluding grain declined. Tariff uncertainty, plant closures, refinery exits, weather-sensitive agricultural output and Class I interchange service remain key variables.",
+    "whats_growing": "Intermodal is the standout growth lane in early 2026, rising 27.1% year over year for shortlines in the first 12 weeks of 2026. Waste and scrap materials rose 13.9%, stone, clay and aggregates rose 10.4%, grain rose 6.6%, motor vehicles and equipment rose 4.4%, and petroleum/coke rose 3.3% over the same 2026 period. Transloading is also gaining share as shippers use shortlines to reach rail without direct track access. Federal rail funding is growing too, with FRA listing $2.039 billion available under the FY2025-2026 CRISI NOFO.",
+    "whats_shrinking": "Coal remains a long-term structural headwind because utility fuel mix continues to shift away from coal, even though weather and gas-price spikes can create short-term rebounds. In the first 12 weeks of 2026, shortline coal carloads were down 5.6% year over year, paper products were down 8.3%, lumber and forest products were down 4.6%, ores were down 9.5%, metals and products were down 2.8%, chemicals were down 1.5%, and farm and food products excluding grain were down 0.7%. Some local losses are tied to specific plant closures, changing consumer demand and refinery exits.",
+    "recent_developments": [
+      "2024-10-29: FRA selected 122 FY2023-2024 CRISI rail projects in 41 states and Washington, DC, with $2.478 billion available for award.",
+      "2025-01-10: FRA awarded more than $1.1 billion in Railroad Crossing Elimination grants to 123 projects affecting more than 1,000 highway-rail crossings.",
+      "2025-04-15: A 2025-published IBISWorld abstract reported U.S. Shortline Railroad Operation revenue of $3.1 billion in 2023, down 1.0% that year after a 1.2% five-year CAGR.",
+      "2026-04-08: ASLRRA's 2025 snapshot said shortline carloads were remarkably consistent with 2024, with agricultural and waste products leading 2025 volumes.",
+      "2026-05-12: Progressive Railroading reported 446 regional and shortline railroads handled 1,399,220 carloads through 2026's first 12 weeks, up 6.0% year over year.",
+      "2026-06-29: FRA listed $2.039 billion available under the FY2025-2026 CRISI Notice of Funding Opportunity."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive. Revenue should edge higher if industrial production, grain exports, construction aggregates, chemicals, autos, ports and transload traffic hold up, and federal infrastructure funding should support track and safety investment. Growth will likely remain uneven because many shortlines are tied to a small number of local shippers or commodities. Coal, paper, lumber and certain refinery-linked lanes are weaker, while intermodal, grain, aggregates, waste/scrap and customer-specific transload projects are the main expansion paths. Over the medium term, operators with diversified commodities, good Class I interchange relationships, industrial-development sites and grant-writing capacity should outperform single-customer or coal-dependent lines.",
+    "themes": [
+      "First- and last-mile freight connectivity",
+      "Class I interchange dependency",
+      "Industrial production sensitivity",
+      "Agriculture and grain seasonality",
+      "Intermodal and transload growth",
+      "Coal decline and commodity mix shift",
+      "Infrastructure grants and 45G tax-credit support",
+      "High fixed-cost asset base",
+      "Safety, grade crossings and bridge rehabilitation",
+      "Local shipper concentration risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Local baseline file: shortline-railroad-operation.txt', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/shortline-railroad-operation.txt', 'date': '2022-08-31', 'used_for': '2021 revenue, 2021-2026 revenue forecast, profit, employment, business model and structural drivers.'}",
+      "{'name': 'Federal Railroad Administration, Freight Rail Overview', 'url': 'https://railroads.dot.gov/rail-network-development/freight-rail-overview', 'date': '2025-02-24', 'used_for': 'U.S. freight rail network size, nearly $80 billion freight rail industry, 22 regional and 584 local/short line railroads.'}",
+      "{'name': 'MarketResearch.com / IBISWorld abstract, Shortline Railroad Operation in the US', 'url': 'https://www.marketresearch.com/IBISWorld-v2487/Shortline-Railroad-Operation-Research-40984909/', 'date': '2025-04-15', 'used_for': '2023 revenue of $3.1 billion, 2023 decline of 1.0%, 2018-2023 CAGR of 1.2%, industry definition.'}",
+      "{'name': 'Railway Age / ASLRRA, 2025 Snapshot', 'url': 'https://www.railwayage.com/freight/short-lines-regionals/2025-snapshot/', 'date': '2026-04-08', 'used_for': '2025 shortline carload trends, flat 2025 volumes, agricultural and waste-product strength, tariff uncertainty.'}",
+      "{'name': 'Progressive Railroading, Short lines built some positive traffic momentum in Q1', 'url': 'https://www.progressiverailroading.com/RailPrime/Details/Short-lines-built-some-positive-traffic-momentum-in-Q1--76929', 'date': '2026-05-12', 'used_for': 'Q1 2026 shortline carloads, 6.0% year-over-year gain and commodity growth/decline detail.'}",
+      "{'name': 'Association of American Railroads, Weekly Rail Traffic for week ending March 7, 2026', 'url': 'https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-march-7-2026/', 'date': '2026-03-11', 'used_for': 'Broader U.S. rail traffic momentum in early 2026.'}",
+      "{'name': 'Federal Railroad Administration, CRISI Program', 'url': 'https://railroads.fra.dot.gov/grants-loans/consolidated-rail-infrastructure-and-safety-improvements-crisi-program', 'date': '2026-06-29', 'used_for': 'FY2025-2026 CRISI funding availability and prior CRISI award rounds.'}"
+    ],
+    "one_sentence": "The U.S. shortline railroad industry is a mature, capital-intensive freight niche whose 2026 demand is being lifted by intermodal, grain, aggregates and industrial traffic, while coal, paper and some forest-product lanes remain structurally pressured.",
+    "slug": "shortline-railroad-operation"
+  },
+  {
+    "title": "Sightseeing Transportation in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "A fragmented tourism-services industry selling same-day scenic transport by bus, boat, rail, helicopter and other local modes.",
+    "overview": "This industry provides recreational transportation where the experience, route commentary and scenery are the product rather than point-to-point mobility. Services include open-top bus tours, harbor cruises, whale watches, dinner cruises, scenic rail excursions, helicopter rides, aerial tramways and niche local vehicles. Demand is highly seasonal and tourism-linked, with large concentrations in gateway cities, waterfront destinations, national parks and resort markets. The industry remains fragmented, with many local small operators alongside multi-city brands such as Big Bus Tours and City Experiences/Hornblower. Census QSS data show 2025 NAICS 487 taxable-establishment revenue of $5.49 billion, up 3.9% from $5.28 billion in 2024, while Q1 2026 revenue was $955 million and seasonally adjusted revenue rose 0.9% from Q4 2025.",
+    "key_stats": {
+      "market_size": "2025 revenue: $5.49 billion for NAICS 487 taxable establishments, calculated from Census QSS/FRED quarterly revenue of $960 million in Q1 2025, $1.449 billion in Q2 2025, $2.074 billion in Q3 2025 and $1.007 billion in Q4 2025.",
+      "growth": "2025 annual revenue growth: 3.9% versus 2024, calculated from $5.49 billion in 2025 and $5.284 billion in 2024; Q1 2026 seasonally adjusted quarterly growth: 0.9%.",
+      "employment": "July 2026 employment: 33,300 seasonally adjusted jobs in scenic and sightseeing transportation, according to BLS.",
+      "establishments": "Q4 2025 private-industry establishments: 3,557, up from 3,494 in Q1 2025, according to BLS QCEW.",
+      "fuel_cost_signal": "August 3, 2026 U.S. on-highway diesel price: $5.348 per gallon, up from $4.668 on June 29, 2026, according to EIA.",
+      "travel_demand_signal": "U.S. Travel forecast 2026 total travel spending at $1.37 trillion and domestic leisure spending at $909 billion in 2025 dollars.",
+      "inbound_signal": "NTTO forecast 2026 international visitation at 70.5 million, up 3.2% from 68.3 million in 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld baseline revenue: $4.637 billion in 2022 dollars.",
+      "growth": "2022 IBISWorld baseline revenue growth: 49.8% in 2022 after pandemic restrictions eased; 2017-2022 revenue CAGR: -1.5%.",
+      "profit": "2022 IBISWorld baseline profit: $663 million, equal to a 14.3% profit margin.",
+      "establishments": "2022 IBISWorld baseline establishments: 10,721 including small-scale and nonemployer operators.",
+      "enterprises": "2022 IBISWorld baseline enterprises: 10,271.",
+      "employment": "2022 IBISWorld baseline employment: 38,360 workers.",
+      "wages": "2022 IBISWorld baseline wages: $1.527 billion."
+    },
+    "how_it_makes_money": "Operators earn revenue from per-ticket admissions, hop-on/hop-off passes, private charters, group tours, bundled attraction packages, food-and-beverage upgrades, premium seating, holiday and event cruises, school and corporate outings, commissions from hotel/OTA referrals and, for concession operators, exclusive or semi-exclusive access to protected routes or attractions. Pricing is usually yield-managed by season, daypart, channel and group size, with high-margin add-ons such as narration, meals, alcohol, photos, private guides and priority boarding.",
+    "cost_structure": "Major costs are labor for captains, pilots, drivers, guides, mechanics, reservation staff and customer service; fuel and power for buses, boats and aircraft; insurance; equipment leases and depreciation; marina, airport, terminal, parking and curb-access fees; maintenance and safety inspections; marketing and OTA commissions; permits, franchise fees and concession payments. The 2022 baseline profit margin was 14.3%, but 2026 margins face pressure from diesel at $5.348 per gallon in August 2026, higher wage expectations and elevated liability-insurance sensitivity after high-profile air-tour safety events.",
+    "major_players": [
+      "City Experiences / Hornblower Group",
+      "Big Bus Tours / City Sightseeing Washington DC",
+      "Old Town Trolley Tours / Historic Tours of America",
+      "Gray Line licensees",
+      "Maverick Helicopters",
+      "Papillon Grand Canyon Helicopters",
+      "Boston Duck Tours",
+      "Maid of the Mist",
+      "Alcatraz City Cruises",
+      "local independent boat, bus, rail, air and specialty-tour operators"
+    ],
+    "current_dynamics": "Revenue is above the 2022 baseline, but growth has normalized from the post-pandemic rebound. Domestic leisure remains the anchor: U.S. Travel projects 2026 domestic leisure spending of $909 billion, while travelers are shifting toward shorter, regional and drive-market trips because of inflation. International demand is improving but not fully healed: NTTO forecasts 70.5 million international visitors in 2026, up 3.2% from 2025, and U.S. Travel forecasts 70.6 million visits and $178 billion in inbound spending. The 2026 FIFA World Cup is a near-term demand catalyst in host and gateway cities. Supply is rebuilding gradually, with BLS reporting 3,557 private establishments in Q4 2025 and 33,300 jobs in July 2026. Cost pressure is material because fuel-heavy bus, boat and air operators are exposed to 2026 diesel volatility and insurance and safety scrutiny.",
+    "whats_growing": "Hop-on/hop-off and narrated city tours in gateway cities, waterfront sightseeing and dining cruises, event-led products tied to sports and concerts, World Cup 2026 host-market tourism, dynamic online booking, private charters for groups and corporate events, multilingual offerings for inbound travelers, and lower-emission or hybrid vessels where operators can market sustainability and reduce fuel exposure.",
+    "whats_shrinking": "Pandemic-era rebound growth rates, weakly differentiated commodity tours, high-cost aerial sightseeing in markets facing tighter regulation or safety scrutiny, tours dependent on long-haul international travelers from soft source markets, low-margin discount channels, and fuel-intensive services unable to pass through higher diesel or jet-fuel costs.",
+    "recent_developments": [
+      "2025: Census QSS/FRED revenue for NAICS 487 reached $5.49 billion, up 3.9% from $5.284 billion in 2024.",
+      "2025: U.S. Travel reported inbound international visits fell 5.5% to 68.3 million, pressuring city sightseeing demand from foreign tourists.",
+      "January 2026: National Park Service selected City Sightseeing Washington DC, Inc., dba Big Bus Tours, for a 10-year National Mall interpretive transportation concession effective January 1, 2026.",
+      "March 2026: FAA and NPS completed a commercial air-tour voluntary agreement for San Francisco Bay Area parks, keeping operating conditions on routes, altitudes and reporting.",
+      "May 2026: U.S. Travel forecast 2026 U.S. travel spending of $1.37 trillion and domestic leisure spending of $909 billion in 2025 dollars.",
+      "August 2026: EIA reported U.S. on-highway diesel at $5.348 per gallon for August 3, 2026, a sharp operating-cost headwind for bus and boat tours."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but margin-sensitive. Market demand should grow as international visits recover from 68.3 million in 2025 to about 70.5 million in 2026 and as World Cup travel lifts host and gateway cities. However, real growth is likely slower than the 2021-2024 recovery surge because domestic travelers are budget-conscious and energy, labor, insurance and maintenance costs are elevated. Operators with strong digital distribution, premium experiences, exclusive concessions, safety records, multilingual service and fuel-efficient fleets should outperform local commodity tours.",
+    "themes": [
+      "post-pandemic normalization",
+      "domestic leisure resilience",
+      "World Cup 2026 demand catalyst",
+      "fuel and insurance pressure",
+      "fragmented local competition",
+      "online booking and OTA dependence",
+      "premium experiences and private charters",
+      "safety and air-tour regulation",
+      "national park and waterfront tourism",
+      "fleet sustainability"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sightseeing-transportation-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/REV487TAXABL144QNSA",
+      "https://fred.stlouisfed.org/series/REV487TPSA",
+      "https://www.bls.gov/iag/tgs/iag487.htm",
+      "https://www.ustravel.org/research/travel-forecasts",
+      "https://www.trade.gov/travel-and-tourism-forecasts",
+      "https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm",
+      "https://www.nps.gov/nama/learn/news/transportationservicescontract.htm",
+      "https://www.faa.gov/about/office_org/headquarters_offices/apl/aee/air_tour_management_plan",
+      "https://www.nps.gov/subjects/socialscience/visitor-use-statistics-dashboard.htm",
+      "https://www.cityexperiences.com/blog/the-transition-of-hornblower-cruises-events-to-city-cruises/"
+    ],
+    "one_sentence": "Sightseeing transportation operators recovered to a 2025 market size of about $5.49 billion, but 2026 demand is being pulled between resilient domestic leisure travel, World Cup-driven inbound tourism and higher fuel, labor, insurance and safety-compliance costs.",
+    "slug": "sightseeing-transportation-in-the-us"
+  },
+  {
+    "title": "Sign & Banner Manufacturing Franchises",
+    "sector": "Manufacturing",
+    "one_liner": "A tiny, structurally declining franchise-only slice of the sign market is being pulled into broader print, graphics and digital visual-communications models.",
+    "overview": "The baseline IBIS file shows a franchise-only industry in decline, with 2021 revenue of $18.0 million and a 2026 forecast of $9.3 million as franchised sign shops increasingly shift revenue into paper-based printing and broader visual communications outside the narrow industry definition. Public 2025-2026 data show demand for signage itself remains healthier than the franchise-only category: U.S. out-of-home advertising revenue reached $9.46 billion in 2025, up 3.6%, while digital out-of-home rose 10.5% and accounted for 36.3% of OOH revenue. The result is a split market: traditional nonpaper sign manufacturing franchises keep losing relevance, while adjacent franchise systems such as FASTSIGNS, Signarama and SpeedPro grow through large-format graphics, wraps, installation, digital displays and B2B visual services.",
+    "key_stats": {
+      "market_size": "$9.3 million projected 2026 revenue for the narrow franchise-only industry; broader sign and graphics franchise opportunity cited by FASTSIGNS at $29 billion in 2026",
+      "growth": "-12.4% CAGR projected for narrow franchise-only revenue from 2021 to 2026; +3.6% 2025 U.S. OOH advertising revenue growth",
+      "establishments": "10 projected 2026 franchise establishments in the narrow IBIS-defined industry",
+      "employment": "73 projected 2026 employees in the narrow IBIS-defined industry",
+      "broader_demand_indicator": "$9.46 billion U.S. OOH advertising revenue in 2025, with DOOH up 10.5% year over year",
+      "construction_indicator": "Private nonresidential construction spending was $745.3 billion SAAR in June 2026, up 0.1% from May 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$15.8 million estimated 2022 revenue, calculated from the baseline 2021 revenue of $18.0 million and the 2021-2026 forecast CAGR of -12.4%",
+      "growth": "-12.4% forecast CAGR for 2021-2026 in the baseline file",
+      "establishments": "About 18 estimated 2022 establishments, implied by the baseline forecast of 21 establishments in 2021 declining to 10 by 2026",
+      "profit_margin": "4.1% in 2021 baseline; profitability expected to decline through 2026"
+    },
+    "how_it_makes_money": "Franchisees sell custom signs, banners, flags, building signs, point-of-sale displays, trade-show exhibits, basic electric signs, installation, design and related project services to local businesses, agencies, event organizers, retailers, institutions and public-sector buyers. Modern franchise revenue often includes adjacent large-format printing, vehicle wraps, interior graphics, branded environments, digital-signage content support and recurring B2B account work.",
+    "cost_structure": "Major costs are labor for design, sales, fabrication and installation; substrates such as vinyl, textiles, acrylic, wood, metal and corrugated materials; inks, adhesives and laminates; lease costs for production space; utilities and equipment maintenance; depreciation or financing for printers, cutters and finishing equipment; franchise royalties and marketing fund fees; local selling expense; insurance, permitting and vehicle costs for installation work. The 2021 baseline reported $7.0 million of wages on $18.0 million of revenue and a 4.1% profit margin, showing labor intensity and limited pricing power in the narrow category.",
+    "major_players": [
+      "{'name': 'FASTSIGNS', 'position': 'Largest visible sign and visual communications franchise network; 2026 FDD data cited 690 centers for average-center-sales calculations and average 2025 center sales of $1,088,585; FASTSIGNS also reported more than $900 million of network sales and 790 locations in eight countries at its 2026 convention.'}",
+      "{'name': 'Signarama', 'position': 'Large sign and graphics franchise system; 2025 FDD marketing cited 750 locations in 35 countries, $1,309,879 average center sales and $4,914,992 top-tier average center sales.'}",
+      "{'name': 'SpeedPro', 'position': 'Large-format graphics franchise focused on B2B wide-format printing, wraps and signage-adjacent work; 2026 FDD marketing cited 2025 systemwide gross sales of $115,195,713 and 5.7% year-over-year growth.'}",
+      "{'name': 'Alliance Franchise Brands / Signs Now / Image360 / Signs By Tomorrow', 'position': 'Multi-brand print, marketing and graphics franchisor with more than 500 North American locations across brands, including signs and graphics concepts.'}"
+    ],
+    "current_dynamics": "Demand drivers in 2025-2026 are mixed. Local business formation, rebranding, events, retail merchandising and OOH advertising support sign demand, but the narrow franchise-only manufacturing category remains pressured by its definition and business-model shift. Franchise systems increasingly market themselves as visual communications, large-format graphics or print-and-marketing platforms rather than pure nonpaper sign manufacturers. Digital signage growth favors hardware, software, media-owner and integrator ecosystems more than small decentralized sign-manufacturing franchises.",
+    "whats_growing": [
+      "Digital out-of-home and programmable displays, with DOOH up 10.5% in 2025 and 36.3% of U.S. OOH revenue",
+      "Large-format printing, wall graphics, vehicle wraps, environmental branding and branded interiors",
+      "B2B recurring account work for multilocation customers, healthcare, education, local government, restaurants and retail",
+      "Installation, project management, permitting and design services that add margin beyond fabrication",
+      "Interactive and energy-efficient digital signage, with the U.S. digital signage market estimated at $7.44 billion in 2025 and forecast at $7.96 billion in 2026"
+    ],
+    "whats_shrinking": [
+      "The narrow IBIS-defined franchise-only nonpaper sign manufacturing market, projected to fall to $9.3 million in 2026",
+      "Franchise locations whose revenue majority comes from traditional wood, metal, fabric or basic electric sign manufacturing",
+      "Short-run non-digital banners and signs where price competition and online print ordering compress margins",
+      "Traditional static formats that are being displaced in premium advertising locations by DOOH and dynamic content networks",
+      "Pure manufacturing revenue inside franchise systems as more sales are classified as printing, installation, marketing services or digital solutions"
+    ],
+    "recent_developments": [
+      "2025: U.S. OOH advertising revenue reached $9.46 billion, up 3.6% year over year, according to OAAA data published in March 2026.",
+      "2025: DOOH accounted for 36.3% of U.S. OOH revenue and increased 10.5% year over year, reinforcing demand for digital display formats.",
+      "2025: FASTSIGNS 2026 FDD data cited average center sales of $1,088,585 across 690 centers for the 2025 period.",
+      "2025: SpeedPro reported $115,195,713 in systemwide gross sales and 5.7% year-over-year systemwide growth in its 2026 FDD marketing.",
+      "February 2026: FASTSIGNS reported record network sales exceeding $900 million and expansion to 790 locations in eight countries.",
+      "June 2026: U.S. private nonresidential construction spending was $745.3 billion SAAR, a near-flat 0.1% monthly increase, keeping storefront and building-sign demand stable but not strongly expansionary."
+    ],
+    "outlook": "The narrow Sign & Banner Manufacturing Franchises category is likely to remain in decline through 2026 because successful franchisees are migrating into broader print, graphics, installation and digital visual-communications revenue that falls outside the traditional industry definition. Demand for signs is not disappearing; it is shifting toward large-format graphics, DOOH, connected displays, branded environments and service-heavy project work. Operators that remain tied to basic nonpaper sign fabrication will face low scale advantages, material cost pressure and competition from independent custom shops, while diversified franchise systems should continue to outperform the narrow category.",
+    "themes": [
+      "Structural decline of narrow franchise manufacturing",
+      "Shift from signs to visual communications",
+      "Digital out-of-home growth",
+      "Large-format printing convergence",
+      "Local B2B recurring revenue",
+      "Installation and project-management services",
+      "Pressure from material and labor costs",
+      "Franchise systems redefining their category"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file, Sign & Banner Manufacturing Franchises, last updated October 5, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/sign-and-banner-manufacturing-franchises.txt'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending, June 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'name': 'Out of Home Advertising Association of America, 2025 OOH revenue release, March 17, 2026', 'url': 'https://oaaa.org/news/out-of-home-advertising-revenue-reaches-record-9-46-billion/'}",
+      "{'name': 'FASTSIGNS franchise financial performance page, 2026 FDD Item 19 excerpts', 'url': 'https://www.fsfastsigns.com/own-a-fastsigns/financial-performance/'}",
+      "{'name': 'FASTSIGNS 2026 convention release', 'url': 'https://www.fastsigns.com/newsroom/news-press/2026/from-record-milestones-to-next-gen-solutions-ins/'}",
+      "{'name': 'Signarama franchise site, 2025 FDD marketing figures', 'url': 'https://signaramafranchise.com/'}",
+      "{'name': 'SpeedPro franchising 2026 FDD performance page', 'url': 'https://speedprofranchising.com/great-big-performance-speedpros-2026-fdd-reflects-historic-growth/'}",
+      "{'name': 'Grand View Research, U.S. Digital Signage Market 2026-2033', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-digital-signage-market'}",
+      "{'name': 'Federal Reserve Bank of St. Louis ALFRED, Sign Manufacturing NAICS 339950 sectoral output', 'url': 'https://alfred.stlouisfed.org/series?seid=IPUEN339950T300000000'}",
+      "{'name': 'Alliance Franchise Brands company site', 'url': 'https://alliancefranchisebrands.com/'}"
+    ],
+    "one_sentence": "Sign & Banner Manufacturing Franchises make nonpaper signs, banners, displays and related visual products through franchised outlets, but the narrow IBIS-defined market has kept shrinking as franchise systems emphasize large-format printing, digital signage, installation and marketing services.",
+    "slug": "sign-and-banner-manufacturing-franchises"
+  },
+  {
+    "title": "Single Location Full-Service Restaurants in the US",
+    "sector": "Food & Drink",
+    "one_liner": "Independent sit-down restaurants remain a large but margin-constrained foodservice segment, with sales supported by higher checks and affluent diners while traffic, labor, rent and food costs pressure operators.",
+    "overview": "This industry covers single-location, independent or family-operated full-service restaurants where patrons order and are served while seated and usually pay after eating. The 2024 IBISWorld update put industry revenue at $241.1 billion, up 1.0% in 2024, with 147,000 businesses, 2.0 million employees, $76.0 billion in wages and a 4.4% profit margin. The market is highly fragmented: operators compete with chain restaurants, fast food, fast casual, prepared foods, meal kits and delivery-heavy models. Demand is discretionary and tied closely to consumer spending, urban foot traffic, high-income households, travel, social occasions and local dining culture. Current growth is being driven more by menu-price inflation and premium experiences than by broad traffic gains.",
+    "key_stats": {
+      "market_size": "2024 industry-specific revenue: $241.1 billion; 2025 implied revenue using IBISWorld 2024-2029 CAGR: about $244.5 billion",
+      "growth": "2024 revenue growth: 1.0%; 2024-2029 forecast CAGR: 1.4%",
+      "businesses": "2024 businesses: 147,000",
+      "employment": "2024 employment: 2.0 million",
+      "wages": "2024 wages: $76.0 billion",
+      "profit": "2024 profit: $10.6 billion",
+      "profit_margin": "2024 profit margin: 4.4%",
+      "broader_full_service_sales": "2025 inflation-adjusted US full-service restaurant food sales: $488.4 billion",
+      "price_inflation": "June 2026 CPI: full-service meals and snacks up 3.7% year over year",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "source": "IBISWorld baseline file last updated June 23, 2022",
+      "market_size": "2021 revenue: $187.6 billion in 2021 dollars",
+      "growth": "2021 revenue growth: 19.1%; 2016-2021 CAGR: 1.9%; 2021-2026 forecast CAGR: 3.9% to $226.8 billion",
+      "profit": "2021 profit: $7.5 billion",
+      "profit_margin": "2021 profit margin: 4.0%",
+      "establishments": "2021 establishments: 162,024",
+      "enterprises": "2021 enterprises: 143,350",
+      "employment": "2021 employment: 3,063,899",
+      "wages": "2021 wages: $67.3 billion"
+    },
+    "how_it_makes_money": "Operators earn revenue from dine-in food sales, alcoholic and nonalcoholic beverages, tips/service charges where retained by the business model, takeout, delivery, catering, private events and seasonal or prix-fixe menus. Higher-margin beverage programs, premium entrees, chef-driven concepts and private dining help offset the low-margin nature of food preparation and table service.",
+    "cost_structure": "The largest cost is purchases, which IBISWorld reported at 40.3% of 2024 revenue for food, alcohol and operating supplies. Labor is the other major expense: National Restaurant Association survey data put full-service salaries, wages and benefits at a median 36.5% of 2024 sales. Rent is structurally high in visible, high-traffic locations, while utilities, insurance, merchant fees, delivery commissions, repairs, marketing and compliance costs further compress profit. The 2024 industry profit margin was 4.4%, leaving little room for food-price, wage or occupancy shocks.",
+    "major_players": [
+      "No major national player; the industry is structurally fragmented and made up of single-location independent, owner-operated and family-operated restaurants.",
+      "Representative competitive set includes local chef-driven restaurants, neighborhood casual dining venues, independent ethnic restaurants, steakhouses, seafood restaurants and farm-to-table concepts.",
+      "Indirect competitors include Darden Restaurants, Brinker International, Bloomin' Brands, Applebee's/IHOP operators, fast-casual chains, supermarkets with prepared foods and third-party delivery platforms."
+    ],
+    "current_dynamics": "The 2025-2026 environment is split between resilient nominal spending and strained real demand. The National Restaurant Association projected 2026 total US restaurant industry sales of $1.55 trillion with 1.3% real growth and 15.8 million jobs, but also highlighted uneven traffic and persistent cost pressures. For independents, the challenge is sharper: Technomic-reported data cited by Restaurant Business showed independent restaurant locations down 2.3% in 2025 and full-service independents down 2.6%. Menu prices continue to rise, with BLS reporting full-service meals and snacks up 3.7% year over year in June 2026, but consumers are increasingly value-conscious and lower-income households are trading down or eating at home more often.",
+    "whats_growing": "Premium experiential dining, chef-led concepts, steakhouses, seafood, private events, beverage programs, local sourcing, farm-to-table menus, Asian and other ethnic cuisines, online reservations, direct digital ordering, loyalty tools, social media discovery, catering and selective takeout are growing. Higher-income households and dense urban neighborhoods remain the strongest demand pockets. The broader full-service category recovered to $488.4 billion in 2025 inflation-adjusted food sales, supporting the ceiling for independents that can differentiate.",
+    "whats_shrinking": "Lower-end independent full-service restaurants, undifferentiated mom-and-pop concepts, weak suburban or office-dependent locations, operators overexposed to rent resets and delivery commissions, and menus dependent on volatile beef, seafood, eggs or produce are shrinking. Independent restaurant units declined in 2025, and full-service independents fell more than the overall independent base. Traffic-sensitive weekday dining and price-led casual occasions are losing share to quick service, fast casual, grocery prepared foods and at-home meals.",
+    "recent_developments": [
+      "2024-10: IBISWorld reported single-location full-service restaurant revenue of $241.1 billion in 2024, up 1.0% for the year.",
+      "2025-08: National Restaurant Association reported median full-service salaries, wages and benefits at 36.5% of 2024 sales, above historical norms.",
+      "2026-02: National Restaurant Association projected 2026 US restaurant industry sales of $1.55 trillion and 1.3% real growth.",
+      "2026-04: Restaurant Business cited Technomic data showing independent restaurants down 2.3% in 2025, with full-service independents down 2.6%.",
+      "2026-06: BLS reported full-service meals and snacks prices up 3.7% year over year in June 2026.",
+      "2026-07: USDA ERS reported 2025 inflation-adjusted full-service restaurant food sales of $488.4 billion and a 34.5% share of food-away-from-home spending."
+    ],
+    "outlook": "The outlook is modest growth with high churn. IBISWorld's 2024 industry update forecast 1.4% annual revenue growth from 2024 to 2029, reaching $258.3 billion by 2029. In 2026, nominal sales should keep rising because menu prices remain elevated, but real growth is thin and operators will need tighter purchasing, labor scheduling, direct customer relationships and differentiated experiences to protect margins. Upscale, local, beverage-forward and event-oriented restaurants are best positioned, while small operators without pricing power or traffic stability remain vulnerable to closure.",
+    "themes": [
+      "Inflation-driven nominal growth",
+      "Traffic softness and value sensitivity",
+      "Labor-intensive operations",
+      "Food and beverage cost volatility",
+      "Independent restaurant closures",
+      "Premium and experiential dining",
+      "Local sourcing and health-conscious menus",
+      "Digital reservations, ordering and marketing",
+      "Fragmented competition",
+      "Urban and high-income demand concentration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/single-location-full-service-restaurants-in-the-us.txt",
+      "https://studylib.net/doc/27793988/oct-2024-72211b-single-location-full-service-restaurants-...",
+      "https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry",
+      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-labor-costs-are-well-above-historical-averages/",
+      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/",
+      "https://ers.usda.gov/topics/food-markets-prices/food-service-industry/market-segments",
+      "https://ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "https://www.bls.gov/news.release/cpi.htm",
+      "https://www.restaurantbusinessonline.com/operations/number-independent-restaurants-declined-23-2025"
+    ],
+    "one_sentence": "Single-location full-service restaurants sell seated, table-service meals and beverages through independent or family-operated venues, and in 2025-2026 the segment is growing modestly in nominal terms but facing weak traffic, elevated input costs and rising closures among independents.",
+    "slug": "single-location-full-service-restaurants-in-the-us"
+  },
+  {
+    "title": "Ski & Snowboard Rental",
+    "sector": "Consumer Services",
+    "one_liner": "Small, seasonal rental operators monetize destination and beginner demand at U.S. ski areas, but revenue is highly exposed to snow conditions, travel costs and resort visitation swings.",
+    "overview": "Ski and snowboard rental businesses rent skis, snowboards, boots, poles, helmets, snowshoes and related winter gear, typically through resort-owned shops, village retailers, delivery services and off-mountain independents. Demand is closely tied to ski-area visits, beginner lessons, family trips and travelers who avoid flying with equipment. The market remains fragmented, but large resort ecosystems increasingly shape distribution through owned rental shops, online reservations, bundled lift-ticket packages and gear subscription models.",
+    "key_stats": {
+      "market_size": "$274.8 million in 2025",
+      "growth": "-2.1% in 2025",
+      "market_size_2024": "$280.8 million in 2024",
+      "cagr_2020_2025": "3.6% CAGR from 2020 to 2025",
+      "u_s_ski_area_visits_2024_25": "61.5 million visits in the 2024-25 season, up 1.7% from 2023-24",
+      "u_s_ski_area_visits_2025_26": "52.6 million preliminary visits in the 2025-26 season, down about 9.0 million from 2024-25",
+      "season_pass_share": "49% of U.S. ski-area visits in 2025-26 used season passes",
+      "daily_multi_day_ticket_share": "31% of U.S. ski-area visits in 2025-26 used daily or multi-day tickets",
+      "vail_retail_rental_revenue": "$302.5 million in fiscal 2025, down 4.6% from fiscal 2024; rental revenue specifically fell 2.2% in fiscal 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$273.5 million in 2022",
+      "growth": "20.8% in 2022",
+      "profit": "$19.0 million in 2022",
+      "profit_margin": "7.1% in 2022",
+      "establishments": "220 establishments in 2022",
+      "enterprises": "202 enterprises in 2022",
+      "employment": "1,304 employees in 2022",
+      "wages": "$76.0 million in 2022",
+      "forecast": "IBISWorld expected 3.7% annualized revenue growth from 2022 to 2027, reaching $327.6 million in 2027"
+    },
+    "how_it_makes_money": "Operators earn revenue from daily and multi-day ski packages, snowboard packages, helmet and boot rentals, performance/demo upgrades, junior and seasonal rentals, clothing rentals, damage waivers, tuning, delivery fees, online reservations and bundled resort packages. Resort-owned shops benefit from lift-ticket, ski-school and lodging integration, while independents compete on price, convenience, local service and off-mountain pickup.",
+    "cost_structure": "The 2022 baseline shows wages at $76.0 million, or about 27.8% of 2022 revenue, and profit at 7.1% of 2022 revenue. Other major costs are rental fleet purchases and replacement, boot and binding maintenance, insurance, rent near resort bases, seasonal labor, payment systems, online booking platforms, delivery vehicles, laundering for clothing rentals and marketing. Cost pressure increased in 2025-26 as lower visits reduced fleet utilization while labor, insurance and equipment replacement remained largely fixed before the season.",
+    "major_players": [
+      "Vail Resorts Retail",
+      "Alterra Mountain Company / Ski Butlers",
+      "Christy Sports",
+      "REI Co-op rental locations",
+      "Resort-owned rental shops",
+      "Independent ski shops in destination and drive markets"
+    ],
+    "current_dynamics": "The market entered 2025 with high participation and near-record resort traffic, but 2025-26 exposed the downside of weather concentration. U.S. ski areas reported 61.5 million visits in 2024-25, then preliminary 2025-26 visits fell to 52.6 million after weak Western snowfall. Rental operators are more exposed than resorts to destination guests, first-timers and daily-ticket buyers, so a shift toward season passes can reduce the share of visits that need rental gear. Online booking, delivery, premium demo selection and resort bundling are becoming more important as operators try to reduce queues and raise average ticket size.",
+    "whats_growing": "Premium demo rentals, junior seasonal packages, helmet-inclusive bundles, online reservations, delivery-to-lodging services, learn-to-ski packages, backcountry and touring rentals, clothing rentals and resort-integrated gear programs are growing. Participation data also supports the beginner funnel: SIA reported that U.S. snowsports participation exceeded 30 million people in the 2023-24 season, and its 2024-25 highlights said overall winter-sports participation rose 2.4%.",
+    "whats_shrinking": "Snowboard-specific share remains below ski rentals in the 2022 baseline, and lower-snow Western seasons shrink high-value destination-rental days. Daily and multi-day ticket share has been pressured by season-pass dominance, with daily and multi-day tickets at 31% of U.S. visits in 2025-26. Retail-linked rental demand also weakened at large operators: Vail Resorts reported fiscal 2025 retail/rental revenue down 4.6% and rental revenue down 2.2%, partly because destination skier visitation fell.",
+    "recent_developments": [
+      "2024-05: NSAA reported 60.4 million U.S. skier visits for the 2023-24 season, down about 8% from the 2022-23 record season.",
+      "2024-10: SIA reported U.S. snowsports participation surpassed 30 million people for the first time in the 2023-24 season.",
+      "2025-05: NSAA reported 61.5 million U.S. skier visits for the 2024-25 season, the second-highest season on record and up 1.7% from 2023-24.",
+      "2025-06: IBISWorld listed the U.S. ski and snowboard rental market at $274.8 million in 2025, down 2.1% from 2024.",
+      "2026-03: Vail Resorts announced a multi-year plan to bring My Epic Gear features into all rentals, including online model selection for demo skis and snowboards across 12 resorts in the 2026-27 season.",
+      "2026-05: Preliminary NSAA data showed 52.6 million U.S. ski-area visits in the 2025-26 season, about 9.0 million fewer than 2024-25 after weak Western snowfall."
+    ],
+    "outlook": "The 2026 outlook is cautious. The 2025 market size nearly matched the 2022 baseline, but the 2025-26 visit decline creates downside risk for 2026 rental revenue, especially in Western destination markets. Longer term, demand should be supported by resilient domestic leisure travel, a 2026 rebound in inbound travel forecasts and a large beginner participant base, but growth will depend on snowfall, snowmaking investment, affordability and the ability of rental operators to attach gear to lessons, lodging and online trip planning.",
+    "themes": [
+      "Weather volatility and shorter seasons",
+      "Destination-travel exposure",
+      "Season-pass mix vs. rental demand",
+      "Beginner and family conversion",
+      "Online reservations and delivery",
+      "Premium demo and gear subscription models",
+      "Helmet and accessory attachment",
+      "Fragmented independents vs. resort-owned channels"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld market-size statistics for Ski & Snowboard Rental in the US, last updated June 2025', 'url': 'https://www.ibisworld.com/industry-statistics/market-size/ski-snowboard-rental-united-states/'}",
+      "{'title': 'Baseline IBISWorld report text provided in workspace, last updated June 24, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/ski-and-snowboard-rental.txt'}",
+      "{'title': 'NSAA industry stats page, 2024-25 datasets and reports', 'url': 'https://www.nsaa.org/NSAA/About/Media/Industry_Stats/NSAA/About/Media/Industry_Stats.aspx'}",
+      "{'title': 'Snowsports News report on NSAA preliminary 2025-26 U.S. skier visits', 'url': 'https://www.snowsportsnews.com/newsrepository/2026/may/us-ski-industry-reports-visitor-data-from-2025-26-season/'}",
+      "{'title': 'Colorado Sun report on 2024-25 U.S. skier visits', 'url': 'https://coloradosun.com/2025/05/12/national-skier-visits-2024-25/'}",
+      "{'title': 'Snowsports Industries America 2023-24 participation study announcement', 'url': 'https://www.outdoorsportswire.com/snowsports-industries-america-sia-releases-2023-2024-participation-study-u-s-snowsports-participation-surpasses-30-million-for-the-first-time/'}",
+      "{'title': 'SIA 2024-25 winter sports participation highlights announcement', 'url': 'https://www.facebook.com/SIAsnowsports/posts/fresh-data-alert-the-20242025-winter-sports-participation-highlights-report-is-h/1135476175291732/'}",
+      "{'title': 'Vail Resorts fiscal 2025 Form 10-K excerpt via PublicNow', 'url': 'https://www.publicnow.com/view/8E47531BFABD2A14BB74781E5A93A80BE92561AF'}",
+      "{'title': 'Vail Resorts March 16, 2026 rental experience announcement', 'url': 'https://investors.vailresorts.com/news-releases/news-release-details/vail-resorts-bring-my-epic-gear-experience-all-rentals'}",
+      "{'title': 'U.S. Travel Association Spring 2026 travel forecast', 'url': 'https://www.ustravel.org/research/travel-forecasts'}",
+      "{'title': 'BEA Outdoor Recreation Economic Statistics, 2024 release published March 5, 2026', 'url': 'https://www.bea.gov/data/special-topics/outdoor-recreation'}"
+    ],
+    "one_sentence": "The U.S. ski and snowboard rental industry generated $274.8 million in 2025, down 2.1% from 2024, as strong post-pandemic participation was offset by weather volatility, pass-holder mix and pressure on destination visits.",
+    "slug": "ski-and-snowboard-rental"
+  }
+]

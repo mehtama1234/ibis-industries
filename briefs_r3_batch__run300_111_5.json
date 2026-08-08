@@ -1,0 +1,432 @@
+[
+  {
+    "title": "Forensic Accounting Services",
+    "sector": "Business Services",
+    "one_liner": "Forensic accountants turn messy financial records into evidence for fraud investigations, disputes, bankruptcies and regulatory matters.",
+    "overview": "Forensic Accounting Services in the US applies accounting, auditing, valuation and investigative methods to legal and regulatory problems. Providers investigate suspected fraud, trace assets, quantify damages, support bankruptcy and insolvency cases, prepare expert reports and testify in litigation or arbitration. The industry is labor-intensive and relationship-driven, but the competitive frontier is shifting toward forensic data analytics, e-discovery, AI-assisted document review, crypto tracing and cross-border compliance work. The 2021 IBISWorld baseline placed 2021 US revenue at $6.961 billion and forecast 2026 revenue of $7.9 billion; updated 2025-2026 indicators show continued demand from fraud losses, SEC/DOJ enforcement, bankruptcy filings and compliance complexity.",
+    "key_stats": {
+      "market_size": "2026 US industry revenue estimate: $7.9 billion, based on the 2021 IBISWorld forecast for Forensic Accounting Services in the US.",
+      "growth": "2021-2026 projected CAGR: 2.6%, based on the 2021 IBISWorld forecast.",
+      "profit_margin": "2021 profit margin baseline: 17.8%.",
+      "employment": "2021 industry employment baseline: 32,064 workers; 2026 forecast implied continued wage pressure as specialist demand rises.",
+      "establishments": "2021 establishments baseline: 5,137; 2026 forecast: roughly 5,134 enterprises.",
+      "fraud_environment": "2024 FTC consumer fraud losses: $12.5 billion, up 25% from 2023, with 2.6 million fraud reports.",
+      "bankruptcy_environment": "FY2025 US business bankruptcy petitions: 24,039, up 5.6% from FY2024.",
+      "labor_market": "May 2025 US accountants and auditors: 1,449,500 employed with $94,750 mean annual wage, according to BLS.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US revenue: about $7.14 billion, derived from the 2021 IBISWorld revenue baseline of $6.961 billion and its 2021-2026 projected CAGR of 2.6%.",
+      "growth": "2022 estimated growth: about 2.6%, using the 2021 IBISWorld 2021-2026 CAGR forecast as the baseline growth path.",
+      "context": "The 2022 baseline followed a 2021 market in which IBISWorld estimated revenue at $6.961 billion, profit at $1.239 billion and profit margin at 17.8%."
+    },
+    "how_it_makes_money": "Firms bill hourly, on project retainers or through fixed-fee scopes for fraud investigations, financial statement misrepresentation work, litigation support, expert witness testimony, valuation, damages analysis, bankruptcy support, asset tracing, monitorships, compliance remediation and e-discovery/data analysis. Large firms win complex, cross-border and regulator-facing matters; boutiques compete through local legal relationships, niche expertise and lower billing rates.",
+    "cost_structure": "Labor is the dominant cost because engagements require CPAs, CFFs, CFEs, valuation specialists, data analysts and testifying experts. Other major costs include forensic technology platforms, e-discovery tools, secure data hosting, professional liability insurance, legal support, training and certifications, marketing/business development, rent and general administration. Profitability is supported by high-value expert work, but pressured by senior talent costs, software subscriptions and fee competition from boutiques and multidisciplinary consulting firms.",
+    "major_players": [
+      "Deloitte",
+      "PwC",
+      "EY",
+      "KPMG",
+      "FTI Consulting",
+      "Kroll",
+      "BDO USA",
+      "Grant Thornton"
+    ],
+    "current_dynamics": "Demand in 2025-2026 is being pulled forward by high reported fraud losses, more data-intensive investigations, a larger compliance burden, elevated bankruptcy activity and regulator emphasis on securities fraud, market manipulation, whistleblower claims and public-program fraud. Clients increasingly want outside specialists who can preserve evidence, analyze large datasets, explain findings to counsel and boards, and withstand scrutiny from courts, auditors and agencies. The strongest firms combine accounting credentials with analytics, cybersecurity, AML/sanctions, crypto tracing and litigation support capabilities.",
+    "whats_growing": "Fraud detection and investigation, compliance remediation, whistleblower-driven investigations, AI-assisted transaction monitoring, e-discovery, crypto and digital-asset tracing, healthcare and government-program fraud work, bankruptcy-related damages and trustee support, and cross-border corruption/sanctions reviews are growing. Small-business and restructuring work is also improving as 2025 bankruptcy filings normalized upward from pandemic-era lows.",
+    "whats_shrinking": "Lower-complexity manual document review, purely reactive spreadsheet-based investigations and smaller undifferentiated practices face pressure from automation, client fee scrutiny and competition from Big Four, consulting and legal-services platforms. Chapter 11 business petitions fell 0.8% in FY2025, which limits one high-value bankruptcy niche even as total business bankruptcy petitions increased.",
+    "recent_developments": [
+      "2025-01-17: SEC reported 200 enforcement actions in Q1 FY2025, its busiest first fiscal quarter since at least 2000.",
+      "2025-03-10: FTC reported 2024 consumer fraud losses of $12.5 billion, up 25% from 2023.",
+      "2025-09-25: FTI Consulting expanded its SEC & Accounting Advisory offering with former SEC enforcement staff hires.",
+      "2026-01-16: DOJ reported FY2025 False Claims Act settlements and judgments above $6.8 billion and a record 1,297 qui tam suits.",
+      "2026-04-07: SEC reported FY2025 results of 456 enforcement actions, $17.9 billion in ordered monetary relief and roughly $60 million awarded to 48 whistleblowers.",
+      "2026-06-05: Epiq AACER reported May 2026 commercial Subchapter V elections up 36% from May 2025."
+    ],
+    "outlook": "The industry outlook is positive but not explosive. Baseline IBISWorld projections point to 2026 US revenue of about $7.9 billion after a 2021-2026 CAGR of 2.6%, while current 2025-2026 indicators suggest demand quality is improving in complex fraud, regulatory, bankruptcy and analytics-led work. Margin expansion will depend on whether firms can price specialized expertise and technology faster than wage, software and insurance costs rise. Large multidisciplinary firms should keep winning the highest-stakes matters, while boutiques can grow by specializing in family law, shareholder disputes, crypto tracing, government-contracting fraud, bankruptcy or local litigation support.",
+    "themes": [
+      "Fraud and financial crime",
+      "Regulatory enforcement",
+      "Whistleblower investigations",
+      "Bankruptcy and restructuring",
+      "Litigation support",
+      "Forensic data analytics",
+      "AI-enabled investigations",
+      "Talent scarcity",
+      "Fee pressure",
+      "Big Four competition"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Forensic Accounting Services in the US, last updated 2021-08-26', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/forensic-accounting-services.txt'}",
+      "{'title': 'FTC: New FTC Data Show a Big Jump in Reported Losses to Fraud to $12.5 Billion in 2024', 'url': 'https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024'}",
+      "{'title': 'SEC: SEC Announces Enforcement Results for Fiscal Year 2025', 'url': 'https://www.sec.gov/newsroom/press-releases/2026-34'}",
+      "{'title': 'DOJ: False Claims Act Settlements and Judgments Exceed $6.8B in Fiscal Year 2025', 'url': 'https://www.justice.gov/opa/pr/false-claims-act-settlements-and-judgments-exceed-68b-fiscal-year-2025'}",
+      "{'title': 'US Courts: Judicial Business 2025, U.S. Bankruptcy Courts', 'url': 'https://www.uscourts.gov/data-news/reports/statistical-reports/judicial-business-united-states-courts/judicial-business-2025/us-bankruptcy-courts-judicial-business-2025'}",
+      "{'title': 'BLS: National employment and wage data, May 2025', 'url': 'https://www.bls.gov/news.release/ocwage.t01.htm'}",
+      "{'title': 'ACFE: 2024 Report to the Nations press release', 'url': 'https://www.acfe.com/about-the-acfe/newsroom-for-media/press-releases/press-release-detail?s=2024-Report-to-the-Nations'}",
+      "{'title': 'PwC: Global Compliance Survey 2025', 'url': 'https://www.pwc.com/gx/en/issues/risk-regulation/global-compliance-survey.html'}",
+      "{'title': 'FTI Consulting: Expands SEC & Accounting Advisory Offering', 'url': 'https://www.fticonsulting.com/about/newsroom/press-releases/fti-consulting-expands-sec-accounting-advisory-offering'}",
+      "{'title': 'Epiq AACER: May Small Business Filings Increase 36% From Previous Year', 'url': 'https://www.epiqglobal.com/en-us/resource-center/news/may-small-business-filings-increase-36-from-previous-year'}"
+    ],
+    "one_sentence": "The US forensic accounting services industry remains a specialized business-services niche where demand is driven by fraud losses, whistleblower activity, litigation, restructurings, regulatory enforcement and the shift toward data-heavy investigations.",
+    "slug": "forensic-accounting-services"
+  },
+  {
+    "title": "Forensic Technology Services",
+    "sector": "Business Services",
+    "one_liner": "A small, government-funded forensic lab services market where DNA backlogs, drug chemistry, toxicology and digital evidence offset falling headline crime rates.",
+    "overview": "The US Forensic Technology Services industry is a narrow services market centered on outsourced and specialized forensic analysis for public criminal justice agencies, not the much larger market for forensic instruments, reagents and software. The 2021 IBIS baseline placed industry revenue at $815.0 million and forecast a drift down to $791.8 million by 2026, but 2025-2026 public data show stronger demand pressure than the old forecast implied: public labs still carry large backlogs, federal DNA collection has expanded sharply, drug chemistry remains heavy because of synthetic opioids and novel substances, and courts increasingly expect scientific evidence. At the same time, FBI and BJS data show violent and property crime rates declined in 2024, limiting volume growth in traditional casework. The result is a mature, low-concentration industry with stable government demand, high technical barriers, persistent staffing constraints and rising cybersecurity and validation requirements.",
+    "key_stats": {
+      "market_size": "2026 estimated US forensic technology services revenue: about $792 million, based on the 2021 IBIS forecast for the narrow services category; broader US forensic technology products-and-services market projected at $2.31 billion in 2026 by Fortune Business Insights.",
+      "growth": "2021-2026 forecast CAGR: -0.6% for the narrow IBIS services category; 2026-2034 projected CAGR: 7.16% for the broader global forensic technology market.",
+      "public_lab_workload": "2020 publicly funded forensic labs received 3.3 million service requests and ended 2020 with about 710,900 requests not completed within 30 days.",
+      "drug_reports": "2025 NFLIS-Drug recorded 1,126,178 drug reports from participating US forensic laboratories.",
+      "crime_indicator": "2024 US violent crime decreased an estimated 4.5% versus 2023, while BJS estimated violent offense rates fell from 393.9 per 100,000 in 2023 to 370.8 per 100,000 in 2024.",
+      "labor_indicator": "2024 BLS employment for forensic science technicians was 20,700 jobs, with 2024-2034 projected employment growth of 13% and 2024 median annual pay of $67,440.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated industry revenue: about $810 million, derived from the 2021 IBIS revenue of $815.0 million and its 2021-2026 forecast CAGR of -0.6%.",
+      "growth": "2022 estimated annual revenue growth: about -0.6%, using the 2021-2026 IBIS forecast path.",
+      "profit_margin": "2021 IBIS profit margin baseline: 9.1% of revenue; 2022 likely near 9% as lab backlogs supported utilization but staffing and equipment costs stayed elevated.",
+      "establishments": "2022 estimated establishments: about 180, based on the 2021 IBIS count of 179 and forecast growth to 184 by 2026.",
+      "employment": "2022 estimated industry employment: about 6,056, based on the 2021 IBIS count of 6,050 and forecast growth to 6,079 by 2026."
+    },
+    "how_it_makes_money": "Operators earn revenue from fee-for-service laboratory testing, casework outsourcing contracts, evidence processing, expert reporting and testimony, DNA database sample processing, toxicology panels, controlled-substance identification, firearms and toolmark analysis, latent print work, crime-scene reconstruction and digital evidence services. Buyers are mostly government agencies, with county and municipal governments the largest outsourced customer group in the 2021 IBIS baseline, followed by federal and state agencies.",
+    "cost_structure": "The industry is labor-heavy: the 2021 IBIS baseline showed wages of $353 million on $815 million of revenue, or about 43.3% of sales, reflecting scientists, analysts, technicians, quality managers and expert witnesses. Key nonlabor costs include reagents, consumables, proficiency testing, accreditation, lab information management systems, DNA sequencers, mass spectrometers, maintenance contracts, secure evidence storage, insurance and compliance. Profit was 9.1% of revenue in 2021; 2025-2026 margins are pressured by analyst shortages, overtime, cybersecurity upgrades and instrument validation, while high-complexity DNA, toxicology and digital forensics support pricing.",
+    "major_players": [
+      "Publicly funded federal, state, county and municipal crime laboratories",
+      "Bode Technology",
+      "NMS Labs",
+      "Eurofins Scientific",
+      "Thermo Fisher Scientific",
+      "QIAGEN / Verogen",
+      "Promega Corporation",
+      "Agilent Technologies"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions in 2025-2026. Traditional case volumes face a headwind from lower 2024 violent and property crime rates, but backlog reduction, expanded CODIS sample intake, sexual-assault-kit processing, fentanyl and novel-drug analysis, and more sensitive DNA workflows keep laboratories busy. Public agencies remain the main payers, so grant timing and local budgets matter as much as crime trends. The 2024 crime lab census is being collected in 2025 for CY 2024, which should give the next major public benchmark on lab budgets, staffing, workload and backlogs. Cybersecurity has become a board-level lab issue after 2025-2026 product security bulletins and warnings about DNA data-file integrity.",
+    "whats_growing": "DNA casework, DNA database processing, investigative genetic genealogy support, degraded and mixed-DNA interpretation, toxicology panels for fentanyl and emerging synthetic drugs, rapid drug identification, digital evidence extraction, lab automation, LIMS modernization, validation services and cybersecurity controls are growing in 2025-2026. Broader market data point to DNA analysis as 38.26% of the 2026 forensic technology market and services as 68.66% of the 2026 market, reinforcing the service-heavy growth mix.",
+    "whats_shrinking": "Lower 2024 violent crime and property crime rates reduce some traditional evidence submissions tied to robbery, burglary and aggravated assault. Small stand-alone labs remain vulnerable to consolidation into larger state or regional systems. Lower-margin routine controlled-substance tests face pressure from automation, public lab insourcing and procurement scrutiny, while older manual comparison workflows in fingerprints and ballistics are being displaced by imaging, databases and AI-assisted review.",
+    "recent_developments": [
+      "2025-08-05: FBI reported over 14 million 2024 criminal offenses and estimated 2024 violent crime down 4.5% from 2023.",
+      "2025-09-11: BJA posted the FY25 DNA Capacity Enhancement for Backlog Reduction formula grant opportunity to help labs process DNA samples for CODIS and reduce or prevent backlogs.",
+      "2025-11-17: BJA updated Paul Coverdell funding data showing FY2023 awards of $31.27 million and cumulative FY2002-FY2023 awards of $399.71 million.",
+      "2026-02-17: NIST released RM 8043, a forensic DNA reference material for degraded DNA and multi-person DNA mixtures.",
+      "2026-03-16: BJS published 2024 crime estimates showing the violent offense rate fell to 370.8 per 100,000 and property offense rate fell to 1,835.1 per 100,000.",
+      "2026-07-31: Thermo Fisher listed a security bulletin for select Genetic Analyzer Instrument Data Collection and GeneMapper ID-X software versions."
+    ],
+    "outlook": "The narrow US services industry is likely to stay roughly flat to modestly positive through 2026 rather than grow like the broader forensic technology market. Lower reported crime is a volume headwind, but backlog funding, federal DNA collection, synthetic-drug testing, court demand for scientifically defensible evidence and digital evidence complexity support steady utilization. The best-positioned operators will be accredited labs with validated high-throughput DNA and toxicology workflows, automation, defensible chain-of-custody systems, expert-witness capacity and cyber-hardened data handling. The biggest constraints are skilled analyst supply, grant volatility, procurement cycles and the cost of validating new methods before they can be used in court.",
+    "themes": [
+      "DNA backlog reduction",
+      "Synthetic opioids and emerging drug chemistry",
+      "Lab automation and LIMS modernization",
+      "Cybersecurity and evidence integrity",
+      "Public-sector funding dependence",
+      "Accreditation and validation burden",
+      "Digital forensics convergence",
+      "Forensic workforce shortages"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Forensic Technology Services, last updated 2021-08-02', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/forensic-technology-services.txt'}",
+      "{'name': 'Bureau of Justice Statistics, Publicly Funded Forensic Crime Laboratories, 2020, published 2023-12-28', 'url': 'https://bjs.ojp.gov/library/publications/publicly-funded-forensic-crime-laboratories-2020'}",
+      "{'name': 'Bureau of Justice Statistics, Crime Known to Law Enforcement, 2024, published 2026-03-16', 'url': 'https://bjs.ojp.gov/library/publications/crime-known-law-enforcement-2024'}",
+      "{'name': 'FBI, 2024 Reported Crimes in the Nation Statistics, released 2025-08-05', 'url': 'https://www.fbi.gov/news/press-releases/fbi-releases-2024-reported-crimes-in-the-nation-statistics'}",
+      "{'name': 'DEA National Forensic Laboratory Information System, 2025 drug report total', 'url': 'https://www.nflis.deadiversion.usdoj.gov/'}",
+      "{'name': 'Bureau of Justice Assistance, FY25 DNA Capacity Enhancement for Backlog Reduction Formula Grants Program, updated 2026-05-13', 'url': 'https://simpler.grants.gov/opportunity/273fd722-0557-4307-a1d0-78e60404b8a3'}",
+      "{'name': 'Bureau of Justice Assistance, Paul Coverdell Forensic Science Improvement Grants funding table, modified 2025-11-17', 'url': 'https://bja.ojp.gov/program/coverdell/funding'}",
+      "{'name': 'NIST, RM 8043 forensic DNA reference material release, 2026-02-17', 'url': 'https://www.nist.gov/news-events/news/2026/02/nist-releases-new-forensic-genetic-reference-material-help-crime'}",
+      "{'name': 'BLS Occupational Outlook Handbook, Forensic Science Technicians, modified 2025-08-28', 'url': 'https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm'}",
+      "{'name': 'Fortune Business Insights, Forensic Technology Market, updated 2026-07-20', 'url': 'https://www.fortunebusinessinsights.com/forensic-technology-market-110927'}",
+      "{'name': 'Thermo Fisher Scientific product security bulletins, accessed 2026-08-08', 'url': 'https://corporate.thermofisher.com/us/en/index/about/information-security/Protecting-Our-Products/security-bulletins.html'}",
+      "{'name': 'OMB.report, 2024 Census of Publicly Funded Forensic Crime Laboratories collection notice, 2025 reference-period collection', 'url': 'https://omb.report/omb/1121-0269'}"
+    ],
+    "one_sentence": "Forensic Technology Services providers process DNA, fingerprints, toxicology, controlled substances, ballistics, trace evidence, crime-scene and digital evidence for federal, state, county and municipal justice agencies.",
+    "slug": "forensic-technology-services"
+  },
+  {
+    "title": "Forest Support Services in the US",
+    "sector": "Agriculture",
+    "one_liner": "Forest support firms provide contracted firefighting, fuels reduction, pest control, timber cruising, mapping, reforestation and forestry consulting for landowners, loggers and public agencies.",
+    "overview": "Forest Support Services in the US covers NAICS 115310 activities such as forest firefighting, forest pest control, timber estimating, mapping, reforestation, prescribed burning, fuels management and forest consulting. Baseline 2022 revenue reached $4.607 billion after unusually strong lumber and residential-construction demand, but 2025 conditions were weaker for housing-linked timber support: total 2025 housing starts were 1.36 million, down 0.6% from 2024, and single-family starts were 943,000, down 6.9%. Offsetting demand is coming from wildfire and forest resilience work: 2025 wildfires burned 5.131 million acres, and by July 20, 2026, 40,771 fires had burned 3.961 million acres, supporting ongoing demand for suppression crews, hazard reduction, mapping and reforestation services.",
+    "key_stats": {
+      "market_size": "2025 estimated $4.0 billion, calculated from the 2022 IBISWorld baseline of $4.607 billion and the baseline 2022-2027 decline forecast; 2022 dollars.",
+      "growth": "2025 estimated -5.0% year over year, consistent with the baseline 2022-2027 contraction path after the 2022 lumber spike.",
+      "employment": "2025 BLS employment index for NAICS 115310 was 127.649, up from 114.891 in 2022 and 121.611 in 2024.",
+      "employer_establishments": "2023 Census Business Patterns reported 2,023 employer establishments in NAICS 115310.",
+      "wildfire_demand_indicator": "2025 U.S. wildfires burned 5,131,474 acres; 2026 year-to-date through July 20 recorded 40,771 fires and 3,960,623 acres burned.",
+      "housing_demand_indicator": "2025 total housing starts were 1.36 million, down 0.6% from 2024; June 2026 starts were 1.427 million at a seasonally adjusted annual rate.",
+      "service_mix_2022": "Forest firefighting and pest control 62.3% of revenue; forest research and consulting 27.9%; timber resource estimating and reforestation 9.8%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$4.607 billion in 2022 revenue, in 2022 dollars.",
+      "growth": "18.5% revenue growth in 2022 and 8.8% annualized growth over 2017-2022.",
+      "profit": "$627 million in 2022 profit.",
+      "profit_margin": "13.6% in 2022.",
+      "employment": "33,465 employees in 2022.",
+      "establishments": "16,267 establishments in 2022.",
+      "enterprises": "15,902 enterprises in 2022.",
+      "wages": "$1.347 billion in 2022 wages."
+    },
+    "how_it_makes_money": "Operators earn project, standby, call-out, hourly, per-acre and consulting fees from federal and state agencies, timberland owners, logging companies, insurers, utilities and conservation groups. Core revenue comes from wildfire suppression crews and engines, prescribed-fire planning, hazardous-fuels thinning, pest-control spraying, timber cruising, GIS mapping, inventory analysis, replanting and forestry economics consulting.",
+    "cost_structure": {
+      "labor": "Labor is the main cost; 2022 wages were $1.347 billion, equal to about 29.2% of 2022 revenue.",
+      "profit": "2022 profit was $627 million, equal to a 13.6% margin; margins are higher in consulting and mapping than in manual firefighting and fuels work.",
+      "equipment_and_vehicles": "2025-2026 costs include engines, saws, protective gear, communications gear, water tenders, aircraft-related subcontracting, GIS tools and maintenance.",
+      "fuel_travel_and_camps": "Fuel, lodging, food, transport and remote-site logistics rise during long fire deployments and multi-state mobilizations.",
+      "insurance_and_compliance": "Workers compensation, liability coverage, training, red-card qualification, federal contracting compliance and safety documentation are material overhead items."
+    },
+    "major_players": [
+      "Grayback Forestry Inc.",
+      "PatRick Environmental Inc.",
+      "Firestorm Wildland Fire Suppression Inc.",
+      "Miller Timber Services",
+      "CPM Development Corporation",
+      "No single dominant national player; the industry remains highly fragmented and includes many seasonal nonemployer contractors."
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Housing and sawmill-linked demand is softer than the 2020-2022 boom, with 2025 total starts down 0.6% and single-family starts down 6.9% from 2024, reducing timber cruising, reforestation and logging-support demand tied to new construction. At the same time, wildfire activity, federal readiness requirements and fuels-reduction work are sustaining contractor demand. USDA said in April 2026 that the Forest Service could mobilize more than 28,000 wildfire responders and over 22,000 contracted resources across 2,500 vendors, while NIFC reported 3.961 million acres burned year-to-date by July 20, 2026.",
+    "whats_growing": [
+      "2025-2026 wildfire suppression staffing, contract crews, engines and aviation support.",
+      "2025-2026 hazardous-fuels treatment, prescribed-fire support and vegetation management near communities.",
+      "2025-2026 GIS, remote sensing, fire-risk mapping and decision-support consulting.",
+      "2025-2026 pest control and forest-health work tied to drought, invasive insects and overstocked stands.",
+      "2025-2026 public-sector and utility-funded resilience projects."
+    ],
+    "whats_shrinking": [
+      "2025-2026 timber valuation and logging-support work tied to softer single-family construction demand.",
+      "2025-2026 low-margin manual thinning capacity where federal project timing or staffing limits delay fuels work.",
+      "2025-2026 small contractors exposed to high insurance, vehicle, fuel and training costs.",
+      "2025-2026 purely lumber-cycle-driven work as pandemic-era sawmill price distortions fade."
+    ],
+    "recent_developments": [
+      "2025: U.S. wildfires burned 5,131,474 acres, below the recent 10-year average but still a large recurring demand base for suppression and recovery contractors.",
+      "2025: Total housing starts were 1.36 million, down 0.6% from 2024, while single-family starts fell 6.9% to 943,000.",
+      "January 28, 2026: The Forest Service reported 3.3 million acres of FY2025 hazardous-fuels treatment, equal to 92% of its FY2025 target.",
+      "April 29, 2026: USDA issued a 2026 wildfire readiness memorandum directing faster response, streamlined contracting support and stronger firefighter safety preparation.",
+      "June 2026: Census reported housing starts at a 1.427 million seasonally adjusted annual rate, 3.5% above June 2025 but with single-family starts still essentially flat from May 2026.",
+      "July 20, 2026: NIFC reported 40,771 fires and 3,960,623 acres burned year-to-date, with national preparedness at Level 5 and 19,397 personnel assigned."
+    ],
+    "outlook": "Through 2026-2029, revenue is likely to remain below the 2022 pandemic-lumber peak but less weak than a pure housing-cycle forecast would imply. Housing-linked timber services face slow growth because 2025 starts were soft and 2026 mortgage and affordability constraints remain material. Wildfire, prescribed fire, fuels reduction, reforestation and pest control should provide a firmer floor, especially for contractors already qualified for federal and state emergency work. The main risks are federal budget delays, contractor insurance and labor shortages, and volatile fire seasons that create uneven but intense demand spikes.",
+    "themes": [
+      "Wildfire resilience",
+      "Hazardous-fuels reduction",
+      "Seasonal contractor capacity",
+      "Housing-cycle exposure",
+      "Public-sector outsourcing",
+      "Forest health and invasive pests",
+      "GIS and remote sensing",
+      "Fragmented small-business market"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Forest Support Services in the US, IBISWorld, last updated July 29, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/forest-support-services-in-the-us.txt'}",
+      "{'title': 'National Interagency Fire Center, Statistics and 2026 current fire activity', 'url': 'https://www.nifc.gov/fire-information/statistics'}",
+      "{'title': 'National Interagency Fire Center, National Fire News, July 20, 2026', 'url': 'https://www.nifc.gov/fire-information/nfn?source=post_page---------------------------'}",
+      "{'title': 'USDA Office of Communications, 2026 Wildfire Readiness Memorandum, April 29, 2026', 'url': 'https://content.govdelivery.com/accounts/USDAOC/bulletins/4152503'}",
+      "{'title': 'FRED, BLS employment index for NAICS 115310, updated June 3, 2026', 'url': 'https://fred.stlouisfed.org/series/IPUAN115310W010000000'}",
+      "{'title': 'U.S. Census Bureau profile, NAICS 115310 Support Activities for Forestry', 'url': 'https://data.census.gov/profile/115310_-_Support_activities_for_forestry?codeset=naics~115310&g=010XX00US'}",
+      "{'title': 'NAHB, Overall Housing Starts Inch Lower in 2025, February 18, 2026', 'url': 'https://www.nahb.org/news-and-economics/press-releases/2026/02/overall-housing-starts-inch-lower-in-2025'}",
+      "{'title': 'U.S. Census Bureau, Monthly New Residential Construction, June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'title': 'USAFacts, U.S. wildfire acreage in 2025 using NIFC data, updated July 24, 2026', 'url': 'https://usafacts.org/articles/how-much-damage-do-wildfires-do-in-the-us/'}",
+      "{'title': 'Grayback Forestry company services and history', 'url': 'https://www.graybackforestry.com/'}",
+      "{'title': 'Firestorm Wildland Fire Suppression company services', 'url': 'https://firestormfire.com/'}",
+      "{'title': 'PatRick Environmental company services', 'url': 'https://www.patrickfire.com/'}"
+    ],
+    "one_sentence": "The industry is a fragmented, seasonal contractor market whose pandemic-era lumber boost has faded, while wildfire readiness, hazardous-fuels work and forest health programs keep demand from falling as fast as housing-linked timber services.",
+    "slug": "forest-support-services-in-the-us"
+  },
+  {
+    "title": "Frozen Cake & Pastry Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. frozen cake and pastry manufacturers are a mature but recovering bakery niche, lifted by premium desserts, portion-controlled formats and foodservice convenience while fresh bakery competition and ingredient costs cap margins.",
+    "overview": "Frozen Cake & Pastry Manufacturing sits inside U.S. food manufacturing and sells shelf-stable-through-freezing indulgence products that trade on convenience, holiday demand, consistent quality and reduced food waste. IBISWorld's February 2022 baseline described a mature industry hurt by health concerns, fresh bakery substitution and COVID-era home baking, but also supported by premium ingredients, better freezing and packaging, and single-serve innovation. Public 2025-2026 sources point to a firmer frozen aisle: AFFI's 2026 Power of Frozen findings report 40% of consumers use frozen foods every few days or daily, up from 35% in 2019, while broader frozen food sales exceeded $87 billion in 2025. For this specific NAICS-style niche, a 2025 Kentley listing reports 2024 U.S. industry sales of $6.8 billion, suggesting the category has recovered from the 2022 $6.267 billion baseline but remains dependent on price/mix, premiumization and channel placement rather than broad volume acceleration.",
+    "key_stats": {
+      "market_size": "2024 U.S. frozen cakes, pies and other pastries manufacturing sales: $6.8 billion.",
+      "growth": "2022-2028 IBISWorld projected revenue CAGR: 1.5%; 2026-2033 U.S. frozen bakery products CAGR: 5.8%; 2026-2033 cakes and pastries segment projected CAGR: 6.0%.",
+      "producer_prices": "May 2026 PPI for frozen cakes, pies and other pastries manufacturing: 402.711, index Dec. 1982=100.",
+      "retail_price_signal": "May 2026 CPI line for frozen and refrigerated bakery products, pies, tarts and turnovers: 0.2% month-over-month and 0.4% year-over-year.",
+      "baseline_profitability": "2022 IBISWorld profit: $288 million; 2022 profit margin: 4.6%.",
+      "baseline_trade": "2022 exports: $219 million; 2022 imports: $917 million; 2022 domestic demand: $6.965 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $6.267 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: 0.4%; 2017-2022 revenue CAGR: -2.3%; 2022-2028 projected CAGR: 1.5%.",
+      "profit": "2022 profit: $288 million; 2022 profit margin: 4.6%.",
+      "establishments": "2022 establishments: 216; 2022 enterprises: 183.",
+      "employment": "2022 employment: 21,942 workers; 2022 wages: $1.022 billion.",
+      "product_mix": "2022 frozen pies: 52.4% of revenue; 2022 frozen cheesecakes: 14.5%; 2022 frozen soft cakes: 9.4%; 2022 other frozen pastries and related products: 23.7%."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by producing branded, private-label and contract-manufactured frozen pies, cheesecakes, cakes, pastries, doughnuts, cookies and dessert components, then selling through grocery wholesalers, supermarkets, club stores, convenience channels, foodservice distributors, restaurants, institutional buyers and in-store bakery programs. Higher-margin opportunities in 2025-2026 are premium clean-label desserts, cheesecakes, handheld pies, seasonal holiday items, foodservice back-of-house labor savers and customized products for retail bakery and restaurant accounts.",
+    "cost_structure": {
+      "ingredients": "2022 baseline identifies wheat/flour, sugar, milk, cream cheese, eggs, fruit fillings, oils and chocolate as key inputs; ingredient volatility remains important because the May 2026 category PPI reached 402.711.",
+      "labor": "2022 wages were $1.022 billion across 21,942 workers; foodservice and retail customers value frozen bakery partly because it reduces skilled bakery labor needs in 2025-2026.",
+      "cold_chain": "2025-2026 costs include freezing, cold storage, refrigerated transport, energy, temperature monitoring and freezer-case service requirements.",
+      "packaging": "Packaging is material because frozen desserts need portion control, freezer-burn protection, tamper resistance, merchandising graphics and club/grocery case formats.",
+      "profit": "2022 profit margin was 4.6%, with margin pressure from raw materials, private label competition, promotions and freight offset by automation, scale and premium mix."
+    },
+    "major_players": [
+      "Sara Lee Frozen Bakery",
+      "Schwan's Company / Edwards and Mrs. Smith's frozen desserts",
+      "Dessert Holdings",
+      "Rise Baking Company",
+      "Rich Products",
+      "Martin Braun-Gruppe / Hoff's Bakery",
+      "Europastry",
+      "Private-label grocery and club manufacturers"
+    ],
+    "current_dynamics": "The 2025-2026 market is better than the 2022 trough but still mixed. Dollar sales benefit from price/mix, premium celebration desserts, foodservice back-of-house convenience and broader frozen aisle engagement. Unit growth is more selective, and consumers are balancing indulgence with GLP-1-era portion control, clean labels, added-sugar scrutiny and value shopping. Consolidation is active, with dessert platforms buying pie, cheesecake and premium frozen bakery assets to broaden customer relationships and plant utilization. The regulatory backdrop is also tightening: FDA's 2025 front-of-package nutrition proposal would put added sugar, sodium and saturated fat signals on most packaged foods if finalized, and 2026 traceability-rule activity keeps lot-level recordkeeping on management agendas even though enforcement was pushed toward July 20, 2028.",
+    "whats_growing": [
+      "2025-2026 premium, artisanal-style frozen cakes, cheesecakes, pies, tortes and pastries.",
+      "2025-2026 single-serve, handheld and portion-controlled formats for smaller households and calorie-managed indulgence.",
+      "2025-2026 foodservice frozen bakery products that reduce skilled labor and improve consistency.",
+      "2025-2026 clean-label, real-ingredient, gluten-free, high-protein and lower-sugar dessert variants.",
+      "2026-2033 online frozen bakery distribution, with Grand View Research projecting 9.9% CAGR for the online channel."
+    ],
+    "whats_shrinking": [
+      "2022-2026 traditional family-size frozen desserts that lack premium, portion-control or strong holiday positioning.",
+      "2022-2026 low-differentiation branded items exposed to private-label price competition.",
+      "2022-2026 products perceived as heavily processed or high in added sugar without a clear indulgence or value proposition.",
+      "2025-2026 weaker export opportunities when U.S. products face currency, freight or local premium bakery competition."
+    ],
+    "recent_developments": [
+      "Jan. 14, 2025: FDA proposed front-of-package nutrition labels showing low, medium or high saturated fat, sodium and added sugars on most packaged foods.",
+      "Feb. 24, 2025: Martin Braun-Gruppe acquired Hoff's Bakery, entering the U.S. frozen cakes and desserts market.",
+      "Jul. 14, 2025: Dessert Holdings acquired Willamette Valley Pie Company to expand premium pies, cobblers and handheld desserts.",
+      "May 12, 2026: Cal-Maine Foods announced acquisition of Sara Lee Frozen Bakery's Van's Foods assets, showing portfolio reshuffling around better-for-you frozen products.",
+      "May 2026: BLS/FRED reported frozen cakes, pies and other pastries manufacturing PPI at 402.711, index Dec. 1982=100.",
+      "Jul. 8, 2026: Refrigerated & Frozen Foods reported 2025 frozen food sales above $87 billion and 40% of consumers using frozen foods every few days or daily."
+    ],
+    "outlook": "The 2026-2028 outlook is modestly positive for this specific manufacturing niche. The 2022 IBISWorld baseline projected 2022-2028 revenue CAGR of 1.5%, while broader 2026 market research sees faster growth for frozen bakery and cakes/pastries. The most plausible path is low-to-mid single-digit nominal sales growth, with premiumization and foodservice demand doing more work than volume. Margin expansion should be limited by ingredient inflation, cold-chain costs, retailer bargaining power and private-label competition, but larger platforms with automated plants, strong freezer distribution and differentiated dessert portfolios should keep taking share.",
+    "themes": [
+      "Premiumization and restaurant-quality at-home desserts",
+      "Portion control and smaller households",
+      "Clean label, real ingredients and added-sugar scrutiny",
+      "Foodservice labor substitution",
+      "Frozen aisle resilience and meal planning",
+      "Consolidation of specialty dessert platforms",
+      "Cold-chain efficiency and packaging innovation",
+      "Private label versus branded differentiation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/frozen-cake-and-pastry-manufacturing.txt",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Frozen-Cakes-Pies-Pastries-Manufacturing-39138142/",
+      "https://fred.stlouisfed.org/series/PCU3118133118130",
+      "https://www.bls.gov/news.release/cpi.htm?rel=outbound",
+      "https://www.grandviewresearch.com/industry-analysis/us-frozen-bakery-products-market-report",
+      "https://affi.org/insights/",
+      "https://www.refrigeratedfrozenfood.com/articles/104496-refrigerated-frozen-and-flourishing-state-of-the-cold-chain",
+      "https://dessertholdings.com/pages/dessert-holdings-acquires-willamette-valley-pie-co",
+      "https://oetker-collection.com/en/martin-braun-gruppe-strengthens-its-frozen-bakery-division-with-the-acquisition-of-hoffs-bakery/",
+      "https://investors.calmainefoods.com/news-releases/news-release-details/cal-maine-foods-and-sara-lee-frozen-bakery-announce-cal-maine",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-proposed-rule-front-package-nutrition-labeling",
+      "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-records-certain-foods"
+    ],
+    "one_sentence": "The industry manufactures frozen pies, cheesecakes, soft cakes, pastries, doughnuts and related sweet baked goods for grocery, club, wholesale and foodservice channels, with 2024 sales at $6.8 billion after a 2022 baseline of $6.267 billion.",
+    "slug": "frozen-cake-and-pastry-manufacturing"
+  },
+  {
+    "title": "Fruit & Vegetable Markets in the US",
+    "sector": "Retail",
+    "one_liner": "Small, local produce markets benefit from freshness, traceability and SNAP access, but supermarkets, online grocery and volatile produce costs keep margins thin.",
+    "overview": "This industry includes establishments primarily retailing fresh fruits and vegetables, including neighborhood produce markets, public-market vendors and some farmers-market-style retailers. The baseline 2022 IBISWorld file sized the industry at $5.687 billion, up 11.4% in 2022 as markets reopened after COVID disruptions. The latest public industry-size datapoints show 2023 total revenue near $5.9 billion from a market-research estimate and 2023 Census AIES employer-firm receipts of $4.947 billion, indicating a small, fragmented channel inside the much larger $112.4 billion 2025 U.S. fruit and vegetable market. In 2025-2026, the channel is being pulled in two directions: consumers still value fresh, local and traceable produce, while grocery stores, mass merchants and online grocery platforms capture most routine produce trips.",
+    "key_stats": {
+      "market_size": "2023 total revenue: about $5.9 billion; 2023 Census AIES employer-firm receipts: $4.947 billion; broader U.S. fruits and vegetables market: $112.4 billion in 2025 and $119.5 billion projected in 2026.",
+      "growth": "2020-2023 industry revenue CAGR: 5.5%; broader U.S. fruits and vegetables market CAGR forecast: 5.4% for 2026-2033.",
+      "establishments": "2022 baseline: 12,572 establishments.",
+      "enterprises": "2022 baseline: 12,416 enterprises.",
+      "employment": "2022 baseline: 30,532 employees.",
+      "profit_margin": "2022 baseline: 3.0% EBIT margin.",
+      "produce_price_signal": "USDA July 2026 forecast: 2026 fresh vegetable retail prices +6.8%; 2026 fresh fruit retail prices +2.0%; June 2026 fresh vegetables +9.9% year over year and fresh fruits +2.0% year over year.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$5.687 billion in 2022 revenue, stated in 2022 dollars.",
+      "growth": "11.4% revenue growth in 2022; 1.5% annualized revenue growth over 2017-2022.",
+      "profit": "$171 million in 2022 profit.",
+      "profit_margin": "3.0% in 2022.",
+      "industry_gross_product": "$861 million in 2022.",
+      "establishments": "12,572 establishments in 2022.",
+      "enterprises": "12,416 enterprises in 2022.",
+      "employment": "30,532 employees in 2022.",
+      "wages": "$651 million in 2022 wages.",
+      "product_mix": "2022 revenue mix: vegetables 48.1%, fruit 32.2%, dry goods and other foods 3.0%, fresh meat and poultry 2.7%, frozen foods 1.4%, fresh fish and seafood 1.3%, other 11.3%."
+    },
+    "how_it_makes_money": "Operators buy or grow produce and sell it at retail prices through permanent produce markets, farmers-market stalls, farm stands and local specialty food outlets. Revenue comes mostly from fresh vegetables and fruit, with add-on sales from dry goods, dairy, meat, seafood, frozen foods, prepared local products and seasonal items. Margin depends on procurement skill, spoilage control, stall or rent costs, labor availability, payment processing, and the ability to charge premiums for local, organic, fresher or harder-to-find produce.",
+    "cost_structure": {
+      "purchases": "Largest cost: produce and resale food purchases, with 2026 farm-level vegetable prices forecast by USDA to rise 26.7% and farm-level fruit prices forecast to decline 3.8%.",
+      "labor": "Meaningful but flexible cost because many operators are owner-operated or family-run; 2022 baseline wages were $651 million.",
+      "rent_and_market_fees": "Rent, stall fees, utilities, market permits and local compliance costs vary by metro location and season.",
+      "spoilage_and_logistics": "Fresh inventory creates shrink, refrigeration, handling and short-haul logistics costs; weather and supply disruptions can quickly change availability.",
+      "payments_and_technology": "Card readers, EBT equipment, POS systems, online pre-order tools and inventory systems are increasingly necessary to serve SNAP users and omnichannel shoppers.",
+      "profitability": "Thin 2022 baseline EBIT margin of 3.0% leaves limited room to absorb labor, rent, packaging, insurance or produce-cost shocks."
+    },
+    "major_players": [
+      "Independent local fruit and vegetable markets",
+      "Farmers-market vendors and direct-marketing farms",
+      "Regional public markets and market halls",
+      "Produce stands and farm stands",
+      "Ethnic and neighborhood specialty produce retailers",
+      "No national operator held a dominant 2022 baseline share"
+    ],
+    "current_dynamics": "The 2025-2026 market is mature and fragmented. Inflation is no longer broad-based like 2022, but produce remains volatile: USDA’s July 2026 outlook forecasts fresh vegetable retail prices up 6.8% in 2026 and fresh fruit prices up 2.0%. Vegetable import exposure is material, with USDA estimating imports at about one-third of U.S. vegetable availability in 2025 and Mexico supplying about 77% of fresh vegetable imports excluding potatoes. SNAP and nutrition-incentive programs support traffic at participating markets, while online grocery is a structural competitor: FMI and NIQ reported that online grocery contributed close to 75% of total grocery dollar growth in 2025 and projected U.S. online grocery sales at $452 billion by 2028.",
+    "whats_growing": "Demand is growing for fresh, local, traceable, organic and minimally processed produce; SNAP/EBT and matching incentive participation; mobile payments and pre-order pickup; locally branded food; and specialty produce that supermarkets do not merchandise well. The broader U.S. fruits and vegetables market was valued at $112.4 billion in 2025, with fresh fruits and vegetables representing 79.7% of that market.",
+    "whats_shrinking": "Routine produce trips are shifting toward supermarkets, club stores, mass merchants and online grocery. Per-capita fruit and vegetable intake remains below federal dietary guidance, with USDA reporting consumers average 0.9 cups of fruit and 1.4 cups of vegetables per day versus 2.0 and 2.5 recommended cups in the 2020-2025 Dietary Guidelines. Smaller vendors face pressure from spoilage, weather-driven supply gaps, high rents and customers trading down when produce prices spike.",
+    "recent_developments": [
+      "2024-02-13: USDA released 2022 Census of Agriculture data showing 116,617 farms sold directly to consumers in 2022, with $3.3 billion in sales.",
+      "2024-10-31: USDA awarded more than $33.5 million for 113 local and regional food-system projects, including $14.2 million for 60 Farmers Market Promotion Program projects.",
+      "2025-08-06: FDA proposed a 30-month extension for the FSMA Food Traceability Rule compliance date, moving pressure on many produce supply-chain records from 2026 toward 2028.",
+      "2025-09-17: USDA FNS updated SNAP healthy-incentive guidance, confirming farmers markets can provide incentives to SNAP recipients without the same waiver requirement applied to many retailers.",
+      "2026-05-05: USDA ERS estimated imports accounted for about one-third of U.S. vegetable availability in 2025, with Mexico supplying 77% of fresh vegetable imports excluding potatoes.",
+      "2026-07-24: USDA forecast 2026 retail fresh vegetable prices up 6.8% and retail fresh fruit prices up 2.0%, while farm-level vegetable prices were forecast up 26.7%."
+    ],
+    "outlook": "Revenue should remain stable to modestly positive through 2026 as produce-price inflation lifts dollar sales, but real volume growth is likely muted. The strongest operators will lean into freshness, local trust, SNAP/EBT access, specialty assortment and convenient pre-order or pickup. Margins should stay narrow because supermarkets and e-commerce platforms set customer expectations for price and convenience, while small retailers carry high spoilage risk and limited bargaining power. Import reliance, weather volatility and food-safety scrutiny will keep supply-chain resilience and traceability important even after the FDA enforcement delay.",
+    "themes": [
+      "Local food and farm-to-consumer retail",
+      "Fresh produce affordability",
+      "SNAP and nutrition incentives",
+      "Produce price volatility",
+      "Online grocery competition",
+      "Food traceability and safety compliance",
+      "Fragmented independent retail",
+      "Weather and import supply risk"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/fruit-and-vegetable-markets-in-the-us.txt",
+      "https://www.census.gov/programs-surveys/aies.html",
+      "https://data.census.gov/table/AIESBASICTIMESERIES.AIES44BASIC?codeset=naics~N0600.00",
+      "https://ers.usda.gov/data-products/food-price-outlook",
+      "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "https://ers.usda.gov/topics/crops/vegetables-and-pulses/market-outlook",
+      "https://www.fns.usda.gov/snap/healthy-incentives",
+      "https://www.fns.usda.gov/farmersmarket",
+      "https://ers.usda.gov/data-products/charts-of-note/108821",
+      "https://data.nass.usda.gov/Newsroom/2024/02-13-2024.php",
+      "https://www.ams.usda.gov/press-release/usda-announces-335-million-grant-awards-expand-local-and-regional-food-systems",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-proposes-extend-compliance-date-food-traceability-rule-and-issues-new-faqs-and-other-resources",
+      "https://www.grandviewresearch.com/industry-analysis/us-fruit-vegetables-market",
+      "https://nielseniq.com/global/en/news-center/2026/online-grocery-sales-power-omnichannel-growth-as-market-poised-to-reach-452-billion-by-2028/",
+      "https://www.fmi.org/industry-topics/fact-sheet/the-state-of-omnichannel-grocery-shopping-in-america",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Fruit-Vegetable-Research-Updated-Recession-37837867/"
+    ],
+    "one_sentence": "Fruit and vegetable markets are fragmented specialty retailers selling fresh produce and adjacent food items directly to households, with demand supported by local-food preferences and nutrition incentives but constrained by grocery-chain competition, e-commerce convenience and uneven produce inflation.",
+    "slug": "fruit-and-vegetable-markets-in-the-us"
+  }
+]

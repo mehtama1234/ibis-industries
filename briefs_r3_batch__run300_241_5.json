@@ -1,0 +1,372 @@
+[
+  {
+    "title": "Karaoke Bars",
+    "sector": "Food & Drink",
+    "one_liner": "Karaoke bars are a small, fragmented US nightlife niche where private-room formats and experiential drinking help offset competition from home karaoke apps and broader bar concepts.",
+    "overview": "Karaoke bars operate as drinking places that pair on-premise alcohol, food and private or public karaoke entertainment. The industry remains structurally fragmented, urban and discretionary: operators compete with bars that run karaoke nights, lounges, restaurants, home karaoke systems, social apps and other experiential venues. The legacy IBISWorld baseline showed $1.117 billion in 2021 revenue, 1,500 establishments and 14,130 employees, with 2021 revenue recovering 17.1% after a 17.8% 2020 COVID decline. By 2025-2026, the broader drinking-places market has recovered, but karaoke bars remain a niche that depends on birthdays, corporate events, private rooms, late-night alcohol sales and localized social experiences.",
+    "key_stats": {
+      "market_size": "2025 estimated US karaoke bar revenue: $1.12 billion",
+      "growth": "2025 estimated nominal revenue growth: +0.4%; 2021-2026 baseline CAGR: +0.4%",
+      "establishments": "2026 baseline forecast: 1,436 US karaoke bar establishments, down from 1,500 in 2021",
+      "employment": "2026 baseline forecast: 14,117 employees, roughly flat from 14,130 in 2021",
+      "profit_margin": "2021 baseline EBIT margin: 6.6% of revenue",
+      "broader_bar_market": "2026 US drinking places market: about $41.7 billion across 40.8K establishments and 432.5K workers",
+      "karaoke_category_context": "2024 US karaoke market: $1.5 billion; 2025-2034 projected CAGR: 6.5%, including home, software, venues and private-party uses",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US karaoke bar revenue: $1.12 billion in 2021 dollars, extrapolated from the 2021 IBISWorld baseline and 2021-2026 CAGR",
+      "growth": "2022 estimated real revenue growth: +0.4%",
+      "establishments": "2022 estimated establishments: about 1,486, based on the baseline forecast decline from 1,500 in 2021 to 1,436 in 2026",
+      "revenue_mix_2021_baseline": "Alcoholic beverages 75.6%; food and nonalcoholic beverages 17.2%; cover fees, song charges and room rentals 2.0%; other 5.2%"
+    },
+    "how_it_makes_money": "Most revenue comes from on-premise beverage sales, especially cocktails, spirits and beer. Operators add food, nonalcoholic drinks, cover charges, per-song charges, hourly private-room rentals, event packages, birthday and corporate bookings, bottle service and occasional merchandise or packaged alcohol where permitted.",
+    "cost_structure": "Major costs are alcohol and food purchases, hourly labor, rent in nightlife districts, music and karaoke content licensing, utilities, insurance, payment processing, marketing, security, cleaning, POS systems, microphones, screens, room build-outs and soundproofing. Labor and occupancy are the main margin constraints; technology lowers some karaoke-jockey staffing needs but raises equipment and licensing spend.",
+    "major_players": [
+      "The industry has no national major player with material share",
+      "Independent single-location karaoke bars",
+      "Regional karaoke lounge operators in major metro areas",
+      "Asian-style private-room karaoke concepts",
+      "Bars and restaurants that host weekly karaoke nights as indirect competitors"
+    ],
+    "current_dynamics": "The 2025-2026 market is better than the pandemic trough but not a broad-growth story. Broader foodservice and drinking-place demand is expanding, purchased meals and beverages reached $1.260 trillion in 2025, and alcoholic beverages away from home were 3.4% more expensive year over year in June 2026. That supports nominal revenue, but traffic is pressured by value sensitivity, home entertainment, karaoke software, mobile apps and competitive experiential concepts. Private-room venues, premium drinks, corporate events and localized community programming are the strongest demand pockets.",
+    "whats_growing": "Private-room reservations, birthday and bachelor/bachelorette packages, corporate outings, premium cocktails, draft beer programs, digital songbooks, app-based reservations, social-media-friendly rooms, younger legal-drinking-age events and hybrid karaoke plus restaurant/lounge concepts.",
+    "whats_shrinking": "Public-stage-only formats, low-investment dive-bar karaoke concepts, late-night venues without food or private rooms, standalone operators in high-rent districts, cash-only or low-tech operations, and venues relying mainly on cover charges instead of beverage and room spend.",
+    "recent_developments": [
+      "2025-02: National Restaurant Association projected 2025 US foodservice sales of $1.5 trillion and 15.9 million jobs, with operators focused on on-premise dining experiences.",
+      "2025-09: NIQ/CGA released a 2025 US On-Premise Channel Strategy Study covering consumer behavior across 11 on-premise beverage channels.",
+      "2025-12: Emergen Research published a US karaoke market estimate of $1.5 billion for 2024 and a 2025-2034 CAGR forecast of 6.5%.",
+      "2026-03: VantaInsights estimated the 2026 US drinking places market at about $41.7 billion across 40.8K establishments and 432.5K employees.",
+      "2026-06: BLS reported alcoholic beverages away from home prices up 3.4% year over year in June 2026, supporting nominal sales but adding affordability pressure."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive in nominal dollars but mature in real terms. Karaoke bars should benefit from experience-led spending, private events and the broader recovery in on-premise beverage occasions, while unit growth remains limited by rent, labor, licensing, insurance and intense local competition. Best-positioned operators will look less like basic bars with microphones and more like bookable social venues with strong food, private rooms, premium beverage programs and reliable digital karaoke systems.",
+    "themes": [
+      "Experiential nightlife",
+      "Private-room karaoke",
+      "Premium beverage mix",
+      "Home karaoke competition",
+      "Fragmented independents",
+      "Digital songbooks and app booking",
+      "Urban discretionary spending",
+      "Corporate and birthday events",
+      "Value pressure",
+      "Alcohol licensing and music rights"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Karaoke Bars, last updated Oct. 29, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/karaoke-bars.txt', 'year': '2021'}",
+      "{'title': 'VantaInsights, Bars & Nightclubs Industry Report 2026, NAICS 72241', 'url': 'https://vantainsights.com/reports/72241-drinking-places-alcoholic-beverages', 'year': '2026'}",
+      "{'title': 'BLS, CPI Table 7, June 2026, alcoholic beverages away from home', 'url': 'https://www.bls.gov/news.release/cpi.t07.htm', 'year': '2026'}",
+      "{'title': 'FRED/BEA, Personal consumption expenditures: purchased meals and beverages', 'url': 'https://fred.stlouisfed.org/series/DPMBRC1A027NBEA', 'year': '2026'}",
+      "{'title': 'National Restaurant Association, 2025 State of the Industry shows cautious optimism', 'url': 'https://restaurant.org/education-and-resources/resource-library/the-2025-state-of-the-industry-shows-cautious-optimism/', 'year': '2025'}",
+      "{'title': 'Emergen Research, US Karaoke Market', 'url': 'https://www.emergenresearch.com/industry-report/us-karaoke-market', 'year': '2026'}",
+      "{'title': 'NIQ/CGA, On-Premise Channel Strategy Report 2025', 'url': 'https://nielseniq.com/global/en/insights/report/2025/on-premise-channel-strategy-report-2025/', 'year': '2025'}"
+    ],
+    "one_sentence": "The US Karaoke Bars industry generated an estimated $1.12 billion in 2025 revenue, with low single-digit nominal growth driven more by beverage pricing and premium group experiences than by unit expansion.",
+    "slug": "karaoke-bars"
+  },
+  {
+    "title": "Kitchen & Cookware Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty retailers sell cookware, bakeware, cutlery, utensils, small kitchen electrics and related kitchen goods to households that are upgrading, replacing or furnishing kitchens.",
+    "overview": "Kitchen & Cookware Stores primarily buy finished kitchen goods from manufacturers and wholesalers and resell them through specialty stores, websites, catalogs and omnichannel fulfillment. The baseline 2022 industry was pressured by online substitution and mass merchants, but the current 2025 public IBISWorld listing shows a larger revenue base as pandemic-era cooking habits, specialty appliances and higher-ticket cookware supported sales. The category remains low-concentration and mature: stores need merchandising expertise, product demonstrations, registry/gifting relevance and digital reach to defend margins against broader home retailers and marketplaces.",
+    "key_stats": {
+      "market_size": "$25.1 billion in 2025, according to the April 2025 IBISWorld market-research listing",
+      "growth": "1.1% CAGR from 2020 to 2025, according to the April 2025 IBISWorld market-research listing",
+      "businesses": "8,535 businesses in 2025; 3.5% growth in 2025 and 3.2% CAGR from 2020 to 2025, according to the 2025 IBISWorld business-count listing",
+      "major_public_player_signal": "Williams-Sonoma brand revenue was $1.362 billion in fiscal 2025, up from $1.303 billion in fiscal 2024; Williams Sonoma comparable brand revenue grew 6.9% in fiscal 2025",
+      "adjacent_retail_indicator": "Furniture, home furnishings, electronics and appliance store sales were $19.508 billion in May 2026, seasonally adjusted, per Census/FRED",
+      "housing_demand_indicator": "Existing-home sales were 4.09 million SAAR in June 2026, down 2.4% month over month; housing starts were 1.427 million SAAR in June 2026, up 19.0% month over month",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$19.547 billion in 2022 revenue, in 2022 dollars, from the baseline IBISWorld file",
+      "growth": "-0.2% CAGR from 2017 to 2022 and -0.1% in 2022 from the baseline IBISWorld file",
+      "profit": "$841 million in 2022 profit from the baseline IBISWorld file",
+      "profit_margin": "4.3% EBIT margin in 2022 from the baseline IBISWorld file",
+      "establishments": "7,602 establishments in 2022 from the baseline IBISWorld file",
+      "enterprises": "4,262 enterprises in 2022 from the baseline IBISWorld file",
+      "employment": "112,553 employees in 2022 from the baseline IBISWorld file"
+    },
+    "how_it_makes_money": "Retailers earn merchandise gross margin by purchasing cookware, bakeware, utensils, cutlery, small electrics, tabletop goods, cookbooks and related kitchen items from suppliers and selling them through stores and digital channels. Higher-margin revenue comes from premium and exclusive brands, private-label assortments, bundles, registries, warranties, personalization, gift services, classes, demos and loyalty programs. Omnichannel chains also use stores as discovery, service and pickup points while shifting repeat purchases to e-commerce.",
+    "cost_structure": "The largest cost is merchandise purchases, especially imported cookware, metal goods, electrics and branded housewares. Labor is material because specialty stores rely on product knowledge, service, demos and registry support. Rent and occupancy remain significant for mall, lifestyle-center and street locations, while e-commerce fulfillment, freight, payment processing, advertising, technology and returns costs have risen in the 2025-2026 omnichannel model. Baseline 2022 EBIT margin was 4.3%, and 2025 tariff pressure increased cost-of-goods risk for China-sourced housewares.",
+    "major_players": [
+      "Williams-Sonoma Inc.",
+      "Sur La Table",
+      "Crate & Barrel",
+      "Bed Bath & Beyond / Beyond Inc. online marketplace",
+      "Amazon, Walmart and Target as major external competitors",
+      "Independent specialty kitchenware stores"
+    ],
+    "current_dynamics": "Demand is mixed in 2026. At-home meal preparation is helping essentials, with Circana reporting that small appliances and housewares demand rose 1% year over year in the first five months of 2025 and that rice cookers, air fryers, slow cookers, cookware and everyday dinnerware were growing. But the broader home durables market is not robust: Circana forecast 2026 dollar sales down 1.2% to $41.8 billion and unit volume down 4.9%. Housing turnover remains a key trigger for buying cookware and kitchen setups; NAR reported 4.09 million existing-home sales SAAR in June 2026, and Census reported 1.427 million housing starts SAAR in June 2026. Tariffs are a major margin and inventory issue: the Federal Reserve found China-origin imported goods prices were up 8.5% year over year by December 2025, and IHA reported in May 2025 that 87% of surveyed housewares companies were significantly impacted by tariffs.",
+    "whats_growing": "Premium cookware, durable replacement purchases, air fryers, rice cookers, slow cookers, espresso and coffee-related electrics, food-storage and bakeware adjacencies, everyday dinnerware, at-home entertaining tools, private-label/exclusive products, registries and omnichannel shopping are growing in 2025-2026. Williams-Sonoma's fiscal 2025 brand comparable revenue growth of 6.9% shows that premium kitchen specialty can still outperform when merchandising and brand authority are strong.",
+    "whats_shrinking": "Undifferentiated brick-and-mortar specialty stores, commodity utensils, infrequently replaced cutlery, mall-dependent traffic, full-price middle-market goods and tariff-exposed imported SKUs are under pressure in 2025-2026. Circana's 2026 forecast for home durables calls for unit volume down 4.9%, signaling that higher average selling prices are masking weaker unit demand.",
+    "recent_developments": [
+      "2023-06: Overstock acquired Bed Bath & Beyond brand IP for $21.5 million, excluding physical stores, reshaping a major housewares name as an online-led competitor.",
+      "2025-04: IBISWorld's April 2025 listing showed Kitchen & Cookware Stores revenue at $25.1 billion with 1.1% CAGR from 2020 to 2025.",
+      "2025-05: IHA reported 87% of surveyed housewares companies were significantly impacted by tariffs; 62% had increased retail prices.",
+      "2025-07: Circana reported small appliances and housewares demand rose 1% year over year in the first five months of 2025.",
+      "2026-03: Circana forecast US home durables sales would decline 1.2% in 2026 to about $41.8 billion, with unit volume down 4.9%.",
+      "2026-06: NAR reported June 2026 existing-home sales at 4.09 million SAAR, while Census reported June 2026 housing starts at 1.427 million SAAR."
+    ],
+    "outlook": "The 2026 outlook is cautious rather than recessionary. Specialty retailers should benefit from replacement cycles, at-home cooking, gifting and affluent consumers trading up, but volume growth is likely constrained by weak housing affordability, softer home-durables demand and tariff pass-through. Winners will be retailers with exclusive assortments, credible culinary expertise, loyalty data, registry ecosystems, private-label margin control and efficient omnichannel fulfillment. Smaller stores can survive by leaning into local service, classes, curated premium goods and repair/replacement advice, but stores that compete mainly on commodity price will keep losing share to marketplaces and mass merchants.",
+    "themes": [
+      "At-home cooking and affordable entertaining",
+      "Premiumization and durable replacement",
+      "Tariff pass-through and sourcing diversification",
+      "Omnichannel specialty retail",
+      "Housing turnover sensitivity",
+      "Mass merchant and marketplace competition",
+      "Private label and exclusive collaborations",
+      "Cooking classes, demos and service-led differentiation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld file, Kitchen & Cookware Stores, last updated 2022-02-24', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/kitchen-and-cookware-stores.txt'}",
+      "{'name': 'IBISWorld via MarketResearch.com, Kitchen & Cookware Stores in the US, published 2025-04', 'url': 'https://www.marketresearch.com/IBISWorld-v2487/Kitchen-Cookware-Stores-Research-38808550/'}",
+      "{'name': 'IBISWorld business-count listing, Kitchen & Cookware Stores in the US, 2025', 'url': 'https://script.ibisworld.com/united-states/number-of-businesses/kitchen-cookware-stores/4272/'}",
+      "{'name': 'Williams-Sonoma Inc. Form 10-K for fiscal year ended 2026-02-01', 'url': 'https://www.sec.gov/Archives/edgar/data/719955/000071995526000059/wsm-20260201.htm'}",
+      "{'name': 'U.S. Census Bureau, Monthly New Residential Construction, June 2026 release', 'url': 'https://www.census.gov/construction/nrc/current/'}",
+      "{'name': 'National Association of Realtors, Existing-Home Sales, June 2026 data', 'url': 'https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales'}",
+      "{'name': 'Circana, Consumers Prioritize Essentials & Home Comfort, 2025-07-10', 'url': 'https://www.circana.com/post/consumers-are-prioritizing-the-essentials-as-well-as-products-that-bring-joy-to-cost-conscious-at-h'}",
+      "{'name': 'Circana, Home Products Industry Forecasted Decline Followed by Rebound in 2026, 2026-03-10', 'url': 'https://www.circana.com/post/stabilization-and-renewed-growth-forecast-for-home-products-industry-beginning-in-late-2026-reports'}",
+      "{'name': 'International Housewares Association tariff survey, 2025-05-20', 'url': 'https://housewares.org/press-releases/new-survey-of-international-housewares-association-members-indicates-significant-impact-of-tariffs-on-home-and-housewares-industry/'}",
+      "{'name': 'Federal Reserve FEDS Notes, The Slow Climb: How Tariffs Gradually Raised Retail Prices in 2025, 2026-03-05', 'url': 'https://www.federalreserve.gov/econres/notes/feds-notes/the-slow-climb-how-tariffs-gradually-raised-retail-prices-in-2025-20260305.html'}",
+      "{'name': 'Beyond Inc., Overstock Acquires Bed Bath & Beyond Brand and Other Intellectual Property, 2023-06-28', 'url': 'https://investors.beyond.com/news-events/press-releases/news-details/2023/Overstock-Acquires-Bed-Bath--Beyond-Brand-and-Other-Intellectual-Property/'}"
+    ],
+    "one_sentence": "The US Kitchen & Cookware Stores industry is a mature, specialty retail niche where 2025 growth came from at-home cooking, premium replacement purchases and omnichannel strength, while 2026 pressure is coming from housing turnover, tariff-driven cost inflation and competition from Amazon, Walmart, Target, department stores and direct-to-consumer brands.",
+    "slug": "kitchen-and-cookware-stores"
+  },
+  {
+    "title": "Kombucha Production in the US",
+    "sector": "Food & Drink",
+    "one_liner": "US kombucha producers are still tied to gut-health demand, but 2025 retail data shows mature refrigerated kombucha fighting for shelf space against faster-growing prebiotic sodas and other functional beverages.",
+    "overview": "The industry brews fermented tea using tea, sugar and a symbiotic culture of bacteria and yeast, then packages conventional, flavored, low-sugar, shelf-stable, refrigerated and alcoholic or hard kombucha products. The 2021 IBISWorld baseline described a growth-stage industry that had reached $1.096 billion in 2021 revenue after rapid 2016-2021 expansion, with 571 enterprises and a 4.3% profit margin. Current 2025-2026 evidence points to a split market: syndicated retail data shows refrigerated kombucha sales essentially flat at $756 million in the 52 weeks ended October 5, 2025, while broader market-research estimates still place the total US kombucha market around $1.8 billion in 2025 and forecast high-single- to low-double-digit growth through 2030. The gap reflects distribution differences, foodservice and online channels, hard kombucha definitions, and optimistic forecasts for functional beverages beyond measured refrigerated retail.",
+    "key_stats": {
+      "market_size": "2025: about $1.83 billion US kombucha market estimate; 2025 refrigerated retail sales were $756 million in the 52 weeks ended October 5, 2025.",
+      "growth": "2025: total US market forecast CAGR of 13.6% for 2025-2030; refrigerated retail dollar sales fell 0.2% year over year in the 52 weeks ended October 5, 2025.",
+      "retail_mix": "2025: refrigerated kombucha remained much larger than shelf-stable kombucha; shelf-stable sales were about $12 million and fell 17.3% year over year in the 52 weeks ended October 5, 2025.",
+      "baseline_profit_margin": "2021: IBISWorld reported profit at 4.3% of revenue, down from 7.4% in 2016.",
+      "baseline_establishments": "2021: 571 US establishments and 991 employees in the IBISWorld baseline.",
+      "product_mix": "2021: flavored kombucha accounted for 70.0% of revenue, unflavored 25.0%, and other products including alcoholic kombucha 5.0%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.11 billion, interpolated from IBISWorld's 2021 revenue of $1.096 billion and its 2021-2027 projected CAGR of 1.31%.",
+      "growth": "2022: about 1.3% year-over-year growth implied by the 2021 IBISWorld forecast.",
+      "context": "The baseline assumed post-pandemic health interest, rising tea consumption and hard kombucha innovation would keep revenue growing, but at a much slower pace than the 19.9% annualized growth reported for 2016-2021."
+    },
+    "how_it_makes_money": "Producers earn revenue by brewing, flavoring, bottling or canning kombucha and selling it through grocery wholesalers, supermarkets, club stores, convenience stores, health-food retailers, restaurants, cafes, ecommerce, taprooms and private-label or co-manufacturing relationships. Premium pricing is supported by organic certification, live-culture positioning, low sugar, functional ingredients, glass packaging, refrigerated placement and brand loyalty.",
+    "cost_structure": {
+      "largest_costs": "Tea, sugar, fruit purees and juices, SCOBY cultures, flavorings, bottles, cans, labels, cartons, cold-chain logistics, brewing tanks, filtration or alcohol-removal equipment, quality control and trade promotion.",
+      "labor": "Labor is material but not dominant; 2021 IBISWorld wage costs were $65 million against $1.096 billion of revenue, or about 5.9%.",
+      "packaging_and_distribution": "Packaging and refrigerated distribution are major margin pressures because many products are heavy, perishable and sold through retail channels that require slotting, promotions and strict inventory turns.",
+      "profitability": "Profit is constrained by premium inputs, cold-chain costs, retailer bargaining power, frequent discounting and crowded functional-beverage shelves; IBISWorld reported a 4.3% margin in 2021 and forecast 3.9% by 2026."
+    },
+    "major_players": [
+      "GT's Living Foods",
+      "Health-Ade",
+      "Brew Dr. Kombucha",
+      "Humm Kombucha",
+      "KeVita / PepsiCo",
+      "SYSTM Foods",
+      "Kosmic Kombucha",
+      "FedUp Foods",
+      "NessAlla Kombucha"
+    ],
+    "current_dynamics": "Kombucha remains a recognizable gut-health beverage, but the category is no longer riding only on discovery. In 2025, Circana data cited by BevNET showed refrigerated kombucha down 0.2% year over year to $756 million, with shelf-stable kombucha down 17.3% to $12 million, while GT's and Health-Ade together held more than half of measured MULO and convenience-store share. At the same time, market-research forecasts still project the total US market above $1.8 billion in 2025 and growing through 2030, implying that optimism is concentrated in broader functional beverage demand, new formats, foodservice, ecommerce and premium innovation. The biggest competitive pressure is modern soda: Circana reported the US modern soda category at $1.8 billion in 2025 with 83% year-over-year dollar growth, while PepsiCo's 2025 Poppi acquisition and Coca-Cola's 2025 Simply Pop launch pushed gut-health claims into mainstream soda aisles.",
+    "whats_growing": "Low-sugar formulas, cans, multipacks, gut-health and mood-support claims, limited-time flavors, tea-forward flavor extensions, probiotic and prebiotic hybrid positioning, organic and sustainability credentials, and scaled refrigerated distribution are growing. Health-Ade's 2025 sale to Generous Brands and Brew Dr.'s 2025 iced-tea-lemonade launch show that larger players are leaning into broader better-for-you beverage platforms, not just traditional glass-bottle kombucha.",
+    "whats_shrinking": "Shelf-stable kombucha, smaller local brands without retail velocity, premium bottles that cannot justify high price points, hard kombucha concepts with unclear repeat demand, and generic digestive-health positioning are under pressure. The 2025 refrigerated retail decline of 0.2% and shelf-stable decline of 17.3% show that kombucha has lost some momentum to cheaper, more familiar functional sodas and sparkling beverages.",
+    "recent_developments": [
+      "Mar 2025: GT's Living Foods named Jon Clancy as its first president as the company marked 30 years and prepared for a new scaling phase.",
+      "Mar 2025: Humm announced Nitro Kombucha, a low-sugar nitrogenated format with 2 billion probiotics and 250 mg of L-theanine per can, launching at Sprouts in April 2025.",
+      "Apr 2025: Brew Dr. launched Iced Tea Lemonade kombucha, positioning kombucha directly against mainstream bottled iced tea occasions.",
+      "May 2025: PepsiCo completed its $1.95 billion acquisition of Poppi, intensifying gut-health beverage competition from prebiotic sodas.",
+      "Jul 2025: Generous Brands acquired Health-Ade for a reported $500 million; Food Dive reported Health-Ade retail sales approaching $250 million annually across 65,000 US locations.",
+      "Dec 2025: BevNET reported Circana data showing refrigerated kombucha sales down 0.2% to $756 million and shelf-stable kombucha down 17.3% to $12 million for the 52 weeks ended October 5, 2025."
+    ],
+    "outlook": "The 2026 outlook is mixed rather than uniformly high-growth. Large brands should benefit from better cold-chain distribution, flavor pipelines, functional-positioning expertise and consolidation, while small brewers face tougher shelf resets, ingredient inflation, trade promotion demands and consumer migration to prebiotic soda. A reasonable near-term view is low single-digit growth in measured refrigerated kombucha unless the category successfully reframes itself around taste, lower sugar, credible functional benefits and more convenient formats; broader market forecasts remain more bullish because they include channels and product definitions beyond core refrigerated retail.",
+    "themes": [
+      "Gut health mainstreaming",
+      "Functional beverage competition",
+      "Premium cold-chain distribution",
+      "Low sugar and clean label",
+      "Flavor innovation",
+      "Brand consolidation",
+      "Retail shelf productivity",
+      "Regulatory and claims scrutiny",
+      "Sustainability and packaging",
+      "Hard kombucha uncertainty"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/kombucha-production-in-the-us.txt",
+      "Grand View Research, U.S. Kombucha Market Size & Trends, 2025-2030: https://www.grandviewresearch.com/industry-analysis/us-kombucha-market-report",
+      "BevNET, Gut Check: Can Kombucha Reclaim Its Edge Amid the Digestive Health Boom?, Dec. 11, 2025: https://www.bevnet.com/magazine/issue/2025/gut-check-can-kombucha-reclaim-its-edge-amid-the-digestive-health-boom/",
+      "Food Dive, Generous Brands buys Health-Ade for $500M, Jul. 29, 2025: https://www.fooddive.com/news/beverage-company-generous-brands-buys-kombucha-maker-health-ade/753892/",
+      "GT's Living Foods, Jon Clancy named first president, Mar. 3, 2025: https://gtslivingfoods.com/pages/gts-living-foods-names-jon-clancy-as-its-first-ever-president",
+      "Brew Dr. Kombucha / BevNET press release, Iced Tea Lemonade launch, Apr. 16, 2025: https://www.bevnet.com/pr/2025/04/17/iced-tea-gets-a-kombucha-makeover-brew-dr-launches-new-iced-tea-lemonade",
+      "Humm Kombucha / PRWeb, Nitro Kombucha launch, Mar. 4, 2025: https://www.prweb.com/releases/humm-debuts-nitro-kombucha-a-low-sugar-velvety-smooth-kombucha-like-never-before-302391661.html",
+      "Circana, Modern Soda's Moment, May 27, 2025: https://www.circana.com/post/modern-soda-s-moment",
+      "FoodNavigator, Gut health soda competition and PepsiCo/Coca-Cola activity, May 23, 2025: https://www.foodnavigator.com/Article/2025/05/23/soda-wars-move-into-gut-health-coca-cola-vs-pepsico/"
+    ],
+    "one_sentence": "Kombucha production in the US makes fermented tea beverages for grocery, convenience, foodservice and direct-to-consumer channels, with growth now depending less on basic awareness and more on flavor innovation, lower sugar, functional claims, cold-chain reach and brand consolidation.",
+    "slug": "kombucha-production-in-the-us"
+  },
+  {
+    "title": "Korean Restaurants",
+    "sector": "Food & Drink",
+    "one_liner": "Korean restaurants are moving from diaspora-heavy urban niches into a broader US dining category led by barbecue, fried chicken, corn dogs, bakeries, cafes and premium tasting-menu concepts.",
+    "overview": "The industry consists of US establishments that primarily prepare and serve Korean cuisine, including full-service Korean barbecue, casual bibimbap and stew restaurants, Korean fried chicken shops, corn dog concepts, cafes, bakeries and premium Korean fine dining. The 2021 IBIS baseline described a $5.4 billion 2020 market recovering to a projected $6.9 billion by 2025; using that 2025 endpoint and the National Restaurant Association's July 2026 updated 4.3% nominal restaurant sales growth outlook implies an estimated 2026 Korean restaurant market of about $7.2 billion. Demand is supported by the Korean Wave, TikTok-visible street foods, mainstream acceptance of kimchi, gochujang and Korean barbecue flavors, and chain expansion outside Los Angeles, New York, San Francisco and other legacy Korean food hubs. The main constraint is margin pressure: restaurants face elevated labor and occupancy costs, food-away-from-home inflation, and particularly volatile beef costs, which matter because barbecue and marinated beef dishes are core traffic drivers.",
+    "key_stats": {
+      "market_size": "$7.2 billion estimated 2026 US Korean restaurant revenue; derived from the baseline's $6.9 billion 2025 forecast and the National Restaurant Association's July 2026 4.3% nominal restaurant and foodservice sales growth outlook.",
+      "growth": "4.3% estimated 2026 nominal revenue growth, in line with the National Restaurant Association's July 2026 revised US restaurant and foodservice outlook; real restaurant sales growth was projected at 0.8% in 2026.",
+      "restaurant_locations": "Korean restaurant locations increased 10% in 2024, according to Circana's September 2024 US foodservice research.",
+      "korean_chain_outlets": "Korean foodservice companies operated 1,106 outlets in the United States as of December 2025, up from 528 in 2020, according to South Korea's MAFRA/aT 2025 overseas expansion survey.",
+      "food_away_from_home_inflation": "Food away from home prices rose 4.1% in 2025 and 3.4% year over year in June 2026, according to BLS CPI releases.",
+      "establishments": "The 2021 baseline projected 7,900 US Korean restaurant establishments by 2025, up from 7,272 in 2020.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$6.0 billion estimated 2022 revenue; calculated from the provided baseline's $5.434 billion 2020 revenue and 4.9% projected 2020-2025 CAGR.",
+      "growth": "4.9% annualized projected 2020-2025 revenue growth from the provided baseline file.",
+      "establishments": "About 7,500 estimated 2022 establishments; calculated from 7,272 establishments in 2020 and the baseline's 1.7% projected 2020-2025 establishment CAGR.",
+      "profit_margin": "3.6% in 2020 in the provided baseline; 2022 margins were likely recovering but still pressured by labor, delivery commissions and food inflation."
+    },
+    "how_it_makes_money": "Revenue comes mainly from dine-in food sales at full-service barbecue, stew, noodle, fried chicken and casual Korean restaurants, plus takeout, delivery, catering, alcohol and nonalcoholic beverages, karaoke-room rentals at some operators, and a growing layer of branded retail tie-ins such as gift cards, sauces, prepared meats and packaged Korean foods.",
+    "cost_structure": "Purchases are the largest cost category: the baseline put vegetables, rice, pork, beef and poultry at 47.1% of 2020 revenue. Labor is the next major cost, and the National Restaurant Association noted in 2026 that food and labor each account for roughly 33 cents of every restaurant sales dollar across the broader sector. Other costs include rent, utilities, insurance, delivery-platform fees, payment processing, repairs, smallwares, marketing, franchise royalties and compliance. Beef-heavy Korean barbecue formats are unusually exposed to the 2025-2026 cattle cycle, while fried chicken and bakery formats have somewhat different protein and commodity risk.",
+    "major_players": [
+      "GEN Korean BBQ",
+      "Bonchon",
+      "bb.q Chicken",
+      "KPOT Korean BBQ & Hot Pot",
+      "Paris Baguette",
+      "Tous les Jours",
+      "Two Hands Corn Dogs",
+      "Local independent Korean barbecue and full-service restaurants"
+    ],
+    "current_dynamics": "Demand is broadening, but traffic is uneven. Operators benefit from Korean cuisine's mainstream visibility, yet consumers remain value-sensitive after several years of menu price increases. Full-service barbecue and fine dining still rely on in-person occasions, while fried chicken, corn dogs, cafes and bakery concepts travel better through delivery, takeout and suburban franchising. Chains are adding units and grocery/CPG extensions, but independent restaurants remain the core of the market and face the sharpest pressure from wages, rents, beef prices and delivery fees.",
+    "whats_growing": "Fast-growing pockets include Korean fried chicken chains, Korean corn dog concepts, Korean barbecue and hot pot hybrids, Korean bakery-cafe formats, banchan and grab-and-go market hybrids, premium tasting-menu restaurants, soju and makgeolli programs, and suburban expansion into markets that historically lacked Korean restaurants.",
+    "whats_shrinking": "Purely urban, high-rent independent restaurants without pricing power are under pressure, as are low-margin operators dependent on beef-heavy menus, third-party delivery, or weekday office traffic. Some traditional full-service formats are losing relative share to more portable Korean chicken, snack, bakery and cafe concepts.",
+    "recent_developments": [
+      "2024-09: Circana reported US Korean restaurant locations grew 10% over the prior year, with Korean fried chicken chains up 22% and Korean corn dog chains up 52%.",
+      "2025-02: National Restaurant Association projected 2025 US restaurant and foodservice sales of $1.5 trillion and 15.9 million restaurant jobs.",
+      "2025-12: MAFRA/aT survey counted 1,106 Korean foodservice company outlets in the United States, up 109% from 528 in 2020.",
+      "2026-02: National Restaurant Association projected 2026 US restaurant and foodservice sales of $1.55 trillion and 15.8 million jobs.",
+      "2026-03: GEN Restaurant Group reported 2025 revenue of $212.5 million and 57 locations after opening 15 stores in 2025.",
+      "2026-07: BLS reported food away from home prices up 3.4% year over year in June 2026, with full-service meals up 3.7%."
+    ],
+    "outlook": "The 2026 outlook is positive but margin-constrained. Korean restaurants should keep outgrowing many mature full-service categories because cuisine awareness and chain whitespace remain favorable, especially in suburban and secondary markets. Nominal market growth is likely to be driven by both new units and menu pricing, while real growth depends on consumer traffic recovering in the second half of 2026. Operators with balanced menus, alcohol programs, strong lunch or takeout demand, and disciplined labor scheduling are better positioned than beef-heavy independents with limited pricing power.",
+    "themes": [
+      "Korean Wave demand spillover",
+      "Korean barbecue remains a premium occasion",
+      "Fried chicken and corn dogs scale through QSR formats",
+      "Suburban expansion and white-space markets",
+      "Fine dining legitimizes Korean cuisine at higher price points",
+      "Labor and beef inflation pressure margins",
+      "Beverage, alcohol and CPG extensions improve mix",
+      "Delivery is useful but margin-dilutive"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/korean-restaurants.txt",
+      "https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry",
+      "https://restaurant.org/research-and-media/media/press-releases/persistent-cost-increases-and-enduring-demand-will-shape-the-restaurant-industry-in-2026/",
+      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/",
+      "https://go.restaurant.org/SOI2025-PR.html",
+      "https://www.bls.gov/cpi/",
+      "https://www.bls.gov/news.release/cpi.htm",
+      "https://www.bls.gov/opub/ted/2026/consumer-price-index-2025-in-review.htm",
+      "https://www.circana.com/post/south-korean-restaurant-locations-in-the-u-s-grow-10-over-the-past-year-amid-surge-in-demand-for-k",
+      "https://www.mafra.go.kr/bbs/english/25/576840/artclView.do",
+      "https://ers.usda.gov/topics/animal-products/cattle-beef/market-outlook",
+      "https://www.sec.gov/Archives/edgar/data/1891856/000119312526134491/genk-ex99_1.htm"
+    ],
+    "one_sentence": "US Korean restaurants remain a fragmented foodservice niche, but 2025-2026 data show continued expansion as K-food demand offsets cautious restaurant traffic, labor costs and high beef/input prices.",
+    "slug": "korean-restaurants"
+  },
+  {
+    "title": "LED Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US LED manufacturers make LED chips, modules and light engines for displays, lighting, autos, electronics and specialty applications, while competing against far larger Asian supply chains.",
+    "overview": "This industry covers US manufacturing of light-emitting diode chips and components, including LED modules and LED light engines, and excludes finished fixtures, luminaires and other downstream lighting products. The 2020 IBISWorld baseline put revenue at $1.3 billion after a COVID-driven decline, with a forecast recovery to $1.5 billion by 2025. Current 2025-2026 signals point to stronger end-market LED adoption, especially in general lighting, commercial retrofits, displays, autos, horticulture, medical, UV and specialty high-power applications. However, the US production base remains narrow compared with Asia, where LED chip and package capacity is concentrated among Chinese, Taiwanese, Japanese, Korean and European-headquartered producers.",
+    "key_stats": {
+      "market_size": "2025 IBIS-scope US LED chip/component manufacturing revenue: about $1.5 billion; 2026 broader US LED chips market: $7.17 billion",
+      "growth": "2020-2025 IBIS-scope revenue CAGR: +3.3%; 2026-2031 broader US LED chips market CAGR: +8.32%",
+      "profit": "2020 IBIS baseline profit: $62 million, equal to a 4.8% margin",
+      "employment": "2020 IBIS baseline employment: 3,038 workers; 2025 forecast employment: 3,419 workers",
+      "trade": "2020 IBIS baseline exports: $925.6 million; 2025 forecast exports: $840.2 million; 2020 imports: $767.2 million; 2025 forecast imports: $920.9 million",
+      "adoption": "2024 EIA RECS: 90% of US households used LED bulbs, and 37% used LEDs for all indoor lighting",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated IBIS-scope revenue: about $1.39 billion, derived from 2020 revenue of $1.3 billion and the 2020-2025 forecast CAGR of +3.3%",
+      "growth": "2022 estimated growth: about +3.3% year over year under the IBISWorld 2020-2025 recovery path",
+      "industry_definition": "2022 baseline scope: LED chips and components, including LED modules and LED light engines, excluding fixtures and luminaires",
+      "product_mix": "2020 IBIS baseline: LED modules for other applications 47.8% of revenue, LED modules for display manufacturers 29.3%, LED light engines 22.9%"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling LED chips, packaged LEDs, LED modules and light engines to display makers, lighting and bulb manufacturers, circuit board and electronics manufacturers, automotive electronics suppliers, sign makers, government contractors and specialty OEMs. Higher-margin revenue comes from differentiated products such as high-power LEDs, specialty color and wavelength products, automotive-qualified components, UV-C and medical/industrial LEDs, and patented chip/package designs rather than commodity lighting LEDs.",
+    "cost_structure": "The cost base is driven by semiconductor wafers, epitaxy materials, phosphors, substrates, wire bonds, encapsulants, plastics, glass, testing, cleanroom operations, skilled labor and R&D. The 2020 IBIS baseline lists wages at $371 million, or about 28.5% of revenue, and profit at $62 million, or 4.8% of revenue. Purchases and outsourced manufacturing remain the largest pressure points because LED makers rely on semiconductor, chemical and electronic-component inputs and compete with lower-cost foreign capacity.",
+    "major_players": [
+      "Cree LED, an SGH business, focused on LED components and specialty lighting",
+      "ams OSRAM, a global light and sensor company with 2025 revenue of EUR 3.3 billion",
+      "Nichia, a major Japanese LED and optical semiconductor producer with 9,509 employees as of December 2025",
+      "Seoul Semiconductor, a Korean LED package and component supplier",
+      "Ennostar, a Taiwanese LED chip and package group",
+      "San'an Optoelectronics, a large Chinese LED chip producer",
+      "MLS and LEDVANCE, major global lighting and LED supply-chain participants"
+    ],
+    "current_dynamics": "Demand is being pulled by efficiency regulation, mature residential LED penetration, commercial and industrial retrofits, federal purchasing rules, displays, autos and specialty electronics. The industry is also benefiting from broader reshoring attention around semiconductors and electronics, but LED-specific US manufacturing remains challenged by global oversupply, Asian scale economies and customer price sensitivity. Commodity LEDs are pressured by imports, while US-based or US-facing suppliers have better positioning in IP-rich, high-reliability and application-specific components.",
+    "whats_growing": "Specialty LED components, high-power lighting LEDs, automotive and industrial LEDs, UV and medical LEDs, horticulture lighting, mini-LED and display backlighting, smart-building and controls-compatible LED systems, and premium components that help finished lamps meet higher efficacy rules. Broader US LED chips demand is estimated at $7.17 billion in 2026 and forecast to grow at an 8.32% CAGR through 2031.",
+    "whats_shrinking": "Commodity LED modules, older CFL and incandescent replacement channels, lower-margin imported lamp assemblies exposed to tariff volatility, and undifferentiated domestic production that cannot match Asian scale. The baseline also expected exports to decline from $925.6 million in 2020 to $840.2 million in 2025 as foreign competition intensified.",
+    "recent_developments": [
+      "2024-04-12: DOE finalized general service lamp standards raising common bulb efficiency from 45 lm/W to more than 120 lm/W, with compliance required July 25, 2028.",
+      "2025-01-16: DOE issued final GSL test-procedure clarifications, with amendments mandatory for product testing starting July 15, 2025.",
+      "2025-06-18: CBP classified certain LED lamps from China under HTSUS 8539.52.0030 and noted additional 2025 China and reciprocal tariff reporting requirements.",
+      "2026-03-23: EIA reported that 90% of US households used LED bulbs in 2024, while 37% used LEDs for all indoor lighting.",
+      "2026-06-02: TrendForce reported that the top 10 LED chip external-sales manufacturers held 93% share in 2025, with San'an, Ennostar, HC Semitek, Changelight and MTC leading chip rankings."
+    ],
+    "outlook": "The 2026 outlook is constructive for demand but selective for US manufacturers. Efficiency rules and LED penetration keep the long-term demand base intact, while specialty applications should outperform general lighting. Revenue growth is likely to come from high-value components, design wins and regulated or performance-critical applications rather than commodity volume. Risks include import competition, tariff uncertainty, margin pressure, customer concentration, semiconductor input costs and the possibility that more LED manufacturing remains offshore even as US demand expands.",
+    "themes": [
+      "Energy efficiency regulation",
+      "Import competition",
+      "Specialty semiconductor manufacturing",
+      "Commercial retrofit demand",
+      "Display and mini-LED growth",
+      "Automotive and industrial LEDs",
+      "Tariff and sourcing volatility",
+      "R&D and patent differentiation",
+      "Mature residential adoption",
+      "Asian supply-chain concentration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Local baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/led-manufacturing.txt",
+      "https://www.energy.gov/articles/doe-finalizes-efficiency-standards-lightbulbs-save-americans-billions-household-energy",
+      "https://stage.energy.gov/cmei/buildings/general-service-lamps",
+      "https://www.eia.gov/consumption/residential/data/",
+      "https://www.mordorintelligence.com/industry-reports/united-states-led-chips-market",
+      "https://www.trendforce.com/research/download/RP260602AP",
+      "https://www.customsmobile.com/rulings/docview?doc_id=NY+N349718",
+      "https://www.cree-led.com/news/smart-global-holdings-completes-the-acquisition-of-cree-led-2/",
+      "https://www.sec.gov/Archives/edgar/data/1616533/000161653326000010/sgh-20251128.htm",
+      "https://ams-osram.com/de/news/press-releases/annual-report-2025",
+      "https://www.nichia.co.jp/en/about_nichia/info.html"
+    ],
+    "one_sentence": "LED Manufacturing remains a small, R&D-heavy US manufacturing niche supported by efficiency rules and specialty demand, but constrained by import competition, offshore scale and price pressure in commodity LEDs.",
+    "slug": "led-manufacturing"
+  }
+]

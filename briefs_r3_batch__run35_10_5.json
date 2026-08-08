@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Air Purification Equipment Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. makers of stationary air cleaners, filtration systems, dust collectors and industrial air-pollution controls are benefiting from indoor-air-quality upgrades, wildfire smoke readiness and replacement-filter demand, while metal tariffs, imports and uneven industrial capex limit margins.",
+    "overview": "This industry manufactures stationary air purification equipment, including HEPA and high-MERV filters, air washers, electrostatic precipitators, dust and mist collectors, baghouse systems, fume collectors and other industrial air-cleaning equipment. The 2021 IBIS baseline put U.S. industry revenue at $6.598 billion and projected a 2021-2026 recovery to $7.2 billion in 2021 dollars; applying that path implies about $7.1 billion in 2025 and $7.2 billion in 2026. Current 2025-2026 conditions are mixed: manufacturing output and nonresidential construction remain supportive but not uniformly strong, while consumer and commercial air-purifier demand is growing faster than heavy industrial filtration because wildfire smoke, post-COVID ventilation standards and IAQ awareness have made filtration a routine building-resilience purchase.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. air purification equipment manufacturing revenue: about $7.1 billion in 2021 dollars; 2026 baseline forecast: $7.2 billion in 2021 dollars.",
+      "growth": "2021-2026 baseline industry CAGR: 1.9%; 2025 U.S. air purifier end-market revenue: $4.729 billion, with 2026-2033 CAGR projected at 6.8%.",
+      "profitability": "2021 baseline industry profit margin: 5.6%; Donaldson fiscal 2025 adjusted gross margin: 35.0% and adjusted operating margin: 15.7%, showing stronger economics for scaled filtration platforms than the fragmented manufacturing average.",
+      "trade_exposure": "2021 baseline imports: $5.667 billion versus exports of $1.457 billion, making import competition and tariff pass-through central industry issues.",
+      "demand_indicators": "Federal Reserve reported December 2025 total industrial production 2.0% above December 2024 and manufacturing output 2.0% above December 2024; Census reported May 2026 private nonresidential construction at a $738.7 billion seasonally adjusted annual rate.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated U.S. industry revenue: about $6.72 billion in 2021 dollars, derived from the $6.598 billion 2021 baseline and 1.9% 2021-2026 forecast CAGR.",
+      "growth": "2022 implied growth: about 1.9% from 2021 under the baseline forecast path.",
+      "product_mix": "2021 baseline revenue mix: 57.9% general air-purification products, 39.9% industrial air-purification products and 2.2% other.",
+      "profit_margin": "2021 baseline profit margin: 5.6% of revenue.",
+      "employment": "2021 baseline employment: 24,995 workers; 2026 forecast employment: 26,901 workers."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from original equipment sales, engineered project systems, replacement filters and media, spare parts, installation-adjacent technical support and aftermarket service. General products include portable, in-duct and HVAC-compatible filters for residences, schools, offices, healthcare and commercial buildings. Industrial products include dust collectors, mist collectors, baghouses, fume extraction systems and emission-control filtration used in manufacturing, power generation, mining, metalworking, food processing, laboratories and cleanrooms. Aftermarket filter replacement is the most recurring revenue stream because filters load with particulates and must be replaced more frequently during smoke, high-pollution or heavy industrial operating periods.",
+    "cost_structure": {
+      "materials": "2025-2026 largest cost bucket: filter media, steel, aluminum, motors, fans, housings, electronics, sensors and controls; 50% U.S. Section 232 steel and aluminum tariffs beginning June 2025 increased input-price and sourcing risk.",
+      "labor": "2021 baseline wages were $1.352 billion, equal to about 20.5% of 2021 revenue; skilled fabrication, assembly, testing and application engineering remain important cost centers.",
+      "overhead": "Factory overhead includes machining, sheet-metal fabrication, clean assembly, quality testing, warehousing, compliance documentation and warranty reserves.",
+      "freight_and_distribution": "Bulky housings, replacement filters and engineered systems create meaningful freight and inventory costs, especially for commercial and industrial customers that require uptime.",
+      "profit": "2021 baseline EBIT margin was 5.6%; scaled filtration platforms reported higher 2025 margins, such as Donaldson fiscal 2025 adjusted operating margin of 15.7%.",
+      "sales_and_r_and_d": "Costs include distributor support, technical sales, certification testing, product design, airflow performance testing, sensor integration and compliance with filtration, safety and building standards."
+    },
+    "major_players": [
+      "Donaldson Company",
+      "Parker Hannifin",
+      "Filtration Group",
+      "AAF Flanders / Daikin",
+      "Camfil",
+      "Honeywell International",
+      "Carrier Global",
+      "3M",
+      "IQAir",
+      "Blueair"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions in 2025-2026. Commercial, residential and institutional filtration is growing because building owners are responding to ASHRAE 241 infectious-aerosol guidance, wildfire-smoke preparedness and occupant health expectations. Industrial demand is steadier but uneven: power generation, data-center-adjacent electrical infrastructure, food and beverage, life sciences and replacement dust-collection parts are stronger, while some capex-heavy dust collection and industrial gases applications have been softer. Imports remain a structural constraint, and tariffs on steel, aluminum and copper derivatives raise the cost of housings, frames, fan assemblies and electrical components unless producers can reprice quickly.",
+    "whats_growing": [
+      "2025-2026 HEPA, activated-carbon and high-MERV filtration for homes, offices, schools, healthcare and commercial buildings.",
+      "2025-2026 aftermarket replacement filters, especially during wildfire smoke seasons and in high-use commercial HVAC systems.",
+      "2025-2026 industrial filtration tied to power generation, food and beverage, life sciences, data-center infrastructure and process-quality applications.",
+      "2025-2026 smart and sensor-enabled air purifiers that monitor PM2.5, VOCs and filter life.",
+      "2025-2026 MERV 13-or-higher HVAC filter upgrades recommended for wildfire smoke and better indoor particle control."
+    ],
+    "whats_shrinking": [
+      "2025-2026 low-efficiency basic filters and ozone-generating ionizer-only products as buyers favor verified HEPA, MERV and CADR performance.",
+      "2025-2026 discretionary new industrial dust-collection equipment in weaker capex categories where customers defer replacement systems.",
+      "2025-2026 margin on metal-intensive housings and industrial systems when tariff and component costs cannot be fully passed through.",
+      "2025-2026 purely pandemic-driven emergency purchases, replaced by more normalized IAQ upgrade and replacement cycles."
+    ],
+    "recent_developments": [
+      "2025-06-03: The U.S. raised Section 232 steel and aluminum tariffs to 50%, increasing metal-input risk for filtration equipment makers.",
+      "2025-09-03: Donaldson reported fiscal 2025 Industrial Filtration Solutions sales of $914.2 million, up 1.5%, with Q4 IFS sales up 10.5%.",
+      "2025-11-11: Parker Hannifin agreed to acquire Filtration Group for $9.25 billion; Filtration Group expected $2.0 billion of CY2025 sales and an 85% aftermarket mix.",
+      "2026-04-02: The U.S. strengthened tariff calculations for steel, aluminum and copper articles and derivatives, extending cost pressure into 2026.",
+      "2026-04-20: EPA wildfire IAQ guidance highlighted portable air cleaners and MERV 13-or-higher HVAC filters for smoke preparedness.",
+      "2026-06-02: Donaldson Q3 FY2026 Industrial Filtration Solutions sales rose 2.3%, helped by power generation and pricing but offset by softer dust-collection volumes."
+    ],
+    "outlook": "The 2026-2028 outlook is modestly positive. Industry revenue should expand at a low-single-digit rate in real terms, with faster growth in consumer and commercial IAQ products than in heavy industrial systems. Recurring aftermarket filters, institutional ventilation upgrades, wildfire smoke preparation and infectious-aerosol standards should support demand even if new construction slows. Margin upside depends on tariff pass-through, supply-chain localization and mix shift toward proprietary filter media and recurring replacements. Risks include import competition, weaker industrial capex, buyer substitution toward lower-cost imported portable units and tariff-driven cost inflation.",
+    "themes": [
+      "Indoor air quality as infrastructure",
+      "Wildfire smoke resilience",
+      "HEPA and MERV 13 adoption",
+      "Aftermarket filter replacement",
+      "Commercial building ventilation upgrades",
+      "Industrial dust and fume control",
+      "Tariff and metal-cost pressure",
+      "Import competition",
+      "Sensor-enabled smart filtration",
+      "Consolidation in filtration platforms"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, Air Purification Equipment Manufacturing, last updated 2021-09-30', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/air-purification-equipment-manufacturing.txt'}",
+      "{'name': 'Grand View Research, U.S. Air Purifier Market, March 2026', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-air-purifier-market'}",
+      "{'name': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, January 16 2026 release', 'url': 'https://www.federalreserve.gov/Releases/g17/20260116/default.htm'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending, May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'name': 'ASHRAE Standard 241, Control of Infectious Aerosols', 'url': 'https://www.ashrae.org/technical-resources/bookstore/ashrae-standard-241-control-of-infectious-aerosols'}",
+      "{'name': 'EPA, Wildfires and Indoor Air Quality, last updated April 20 2026', 'url': 'https://www.epa.gov/emergencies-iaq/wildfires-and-indoor-air-quality-iaq'}",
+      "{'name': 'EPA, Research on DIY Air Cleaners to Reduce Wildfire Smoke Indoors, 2026', 'url': 'https://www.epa.gov/air-research/research-diy-air-cleaners-reduce-wildfire-smoke-indoors'}",
+      "{'name': 'White House, Section 232 steel and aluminum tariff increase, June 3 2025', 'url': 'https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/'}",
+      "{'name': 'White House, steel, aluminum and copper tariff strengthening, April 2 2026', 'url': 'https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-strengthens-tariffs-on-steel-aluminum-and-copper-imports/'}",
+      "{'name': 'Donaldson fiscal 2025 results, September 2025', 'url': 'https://ir.donaldson.com/news/news-details/2025/Donaldson-Reports-Record-Fourth-Quarter-Full-Year-2025-Sales-and-Earnings/default.aspx'}",
+      "{'name': 'Donaldson fiscal 2026 Q3 results, June 2 2026', 'url': 'https://ir.donaldson.com/news/news-details/2026/Donaldson-Reports-Record-Third-Quarter-Fiscal-2026-Sales-and-Earnings/default.aspx'}",
+      "{'name': 'Parker Hannifin acquisition of Filtration Group, November 11 2025', 'url': 'https://investors.parker.com/news-events/press-releases/detail/496/parker-to-acquire-filtration-group-corporation'}"
+    ],
+    "one_sentence": "The industry sells engineered air-cleaning equipment and replacement filtration media into homes, commercial buildings, factories, power generation, healthcare, laboratories and other controlled environments, with 2025-2026 growth tied more to indoor-air-quality regulation, wildfire smoke exposure and aftermarket filters than to broad-based new equipment capex.",
+    "slug": "air-purification-equipment-manufacturing"
+  },
+  {
+    "title": "Auto Parts Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, fragmented supplier base making HVAC, filtration, exhaust, airbag and other non-powertrain vehicle parts for OEM assembly lines and the aftermarket.",
+    "overview": "This industry manufactures and rebuilds selected motor vehicle parts and accessories, including HVAC systems, combustion-engine filters, exhaust systems, airbags, radiators, wheels and related components; the baseline IBISWorld scope excludes engines, tires, brakes, steering, suspension, transmissions, interiors and automotive electronics. Revenue is tied mainly to OEM vehicle production, with aftermarket demand supported by an aging vehicle fleet. The 2022 baseline report projected a modest recovery from $66.9 billion in 2021 to $72.1 billion in 2026, while broader BLS motor vehicle parts sectoral output reached $259.9 billion in 2025 after slipping from $263.5 billion in 2024.",
+    "key_stats": {
+      "market_size": "2025 estimated industry revenue: $71.0 billion, calculated from the baseline 2021 revenue of $66.9 billion and the report's 2021-2026 projected 1.5% CAGR; broader NAICS 3363 motor vehicle parts sectoral output was $259.9 billion in 2025.",
+      "growth": "2025 estimated narrow-industry growth: about 1.5%; broader NAICS 3363 sectoral output declined 1.3% in 2025 from $263.5 billion in 2024 to $259.9 billion.",
+      "employment": "2021 baseline employment was 166,470 workers; BLS CES motor vehicle parts manufacturing employment was about 539,600 in April 2025 for the broader NAICS 3363 sector.",
+      "profit_margin": "2021 baseline profit margin was 4.0% of revenue.",
+      "exports": "2021 baseline exports were $12.8 billion, equal to 19.1% of industry revenue.",
+      "imports": "2021 baseline imports were $51.8 billion; broader automotive vehicles, parts and engines imports decreased by $52.0 billion in 2025 according to BEA.",
+      "downstream_sales": "US new-vehicle sales reached 16.3 million units in 2025 and Cox Automotive forecast 15.8 million units for 2026.",
+      "fleet_age": "The average age of US light vehicles reached 12.8 years in 2025, supporting aftermarket parts demand.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: $67.9 billion in 2021 dollars, extrapolated from the baseline 2021 revenue of $66.9 billion using the report's 2021-2026 projected 1.5% CAGR.",
+      "growth": "2022 estimated growth: 1.5% on the baseline outlook path.",
+      "baseline_report_date": "2022-08-30",
+      "baseline_2021_revenue": "$66.9 billion",
+      "baseline_2026_forecast": "$72.1 billion",
+      "baseline_2021_profit_margin": "4.0%",
+      "baseline_2021_establishments": "1,296 establishments",
+      "baseline_2021_enterprises": "1,121 enterprises",
+      "baseline_2021_wages": "$8.5 billion"
+    },
+    "how_it_makes_money": "Manufacturers sell parts under OEM supply contracts, platform-specific sourcing agreements, replacement-part channels and aftermarket wholesale relationships. Revenue is earned from high-volume production runs for vehicle assembly, recurring replacement demand for filters, exhaust and HVAC components, and higher-value safety and emissions components where qualification, tooling and regulatory compliance create switching costs.",
+    "cost_structure": "The 2021 baseline cost profile was purchase-heavy and margin-thin: profit was 4.0% of revenue and wages were $8.5 billion, or 12.7% of revenue. The largest cost bucket is purchased materials and components, including steel, aluminum, plastics, rubber, electronics-adjacent inputs, chemicals, fasteners and subassemblies. Other costs include depreciation on tooling and automated equipment, utilities, logistics, warranty reserves, compliance testing, R&D, rent and administration. In 2025-2026, tariff exposure and USMCA documentation add landed-cost and compliance pressure, while suppliers with localized North American inputs have a pricing advantage.",
+    "major_players": [
+      "Magna International",
+      "Denso",
+      "Forvia",
+      "Continental",
+      "Bosch",
+      "Tenneco",
+      "Autoliv",
+      "Plastic Omnium",
+      "Gentex",
+      "Aptiv"
+    ],
+    "current_dynamics": "Demand is steadier than consumer-confidence data would normally imply because US new-vehicle sales reached 16.3 million units in 2025 and Cox Automotive still forecast 15.8 million units for 2026. However, suppliers face a mixed cycle: broader NAICS 3363 output fell 1.3% in 2025, OEMs are pressing for cost recovery, interest rates keep affordability tight, and electrification plans are shifting from pure BEV growth toward hybrids and selective EV platforms. Tariff policy is now a central operating variable: a 25% Section 232 tariff on certain imported auto parts took effect on May 3, 2025, while USMCA-compliant parts receive relief unless future rules apply tariffs to non-US content. The 2026 USMCA review raises risk around regional value content, labor value content and North American steel/aluminum sourcing.",
+    "whats_growing": "Hybrid-related thermal management, lightweight and emissions components, safety systems, higher-value components close to OEM assembly plants, aftermarket replacement demand tied to the 12.8-year average vehicle age in 2025, and USMCA-compliant North American sourcing are the stronger pockets. Supplier M&A also rebounded in 2025 as companies sought scale and technology-aligned portfolios.",
+    "whats_shrinking": "Low-value commoditized parts, import-dependent supply chains without USMCA qualification, BEV-only investment plans exposed to slower US adoption, export opportunities vulnerable to retaliation, and supplier programs tied to lower-volume or delayed vehicle platforms are under pressure. Broader NAICS 3363 output declined from $263.5 billion in 2024 to $259.9 billion in 2025.",
+    "recent_developments": [
+      "2025-03-26: Proclamation 10908 announced Section 232 tariffs on imported automobiles and certain auto parts.",
+      "2025-05-03: A 25% tariff on certain imported automobile parts took effect, with USMCA-compliant individual parts receiving a 0% additional-duty treatment under CBP guidance.",
+      "2025-05-21: S&P Global Mobility reported the average age of US light vehicles rose to 12.8 years in 2025.",
+      "2025-12-17: Cox Automotive estimated US new-vehicle sales at 16.3 million units for 2025, the best result since 2019.",
+      "2026-01-06: Cox Automotive forecast 2026 US new-vehicle sales of 15.8 million units, down 2.4% from 2025.",
+      "2026-06-24: Cox Automotive said first-half 2026 sales were tracking 3.6% lower year over year but remained resilient in a high-15 million to low-16 million SAAR range."
+    ],
+    "outlook": "The 2026 outlook is modest rather than recessionary. A high but stable new-vehicle sales environment, aging vehicles and localized North American sourcing should support revenue, while tariffs, affordability constraints, uneven EV adoption and OEM margin pressure limit upside. The best-positioned manufacturers will be those with qualified USMCA supply chains, flexible ICE-hybrid-EV product exposure, strong quality certifications and proximity to assembly plants. The baseline path points to about $72.1 billion of narrow-scope industry revenue in 2026, while broader parts output suggests the sector is not expanding uniformly.",
+    "themes": [
+      "Tariff-driven localization",
+      "USMCA compliance",
+      "Aging vehicle fleet",
+      "Hybrid demand resilience",
+      "Aftermarket support",
+      "Supplier consolidation",
+      "OEM cost pressure",
+      "EV investment reset",
+      "High import penetration",
+      "Mature fragmented competition"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file: Auto Parts Manufacturing in the US', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/auto-parts-manufacturing-in-the-us.txt', 'date': '2022-08-30', 'notes': 'Baseline industry scope, 2021 revenue of $66.9 billion, 2021-2026 projected CAGR of 1.5%, 2026 revenue forecast of $72.1 billion, 2021 profit margin of 4.0%, employment, establishments, imports and exports.'}",
+      "{'name': 'FRED / U.S. Bureau of Labor Statistics, Sectoral Output for Motor Vehicle Parts Manufacturing NAICS 3363', 'url': 'https://fred.stlouisfed.org/series/IPUEN3363T300000000', 'date': '2026-06-29', 'notes': 'Broader motor vehicle parts sectoral output: $252.6 billion in 2022, $263.5 billion in 2024 and $259.9 billion in 2025.'}",
+      "{'name': 'FRED / Federal Reserve, Industrial Production: Motor Vehicle Parts NAICS 3363', 'url': 'https://fred.stlouisfed.org/series/IPG3363A', 'date': '2026-06-15', 'notes': 'Broader motor vehicle parts industrial production index was 100.3106 in 2025 versus 101.3319 in 2024.'}",
+      "{'name': 'Cox Automotive 2026 Outlook', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-2026-outlook/', 'date': '2026-01-06', 'notes': 'Forecast 2026 US new-vehicle sales of 15.8 million units, down 2.4% from 2025.'}",
+      "{'name': 'Cox Automotive December 2025 US Auto Sales Forecast', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-forecast-dec-2025-u-s-auto-sales-forecast/', 'date': '2025-12-17', 'notes': 'Estimated 2025 US new-vehicle sales at 16.3 million units.'}",
+      "{'name': 'Cox Automotive June 2026 US Auto Sales Forecast', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-forecast-june-2026-u-s-auto-sales-forecast/', 'date': '2026-06-24', 'notes': 'Reported first-half 2026 sales tracking 3.6% lower year over year and a full-year forecast of 15.8 million units.'}",
+      "{'name': 'S&P Global Mobility press release on US vehicle age', 'url': 'https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility', 'date': '2025-05-21', 'notes': 'Average age of US light vehicles reached 12.8 years in 2025; vehicles in operation were 289 million.'}",
+      "{'name': 'U.S. Customs and Border Protection CSMS guidance on automobile parts duties', 'url': 'https://content.govdelivery.com/accounts/USDHSCBP/bulletins/3de8cac', 'date': '2025-05-01', 'notes': 'Guidance for 25% duties on certain automobile parts effective May 3, 2025, including USMCA treatment.'}",
+      "{'name': 'U.S. Department of Commerce auto tariff offset process', 'url': 'https://www.trade.gov/press-release/department-commerce-announces-new-auto-tariff-offset-process', 'date': '2025-06-12', 'notes': 'Procedures for tariff offsets tied to US automobile production and imported parts.'}",
+      "{'name': 'BEA U.S. International Trade in Goods and Services, December and Annual 2025', 'url': 'https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025', 'date': '2026-02-05', 'notes': 'Automotive vehicles, parts and engines imports decreased by $52.0 billion in 2025 and exports decreased by $16.8 billion.'}",
+      "{'name': 'PwC Automotive Industry Outlook 2026', 'url': 'https://www.pwc.com/us/en/industries/industrial-products/library/automotive-industry-outlook.html', 'date': '2026-01-30', 'notes': 'Supplier distress improved from 31% in 2024 to 24% in 2025; supplier M&A rebounded in 2025; tariff and production realignment pressures continue.'}",
+      "{'name': 'USITC USMCA Automotive Rules of Origin 2025 dashboard', 'url': 'https://www.usitc.gov/publications/332/usmcaautoroo/2025/tradedatadashboard', 'date': '2025-07-01', 'notes': 'Trade data and rules-of-origin context for automotive products from 2015 to 2024.'}",
+      "{'name': 'Congressional Research Service, USMCA Automotive Rules of Origin', 'url': 'https://www.congress.gov/crs-product/IF12082', 'date': '2024-11-26', 'notes': 'USMCA automotive thresholds include 75% regional value content for passenger vehicles, light trucks and core auto parts, 40%-45% labor value content and 70% North American steel/aluminum purchase requirements.'}"
+    ],
+    "one_sentence": "US auto parts manufacturing is recovering slowly from pandemic-era disruption, but 2025-2026 demand is being reshaped by resilient light-vehicle sales, record vehicle age, tariff policy, USMCA compliance pressure and uneven EV/hybrid investment.",
+    "slug": "auto-parts-manufacturing-in-the-us"
+  },
+  {
+    "title": "Cable Providers in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "Cable TV distribution remains a large but declining cash-flow business as streaming, vMVPDs and broadband-first bundles replace the legacy video package.",
+    "overview": "This industry covers companies that operate wired distribution systems for subscription TV programming, including basic cable, premium packages and pay-per-view. Broadband and voice are often sold by the same companies and shape retention economics, but the IBIS industry scope treats them as adjacent services rather than core cable-provider revenue. The post-2022 market is defined by a shrinking linear-TV subscriber base, rising programming and retransmission costs, and operators using bundles, rate adjustments and integrated streaming apps to slow churn. In 2025, IBISWorld/Research and Markets reported 2023 industry revenue of $105.8 billion after a 0.7% 2023 decline, while public-company results in 2025-2026 show video revenue continuing to contract at Comcast, Charter and smaller operators.",
+    "key_stats": {
+      "market_size": "2025: about $102 billion in US cable-provider video revenue, estimated from the April 2025 IBISWorld/Research and Markets 2023 market size of $105.8 billion and continuing 2024-2025 video revenue declines at major operators.",
+      "growth": "2025: about -1% to -2% estimated industry revenue growth; S&P Global Ratings forecast total cable video subscribers down 10.5% in 2025 and 10.2% in 2026, partly offset by rate increases and mix.",
+      "employment": "2025: 221,351 employees, down 0.5% in 2025, according to IBISWorld employment statistics.",
+      "profit_margin": "2023: 8.7% EBIT margin, per IBISWorld/Research and Markets.",
+      "subscriber_pressure": "2025: top cable-video subscriber bases continued to decline; Charter ended 2025 with 12.6 million total video customers and Comcast ended 2025 with 11.270 million domestic video customers.",
+      "viewing_share": "January 2026: cable represented 21.2% of US TV viewing time, while streaming represented 47.0%, according to Nielsen The Gauge.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $106.6 billion, inferred from the April 2025 IBISWorld/Research and Markets statement that 2023 revenue was $105.8 billion after a 0.7% 2023 decline.",
+      "growth": "2022: not directly stated in the baseline file; the 2022 baseline reported 2021 revenue of $99.3 billion, 2021 growth of 2.7%, and a 2021-2026 forecast CAGR of 1.3%.",
+      "baseline_context": "The August 2022 baseline file described a declining core cable-TV subscriber base, 86 million cable-TV subscribers in 2021, $99.3 billion of 2021 revenue, and projected 2026 revenue of $105.8 billion in 2021 dollars."
+    },
+    "how_it_makes_money": "Operators sell monthly basic programming packages, premium channel tiers, sports and expanded packages, equipment and installation fees, pay-per-view and on-demand purchases. The 2021 IBIS baseline split revenue at 73.9% basic programming packages, 24.4% premium programming packages and 1.7% pay-per-view programming. In practice, major operators manage video as part of a broader household relationship that also includes broadband, mobile and voice, with video increasingly used as a retention and bundle component rather than the growth engine.",
+    "cost_structure": "Programming and retransmission fees are the largest pressure point because cable operators must pay media companies and broadcasters for channels while subscriber counts fall. Comcast reported $16.007 billion of 2025 programming costs inside Connectivity & Platforms against $26.387 billion of 2025 video revenue. Other major costs include field operations, customer service, network maintenance, set-top and platform technology, depreciation on hybrid fiber-coaxial and fiber assets, marketing, billing systems, franchise fees, and corporate overhead. Labor remains material: IBISWorld reported 221,351 industry employees in 2025.",
+    "major_players": [
+      "{'name': 'Charter Communications / Spectrum', 'position': 'Largest cable-video operator by 2025 video customers among public cable companies; proposed combination with Cox would add scale.', 'stats': '2025: 12.605 million total video customers at year-end; 2026 Q2: 12.524 million total video customers and $3.149 billion Q2 video revenue, down 9.7% year over year.'}",
+      "{'name': 'Comcast / Xfinity', 'position': 'Major national cable operator with declining domestic video customers and a broader broadband, wireless and media portfolio.', 'stats': '2025: 11.270 million domestic video customers, down 1.253 million from 2024; 2025 video revenue was $26.387 billion, down 5.1% year over year.'}",
+      "{'name': 'Cox Communications', 'position': 'Large privately held cable operator and pending Charter merger partner.', 'stats': '2025: Charter-Cox transaction valued Cox Communications at about $34.5 billion enterprise value; year-end 2024 Kagan data cited by S&P Global Market Intelligence put the pro forma company at almost 15 million pay-TV customers.'}",
+      "{'name': 'Verizon Fios', 'position': 'Fiber-based telco video competitor included in the broader wired pay-TV competitive set and listed in the April 2025 IBISWorld/Research and Markets report.', 'stats': '2025: Verizon continued to report Fios video connections as traditional linear video connections in its annual filing.'}",
+      "{'name': 'Cable One / Sparklight', 'position': 'Smaller regional cable operator that is de-emphasizing video in favor of data services.', 'stats': '2025: 88,000 video subscribers; 2025 residential video revenue of $187.1 million, down 15.7% year over year.'}"
+    ],
+    "current_dynamics": "The industry is in managed decline for traditional video. Streaming has become the dominant viewing format, vMVPDs and direct-to-consumer apps have weakened the value of large channel bundles, and fixed-wireless broadband competition has made household connectivity relationships harder to defend. Cable operators are responding by simplifying video packages, embedding streaming apps into TV tiers, pushing mobile bundles, cutting or reallocating programming costs, and seeking merger scale. Charter’s 2026 Q2 results show the new playbook: video customers fell only 0.8% year over year, but video revenue still fell 9.7% as package mix and streaming-app cost allocations reduced reported video revenue.",
+    "whats_growing": [
+      "2025-2026: mobile service revenue and mobile lines at cable operators, including Charter’s 12.5 million mobile lines as of 2026 Q2, up 15.5% year over year.",
+      "2025-2026: streaming-app aggregation inside cable bundles, with Charter adding Disney+, Hulu, ESPN Unlimited, HBO Max, Paramount+, Peacock, AMC+, ViX, Tennis Channel, Fox One and Discovery+ value into TV Select by 2026.",
+      "2025-2026: broadband-led customer retention strategies, WiFi 7 gateways, converged connectivity bundles and rural broadband passings.",
+      "2025-2026: advertising tied to streaming and political cycles, even as linear advertising weakens."
+    ],
+    "whats_shrinking": [
+      "2025-2026: traditional cable-video subscribers; S&P Global Ratings forecast total cable video subscribers down 10.5% in 2025 and 10.2% in 2026.",
+      "2025: Comcast domestic video customers fell by 1.253 million to 11.270 million.",
+      "2025: Cable One residential video revenue fell 15.7% to $187.1 million.",
+      "2026 Q2: Charter video revenue fell 9.7% year over year to $3.149 billion despite a smaller 0.8% decline in video customers.",
+      "2026: linear cable viewing share remained far below streaming, with January 2026 cable at 21.2% of US TV viewing versus streaming at 47.0%."
+    ],
+    "recent_developments": [
+      "2025-01-16: S&P Global Ratings forecast total cable video subscribers would decline 10.5% in 2025 and 10.2% in 2026.",
+      "2025-05-16: Charter and Cox announced a definitive agreement to combine in a transaction valuing Cox Communications at about $34.5 billion.",
+      "2025-07-31: Charter shareholders approved the Cox transaction, with closing expected in mid-2026 subject to regulatory approvals and customary conditions.",
+      "2026-01-05: Comcast completed the separation of Versant Media Group, moving several cable networks and digital assets into a standalone public company.",
+      "2026-02-17: Nielsen reported January 2026 TV viewing share at 47.0% streaming, 21.2% cable and 21.5% broadcast.",
+      "2026-07-24: Charter reported 2026 Q2 video customers down 0.8% year over year to 12.524 million and video revenue down 9.7% year over year to $3.149 billion."
+    ],
+    "outlook": "The 2026-2030 outlook is negative for legacy cable-TV subscriptions and modestly negative for pure video revenue, even though large operators can remain profitable through broadband, mobile, advertising, business services and cost control. Subscriber losses are likely to continue as younger households avoid traditional bundles and streaming substitutes improve. The best-performing operators will use scale, lower-friction pricing, streaming aggregation and converged broadband-mobile bundles to reduce churn, but video is increasingly a defensive product. Consolidation, especially the pending Charter-Cox deal, should increase bargaining leverage and operating scale, while regulatory review and programming-cost disputes remain key risks.",
+    "themes": [
+      "Cord cutting",
+      "Streaming substitution",
+      "Programming-cost inflation",
+      "Broadband-first bundles",
+      "Mobile convergence",
+      "Consolidation",
+      "Streaming-app aggregation",
+      "Declining linear viewing",
+      "High capital intensity",
+      "Regulatory scrutiny"
+    ],
+    "data_year": "2026: latest operating data through Q2 2026; market-size benchmark uses April 2025 IBISWorld/Research and Markets data with 2025 estimates based on public-company trends.",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/cable-providers-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-cable-provider-market",
+      "https://www.ibisworld.com/united-states/employment/cable-providers/2011/",
+      "https://www.spglobal.com/ratings/en/research/articles/250116-stemming-the-cord-cutting-bleed-charter-could-offer-a-bandage-13384081",
+      "https://ir.charter.com/news-releases/news-release-details/charter-announces-fourth-quarter-and-full-year-2025-results/",
+      "https://corporate.charter.com/newsroom/charter-announces-second-quarter-2026-results",
+      "https://corporate.charter.com/newsroom/charter-communications-and-cox-communications-announce-definitive-agreement-to-combine-companies",
+      "https://corporate.charter.com/newsroom/charter-receives-stockholder-approval-to-complete-cox-communications-transaction",
+      "https://www.publicnow.com/view/0FA8DEBBB88FFD02B1D336222305784950D231BA",
+      "https://www.publicnow.com/view/9ABFA099BC213B4E6FD4D257C02EF1695F3B3635",
+      "https://www.nielsen.com/news-center/2026/tv-viewing-hits-12-month-high-in-nielsens-january-report-of-the-gauge/",
+      "https://cmcsa.gcs-web.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc"
+    ],
+    "one_sentence": "US cable providers still generate over $100 billion in annual video-related revenue, but 2025-2026 operating data shows persistent subscriber erosion, lower video revenue and a strategic shift toward broadband, mobile, streaming-app aggregation and consolidation.",
+    "slug": "cable-providers-in-the-us"
+  },
+  {
+    "title": "Commercial Banking in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "US commercial banks are benefiting from higher-rate balance sheets and recovering loan growth, while deposit costs, CRE stress and regulatory scrutiny keep margins and risk management in focus.",
+    "overview": "The industry remains mature, highly regulated and scale-driven. The 2022 IBIS baseline showed revenue of $963.4 billion and 15.5% growth as Federal Reserve tightening lifted loan yields. By 2025, FDIC-insured institutions generated an estimated $1.083 trillion of operating revenue, defined here as net interest income plus total noninterest income, with full-year 2025 net income of $295.6 billion, up 10.2% from 2024. In Q1 2026, annualized operating revenue reached about $1.131 trillion, supported by $192.1 billion of quarterly net interest income and $90.6 billion of quarterly noninterest income. Loan growth accelerated to 7.1% year over year in Q1 2026, but net interest margin fell 8 basis points sequentially to 3.31% as earning asset yields declined faster than funding costs. The biggest banks continue to dominate deposits, payments, derivatives, trading and technology investment, while community and regional banks remain exposed to funding competition, CRE credit pressure and consolidation economics.",
+    "key_stats": {
+      "market_size": "2026 Q1 annualized operating revenue: $1.131 trillion; 2025 full-year operating revenue: $1.083 trillion",
+      "growth": "2026 Q1 operating revenue was up 7.7% year over year versus Q1 2025; 2025 full-year net income grew 10.2% from 2024",
+      "profit": "2026 Q1 net income: $80.5 billion; 2025 full-year net income: $295.6 billion",
+      "profit_margin": "2026 Q1 net income equaled about 28.5% of operating revenue; 2025 full-year ROA was 1.20%",
+      "institutions": "4,278 FDIC-insured commercial banks and savings institutions reported in Q1 2026",
+      "employment": "2,044,576 full-time-equivalent employees at FDIC-insured institutions in Q1 2026",
+      "loans": "Q1 2026 loan growth was 1.6% quarter over quarter and 7.1% year over year",
+      "deposits": "Q1 2026 domestic deposits grew 2.1% quarter over quarter, the seventh consecutive quarterly increase",
+      "net_interest_margin": "Q1 2026 industry NIM was 3.31%, down 8 basis points from Q4 2025",
+      "prime_rate": "Bank prime loan rate was 6.75% for the week ending 2026-07-22",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $963.4 billion in 2022 dollars",
+      "growth": "2022 IBISWorld revenue growth: 15.5%; 2017-2022 CAGR: 2.3%",
+      "profit": "2022 IBISWorld profit: $349.7 billion",
+      "profit_margin": "2022 IBISWorld profit margin: 36.3%",
+      "establishments": "2022 IBISWorld establishments: 76,322",
+      "enterprises": "2022 IBISWorld enterprises: 4,418",
+      "employment": "2022 IBISWorld employment: 2,027,667 people",
+      "wages": "2022 IBISWorld total wages: $256.8 billion"
+    },
+    "how_it_makes_money": "Banks earn spread income by funding loans and securities with deposits and borrowings, then retaining the difference between asset yields and funding costs. They also earn noninterest income from deposit service charges, card and payments fees, fiduciary and wealth services, trading account gains and fees, investment banking and advisory fees, servicing income, loan sales and other banking services.",
+    "cost_structure": "The largest economic cost is funding: Q1 2026 total interest expense was $117.1 billion against $309.2 billion of total interest income. Below net interest income, Q1 2026 noninterest expense was $159.8 billion, equal to 56.5% of operating revenue, including $78.7 billion for salaries and employee benefits, $13.4 billion for premises and equipment, $66.0 billion of other noninterest expense and $1.8 billion of amortization and goodwill impairment. Credit costs remain material: Q1 2026 provisions for loan and lease losses were $21.4 billion and net charge-offs were $19.9 billion.",
+    "major_players": [
+      "{'name': 'JPMorgan Chase Bank, N.A.', 'position': 'Largest domestically chartered commercial bank by consolidated assets', '2026_assets': '$4.017 trillion consolidated bank assets as of 2026-03-31'}",
+      "{'name': 'Bank of America, N.A.', 'position': 'Second-largest domestically chartered commercial bank', '2026_assets': '$2.672 trillion consolidated bank assets as of 2026-03-31'}",
+      "{'name': 'Citibank, N.A.', 'position': 'Third-largest domestically chartered commercial bank', '2026_assets': '$1.934 trillion consolidated bank assets as of 2026-03-31'}",
+      "{'name': 'Wells Fargo Bank, N.A.', 'position': 'Fourth-largest domestically chartered commercial bank', '2026_assets': '$1.852 trillion consolidated bank assets as of 2026-03-31'}",
+      "{'name': 'U.S. Bank, N.A.', 'position': 'Large super-regional bank', '2026_assets': '$683.4 billion consolidated bank assets as of 2026-03-31'}",
+      "{'name': 'Capital One, N.A.', 'position': 'Large consumer and card-focused bank after the 2025 Discover acquisition', '2026_assets': '$672.0 billion consolidated bank assets as of 2026-03-31'}"
+    ],
+    "current_dynamics": "In 2026, the industry is operating with still-elevated but lower policy rates than the 2023-2024 peak, stronger loan growth, recovering deposits and high absolute earnings. Margin pressure is shifting from asset repricing tailwinds to deposit beta and funding mix management. Credit quality remains broadly favorable, but the FDIC continues to flag elevated delinquency rates in some commercial real estate and consumer portfolios. Scale advantages are widening in payments, digital banking, AI, fraud prevention, compliance and treasury services, while smaller banks face higher technology and regulatory unit costs.",
+    "whats_growing": "Commercial and industrial lending, loans to nondepository financial institutions, credit card balances, uninsured and domestic deposits, trading revenue at large banks, wealth and fiduciary fees, real-time and embedded payments, AI-enabled servicing and risk systems, and tokenized deposit or blockchain-based institutional settlement pilots are growing in 2025-2026.",
+    "whats_shrinking": "Branch-heavy distribution, low-rate legacy securities books, lower-yield fixed-rate mortgage production, smaller-bank market share, excess pandemic-era liquidity, and banks with concentrated office CRE exposure are shrinking or under pressure in 2025-2026.",
+    "recent_developments": [
+      "2025-05-18: Capital One completed its acquisition of Discover, creating a larger consumer banking and card platform.",
+      "2026-02-24: The FDIC reported 2025 full-year banking industry net income of $295.6 billion, up 10.2% from 2024.",
+      "2026-05-27: The FDIC reported Q1 2026 net income of $80.5 billion, Q1 2026 ROA of 1.26%, Q1 2026 NIM of 3.31% and Q1 2026 annual loan growth of 7.1%.",
+      "2026-06-30: The OCC reported Q1 2026 trading revenue of $16.3 billion at U.S. commercial banks and savings associations, up 11.4% from Q4 2025 and 5.6% from Q1 2025.",
+      "2026-07-02: The Federal Reserve’s large-bank ranking showed JPMorgan Chase Bank at $4.017 trillion of consolidated assets and the top four banks holding 42% of cumulative domestic-chartered commercial bank assets as of 2026-03-31.",
+      "2026-07-29: The FOMC held the federal funds target range at 3.50% to 3.75%, with three voters preferring a 25-basis-point increase."
+    ],
+    "outlook": "Revenue should remain above the 2022 baseline through 2026 as larger loan books, high prime-linked yields and fee income offset slower mortgage activity and tighter deposit competition. The main upside is a soft landing with continued C&I and consumer credit growth, stable charge-offs and lower funding costs. The main downside is renewed inflation or rate volatility, which could extend deposit cost pressure and securities unrealized losses, or a credit cycle in office CRE, credit cards and auto loans that raises provisions. Consolidation is likely to continue because compliance, cybersecurity, payments infrastructure and AI investment favor scale.",
+    "themes": [
+      "Higher-for-longer rate sensitivity",
+      "Deposit competition and funding mix",
+      "Commercial real estate credit risk",
+      "Large-bank scale advantages",
+      "Regional bank consolidation",
+      "Digital banking and AI investment",
+      "Payments and tokenized deposits",
+      "Capital and liquidity regulation",
+      "Consumer credit normalization",
+      "Cybersecurity and fraud prevention"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/commercial-banking-in-the-us.txt'}",
+      "{'name': 'FDIC Quarterly Banking Profile Q1 2026 press release', 'url': 'https://www.fdic.gov/news/press-releases/2026/fdic-insured-institutions-reported-return-assets-126-percent-and-net'}",
+      "{'name': 'FDIC Quarterly Banking Profile Q4 2025 statement', 'url': 'https://www.fdic.gov/news/speeches/2026/fdic-quarterly-banking-profile-fourth-quarter-2025'}",
+      "{'name': 'FRED series QBPQYNTIY, FDIC net interest income', 'url': 'https://fred.stlouisfed.org/series/QBPQYNTIY'}",
+      "{'name': 'FRED series QBPQYTNIY, FDIC total noninterest income', 'url': 'https://fred.stlouisfed.org/series/QBPQYTNIY'}",
+      "{'name': 'FRED Q1 2026 FDIC income and expense release table', 'url': 'https://fred.stlouisfed.org/release/tables?eid=1217739&rid=482'}",
+      "{'name': 'Federal Reserve H.8 commercial bank assets and liabilities, July 2026', 'url': 'https://www.federalreserve.gov/releases/h8/current/default.htm'}",
+      "{'name': 'Federal Reserve large commercial banks ranked by consolidated assets, March 31 2026', 'url': 'https://www.federalreserve.gov/releases/lbr/current/default.htm'}",
+      "{'name': 'OCC Q1 2026 bank trading revenue release', 'url': 'https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-53.html'}",
+      "{'name': 'Federal Reserve FOMC statement, July 29 2026', 'url': 'https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm'}",
+      "{'name': 'FRED bank prime loan rate', 'url': 'https://fred.stlouisfed.org/series/WPRIME'}",
+      "{'name': 'Capital One completion of Discover acquisition', 'url': 'https://www.capitalone.com/about/newsroom/capital-one-completes-acquisition-of-discover/'}"
+    ],
+    "one_sentence": "Commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees.",
+    "slug": "commercial-banking-in-the-us"
+  },
+  {
+    "title": "Energy Drink Production",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. energy drink producers are still outgrowing most packaged beverages as zero-sugar, functional and lifestyle-positioned brands expand beyond the traditional convenience-store core.",
+    "overview": "Energy Drink Production covers companies that formulate, bottle, can and sell caffeinated energy beverages and related shots or mixes, typically through bottler, distributor, warehouse, club, grocery, mass, convenience and ecommerce channels. The 2022 IBISWorld baseline put U.S. producer revenue at $11.720 billion, and current retail data show the category accelerated sharply in 2025: Nielsen-reported U.S. all-channel energy drink retail sales were about $22.8 billion for the 52 weeks ending November 15, 2025, up 10.9% year over year, while convenience-store energy drink sales reached $16.0418 billion in 2025. Producers benefit from premium pricing, frequent product launches, strong brand marketing and broadening demographics, but face pressure from aluminum can costs, retailer promotional spending, caffeine and sugar scrutiny, and a consolidating distribution landscape dominated by Coca-Cola, PepsiCo and major bottlers.",
+    "key_stats": {
+      "market_size": "$22.8 billion in 2025 U.S. all-channel retail energy drink sales, calculated from Nielsen's $122 billion U.S. nonalcoholic RTD beverage market and 18.7% energy drink dollar share for the 52 weeks ending November 15, 2025; estimated producer revenue is lower at roughly $14.0 billion-$15.0 billion in 2025 after retail margins",
+      "growth": "+10.9% U.S. retail dollar sales and +8.4% unit sales for energy drinks in the 52 weeks ending November 15, 2025",
+      "convenience_channel": "$16.0418 billion in 2025 U.S. convenience-store energy drink sales for the 52 weeks ending December 28, 2025",
+      "category_share": "18.7% of U.S. nonalcoholic RTD beverage retail dollars and 19.2% of units in the 52 weeks ending November 15, 2025",
+      "leading_brand_share": "Monster Energy Company held 34.7% U.S. value share in the 4 weeks ending October 25, 2025; Red Bull held 32.6% dollar share and Monster Energy Company 34.3% in the 13 weeks ending November 15, 2025",
+      "major_public_company_sales": "Monster Beverage reported $8.294 billion in 2025 global net sales, up 10.7%; Celsius reported $2.515 billion in 2025 revenue, up 85.5%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$11.720 billion in 2022 U.S. industry revenue, in 2022 dollars",
+      "growth": "2.9% annualized revenue growth over 2017-2022; -0.8% estimated 2022 annual revenue decline; 0.9% projected annualized growth over 2022-2027",
+      "profit": "$1.324 billion in 2022 profit",
+      "profit_margin": "11.3% in 2022",
+      "establishments": "176 establishments in 2022",
+      "enterprises": "107 enterprises in 2022",
+      "employment": "18,243 employees in 2022",
+      "exports": "$277 million in 2022 exports",
+      "imports": "$876 million in 2022 imports",
+      "domestic_demand": "$12.318 billion in 2022 domestic demand"
+    },
+    "how_it_makes_money": "Producers earn revenue by selling branded energy drinks, shots, concentrates and powders to distributors, bottlers, retailers, foodservice accounts and online channels. Large brands monetize scale through premium can pricing, multipacks, flavor extensions, exclusive retailer programs, national shelf space, sports and gaming sponsorships, and distributor agreements with Coca-Cola or PepsiCo systems. Smaller brands typically rely on outsourced manufacturing and build value through brand positioning, social media, targeted retail velocity and eventual strategic partnerships or acquisition.",
+    "cost_structure": {
+      "ingredients": "Caffeine, sweeteners, taurine, vitamins, flavors, preservatives and water are important but usually lower-cost inputs than packaging and distribution on a per-can basis.",
+      "packaging": "Aluminum cans, lids, labels, cartons and shrink wrap are a major cost item; 2025 aluminum and can-price pressure remained important for beverage producers.",
+      "manufacturing": "Costs include blending, pasteurization or filling, quality assurance, co-packing fees, plant labor, utilities and depreciation for owned facilities.",
+      "distribution": "Freight, warehousing, slotting, distributor margins and bottler economics are material because the category depends on chilled single-serve placement and frequent replenishment.",
+      "marketing": "Sponsorships, athletes, events, social media, in-store displays, price promotions and trade allowances are core spending lines; Monster noted that promotional allowances support volume, trial and shelf/display space in 2025.",
+      "margin_profile": "The 2022 IBISWorld baseline estimated 11.3% operating profit margin; public-company gross margins remain much higher than industry operating margins because selling, marketing and distribution absorb a large share of revenue."
+    },
+    "major_players": [
+      "Red Bull North America",
+      "Monster Beverage Corporation",
+      "Celsius Holdings",
+      "PepsiCo / Rockstar distribution system",
+      "Keurig Dr Pepper / Ghost and C4 distribution exposure",
+      "Living Essentials / 5-hour Energy",
+      "The Coca-Cola Company distribution system"
+    ],
+    "current_dynamics": "The 2025-2026 market is being reshaped by functional and zero-sugar positioning, fast-growing challenger brands, and tighter alignment between brand owners and beverage distribution systems. Red Bull and Monster remain the anchor brands, but Celsius, Alani Nu, Ghost, C4 and newer wellness-adjacent energy products are taking incremental shelf space. Convenience stores remain the most important channel, but mass, club, grocery, Amazon and foodservice are becoming more strategic. Category growth is coming from both price/mix and real unit expansion, unlike many other nonalcoholic beverage segments that saw flat or declining unit trends in 2025.",
+    "whats_growing": [
+      "Zero-sugar and low-calorie energy drinks, led by Celsius, Alani Nu, Monster Ultra and similar functional-positioned brands",
+      "Female, fitness, lifestyle and wellness-oriented energy occasions beyond the traditional male convenience-store core",
+      "Multipacks and club/mass-channel purchases as consumers seek better per-can value",
+      "Innovation-led flavors and limited-time launches that drive trial and shelf resets",
+      "Distribution partnerships with PepsiCo and Coca-Cola bottling systems",
+      "Convenience-store energy drink units, which grew 7.8% in 2025 according to Circana/CSP"
+    ],
+    "whats_shrinking": [
+      "Legacy full-sugar and older core brands with weaker innovation, including Rockstar's 2025 tracked retail decline before the Celsius transaction",
+      "Energy shots such as 5-hour Energy, which showed a 7.8% dollar decline in Nielsen's latest 13-week period ending November 15, 2025",
+      "Retailer tolerance for slow-moving SKUs as shelf space shifts toward faster functional and zero-sugar brands",
+      "Producer pricing flexibility where aluminum, freight and promotional costs rise faster than consumers accept price increases",
+      "Consumer acceptance of high sugar and high caffeine without clearer functional or lifestyle positioning"
+    ],
+    "recent_developments": [
+      "2025-04-01: Celsius completed its $1.8 billion acquisition of Alani Nu, adding a fast-growing zero-sugar functional energy brand.",
+      "2025-08-28: Celsius acquired Rockstar Energy assets in the U.S. and Canada from PepsiCo as part of a broader strategic energy partnership.",
+      "2025-08-29: PepsiCo invested $585 million in newly issued Celsius preferred stock and expanded U.S./Canada distribution for Celsius, Alani Nu and Rockstar.",
+      "2025-11-15: Nielsen data showed U.S. all-channel energy drink retail dollars up 10.9% and units up 8.4% over the latest 52 weeks, reaching an estimated $22.8 billion in retail sales.",
+      "2025-12-28: Circana/CSP reported U.S. convenience-store energy drink sales of $16.0418 billion in 2025, with units up 7.8%.",
+      "2026-02-19: Monster Beverage reported 2025 global net sales of $8.294 billion, up 10.7%, and 2025 energy drink case sales of 959.0 million, up 13.3%."
+    ],
+    "outlook": "The U.S. industry should keep growing through 2026, but the mix will matter more than headline category expansion. Strong unit growth, higher household penetration and functional positioning support revenue, while elevated aluminum costs, promotional intensity, health scrutiny and distribution concentration limit margin upside. The most defensible producers will be those with national bottler access, repeatable flavor innovation, credible zero-sugar or functional claims, and enough scale to fund trade spending without diluting brand equity.",
+    "themes": [
+      "Functional beverages",
+      "Zero sugar",
+      "Convenience-store strength",
+      "Distributor consolidation",
+      "Premiumization",
+      "Flavor innovation",
+      "Health scrutiny",
+      "Aluminum packaging costs",
+      "Gen Z and millennial demand",
+      "Sports, gaming and fitness marketing"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/energy-drink-production.txt",
+      "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1341766/000134176626000024/celh-20251231.htm",
+      "https://ir.celsiusholdingsinc.com/news/news-details/2025/Celsius-Holdings-Completes-Acquisition-of-Alani-Nu/default.aspx",
+      "https://www.pepsico.com/newsroom/press-releases/2025/celsius-holdings-and-pepsico-strengthen-long-term-strategic-partnership",
+      "https://www.cspdailynews.com/beverages/beverage-breakdown-see-how-each-segment-performing-convenience-stores",
+      "https://www.statista.com/statistics/309327/industry-total-sales-of-packaged-beverages-in-the-us/",
+      "https://www.sec.gov/Archives/edgar/data/865752/000110465925117647/tm2532419d1_ex99-1.htm",
+      "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "https://www.sec.gov/Archives/edgar/data/9389/000110465926017410/ball-20251231x10k.htm"
+    ],
+    "one_sentence": "The industry manufactures and markets caffeinated ready-to-drink beverages, shots and mixes, with 2025 demand supported by strong retail velocity, flavor innovation, expanded distribution and consumer substitution away from soda and some coffee occasions.",
+    "slug": "energy-drink-production"
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "title": "Private Schools in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A mature, tuition-led K-12 education industry where school-choice funding is expanding faster than underlying enrollment.",
+    "overview": "The industry consists of privately funded elementary and secondary schools, including secular independent schools, Catholic schools, other religious schools, boarding schools, Montessori schools and special-needs schools. Demand is driven by household income, perceived quality and safety, religious or pedagogical preferences, and access to public school-choice subsidies. The 2025 market remains fragmented and mature: private schools are a small share of US K-12 enrollment, but state-funded ESAs, vouchers and tax-credit scholarships are widening the addressable market for participating schools. At the same time, falling or flat school-age population growth, competition from charter schools and homeschooling, higher labor costs, compliance obligations and affordability constraints limit faster expansion.",
+    "key_stats": {
+      "market_size": "$90.6 billion in 2025 revenue",
+      "growth": "0.4% CAGR to 2025; 2023 revenue declined 1.8%",
+      "profit_margin": "6.0% in 2025",
+      "private_school_count": "29,730 K-12 private schools in 2021 federal data",
+      "student_enrollment": "5.47 million private-school students in 2021 federal data, equal to about 10% of all K-12 students",
+      "average_tuition": "$12,790 per student in the 2020-21 school year; Catholic $9,720, other religious $10,910, nonsectarian $19,590",
+      "employment_trend": "BLS/FRED elementary and secondary schools employment index rose from 106.803 in 2022 to 117.508 in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$91.1 billion in 2022 revenue, in 2022 dollars",
+      "growth": "1.2% CAGR over 2017-2022; revenue declined 0.5% in 2022",
+      "profit": "$5.7 billion in 2022",
+      "profit_margin": "6.3% in 2022",
+      "establishments": "33,537 establishments in 2022",
+      "enterprises": "29,172 enterprises in 2022",
+      "employment": "819,662 employees in 2022",
+      "wages": "$41.3 billion in 2022",
+      "enrollment": "5.713 million private elementary and secondary school students in 2022 IBIS baseline"
+    },
+    "how_it_makes_money": "Revenue comes primarily from annual tuition and mandatory fees, supplemented by application and activity fees, boarding charges, summer and auxiliary programs, donations, endowment draws, fundraising, grants and limited indirect public support through voucher, ESA and tax-credit scholarship programs. Secular schools represented the largest 2022 revenue share because their tuition is much higher than Catholic and other religious schools, even though religious schools enroll a large share of students.",
+    "cost_structure": "Labor is the dominant cost: the 2022 baseline recorded $41.3 billion of wages, about 45% of revenue, and staffing pressure has intensified as schools compete for teachers, administrators, counselors, special-education staff, technology staff and facilities labor. Other major costs include campus maintenance, transportation, food service, insurance, utilities, classroom supplies, technology and learning-management systems, athletics, security, marketing/admissions, debt service, scholarship discounts and compliance. Profitability is modest because tuition increases are constrained by affordability and financial-aid expectations.",
+    "major_players": [
+      "Catholic diocesan and parish school systems",
+      "Large nonprofit independent day and boarding schools",
+      "National Association of Independent Schools member schools",
+      "Montessori, Waldorf and other secular private-school operators",
+      "Religious school networks outside the Catholic system"
+    ],
+    "current_dynamics": "The market is being pulled in two directions in 2025-2026. On the demand side, school-choice programs are expanding, with EdChoice estimating private school choice participation rose from about 1.04 million students in 2024 to about 1.30 million in July 2025. Texas added a $1.0 billion Education Freedom Accounts program for the 2026-27 school year, with private-school awards set at $10,474 and up to $30,000 for eligible students with disabilities. On the constraint side, many schools have limited seats, high fixed campus costs and rising wage bills, while families face tuition affordability pressure. Federal enrollment data still lag, so the newest official private-school universe counts do not fully capture recent voucher and ESA adoption.",
+    "whats_growing": "Education savings accounts, universal or near-universal school-choice programs, special-needs private placements, nonsectarian independent schools with high tuition, demand for smaller classes and differentiated instruction, endowment-supported financial aid, and private-school technology, payments, admissions and curriculum purchasing are growing. Participation in private school choice programs reached about 1.30 million students in July 2025, up 25% from 2024, according to EdChoice.",
+    "whats_shrinking": "Traditional Catholic school enrollment share has continued to decline over the long run, affordability-sensitive tuition demand is under pressure, and small stand-alone schools without endowments or subsidy access are more vulnerable to wage inflation, insurance costs and facility costs. The 2025 IBIS-derived estimate shows the market still below the 2022 baseline revenue level, reflecting enrollment pressure despite higher tuition.",
+    "recent_developments": [
+      "2025-04: IBISWorld's April 2025 industry report listed US private-school revenue at $90.6 billion, with 0.4% CAGR and 6.0% profit margin.",
+      "2025-08: EdChoice estimated 1,300,905 students in private school choice programs as of July 2025, up 25% from about 1,038,500 in 2024.",
+      "2025-12: Treasury and IRS issued guidance allowing states to make advance elections for the new 2027 federal scholarship tax credit for K-12 scholarship-granting organizations.",
+      "2026-02: Commonfund reported FY2025 independent-school endowment returns of 11.5% and a participating sample of 243 schools with $17.3 billion in combined endowment assets.",
+      "2026-04: NAIS released its 2025-2026 State of the Independent School Sector report covering enrollment, tuition, financial aid, advancement, revenue and expenses.",
+      "2026-07: Texas Education Freedom Accounts began initial 2026-27 funding for awarded private-school students, following a 2025 law that appropriated $1.0 billion."
+    ],
+    "outlook": "Revenue growth should be modest through the late 2020s rather than explosive. Tuition increases, stronger household balance sheets among affluent families, voucher and ESA expansion, and endowment-supported aid will support nominal revenue, but demographics, affordability resistance, staff shortages, rising benefits and facilities costs, and competition from public charter, magnet, online and homeschool options will cap growth. Schools with strong brands, specialized programs, fundraising capacity and capacity to accept publicly funded choice students are positioned better than small schools with limited reserves.",
+    "themes": [
+      "school choice expansion",
+      "tuition affordability",
+      "labor cost inflation",
+      "fragmented nonprofit operators",
+      "religious school mix shift",
+      "special-needs education demand",
+      "endowment-supported financial aid",
+      "charter and homeschool competition"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, Private Schools in the US, last updated July 6, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/private-schools-in-the-us.txt'}",
+      "{'name': 'Research and Markets / IBISWorld, Private Schools in the US - Industry Market Research Report, April 2025', 'url': 'https://www.researchandmarkets.com/reports/452486/private_schools_in_the_us_industry_market'}",
+      "{'name': 'NCES Condition of Education, Private School Enrollment, May 2024', 'url': 'https://nces.ed.gov/programs/coe/indicator/cgc/private-school-enrollment'}",
+      "{'name': 'Education Week Market Brief, The U.S. Private School Market: An Explainer, April 16, 2025', 'url': 'https://marketbrief.edweek.org/education-market/the-u-s-private-school-market-an-explainer/2025/04'}",
+      "{'name': 'EdChoice, School Choice Surge: Private School Program Use Up 25% Nationwide, August 26, 2025', 'url': 'https://www.edchoice.org/2025-families-are-voting-with-their-feetand-their-tax-dollars/'}",
+      "{'name': 'EdChoice, The ABCs of School Choice: 2025 Edition, ERIC record', 'url': 'https://eric.ed.gov/?id=ED672450'}",
+      "{'name': 'Commonfund, Commonfund Study of Independent Schools Released for FY2025, February 23, 2026', 'url': 'https://www.commonfund.org/research-center/press-releases/commonfund-study-of-independent-schools-released-for-fy2025'}",
+      "{'name': 'NAIS, 2025-2026 State of the Independent School Sector, April 3, 2026', 'url': 'https://www.nais.org/resource-center/resources/research/nais-research-2025-2026-state-of-the-independent-school-sector'}",
+      "{'name': 'FRED / BLS Industry Productivity, Employment for Educational Services: Elementary and Secondary Schools, updated June 3, 2026', 'url': 'https://fred.stlouisfed.org/data/IPUQN611110W010000000'}",
+      "{'name': 'Texas Education Freedom Accounts, 2026-27 funding information', 'url': 'https://educationfreedom.texas.gov/'}"
+    ],
+    "one_sentence": "Private schools in the US generate most revenue from K-12 tuition, fees and donations, with 2025 revenue estimated at $90.6 billion after weak enrollment and cost pressure offset rising tuition and new voucher/ESA demand.",
+    "slug": "private-schools-in-the-us"
+  },
+  {
+    "title": "Product Returns Management Services",
+    "sector": "Transport & Logistics",
+    "one_liner": "Reverse-logistics specialists process, repair, resell, recycle and dispose of returned merchandise for retailers, manufacturers and e-commerce brands.",
+    "overview": "This industry covers return center operations, return-to-vendor management, product recall support, inspection, repair, refurbishment, recommerce, recycling and disposal. The 2021 baseline estimated narrow U.S. industry revenue at $9.5 billion and forecast revenue to reach $11.5 billion in 2026, while newer 2025-2026 data show the broader U.S. reverse-logistics market at $186.87 billion in 2025 and $199.71 billion in 2026. Demand is tied to retail sales, e-commerce penetration, consumer electronics returns, recall activity, inventory liquidation and retailer efforts to recover value from merchandise that would otherwise be written down or landfilled.",
+    "key_stats": {
+      "market_size": "$11.5 billion in 2026 for the narrow U.S. product returns management services industry forecast; $199.71 billion in 2026 for the broader U.S. reverse logistics market",
+      "growth": "3.8% CAGR from 2021 to 2026 for the narrow industry forecast; 6.67% CAGR from 2026 to 2031 for the broader U.S. reverse logistics market",
+      "retail_returns": "$849.9 billion of U.S. retail merchandise projected to be returned in 2025, equal to 15.8% of annual retail sales",
+      "online_return_rate": "19.3% of online sales projected to be returned in 2025",
+      "ecommerce_sales": "$326.7 billion U.S. retail e-commerce sales in Q1 2026, up 9.8% year over year",
+      "ecommerce_share": "16.9% of total U.S. retail sales in Q1 2026",
+      "profit_margin": "6.9% EBIT margin forecast for the narrow industry in 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $9.9 billion in 2022, estimated from the 2021 baseline revenue of $9.539 billion and the 2021-2026 forecast CAGR",
+      "growth": "About 3.8% in 2022 on the baseline forecast path",
+      "baseline_source": "IBISWorld baseline file last updated October 26, 2021, with revenue forecast to $11.5 billion by 2026"
+    },
+    "how_it_makes_money": "Operators earn fees from retailers, brands and manufacturers for receiving returns, transporting goods, operating return centers, inspecting and grading products, repairing and refurbishing items, managing warranties and recalls, routing merchandise to resale or liquidation channels, recycling components and providing returns software, analytics and customer-facing return portals. Recommerce was the largest baseline service line at 55.9% of 2021 revenue, followed by returns processing at 26.7%, unsaleable goods at 10.8% and recall management at 6.6%.",
+    "cost_structure": "The business is labor-intensive but increasingly automated. The 2021 baseline put wages at 27.6% of revenue and profit at 6.7%, with the 2026 profit margin forecast at 6.9%. Major costs include warehouse labor, technicians for testing and repair, carrier and first-mile shipping, facility rent and utilities, packaging, sorting equipment, returns software, fraud detection tools, compliance handling for electronics and regulated goods, and liquidation or disposal costs.",
+    "major_players": [
+      "DHL Supply Chain / Inmar Supply Chain Solutions",
+      "UPS / Happy Returns",
+      "FedEx Supply Chain and FedEx Easy Returns",
+      "GXO Logistics",
+      "Blue Yonder / Optoro",
+      "Liquidity Services",
+      "ReturnPro / goTRG",
+      "XPO",
+      "Ryder System"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026: consumers still expect free, fast and convenient returns, while retailers are trying to cut return costs, reduce fraud and recover more resale value. Box-free, label-free drop-off networks are expanding, and large logistics firms are buying or partnering with specialist returns platforms. AI-based disposition, fraud screening and automated grading are becoming more important because a growing share of returns must be routed quickly to restock, resale, repair, liquidation, recycling or disposal.",
+    "whats_growing": "Recommerce, refurbishment, no-box/no-label drop-off networks, AI-assisted grading and fraud detection, multi-client return centers, electronics recovery, retail returns analytics, and sustainability-driven recycling and resale services are growing in 2025-2026. Value-added services are outgrowing basic freight because clients need higher recovery values and faster disposition, not just transportation.",
+    "whats_shrinking": "Pure mail-back returns, manual inspection workflows, free-return policies with no controls, landfill disposal of recoverable consumer goods, and stand-alone in-house return operations at smaller retailers are under pressure. Retailers are also tightening overly lenient return windows and adding fees or policy segmentation where return abuse and carrier costs are high.",
+    "recent_developments": [
+      "2025-01-09: DHL Supply Chain acquired Inmar Supply Chain Solutions, adding 14 return centers and becoming a leading North American returns-processing provider.",
+      "2025-03-25: FedEx announced FedEx Easy Returns, a box-free and label-free consolidated returns service launching with about 3,000 FedEx Office and Kohl's drop-off locations.",
+      "2025-08-19: Blue Yonder acquired Optoro to expand warehouse and in-store returns management capabilities.",
+      "2025-10-02: DHL launched its North American ReTurn Network, a multi-client reverse-logistics network for retailers, manufacturers and e-commerce businesses.",
+      "2025-10-15: NRF and Happy Returns projected $849.9 billion in U.S. retail returns for 2025, with 19.3% of online sales returned."
+    ],
+    "outlook": "The 2026 outlook is positive but margin-sensitive. Revenue growth should continue as e-commerce penetration rises, U.S. retail e-commerce reached 16.9% of sales in Q1 2026, and return volumes remain structurally high. The best-positioned operators will combine dense drop-off networks, automated processing, repair capability, resale channels and analytics that lower refund cycle time and raise recovery value. Risks include carrier cost inflation, retailer return fees that reduce volumes, fraud, labor shortages in warehouse and repair roles, and compliance costs for electronics, batteries, healthcare and regulated products.",
+    "themes": [
+      "E-commerce return intensity",
+      "Recommerce and resale recovery",
+      "AI disposition and fraud detection",
+      "Box-free and label-free returns",
+      "Retail margin protection",
+      "Circular economy and landfill diversion",
+      "Returns network consolidation",
+      "Electronics repair and refurbishment"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/product-returns-management-services.txt",
+      "https://nrf.com/media-center/press-releases/consumers-expected-to-return-nearly-850-billion-in-merchandise-in-2025",
+      "https://nrf.com/research/2025-retail-returns-landscape",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTSA",
+      "https://www.mordorintelligence.com/industry-reports/united-states-reverse-logistics-market",
+      "https://www.dhl.com/us-en/home/press/press-archive/2025/dhl-supply-chain-acquires-reverse-logistics-leader-inmar-supply-chain-solutions.html",
+      "https://www.dhl.com/us-en/home/press/press-archive/2025/dhl-supply-chain-launches-return-network-to-transform-reverse-logistics.html",
+      "https://newsroom.fedex.com/newsroom/global-english/fedex-to-launch-fedex-easy-returns-at-3-000-locations-across-the-us-supported-by-blue-yonder",
+      "https://www.optoro.com/returns-news/blue-yonder-acquires-optoro/",
+      "https://about.ups.com/gb/en/newsroom/press-releases/customer-first/ups-to-acquire-hr.html",
+      "https://gxo.com/supply-chain-mgmt/reverse-logistics/"
+    ],
+    "one_sentence": "Product returns management services are growing because online retail, expensive return shipping, fraud risk and circular-economy goals are pushing retailers and manufacturers to outsource returns processing, recommerce and disposition decisions.",
+    "slug": "product-returns-management-services"
+  },
+  {
+    "title": "Product Warranty Insurance",
+    "sector": "Finance & Insurance",
+    "one_liner": "A small, mature insurance niche that backs protection plans for electronics, appliances and other durable goods.",
+    "overview": "The US Product Warranty Insurance industry covers the underwriting side of extended product protection plans, excluding home, auto and vehicle warranty programs and excluding repair-only administrators. IBISWorld’s 2022 baseline put 2021 revenue at $1.568 billion and forecast a decline to about $1.5 billion by 2026 as lower electronics prices and post-stimulus normalization offset steady demand for device, appliance and smart-home protection. Public 2025-2026 evidence points to a mixed market: manufacturers’ warranty claims and reserves rose in 2025, Assurant and Allstate reported continued growth in connected-living and protection-plan activity, and retailers are expanding monthly and whole-home protection bundles, while inflation, high rates and regulatory scrutiny keep pressure on attachment rates and contract language.",
+    "key_stats": {
+      "market_size": "2026 estimated: $1.50 billion in US product warranty insurance revenue, based on the IBISWorld 2021-2026 forecast CAGR applied to 2021 revenue.",
+      "growth": "2021-2026 forecast CAGR: -0.9%; 2026 estimated annual growth remains slightly negative for the narrow underwriting niche.",
+      "profit_margin": "2026 forecast: 17.3% EBIT margin, down from 19.9% in 2021 in the IBISWorld baseline.",
+      "employment": "2026 forecast: 1,112 workers, down at a 2021-2026 CAGR of -2.1%.",
+      "enterprises": "2026 forecast: 22 enterprises, down at a 2021-2026 CAGR of -4.7%.",
+      "product_mix": "2021 baseline: electronics protection policies 60.3% of revenue, home appliance protection 21.0%, other product protection 18.7%.",
+      "adjacent_warranty_expense": "2025: publicly traded US manufacturers paid $30.37 billion in product warranty claims, accrued $33.41 billion and held $71.89 billion in reserves, according to Warranty Week.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated: $1.55 billion, derived from IBISWorld’s 2021 revenue of $1.568 billion and its 2021-2026 forecast CAGR of -0.9%.",
+      "growth": "2022 estimated: -0.9% year over year under the IBISWorld forecast path.",
+      "baseline_source": "IBISWorld report last updated January 31, 2022.",
+      "baseline_context": "The 2022 baseline expected the 2021 stimulus-driven surge in electronics and appliance purchases to fade, with revenue contracting toward $1.5 billion by 2026."
+    },
+    "how_it_makes_money": "Operators earn premiums, service-contract reimbursement policy fees, underwriting income and investment income by backing repair, replacement, refund or reimbursement obligations sold through retailers, manufacturers, carriers and direct-to-consumer channels. Distribution partners often collect the consumer-facing protection-plan sale, while the insurer or reinsurer prices risk, funds claims, manages reserves and may share administration economics with third-party plan managers.",
+    "cost_structure": {
+      "claims_and_benefits": "2026: repair, replacement, reimbursement and loss-adjustment costs remain the primary variable cost and rise when device failure rates, appliance part costs or service labor costs increase.",
+      "commissions_and_distribution": "2026: retailer, carrier, OEM and e-commerce partner commissions are a major acquisition cost because plans are usually attached at checkout, subscription enrollment or device activation.",
+      "wages_and_operations": "2026 forecast: industry employment is 1,112 workers as digital claims handling and third-party administration reduce labor intensity.",
+      "technology_and_administration": "2026: claims portals, fraud controls, pricing analytics, customer support platforms and service-network management are core operating expenses.",
+      "investment_portfolio": "2025-2026: elevated Treasury and corporate-bond yields support investment income on reserves, with the 10-year Treasury around the mid-4% range in 2025-2026 public rate data."
+    },
+    "major_players": [
+      "{'name': 'Assurant', 'role': 'Large public insurer and administrator with Global Lifestyle Connected Living programs covering mobile devices, consumer electronics and appliances; 2025 Connected Living net earned premiums, fees and other income were $5.3787 billion globally.'}",
+      "{'name': 'Allstate Protection Plans / SquareTrade', 'role': 'Retail and e-commerce protection-plan provider; Allstate reported 2025 Protection Plans adjusted net income of $179 million and 164.650 million protection-plan policies in force.'}",
+      "{'name': 'Asurion', 'role': 'Private tech-care and product-protection provider serving phones, home tech, appliances and Amazon-linked plans; its 2026 site lists Verizon, AT&T and Amazon among common provider programs.'}",
+      "{'name': 'AIG Warranty Management', 'role': 'Warranty and service-program provider offering claims processing, contract underwriting and extended service plans for appliances, HVAC, consumer electronics, mobile devices, furniture and other durable goods.'}",
+      "{'name': 'CNA, AmTrust, Fortegra and specialty reinsurers', 'role': 'Specialty insurers and reimbursement-policy writers that support service-contract obligors and administrators across consumer product categories.'}"
+    ],
+    "current_dynamics": "Demand in 2025-2026 is steadier than the original post-2021 decline case implied because consumer electronics, appliances and connected-home products remain high-attachment categories and providers are shifting from single-item checkout warranties to subscription, whole-home and embedded-benefit models. The narrow underwriting industry still faces flat-to-down revenue because product deflation in electronics, retailer bargaining power and competition from administrator-led service contracts compress premiums. Higher 2025-2026 bond yields help investment income, but claims severity is exposed to appliance repair labor, parts availability, device replacement costs and fraud controls.",
+    "whats_growing": [
+      "2025-2026: subscription protection plans covering multiple devices or whole-home electronics are gaining share versus one-off extended warranties.",
+      "2025-2026: mobile-device protection remains resilient as phones are expensive, frequently damaged and bundled through carriers.",
+      "2025-2026: appliance and smart-home coverage is expanding through retailer partnerships and monthly plans as repair costs stay high.",
+      "2025-2026: digital claims approval, remote diagnostics, same-day repair networks and logistics capabilities are becoming competitive differentiators.",
+      "2026: embedded protection sold through e-commerce marketplaces is expanding, including broader Amazon-linked product-care offerings."
+    ],
+    "whats_shrinking": [
+      "2025-2026: legacy in-store, single-product warranties for lower-priced electronics face weaker economics as replacement costs fall relative to plan prices.",
+      "2025-2026: small independent underwriters are losing share as large insurers, administrators and retailers consolidate programs.",
+      "2025-2026: paper-based claims handling and call-center-heavy servicing are being displaced by automated claim intake and partner APIs.",
+      "2025-2026: consumer willingness to add discretionary coverage is pressured by cost-of-living concerns and high interest rates on durable-goods purchases."
+    ],
+    "recent_developments": [
+      "2024-07-03: The FTC sent warning letters to companies over warranty practices that may restrict consumers’ right to repair under the Magnuson-Moss Warranty Act.",
+      "2025-12-31: Allstate reported 164.650 million Protection Plans policies in force and $179 million of Protection Plans adjusted net income for 2025.",
+      "2025-12-31: Assurant reported 2025 Connected Living net earned premiums, fees and other income of $5.3787 billion globally, including mobile and retail extended service contracts.",
+      "2026-03-03: Asurion announced expanded Amazon Complete Protect features, including cybersecurity protection, product-care services and access to nearly 700 uBreakiFix by Asurion locations.",
+      "2026-04-16: Warranty Week reported that US-based public manufacturers paid $30.37 billion in 2025 warranty claims and held $71.89 billion in warranty reserves.",
+      "2026-06-30: Allstate Protection Plans announced a Macy’s partnership for enhanced furniture and jewelry protection in stores and expanded categories online."
+    ],
+    "outlook": "The 2026 outlook is stable to slightly negative for the narrow US underwriting niche, with estimated revenue near $1.50 billion. Growth should improve where providers attach protection to premium phones, connected devices, appliances, furniture and whole-home bundles, but this is offset by declining electronics prices, consumer resistance to add-on costs and continued consolidation. Profitability should remain healthy by insurance standards because higher 2025-2026 fixed-income yields improve investment returns and digital servicing lowers overhead, but claims inflation and right-to-repair scrutiny limit upside. Over the next several years, winners are likely to be insurers and administrators with retailer-scale distribution, fast repair logistics, automated claims, flexible reimbursement-policy capacity and transparent plan terms.",
+    "themes": [
+      "Mature insurance niche",
+      "Retail-embedded protection",
+      "Mobile and connected-device risk",
+      "Appliance repair inflation",
+      "Subscription and whole-home bundles",
+      "Claims automation",
+      "Right-to-repair regulation",
+      "Industry consolidation",
+      "Investment-yield support",
+      "Consumer add-on fatigue"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/product-warranty-insurance.txt",
+      "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000010/aiz-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm",
+      "https://www.warrantyweek.com/archive/ww20260416.html",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-warns-companies-stop-warranty-practices-harm-consumers-right-repair",
+      "https://www.asurion.com/protection-plans/",
+      "https://www.prnewswire.com/news-releases/asurion-collaborates-with-amazon-to-expand-complete-protect-offering-delivering-more-value-across-the-product-ownership-journey-302701891.html",
+      "https://www.squaretrade.com/all-press-release/",
+      "https://www.aig.com/home/risk-solutions/business/warranty-and-service-programs/warranty-management",
+      "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-december-2025",
+      "https://fredaccount.stlouisfed.org/public/dashboard/44460"
+    ],
+    "one_sentence": "Product warranty insurers underwrite and reinsure repair-or-replacement obligations tied to consumer electronics, appliances and other products, with revenue driven by durable-goods sales, attachment rates, claims severity and investment yields.",
+    "slug": "product-warranty-insurance"
+  },
+  {
+    "title": "Professional Employer Organizations in the US",
+    "sector": "Business Services",
+    "one_liner": "PEOs bundle payroll, benefits, HR compliance and risk administration for small and midsize employers through a co-employment model.",
+    "overview": "Professional employer organizations, or PEOs, become a co-employer for client worksite employees while the client keeps day-to-day operational control. The industry monetizes recurring HR administration, payroll tax, benefits, workers' compensation, retirement and compliance services, with revenue definitions varying materially: payroll-inclusive industry revenue is far larger than fee/service revenue because PEOs process large volumes of client wages, payroll taxes and benefit costs. In 2026, the market is supported by SMB demand for better benefits purchasing power, help with multistate labor rules, pay transparency, AI-related employment compliance and payroll-tax administration.",
+    "key_stats": {
+      "market_size": "2026: $414.0 billion in U.S. PEO industry revenue including payroll/benefit pass-throughs, according to NAPEO; 2026: $62.79 billion U.S. PEO service-revenue market estimate, according to Straits Research.",
+      "growth": "2012-2026: payroll-inclusive U.S. PEO industry revenue more than quadrupled, according to NAPEO; 2026-2034: U.S. PEO service-revenue market forecast CAGR of 8.5%, according to Straits Research.",
+      "clients": "2025: more than 230,000 U.S. businesses use PEOs, representing about 15% of employers with 10-499 employees, according to NAPEO.",
+      "worksite_employees": "2025: more than 4.5 million Americans are employed by businesses using PEOs, according to NAPEO.",
+      "operators": "2026: more than 500 PEOs operate in the United States, according to NAPEO.",
+      "penetration": "2025: Florida, California, New York and Texas accounted for the highest PEO client concentrations at 18%, 16%, 9% and 8%, respectively, according to NAPEO.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021: $218.5 billion in industry revenue in the IBISWorld baseline file, reported in 2021 dollars.",
+      "growth": "2016-2021: revenue CAGR of 5.1%; 2021: revenue growth of 5.2%; 2021-2026: baseline forecast CAGR of 2.6% to $248.0 billion by 2026.",
+      "profit": "2021: $10.27 billion profit and 4.7% profit margin in the IBISWorld baseline file.",
+      "establishments": "2021: 3,929 establishments and 2,935 enterprises in the IBISWorld baseline file.",
+      "employment": "2021: 3.37 million total industry employment including worksite employees in the IBISWorld baseline file.",
+      "service_mix": "2021: companies with fewer than 50 employees represented 57.5% of industry revenue; companies with 50-249 employees represented 19.2%; companies with 250 or more employees represented 23.3%."
+    },
+    "how_it_makes_money": "PEOs charge either a percentage of client payroll or a per-employee-per-month fee for co-employment services. Core revenue comes from full-service PEO bundles covering payroll processing, payroll-tax remittance, benefits administration, HR guidance, workers' compensation, risk management, 401(k) administration and compliance support. Additional revenue comes from HR-only, payroll-only, insurance, training, performance management and technology-enabled HCM services.",
+    "cost_structure": "The largest economic flows are client payroll, payroll taxes and benefit costs, followed by health insurance, workers' compensation, state unemployment taxes, HR service staff, sales and marketing, technology platforms, compliance, audits, bonding and G&A. ADP reported 2025 six-month PEO payroll wage and payroll-tax pass-throughs of $39.08 billion, 2025 six-month zero-margin benefits pass-through costs of $2.26 billion and 2025 six-month workers' compensation/state unemployment costs of $293.4 million, illustrating the pass-through-heavy model. Margins are structurally lower than many software or consulting businesses because PEOs assume employer-administration obligations and price benefits and insurance risk ahead of claim periods.",
+    "major_players": [
+      "{'name': 'ADP TotalSource / ADP PEO Services', 'notes': '2025 fiscal-year PEO Services revenue grew 7%; 2025 average worksite employees paid by PEO Services grew 3% to about 748,000.'}",
+      "{'name': 'Paychex PEO and Insurance Solutions', 'notes': '2026 fiscal-year Paychex total revenue was $6.51 billion; Paychex remains a major PEO provider through its PEO and insurance solutions, including the Oasis platform.'}",
+      "{'name': 'TriNet Group', 'notes': '2025 revenue was $5.01 billion; 2025 year-end worksite employees were about 323,200; 2025 payroll and payroll taxes processed were $70.0 billion.'}",
+      "{'name': 'Insperity', 'notes': '2025: public-market national PEO focused on SMB HR outsourcing, benefits, payroll and compliance services.'}",
+      "{'name': 'Justworks', 'notes': '2025-2026: technology-led PEO/HCM provider competing with national full-service PEOs for startups and small businesses.'}",
+      "{'name': 'Rippling PEO', 'notes': '2025-2026: software-led HR, payroll and PEO platform competing on automation, integrations and global workforce administration.'}"
+    ],
+    "current_dynamics": "Demand remains strongest among SMBs that lack large HR departments but need enterprise-grade benefits, multistate payroll compliance, retirement plans, pay transparency support and regulatory monitoring. Growth is also being pulled by startups and distributed-work companies that prefer bundled HR infrastructure. At the same time, buyers compare PEOs against payroll software, HRIS platforms, brokers, ASOs and fractional HR firms, pressuring pricing transparency and service quality. Regulation is a central dynamic: IRS CPEO certification, state PEO licensing, payroll-tax credit liability, Form 5500 disclosure and AI/privacy rules all influence compliance burden and buyer trust.",
+    "whats_growing": "Full-service PEO bundles, multistate compliance support, benefits advisory, retirement-plan access for smaller employers, HR technology integrations, AI-assisted HR workflows, pay-transparency support and national platforms serving microbusinesses and 10-49 employee firms are growing in 2025-2026.",
+    "whats_shrinking": "Standalone payroll-only PEO services, undifferentiated small providers without benefits scale, paper-heavy compliance workflows and low-touch models with weak service quality are losing share to full-service PEOs, ASOs and integrated payroll/HCM platforms in 2025-2026.",
+    "recent_developments": [
+      "2025-02: NAPEO commended a House Ways and Means hearing on IRS modernization, highlighting payroll-tax processing as a PEO priority.",
+      "2025-05: H.R. 3223 was introduced to clarify payroll-tax credit liability for PEO clients and improve credit processing for small businesses.",
+      "2025-10: NAPEO released new research showing more than 230,000 U.S. businesses use PEOs, equal to about 15% of employers with 10-499 employees.",
+      "2025-11: OneDigital acquired T&T Staff Management, expanding its PEO footprint in West Texas.",
+      "2026-01: OneDigital PEO acquired Propel HR, an IRS-certified PEO operating across 49 states.",
+      "2026-07: IRS updated CPEO program information, including a move toward ID.me as the only sign-in option for the CPEO Online Registration System."
+    ],
+    "outlook": "The 2026 outlook is positive but more competitive. Payroll-inclusive industry revenue has already moved far above the 2022 IBISWorld forecast, with NAPEO citing $414.0 billion in current industry revenue in its 2026-updated data. Fee/service revenue is expected to grow faster than the broader economy as SMBs seek benefits scale, compliance help and HR automation, with Straits Research forecasting an 8.5% CAGR from 2026 to 2034. Key constraints are medical-cost inflation, workers' compensation volatility, client churn during economic slowdowns, regulatory ambiguity around payroll-tax credits and competition from modern payroll/HCM software.",
+    "themes": [
+      "SMB HR outsourcing",
+      "Co-employment",
+      "Benefits purchasing power",
+      "Payroll-tax compliance",
+      "Multistate employment regulation",
+      "HR technology and AI",
+      "Industry consolidation",
+      "Healthcare and workers' compensation cost risk",
+      "CPEO certification",
+      "Pay transparency and workforce compliance"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file provided by user', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/professional-employer-organizations-in-the-us.txt'}",
+      "{'name': 'NAPEO Industry Research & Data, last updated 2026-03-04', 'url': 'https://napeo.org/intro-to-peos/industry-research-data/'}",
+      "{'name': 'NAPEO press release on 2025 PEO client research', 'url': 'https://napeo.org/press-releases/new-napeo-research-highlights-growth-and-diversity-of-peo-clients/'}",
+      "{'name': 'NAPEO 2025 Year in Review', 'url': 'https://napeo.org/year-in-review/'}",
+      "{'name': 'NAPEO Federal Priorities, last updated 2026-02-23', 'url': 'https://napeo.org/advocacy/federal-issues/federal-priorities/'}",
+      "{'name': 'IRS Certified Professional Employer Organization page, updated 2026-07-15', 'url': 'https://www.irs.gov/tax-professionals/certified-professional-employer-organization'}",
+      "{'name': 'ADP fiscal 2025 results and fiscal 2026 outlook', 'url': 'https://ebs.publicnow.com/view/91B3DA1A90FC63FC9D692FEB5C3BDBD0FD31DEFF'}",
+      "{'name': 'ADP Form 10-Q for six months ended 2025-12-31', 'url': 'https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/adp-20251231.htm'}",
+      "{'name': 'TriNet 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/937098/000093709826000010/tnet-20251231.htm'}",
+      "{'name': 'Straits Research U.S. PEO Market, updated 2026-07-09', 'url': 'https://straitsresearch.com/report/professional-employer-organization-market/united-states'}"
+    ],
+    "one_sentence": "Professional employer organizations are growing as SMBs outsource payroll, benefits, tax administration and multistate compliance, but margins remain exposed to benefit-cost inflation, workers' compensation claims, payroll-tax processing rules and competition from payroll/HCM platforms.",
+    "slug": "professional-employer-organizations-in-the-us"
+  },
+  {
+    "title": "Professional Organizations",
+    "sector": "Business Services",
+    "one_liner": "Professional organizations sell membership, credentials, events, research, publications and advocacy to workers and firms that need career networks, standards and representation.",
+    "overview": "Professional organizations promote the interests of members in a shared profession through standards, certification, continuing education, conferences, research, publications, networking and lobbying. The baseline IBISWorld file described 2021 revenue of $28.5 billion, profit of $1.5 billion and a 2021-2026 real revenue forecast CAGR of 3.5% to $33.9 billion. Public 2026 market listings indicate a larger nominal 2025 sales base of about $35.1 billion and 2020-2025 CAGR of 6.5%, reflecting post-pandemic event recovery, higher dues/pricing and stronger demand for training and professional support. Demand is linked to total employment, business formation, corporate profits, regulation, continuing-education requirements and the willingness of employers and individuals to pay for memberships and credentials.",
+    "key_stats": {
+      "market_size": "2025: $35.1B US industry sales",
+      "growth": "2020-2025: 6.5% CAGR",
+      "employment_context": "2026: BLS reported 2.950M June 2026 jobs across NAICS 813 religious, grantmaking, civic, professional and similar organizations, the broader subsector containing NAICS 813920",
+      "establishments_context": "2023: Census Business Patterns reported 6,529 employer establishments for NAICS 813920 Professional organizations; BLS reported 183,138 private establishments in the broader NAICS 813 subsector in 2025 Q4",
+      "profit_margin_baseline": "2021: 5.4% EBIT margin in the IBISWorld baseline",
+      "concentration": "2021: low concentration in the IBISWorld baseline; large national bodies are visible but the market is spread across thousands of occupation-specific and local associations",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $29.5B forecast-implied real revenue, calculated from the IBISWorld baseline 2021 revenue of $28.464B and its 2021-2026 forecast CAGR of 3.5%",
+      "growth": "2022: +3.5% forecast-implied real revenue growth from the IBISWorld baseline",
+      "product_mix": "2021 baseline: membership services 29.8%, events 25.7%, testing and training 16.4%, contributions 8.5%, publishing 6.5%, other 13.1%",
+      "employment": "2021 baseline: 93,818 workers",
+      "wages": "2021 baseline: $8.320B wages, equal to about 29.2% of 2021 revenue"
+    },
+    "how_it_makes_money": "Revenue comes from annual individual and organizational dues, conference and trade-show registrations, exhibit and sponsorship sales, certification exams, continuing-education courses, training materials, research products, directories, newsletters, journals, job boards, advertising, consulting-like member services, licensing and donations or grants. Dues create recurring revenue, while events, sponsorships, credentialing and education are the main non-dues growth levers.",
+    "cost_structure": "Labor is the largest structural cost because associations employ member-service staff, program managers, event teams, policy specialists, editors, educators, certification staff and executives; the 2021 baseline showed wages of $8.320B, about 29.2% of revenue. Other major costs include venue and event production, travel, technology platforms, association-management software, marketing, publishing, professional services, insurance, rent and lobbying or advocacy expenses. Profitability is typically modest because many operators are nonprofit or mission-driven, and the 2021 baseline EBIT margin was 5.4%.",
+    "major_players": [
+      "American Medical Association",
+      "American Bar Association",
+      "American Institute of Certified Public Accountants",
+      "American Society of Civil Engineers",
+      "National Society of Professional Engineers",
+      "CFA Institute",
+      "Society for Human Resource Management",
+      "American Nurses Association"
+    ],
+    "current_dynamics": "Membership economics are under pressure even as the sector remains resilient. ASAE reported in March 2026 that nearly 39% of association CEOs saw financial decline versus 10% reporting improvement, with professional societies under more pressure than trade associations. Meetings remain important but volatile because attendance, international participation and sponsor budgets are uneven. Associations are responding with higher dues, hybrid pricing, partnerships, new education products and more year-round digital engagement. AI adoption is now a mainstream operating issue: ASAE reported 2026 AI use of 87.5% for content and 44.3% for data, while Naylor reported that in 2025 more than half of associations were using AI at least occasionally.",
+    "whats_growing": "Credentialing, continuing education, microlearning, digital communities, data-driven member engagement, LinkedIn-led professional outreach, sponsorship packages tied to year-round content, partnerships, employer-funded professional development and AI-assisted content or member analytics are growing. MGI reported in July 2025 that 45% of association executives saw membership increase over the prior year and that millennials reached 25% of individual membership organization memberships, up from 21% in 2020.",
+    "whats_shrinking": "Print-only publishing, passive dues-only membership models, weakly differentiated value propositions, purely in-person event dependence and older-member reliance are shrinking as members compare associations with free online communities, employer platforms, AI tools and specialized training providers. MGI reported in 2025 that only 11% of respondents considered their association's value proposition very compelling, and ASAE reported in 2026 that retention and engagement remained the top challenge for nearly one-third of respondents.",
+    "recent_developments": [
+      "2025-02: GrowthZone's 2025 association survey reported 42% of associations increased membership year over year, while recruitment strategy and non-dues revenue remained top concerns.",
+      "2025-04: IAEE released the 2025 CEIR Index Dashboard covering 2024 US B2B exhibition metrics and forecasts through 2027, signaling continued recovery but close monitoring of trade-show economics.",
+      "2025-07: MGI's 2025 Membership Marketing Benchmarking Report said 45% of association executives reported membership growth, down from 47% in 2024 and 49% in 2023.",
+      "2025-08: Naylor's 2025 benchmarking report said associations averaged 30 member touchpoints per month and that non-dues revenue was the No. 1 challenge for the third straight year, cited by 61% of respondents.",
+      "2026-03: ASAE's first State of Associations report said nearly 39% of CEOs reported financial decline versus 10% improvement, while more than 60% of associations were diversifying revenue.",
+      "2026-06: The IRS updated its 501(c)(6) business league guidance, confirming trade and professional associations may lobby when lobbying is germane to their exempt purpose, subject to dues-notice and proxy-tax rules."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but uneven. Revenue should keep expanding in nominal terms as associations raise dues, rebuild event income, sell more credentials and training, and package sponsorships around always-on member access. Growth is likely to be strongest in regulated, technical and fast-changing professions where credentials, compliance education and advocacy have clear ROI. The main downside risks are member churn, lower discretionary travel, sponsor caution, staffing shortages and competition from low-cost digital learning or AI tools. Operators with strong data infrastructure, relevant credentials, employer partnerships and measurable advocacy outcomes should outperform dues-dependent groups with weak engagement.",
+    "themes": [
+      "Revenue diversification beyond dues",
+      "Hybrid and in-person event reset",
+      "Credentialing and lifelong learning",
+      "AI-enabled association operations",
+      "Membership retention and value proof",
+      "Advocacy and regulatory complexity",
+      "Younger professional recruitment",
+      "Low concentration and niche specialization"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/professional-organizations.txt",
+      "https://www.researchandmarkets.com/report/united-states-professional-organization-market",
+      "https://www.census.gov/data/tables/2022/econ/services/sas-naics.html",
+      "https://data.census.gov/profile/813920_-_Professional_organizations?codeset=naics~813920&g=010XX00US",
+      "https://www.census.gov/data/datasets/2023/econ/cbp/2023-cbp.html",
+      "https://www.bls.gov/IAG/TGS/iag813.htm",
+      "https://www.asaecenter.org/about-us/news_releases/2026/asae-releases-first-ever-state-of-associations-report-offering-data-driven-view-of-industry-present-and-future",
+      "https://www.marketinggeneral.com/knowledge-bank/tipster/the-2025-membership-marketing-benchmarking-report-is-here/",
+      "https://www.naylor.com/associationadviser/2025-association-benchmarking-report-engagement-gains-revenue-pains-and-the-road-ahead/",
+      "https://www.growthzone.com/news-press/growthzone-releases-11th-annual-2025-association-survey-results-report",
+      "https://www.iaee.com/news/iaee-releases-comprehensive-update-of-u-s-b2b-trade-show-industry/",
+      "https://www.irs.gov/charities-non-profits/other-non-profits/business-leagues"
+    ],
+    "one_sentence": "The US Professional Organizations industry remains a mature, fragmented association market whose 2025 revenue is supported by dues and certifications but pressured by event volatility, member-value scrutiny, staffing constraints and rapid AI-enabled digital engagement.",
+    "slug": "professional-organizations"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "title": "Steel Framing in the US",
+    "sector": "Construction",
+    "one_liner": "Steel framing contractors fabricate and erect structural steel, rebar, precast components and related building exteriors for commercial, industrial, multifamily and infrastructure projects.",
+    "overview": "Steel Framing in the US covers contractors that install structural steel and precast concrete to create building frames, exteriors, elevator fronts, storage tanks, reinforced-concrete components and other steel-based structural elements. IBISWorld's 2022 baseline placed revenue at $20.25 billion, while a later IBISWorld-distributed report cited $25.7 billion in 2023 revenue after 2.7% annualized growth over 2018-2023. For 2025-2026, the industry is no longer enjoying broad post-pandemic construction recovery: AIA reported 2025 nonresidential building spending fell 2.0% to $846 billion and Census private nonresidential construction spending slipped from roughly $804 billion SAAR in January 2025 to $751 billion in December 2025 and about $745 billion in June 2026. Demand remains highly uneven because data centers, public infrastructure, health care and recreation projects still need heavy structural steel, while manufacturing, offices and warehouses have cooled.",
+    "key_stats": {
+      "market_size": "About $25.5 billion estimated 2025 revenue, anchored to reported $25.7 billion 2023 industry revenue and 2025-2026 nonresidential construction spending weakness.",
+      "growth": "Estimated 2025 revenue growth roughly -1.0% to 0.0%; reported 2018-2023 CAGR was +2.7% and 2023 growth was +0.6%.",
+      "profit_margin": "3.7% in 2022 baseline, pressured again in 2025-2026 by tariffs, material volatility and labor constraints.",
+      "employment": "93,300 workers in 2022 baseline; baseline forecast implied about 97,405 workers by 2027.",
+      "establishments": "14,927 establishments in 2022 baseline; fragmented market with no operator above 5.0% share in the baseline file.",
+      "demand_indicators": "AIA reported 2025 nonresidential building construction spending of $846 billion, down 2.0%, and forecast 2026 nonresidential building spending down 0.3%.",
+      "steel_indicator": "OECD reported US steel demand up 0.7% in 2025 and projected up 0.6% in 2026; AISI reported 2025 steel shipments of 91,158,528 tons, up 5.1% from 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$20.25 billion revenue in 2022 dollars.",
+      "growth": "+1.3% expected 2022 annual revenue growth; +1.0% CAGR over 2017-2022; +0.6% forecast CAGR over 2022-2027.",
+      "profit": "$749 million EBIT in 2022, equal to a 3.7% profit margin.",
+      "industry_gross_product": "$7.35 billion in 2022.",
+      "employment": "93,300 workers in 2022.",
+      "wages": "$6.30 billion in 2022 wages.",
+      "enterprises": "14,912 enterprises in 2022.",
+      "establishments": "14,927 establishments in 2022.",
+      "product_mix": "2022 revenue mix: structural steel erection 55.2%, steel fabrication 18.2%, additions and alterations 14.3%, precast concrete installation 12.3%."
+    },
+    "how_it_makes_money": "Operators bid specialty subcontracting packages for structural steel erection, steel fabrication, on-site welding, rebar and reinforcing placement, precast concrete installation, curtain wall and building-front installation, additions, alterations, repairs and maintenance. Revenue is earned from project contracts, change orders, fabrication work, field labor, equipment use and sometimes integrated fabrication-plus-erection delivery for general contractors, developers, public agencies and industrial owners.",
+    "cost_structure": {
+      "labor": "Labor is the largest controllable cost; 2022 wages were $6.30 billion, or about 31.1% of 2022 revenue.",
+      "materials": "Steel shapes, plate, rebar, fasteners and precast components are pass-through-heavy but volatile; OECD reported US hot-rolled coil and rebar prices rose sharply in early 2025 and stayed elevated into January 2026.",
+      "subcontracting_and_equipment": "Cranes, lifts, rigging, transport, site safety, insurance and specialized subcontracting are material costs, especially on large bridges, high-rise buildings and industrial projects.",
+      "profit": "Baseline 2022 EBIT margin was 3.7%; 2025-2026 margin risk is elevated because tariff-driven input increases and slower private work limit pricing power.",
+      "capital_intensity": "Low to moderate; contractors rely more on skilled ironworkers, welders, project management and leased or owned lifting equipment than on heavy fixed assets."
+    },
+    "major_players": [
+      "Schuff Steel / DBM Global",
+      "SteelFab Inc.",
+      "Lexicon Inc.",
+      "Banker Steel / DBM Global",
+      "Cooper Steel",
+      "BZI Steel",
+      "Basden Steel Corp.",
+      "Canam Steel Corporation"
+    ],
+    "current_dynamics": "The 2025-2026 market is K-shaped. Public infrastructure, data centers, energy facilities, hospitals, sports and recreation venues and selected institutional work support steel demand, while offices, warehouses and manufacturing construction are weaker. AIA's July 2026 forecast says manufacturing construction spending is expected to decline 11.6% in 2026 after falling 6.7% in 2025, while data center construction is expected to grow 33% in 2026 and 25% in 2027. Contractors face mixed backlogs, elevated financing costs, skilled-labor shortages and steel price uncertainty, but the largest integrated fabricator-erectors benefit from schedule control, purchasing leverage and ability to serve large complex projects.",
+    "whats_growing": [
+      "Data centers and AI infrastructure, with AIA forecasting +33% spending growth in 2026 and +25% in 2027.",
+      "Health care construction, with AIA forecasting +2.6% spending growth in 2026 and +4.4% in 2027.",
+      "Amusement and recreation construction, with AIA forecasting +7.1% spending growth in 2026 after +6.0% in 2025.",
+      "Public infrastructure, bridges, energy facilities and institutional work supported by public funding and steel-intensive design.",
+      "Integrated fabrication-plus-erection models that shorten schedules and reduce coordination risk."
+    ],
+    "whats_shrinking": [
+      "Manufacturing construction momentum after the 2024 peak; AIA forecast -11.6% in 2026 after -6.7% in 2025.",
+      "Traditional office construction, with AIA forecasting -5.1% in 2026 and -4.5% in 2027.",
+      "Warehouse construction, after Census/AIA data showed the category peaked in 2023 near $80 billion and fell to $55 billion in 2025.",
+      "Broad private nonresidential construction, with Census private nonresidential SAAR easing from $803.3 billion in January 2025 to $750.8 billion in December 2025.",
+      "Small contractors without purchasing leverage, bonding capacity or enough skilled labor for large, fast-track jobs."
+    ],
+    "recent_developments": [
+      "2025-03: ABC reported nonresidential contractor backlog at 8.5 months and said tariff-related material price notices were reaching about 80% of surveyed contractors.",
+      "2025-11: SEAA cited ENR 2025 Top 20 steel-construction rankings led by firms including SteelFab, Lexicon, Cooper Steel, BZI Steel and Basden Steel.",
+      "2026-03-17: AISI reported revised 2025 US steel shipments of 91,158,528 tons, up 5.1% from 2024.",
+      "2026-06: Census reported private nonresidential construction spending at about $745.3 billion SAAR, down from $782.1 billion in June 2025.",
+      "2026-07-20: AIA forecast 2026 nonresidential building spending down 0.3%, with data centers up 33% and manufacturing down 11.6%."
+    ],
+    "outlook": "The 2026-2027 outlook is flat to modestly positive but very uneven. Industry revenue should be supported by data centers, public infrastructure, energy, health care and institutional projects, while high rates, tariff uncertainty and weaker offices, warehouses and manufacturing cap broad growth. A reasonable 2026 industry view is roughly flat nominal revenue with margin pressure, followed by low-single-digit improvement in 2027 if financing costs ease and delayed projects restart. Structural steel remains favored where speed, long spans, seismic performance and complex industrial specifications matter, but substitution from precast concrete, engineered wood and hybrid systems will continue in lower-rise or cost-sensitive projects.",
+    "themes": [
+      "K-shaped nonresidential construction",
+      "Data center steel demand",
+      "Tariff and steel price volatility",
+      "Public infrastructure support",
+      "Skilled labor scarcity",
+      "Fragmented specialty contractor market",
+      "Integrated fabrication and erection",
+      "Precast and hybrid-material substitution"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/steel-framing-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-steel-framing-market",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://www.census.gov/construction/c30/pdf/nonresidentialsa.pdf",
+      "https://www.aia.org/resource-center/july-2026-consensus-construction-forecast",
+      "https://www.oecd.org/en/publications/oecd-steel-outlook-2026_99ab9b0c-en/full-report/steel-market-and-industry-prospects_377a1ebc.html",
+      "https://www.steel.org/2026/03/aisi-releases-revised-2025-steel-shipment-data/",
+      "https://www.seaa.net/industry--safety-info/seaa-members-named-among-enrs-top-20-firms-in-steel-construction",
+      "https://lexicon-inc.com/enr-top-600-specialty-contractors/",
+      "https://www.schuff.com/steel-fabrication-plants/"
+    ],
+    "one_sentence": "The US steel framing market is a fragmented specialty-contractor industry whose 2025-2026 demand is being pulled between weak private nonresidential construction and strong steel-intensive work in data centers, health care, public infrastructure and selected industrial projects.",
+    "slug": "steel-framing-in-the-us"
+  },
+  {
+    "title": "Steel Rolling & Drawing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, price-sensitive steel-processing industry supplying cold-rolled sheet, strip, bar and wire to manufacturers, construction, infrastructure and energy markets.",
+    "overview": "The industry sits between primary steel mills and downstream users that need processed steel in smaller batches, tighter tolerances and shorter lead times than large integrated mills typically provide. The 2022 baseline defined the industry narrowly as companies that roll or draw purchased steel, excluding vertically integrated steelmakers and metal service centers. Current 2025-2026 conditions are mixed: U.S. steel demand is modestly positive, tariff protection has reduced import pressure, and infrastructure, data-center, manufacturing and energy projects support order books, but global excess capacity, volatile steel prices and weak broad construction spending continue to limit margin expansion.",
+    "key_stats": {
+      "market_size": "2026 estimated $14.4 billion; 2025 estimated $14.2 billion",
+      "growth": "2026 forecast +1.1%; 2025 estimated +0.8%",
+      "profit_margin": "2026 estimated about 5.5%-6.0%, broadly consistent with the 2022 baseline margin of 5.6%",
+      "imports": "2025 U.S. total steel imports were 25.241 million net tons, down 12.6% from 2024; finished import market share was 18% in 2025",
+      "construction_indicator": "June 2026 total U.S. construction spending was $2.1665 trillion at a seasonally adjusted annual rate, down 3.2% from June 2025",
+      "industrial_indicator": "May 2026 total industrial production was 1.7% above May 2025; manufacturing capacity utilization was 75.7% in May 2026",
+      "price_indicator": "BLS iron and steel PPI averaged 314.440 in 2025 and reached 357.108 in May 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue $13.923 billion",
+      "growth": "2022 revenue growth -7.3%; 2017-2022 CAGR +1.5%",
+      "profit": "2022 profit $780 million",
+      "profit_margin": "2022 profit margin 5.6%",
+      "establishments": "2022 establishments 452",
+      "enterprises": "2022 enterprises 359",
+      "employment": "2022 employment 25,019",
+      "exports": "2022 exports $545 million",
+      "imports": "2022 imports $2.570 billion",
+      "domestic_demand": "2022 domestic demand $15.949 billion"
+    },
+    "how_it_makes_money": [
+      "Buying hot-rolled, semi-finished or other purchased steel and selling processed cold-rolled sheet, strip, bars, rods and wire at a conversion spread over input cost.",
+      "Charging for precision finishing, tighter tolerances, custom gauges, annealing, slitting, drawing, cutting, packaging and just-in-time delivery.",
+      "Serving customers that value reliability, short lead times and product consistency more than the lowest commodity spot price.",
+      "Using toll-processing contracts where customers own the steel and pay processors for rolling, drawing or finishing services."
+    ],
+    "cost_structure": {
+      "largest_cost": "Purchased steel is the largest 2026 cost category, so revenue and gross margin move closely with steel input prices and inventory timing.",
+      "labor": "Wages remain meaningful because quality control, metallurgical expertise, maintenance and skilled machine operation are required; the 2022 baseline reported $1.527 billion in wages.",
+      "energy_and_utilities": "Electricity and natural gas are important 2026 costs for rolling, annealing and plant operations, though less dominant than purchased steel.",
+      "freight_and_logistics": "Truck, rail and warehouse costs matter because customers often demand short-cycle and just-in-time shipments.",
+      "depreciation_and_maintenance": "Capital equipment, rollers, drawing dies, finishing lines and inspection systems create fixed costs and favor higher utilization.",
+      "profitability": "Margins are structurally modest; the 2022 baseline profit margin was 5.6%, and 2026 margins remain constrained by price volatility and competition."
+    },
+    "major_players": [
+      "Worthington Steel",
+      "Charter Manufacturing",
+      "Insteel Industries",
+      "Taubensee Steel & Wire Company",
+      "Heico Companies / National Standard",
+      "Bekaert North America"
+    ],
+    "current_dynamics": [
+      "2025-2026 tariff protection has reduced import penetration and improved domestic mill utilization, but it also raises input-cost risk for processors that buy steel rather than melt it.",
+      "2026 demand is strongest in infrastructure, data centers, manufacturing facilities, electrical equipment, bridges, energy facilities and selected automotive applications.",
+      "2026 private nonresidential construction is a bright spot relative to residential construction, but total construction spending was still down year over year in June 2026.",
+      "2026 global excess capacity keeps export competition and price pressure alive even as U.S. imports fall.",
+      "Customers continue to favor short lead times, narrower tolerances, inventory flexibility and supplier reliability, which supports specialized domestic processors."
+    ],
+    "whats_growing": [
+      "2026 infrastructure-linked demand for bridge, highway, grid and public works steel products.",
+      "2026 data-center and manufacturing construction demand for sheet, strip, wire, fastener and structural-adjacent inputs.",
+      "2026 higher-specification cold-rolled and advanced high-strength steel applications in automotive and equipment manufacturing.",
+      "2026 reshoring and tariff-driven demand for domestic steel processing capacity.",
+      "2025-2026 wire rod and oil-country-related import categories showed pockets of strength, pointing to energy and industrial demand resilience."
+    ],
+    "whats_shrinking": [
+      "2026 import competition is shrinking in volume terms because finished steel imports were down 24.5% year to date through June 2026 versus 2025.",
+      "2026 broad construction spending is shrinking year over year, with June 2026 total spending down 3.2% from June 2025.",
+      "Commodity-grade processing margins are under pressure in 2026 when steel prices rise faster than pass-through contracts allow.",
+      "Lower-value standard products face ongoing substitution pressure from aluminum, plastics and composites in vehicles and consumer goods.",
+      "Independent processors face consolidation pressure from larger, vertically integrated steel producers and scaled metals processors."
+    ],
+    "recent_developments": [
+      "Jun 2025: The White House increased Section 232 steel and aluminum tariffs from 25% to 50%, effective June 4, 2025, with different treatment for certain U.K. products.",
+      "Feb 2026: AISI reported 2025 total U.S. steel imports of 25.241 million net tons, down 12.6% from 2024, and a 2025 finished import market share of 18%.",
+      "Apr 2026: The White House modified Section 232 treatment for certain aluminum, steel and copper derivative articles, reinforcing 50% ad valorem treatment for many covered metal products.",
+      "Jun 2026: OECD reported U.S. steel demand increased 0.7% in 2025 and projected a further 0.6% increase in 2026.",
+      "Jul 2026: AISI reported June 2026 steel imports down 4.3% from May 2026 and finished steel import market share at 16% year to date.",
+      "Aug 2026: AISI highlighted June 2026 steel shipments up 4.8% from the prior month, indicating firmer mid-2026 domestic steel movement."
+    ],
+    "outlook": "The 2026-2028 outlook is for low single-digit nominal growth rather than a breakout. Tariffs, public infrastructure, data-center construction, manufacturing reshoring and energy projects should support domestic orders, while global oversupply, buyer resistance to price increases, weak residential construction and substitute materials keep the industry mature and competitive. A reasonable narrow-scope forecast is for revenue to move from about $14.4 billion in 2026 toward roughly $14.6-$14.8 billion by 2028 if steel prices remain elevated but not disorderly.",
+    "themes": [
+      "Tariff protection and trade enforcement",
+      "Global steel overcapacity",
+      "Infrastructure and public works demand",
+      "Data-center and manufacturing construction",
+      "Steel price volatility",
+      "Just-in-time inventory pressure",
+      "Automotive lightweighting and advanced high-strength steel",
+      "Industry consolidation",
+      "Import substitution",
+      "Energy and pipeline demand"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Steel Rolling & Drawing in the US, last updated Mar. 29, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/steel-rolling-and-drawing-in-the-us.txt'}",
+      "{'title': 'World Steel Association Short Range Outlook, Oct. 2025', 'url': 'https://worldsteel.org/media/press-releases/2025/worldsteel-short-range-outlook-october-2025/'}",
+      "{'title': 'OECD Steel Outlook 2026: Steel market and industry prospects', 'url': 'https://www.oecd.org/en/publications/oecd-steel-outlook-2026_99ab9b0c-en/full-report/steel-market-and-industry-prospects_377a1ebc.html'}",
+      "{'title': 'AISI: Steel Imports Down 12.6% in 2025, Feb. 19, 2026', 'url': 'https://www.steel.org/2026/02/steel-imports-down-12-6-in-2025/'}",
+      "{'title': 'AISI: Steel Imports Down 4.3% in June vs. May, Jul. 28, 2026', 'url': 'https://www.steel.org/2026/07/steel-imports-down-4-3-in-june-vs-may/'}",
+      "{'title': 'U.S. Census Bureau Monthly Construction Spending, June 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'title': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, May 2026 release', 'url': 'https://www.federalreserve.gov/RELEASES/g17/current/default.htm'}",
+      "{'title': 'U.S. Bureau of Labor Statistics Producer Price Index: Metals and metal products', 'url': 'https://www.bls.gov/regions/mid-atlantic/data/ProducerPriceIndexMetals_US_Table.htm'}",
+      "{'title': 'White House proclamation: Adjusting Imports of Aluminum and Steel into the United States, Jun. 3, 2025', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/'}",
+      "{'title': 'White House proclamation: Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper Into the United States, Apr. 2026', 'url': 'https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/'}",
+      "{'title': 'Worthington Steel flat-rolled steel products and processing capabilities', 'url': 'https://www.worthingtonsteel.com/flatrolledsteel/steel-products'}",
+      "{'title': 'Insteel Industries FY2025 results and annual report page', 'url': 'https://investor.insteel.com/financials/annual-reports/default.aspx'}",
+      "{'title': 'Taubensee Steel & Wire company overview', 'url': 'https://www.taubensee.com/company/'}"
+    ],
+    "one_sentence": "Steel rolling and drawing companies buy steel from mills or importers, then cold-roll, draw, finish or shape it into tighter-specification sheet, strip, bar and wire products for downstream industrial customers.",
+    "slug": "steel-rolling-and-drawing-in-the-us"
+  },
+  {
+    "title": "Steel Wire Drawing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. primary-metals niche that turns purchased steel rod into wire, strand, mesh, fencing and related products for construction, automotive, industrial, utility and infrastructure markets.",
+    "overview": "This industry comprises U.S. establishments primarily engaged in drawing wire from purchased steel rather than making steel from raw inputs. Products include non-insulated ferrous wire, galvanized wire, steel strand, welded and woven mesh, fencing, nails, staples and other drawn-wire products. Demand is cyclical because steel wire is embedded in concrete reinforcement, fencing, automotive components, appliances, machinery, power and utility infrastructure, mining and other industrial uses. The industry remains mature and cost-driven: products are often commoditized, price competition is high, and operators compete through scale, logistics, product quality, domestic-content compliance and control over steel rod supply. Compared with the 2022 baseline, the 2025-2026 environment is firmer on nominal revenue because tariffs, Buy America requirements, infrastructure work, data-center and utility demand, and higher producer prices have supported domestic producers, even as total construction spending and some residential end markets softened in 2026.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. industry revenue: about $8.4 billion, based on 2024 reported U.S. steel wire drawing sales of $8.2 billion and 2025 price/demand indicators.",
+      "growth": "2021-2024 industry sales CAGR: 4.6%; 2025 estimated growth: low single digits after 2024 sales reached $8.2 billion.",
+      "pricing": "Steel Wire Drawing primary-products PPI: 319.603 in June 2026, index Jun. 1982=100.",
+      "companies": "2024 industry companies: 195.",
+      "sales_per_facility": "2024 average sales per facility: $34.8 million.",
+      "downstream_construction": "May 2026 total U.S. construction spending: $2.210 trillion SAAR, 1.5% below May 2025.",
+      "downstream_auto": "June 2026 U.S. motor vehicle assemblies: 10.96 million units SAAR; 2025 average was 10.16 million units SAAR.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $7.093 billion in 2022 dollars.",
+      "growth": "2022 revenue change: -5.1%; 2017-2022 CAGR: +2.6%.",
+      "profit": "2022 profit: $390 million; 2022 profit margin: 5.5%.",
+      "establishments": "2022 establishments: 226.",
+      "enterprises": "2022 enterprises: 181.",
+      "employment": "2022 employment: 15,080.",
+      "wages": "2022 wages: $874 million; average wage: $57,961.",
+      "imports": "2022 imports: $2.461 billion, equal to 27.0% of domestic demand.",
+      "exports": "2022 exports: $426 million, equal to 6.0% of revenue.",
+      "domestic_demand": "2022 domestic demand: $9.128 billion."
+    },
+    "how_it_makes_money": "Operators buy hot-rolled steel wire rod or other purchased steel inputs, draw the metal through dies to reduce diameter and increase strength, apply finishing or coating where needed, and sell wire, strand, mesh, fencing and related products to concrete-product manufacturers, rebar fabricators, distributors, contractors, utilities, automotive suppliers and industrial manufacturers. Revenue is earned through volume, metal pass-through pricing, value-added specifications such as galvanized or engineered mesh, domestic-content certification, service reliability and proximity to regional construction and manufacturing customers.",
+    "cost_structure": {
+      "summary": "The cost base is dominated by purchased steel rod and metallic inputs, with margins moving with the spread between selling prices and steel rod costs.",
+      "materials": "2025 raw-material pressure remained central; Insteel identified hot-rolled carbon steel wire rod as its primary raw material and said imported wire rod represented 27% of its 2025 wire rod purchases, up from 15% in 2024.",
+      "labor": "2022 wages were $874 million, or about 12.3% of 2022 revenue; automation and consolidation limit labor intensity but skilled operators, maintenance and quality staff remain important.",
+      "profit": "2022 EBIT margin was 5.5%; Insteel's 2025 gross margin improved to 14.4% from 9.4% in 2024 as selling-price and raw-material spreads improved.",
+      "freight_energy_and_overhead": "Freight, electricity, die maintenance, coatings, plant utilization, depreciation, safety compliance and inventory carrying costs are meaningful because wire products are heavy, low-to-mid margin and often shipped regionally."
+    },
+    "major_players": [
+      "{'name': 'Insteel Industries Inc.', 'note': 'Large U.S. producer of steel wire reinforcing products for concrete construction; fiscal 2025 net sales were $647.7 million, up 22.4% from 2024.'}",
+      "{'name': 'Nucor Corporation', 'note': 'Vertically integrated U.S. steelmaker with steel wire and wire mesh products serving concrete construction, fabricators, distributors and precast suppliers.'}",
+      "{'name': 'Bekaert', 'note': 'Global steel-wire technology company with North American steel wire and strand manufacturing for utility, energy and construction applications.'}",
+      "{'name': 'Wire Mesh Corporation', 'note': 'Private competitor cited by Insteel in welded wire reinforcement and PC strand markets.'}",
+      "{'name': 'Oklahoma Steel & Wire Co.', 'note': 'Vertically integrated competitor in wire and welded wire products.'}",
+      "{'name': 'Sumiden Wire Products Corporation', 'note': 'Competitor in prestressed concrete strand and related steel wire products.'}"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026. Domestic producers benefit from Section 232 steel tariffs, Buy America rules, infrastructure work, power-grid investment and nonresidential projects that require domestic or certified steel wire products. At the same time, customers are sensitive to steel-price pass-throughs, overall U.S. construction spending was down year over year in May 2026, and import-dependent wire drawers face cost and availability risk for wire rod. Producer prices remain elevated by historical standards, with the steel wire drawing PPI at 319.603 in June 2026, while steel mill products rose 3.6% in June 2026. Consolidation continues as scale helps operators manage procurement, freight, plant utilization and customer service.",
+    "whats_growing": [
+      "Domestic-content and Buy America-compliant wire, strand and reinforcement for infrastructure, bridges, precast concrete and public works.",
+      "Utility, grid, broadband and power-transmission wire and strand demand, supported by electrification and grid-hardening projects.",
+      "Engineered welded wire reinforcement and higher-spec mesh that can reduce installation labor versus conventional rebar tying.",
+      "Domestic production share in tariff-exposed categories as 2025 Section 232 measures raise the cost of imported steel and derivative products.",
+      "Automotive-related steel demand stabilized in 2025-2026, with U.S. motor vehicle assemblies running near 10-11 million units SAAR."
+    ],
+    "whats_shrinking": [
+      "Commodity wire categories with limited differentiation remain under margin pressure when steel rod costs move faster than selling prices.",
+      "Residential construction-linked demand is softer than nonresidential demand as higher financing costs weigh on housing activity.",
+      "Import arbitrage is less attractive after 2025 Section 232 tariff increases, particularly where domestic substitutes are available.",
+      "Small independent wire drawers face pressure from consolidation, automation, customer service expectations and procurement scale.",
+      "Overall construction spending momentum weakened in 2026, with May 2026 total spending 1.5% below May 2025."
+    ],
+    "recent_developments": [
+      "2025: U.S. steel wire drawing sales were estimated near $8.4 billion after 2024 sales reached $8.2 billion.",
+      "Fiscal 2025: Insteel net sales rose 22.4% to $647.7 million, driven by 14.8% higher shipments and 6.7% higher average selling prices.",
+      "June 4, 2025: U.S. Section 232 steel and aluminum tariffs increased from 25% to 50% for most countries.",
+      "June 23, 2025: CBP guidance added more steel derivative products to Section 232 coverage, including welded wire rack under HTSUS 9403.99.9020.",
+      "May 2026: U.S. construction spending was $2.210 trillion SAAR, 1.5% below May 2025.",
+      "June 2026: Steel Wire Drawing primary-products PPI stood at 319.603, while U.S. motor vehicle assemblies reached 10.96 million units SAAR."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive in nominal terms but uneven in real-volume terms. Tariffs, domestic-content rules, infrastructure spending, grid expansion and data-center-related nonresidential activity should support U.S.-made wire, strand and mesh. However, the industry is mature, import-sensitive and exposed to steel rod price swings, while construction spending and housing are not uniformly strong. Revenue is likely to grow in low single digits from the 2025 estimated base if steel prices stay elevated, but real growth will depend on construction volumes, automotive stability and whether domestic wire rod supply can meet demand without compressing processor margins.",
+    "themes": [
+      "Tariff protection and trade-policy uncertainty",
+      "Buy America and domestic-content compliance",
+      "Steel rod cost volatility",
+      "Nonresidential construction and infrastructure demand",
+      "Utility grid and broadband buildout",
+      "Automation and plant consolidation",
+      "Commodity margin pressure",
+      "Import competition versus domestic reshoring"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline IBIS file: /home/manishmehta/ui-projects/ibis-industries/txt_full/steel-wire-drawing.txt",
+      "ResearchAndMarkets/Kentley Insights, 2025 Steel Wire Drawing U.S. Market Research Report summary: https://www.researchandmarkets.com/report/united-states-steel-wire-drawing-market",
+      "FRED/BLS, Producer Price Index by Industry: Steel Wire Drawing: Primary Products: https://fred.stlouisfed.org/series/PCU331222331222P",
+      "U.S. Bureau of Labor Statistics, PPI latest numbers, June 2026: https://www.bls.gov/ppi/latest-numbers.htm",
+      "U.S. Census Bureau, Monthly Construction Spending, May 2026: https://www.census.gov/construction/c30/current/index.html",
+      "Federal Reserve G.17, Motor Vehicle Assemblies and Industrial Production, July 2026 release: https://www.federalreserve.gov/releases/g17/current/table3.htm",
+      "U.S. Customs and Border Protection, Section 232 Additional Steel Derivative Products guidance, June 24, 2025: https://content.govdelivery.com/bulletins/gd/USDHSCBP-3e68dc6",
+      "White House, Section 232 steel and aluminum tariff increase, June 3, 2025: https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/",
+      "Insteel Industries Inc. fiscal 2025 Form 10-K: https://d18rn0p25nwr6d.cloudfront.net/CIK-0000764401/42ddc0bb-66fa-40f0-be3e-c482b300ad33.pdf",
+      "Nucor steel wire and wire mesh products: https://nucor.com/products/wire-and-wire-mesh/",
+      "Bekaert North America steel wire and strand products: https://www.bekaert.com/en/product-catalog/power/power-utilities"
+    ],
+    "one_sentence": "Steel Wire Drawing revenue has recovered above the 2022 IBIS baseline as higher selling prices, reshoring policy and nonresidential construction demand offset weak housing and volatile steel rod costs.",
+    "slug": "steel-wire-drawing"
+  },
+  {
+    "title": "Train, Subway & Transit Car Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A cyclical, policy-supported rolling-stock manufacturing industry serving freight railroads, transit agencies and intercity passenger rail programs.",
+    "overview": "The industry sits at the intersection of freight rail replacement demand and publicly funded passenger rail modernization. The 2022 IBISWorld baseline described a mature, volatile industry that fell sharply through 2021 after commodity weakness and COVID-19 reduced rail traffic, exports and backlog conversion. Current 2025-2026 conditions are mixed: passenger and transit railcar orders are being supported by Infrastructure Investment and Jobs Act funding, FTA rail vehicle replacement grants and Buy America-compliant assembly, while freight railcar builders are facing lower 2025 orders, shrinking backlogs and higher metal-tariff risk. Large contracts for Amtrak Airo, MTA R211 subway cars and NJ TRANSIT Multilevel III cars are keeping US passenger rail plants active, but freight car deliveries are below replacement needs and coal-related equipment demand remains structurally pressured.",
+    "key_stats": {
+      "market_size": "$11.4 billion in 2025 for US railroad car manufacturing / railroad rolling stock manufacturing, per Kentley Insights published January 2026.",
+      "growth": "North American railcar industry deliveries were about 31,000 cars in 2025 and expected at about 25,000 cars in 2026, below replacement levels; US rail traffic rose 1.5% in 2025, while BLS real sectoral output for NAICS 336510 rose from 82.867 in 2023 to 85.051 in 2024, a 2.6% year-over-year increase.",
+      "employment": "28,306 employees in 2025, per Kentley Insights.",
+      "companies": "143 companies and 218 factories/facilities in 2025, per Kentley Insights.",
+      "pricing_cost_pressure": "2025 US steel and aluminum Section 232 tariffs were raised from 25% to 50% effective June 4, 2025, increasing exposure for steel- and aluminum-intensive railcar producers.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$12.186 billion in 2021 revenue in 2021 dollars, from the August 31, 2022 IBISWorld baseline file.",
+      "growth": "IBISWorld baseline forecast revenue growth of 0.9% CAGR from 2021 to 2026, reaching $12.7 billion in 2026.",
+      "profit": "$914 million profit and 7.5% profit margin in 2021, from the baseline file.",
+      "employment": "31,464 workers in 2021, from the baseline file.",
+      "exports_imports": "$2.5 billion exports and $1.051 billion imports in 2021, from the baseline file."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from new freight railcars, subway cars, commuter/intercity passenger railcars, locomotives, propulsion and brake systems, rail equipment, component sales, conversions, rebuilds, rebody programs, aftermarket parts and long-term service/support agreements. Freight revenue depends on replacement cycles, commodity and industrial shipments, leasing-company orders and railroad capital budgets. Passenger revenue depends heavily on public procurement, federal grants, state/local matching funds, Buy America compliance and multi-year delivery milestones.",
+    "cost_structure": "The largest cost bucket is purchased materials and components, especially steel, aluminum, trucks, brakes, wheels, axles, propulsion systems, electrical equipment and interiors. FreightCar America stated in its 2025 10-K that raw materials and components represent a substantial majority of manufacturing costs. Labor, engineering, warranty, testing, compliance documentation and plant overhead are also material because rolling stock is low-volume, safety-critical heavy manufacturing. Profitability is sensitive to production volume, backlog mix, customer acceptance timing, steel and aluminum prices, tariff pass-throughs, and overhead absorption; Trinity’s Rail Products margin fell to 5.2% in 2025 from 7.8% in 2024 as deliveries declined.",
+    "major_players": [
+      "Wabtec: major locomotive, freight rail, transit components and services supplier; 2025 net sales were $8.036 billion in Freight and $3.131 billion in Transit globally.",
+      "Trinity Industries: large North American freight railcar and leasing platform; 2025 Rail Products revenue was $1.4195 billion, with 9,500 railcar deliveries and $1.6616 billion backlog at year-end 2025.",
+      "The Greenbrier Companies: major freight railcar manufacturer and leasing/fleet-management provider; FY2025 railcar backlog was 16,600 units with estimated value of $2.2 billion.",
+      "FreightCar America: specialized freight railcar maker; 2025 manufacturing revenue was $473.9 million, with 4,125 railcars delivered and 1,926 cars in backlog at year-end 2025.",
+      "Alstom: major US passenger rail and transit manufacturer with Hornell and Plattsburgh, NY operations; active on NJ TRANSIT Multilevel III, Amtrak and propulsion-component programs.",
+      "Siemens Mobility: passenger rail manufacturer with Sacramento, CA and Lexington, NC production; building Amtrak Airo trainsets with a US supplier base.",
+      "Kawasaki Rail Car: major subway/transit railcar supplier with Lincoln, NE and Yonkers, NY facilities; awarded a 435-car MTA R211 option in 2025."
+    ],
+    "current_dynamics": "Passenger rail and transit manufacturing is benefiting from federal capital programs and aging fleets, while freight car manufacturing is softer because fleet productivity improved, storage rose and customers delayed orders. Buy America rules keep final assembly and much component work domestic for federally funded procurements, which supports US plants operated by foreign-headquartered OEMs. At the same time, 2025-2026 metal tariffs and trade-policy uncertainty are raising costs and complicating quote discipline. Backlogs remain meaningful for leading builders, but 2025 freight orders and deliveries fell for several public manufacturers, signaling a replacement-led rather than expansion-led cycle.",
+    "whats_growing": "Publicly funded passenger rolling stock, commuter railcars, subway fleet replacement, dual-power/electric equipment, propulsion and control systems, accessibility upgrades, energy-efficient trainsets, rebuilds and aftermarket parts are growing. Amtrak’s 83 Airo trainsets, MTA’s R211 subway car options, NJ TRANSIT’s 374-vehicle Multilevel III program and FTA/FRA rail grant pipelines are the clearest 2025-2026 growth supports.",
+    "whats_shrinking": "Coal-exposed freight car demand, speculative railcar purchasing, near-term freight railcar backlogs and commodity-sensitive new-car orders are shrinking or under pressure. Trinity’s 2025 orders fell to 5,155 cars from 7,685 in 2024, and FreightCar America’s 2025 backlog fell to 1,926 cars from 2,797 at year-end 2024. Industry commentary also points to 2026 deliveries below replacement levels.",
+    "recent_developments": [
+      "2025-02-06: Kawasaki Rail Car won an approximately $1.3 billion order for 435 additional MTA R211 subway cars, with work in Lincoln, NE and Yonkers, NY.",
+      "2025-06-03: The White House raised Section 232 steel and aluminum tariffs from 25% to 50%, effective June 4, 2025.",
+      "2025-09-09: Alstom announced an approximately $1.1 billion NJ TRANSIT option for 200 Multilevel III commuter cars and 12 ALP-45 dual-power locomotives.",
+      "2025-12-27: AAR reported US railroads handled 25,564,700 carloads and intermodal units in the first 52 weeks of 2025, up 1.5% from 2024.",
+      "2026-05-27: FTA opened FY2026 Rail Vehicle Replacement Program applications for approximately $166 million in funding, with up to three awards.",
+      "2026-05-28: Amtrak said the first Northeast Regional Airo trainset completed manufacturing at Siemens’ Sacramento facility and moved to Pueblo, CO for testing."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive for passenger rail and cautious for freight rail. Public procurement should keep passenger railcar and component plants busy as IIJA-funded projects move through production, especially where fleets are beyond useful life and agencies can meet matching requirements. Freight railcar builders are likely to remain disciplined, with 2026 deliveries expected below replacement levels and backlogs converting over 2026-2028. Revenue growth depends on whether industrial production, intermodal volumes and replacement demand offset lower coal exposure and tariff-related cost pressure. Margins should favor companies with specialty railcar mix, aftermarket revenue, contract escalation clauses, domestic component sourcing and high backlog visibility.",
+    "themes": [
+      "Buy America reshoring",
+      "IIJA-funded fleet replacement",
+      "Aging transit fleets",
+      "Freight railcar replacement cycle",
+      "Steel and aluminum tariff exposure",
+      "Passenger rail modernization",
+      "Electrification and energy efficiency",
+      "Backlog discipline",
+      "Aftermarket and rebuild revenue",
+      "Commodity and industrial production sensitivity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/train-subway-and-transit-car-manufacturing-in-the-us.txt, IBISWorld, last updated 2022-08-31",
+      "https://www.kentleyinsights.com/railroad-car-manufacturing-market-report/",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Railroad-Car-Manufacturing-Research-Updated-41310627/",
+      "https://fred.stlouisfed.org/series/IPUEN336510T010000000",
+      "https://www.census.gov/naics/resources/archives/sect31-33.html",
+      "https://www.sec.gov/Archives/edgar/data/943452/000162828026008067/wab-20251231.htm",
+      "https://ebs.publicnow.com/view/3FAEAD05488465E7A064354272F7F08812BCD389",
+      "https://ebs.publicnow.com/view/9E66437EDA65430EF346015399D0FCA6C6528AD1",
+      "https://www.sec.gov/Archives/edgar/data/1320854/000119312526098668/rail-20251231.htm",
+      "https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20250206_6454",
+      "https://www.alstom.com/press-releases-news/2025/9/alstom-supply-nj-transit-additional-200-multilevel-iii-commuter-rail-cars-and-12-alp-45-dual-power-locomotives-modernize-fleet",
+      "https://www.alstom.com/press-releases-news/2026/4/alstom-delivers-first-multilevel-iii-commuter-rail-car-nj-transit-marking-major-step-modernizing-one-countrys-largest-rail-networks",
+      "https://media.amtrak.com/2026/05/first-northeast-regional-airo-trainset-completes-manufacturing/",
+      "https://media.amtrak.com/airo-fleet/",
+      "https://www.transit.dot.gov/grant-programs/rail-vehicle-replacement-grants",
+      "https://www.transit.dot.gov/notices-funding/fy-2026-notice-funding-opportunity-competitive-grants-rail-vehicle-replacement",
+      "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-december-27-2025/",
+      "https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/",
+      "https://railroads.dot.gov/legislation-regulations/buy-america/buy-america"
+    ],
+    "one_sentence": "US train, subway and transit car manufacturers build and rebuild locomotives, freight cars, subway cars, commuter/intercity railcars, rail equipment and components, with demand driven by rail freight cycles, public fleet replacement funding, Buy America rules and steel-heavy input costs.",
+    "slug": "train-subway-and-transit-car-manufacturing-in-the-us"
+  },
+  {
+    "title": "Truck Repair",
+    "sector": "Transport & Logistics",
+    "one_liner": "Truck repair shops keep medium- and heavy-duty fleets running through maintenance, diagnostics, brake work, powertrain repair and roadside service.",
+    "overview": "Truck Repair covers aftermarket repair and maintenance for medium- and heavy-duty trucks, excluding work performed by truck dealers and gas stations in the IBIS baseline definition. Demand is tied to freight activity, vehicle miles, fleet age, inspection compliance and the willingness of fleets to outsource maintenance instead of staffing their own shops. The industry recovered sharply from the 2020 shock: Research and Markets reported 2024 industry revenue of about $18.0 billion after a 2020-2024 CAGR of 2.4%, far above the older 2021 IBISWorld baseline. In 2025-2026, demand is steadier than booming: ATA reported 2025 truck tonnage rose only 0.1% from 2024, and June 2026 tonnage was up 1.4% in the first half of 2026 but down 0.1% year over year in June 2026. Repair demand is still supported by the aging US fleet, with S&P Global Mobility reporting average vehicle age of 12.8 years in 2025 and light trucks at 11.9 years.",
+    "key_stats": {
+      "market_size": "$18.0 billion US industry revenue in 2024; 2025 market size is best read as roughly stable-to-slightly-up because ATA reported 2025 truck tonnage up only 0.1% from 2024.",
+      "growth": "2.4% CAGR from 2020-2024; 0.9% revenue growth in 2024; ATA truck tonnage +0.1% in 2025 and +1.4% in H1 2026 versus H1 2025.",
+      "profit_margin": "6.8% profit margin in 2024, according to Research and Markets.",
+      "fleet_age": "US average vehicle age reached 12.8 years in 2025; light trucks averaged 11.9 years in 2025.",
+      "freight_activity": "ATA June 2026 seasonally adjusted For-Hire Truck Tonnage Index was 113.1, down 0.1% from June 2025.",
+      "diesel_price": "US on-highway diesel averaged $3.660 per gallon in 2025, down from $3.760 in 2024 and $4.989 in 2022, according to EIA.",
+      "technician_labor": "BLS reported 319,900 diesel service technician and mechanic jobs in 2024, $60,640 median annual pay in May 2024 and 26,500 projected annual openings for 2024-2034.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $12.5 billion in 2022 revenue, derived from the baseline file's 2021 revenue of $12.1 billion and its 2021-2026 forecast growth path.",
+      "growth": "About 3.1% forecast 2022 growth under the baseline file's 2021-2026 outlook.",
+      "context": "The baseline expected recovery from COVID-19 lows, outsourcing by fleets and an aging vehicle fleet to lift revenue toward $14.0 billion by 2026."
+    },
+    "how_it_makes_money": "Operators earn revenue from labor hours, parts markups, fleet maintenance contracts, diagnostics, preventive maintenance, brake and alignment work, powertrain and engine repair, transmission and exhaust work, body/interior repair, roadside calls, towing-adjacent service coordination and specialty work on emissions, electronic and telematics systems. Fleet contracts and emergency roadside work are valuable because they create repeat demand and can carry premium labor rates.",
+    "cost_structure": "The cost base is labor- and parts-heavy. Wages are structurally high because diesel, electronics, emissions and diagnostic skills are scarce; BLS reported $60,640 median diesel technician pay in May 2024. Purchases include OEM and aftermarket parts, tires, fluids, diagnostic equipment, shop tools and outsourced specialty components. Profit was reported at 6.8% of 2024 revenue, with margins pressured by part inflation, tariffs, wage competition from dealers and downtime-sensitive customers pushing back on rates. Rent, utilities, insurance, software subscriptions and mobile-service vehicles are smaller but rising operating costs.",
+    "major_players": [
+      "Fleet Services International Ltd.",
+      "W.W. Williams",
+      "Rush Truck Centers",
+      "Penske Truck Leasing maintenance operations",
+      "Ryder fleet maintenance operations",
+      "TravelCenters of America TA Truck Service",
+      "Love's Truck Care and Speedco",
+      "Independent local and regional diesel repair shops"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions. Older trucks, high replacement costs and more electronic diagnostics support repair spend, while weak manufacturing and construction freight limit fleet utilization and delay discretionary maintenance. The service mix is shifting toward diagnostics, emissions systems, software-enabled preventive maintenance, roadside/mobile repair and higher-skill work on newer powertrains. Technician availability is a binding constraint: ATRI-reported 2025 survey findings cited 65.5% of US trucking shops as understaffed, while BLS projects 26,500 diesel technician openings per year from 2024-2034. Parts costs are another pressure point after 2025 auto-parts tariffs and broader aftermarket import exposure.",
+    "whats_growing": "Preventive fleet maintenance, brake and safety-compliance work, mobile and roadside repair, diagnostics, emissions-system work, telematics-enabled maintenance, fleet outsourcing, and specialized training for mixed diesel, natural gas, battery-electric and hydrogen truck powertrains.",
+    "whats_shrinking": "Low-skill independent repair work, DIY fleet maintenance for complex electronics, discretionary cosmetic work during weak freight cycles, non-networked small shops without technician pipelines, and purely reactive shops that cannot guarantee uptime for commercial fleets.",
+    "recent_developments": [
+      "2024-07: Research and Markets reported US Truck Repair revenue reached about $18.0 billion in 2024, up 0.9% in 2024 and 2.4% CAGR from 2020-2024.",
+      "2025-05: S&P Global Mobility reported average US vehicle age rose to 12.8 years in 2025, with light trucks at 11.9 years.",
+      "2025-05: CBP issued guidance for a 25% duty on certain imported automobile and light-truck parts effective May 3, 2025, raising aftermarket cost risk.",
+      "2025-08: ATRI-reported survey findings said 65.5% of US trucking shops were understaffed and average diesel technician vacancies were 19.3%.",
+      "2026-04: BLS updated its outlook showing 319,900 diesel technician jobs in 2024, $60,640 median 2024 pay and 26,500 projected annual openings for 2024-2034.",
+      "2026-07: ATA reported June 2026 truck tonnage at 113.1, up 0.1% from May 2026 but down 0.1% from June 2025, with H1 2026 tonnage up 1.4% year over year."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive but capacity-constrained. Aging trucks, high vehicle replacement costs and compliance-sensitive fleets should keep repair demand resilient even when freight is soft. Growth is likely to be strongest for shops with fleet contracts, mobile service, diagnostic depth, brake and tire capacity, and the ability to service emissions and alternative-powertrain systems. Margins should remain under pressure from technician wages, parts inflation, imported-parts tariffs and competition from OEM dealers and large fleet-maintenance networks. Consolidation and franchising should continue as small shops seek purchasing power, technician recruiting support and fleet-account credibility.",
+    "themes": [
+      "Aging fleet supports aftermarket demand",
+      "Freight recovery is uneven in 2025-2026",
+      "Diesel technician shortage limits capacity",
+      "Parts tariffs and imported components pressure margins",
+      "Diagnostics and telematics raise skill requirements",
+      "Fleet outsourcing creates contract revenue",
+      "Brake, tire and safety compliance remain core demand",
+      "Alternative powertrains require new shop investment"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/truck-repair.txt",
+      "https://www.globenewswire.com/news-release/2024/07/04/2908749/28124/en/U-S-Truck-Repair-Market-Report-2024-2029-Market-Size-Industry-Analysis-Trends-and-Forecasts-New-Technologies-Poised-to-Alter-the-Industry-s-Landscape.html",
+      "https://www.trucking.org/news-insights/ata-truck-tonnage-index-rose-01-june",
+      "https://www.trucking.org/news-insights/ata-truck-tonnage-index-rose-04-december",
+      "https://aftermarketinsight.spglobal.com/news/4375/average-age-of-vehicles-in-the-us-rises-to-128-years-in-2025",
+      "https://www.eia.gov/dnav/pet/PET_PRI_GND_A_EPD2D_PTE_DPGAL_A.htm",
+      "https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm",
+      "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/3de8cac",
+      "https://cvsa.org/news/2025-roadcheck-results/",
+      "https://www.trucknews.com/human-resources/qualified-diesel-techs-in-short-supply-atri-report/1003200272/"
+    ],
+    "one_sentence": "The US truck repair industry is a fragmented aftermarket service business benefiting from an older fleet and more complex trucks, while soft freight volumes, expensive parts and a diesel-technician shortage cap throughput and margins.",
+    "slug": "truck-repair"
+  }
+]

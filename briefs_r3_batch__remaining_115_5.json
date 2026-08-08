@@ -1,0 +1,430 @@
+[
+  {
+    "title": "Protective Sports Equipment Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed US manufacturing niche built around helmets, pads, gloves, guards and other injury-prevention gear for organized and recreational sports.",
+    "overview": "This industry manufactures protective sports equipment such as athletic helmets, shoulder pads, batting and catching helmets, gloves, shin guards, elbow and knee pads, face guards and related gear used in football, baseball, hockey, lacrosse, cycling, winter sports, skate sports and other activities. Public 2025 IBISWorld reseller data put US industry revenue at $347.6 million in 2023 after a 0.6% CAGR over 2018-2023 and 0.5% growth in 2023. For 2025, current participation and price data point to a roughly $360 million US manufacturing market, with demand helped by the return of school and youth sports, record high-school participation, female participation in flag football and wrestling, and premium helmet replacement programs. The core constraint is unchanged: imports supplied 65.9% of US domestic demand in 2023, limiting domestic volume growth and pushing US producers toward high-spec, customizable and sensor-enabled protective gear.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: about $360 million; 2023 reported revenue: $347.6 million",
+      "growth": "2025 estimated revenue growth: about +2.0%; 2018-2023 reported CAGR: +0.6%; 2023 reported growth: +0.5%",
+      "import_penetration": "2023 imports accounted for 65.9% of US domestic demand",
+      "participation": "2025 SFIA report: 247.1 million Americans were active in 2024; 2026 SFIA report: 250.0 million Americans participated in at least one sport, fitness or leisure activity in 2025",
+      "school_sports": "2024-25 NFHS high-school sports participation reached 8,266,244, up 203,942 from 2023-24",
+      "producer_prices": "June 2026 BLS/FRED PPI for sporting and athletic goods manufacturing was 184.201, up from 179.731 in December 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: about $346 million, derived from the public 2023 IBISWorld figure of $347.6 million and 2023 growth of +0.5%",
+      "growth": "2022 estimated growth: positive recovery year after the 2020 sports-program shock; public 2025 IBISWorld data reports 2018-2023 CAGR of +0.6% and 2023 growth of +0.5%",
+      "context": "2022 was a post-pandemic normalization year, with school, club and recreational sports reopening and protective-equipment replacement cycles restarting."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, molding, assembling and selling helmets, pads, gloves, guards and related protective gear to sporting-goods retailers, team dealers, wholesalers, schools, leagues, professional organizations, online marketplaces and direct-to-consumer channels. Higher-margin revenue comes from certified helmets, custom-fit products, replacement padding, team contracts, reconditioning services, proprietary materials and sensor-enabled or premium safety lines.",
+    "cost_structure": "Major costs are resin, plastic shells, foams, rubber, synthetic fibers, textiles, leather, metal hardware, electronics for smart helmets, certification and testing, direct labor, tooling, freight, warehousing, insurance, warranty support and brand marketing. Domestic producers face elevated material and wage costs but can offset some pressure through automation, premium pricing, shorter delivery times, customization and institutional contracts. Baseline IBISWorld data showed a low capital-intensity industry with low sector-relative profit and rising engineering labor needs for advanced safety gear.",
+    "major_players": [
+      "Riddell",
+      "Rawlings Sporting Goods / Easton",
+      "Certor Sports, including Schutt and VICIS",
+      "Guardian Sports",
+      "Bauer Hockey",
+      "CCM Hockey",
+      "Amer Sports / Wilson and related sports brands",
+      "Nike and Adidas in broader protective and team-sports gear"
+    ],
+    "current_dynamics": "Demand is being pulled up by record school-sports participation, growth in girls flag football and wrestling, continuing concussion awareness, team-level helmet replacement programs and higher spending on premium safety equipment. Supply remains pressured by imports, Asian contract manufacturing, material inflation and the need to pass certification standards. The US manufacturing base is therefore concentrated in defensible niches: football helmets, baseball protective gear, custom-fit products, reconditioning, high-performance polymers and technology-enabled impact management.",
+    "whats_growing": "Premium football helmets, youth and high-school helmet replacement programs, girls and women’s football gear, wrestling and lacrosse protection, direct-to-team selling, online manufacturer channels, smart helmets, impact analytics, soft-shell helmet covers and products marketed around concussion-risk reduction are growing. Participation tailwinds are strongest in team sports, with SFIA reporting 20 of 24 team sports increased participation in 2024 and NFHS reporting record 2024-25 high-school participation.",
+    "whats_shrinking": "Commodity pads, low-differentiation guards, generic gloves and price-sensitive protective gear are losing share to imports and private-label alternatives. Traditional sporting-goods-store dependence is shrinking as teams, schools and consumers buy more through online, direct manufacturer and team-dealer channels. Domestic volume production of basic gear remains vulnerable to offshoring because imported protective sports equipment supplied 65.9% of domestic demand in 2023.",
+    "recent_developments": [
+      "2025-01: Denver Broncos Foundation, Riddell and CHSAA launched a four-year program to distribute more than 15,000 Riddell Axiom smart helmets to all 277 Colorado high-school tackle-football programs.",
+      "2025-01: Certor Sports and Guardian Sports announced a strategic football-protection partnership linking Schutt/VICIS helmet brands with Guardian Cap technology.",
+      "2025-04: Riddell acquired assets of Xenith after Xenith paused operations in January 2025, consolidating football helmet IP and product lines.",
+      "2025-09: NFHS reported 2024-25 high-school sports participation reached a record 8,266,244 participants, up 203,942 from 2023-24.",
+      "2026-02: NFHS named Certor Sports, parent of Schutt and VICIS, an Official Corporate Champion focused on risk minimization and student-athlete protection.",
+      "2026-03: SFIA reported 250.0 million Americans participated in at least one sport, fitness or leisure activity in 2025, with overall participation up 1.2% year over year."
+    ],
+    "outlook": "The 2026-2029 outlook is cautiously positive but not high-growth. Domestic revenue should rise modestly as schools, youth leagues and families replace aging gear and upgrade to safer helmets and sport-specific protection, while participation gains broaden the customer base. Growth will remain constrained by imports and by the maturity of core sports categories. The best-positioned US manufacturers will be those with certified safety credentials, brand trust, team relationships, reconditioning infrastructure, custom fitting and technology that makes premium prices defensible.",
+    "themes": [
+      "Athlete safety and concussion prevention",
+      "Import competition and offshoring",
+      "Youth and school sports recovery",
+      "Girls and women’s sports expansion",
+      "Smart helmets and impact analytics",
+      "Premiumization and customization",
+      "Direct-to-team and e-commerce channels",
+      "Material inflation and certification costs"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/protective-sports-equipment-manufacturing.txt",
+      "https://www.marketresearch.com/IBISWorld-v2487/Protective-Sports-Equipment-Manufacturing-Research-40984930/",
+      "https://sfia.org/resources/sfias-topline-participation-report-shows-247-1-million-americans-were-active-in-2024/",
+      "https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/",
+      "https://www.nfhs.org/stories/participation-in-high-school-sports-hits-record-high-with-sizable-increase-in-2024-25",
+      "https://fred.stlouisfed.org/series/PCU339920339920",
+      "https://nsga.org/news/riddell-acquires-xenith-assets/",
+      "https://guardiansports.com/2025/01/08/certor-partners-with-guardian-in-strategic-football-alliance/",
+      "https://nsga.org/news/riddell-partners-with-broncos-colorado-high-schools-on-distribution-of-15000-riddell-axiom-smart-football-helmets/",
+      "https://nfhs.org/stories/certor-sports-named-official-corporate-champion-of-the-nfhs",
+      "https://www.census.gov/naics/?details=339920&input=339920&year=2022"
+    ],
+    "one_sentence": "Protective Sports Equipment Manufacturing remains a modest US industry where demand is improving with record sports participation and safety upgrades, but domestic manufacturers still compete against lower-cost imports and must justify premium pricing through certified, sport-specific innovation.",
+    "slug": "protective-sports-equipment-manufacturing"
+  },
+  {
+    "title": "Psychiatric Hospitals in the US",
+    "sector": "Healthcare",
+    "one_liner": "US psychiatric hospitals are a roughly $35.1 billion 2025 market where persistent demand, scarce beds and staff, and Medicare/Medicaid reimbursement updates shape growth.",
+    "overview": "The industry consists of licensed psychiatric and substance abuse hospitals that maintain inpatient beds and physician-led clinical staff for patients who cannot be treated safely in outpatient settings. The 2022 IBISWorld baseline described a mature but growing industry with $30.8 billion of revenue, 765 establishments, 460 enterprises, 263,016 employees, and a 5.7% profit margin. Since then, demand has stayed elevated: SAMHSA reported 61.5 million US adults with any mental illness in 2024 and 14.6 million adults with serious mental illness in 2024. Capacity remains constrained by psychiatric bed shortages, workforce shortages, discharge bottlenecks, and payer authorization rules, while operators have benefited from commercial insurance, Medicaid, Medicare, and state behavioral health infrastructure funding. The 2025 market is estimated at about $35.1 billion, using a 2024 IBISWorld-cited revenue figure of $33.9 billion and 2025 Census/FRED quarterly revenue growth for psychiatric and substance abuse hospitals.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $35.1 billion",
+      "growth": "2025 estimated revenue growth: about 3.5% versus 2024, based on Census/FRED quarterly revenue changes for NAICS 6222",
+      "demand_pool": "2024: 61.5 million US adults had any mental illness and 14.6 million had serious mental illness",
+      "baseline_scale": "2022: 765 establishments, 460 enterprises, and 263,016 employees in the IBISWorld baseline",
+      "medicare_rate_update": "FY2026: CMS finalized a 2.5% IPF PPS rate update and estimated total IPF payments would rise 2.4%, or $70 million, versus FY2025",
+      "pricing_indicator": "December 2025 psychiatric and substance abuse hospitals PPI: 184.487, up from December 2024: 173.580",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $30.782 billion",
+      "growth": "2022 revenue growth: 4.2%; 2017-2022 CAGR: 2.6%",
+      "profit": "2022 profit: $1.755 billion; 2022 profit margin: 5.7%",
+      "industry_gross_product": "2022 industry gross product: $19.437 billion",
+      "establishments": "2022 establishments: 765",
+      "enterprises": "2022 enterprises: 460",
+      "employment": "2022 employment: 263,016",
+      "wages": "2022 wages: $16.807 billion"
+    },
+    "how_it_makes_money": "Revenue comes mainly from per diem and case-based inpatient psychiatric care reimbursed by commercial insurers, Medicare, Medicaid, and self-pay patients. The 2022 baseline split revenue into 67.0% patient care for mental disorders, 0.6% acute long-term care, 0.5% assisted living services, 0.1% assisted daily living for mental rehabilitation, and 31.8% other revenue such as grants, contributions, ancillary items, meals, pharmacy-related sales, investment income, and equipment rentals.",
+    "cost_structure": "Labor is the largest cost because facilities require psychiatrists, nurses, therapists, technicians, aides, security, compliance, and administrative staff. In 2022, wages were $16.807 billion, equal to about 54.6% of the $30.782 billion revenue base, while profit was 5.7%. Other major 2025-2026 cost pressures include contract labor, malpractice and compliance, facility maintenance, drugs and medical supplies, food, utilities, insurance, quality reporting systems, and bed expansion or renovation capex. Purchase costs are lower than in acute care hospitals but rise when operators add value-based reporting, EHR, safety, and outcomes-tracking systems.",
+    "major_players": [
+      "{'name': 'Universal Health Services', 'position': 'Largest diversified public operator with a large behavioral health footprint', 'current_detail': '2025: UHS reported $17.4 billion total company revenue, 346 inpatient behavioral health facilities, 119 outpatient behavioral health locations, 6.5 million behavioral health patient days, and 170 inpatient beds added in the US.'}",
+      "{'name': 'Acadia Healthcare', 'position': 'Largest stand-alone behavioral healthcare platform in the US', 'current_detail': '2025: Acadia reported $3.313 billion revenue, 277 behavioral health facilities, more than 12,500 beds, 40 states plus Puerto Rico, 1,089 beds added, and 5.0% revenue growth versus 2024.'}",
+      "{'name': 'State and local psychiatric hospital systems', 'position': 'Important safety-net capacity for involuntary, forensic, long-stay, youth, and high-acuity patients', 'current_detail': '2025: New York’s FY2025 budget added 200 state-operated inpatient psychiatric beds, including 75 transition-to-home beds.'}",
+      "{'name': 'Nonprofit health systems and joint ventures', 'position': 'Growing source of new capacity through partnerships with national behavioral health operators', 'current_detail': '2025: UHS opened the 144-bed Hanover Hill Behavioral Health hospital with Lehigh Valley Health Network and Jefferson Health.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is supply-constrained rather than demand-constrained. Admissions growth is supported by serious mental illness prevalence, co-occurring substance use disorders, youth and adult crisis volumes, and emergency departments needing placement options. Revenue is helped by commercial insurance coverage, Medicaid managed care, state grants, and Medicare IPF PPS updates, but margins are pressured by staffing ratios, wage inflation, denials, discharge delays, and regulatory scrutiny. CMS quality reporting requirements continue to matter because noncompliant IPFs lose 2.0 percentage points of the annual Medicare payment update. Operators are adding beds through expansions and joint ventures, but local opposition, certificate-of-need rules, construction costs, psychiatrist and nurse shortages, and payer controls slow capacity growth.",
+    "whats_growing": [
+      "2025-2026: Joint-venture behavioral health hospitals with regional health systems are adding beds without requiring each system to build the capability alone.",
+      "2024-2026: Youth and adolescent psychiatric capacity is growing in states funding behavioral health infrastructure, including California and New York projects.",
+      "2025-2026: Outpatient step-down, partial hospitalization, intensive outpatient, telehealth, and post-discharge coordination are growing around inpatient campuses to reduce readmissions and improve payer acceptance.",
+      "2025-2026: Data reporting, patient-experience measurement, and quality programs are growing as CMS expands IPFQR expectations and explores future star-rating concepts.",
+      "2025: Acadia’s same-facility patient days grew 2.1% and same-facility revenue per patient day grew 2.8%, indicating both volume and pricing/mix growth for a large operator."
+    ],
+    "whats_shrinking": [
+      "2025-2026: Unmanaged long stays and avoidable readmissions are shrinking as payers and CMS quality measures push discharge planning and care coordination.",
+      "2025-2026: Small stand-alone facilities without capital for staffing, IT, compliance, and renovations are losing relative ground to larger systems and joint-venture platforms.",
+      "2025-2026: Pandemic-era emergency relief is no longer a meaningful support line, leaving reimbursement and operating efficiency to carry margins.",
+      "2025-2026: Bed availability for complex patients remains constrained where licensed beds cannot be staffed, so practical capacity is shrinking relative to clinical demand in some markets."
+    ],
+    "recent_developments": [
+      "2024-04-22: New York’s FY2025 budget added 200 state-operated inpatient psychiatric beds and funded school-based and youth mental health initiatives.",
+      "2024-07-30: CMS finalized the FY2025 IPF PPS rule with a net 2.5% payment increase and a new 30-day emergency department visit measure after IPF discharge.",
+      "2025-03-06: California DHCS announced a Gateways Hospital youth expansion in Los Angeles County with 37 new acute psychiatric inpatient beds and more than $19 million in BHCIP funding.",
+      "2025-07-28: SAMHSA released 2024 NSDUH results showing 61.5 million adults with any mental illness and 14.6 million adults with serious mental illness in 2024.",
+      "2025-08-01: CMS finalized the FY2026 IPF PPS rule with a 2.5% rate update and estimated total IPF payments up 2.4%, or $70 million, versus FY2025.",
+      "2025-12-08: UHS and Lehigh Valley Health Network held a ribbon cutting for Hanover Hill Behavioral Health, a 144-bed behavioral health hospital in Pennsylvania."
+    ],
+    "outlook": "Through 2026 and beyond, revenue should keep growing at a low-to-mid single-digit rate as unmet need, insured coverage, public funding, and price updates offset operational constraints. The market’s main upside is bed expansion tied to state infrastructure funding and health-system partnerships. The main downside is that staffing shortages, payer denials, compliance scrutiny, and high construction costs can prevent licensed capacity from becoming staffed capacity. Larger operators with access to capital, payer contracting leverage, quality reporting systems, and outpatient step-down networks are best positioned, while smaller psychiatric hospitals remain acquisition targets or may struggle to maintain margins.",
+    "themes": [
+      "Behavioral health access gap",
+      "Psychiatric bed shortages",
+      "Youth mental health demand",
+      "Medicaid and Medicare reimbursement dependence",
+      "Staffing shortages and wage pressure",
+      "Quality reporting and value-based care",
+      "Joint ventures and consolidation",
+      "State-funded capacity expansion",
+      "Co-occurring substance use treatment",
+      "Post-discharge coordination"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/psychiatric-hospitals-in-the-us.txt",
+      "https://www.cms.gov/newsroom/fact-sheets/fy-2026-medicare-inpatient-psychiatric-facility-prospective-payment-system-ipf-pps-quality-reporting",
+      "https://www.cms.gov/newsroom/fact-sheets/fiscal-year-2025-medicare-inpatient-psychiatric-facilities-prospective-payment-system-ipf-pps-and-0",
+      "https://fred.stlouisfed.org/data/REV6222APSA",
+      "https://fred.stlouisfed.org/series/PCU6222106222103",
+      "https://www.samhsa.gov/newsroom/press-announcements/20250728/samhsa-releases-annual-national-survey-on-drug-use-and-health",
+      "https://www.samhsa.gov/data/report/2025-national-directory-mental-health-treatment-facilit",
+      "https://www.sec.gov/Archives/edgar/data/1520697/000119312526078266/achc-20251231.htm",
+      "https://uhs.com/news/universal-health-services-inc-publishes-2025-annual-report/",
+      "https://uhs.com/news/ceremonial-ribbon-cutting-welcomes-hanover-hill-behavioral-health/",
+      "https://www.dhcs.ca.gov/news/gateways-hospital-and-mental-health-center-to-expand-in-los-angeles-county/",
+      "https://www.governor.ny.gov/news/governor-hochul-announces-key-mental-health-investments-all-new-yorkers-part-fy-2025-budget"
+    ],
+    "one_sentence": "Psychiatric hospitals provide inpatient diagnosis, stabilization, medical treatment, and monitoring for people with acute mental illness or substance use disorders, with 2025 revenue estimated near $35.1 billion after a 2024 IBISWorld-cited revenue level of $33.9 billion and Census/FRED 2025 quarterly revenue gains for NAICS 6222.",
+    "slug": "psychiatric-hospitals-in-the-us"
+  },
+  {
+    "title": "Psychic Services",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented discretionary-services industry selling spiritual, metaphysical and fortune-telling guidance through in-person sessions, phone lines, chat, video and mobile apps.",
+    "overview": "The industry includes businesses and independent practitioners offering psychic readings, tarot, astrology, palmistry, mediumship, aura readings, numerology, pet communication and related metaphysical services. The market is highly fragmented, mostly made up of sole proprietors and small nonemployer businesses, with larger online platforms aggregating advisors and taking a share of per-minute, package or subscription-like session spending. Demand is discretionary, but it is supported by recurring consumer interest in relationships, grief, career uncertainty, spirituality and entertainment. The post-2020 channel mix has shifted further toward phone, chat, video and app-based readings, making geographic reach and digital reputation more important than storefront traffic.",
+    "key_stats": {
+      "market_size": "2026 forecast: $2.4 billion US revenue",
+      "growth": "2021-2026 forecast CAGR: 1.5%; 2023 reported growth: 1.0%",
+      "latest_reported_market_size": "2023: $2.3 billion US revenue",
+      "consumer_adoption": "2024 survey, published 2025: 30% of US adults consulted astrology, tarot cards or fortune tellers at least sometimes; 28% consulted astrology or horoscopes at least once or twice a year; about 10% consulted tarot cards at least annually",
+      "digital_scale": "2026: Keen reported 2,000+ advisors, 14+ million satisfied customers, 45+ million conversations and 11+ million reviews on its App Store listing",
+      "macro_driver": "May 2026: BEA reported disposable personal income up 0.7% month over month and real disposable personal income up 0.3% month over month",
+      "confidence_driver": "June 2026: Conference Board reported 20.8% of consumers expected incomes to increase, up from 19.2% in May 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimate: about $2.22 billion, derived from the baseline 2021 revenue of $2.189 billion and the baseline 2021-2026 forecast CAGR of 1.5%",
+      "growth": "2022 baseline forecast growth: about 1.5% year over year",
+      "profit_margin": "2021 baseline: 8.4% EBIT margin",
+      "establishments": "2021 baseline: 98,074 establishments",
+      "enterprises": "2021 baseline: 92,644 enterprises",
+      "employment": "2021 baseline: 90,833 workers",
+      "wages": "2021 baseline: $1.708 billion"
+    },
+    "how_it_makes_money": {
+      "session_fees": "Practitioners charge by session, by minute or by package for in-person, phone, chat and video readings.",
+      "platform_commissions": "Marketplaces and apps monetize by taking a commission or spread on advisor-client transactions, plus payment processing and promotional placement economics.",
+      "events_and_entertainment": "Some revenue comes from parties, fairs, nightclubs, tourist districts, private events and entertainment venues.",
+      "adjacent_sales": "Operators may sell horoscopes, spiritual coaching, crystals, courses, recorded readings, memberships, subscriptions or follow-up messaging."
+    },
+    "cost_structure": {
+      "labor_and_owner_draw": "Largest cost category because the service is labor-intensive and many operators are owner-practitioners.",
+      "platform_and_payment_fees": "Online advisors pay marketplace commissions, app-store exposure costs, payment processing fees and sometimes lead-generation costs.",
+      "marketing": "Search ads, social media, reviews, influencer promotion and marketplace ranking are increasingly important customer acquisition costs in 2025-2026.",
+      "rent": "Storefront psychics and event readers carry lease, booth or venue costs, while online operators reduce rent but add software and digital-marketing expense.",
+      "technology": "Video, chat, scheduling, CRM, payment tools and fraud-prevention systems are more material as readings move online.",
+      "profitability": "Baseline 2021 EBIT margin was 8.4%; margins vary widely by solo practitioners versus platforms with marketing and technology overhead."
+    },
+    "major_players": [
+      "Keen / Ingenio",
+      "California Psychics",
+      "Kasamba",
+      "Psychic Source",
+      "Purple Garden",
+      "Purple Ocean",
+      "MysticSense",
+      "Independent local psychics and tarot readers"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions in 2025-2026: economic uncertainty and spiritual curiosity support usage, while cautious consumers, high competition and fraud concerns limit pricing power. The strongest channel growth is digital, where app-based marketplaces offer 24/7 availability, reviews, introductory pricing and chat/video formats. Local storefronts remain relevant in tourist, entertainment and urban markets, but discovery increasingly happens through search, social platforms and app stores.",
+    "whats_growing": [
+      "Mobile-first psychic reading apps with chat, call and video sessions",
+      "Tarot, astrology and horoscope content used for entertainment and self-reflection",
+      "Advisor marketplaces with ratings, matching tools, introductory offers and loyalty programs",
+      "Relationship, career and grief-related readings tied to uncertainty and emotional support",
+      "Social-media-led customer acquisition and creator-style spiritual brands"
+    ],
+    "whats_shrinking": [
+      "Reliance on walk-in storefront traffic as the main acquisition channel",
+      "Undifferentiated local readers without reviews, online booking or digital payment options",
+      "Tolerance for aggressive mail, phone or upsell practices that resemble fraud",
+      "Cash-only, lightly documented transactions in regulated local markets",
+      "Legacy phone-line models that lack app, chat or video integration"
+    ],
+    "recent_developments": [
+      "2025-05-21: Pew reported that 30% of US adults consult astrology, tarot cards or fortune tellers at least sometimes.",
+      "2025-07: Research and Markets listed the updated IBISWorld US Psychic Services report covering 2015-2030 and citing 2023 revenue of $2.3 billion.",
+      "2025-07-29: Keen was promoted as a leading 2025 online psychic-reading platform with more than 25 years in the market.",
+      "2025-08-06: IRS Criminal Investigation announced a guilty plea in a more than $10 million psychic-solicitation mail-fraud scheme targeting vulnerable victims.",
+      "2026-06-25: BEA reported May 2026 disposable personal income rose 0.7% month over month, a positive short-term driver for discretionary services.",
+      "2026-07: App-tracking data showed Purple Garden version 7.19.0 with a 4.77 rating from about 5.4K iOS ratings, illustrating continued mobile-app competition."
+    ],
+    "outlook": "The industry is likely to grow slowly through 2026 rather than break out. A reasonable 2026 anchor is the $2.4 billion IBISWorld forecast, with growth near the low-single digits as discretionary income improves unevenly and digital channels expand the addressable market. Platforms with vetted advisors, transparent pricing, mobile UX, refund policies and review depth should outperform independent storefronts. Main risks are consumer-spending softness, rising customer-acquisition costs, app-store dependence, local licensing rules and enforcement against deceptive psychic solicitations.",
+    "themes": [
+      "Digital migration",
+      "Fragmented sole-proprietor market",
+      "Low capital intensity",
+      "High competition",
+      "Discretionary spending exposure",
+      "Spiritual but not institutional religion",
+      "Consumer protection and fraud scrutiny",
+      "Reviews and trust as differentiators",
+      "Mobile-first advice platforms",
+      "Entertainment-wellness crossover"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/psychic-services.txt",
+      "https://www.researchandmarkets.com/report/united-states-psychic-service-market",
+      "https://www.pewresearch.org/religion/2025/05/21/3-in-10-americans-consult-astrology-tarot-cards-or-fortune-tellers/",
+      "https://www.pewresearch.org/religion/2025/02/26/religious-and-spiritual-beliefs/",
+      "https://www.bea.gov/data/income-saving/personal-income",
+      "https://www.bea.gov/data/income-saving/disposable-personal-income",
+      "https://www.conference-board.org/topics/consumer-confidence/",
+      "https://apps.apple.com/us/app/keen-psychic-reading-tarot/id1008861332",
+      "https://www.keen.com/",
+      "https://www.purplegarden.co/blog/best-online-psychic-reading-sites-ultimate-comparison-for-2025",
+      "https://www.irs.gov/compliance/criminal-investigation/long-time-fugitive-admits-to-orchestrating-mail-fraud-scheme-defrauding-elderly-and-vulnerable-victims-of-over-10-million",
+      "https://www.mass.gov/info-details/massachusetts-law-about-fortune-tellers"
+    ],
+    "one_sentence": "US psychic services remain a small but resilient consumer-services niche, with 2026 revenue around $2.4 billion as online platforms, mobile apps and mainstream interest in astrology and tarot offset competition, fraud scrutiny and pressure on discretionary spending.",
+    "slug": "psychic-services"
+  },
+  {
+    "title": "Psychologists, Social Workers & Marriage Counselors in the US",
+    "sector": "Healthcare",
+    "one_liner": "A fragmented, labor-intensive mental health practitioner market is still expanding as insurance coverage, Medicare eligibility and hybrid teletherapy keep demand elevated.",
+    "overview": "This industry covers nonphysician mental health practitioners that diagnose and treat mental, emotional and behavioral disorders, including clinical psychologists, industrial-organizational psychologists, mental health social workers, child/family/school social workers and marriage and family therapists. The market remains highly fragmented, with many solo and small group practices, school-linked and nonprofit providers, and a limited number of larger managed behavioral health organizations. Demand is structurally supported by high diagnosed need: SAMHSA reported in 2025 that 23.4% of US adults, or 61.5 million people, had any mental illness in 2024, while 5.6%, or 14.6 million adults, had serious mental illness in 2024.",
+    "key_stats": {
+      "market_size": "$31.3 billion in 2025",
+      "growth": "6.5% CAGR from 2019 to 2024; 2025 market size reported at $31.3 billion",
+      "businesses": "262,000 businesses in 2024",
+      "employment": "416,000 industry employees in 2024; BLS OEWS reported 775,930 social workers, 75,990 clinical and counseling psychologists, and 66,740 marriage and family therapists across the broader US workforce in May 2025",
+      "wages": "BLS May 2025 mean annual wages were $112,750 for clinical and counseling psychologists, $67,540 for social workers, and $76,960 for marriage and family therapists",
+      "demand_indicator": "SAMHSA reported 61.5 million US adults with any mental illness in 2024",
+      "telehealth_indicator": "FAIR Health data cited in 2026 showed mental health conditions represented 52.1% of patients with a telehealth claim in Q1 2026",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$24.742 billion in 2022 revenue, in 2022 dollars",
+      "growth": "3.0% estimated revenue growth in 2022",
+      "five_year_growth": "7.3% annualized revenue growth over 2017-2022",
+      "profit": "$2.598 billion in 2022",
+      "profit_margin": "10.5% in 2022",
+      "industry_gross_product": "$14.776 billion in 2022",
+      "establishments": "212,891 establishments in 2022",
+      "enterprises": "211,739 enterprises in 2022",
+      "employment": "350,181 people in 2022",
+      "wages": "$11.861 billion in 2022",
+      "forecast": "IBIS baseline projected 3.0% annualized revenue growth to $28.6 billion in 2027"
+    },
+    "how_it_makes_money": "Practices earn fees for psychotherapy, counseling, assessment, crisis intervention, family and school social work services, employee-assistance work and I-O psychology consulting. Revenue is paid through private insurance, Medicare, Medicaid, school districts, government and nonprofit contracts, employer/EAP arrangements, and out-of-pocket patient payments. The 2022 baseline cited private insurance payments at 38.2% of industry revenue, while CMS 2024 policy changes expanded direct Medicare billing for marriage and family therapists and mental health counselors.",
+    "cost_structure": {
+      "labor": "Largest cost category; baseline wages were $11.861 billion in 2022, equal to about 47.9% of 2022 revenue",
+      "profit": "Baseline profit margin was 10.5% in 2022; later market summaries still describe wages as the primary expense in 2024",
+      "occupancy": "Office rent, utilities and hybrid-work space costs are material for in-person practices but lower for telehealth-heavy providers",
+      "technology": "Practice management systems, telehealth platforms, electronic health records, billing tools and cybersecurity are rising operating costs in 2024-2026",
+      "insurance_and_compliance": "Malpractice insurance, credentialing, licensing, continuing education, HIPAA compliance and claims administration are recurring costs",
+      "marketing_and_referrals": "Digital patient acquisition, payer credentialing, referral network management and intake staff matter more as competition rises among virtual and group-practice models"
+    },
+    "major_players": [
+      "Magellan Health, Inc. - cited with $2.409 billion in 2024 industry revenue by a 2024 market report mirror",
+      "FHC Health Systems Inc. - cited with $370.4 million in 2024 industry revenue by a 2024 market report mirror",
+      "Independent solo and small group practices - dominant fragmented base in 2024-2025",
+      "School districts, nonprofit family-service agencies and community providers - important buyers/employers for child, family and school social work services"
+    ],
+    "current_dynamics": "Demand is high but capacity-constrained. Public acceptance of therapy, school-based mental health needs, substance-use treatment demand and employer mental health benefits are pulling more patients into care, while clinician shortages, payer reimbursement pressure and administrative burden limit throughput. Medicare’s January 1, 2024 expansion allowing MFTs and MHCs to bill independently widened the reimbursable provider pool. Teletherapy is now embedded in commercial and Medicare behavioral health delivery, but reimbursement, in-person requirements and state licensing rules still shape provider economics.",
+    "whats_growing": "Hybrid and virtual therapy, Medicare-covered MFT and mental health counselor services after 2024, mental health and substance abuse social work, clinical and counseling psychology, school-based supports, employer/EAP programs, behavioral health integration, and larger group practices using centralized credentialing, scheduling and billing are growing. BLS projected 2024-2034 employment growth of 11% for clinical and counseling psychologists, 10% for mental health and substance abuse social workers, and 13% for marriage and family therapists.",
+    "whats_shrinking": "Purely office-only models with limited scheduling flexibility are losing share to hybrid providers. Lower-reimbursement payer mixes, solo practices without billing scale, and providers unable to navigate credentialing or telehealth compliance are under pressure. Some child/family/school social work growth may be limited by state and local budget constraints, according to BLS 2024-2034 outlook commentary.",
+    "recent_developments": [
+      "2024-01-01: CMS allowed marriage and family therapists and mental health counselors to bill Medicare independently for diagnosis and treatment of mental illness, paid at 75% of the clinical psychologist rate.",
+      "2025-03-01: A 2025 IBISWorld-distributed market report listed the industry at $31.3 billion in 2025 and cited 6.5% CAGR from 2019 to 2024.",
+      "2025-07-28: SAMHSA released 2024 NSDUH results showing 23.4% of US adults, or 61.5 million people, had any mental illness in 2024.",
+      "2025-08-28: BLS published 2024-2034 projections showing 6% growth for psychologists overall, 11% for clinical and counseling psychologists, and 6% for social workers overall.",
+      "2026-01-01: CMS 2026 Physician Fee Schedule telehealth provisions took effect, including permanent removal of some frequency limits, while behavioral health telehealth retained broad access protections.",
+      "2026-Q1: FAIR Health data cited in 2026 showed mental health conditions were the top telehealth diagnostic category across all age groups, representing 52.1% of patients with a telehealth claim."
+    ],
+    "outlook": "The 2025-2030 outlook is positive but not unconstrained. Revenue should continue growing as healthcare spending rises, Medicare coverage expands to additional behavioral health practitioners, and employers, schools and families keep prioritizing mental health access. Margin upside is limited by clinician wages, payer rate pressure, no-shows and billing complexity. The best-positioned operators will combine in-person and virtual care, maintain strong payer contracts, use centralized intake and revenue-cycle systems, and recruit licensed clinicians in high-demand specialties.",
+    "themes": [
+      "mental health access",
+      "teletherapy normalization",
+      "Medicare reimbursement expansion",
+      "clinician shortages",
+      "fragmented provider market",
+      "school-based mental health",
+      "payer mix and reimbursement pressure",
+      "behavioral health integration",
+      "small-practice consolidation"
+    ],
+    "data_year": "2025, with 2026 policy and telehealth updates",
+    "sources": [
+      "Baseline IBISWorld text file: /home/manishmehta/ui-projects/ibis-industries/txt_full/psychologists-social-workers-and-marriage-counselors-in-the-us.txt",
+      "https://www.alfabank-adres.ru/united-states/industry/psychologists-social-workers-marriage-counselors/1561/",
+      "https://www.cms.gov/medicare/payment/fee-schedules/physician-fee-schedule/marriage-family-therapists-mental-health-counselors",
+      "https://www.samhsa.gov/newsroom/press-announcements/20250728/samhsa-releases-annual-national-survey-on-drug-use-and-health",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+      "https://www.bls.gov/ooh/community-and-social-service/marriage-and-family-therapists.htm",
+      "https://www.bls.gov/news.release/ocwage.t01.htm",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.kff.org/medicare/what-to-know-about-medicare-coverage-of-telehealth/",
+      "https://www.fiercehealthcare.com/telehealth/telehealth-utilization-101-nationally-between-q4-2025-and-q1-2026-fair-health-tracker"
+    ],
+    "one_sentence": "US psychologists, social workers and marriage counselors generated an estimated $31.3 billion in 2025 revenue, up from the 2022 IBIS baseline of $24.742 billion, with growth supported by persistent mental health need, public and private payer spending, and telehealth-normalized care delivery.",
+    "slug": "psychologists-social-workers-and-marriage-counselors-in-the-us"
+  },
+  {
+    "title": "Public Relations Firms in the US",
+    "sector": "Business Services",
+    "one_liner": "US PR firms sell reputation, earned-media, crisis, influencer and stakeholder communications services to clients navigating fragmented media, AI search and polarized public trust.",
+    "overview": "The industry comprises agencies that design and implement public relations campaigns to promote clients' interests and image across the public, employees, investors, regulators, media and other stakeholders. The 2022 IBISWorld baseline described a mature, low-capital, highly competitive industry that had recovered to $17.3 billion in revenue after COVID-era volatility, with revenue projected to grow at a 2022-2027 CAGR of 2.6% to $19.7 billion. Current 2025-2026 signals are mixed: PRWeek reported 2024 agency growth of 5% in the US and globally, while O'Dwyer's reported a 2024 decline of 1.5% in combined audited independent-firm fee income to $4.7 billion, highlighting uneven demand by client sector and agency model. Growth is strongest where agencies can connect communications to business risk, trust, AI visibility, healthcare, public affairs, financial communications, executive counsel and measurable digital outcomes.",
+    "key_stats": {
+      "market_size": "2025 estimate: $18.8 billion in 2022 dollars, based on the IBISWorld 2022 revenue baseline of $17.3 billion and its 2022-2027 projected CAGR of 2.6%.",
+      "growth": "2025 estimate: 2.6% annual growth, using IBISWorld's 2022-2027 projected CAGR; PRWeek separately reported 2024 US PR agency revenue growth of 5.0%.",
+      "employment": "2025 BLS CES snapshot: public relations agencies employed about 67,000 workers in April 2025, seasonally adjusted.",
+      "establishments": "2023 Census County Business Patterns: 8,646 employer establishments in NAICS 54182 public relations agencies.",
+      "pricing_context": "2026 BLS PPI proxy: advertising agency services index was 111.155 in May 2026 versus 110.814 in December 2025, indicating limited service-price acceleration in adjacent agency work.",
+      "agency_benchmark": "2025 PRovoke Global 250: the top 250 PR agencies generated $17.4 billion in 2024 fee income globally, up less than 1.0% in US-dollar terms.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld: $17.3 billion revenue, inflation-adjusted to 2022 dollars.",
+      "growth": "2022 IBISWorld: revenue increased 6.9% in 2022, while 2017-2022 revenue declined at an annualized 2.5%.",
+      "profit": "2022 IBISWorld: $1.9 billion profit and 11.0% profit margin.",
+      "employment": "2022 IBISWorld: 106,972 people employed.",
+      "enterprises": "2022 IBISWorld: 54,581 enterprises.",
+      "establishments": "2022 IBISWorld: 55,338 establishments.",
+      "outlook": "2022 IBISWorld: revenue projected to reach $19.7 billion in 2027, a 2022-2027 CAGR of 2.6%."
+    },
+    "how_it_makes_money": "Agencies earn fees through retainers, project fees and hourly or scoped work for media relations, corporate communications, crisis response, public affairs, investor communications, employee communications, executive positioning, product launches, event communications, social media, influencer programs, content, measurement and reputation analytics. Large network agencies often bundle PR with advertising, healthcare marketing, brand strategy, public affairs, commerce, data and digital services, while smaller firms specialize by geography, vertical or communications discipline.",
+    "cost_structure": "The industry is people-heavy and asset-light. Wages, benefits and freelance specialist costs are the largest expense because strategy, pitching, writing, media relationships, analytics and client service depend on skilled labor. Other material costs include software subscriptions for media databases, social listening, analytics, CRM, AI and workflow tools; outsourced production, research and influencer/content costs; office and remote-work overhead; business development; professional insurance; and travel/events. Profitability is pressured by client procurement, project-based buying, high competition and the need to fund senior talent and technology investment.",
+    "major_players": [
+      "Edelman: 2024 fee income of $986.0 million in PRovoke's 2025 Global 250 and 2025 O'Dwyer's rankings.",
+      "Burson: formed in 2024 from WPP's BCW and Hill & Knowlton; 2024 PRovoke-estimated fee income of $956.0 million.",
+      "The Weber Shandwick Collective: 2024 PRovoke-estimated fee income of $849.4 million; part of IPG before Omnicom's proposed acquisition of IPG.",
+      "FleishmanHillard: 2024 PRovoke-estimated fee income of $743.0 million; part of Omnicom.",
+      "Real Chemistry: 2024 fee income of $665.0 million, with 2024 growth of about 11.6% in PRovoke's 2025 ranking.",
+      "Ketchum: 2024 PRovoke-estimated fee income of $510.0 million; part of Omnicom."
+    ],
+    "current_dynamics": "Demand is being reshaped by three forces in 2025-2026: tighter marketing budgets, higher reputation risk and AI-driven changes to discovery. Gartner reported 2025 marketing budgets flat at 7.7% of company revenue and said 39% of CMOs planned to cut agency budgets, pushing PR firms to prove productivity and business impact. At the same time, CEOs and boards need counsel on polarization, misinformation, employee issues, regulatory scrutiny, AI governance and crisis response. Digital media remains a tailwind: IAB reported 2024 US internet ad revenue of $258.6 billion, up 14.9%, with social, video, retail media and search growth creating more integrated earned, owned, paid and creator work. AI search is opening a new PR-adjacent service line as brands seek visibility and credibility in answer engines rather than only traditional search results.",
+    "whats_growing": "Healthcare communications, public affairs, crisis and issues management, financial communications, executive positioning, employee communications, analytics, social listening, influencer and creator relations, AI-search or generative-engine optimization, misinformation response, and integrated earned-owned-paid campaigns are growing fastest. Larger clients are favoring agencies that can combine senior counsel with data, measurement, content and global coordination.",
+    "whats_shrinking": "Traditional press-release distribution, broad-brush media pitching, standalone earned-media programs without measurable outcomes, low-margin content production, legacy print-focused publicity and undifferentiated generalist retainers are under pressure. Some agency-of-record budgets are being consolidated, renegotiated or partially insourced as 2025 CMOs seek productivity gains and GenAI-enabled cost savings.",
+    "recent_developments": [
+      "2024-07: WPP combined BCW and Hill & Knowlton into Burson, creating a large global communications network focused on reputation and corporate affairs.",
+      "2024-12: WPP completed the sale of its majority stake in FGS Global to KKR in a transaction valuing FGS Global at $1.7 billion.",
+      "2025-04: O'Dwyer's reported audited independent PR firms' combined 2024 fee income fell 1.5% to $4.7 billion, with Edelman at $986.0 million.",
+      "2025-04: IAB/PwC reported US digital advertising revenue reached $258.6 billion in 2024, up 14.9%, reinforcing the shift toward digital, social, video and commerce-led communications.",
+      "2025-05: Gartner reported 2025 marketing budgets were flat at 7.7% of company revenue and that 39% of CMOs planned to cut agency budgets.",
+      "2025-06: The FTC accepted a proposed consent order addressing Omnicom's $13.5 billion acquisition of IPG, a deal that would reshape the holding-company landscape around advertising, PR and related services."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but uneven. Industry revenue should keep expanding at low-single-digit rates if corporate profit, business formation and marketing spend hold up, but procurement scrutiny and AI-enabled insourcing will cap pricing power for routine work. The strongest agencies will move upmarket into reputation risk, regulatory and geopolitical counsel, healthcare and financial communications, AI visibility, analytics and crisis readiness. Consolidation among holding companies and private-equity-backed specialists will continue, while low startup costs will keep the long tail of boutiques highly competitive.",
+    "themes": [
+      "AI search and generative-engine optimization",
+      "Trust, polarization and crisis readiness",
+      "Healthcare and regulated-sector communications",
+      "Public affairs and stakeholder management",
+      "Agency consolidation and holding-company restructuring",
+      "Creator, influencer and social-first earned media",
+      "Measurement, analytics and proof of ROI",
+      "Client budget pressure and scope discipline"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file, Public Relations Firms in the US, last updated 2022-07-15: /home/manishmehta/ui-projects/ibis-industries/txt_full/public-relations-firms-in-the-us.txt",
+      "U.S. Census Bureau via FRED, Total Revenue for Public Relations Agencies, All Establishments, Employer Firms, 2022: https://fred.stlouisfed.org/series/REVEF54182ALLEST",
+      "U.S. Census Bureau data.census.gov profile for NAICS 54182, 2023 employer establishments: https://data.census.gov/profile/54182_-_Public_relations_agencies?g=010XX00US&n=54182",
+      "U.S. Bureau of Labor Statistics CES table, public relations agencies employment, 2025: https://www.bls.gov/ces/data/employment-and-earnings/2025/table1a_202504.htm",
+      "PRWeek, PR firms grew in 2024 despite business challenges, 2025-04-30: https://www.prweek.com/article/1916034/pr-firms-grew-2024-despite-business-challenges",
+      "O'Dwyer's PR firm rankings release, 2025-04-14: https://www.globenewswire.com/news-release/2025/04/14/3061306/0/en/O-Dwyer-s-Releases-Annual-PR-Firm-Rankings.html",
+      "PRovoke Media Global Top 250 PR Agency Ranking 2025: https://www.provokemedia.com/ranking-and-data/global-pr-agency-rankings/2025-pr-agency-rankings/top-250",
+      "Gartner 2025 CMO Spend Survey, 2025-05-12: https://www.gartner.com/en/newsroom/press-releases/2025-05-12-gartner-2025-cmo-spend-survey-reveals-marketing-budgets-have-flatlined-at-seven-percent-of-overall-company-revenue",
+      "IAB/PwC Internet Advertising Revenue Report Full Year 2024, 2025-04-17: https://www.iab.com/news/digital-ad-revenue-2024/",
+      "FTC press release on Omnicom-IPG acquisition consent order, 2025-06: https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-prevents-anticompetitive-coordination-global-advertising-merger",
+      "Burson announcement on BCW and Hill & Knowlton merger, 2024: https://www.bursonglobal.com/newsroom/global/financial-and-capital-market-advisory-firm-buchanan-communications-joins-burson",
+      "PRWeek, WPP completes sale of FGS Global to KKR, 2024-12-03: https://www.prweek.com/article/1898509/wpp-completes-sale-fgs-global-kkr",
+      "Edelman 2025 Trust Barometer and Brand Trust reports: https://www.edelman.com/trust/2025/trust-barometer"
+    ],
+    "one_sentence": "Public Relations Firms in the US remain a fragmented, labor-intensive business-services industry, with 2025 revenue estimated near $18.8 billion in 2022 dollars as agencies trade traditional media relations for senior counsel, analytics, social, creator, AI-search and crisis work.",
+    "slug": "public-relations-firms-in-the-us"
+  }
+]

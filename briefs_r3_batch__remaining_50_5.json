@@ -1,0 +1,432 @@
+[
+  {
+    "title": "Online Men's Clothing Sales",
+    "sector": "Retail",
+    "one_liner": "Online men's clothing sellers are still growing, but 2025-2026 growth is being earned through mobile conversion, promotions, marketplaces and sharper inventory control rather than simple channel migration.",
+    "overview": "This industry covers online sales of men's clothing and accessories by digital-native brands, marketplaces and brick-and-mortar retailers with ecommerce operations, excluding men's footwear. The baseline IBIS report placed 2021 revenue at $12.3 billion and projected revenue to reach $15.2 billion in 2026, while current 2025-2026 public indicators show broader retail ecommerce continuing to outgrow total retail sales, with US Census reporting Q1 2026 retail ecommerce sales of $326.7 billion, up 9.8% year over year, and ecommerce reaching 16.9% of total retail sales.",
+    "key_stats": {
+      "market_size": "$15.2 billion in 2026 estimated US industry revenue, based on the baseline 2021-2026 IBIS projection for online men's clothing sales.",
+      "growth": "4.3% CAGR projected for 2021-2026 in the baseline report; broader US retail ecommerce grew 9.8% year over year in Q1 2026 according to the US Census Bureau.",
+      "profit_margin": "5.0% in 2021 baseline industry profit margin, down from 5.6% in 2016 after 2020 supply-chain and discounting pressure.",
+      "establishments": "27,603 establishments in 2021 baseline, with establishments projected to grow at a 6.9% CAGR from 2021-2027.",
+      "employment": "87,770 workers in 2021 baseline, with employment projected to grow at a 5.4% CAGR from 2021-2027.",
+      "ecommerce_share": "16.9% of total US retail sales in Q1 2026 were ecommerce sales, up from 16.0% in Q1 2025 according to FRED/Census.",
+      "fashion_ecommerce_context": "US apparel, footwear and accessories ecommerce revenue was expected to exceed $159 billion in 2025 according to Statista's 2025 fashion ecommerce topic page.",
+      "holiday_apparel_signal": "Apparel generated $49.0 billion of US online holiday sales in November-December 2025, up 7.4% year over year, according to Adobe as reported by Fibre2Fashion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$12.9 billion in 2022 estimated from the baseline report's $12.3 billion 2021 revenue and 4.3% projected 2021-2026 CAGR.",
+      "growth": "4.3% estimated 2022 growth using the baseline report's 2021-2026 projected CAGR.",
+      "product_mix_2021": "Casual wear 45.6%, office and formal wear 37.8%, sports and athletic wear 7.4%, and other items 9.2% of 2021 industry revenue.",
+      "profit_margin_2021": "5.0% in 2021 baseline profit margin."
+    },
+    "how_it_makes_money": "Operators earn revenue by selling men's casualwear, office/formalwear, sports and athletic apparel, underwear, socks, accessories and related apparel items through owned websites, mobile apps, marketplaces and omnichannel fulfillment. Revenue comes from merchandise markups, private-label margins, marketplace sales, shipping or membership economics, promotional events, affiliate and influencer conversion, and repeat purchases driven by personalization, loyalty programs and fit tools.",
+    "cost_structure": {
+      "purchases": "Merchandise purchases are the largest cost, including branded apparel, private-label sourcing, wholesaler markups, import duties and tariff exposure; 2025 tariff changes raised sourcing and landed-cost pressure for apparel retailers.",
+      "fulfillment": "Warehousing, pick-pack, parcel delivery, reverse logistics and returns are structurally important because fit uncertainty creates higher apparel return rates than many other retail categories.",
+      "marketing": "Paid search, affiliate marketing, influencers, social commerce, email and app retention are major customer-acquisition costs; Adobe reported affiliates and partners reached 19.9% of Prime Day 2025 online revenue share.",
+      "labor": "Labor is lower than in store-based clothing retail but still includes merchandising, customer service, warehouse operations, creative production, technology and data teams.",
+      "technology": "Costs include ecommerce platforms, payment processing, fraud prevention, cybersecurity, personalization, AI search, virtual fitting, analytics and mobile app development.",
+      "profit": "Profit is pressured by promotions, free shipping, free returns, customer acquisition costs, markdowns, tariff volatility and inventory obsolescence."
+    },
+    "major_players": [
+      "Amazon",
+      "Walmart",
+      "Target",
+      "Macy's",
+      "Nordstrom",
+      "Gap Inc.",
+      "Men's Wearhouse",
+      "Nike",
+      "Ralph Lauren",
+      "SHEIN"
+    ],
+    "current_dynamics": "In 2025-2026, demand is supported by continued ecommerce share gains, mobile shopping, marketplace reach and deal events, but operators face price-sensitive consumers, high return costs, tougher paid-media economics and apparel tariff disruption. Casualwear, athleisure and value-oriented basics remain better aligned with hybrid work and repeat online purchasing than suits and formalwear, while AI search, generative shopping assistants, influencers and BNPL are changing discovery and conversion.",
+    "whats_growing": [
+      "Mobile checkout and app-based repeat purchasing, with Adobe reporting smartphones drove 56.4% of 2025 holiday online transactions.",
+      "Casualwear, denim, basics and athleisure, helped by hybrid work and lower fit risk than tailored formalwear.",
+      "Marketplace apparel sales through Amazon, Walmart, Target and SHEIN, supported by broad assortment and fast delivery expectations.",
+      "AI-assisted shopping and search, with Adobe reporting traffic to retail sites from generative AI tools rose 693.4% during the 2025 holiday season.",
+      "Promotional event sales, with Adobe reporting US retailers generated $24.1 billion online during the July 8-11, 2025 Prime Day event."
+    ],
+    "whats_shrinking": [
+      "Pure online formalwear demand, because suits, tailoring and occasionwear remain more fit-sensitive and hybrid work keeps office apparel demand below pre-pandemic norms.",
+      "Full-price conversion in undifferentiated apparel, as Adobe reported apparel discounts peaked at 25.1% during the 2025 holiday season.",
+      "Duty-free cross-border low-value China/Hong Kong apparel shipments after the May 2, 2025 end of de minimis treatment for those goods.",
+      "Small independent operators without marketplace scale, low-cost fulfillment, private-label margin or paid-media efficiency.",
+      "Margins on imported apparel, as 2025 tariff volatility pushed retailers toward supplier negotiations, selective price increases and front-loaded inventory."
+    ],
+    "recent_developments": [
+      "2025-05-02: CBP ended de minimis duty-free treatment for low-value goods from China and Hong Kong, adding duties, taxes and filing requirements to many direct-to-consumer apparel shipments.",
+      "2025-07-08 to 2025-07-11: Adobe reported the Prime Day event drove $24.1 billion in US online spend, up 30.3% year over year, with apparel discounts peaking at 24%.",
+      "2025-07-29: USFIA reported that more than 70% of surveyed fashion executives said higher tariffs increased sourcing costs, squeezed margins and raised consumer prices in 2025.",
+      "2026-01-07: Adobe reported US consumers spent $257.8 billion online during the 2025 holiday season, up 6.8% year over year, with mobile at 56.4% of transactions.",
+      "2026-05-18: The US Census Bureau reported Q1 2026 retail ecommerce sales of $326.7 billion, up 9.8% year over year, equal to 16.9% of total retail sales."
+    ],
+    "outlook": "The 2026 outlook is positive but more competitive: the baseline implies industry revenue near $15.2 billion in 2026, while broader ecommerce data show online retail still taking share from stores. Growth should be strongest for casualwear, athleisure, basics, private-label and value-led marketplace apparel, while tailored formalwear and high-return categories remain harder to scale profitably online. Through 2026, operators with better fit data, private-label control, faster inventory turns, tariff-aware sourcing and lower return costs should outperform operators dependent on paid acquisition and discounting.",
+    "themes": [
+      "Mobile-first retail",
+      "Marketplace concentration",
+      "AI-assisted shopping",
+      "Tariff and de minimis disruption",
+      "Promotional intensity",
+      "Private-label margin protection",
+      "Hybrid-work wardrobe shift",
+      "Returns and fit technology",
+      "Influencer and affiliate commerce",
+      "Value-led consumer behavior"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': \"Baseline IBIS-style file: Online Men's Clothing Sales\", 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-mens-clothing-sales.txt', 'note': 'Used for 2021 revenue, 2021-2026 projection, product mix, profit margin, establishments and employment.'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales, Q1 2026', 'url': 'https://www.census.gov/retail/eCommerce.html', 'note': 'Q1 2026 retail ecommerce sales of $326.7 billion, up 9.8% year over year, and 16.9% of total retail sales.'}",
+      "{'name': 'FRED ECOMPCTSA, sourced from US Census Bureau', 'url': 'https://fred.stlouisfed.org/series/ECOMPCTSA', 'note': 'Q1 2026 ecommerce share of total retail sales at 16.9%, with Q1 2025 at 16.0%.'}",
+      "{'name': 'Adobe 2025 holiday ecommerce report', 'url': 'https://news.adobe.com/news/2026/01/adobe-holiday-shopping-season', 'note': '2025 holiday online spend, mobile share, apparel discounts, AI traffic and BNPL data.'}",
+      "{'name': 'Adobe Prime Day 2025 ecommerce report', 'url': 'https://business.adobe.com/blog/prime-day-event-drove-24-billion-in-online-spend-across-us-retailers', 'note': 'July 8-11, 2025 online spend, mobile share, apparel discounts and affiliate revenue share.'}",
+      "{'name': 'CBP de minimis China/Hong Kong guidance', 'url': 'https://www.help.cbp.gov/s/article/Article-1915?language=en_US', 'note': 'May 2, 2025 end of duty-free de minimis treatment for products of China and related duty requirements.'}",
+      "{'name': 'S&P Global Market Intelligence apparel tariff analysis', 'url': 'https://www.spglobal.com/market-intelligence/en/news-insights/research/tariff-plans-apparel-firms', 'note': '2025 apparel tariff impact, inventory front-loading, apparel import trends and consumer spending outlook.'}",
+      "{'name': 'USFIA 2025 Fashion Industry Benchmarking Study release', 'url': 'https://www.usfashionindustry.com/press/press-releases/usfia-releases-twelfth-annual-benchmarking-study', 'note': '2025 survey findings on tariff impacts, sourcing cost pressure, margin compression and diversification.'}",
+      "{'name': 'Statista US fashion ecommerce topic page', 'url': 'https://www.statista.com/topics/3481/fashion-e-commerce-in-the-united-states/', 'note': '2025 US apparel, footwear and accessories ecommerce revenue context above $159 billion.'}",
+      "{'name': 'Fibre2Fashion summary of Adobe 2025 holiday apparel ecommerce', 'url': 'https://www.fibre2fashion.com/news/e-commerce-industry/us-consumers-spend-record-257-8-bn-online-during-2025-holiday-season-307658-newsdetails.htm?amp=true', 'note': 'Reports 2025 holiday apparel online sales of $49.0 billion, up 7.4% year over year.'}"
+    ],
+    "one_sentence": "The US Online Men's Clothing Sales industry retails men's apparel and accessories, excluding footwear, through ecommerce sites, marketplaces and omnichannel retailers, with 2026 industry revenue estimated at about $15.2 billion after a 2021 baseline of $12.3 billion and a projected 2021-2026 CAGR of 4.3%.",
+    "slug": "online-mens-clothing-sales"
+  },
+  {
+    "title": "Online Mortgage Brokers",
+    "sector": "Finance & Insurance",
+    "one_liner": "Digital mortgage marketplaces and online brokers match borrowers with lenders, earning lead, advertising, referral and brokerage fees rather than holding loans on balance sheet.",
+    "overview": "This industry includes companies that broker home mortgages online and operate online mortgage marketplaces, while excluding banks and nonbank lenders that originate directly through their own digital channels. The 2021 IBISWorld baseline placed revenue at $615.9 million and expected slower growth into 2026, but the rate shock after 2022 changed the mix: refinance-led demand collapsed, purchase loans became the core traffic source, and home equity/HELOC lead products became more important. In 2026, total mortgage origination dollars are forecast to recover from 2025 levels, but high 30-year mortgage rates and weak existing-home turnover keep borrower conversion costly. The winning operators are large comparison platforms with strong search traffic, lender networks, compliance infrastructure and paid-marketing discipline.",
+    "key_stats": {
+      "market_size": "2026: approximately $685 million in US online mortgage broker and mortgage-marketplace revenue, estimated current dollars",
+      "growth": "2026: approximately 4.6% year-over-year revenue growth, estimated; 2022-2026 CAGR approximately 3.4%",
+      "mortgage_originations": "2026: Fannie Mae forecast single-family mortgage originations of $2.298 trillion, up from $1.958 trillion in 2025",
+      "purchase_originations": "2026: Fannie Mae forecast purchase originations of $1.446 trillion, up from $1.385 trillion in 2025",
+      "refinance_originations": "2026: Fannie Mae forecast refinance originations of $852 billion, up from $573 billion in 2025",
+      "refinance_share": "2026: Fannie Mae forecast refinance share of 37%, up from 29% in 2025",
+      "mortgage_rate": "2026: Fannie Mae July 2026 forecast annual average 30-year fixed mortgage rate of 6.3%; Freddie Mac reported 6.48% on June 4, 2026",
+      "housing_starts": "2026: Fannie Mae forecast total housing starts of 1.342 million units, down 1.0% from 2025",
+      "broader_broker_revenue_context": "2022: Census/FRED reported $13.392 billion in total mortgage and nonmortgage loan broker employer-firm revenue, down from $19.509 billion in 2021",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $600 million in US online mortgage broker revenue, estimated from the 2021 IBISWorld baseline of $615.9 million and 2023 IBISWorld/Statista description of a slight 2022 decline",
+      "growth": "2022: approximately -2.5% year-over-year, estimated; broader Census loan-broker employer revenue fell to $13.392 billion in 2022 from $19.509 billion in 2021",
+      "context": "2022: rising mortgage rates sharply reduced refinance demand and lowered mortgage lead monetization despite continued online adoption"
+    },
+    "how_it_makes_money": "Operators earn upfront match fees when lenders receive qualified borrower requests, per-click or per-call advertising revenue from lenders and mortgage professionals, referral fees tied to completed applications or closed loans where permitted, and some brokerage or marketplace fees on purchase, refinance, FHA/VA, jumbo, reverse mortgage and home equity products. Larger platforms also monetize repeat traffic through adjacent real estate, insurance, personal-loan and credit products.",
+    "cost_structure": "The largest costs are paid search, performance marketing, affiliate traffic, brand advertising and customer acquisition; LendingTree disclosed that variable segment marketing is deducted to calculate segment profit and that its 2025 Home segment profit margin was 32% before corporate overhead. Other major costs include engineering and product development, lender-network sales teams, compliance/licensing, credit-data and verification costs, cloud hosting, call-center support, cybersecurity, insurance and general corporate expenses. Profitability is sensitive to lead prices, close rates, rate volatility and lender appetite.",
+    "major_players": [
+      "LendingTree: 2025 Home segment revenue was $151.8 million, including $42.0 million from core mortgage and $109.8 million from home equity products",
+      "Zillow Group: 2025 mortgages revenue was $199 million; Q1 2026 mortgages revenue was $64 million, up 56% year over year",
+      "Bankrate/Red Ventures: major mortgage-rate comparison and lender advertising marketplace",
+      "NerdWallet and Credible: financial marketplaces competing for mortgage-shopping traffic and referral economics",
+      "Rocket/Redfin: adjacent integrated competitor after Rocket completed its 2025 Redfin acquisition, combining a major home-search site with direct mortgage origination"
+    ],
+    "current_dynamics": "The market is no longer driven by the 2020-2021 refinance wave. Elevated 2025-2026 rates suppress affordability and reduce rate-term refinancing, but the 2026 origination forecast improves because refinance dollars rise from a very low base and purchase volumes stabilize. Online brokers benefit when borrowers shop aggressively for rate and fee savings, but conversion is harder because many homeowners remain locked into lower-rate mortgages. Lender demand for third-party leads is selective, with stronger bids for high-credit purchase, cash-out refinance and home-equity prospects than for marginal refinance traffic.",
+    "whats_growing": "Home equity and HELOC lead generation, purchase-mortgage shopping, AI-assisted prequalification, mobile document collection, lender marketplaces with transparent rate comparison, broker-channel wholesale relationships, and platforms that connect home search, agent referral and financing in one funnel are growing in 2025-2026.",
+    "whats_shrinking": "Rate-term refinance leads, low-intent paid-search traffic, small undifferentiated lead generators, manual broker workflows, and standalone mortgage comparison sites without repeat consumer traffic or adjacent real estate/financial-services funnels are shrinking or losing pricing power.",
+    "recent_developments": [
+      "2025-03-10: Rocket Companies agreed to acquire Redfin for $1.75 billion of equity value, signaling tighter integration of home search and mortgage origination.",
+      "2025-07-01: Rocket completed the Redfin acquisition and launched Rocket Preferred Pricing for qualifying Redfin buyers using Rocket Mortgage.",
+      "2025-10-19: MBA forecast 2026 single-family mortgage origination volume of $2.2 trillion, up from $2.0 trillion expected for 2025.",
+      "2026-05-06: Zillow reported Q1 2026 mortgages revenue of $64 million, up 56% year over year, driven by higher purchase-loan origination volume.",
+      "2026-07-10: Fannie Mae forecast 2026 single-family mortgage originations of $2.298 trillion and a 2026 average 30-year fixed rate of 6.3%.",
+      "2026-08-06: Freddie Mac data cited by AP showed the 30-year fixed mortgage rate at 6.69%, keeping affordability and refinance conversion under pressure."
+    ],
+    "outlook": "Revenue should grow modestly in 2026 as total mortgage origination dollars rebound, but the industry remains volatile because high rates, tight affordability and low existing-home turnover constrain lead conversion. The most likely winners are platforms with trusted brands, low-cost organic traffic, broad lender coverage and the ability to monetize home equity, purchase and refinance demand across cycles. Over the next few years, consolidation and vertical integration by large lenders and real estate portals will pressure independent brokers, while regulatory scrutiny of lead generation, data privacy and advertising disclosures raises compliance costs.",
+    "themes": [
+      "Rate-sensitive refinance cycle",
+      "Purchase-loan lead monetization",
+      "Home equity as a countercyclical product",
+      "Search-to-close platform integration",
+      "Broker-channel share gains",
+      "Paid-marketing efficiency",
+      "Compliance and data privacy",
+      "AI prequalification and borrower routing"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Online Mortgage Brokers in the US', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/online-mortgage-brokers.txt', 'date': '2021-03-22'}",
+      "{'title': 'Fannie Mae Housing Forecast: July 2026', 'url': 'https://www.fanniemae.com/media/document/pdf/housing-forecast-072026', 'date': '2026-07-10'}",
+      "{'title': 'Fannie Mae Economic Forecast: July 2026', 'url': 'https://www.fanniemae.com/media/document/pdf/economic-forecast-072026', 'date': '2026-07-10'}",
+      "{'title': 'Mortgage Bankers Association 2026 single-family origination forecast', 'url': 'https://www.mba.org/news-and-research/newsroom/news/2025/10/19/mba-forecast--total-single-family-mortgage-originations-to-increase-8-percent-to--2.2-trillion-in-2026', 'date': '2025-10-19'}",
+      "{'title': 'Freddie Mac Primary Mortgage Market Survey', 'url': 'https://www.freddiemac.com/pmms', 'date': '2026-06-04'}",
+      "{'title': 'US Census New Residential Construction, June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html', 'date': '2026-07-17'}",
+      "{'title': 'FRED/Census total revenue for mortgage and nonmortgage loan brokers', 'url': 'https://fred.stlouisfed.org/series/REVEF52231ALLEST', 'date': '2024-01-31'}",
+      "{'title': 'LendingTree 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1434621/000162828026016084/tree-20251231.htm', 'date': '2026-03-12'}",
+      "{'title': 'Zillow Group 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1617640/000161764026000015/z-20251231.htm', 'date': '2026-02-10'}",
+      "{'title': 'Zillow Group Q1 2026 financial results', 'url': 'https://zillowgroup.mediaroom.com/2026-05-06-Zillow-Group-Reports-First-Quarter-2026-Financial-Results', 'date': '2026-05-06'}",
+      "{'title': 'Rocket Companies completes acquisition of Redfin', 'url': 'https://www.rocketcompanies.com/press-release/rocket-companies-completes-acquisition-of-redfin/', 'date': '2025-07-01'}",
+      "{'title': 'AP report on August 2026 mortgage rates', 'url': 'https://apnews.com/article/42d8262fb00b904fd7c2b906751610d7', 'date': '2026-08-06'}"
+    ],
+    "one_sentence": "Online Mortgage Brokers in the US remain a small but strategically important mortgage-distribution channel, pressured by 2025-2026 affordability and high rates while benefiting from loan-shopping behavior, broker-channel share gains and platform integration across home search, financing and servicing.",
+    "slug": "online-mortgage-brokers"
+  },
+  {
+    "title": "Online Office & School Supply Sales",
+    "sector": "Retail",
+    "one_liner": "A concentrated online retail niche selling office, school, paper, ink, writing and related supplies to businesses, schools and households.",
+    "overview": "This industry covers retailers that primarily sell office and school supplies online, including stationery, notebooks, writing instruments, paper, ink, binders, folders, breakroom supplies and related low-ticket replenishment products. The 2022 baseline placed the narrow IBIS-defined industry at $2.34 billion in revenue, with high concentration and businesses representing 56.9% of revenue. By 2026, the category benefits from the broader shift to online purchasing, B2B e-procurement and school-list shopping, but it is no longer enjoying the pandemic-era surge in home-office and remote-learning demand. Current demand is split: U.S. retail e-commerce grew strongly in Q1 2026, while office-supply-specific online sales and ODP disclosures point to lower traffic, reduced discretionary purchasing and pressure on smaller category specialists.",
+    "key_stats": {
+      "market_size": "2026e $2.6 billion-$2.8 billion for the narrow U.S. online office and school supply sales industry, based on the 2022 IBIS baseline of $2.34 billion and the 2022-2028 projected CAGR of 3.47%, adjusted for 2025-2026 category softness.",
+      "growth": "2026e low single-digit growth, approximately +1% to +3%, below the 2022 baseline projection because 2025 tracked online office-supplies revenue declined and major omnichannel operators reported weaker traffic.",
+      "profit_margin": "2026e roughly 3%-4%, near the 2022 baseline margin of 3.8%, with freight, fulfillment, promotional pricing and tariffs limiting upside.",
+      "ecommerce_context": "Q1 2026 U.S. retail e-commerce sales were $326.7 billion, up 9.8% year over year, and represented 16.9% of total retail sales.",
+      "school_spending_context": "2026 NRF K-12 back-to-school spending is expected to reach $43.3 billion, with $7.3 billion budgeted for school supplies and 50% of shoppers planning to buy online.",
+      "office_supplies_context": "2025 tracked online office-supplies GMV was about $13 billion across 400+ retailers and declined 5%-10% year over year, with 2026 expected to decline 0%-5% in that tracker.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 $2.34 billion revenue.",
+      "growth": "2022 +3.3% revenue growth; 2017-2022 CAGR +3.9%; 2022-2028 projected CAGR +3.47%.",
+      "profit": "2022 $89 million profit.",
+      "profit_margin": "2022 3.8% profit margin.",
+      "employment": "2022 13,749 employees.",
+      "enterprises": "2022 2,814 enterprises.",
+      "establishments": "2022 2,875 establishments.",
+      "product_mix": "2022 revenue mix: core office supplies 45.1%, ink and paper 28.8%, school supplies and other 26.1%.",
+      "customer_mix": "2022 businesses represented 56.9% of revenue."
+    },
+    "how_it_makes_money": "Operators buy branded and private-label supplies from manufacturers and wholesalers, list them through websites, marketplaces, apps, punchout catalogs and procurement portals, and earn gross margin on product resale. Large platforms add revenue through subscriptions, advertising, marketplace seller fees, private-label penetration, business-only pricing tiers, quantity discounts, recurring delivery, BOPIS, same-day delivery and cross-selling into adjacent categories such as breakroom, janitorial, IT accessories and office furniture.",
+    "cost_structure": "The largest cost is merchandise purchases, followed by fulfillment, parcel shipping, warehouse labor, payment processing, returns, search and marketplace advertising, technology, customer service and corporate overhead. Margins are structurally thin because notebooks, paper, ink, pens and binders are easy to compare online and shoppers are highly price-sensitive. In 2025-2026, tariffs, inflation, freight costs and promotions are pressuring gross margin, while large players use scale, private label, subscription logistics and supplier funding to offset the pressure.",
+    "major_players": [
+      "Amazon Business / Amazon",
+      "Staples",
+      "Office Depot / OfficeMax / ODP Business Solutions",
+      "Walmart",
+      "Target",
+      "Shoplet",
+      "ZumaOffice.com",
+      "OfficeSupply.com"
+    ],
+    "current_dynamics": "The industry is shifting from pandemic-driven home-office demand to a more normalized replacement and replenishment cycle. B2B purchasing is moving toward managed online procurement, punchout catalogs, quantity discounts and recurring delivery, favoring Amazon Business, Staples and ODP Business Solutions. Consumer school-supply demand remains seasonal and resilient, but 2026 shoppers are more value-focused, more willing to wait for deals and less locked into specialty office-supply retailers. Category specialists face traffic pressure as mass merchants and marketplaces bundle school, office, tech, apparel and household purchases into the same trip or cart.",
+    "whats_growing": "B2B e-procurement, Amazon Business purchasing, quantity discounts, recurring replenishment, private-label basics, AI-assisted shopping and list-building, omnichannel pickup, same-day delivery, classroom wish lists, school-list search tools, and adjacent workplace categories such as breakroom, janitorial, IT accessories and ergonomic home-office products.",
+    "whats_shrinking": "Standalone specialty office-supply e-commerce traffic, discretionary office products, premium branded supplies without clear value, impulse stationery, printer-linked supplies in paper-light workplaces, and pure-play merchants that cannot match marketplace pricing, logistics speed or advertising reach.",
+    "recent_developments": [
+      "2025-07-15: NRF reported 2025 K-12 back-to-school spending of $39.4 billion, including $6.6 billion for school supplies and 55% online shopping intent.",
+      "2025-08-20: Amazon Business said it served over 8 million organizations globally and generated more than $35 billion in annualized gross sales.",
+      "2025-09-08: Office Depot launched a nationwide 15-minute pickup promise for qualifying online and mobile orders.",
+      "2025-12-10: Atlas Holdings completed its roughly $1 billion take-private acquisition of ODP, owner of Office Depot and OfficeMax.",
+      "2026-05-18: Census reported Q1 2026 U.S. retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of retail sales.",
+      "2026-07-14: NRF forecast 2026 K-12 back-to-school spending at a record $43.3 billion, including $7.3 billion for school supplies, while online shopping intent fell to 50%."
+    ],
+    "outlook": "The 2026-2028 outlook is modestly positive but more competitive than the 2022 baseline implied. The market should keep expanding as more small businesses, schools and households buy replenishment items online, but growth is likely to trail broad e-commerce because office and school supplies are mature, low-margin and heavily exposed to price comparison. Scale platforms should gain share through procurement tools, fast fulfillment and broader baskets, while smaller sellers will need specialization, contracts, private-label sourcing or service-heavy niches to defend margins. A reasonable 2026 view is a narrow industry market size around $2.6 billion-$2.8 billion with low single-digit growth and profit margins near 3%-4%.",
+    "themes": [
+      "Channel shift",
+      "B2B procurement digitization",
+      "Value seeking",
+      "Back-to-school seasonality",
+      "Marketplace concentration",
+      "Omnichannel fulfillment",
+      "Tariff and input-cost pressure",
+      "Private label and bulk purchasing",
+      "Hybrid work normalization",
+      "Margin compression"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file provided by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-office-and-school-supply-sales.txt', 'date': '2022-05-31', 'notes': 'Baseline 2022 revenue, growth, profit, product mix, customer mix and industry definition.'}",
+      "{'title': 'U.S. Census Bureau, Quarterly Retail E-Commerce Sales Report Q1 2026', 'url': 'https://www.census.gov/retail/eCommerce.html', 'date': '2026-05-18', 'notes': 'Q1 2026 retail e-commerce sales of $326.7 billion, +9.8% year over year, 16.9% of total retail sales.'}",
+      "{'title': 'NRF, Majority of Back-to-School Shoppers Get a Head Start on the Season', 'url': 'https://nrf.com/media-center/press-releases/majority-of-back-to-school-shoppers-get-a-head-start-on-the-season', 'date': '2026-07-14', 'notes': '2026 K-12 back-to-school spending forecast of $43.3 billion, $7.3 billion for school supplies and 50% online shopping destination share.'}",
+      "{'title': 'Deloitte, 2026 Back-to-School Survey', 'url': 'https://www.deloitte.com/us/en/insights/industry/retail-distribution/back-to-school-survey.html', 'date': '2026-07-09', 'notes': '2026 K-12 spending of $557 per child and $30.4 billion market estimate, with flat school-supply spending and higher spend among digitally engaged shoppers.'}",
+      "{'title': 'Amazon, Amazon Business milestone announcement', 'url': 'https://press.aboutamazon.com/Amazon-Business-Milestone-Announcement', 'date': '2025-08-20', 'notes': 'Amazon Business served over 8 million organizations globally and generated more than $35 billion in annualized gross sales.'}",
+      "{'title': 'Office Depot, 15-Minute Pickup Promise', 'url': 'https://newsroom.officedepot.com/news-releases/news-release-details/office-depot-transforms-customer-experience-launching-industry/', 'date': '2025-09-08', 'notes': 'Office Depot expanded fast fulfillment for online and mobile orders.'}",
+      "{'title': 'ODP / Atlas Holdings acquisition announcement', 'url': 'https://newsroom.officedepot.com/news-releases/news-release-details/atlas-holdings-completes-acquisition-odp-corporation-craig', 'date': '2025-12-10', 'notes': 'Atlas completed the roughly $1 billion acquisition of ODP, taking the company private.'}",
+      "{'title': 'Grips Intelligence, Office Supplies Industry Analytics', 'url': 'https://gripsintelligence.com/insights/industries/office-supplies', 'date': '2026', 'notes': '2025 tracked online office-supplies revenue of about $13 billion, down 5%-10%, with 2026 expected down 0%-5%.'}"
+    ],
+    "one_sentence": "Online Office & School Supply Sales is still structurally supported by e-commerce adoption and back-to-school demand, but 2025-2026 growth is being held back by value-seeking consumers, weaker office-supply traffic and intense price competition from Amazon, mass merchants and omnichannel chains.",
+    "slug": "online-office-and-school-supply-sales"
+  },
+  {
+    "title": "Online Office Furniture Sales",
+    "sector": "Retail",
+    "one_liner": "Online sellers of desks, seating, shelving, partitions and related office furniture are still growing, but the mix has shifted from pandemic home-office spikes to hybrid-work refreshes, B2B procurement and price-led e-commerce competition.",
+    "overview": "This industry covers online retail sales of office furniture, including desks, chairs, tables, storage units, shelving, lockers and partitions, excluding sales made through physical stores. The 2021 IBISWorld baseline described a fast-growing, low-concentration e-commerce industry lifted by remote work and broader consumer comfort with buying bulky furniture online. In 2025 and 2026, the industry is more normalized: home-office replacement demand is no longer the pandemic surge, but e-commerce share keeps rising, corporate profits are strong, and office leasing has improved enough to support business refits. Growth is increasingly tied to hybrid-work layouts, ergonomic seating, standing desks, flexible storage, B2B procurement portals, fast delivery and marketplace breadth.",
+    "key_stats": {
+      "market_size": "2026: $16.0 billion estimated US online office furniture sales, using the 2021 IBISWorld baseline projection to 2026",
+      "growth": "2026: 6.5% estimated five-year CAGR from 2021 to 2026 based on the baseline projection",
+      "ecommerce_share": "2026 Q1: e-commerce was 16.9% of total US retail sales, up from 16.0% in 2025 Q1",
+      "total_office_furniture_market": "2025: $17.43 billion US office furniture market; 2026: $18.25 billion expected, per Grand View Research",
+      "online_channel_share_context": "2025: offline channels were 61.82% of the US office furniture market, implying online channels were about 38.18% in that source's distribution-channel view",
+      "furniture_retail_sales_context": "2026 May: furniture and home furnishings store retail sales were $11.326 billion seasonally adjusted",
+      "corporate_profit_driver": "2025: US corporate profits were $4.0775 trillion; 2026 Q1: $4.4265 trillion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $12.4 billion estimated from the baseline's 2021 revenue of $11.623 billion and projected 2021-2026 CAGR",
+      "growth": "2022: 6.5% projected annual growth under the baseline 2021-2026 outlook",
+      "baseline_note": "The source file was last updated in 2021 and projected industry revenue reaching $16.0 billion by 2026."
+    },
+    "how_it_makes_money": "Operators earn revenue by selling office furniture online to consumers, remote workers, small businesses, schools, professional services firms and corporate procurement teams. Revenue comes from product markups, private-label goods, marketplace commissions, shipping and assembly fees, B2B contract pricing, financing or warranty add-ons, and repeat replenishment of seating, desks and modular storage. Large platforms compete on assortment, reviews, pricing, delivery speed and returns, while specialist retailers compete on ergonomics, customization, bulk ordering and workplace design support.",
+    "cost_structure": "The largest costs are merchandise purchases from manufacturers and wholesalers, parcel and freight shipping, warehousing, returns handling, payment processing, marketing and customer acquisition. Bulky items create high last-mile and damage costs, while price comparison across marketplaces limits gross margin. Labor is concentrated in merchandising, customer service, fulfillment coordination, B2B sales and technology. Profitability depends on supplier terms, private-label mix, delivery density, return rates, paid-search efficiency and the ability to pass freight and tariff-related costs into prices.",
+    "major_players": [
+      "Amazon Business",
+      "Wayfair Professional",
+      "Staples",
+      "Office Depot and ODP Business Solutions",
+      "Walmart Marketplace",
+      "IKEA Business",
+      "Uline",
+      "Global Industrial",
+      "National Business Furniture",
+      "Branch Furniture"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions. Consumer home-office buying has cooled from the 2020-2021 surge, but hybrid work has made desks, ergonomic chairs and compact storage normal replacement purchases. Business demand is improving as corporate profits rise and the office market shows positive absorption, with CBRE reporting 2026 Q2 office net absorption of 12.6 million square feet and a lower 18.3% vacancy rate. Online channels continue to gain share, helped by procurement portals and marketplace breadth, but shipping-heavy furniture economics remain difficult. ODP's 2025 year-to-date results show pressure in traditional office products channels, while Wayfair's 2025 US revenue growth shows large online furniture platforms can regain momentum despite category softness.",
+    "whats_growing": [
+      "2025-2026: ergonomic chairs, sit-stand desks and accessories tied to hybrid work and wellness",
+      "2025-2026: B2B digital procurement, contract pricing and next-day delivery for small and midsize businesses",
+      "2025-2026: modular storage, shelving and space-flexible products for smaller office footprints",
+      "2025-2026: marketplace and private-label assortments that improve selection and margin control",
+      "2026: office refresh projects tied to improving leasing activity and flight-to-quality buildings"
+    ],
+    "whats_shrinking": [
+      "2025-2026: pandemic-era one-time home-office setup demand",
+      "2025-2026: commodity furniture sold without delivery, installation or service differentiation",
+      "2025-2026: large legacy cubicle-heavy layouts in offices reducing square footage per employee",
+      "2025: traditional office-supply retail channels, with ODP Business Solutions year-to-date external sales down 7% and Office Depot Division external sales down 12% through 2025 Q3",
+      "2025-2026: margin from free shipping on bulky low-price furniture as freight and return costs remain high"
+    ],
+    "recent_developments": [
+      "2025 Q1: US e-commerce reached 16.0% of total retail sales, supporting continued online furniture penetration.",
+      "2025: Wayfair reported full-year US net revenue of $11.0 billion, up 5.8% year over year.",
+      "2025 Q3: ODP Business Solutions year-to-date external sales were $2.568 billion, down 7% from 2024 YTD.",
+      "2026 Q1: US e-commerce reached 16.9% of total retail sales, up from 16.7% in 2025 Q4.",
+      "2026 Q2: CBRE reported US office net absorption of 12.6 million square feet and overall vacancy down to 18.3%.",
+      "2026 May: US furniture and home furnishings store retail sales were $11.326 billion seasonally adjusted."
+    ],
+    "outlook": "Revenue should keep expanding through 2026, but growth is more disciplined than the pandemic period. The strongest demand will come from hybrid-work replacement cycles, small-business formation, renewed office leasing, ergonomic upgrades and B2B procurement digitization. Margin pressure will remain from freight, returns, discounts, tariffs and marketplace advertising costs. Operators with delivery scale, private-label sourcing, business accounts and installation partnerships are positioned better than pure resellers. A sharper downturn in corporate profits, housing turnover or office employment would slow growth, while continued office-market recovery and higher e-commerce penetration would support upside.",
+    "themes": [
+      "Hybrid work normalization",
+      "Ergonomic furniture",
+      "B2B e-procurement",
+      "Marketplace competition",
+      "Last-mile freight costs",
+      "Office flight to quality",
+      "Private-label sourcing",
+      "Corporate profit sensitivity",
+      "Home-office replacement cycle",
+      "Returns and reverse logistics"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline file: online-office-furniture-sales.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-office-furniture-sales.txt', 'notes': '2021 IBISWorld-style baseline with 2021 revenue of $11.623 billion and 2026 projection of $16.0 billion.'}",
+      "{'name': 'FRED / US Census Bureau, E-Commerce Retail Sales as a Percent of Total Sales', 'url': 'https://fred.stlouisfed.org/series/ECOMPCTSA', 'notes': '2025 Q1-Q4 and 2026 Q1 e-commerce share of total retail sales.'}",
+      "{'name': 'CBRE, Q2 2026 U.S. Office Market Report', 'url': 'https://www.cbre.com/insights/figures/q2-2026-us-office-market-report', 'notes': '2026 Q2 office absorption, leasing, vacancy, construction and rent data.'}",
+      "{'name': 'Wayfair, Fourth Quarter and Full Year 2025 Results', 'url': 'https://investor.wayfair.com/news/news-details/2026/Wayfair-Announces-Fourth-Quarter-and-Full-Year-2025-Results-Reports-Further-Share-Capture-and-Strong-Profitability/default.aspx', 'notes': '2025 revenue, US revenue growth, active customers, gross profit and average order value.'}",
+      "{'name': 'The ODP Corporation, Third Quarter 2025 Results', 'url': 'https://newsroom.officedepot.com/news-releases/news-release-details/odp-corporation-announces-third-quarter-2025-results', 'notes': '2025 Q3 and year-to-date sales trends for ODP Business Solutions, Office Depot and Veyer.'}",
+      "{'name': 'BEA, Corporate Profits', 'url': 'https://www.bea.gov/data/income-saving/corporate-profits', 'notes': '2025 annual and 2026 Q1 corporate profit driver data.'}",
+      "{'name': 'FRED / US Census Bureau, Retail Sales: Furniture and Home Furnishings Stores', 'url': 'https://fred.stlouisfed.org/series/MRTSSM442USS', 'notes': '2026 monthly furniture and home furnishings retail sales context.'}",
+      "{'name': 'Grand View Research, U.S. Office Furniture Market', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-office-furniture-market', 'notes': '2025 and 2026 total US office furniture market context and distribution-channel shares.'}",
+      "{'name': 'Amazon 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm', 'notes': '2025 US net sales context for the largest e-commerce marketplace.'}"
+    ],
+    "one_sentence": "The Online Office Furniture Sales industry sells office furniture through websites and digital procurement channels, benefiting from rising e-commerce penetration and renewed office leasing while facing softer big-ticket furniture demand, high fulfillment costs and intense marketplace competition.",
+    "slug": "online-office-furniture-sales"
+  },
+  {
+    "title": "Online Original Design T-Shirt Sales",
+    "sector": "Retail",
+    "one_liner": "Online sellers of original and custom-designed T-shirts are growing modestly as apparel spending keeps shifting online, but price competition, creator-platform saturation and fulfillment costs cap margins.",
+    "overview": "This industry covers online-only or primarily online sellers of original-design T-shirts and adjacent custom apparel, including curated artist marketplaces, crowd-voted design sites, print-on-demand creator shops and direct custom-gear platforms. Demand is supported by online apparel adoption, mobile ordering, creator commerce, group events, small-business branding and workplace swag budgets. The market remains fragmented because design tools, Shopify integrations and print-on-demand networks make entry easy, while scale advantages sit in paid search, marketplace traffic, production routing, blank apparel purchasing, customer service and reliable delivery windows. The post-2021 environment is healthier than the COVID disruption period, but growth is no longer explosive: online apparel is still expanding, yet consumers are value-sensitive and platforms face intense competition from Etsy, Amazon Merch on Demand, TikTok Shop, fast-fashion marketplaces and local screen printers.",
+    "key_stats": {
+      "market_size": "2026 estimated US industry revenue: $673.7 million; 2025 estimated US industry revenue: about $654 million; 2021 baseline revenue: $582.4 million.",
+      "growth": "2026 estimated annual growth: about 3.0%; 2021-2026 baseline forecast CAGR: 3.0%; 2025 total US retail e-commerce sales grew 5.4% to $1.2337 trillion; Q1 2026 US retail e-commerce sales grew 9.8% year over year to $326.7 billion.",
+      "online_apparel_context": "2025 US online apparel, footwear and accessories spending estimated at $201.1 billion, up 9.3%; 2026 estimated at $219.0 billion, up 8.9%.",
+      "ecommerce_penetration": "2025 US online apparel penetration estimated at 36.4%; 2026 estimated at 38.4%.",
+      "profitability": "2021 baseline profit margin was 3.1%; 2026 margins remain pressured by blank garment costs, paid acquisition, discounts, shipping and returns.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "IBISWorld baseline file, last updated January 28, 2022, estimated 2021 revenue at $582.4 million in 2021 dollars.",
+      "growth": "IBISWorld baseline file estimated 2021 growth at 4.4%, 2016-2021 CAGR at 5.5%, and 2021-2026 forecast CAGR at 3.0% to $673.7 million.",
+      "profit": "2021 baseline profit was $18.0 million and profit margin was 3.1%.",
+      "establishments": "2021 baseline establishments: 280; 2026 forecast companies: 358.",
+      "employment": "2021 baseline employment: 662 workers; 2026 forecast employment: 804 workers."
+    },
+    "how_it_makes_money": "Operators earn revenue from finished T-shirt and apparel sales, group-order markups, artist-shop or marketplace take rates, design services, rush production fees, shipping fees, B2B swag programs, fundraising campaign fees and upsells into hoodies, hats, bags, drinkware and other promotional products. Print-on-demand models reduce inventory risk by producing after purchase, while larger custom platforms add margin through blank-garment purchasing scale, decoration technology, account management and enterprise fulfillment.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket; includes blank T-shirts, ink, transfer materials, decoration supplies, outsourced printing and packaging. Cotton and apparel input volatility still matters, although 2025 cotton prices were weak relative to production costs.",
+      "fulfillment_and_shipping": "Meaningful and rising cost; includes pick-pack labor, carrier charges, free-shipping promotions, rush delivery and international customs complexity.",
+      "marketing": "High and competitive; paid search, social ads, marketplace promotions, affiliate fees and creator payouts are essential for customer acquisition.",
+      "wages": "Moderate; design support, customer service, engineering, merchandising, production coordination and enterprise account teams.",
+      "technology": "Includes web storefronts, design labs, mobile optimization, AI design tools, order routing, fraud prevention and marketplace moderation.",
+      "profit": "Thin for small sellers and marketplaces with paid-acquisition dependence; stronger for scaled platforms with repeat B2B/group buyers, efficient DTG routing and low inventory exposure."
+    },
+    "major_players": [
+      "Custom Ink",
+      "Threadless",
+      "TeePublic",
+      "Redbubble",
+      "CafePress",
+      "Spreadshirt",
+      "Printful/Printify",
+      "Amazon Merch on Demand",
+      "Etsy custom apparel sellers"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026. Demand-side fundamentals are favorable because apparel e-commerce continues to gain share and organizations are buying branded gear for teams, onboarding, events and recognition. Supply-side competition is harsher because print-on-demand infrastructure is widely available, creator storefronts are easy to launch and marketplaces compete heavily on price and delivery speed. Larger platforms are repositioning away from T-shirts alone toward full swag catalogs, while artist-led platforms emphasize community, sustainability and creator monetization. Import policy and de minimis changes add uncertainty for sellers using cross-border low-value shipments, but US-based printing and domestic fulfillment become more attractive.",
+    "whats_growing": [
+      "B2B and team-order use cases such as employee recognition, onboarding kits, client gifts and event merchandise.",
+      "Print-on-demand and direct-to-garment production that reduce finished-goods inventory and allow broader catalogs.",
+      "Creator-owned storefronts and artist shops with hundreds of product canvases beyond T-shirts.",
+      "Mobile-first ordering, AI-assisted design, automated proofing and production routing.",
+      "Higher-quality blanks, brand-name apparel and low-minimum sample ordering for enterprise buyers."
+    ],
+    "whats_shrinking": [
+      "Pure novelty T-shirt sites that rely on one-off consumer traffic and discounting.",
+      "Large speculative inventory runs of unproven designs.",
+      "Margin from free shipping, broad promotions and paid-search-dependent customer acquisition.",
+      "Undifferentiated marketplace listings exposed to Amazon, Etsy, TikTok Shop and fast-fashion price competition.",
+      "Cross-border low-value shipping advantages after 2025 de minimis policy changes."
+    ],
+    "recent_developments": [
+      "Nov. 5, 2024: Printful and Printify announced a merger, combining major print-on-demand production and platform networks while keeping both brands.",
+      "July 24, 2025: ASI ranked Custom Ink No. 5 among 2025 promotional-products distributors and estimated 2024 revenue at $650.0 million, flat from 2023.",
+      "Aug. 14, 2025: Articore, owner of Redbubble and TeePublic, reported FY2025 marketplace revenue down 10.4% to A$379.1 million while gross profit margin improved to 45.6%.",
+      "Aug. 29, 2025: US duty-free de minimis treatment for low-value shipments was suspended globally, raising landed-cost and compliance pressure for cross-border apparel sellers.",
+      "Feb. 23, 2026: Custom Ink launched its first major brand refresh in 15 years and said its catalog exceeded 10,000 products, including more than 1,000 products with one-unit minimums.",
+      "May 18, 2026: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales."
+    ],
+    "outlook": "Revenue should keep rising through 2026, but at a measured low-single-digit industry pace rather than the high-growth rates seen earlier in e-commerce adoption. The most resilient operators will pair simple online design tools with reliable domestic fulfillment, brand-name product options, creator communities or repeat B2B accounts. Growth will be strongest in team merchandise, creator microbrands and low-minimum print-on-demand programs. Risks include consumer trade-down, paid-ad inflation, IP enforcement, marketplace fee pressure, tariff uncertainty, shipping costs and the ease with which new sellers can copy winning designs or undercut prices.",
+    "themes": [
+      "E-commerce penetration",
+      "Print-on-demand",
+      "Creator economy",
+      "B2B swag",
+      "Direct-to-garment printing",
+      "Mobile commerce",
+      "AI design tools",
+      "Fragmented competition",
+      "Tariff and de minimis risk",
+      "Sustainability and low-waste production"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: online-original-design-t-shirt-sales.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-original-design-t-shirt-sales.txt', 'used_for': '2021 revenue, growth, profit, establishments, employment and 2026 forecast baseline.'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales, Q4 2025', 'url': 'https://www2.census.gov/retail/releases/historical/ecomm/25q4.pdf', 'used_for': '2025 US retail e-commerce sales of $1.2337 trillion, 5.4% annual growth and 16.4% e-commerce share.'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales, Q1 2026', 'url': 'https://www2.census.gov/retail/releases/historical/ecomm/26q1.pdf', 'used_for': 'Q1 2026 retail e-commerce sales of $326.7 billion, 9.8% year-over-year growth and 16.9% share.'}",
+      "{'name': 'Coresight Research Market Sizes Databank', 'url': 'https://coresight.com/market-sizes-databank/', 'used_for': '2025 and 2026 US online apparel, footwear and accessories spending and e-commerce penetration estimates.'}",
+      "{'name': 'ASI Counselor Top 40 Distributors 2025: Custom Ink', 'url': 'https://members.asicentral.com/news/awards/july-2025/counselor-top-40-distributors-2025-no-5-custom-ink/', 'used_for': 'Custom Ink 2024 estimated revenue, leadership changes and DTG production shift.'}",
+      "{'name': 'Articore Group FY2025 Appendix 4E summary', 'url': 'https://investorpa.com/announcement/172622/', 'used_for': 'FY2025 Redbubble/TeePublic parent marketplace revenue decline and margin improvement.'}",
+      "{'name': 'Threadless 25th anniversary announcement', 'url': 'https://blog.threadless.com/threadless-celebrates-25-years-of-artist-empowerment-and-creative-innovation/', 'used_for': '2025 Threadless marketplace, Artist Shops, creator community and print-on-demand positioning.'}",
+      "{'name': 'Printful and Printify merger announcement', 'url': 'https://www.printful.com/uk/news/merger', 'used_for': '2024 print-on-demand platform consolidation and fulfillment network scale.'}",
+      "{'name': 'Custom Ink brand refresh announcement', 'url': 'https://www.globenewswire.com/news-release/2026/02/23/3242677/0/en/custom-ink-launches-first-major-brand-refresh-in-15-years.html', 'used_for': '2026 catalog expansion, B2B swag positioning and one-unit minimums.'}",
+      "{'name': 'US de minimis low-value shipment policy summary', 'url': 'https://www.tid.gov.hk/en/tradecircular/2025/ci6652025.html', 'used_for': '2025 suspension of duty-free de minimis treatment for low-value shipments globally.'}"
+    ],
+    "one_sentence": "The US Online Original Design T-Shirt Sales industry sells artist-designed, custom and print-on-demand T-shirts through web and mobile storefronts, with 2026 revenue estimated near $674 million after slower post-pandemic normalization than the broader online apparel market.",
+    "slug": "online-original-design-t-shirt-sales"
+  }
+]

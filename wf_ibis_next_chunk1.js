@@ -1,0 +1,63 @@
+export const meta = {
+  name: 'ibis-next-chunk1',
+  description: 'Deep 2025-2026 web-researched plain-English briefs for a batch of US IBIS industries (model-agnostic workflow)',
+  phases: [{ title: 'Research', detail: 'one model-configured agent per industry: read 2022 baseline + web-research current' }],
+}
+
+// args = { items: [ { title, slug, file } ... ] }
+const items = [{"title": "Air Gun & Airsoft Gun Manufacturing", "slug": "air-gun-and-airsoft-gun-manufacturing", "file": "./txt_full/air-gun-and-airsoft-gun-manufacturing.txt"}, {"title": "Aircraft, Marine & Railroad Transportation Equipment Wholesaling in the US", "slug": "aircraft-marine-and-railroad-transportation-equipment-wholesaling-in-the-us", "file": "./txt_full/aircraft-marine-and-railroad-transportation-equipment-wholesaling-in-the-us.txt"}, {"title": "Alarm, Horn & Traffic Control Equipment Manufacturing in the US", "slug": "alarm-horn-and-traffic-control-equipment-manufacturing-in-the-us", "file": "./txt_full/alarm-horn-and-traffic-control-equipment-manufacturing-in-the-us.txt"}, {"title": "Allergy Medicine Manufacturing OTC", "slug": "allergy-medicine-manufacturing-otc", "file": "./txt_full/allergy-medicine-manufacturing-otc.txt"}, {"title": "Ambulance Manufacturing", "slug": "ambulance-manufacturing", "file": "./txt_full/ambulance-manufacturing.txt"}, {"title": "Animal Food Production in the US", "slug": "animal-food-production-in-the-us", "file": "./txt_full/animal-food-production-in-the-us.txt"}, {"title": "Animal Rescue Shelters", "slug": "animal-rescue-shelters", "file": "./txt_full/animal-rescue-shelters.txt"}, {"title": "Antiseptic Manufacturing", "slug": "antiseptic-manufacturing", "file": "./txt_full/antiseptic-manufacturing.txt"}, {"title": "Apparel Knitting Mills in the US", "slug": "apparel-knitting-mills-in-the-us", "file": "./txt_full/apparel-knitting-mills-in-the-us.txt"}, {"title": "Arcade, Food & Entertainment Complexes in the US", "slug": "arcade-food-and-entertainment-complexes-in-the-us", "file": "./txt_full/arcade-food-and-entertainment-complexes-in-the-us.txt"}, {"title": "Art & Office Supply Manufacturing in the US", "slug": "art-and-office-supply-manufacturing-in-the-us", "file": "./txt_full/art-and-office-supply-manufacturing-in-the-us.txt"}, {"title": "Art Dealers in the US", "slug": "art-dealers-in-the-us", "file": "./txt_full/art-dealers-in-the-us.txt"}, {"title": "Artificial Grass Turf Installation", "slug": "artificial-grass-turf-installation", "file": "./txt_full/artificial-grass-turf-installation.txt"}, {"title": "Arts, Entertainment and Recreation in the US", "slug": "arts-entertainment-and-recreation-in-the-us", "file": "./txt_full/arts-entertainment-and-recreation-in-the-us.txt"}, {"title": "Audio & Video Equipment Distributors", "slug": "audio-and-video-equipment-distributors", "file": "./txt_full/audio-and-video-equipment-distributors.txt"}, {"title": "Audio & Video Equipment Manufacturing in the US", "slug": "audio-and-video-equipment-manufacturing-in-the-us", "file": "./txt_full/audio-and-video-equipment-manufacturing-in-the-us.txt"}, {"title": "Audio Production Studios in the US", "slug": "audio-production-studios-in-the-us", "file": "./txt_full/audio-production-studios-in-the-us.txt"}, {"title": "Audiobook Publishing", "slug": "audiobook-publishing", "file": "./txt_full/audiobook-publishing.txt"}, {"title": "Auto Glass Repair & Replacement Franchises", "slug": "auto-glass-repair-and-replacement-franchises", "file": "./txt_full/auto-glass-repair-and-replacement-franchises.txt"}, {"title": "Auto Maintenance & Repair Franchises", "slug": "auto-maintenance-and-repair-franchises", "file": "./txt_full/auto-maintenance-and-repair-franchises.txt"}, {"title": "Auto Windshield Repair Services", "slug": "auto-windshield-repair-services", "file": "./txt_full/auto-windshield-repair-services.txt"}, {"title": "Automatic Fire Sprinkler System Manufacturing", "slug": "automatic-fire-sprinkler-system-manufacturing", "file": "./txt_full/automatic-fire-sprinkler-system-manufacturing.txt"}, {"title": "Automotive Coatings Manufacturing", "slug": "automotive-coatings-manufacturing", "file": "./txt_full/automotive-coatings-manufacturing.txt"}, {"title": "BBQ & Outdoor Cooking Stores", "slug": "bbq-and-outdoor-cooking-stores", "file": "./txt_full/bbq-and-outdoor-cooking-stores.txt"}, {"title": "BBQ Charcoal Manufacturing", "slug": "bbq-charcoal-manufacturing", "file": "./txt_full/bbq-charcoal-manufacturing.txt"}, {"title": "BBQ Sauce Production", "slug": "bbq-sauce-production", "file": "./txt_full/bbq-sauce-production.txt"}, {"title": "Backpack & Courier Bag Manufacturing", "slug": "backpack-and-courier-bag-manufacturing", "file": "./txt_full/backpack-and-courier-bag-manufacturing.txt"}, {"title": "Bagel Stores", "slug": "bagel-stores", "file": "./txt_full/bagel-stores.txt"}, {"title": "Bakery Cafes", "slug": "bakery-cafes", "file": "./txt_full/bakery-cafes.txt"}, {"title": "Barbecue & Grill Manufacturing", "slug": "barbecue-and-grill-manufacturing", "file": "./txt_full/barbecue-and-grill-manufacturing.txt"}, {"title": "Barber Shops", "slug": "barber-shops", "file": "./txt_full/barber-shops.txt"}, {"title": "Bare Printed Circuit Board Manufacturing", "slug": "bare-printed-circuit-board-manufacturing", "file": "./txt_full/bare-printed-circuit-board-manufacturing.txt"}, {"title": "Battery Store Franchises", "slug": "battery-store-franchises", "file": "./txt_full/battery-store-franchises.txt"}, {"title": "Bed & Mattress Stores", "slug": "bed-and-mattress-stores", "file": "./txt_full/bed-and-mattress-stores.txt"}, {"title": "Billboard & Sign Manufacturing in the US", "slug": "billboard-and-sign-manufacturing-in-the-us", "file": "./txt_full/billboard-and-sign-manufacturing-in-the-us.txt"}, {"title": "Bleach Manufacturing", "slug": "bleach-manufacturing", "file": "./txt_full/bleach-manufacturing.txt"}, {"title": "Blow Molding Machinery Manufacturing", "slug": "blow-molding-machinery-manufacturing", "file": "./txt_full/blow-molding-machinery-manufacturing.txt"}, {"title": "Body Piercing Studios", "slug": "body-piercing-studios", "file": "./txt_full/body-piercing-studios.txt"}, {"title": "Mattress Manufacturing in the US", "slug": "mattress-manufacturing-in-the-us", "file": "./txt_full/mattress-manufacturing-in-the-us.txt"}, {"title": "Boxing Gyms & Clubs", "slug": "boxing-gyms-and-clubs", "file": "./txt_full/boxing-gyms-and-clubs.txt"}, {"title": "Boxing Promoters", "slug": "boxing-promoters", "file": "./txt_full/boxing-promoters.txt"}, {"title": "Bridal Stores", "slug": "bridal-stores", "file": "./txt_full/bridal-stores.txt"}, {"title": "Buffet Restaurants", "slug": "buffet-restaurants", "file": "./txt_full/buffet-restaurants.txt"}, {"title": "Building Inspectors in the US", "slug": "building-inspectors-in-the-us", "file": "./txt_full/building-inspectors-in-the-us.txt"}, {"title": "Burger Restaurants", "slug": "burger-restaurants", "file": "./txt_full/burger-restaurants.txt"}, {"title": "CBD Product Manufacturing in the US", "slug": "cbd-product-manufacturing-in-the-us", "file": "./txt_full/cbd-product-manufacturing-in-the-us.txt"}, {"title": "CRM System Providers", "slug": "crm-system-providers", "file": "./txt_full/crm-system-providers.txt"}, {"title": "Cable Shopping Networks", "slug": "cable-shopping-networks", "file": "./txt_full/cable-shopping-networks.txt"}, {"title": "Camera & Film Wholesaling in the US", "slug": "camera-and-film-wholesaling-in-the-us", "file": "./txt_full/camera-and-film-wholesaling-in-the-us.txt"}, {"title": "Card Reward Program Services", "slug": "card-reward-program-services", "file": "./txt_full/card-reward-program-services.txt"}, {"title": "Celebrity & Sports Agents in the US", "slug": "celebrity-and-sports-agents-in-the-us", "file": "./txt_full/celebrity-and-sports-agents-in-the-us.txt"}, {"title": "Cell Phone Recycling", "slug": "cell-phone-recycling", "file": "./txt_full/cell-phone-recycling.txt"}, {"title": "Cell Phone Repair", "slug": "cell-phone-repair", "file": "./txt_full/cell-phone-repair.txt"}, {"title": "Cell Therapy", "slug": "cell-therapy", "file": "./txt_full/cell-therapy.txt"}, {"title": "Cementing Oil & Gas Well Services", "slug": "cementing-oil-and-gas-well-services", "file": "./txt_full/cementing-oil-and-gas-well-services.txt"}, {"title": "Child Education & Developmental Center Franchises", "slug": "child-education-and-developmental-center-franchises", "file": "./txt_full/child-education-and-developmental-center-franchises.txt"}, {"title": "Children's Book Publishing", "slug": "childrens-book-publishing", "file": "./txt_full/childrens-book-publishing.txt"}, {"title": "Children's Fitness Center Franchises", "slug": "childrens-fitness-center-franchises", "file": "./txt_full/childrens-fitness-center-franchises.txt"}, {"title": "Children's Specialty Hospitals", "slug": "childrens-specialty-hospitals", "file": "./txt_full/childrens-specialty-hospitals.txt"}, {"title": "Chinese Restaurants", "slug": "chinese-restaurants", "file": "./txt_full/chinese-restaurants.txt"}]
+
+const SCHEMA = {
+  type: 'object',
+  required: ['title','sector','one_liner','overview','key_stats','current_dynamics','one_sentence'],
+  properties: {
+    title: { type: 'string' },
+    sector: { type: 'string', description: 'ONE of: Agriculture | Manufacturing | Construction | Retail | Food & Drink | Healthcare | Finance & Insurance | Technology & Digital | Energy & Environment | Business Services | Consumer Services | Media & Entertainment | Transport & Logistics | Real Estate' },
+    one_liner: { type: 'string' },
+    overview: { type: 'string', description: '3-4 plain sentences on the CURRENT 2025-2026 state' },
+    key_stats: {
+      type: 'object',
+      required: ['market_size','growth'],
+      properties: {
+        market_size: { type: 'string', description: 'latest $ WITH year' },
+        growth: { type: 'string' }, businesses: { type: 'string' }, employees: { type: 'string' },
+        profit_margin: { type: 'string' }, concentration: { type: 'string' },
+      },
+    },
+    baseline_2022: {
+      type: 'object', required: ['market_size','growth'],
+      properties: { market_size: { type: 'string' }, growth: { type: 'string' } },
+    },
+    how_it_makes_money: { type: 'string' },
+    cost_structure: { type: 'string' },
+    major_players: { type: 'array', items: { type: 'string' } },
+    current_dynamics: { type: 'string', description: '4-6 plain sentences of real depth on what is happening now' },
+    whats_growing: { type: 'string' },
+    whats_shrinking: { type: 'string' },
+    recent_developments: { type: 'array', items: { type: 'string' }, description: '3-6 dated 2023-2026 events' },
+    outlook: { type: 'string' },
+    themes: { type: 'array', items: { type: 'string' }, description: '4-6 short reusable force tags' },
+    data_year: { type: 'string' },
+    sources: { type: 'array', items: { type: 'string' } },
+    one_sentence: { type: 'string' },
+  },
+}
+
+function prompt(it) {
+  return (
+`Produce a CURRENT (2025-2026) plain-English brief on the US "${it.title}" industry, with real depth on its present dynamics.
+
+TWO INPUTS:
+1) A 2022 IBISWorld report (baseline only) at this local file — read it for structure and the 2022 figures: ${it.file}
+2) THE WEB — you MUST use your WebSearch and WebFetch tools to research the CURRENT state (2024, 2025, 2026): latest market size and growth, recent company moves / M&A / bankruptcies, the main forces disrupting or reshaping the industry right now (technology, regulation, consumer shifts, macro/tariffs), current competitive dynamics, and the 2025-2026 outlook. Attach a YEAR to every number. If a search returns nothing useful, use your own most recent knowledge and label the year — but genuinely try the web first.
+
+Write in plain, everyday English: short sentences, no jargon, no clichés. Every number must carry its year. Do NOT present 2022 figures as current. Put the 2022 report's revenue and 5-yr growth in baseline_2022. Do NOT spawn sub-agents or use the deep-research skill.`
+  )
+}
+
+phase('Research')
+const briefs = await parallel(items.map(it => () =>
+  agent(prompt(it), { label: `ibis:${it.slug}`, phase: 'Research', schema: SCHEMA })
+    .then(b => (b ? { ...b, slug: it.slug } : null))
+))
+return briefs.filter(Boolean)

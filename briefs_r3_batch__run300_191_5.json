@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Hunting & Trapping in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented $1.1 billion 2025 industry built around paid hunting, fishing and game preserves, with commercial fur trapping still under pressure.",
+    "overview": "The industry includes commercial hunting preserves, game preserves, fishing preserves, game propagation businesses and commercial trappers. Commercial hunting for sale of carcasses is largely restricted under federal law, so revenue is concentrated in paid access, guided hunts, lodging-adjacent preserve services, fishing preserve fees, game stocking and limited fur-related trapping. IBISWorld estimated 2025 market size at $1.1 billion after revenue reached $1.13 billion in 2024, with 2019-2024 CAGR of 2.9% and 2024 growth of 1.9%. Demand is supported by higher-income recreational hunters, scarcity of uncrowded free hunting land, corporate and destination trips, and the broader outdoor recreation economy; BEA reported 2024 hunting/shooting/trapping value added of $16.5 billion within outdoor recreation. Constraints are structural: hunter demographics skew older, urbanization reduces exposure to hunting, animal welfare scrutiny affects trapping and canned-hunt models, and disease management can alter seasons, bag limits and preserve operations.",
+    "key_stats": {
+      "market_size": "$1.1 billion in 2025",
+      "growth": "2.9% CAGR from 2019 to 2024; 1.9% annual growth in 2024",
+      "revenue_2024": "$1.13 billion in 2024",
+      "businesses": "17,751 businesses in 2024",
+      "employment": "19,474 employees in 2024",
+      "license_tax_collections": "$2.041 billion in 2025 US state hunting and fishing license tax collections, up from $1.991 billion in 2024",
+      "participation": "14.4 million US residents hunted in 2022; 40.0 million fished in 2022",
+      "outdoor_recreation_context": "$16.5 billion hunting/shooting/trapping value added in 2024; $696.7 billion total outdoor recreation value added in 2024",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "about $898 million in 2022, implied from the November 2021 IBISWorld baseline of $890.1 million in 2021 and 0.8% projected annual growth to 2026",
+      "growth": "0.8% projected annual growth for 2021-2026 in the baseline report",
+      "revenue_2021": "$890.1 million in 2021",
+      "profit_margin_2021": "9.4% in 2021",
+      "establishments_2021": "15,723 establishments in 2021",
+      "enterprises_2021": "15,620 enterprises in 2021",
+      "employment_2021": "17,278 workers in 2021",
+      "wages_2021": "$223.6 million in 2021"
+    },
+    "how_it_makes_money": {
+      "paid_access": "Daily, seasonal or package fees charged by hunting, game and fishing preserves in 2025.",
+      "guided_services": "Guided hunts, training, tracking, equipment support and managed harvest packages sold to recreational hunters in 2025.",
+      "lodging_and_hospitality": "Premium preserves bundle lodging, meals, corporate retreats and outfitter-style amenities in 2025.",
+      "stocking_and_game_management": "Game propagation and preserve stocking services support controlled hunting and fishing experiences in 2025.",
+      "trapping_and_fur": "Commercial trappers earn from pelts and nuisance-control-adjacent trapping, but fur revenue remains weak in 2025."
+    },
+    "cost_structure": {
+      "labor": "Wages for guides, preserve staff, animal care, land management and hospitality support are a major cost; baseline wages were $223.6 million in 2021 and IBIS projected $236.0 million by 2026.",
+      "land_and_access": "Operators carry land leases, property taxes, habitat management, fencing, trail and access costs in 2025.",
+      "feed_and_stocking": "Feed, animal stocking, veterinary care and habitat inputs are meaningful preserve costs; IBIS identified feed prices as a key input in the 2021 baseline.",
+      "insurance_and_compliance": "Liability insurance, licensing, permitting, hunter-safety compliance and wildlife-reporting costs remain material in 2025.",
+      "equipment_and_maintenance": "Vehicles, blinds, kennels, boats, traps, firearms-related safety infrastructure and facility upkeep shape operating margins in 2025.",
+      "profitability": "IBIS reported a 9.4% industry profit margin in 2021; 2025 margins are supported by premium packages but pressured by labor, insurance and compliance costs."
+    },
+    "major_players": [
+      "No company held enough 2024 market share for IBISWorld to list a major national player",
+      "Independent hunting and game preserves",
+      "Fishing preserve operators",
+      "Game propagation businesses",
+      "Small commercial fur trappers",
+      "Regional outfitters and guide-service operators"
+    ],
+    "current_dynamics": "The 2025 market is steadier than the pandemic surge years. IBISWorld shows revenue at $1.13 billion in 2024 and $1.1 billion in 2025, indicating a small but resilient market rather than rapid expansion. License-related public data remain supportive: US state hunting and fishing license tax collections rose to $2.041 billion in 2025 from $1.991 billion in 2024. Premium preserves are benefiting from higher disposable-income customers and demand for organized, less crowded access, while lower-end trapping is pressured by poor 2025 utility-fur prices and limited demand. Regulation is becoming more localized and biologically driven, with 2025-2026 migratory bird limits, chronic wasting disease rules, EHD-related deer closures and state-level fee changes affecting where and how hunters participate.",
+    "whats_growing": [
+      "Premium preserve packages with lodging, meals, guided hunts and corporate retreat features in 2025",
+      "Paid private-land access as free or uncrowded hunting land remains scarce in 2025",
+      "Fishing preserves and mixed hunting/fishing packages tied to broader outdoor recreation spending in 2025",
+      "Technology-enabled services such as online booking, trail-camera scouting, GPS mapping and managed-harvest support in 2025",
+      "Conservation-funded access and hunter education supported by 2026 Wildlife and Sport Fish Restoration apportionments"
+    ],
+    "whats_shrinking": [
+      "Commercial fur trapping tied to low 2025 utility-fur demand and weak global fur consumption",
+      "Canned-hunt and fair-chase-sensitive preserve models facing regulatory and reputational pressure in 2025",
+      "Youth recruitment relative to older hunter cohorts, a structural constraint noted in the baseline and still relevant in 2025",
+      "Hunting opportunities in disease-affected areas where 2025-2026 CWD or EHD rules shorten seasons, add testing or close zones",
+      "Low-margin small operators exposed to labor, insurance, feed and compliance cost inflation in 2025"
+    ],
+    "recent_developments": [
+      "2025-01-15: USFWS published FY2025 Wildlife Restoration final apportionment materials tied to hunting-license and excise-tax funding formulas.",
+      "2025-03-27: Trapping Today’s 2025 fur market report said utility fur items had poor prices while specialty pelts performed better.",
+      "2025-04-16: Washington adopted permanent 2025 hunting-rule changes responding to chronic wasting disease detection in deer-family populations.",
+      "2025-08-25: USFWS finalized 2025-26 migratory game bird hunting seasons, areas, hours and bag limits.",
+      "2026-01-27: Iowa DNR reported 2025 license sales including 42,868 resident annual hunting licenses and 13,929 resident adult furharvester annual licenses.",
+      "2026-03-05: BEA reported 2024 hunting/shooting/trapping value added of $16.5 billion within the US outdoor recreation economy."
+    ],
+    "outlook": "Expect low-single-digit growth through 2026-2030, led by premium preserves, private access, destination hunting and fishing packages, and conservation-supported outdoor access. The ceiling is limited by aging participation, urbanization, animal-welfare pressure, volatile weather and disease-management restrictions. Operators with differentiated land, habitat quality, lodging, guide talent and compliance discipline should outperform small commodity trapping and basic access-only preserves. The most defensible 2025-2026 view is stable to modest growth, not a post-pandemic boom.",
+    "themes": [
+      "Fragmented operators",
+      "Premium recreation",
+      "Private land access",
+      "Hunter recruitment challenge",
+      "Weak fur demand",
+      "Wildlife disease regulation",
+      "Outdoor recreation tailwind",
+      "Low national concentration",
+      "Animal welfare scrutiny",
+      "Conservation funding dependence"
+    ],
+    "data_year": 2025,
+    "sources": [
+      "{'name': 'IBISWorld public industry page, Hunting & Trapping in the US', 'url': 'https://www.ibisworld.com/united-states/industry/hunting-trapping/86/', 'used_for': '2024 revenue, 2025 market-size answer, 2019-2024 CAGR, 2024 businesses, 2024 employment and concentration note'}",
+      "{'name': 'Local IBISWorld baseline file, last updated November 30, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hunting-and-trapping-in-the-us.txt', 'used_for': '2021 revenue, 2021 profit margin, 2021 establishments, 2021 employment, 2021-2026 forecast and industry definition'}",
+      "{'name': 'U.S. Fish & Wildlife Service, 2022 National Survey press release', 'url': 'https://www.fws.gov/press-release/2023-10/americans-spent-394b-hunting-fishing-and-wildlife-associated-activities-22', 'used_for': '2022 hunting, fishing and wildlife recreation participation and spending context'}",
+      "{'name': 'Federal Reserve Bank of St. Louis FRED, State Government Tax Collections: Hunting and Fishing Licenses', 'url': 'https://fred.stlouisfed.org/series/USHUNTLICTAX', 'used_for': '2025 and 2024 hunting/fishing license tax collections'}",
+      "{'name': 'U.S. Bureau of Economic Analysis, Outdoor Recreation Economic Statistics 2024', 'url': 'https://www.bea.gov/index.php/news/2026/outdoor-recreation-economic-statistics-us-and-states-2024', 'used_for': '2024 outdoor recreation GDP and hunting/shooting/trapping value added'}",
+      "{'name': 'U.S. Fish & Wildlife Service, Migratory Bird Hunting 2025-26 Final Rule', 'url': 'https://www.fws.gov/federal-register-publication/migratory-bird-hunting-2025-26-seasons-certain-migratory-game-birds', 'used_for': '2025-26 migratory game bird regulatory development'}",
+      "{'name': 'Washington Department of Fish & Wildlife, 2025 CWD Hunting Regulations', 'url': 'https://wdfw.wa.gov/about/regulations/adopted/2025-hunting-regulations-chronic-wasting-disease-cwd', 'used_for': '2025 chronic wasting disease regulatory example'}",
+      "{'name': 'Iowa Department of Natural Resources, 2025 hunting and fishing license sales', 'url': 'https://www.iowadnr.gov/news-release/2026-01-27/2025-hunting-fishing-license-sales', 'used_for': '2025 state license-sales example including hunting and furharvester licenses'}",
+      "{'name': 'Trapping Today, 2025 Fur Prices Market Report', 'url': 'https://trappingtoday.com/2025-fur-prices-trapping-todays-fur-market-report/', 'used_for': '2025 wild fur market conditions'}"
+    ],
+    "one_sentence": "In 2025, Hunting & Trapping in the US is a small, mature recreation industry where premium preserves and outdoor-access spending offset weak fur demand, tighter wildlife rules and an aging hunter base.",
+    "slug": "hunting-and-trapping-in-the-us"
+  },
+  {
+    "title": "Hydraulic Fracturing Services",
+    "sector": "Energy & Environment",
+    "one_liner": "U.S. fracking contractors pump high-pressure fluid, sand and chemicals into shale and tight reservoirs, making them a cyclical but essential layer of domestic oil and gas production.",
+    "overview": "This industry provides hydraulic fracturing, pressure pumping, well stimulation and related completion services to oil and natural gas producers, mainly in unconventional basins such as the Permian, Eagle Ford, Bakken, Haynesville, Marcellus and Appalachia. The 2021 IBISWorld baseline placed 2021 industry revenue at $17.6 billion and forecast a rebound to $30.1 billion by 2026, but current public market estimates diverge widely depending on whether proppant, chemicals, equipment and integrated completion packages are included. For a current U.S. service-market anchor, Fortune Business Insights estimates the U.S. hydraulic fracturing market at $15.46 billion in 2025, while Grand View Research estimates the broader North America hydraulic fracturing market at $48.61 billion in 2025. Demand is fundamentally driven by oil and gas producers' drilling and completion budgets, WTI and Henry Hub prices, well productivity, depletion rates, basin takeaway capacity, water handling constraints and environmental regulation.",
+    "key_stats": {
+      "market_size": "$15.46 billion U.S. hydraulic fracturing market in 2025; broader North America hydraulic fracturing market estimated at $48.61 billion in 2025",
+      "growth": "5.28% global hydraulic fracturing CAGR forecast for 2026-2034; North America hydraulic fracturing CAGR forecast at 5.8% for 2026-2033",
+      "production_context": "U.S. crude oil production averaged a record 13.6 million barrels per day in 2025, up 3.0% from 2024; U.S. dry natural gas production reached a record 39 trillion cubic feet in 2025, up more than 4.0% from 2024",
+      "activity_context": "U.S. rig count was 587 on July 24, 2026, up 45 rigs from July 25, 2025",
+      "price_context": "WTI averaged $65 per barrel in 2025, down from $77 per barrel in 2024; Dallas Fed Q1 2026 respondents reported an average $66 per barrel WTI price needed to profitably drill a new well",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$19.6 billion projected 2022 revenue, derived from the 2021 IBISWorld baseline of $17.584 billion and its 2021-2026 forecast CAGR of 11.3%",
+      "growth": "11.3% projected 2022 growth under the 2021 IBISWorld forecast baseline",
+      "service_mix_2021": "62.5% hydraulic fracturing services, 22.5% super hydraulic fracturing services, 15.0% other services",
+      "customer_mix_2021": "71.2% oil drilling operations, 24.0% gas extraction operations, remainder other oil and gas support demand"
+    },
+    "how_it_makes_money": "Operators earn revenue by contracting fleets, pumps, crews, wireline coordination, chemicals, proppant handling, water logistics, engineering, software and ancillary well-stimulation services to E&P customers. Jobs are commonly priced around pump hours, stages completed, days on location, material volumes and equipment packages, so revenue rises with deployed fleet count, utilization, completion intensity, proppant volumes and premium technology such as electric or dual-fuel fleets.",
+    "cost_structure": "The cost base is heavy in variable service costs, labor, fuel, proppant, chemicals, maintenance, pressure-pumping equipment and depreciation. Liberty Energy's 2025 cost of services was $3.168 billion on $4.006 billion of revenue, or about 79.1% of revenue, while depreciation, depletion and amortization was $500.3 million, or about 12.5% of revenue. The older IBISWorld baseline put 2021 profit margin at 7.1%, reflecting high fixed costs and rate pressure during downcycles.",
+    "major_players": [
+      "Halliburton",
+      "Liberty Energy",
+      "SLB",
+      "Baker Hughes",
+      "ProPetro Holding",
+      "Patterson-UTI Energy",
+      "ProFrac Holding",
+      "RPC Inc.",
+      "Calfrac Well Services"
+    ],
+    "current_dynamics": "The market is recovering from weak 2025 service pricing but remains disciplined rather than boom-like. U.S. production reached records in 2025 despite fewer rigs and fewer wells, which points to productivity gains but limits volume growth for service firms. In 2026, higher rig counts, stronger Dallas Fed activity readings and elevated oil prices improved the near-term setup, while Permian gas takeaway constraints, produced-water handling, regulatory uncertainty and equipment supply times remain operational bottlenecks. Electric, dual-fuel and digitally automated fleets are becoming a differentiator because they reduce diesel consumption, emissions, noise and nonproductive time.",
+    "whats_growing": "Electric and hybrid frac fleets, dual-fuel dynamic gas blending pumps, plug-and-perf completions, real-time frac automation, low-emission wellsite power, wet-sand handling, integrated proppant logistics, produced-water treatment and reuse, and Permian-linked completion work are growing. Shale gas, tight oil and high-intensity horizontal wells continue to support multi-stage completions demand.",
+    "whats_shrinking": "Commodity-price-driven spot pricing power, conventional diesel-only fleets, lower-spec pressure-pumping capacity, underutilized legacy equipment, activity in regions with weak gas prices or takeaway bottlenecks, and small operators without scale or balance-sheet capacity are under pressure. Customer capital discipline also restrains purely volume-led expansion.",
+    "recent_developments": [
+      "2025: U.S. crude oil production averaged a record 13.6 million barrels per day, up 3.0% from 2024, even as Lower 48 rigs and wells drilled declined from 2024.",
+      "2025: U.S. dry natural gas production reached a record 39 trillion cubic feet, up more than 4.0% from 2024, supporting gas-basin and associated-gas completion demand.",
+      "2025: Liberty Energy revenue fell 7.0% to $4.006 billion as lower service and materials pricing offset moderately higher activity levels.",
+      "Feb. 6, 2026: Halliburton reported 2025 revenue of $22.184 billion, down 3.0% from 2024, with North America revenue down 6.0%.",
+      "Jun. 24, 2026: Dallas Fed Energy Survey business activity index jumped to 46.1 in Q2 2026, the strongest since Q2 2022, while oilfield service input costs rose sharply.",
+      "Jul. 24, 2026: Baker Hughes reported 587 active U.S. rigs, up 45 from the comparable 2025 week."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive. Higher 2026 oil prices and stronger rig counts should lift utilization and improve pricing for efficient fleets, but production growth is increasingly productivity-led rather than rig-led. The best-positioned companies are scaled providers with modern fleets, integrated sand and chemical supply, digital execution tools, strong Permian exposure and lower-emission equipment. Margin upside depends on whether service pricing catches up with labor, parts, fuel and equipment costs. Longer term, the sector faces structural support from shale depletion and energy security demand, but also persistent risk from methane rules, water regulation, local restrictions, lower commodity prices and renewable-energy substitution.",
+    "themes": [
+      "Shale productivity",
+      "Commodity-price cyclicality",
+      "Electric frac fleets",
+      "Capital discipline",
+      "Permian concentration",
+      "Water management",
+      "Methane and emissions regulation",
+      "Service-price recovery",
+      "Fleet attrition",
+      "Automation and real-time optimization"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hydraulic-fracturing-services.txt",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67404",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67684",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67844",
+      "https://www.grandviewresearch.com/industry-analysis/hydraulic-fracturing-market",
+      "https://www.grandviewresearch.com/horizon/outlook/hydraulic-fracturing-market/north-america",
+      "https://www.fortunebusinessinsights.com/industry-reports/hydraulic-fracturing-market-100419",
+      "https://www.dallasfed.org/research/surveys/des/2026/2601",
+      "https://www.dallasfed.org/news/releases/2026/nr260624des",
+      "https://bakerhughesrigcount.gcs-web.com/",
+      "https://www.sec.gov/Archives/edgar/data/45012/000004501226000015/hal-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1694028/000169402826000006/lbrt-20251231.htm",
+      "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations",
+      "https://www.epa.gov/inflation-reduction-act/methane-emissions-reduction-program-and-ghgrp-subpart-w-petroleum-and"
+    ],
+    "one_sentence": "Hydraulic fracturing services remain tied to shale drilling economics: record 2025 U.S. oil and gas output supported demand, but pricing, utilization and margins stayed volatile as operators held capital discipline and service firms absorbed labor, equipment and input-cost pressure.",
+    "slug": "hydraulic-fracturing-services"
+  },
+  {
+    "title": "Hydroponic Crop Farming",
+    "sector": "Agriculture",
+    "one_liner": "US hydroponic crop farming is a small but strategically important fresh-produce niche, with greenhouse operators scaling while capital-heavy vertical farms continue to restructure.",
+    "overview": "The industry remains fragmented at the farm level but increasingly shaped by larger controlled-environment agriculture brands. The 2021 IBISWorld baseline described a mature, import-exposed industry with 2021 revenue of $739.1 million, 2,336 enterprises and a 4.2% profit margin, then projected 2026 revenue of $767.5 million. Newer public IBISWorld market-size data show a much higher 2024 revenue base of $961.8 million, up 0.7% in 2024, with 2019-2024 CAGR of 3.2%. The 2024 USDA Census of Horticultural Specialties confirms the broader protected-food-crop base: 3,731 US operations sold $1.011 billion of food crops grown under protection in 2024, including $710.1 million of hydroponic-system production. Demand is supported by retailer interest in local supply, organic and pesticide-free claims, freshness and climate resilience, while the main constraint is economics: energy, labor, packaging, financing and facility-utilization costs have punished overbuilt vertical farms.",
+    "key_stats": {
+      "market_size": "2024: $961.8 million US Hydroponic Crop Farming market size; 2024: $1.011 billion food crops grown under protection sales, including $710.1 million from hydroponic systems; 2025: $1.05 billion broader US vertical farming market estimate.",
+      "growth": "2024: +0.7% market-size growth; 2019-2024: +3.2% CAGR; 2025-2030: +12.8% CAGR estimate for the broader US vertical farming market.",
+      "operations": "2024: 3,731 US operations grew and sold food crops under protection; 2021 baseline: 2,336 hydroponic crop farming enterprises and 2,819 establishments.",
+      "profit_margin": "2021 baseline: 4.2% EBIT margin, down from 5.0% in 2016 due partly to higher fertilizer and input costs.",
+      "imports": "2025: imports accounted for about one-third of total US vegetable availability; 2025: Mexico supplied 77% and Canada 13% of US fresh vegetable imports excluding potatoes.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $745.0 million, estimated from the baseline file's 2021 revenue of $739.1 million and 2021-2026 projected CAGR of 0.8%.",
+      "growth": "2022: about +0.8%, based on the baseline file's five-year forecast CAGR to 2026.",
+      "context": "The baseline file expected 2026 revenue of $767.5 million, enterprise count of 2,480 and employment of 6,514, while warning that Mexican hydroponic imports would keep pressuring domestic growers."
+    },
+    "how_it_makes_money": "Operators sell hydroponically grown lettuce, tomatoes, cucumbers, peppers, herbs, microgreens, strawberries and other produce through grocery wholesalers, supermarkets, produce distributors, restaurants, farmers' markets, direct-to-retail programs and private-label supply contracts. Larger CEA operators monetize regional greenhouse networks by offering year-round delivery, consistent quality, longer shelf life and reduced food miles, while premium vertical farms focus on high-value crops such as microgreens, herbs and strawberries.",
+    "cost_structure": "Major costs are labor, seeds and young plants, growing media, fertilizers and nutrients, utilities, packaging, greenhouse and equipment maintenance, rent or facility depreciation, debt service, compliance, insurance, distribution and spoilage. In the broader 2024 horticultural sector, hired labor expenses were $5.571 billion, seeds/plants were $2.887 billion, utilities were $612.8 million, packaging was $195.2 million and gasoline/fuels/oils were $632.1 million, illustrating why hydroponic farms are sensitive to wages, power prices, financing costs and throughput.",
+    "major_players": [
+      "Gotham Greens",
+      "Little Leaf Farms",
+      "BrightFarms / Cox Farms",
+      "Mucci Farms / Cox Farms",
+      "AeroFarms",
+      "Plenty Unlimited",
+      "80 Acres Farms / Soli Organic"
+    ],
+    "current_dynamics": "The market is splitting between more conventional greenhouse operators that are expanding regional salad and tomato supply, and sunless vertical farms that are restructuring around fewer, higher-margin crops. USDA's 2024 protected-crop data show hydroponics as a meaningful share of greenhouse food production, but the 2024-2026 news flow also shows that scale alone does not solve economics. Retailers still want resilient local greens, especially as drought, heat and import dependence affect open-field produce, yet investors are demanding proof of profitability after Bowery, AppHarvest, Plenty and other venture-backed operators hit bankruptcy or closure cycles.",
+    "whats_growing": "Greenhouse leafy greens, local salad kits, microgreens, herbs, berries, high-utilization regional greenhouse campuses, retailer supply contracts, automation that lowers harvest and packing labor, and protected crops positioned around freshness, pesticide-free production and climate resilience.",
+    "whats_shrinking": "Undifferentiated commodity leafy greens grown in expensive vertical farms, heavily debt-financed expansion plans, long-horizon speculative agtech projects, low-margin produce SKUs that cannot cover energy and labor costs, and import-vulnerable domestic crops without local or premium positioning.",
+    "recent_developments": [
+      "2025-04: USDA NIFA highlighted controlled-environment herb research as US culinary herb demand grew by up to 10% annually and fresh herb imports exceeded $294 million.",
+      "2025-06: BrightFarms opened its Macon, Georgia greenhouse as a Southeast regional salad hub under Cox Farms.",
+      "2025-08: AeroFarms refinanced debt and raised equity to support Danville, Virginia operations and pre-construction for a second farm.",
+      "2025-10: Little Leaf Farms opened another McAdoo, Pennsylvania greenhouse, taking the campus to 40 acres and claiming more than 54% share among indoor lettuce growers.",
+      "2026-04: Pennsylvania officials said Little Leaf Farms signed an agreement intended to extend its Pennsylvania campus into the world's largest leafy-greens campus.",
+      "2026-08: 80 Acres Farms began shutting down US operations after a planned acquisition fell through, including layoffs at its San Antonio vertical grow facility."
+    ],
+    "outlook": "The 2026 outlook is selective growth rather than broad venture-led expansion. Greenhouse hydroponic operators with strong retailer relationships, high crop turns and disciplined utility costs should keep gaining share in salads, herbs and some premium produce. Vertical farms are likely to survive where crop economics are strongest, especially microgreens, berries and specialty greens, but weakly differentiated commodity lettuce capacity will keep consolidating. Import pressure from Mexico and Canada remains structural, while climate volatility, organic produce demand and retailer interest in regional supply support domestic protected agriculture.",
+    "themes": [
+      "Climate-resilient produce supply",
+      "Local and regional grocery sourcing",
+      "Hydroponic greenhouse scale-up",
+      "Vertical farming restructuring",
+      "Organic and pesticide-free demand",
+      "Import competition from Mexico and Canada",
+      "Energy and labor cost discipline",
+      "Premium crop mix shift"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hydroponic-crop-farming.txt",
+      "https://www.ibisworld.com/united-states/market-size/hydroponic-crop-farming/4012/",
+      "https://ers.usda.gov/topics/crops/vegetables-and-pulses/market-outlook",
+      "https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/Census_of_Horticulture_Specialties/hortic_1_015_017.pdf",
+      "https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/Census_of_Horticulture_Specialties/hortic_1_034_034.pdf",
+      "https://www.organicproducenetwork.com/organic-retail/us-organic-produce-sales-climb-to-10-6b-in-2025-growing-5-times-faster-than-conventional",
+      "https://www.brightfarms.com/press/new-state-of-the-art-brightfarms-greenhouse-in-georgia-is-creating-jobs-driving-sustainable-agriculture-and-improving-food-security-across-the-southeast/",
+      "https://www.prnewswire.com/news-releases/little-leaf-farms-becomes-the-worlds-largest-cea-leafy-greens-producer-with-expansion-of-pennsylvania-campus-302582218.html",
+      "https://dced.pa.gov/newsroom/icymi-us-little-leaf-farms-pa-to-build-largest-leafy-greens-campus-in-the-world-in-carbon-county/",
+      "https://www.aerofarms.com/aerofarms-raises-equity/",
+      "https://www.plenty.ag/plenty-opens-worlds-first-farm-to-grow-indoor-vertically-farmed-berries-at-scale/",
+      "https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/",
+      "https://www.expressnews.com/business/article/80-acres-farms-failed-sale-layoffs-brooks-22377110.php"
+    ],
+    "one_sentence": "Hydroponic crop farms grow vegetables, herbs, berries and other food crops in nutrient-rich water under protective cover, selling mainly to grocery, wholesale, foodservice and local retail channels that value year-round supply, consistency and shorter shipping distances.",
+    "slug": "hydroponic-crop-farming"
+  },
+  {
+    "title": "Hydroponic Growing Equipment Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty retailers selling hydroponic systems, grow lights, nutrients, media, HVAC, controls and related supplies to commercial cultivators, controlled-environment farms and hobby growers.",
+    "overview": "The industry sells the equipment and consumables needed to grow plants without soil, including complete hydroponic systems, LED lighting, nutrients, growing media, pumps, irrigation, ventilation, environmental controls, benching and small tools. The 2021 baseline industry was built around two demand engines: controlled-environment food production and cannabis cultivation. In 2025-2026, the broader U.S. hydroponics market is still growing, with 2025 U.S. hydroponics market estimates around $3.49B, but store-channel performance is more mixed because cannabis growers face wholesale price compression and large retailers are pruning physical locations while shifting customers to B2B portals, online stores and proprietary brands.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. hydroponic growing equipment store revenue: about $1.3B, using the 2021 baseline forecast of $1.3B by 2026 and adjusted for 2025-2026 public retailer softness.",
+      "growth": "2026 estimated store-channel revenue growth: roughly 0% to 3% year over year, below the 2026-2034 broader U.S. hydroponics market CAGR estimates of about 7% to 11%.",
+      "broader_market": "2025 U.S. hydroponics market: $3.49B in one 2026 market estimate; 2025 U.S. hydroponics market: $3.16B in another 2026 market estimate.",
+      "online_channel": "2025 tracked online hydroponics equipment and supplies revenue: $48M, down 20% to 50% year over year; 2026 online revenue forecast: down 0% to 5%.",
+      "cannabis_demand_pool": "2025 state-legal cannabis sales: $29.1B, down from $30.1B in 2024, with oversupply and wholesale price declines pressuring cultivator spending.",
+      "organic_produce_demand": "2025 U.S. organic fresh produce sales: $10.6B, up 5.9% year over year, supporting food-crop CEA demand.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate: about $1.24B in U.S. industry revenue, inferred from the baseline's 2021 revenue of $1.212B and its 2021-2026 forecast path to about $1.3B.",
+      "growth": "2022 baseline forecast growth: about 2.1% year over year, consistent with the baseline's 2021-2026 annualized revenue growth forecast.",
+      "profit_margin": "2021 baseline profit margin: 6.1% of revenue; 2022 baseline expectation: modest margin pressure as competition increased.",
+      "establishments": "2021 baseline establishments: 2,439; 2026 baseline forecast establishments: 2,560."
+    },
+    "how_it_makes_money": "Stores earn revenue by selling hydroponic systems and equipment, recurring nutrients and additives, growing media, lighting, HVAC, pumps, irrigation, controls, plumbing, electrical supplies and accessories. The 2021 baseline product mix was 35.8% nutrients and treatments, 30.4% hydroponic systems and equipment, 13.8% hardware/tools/plumbing/electrical, and 20.0% other accessories and merchandise. In 2025-2026, larger operators are emphasizing commercial B2B accounts, e-commerce, wholesale/reseller channels and proprietary brands to raise gross margin and offset lower store counts.",
+    "cost_structure": "Cost of goods sold is the largest expense because retailers resell bulky equipment, nutrients, media and lighting hardware. A 2025 large-player proxy from GrowGeneration shows cost of sales at $118.5M on $161.7M of net sales, implying a 2025 gross margin of 26.8%. Store operations were $30.7M in 2025 and SG&A was $26.3M in 2025 for that same proxy, highlighting the importance of rent, labor, logistics, inventory carrying costs, vendor terms and shrink. Baseline 2021 industry profit margin was 6.1%, but 2025-2026 profitability is being squeezed by cannabis price compression, discounting and store closures, partly offset by proprietary brands and lower operating expense bases.",
+    "major_players": [
+      "GrowGeneration Corp.",
+      "Hydrobuilder / Hydrobuilder Holdings",
+      "HTG Supply",
+      "Greenhouse Megastore",
+      "GrowersHouse",
+      "GrowAce",
+      "Local independent hydroponic and indoor garden stores"
+    ],
+    "current_dynamics": "The 2025-2026 market is split between healthy long-term CEA adoption and weaker near-term retail economics. Commercial growers still need nutrients, media, lighting replacement, environmental controls and parts, but many cannabis cultivators are delaying capital purchases because wholesale cannabis oversupply has reduced cash flow. GrowGeneration's 2025 net sales fell to $161.7M from $188.9M in 2024 after store consolidations, yet its 2026 Q1 sales rose 7.5% year over year to $38.4M, suggesting demand is stabilizing for stronger operators. The broader hydroponics market is expanding faster than the store channel because some purchases flow through manufacturers, greenhouse integrators, online marketplaces and direct B2B relationships rather than traditional local stores.",
+    "whats_growing": [
+      "2025-2026 commercial B2B sales to controlled-environment agriculture and multi-site cultivators.",
+      "2025-2026 proprietary nutrients, media, lighting and consumable brands with better retailer margins.",
+      "2025 organic produce demand, with U.S. organic fresh produce sales up 5.9% to $10.6B.",
+      "2026 automation, sensors, climate controls, nutrient dosing and remote-monitoring products.",
+      "2026 online ordering and dedicated B2B portals that retain customers after physical store closures."
+    ],
+    "whats_shrinking": [
+      "2025-2026 standalone brick-and-mortar footprints among larger chains as redundant locations close.",
+      "2025 large-ticket equipment purchases by cannabis growers exposed to wholesale price compression.",
+      "2025 online hydroponics equipment and supplies revenue across tracked retailers, down 20% to 50% year over year.",
+      "2025-2026 low-margin commodity resale of lights, tents and basic hardware due to online price transparency.",
+      "2025-2026 small cultivator spending in mature cannabis states with oversupply and illicit-market competition."
+    ],
+    "recent_developments": [
+      "2026-07-20: Fortune Business Insights estimated the 2025 U.S. hydroponics market at $3.49B and the 2026 global hydroponics market at $13.45B.",
+      "2026-06-25: NORML reported 2025 state-legal cannabis sales of $29.1B, down from $30.1B in 2024 due partly to oversupply and price compression.",
+      "2026-06-01: NCSL reported 41 states, 3 territories and D.C. allowed medical cannabis as of 2025-06-26, while 24 states, 3 territories and D.C. allowed or regulated adult non-medical use.",
+      "2026-05-12: GrowGeneration reported 2026 Q1 net sales of $38.4M, up 7.5% year over year, and 19 retail locations across 9 states as of 2026-03-31.",
+      "2026-04-01: Organic Produce Network reported 2025 U.S. organic fresh produce sales of $10.6B, up 5.9% year over year.",
+      "2026-03-19: GrowGeneration reported 2025 net sales of $161.7M, down from $188.9M in 2024, and 23 retail locations across 10 states at 2025 year-end."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive but uneven. Store revenue should track closer to low-single-digit growth in 2026 while the broader hydroponics market grows faster through direct commercial channels. Recurring consumables, proprietary brands, automation upgrades and organic/locally grown produce support demand, while cannabis oversupply, tariff uncertainty, online price competition and lower store density limit upside. The strongest retailers will look less like hobby shops and more like hybrid distributors serving commercial cultivators through physical locations, e-commerce, field sales and private-label product portfolios.",
+    "themes": [
+      "Controlled-environment agriculture",
+      "Cannabis cultivation economics",
+      "Organic and local produce demand",
+      "Retail consolidation",
+      "E-commerce and B2B portals",
+      "Proprietary brands and margin repair",
+      "Automation and climate-control upgrades",
+      "Price competition"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hydroponic-growing-equipment-stores.txt",
+      "https://ir.growgeneration.com/news-events/press-releases/detail/260/growgeneration-reports-fourth-quarter-and-full-year-2025",
+      "https://ir.growgeneration.com/news-events/press-releases/detail/264/growgeneration-reports-first-quarter-2026-financial-results",
+      "https://www.fortunebusinessinsights.com/hydroponics-market-102275",
+      "https://www.researchandmarkets.com/reports/5987478/united-states-hydroponics-market-report-type",
+      "https://gripsintelligence.com/insights/industries/home-garden/hydroponics-equipment-and-supplies",
+      "https://ers.usda.gov/topics/natural-resources-environment/organic-agriculture",
+      "https://www.organicproducenetwork.com/organic-retail/state-of-organic-produce-2025",
+      "https://www.ncsl.org/health/state-medical-cannabis-laws",
+      "https://norml.org/news/2026/06/25/analysis-state-legal-cannabis-sales-held-firm-in-2025-exceeding-29-billion/",
+      "https://www.justice.gov/opa/pr/justice-department-places-fda-approved-marijuana-products-and-products-containing-marijuana"
+    ],
+    "one_sentence": "Hydroponic growing equipment stores remain a niche but durable retail channel, with recurring nutrient and consumables sales cushioning demand while cannabis oversupply, store consolidation and price competition restrain 2025-2026 growth.",
+    "slug": "hydroponic-growing-equipment-stores"
+  },
+  {
+    "title": "IT Security Consulting",
+    "sector": "Technology & Digital",
+    "one_liner": "Cyber risk has moved from an IT problem to a board, compliance and AI-governance mandate.",
+    "overview": "IT security consultants help companies and public agencies assess cyber risk, design security architectures, integrate tools, monitor environments, test defenses and respond to breaches. The 2022 IBIS baseline described a growth industry lifted by cloud migration, mobile internet, e-commerce and high-profile breaches; the 2025-2026 market is more urgent because security programs now have to cover cloud identity, third-party risk, ransomware readiness, operational technology, AI systems and regulatory disclosure. Demand remains broad across finance, healthcare, government, technology, retail, manufacturing and critical infrastructure, while competition is fragmented between global consultancies, systems integrators, managed security providers and specialist incident-response firms.",
+    "key_stats": {
+      "market_size": "2024 US IT security consulting revenue: $16.9 billion.",
+      "growth": "2019-2024 US IT security consulting revenue CAGR: 3.7%; 2025 worldwide security services revenue: $84.4 billion, up 11.5% from 2024; 2026 worldwide information-security services spending forecast: $92.8 billion.",
+      "breach_cost": "2025 US average data-breach cost: $10.22 million; 2025 global average data-breach cost: $4.44 million.",
+      "threat_mix": "2025 Verizon DBIR: third-party involvement doubled to 30% of breaches; credential abuse represented 22% of initial attack vectors and vulnerability exploitation 20%.",
+      "labor_pressure": "2025 WEF survey: only 14% of organizations reported having the cyber talent needed to meet security objectives; 2026 WEF survey found 46% of small organizations reported lack of cybersecurity skills and expertise.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 IBIS baseline revenue: $14.168 billion in 2021 dollars.",
+      "growth": "2016-2021 IBIS baseline revenue CAGR: 5.0%; 2021 IBIS baseline annual revenue growth: 8.2%; 2021-2026 IBIS baseline projected CAGR: 2.2% to $15.8 billion in 2026.",
+      "profitability": "2021 IBIS baseline profit margin: 6.9%; 2026 IBIS baseline projected profit margin: 6.8%.",
+      "employment": "2021 IBIS baseline employment: 59,554 workers; 2026 IBIS baseline wage bill forecast: $6.2 billion, equal to 39.3% of revenue.",
+      "establishments": "2021 IBIS baseline establishments: 11,866; 2026 IBIS baseline enterprise forecast: 12,294 companies."
+    },
+    "how_it_makes_money": "Revenue comes from fixed-fee and time-and-materials consulting projects, security architecture and systems integration, penetration testing and vulnerability assessments, incident response and digital forensics, governance-risk-compliance programs, cloud and identity security implementations, managed detection and response retainers, tabletop exercises, audits and security training. Large firms bundle cyber work with cloud migration, ERP, AI, data and risk-transformation programs; specialists win urgent breach-response, threat-hunting and offensive-security mandates.",
+    "cost_structure": "Labor is the largest cost because delivery depends on scarce security architects, cloud engineers, threat hunters, incident responders, governance specialists and penetration testers. The 2021 IBIS baseline put wages at 39.1% of revenue and projected 39.3% in 2026. Other costs include software subscriptions and labs for testing, threat-intelligence feeds, insurance, cloud infrastructure, subcontractors, travel, sales and compliance overhead. Margins are supported by repeat managed-service contracts and high-value advisory work, but pressured by salary inflation, certifications, 24/7 response coverage and competition from security software vendors bundling services.",
+    "major_players": [
+      "Deloitte",
+      "Accenture",
+      "EY",
+      "IBM Consulting",
+      "Kyndryl",
+      "PwC",
+      "Booz Allen Hamilton",
+      "Google Cloud Mandiant",
+      "Palo Alto Networks Unit 42",
+      "CrowdStrike Services",
+      "Secureworks",
+      "KPMG"
+    ],
+    "current_dynamics": "The market is expanding but changing shape. Buyers are shifting from one-off assessments toward continuous managed detection, identity hardening, cloud posture management, incident readiness and AI governance. Public-company cyber disclosure rules, critical-infrastructure incident-reporting preparation and higher US breach costs make board-level documentation and response planning more valuable. At the same time, security software platforms and cloud providers are automating more detection and configuration work, forcing consultants to move up the stack into architecture, remediation, regulatory evidence, incident command and complex integrations.",
+    "whats_growing": "Managed security services, incident response, cloud security posture management, identity and access management, zero-trust implementation, third-party risk, operational-technology security, AI security assessments, secure software development, vulnerability management, tabletop exercises and cyber governance for boards are growing in 2025-2026. Demand is especially strong where organizations lack in-house talent or need auditable programs for regulators, insurers, customers and investors.",
+    "whats_shrinking": "Standalone policy-writing projects, generic compliance checklists, basic perimeter firewall consulting, low-end vulnerability scans and one-time security awareness engagements are losing share to automated platforms and managed-service bundles. Pandemic-era emergency remote-work hardening has normalized, so growth is shifting away from basic VPN and endpoint setup toward identity, cloud, AI, resilience and supply-chain security.",
+    "recent_developments": [
+      "2025-02-27: CrowdStrike reported a 150% increase in China-nexus cyber operations and a 26% year-over-year rise in new and unattributed cloud intrusions.",
+      "2025-04-23: Google Cloud Mandiant reported stolen credentials became the second-largest initial infection vector in 2024 investigations at 16%, while exploits remained first at 33%.",
+      "2025-06-06: The White House issued Executive Order 14306, directing federal action on secure software development, patch guidance, encryption protocols and post-quantum cryptography.",
+      "2025-07-29: Gartner forecast 2025 worldwide information-security spending at $213.0 billion and 2026 spending at $239.8 billion, with security services reaching $83.8 billion in 2025 and $92.8 billion in 2026.",
+      "2025-07-30: IBM reported the 2025 US average data-breach cost reached $10.22 million, while the 2025 global average fell to $4.44 million.",
+      "2026-01-12: The World Economic Forum’s Global Cybersecurity Outlook 2026 highlighted AI, geopolitical fragmentation, cyber-enabled fraud and skills shortages as major resilience pressures."
+    ],
+    "outlook": "The US IT security consulting market should keep growing through 2026 as breach economics, AI adoption, cloud complexity, third-party dependencies and regulation sustain demand even if discretionary IT budgets tighten. Growth is likely to favor providers that combine advisory credibility with implementation capacity, managed operations and incident-response depth. Margin upside will come from repeat managed services and AI-assisted delivery, while the main constraints will be expensive talent, platform-vendor competition and budget pressure among smaller clients and state-local agencies.",
+    "themes": [
+      "AI security and shadow AI governance",
+      "Cloud and identity security",
+      "Ransomware readiness and incident response",
+      "Third-party and supply-chain risk",
+      "Board-level cyber governance",
+      "SEC and critical-infrastructure reporting",
+      "Zero trust and least privilege",
+      "Operational technology security",
+      "Cyber talent shortage",
+      "Managed detection and response"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/it-security-consulting.txt",
+      "https://www.researchandmarkets.com/report/united-states-it-security-consulting-market",
+      "https://www.gartner.com/en/newsroom/press-releases/2025-07-29-gartner-forecasts-worldwide-end-user-spending-on-information-security-to-total-213-billion-us-dollars-in-2025",
+      "https://www.deloitte.com/global/en/about/recognition/analyst-relations/deloitte-ranked-number-one-in-security-services-by-revenue.html",
+      "https://www.ibm.com/reports/data-breach",
+      "https://www.securityweek.com/cost-of-data-breach-in-us-rises-to-10-22-million-says-latest-ibm-report/",
+      "https://www.verizon.com/about/news/2025-data-breach-investigations-report",
+      "https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2025",
+      "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-releases-2025-global-threat-report.html",
+      "https://www.sec.gov/rules-regulations/2023/07/s7-09-22",
+      "https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-reprioritizes-cybersecurity-efforts-to-protect-america/",
+      "https://www.weforum.org/press/2025/01/global-cybersecurity-outlook-2025-navigating-through-rising-cyber-complexities/",
+      "https://www.weforum.org/publications/global-cybersecurity-outlook-2026/"
+    ],
+    "one_sentence": "The US IT security consulting industry sells advisory, integration, managed security, testing and incident-response services to organizations facing higher breach costs, cloud complexity, identity attacks, regulatory reporting duties and AI-driven threats.",
+    "slug": "it-security-consulting"
+  }
+]

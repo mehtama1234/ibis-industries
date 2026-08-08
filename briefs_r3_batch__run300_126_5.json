@@ -1,0 +1,447 @@
+[
+  {
+    "title": "Gym, Health & Fitness Clubs in the US",
+    "sector": "Consumer Services",
+    "one_liner": "US gyms, health clubs and fitness studios have moved beyond pandemic recovery into a record-membership cycle, led by value gyms, premium clubs and boutique formats.",
+    "overview": "Operators run fitness and recreational sports facilities that provide exercise equipment, group fitness, personal training, swimming, racquet sports, wellness amenities and related services. The 2022 IBISWorld baseline showed a pandemic-dented industry at $32.016 billion of revenue, but current 2025-2026 data show a much larger market: MarketLine put 2025 US gym, health and fitness club revenue at $43.3 billion, while Statista, citing IBISWorld, reported the fitness, health and gym club industry at about $47.0 billion as of February 2026. Demand is being pulled by health consciousness, employer and insurance access programs, strength training, recovery services and flexible membership models.",
+    "key_stats": {
+      "market_size": "2025: $43.3 billion in US gym, health and fitness club revenue; 2026: about $47.0 billion market size as of February 2026.",
+      "growth": "2020-2025: 2.7% CAGR in market revenue; 2025: fitness facility memberships rose 5.2% from 2024; 2024: surveyed operators reported median revenue growth of 9.9%.",
+      "membership": "2025: 81 million Americans held a fitness facility membership, equal to 26.1% of the US population aged six and older.",
+      "users": "2025: more than 100 million Americans used a fitness facility as members or non-member users.",
+      "visits": "2025: nearly 7 billion US gym, health club and studio visits; commercial facilities averaged 184,043 visits per location, up 4.2% from 2024.",
+      "businesses": "2026: about 108,000 US fitness, health and gym club businesses reported by Statista, citing IBISWorld.",
+      "labor_compensation": "2025: $19.402 billion in labor compensation for NAICS 713940 Fitness and Recreational Sports Centers.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $32.016 billion revenue in 2022 dollars.",
+      "growth": "2022: 4.2% revenue growth; 2017-2022: revenue declined at a 4.4% annualized rate.",
+      "profit": "2022: $3.074 billion profit and 9.6% profit margin.",
+      "establishments": "2022: 120,664 establishments.",
+      "enterprises": "2022: 112,676 enterprises.",
+      "employment": "2022: 959,790 employees.",
+      "wages": "2022: $11.556 billion in wages.",
+      "products": "2022: membership fees 68.1% of revenue, personal trainers 12.1%, meals and beverages 5.1%, guest admissions 3.1%, merchandise 3.0%, spa services 1.9%, other 6.7%."
+    },
+    "how_it_makes_money": "The core revenue stream is recurring membership dues and enrollment or annual fees, supplemented by personal training, small-group coaching, class packages, day passes, guest admissions, food and beverages, branded merchandise, spa and recovery services, childcare, digital or hybrid subscriptions, and employer, insurer or aggregator-funded access. In 2022, IBISWorld estimated membership fees at 68.1% of revenue and personal training at 12.1%; in 2025, Life Time reported 72.6% of center revenue from membership dues and enrollment fees and 27.4% from in-center revenue, illustrating the premium-club shift toward higher-spend add-ons.",
+    "cost_structure": "The largest operating costs are labor, occupancy, equipment, utilities, cleaning, insurance, software, marketing and debt or lease costs for buildouts. BLS/FRED data show NAICS 713940 labor compensation rose to $19.402 billion in 2025 from $17.989 billion in 2024 and $15.403 billion in 2022. The 2022 IBISWorld baseline showed industry profit at 9.6% of revenue, while 2025 HFA benchmarking data showed stronger surveyed-operator profitability, with a 23.6% median EBITDA margin. Cost pressure is highest for rent-heavy urban clubs and equipment-intensive HVLP chains, while franchisors can scale brand, royalties and equipment placement economics across franchisees.",
+    "major_players": [
+      "Planet Fitness: 2025 revenue of $1.3 billion, system-wide sales of $5.3 billion, about 20.8 million members and 2,896 clubs globally at year-end 2025.",
+      "Life Time: 2025 revenue of $2.995 billion, 189 centers and 822,380 center memberships at year-end 2025.",
+      "Anytime Fitness: major franchised 24-hour club system and a listed leading player in 2025-2026 market profiles.",
+      "LA Fitness / Esporta Fitness: large private full-service club operator competing in mid-price multipurpose gyms.",
+      "Equinox: premium fitness and lifestyle club operator competing in affluent urban and suburban markets.",
+      "24 Hour Fitness: large legacy health club chain that restructured after 2020 bankruptcy and remains a notable operator.",
+      "Xponential Fitness: boutique fitness franchisor with 2025 North America system-wide sales of $1.75 billion across brands such as Club Pilates and StretchLab."
+    ],
+    "current_dynamics": "The industry is in a post-recovery expansion phase rather than a simple reopen trade. Membership penetration hit 26.1% in 2025, and facility usage broadened to more than 100 million Americans when non-member users are included. High-value, low-price gyms are capturing budget-conscious demand and high traffic; premium clubs are monetizing affluent members through higher dues, training, spa, recovery and social amenities; boutiques are more mixed, with strong brand formats but weaker same-store trends in parts of franchised boutique fitness. Operators are also responding to GLP-1 weight-loss drugs, longevity interest, recovery services and employer or insurance-sponsored access programs, while cancellations and retention remain key operating risks.",
+    "whats_growing": "Growth is strongest in HVLP gyms, strength training, free weights, recovery and longevity-oriented services, Pilates, yoga, pickleball and flexible access models. HFA reported 2025 memberships up 5.2% from 2024 and nearly 7 billion visits. Planet Fitness added 1.1 million net members in 2025 and opened 181 clubs. Life Time grew 2025 revenue 14.3% and is expanding large-format premium clubs with higher average dues and in-center spending. Employer, insurance and aggregator channels are widening access beyond traditional month-to-month members.",
+    "whats_shrinking": "Traditional stand-alone cardio and high-intensity formats are softening relative to strength, recovery and balanced training. Some boutique operators are facing slower same-store sales: Xponential Fitness reported 2025 North America same-store sales growth of only 0.5% and a 2% decline in reported revenue. Low-end price competition continues to compress operators that cannot drive volume, retention or add-on revenue. Luxury facility visits per location declined 2.0% in 2025 in HFA traffic data, even as visit frequency among remaining visitors rose.",
+    "recent_developments": [
+      "2025-09-30: HFA released its 2025 Fitness Industry Benchmarking Report, showing 2024 median operator revenue growth of 9.9%, median EBITDA margin of 23.6% and member retention of 66.4%.",
+      "2025-10-30: HFA reported 2024 US fitness facility membership reached 77 million, up 5.6% from 2023, with nearly 96 million total customers.",
+      "2026-01-12: Planet Fitness announced it ended 2025 with about 20.8 million members, 2,896 clubs and 6.7% system-wide same-club sales growth.",
+      "2026-02-24: Planet Fitness reported 2025 revenue of $1.3 billion, up 12.1%, and system-wide sales of $5.3 billion.",
+      "2026-02-24: Life Time reported 2025 revenue of $2.995 billion, up 14.3%, with 189 centers and 822,380 center memberships.",
+      "2026-04-09: HFA reported 81 million US fitness facility members in 2025, up 5.2% from 2024, and nearly 7 billion visits."
+    ],
+    "outlook": "The 2026 outlook is positive but uneven. Market size is around $47.0 billion as of February 2026, and participation data point to continued demand for in-person facilities. Growth should be supported by health consciousness, aging consumers, employer wellness, insurance partnerships, strength training, recovery and premium wellness add-ons. The main constraints are local saturation, rent and labor costs, equipment replacement, financing costs for new builds and churn among price-sensitive members. Winners are likely to be scaled franchisors, dense HVLP chains, premium clubs with high in-center spend and differentiated boutiques with strong retention; weaker independents and undifferentiated mid-market clubs face the most pressure.",
+    "themes": [
+      "Record membership penetration",
+      "High-value low-price gyms",
+      "Premium wellness clubs",
+      "Strength training and recovery",
+      "Boutique fitness reset",
+      "Employer and insurance access",
+      "Hybrid digital support",
+      "Retention and churn management",
+      "Labor and rent pressure",
+      "GLP-1 and longevity tailwinds"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, Gym, Health & Fitness Clubs in the US, last updated 2022-07-30', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/gym-health-and-fitness-clubs-in-the-us.txt'}",
+      "{'name': 'MarketResearch.com / MarketLine, Gyms, Health & Fitness Clubs in the United States, published 2026-03-19', 'url': 'https://www.marketresearch.com/MarketLine-v3883/Gyms-Health-Fitness-Clubs-United-45430250/'}",
+      "{'name': 'Statista, Key figures on the fitness, health and gym club industry in the United States as of February 2026, citing IBISWorld', 'url': 'https://www.statista.com/statistics/605223/us-fitness-health-club-market-size-2007-2021/'}",
+      "{'name': 'Health & Fitness Association, 81 Million Americans Were Members of a Fitness Facility in 2025, published 2026-04-09', 'url': 'https://www.healthandfitness.org/81-million-americans-were-members-of-a-fitness-facility-in-2025-new-hfa-report-finds/'}",
+      "{'name': 'Health & Fitness Association, 2025 Fitness Industry Benchmarking Report, published 2025-09-30', 'url': 'https://www.healthandfitness.org/2025-fitness-industry-benchmarking-report/'}",
+      "{'name': 'Health & Fitness Business / HFA, Record Visitation in 2025 Caps Another Strong Year, 2026', 'url': 'https://www.healthandfitnessbusiness.org/feb2026/research'}",
+      "{'name': 'Planet Fitness, 2025 year-end results, published 2026-02-24', 'url': 'https://investor.planetfitness.com/investors/press-releases/press-release-details/2026/Planet-Fitness-Inc--Announces-Fourth-Quarter-and-Year-End-2025-Results/default.aspx'}",
+      "{'name': 'Life Time Group Holdings, 2025 year-end results, published 2026-02-24', 'url': 'https://ir.lifetime.life/news-events/press-releases/detail/1192/life-time-reports-fourth-quarter-and-full-year-2025-financial-results'}",
+      "{'name': 'FRED / BLS, Labor Compensation for NAICS 713940, updated 2026-06-03', 'url': 'https://fred.stlouisfed.org/series/IPUSN713940L020000000'}",
+      "{'name': 'U.S. Census Bureau AIES, 2023 revenue for NAICS 713940', 'url': 'https://data.census.gov/table?codeset=naics~713940&g=010XX00US'}"
+    ],
+    "one_sentence": "The industry sells recurring access to fitness facilities, classes and training, with 2025 demand at record highs but margins still shaped by rent, labor, equipment reinvestment and intense local price competition.",
+    "slug": "gym-health-and-fitness-clubs-in-the-us"
+  },
+  {
+    "title": "Gypsum Product Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A concentrated building-materials industry tied to drywall demand, remodeling, housing starts and private nonresidential construction.",
+    "overview": "The industry is led by gypsum wallboard, the dominant interior wall and ceiling material in US residential, commercial and institutional buildings. The 2022 baseline file reported 2021 revenue of $6.006 billion, but 2025 nominal industry sales are best read higher because BLS gypsum-product producer prices averaged far above 2021 levels even as wallboard volumes softened. US wallboard products sold fell to 26.0 billion square feet in 2025 from 27.2 billion square feet in 2024 and 28.2 billion square feet in 2022. Demand remains cyclical because each new home and most commercial interiors use large amounts of gypsum board, while repair, remodel and replacement work smooths the cycle. Supply is regional because wallboard is bulky and freight-sensitive, favoring producers with nearby gypsum sources, paperboard supply, rail access and broad plant networks.",
+    "key_stats": {
+      "market_size": "2025 estimated nominal industry revenue of about $7.3 billion, derived from the 2021 baseline revenue of $6.006 billion, 2025 wallboard volume of 26.0 billion square feet and the 2025 BLS gypsum-product PPI level versus 2021.",
+      "growth": "2025 estimated nominal revenue growth of about -2.7% versus 2024, reflecting 2025 wallboard volume of 26.0 billion square feet versus 27.2 billion square feet in 2024 and a 2025 gypsum-product PPI average about 1.8% above 2024.",
+      "wallboard_volume": "2025 US wallboard products sold were 26.0 billion square feet, down from 27.2 billion square feet in 2024 and 28.2 billion square feet in 2022.",
+      "pricing": "BLS gypsum product manufacturing PPI was 403.115 in June 2026, versus 403.417 in December 2025 and 336.896 in December 2021.",
+      "construction_demand": "June 2026 housing starts were 1.427 million SAAR, 3.5% above June 2025, while June 2026 permits were 1.367 million SAAR, 2.3% below June 2025.",
+      "public_comp": "Eagle Materials FY2026 gypsum wallboard volume was 2.759 billion square feet, down 7% from FY2025, and its FY2026 average wallboard net sales price was $226.08 per MSF, down 4% from FY2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "The June 2022 IBISWorld baseline reported 2021 revenue of $6.006 billion in 2021 dollars.",
+      "growth": "The June 2022 IBISWorld baseline reported 2021 revenue growth of 4.4% and 2016-2021 annualized revenue growth of -0.3%.",
+      "profit": "The June 2022 IBISWorld baseline reported 2021 profit of $438 million and a 2021 profit margin of 7.3%.",
+      "employment": "The June 2022 IBISWorld baseline reported 2021 employment of 10,273 and 2021 wages of $799 million.",
+      "products": "The June 2022 IBISWorld baseline estimated 2021 revenue mix at 59.6% gypsum plaster building boards, 25.4% gypsum building plasters and 15.0% other gypsum products."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling gypsum wallboard, specialty panels, plasters, joint compounds, sheathing, moldings and other gypsum products to building-material distributors, drywall contractors, home centers, lumber yards, remodelers and commercial construction channels. Larger producers often integrate gypsum mining, paperboard supply, recycled paperboard and regional distribution to lower freight and input costs.",
+    "cost_structure": {
+      "materials": "Major 2025-2026 inputs are natural gypsum, synthetic gypsum, paper facing or recycled paperboard, additives, packaging and purchased raw materials.",
+      "energy_and_freight": "Kilns, calcining, drying and truck delivery make natural gas, electricity, diesel and freight meaningful cost drivers; Eagle Materials cited lower FY2025 freight, maintenance and energy costs but higher purchased raw materials in its gypsum wallboard segment.",
+      "labor": "The 2022 baseline reported 2021 wages of $799 million, equal to about 13.3% of 2021 revenue.",
+      "profit": "The 2022 baseline reported 2021 EBIT profit margin of 7.3%; Eagle Materials reported a 2025 gypsum wallboard operating margin of 41% for its segment, showing the benefit of scale, regional pricing and vertical integration but not representing the full industry average.",
+      "capital": "Plants require quarries or gypsum supply, board lines, calcining capacity, dryers, paper handling, emissions controls and logistics infrastructure."
+    },
+    "major_players": [
+      "Knauf / USG Corporation",
+      "National Gypsum Company",
+      "CertainTeed / Saint-Gobain",
+      "Georgia-Pacific / Koch Industries",
+      "Eagle Materials / American Gypsum",
+      "PABCO Gypsum"
+    ],
+    "current_dynamics": "The 2025-2026 market is volume-soft but price-supported. Wallboard sales fell to 26.0 billion square feet in 2025 from 27.2 billion in 2024, and Eagle Materials reported FY2026 wallboard volume down 7% and price down 4%. June 2026 housing starts rebounded to 1.427 million SAAR, but June 2026 permits were still 2.3% below June 2025, signaling uneven new-build demand. May 2026 total construction spending was $2.210 trillion SAAR, 1.5% below May 2025, with private residential spending at $930.2 billion SAAR and private nonresidential spending at $738.7 billion SAAR. Producer prices remained high, with the June 2026 PPI near late-2025 levels, helping revenue per unit despite weaker physical shipments.",
+    "whats_growing": [
+      "2025-2026 repair, remodel and replacement demand is more resilient than new-home-only demand.",
+      "2025-2026 specialty boards with fire, mold, water, acoustic and lightweight properties continue to take share from commodity panels.",
+      "2025-2026 vertically integrated producers with quarries, recycled paperboard and regional distribution have cost advantages.",
+      "2026 public and institutional construction remains a partial offset where educational and public projects need interior systems."
+    ],
+    "whats_shrinking": [
+      "2025 wallboard unit volume declined to 26.0 billion square feet from 27.2 billion square feet in 2024.",
+      "FY2026 public-comp wallboard pricing weakened, with Eagle Materials average net sales price down 4% to $226.08 per MSF.",
+      "2025-2026 synthetic gypsum availability remains a longer-term concern as coal-fired power generation declines.",
+      "2026 permits softness points to choppy starts beyond the June 2026 rebound."
+    ],
+    "recent_developments": [
+      "2025-05: Eagle Materials reported FY2025 gypsum wallboard revenue of $846.5 million, up 1%, and a 41% gypsum wallboard operating margin.",
+      "2026-02: USGS-linked data showed 2025 US wallboard product sales of 26.0 billion square feet, down from 27.2 billion in 2024.",
+      "2026-05: Eagle Materials reported FY2026 gypsum wallboard volume of 2.759 billion square feet, down 7%, and average wallboard price of $226.08 per MSF, down 4%.",
+      "2026-07: Census reported June 2026 housing starts of 1.427 million SAAR, up 3.5% from June 2025, and permits of 1.367 million SAAR, down 2.3% from June 2025.",
+      "2026-07: FRED/BLS showed the gypsum product manufacturing PPI at 403.115 for June 2026, essentially flat versus December 2025."
+    ],
+    "outlook": "The 2026-2027 outlook is cautious rather than recessionary. High prices and consolidated supply should support nominal revenue, but volume growth depends on lower mortgage rates, better affordability and a durable recovery in single-family starts. Remodeling, multifamily turnover, commercial tenant improvements and public/institutional interiors should cushion demand. Producers with modernized plants, freight reach and secure gypsum or paperboard inputs are positioned to protect margins, while smaller regional operators remain exposed to freight, energy and customer concentration.",
+    "themes": [
+      "Housing starts sensitivity",
+      "Repair and remodel resilience",
+      "High industry concentration",
+      "Freight and regional plant economics",
+      "Specialty and lightweight wallboard",
+      "Synthetic gypsum supply risk",
+      "Producer pricing power",
+      "Green building and recycled content"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Local baseline file: Gypsum Product Manufacturing in the US, IBISWorld, last updated Jun 23, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/gypsum-product-manufacturing-in-the-us.txt'}",
+      "{'title': 'USGS Gypsum Statistics and Information', 'url': 'https://www.usgs.gov/centers/national-minerals-information-center/gypsum-statistics-and-information'}",
+      "{'title': 'USGS via Statista, Wallboard product sales in the United States from 2010 to 2025', 'url': 'https://www.statista.com/statistics/219348/us-sales-of-wallboard-products/'}",
+      "{'title': 'FRED / BLS Producer Price Index by Industry: Gypsum Product Manufacturing', 'url': 'https://fred.stlouisfed.org/series/PCU327420327420'}",
+      "{'title': 'U.S. Census Bureau and HUD, Monthly New Residential Construction, June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'title': 'U.S. Census Bureau, Monthly Construction Spending, May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'title': 'Eagle Materials FY2026 results, May 19, 2026', 'url': 'https://ir.eaglematerials.com/news-releases/news-release-details/eagle-materials-announces-fourth-quarter-and-fiscal-year-2026'}",
+      "{'title': 'Eagle Materials FY2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/918646/000095017025075321/exp-20250331.htm'}",
+      "{'title': 'U.S. Census Bureau NAICS 327420 definition', 'url': 'https://www.census.gov/naics/?details=327420&input=327420&year=2022'}"
+    ],
+    "one_sentence": "US gypsum product manufacturers make wallboard, plasters, joint compounds, sheathing and specialty gypsum products, with 2025 demand pressured by weaker wallboard volumes but supported by elevated producer prices and repair-and-remodel activity.",
+    "slug": "gypsum-product-manufacturing-in-the-us"
+  },
+  {
+    "title": "HR & Payroll Software",
+    "sector": "Technology & Digital",
+    "one_liner": "Cloud HR and payroll platforms automate pay, compliance, benefits, workforce management and talent workflows for US employers.",
+    "overview": "HR & payroll software vendors sell platforms used by employers to calculate payroll, file taxes, administer benefits, manage employee records, schedule labor, track time, recruit workers and monitor compliance. The industry has shifted from installed license software to SaaS subscriptions, implementation services and integrated HCM ecosystems. Demand in 2025-2026 is supported by regulatory complexity, distributed workforces, tight HR staffing budgets and buyers' preference for unified employee data across payroll, HR, finance, identity and workforce operations. Large incumbents remain strong because payroll accuracy, tax compliance, client funds handling and integrations create high switching costs, while venture-backed challengers compete with modern UX, embedded fintech, global contractor support and AI workflows.",
+    "key_stats": {
+      "market_size": "2025: $21.6 billion US HR & payroll software market estimate; other public estimates range from 2024: $12.34 billion to 2025: $21.6 billion depending on whether services and broader HCM modules are included.",
+      "growth": "2025-2032: 4.4% CAGR forecast for the US HR & payroll software market; 2025-2030: 8.9% CAGR forecast in a broader US HR payroll software estimate.",
+      "software_delivery": "2025: Cloud/SaaS is the dominant growth model as vendors emphasize subscription platforms, automated updates and lower client infrastructure costs.",
+      "major_customer_base": "2025: ADP reported more than 1.1 million clients and RUN Powered by ADP serving over 940,000 small businesses.",
+      "incumbent_scale": "FY2025: ADP revenue was $20.56 billion, up 7%; FY2025 Paychex total service revenue was $5.41 billion before a full year of Paycor contribution.",
+      "funding_signal": "2025: Rippling raised $450 million at a $16.8 billion valuation, reflecting continued investor appetite for integrated workforce software.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $12.4 billion, estimated from the baseline IBIS file's 2019 revenue of $9.948 billion and 2019-2025 projected CAGR of 7.64%.",
+      "growth": "2022: approximately 7.64% annual projected growth under the baseline IBIS 2019-2025 forecast.",
+      "profit_margin": "2019: 19.3% profit margin in the baseline file, used as the pre-2022 margin benchmark.",
+      "context": "The baseline file described an industry moving rapidly from license and update sales toward cloud SaaS subscriptions, with demand driven by software investment and employers bringing HR and payroll administration in-house."
+    },
+    "how_it_makes_money": "Vendors earn recurring subscription fees by employee count, module, company size and geography; implementation and migration fees; payroll tax filing and compliance services; benefits, insurance, retirement and PEO-adjacent services; payment and earned-wage features; analytics, AI and premium support tiers; partner marketplace fees; and, for some payroll processors, interest income on client funds held before remittance.",
+    "cost_structure": "The largest costs are software engineering, product development, cloud hosting, cybersecurity, compliance operations, customer support, implementation staff, sales and marketing, payment processing, insurance and regulatory overhead. Public incumbents also carry acquisition amortization and integration costs, while growth companies spend heavily on sales capacity, onboarding and new module development. Profitability is strongest where vendors retain customers for many years, automate support and spread payroll compliance infrastructure across a large client base.",
+    "major_players": [
+      "ADP",
+      "Paychex",
+      "Paycor",
+      "Workday",
+      "UKG",
+      "Oracle HCM Cloud",
+      "SAP SuccessFactors",
+      "Dayforce",
+      "Intuit QuickBooks Payroll",
+      "Gusto",
+      "Rippling",
+      "Paylocity",
+      "BambooHR",
+      "TriNet"
+    ],
+    "current_dynamics": "The market is consolidating around suites that combine payroll, HRIS, time, benefits, compliance, recruiting and analytics. AI has moved from a product demo feature to a buying criterion, especially for employee self-service, manager workflows, recruiting automation, payroll anomaly detection and compliance reporting. SMB demand remains resilient because payroll and tax compliance are non-discretionary, but seat expansion is tied to hiring growth. Midmarket and enterprise buyers are rationalizing point solutions, which favors platforms with broad modules and strong integrations. Higher interest rates in 2024-2025 helped large payroll processors earn more on client funds, but that tailwind becomes less dependable if rates fall.",
+    "whats_growing": "Cloud-native payroll, employee self-service, embedded compliance, AI assistants, workforce management, shift scheduling, global payroll, contractor management, benefits administration, HR analytics, recruiting automation and all-in-one platforms for SMB and midmarket employers are growing. Vendors with trusted payroll rails and large datasets are using AI to automate tax checks, onboarding, candidate communications and manager tasks.",
+    "whats_shrinking": "On-premise HR/payroll deployments, perpetual license upgrades, standalone applicant-tracking or time-clock tools without payroll integration, manual spreadsheet-based payroll, disconnected benefit administration workflows and low-differentiation payroll bureaus are losing share. Employers are also trimming redundant HR tech point solutions as CFOs pressure software budgets.",
+    "recent_developments": [
+      "2024-10-15: ADP acquired WorkForce Software to expand global workforce management capabilities; ADP later disclosed a $1.1708 billion purchase price in its FY2026 filing.",
+      "2025-04-14: Paychex completed its approximately $4.1 billion acquisition of Paycor, adding upmarket HCM, payroll and talent software capabilities.",
+      "2025-05-09: Rippling raised $450 million at a $16.8 billion valuation, underscoring investor interest in integrated HR, payroll, IT and finance platforms.",
+      "2025-07-30: ADP reported FY2025 revenue of $20.56 billion, up 7%, with Employer Services client revenue retention of 92.1%.",
+      "2025-10-01: Workday completed its acquisition of Paradox, adding conversational AI for high-volume and frontline recruiting.",
+      "2026-03-17: Workday launched Sana from Workday, a conversational AI and self-service agent layer for HR and finance workflows."
+    ],
+    "outlook": "Through 2030, US HR & payroll software should keep growing at a mid- to high-single-digit pace, with faster growth in AI-enabled modules, global payroll, workforce management and SMB cloud adoption. Competitive pressure will remain intense because ADP, Paychex, Workday, UKG and Oracle have scale and compliance trust, while Rippling, Gusto, BambooHR and other cloud-native providers push faster product expansion. The main risks are slower employment growth, buyer consolidation of software budgets, payroll compliance failures, data breaches and AI features that fail to produce measurable productivity gains. The strongest operators will be those that combine payroll reliability with broad HCM workflows, clean integrations, actionable data and efficient service delivery.",
+    "themes": [
+      "Cloud migration",
+      "SaaS subscriptions",
+      "Payroll compliance",
+      "AI self-service",
+      "Integrated HCM suites",
+      "SMB digitization",
+      "Workforce management",
+      "Global payroll",
+      "Benefits administration",
+      "HR tech consolidation",
+      "Embedded fintech",
+      "Cybersecurity and data privacy"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: HR & Payroll Software IBIS extract', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hr-and-payroll-software.txt', 'date': '2020-12-30'}",
+      "{'title': 'P&S Intelligence, U.S. HR & Payroll Software Market Size & Share Analysis', 'url': 'https://www.psmarketresearch.com/market-analysis/us-hr-payroll-software-market', 'date': '2025'}",
+      "{'title': 'Emergen Research, US HR Payroll Software Market', 'url': 'https://www.emergenresearch.com/industry-report/us-hr-payroll-software-market', 'date': '2025-12-04; modified 2026-05-13'}",
+      "{'title': 'ADP FY2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/adp-20250630.htm', 'date': '2025-06-30'}",
+      "{'title': 'ADP FY2026 Q2 Form 10-Q, WorkForce Software acquisition disclosure', 'url': 'https://www.sec.gov/Archives/edgar/data/8670/000000867026000011/adp-20251231.htm', 'date': '2025-12-31'}",
+      "{'title': 'Paychex completes acquisition of Paycor', 'url': 'https://www.paycor.com/company/news-press/paychex-completes-acquisition-of-paycor/', 'date': '2025-04-14'}",
+      "{'title': 'Paychex FY2025 Form 10-K', 'url': 'https://investor.paychex.com/sec-filings/all-sec-filings/content/0000950170-25-095300/payx-20250531.htm', 'date': '2025-05-31'}",
+      "{'title': 'Workday FY2026 results', 'url': 'https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2026-Fourth-Quarter-and-Full-Year-Financial-Results/default.aspx', 'date': '2026-02-24'}",
+      "{'title': 'Workday completes acquisition of Paradox', 'url': 'https://investor.workday.com/news-and-events/press-releases/news-details/2025/Workday-Completes-Acquisition-of-Paradox-10-01-2025/default.aspx', 'date': '2025-10-01'}",
+      "{'title': 'Workday launches Sana from Workday', 'url': 'https://investor.workday.com/news-and-events/press-releases/news-details/2026/Introducing-Sana-from-Workday-Superintelligence-for-Work-That-Finds-Answers-Takes-Action-and-Automates-Workflows/default.aspx', 'date': '2026-03-17'}",
+      "{'title': 'TechCrunch, Rippling raises $450M at $16.8B valuation', 'url': 'https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/', 'date': '2025-05-09'}",
+      "{'title': 'UKG acquires Shiftboard', 'url': 'https://www.ukg.com/company/newsroom/ukg-acquires-shiftboard-leading-energy-and-manufacturing-employee-scheduling-solutions-provider', 'date': '2025-06-02'}"
+    ],
+    "one_sentence": "The US HR & payroll software industry is expanding as employers replace manual processes and legacy systems with cloud HCM suites that combine payroll accuracy, HR records, compliance, benefits, scheduling, recruiting and AI-assisted employee self-service.",
+    "slug": "hr-and-payroll-software"
+  },
+  {
+    "title": "HVAC Service Franchises",
+    "sector": "Consumer Services",
+    "one_liner": "Franchised HVAC contractors install, replace, repair and maintain heating, cooling, ventilation and related refrigeration systems for homes and commercial buildings.",
+    "overview": "HVAC Service Franchises are franchised outlets providing heating, ventilation, air-conditioning, indoor-air-quality, duct, thermostat and selected refrigeration services. The baseline IBISWorld file defined the industry as franchise outlets only, excluding the broader independent HVAC contractor market, and estimated 2020 revenue at $984.6 million after a COVID-driven 13.0% decline. The same baseline forecast revenue reaching about $1.2 billion in 2025, with 1,432 establishments, 5,421 workers and 5.6% EBIT margin. Current 2025-2026 conditions are mixed: essential repair and maintenance work remains durable, energy-efficiency incentives and low-GWP refrigerant transitions create replacement work, but single-family housing starts and remodeling growth are softer than expected, limiting new-construction installation volume.",
+    "key_stats": {
+      "market_size": "2025: about $1.2 billion in US franchise outlet revenue; 2026: estimated $1.23 billion-$1.28 billion based on baseline 2025 level and low-single-digit 2026 demand indicators.",
+      "growth": "2020-2025: +4.8% CAGR in the baseline forecast; 2026: low-single-digit estimated revenue growth as repair/replacement offsets weaker new housing starts.",
+      "profit_margin": "2025: 5.6% EBIT margin in the baseline forecast, up from 4.8% in 2020.",
+      "establishments": "2025: 1,432 franchised locations in the baseline forecast.",
+      "employment": "2025: 5,421 workers in the baseline forecast; broader US HVACR mechanics/installers employment was 425,200 in 2024 and is projected by BLS to grow 8.1% from 2024 to 2034.",
+      "housing_starts": "2025: 1.36 million total US housing starts, down 0.6% from 2024; 2025 single-family starts were 943,000, down 6.9%.",
+      "home_improvement_repair_spending": "2026: owner-occupied renovation and repair spending projected near $524 billion in early 2026 in an October 2025 JCHS release; July 2026 LIRA projected $519 billion through mid-2027 with 0.5% year-over-year growth by 2027 Q2.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.08 billion in 2020 dollars, derived from the baseline file's 2020 revenue of $984.6 million and 2020-2025 forecast CAGR of 4.8%.",
+      "growth": "2022: about +4.8% implied forecast growth under the baseline 2020-2025 trajectory.",
+      "context": "The 2020 baseline expected recovery toward pre-COVID levels, with demand from construction, home improvements, energy-efficient upgrades and recurring maintenance."
+    },
+    "how_it_makes_money": "Franchisees earn revenue from diagnostic service calls, emergency repairs, planned maintenance memberships, seasonal tune-ups, system replacements, new-construction installations, duct and indoor-air-quality work, thermostats and controls, and selected refrigeration work. Franchisors earn from initial franchise fees, royalties, brand funds, training, software/platform participation and vendor programs; local franchisees keep operating revenue after labor, equipment, vehicle, marketing, royalty and overhead costs.",
+    "cost_structure": {
+      "labor": "Largest cost bucket; technicians, installers, dispatchers and managers drive service capacity, and skilled labor shortages raise wages and training costs.",
+      "equipment_and_parts": "Compressors, condensers, coils, furnaces, heat pumps, refrigerants, controls, ductwork and consumables are major variable costs, with 2025-2026 pressure from low-GWP refrigerant transition inventory and training needs.",
+      "vehicles_and_fuel": "Service trucks, wraps, tools, fuel, insurance and maintenance are required for local route-based work.",
+      "franchise_fees_and_marketing": "Typical franchise economics include an upfront franchise fee, ongoing royalties, brand fund contributions, local advertising and required software systems.",
+      "technology": "Dispatch, CRM, financing, call center, price-book, technician mobile apps and membership billing systems are increasingly central to productivity and customer conversion.",
+      "profit": "Baseline EBIT margin was 4.8% in 2020 and forecast at 5.6% in 2025, with margins sensitive to technician utilization, lead costs, warranty callbacks, parts inflation and mix between repair and replacement."
+    },
+    "major_players": [
+      "One Hour Heating & Air Conditioning / Authority Brands: 2026 materials cite 400+ locations and 2025 growth of 23 new franchise agreements and 31 new territories.",
+      "Aire Serv / Neighborly: 2026 franchise materials cite 200+ US locations and recurring HVAC maintenance, repair and replacement revenue streams.",
+      "TemperaturePro: franchise materials cite 40+ owners and a national HVAC service model focused on exclusive service territories.",
+      "DUCTZ / BELFOR Franchise Group: indoor-air-quality, air-duct cleaning and HVAC restoration franchise competing for duct and IAQ service wallet share.",
+      "Local and regional independent HVAC contractors: not franchised, but the largest competitive pressure for price, technician hiring and customer retention."
+    ],
+    "current_dynamics": "Demand in 2025-2026 is being reshaped by three forces: the equipment cycle, the housing cycle and the franchising cycle. The equipment cycle is favorable because older systems, energy-efficiency rules, heat-pump adoption, IRA-era tax credits through 2025 and the A2L refrigerant transition create replacement, training and advisory work. The housing cycle is less favorable because 2025 total housing starts slipped and single-family starts fell sharply, reducing new-installation volume. The franchising cycle remains active as national home-service platforms add territories, convert existing HVAC shops and push software-driven dispatch, membership plans and cross-brand marketing.",
+    "whats_growing": [
+      "Replacement of aging HVAC systems with heat pumps, higher-efficiency units and lower-GWP refrigerant equipment in 2025-2026.",
+      "Recurring maintenance memberships and seasonal tune-up plans because they smooth revenue outside emergency demand spikes.",
+      "Indoor air quality, duct cleaning, smart thermostats, zoning and connected diagnostics as add-on services.",
+      "Franchise conversions of existing local HVAC shops seeking national branding, call-center support, software and purchasing programs.",
+      "Commercial service tied to data centers, healthcare, manufacturing and other climate-control-intensive facilities."
+    ],
+    "whats_shrinking": [
+      "New single-family installation opportunities in 2025 after single-family starts fell 6.9% from 2024.",
+      "Large discretionary replacement projects for budget-constrained homeowners as remodeling growth slows into 2026-2027.",
+      "Legacy R-410A new-system installation work after the 2025-2026 EPA transition deadlines, while repair of existing systems remains permitted.",
+      "Margins on low-complexity repairs where independents, retailers and manufacturer-affiliated service networks compete aggressively."
+    ],
+    "recent_developments": [
+      "2025-01-01: EPA Technology Transitions rules began restricting high-GWP HFCs in new residential and light-commercial AC and heat-pump equipment, with key installation sell-through provisions extending into 2026 for qualifying pre-2025 components.",
+      "2025-01-01: ENERGY STAR 2025 rules kept the federal air-source heat-pump tax credit at 30% of project cost up to $2,000 for qualifying installations purchased and installed from 2023-01-01 through 2025-12-31.",
+      "2025-12-31: IRS 2025 Form 5695 instructions stated energy efficient home improvement credits cannot be claimed for property placed in service after 2025-12-31 under current law.",
+      "2026-02-05: One Hour Heating & Air Conditioning said it signed 23 new franchise agreements and added 31 new territories during 2025 across 10 states.",
+      "2026-02-18: NAHB reported 2025 US housing starts of 1.36 million, down 0.6% from 2024, with single-family starts down 6.9% and multifamily starts up 17.4%.",
+      "2026-07-23: Harvard JCHS LIRA projected home improvement and repair spending growth slowing to 0.5% by 2027 Q2, with spending projected at $519 billion through mid-2027."
+    ],
+    "outlook": "The 2026-2030 outlook is cautiously positive but less construction-led than the 2020 baseline assumed. Franchise HVAC operators should benefit from a large installed base, climate extremes, system failures, maintenance plans, heat-pump upgrades, A2L refrigerant compliance work and national franchisor operating systems. Growth is likely to be strongest for brands that convert existing operators, retain technicians, sell memberships and improve replacement close rates. The main constraint is demand cyclicality from housing and remodeling: if rates and affordability keep home sales and single-family starts subdued, revenue mix shifts toward repair, maintenance and selective replacements rather than high-ticket new installations.",
+    "themes": [
+      "Essential home services",
+      "Franchise consolidation",
+      "Aging housing stock",
+      "Heat pump adoption",
+      "Low-GWP refrigerant transition",
+      "Energy efficiency incentives",
+      "Technician shortage",
+      "Recurring maintenance memberships",
+      "Software-enabled field service",
+      "Housing-cycle sensitivity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file, HVAC Service Franchises, last updated 2020-11-24', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hvac-service-franchises.txt'}",
+      "{'name': 'EPA Technology Transitions HFC Restrictions by Sector', 'url': 'https://www.epa.gov/hfcs/technology-transitions-hfc-restrictions-sector'}",
+      "{'name': 'EPA HFC phasedown frequent questions', 'url': 'https://www.epa.gov/hfcs/frequent-questions-phasedown-hydrofluorocarbons'}",
+      "{'name': 'ENERGY STAR Air Source Heat Pumps Tax Credit', 'url': 'https://www.energystar.gov/about/federal-tax-credits/air-source-heat-pumps'}",
+      "{'name': 'IRS Instructions for Form 5695, 2025', 'url': 'https://www.irs.gov/instructions/i5695'}",
+      "{'name': 'AHRI Central Air Conditioners and Air-Source Heat Pumps statistics', 'url': 'https://www.ahrinet.org/analytics/statistics/historical-data/central-air-conditioners-and-air-source-heat-pumps'}",
+      "{'name': 'BLS Occupational Outlook Handbook: Heating, Air Conditioning, and Refrigeration Mechanics and Installers', 'url': 'https://www.bls.gov/ooh/Installation-Maintenance-and-Repair/Heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm'}",
+      "{'name': 'NAHB Overall Housing Starts Inch Lower in 2025', 'url': 'https://www.nahb.org/news-and-economics/press-releases/2026/02/overall-housing-starts-inch-lower-in-2025'}",
+      "{'name': 'Harvard Joint Center for Housing Studies LIRA, July 2026', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-spending-poised-further-slowdown'}",
+      "{'name': 'One Hour Heating & Air Conditioning Franchise 2025 Growth and New Opportunities for 2026', 'url': 'https://onehourheatandairfranchise.com/one-hour-heating-air-conditioning-franchise-2025-growth-and-new-opportunities-for-2026/'}",
+      "{'name': 'Aire Serv Franchise Opportunity, Neighborly', 'url': 'https://franchise.neighborly.com/aire-serv'}",
+      "{'name': 'One Hour Heating & Air Conditioning franchise overview', 'url': 'https://onehourheatandairfranchise.com/'}"
+    ],
+    "one_sentence": "The US HVAC Service Franchises industry is a small but resilient home-services franchise niche, supported by recurring repair demand, aging building systems, energy-efficiency upgrades and national franchisors that help local operators with branding, dispatch, software, training and purchasing power.",
+    "slug": "hvac-service-franchises"
+  },
+  {
+    "title": "Hair & Nail Salons in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented, labor-heavy personal-care industry recovering through higher prices, premium treatments, digital booking, and resilient grooming demand.",
+    "overview": "Hair & Nail Salons in the US includes establishments primarily offering haircuts, styling, coloring, texture treatments, manicures, pedicures, facials, makeup application, and related beauty-product retail. The industry is mature and highly fragmented, with low barriers to entry, many sole proprietors and booth-rental operators, and limited national-chain concentration. Demand tracks disposable income and consumer spending, but recurring grooming, weddings/events, workplace norms, and self-care habits make the category more resilient than many discretionary services. Since the 2020 shutdown shock, recovery has come from reopening volumes, higher average ticket prices, premium color and nail add-ons, and better digital scheduling and marketing tools.",
+    "key_stats": {
+      "market_size": "2025: $90.9 billion estimated US hair and nail salon revenue; 2026: $92.5 billion projected revenue",
+      "growth": "2026: about 1.8% projected revenue growth from 2025; 2020-2026: about 2.2% CAGR implied by IBISWorld-cited public summaries",
+      "price_inflation": "2025: BLS CPI for haircuts and other personal care services rose 4.8% year over year in December 2025",
+      "employment": "2024: BLS counted 651,200 barbers, hairstylists and cosmetologists and 210,100 manicurists and pedicurists",
+      "job_outlook": "2024-2034: BLS projects 5% employment growth for barbers/hairstylists/cosmetologists and 7% for manicurists/pedicurists",
+      "profit_margin": "2025: public IBISWorld-cited salon benchmarks put typical net margin around 8.2% to 17%, varying by booth-rental, commission, location and service mix",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $72.7 billion revenue in 2022 dollars",
+      "growth": "2022: 4.0% annual revenue growth; 2017-2022: -1.9% CAGR due to the 2020 COVID-19 decline",
+      "profit": "2022: $6.0 billion profit and 8.3% profit margin",
+      "establishments": "2022: 1.39 million establishments",
+      "enterprises": "2022: 1.38 million enterprises",
+      "employment": "2022: 1.82 million workers",
+      "wages": "2022: $31.2 billion wages",
+      "outlook_in_baseline": "2027: IBISWorld baseline projected $82.4 billion revenue and 2.5% CAGR from 2022 to 2027"
+    },
+    "how_it_makes_money": {
+      "services": "2025: revenue is mainly from haircuts, styling, blowouts, coloring, tinting, perms, keratin/smoothing treatments, manicures, pedicures, gel and acrylic nail services, facials and makeup services.",
+      "premium_add_ons": "2025: higher-margin tickets come from color correction, balayage, extensions, structured gel manicures, deluxe pedicures, scalp treatments, bridal/event packages and antiaging or skin-care services.",
+      "retail": "2025: salons add revenue through professional shampoos, conditioners, styling products, nail-care products, skin-care items and gift cards.",
+      "business_models": "2025: models include employer salons paying wages or commissions, booth-rental salons collecting chair rent, salon-suite operators leasing private rooms, franchises, mobile beauty providers and independent stylists booking directly through social platforms."
+    },
+    "cost_structure": {
+      "labor": "2025: wages, commissions and contractor payouts are typically the largest expense, often 35% to 55% of revenue in commission salons.",
+      "rent_occupancy": "2025: rent and occupancy commonly run 6% to 12% of revenue, with higher pressure in dense urban and coastal markets.",
+      "products_supplies": "2025: back-bar color, nail products, disposables and retail inventory commonly run 5% to 10% of revenue, with color-heavy salons at the high end.",
+      "technology_payments": "2025: booking software, POS, merchant fees, SMS/email marketing and marketplace tools commonly run 2% to 4% of revenue.",
+      "marketing": "2025: local ads, social media content, influencer activity and loyalty programs commonly run 1% to 5% of revenue.",
+      "utilities_insurance_licensing": "2025: utilities often run 2% to 4%, while insurance, state licensing and compliance costs often run 1% to 3%.",
+      "profit": "2025: typical net profit is roughly 8.2% to 17%, with stronger margins in booth-rental and well-utilized salons."
+    },
+    "major_players": [
+      "Great Clips",
+      "Sport Clips",
+      "Regis Corporation / Supercuts",
+      "Fantastic Sams",
+      "Ulta Beauty salon services",
+      "Drybar",
+      "Sola Salons",
+      "Phenix Salon Suites"
+    ],
+    "current_dynamics": "The 2025-2026 market is growing slowly in real terms but benefiting from price increases and premium mix. BLS reported 2025 haircuts and personal-care service inflation of 4.8%, helping nominal revenue even as consumers trade down or stretch appointment intervals in some markets. Independent professionals remain central: BLS 2024 data show high self-employment shares for barbers and hairstylists, and salon suites and booth rental continue to shift economics from payroll-heavy employer salons toward landlord-style and solo-operator models. Digital booking, payments, loyalty programs, text marketing and Instagram/TikTok portfolios are now core demand-generation tools rather than optional add-ons.",
+    "whats_growing": [
+      "2025: premium color, balayage, gray blending, corrective color and extensions that raise average tickets.",
+      "2025: gel, structured gel, acrylic, dip-powder and nail-art services with higher price points than basic manicures.",
+      "2025: salon suites, booth rental, independent stylists and mobile beauty models that reduce fixed payroll exposure.",
+      "2025: online booking, mobile payments, loyalty programs, memberships and automated client reminders.",
+      "2026: employer salons may benefit from the new 45B FICA tip tax credit, improving after-tax economics on tipped employee compensation."
+    ],
+    "whats_shrinking": [
+      "2025: low-margin basic walk-in services are pressured by wage, rent, insurance and product-cost inflation.",
+      "2025: cash-only and phone-only salons are losing convenience-sensitive clients to digitally enabled competitors.",
+      "2025: some consumers are extending time between appointments or trading down from premium services as service prices rise.",
+      "2025: formaldehyde-based smoothing and straightening products face regulatory and health-risk pressure.",
+      "2025: traditional commission salons face stylist retention pressure from suite rental and independent-contractor alternatives."
+    ],
+    "recent_developments": [
+      "2025-07-04: Congress extended the Section 45B FICA tip tax credit to salon, spa and barbershop employers, according to the Professional Beauty Association.",
+      "2025-08-10: IBISWorld/Statista market-growth data indicated the 2025 hair-salon market slipped slightly after its post-COVID rebound.",
+      "2025-12: FDA's Spring 2025 Unified Agenda targeted a proposed rule to ban formaldehyde and formaldehyde-releasing chemicals in heated hair smoothing and straightening products.",
+      "2026-01-13: BLS reported haircuts and other personal care services prices were up 4.8% year over year in December 2025.",
+      "2026-02-12: PBA's Pro Beauty Pulse reported December 2025 year-over-year performance of +2.1% for solopreneurs and +6.3% for commission salons in The KIM Report sample.",
+      "2026-06-03: DOJ said owners of a nationwide nail-salon business pleaded guilty to tax crimes involving more than $116 million in unreported cash payments."
+    ],
+    "outlook": "The 2026 outlook is modestly positive: revenue is expected to reach about $92.5 billion, up about 1.8% from 2025, with nominal growth driven by service pricing, premium treatment mix and steady grooming demand. Real growth is more constrained because consumers remain price-sensitive and salons face higher wages, rent, insurance, card fees and product costs. The strongest operators will be those with full books, clear specialization, effective retention programs, disciplined labor scheduling and modern booking/payment systems. Regulation around worker classification, nail-salon labor practices and formaldehyde-releasing hair products will remain an operating risk, while the 2025 FICA tip-credit expansion could improve employer-salon economics.",
+    "themes": [
+      "fragmented local competition",
+      "premiumization of color and nail services",
+      "salon suites and independent professionals",
+      "digital booking and loyalty",
+      "service-price inflation",
+      "labor and worker-classification scrutiny",
+      "clean beauty and formaldehyde regulation",
+      "low capital intensity",
+      "high customer retention value"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/hair-and-nail-salons-in-the-us.txt, IBISWorld report last updated 2022-07-03",
+      "IBISWorld-cited public summary via LeadResponse, 2026: https://leadresponse.co/blog/salon-industry-statistics",
+      "IBISWorld-cited public summary via LLCForge, 2026: https://llcforge.com/business-ideas/mobile-beauty/",
+      "BLS Occupational Outlook Handbook, Barbers, Hairstylists, and Cosmetologists, 2024 data: https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+      "BLS Occupational Outlook Handbook, Manicurists and Pedicurists, 2024 data: https://www.bls.gov/ooh/personal-care-and-service/manicurists-and-pedicurists.htm",
+      "BLS CPI news release, 2025 annual price change for haircuts and other personal care services: https://www.bls.gov/news.release/archives/cpi_01132026.htm",
+      "FRED/BLS CPI Personal Care Services, June 2026 update: https://fred.stlouisfed.org/series/CWUR0000SEGC",
+      "Professional Beauty Association Pro Beauty Pulse, January 2026 Insights: https://www.probeauty.org/pro-beauty-pulse-january-2026-insights/",
+      "Professional Beauty Association FICA Tax Tip Fairness, 2025: https://www.probeauty.org/fica-tax-tip-fairness/",
+      "FDA Unified Agenda RIN 0910-AI83, Spring 2025: https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=0910-AI83&pubId=202504",
+      "FDA Formaldehyde in Hair Smoothing Products: https://www.fda.gov/consumers/consumer-updates/formaldehyde-hair-smoothing-products-what-you-should-know",
+      "DOJ press release, nationwide nail salon tax crimes, 2026-06-03: https://www.justice.gov/opa/pr/owners-nationwide-nail-salon-business-plead-guilty-tax-crimes",
+      "Square Future of Beauty / 2025 beauty trends: https://squareup.com/us/en/the-bottom-line/series/foc/beauty-industry-trends"
+    ],
+    "one_sentence": "US hair and nail salons generated an estimated $90.9 billion in 2025 revenue and are projected to reach about $92.5 billion in 2026, with growth supported by service-price inflation, premium hair color and nail services, and high self-employment despite tight labor and occupancy costs.",
+    "slug": "hair-and-nail-salons-in-the-us"
+  }
+]

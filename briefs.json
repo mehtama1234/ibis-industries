@@ -1,0 +1,810 @@
+[
+ {
+  "slug": "web-design-services",
+  "title": "Web Design Services",
+  "sector": "Technology & Digital",
+  "one_liner": "Companies that design and develop websites for businesses, individuals, and government agencies.",
+  "overview": "The Web Design Services industry provides web design, graphic design, user experience design, and related coding services. The industry has declined over the past five years as affordable do-it-yourself website platforms like Wix, Squarespace, and Shopify have made it easier for customers to build their own sites without hiring professional designers. Revenue fell to $11.0 billion in 2022 and is expected to continue declining slowly.",
+  "key_stats": {
+   "market_size": "$11.0 billion (2022)",
+   "growth": "-3.1% per year (2017-2022)",
+   "businesses": "26,905 enterprises",
+   "employees": "41,288",
+   "profit_margin": "5.6%",
+   "concentration": "low — highly fragmented with mostly small companies and freelancers"
+  },
+  "how_it_makes_money": "Companies charge for building websites from scratch, redesigning existing sites, and ongoing maintenance. Revenue breaks down into custom platform development (55%), WordPress development (33%), and other content platforms like Shopify (13%).",
+  "cost_structure": "Labor is the largest cost. Wages were about $4.2 billion in 2022. Many operators work as freelancers with minimal overhead; larger firms face higher office and salary costs, making them less price-competitive.",
+  "major_players": [
+   "Highly fragmented — no dominant player"
+  ],
+  "whats_growing": "Demand from government agencies and mobile-responsive design. Corporate profit recovery after COVID-19 could boost business spending on new websites.",
+  "whats_shrinking": "DIY platforms like Wix, Squarespace, and WordPress take customers from professional designers. Companies build native mobile apps instead of mobile websites. Global competition from lower-cost overseas designers. Many firms maintain sites in-house.",
+  "themes": [
+   "DIY software eating services",
+   "platform shift to native mobile apps",
+   "global wage arbitrage in remote services",
+   "market saturation and declining demand",
+   "consolidation around low-code platforms"
+  ],
+  "one_sentence": "The web design industry is slowly shrinking as easy-to-use website platforms and native mobile apps let customers bypass hiring professional designers."
+ },
+ {
+  "slug": "3d-printer-manufacturing",
+  "title": "3D Printer Manufacturing",
+  "sector": "Manufacturing",
+  "one_liner": "Companies that design and build three-dimensional printers for industrial, medical, aerospace and consumer uses.",
+  "overview": "The 3D printer manufacturing industry makes machines that create solid objects layer by layer from digital blueprints using materials like plastic, resin, or metal. The industry has grown rapidly over two decades as the technology became cheaper and found uses in aerospace, healthcare, automotive and architecture. Despite an 11.8% revenue drop in 2020 from COVID-19, it has rebounded strongly.",
+  "key_stats": {
+   "market_size": "$5.2bn (2021)",
+   "growth": "13.5% per year (2016-2021)",
+   "businesses": "108 establishments",
+   "employees": "4,072",
+   "profit_margin": "0.8%",
+   "concentration": "low; 108 competing businesses with no major market leaders"
+  },
+  "how_it_makes_money": "The industry sells finished 3D printers (57% of revenue), replacement materials like plastic and resin (29%), and maintenance, installation and training (14%). Machines range from $5,000 to $380,000.",
+  "cost_structure": "Material costs (plastic, resin, metal), labor for manufacturing and R&D, and equipment expenses are the major items.",
+  "major_players": [
+   "Stratasys Ltd.",
+   "3D Systems Corporation",
+   "Hewlett-Packard (HP)",
+   "MakerBot (consumer segment)"
+  ],
+  "whats_growing": "Healthcare demand for custom prosthetics, implants and surgical models. Aerospace makers adopting printing for lighter parts. Falling prices opening the market to smaller manufacturers, design firms and universities.",
+  "whats_shrinking": "Consumer home-printer demand disappointed — Stratasys wrote down MakerBot and 3D Systems exited consumer. Commercial aviation collapsed in 2020. Rising imports mean more foreign competition.",
+  "themes": [
+   "industrial automation and precision manufacturing",
+   "healthcare customization",
+   "aerospace fuel-efficiency and weight reduction",
+   "prototyping and product-development speed",
+   "material science and composites",
+   "reshoring and domestic production"
+  ],
+  "one_sentence": "3D printer manufacturing is a fast-growing but thin-margin industry moving from niche aerospace use toward healthcare, automotive and design, though consumer demand has stalled."
+ },
+ {
+  "slug": "auto-parts-manufacturing-in-the-us",
+  "title": "Auto Parts Manufacturing in the US",
+  "sector": "Manufacturing",
+  "one_liner": "Companies manufacture components like exhaust systems, airbags, and HVAC units for new cars and the aftermarket.",
+  "overview": "Auto parts manufacturing is a mature industry that supplies critical components to automakers and repair shops. It declined over the past decade but rebounded sharply in 2021 as the economy recovered from the pandemic, with modest growth projected through 2026 as new car demand stabilizes.",
+  "key_stats": {
+   "market_size": "$66.9bn (2021)",
+   "growth": "-2.3% per yr (2016-2021)",
+   "businesses": "1,296 establishments",
+   "employees": "166,470",
+   "profit_margin": "4.0%",
+   "concentration": "low — highly fragmented with many specialized manufacturers serving specific automakers or niches"
+  },
+  "how_it_makes_money": "Manufacturers sell components to automakers (OEMs) like GM and Ford for new vehicles, and to wholesalers, repair shops and DIY mechanics in the aftermarket. Major lines: exhaust systems (20%), HVAC (11%), airbags (7%).",
+  "cost_structure": "Raw materials (steel, aluminum, plastics, textiles) dominate; labor is about 12% of revenue and rising; capital equipment is significant.",
+  "major_players": [
+   "Supplies GM, Ford and Stellantis (fragmented supplier base)"
+  ],
+  "whats_growing": "Recovery as new car sales rebound; demand for advanced safety systems and electronics; EV battery cooling systems; aftermarket sales from an aging vehicle fleet.",
+  "whats_shrinking": "Low-tech commodity parts losing share to low-wage foreign makers; EV shift eroding demand for exhaust components; uncertain consumer spending.",
+  "themes": [
+   "automation and labor-cost management",
+   "shift to high-value technology-intensive products",
+   "electric-vehicle disruption to legacy powertrains",
+   "global supply-chain consolidation and nearshoring",
+   "emissions regulation driving complexity",
+   "import competition from low-wage markets"
+  ],
+  "one_sentence": "Auto parts makers are consolidating around high-tech products while commodity components flee to cheaper countries, leaving margins razor-thin and demanding constant innovation."
+ },
+ {
+  "slug": "orthopedic-products-manufacturing",
+  "title": "Orthopedic Products Manufacturing",
+  "sector": "Healthcare",
+  "one_liner": "Companies that make braces, supports, and implantable devices to help joints, bones, and muscles work better.",
+  "overview": "This industry manufactures orthopedic appliances like braces and implants used to treat joint pain and injuries. It has grown steadily as the US population ages and more people play sports. COVID-19 temporarily hurt sales in 2020, but the industry has bounced back to pre-pandemic levels.",
+  "key_stats": {
+   "market_size": "$11.8bn (2022)",
+   "growth": "2.7% per yr (2017-2022)",
+   "businesses": "480 enterprises",
+   "employees": "26,614",
+   "profit_margin": "5.6%",
+   "concentration": "high — four companies control over 80% of revenue"
+  },
+  "how_it_makes_money": "The industry sells simple braces and supports through pharmacies and health stores, and advanced implantable devices directly to hospitals and doctors. Knee braces are the biggest product (37%), then hip supports (25%).",
+  "cost_structure": "Not detailed in the report; implied major items are materials, skilled labor and R&D for implantable devices.",
+  "major_players": [
+   "Stryker Corp (27.5%)",
+   "Zimmer Biomet Holdings (22.8%)",
+   "Johnson & Johnson (18.7%)",
+   "Smith & Nephew Plc (2.7%)"
+  ],
+  "whats_growing": "The aging population is the biggest driver — more seniors means more joint pain and demand for braces and implants. Rising sports participation. Medicare and Medicaid funding increases.",
+  "whats_shrinking": "Import competition from China and Switzerland pressuring prices. A strong US dollar made foreign products cheaper. Stagnant private health insurance limits growth.",
+  "themes": [
+   "aging population driving healthcare demand",
+   "import competition from low-cost manufacturing",
+   "consolidation through M&A",
+   "shift from wearable braces to advanced implants",
+   "healthcare access and insurance affordability"
+  ],
+  "one_sentence": "The orthopedic products industry is growing steadily on the back of an aging America, but faces intense price competition from overseas makers and limits from stagnant insurance coverage."
+ },
+ {
+  "slug": "residential-senior-care-franchises",
+  "title": "Residential Senior Care Franchises",
+  "sector": "Healthcare",
+  "one_liner": "Franchised residential and personal-care facilities for elderly people who cannot fully care for themselves.",
+  "overview": "This industry provides housing, meals, and daily-living assistance to seniors, particularly those with dementia or Alzheimer's. It has grown rapidly due to an aging population and benefited from government stimulus during COVID-19, though it faces regulatory pressure from reimbursement cuts.",
+  "key_stats": {
+   "market_size": "$5.97bn (2021)",
+   "growth": "11.4% per yr (2016-2021)",
+   "businesses": "2,746 establishments; 1,534 enterprises",
+   "employees": "163,813",
+   "profit_margin": "14.8%",
+   "concentration": "low — top three franchise brands account for less than 10% of revenue"
+  },
+  "how_it_makes_money": "Operators earn monthly fees from residents and families (47.6% out-of-pocket), plus government programs (Medicare/Medicaid 15.7%) and private insurance (7.6%). Franchisees pay initial fees and ongoing royalties.",
+  "cost_structure": "Wages are the largest cost, projected to rise from 50.1% of revenue in 2021 to 53.4% by 2026. Facility operations, food, and care staff follow; construction and land need capital.",
+  "major_players": [
+   "Beehive Homes (200+ franchise locations across 19 states)"
+  ],
+  "whats_growing": "Aging population (65+ growing ~2.9% a year), rising dementia and Alzheimer's incidence, home equity funding care as house prices rise, improving disposable income, and pandemic-era government support.",
+  "whats_shrinking": "Medicare and Medicaid reimbursement rates under pressure from cost control. The Affordable Care Act encourages at-home care over residential facilities. Managed-care pushback may compress margins.",
+  "themes": [
+   "aging population and demographic shift",
+   "dementia and chronic-disease care",
+   "government healthcare cost containment",
+   "housing-wealth unlock for seniors",
+   "franchise model scaling personal services"
+  ],
+  "one_sentence": "Residential senior care franchises are a rapidly growing but highly fragmented industry riding demographic tailwinds from aging baby boomers, though reimbursement cuts pose margin risks."
+ },
+ {
+  "slug": "energy-drink-production",
+  "title": "Energy Drink Production",
+  "sector": "Food & Drink",
+  "one_liner": "Factories make canned and bottled energy drinks with caffeine, vitamins, and herbal ingredients for retail sale.",
+  "overview": "The energy drink industry grew robustly over the five years to 2022, reaching $11.7 billion despite health concerns about sugar and caffeine. Convenience stores drive nearly two-thirds of sales, while consumers shift slightly toward lower-sugar options. The industry is maturing, with small independents entering alongside Red Bull and Monster.",
+  "key_stats": {
+   "market_size": "$11.7bn (2022)",
+   "growth": "2.9% per yr (2017-2022)",
+   "businesses": "107 enterprises",
+   "employees": "18,243",
+   "profit_margin": "11.3%",
+   "concentration": "high: Red Bull and Monster dominate, but entry is accelerating"
+  },
+  "how_it_makes_money": "Producers sell canned and bottled drinks to convenience stores, supermarkets, and warehouse clubs, who resell to consumers. Revenue also comes from energy shots, powdered mixes, and health-focused formats.",
+  "cost_structure": "Capital intensity is high (manufacturing and bottling); largest costs are raw materials (sugar, caffeine, vitamins, packaging) and distribution networks.",
+  "major_players": [
+   "Red Bull GmbH",
+   "Monster Beverage Corporation",
+   "5-Hour Energy"
+  ],
+  "whats_growing": "Growing demand from wider age groups; consumers switching from soda; all-natural and organic energy drinks; energy shots and mixes capturing incremental share.",
+  "whats_shrinking": "Health concerns about caffeine and sugar; falling per-capita sugar consumption; margin compression from rising marketing spend and discount-retailer price competition.",
+  "themes": [
+   "health-conscious beverage shift",
+   "soda replacement demand",
+   "convenience-channel saturation",
+   "discretionary spending sensitivity",
+   "product proliferation and segmentation",
+   "ingredient transparency and natural positioning"
+  ],
+  "one_sentence": "Energy drinks have grown into a mainstream industry by expanding distribution and targeting diverse consumers, but growth is slowing as health awareness spreads and competition intensifies."
+ },
+ {
+  "slug": "meal-kit-delivery-services",
+  "title": "Meal Kit Delivery Services",
+  "sector": "Food & Drink",
+  "one_liner": "Companies deliver pre-portioned ingredients and recipes to customers who prepare meals at home.",
+  "overview": "The industry distributes weekly subscription boxes of pre-measured ingredients and cooking instructions. It grew explosively from 2012 to 2022, with revenue surging 78.2% in 2020 as consumers avoided grocery stores during the pandemic. Growth is moderating as grocers and online shopping compete, but the industry remains in a growth phase.",
+  "key_stats": {
+   "market_size": "$6.92bn (2022)",
+   "growth": "19.0% per year (2012-2022)",
+   "businesses": "585 establishments",
+   "employees": "9,140",
+   "profit_margin": "3.8%",
+   "concentration": "high — four largest companies hold 88.9% of revenue"
+  },
+  "how_it_makes_money": "Revenue comes from weekly meal-kit subscriptions with two- or four-serving options (58% and 25.7%), plus add-on sales of beverages, proteins and other food.",
+  "cost_structure": "Shipping perishable goods is the dominant cost — insulated packaging, ice packs, individual wrapping. Steep new-customer discounts further pressure margins.",
+  "major_players": [
+   "HelloFresh SE",
+   "Blue Apron Holdings Inc.",
+   "Home Chef / Relish Labs LLC",
+   "Sun Basket Inc."
+  ],
+  "whats_growing": "Health-conscious consumers on vegetarian, vegan, keto, paleo and gluten-free diets. Rising disposable income and work-from-home enable busy professionals to pay for convenience.",
+  "whats_shrinking": "Weak retention as customers chase discounts. Free online recipes and experienced cooks abandon pricey kits. Intensifying competition from Walmart, Amazon and grocers. Thin margins.",
+  "themes": [
+   "time-poverty premium",
+   "e-commerce disruption of grocery",
+   "dietary customization niche markets",
+   "subscription economy maturation",
+   "direct-to-consumer supply chain",
+   "health and wellness consumerism"
+  ],
+  "one_sentence": "Meal kit delivery is a high-growth but low-margin industry dominated by four companies fighting for loyalty through discounts while competing against free recipes and better-capitalized grocers."
+ },
+ {
+  "slug": "whiskey-and-bourbon-distilleries",
+  "title": "Whiskey & Bourbon Distilleries",
+  "sector": "Food & Drink",
+  "one_liner": "Distilleries that ferment grains into American whiskey, bourbon, and rye, then bottle it for wholesalers and retailers.",
+  "overview": "The US whiskey and bourbon industry is in growth mode, driven by consumers trading up to premium and super-premium brands, particularly younger drinkers exploring craft varieties. Revenue hit $4.8 billion in 2021 after growing 6.1% annually, though tariffs cut into exports. Small craft distilleries are multiplying and fragmenting the market.",
+  "key_stats": {
+   "market_size": "$4.8bn (2021)",
+   "growth": "6.1% per yr (2016-2021)",
+   "businesses": "657",
+   "employees": "4,802",
+   "profit_margin": "4.5%",
+   "concentration": "high; Brown-Forman and Beam Suntory dominate, but craft distilleries are fragmenting share"
+  },
+  "how_it_makes_money": "Distilleries sell through a three-tier system: wholesalers (27%) and retailers (38.7%), with the rest exports (19.8%) and restaurants (10.6%). Products span value to super-premium tiers.",
+  "cost_structure": "Corn and grain inputs, labor (6.6% of revenue, rising), glass and cardboard packaging, and heavy marketing to compete in niche segments.",
+  "major_players": [
+   "Brown-Forman Corp.",
+   "Beam Suntory Inc.",
+   "Jack Daniel's",
+   "Jim Beam"
+  ],
+  "whats_growing": "Premiumization as incomes rise; craft distilleries expanding beyond the South; online ordering and home delivery; younger and female drinkers; flavored and milder blends; rebounding exports.",
+  "whats_shrinking": "Export volumes hit by 2018 tariff wars; value whiskey losing share to premium; on-premise drinking hurt by COVID closures; rising wages for skilled distillers.",
+  "themes": [
+   "premiumization and trading-up",
+   "craft-producer proliferation",
+   "tariff volatility and export risk",
+   "demographic shift to younger and female drinkers",
+   "discretionary spending cyclicality",
+   "e-commerce and direct delivery shift"
+  ],
+  "one_sentence": "Craft distilleries are fragmenting a booming market as consumers trade up to premium whiskey, but rapid competition, tariffs and thin margins for smaller players will slow growth."
+ },
+ {
+  "slug": "womens-clothing-stores-in-the-us",
+  "title": "Women's Clothing Stores in the US",
+  "sector": "Retail",
+  "one_liner": "Brick-and-mortar stores that specialize in selling women's clothing, accessories, and related apparel.",
+  "overview": "The women's clothing stores industry is in steady decline due to falling mall traffic and competition from discount and online retailers. Premium brands and specialty stores (plus-size, athletic, eco-friendly) have held up better than discounters, capturing affluent and niche shoppers. Store and enterprise counts are shrinking as companies merge or exit.",
+  "key_stats": {
+   "market_size": "$40.4bn (2022)",
+   "growth": "-2.0% per yr",
+   "businesses": "46,205 enterprises",
+   "employees": "324,626",
+   "profit_margin": "2.3%",
+   "concentration": "low; fragmented with niche players and national chains, though consolidation is accelerating"
+  },
+  "how_it_makes_money": "Retail sales of women's clothing — tops (31%), bottoms (21%), accessories/sportswear (26%), dresses (14%), outerwear (8%). Stores earn margin on markup over wholesale; some offer alterations.",
+  "cost_structure": "Cost of goods sold is the largest expense. Suppliers are concentrated in Asia, exposing the industry to supply-chain volatility. Rent and labor are significant fixed costs.",
+  "major_players": [
+   "Chico's FAS Inc.",
+   "Athleta",
+   "Ann Taylor / Loft / Lane Bryant (Sycamore Partners)",
+   "Ascena brands (post-bankruptcy)"
+  ],
+  "whats_growing": "Premium brands and specialty retailers targeting affluent women. Niche players in athletic wear, plus-size, eco-friendly and premium denim. In-store experience and omnichannel presence.",
+  "whats_shrinking": "Discount and lower-priced brands squeezed by fast fashion (H&M, Zara) and off-price e-commerce. Collapsing mall traffic. Weak formalwear demand from remote work. Bankruptcies among older chains.",
+  "themes": [
+   "e-commerce cannibalization of retail",
+   "polarization into premium vs discount",
+   "shift to specialty and niche markets",
+   "physical-retail consolidation and bankruptcy",
+   "remote work eroding formal apparel demand",
+   "omnichannel retail requirement"
+  ],
+  "one_sentence": "Women's clothing stores are a mature, declining industry being hollowed out by online shopping and discounters, with only premium brands and specialty niches finding stable ground."
+ },
+ {
+  "slug": "hiking-and-outdoor-equipment-stores",
+  "title": "Hiking & Outdoor Equipment Stores",
+  "sector": "Retail",
+  "one_liner": "Specialty retailers selling hiking, camping, and outdoor sports equipment, apparel, and footwear.",
+  "overview": "The industry sells specialized gear for outdoor activities like camping and hiking. Despite rising interest in outdoor recreation, revenue has shrunk under heavy competition from big-box retailers and online sellers. The industry rebounded 4.7% in 2022 after a pandemic-driven decline in 2020.",
+  "key_stats": {
+   "market_size": "$7.1bn (2022)",
+   "growth": "-0.6% per year (2017-2022)",
+   "businesses": "4,749 enterprises",
+   "employees": "35,769",
+   "profit_margin": "3.4%",
+   "concentration": "medium — top four players control over 60% of the market"
+  },
+  "how_it_makes_money": "Sells outdoor apparel (30.3%), equipment and gear (26.4%), and footwear (26.4%), plus repair services. High-income consumers buying premium brands (REI, Patagonia) drive the largest revenue share.",
+  "cost_structure": "Brick-and-mortar rent and utilities, inventory, wages (~11.7% of revenue) and marketing. Operators are cutting unprofitable locations and shifting online to lower overhead.",
+  "major_players": [
+   "Recreational Equipment Inc. (REI)",
+   "Patagonia Inc.",
+   "L.L. Bean"
+  ],
+  "whats_growing": "Rising outdoor-recreation participation as people seek exercise and outdoor activity. Total recreation spending growing ~2.2% a year. Rising disposable income; COVID-era shift away from indoor gyms.",
+  "whats_shrinking": "Big-box chains (Walmart, Target, Costco) now carry outdoor gear and undercut on price. Online-only retailers offer convenience and price transparency. Store closures and margin pressure.",
+  "themes": [
+   "e-commerce cannibalization of specialty retail",
+   "big-box convergence into niche categories",
+   "health and wellness boom",
+   "direct-to-consumer and in-house brands",
+   "sustainability and repair-over-replacement"
+  ],
+  "one_sentence": "Specialized outdoor retailers are shrinking in a mature market where big-box chains and online giants have eroded their price and convenience advantages, forcing survivors to compete on expertise and experience."
+ },
+ {
+  "slug": "commercial-banking-in-the-us",
+  "title": "Commercial Banking in the US",
+  "sector": "Finance & Insurance",
+  "one_liner": "Banks take deposits from customers and lend them out at higher interest rates to businesses and individuals.",
+  "overview": "Commercial banks make money mainly on interest spreads: they borrow from depositors at low rates and lend at higher rates. The five years to 2022 saw mixed results from the pandemic and low rates, but the industry benefited from Fed rate hikes beginning in 2022. It is consolidating rapidly, with larger banks absorbing smaller ones.",
+  "key_stats": {
+   "market_size": "$963.4bn (2022)",
+   "growth": "2.3% per yr",
+   "businesses": "4,418 enterprises",
+   "employees": "2,027,667",
+   "profit_margin": "36.3%",
+   "concentration": "high — Bank of America, JPMorgan Chase, Wells Fargo and Citigroup dominate"
+  },
+  "how_it_makes_money": "Banks earn interest on loans (66% of revenue) by borrowing deposits cheaply and lending dearly. The other 34% is fees on depository services, overdrafts, debit cards and advice.",
+  "cost_structure": "Loan-loss reserves, interest paid to depositors, and compliance and technology costs are the largest expenses.",
+  "major_players": [
+   "Bank of America",
+   "JPMorgan Chase & Co.",
+   "Wells Fargo & Company",
+   "Citigroup Inc."
+  ],
+  "whats_growing": "Rising interest income as the Fed hikes rates; rebounding loan demand; strong mortgage demand; increasing commercial and industrial lending.",
+  "whats_shrinking": "Low-rate periods squeeze net interest margins; competition from fintech lenders; smaller institutions losing share to large banks.",
+  "themes": [
+   "digital-banking disruption",
+   "regulatory-compliance burden",
+   "consolidation wave",
+   "interest-rate sensitivity",
+   "fintech competition",
+   "cloud and AI investment"
+  ],
+  "one_sentence": "Commercial banking is a mature, consolidating industry riding higher interest rates and rebounding loan demand, but facing new competition from tech-native financial firms."
+ },
+ {
+  "slug": "portfolio-management-in-the-us",
+  "title": "Portfolio Management in the US",
+  "sector": "Finance & Insurance",
+  "one_liner": "Firms manage investment portfolios for clients and earn fees based on assets under management.",
+  "overview": "Portfolio managers oversee mutual funds, hedge funds and retirement accounts, charging fees on assets they manage. Revenue comes from asset-based and performance fees. The industry has grown steadily, though margins have compressed as investors prefer cheaper passive strategies like ETFs.",
+  "key_stats": {
+   "market_size": "$403.3bn (2022)",
+   "growth": "6.0% per yr (2017-2022)",
+   "businesses": "183,584 enterprises",
+   "employees": "533,169",
+   "profit_margin": "36.1%",
+   "concentration": "low fragmentation with winner-take-all dynamics; largest operators capture disproportionate assets"
+  },
+  "how_it_makes_money": "Managers earn management fees (a percentage of assets) and performance fees (bonuses for beating benchmarks). Large-cap equity and fixed income generate the highest fees; passive ETFs earn less per dollar but at higher volume.",
+  "cost_structure": "Wages are the largest cost, tied to performance and AUM growth. Back- and middle-office support, trading platforms, reporting, technology and compliance follow.",
+  "major_players": [
+   "Vanguard Group (passive focus)",
+   "BlackRock and large asset managers"
+  ],
+  "whats_growing": "Passive products (ETFs and index funds) — up from near-zero to 21% of assets by 2022. Expanding retirement and pension assets. Target-date and liability-driven 'solutions' products for retirees.",
+  "whats_shrinking": "Actively managed funds declining as a share of revenue. Industry-wide fee compression as investors move to cheap passive vehicles. Traditional large-cap equity and government fixed income losing share.",
+  "themes": [
+   "passive-investing shift",
+   "fee compression from technology and transparency",
+   "aging-population wealth transfer",
+   "regulatory tightening and fiduciary mandates",
+   "winner-take-all consolidation",
+   "personalized portfolio services for retirees"
+  ],
+  "one_sentence": "Portfolio managers are caught between growing assets from a wealthy, aging population and shrinking fees from investors who increasingly prefer cheap passive ETFs over expensive active management."
+ },
+ {
+  "slug": "invoice-factoring",
+  "title": "Invoice Factoring",
+  "sector": "Finance & Insurance",
+  "one_liner": "Businesses sell their unpaid invoices to factoring companies, which collect payment and give the business immediate cash.",
+  "overview": "Invoice factoring lets companies sell unpaid customer invoices at a discount to access working capital. The industry has stagnated over five years as banks lend more and credit access improves. It remains mature with steady demand from transportation and manufacturing, but bank competition pressures revenue and margins.",
+  "key_stats": {
+   "market_size": "$3.9bn (2022)",
+   "growth": "0.1% per yr (2017-2022)",
+   "businesses": "382 enterprises",
+   "employees": "5,254",
+   "profit_margin": "31.0%",
+   "concentration": "low — highly fragmented with ~819 establishments competing locally"
+  },
+  "how_it_makes_money": "Factors charge fees and keep the spread between what they pay for invoices and what they collect. Revenue splits across non-recourse factoring (69%), recourse factoring (20%) and reverse factoring (11%).",
+  "cost_structure": "Wages (rising faster than revenue), technology for risk management, and debt-collection and receivable-verification costs compress margins as revenue stagnates.",
+  "major_players": [
+   "Wells Fargo & Company (10.8%)"
+  ],
+  "whats_growing": "Strong demand from transportation and trucking; growth in non-recourse factoring that transfers default risk to the factor; technology speeding approvals.",
+  "whats_shrinking": "Revenue contracting as banks expand lending on better terms; recourse factoring declining; improved credit access reduces the need for alternative financing.",
+  "themes": [
+   "bank competition eroding nonbank financing",
+   "working-capital finance consolidation",
+   "supply-chain financing revival",
+   "digital speed-to-approval arms race",
+   "regulatory creep raising barriers"
+  ],
+  "one_sentence": "Invoice factoring is a mature, fragmented industry losing share to traditional banks as improved credit access eliminates its main reason for existing."
+ },
+ {
+  "slug": "soybean-processing",
+  "title": "Soybean Processing",
+  "sector": "Agriculture",
+  "one_liner": "Processors extract oil, meal, and other products from soybeans to sell to food makers, livestock feed producers, and restaurants.",
+  "overview": "The industry turns raw soybeans into oil (for cooking and food) and meal (for animal feed). It is mature and stable. Over the five years to 2021 revenue fell 2.8% on volatile commodity prices and COVID-19, but rebounded 12.3% in 2021 as demand recovered and soybean prices spiked.",
+  "key_stats": {
+   "market_size": "$33.4bn (2021)",
+   "growth": "-2.8% per yr (2017-2021)",
+   "businesses": "143 establishments; 80 enterprises",
+   "employees": "8,063",
+   "profit_margin": "6.5%",
+   "concentration": "medium: top four firms hold 65.1%; Archer-Daniels-Midland leads at 36.2%"
+  },
+  "how_it_makes_money": "Processors buy soybeans from farmers and extract oil and meal. They sell oil to food makers and restaurants (45%), meal to feed producers (28%), and derivatives to industrial users (27%); exports are 26%.",
+  "cost_structure": "Soybean purchase costs dominate; operators pass commodity moves to customers. Capital intensity is high (factories cost tens of millions). Labor and overhead are secondary.",
+  "major_players": [
+   "Archer-Daniels-Midland (36.2%)",
+   "Bunge Limited (22.1%)",
+   "Cargill Inc. (6.1%)"
+  ],
+  "whats_growing": "Food-service demand (up ~6.5% a year 2021-2026); rising global consumption in developing countries; expanding exports as tariffs ease and the dollar weakens.",
+  "whats_shrinking": "Soybean prices expected to fall through 2026 after the 2021 spike; consumers favoring less-processed foods; imports rising to 30% of demand.",
+  "themes": [
+   "commodity price volatility",
+   "export dependence",
+   "import competition surge",
+   "health-conscious consumer shift",
+   "consolidation via acquisitions",
+   "mature industry with high capital barriers"
+  ],
+  "one_sentence": "Soybean processors face steady margins but volatile input costs and rising foreign competition, even as downstream demand recovers post-pandemic."
+ },
+ {
+  "slug": "wheat-barley-and-sorghum-farming-in-the-us",
+  "title": "Wheat, Barley & Sorghum Farming in the US",
+  "sector": "Agriculture",
+  "one_liner": "Farmers grow wheat, barley, and sorghum for food, animal feed, and export markets.",
+  "overview": "The industry generated $15.7 billion in 2022 and is heavily export-dependent, with 65.6% of sales going overseas. It benefited from pandemic demand for nonperishable foods and rising commodity prices, but faces ongoing volatility from weather, production swings and global competition.",
+  "key_stats": {
+   "market_size": "$15.7bn (2022)",
+   "growth": "5.2% per yr (2017-2022)",
+   "businesses": "88,929 establishments",
+   "employees": "119,780",
+   "profit_margin": "13.1%",
+   "concentration": "low — many small family farms with no single dominant operator"
+  },
+  "how_it_makes_money": "Farmers sell wheat (78.4% of revenue), sorghum (13.8%) and barley (4.5%) to food makers, flour mills, feed producers and international buyers. Nearly two-thirds of sales are exports, so global pricing and currency drive profits.",
+  "cost_structure": "Land, machinery and labor are the largest costs; equipment capital is a major barrier; seed and fertilizer add operating expense. Federal subsidies offset price volatility.",
+  "major_players": [
+   "Family farms and owner-operators (mostly nonemploying enterprises)"
+  ],
+  "whats_growing": "Elevated demand for nonperishable wheat products since COVID-19; high world wheat prices in 2021-22; a weaker dollar aiding exports; yield gains from better seeds and precision farming.",
+  "whats_shrinking": "Wheat production and acreage fell in 2022 from drought; flat-to-declining domestic flour consumption; weaker barley demand; federal subsidies projected to drop sharply after 2021.",
+  "themes": [
+   "commodity price cycles",
+   "export dependence",
+   "climate volatility",
+   "farm consolidation",
+   "currency exchange exposure",
+   "government subsidy dependence"
+  ],
+  "one_sentence": "This mature, export-heavy industry thrives on volatile commodity prices and global demand but remains vulnerable to droughts, exchange rates, and shrinking government support."
+ },
+ {
+  "slug": "waste-to-energy-plant-operation",
+  "title": "Waste-to-Energy Plant Operation",
+  "sector": "Energy & Environment",
+  "one_liner": "Companies operate plants that burn municipal solid waste to generate electricity and heat while collecting disposal fees.",
+  "overview": "The industry runs 64 facilities across the US that convert waste into electricity and heat. Over the five years to 2021 it declined on weak electricity prices and reduced power consumption, worsened by COVID-19. Modest growth is expected as power demand recovers and waste volumes expand.",
+  "key_stats": {
+   "market_size": "$1.36bn (2021)",
+   "growth": "-4.3% per yr (2016-2021)",
+   "businesses": "64 establishments / 10 private enterprises",
+   "employees": "2,423",
+   "profit_margin": "8.7%",
+   "concentration": "high — most facilities are municipally owned but privately operated"
+  },
+  "how_it_makes_money": "Operators earn tipping fees paid by municipalities for waste disposal (the bulk of revenue) plus sales of electricity and recovered steam to utilities and manufacturers.",
+  "cost_structure": "Capital-intensive infrastructure (furnaces, separators, conveyors), operations and maintenance, and steel prices. Cheap natural-gas power also pressures margins.",
+  "major_players": [
+   "Covanta Holding Corporation"
+  ],
+  "whats_growing": "Rising waste generation as population and economy grow; expanding construction activity; renewable-energy mandates (31 states have portfolio standards); higher electricity prices.",
+  "whats_shrinking": "Cheap fracked natural gas makes fossil power more competitive; expanding recycling and better landfill technology divert waste; strapped municipal budgets limit investment.",
+  "themes": [
+   "renewable energy transition",
+   "waste-to-resource conversion",
+   "landfill diversion",
+   "municipal budget constraints",
+   "competing energy sources",
+   "emissions regulation and environmental standards"
+  ],
+  "one_sentence": "The waste-to-energy industry struggles with competition from cheap natural gas and improved landfilling despite steady waste volumes and policy support for renewables."
+ },
+ {
+  "slug": "wind-turbine-installation",
+  "title": "Wind Turbine Installation",
+  "sector": "Energy & Environment",
+  "one_liner": "Companies that transport, construct, and install wind turbines and related power systems for wind farms.",
+  "overview": "The industry builds and maintains wind farms across the US. Revenue was $3.3 billion in 2021, growing just 0.4% annually since 2005, and is highly volatile because demand depends almost entirely on federal tax credits and state renewable mandates. The mix is shifting from new construction toward maintenance as turbines age.",
+  "key_stats": {
+   "market_size": "$3.3bn (2021)",
+   "growth": "0.4% per yr (2005-2021)",
+   "businesses": "181 establishments",
+   "employees": "12,098",
+   "profit_margin": "1.7%",
+   "concentration": "high; three companies control 93.0% of the market"
+  },
+  "how_it_makes_money": "Installing new turbines for utilities generates about 33% of revenue (assembly, transport, electrical work, project development). The other 67% is ongoing maintenance and repairs, a growing share as the fleet ages.",
+  "cost_structure": "Construction and installation are about 30% of initial wind-power cost. Labor, equipment rental, materials and subcontractors dominate operating costs; upfront turbine and transmission capital drives volatility.",
+  "major_players": [
+   "General Electric Company",
+   "Siemens Gamesa Renewable Energy",
+   "(third major player; three control 93%)"
+  ],
+  "whats_growing": "Federal push for offshore wind (30,000 MW by 2030 pledge); coastal-state procurement goals; growing maintenance revenue; rising energy prices; corporate buyers like Google and Walmart.",
+  "whats_shrinking": "Uncertainty over the federal production tax credit; inconsistent policy creating year-to-year volatility; new installation slowing as incentives phase out.",
+  "themes": [
+   "government subsidy dependence",
+   "renewable energy transition",
+   "offshore wind development",
+   "infrastructure buildout",
+   "volatile incentive structure",
+   "shift to maintenance services"
+  ],
+  "one_sentence": "Wind turbine installation depends heavily on federal tax credits and state mandates, creating extreme year-to-year swings, but faces long-term growth from offshore wind and improving economics."
+ },
+ {
+  "slug": "water-and-sewer-line-construction-in-the-us",
+  "title": "Water & Sewer Line Construction in the US",
+  "sector": "Construction",
+  "one_liner": "Contractors build, repair, and upgrade water mains, sewers, and treatment plants across the country.",
+  "overview": "This mature industry is dominated by small operators and works almost entirely on government contracts. It saw minimal growth from 2017 to 2022, held back by budget constraints and pandemic disruption, though rising wages and materials costs pushed revenue up 1.3% a year. Over 96% of revenue comes from state and local government.",
+  "key_stats": {
+   "market_size": "$53.7bn (2022)",
+   "growth": "1.3% per yr (2017-2022)",
+   "businesses": "16,103 companies",
+   "employees": "162,635",
+   "profit_margin": "3.6%",
+   "concentration": "low; highly fragmented — over 75% of establishments employ fewer than 10 people"
+  },
+  "how_it_makes_money": "Contractors win mostly public-bid contracts to build water mains, sewer lines and treatment plants. Revenue: water supply (33.7%), sewer (29.2%), treatment plants (18.5%). Nearly all work is publicly funded.",
+  "cost_structure": "Materials and labor are the largest costs. Steel prices and wage inflation squeezed profit margins from ~5.5% historically to 3.6% by 2022.",
+  "major_players": [
+   "Highly fragmented — no dominant player"
+  ],
+  "whats_growing": "Population growth in the West and Southwest driving new pipelines; aging infrastructure needing replacement under environmental rules; the 2021 Infrastructure Investment and Jobs Act; treatment-plant work.",
+  "whats_shrinking": "Rising long-term interest rates make public borrowing costlier and constrain budgets; pandemic project cancellations; a shift from new construction toward less-profitable maintenance.",
+  "themes": [
+   "aging infrastructure renewal",
+   "public spending dependence",
+   "population sprawl in growth regions",
+   "regulatory tightening (environmental mandates)",
+   "interest-rate exposure",
+   "small-scale fragmented market"
+  ],
+  "one_sentence": "A mature, government-dependent industry facing slow growth as rising borrowing costs and budget pressures offset long-term tailwinds from population growth and aging infrastructure."
+ },
+ {
+  "slug": "weight-loss-services-in-the-us",
+  "title": "Weight Loss Services in the US",
+  "sector": "Consumer Services",
+  "one_liner": "Companies offer diet plans, coaching, and weight-management programs to help people lose or maintain weight.",
+  "overview": "The Weight Loss Services industry is a mature, highly competitive market with low growth. Revenue was $3.8 billion in 2022, growing only 0.3% annually despite rising obesity. The industry shifted sharply toward digital subscriptions during COVID-19, with in-person consultations declining as apps and online coaching became the main revenue driver.",
+  "key_stats": {
+   "market_size": "$3.8bn (2022)",
+   "growth": "0.3% per yr (2017-2022)",
+   "businesses": "31,446 companies",
+   "employees": "53,758",
+   "profit_margin": "8.8%",
+   "concentration": "high — largest operators gain advantage through digital platforms"
+  },
+  "how_it_makes_money": "Revenue comes from digital subscription fees (65%), in-person consultation subscriptions (22.7%), in-meeting product sales (1.8%), and licensing/franchise/seminar fees (10.5%). Most services are subscriptions lasting a few months to a year.",
+  "cost_structure": "Not detailed; implied major items are coaching labor, technology platforms, and heavy marketing to acquire subscribers.",
+  "major_players": [
+   "WW International Inc. (Weight Watchers) — largest operator"
+  ],
+  "whats_growing": "Rising adult obesity (~1.8% a year); growing 50+ population; rising disposable income; digital platforms with apps and online coaching; childhood-obesity apps like Kurbo.",
+  "whats_shrinking": "In-person consultation revenue shifting to digital; free competition from diet apps and online nutrition info; plateauing growth; small operators (91% of businesses) exiting; new GLP-1 drugs emerging as substitutes.",
+  "themes": [
+   "obesity epidemic driving persistent demand",
+   "digital-first disruption of traditional coaching",
+   "discretionary spending sensitivity",
+   "aging population",
+   "consolidation favoring large app platforms",
+   "GLP-1 and pharmaceutical weight-loss substitutes"
+  ],
+  "one_sentence": "The Weight Loss Services industry is a stagnant market where rising obesity creates demand but digital disruption, free alternatives and low margins push consolidation toward app-based giants while small operators fade."
+ },
+ {
+  "slug": "vending-machine-operators-in-the-us",
+  "title": "Vending Machine Operators in the US",
+  "sector": "Retail",
+  "one_liner": "Companies that stock and maintain automated machines selling snacks, beverages, and other goods.",
+  "overview": "The industry generates $10.2 billion from convenience-focused automated retail. Growth has been slow and uneven, with structural decline from shrinking soda consumption, competition from convenience stores and micromarkets, and school-snack regulation. The 2020 pandemic hurt the sector, but recovery is underway as foot traffic returns.",
+  "key_stats": {
+   "market_size": "$10.2bn (2022)",
+   "growth": "0.8% per yr (2017-2022)",
+   "businesses": "18,883 establishments",
+   "employees": "52,136",
+   "profit_margin": "4.3%",
+   "concentration": "low — no major national players; highly fragmented"
+  },
+  "how_it_makes_money": "Revenue comes from selling snacks (32.8%), cold beverages including soda (23.0%), candy (14.8%) and hot beverages (3.8%). Machines sit in offices, factories, schools and retail, charging a premium for convenience.",
+  "cost_structure": "Product costs are the largest expense. Maintenance and sanitation (especially post-pandemic), machine logistics and wages follow. Rising sugar and raw-material costs squeeze margins.",
+  "major_players": [
+   "Highly fragmented — no dominant player"
+  ],
+  "whats_growing": "Rising tea consumption and healthy-snack sales; cashless payment, remote monitoring and touch-free interfaces boosting efficiency and hygiene; custom branded machines for corporate marketing.",
+  "whats_shrinking": "Steady decline in soda demand; strict school nutrition rules; competition from convenience stores and micromarkets; work-from-home reducing office foot traffic; machine counts falling sharply.",
+  "themes": [
+   "health-conscious shift away from soda",
+   "rise of micromarkets and convenience-store competition",
+   "cashless and touchless payment",
+   "remote work eroding workplace foot traffic",
+   "regulatory restrictions on school snacks",
+   "consolidation as small operators exit"
+  ],
+  "one_sentence": "Vending machines are a shrinking, low-margin convenience play pressured by health trends, regulation and better-stocked alternatives, though technology and product diversification offer modest lifelines."
+ },
+ {
+  "slug": "video-postproduction-services-in-the-us",
+  "title": "Video Post-production Services in the US",
+  "sector": "Media & Entertainment",
+  "one_liner": "Companies that edit, add visual effects, and prepare motion pictures and TV content for distribution.",
+  "overview": "Video post-production is a mature industry serving film, television, advertising and streaming. Over the five years to 2022 it declined 3.1% annually to $5.4 billion, hit hard by pandemic theater closures, but is recovering as production returns and streaming demand surges.",
+  "key_stats": {
+   "market_size": "$5.4bn (2022)",
+   "growth": "-3.1% per yr (2017-2022)",
+   "businesses": "22,824 enterprises",
+   "employees": "53,513",
+   "profit_margin": "6.5%",
+   "concentration": "low; studios are concentrated but many independent producers drive outsourcing"
+  },
+  "how_it_makes_money": "Companies charge for editing, visual effects, animation, color correction, sound design and format conversion. Clients include TV networks, movie studios, ad agencies and streaming services.",
+  "cost_structure": "High labor and wage costs dominate. Cheaper software and hardware lower entry barriers but also let studios do simple work in-house.",
+  "major_players": [
+   "Walt Disney Company (in-house)",
+   "Netflix Inc. (in-house)",
+   "Amazon.com Inc. (in-house)",
+   "Hulu (in-house)"
+  ],
+  "whats_growing": "Streaming services driving huge demand for content; exploding digital video advertising; smartphones and multiple screen sizes driving format-conversion work; special effects becoming standard.",
+  "whats_shrinking": "Movie-theater attendance below pre-2020 levels; declining cable subscriptions; near-dead physical-media duplication; studios hiring editors in-house instead of outsourcing.",
+  "themes": [
+   "streaming video boom",
+   "digital over physical media",
+   "in-house production consolidation",
+   "mobile and multi-screen adaptation",
+   "creator economy and freelancing",
+   "special effects as baseline requirement"
+  ],
+  "one_sentence": "Video post-production is a mature, fragmented industry recovering from pandemic collapse on streaming and digital-ad demand, but pressured as major studios move editing work in-house."
+ },
+ {
+  "slug": "cable-providers-in-the-us",
+  "title": "Cable Providers in the US",
+  "sector": "Media & Entertainment",
+  "one_liner": "Cable TV operators deliver video programming through wired networks, usually bundled with internet and phone.",
+  "overview": "Cable providers distribute TV programming over wired networks. Revenue reached $99.3 billion in 2021, declining 1.2% annually over five years as customers cut the cord for streaming. The industry is in structural decline, with consolidation accelerating while subscribers drop 2.6% a year.",
+  "key_stats": {
+   "market_size": "$99.3bn (2021)",
+   "growth": "-1.2% per yr (2016-2021)",
+   "businesses": "425 enterprises",
+   "employees": "221,316",
+   "profit_margin": "8.6%",
+   "concentration": "medium — Comcast, Charter and a few large operators control most subscribers"
+  },
+  "how_it_makes_money": "Revenue comes from basic programming packages (73.9%), premium packages like HBO and sports (24.4%) and pay-per-view (1.7%). Most operators bundle internet and phone to improve retention (those revenues sit outside industry totals).",
+  "cost_structure": "Programming and retransmission fees to networks and broadcasters are the largest expense and have risen faster than prices operators can charge. Infrastructure and labor follow.",
+  "major_players": [
+   "Comcast Corporation",
+   "Charter Communications",
+   "Dish Network",
+   "DirecTV",
+   "Verizon Communications"
+  ],
+  "whats_growing": "Broadband subscriptions (up 2.1% a year) are the main offset; bundles attract price-sensitive customers; premium programming for wealthy subscribers is a rising share of revenue.",
+  "whats_shrinking": "Core cable-TV subscriptions falling 2.6% a year; young adults barely subscribing (34% of 18-29 vs 81% of 65+); streaming overtaking cable; margins compressing as fees flow to content owners.",
+  "themes": [
+   "cord-cutting and streaming dominance",
+   "broadband bundling as survival strategy",
+   "consolidation to offset subscriber loss",
+   "content carriage fees rising faster than pricing power",
+   "generational shift against paid TV",
+   "broadband as essential utility"
+  ],
+  "one_sentence": "Cable providers are in structural decline as streaming and cord-cutting erode their core video business, forcing consolidation and reliance on broadband and price hikes to offset subscriber losses."
+ },
+ {
+  "slug": "workers-compensation-insurance",
+  "title": "Workers' Compensation Insurance",
+  "sector": "Finance & Insurance",
+  "one_liner": "Insurance companies that protect businesses from liabilities caused by workplace injuries and illnesses.",
+  "overview": "The industry insures employers against the cost of medical care, lost wages and death benefits for workers injured on the job. Revenue declined during 2020-2021 due to pandemic labor-market disruption, to $46.9 billion. It is mature with limited product innovation and faces rising medical costs even as workplace injury frequency falls.",
+  "key_stats": {
+   "market_size": "$46.9bn (2021)",
+   "growth": "-2.8% per yr (2016-2021)",
+   "businesses": "1,035 establishments; 185 enterprises",
+   "employees": "50,349",
+   "profit_margin": "3.8%",
+   "concentration": "low — no dominant player, though consolidation is ongoing"
+  },
+  "how_it_makes_money": "Revenue comes from premiums paid by employers (medical benefits 46.5%, cash/indemnity benefits 45.5%) plus investment income (8%). Insurers collect premiums upfront and pay claims as injuries occur.",
+  "cost_structure": "Medical benefits (46.5% of revenue), cash wage-replacement benefits (45.5%), and defense/legal costs (13.6% of incurred losses). Rising drug costs and obesity-related claim duration drive expense growth.",
+  "major_players": [
+   "Fragmented — no dominant national carrier"
+  ],
+  "whats_growing": "Booming construction from low rates and housing demand; expanding natural-resources and mining share; safety technology (robots, ergonomics, cordless tools) cutting injury frequency and claims.",
+  "whats_shrinking": "Premium volume and pricing fell as the pandemic cut jobs; medical costs per claim rising faster than inflation; retail and professional-services exposure shrinking from shutdowns and remote work.",
+  "themes": [
+   "labor-market volatility affecting insurance demand",
+   "rising medical costs outpacing inflation",
+   "workplace automation reducing injury rates",
+   "pandemic-driven employment disruption",
+   "regulatory consolidation in insurance",
+   "investment income replacing underwriting profit"
+  ],
+  "one_sentence": "Workers' compensation insurance is a mature, heavily regulated industry hit hard by pandemic job losses, now dependent on investment returns and workplace-safety gains to sustain profitability."
+ },
+ {
+  "slug": "website-creation-software-developers",
+  "title": "Website Creation Software Developers",
+  "sector": "Technology & Digital",
+  "one_liner": "Companies that develop and publish software that lets people design websites without coding.",
+  "overview": "The industry makes software tools that let individuals and small businesses build websites without hiring professionals or learning code. It grew steadily over the five years to 2022 on broadband spread, smartphone adoption and the shift of business online — much of it after COVID-19 — though growth is slowing as internet use saturates.",
+  "key_stats": {
+   "market_size": "$12.8bn (2022)",
+   "growth": "6.6% per yr (2017-2022)",
+   "businesses": "428 enterprises",
+   "employees": "25,848",
+   "profit_margin": "21.5%",
+   "concentration": "low — fragmented with many small to medium competitors"
+  },
+  "how_it_makes_money": "The industry sells website-creation software through free and paid premium subscriptions. Design software (48.5%) builds page look; code/development software (15.2%) serves technical users; mobile and drag-and-drop platforms like Wix and Squarespace (36.3%) round it out.",
+  "cost_structure": "Wages and marketing are the largest expenses, both rising. Cloud-server infrastructure, technical support and user-acquisition costs also feature.",
+  "major_players": [
+   "Wix",
+   "Squarespace",
+   "Adobe",
+   "Google (Web Designer)",
+   "Web.com"
+  ],
+  "whats_growing": "Small businesses building online storefronts; mobile-friendly design as smartphone use grows; post-COVID first-time websites; free and freemium models winning users fast.",
+  "whats_shrinking": "Growth slowing as broadband and mobile reach saturation; tech-savvy users building their own sites; discontinuation of some design tools (e.g. Adobe Muse) hurting that segment.",
+  "themes": [
+   "no-code DIY replacing professional services",
+   "small-business digitization and e-commerce adoption",
+   "freemium SaaS model for user acquisition",
+   "mobile-first design becoming table stakes",
+   "internet saturation and market slowdown",
+   "high competition forcing service bundling"
+  ],
+  "one_sentence": "The website-creation software industry is maturing from rapid growth to slower expansion as internet adoption saturates and more people can build their own sites."
+ },
+ {
+  "slug": "wine-bars",
+  "title": "Wine Bars",
+  "sector": "Food & Drink",
+  "one_liner": "Small bars and lounges that sell wine for on-site drinking, often with light food service.",
+  "overview": "Wine bars are specialized lounges focused on wine sales for immediate consumption, often with limited food. The industry is mature and stable, but was severely disrupted by COVID-19, with revenue down 27.9% in 2020. Recovery is slow but expected to continue, driven by rising incomes and growing wine interest among younger consumers.",
+  "key_stats": {
+   "market_size": "$1.93bn (2021)",
+   "growth": "-1.5% per yr (2016-2021)",
+   "businesses": "1,595 enterprises",
+   "employees": "9,543",
+   "profit_margin": "6.1%",
+   "concentration": "low; highly fragmented with few advantages to operating multiple locations"
+  },
+  "how_it_makes_money": "Wine bars mark up wine 50-200% over wholesale for on-site drinking, supplemented by limited food and snacks, other alcoholic beverages, and nonalcoholic drinks.",
+  "cost_structure": "Wages are the largest expense (31.8% of revenue in 2021). Rent (high in major metros), utilities, alcohol procurement and food follow. The industry is labor-intensive.",
+  "major_players": [
+   "Highly fragmented — no dominant player"
+  ],
+  "whats_growing": "Rising household incomes and more $100k+ households; younger consumers (21-34) drawn to wine and craft beverages; wine's perceived health edge over beer; demand for intimate premium venues; sommelier expertise as a differentiator.",
+  "whats_shrinking": "Falling overall alcohol share of household spending; beer and liquor losing share within wine bars to brewpubs and distilleries; pandemic closures; dated bar concepts losing ground.",
+  "themes": [
+   "premiumization",
+   "experience economy",
+   "health-conscious consumption",
+   "third-place revival",
+   "declining alcohol consumption",
+   "craft-beverage diversification"
+  ],
+  "one_sentence": "Wine bars cater to affluent, urban consumers seeking premium, intimate experiences, but the industry remains mature and vulnerable to downturns and competition from other venues."
+ }
+]

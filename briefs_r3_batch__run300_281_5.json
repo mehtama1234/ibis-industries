@@ -1,0 +1,415 @@
+[
+  {
+    "title": "Machine Shop Services in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US machine shops are fragmented precision manufacturers selling job-order CNC, milling, turning, grinding and related machining services into machinery, fabricated metal, aerospace, defense, automotive and medical-device supply chains.",
+    "overview": "Machine shop services cover establishments primarily engaged in machining metal, plastic and composite parts on a job or order basis, generally in low volumes and to customer specifications. The sector sits inside fabricated metal manufacturing and acts as a flexible supplier for OEMs, metal stampers and forgers, industrial machinery makers, aerospace and defense contractors, energy equipment producers, vehicle manufacturers and medical-device companies. The 2025 market is larger than the 2022 baseline because inflation, metals pricing and post-pandemic demand recovery lifted nominal revenue, but the structure remains highly fragmented, price-competitive and dependent on local/regional customer relationships.",
+    "key_stats": {
+      "market_size": "2025: $52.4 billion US industry revenue",
+      "growth": "2020-2025: 1.4% revenue CAGR",
+      "establishments": "2025: 18,488 US machine-shop establishments",
+      "federal_contracting": "FY2024-FY2026: $260.4 million in NAICS 332710 federal obligations tracked through April 20, 2026, including $251.6 million from the Department of Defense",
+      "manufacturing_indicator": "June 2026: ISM Manufacturing PMI was 53.3, with new orders at 56.0 and prices at 73.0",
+      "aerospace_backlog": "2025: commercial aircraft backlog reached nearly 15,000 units per PwC; IATA separately reported 2025 aircraft order backlog above 17,000",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "source_file": "2022 IBISWorld baseline file, last updated August 30, 2022",
+      "market_size": "2021: $40.8 billion revenue in 2021 dollars",
+      "growth": "2016-2021: 0.8% annualized revenue growth; 2021: 5.1% estimated revenue growth",
+      "profit": "2021: $1.3 billion profit and 3.1% profit margin",
+      "establishments": "2021: 17,958 establishments",
+      "enterprises": "2021: 17,487 enterprises",
+      "employment": "2021: 238,637 employees",
+      "wages": "2021: $12.5 billion total wages",
+      "outlook_at_that_time": "2021-2026 forecast: 1.2% annualized growth to $43.3 billion revenue by 2026"
+    },
+    "how_it_makes_money": "Machine shops earn revenue by quoting custom jobs and production runs for CNC milling, CNC turning, boring, grinding, drilling, threading, prototype machining, tool-and-die support, mold machining, repair machining, and increasingly laser, water-jet, multi-axis and micromachining work. Pricing is usually based on machine time, labor hours, setup/programming time, material pass-throughs, tolerance and inspection requirements, rush timing, batch size and the customer's certification needs.",
+    "cost_structure": {
+      "labor": "2021 baseline: wages were $12.5 billion, about 30.6% of 2021 revenue; 2025-2026 skilled machinist and programmer shortages keep labor a major constraint.",
+      "materials": "2025-2026: steel, aluminum, copper, brass, plastics and cutting tools are major pass-through and working-capital costs; tariff-driven metals volatility makes quoting riskier.",
+      "equipment_and_depreciation": "2025-2026: five-axis and seven-axis CNC machines, robotics, inspection equipment and CAD/CAM software require recurring capital spending and depreciation.",
+      "profit": "2021 baseline: profit margin was 3.1%; 2025-2026 margins depend on utilization, automation, labor availability and the ability to pass through metal-price increases.",
+      "other_costs": "2025-2026: rent, utilities, insurance, maintenance, quality certifications, coolant, tooling, waste handling, ERP/CAM software and financing costs round out operating expenses."
+    },
+    "major_players": [
+      "No dominant national operator: 2025 industry remains highly fragmented across regional job shops and specialized contract manufacturers",
+      "Protolabs: 2025 relevant digital manufacturing and CNC machining competitor, though broader than NAICS 332710",
+      "Xometry: 2025 relevant marketplace and manufacturing-services platform, though broader than NAICS 332710",
+      "Fathom Digital Manufacturing: 2025 relevant advanced manufacturing and CNC machining provider, though broader than NAICS 332710",
+      "Cadrex Manufacturing Solutions: 2025 relevant precision manufacturing and machining supplier, though broader than NAICS 332710"
+    ],
+    "current_dynamics": "Demand improved into 2026 as US manufacturing returned to expansion, with machinery, transportation equipment, electronics, primary metals and fabricated metal activity supporting order flow. Aerospace and defense customers remain especially attractive because backlogs, tight tolerances and certification requirements favor capable shops, while medical-device reshoring and micromachining continue to support higher-value work. At the same time, 2025 tariffs and tight metals supply raised steel and aluminum costs, creating quote-validity issues and pressuring shops that cannot reprice quickly. The main bottlenecks are skilled labor, inspection capacity, long lead times for advanced CNC equipment and uneven demand among smaller manufacturers.",
+    "whats_growing": "2025-2026 growth is concentrated in aerospace and defense parts, aircraft aftermarket and maintenance-related components, medical-device micromachining, semiconductor and AI-infrastructure-related components, reshored supplier work, low-volume prototypes, complex multi-axis jobs, robotics-tended CNC production and certified work requiring traceability and quality documentation.",
+    "whats_shrinking": "2025-2026 weaker areas include commodity turning and milling with little differentiation, highly price-sensitive automotive and consumer-goods work, low-tolerance parts vulnerable to imports or captive OEM production, shops unable to pass through metal-price increases, and small manual shops without CNC, inspection or programming depth.",
+    "recent_developments": [
+      "2025-02-20: NIST said 2025 small and medium-sized manufacturers would need to adopt advanced technologies and train workers as reshoring expands local supplier opportunities.",
+      "2025-03-12: US 25% steel and aluminum tariffs took effect, with Reuters reporting US metals prices near recent peaks.",
+      "2025-04-14: IBISWorld's 2025 update reported Machine Shop Services revenue of $52.4 billion after 1.4% annualized growth over the prior five years.",
+      "2025-12-09: IATA reported aircraft delivery shortfalls of at least 5,300 aircraft and an order backlog above 17,000 aircraft, implying aerospace supply constraints lasting into the 2031-2034 period.",
+      "2026-06-09: PwC reported that 2025 top-100 aerospace and defense revenue and commercial aircraft backlog each crossed $1 trillion, with supply-chain and workforce capacity the main constraints.",
+      "2026-07-01: ISM reported June 2026 manufacturing PMI of 53.3, new orders of 56.0 and prices of 73.0, indicating expansion with continued input-cost pressure."
+    ],
+    "outlook": "The 2026 outlook is moderately positive. Revenue should keep expanding if manufacturing orders, defense spending, aerospace backlogs and reshoring continue to pull work into domestic supply chains. The best-positioned shops will be those with multi-axis CNC capacity, automated loading, strong inspection systems, engineering support and certifications for aerospace, defense or medical customers. Margin upside is limited by wage pressure, equipment financing costs and metals volatility, so utilization, quoting discipline and customer mix will matter more than headline demand growth.",
+    "themes": [
+      "Reshoring and supply-chain resilience",
+      "Aerospace and defense backlog conversion",
+      "Medical-device micromachining",
+      "CNC automation and robotics",
+      "Skilled machinist shortage",
+      "Steel and aluminum price volatility",
+      "Fragmented local competition",
+      "Quality certification as a moat",
+      "AI infrastructure and electronics supply-chain demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/machine-shop-services-in-the-us.txt",
+      "https://www.marketresearch.com/IBISWorld-v2487/Manufacturing-Construction-c86/14.html",
+      "https://www.census.gov/naics/?details=332710&input=332710&year=2022",
+      "https://data.census.gov/table/AIESBASICTIMESERIES.AIES31BASIC01?q=332710",
+      "https://www.fairmarketvalue.com/resources/industries/332710/machine-shops",
+      "https://spendingvault.com/industries/332710/",
+      "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/june/",
+      "https://www.nist.gov/blogs/manufacturing-innovation-blog/whats-coming-us-manufacturing-2025",
+      "https://www.investing.com/news/stock-market-news/us-aluminium-steel-prices-hover-near-peaks-as-tariffs-kick-in-3924362",
+      "https://www.gao.gov/products/gao-24-106493",
+      "https://www.iata.org/en/pressroom/2025-releases/2025-12-09-02/",
+      "https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-defense-review-and-forecast.html"
+    ],
+    "one_sentence": "In 2025-2026, the industry is benefiting from reshoring, defense and aerospace backlogs and stronger manufacturing orders, but margins remain exposed to skilled-labor scarcity, high CNC capital needs and volatile steel and aluminum costs.",
+    "slug": "machine-shop-services-in-the-us"
+  },
+  {
+    "title": "Machinery Maintenance & Heavy Equipment Repair Services in the US",
+    "sector": "Business Services",
+    "one_liner": "A fragmented, technician-led repair market serving factories, construction fleets, farms, mines, food-service operators and other asset-heavy businesses.",
+    "overview": "This industry repairs and maintains commercial, industrial, agricultural, construction, mining, forestry, oilfield and service-sector machinery, excluding general automotive and electronic repair. Demand is tied to how hard downstream equipment is used: 2026 industrial production improved in the second quarter, 2026 manufacturing capacity utilization stayed below its long-run average, and 2026 construction spending was still large but softer year over year. The market is structurally fragmented, with many regional shops, field-service specialists, machine shops, OEM dealer networks and rental fleet operators competing on response time, technician skill, parts access and installed-base knowledge.",
+    "key_stats": {
+      "market_size": "2025: $59.9 billion US market size; Census QSS taxable NAICS 8113 revenue summed to $59.0 billion in 2025",
+      "growth": "2025: +1.2% year over year from $59.2 billion in 2024",
+      "baseline_to_current_growth": "2022-2025: market size rose from $52.5 billion to $59.9 billion, about +4.5% CAGR",
+      "qss_revenue": "2026 Q1: $15.063 billion taxable NAICS 8113 revenue",
+      "industrial_production": "2026 June: total industrial production index was 102.6, up 1.1% from June 2025",
+      "manufacturing_utilization": "2026 June: manufacturing capacity utilization was 75.7%, 2.5 percentage points below its 1972-2025 average",
+      "construction_spending": "2026 May: total construction spending was $2.210 trillion at a seasonally adjusted annual rate, down 1.5% from May 2025",
+      "labor": "2026 June: repair and maintenance average hourly earnings were $32.43 for all employees",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $52.491 billion revenue in 2022 dollars",
+      "growth": "2022: +4.2% revenue growth; 2017-2022 CAGR was +1.9%",
+      "profit": "2022: $3.622 billion profit; 2022 profit margin was 6.9%",
+      "employment": "2022: 245,782 employees",
+      "establishments": "2022: 58,443 establishments",
+      "wages": "2022: $15.322 billion total wages; wages were 29.2% of revenue",
+      "service_mix": "2022: industrial machinery and equipment M&R was 42.1% of revenue; commercial and service-sector M&R excluding refrigeration was 18.1%; agricultural, construction, mining, forestry, oil and gas machinery M&R was 17.2%"
+    },
+    "how_it_makes_money": "Operators earn revenue from scheduled preventive maintenance, emergency breakdown repair, field service calls, in-shop rebuilds, welding and machining, blade sharpening, motor and pump repair, commercial refrigeration repair, forklift and material-handling service, parts resale, labor markups, service contracts, shutdown and turnaround work, OEM warranty work and fleet maintenance for rental or customer-owned equipment.",
+    "cost_structure": "Labor is the defining cost because skilled technicians, mechanics, welders, millwrights and field-service supervisors perform diagnosis and repair; the 2022 baseline showed wages at $15.322 billion and 29.2% of revenue. Parts, bearings, motors, pumps, hydraulic components, electronic controls, tools, fuel and service trucks are the next major inputs, with 2025-2026 parts pricing and tariffs pressuring margins. Profitability is moderate: the 2022 baseline margin was 6.9%, and operators with dense routes, specialized technicians, proprietary diagnostics, recurring contracts and strong parts sourcing typically defend margins better than generalist repair shops.",
+    "major_players": [
+      "Caterpillar and the Cat dealer network: 2025 Caterpillar services revenues reached $24.0 billion globally, including aftermarket parts and service-related revenue, though captive dealer service is excluded from that figure",
+      "United Rentals: 2025 service and other revenues were $369 million, alongside a $22.48 billion fleet OEC that creates internal and customer-fleet maintenance demand",
+      "John Deere dealer network: large agricultural installed base, with 2025 FTC litigation highlighting the strategic value of diagnostic software and repair access",
+      "BDI: industrial component and machinery repair supplier with 2026 Thomas-listed annual sales exceeding $250 million",
+      "Xylem: pump repair and maintenance provider serving agriculture, construction, marine, oil and other industrial markets",
+      "Regional independent repair shops, machine shops and field-service contractors: the largest competitive group in this low-concentration market"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Industrial output and equipment investment are supporting recurring maintenance: 2025 real private fixed investment in industrial equipment was $262.664 billion, up from $254.893 billion in 2024. At the same time, 2026 manufacturing utilization remains below long-run norms and 2026 construction spending is down year over year, limiting volume in some cyclical end markets. Customers are extending asset lives when replacement costs, rates or lead times are unattractive, but they are demanding faster response, better diagnostics, documented work history and planned maintenance programs that reduce downtime.",
+    "whats_growing": "Preventive and predictive maintenance contracts, condition monitoring, CMMS-linked work orders, telemetry-based fleet service, OEM and dealer service programs, power-generation equipment service tied to data centers, rebuilds for high-cost equipment, outsourced shutdown maintenance, and technician demand. BLS projected 2024-2034 employment for industrial machinery mechanics, machinery maintenance workers and millwrights to grow 13%.",
+    "whats_shrinking": "Reactive break-fix work is losing share to scheduled maintenance in higher-value accounts; low-tech generalist shops without diagnostic access are under pressure; repair demand tied to weak 2026 residential construction, agricultural machinery investment and mining/oilfield equipment investment is softer; in-house maintenance departments face outsourcing pressure where specialized labor is scarce or expensive.",
+    "recent_developments": [
+      "2025-01: FTC sued Deere over alleged restrictions on farm-equipment repair tools and software access, raising right-to-repair stakes for independent providers.",
+      "2026-04: NIST published IR 8259 Rev. 1 for IoT product manufacturers, increasing cybersecurity relevance for connected maintenance and remote diagnostics.",
+      "2026-05: Caterpillar reported 2025 services revenues of $24.0 billion and more than 1.6 million connected reporting assets, signaling deeper OEM service and telemetry models.",
+      "2026-06: Census QSS data showed 2025 taxable NAICS 8113 revenue of $59.0 billion and 2026 Q1 revenue of $15.063 billion.",
+      "2026-07: Federal Reserve data showed 2026 June industrial production at 102.6, 1.1% above June 2025, while manufacturing utilization was 75.7%.",
+      "2026-07: Census reported 2026 May construction spending at a $2.210 trillion annual rate, 1.5% below May 2025."
+    ],
+    "outlook": "The 2026-2030 outlook is steady rather than high-growth. Installed equipment bases, elevated replacement costs, reshoring-related industrial investment, data-center power needs and the shift to outsourced maintenance support demand. Margin risk comes from technician scarcity, wage inflation, parts availability, tariff exposure and competition from OEM-controlled service ecosystems. The best-positioned operators will combine field response density, diagnostic authorization, parts sourcing, predictive analytics and recurring service contracts.",
+    "themes": [
+      "Uptime as the core customer value proposition",
+      "Predictive maintenance and condition monitoring",
+      "Right-to-repair and diagnostic software access",
+      "Skilled technician shortage",
+      "Repair over replacement amid high equipment costs",
+      "OEM dealer networks versus independent shops",
+      "Parts availability and tariff exposure",
+      "Data-center and power-generation service demand",
+      "Fragmented local competition with selective consolidation"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'title': 'Baseline IBISWorld-style file, Machinery Maintenance & Heavy Equipment Repair Services in the US', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/machinery-maintenance-and-heavy-equipment-repair-services-in-the-us.txt'}",
+      "{'title': 'Thomas Industry Overview, Repair Service Manufacturers and Suppliers in the USA', 'url': 'https://www.thomasnet.com/articles/top-suppliers/repair-service-manufacturers-suppliers/'}",
+      "{'title': 'FRED, Census Quarterly Services Survey revenue for NAICS 8113 taxable establishments', 'url': 'https://fred.stlouisfed.org/data/REV81131TAXABL144QNSA'}",
+      "{'title': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, current release', 'url': 'https://www.federalreserve.gov/RELEASES/g17/Current/'}",
+      "{'title': 'U.S. Census Bureau, Monthly Construction Spending May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'title': 'FRED, BEA Table 5.5.6 real private fixed investment in equipment by type, 2025', 'url': 'https://fred.stlouisfed.org/release/tables?eid=1230945&rid=53'}",
+      "{'title': 'BLS Industry at a Glance, Repair and Maintenance NAICS 811', 'url': 'https://www.bls.gov/iag/tgs/iag811.htm'}",
+      "{'title': 'BLS Occupational Outlook Handbook, Industrial Machinery Mechanics, Machinery Maintenance Workers, and Millwrights', 'url': 'https://www.bls.gov/ooh/installation-maintenance-and-repair/industrial-machinery-mechanics-and-maintenance-workers-and-millwrights.htm'}",
+      "{'title': 'Caterpillar 2025 Annual Report Highlights', 'url': 'https://www.caterpillar.com/en/investors/reports/annual-report/segment-highlights.html'}",
+      "{'title': 'United Rentals 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1067701/000106770126000007/uri-20251231.htm'}",
+      "{'title': 'Federal Trade Commission, FTC and states sue Deere & Company', 'url': 'https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-states-sue-deere-company-protect-farmers-unfair-corporate-tactics-high-repair-costs'}",
+      "{'title': 'NIST IR 8259 Rev. 1, Foundational Cybersecurity Activities for IoT Product Manufacturers', 'url': 'https://csrc.nist.gov/pubs/ir/8259/r1/final'}"
+    ],
+    "one_sentence": "In 2025, US machinery maintenance and heavy equipment repair services remained a mature but essential $59.9 billion market, growing 1.2% as customers prioritized uptime, parts availability and repair over replacement.",
+    "slug": "machinery-maintenance-and-heavy-equipment-repair-services-in-the-us"
+  },
+  {
+    "title": "Maids, Nannies & Gardeners in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented household-employment market where demand depends on affluent families, dual-earner parents and aging households, but formal employment remains constrained by cost, regulation and off-the-books work.",
+    "overview": "This industry is narrowly defined as private households that directly employ domestic workers, including maids, nannies, babysitters, personal care aides, cooks, butlers, caretakers and gardeners; it excludes agency-employed and self-employed cleaning, childcare and landscaping providers. The 2022 baseline showed a pandemic rebound but not a full return to pre-2020 conditions. Current 2025-2026 indicators point to steady but low growth: high-income households remain the core demand pool, paid childcare remains expensive, and BLS private-household establishment counts improved through 2025 while the broader private-household employment index stayed below 2022 levels.",
+    "key_stats": {
+      "market_size": "2025 estimated market size: $31.4 billion in 2022 dollars, extrapolated from the 2022 IBIS baseline of $30.6 billion using the baseline 2022-2028 projected CAGR of 0.85%.",
+      "growth": "2022-2025 estimated CAGR: +0.85%; 2025 private-household employment index was 70.561 (2017=100), down 3.9% from 73.406 in 2022.",
+      "establishments": "2025-Q4 BLS QCEW private-household establishments: 190,443, up from 184,931 in 2025-Q1.",
+      "childcare_demand": "2025 Federal Reserve survey: 35% of parents with children under 13 and family income of $100,000 or more used paid childcare, versus 25% across all such parents.",
+      "childcare_cost": "2025 Federal Reserve survey: median paid childcare cost was $250 per week, or $350 per week among families using 20+ hours.",
+      "household_income": "2024 real median household income was $83,730; household income at the 90th percentile increased 4.2% from 2023 to 2024.",
+      "tax_threshold": "2026 IRS household-employee FICA threshold: $3,000 in cash wages paid to one household employee.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $30.560 billion in 2022 dollars.",
+      "growth": "2022 growth: +10.9%; 2017-2022 revenue CAGR: +2.2%; projected 2022-2027 revenue CAGR: +0.9% to $32.0 billion.",
+      "employment": "2022 employment: 237,125 workers.",
+      "establishments": "2022 establishments: 214,571.",
+      "service_mix": "2022 expenditure mix: maids and housecleaners 38.4%, personal care aides 30.6%, nannies and babysitters 29.5%, grounds and maintenance workers 0.5%, other services about 1.0%.",
+      "profit_model": "The 2022 baseline states the industry does not technically generate profit because revenue is measured as household wages and incurred costs."
+    },
+    "how_it_makes_money": "Households pay wages and related employment costs directly to domestic employees for recurring or occasional services: housecleaning, childcare, elder or personal assistance, meal preparation, driving, estate upkeep and gardening. Revenue rises when affluent households, dual-earner families and older adults outsource more home labor; it falls when households substitute unpaid family work, daycare centers, cleaning agencies, landscaping contractors or self-employed gig providers.",
+    "cost_structure": "Costs are overwhelmingly worker compensation because the industry is defined around direct household employment. Household employers also bear employer-side FICA, FUTA, state unemployment or disability taxes where applicable, workers compensation or benefits in some states, food or lodging for live-in staff, supplies and tools, and administrative costs for payroll and compliance. Capital intensity is low, and formal reported margins are not comparable with ordinary businesses because IBIS treats household outlays as revenue rather than operator sales with profit.",
+    "major_players": [
+      "No major corporate players; the 2022 baseline describes a highly fragmented market made up of individual private households and domestic workers.",
+      "Digital labor marketplaces and payroll platforms such as Care.com and household payroll providers influence worker matching and compliance but are outside the formal NAICS 814 private-household employer base.",
+      "Agency-based cleaning, childcare, eldercare and landscaping companies are important substitutes, but they are excluded from this industry definition."
+    ],
+    "current_dynamics": "Demand is being pulled upward by high-income household spending capacity, dual-earner parenting needs, aging-in-place care needs and a return to outside-the-home work. It is being held back by high childcare costs, household budget pressure, worker shortages, immigration uncertainty, and substitution toward agencies, daycare centers, app-based independent contractors and unpaid family care. Formalization is rising slowly as tax, payroll and worker-protection rules become more visible, but off-the-books arrangements remain a structural feature of the market.",
+    "whats_growing": "Paid childcare demand among higher-income and two-working-parent households; household support for older adults aging at home; formal payroll and compliance services; written work agreements, overtime and sick-leave expectations in regulated states; recurring cleaning among time-constrained affluent households.",
+    "whats_shrinking": "Informal tolerance for undocumented payroll practices; direct private-household employment relative to 2022, as shown by the lower 2025 BLS employment index; discretionary full-service domestic help for middle-income households facing childcare, housing and inflation pressure; directly employed gardeners as households often use landscaping businesses instead.",
+    "recent_developments": [
+      "2025-06-12: H.R.3971, the Domestic Workers Bill of Rights Act, was introduced in the 119th Congress and referred to House committees.",
+      "2025-07-02: DOL published 90 FR 28976, a proposed rule on FLSA domestic-service exemptions for companionship and live-in domestic service workers.",
+      "2025-09-09: Census reported 2024 real median household income of $83,730 and 4.2% growth at the 90th percentile, supporting the industry’s affluent-household demand base.",
+      "2025-Q4: BLS QCEW reported 190,443 private-household establishments, up from 184,931 in 2025-Q1.",
+      "2025-12-09: Senate sponsors reintroduced federal Domestic Workers Bill of Rights legislation, citing 2.2 million domestic workers nationally.",
+      "2026-06-22: IRS updated household-employment tax guidance, setting the 2026 FICA threshold at $3,000 in cash wages to one household employee."
+    ],
+    "outlook": "The 2026 outlook is low-growth rather than high-growth. A 2025 market size near $31.4 billion implies the industry is tracking close to the original slow-growth forecast, with demand anchored in affluent households and care needs but constrained by affordability and labor availability. Through 2027, the baseline forecast of about $32.0 billion remains plausible if unemployment stays contained and high-income households continue outsourcing care and home services; downside risk comes from weak household confidence, tighter immigration enforcement, rising wage floors and substitution toward agencies or independent contractors.",
+    "themes": [
+      "Affluent household demand",
+      "Care economy pressure",
+      "Aging in place",
+      "Dual-earner family time constraints",
+      "Labor formalization",
+      "Off-the-books employment risk",
+      "Regulatory expansion",
+      "Agency and gig-platform substitution",
+      "Low capital intensity",
+      "Fragmented local labor markets"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Maids, Nannies & Gardeners in the US, updated July 14, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/maids-nannies-and-gardeners-in-the-us.txt'}",
+      "{'title': 'BLS Industry at a Glance: Private Households, NAICS 814', 'url': 'https://www.bls.gov/iag/tgs/iag814.htm'}",
+      "{'title': 'FRED/BLS: Employment for Private Households NAICS 814, 2025 annual index', 'url': 'https://fred.stlouisfed.org/series/IPUUN814W010000000'}",
+      "{'title': 'Federal Reserve: Report on the Economic Well-Being of U.S. Households in 2025, Living Arrangements and Care Work', 'url': 'https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-living-arrangements-care-work.htm'}",
+      "{'title': 'U.S. Census Bureau: Income, Poverty and Health Insurance Coverage in the United States: 2024', 'url': 'https://www.census.gov/newsroom/press-releases/2025/income-poverty-health-insurance-coverage.html'}",
+      "{'title': 'Congress.gov: H.R.3971 Domestic Workers Bill of Rights Act, 119th Congress', 'url': 'https://www.congress.gov/bill/119th-congress/house-bill/3971'}",
+      "{'title': 'GovInfo/Federal Register: 90 FR 28976, Application of the Fair Labor Standards Act to Domestic Service', 'url': 'https://www.govinfo.gov/app/details/FR-2025-07-02/2025-12316'}",
+      "{'title': 'IRS Topic No. 756: Employment Taxes for Household Employees, reviewed June 22, 2026', 'url': 'https://www.irs.gov/taxtopics/tc756'}",
+      "{'title': 'Senator Gillibrand press release: Domestic Workers Bill of Rights Act reintroduced, December 9, 2025', 'url': 'https://www.gillibrand.senate.gov/news/press/release/gillibrand-colleagues-reintroduce-legislation-to-expand-workplace-rights-for-domestic-workers/'}"
+    ],
+    "one_sentence": "The US maids, nannies and gardeners industry covers workers hired directly by private households for cleaning, childcare, personal care and household upkeep, with 2025 demand supported by high-income families and care needs but limited by affordability and a still-smaller formal labor base than before the pandemic.",
+    "slug": "maids-nannies-and-gardeners-in-the-us"
+  },
+  {
+    "title": "Mail Order in the US",
+    "sector": "Retail",
+    "one_liner": "Legacy catalog and TV shopping is shrinking as the broader nonstore retail channel keeps migrating to ecommerce, mobile apps and live social commerce.",
+    "overview": "The industry is a declining retail channel built around catalogs, direct mail, toll-free ordering and TV home-shopping. The 2021 IBIS baseline showed revenue of $164.8 billion and a 2021 profit margin of 3.2%, with pressure from ecommerce, mobile shopping and falling cable subscriptions. By 2025-2026, the distinction between mail order and ecommerce is increasingly commercial rather than operational: Census NAICS 4541, which combines electronic shopping and mail-order houses, reached $1.431 trillion in 2025 sales, while QVC reported that ecommerce represented 63% of its 2025 consolidated net revenue. Legacy catalog and TV-shopping operators remain relevant where direct mail, curated product discovery, older customer cohorts, gifting, home goods and health/beauty categories still convert, but standalone mail-order revenue is being cannibalized by online checkout and app ordering.",
+    "key_stats": {
+      "market_size": "2026 legacy mail-order market estimated at $162.0 billion under the IBIS narrow definition; 2025 broader Census NAICS 4541 electronic shopping and mail-order sales were $1.431 trillion.",
+      "growth": "2021-2026 legacy mail-order revenue CAGR forecast at -0.3%; 2025 broader NAICS 4541 sales grew 7.0% year over year from $1.337 trillion in 2024, and January-May 2026 broader NAICS 4541 sales grew 10.2% year over year.",
+      "profit_margin": "2021 IBIS baseline profit margin was 3.2%; QVC generated 2025 adjusted OIBDA of $810 million on $8.293 billion of revenue, equal to 9.8%, before impairment and restructuring costs.",
+      "establishments": "2021 IBIS baseline establishments were 27,356, with a 2021-2027 projected CAGR of -0.5%.",
+      "employment": "2021 IBIS baseline employment was 175,320 workers, with a 2021-2026 forecast decline to 169,843 workers.",
+      "channel_pressure": "Retail ecommerce accounted for 16.8% of total US retail sales in Q1 2026, not seasonally adjusted, versus 15.9% in Q1 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated legacy mail-order revenue was about $164.3 billion, derived from the 2021 IBIS revenue base of $164.8 billion and the 2021-2026 forecast CAGR of -0.3%.",
+      "growth": "2022 estimated legacy mail-order growth was about -0.3% year over year under the 2021 IBIS forecast path.",
+      "context": "The baseline classified the industry as declining, with health and beauty products at 67.3% of 2021 revenue, other products at 18.2%, clothing, jewelry and accessories at 6.5%, home furnishings at 3.3%, sporting goods, toys, games and hobbies at 2.4%, and computer hardware, software and office supplies at 2.3%."
+    },
+    "how_it_makes_money": "Operators sell merchandise through mailed catalogs, direct-mail offers, television shopping broadcasts, call centers and phone orders, with revenue from product markups, shipping and handling fees, private-label or co-branded credit economics, and repeat-customer programs. Catalogs increasingly function as a paid acquisition and retention tool that stimulates orders completed on websites, mobile apps or stores, but those ecommerce orders are outside the narrow IBIS mail-order revenue definition.",
+    "cost_structure": {
+      "merchandise_purchases": "Inventory and cost of goods are the largest expense; QVC's 2025 cost of goods sold was $5.505 billion, or 66.4% of its 2025 revenue.",
+      "fulfillment_and_operations": "Warehousing, call centers, payment processing, returns and shipping are material; QVC's 2025 operating expense was $637 million, or 7.7% of 2025 revenue.",
+      "marketing": "Catalog printing, postage, TV distribution and digital marketing are core demand-generation costs; QVC's 2025 advertising expense was $369 million, or 4.5% of 2025 revenue.",
+      "labor_and_overhead": "Merchandising, customer service, creative, IT and corporate overhead remain important; QVC's 2025 SG&A excluding advertising and stock compensation was $972 million, or 11.7% of 2025 revenue.",
+      "capital_and_impairments": "Legacy video-commerce operators face asset write-down risk; QVC recorded 2025 intangible asset impairment of $930 million and 2025 goodwill impairment of $1.465 billion."
+    },
+    "major_players": [
+      "QVC Group / QVC and HSN: 2025 QVC revenue was $8.293 billion, including 2025 US QxH revenue of $5.936 billion; ecommerce was 63% of 2025 consolidated net revenue.",
+      "Amazon: 2025 consolidated net sales were $716.924 billion and 2025 online stores net sales were $269.287 billion, making it the dominant competitive benchmark in broader nonstore retail rather than narrow legacy mail order.",
+      "Williams-Sonoma: fiscal 2025 net revenue was $7.807 billion, with direct-mail catalogs included in comparable ecommerce sales and ecommerce comp growth of 2.2%.",
+      "1-800-FLOWERS.COM: fiscal 2025 revenue was $1.69 billion, with gifting, floral and food brands operating through direct-to-consumer ordering channels.",
+      "Lands' End: a legacy catalog apparel brand competing through catalogs, ecommerce and marketplace distribution in 2025-2026."
+    ],
+    "current_dynamics": "Demand is being pulled away from phone and mail orders by mobile checkout, marketplaces, social commerce and faster delivery promises. The broader combined electronic shopping and mail-order channel is still expanding, with 2025 Census/FRED NAICS 4541 sales of $1.431 trillion and January-May 2026 sales of $607.937 billion, up 10.2% from January-May 2025. The legacy channel is weaker: cable distribution is less valuable as viewers cut traditional TV, and QVC's 2026 restructuring highlights the debt and margin strain on televised shopping. Direct mail still has scale, with USPS Marketing Mail volume at 56.8 billion pieces in fiscal 2025, but catalog economics depend on better targeting, customer lifetime value and converting mailed demand into profitable orders.",
+    "whats_growing": [
+      "2025-2026 mobile and app-based ordering tied to catalog, TV and social discovery.",
+      "2025-2026 live shopping distributed through streaming apps, social platforms and connected TV rather than only cable channels.",
+      "2025 health, beauty, home and gifting categories where curated presentation and repeat purchasing still matter.",
+      "2025 data-driven direct mail that uses customer files, lookalike models and smaller targeted catalog drops.",
+      "2025-2026 broader NAICS 4541 electronic shopping and mail-order sales, which grew 7.0% in 2025 and 10.2% year over year in January-May 2026."
+    ],
+    "whats_shrinking": [
+      "2025-2026 pure mail-in and phone-only ordering without digital checkout.",
+      "2025-2026 cable-dependent TV home-shopping discovery as traditional pay-TV exposure declines.",
+      "2025 broad untargeted catalog circulation where postage, paper and printing costs weaken ROI.",
+      "2025 computer hardware, software and office supplies sold by catalog, because marketplaces and specialist ecommerce sites offer faster comparison and replenishment.",
+      "2025-2026 standalone legacy mail-order revenue under the IBIS definition, forecast at a 2021-2026 CAGR of -0.3%."
+    ],
+    "recent_developments": [
+      "2025: Census/FRED monthly data show broader NAICS 4541 electronic shopping and mail-order sales totaled $1.431 trillion, up 7.0% from 2024.",
+      "FY2025: USPS reported Marketing Mail volume of 56.8 billion pieces, showing direct mail remains large even as catalog sales migrate online.",
+      "2025: QVC reported $8.293 billion of revenue, down from $8.997 billion in 2024, and said ecommerce represented 63% of 2025 consolidated net revenue.",
+      "Apr 16, 2026: QVC Group announced a prepackaged Chapter 11 process to reduce debt while continuing operations across social platforms, streaming apps, ecommerce sites, stores and TV channels.",
+      "Jul 15, 2026: QVC Group said the bankruptcy court confirmed its restructuring plan, reducing total debt from about $6.6 billion to $1.325 billion upon emergence.",
+      "Q1 2026: Retail ecommerce accounted for 16.8% of total US retail sales, versus 15.9% in Q1 2025, reinforcing substitution pressure on legacy mail order."
+    ],
+    "outlook": "Through 2026, the narrow mail-order industry is likely to remain in structural decline even while nonstore retail grows. The winners will be operators that treat catalogs and TV as discovery media, use customer data to lower wasted circulation, and complete orders through mobile, web, streaming and social commerce. Margins should remain pressured by shipping, returns, paper, postage, digital ad costs and tariff uncertainty, while older customer cohorts, health and beauty, home goods, gifting and curated live selling provide the most defensible pockets of demand.",
+    "themes": [
+      "Channel migration from mail and phone orders to ecommerce",
+      "Catalogs as performance marketing",
+      "Live social shopping and streaming commerce",
+      "Cord-cutting pressure on TV home shopping",
+      "Older customer retention",
+      "Health and beauty concentration",
+      "Home goods visualization through catalogs",
+      "Shipping, returns and fulfillment cost pressure",
+      "Data-driven direct mail targeting",
+      "Debt restructuring among legacy video-commerce operators"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/mail-order-in-the-us.txt, last updated Oct 29, 2021, including 2021 revenue of $164.8B and 2021-2026 forecast CAGR of -0.3%.",
+      "https://fred.stlouisfed.org/data/MRTSSM4541USN",
+      "https://fred.stlouisfed.org/series/ECOMPCTNSA/",
+      "https://www.sec.gov/Archives/edgar/data/1254699/000125469926000004/qvc-20251231.htm",
+      "https://www.qvcgrp.com/newsroom/pressrelease/qvc-group-to-significantly-strengthen-financial-position-as-company-continues-advancing-transformational-live-social-shopping-growth-strategy/",
+      "https://www.qvcgrp.com/newsroom/pressrelease/qvc-group-achieves-key-milestone-with-courts-approval-of-comprehensive-financial-restructuring-plan/",
+      "https://facts.usps.com/marketing-mail-volume/",
+      "https://about.usps.com/what/performance/household-mail-survey/",
+      "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "https://www.1800flowersinc.com/investors/financial-information/results-center",
+      "https://ebs.publicnow.com/view/CC35C1E88DCA804F8A531788617A5AC27E93E3EA"
+    ],
+    "one_sentence": "Mail Order in the US covers retailers that primarily sell merchandise through catalogs, mailed materials and televised shopping, excluding ecommerce sales under the narrow IBIS definition even though most surviving operators now use those channels to drive digital orders.",
+    "slug": "mail-order-in-the-us"
+  },
+  {
+    "title": "Major Label Music Production in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "US major-label music production is a streaming-led recorded-music business where Universal, Sony and Warner monetize catalogs, new releases, artist services and licensing across subscription platforms, physical formats and synchronization channels.",
+    "overview": "Major labels discover, finance, record, market and distribute music for artists while controlling large master-recording catalogs. The industry has moved from album and download sales to a platform-licensed model: in 2025, streaming represented 82% of US recorded music revenue and paid streaming generated $6.4 billion. The market remains concentrated around Universal Music Group, Sony Music Entertainment and Warner Music Group, but labels face more leverage from global DSPs, artist-direct distribution, independent label services and AI-generated content. Compared with the 2022 IBIS baseline, the industry is larger and more stable, but growth is slower because US paid streaming is now a mature mass-market product.",
+    "key_stats": {
+      "market_size": "$11.5 billion in US recorded music wholesale revenue in 2025, a record high reported by RIAA; this is the closest current public proxy for major-label music production revenue.",
+      "growth": "US recorded music revenue grew 3.3% in 2025 according to IFPI; RIAA wholesale revenue rose from $11.3 billion in 2024 to $11.5 billion in 2025.",
+      "streaming_revenue": "$9.5 billion in US streaming revenue in 2025, representing 82% of US recorded music revenue.",
+      "paid_subscription_revenue": "$6.4 billion in US paid streaming subscription revenue in 2025, equal to 55.3% of US recorded music revenue.",
+      "paid_subscription_accounts": "106.5 million US paid streaming accounts in 2025.",
+      "physical_revenue_signal": "US vinyl revenue surpassed $1.0 billion in 2025 and vinyl units reached 46.8 million, versus 29.5 million CD units.",
+      "global_context": "Global recorded music revenue reached $31.7 billion in 2025, up 6.4%, with 837 million paid streaming subscription accounts worldwide.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$10.209 billion in 2022 IBISWorld industry revenue for Major Label Music Production in the US.",
+      "growth": "IBISWorld estimated 2022 revenue growth of 1.1% and 2017-2022 annualized revenue growth of 3.8%.",
+      "profit": "$1.644 billion in 2022 IBISWorld profit.",
+      "profit_margin": "16.1% in 2022 IBISWorld profit margin.",
+      "employment": "11,410 employees in 2022 IBISWorld employment.",
+      "establishments": "424 establishments in 2022 IBISWorld establishments."
+    },
+    "how_it_makes_money": "Labels earn revenue by licensing recorded masters to streaming platforms, selling physical formats, collecting download revenue, licensing music for film, TV, advertising, games and social platforms, monetizing YouTube and short-form video, and expanding artist services such as merchandising, touring-related services, fan products and distribution services. In 2025, streaming was the core revenue engine at $9.5 billion in the US, while paid subscriptions alone generated $6.4 billion.",
+    "cost_structure": "The largest costs are artist royalties, advances and recoupable recording costs, A&R, marketing, playlist and social promotion, video/content production, distribution operations, catalog acquisition amortization, legal and licensing administration, technology/data systems and staff compensation. The 2022 IBIS baseline showed $1.381 billion in wages and a 16.1% profit margin; by 2025-2026, company filings indicate margin pressure from higher artist investment, catalog spending, AI/legal costs and global marketing, partly offset by scalable streaming revenue.",
+    "major_players": [
+      "Universal Music Group",
+      "Sony Music Entertainment",
+      "Warner Music Group",
+      "Republic Records",
+      "Interscope Geffen A&M",
+      "Capitol Music Group",
+      "Columbia Records",
+      "RCA Records",
+      "Atlantic Records",
+      "Warner Records"
+    ],
+    "current_dynamics": "The 2025-2026 market is defined by mature but still-growing paid streaming, vinyl's premium collectible role, reduced download relevance, more global repertoire, more direct-to-fan monetization and intensifying AI licensing disputes. Major labels still control high-value catalogs and superstar marketing infrastructure, but independent distribution and artist services keep pressuring traditional long-term label deals. The US remains the world's largest paid subscription market in 2025, accounting for about one-third of global paid subscription value according to RIAA.",
+    "whats_growing": [
+      "Paid subscription streaming: US paid streaming subscription revenue grew 6.8% in 2025 to $5.88 billion for premium subscriptions and $6.4 billion including paid subscription accounts overall.",
+      "Vinyl: US vinyl revenue surpassed $1.0 billion in 2025 after 19 consecutive years of growth, with 46.8 million vinyl units shipped in 2025.",
+      "Artist services and expanded rights: Warner Music Group reported artist services and expanded-rights revenue growth in fiscal 2025, including merchandising and concert-promotion gains.",
+      "Global and emerging-market monetization: IFPI reported 2025 global recorded music revenue growth of 6.4%, with every region growing in 2025.",
+      "AI and platform licensing: 2025-2026 label strategy increasingly includes negotiating licensed AI and platform partnerships rather than relying only on litigation."
+    ],
+    "whats_shrinking": [
+      "Permanent downloads: The 2022 IBIS report identified digital track and album downloads as structurally declining, and 2025 label filings continued to describe downloads as a small legacy category.",
+      "CD relevance: In 2025, US vinyl units of 46.8 million exceeded CD units of 29.5 million, confirming CDs as the weaker physical format.",
+      "Ad-supported streaming economics: Warner Music Group described a soft ad environment affecting ad-supported streaming growth during fiscal 2025.",
+      "Traditional album purchasing: The 2022 IBIS baseline showed album sales declining at a 2017-2022 annualized rate of 15.8%, and the 2025 market remains dominated by access-based streaming instead of ownership."
+    ],
+    "recent_developments": [
+      "2025-03-18: RIAA reported 2024 US recorded music revenue of $17.7 billion retail and $11.3 billion wholesale, with paid streaming subscriptions passing 100 million US accounts in 2024.",
+      "2025-09-09: RIAA reported H1 2025 US recorded music wholesale revenue of $5.6 billion, streaming revenue of $4.68 billion and 105 million paid subscription accounts.",
+      "2025-11-13: Warner Music Group reported fiscal 2025 revenue of $6.707 billion and recorded music revenue of $5.408 billion, with recorded music streaming revenue of $3.505 billion.",
+      "2026-01-28: Spotify said it paid more than $11 billion to the music industry in 2025, up more than 10% from 2024.",
+      "2026-03-16: RIAA reported 2025 US recorded music wholesale revenue of $11.5 billion, streaming revenue of $9.5 billion and 106.5 million paid subscription accounts.",
+      "2026-03-18: IFPI reported global recorded music revenue of $31.7 billion in 2025, up 6.4%, with US recorded music revenue up 3.3% in 2025."
+    ],
+    "outlook": "The 2026 outlook is positive but no longer hypergrowth. US subscription streaming should keep expanding through price increases, family and student-plan optimization, global DSP monetization and deeper fan products, but account growth is likely slower after the US reached 106.5 million paid accounts in 2025. Major labels should benefit from catalog scale, vinyl premiums, synchronization demand, global repertoire and licensing of responsible AI tools. Risks include DSP bargaining power, streaming fraud, AI training litigation, user-generated AI music volume, higher artist acquisition costs and weaker ad-supported streaming. A reasonable 2026-2028 view is low-to-mid-single-digit annual US revenue growth unless AI licensing or direct-to-fan products create a new material revenue pool.",
+    "themes": [
+      "Streaming maturity",
+      "Catalog monetization",
+      "Vinyl premiumization",
+      "AI licensing and copyright enforcement",
+      "Artist-direct competition",
+      "Global repertoire growth",
+      "Streaming fraud prevention",
+      "DSP pricing power",
+      "Merchandising and expanded rights",
+      "Synchronization demand"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/",
+      "https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/",
+      "https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/",
+      "https://www.ifpi.org/global-music-report-2026-global-recorded-music-revenues-grow-6-4-as-record-companies-drive-innovation/",
+      "https://www.universalmusic.com/universal-music-group-n-v-reports-financial-results-for-the-fourth-quarter-and-full-year-ended-december-31-2025/",
+      "https://investors.wmg.com/news-events/news-releases/news-details/2025/Warner-Music-Group-Corp--Reports-Results-for-Fiscal-Fourth-Quarter-and-Full-Year-Ended-September-30-2025/default.aspx",
+      "https://www.publicnow.com/view/F97B3C908D24516D9BFC89651294F9D5EE81E92B",
+      "https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/"
+    ],
+    "one_sentence": "In 2025, US recorded music wholesale revenue reached $11.5 billion, with streaming at $9.5 billion and paid streaming subscriptions at 106.5 million accounts, keeping major-label revenue growth positive despite mature subscription penetration and continued declines in downloads.",
+    "slug": "major-label-music-production-in-the-us"
+  }
+]

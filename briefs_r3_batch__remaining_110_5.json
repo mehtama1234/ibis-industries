@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Professional, Scientific and Technical Services in the US",
+    "sector": "Business Services",
+    "one_liner": "A vast, low-concentration expert-services sector selling legal, accounting, engineering, consulting, IT, R&D and advertising services to businesses, government and households.",
+    "overview": "This NAICS 54 sector covers establishments that provide high-expertise services for others, including legal advice, accounting and payroll, architecture and engineering, specialized design, computer systems design, management and technical consulting, R&D, advertising, photography, translation and veterinary services. Demand is broad but business-led: the 2022 IBIS baseline estimated businesses at 68.2% of sector revenue, households at 14.8% and government at roughly 17.0%. The sector is mature and highly fragmented, but the mix is shifting toward technology implementation, cybersecurity, cloud modernization, AI-enabled workflow redesign, data-center and energy infrastructure design, and performance-based digital marketing.",
+    "key_stats": {
+      "market_size": "$3.113 trillion in 2025 taxable-establishment revenue; Q1 2026 revenue was $804.973 billion, or a $3.220 trillion annualized run rate.",
+      "growth": "Q3 2025 taxable-establishment revenue was $792.499 billion, up 6.9% from Q3 2024 revenue of $741.385 billion; full-year 2025 revenue was 10.9% above the 2022 IBIS baseline revenue of $2.808 trillion.",
+      "employment": "10.837 million payroll jobs in July 2026, seasonally adjusted, for NAICS 54.",
+      "earnings": "Average hourly earnings for all employees were $55.63 in June 2026, with a 37.0-hour average workweek.",
+      "productivity": "BLS reported 2024 labor productivity growth of 3.3% and total factor productivity growth of 1.4% for NAICS 54.",
+      "digital_ad_market": "U.S. internet advertising revenue reached $294.6 billion in 2025, up 13.9% year over year, supporting advertising, media buying, analytics and creator-commerce service lines.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.808 trillion revenue in 2022, in 2022 dollars.",
+      "growth": "4.1% annualized revenue growth over 2017-2022, including 2.8% growth in 2022.",
+      "profit": "$221.8 billion profit in 2022, equal to a 7.9% margin.",
+      "employment": "14.795 million total sector workers in 2022 in the IBIS baseline definition.",
+      "enterprises": "5.466 million enterprises and 5.581 million establishments in 2022.",
+      "wages": "$1.159 trillion total wages in 2022, equal to about 41.3% of revenue.",
+      "service_mix_2022": {
+        "computer_systems_design": "23.5%",
+        "architectural_engineering_related": "17.4%",
+        "legal_services": "14.8%",
+        "management_scientific_technical_consulting": "13.5%",
+        "scientific_r_and_d": "9.2%",
+        "accounting_tax_bookkeeping_payroll": "7.9%",
+        "advertising_pr_related": "7.5%",
+        "other": "6.2%"
+      }
+    },
+    "how_it_makes_money": "Firms bill clients through hourly rates, retainers, fixed-fee projects, subscription or managed-service contracts, success fees, media commissions, reimbursed project costs and long-term government or enterprise contracts. High-value work is sold on expertise, credentials, relationships, data assets and implementation capacity rather than physical capital.",
+    "cost_structure": {
+      "labor": "Labor is the dominant cost: the 2022 baseline showed $1.159 trillion of wages, about 41.3% of revenue, and BLS reported $55.63 average hourly earnings in June 2026.",
+      "profit": "The 2022 baseline profit margin was 7.9%, or $221.8 billion of profit on $2.808 trillion of revenue.",
+      "technology_and_data": "Cloud platforms, AI tools, cybersecurity, professional software, proprietary data, compliance systems and collaboration tools are rising 2025-2026 operating costs, especially for IT consulting, legal, accounting, advertising and engineering firms.",
+      "subcontractors_and_pass_throughs": "Engineering, advertising and consulting firms often carry subcontractor, media-buying, travel and reimbursable project expenses that can inflate gross revenue while leaving net service revenue as the cleaner margin base.",
+      "sales_and_retention": "Client acquisition, partner compensation, business development and retention of specialized talent remain material because services are relationship-driven and switching can occur after project cycles."
+    },
+    "major_players": [
+      "Deloitte - FY2025 global revenue of $70.5 billion; major audit, tax, consulting and technology-services network.",
+      "Accenture - FY2025 revenue of $69.673 billion; major consulting, systems integration, managed services and AI transformation provider.",
+      "EY - FY2025 global revenue of $53.2 billion; major assurance, tax, strategy and consulting network.",
+      "KPMG - FY2025 global revenue of $39.8 billion on a continuing-operations basis; major audit, tax and advisory network.",
+      "IBM Consulting - major enterprise technology consulting and hybrid-cloud transformation provider.",
+      "AECOM - FY2025 revenue of $16.140 billion; major infrastructure, engineering and design-services firm.",
+      "Jacobs - FY2025 revenue of $12.030 billion; major technical, engineering and consulting-services firm.",
+      "WPP - 2025 revenue of £13.550 billion; major advertising, media and marketing-services group."
+    ],
+    "current_dynamics": "Revenue is still expanding, but performance varies sharply by subsector. IT consulting, AI implementation, data governance, cloud modernization, cybersecurity, engineering for data centers and energy systems, and digital advertising are strong. Architecture tied to rate-sensitive commercial and multifamily projects is softer, with AIA reporting billings below 50 throughout 2025. Hiring remains tight for specialized roles even as automation changes junior analyst, design, legal-support and marketing-production work. The sector remains fragmented despite large global networks because local expertise, licenses, client relationships and niche specialization matter.",
+    "whats_growing": "AI strategy and implementation, cloud and cybersecurity consulting, data engineering, compliance and AI governance, digital video/social/commerce media services, creator advertising, data-center engineering, energy and utilities design, infrastructure-related engineering, outsourced accounting/payroll, and legal work tied to regulation, M&A, privacy and technology contracts.",
+    "whats_shrinking": "Print-linked advertising, legacy direct-mail and traditional media-buying work; purely manual research, drafting and production tasks exposed to generative AI; rate-sensitive residential and commercial architecture work; lower-value staff augmentation where buyers can substitute automation or offshore delivery; and consulting projects without measurable implementation or ROI outcomes.",
+    "recent_developments": [
+      "2025-11-05: McKinsey reported that 88% of surveyed organizations regularly used AI in at least one business function, but most had not scaled it enterprise-wide.",
+      "2025-12-04: ACEC's Q4 2025 engineering sentiment survey reported strong firm finances, healthy backlogs and 92% of firms with at least one open position.",
+      "2026-01-21: AIA/Deltek reported a December 2025 Architecture Billings Index of 48.5, ending 2025 with declining architecture firm billings.",
+      "2026-04-16: IAB/PwC reported U.S. internet advertising revenue of $294.6 billion in 2025, up 13.9% year over year.",
+      "2026-06-11: Census/FRED QSS data showed NAICS 54 Q1 2026 taxable-establishment revenue of $804.973 billion, after $3.113 trillion across 2025.",
+      "2026-07: BLS reported 10.837 million NAICS 54 payroll jobs in July 2026 and $55.63 average hourly earnings in June 2026."
+    ],
+    "outlook": "The 2026 outlook is positive but uneven. Revenue should keep growing from AI, cybersecurity, software modernization, outsourced expertise, infrastructure engineering and digital advertising, while higher wage costs and automation-driven fee pressure challenge margins. Buyers are increasingly demanding measurable outcomes rather than broad advice, which favors firms that combine strategy, implementation, data assets and managed services. Architecture and some discretionary consulting remain exposed to interest rates, delayed construction starts and corporate cost control. Fragmentation should persist, but large firms will continue buying niche AI, cyber, engineering and industry-specialist capabilities.",
+    "themes": [
+      "AI changes the labor model",
+      "Cloud and cybersecurity demand",
+      "Data-center and energy infrastructure",
+      "Digital advertising shifts to video, social and commerce media",
+      "Wage pressure for specialized talent",
+      "Fragmented market with large global networks",
+      "Government and infrastructure demand as stabilizer",
+      "Outcome-based consulting and managed services",
+      "Architecture softness from rates and delayed projects",
+      "Compliance, privacy and AI governance"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/professional-scientific-and-technical-services-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/REV54TAXABL144QSA",
+      "https://alfred.stlouisfed.org/release?et=&ob=pv&od=desc&pageID=6&rd=2025-02-21&rid=288&t=revenue",
+      "https://www.bls.gov/iag/tgs/iag54.htm?tss-sc=7620",
+      "https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/",
+      "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "https://digitaleconomy.stanford.edu/project/indicators/adoptionmonitor/",
+      "https://www.acec.org/resource/engineering-business-sentiment-q4-2025/",
+      "https://www.aia.org/resource-center/abi-december-2025-architecture-firm-billings-remain-soft-end-year",
+      "https://www.deloitte.com/global/en/about/press-room/global-revenue-announcement.html",
+      "https://newsroom.accenture.com/fact-sheet",
+      "https://www.ey.com/en_gl/newsroom/2025/10/ey-announces-global-revenue-of-us-53-2b-for-fiscal-year-2025",
+      "https://kpmg.com/xx/en/media/press-releases/2025/12/kpmg-delivers-rise-in-global-revenue.html",
+      "https://investors.aecom.com/news-releases/news-release-details/aecom-reports-fourth-quarter-and-full-year-fiscal-2025-results",
+      "https://www.jacobs.com/newsroom/press-release/jacobs-reports-strong-fiscal-fourth-quarter-and-fiscal-year-2025-earnings",
+      "https://www.wpp.com/en/news/2026/02/strategy-update-and-2025-preliminary-results"
+    ],
+    "one_sentence": "Professional, scientific and technical services remain a core business-infrastructure sector, with 2025 taxable-firm revenue of about $3.113 trillion and 2026 demand increasingly shaped by AI adoption, digital advertising, infrastructure design work and wage pressure for skilled labor.",
+    "slug": "professional-scientific-and-technical-services-in-the-us"
+  },
+  {
+    "title": "Promotional Products in the US",
+    "sector": "Business Services",
+    "one_liner": "A fragmented branded-merchandise distribution market that sells logoed apparel, drinkware, writing instruments, bags, tech accessories and related marketing services to businesses, schools, nonprofits, events and public-sector buyers.",
+    "overview": "Promotional products companies source, customize and distribute branded goods such as apparel, caps, bags, drinkware, pens, magnets, tech accessories, gifts, signs and event merchandise. Demand is tied to business formation, corporate profits, advertising budgets, events, schools, healthcare, construction, nonprofits and political campaigns. The channel remains highly fragmented, with low barriers to entry and many small distributors, but large national distributors and technology-enabled operators have gained share through e-commerce, fulfillment, company stores, procurement platforms and acquisitions. The post-pandemic rebound lifted 2022 sales sharply, but 2024-2026 conditions are more mixed: clients still value tangible branded merchandise, while tariff volatility and higher sourcing costs are squeezing margins and pushing distributors toward retail-quality, sustainable, online and Made-in-USA offerings.",
+    "key_stats": {
+      "market_size": "2025 US distributor sales: $27.1 billion",
+      "growth": "2025 US distributor sales growth: 1.3% year over year",
+      "latest_momentum": "2026 May-June PPAI flash survey: distributor revenue up 2.3% and supplier revenue up 2.1% versus May-June 2025",
+      "online_sales": "2025 online sales: $7.1 billion, equal to 26.3% of US distributor sales",
+      "sustainable_products": "2025 sustainable product sales: $3.8 billion, equal to 14.0% of US distributor sales",
+      "retail_branded_products": "2025 retail-branded product sales: about $6.0 billion",
+      "non_industry_suppliers": "2025 sales sourced from non-industry suppliers: about $4.4 billion, equal to 16.3% of US distributor sales",
+      "large_distributor_share": "2025 large distributors above $2.5 million in annual sales generated $14.6 billion, or 54.0% of US sales; small distributors generated just over $12.5 billion, or 46.0%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 US promotional products sales: $25.5 billion",
+      "growth": "2022 US promotional products sales growth: 15.6% over 2021",
+      "context": "2022 was a record rebound year as in-person events returned, supply chains improved and inflation lifted nominal order values",
+      "sustainable_products": "2022 sustainable product sales: just under $3.0 billion, equal to 11.2% of industry sales",
+      "ibis_reference": "The 2022 IBISWorld baseline file reported 2021 industry revenue of $17.459 billion, 2021 revenue growth of 5.0%, 2021 profit of $1.467 billion and a 2021 profit margin of 8.4% using a narrower industry definition and 2021 dollars"
+    },
+    "how_it_makes_money": "Distributors earn revenue by marking up blank goods, decoration, design, kitting, fulfillment, freight, online stores, incentive programs and related advertising services. In the 2021 IBIS baseline, customization and distribution of promotional products accounted for 52.4% of revenue, custom sign fabrication 2.0%, merchandise demonstrations 1.0% and other advertising services 44.6%. In 2025, growth increasingly came from online ordering, managed company stores, retail-branded products, sustainable assortments and fulfillment programs rather than one-off commodity orders.",
+    "cost_structure": {
+      "largest_costs": "2025 cost pressure centered on imported product costs, tariffs, freight, compliance, decoration labor, warehousing and technology platforms",
+      "wages": "2021 IBIS baseline wages were $4.411 billion, about 25.3% of 2021 revenue",
+      "profit": "2021 IBIS baseline profit was $1.467 billion, an 8.4% margin; 2025 industry commentary emphasized that many distributors sold more but made less because cost volatility absorbed topline growth",
+      "pricing": "2025 ASI reported nearly 90% of North American distributors raised prices during 2025, with an average increase of about 11% among those raising prices",
+      "procurement": "2026 May-June PPAI flash survey reported 58% of distributors and 56% of suppliers had higher procurement costs than in May-June 2025"
+    },
+    "major_players": [
+      "4imprint: 2025 PPAI 100 revenue of about $1.3 billion and 2025 ASI Top 40 2024 US/Canada promo sales of $1.343 billion",
+      "HALO: 2025 PPAI 100 revenue of $964.4 million and 2025 ASI Top 40 2024 US/Canada promo sales of $964.7 million",
+      "Staples Promotional Products: 2025 PPAI 100 revenue of $929.9 million and 2025 ASI Top 40 2024 US/Canada promo sales estimate of $924.1 million",
+      "Proforma: 2025 PPAI 100 revenue of $668.0 million and 2025 ASI Top 40 2024 US/Canada promo sales of $662.0 million",
+      "Custom Ink: 2025 ASI Top 40 2024 US/Canada promo sales estimate of $650.0 million",
+      "BDA: 2025 ASI Top 40 2024 US/Canada promo sales of $470.3 million"
+    ],
+    "current_dynamics": "The industry is expanding in nominal dollars but not cleanly in real terms. 2025 US sales reached a new high of $27.1 billion, yet the 1.3% growth rate trailed inflation and reflected pricing more than broad unit growth. Tariffs on China and other sourcing markets, freight volatility and compliance costs pushed suppliers and distributors to raise prices, diversify sourcing, substitute products and protect margins. Demand is steadier among larger, multi-industry distributors with logistics and company-store capabilities, while smaller suppliers face sharper margin risk. Online ordering, retail-quality merchandise, sustainable assortments and AI-enabled sales or CRM tools are becoming standard competitive capabilities.",
+    "whats_growing": "Retail-branded merchandise grew faster than the total market in 2025, reaching about $6.0 billion as buyers favored higher-quality recognizable products. Online sales reached $7.1 billion in 2025, or 26.3% of US distributor sales. Sustainable products reached $3.8 billion in 2025, or 14.0% of sales, making sustainability a standard offering. Company stores, fulfillment programs, diversified sourcing, Made-in-USA alternatives and practical AI tools for customer insights, CRM and operations are also gaining adoption.",
+    "whats_shrinking": "Low-margin commodity programs, direct China-dependent sourcing, high-volume low-value giveaways and price-sensitive event orders are under pressure. 2025 growth lagged inflation, so real activity was softer than nominal revenue suggests. In early 2025, ASI reported average distributor sales declined 3.6% in Q1 2025 and 3.2% in Q2 2025 before the market improved later. Product demonstration services remain structurally smaller than pre-pandemic norms in the 2021 IBIS baseline, at 1.0% of revenue.",
+    "recent_developments": [
+      "2025-02-20: PPAI reported 2024 US distributor sales of $26.8 billion, up 2.63% from 2023.",
+      "2025-08-07: ASI reported 2025 State of the Industry pressures, including Q1 2025 distributor sales down 3.6%, Q2 2025 down 3.2% and 70% of suppliers raising prices in Q2 2025 due to import taxes.",
+      "2026-01-12: PPAI reported 2025 US distributor sales of $27.1 billion, up 1.3% from 2024, with tariff, freight and client-budget pressures weighing on margins.",
+      "2026-01-20: ASI reported 2025 North American promotional products distributor sales of $27.7 billion, up 4.2%, with nearly 90% of distributors raising prices by an average of about 11%.",
+      "2026-07-22: PPAI reported May-June 2026 distributor revenue up 2.3% and supplier revenue up 2.1% versus May-June 2025, though growth still lagged 2026 inflation of 3.5%."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but margin-sensitive. PPAI reported that 60% of distributors expected higher 2026 sales, while only 53% expected higher 2026 profit, showing that cost control matters as much as demand. Large distributors should benefit from online storefronts, procurement integrations, fulfillment scale, product substitution and diversified sourcing. Smaller distributors can still compete through local relationships and service, but they face higher quoting, compliance and procurement complexity. Growth is likely to be modest unless corporate marketing budgets, event spending and tariff stability improve; higher-quality retail-branded, sustainable and domestically sourced merchandise should outperform basic imported giveaways.",
+    "themes": [
+      "Tariff-driven price increases",
+      "Margin pressure despite nominal growth",
+      "Retail-quality branded merchandise",
+      "Sustainable products as a standard offering",
+      "Online sales and company stores",
+      "Fragmented market with top-player consolidation",
+      "Made-in-USA and diversified sourcing",
+      "AI for CRM, customer insights and operations",
+      "Event, education, healthcare and construction demand",
+      "Competition from digital advertising"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'PPAI Sales Volume Estimate: Promo Reaches New Height But Hampered By External Volatility', 'url': 'https://www.ppai.org/media-hub/ppai-sales-volume-estimate-promo-reaches-new-height-but-hampered-by-external-volatility/', 'date': '2026-01-12'}",
+      "{'title': 'PPAI Branded Merch Industry Sales Inching Ahead', 'url': 'https://www.ppai.org/media-hub/branded-merch-industry-sales-inching-ahead-ppai-research-shows/', 'date': '2026-07-22'}",
+      "{'title': 'ASI North American Promotional Products Industry Grows 4.2% in 2025 to Record $27.7 Billion', 'url': 'https://asicentral.com/press-releases/north-america-promo-industry-grows-4-percent-in-2025/', 'date': '2026-01-21'}",
+      "{'title': 'ASI Counselor Top 40 Distributors 2025', 'url': 'https://members.asicentral.com/news/strategy/july-2025/counselor-top-40-distributors-2025/', 'date': '2025-07-23'}",
+      "{'title': 'PPAI 100 Distributors', 'url': 'https://www.ppai.org/media/ppai-100/', 'date': '2026'}",
+      "{'title': 'PPAI 2024 Distributor Sales Volume Estimate', 'url': 'https://www.ppai.org/media-hub/ppai-sales-volume-estimate-modest-growth-in-2024-but-reasons-for-optimism-remain/', 'date': '2025-02-20'}",
+      "{'title': 'PPAI 2022 Sales Volume Estimate', 'url': 'https://www.ppai.org/media-hub/final-report-sustainability-surges-in-2022-ppai-sales-volume-estimate/', 'date': '2023-02-15'}",
+      "{'title': 'IBISWorld baseline file: promotional-products-in-the-us.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/promotional-products-in-the-us.txt', 'date': '2022-08-30'}"
+    ],
+    "one_sentence": "The US promotional products industry reached $27.1 billion in 2025 distributor sales, but 2025 growth slowed to 1.3% as tariffs, freight, compliance costs and tighter client budgets pushed nominal sales up faster than underlying volume.",
+    "slug": "promotional-products-in-the-us"
+  },
+  {
+    "title": "Property Management in the US",
+    "sector": "Real Estate",
+    "one_liner": "A fragmented, recurring-fee real estate services industry balancing resilient rental demand, looser apartment vacancies, office recovery and tighter fee-disclosure scrutiny.",
+    "overview": "The US property management industry remains a large, labor-intensive real estate services market built around recurring contracts rather than asset ownership. The 2022 IBISWorld baseline put revenue at $109.4 billion, and newer 2025-2026 market estimates put the broader US property management services market at roughly $122.0 billion in 2025 and $127.2 billion in 2026, implying continued nominal expansion even as operating conditions are mixed. Residential management benefits from high homeownership costs and a large renter base, but heavy 2024-2026 apartment supply has raised vacancy and limited rent growth in many Sun Belt and high-delivery markets. Commercial management is improving from the pandemic office shock: CBRE reported Q2 2026 office vacancy falling to 18.3% after nine consecutive quarters of positive demand, but the recovery is concentrated in prime buildings while older assets remain pressured. The industry is still highly fragmented, with large firms such as Greystar, CBRE, Lincoln Property Company, JLL and Cushman & Wakefield competing with thousands of local operators and broker-affiliated managers.",
+    "key_stats": {
+      "market_size": "2026: $127.2 billion US property management services market estimate; 2025: $122.0 billion estimate",
+      "growth": "2026: +4.3% implied year-over-year growth from 2025 to 2026; 2026-2033 forecast CAGR: +5.4%",
+      "rental_vacancy": "2025: 7.1% annual US rental vacancy rate; Q2 2026: 7.3% US rental vacancy rate",
+      "homeownership": "Q2 2026: 65.0% US homeownership rate",
+      "multifamily_conditions": "Q1 2026: CBRE multifamily vacancy 4.8%, average monthly rent $2,217, rent growth +0.2% year over year",
+      "office_conditions": "Q2 2026: US office vacancy 18.3%, average asking rent $37.58 per sq. ft., asking rent growth +2.6% year over year",
+      "baseline_profit_margin": "2022: 10.1% EBIT margin in IBISWorld baseline",
+      "baseline_employment": "2022: 911,597 employees in IBISWorld baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $109.4 billion revenue in 2022 dollars",
+      "growth": "2022: -2.7% annual revenue decline; 2017-2022 CAGR: +2.1%",
+      "profit": "2022: $11.0 billion profit; 10.1% profit margin",
+      "establishments": "2022: 325,838 establishments",
+      "enterprises": "2022: 307,621 enterprises",
+      "employment": "2022: 911,597 employees",
+      "wages": "2022: $47.8 billion total wages; wages equal 43.7% of revenue",
+      "rental_vacancy": "2022: 6.3% rental vacancy rate in IBISWorld baseline"
+    },
+    "how_it_makes_money": [
+      "Recurring management fees charged as a percentage of collected rent or property income",
+      "Leasing and tenant-placement fees for filling vacancies and renewing leases",
+      "Maintenance coordination markups, vendor administration and facilities-management fees",
+      "Lease administration, compliance, accounting, reporting and owner-services fees",
+      "Ancillary resident or tenant services, subject to growing fee-disclosure scrutiny"
+    ],
+    "cost_structure": {
+      "labor": "2022: wages were 43.7% of revenue, reflecting onsite managers, leasing staff, maintenance coordination, accounting and compliance work",
+      "profit": "2022: EBIT margin was 10.1%; IBISWorld baseline forecast 2027 margin at 9.9% due to competition",
+      "purchases": "2022: purchases were relatively low versus labor because managers coordinate services more than they own capital assets",
+      "rent_and_utilities": "2022: office, software and local operating overhead were secondary costs",
+      "technology": "2025-2026: property management software, AI-enabled leasing, payments, maintenance workflow and data integration spending is rising as operators pursue scale and compliance controls"
+    },
+    "major_players": [
+      "Greystar Real Estate Partners",
+      "CBRE Group, Inc.",
+      "Lincoln Property Company",
+      "Jones Lang LaSalle (JLL)",
+      "Cushman & Wakefield plc",
+      "FirstService Residential",
+      "RPM Living",
+      "FPI Management",
+      "Invitation Homes Inc.",
+      "Equity Residential"
+    ],
+    "current_dynamics": "In 2025-2026, residential property managers are operating through elevated renter demand but weaker pricing power in overbuilt apartment markets. Census reported the 2025 annual rental vacancy rate at 7.1% and Q2 2026 at 7.3%, above the tight 2022 baseline. CBRE reported Q1 2026 multifamily vacancy at 4.8% with rent growth of only 0.2% year over year, while CoStar projected national multifamily vacancy to reach 8.8% by year-end 2026 before easing in 2027. Office management is no longer uniformly shrinking: CBRE reported Q2 2026 office vacancy fell to 18.3%, leasing activity rose 16% year over year and rent growth reached 2.6%, but demand favors prime and amenity-rich buildings. Compliance risk has increased after 2025 FTC actions around mandatory rental fee disclosure, making pricing transparency and software governance more important operating requirements.",
+    "whats_growing": [
+      "2025-2026: Third-party management for institutionally owned rental housing and scattered-site portfolios",
+      "2026: Prime office and high-amenity commercial assets as leasing demand recovers",
+      "2025-2026: Lease administration, fee disclosure, audit trails and compliance workflows",
+      "2025-2026: AI-enabled property data platforms, maintenance automation, digital leasing and resident communications",
+      "2025-2026: Outsourced facilities and mixed-use management for owners focused on reducing internal staffing"
+    ],
+    "whats_shrinking": [
+      "2025-2026: Pricing power in oversupplied multifamily markets with elevated concessions and slow rent growth",
+      "2025-2026: Demand for lower-quality office buildings with weak tenant appeal",
+      "2025-2026: Manual leasing, maintenance and reporting workflows at larger portfolios",
+      "2025-2026: Undisclosed mandatory-fee practices following FTC and state enforcement",
+      "2026: New apartment delivery pipeline after the 2024-2025 supply peak, reducing future lease-up volume"
+    ],
+    "recent_developments": [
+      "2025: The US property management services market was estimated at $122.0 billion, up from the 2022 IBISWorld baseline of $109.4 billion.",
+      "2025: The annual US rental vacancy rate rose to 7.1%, compared with 6.3% in the 2022 IBISWorld baseline.",
+      "December 2025: The FTC and Colorado announced a $24 million Greystar settlement over alleged deceptive rental price and mandatory-fee disclosures.",
+      "December 2025: The FTC sent warning letters to 13 property management software providers about accurate rental price information in listings.",
+      "May 2026: CBRE reported Q1 2026 multifamily vacancy fell to 4.8% and average rent reached $2,217, up 0.2% year over year.",
+      "July 2026: CBRE reported Q2 2026 office vacancy fell to 18.3%, while office leasing activity rose 16% year over year."
+    ],
+    "outlook": "The industry outlook is moderately positive for 2026-2030, but growth is uneven. Revenue should keep expanding as institutional owners outsource operations, compliance complexity rises and technology lifts the value of professional managers. Residential demand remains supported by affordability barriers to homeownership, but 2025-2026 vacancy increases and soft rent growth will limit fee growth in oversupplied apartment markets until excess units are absorbed. Commercial management should improve as office leasing recovers, though gains will be concentrated in prime assets and mixed-use, logistics, healthcare and professionally managed specialty properties. Operators with strong compliance systems, transparent fee controls, owner reporting, maintenance networks and integrated software should outperform small manual operators, while low entry barriers will keep pricing competitive.",
+    "themes": [
+      "Recurring revenue",
+      "Fragmented competition",
+      "Rental affordability pressure",
+      "Apartment supply digestion",
+      "Office flight to quality",
+      "Fee transparency and compliance",
+      "Proptech and AI workflows",
+      "Institutional ownership",
+      "Outsourcing by property owners",
+      "Labor-intensive service model"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/property-management-in-the-us.txt",
+      "https://www.grandviewresearch.com/industry-analysis/us-property-management-services-market-report",
+      "https://www.mordorintelligence.com/industry-reports/us-property-management-market",
+      "https://www.census.gov/housing/hvs/current/index.html",
+      "https://fred.stlouisfed.org/series/USRVAC",
+      "https://www.cbre.com/press-releases/us-multifamily-market-stabilizes-as-apartment-demand-improves-and-new-construction-slows",
+      "https://www.costargroup.com/press-room/2026/apartmentscom-and-costar-raise-us-multifamily-vacancy-forecast",
+      "https://www.cbre.com/insights/figures/q2-2026-us-office-market-report",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-sends-warning-letters-13-property-management-software-providers-nationwide",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/greystar-et-al-ftc-colorado-v",
+      "https://www.realpage.com/news/realpage-acquires-cherre/"
+    ],
+    "one_sentence": "Property managers run residential and nonresidential properties for owners, earning recurring fees for leasing, rent collection, maintenance coordination, tenant services, compliance and reporting while demand follows rental occupancy, institutional ownership and commercial leasing cycles.",
+    "slug": "property-management-in-the-us"
+  },
+  {
+    "title": "Property, Casualty and Direct Insurance in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "US P&C insurers sell auto, homeowners, commercial property, liability and specialty coverage, with results driven by pricing cycles, catastrophe losses, claims inflation and investment income.",
+    "overview": "The industry pools premiums from households, businesses and public entities to cover property damage, auto accidents, workers compensation, liability, malpractice, title, surety and other non-life risks. Demand is relatively resilient because many policies are legally required or contractually necessary for owning homes, financing vehicles, operating businesses and hiring workers. Revenue comes mainly from premiums, with investment income adding a second earnings stream because insurers invest float and surplus, heavily in bonds. The market entered 2026 larger and more profitable than the 2022 IBIS baseline, but competition is returning in personal auto and climate-linked property risk is keeping homeowners, wildfire, hail and flood-exposed markets difficult.",
+    "key_stats": {
+      "market_size": "2025 estimated direct premiums written of about $1.10 trillion, using 2024 direct premiums written of $1.05 trillion and 2025 written-premium growth of 4.9%.",
+      "growth": "2025 written-premium growth was 4.9% and earned-premium growth was 6.3%; 2024 direct premiums written grew 8.0% year over year to $1.05 trillion.",
+      "profitability": "2025 net underwriting gain was $67.92 billion with a combined ratio just under 93.0%; 2024 net underwriting gain was $26.2 billion with a 96.6% combined ratio.",
+      "premiums": "2024 net premiums written were $918.6 billion, up 7.1% from $857.9 billion in 2023 and $778.2 billion in 2022.",
+      "catastrophe_losses": "2025 US insured natural catastrophe losses were about $89 billion, driven by roughly $40 billion from Los Angeles wildfires and elevated severe convective storm losses.",
+      "largest_lines": "2024 private auto direct premiums written were $358.77 billion and homeowners direct premiums written were $169.55 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$843.6 billion in 2022 IBISWorld industry revenue, stated in 2022 dollars.",
+      "growth": "3.0% revenue growth in 2022 and 4.3% annualized revenue growth over 2017-2022; IBISWorld projected 1.79% annualized growth for 2022-2028.",
+      "profit": "$108.8 billion in 2022 profit and a 12.9% profit margin.",
+      "employment": "733,872 employees and 16,738 establishments in 2022.",
+      "context": "The 2022 baseline described a hardening pricing cycle, recovering auto usage after COVID-19 restrictions, rising homeownership-related demand and improving investment income from higher rates."
+    },
+    "how_it_makes_money": "Insurers collect premiums for auto, homeowners, commercial property, workers compensation, liability and specialty policies; pay covered claims and adjustment expenses; cede some risk to reinsurers; earn investment income on premiums and surplus before claims are paid; and renew large books of mandatory or semi-mandatory coverage each year. Underwriting profit depends on pricing adequacy, claims frequency and severity, catastrophe losses, reinsurance costs, expense discipline and reserve development.",
+    "cost_structure": {
+      "losses_and_lae": "2024 loss and loss-adjustment expense ratio was 70.9% of net premiums earned, including 61.5% incurred losses, 3.8% defense and cost containment expenses and 5.5% adjusting and other expenses.",
+      "operating_expenses": "2024 expense ratio was 25.3% of net premiums written, including 10.7% commissions and brokerage, 2.3% taxes/licenses/fees, 5.9% acquisition and field supervision and 6.4% general expenses.",
+      "policyholder_dividends": "2024 dividends to policyholders were 0.5% of net premiums earned.",
+      "capital_and_reinsurance": "Capital, reserves and reinsurance are critical because large catastrophe years and adverse liability reserve development can quickly consume underwriting gains."
+    },
+    "major_players": [
+      "State Farm: 2024 direct premiums written of $108.98 billion and 10.4% US P/C market share.",
+      "Progressive: 2024 direct premiums written of $75.88 billion and 7.3% market share; S&P estimated Progressive overtook State Farm in US private auto on a trailing-12-month basis ended March 31, 2026.",
+      "Berkshire Hathaway/GEICO: 2024 direct premiums written of $62.30 billion and 6.0% market share.",
+      "Allstate: 2024 direct premiums written of $55.86 billion and 5.3% market share.",
+      "Liberty Mutual: 2024 direct premiums written of $42.75 billion and 4.1% market share.",
+      "Travelers: 2024 direct premiums written of $41.85 billion and 4.0% market share.",
+      "USAA: 2024 direct premiums written of $36.09 billion and 3.5% market share.",
+      "Chubb: 2024 direct premiums written of $32.29 billion and 3.1% market share."
+    ],
+    "current_dynamics": "The sector is shifting from broad hard-market repair toward more selective competition. Auto and homeowners carriers benefited in 2024-2025 from rate increases taken after inflationary claims pressure, while 2026 pricing is softening in personal auto as carriers seek growth. Property underwriting remains exposed to wildfire, hail, tornado and hurricane volatility, even when annual catastrophe losses are not extreme. Commercial casualty is the weakest major pocket because social inflation, litigation funding, attorney-represented claims and reserve strengthening continue to pressure liability lines. Higher interest rates have supported investment income, partly offsetting underwriting volatility.",
+    "whats_growing": "Premium volume is growing in homeowners, personal auto, commercial auto, E&S homeowners, cyber and liability lines where risk repricing continues. 2024 homeowners direct premiums rose 11.1% to $169.55 billion, 2024 private auto direct premiums rose 12.6% to $358.77 billion and 2025 domestic E&S direct premiums reached $105.31 billion, up 7.8%. Demand is also rising for catastrophe modeling, risk mitigation, telematics, usage-based auto insurance, claims automation and specialty coverage for higher-risk properties that standard admitted markets restrict.",
+    "whats_shrinking": "Rate momentum is shrinking in private auto as underwriting results recover and competition returns. Workers compensation premiums declined 3.2% in 2024 to $41.6 billion for private carriers as bureau loss-cost reductions outpaced payroll growth. Some admitted homeowners capacity is shrinking in wildfire, coastal wind and convective-storm-prone geographies, pushing customers toward state residual markets or E&S coverage. Commercial property E&S pricing also cooled in 2025, with S&P reporting E&S commercial property premiums down 2.8% to $27.69 billion.",
+    "recent_developments": [
+      "2024: US P/C direct premiums written exceeded $1.05 trillion for the first time, up 8.0% year over year.",
+      "2024: The industry returned to underwriting profit, with a 96.6% combined ratio and $26.2 billion net underwriting gain after losses in 2022 and 2023.",
+      "Jan 2025: Los Angeles Palisades and Eaton wildfires generated about $40 billion of insured losses, the costliest wildfire event on record.",
+      "Aug 2025: S&P reported the US P/C industry produced a sub-94.2% combined ratio in Q2 2025, the best second-quarter result in 18 years.",
+      "2025: S&P estimated a record $67.92 billion net underwriting gain and combined ratio just under 93.0% for US P/C insurers.",
+      "Mar 31 2026: S&P estimated Progressive surpassed State Farm as the largest US private auto insurer on a trailing-12-month direct-premium basis."
+    ],
+    "outlook": "The 2026 outlook is profitable but less exceptional than 2025. Earned premiums should keep rising as prior rate increases flow through policies, but written-premium growth is slowing, especially in auto. Homeowners insurance is likely to remain affordability- and availability-constrained in high-risk states until risk mitigation, reinsurance pricing and regulatory approvals better match actual loss costs. Commercial property should stay more competitive where rates already caught up with loss costs, while general liability, excess liability, commercial auto liability and medical professional liability remain under pressure from claim severity and social inflation. Investment income should remain a meaningful earnings support, but catastrophe volatility can still dominate annual results.",
+    "themes": [
+      "Hard market cooling after 2024-2025 profit recovery",
+      "Climate and secondary-peril loss pressure",
+      "Auto insurance rate normalization and renewed competition",
+      "Commercial casualty social inflation",
+      "E&S market growth as admitted capacity tightens",
+      "Higher investment income from elevated rates",
+      "Claims automation, telematics and data-driven underwriting",
+      "Affordability and availability pressure in catastrophe-prone states"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/property-casualty-and-direct-insurance-in-the-us.txt",
+      "https://www.iii.org/fact-statistic/facts-statistics-industry-overview",
+      "https://www.iii.org/table-archive/23867",
+      "https://content.naic.org/article/naic-releases-2024-market-share-data",
+      "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2025/3/in-industry-first-us-pc-insurers-exceed-1-trillion-in-direct-annual-premiums-88062276",
+      "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/spectacular-p-and-c-statutory-profitability-may-prove-fleeting",
+      "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/1/us-p-c-2026-outlook-competition-revs-up-pricing-slows-on-road-ahead-96093698",
+      "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/05/progressive-now-no-1-us-private-auto-insurer-for-full-12-months-estimates-show",
+      "https://www.swissre.com/press-release/2025-marks-sixth-year-insured-natural-catastrophe-losses-exceed-USD-100-billion-finds-Swiss-Re-Institute/f710c271-58c8-4c48-9004-05203634d1e0",
+      "https://www.ncci.com/Articles/Pages/Insights-2025-in-Sight-2024-in-Review.aspx"
+    ],
+    "one_sentence": "After weak 2022-2023 underwriting results, the US property, casualty and direct insurance industry returned to strong profitability in 2024-2025 as large rate increases earned through, auto results recovered and investment income stayed elevated, while homeowners catastrophe exposure and commercial casualty loss severity remain the main pressure points.",
+    "slug": "property-casualty-and-direct-insurance-in-the-us"
+  },
+  {
+    "title": "Protective Eyewear Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature PPE niche where compliance-driven demand is steady, but low-cost imports cap domestic manufacturing growth.",
+    "overview": "The U.S. protective eyewear manufacturing industry remains a small, regulation-supported manufacturing niche. The 2021 IBISWorld baseline put domestic industry revenue at $635.9 million in 2021 and projected only $658.1 million by 2026, reflecting high import penetration and slow domestic production growth. The broader U.S. safety eyewear market was estimated at $1.0699 billion in 2025 and $1.1167 billion in 2026, showing that demand is healthier than domestic manufacturing because much of the volume is imported or distributed by global PPE suppliers. Demand is anchored by OSHA eye and face protection requirements, the ANSI/ISEA Z87.1 standard, and recurring safety purchases by manufacturing, construction, mining, healthcare and lab employers.",
+    "key_stats": {
+      "market_size": "About $650 million estimated U.S. domestic manufacturing revenue in 2025; broader U.S. safety eyewear market revenue was $1.0699 billion in 2025.",
+      "growth": "Domestic manufacturing baseline growth was about 0.7% CAGR from 2021 to 2026; broader U.S. safety eyewear market is forecast at 3.3% CAGR from 2026 to 2033.",
+      "broader_market_2026": "$1.1167 billion U.S. safety eyewear market revenue estimated for 2026.",
+      "employment": "2,325 U.S. industry employees in 2021 baseline, projected to reach about 2,388 by 2026.",
+      "establishments": "75 U.S. establishments in 2021 baseline, projected to remain near 75 through 2026.",
+      "profit_margin": "9.3% operating profit margin in 2021 baseline, projected near 9.0% by 2026.",
+      "imports": "$1.085 billion of imports in 2021 baseline; U.S. protective eyewear import value was $2.45177 billion for Aug 2024-Jul 2025 under HS 9004.",
+      "downstream_indicators": "Manufacturing capacity utilization was 75.7% in May 2026; total construction spending was $2.210 trillion SAAR in May 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $640.4 million estimated 2022 U.S. manufacturing revenue, derived from the 2021 IBISWorld baseline of $635.9 million and its 2021-2026 forecast CAGR of about 0.7%.",
+      "growth": "About 0.7% estimated 2022 growth on the IBISWorld baseline path.",
+      "domestic_demand": "$1.587 billion in 2021 baseline domestic demand, with imports supplying about 69.7% of demand.",
+      "imports": "$1.085 billion in 2021 baseline imports.",
+      "exports": "$133.5 million in 2021 baseline exports.",
+      "profit_margin": "9.3% in 2021 baseline."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling compliant eye and face protection products through industrial distributors, safety supply houses, optical channels, B2B contracts, private-label programs and direct sales to employers. Core products include non-prescription safety glasses, goggles, anti-fog or anti-scratch lenses, over-the-glass eyewear, prescription safety frames and lenses, face shields, welding eye protection and specialty hazard-rated eyewear. Higher-margin revenue comes from prescription safety eyewear, proprietary coatings, ergonomic fit lines, premium lens materials and products designed for specific hazards such as splash, dust, welding, UV or impact exposure.",
+    "cost_structure": {
+      "materials": "Polycarbonate, plastic resins, coatings, rubber, straps, packaging and purchased components are major costs; the plastics material and resin manufacturing PPI was 368.751 in June 2026.",
+      "labor": "Wages were $130.3 million in the 2021 baseline, or about 20.5% of 2021 industry revenue.",
+      "profit": "Profit was $59 million in 2021 baseline, equal to a 9.3% margin.",
+      "distribution": "Industrial distributors and safety supply catalogs are important go-to-market costs because buyers often purchase eyewear as part of broader PPE bundles.",
+      "r_and_d": "Design, testing, certification and tooling matter because products must meet applicable ANSI/ISEA and OSHA-aligned performance expectations.",
+      "import_pressure": "Low-cost imported glasses and goggles constrain pricing, especially in commodity non-prescription segments."
+    },
+    "major_players": [
+      "3M",
+      "Protective Industrial Products (PIP), including former Honeywell PPE brands",
+      "MCR Safety",
+      "Radians",
+      "Pyramex Safety Products",
+      "Gateway Safety",
+      "Bollé Safety",
+      "Uvex Group"
+    ],
+    "current_dynamics": "The market is being pulled in two directions. Compliance and safety awareness support recurring demand, while imported commodity eyewear keeps prices tight. The 2025 OSHA construction PPE fit rule increases attention on size ranges and fit, especially for workers historically underserved by standard PPE sizing. ANSI/ISEA Z87.1-2025 refreshes product marking, testing and performance guidance, which should encourage replacement purchases and updated product lines. At the same time, U.S. manufacturing conditions were mixed in 2025, with IBISWorld reporting a 4.1% decline in the broader U.S. manufacturing market size in 2025, before industrial production improved by 1.7% year over year through May 2026.",
+    "whats_growing": "Prescription safety eyewear, anti-fog and anti-scratch coatings, fit-inclusive eyewear lines, splash and dust-rated products, eyewear bundled with face protection, and higher-value industrial products are growing. The broader U.S. safety eyewear market was $1.0699 billion in 2025 and is forecast to grow 3.3% annually from 2026 to 2033, with prescription eyewear identified as the fastest-growing product segment.",
+    "whats_shrinking": "Commodity non-prescription safety glasses made domestically are under pressure from imports, private-label purchasing and price compression. U.S. protective eyewear import values fell 7.71% in Aug 2024-Jul 2025 even as import volumes rose 7.14%, indicating lower unit prices and margin pressure. Older products that do not match updated hazard-marking expectations are also losing share as employers refresh PPE programs.",
+    "recent_developments": [
+      "2024-12-12: OSHA issued a final rule requiring construction PPE to properly fit each affected employee.",
+      "2025-01-13: OSHA's construction PPE fit rule became effective, raising focus on fit-inclusive protective eyewear purchasing.",
+      "2025-05-22: Honeywell completed the $1.325 billion sale of its PPE business to Protective Industrial Products, exiting PPE.",
+      "2025-07: U.S. protective eyewear import value for Aug 2024-Jul 2025 fell 7.71% to $2.45177 billion while import volume rose 7.14%.",
+      "2026-01-08: ISEA announced ANSI/ISEA Z87.1-2025, updating performance, testing and marking requirements for eye and face protection.",
+      "2026-06-11: Grand View Research updated its U.S. safety eyewear outlook to $1.0699 billion in 2025 and $1.1167 billion in 2026."
+    ],
+    "outlook": "The domestic manufacturing outlook is stable but modest. Demand should expand with construction, infrastructure, manufacturing, healthcare and laboratory activity, and the 2025-2026 standards cycle should help premium and compliant products. However, import penetration, distributor bargaining power and commodity pricing will keep U.S. production growth below broader safety eyewear demand. Domestic winners are likely to focus on prescription programs, fit and comfort, anti-fog coatings, specialty hazard ratings, U.S.-based fulfillment, and branded product lines that compete on performance rather than price alone.",
+    "themes": [
+      "Workplace safety compliance",
+      "Import competition",
+      "Prescription safety eyewear",
+      "Fit-inclusive PPE",
+      "Anti-fog and coated lenses",
+      "Construction and industrial demand",
+      "PPE consolidation",
+      "Standards-driven replacement cycles"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Protective Eyewear Manufacturing, last updated Aug 20 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/protective-eyewear-manufacturing.txt'}",
+      "{'name': 'Grand View Research, U.S. Safety Eyewear Market Size & Outlook, updated Jun 11 2026', 'url': 'https://www.grandviewresearch.com/horizon/outlook/safety-eyewear-market/united-states'}",
+      "{'name': 'Grand View Research, Safety Eyewear Market 2026-2033', 'url': 'https://www.grandviewresearch.com/industry-analysis/safety-eyewear-market'}",
+      "{'name': 'ANSI Blog, ANSI/ISEA Z87.1-2025 Current Standard for Safety Glasses, Feb 24 2026', 'url': 'https://blog.ansi.org/ansi/ansi-isea-z87-1-2025-safety-glasses-eye-protection/'}",
+      "{'name': 'ISEA press release, ANSI/ISEA Z87.1-2025, Jan 8 2026', 'url': 'https://www.prnewswire.com/news-releases/isea-releases-updated-ansiisea-z87-1-standard-for-eye-and-face-protection-302656686.html'}",
+      "{'name': 'OSHA, PPE in Construction Final Rule FAQ, effective Jan 13 2025', 'url': 'https://www.osha.gov/personal-protective-equipment/rulemaking/faqs'}",
+      "{'name': 'OSHA, 29 CFR 1926.95 Criteria for personal protective equipment', 'url': 'https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.95'}",
+      "{'name': 'Honeywell press release, sale of PPE business to PIP completed May 22 2025', 'url': 'https://www.honeywell.com/us/en/news/press-releases/2025/05/honeywell-completes-sale-of-personal-protective-equipment-business-to-protective-industrial-products'}",
+      "{'name': 'Federal Reserve, Industrial Production and Capacity Utilization G.17, Jun 15 2026', 'url': 'https://www.federalreserve.gov/RELEASES/g17/current/default.htm'}",
+      "{'name': 'FRED, Producer Price Index: Plastics Material and Resin Manufacturing, updated Jul 15 2026', 'url': 'https://fred.stlouisfed.org/series/PCU325211325211'}",
+      "{'name': 'GTAIC.ai, USA Protective Eyewear market report, Dec 4 2025', 'url': 'https://gtaic.ai/market-reports/protective-eyewear-market-usa-forecast-in-2025'}",
+      "{'name': 'IBISWorld, Manufacturing in the US market size, Apr 2025', 'url': 'https://www.ibisworld.com/industry-statistics/market-size/manufacturing-united-states/'}"
+    ],
+    "one_sentence": "Protective eyewear manufacturers make safety glasses, goggles, face shields and related eye-protection products for industrial, construction, healthcare, laboratory and public-sector buyers, with demand tied to workplace safety rules, headcount in hazard-prone sectors and product replacement cycles.",
+    "slug": "protective-eyewear-manufacturing"
+  }
+]

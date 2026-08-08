@@ -1,0 +1,63 @@
+export const meta = {
+  name: 'ibis-next-chunk3',
+  description: 'Deep 2025-2026 web-researched plain-English briefs for a batch of US IBIS industries (model-agnostic workflow)',
+  phases: [{ title: 'Research', detail: 'one model-configured agent per industry: read 2022 baseline + web-research current' }],
+}
+
+// args = { items: [ { title, slug, file } ... ] }
+const items = [{"title": "Grocery Wholesaling in the US", "slug": "grocery-wholesaling-in-the-us", "file": "./txt_full/grocery-wholesaling-in-the-us.txt"}, {"title": "Group Purchasing Organizations", "slug": "group-purchasing-organizations", "file": "./txt_full/group-purchasing-organizations.txt"}, {"title": "Gun & Ammunition Stores", "slug": "gun-and-ammunition-stores", "file": "./txt_full/gun-and-ammunition-stores.txt"}, {"title": "Guns & Ammunition Manufacturing in the US", "slug": "guns-and-ammunition-manufacturing-in-the-us", "file": "./txt_full/guns-and-ammunition-manufacturing-in-the-us.txt"}, {"title": "Gym & Exercise Equipment Manufacturing in the US", "slug": "gym-and-exercise-equipment-manufacturing-in-the-us", "file": "./txt_full/gym-and-exercise-equipment-manufacturing-in-the-us.txt"}, {"title": "Gym & Fitness Franchises", "slug": "gym-and-fitness-franchises", "file": "./txt_full/gym-and-fitness-franchises.txt"}, {"title": "Gym, Health & Fitness Clubs in the US", "slug": "gym-health-and-fitness-clubs-in-the-us", "file": "./txt_full/gym-health-and-fitness-clubs-in-the-us.txt"}, {"title": "Gypsum Product Manufacturing in the US", "slug": "gypsum-product-manufacturing-in-the-us", "file": "./txt_full/gypsum-product-manufacturing-in-the-us.txt"}, {"title": "HR & Payroll Software", "slug": "hr-and-payroll-software", "file": "./txt_full/hr-and-payroll-software.txt"}, {"title": "HVAC Service Franchises", "slug": "hvac-service-franchises", "file": "./txt_full/hvac-service-franchises.txt"}, {"title": "Hair & Nail Salons in the US", "slug": "hair-and-nail-salons-in-the-us", "file": "./txt_full/hair-and-nail-salons-in-the-us.txt"}, {"title": "Hair Loss Treatment & Removal in the US", "slug": "hair-loss-treatment-and-removal-in-the-us", "file": "./txt_full/hair-loss-treatment-and-removal-in-the-us.txt"}, {"title": "Hair Loss Treatment Manufacturing", "slug": "hair-loss-treatment-manufacturing", "file": "./txt_full/hair-loss-treatment-manufacturing.txt"}, {"title": "Hair Salons", "slug": "hair-salons", "file": "./txt_full/hair-salons.txt"}, {"title": "Hand Sanitizer Manufacturing", "slug": "hand-sanitizer-manufacturing", "file": "./txt_full/hand-sanitizer-manufacturing.txt"}, {"title": "Hand Tool & Cutlery Manufacturing in the US", "slug": "hand-tool-and-cutlery-manufacturing-in-the-us", "file": "./txt_full/hand-tool-and-cutlery-manufacturing-in-the-us.txt"}, {"title": "Hand Tool Manufacturing", "slug": "hand-tool-manufacturing", "file": "./txt_full/hand-tool-manufacturing.txt"}, {"title": "Handbag, Luggage & Accessory Stores in the US", "slug": "handbag-luggage-and-accessory-stores-in-the-us", "file": "./txt_full/handbag-luggage-and-accessory-stores-in-the-us.txt"}, {"title": "Handyman Service Franchises", "slug": "handyman-service-franchises", "file": "./txt_full/handyman-service-franchises.txt"}, {"title": "Hardware Manufacturing in the US", "slug": "hardware-manufacturing-in-the-us", "file": "./txt_full/hardware-manufacturing-in-the-us.txt"}, {"title": "Hardware Store Franchises", "slug": "hardware-store-franchises", "file": "./txt_full/hardware-store-franchises.txt"}, {"title": "Hat & Cap Stores", "slug": "hat-and-cap-stores", "file": "./txt_full/hat-and-cap-stores.txt"}, {"title": "Hay & Crop Farming in the US", "slug": "hay-and-crop-farming-in-the-us", "file": "./txt_full/hay-and-crop-farming-in-the-us.txt"}, {"title": "Hazardous Waste Collection", "slug": "hazardous-waste-collection", "file": "./txt_full/hazardous-waste-collection.txt"}, {"title": "Headphone Manufacturing", "slug": "headphone-manufacturing", "file": "./txt_full/headphone-manufacturing.txt"}, {"title": "Health & Welfare Funds in the US", "slug": "health-and-welfare-funds-in-the-us", "file": "./txt_full/health-and-welfare-funds-in-the-us.txt"}, {"title": "Health & Wellness Spas", "slug": "health-and-wellness-spas", "file": "./txt_full/health-and-wellness-spas.txt"}, {"title": "Health Food & Supplement Store Franchises", "slug": "health-food-and-supplement-store-franchises", "file": "./txt_full/health-food-and-supplement-store-franchises.txt"}, {"title": "Healthcare Consultants", "slug": "healthcare-consultants", "file": "./txt_full/healthcare-consultants.txt"}, {"title": "Healthcare Staff Recruitment Agencies", "slug": "healthcare-staff-recruitment-agencies", "file": "./txt_full/healthcare-staff-recruitment-agencies.txt"}, {"title": "Healthcare and Social Assistance in the US", "slug": "healthcare-and-social-assistance-in-the-us", "file": "./txt_full/healthcare-and-social-assistance-in-the-us.txt"}, {"title": "Hearing Aid Clinics", "slug": "hearing-aid-clinics", "file": "./txt_full/hearing-aid-clinics.txt"}, {"title": "Heating & Air Conditioning Equipment Manufacturing in the US", "slug": "heating-and-air-conditioning-equipment-manufacturing-in-the-us", "file": "./txt_full/heating-and-air-conditioning-equipment-manufacturing-in-the-us.txt"}, {"title": "Heating & Air Conditioning Wholesaling in the US", "slug": "heating-and-air-conditioning-wholesaling-in-the-us", "file": "./txt_full/heating-and-air-conditioning-wholesaling-in-the-us.txt"}, {"title": "Heavy Duty Truck Parts Dealers", "slug": "heavy-duty-truck-parts-dealers", "file": "./txt_full/heavy-duty-truck-parts-dealers.txt"}, {"title": "Heavy Equipment Rental in the US", "slug": "heavy-equipment-rental-in-the-us", "file": "./txt_full/heavy-equipment-rental-in-the-us.txt"}, {"title": "Heavy-Duty Diesel Engine Manufacturing", "slug": "heavy-duty-diesel-engine-manufacturing", "file": "./txt_full/heavy-duty-diesel-engine-manufacturing.txt"}, {"title": "Heavy-Duty OTR Tire Manufacturing", "slug": "heavy-duty-otr-tire-manufacturing", "file": "./txt_full/heavy-duty-otr-tire-manufacturing.txt"}, {"title": "Hedge Funds", "slug": "hedge-funds", "file": "./txt_full/hedge-funds.txt"}, {"title": "Helium Production", "slug": "helium-production", "file": "./txt_full/helium-production.txt"}, {"title": "Herbal Tea Production", "slug": "herbal-tea-production", "file": "./txt_full/herbal-tea-production.txt"}, {"title": "High Frequency Trading", "slug": "high-frequency-trading", "file": "./txt_full/high-frequency-trading.txt"}, {"title": "High Fructose Corn Syrup Production", "slug": "high-fructose-corn-syrup-production", "file": "./txt_full/high-fructose-corn-syrup-production.txt"}, {"title": "Historic Sites in the US", "slug": "historic-sites-in-the-us", "file": "./txt_full/historic-sites-in-the-us.txt"}, {"title": "Hobby & Toy Stores in the US", "slug": "hobby-and-toy-stores-in-the-us", "file": "./txt_full/hobby-and-toy-stores-in-the-us.txt"}, {"title": "Hog & Pig Farming in the US", "slug": "hog-and-pig-farming-in-the-us", "file": "./txt_full/hog-and-pig-farming-in-the-us.txt"}, {"title": "Hoist & Winch Manufacturing", "slug": "hoist-and-winch-manufacturing", "file": "./txt_full/hoist-and-winch-manufacturing.txt"}, {"title": "Home Furnishing Wholesaling in the US", "slug": "home-furnishing-wholesaling-in-the-us", "file": "./txt_full/home-furnishing-wholesaling-in-the-us.txt"}, {"title": "Home Furnishings Stores in the US", "slug": "home-furnishings-stores-in-the-us", "file": "./txt_full/home-furnishings-stores-in-the-us.txt"}, {"title": "Home Furniture Rental", "slug": "home-furniture-rental", "file": "./txt_full/home-furniture-rental.txt"}, {"title": "Home Medical Equipment Rentals", "slug": "home-medical-equipment-rentals", "file": "./txt_full/home-medical-equipment-rentals.txt"}, {"title": "Home Warranty Providers", "slug": "home-warranty-providers", "file": "./txt_full/home-warranty-providers.txt"}, {"title": "Homeopathic Medicine Manufacturing", "slug": "homeopathic-medicine-manufacturing", "file": "./txt_full/homeopathic-medicine-manufacturing.txt"}, {"title": "Homeowners' Associations in the US", "slug": "homeowners-associations-in-the-us", "file": "./txt_full/homeowners-associations-in-the-us.txt"}, {"title": "Hops Farming", "slug": "hops-farming", "file": "./txt_full/hops-farming.txt"}, {"title": "Horse & Other Equine Production in the US", "slug": "horse-and-other-equine-production-in-the-us", "file": "./txt_full/horse-and-other-equine-production-in-the-us.txt"}, {"title": "Horse Racing Tracks", "slug": "horse-racing-tracks", "file": "./txt_full/horse-racing-tracks.txt"}, {"title": "Hose & Belt Manufacturing in the US", "slug": "hose-and-belt-manufacturing-in-the-us", "file": "./txt_full/hose-and-belt-manufacturing-in-the-us.txt"}, {"title": "Hosiery Mills in the US", "slug": "hosiery-mills-in-the-us", "file": "./txt_full/hosiery-mills-in-the-us.txt"}, {"title": "Hospices & Palliative Care Centers", "slug": "hospices-and-palliative-care-centers", "file": "./txt_full/hospices-and-palliative-care-centers.txt"}]
+
+const SCHEMA = {
+  type: 'object',
+  required: ['title','sector','one_liner','overview','key_stats','current_dynamics','one_sentence'],
+  properties: {
+    title: { type: 'string' },
+    sector: { type: 'string', description: 'ONE of: Agriculture | Manufacturing | Construction | Retail | Food & Drink | Healthcare | Finance & Insurance | Technology & Digital | Energy & Environment | Business Services | Consumer Services | Media & Entertainment | Transport & Logistics | Real Estate' },
+    one_liner: { type: 'string' },
+    overview: { type: 'string', description: '3-4 plain sentences on the CURRENT 2025-2026 state' },
+    key_stats: {
+      type: 'object',
+      required: ['market_size','growth'],
+      properties: {
+        market_size: { type: 'string', description: 'latest $ WITH year' },
+        growth: { type: 'string' }, businesses: { type: 'string' }, employees: { type: 'string' },
+        profit_margin: { type: 'string' }, concentration: { type: 'string' },
+      },
+    },
+    baseline_2022: {
+      type: 'object', required: ['market_size','growth'],
+      properties: { market_size: { type: 'string' }, growth: { type: 'string' } },
+    },
+    how_it_makes_money: { type: 'string' },
+    cost_structure: { type: 'string' },
+    major_players: { type: 'array', items: { type: 'string' } },
+    current_dynamics: { type: 'string', description: '4-6 plain sentences of real depth on what is happening now' },
+    whats_growing: { type: 'string' },
+    whats_shrinking: { type: 'string' },
+    recent_developments: { type: 'array', items: { type: 'string' }, description: '3-6 dated 2023-2026 events' },
+    outlook: { type: 'string' },
+    themes: { type: 'array', items: { type: 'string' }, description: '4-6 short reusable force tags' },
+    data_year: { type: 'string' },
+    sources: { type: 'array', items: { type: 'string' } },
+    one_sentence: { type: 'string' },
+  },
+}
+
+function prompt(it) {
+  return (
+`Produce a CURRENT (2025-2026) plain-English brief on the US "${it.title}" industry, with real depth on its present dynamics.
+
+TWO INPUTS:
+1) A 2022 IBISWorld report (baseline only) at this local file — read it for structure and the 2022 figures: ${it.file}
+2) THE WEB — you MUST use your WebSearch and WebFetch tools to research the CURRENT state (2024, 2025, 2026): latest market size and growth, recent company moves / M&A / bankruptcies, the main forces disrupting or reshaping the industry right now (technology, regulation, consumer shifts, macro/tariffs), current competitive dynamics, and the 2025-2026 outlook. Attach a YEAR to every number. If a search returns nothing useful, use your own most recent knowledge and label the year — but genuinely try the web first.
+
+Write in plain, everyday English: short sentences, no jargon, no clichés. Every number must carry its year. Do NOT present 2022 figures as current. Put the 2022 report's revenue and 5-yr growth in baseline_2022. Do NOT spawn sub-agents or use the deep-research skill.`
+  )
+}
+
+phase('Research')
+const briefs = await parallel(items.map(it => () =>
+  agent(prompt(it), { label: `ibis:${it.slug}`, phase: 'Research', schema: SCHEMA })
+    .then(b => (b ? { ...b, slug: it.slug } : null))
+))
+return briefs.filter(Boolean)

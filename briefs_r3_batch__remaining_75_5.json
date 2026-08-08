@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Pool & Billiard Halls",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented discretionary leisure industry built around hourly table rentals, league play, food, drinks and small-format amusement add-ons.",
+    "overview": "Pool and billiard halls provide physical venues for cue sports, usually charging customers by the hour, by game, through league dues or through tournament/event fees. The 2021 IBISWorld baseline described a structurally challenged industry with 2021 revenue of $637.9 million after COVID-19 closures, followed by a forecast recovery to $714.0 million in 2026. Current 2025-2026 indicators are mixed: US sports and fitness participation reached 250.0 million people in 2025, APA reported more than 250,000 pool-league members in its 2026 membership materials, and professional nineball events in the US are expanding prize funds and visibility. At the same time, the category competes with bars, arcades, bowling centers, family entertainment centers, home gaming and streaming, while operators face higher wages, resilient retail rents and softer consumer confidence in 2026.",
+    "key_stats": {
+      "market_size": "2026 estimated $714.0 million, based on the IBISWorld 2021-to-2026 forecast path for US Pool & Billiard Halls",
+      "growth": "2021-2026 forecast CAGR +2.3%; implied 2025-to-2026 growth about +2.3%",
+      "2025_market_size": "2025 estimated $698.0 million on the same forecast path",
+      "profit_margin": "2021 baseline profit margin 10.9%; 2025-2026 margin pressure from wages, rent, utilities, insurance and food/beverage input costs",
+      "establishments": "2026 estimated about 765 establishments, based on the IBISWorld 2021-to-2027 establishment decline path",
+      "demand_context": "2025 real PCE for amusement parks, campgrounds and related recreational services was $69.176 billion, down from $71.247 billion in 2024",
+      "participation_context": "2025 US sport, fitness and leisure participation reached 250.0 million people according to SFIA's 2026 Topline Participation Report release",
+      "league_context": "2026 APA materials cite over 250,000 people worldwide competing in APA leagues across the United States, Canada, Japan and Singapore",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated $652.6 million, derived from the baseline 2021 revenue of $637.9 million and the 2021-2026 forecast CAGR of +2.3%",
+      "growth": "2022 estimated +2.3% year over year on the baseline forecast path",
+      "revenue_mix_2021": "Open-play table rentals 38.6%, food and drink 32.3%, league-play table rentals 18.1%, other 11.0%",
+      "context": "The baseline report characterized the industry as declining, fragmented and exposed to external competition despite a modest post-COVID revenue recovery."
+    },
+    "how_it_makes_money": [
+      "Open-play table rentals sold by hour, table or game; 2021 baseline share 38.6% of revenue.",
+      "League-play table rentals, dues and tournament bookings; 2021 baseline share 18.1%.",
+      "Food and drink sales, often including beer, wine, spirits, snacks and full-service menus; 2021 baseline share 32.3%.",
+      "Other revenue from arcade games, prize machines, cue/table supplies, pro-shop merchandise, repairs, private events and cover charges; 2021 baseline share 11.0%."
+    ],
+    "cost_structure": {
+      "largest_costs": "Purchases of food, beverages, billiard supplies and merchandise; payroll for bartenders, servers, counter staff and managers; rent for street-level or entertainment-district space; utilities, insurance, music/licensing, POS systems and table maintenance.",
+      "purchases": "2021 baseline food-and-drink sales were 32.3% of revenue, making beverage and food purchasing discipline central to gross margin.",
+      "labor": "Labor intensity is moderate because venues need evening/weekend staff, bartending coverage, cleaning and supervision; 2026 state minimum wage floors include $17.95 in DC, $17.00 in New York City-area jurisdictions and $16.94 in Connecticut.",
+      "rent": "2025 CBRE retail research showed live-work-play and high-street districts continuing to command premiums, pressuring venues that depend on walk-in traffic.",
+      "capital_items": "Tables, cues, balls, cloth replacement, lighting, scoring systems, kitchen/bar buildout, liquor licenses, arcade equipment and security systems."
+    },
+    "major_players": [
+      "Independent local pool halls and billiard rooms",
+      "Pool halls attached to sports bars, restaurants and lounges",
+      "APA-affiliated league host locations",
+      "BCA member room operators",
+      "Barcade and social-entertainment venues that include pool as one activity",
+      "No dominant national pool-hall chain; market share is highly fragmented"
+    ],
+    "current_dynamics": [
+      "Demand is still discretionary and closely tied to disposable income, consumer confidence, nightlife traffic and time spent on leisure.",
+      "The 2025-2026 cue-sports calendar is improving visibility, with larger US World Nineball Tour prize funds and more streaming/broadcast exposure.",
+      "League ecosystems help fill weeknights and support repeat visits, but casual customers increasingly expect food, cocktails, events and multiple games under one roof.",
+      "Inflation has lifted menu and labor costs, while customers remain price-sensitive on discretionary nights out.",
+      "Premium walkable retail locations can improve traffic but raise rent burden; secondary locations reduce rent but require stronger local community and league pull.",
+      "The strongest operators behave more like neighborhood bars or competitive social venues than traditional table-rental-only rooms."
+    ],
+    "whats_growing": [
+      "Food, beverage and cocktail revenue as operators diversify beyond pure table fees.",
+      "Private events, corporate outings, watch parties and birthday/group bookings.",
+      "League nights and amateur tournaments that create predictable recurring traffic.",
+      "Hybrid concepts that combine pool with darts, arcade games, karaoke, sports viewing or full-service dining.",
+      "Professional-pool visibility, including 2025 US prize-fund expansion and 2026 scheduled US Open activity."
+    ],
+    "whats_shrinking": [
+      "Standalone table-rental-only rooms with limited food and beverage capability.",
+      "Casual open-play visits from younger customers when venues do not offer a broader social experience.",
+      "Number of small independent establishments, with the baseline forecasting establishment decline after 2021.",
+      "Pricing power in weaker locations where bars, bowling centers, arcades and home entertainment compete for the same leisure dollar.",
+      "Margins for operators exposed to high-rent districts, wage mandates and liquor/food input inflation."
+    ],
+    "recent_developments": [
+      "2025-05-07: WPA and Matchroom announced an agreement ratifying World Nineball Tour events and lifting player license suspensions.",
+      "2025-08-18: The 48th US Open Pool Championship returned to Atlantic City with a $500,000 prize fund and $100,000 winner payout.",
+      "2025-08-2025: World Nineball Tour promoted a US August swing with five events and $827,400 in total prize funds.",
+      "2026-03-12: SFIA reported that 250.0 million Americans participated in at least one sport, fitness or leisure activity during 2025.",
+      "2026-05-03: APA reported 625 competitors in the 2026 APA 9-Ball Shootout finals coverage.",
+      "2026-07-28: The Conference Board Consumer Confidence Index declined to 90.8 in July 2026, signaling softer discretionary-spending sentiment."
+    ],
+    "outlook": "Revenue is likely to grow slowly from a reduced base, with 2026 market size estimated at $714.0 million on the baseline forecast path. The best-performing venues should be those that use pool as the anchor for a broader social outing: full bars, better food, leagues, tournaments, parties and adjacent games. Industry-wide growth will remain constrained by a declining establishment base, competition from larger entertainment centers and home/digital entertainment, and cost pressure from labor and rent. Professional-event visibility and league participation can help stabilize core demand, but they are unlikely to reverse the long-term decline unless operators modernize the venue experience.",
+    "themes": [
+      "Fragmented Independents",
+      "Experiential Nightlife",
+      "League-Led Retention",
+      "Food And Beverage Diversification",
+      "Tournament Visibility",
+      "Rent And Wage Pressure",
+      "Digital Entertainment Competition",
+      "Mature Declining Lifecycle"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file: Pool & Billiard Halls, last updated Nov. 30, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/pool-and-billiard-halls.txt', 'used_for': '2021 revenue, 2021-2026 forecast, revenue mix, structure, demand drivers and lifecycle framing'}",
+      "{'name': 'U.S. Census Bureau NAICS 2022 definition for 713990', 'url': 'https://www.census.gov/naics/?details=713990&input=713990&year=2022', 'used_for': 'Industry classification context showing billiard or pool parlors under All Other Amusement and Recreation Industries'}",
+      "{'name': 'SFIA 2026 Topline Participation Report press release', 'url': 'https://sfia.org/resource_categories/press-release/', 'used_for': '2025 participation context: 250.0 million Americans active in at least one sport, fitness or leisure activity'}",
+      "{'name': 'American Poolplayers Association 2026 Membership Kit', 'url': 'https://poolplayers.com/membership-welcome-kit-2026/', 'used_for': '2026 APA league participation and tournament context'}",
+      "{'name': 'World Nineball Tour US Open Pool Championship event page', 'url': 'https://worldnineballtour.com/events/us-open-pool-championship/', 'used_for': '2026 US Open schedule, 256-player field and $500,000 prize fund'}",
+      "{'name': 'World Nineball Tour 2025 US Open prize-fund announcement', 'url': 'https://worldnineballtour.com/news/us-open-9ball/us-open-championship-returns-to-harrahs-resort-august-18-23-2025-with-increased-prize-fund/', 'used_for': '2025 US Open timing and prize-fund expansion'}",
+      "{'name': 'World Nineball Tour August 2025 US swing announcement', 'url': 'https://worldnineballtour.com/major/world-nineball-tour-announces-blockbuster-august-swing-across-america/', 'used_for': '2025 US tournament calendar and $827,400 total prize-fund context'}",
+      "{'name': 'WPA public statement on WPA-Matchroom agreement', 'url': 'https://wpapool.com/public-statement-wpa-and-matchroom-strike-deal/', 'used_for': '2025 governance and professional-tour development'}",
+      "{'name': 'FRED, BEA real PCE for amusement parks, campgrounds and related recreational services', 'url': 'https://fred.stlouisfed.org/series/DORSRX1A020NBEA', 'used_for': '2024-2025 adjacent recreational-services demand context'}",
+      "{'name': 'BEA Personal Income and Outlays, May 2026', 'url': 'https://bea.gov/news/2026/personal-income-and-outlays-may-2026', 'used_for': '2026 consumer spending and disposable-income context'}",
+      "{'name': 'The Conference Board Consumer Confidence, July 2026', 'url': 'https://www.conference-board.org/topics/consumer-confidence/index.cfm', 'used_for': '2026 consumer sentiment context'}",
+      "{'name': 'U.S. Department of Labor State Minimum Wage Laws, updated Jan. 1, 2026', 'url': 'https://www.dol.gov/agencies/whd/minimum-wage/state?lang=en', 'used_for': '2026 wage-cost context'}",
+      "{'name': 'CBRE 2025 Retail Rent Dynamics', 'url': 'https://www.cbre.com/insights/reports/2025-retail-rent-dynamics', 'used_for': '2025 retail rent and location-cost context'}"
+    ],
+    "one_sentence": "US pool and billiard halls remain a small, mature-to-declining leisure niche where post-pandemic recovery, bar traffic and tournament visibility support revenue, but digital entertainment, multipurpose venues, rent and labor costs limit growth.",
+    "slug": "pool-and-billiard-halls"
+  },
+  {
+    "title": "Popcorn Production",
+    "sector": "Food & Drink",
+    "one_liner": "U.S. popcorn producers are a mature snack-manufacturing niche shifting from legacy microwave formats toward ready-to-eat, premium, functional and private-label products.",
+    "overview": "The baseline IBISWorld file framed Popcorn Production as a mature, low-volatility U.S. food manufacturing industry with 2019 revenue of $2.194 billion, 2019 profit of $108 million and a 2019 profit margin of 4.9%. It forecast slow production-industry growth to about $2.3 billion in 2024, supported by ready-to-eat popcorn, healthier formulations and household snacking, but constrained by corn-price volatility and competition from chips, pretzels, nuts and other salty snacks. Current public 2025-2026 sources show a broader U.S. popcorn market that is larger on a retail/category basis, with Mordor Intelligence estimating $3.93 billion in 2025 and $4.14 billion in 2026, while Circana-based reporting showed the measured popcorn/popcorn oil retail category at $1.1 billion for the 52 weeks ended April 20, 2025, down 5.2% year over year. The practical read is that manufacturers are defending volume in mainstream microwave and kernel lines while chasing margin through ready-to-eat bags, bold flavors, single-serve formats, organic/clean-label claims and functional protein or fiber launches.",
+    "key_stats": {
+      "market_size": "$4.14 billion in 2026 U.S. popcorn market forecast; $3.93 billion in 2025 U.S. popcorn market estimate; $2.3 billion in 2024 U.S. production-industry forecast from the baseline IBISWorld file",
+      "growth": "5.23% CAGR forecast for the U.S. popcorn market from 2026 to 2031; baseline IBISWorld forecast was 0.7% CAGR for production-industry revenue from 2019 to 2024",
+      "retail_category_sales": "$1.1 billion for popcorn/popcorn oil in the 52 weeks ended April 20, 2025, down 5.2% year over year",
+      "microwave_popcorn_sales": "$985 million in the 52 weeks ended April 20, 2025, down 6.2% year over year",
+      "kernel_popcorn_sales": "$152.7 million in the 52 weeks ended April 20, 2025, up 0.5% year over year",
+      "ready_to_eat_share": "67.92% of the U.S. popcorn market in 2025",
+      "supermarket_hypermarket_share": "88.62% of U.S. popcorn market sales in 2025",
+      "corn_price": "$4.10 per bushel for U.S. corn for grain in 2025, down from $4.24 in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $2.24 billion in 2022, estimated from the baseline IBISWorld 2019 revenue of $2.194 billion and its 2019-2024 forecast CAGR of 0.7%",
+      "growth": "0.7% forecast CAGR for 2019-2024 production-industry revenue in the baseline file",
+      "profit_margin": "About 5.0% by 2024 forecast; 4.9% in 2019 baseline",
+      "segments": "Ready-to-eat popcorn was 56.6% of 2019 industry revenue and unpopped consumer packages were 43.4% in the baseline file"
+    },
+    "how_it_makes_money": "Producers buy popcorn kernels and other inputs, process or pop the corn, add oils, seasonings, sweet coatings or functional ingredients, package the product and sell branded, private-label or foodservice formats through grocery wholesalers, supermarkets, mass retailers, club stores, convenience stores, e-commerce, theaters and other entertainment venues. Revenue comes from high-volume microwave and kernel products, higher-margin ready-to-eat bags, multipacks, single-serve packs, premium flavors, organic/clean-label lines, licensing and co-manufacturing or private-label contracts.",
+    "cost_structure": "Major costs are corn kernels, oils, sweeteners, cheese powders and seasonings; flexible packaging, cartons and microwave bags; plant labor; energy for popping, cooking and drying; freight and warehousing; slotting, trade promotion and retailer allowances; marketing; depreciation on automated popping, seasoning and packaging lines; food-safety compliance and Popcorn Board assessments. Baseline profitability was modest, with 2019 EBIT margin at 4.9% and a 2024 forecast near 5.0%, so corn, packaging, freight and promotional swings matter.",
+    "major_players": [
+      "Conagra Brands / Orville Redenbacher's and ACT II",
+      "PepsiCo / Smartfood",
+      "The Hershey Company / SkinnyPop",
+      "Our Home / Pop Secret",
+      "American Pop Corn Company / Jolly Time",
+      "Weaver Popcorn",
+      "Private-label manufacturers"
+    ],
+    "current_dynamics": "The industry is split between a mature production base and a faster-changing retail shelf. Microwave popcorn remains large but pressured, with the measured microwave subcategory down 6.2% in the 52 weeks ended April 20, 2025, while kernels were essentially flat to slightly positive. Ready-to-eat popcorn has become the strategic growth format because it supports convenience, flavor innovation, impulse merchandising and premium pricing. Large brands are using distribution scale and marketing to defend shelf space, while smaller and private-label producers compete on price, clean-label ingredients, organic positioning, novel flavors and direct-to-consumer bundles. Lower 2025 corn prices helped input costs versus 2024, but processors still face packaging, freight, promotion and retailer bargaining pressure.",
+    "whats_growing": [
+      "Ready-to-eat popcorn, estimated at 67.92% of the U.S. market in 2025",
+      "Organic popcorn, forecast at 8.84% CAGR from 2026 to 2031",
+      "Microwave popcorn as a forecast segment, projected at 8.12% CAGR from 2026 to 2031 despite weak measured 2025 retail sales",
+      "Single-serve packs, forecast at 8.06% CAGR from 2026 to 2031",
+      "Online retail, forecast at 8.63% CAGR from 2026 to 2031",
+      "Functional and better-for-you claims such as fiber, protein, low sodium, avocado oil and whole grain"
+    ],
+    "whats_shrinking": [
+      "Measured popcorn/popcorn oil retail sales fell 5.2% year over year in the 52 weeks ended April 20, 2025",
+      "Measured microwave popcorn retail sales fell 6.2% year over year in the 52 weeks ended April 20, 2025",
+      "Private-label microwave popcorn sales fell 15.8% year over year in the 52 weeks ended April 20, 2025",
+      "Our Home/Pop Secret microwave sales fell 15.9% year over year in the 52 weeks ended April 20, 2025",
+      "Legacy high-sodium or high-fat flavors face pressure from health-conscious consumers, even when indulgent and nostalgic flavors still sell"
+    ],
+    "recent_developments": [
+      "2024-08: Campbell completed the sale of Pop Secret to Our Home; Pop Secret had about $120 million in Campbell fiscal 2024 net sales.",
+      "2025-04: Circana-based reporting showed popcorn/popcorn oil retail sales at $1.1 billion for the 52 weeks ended April 20, 2025, down 5.2%.",
+      "2025-08: Pop Secret introduced ready-to-eat popcorn in Movie Theater Butter, Homestyle Sea Salt and Double Cheddar across about 2,300 U.S. locations.",
+      "2025-Q4: Hershey reported SkinnyPop ready-to-eat popcorn retail sales increased over 8% in the 12 weeks ended December 28, 2025.",
+      "2026-03: USDA finalized Popcorn Promotion Order updates, reflecting a 6 cent per hundredweight assessment effective April 9, 2026.",
+      "2026-05: PepsiCo Foods launched PopCorners Protein with 9 grams of protein per serving, adding functional pressure around popcorn-adjacent snacks."
+    ],
+    "outlook": "The 2026-2031 outlook is positive on a broad U.S. popcorn-market basis but only modest on a production-industry basis. Volume growth should be helped by household snacking, streaming and entertainment occasions, supermarket reach, online bundles and continued product innovation. Margin expansion will depend on disciplined promotions, automation, ingredient sourcing and the ability to pass through packaging and freight costs. The best-positioned operators will combine efficient corn procurement and processing scale with faster flavor cycles, single-serve packaging, clean-label claims and retailer-specific formats. The biggest risks are category fatigue, substitution by higher-protein snacks, retailer price pressure and renewed corn or packaging inflation.",
+    "themes": [
+      "Ready-to-eat convenience",
+      "Microwave resilience",
+      "Health and clean label",
+      "Functional snacking",
+      "Flavor premiumization",
+      "Private-label pressure",
+      "Corn-price exposure",
+      "Retailer bargaining power",
+      "Automation and co-manufacturing",
+      "In-home entertainment snacking"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/popcorn-production.txt",
+      "https://www.mordorintelligence.com/industry-reports/united-states-popcorn-market",
+      "https://www.snackandbakery.com/articles/114151-state-of-the-industry-2025-popcorn-rolls-with-the-punches",
+      "https://www.thecampbellscompany.com/newsroom/press-releases/campbell-sells-pop-secret-business-to-our-home/",
+      "https://hershey.gcs-web.com/news-releases/news-release-details/hershey-reports-fourth-quarter-and-full-year-2025-financial",
+      "https://esmis.nal.usda.gov/sites/default/release-files/795791/cpvl0226.txt",
+      "https://regulations.justia.com/regulations/fedreg/2026/03/10/2026-04694.html",
+      "https://www.ams.usda.gov/rules-regulations/research-promotion/popcorn"
+    ],
+    "one_sentence": "Popcorn Production covers companies that process and package ready-to-eat popcorn, microwave popcorn and consumer kernel products for grocery, mass, club, convenience, online and foodservice channels.",
+    "slug": "popcorn-production"
+  },
+  {
+    "title": "Port & Harbor Operations in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "US port and harbor operators monetize vessel access, wharfage, berth use, property leases and cargo-flow services at the physical gateways for waterborne trade.",
+    "overview": "This industry covers operators of ports, harbors, docking and pier facilities, canals, lighthouses and related port infrastructure. Demand is tied to the value and volume of US trade, containerized imports, export flows, tanker and dry-bulk cargo, cruise ship calls, inland waterway traffic and the ability of port complexes to connect efficiently with trucking, rail and warehousing networks. The 2022 IBIS baseline framed the industry as mature, capital intensive and dependent on trade value, crude oil and commodity markets. Current 2025-2026 conditions show a larger revenue base than the 2022 baseline, but growth is uneven: container gateways such as Los Angeles, Long Beach, New York-New Jersey and Savannah are handling high volumes, while tariff changes, shifting China sourcing, weak export lanes and freight softness create planning risk.",
+    "key_stats": {
+      "market_size": "2025: $6.0 billion estimated US industry revenue; 2024: $5.5 billion IBISWorld market-size estimate; 2022: $5.092 billion Census/FRED employer-firm revenue for NAICS 48831.",
+      "growth": "2020-2025: 5.4% CAGR estimated by Kentley Insights; 2024: 2.3% market-size growth estimated by IBISWorld; 2025 US goods-and-services exports rose 6.2% and imports rose 4.8%.",
+      "trade_value": "2025: US goods-and-services exports were $3.4323 trillion and imports were $4.3338 trillion, or $7.7661 trillion total two-way trade.",
+      "container_volume": "2025: US seaports handled 39.8 million international container TEUs; the Port of Los Angeles handled 10.239 million total TEUs and about 6.7 million loaded TEUs.",
+      "freight_indicator": "May 2026: BTS Freight Transportation Services Index was 136.7, down 1.3% from April 2026 and down 0.3% from May 2025.",
+      "federal_port_funding": "FY2026: MARAD PIDP had $488.628 million available for port infrastructure grants; FY2024 PIDP awarded nearly $580 million to 31 projects.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021: $3.857 billion revenue in the June 23, 2022 IBISWorld baseline, stated in 2021 dollars; 2022 Census/FRED employer-firm revenue later reported at $5.092 billion.",
+      "growth": "2016-2021: 2.9% annualized revenue growth in the IBIS baseline; 2021: +7.8% rebound after a 2020 decline; 2021-2026 baseline forecast: 2.6% CAGR to $4.4 billion.",
+      "profit": "2021: $540 million profit and 14.0% profit margin in the IBIS baseline; 2026 baseline forecast profit margin: 18.1%.",
+      "employment": "2021: 12,938 employees and $856 million wages in the IBIS baseline; 2026 baseline forecast employment: 15,315 workers.",
+      "establishments": "2021: 347 establishments and 274 enterprises in the IBIS baseline; 2026 baseline forecast enterprises: 293."
+    },
+    "how_it_makes_money": "Revenue comes from wharfage and dockage fees on tankers, container ships, dry-bulk carriers and cruise ships; berth, pier and terminal facility rentals; concessions and leases to marine terminal operators; paperwork, cargo coordination and vessel accommodation services; harbor maintenance and related access fees; and, for some public authorities, ancillary real estate and grant-funded project activity. The 2022 product mix identified tankers as the largest wharfage category at 33.8% of revenue, followed by container ships at 19.1%, dry bulk carriers at 13.9%, rentals and other services at 11.2%, and cruise ship wharfage at 5.1%.",
+    "cost_structure": "The business is capital intensive. Major costs include dredging, berth and wharf maintenance, channel improvements, cranes, gates, information systems, security, utilities, insurance, depreciation, debt service, environmental compliance, labor and outsourced construction or terminal services. The 2022 IBIS baseline estimated 2021 depreciation at 7.7% of revenue and profit at 14.0% of revenue, with profitability highly sensitive to vessel calls and cargo throughput. Current 2025-2026 cost pressure is centered on infrastructure renewal, electrification, shore power, cyber and cargo-visibility systems, resilience projects, labor availability and higher financing costs.",
+    "major_players": [
+      "{'name': 'Port of Los Angeles', 'role': 'Public landlord port and the busiest US container port; 2025 total volume was 10.239 million TEUs and roughly 17% of US international containerized waterborne trade.'}",
+      "{'name': 'Port of Long Beach', 'role': 'Public landlord port in the San Pedro Bay complex; 2025 volume was reported at about 9.882 million TEUs, a record year.'}",
+      "{'name': 'Port Authority of New York and New Jersey', 'role': 'East Coast gateway; 2025 total container volume was 8.898 million TEUs, up 2.3% from 2024, with 5.956 million loaded TEUs.'}",
+      "{'name': 'Georgia Ports Authority', 'role': 'Major Southeast container gateway; FY2025 volume was 5.7 million TEUs, up 8.6% from FY2024.'}",
+      "{'name': 'Ports America', 'role': 'Large private US marine terminal operator and stevedore; reported handling about 19 million TEUs in 2024.'}",
+      "{'name': 'SSA Marine', 'role': 'Major terminal operator with container, conventional cargo and cruise operations, describing itself as the largest container terminal operator in the Americas.'}",
+      "{'name': 'APM Terminals', 'role': 'Global terminal operator with US facilities including Los Angeles, Miami, Mobile and Elizabeth, New Jersey.'}"
+    ],
+    "current_dynamics": "The market is being pulled in two directions. On the upside, 2025 two-way US trade reached $7.7661 trillion, large gateway ports posted strong or record container years, cruise volumes continued to recover and federal programs are funding berth, rail, power, resilience and emissions projects. On the downside, 2025-2026 tariff uncertainty caused import front-loading and later volume swings, exports remain weaker than imports at many container ports, freight indicators softened in May 2026, and ports still need expensive channel, terminal, rail and electrification upgrades to handle larger vessels without congestion.",
+    "whats_growing": [
+      "Containerized import handling at large gateways, especially Southern California, where Los Angeles and Long Beach together represented about 31% of 2025 US international containerized waterborne trade.",
+      "Southeast port volumes, with Georgia Ports moving 5.7 million TEUs in FY2025, up 8.6% from FY2024.",
+      "Cruise port activity, with CLIA reporting 2025 North America source passengers above 22 million and Port Canaveral reporting 8.602 million FY2025 multi-day cruise revenue passengers.",
+      "Infrastructure, resilience and electrification projects supported by PIDP, including $488.628 million available in FY2026 and nearly $580 million awarded in FY2024.",
+      "Digital cargo visibility, truck appointment systems, rail intermodal connections and mega-terminal operating models."
+    ],
+    "whats_shrinking": [
+      "Export imbalance at container gateways, including Long Beach exports down 5.5% in 2025 compared with 2024.",
+      "Automotive goods trade, with 2025 US exports of automotive vehicles, parts and engines down $16.8 billion and imports down $52.0 billion from 2024.",
+      "Some 2026 freight momentum, as the BTS Freight TSI fell 1.3% month over month in May 2026 and 0.3% year over year.",
+      "China concentration at some West Coast gateways as sourcing shifts toward Vietnam, Thailand and other Southeast Asian countries.",
+      "Small or under-capitalized ports that cannot fund dredging, electrification, cyber, security and intermodal upgrades quickly enough."
+    ],
+    "recent_developments": [
+      "2024-11-15: MARAD announced nearly $580 million in FY2024 PIDP awards for 31 port projects in 15 states and one US territory.",
+      "2025-07-29: Georgia Ports Authority reported 5.7 million TEUs in FY2025, up 8.6% from FY2024.",
+      "2026-01-22: Port of Los Angeles reported 10.2 million TEUs in 2025, its third-best year and 26th consecutive year as the busiest US container port.",
+      "2026-02-19: BEA and Census reported 2025 US exports of $3.4323 trillion and imports of $4.3338 trillion.",
+      "2026-03-26: MARAD announced $488.628 million available for FY2026 port infrastructure grants, including at least $122.157 million for small projects at small ports.",
+      "2026-07-09: BTS reported the May 2026 Freight TSI at 136.7, down 1.3% from April 2026 and down 0.3% from May 2025."
+    ],
+    "outlook": "The 2026 outlook is positive but choppy. Revenue should remain above the 2022 baseline because port tariffs, wharfage, leases and cargo services are being earned on a larger trade and container base, and public infrastructure funding is supporting modernization. Growth is likely to be slower and more volatile than 2024-2025 because importers front-loaded cargo around tariff risk, trade policy remains uncertain, freight indicators softened in May 2026 and export lanes lag import demand. Ports with deep channels, available land, rail connectivity, reliable labor, emissions-compliant equipment and digital visibility tools should gain share; constrained ports risk losing vessel calls to better-capitalized US, Canadian or Mexican gateways.",
+    "themes": [
+      "Trade volatility",
+      "Container import resilience",
+      "Tariff-driven front-loading",
+      "Port infrastructure funding",
+      "Electrification and emissions compliance",
+      "Mega-ships and dredging",
+      "Rail and truck intermodal capacity",
+      "Cruise recovery",
+      "Supply-chain visibility",
+      "Public landlord port model"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/port-and-harbor-operations-in-the-us.txt",
+      "https://www.ibisworld.com/united-states/market-size/port-harbor-operations/1201",
+      "https://www.kentleyinsights.com/port-and-harbor-operations-industry-market-research-report/",
+      "https://fred.stlouisfed.org/series/REVEF48831ALLEST",
+      "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025",
+      "https://portoflosangeles.org/business/statistics/facts-and-figures",
+      "https://portoflosangeles.org/business/statistics/container-statistics",
+      "https://www.portauthoritybuilds.com/content/port/en/our-port/facts-and-figures.html",
+      "https://gaports.com/press-releases/georgia-ports-container-trade-up-8-6-percent-in-fiscal-year-2025/",
+      "https://www.bts.gov/newsroom/may-2026-freight-transportation-services-index-tsi-fell-13-april-2026-and-fell-03-may-2025",
+      "https://www.maritime.dot.gov/newsroom/trumps-transportation-department-announces-nearly-half-billion-investment-americas-ports",
+      "https://www.maritime.dot.gov/newsroom/investing-america-biden-harris-administration-announces-nearly-580-million-ports",
+      "https://cruising.org/resources/2025-north-america-source-passenger-market-report",
+      "https://www.portcanaveral.com/business/financials",
+      "https://www.portsamerica.com/who-we-are",
+      "https://www.ssamarine.com/index.html",
+      "https://www.apmterminals.com/en/tools/service-locator"
+    ],
+    "one_sentence": "Port and harbor operations recovered from pandemic disruption into a larger but more volatile market, with 2025 revenue estimated near $6.0 billion as strong containerized imports, cruise demand and federal infrastructure funding offset tariff uncertainty, export weakness and high capital costs.",
+    "slug": "port-and-harbor-operations-in-the-us"
+  },
+  {
+    "title": "Portable Toilet Rental & Septic Tank Cleaning in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "A fragmented, route-based sanitation services industry tied to construction sites, outdoor events, septic households and emergency response.",
+    "overview": "The industry combines portable restroom rental and servicing, septic tank pumping and maintenance, drain and sewer cleaning, holding-tank service and adjacent site services such as handwash stations, restroom trailers, temporary fencing and dumpsters. Demand is structurally supported by OSHA sanitation requirements on jobsites and by the large installed base of septic systems, while cyclical upside comes from construction starts, infrastructure work, festivals, concerts, parks, disaster recovery and outdoor commercial activity. The market remains local and fragmented because routes, fleet density, disposal access and service reliability matter more than national branding, although United Site Services is a scaled national consolidator.",
+    "key_stats": {
+      "market_size": "2025: $9.2 billion US industry revenue, according to the July 2025 IBISWorld report summary sold by ResearchAndMarkets.",
+      "growth": "2020-2025: 3.0% revenue CAGR; 2025-2030: public summary says demand is expected to temper and revenue growth is expected to weaken.",
+      "profit_margin": "2023: 8.5% EBIT margin in the IBISWorld report summary.",
+      "septic_installed_base": "2026: more than one in five US households depend on individual septic or small community decentralized systems, according to EPA.",
+      "construction_driver": "May 2026: total US construction spending was $2.210 trillion SAAR, down 1.5% from May 2025; first five months of 2026 totaled $858.4 billion, down 2.7% from the same 2025 period.",
+      "event_driver": "2025: Live Nation revenue was $25.2 billion, up 9%, and fan attendance was 159 million, up 5%.",
+      "labor_cost_indicator": "2025: BLS reported septic tank servicers and sewer pipe cleaners at $23.16 median hourly wage and $51,470 mean annual wage within NAICS 562.",
+      "fuel_cost_indicator": "2025: EIA annual average US on-highway diesel price was $3.660 per gallon, down from $3.760 in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $7.35 billion, derived from the baseline report's 2021 revenue of $7.049 billion and its 2021-2026 forecast CAGR of 4.3%.",
+      "growth": "2022: approximately +4.3% implied growth from the baseline report's 2021-2026 industry outlook.",
+      "baseline_source": "Baseline IBISWorld file dated Dec. 31, 2021: 2021 revenue $7.049 billion, 2021 growth 8.3%, 2021-2026 forecast CAGR 4.3% to $8.7 billion."
+    },
+    "how_it_makes_money": "Operators earn recurring rental and service revenue by delivering portable toilets, restroom trailers, handwash stations and holding tanks, then charging for rental duration, pumping frequency, cleaning, restocking, pickup, damage waivers, disposal and ancillary site products. Septic and sewer revenue comes from scheduled pumping, emergency cleanouts, inspections, maintenance, grease or wastewater hauling and disposal fees. Larger accounts include construction contractors, industrial sites, event promoters, municipalities, parks, agriculture, disaster-response agencies and commercial facilities.",
+    "cost_structure": "Major costs are labor, truck fleets, fuel, insurance, toilet and trailer inventory, cleaning chemicals, disposal/tipping fees, yard rent, maintenance, financing and compliance. Labor pressure is material: BLS reported 2025 median wages of $23.16 per hour for septic tank servicers and sewer pipe cleaners, while NAICS 562 production and nonsupervisory earnings were $32.30 per hour in May 2026. Diesel is another margin swing factor because routes are truck-intensive; EIA's 2025 US diesel average was $3.660 per gallon. Profitability is helped by dense local routes and recurring contracts but squeezed by wage inflation, fuel volatility, equipment financing, environmental compliance and customer churn.",
+    "major_players": [
+      "United Site Services Inc.",
+      "National Construction Rentals Inc.",
+      "Andy Gump Inc.",
+      "On Site Companies Inc.",
+      "Liquid Environmental Solutions Corp.",
+      "United States Environmental Services LLC",
+      "Northwest Cascade Inc.",
+      "Rumpke Consolidated Companies Inc.",
+      "MarBorg Industries Inc.",
+      "Miller Environmental Group Inc."
+    ],
+    "current_dynamics": "2025-2026 demand is mixed. Outdoor live events and stadium activity remain strong, supporting premium restroom trailers, handwash stations and high-volume event servicing. Public infrastructure and industrial projects also support rentals, while private construction has softened in 2026 as Census reported May 2026 construction spending down year over year. Septic cleaning is steadier because EPA still estimates more than one in five US households use decentralized systems, but households can defer routine pumping in weak consumer conditions. The biggest company-specific event is United Site Services' late-2025 Chapter 11 and March 2026 recapitalization, which reduced debt while keeping operations intact.",
+    "whats_growing": "Premium restroom trailers, handwashing and hygiene add-ons, temporary fencing and bundled site services are growing with events and larger construction accounts. Government, emergency-response, parks, infrastructure and industrial work are attractive because they need compliant sanitation and recurring service. Septic inspection, maintenance and pumping remain durable in rural and suburban markets with older systems, especially where regulators and homeowners focus on nutrient pollution, groundwater protection and failure prevention.",
+    "whats_shrinking": "COVID-era special demand for temporary sanitation at testing, vaccination and social-distancing sites has largely faded by 2025. Private construction-linked rentals are under pressure where housing, office and commercial projects slow; Census reported May 2026 construction spending 1.5% below May 2025. Basic single-unit portable toilet rentals are more price competitive than premium trailers or bundled services, and septic work can be postponed by cost-sensitive households until failure or inspection deadlines force service.",
+    "recent_developments": [
+      "July 2025: IBISWorld's US industry report summary listed industry revenue at $9.2 billion after a 2020-2025 CAGR of 3.0%.",
+      "Dec. 29, 2025: United Site Services announced a restructuring support agreement and Chapter 11 filing to reduce funded debt by $2.4 billion while maintaining normal operations.",
+      "Feb. 19, 2026: Live Nation reported 2025 fan attendance of 159 million, up 5%, and said 2026 large-venue shows were pacing up high-single digits globally and up double-digits in North America.",
+      "Mar. 5, 2026: United Site Services completed its recapitalization, reducing funded debt by $2.4 billion and adding $480 million of new equity financing.",
+      "Jul. 1, 2026: Census reported May 2026 construction spending at $2.210 trillion SAAR, down 1.5% from May 2025 and down 2.7% for the first five months of 2026 versus 2025."
+    ],
+    "outlook": "The 2026-2030 outlook is slower but still positive. Construction softness limits near-term volume, especially in residential and private commercial work, but infrastructure, industrial projects, disaster response, parks, agriculture and events keep baseline demand intact. Larger operators should keep buying local route density and cross-selling fencing, trailers, power and dumpsters, while smaller firms remain viable in local septic and event niches. Margins should improve when route utilization is high and diesel is stable, but wage rates, vehicle costs, disposal access and environmental rules keep profitability capped.",
+    "themes": [
+      "Construction-cycle exposure",
+      "Outdoor events and festivals",
+      "Septic installed-base resilience",
+      "Route density and local scale",
+      "Fleet, fuel and labor cost pressure",
+      "Environmental compliance and wastewater disposal",
+      "Consolidation and recapitalization",
+      "Premium restroom trailers and hygiene add-ons",
+      "Emergency response and public-sector demand"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld text file: Portable Toilet Rental & Septic Tank Cleaning in the US', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/portable-toilet-rental-and-septic-tank-cleaning-in-the-us.txt', 'date': '2021-12-31', 'notes': 'Used for 2021 revenue, 2021 growth, 2021-2026 forecast, product mix and baseline 2022 derivation.'}",
+      "{'title': 'ResearchAndMarkets / IBISWorld, Portable Toilet Rental & Septic Tank Cleaning in the US - Market Analysis Report 2015-2030', 'url': 'https://www.researchandmarkets.com/reports/306542/portable_toilet_rental_and_septic_tank_cleaning_in', 'date': '2025-07', 'notes': 'Public report summary used for 2025 market size, 2020-2025 CAGR, profit margin and company list.'}",
+      "{'title': 'U.S. Census Bureau, Monthly Construction Spending, May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html', 'date': '2026-07-01', 'notes': 'Used for May 2026 construction spending and year-over-year construction trend.'}",
+      "{'title': 'EPA, About Septic Systems', 'url': 'https://www.epa.gov/septic/about-septic-systems', 'date': '2026-07-07', 'notes': 'Used for US septic household dependence and decentralized wastewater context.'}",
+      "{'title': 'EPA, Sources and Solutions: Wastewater', 'url': 'https://www.epa.gov/nutrientpollution/sources-and-solutions-wastewater', 'date': '2025-11-12', 'notes': 'Used for 2025 septic-system failure and maintenance context.'}",
+      "{'title': 'Live Nation Entertainment, Full Year and Fourth Quarter 2025 Results', 'url': 'https://news.livenationentertainment.com/news/live-nation-entertainment-full-year-and-fourth-quarter-2025-results', 'date': '2026-02-19', 'notes': 'Used for 2025 event demand, attendance and 2026 live-event outlook.'}",
+      "{'title': 'BLS, Waste Management and Remediation Services: NAICS 562', 'url': 'https://www.bls.gov/iag/tgs/iag562.htm', 'date': '2026-07-22', 'notes': 'Used for 2025 wages, 2026 earnings and establishment indicators.'}",
+      "{'title': 'EIA, Retail Prices for Diesel (On-Highway) - All Types', 'url': 'https://www.eia.gov/dnav/pet/PET_PRI_GND_A_EPD2D_PTE_DPGAL_A.htm', 'date': '2026-07-28', 'notes': 'Used for 2025 annual US diesel cost indicator.'}",
+      "{'title': 'United Site Services, Chapter 11 restructuring announcement', 'url': 'https://www.prnewswire.com/news-releases/united-site-services-reaches-agreement-with-key-financial-stakeholders-to-position-company-for-future-success-302650047.html', 'date': '2025-12-29', 'notes': 'Used for industry consolidation and leading-player balance-sheet development.'}",
+      "{'title': 'United Site Services, recapitalization completion announcement', 'url': 'https://www.prnewswire.com/news-releases/united-site-services-successfully-completes-financial-recapitalization-and-new-growth-investment-302705605.html', 'date': '2026-03-05', 'notes': 'Used for debt reduction and new capital details.'}"
+    ],
+    "one_sentence": "Portable toilet rental and septic tank cleaning companies rent, deliver, pump, clean and maintain temporary sanitation units and onsite wastewater systems for construction, events, governments, businesses and households.",
+    "slug": "portable-toilet-rental-and-septic-tank-cleaning-in-the-us"
+  },
+  {
+    "title": "Portable Toilet Rental",
+    "sector": "Business Services",
+    "one_liner": "Portable toilet rental is a route-based site services industry tied to construction, infrastructure work, outdoor events, emergency response and sanitation compliance.",
+    "overview": "The U.S. portable toilet rental industry is a fragmented but increasingly professionalized temporary site services market. Construction remains the demand anchor because jobsites without permanent restrooms must provide sanitary toilet access for workers, while outdoor concerts, festivals, fairs, sports venues, municipal events, agriculture, industrial turnarounds, disaster relief and government sites create seasonal and emergency demand. The industry has broadened from standard porta-potties into higher-margin bundles that include ADA units, restroom and shower trailers, handwashing stations, holding tanks, temporary fencing, power and waste hauling. Current 2025-2026 conditions are mixed: large public infrastructure, data centers, industrial projects and stadium-scale events support utilization, while softer residential building and weaker total construction spending in early 2026 temper volume growth.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. revenue of about $4.1 billion, calculated from Grand View Research's 2023 U.S. revenue of $3.3647 billion and its 2024-2030 CAGR of 6.9%.",
+      "growth": "2024-2030 expected U.S. CAGR of 6.9%.",
+      "baseline_scope_note": "IBISWorld's older narrower baseline reported 2021 U.S. portable toilet rental revenue of $2.079 billion and forecast 2026 revenue of $2.3 billion in 2021 dollars; newer market-research estimates define the category more broadly to include trailers, hygiene add-ons and site sanitation bundles.",
+      "construction_driver": "May 2026 U.S. construction spending was $2.2102 trillion at a seasonally adjusted annual rate, down 1.5% from May 2025; January-May 2026 spending was $858.4 billion, down 2.7% from January-May 2025.",
+      "event_driver": "Pollstar reported 2025 North American Top 100 touring gross of $5.8 billion, 55% above 2019, while 2025 ticket sales were 10% above 2019 despite 2025 gross and ticket declines versus 2024.",
+      "compliance_driver": "OSHA's 2006 interpretation of 29 CFR 1926.51 states construction toilets must be provided in sufficient number and sanitary condition; unsanitary toilets do not count as provided.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue of about $2.13 billion, derived from the baseline 2021 IBISWorld revenue of $2.079 billion and its 2021-2026 forecast CAGR of 2.3%.",
+      "growth": "2022 estimated growth of about 2.3% under the baseline IBISWorld 2021-2026 forecast path.",
+      "context": "The 2022 baseline reflects post-2020 recovery, strong construction demand and returning events after the 2020 pandemic disruption."
+    },
+    "how_it_makes_money": "Revenue comes from daily, weekly or monthly rentals of standard portable restrooms, ADA units, flushing units, restroom trailers, shower trailers, handwashing stations, holding tanks and related site equipment. Most jobs include delivery and pickup charges, recurring route service fees for pumping and cleaning, consumables replenishment, damage waivers, environmental or compliance fees, and add-on rentals such as temporary fencing, power, dumpsters and winterization. Construction and industrial customers tend to produce recurring multi-month revenue, while events generate higher short-duration spikes with more logistics intensity.",
+    "cost_structure": "The 2025-2026 cost base is dominated by route labor, driver availability, service trucks, fuel, insurance, fleet maintenance, depreciation or leasing of portable units and trailers, wastewater disposal fees, cleaning chemicals, paper supplies, permits, dispatch systems and branch overhead. Margin improves with dense routes, long rental duration, high unit utilization and bundled site services; it weakens when fuel, labor, disposal fees, vandalism, unit replacement, event overtime or long-haul emergency deployments rise faster than rental rates.",
+    "major_players": [
+      "United Site Services",
+      "United Rentals / Reliable Onsite Services",
+      "National Construction Rentals",
+      "Diamond Environmental Services",
+      "ASAP Site Services",
+      "Regional and local portable sanitation operators"
+    ],
+    "current_dynamics": "In 2025-2026, the industry is being pulled in two directions. Public infrastructure, data centers, manufacturing projects, industrial maintenance and large outdoor events are supporting premium service demand, but total U.S. construction spending turned negative year over year in May 2026 and housing remains rate-sensitive. Customers increasingly want fewer vendors, online quoting, route visibility, emergency response capacity and bundled sanitation, fencing, power and storage. Consolidation continues, but local operators remain important because route density and disposal access are intensely local. United Site Services' 2025-2026 recapitalization also shows that large roll-up platforms can have strong operating demand while still carrying balance-sheet risk.",
+    "whats_growing": "Growth is strongest in restroom trailers, ADA-compliant units, handwashing and sanitizer stations, bundled temporary site services, data center and industrial construction support, infrastructure projects, disaster response, government emergency contracts, stadium-scale concerts and premium event sanitation. Digital quoting, dispatch optimization and customer portals are also becoming more important as operators try to improve route density and service reliability.",
+    "whats_shrinking": "Short-duration discretionary events with weak attendance, lower-end one-off rentals, soft residential construction markets, underpriced weekly service contracts and operators without route density are under pressure. Softer 2026 total construction spending, higher insurance and labor costs, wastewater disposal constraints and leveraged balance sheets are shrinking margins for weaker operators.",
+    "recent_developments": [
+      "2024-12-11: Ken Research listed the USA Portable Toilet Rental Market at $3.5 billion, citing construction, recreational activity and event management demand.",
+      "2025-01-14: United Rentals announced a $4.8 billion agreement to acquire H&E Equipment Services, expanding construction and industrial rental capacity across more than 30 U.S. states.",
+      "2025-12-23: Pollstar reported 2025 North American Top 100 touring gross of $5.8 billion, 55% above 2019, supporting event sanitation demand even as 2025 gross fell 6.6% versus 2024.",
+      "2025-12-29: United Site Services announced a restructuring agreement intended to reduce net debt by $2.4 billion while continuing normal operations.",
+      "2026-03-05: United Site Services completed its recapitalization, reducing funded debt by $2.4 billion and adding $480 million of new equity financing.",
+      "2026-07-01: Census reported May 2026 U.S. construction spending at a $2.2102 trillion annual rate, down 1.5% from May 2025."
+    ],
+    "outlook": "The 2026-2030 outlook is moderate-to-positive. Demand should benefit from sanitation compliance, infrastructure spending, data centers, manufacturing reshoring, disaster response and large outdoor entertainment, but growth will be uneven because residential construction and discretionary local events remain sensitive to interest rates and consumer budgets. Larger operators are likely to keep bundling portable sanitation with fencing, trailers, power and waste services, while local players compete on response time, route density and relationships. A reasonable 2026 view is low-to-mid-single-digit organic growth for established operators, with premium trailers and hygiene add-ons outgrowing standard units.",
+    "themes": [
+      "Compliance-driven demand",
+      "Construction cycle exposure",
+      "Event and festival seasonality",
+      "Bundled site services",
+      "Route density economics",
+      "Wastewater and environmental compliance",
+      "Consolidation and recapitalization",
+      "Premium restroom trailers",
+      "Digital dispatch and booking",
+      "Emergency response demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/portable-toilet-rental.txt",
+      "https://www.grandviewresearch.com/horizon/outlook/portable-toilet-rental-market/united-states",
+      "https://www.marketresearch.com/Ken-Research-v3771/USA-Portable-Toilet-Rental-Outlook-44311686/",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://www.osha.gov/laws-regs/standardinterpretations/2006-05-17-0",
+      "https://news.pollstar.com/2025/12/23/year-end-business-analysis-a-return-to-earth-2025-grosses-ticket-sales-drop-averages-increase-beyonce-oasis-coldplay-have-top-tours-venues-stadiums-rock/",
+      "https://investors.unitedrentals.com/press-releases/press-releases-details/2025/United-Rentals-to-Acquire-HE-Equipment-Services-Inc/",
+      "https://www.prnewswire.com/news-releases/united-site-services-reaches-agreement-with-key-financial-stakeholders-to-position-company-for-future-success-302650047.html",
+      "https://www.prnewswire.com/news-releases/united-site-services-successfully-completes-financial-recapitalization-and-new-growth-investment-302705605.html",
+      "https://www.unitedsiteservices.com/",
+      "https://www.unitedrentals.com/solutions/specialty-solutions/reliable-onsite-services"
+    ],
+    "one_sentence": "Operators rent portable restrooms, restroom trailers, handwashing stations and related temporary site sanitation equipment, then earn recurring service revenue from delivery, pumping, cleaning, consumables restocking and pickup.",
+    "slug": "portable-toilet-rental"
+  }
+]

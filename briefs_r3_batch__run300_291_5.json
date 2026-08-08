@@ -1,0 +1,465 @@
+[
+  {
+    "title": "Margarine & Cooking Oil Processing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, commodity-exposed food-processing industry where soybean crush, edible oils, starches, and biofuel feedstock demand increasingly matter more than legacy margarine.",
+    "overview": "The industry processes vegetable oils, shortening, margarine, starches, soybean meal and related oilseed products for food manufacturers, grocery channels, foodservice operators, wholesalers and energy producers. The 2022 IBISWorld baseline put revenue at $81.4 billion after a 2017-2022 CAGR of 5.5%, with 2022 profit of $4.1 billion and a 2022 profit margin of 5.0%. For 2025, market size is estimated at about $84.1 billion by rolling forward the 2022 baseline using IBISWorld's 2022-2027 projected CAGR of 1.1%. Current 2025-2026 conditions are shaped by higher domestic soybean crush, growing use of soybean oil in biomass-based diesel, weaker food-use share for soybean oil, and volatile vegetable-oil pricing.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $84.1 billion",
+      "growth": "2022-2027 projected CAGR: 1.1%",
+      "profit": "2022 profit: $4.1 billion",
+      "profit_margin": "2022 profit margin: 5.0%",
+      "establishments": "2022 establishments: 418",
+      "enterprises": "2022 enterprises: 249",
+      "employment": "2022 employment: 33,353 workers",
+      "exports": "2022 exports: $12.2 billion",
+      "imports": "2022 imports: $13.4 billion",
+      "soybean_crush": "USDA forecast MY 2025/26 US soybean crush: 2.65 billion bushels",
+      "biofuel_feedstock": "EIA reported April 2026 total soybean oil inputs to biofuels: 1.224 billion pounds",
+      "producer_prices": "BLS/FRED fats and oils PPI, June 2026: 400.004 index, 1982=100",
+      "consumer_prices": "BLS/FRED CPI fats and oils, June 2026: 308.644 index, 1982-1984=100",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $81.4 billion",
+      "growth": "2017-2022 revenue CAGR: 5.5%; 2022 annual growth: 5.4%",
+      "profit": "2022 profit: $4.1 billion",
+      "profit_margin": "2022 profit margin: 5.0%",
+      "industry_gross_product": "2022 industry gross product: $7.6 billion",
+      "exports": "2022 exports: $12.2 billion",
+      "imports": "2022 imports: $13.4 billion",
+      "domestic_demand": "2022 domestic demand: $82.6 billion",
+      "price_of_oilseed": "2022 oilseed price: $22 per hundredweight"
+    },
+    "how_it_makes_money": "Processors buy oilseeds, crude or partially refined vegetable oils, animal fats and corn inputs, then crush, refine, hydrogenate, blend, package or sell bulk products into food manufacturing, grocery wholesale, foodservice, industrial and biofuel channels. Revenue is driven by throughput, commodity pass-through pricing, product mix, private-label and branded retail spreads, specialty oils, starches, soybean meal, refined oils and renewable-fuel feedstock demand.",
+    "cost_structure": {
+      "purchases_and_raw_materials": "Largest cost category in 2025-2026; soybeans, oilseeds, crude vegetable oils, animal fats, packaging and energy-linked inputs dominate cost of goods sold.",
+      "labor": "Moderate cost category; 2022 industry wages were $2.5 billion against 2022 revenue of $81.4 billion.",
+      "energy_and_utilities": "Important cost category for crushing, refining, deodorizing, hydrogenation, milling and high-volume plant operations.",
+      "logistics": "Important cost category because bulk oils, oilseeds, meal and packaged products move through rail, truck, barge, export terminals and grocery distribution networks.",
+      "profit": "2022 EBIT margin was 5.0%; 2025-2026 margins are pressured by crush-margin compression, manufacturing cost inflation and uncertain trade policy, but supported by biofuel-linked oil demand and scale advantages."
+    },
+    "major_players": [
+      "Archer-Daniels-Midland Company",
+      "Bunge Global SA",
+      "Cargill Inc.",
+      "Stratas Foods LLC",
+      "Ventura Foods LLC",
+      "AAK USA Inc.",
+      "ACH Food Companies Inc.",
+      "Kerry Group"
+    ],
+    "current_dynamics": "The 2025-2026 market is increasingly tied to soybean oil availability and biofuel policy. USDA reported in 2026 that MY 2025/26 US soybean crush was raised to 2.65 billion bushels on strong demand for soybean products and crush margins, while exports were lowered. EIA data show total soybean oil inputs to biofuels rising from 859 million pounds in December 2025 to 1.224 billion pounds in April 2026. EPA's 2026-2027 Renewable Fuel Standard final rule increased biomass-based diesel requirements, supporting demand for vegetable oil feedstocks. At the same time, BLS/FRED reported June 2026 fats and oils producer prices at 400.004 and June 2026 consumer fats and oils CPI at 308.644, highlighting still-elevated price levels after the 2021-2022 commodity shock.",
+    "whats_growing": [
+      "2025-2026 soybean crush capacity and utilization as domestic soybeans shift from export markets into US processing.",
+      "2025-2026 soybean oil demand from biodiesel, renewable diesel and emerging sustainable aviation fuel feedstocks.",
+      "2025-2026 specialty oils, organic oils, non-GMO oils, high-oleic oils and low-trans-fat formulations for food manufacturers.",
+      "2025-2026 domestic processing relevance as EPA biofuel standards favor US feedstocks and fuel supply security."
+    ],
+    "whats_shrinking": [
+      "2025-2026 soybean oil exports as more domestic oil is pulled into biofuel use.",
+      "2025-2026 legacy margarine demand relative to butter, premium spreads and minimally processed alternatives.",
+      "2025-2026 food, feed and industrial share of soybean oil where biofuel buyers outbid traditional users.",
+      "2025-2026 processor margins where global oilseed supply, lower meal prices or trade-policy uncertainty compress crush economics."
+    ],
+    "recent_developments": [
+      "2025-05-24: IBISWorld published a new US Margarine & Cooking Oil Processing industry research report through MarketResearch.com.",
+      "2025-07-01: USDA ERS reported MY 2025/26 US soybean crush forecast at a record 2.49 billion bushels, equal to 57% of US soybean production.",
+      "2025-07-02: Bunge completed its merger with Viterra, creating a larger global agribusiness and oilseed-processing platform.",
+      "2026-02-04: Bunge reported 2025 results and reorganized reporting around soybean processing and refining, softseed processing and refining, and other oilseeds processing and refining.",
+      "2026-03-27: EPA finalized 2026 and 2027 Renewable Fuel Standard volumes, including 2026 biomass-based diesel total applicable volume of 9.07 billion RINs and 2027 volume of 9.20 billion RINs.",
+      "2026-06-16: USDA ERS raised MY 2025/26 US soybean crush by 20 million bushels to 2.65 billion bushels on strong soybean product demand and crush margins."
+    ],
+    "outlook": "The 2026-2027 outlook is modestly positive for revenue but uneven for profitability. Volume support should come from record soybean crush, renewable diesel demand, food manufacturing demand and specialty oil innovation. Margin risk remains high because revenue and input costs move with oilseed, soybean oil, corn, palm, canola and olive oil markets. Biofuel policy is a structural tailwind for soybean oil and other fats, oils and greases, but it can tighten edible-oil availability and reduce export volumes. Import competition will remain meaningful in olive oil, palm oil and canola oil, while large integrated processors should outperform smaller refiners because they can hedge, source globally and run higher-throughput facilities.",
+    "themes": [
+      "biofuel feedstock pull",
+      "record soybean crush",
+      "commodity price volatility",
+      "healthier and low-trans-fat oils",
+      "import competition",
+      "industry consolidation",
+      "private-label and foodservice recovery",
+      "specialty oils and high-oleic formulations"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/margarine-and-cooking-oil-processing-in-the-us.txt",
+      "https://www.marketresearch.com/search?datepub=0&publisher=IBISWorld&qtype=2&query=sustainability&regionid=1355&sort=p",
+      "https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/market-outlook",
+      "https://www.ers.usda.gov/data-products/charts-of-note/112861",
+      "https://www.eia.gov/dnav/pet/pet_pnp_feedbiofuel_dcu_nus_m.htm",
+      "https://www.epa.gov/renewable-fuel-standard/final-renewable-fuel-standards-2026-and-2027",
+      "https://fred.stlouisfed.org/series/WPU027",
+      "https://fred.stlouisfed.org/series/CUSR0000SEFS",
+      "https://www.bunge.com/Press-Releases/Bunge-and-Viterra-Complete-Merger-to-Create-Premier-Global-Agribusiness-Solutions-Company",
+      "https://www.sec.gov/Archives/edgar/data/7084/000000708426000011/adm-20251231.htm",
+      "https://www.naics.com/naics-code-description/?code=311225"
+    ],
+    "one_sentence": "In 2025-2026, US margarine and cooking oil processors are benefiting from record soybean crush and renewable diesel demand, while margins remain exposed to volatile oilseed prices, import competition, and softer consumer pricing for fats and oils.",
+    "slug": "margarine-and-cooking-oil-processing-in-the-us"
+  },
+  {
+    "title": "Marinas in the US",
+    "sector": "Consumer Services",
+    "one_liner": "US marinas are a scarce waterfront-infrastructure business where slip demand is steadier than new boat sales, but costs, insurance and permitting are rising.",
+    "overview": "The US marina industry remains mature, fragmented and location-constrained, but larger platforms and infrastructure investors are consolidating high-quality waterfront assets. IBISWorld-based 2025 industry revenue was estimated at $7.6 billion, with 2025 growth of 1.4% and 2020-2025 CAGR of 2.4%. Demand is supported by the installed base of recreational boats, long waiting lists in desirable coastal and lake markets, and recurring slip/storage fees, while new-boat demand is weaker after the 2020-2022 pandemic surge. Operators are increasingly repositioning marinas as higher-service waterfront destinations, adding restaurants, boat clubs, rentals, repairs, concierge services and hurricane-resilient infrastructure.",
+    "key_stats": {
+      "market_size": "$7.6 billion in 2025 industry revenue",
+      "growth": "1.4% revenue growth in 2025; 2.4% CAGR from 2020 to 2025",
+      "business_count": "approximately 10,000 to 12,000 US marina businesses in 2025 depending on definition",
+      "recreational_marine_spending": "$55.6 billion in 2024 US recreational marine retail expenditures, down 2.6% from 2023",
+      "boat_use_spending": "$12.1 billion in 2024 boat-use spending including fuel, financing, insurance, docking and maintenance, flat with 2023",
+      "new_boat_sales": "215,237 new boat retail units in 2025, down 8.8% from 236,070 units in 2024",
+      "outdoor_recreation_link": "$38.4 billion in 2024 current-dollar value added from boating/fishing, the largest conventional outdoor recreation activity",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$6.151 billion in 2022 revenue in 2022 dollars",
+      "growth": "-1.0% revenue growth in 2022; 2.2% annualized revenue growth from 2017 to 2022",
+      "profit": "$1.119 billion in 2022 profit; 18.2% profit margin in 2022",
+      "industry_gross_product": "$3.054 billion in 2022 industry gross product",
+      "establishments": "9,983 establishments in 2022",
+      "enterprises": "9,767 enterprises in 2022",
+      "employment": "35,570 employees in 2022",
+      "wages": "$1.401 billion in 2022 wages; wages equaled 22.8% of 2022 revenue"
+    },
+    "how_it_makes_money": {
+      "docking_storage_utilities": "51.2% of 2022 revenue from pleasure craft docking, launching, storage and utilities",
+      "fuel_merchandise": "17.3% of 2022 revenue from fuel and merchandise sales",
+      "repairs_maintenance": "13.6% of 2022 revenue from repairs and maintenance services",
+      "food_beverage": "8.5% of 2022 revenue from food and beverage sales",
+      "other": "9.4% of 2022 revenue from boat rentals, equipment rentals, memberships, lodging and other services"
+    },
+    "cost_structure": {
+      "labor": "Wages were 22.8% of 2022 revenue, with seasonal staffing needs around launch, repair, restaurant and holiday demand.",
+      "profitability": "Profit was 18.2% of 2022 revenue and was supported by recurring storage income, transient visitors and premium add-on services.",
+      "capital_and_maintenance": "Capital intensity was high in 2022 because docks, seawalls, dredging, fuel systems, lifts, utilities and storm protection require continuing investment.",
+      "current_cost_pressure": "In 2025 survey commentary, 73.2% of marina respondents reported insurance cost increases, 69.3% reported maintenance cost increases, and 66.9% reported staffing and utility cost increases."
+    },
+    "major_players": [
+      "Safe Harbor Marinas, owned by Blackstone Infrastructure after the 2025 sale from Sun Communities",
+      "Suntex Marinas, operating more than 100 marinas nationwide after the 2026 Windward Marina Group merger",
+      "IGY Marinas, a global marina operator with US superyacht and destination marina exposure",
+      "F3 Marina, a marina management and development operator",
+      "Independent local and municipal marina operators, which still represent most US establishments"
+    ],
+    "current_dynamics": "The 2025-2026 market is split between resilient, capacity-constrained destination marinas and smaller operators facing softer boat sales, higher interest rates, higher insurance costs, aging docks and slower permitting. New boat sales fell 8.8% in 2025, but 2024 boat-use spending stayed at $12.1 billion, which matters for marinas because the installed boat base still needs slips, winter storage, fuel, maintenance and launch services. Institutional capital is pursuing scarce waterfront cash flows, shown by Blackstone Infrastructure's 2025 Safe Harbor acquisition and Suntex's 2026 Florida expansion.",
+    "whats_growing": [
+      "Premium slip and dry-stack storage in high-demand coastal, lake and Sun Belt markets in 2025-2026",
+      "Destination-marina amenities such as restaurants, waterfront retail, events, rentals and club models in 2025-2026",
+      "Hurricane-resilient docks, seawalls, breakwaters and automated dry-stack systems in 2025-2026",
+      "Corporate consolidation and portfolio ownership of marina assets in 2025-2026",
+      "Public and grant-supported transient boating infrastructure, including FY2026 Boating Infrastructure Grant projects"
+    ],
+    "whats_shrinking": [
+      "New boat retail unit sales, down 8.8% in 2025 after a 2024 decline",
+      "Smaller independent operators' margin flexibility as 2025 insurance, maintenance, utility and staffing costs rose",
+      "Greenfield marina development in tightly regulated waterfront markets in 2025-2026",
+      "Low-service marinas that rely mainly on basic slip rental without repairs, rentals, food service or hospitality revenue",
+      "Affordability for middle-income boaters where 2025-2026 slip fees, insurance and financing costs rose"
+    ],
+    "recent_developments": [
+      "2025-04-30: Sun Communities completed the sale of Safe Harbor Marinas to Blackstone Infrastructure, receiving about $5.25 billion in pre-tax cash proceeds after transaction costs.",
+      "2025-09-23: NMMA reported 2024 US recreational marine retail expenditures of $55.6 billion, down 2.6% from 2023, with 2024 boat-use spending at $12.1 billion.",
+      "2026-03-05: BEA reported 2024 boating/fishing value added of $38.4 billion, making it the largest conventional US outdoor recreation activity.",
+      "2026-03-11: NMMA reported 2025 new boat retail unit sales of 215,237, down 8.8% from 236,070 in 2024.",
+      "2026-03-18: Suntex announced its Windward Marina Group merger, adding 13 marinas and more than 3,000 slips to create a network of more than 100 marinas nationwide.",
+      "2026-06-02: U.S. Fish and Wildlife Service posted FY2026 Boating Infrastructure Grant Tier 1 and Tier 2 funding materials for marina and transient-boater facility projects."
+    ],
+    "outlook": "Revenue should remain positive but uneven through 2026 because marinas benefit from recurring storage demand and scarce waterfront supply even as new boat purchases remain pressured. The strongest operators are likely to be large, well-capitalized marinas in Florida, the Southeast, Texas, California, the Great Lakes and premium lake markets that can raise slip rates, invest in resilient infrastructure and add hospitality-style services. The weakest operators are likely to be smaller facilities with older docks, exposed storm defenses, limited repair capacity, high insurance renewals and slow permitting paths. The baseline 2022 forecast expected revenue to reach $6.6 billion by 2027 in 2022 dollars; current 2025 nominal revenue of $7.6 billion suggests inflation, premium pricing and consolidation have lifted the nominal revenue base above that older outlook.",
+    "themes": [
+      "Recurring slip and storage revenue",
+      "Scarce waterfront real estate",
+      "Post-pandemic boating normalization",
+      "Institutional consolidation",
+      "Insurance and climate risk",
+      "Aging marina infrastructure",
+      "Permitting and environmental compliance",
+      "Destination marina revenue diversification",
+      "Boat clubs and access-over-ownership models",
+      "Sun Belt and Florida demand concentration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld text file: Marinas in the US, last updated July 15, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/marinas-in-the-us.txt', 'date': '2022-07-15', 'used_for': '2022 revenue, growth, profit, establishments, employment, wage share and revenue segmentation'}",
+      "{'title': \"Marina World: The world's biggest domestic marina market\", 'url': 'https://www.marinaworld.com/news/the-worlds-biggest-domestic-marina-market', 'date': '2026-07-06', 'used_for': '2025 industry revenue, 2025 growth, 2020-2025 CAGR, 2025 business-count range, cost pressure and infrastructure themes'}",
+      "{'title': 'NMMA: Latest NMMA Data Shows Retail Boat Sales Softened in 2025', 'url': 'https://www.nmma.org/press/article/25432', 'date': '2026-03-11', 'used_for': '2025 new boat retail unit sales and 2025 demand context'}",
+      "{'title': 'NMMA: 2024 Industry Sales by Category and State Report', 'url': 'https://www.nmma.org/press/article/25236', 'date': '2025-09-23', 'used_for': '2024 recreational marine expenditures, boat-use spending and new/pre-owned transaction context'}",
+      "{'title': 'BEA: Outdoor Recreation Economic Statistics, U.S. and States, 2024', 'url': 'https://www.bea.gov/index.php/news/2026/outdoor-recreation-economic-statistics-us-and-states-2024', 'date': '2026-03-05', 'used_for': '2024 outdoor recreation GDP, boating/fishing value added and state demand context'}",
+      "{'title': 'Sun Communities: Completes Sale of Safe Harbor Marinas to Blackstone Infrastructure', 'url': 'https://suncommunities.gcs-web.com/news-releases/news-release-details/sun-communities-inc-completes-sale-safe-harbor-marinas/', 'date': '2025-04-30', 'used_for': 'Safe Harbor transaction and institutional ownership shift'}",
+      "{'title': 'Suntex: Suntex and Windward Marina Group Announce Merger', 'url': 'https://suntex.com/press-releases/suntex-and-windward-marina-group-announce-merger-of-marina-portfolios-expanding-the-suntex-florida-marina-network/', 'date': '2026-04-02', 'used_for': 'Suntex 2026 merger, added marinas, slips and Florida network scale'}",
+      "{'title': 'U.S. Fish and Wildlife Service: Boating Infrastructure Program', 'url': 'https://www.fws.gov/program/boating-infrastructure', 'date': '2026-06-02', 'used_for': 'FY2026 BIG funding materials and transient-boating infrastructure support'}"
+    ],
+    "one_sentence": "Marinas earn most of their revenue from docking, mooring, launching, storage and utilities for recreational boats, with add-on fuel, repair, food and rental services cushioning the market as 2025 boat sales softened.",
+    "slug": "marinas-in-the-us"
+  },
+  {
+    "title": "Marine Salvage Services",
+    "sector": "Transport & Logistics",
+    "one_liner": "Specialized responders refloat, remove, repair and stabilize damaged vessels, cargo and wreckage in U.S. waters.",
+    "overview": "The U.S. Marine Salvage Services industry provides retrieval, refloating, wreck removal, emergency towing, lightering, marine firefighting, pollution control, cargo recovery, underwater repair and casualty consulting after vessel groundings, collisions, fires, flooding, machinery failures and severe weather. The baseline IBISWorld file estimated 2021 revenue at $457.2 million and forecast 2026 revenue at $527.1 million, while Grand View Research's narrower public market outlook estimates 2025 U.S. marine salvage services revenue at $141.7 million and 2026 revenue at $181.2 million. Demand remains lumpy because a single bridge allision, port closure, hurricane, cargo fire or fuel spill can reshape annual revenue, but the underlying need is structurally supported by U.S. port throughput, OPA-90 vessel response requirements, insurer involvement and the high cost of leaving wrecks or pollutants in navigable waters.",
+    "key_stats": {
+      "market_size": "2026: $181.2 million public U.S. marine salvage services estimate; 2026: $527.1 million baseline IBISWorld-scope forecast",
+      "growth": "2026-2033: 12.06% CAGR public U.S. market forecast; 2021-2026: 2.9% CAGR baseline IBISWorld-scope forecast",
+      "profit_margin": "2021: 12.9% baseline industry profit margin",
+      "employment": "2021: 2,785 workers baseline; 2026: 3,112 workers baseline forecast",
+      "establishments": "2021: 190 establishments baseline; 2026: 202 establishments baseline forecast",
+      "global_salvage_indicator": "2024: ISU members generated $406 million gross revenue from 191 services, up from 2023: $398 million from 184 services",
+      "wreck_removal_share": "2025: wreck removal was 50.74% of the public U.S. market estimate",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $470.5 million implied from the baseline 2021 revenue of $457.2 million and 2021-2026 CAGR of 2.9%",
+      "growth": "2022: 2.9% implied baseline growth",
+      "context": "2022 baseline demand was expected to be supported by recovering trade activity, ongoing hurricane cleanup work and growth in salvage consulting, while modern navigation technology continued to reduce some non-storm accident frequency."
+    },
+    "how_it_makes_money": [
+      "2021: Grounding salvage represented 45.4% of baseline revenue, covering refloating and stabilizing vessels after seabed or waterway impact.",
+      "2021: Engine or mechanical breakdown salvage represented 23.5% of baseline revenue, including disabled vessels that require towage, patching, dewatering or recovery.",
+      "2021: Other salvage services represented 13.4% of baseline revenue, including consulting, towing, risk assessment and related casualty support.",
+      "2021: Fire or explosion salvage represented 8.3% of baseline revenue, collision salvage 5.7% and flooding salvage 3.7%.",
+      "2025: Wreck removal was the largest public-market segment, while emergency response was identified as the fastest-growing forecast segment."
+    ],
+    "cost_structure": {
+      "labor": "2021: wages were $133.1 million, equal to about 29.1% of baseline revenue, reflecting skilled divers, salvage masters, naval architects, firefighters, engineers and vessel crews.",
+      "profit": "2021: profit was $59.0 million, equal to a 12.9% baseline margin.",
+      "fuel_and_vessels": "2021: fuel, vessel charter, equipment rental, heavy-lift gear, pumps, firefighting systems and pollution-control equipment were major variable costs, with crude oil volatility pressuring margins.",
+      "capital": "2021: operators were increasing spending on modern salvage vessels, remote equipment, pumps, diving systems and environmental-response assets to compete for government, insurer and vessel-owner work.",
+      "compliance": "2025: Coast Guard marine environmental response policy increased attention on preparedness, vessel response plan deviations, exercises and responder safety."
+    },
+    "major_players": [
+      "Donjon Marine Co.",
+      "Donjon-SMIT OPA-90 Alliance",
+      "SMIT Salvage",
+      "T&T Salvage",
+      "Resolve Marine",
+      "Marine Response Alliance",
+      "Ocean Infinity",
+      "United Salvage Associates"
+    ],
+    "current_dynamics": "Current demand is being pulled in two directions. Public market data points to a 2025 U.S. market estimate of $141.7 million and a 2026 estimate of $181.2 million under a narrower marine-salvage definition, while the older IBISWorld-scope baseline forecast points to a larger 2026 revenue pool of $527.1 million. Port activity remains supportive: Port of Los Angeles handled 5,122,602.50 TEUs in calendar-year 2026 through June, up 3.37% from the 2025 comparable period, but North American vessel freight value fell 15.6% in 2025 because mineral-fuel values declined. Salvage providers are also benefiting from higher expectations for casualty readiness after the 2024 Francis Scott Key Bridge/Dali response and 2025 Coast Guard updates to marine environmental response policy. Weather is less supportive in 2026 than in 2025 because NOAA's May 2026 Atlantic outlook called for a 55% chance of a below-normal season, compared with NOAA's 2025 outlook that called for a 60% chance of an above-normal season.",
+    "whats_growing": [
+      "2025: Wreck removal remained the largest public-market service segment at 50.74% of U.S. market revenue.",
+      "2025: Emergency response was identified as the fastest-growing forecast service segment.",
+      "2025: Vessel response plan compliance, salvage and marine firefighting coverage, tabletop drills and standby response networks gained importance after Coast Guard policy updates.",
+      "2026: Port of Los Angeles container throughput through June increased 3.37% from the 2025 comparable period, supporting exposure to port and vessel incidents.",
+      "2026: Government and defense work expanded visibility, with Donjon Marine announcing a U.S. Navy salvage services contract valued at up to $215 million."
+    ],
+    "whats_shrinking": [
+      "2025: North American vessel freight value fell 15.6% from 2024, partly because mineral-fuel values declined, reducing one demand proxy for waterborne activity.",
+      "2026: Atlantic hurricane risk looked softer than 2025, with NOAA's May 2026 outlook calling for a 55% chance of a below-normal season.",
+      "2024: U.S. recreational boating fatalities fell 1.4% from 2023 to 556, signaling improved safety outcomes even though reported incidents rose 1.1%.",
+      "2021: Non-storm casualty demand was constrained by better navigation, monitoring and vessel technology, according to the baseline report."
+    ],
+    "recent_developments": [
+      "2024-05-20: Salvors refloated and moved the M/V Dali after the Francis Scott Key Bridge collapse, restoring access for pre-collapse deep-draft commercial vessels at the Port of Baltimore.",
+      "2025-04-08: The U.S. Coast Guard released a revised Marine Environmental Response and Preparedness policy, including new guidance on vessel response plan deviations and responder safety.",
+      "2025-06-26: The International Salvage Union reported 2024 member revenue of $406 million from 191 services, including $205 million from wreck removal.",
+      "2025-07-01: The U.S. Coast Guard reported 2024 recreational boating incidents rose 1.1% to 3,887 and property damage totaled $88 million.",
+      "2026-05-21: NOAA's 2026 Atlantic hurricane outlook called for a 55% chance of a below-normal season, with 8-14 named storms and 3-6 hurricanes.",
+      "2026-07-10: Donjon Marine announced a U.S. Navy salvage services contract valued at up to $215 million."
+    ],
+    "outlook": "The 2026 outlook is positive but uneven. Under the public Grand View Research definition, U.S. marine salvage services revenue is estimated to rise from 2025: $141.7 million to 2026: $181.2 million, with a 2026-2033 CAGR of 12.06%. Under the older IBISWorld-scope baseline, industry revenue was forecast to reach 2026: $527.1 million at a 2021-2026 CAGR of 2.9%. Growth should come from wreck removal, emergency response, pollution control, regulatory readiness, port resilience work and larger response networks, while annual results will remain highly sensitive to major casualties, hurricane landfalls, fuel prices and the level of vessel traffic through U.S. ports.",
+    "themes": [
+      "Event-driven demand",
+      "OPA-90 compliance",
+      "Wreck removal",
+      "Marine firefighting",
+      "Pollution control",
+      "Port resilience",
+      "Climate and storm exposure",
+      "Insurer-funded casualty response",
+      "Specialized labor shortage",
+      "Low market concentration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld file provided by user', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/marine-salvage-services.txt'}",
+      "{'name': 'Grand View Research Horizon: U.S. Marine Salvage Services Market Size & Outlook, last updated 2026-07-01', 'url': 'https://www.grandviewresearch.com/horizon/outlook/marine-salvage-services-market/united-states'}",
+      "{'name': 'International Salvage Union: ISU salvage industry statistics 2024, published 2025-06-26', 'url': 'https://www.marine-salvage.com/isu-salvage-industry-statistics-2024/'}",
+      "{'name': 'NOAA Climate Prediction Center: 2026 Atlantic Hurricane Season Outlook, issued 2026-05-21', 'url': 'https://www.cpc.ncep.noaa.gov/products/outlooks/hurricane.shtml?vm=r'}",
+      "{'name': 'U.S. Coast Guard: 2024 Recreational Boating Statistics press release, published 2025-07-01', 'url': 'https://www.news.uscg.mil/Press-Releases/Article/4231745/coast-guard-reports-fewest-boating-fatalities-in-more-than-50-years/'}",
+      "{'name': 'U.S. Coast Guard ALCOAST 171/25: Marine Environmental Response and Preparedness Policy, released 2025-04-08', 'url': 'https://content.govdelivery.com/accounts/USDHSCG/bulletins/3daf109'}",
+      "{'name': 'Port of Los Angeles: Container Statistics, accessed 2026-08-08', 'url': 'https://portoflosangeles.org/business/statistics/container-statistics'}",
+      "{'name': 'Bureau of Transportation Statistics: Transborder Freight Data Annual Report 2025, published 2026-05-15', 'url': 'https://www.bts.gov/newsroom/transborder-freight-data-annual-report-2025-0'}",
+      "{'name': 'Key Bridge Response Unified Command: Update 30, published 2024-05-20', 'url': 'https://www.keybridgeresponse2024.com/post/update-30-key-bridge-response-unified-command-moves-dali-restores-use-of-federal-channel'}",
+      "{'name': 'Donjon Marine Co.: company site and 2026 U.S. Navy salvage services contract announcement', 'url': 'https://donjon.com/'}"
+    ],
+    "one_sentence": "Marine salvage demand is event-driven, tied to vessel casualties, port traffic, storm damage, environmental response rules and insurers' need to control loss severity after maritime incidents.",
+    "slug": "marine-salvage-services"
+  },
+  {
+    "title": "Market Research in the US",
+    "sector": "Business Services",
+    "one_liner": "U.S. market research is shifting from survey-led projects toward always-on insights, analytics platforms, AI-assisted workflows and privacy-compliant data products.",
+    "overview": "Market Research in the US corresponds closely to NAICS 541910, which the U.S. Census Bureau defines as establishments that systematically gather, record, tabulate and present marketing and public opinion data. The 2022 IBIS baseline showed a narrow industry worth $28.6 billion, while Census employer-firm service revenue for NAICS 54191 was $29.1 billion in 2022. Current public benchmarks show the broader U.S. insights-and-analytics market reached $82.9 billion in 2024 after 7.6% growth, reflecting the migration of client budgets from traditional custom research into data analytics, self-service platforms, enterprise feedback systems, digital audience measurement and industry intelligence products. Demand remains tied to advertising, R&D, corporate profit and consumer spending, but the competitive frontier is now speed, data quality, privacy compliance and the ability to blend first-party, panel, transactional, behavioral and synthetic or AI-assisted methods.",
+    "key_stats": {
+      "market_size": "2024: $82.9 billion U.S. insights-and-analytics revenue; 2022: $28.6 billion IBIS narrow market-research revenue and $29.1 billion Census NAICS 54191 employer-firm revenue",
+      "growth": "2024: 7.6% growth for the broader U.S. insights-and-analytics market; 2022: 2.4% IBIS narrow industry growth",
+      "profit": "2022: $2.26 billion IBIS industry profit",
+      "profit_margin": "2022: 7.9% IBIS profit margin",
+      "establishments": "2022: 40,036 IBIS establishments",
+      "employment": "2022: 127,978 IBIS employees",
+      "product_mix": "2022: quantitative research 55.8%, qualitative research 20.1%, other services 24.1%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $28.6 billion IBIS revenue",
+      "growth": "2022: 2.4% annual revenue growth; 2017-2022: 3.6% CAGR",
+      "profit": "2022: $2.26 billion",
+      "profit_margin": "2022: 7.9%",
+      "industry_gross_product": "2022: $11.6 billion",
+      "establishments": "2022: 40,036",
+      "enterprises": "2022: 39,815",
+      "employment": "2022: 127,978",
+      "wages": "2022: $9.03 billion"
+    },
+    "how_it_makes_money": "Operators sell custom survey research, polling, audience measurement, syndicated market data, retail and consumer panels, industry reports, brand tracking, customer-experience research, product and concept testing, media and advertising effectiveness measurement, analytics subscriptions and consulting services. Revenue is earned through project fees, recurring subscriptions, panel/data-access contracts, syndicated-report licenses and retainer-based advisory work.",
+    "cost_structure": "The 2022 IBIS profile shows a labor-heavy professional-services model, with $9.03 billion of wages against $28.6 billion of revenue and a 7.9% profit margin. Major costs include researcher and data-science labor, respondent/panel incentives, data acquisition, survey operations, software, cloud hosting, analytics tools, sales and client service, compliance and privacy governance. In 2025, NIQ reported cash data costs at 15% of revenue, down from 22% in 2021, illustrating how scaled data platforms and AI-enabled processing are pressuring traditional fieldwork and data-collection cost models.",
+    "major_players": [
+      "Gartner",
+      "Salesforce",
+      "Nielsen",
+      "IQVIA",
+      "Adobe",
+      "CoStar Group",
+      "Circana",
+      "S&P Global",
+      "HubSpot",
+      "Qualtrics",
+      "NIQ",
+      "Ipsos",
+      "Kantar"
+    ],
+    "current_dynamics": "The market is bifurcating. Traditional project-based research remains useful for high-stakes brand, product and opinion work, but growth is stronger in recurring analytics, digital data, self-service research platforms and enterprise feedback tools. Clients want faster turnaround and more integrated datasets while scrutinizing budgets, which favors platforms with subscriptions, automation and embedded analytics. AI is improving questionnaire drafting, literature review, coding, reporting and data processing, but it is also creating buyer concern around bias, synthetic respondents, data provenance and reduced human judgment. Privacy laws and data-broker scrutiny are raising compliance costs for vendors that rely on consumer-level data, cookies, panels, mobile location or third-party datasets.",
+    "whats_growing": "AI-assisted research workflows, e-commerce and omnichannel measurement, first-party data analytics, digital audience measurement, enterprise feedback management, self-service research platforms, synthetic-data experimentation, subscription intelligence products, healthcare and life-sciences insights, retail media measurement and privacy-safe data collaboration are growing. In 2025, MRII found 62% of surveyed market researchers had some or most of their team using AI, up from 39% in 2024.",
+    "whats_shrinking": "Standalone phone, mail and in-person fieldwork, slow custom-only survey projects, commodity panels with weak fraud controls, cookie-dependent third-party data products, traditional focus groups without digital augmentation and manual reporting workflows are losing share. Budget pressure is also pushing some research in-house, with clients using DIY platforms and AI tools for lower-risk questions.",
+    "recent_developments": [
+      "2025-04-03: MRII reported 62% of surveyed market researchers used AI on some or most team workflows, up from 39% in 2024.",
+      "2025-07-25: Insights Association said the 2023 U.S. insights-and-analytics market grew 7.6% to nearly $80.0 billion, after 14.3% growth in 2022 and 16.6% in 2021.",
+      "2025-07-28: NCSL tracked 2025 consumer-privacy activity across 49 states and D.C., with over 800 bills considered and at least 100 laws enacted across more than 30 states.",
+      "2025-12-31: NIQ reported 2025 Intelligence Subscription Revenue of $2.877 billion, 6.6% growth and 105% net dollar retention for that revenue stream.",
+      "2026-05-15: IBISWorld scheduled the title change from Market Research in the US to Market Research & Public Opinion Polling in US.",
+      "2026: Insights Association released its 2026 State of U.S. Insights & Analytics Report covering 2021-2025 industry revenue and segment performance."
+    ],
+    "outlook": "The 2026 outlook is modestly positive for scaled and tech-enabled providers but mixed for traditional research agencies. Advertising, R&D and product-development budgets should keep demand for trusted consumer insight intact, while AI and automation expand capacity and shorten delivery times. The best-positioned firms will combine human-led research design, validated panels, proprietary data assets, analytics platforms and privacy-safe methods. Smaller operators can still win in niche verticals and qualitative strategy work, but commodity survey execution faces margin pressure from self-service tools and AI-enabled competitors.",
+    "themes": [
+      "AI-assisted research and automation",
+      "Data quality and survey fraud control",
+      "Privacy compliance and consented data",
+      "Shift from projects to subscriptions",
+      "First-party and omnichannel analytics",
+      "Synthetic respondents as supplemental tools",
+      "Retail media and e-commerce measurement",
+      "Healthcare and life-sciences demand",
+      "In-housing and self-service platforms",
+      "M&A and platform consolidation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld file: Market Research in the US, last updated 2022-02-28', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/market-research-in-the-us.txt'}",
+      "{'name': 'Insights Association 2025 State of U.S. Insights & Analytics Report page', 'url': 'https://www.insightsassociation.org/Resources/Insights-Analytics-Market-Report'}",
+      "{'name': 'Insights Association 2026 State of U.S. Insights & Analytics Report page', 'url': 'https://www.insightsassociation.org/Resources/2026-Insights-Analytics-Market-Report'}",
+      "{'name': 'Insights Association 2024 market leaders article', 'url': 'https://www.insightsassociation.org/News/Industry-News/ArticleID/1368/Leading-U-S-Insights-Analytics-Companies-Revealed-in-New-Report'}",
+      "{'name': 'U.S. Census Bureau NAICS 541910 definition', 'url': 'https://www.census.gov/naics/?details=541910&input=541910&year=2022'}",
+      "{'name': 'FRED, Census Service Annual Survey NAICS 54191 revenue series', 'url': 'https://fred.stlouisfed.org/series/REVEF54191TAXABL'}",
+      "{'name': 'MRII AI in Focus 2025 release', 'url': 'https://mrii.org/mrii-releases-new-global-report-ai-in-focus-2025-how-market-researchers-are-embracing-and-adapting-to-generative-ai/'}",
+      "{'name': 'NCSL Consumer Privacy 2025 Legislation', 'url': 'https://www.ncsl.org/technology-and-communication/consumer-privacy-2025-legislation'}",
+      "{'name': 'IAPP U.S. State Comprehensive Privacy Laws Report 2025', 'url': 'https://iapp.org/resources/article/us-state-privacy-laws-overview'}",
+      "{'name': 'NIQ 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/2054696/000162828026012572/niq-20251231.htm'}",
+      "{'name': 'IBISWorld Help Center U.S. industry report title changes', 'url': 'https://help.ibisworld.com/en/articles/12466682-us-industry-report-title-changes'}"
+    ],
+    "one_sentence": "The industry gathers, analyzes and presents marketing and public opinion data for advertisers, manufacturers, media companies, healthcare firms, government agencies and corporate strategy teams.",
+    "slug": "market-research-in-the-us"
+  },
+  {
+    "title": "Martial Arts Studios",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented local-services industry selling recurring martial arts instruction, with 2025-2026 demand supported by fitness participation, youth enrichment, and MMA/BJJ visibility.",
+    "overview": "Martial arts studios are local consumer-service businesses that provide group classes, private coaching, belt testing, camps, tournaments and related merchandise. The industry is highly fragmented, with low barriers to entry and many owner-operated schools, while franchise systems and multi-site academies compete on brand, curriculum, youth programs and retention systems. The 2021 baseline described a pandemic-hit industry recovering from 2020 revenue of $8.158 billion, but current public 2025-2026 references point to a materially larger market: IBISWorld public snippets report $19.4 billion in 2024 and $19.4 billion in 2025, while 2026 industry-stat summaries citing IBISWorld place the market at $21.2 billion in 2026. Growth is being pulled by higher fitness participation, the normalization of boutique studio memberships, the popularity of MMA and Brazilian jiu-jitsu, and parent spending on structured youth activities, but it is capped by local price competition, rent and labor pressure, and competition from gyms, sports leagues and at-home fitness.",
+    "key_stats": {
+      "market_size": "$21.2 billion in 2026, according to 2026 industry-stat summaries citing IBISWorld; IBISWorld public page separately shows $19.4 billion in 2025 and $19.4 billion in 2024.",
+      "growth": "+0.7% year over year in 2026 and +3.7% CAGR from 2021 to 2026, according to 2026 industry-stat summaries citing IBISWorld; IBISWorld public page shows +4.6% CAGR from 2019 to 2024 and +1.7% growth in 2024.",
+      "businesses": "46,600 businesses in 2024, down at a 1.4% CAGR from 2019 to 2024, according to IBISWorld public page.",
+      "establishments": "76,364 studios in 2026, up 6.0% year over year, according to 2026 industry-stat summaries citing IBISWorld.",
+      "employment": "132,246 employees in 2026, according to 2026 industry-stat summaries citing IBISWorld; IBISWorld public page shows 56,075 employees in 2024.",
+      "participation_tailwind": "250.0 million Americans participated in at least one sport, fitness or leisure activity in 2025, up 1.2% year over year, according to SFIA's 2026 Topline Participation Report release.",
+      "fitness_competition": "US aggregate fitness facility memberships reached 104.7 million in 2024, up 3.9% year over year, according to the 2025 US Health & Fitness Consumer Report summary.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$8.8 billion in 2022, inferred from the January 2021 IBISWorld baseline file's $8.158 billion 2020 revenue and its 3.9% annualized 2020-2025 forecast path.",
+      "growth": "+3.9% annualized forecast growth for 2020-2025 in the January 2021 IBISWorld baseline file.",
+      "context": "The baseline file predates later IBISWorld re-estimates; it forecast 2025 revenue of $9.9 billion, far below current public 2025-2026 market-size snippets."
+    },
+    "how_it_makes_money": "Studios primarily earn recurring monthly tuition for group classes, plus private lessons, initiation or registration fees, belt testing and grading fees, seminars, camps, tournament fees, after-school or youth enrichment programs, and sales of uniforms, protective gear and branded merchandise. Franchise systems add royalty, curriculum, software and marketing fees at the franchisor level.",
+    "cost_structure": "The model is labor- and occupancy-heavy. Instructor wages and owner compensation are the largest operating cost; the baseline file forecast wages at 40.5% of 2025 revenue. Other major costs include studio rent, insurance, mats and equipment, franchise royalties where applicable, payment/software systems, advertising, utilities, and merchandise purchases. Profit is sensitive to class utilization, student retention, instructor scheduling, local rent levels and discounting by nearby gyms or schools.",
+    "major_players": [
+      "No company has material national share; IBISWorld's 2024 public page says the industry is highly fragmented and has no major companies.",
+      "Tiger-Rock Martial Arts",
+      "Premier Martial Arts",
+      "Tiger Schulmann's Martial Arts",
+      "Gracie Barra-affiliated Brazilian jiu-jitsu academies",
+      "ATA Martial Arts-affiliated schools"
+    ],
+    "current_dynamics": "The 2025-2026 industry is expanding in locations and participation but remains locally competitive. MMA and BJJ benefit from UFC visibility and broader combat-sports media exposure, while youth martial arts remains a core enrollment base because parents buy discipline, confidence and after-school structure as much as fitness. At the same time, price sensitivity is higher than in premium boutique fitness because families can substitute gyms, school sports, rec leagues, YouTube training, low-cost fitness chains or other youth activities. Operators with better retention systems, kids programs, family plans, trial funnels, and flexible class scheduling are better positioned than single-discipline schools relying only on walk-in demand.",
+    "whats_growing": [
+      "MMA and Brazilian jiu-jitsu programs tied to UFC and grappling-sport visibility in 2025-2026.",
+      "Youth classes, after-school programs and summer camps as parents seek structured physical activity in 2025-2026.",
+      "Franchise and multi-location systems using standardized curriculum, CRM tools and paid digital acquisition in 2025-2026.",
+      "Hybrid offerings that combine fitness, self-improvement, anti-bullying messaging and belt progression in 2025-2026.",
+      "Recreation spending, with BEA/FRED showing US personal consumption expenditures on recreation at $1.979 trillion in 2025, up from $1.873 trillion in 2024."
+    ],
+    "whats_shrinking": [
+      "Traditional karate's revenue share, which the baseline file expected to decline after its 20.5% share in 2020.",
+      "Standalone single-style schools without strong kids programming, trial conversion or retention infrastructure in 2025-2026.",
+      "Pandemic-era virtual-only martial arts classes as in-person studios and fitness facilities recovered through 2024-2026.",
+      "Margins for studios facing 2025-2026 wage, rent, insurance and customer-acquisition cost pressure.",
+      "Local pricing power where new studio openings increase choice and intensify competition in 2025-2026."
+    ],
+    "recent_developments": [
+      "2025-02-27: SFIA reported 247.1 million active Americans in 2024 and an 80.1% activity participation rate, a tailwind for fitness and recreation providers.",
+      "2025-08-11: Paramount and TKO announced a seven-year UFC US media-rights deal beginning in 2026, covering 13 numbered events and 30 Fight Nights on Paramount+.",
+      "2026-01-26: UFC said UFC 324's Paramount+ debut generated nearly 5.0 million streaming views and reached more than 7.0 million households across the US and Latin America.",
+      "2026-03-12: SFIA's 2026 Topline release reported 250.0 million Americans active in 2025, up 1.2% year over year, while only 32.0% met the 150-minute weekly activity guideline.",
+      "2026-04-09: BEA/FRED annual data showed US personal consumption expenditures on recreation reached $1.979 trillion in 2025, up from $1.873 trillion in 2024.",
+      "2026-07-2026: Industry-stat summaries citing IBISWorld placed the US martial arts studio market at $21.2 billion in 2026 with 76,364 studios and 132,246 employees."
+    ],
+    "outlook": "The outlook is positive but uneven. Revenue should remain supported in 2026 by high sport-and-fitness participation, wider UFC distribution, BJJ/MMA popularity and parents' willingness to pay for structured youth activities. The best-performing schools will likely be those that treat retention, scheduling, community and youth programming as core operations, not just instruction. Growth is likely to moderate from the immediate post-pandemic rebound because 2026 public summaries cite only +0.7% year-over-year revenue growth, while local markets absorb rapid studio-count expansion. Margin improvement will depend on keeping class density high enough to offset wage, rent, insurance and marketing-cost inflation.",
+    "themes": [
+      "MMA and BJJ mainstreaming",
+      "Youth enrichment and after-school demand",
+      "Fragmented local competition",
+      "Franchise systems and branded curriculum",
+      "Recurring membership economics",
+      "Fitness participation tailwind",
+      "Price sensitivity and retention pressure",
+      "Rent and instructor wage exposure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld - Martial Arts Studios in the US market research report public page', 'url': 'https://www.ibisworld.com/united-states/market-research-reports/martial-arts-studios-industry/', 'date_accessed': '2026-08-08'}",
+      "{'title': 'Gymdesk - 50+ Martial Arts Industry Statistics for 2026', 'url': 'https://gymdesk.com/blog/martial-arts-industry-statistics', 'date_accessed': '2026-08-08'}",
+      "{'title': 'SFIA - 2026 Topline Participation Report release', 'url': 'https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/', 'date_accessed': '2026-08-08'}",
+      "{'title': 'SFIA - 2025 Topline Participation Report release', 'url': 'https://sfia.org/resources/sfias-topline-participation-report-shows-247-1-million-americans-were-active-in-2024/', 'date_accessed': '2026-08-08'}",
+      "{'title': 'UFC - Paramount and TKO announce historic UFC media rights agreement', 'url': 'https://www.ufc.com/news/paramount-and-tko-announce-historic-ufc-media-rights-agreement', 'date_accessed': '2026-08-08'}",
+      "{'title': 'UFC - UFC delivers historic night in Paramount+ debut', 'url': 'https://www.ufc.com/news/ufc-delivers-historic-night-paramount-debut', 'date_accessed': '2026-08-08'}",
+      "{'title': 'FRED/BEA - Personal consumption expenditures: Recreation', 'url': 'https://fred.stlouisfed.org/series/DRRLRC1A027NBEA', 'date_accessed': '2026-08-08'}",
+      "{'title': \"Health & Fitness Business - 2026 HFA Buyer's Guide summary\", 'url': 'https://www.healthandfitnessbusiness.org/dec2025/welcome-to-the-buyers-guide', 'date_accessed': '2026-08-08'}",
+      "{'title': 'Local baseline file - Martial Arts Studios IBISWorld report, last updated 2021-01-22', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/martial-arts-studios.txt', 'date_accessed': '2026-08-08'}"
+    ],
+    "one_sentence": "US martial arts studios generate most revenue from recurring class memberships and private lessons across taekwondo, karate, MMA, judo, jiu-jitsu and related disciplines, with 2026 industry revenue estimated around $21.2 billion after post-pandemic expansion.",
+    "slug": "martial-arts-studios"
+  }
+]

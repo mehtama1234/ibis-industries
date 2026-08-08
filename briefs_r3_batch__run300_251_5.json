@@ -1,0 +1,435 @@
+[
+  {
+    "title": "Laminated Plastics Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, fragmented plastics niche supplying laminated sheets, plates, rods and shapes into construction, transportation, furniture, healthcare and industrial manufacturing.",
+    "overview": "This industry manufactures laminated plastic profile shapes, plates, sheets and rods, excluding flexible packaging, by bonding or impregnating plastic profiles with resins and compressing them under heat. Products include thermoplastic laminates, thermosetting laminates and other laminated plastic sheets used in cabinets, countertops, wall panels, office furniture, appliance parts, vehicle interiors, aircraft and marine interiors, medical and safety products, and industrial components. The 2022 IBIS baseline described a $4.5 billion mature industry recovering from 2020 disruption; the 2025-2026 picture is steadier but less broad-based, with demand supported by commercial interiors, institutional construction, transportation components and durable goods, while single-family remodeling softness, natural stone and wood substitutes, tariff uncertainty and resin-cost volatility limit margins.",
+    "key_stats": {
+      "market_size": "2025 market size: about $4.7 billion in US industry revenue, estimated from the 2022 IBIS baseline forecast path and updated demand indicators.",
+      "growth": "2025 growth: about 0.5% year over year; 2026 growth outlook: about 0.8% nominal, with volume growth weaker because resin prices rose in 2026.",
+      "profit_margin": "2026 profit margin: about 3.8%-4.0%, broadly consistent with the 2022 baseline's 2026 profit-margin forecast of 3.9%.",
+      "establishments": "2026 establishments: about 235, based on the 2022 IBIS forecast path.",
+      "employment": "2026 employment: about 14,700 workers, based on the 2022 IBIS forecast path.",
+      "product_mix_2021": "2021 revenue mix: thermoplastic laminates 42.6%, other plastic laminates 32.8%, thermosetting laminates 24.6%.",
+      "demand_mix_2021": "2021 demand mix included downstream manufacturing 44%, automotive and transportation manufacturing 19%, and healthcare and safety product manufacturing 11%; construction was also a major buyer.",
+      "input_prices": "June 2026 plastic resins and materials PPI: +17.2% year over year; unsupported plastic film, sheet and other shapes: +15.4% year over year.",
+      "construction_indicator": "June 2026 total US construction spending: $2.1665 trillion seasonally adjusted annual rate, down 3.2% year over year; residential construction was down 4.7% year over year.",
+      "manufacturing_indicator": "June 2026 Federal Reserve plastics product industrial production index: 95.3, with plastics and rubber products at 95.0, 2017=100.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 market size: about $4.55 billion, baseline-derived from 2021 revenue of $4.496 billion and the 2021-2026 IBIS forecast CAGR of 1.1%.",
+      "growth": "2022 growth: about 1.1%, baseline-derived from the 2021-2026 forecast path.",
+      "profit_margin": "2022 profit margin: about 3.9%, using the 2021 and 2026 IBIS margin anchor.",
+      "enterprises": "2022 enterprises: about 205-206 operators, based on the 2021 count of 205 and the 2026 forecast of 206.",
+      "employment": "2022 employment: about 14,000 workers, based on the 2021 count of 13,806 and the 2026 forecast of 14,719.",
+      "source_note": "The baseline file was last updated June 23, 2022 and reported 2021 revenue of $4.496 billion, 2021 profit of $175 million, 2021 profit margin of 3.9%, 232 establishments, 205 enterprises and 13,806 employees, with revenue forecast to reach $4.7 billion in 2026."
+    },
+    "how_it_makes_money": "Manufacturers sell laminated plastic sheets, plates, rods and shaped profiles to distributors, fabricators, OEMs and construction-product buyers. Revenue comes from standard and custom thermoplastic laminate, thermosetting laminate, decorative high-pressure laminate, compact laminate, specialty industrial sheet and component programs. Pricing is typically tied to resin, paper, chemical, labor, freight and energy costs, with higher margins on design-led decorative surfaces, engineered performance laminates, short-run customization and specification-driven commercial projects.",
+    "cost_structure": {
+      "purchases": "2026 purchases: largest cost bucket, driven by plastic resins, phenolic and melamine resins, kraft and decorative papers, additives, films, adhesives and outsourced components; resin inflation is the main current pressure.",
+      "wages": "2026 wages: material but below purchases; skilled press, extrusion, finishing, quality and maintenance labor remains tight, while automation restrains headcount growth.",
+      "depreciation": "2026 depreciation: meaningful because laminating presses, finishing lines, cutting equipment, curing systems and plant controls require ongoing capital investment.",
+      "utilities_and_energy": "2026 utilities and energy: moderate, with heat, pressure, curing and ventilation needs making energy efficiency a margin lever.",
+      "freight": "2026 freight: important because laminated sheets and panels are bulky and often shipped through regional distributors or directly to fabricators.",
+      "profit": "2026 operating profit: about 3.8%-4.0% of revenue, pressured by input costs but supported by pass-through pricing and specialized product mix."
+    },
+    "major_players": [
+      "Wilsonart",
+      "Formica Corporation / Broadview Materials",
+      "Panolam Surface Systems",
+      "Lintec USA Holding Inc.",
+      "Nudo Products Inc.",
+      "Pioneer Plastics Corporation",
+      "Northern Contours Inc.",
+      "Hanwha Advanced Materials USA",
+      "Pexco Aerospace Inc.",
+      "Composite Resources Inc."
+    ],
+    "current_dynamics": "The market is moving sideways in real terms. Commercial interiors, healthcare, education, transportation, laboratory surfaces and institutional refurbishment are holding up better than residential remodeling and price-sensitive countertop work. The 2025 auto market helped transportation-related laminates as US new-vehicle sales reached about 16.3 million units, but Cox Automotive's 2026 forecast of 15.8 million implies softer automotive pull-through. Construction is mixed: June 2026 total construction spending was down 3.2% year over year and residential was down 4.7%, while some public, office, transportation, power and institutional categories remain supportive. Resin and plastic-shape prices jumped in 2026, helping nominal revenue but squeezing buyers and working capital.",
+    "whats_growing": [
+      "2025-2026 commercial and institutional interiors using durable HPL, compact laminate and cleanable surfaces.",
+      "2025-2026 healthcare, lab, education and public-sector surfaces where cleanability, impact resistance and specification compliance matter.",
+      "2025-2026 recycled-content, biobased-content and lower-carbon laminate claims, including USDA BioPreferred and FSC-linked positioning.",
+      "2025-2026 coordinated surface systems that bundle HPL, thermally fused laminate panels and edgebanding for cabinets and furniture.",
+      "2025 transportation and vehicle interior component demand, supported by 16.3 million US new-vehicle sales."
+    ],
+    "whats_shrinking": [
+      "2026 residential construction-linked demand, with June 2026 residential construction spending down 4.7% year over year.",
+      "2025-2026 low-end decorative countertop and flooring demand where quartz, stone, wood, ceramic and luxury vinyl substitutes take share.",
+      "2026 auto-related growth momentum, with Cox Automotive forecasting 15.8 million US new-vehicle sales, down 2.4% from 2025.",
+      "2025-2026 thermosetting laminate share, continuing the baseline trend of slower growth relative to thermoplastic laminates.",
+      "2026 margin room on commodity laminate products as plastic resin and sheet input prices rose sharply year over year."
+    ],
+    "recent_developments": [
+      "2025-07-15: Formica Corporation announced USDA Certified Biobased Product Label approval for Formica Brand Laminate.",
+      "2025-12-17: Cox Automotive said 2025 US new-vehicle sales reached about 16.3 million units, up 1.8% from 2024 and the best result since 2019.",
+      "2026-01-06: Cox Automotive forecast 2026 US new-vehicle sales of 15.8 million units, down 2.4% from 2025.",
+      "2026-06: BLS reported plastic resins and materials prices up 17.2% year over year and unsupported plastic film, sheet and other shapes up 15.4% year over year.",
+      "2026-07-17: Federal Reserve data showed the June 2026 plastics product industrial production index at 95.3, below the 2017 base of 100.",
+      "2026-08-03: Census reported June 2026 total construction spending at $2.1665 trillion SAAR, down 3.2% year over year."
+    ],
+    "outlook": "The 2026-2030 outlook is low-growth but investable. Nominal revenue should rise slowly as higher resin and labor costs pass through, but unit demand will depend on commercial construction, institutional interiors, durable goods and transportation equipment. Companies with regional distribution, design libraries, sustainability documentation, recycled or biobased content, and custom technical-laminate capability should outperform commodity sheet producers. Main risks are resin-price spikes, slower vehicle production, weak housing and remodeling, tariff-related sourcing disruption, and substitution by stone, wood, metal, glass and engineered surfaces. A reasonable 2026-2030 expectation is roughly 0.5%-1.5% annual nominal revenue growth with margins near 4% unless input inflation accelerates faster than price pass-through.",
+    "themes": [
+      "Mature domestic manufacturing niche",
+      "Resin-cost pass-through",
+      "Commercial interiors resilience",
+      "Residential remodeling softness",
+      "Transportation-cycle exposure",
+      "Sustainability and recycled-content claims",
+      "Biobased laminate positioning",
+      "Low concentration and consolidation",
+      "Substitution from stone and wood",
+      "Regional distribution advantage"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline file: Laminated Plastics Manufacturing in the US, IBISWorld text export, last updated June 23, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/laminated-plastics-manufacturing-in-the-us.txt'}",
+      "{'name': 'US Census Bureau, Value of Construction Put in Place, June 2026 release dated August 3, 2026', 'url': 'https://www.census.gov/construction/c30/pdf/totsa.pdf'}",
+      "{'name': 'Federal Reserve, Industrial Production and Capacity Utilization G.17 monthly supplement, July 17, 2026', 'url': 'https://www.federalreserve.gov/releases/g17/Current/table1b_sup.htm'}",
+      "{'name': 'BLS, Producer Price Index News Release, June 2026 results', 'url': 'https://www.bls.gov/news.release/ppi.htm'}",
+      "{'name': 'FRED / BLS, Producer Price Index by Industry: Plastics Material and Resin Manufacturing, June 2026', 'url': 'https://fred.stlouisfed.org/series/PCU325211325211'}",
+      "{'name': 'Cox Automotive, December 2025 US auto sales forecast and 2026 outlook', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-forecast-dec-2025-u-s-auto-sales-forecast/'}",
+      "{'name': 'Cox Automotive, 2026 automotive industry outlook, January 6, 2026', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-2026-outlook/'}",
+      "{'name': 'Formica Corporation, USDA Certified Biobased Product Label announcement, July 15, 2025', 'url': 'https://www.formica.com/en-us/press-room/biobased-product-label'}",
+      "{'name': 'Wilsonart, High Pressure Laminate product and sustainability positioning, 2026 crawl', 'url': 'https://www.wilsonart.com/laminate-surfaces'}",
+      "{'name': 'NAICS 326130 industry definition and representative businesses', 'url': 'https://www.naics.com/naics-code-description/?code=326130&v=2022'}"
+    ],
+    "one_sentence": "US laminated plastics manufacturers are benefiting from durable commercial and institutional retrofit demand and renewed 2025 vehicle production, but 2026 resin inflation and weaker residential construction are keeping real growth modest.",
+    "slug": "laminated-plastics-manufacturing-in-the-us"
+  },
+  {
+    "title": "Lamp & Lighting Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty lighting showrooms are a shrinking brick-and-mortar retail niche pressured by e-commerce, big-box home centers and a slower housing cycle.",
+    "overview": "The industry remains fragmented and local, with independent lighting showrooms competing on product curation, design advice, special orders, delivery and installation coordination. The baseline 2022 IBIS file described a declining industry with 2021 revenue of $4.388 billion and a forecast drop toward about $4.1 billion by 2026 as e-commerce and big-box retailers took share. Current 2025-2026 indicators support that direction: 2025 housing starts were below 2022 levels, May 2026 starts were down year over year, and online retail continued to outgrow total retail. Remodeling spending is still large and nominally growing, but Harvard JCHS projected slower growth through 2026-2027, limiting volume growth for specialty lighting stores.",
+    "key_stats": {
+      "market_size": "2026 forecast: about $4.1 billion in US specialty lamp and lighting store revenue, based on the 2022 IBIS baseline outlook.",
+      "growth": "2021-2026 forecast CAGR: about -1.4% from the 2022 IBIS baseline.",
+      "profit_margin": "2026 forecast: about 2.5% EBIT margin from the 2022 IBIS baseline.",
+      "employment": "2026 forecast: about 29,924 employees from the 2022 IBIS baseline.",
+      "enterprises": "2026 forecast: about 11,820 businesses from the 2022 IBIS baseline.",
+      "ecommerce_context": "2026 Q1 US retail e-commerce sales were $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "housing_context": "2025 US housing starts totaled 1.3557 million units, down from 1.5526 million in 2022; May 2026 housing starts were 1.177 million SAAR, down 8.7% from May 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimate: about $4.33 billion, inferred from 2021 revenue of $4.388 billion and the baseline 2021-2026 decline path.",
+      "growth": "2022 estimate: about -1.4%, aligned with the baseline 2021-2026 forecast decline.",
+      "revenue_2021": "2021: $4.388 billion.",
+      "profit_margin_2021": "2021: 2.6%.",
+      "establishments_2021": "2021: 17,037 establishments.",
+      "enterprises_2021": "2021: 13,102 enterprises.",
+      "employment_2021": "2021: 32,059 employees.",
+      "product_mix_2021": "2021: lamps 42.0%, indoor lighting fixtures 36.5%, outdoor lighting fixtures 21.5%."
+    },
+    "how_it_makes_money": "Stores earn retail gross margin by buying lamps, luminaires and fixtures from manufacturers or wholesalers and reselling them through showrooms, websites and special-order channels. Higher-value sales come from decorative and design-led products such as chandeliers, statement pendants, recessed systems, landscape lighting and smart/LED fixtures, often supported by advice, project quoting, delivery and installer referrals.",
+    "cost_structure": "The largest cost is merchandise purchases, followed by store labor, rent, utilities, freight, credit-card fees, marketing and website operations. The 2022 baseline showed a thin 2021 EBIT margin of 2.6% and a 2026 forecast margin of 2.5%, so pricing discipline, inventory turns, supplier terms and rent exposure are central to profitability.",
+    "major_players": [
+      "Lamps Plus",
+      "Capitol Lighting / 1800Lighting",
+      "Lightology",
+      "Independent local lighting showrooms",
+      "Regional design-center lighting retailers"
+    ],
+    "current_dynamics": "Specialty stores are squeezed between low-price, high-convenience channels and consumers who still value in-person inspection for style, scale, finish and color temperature. Big-box home improvement retailers and Amazon capture commodity bulbs and fixtures, while specialty retailers defend premium categories through showroom experience, design support, custom ordering and local installer relationships. Demand is mixed: nominal retail spending remains positive in 2026, but furniture and home furnishings retail signals have been uneven, housing starts are below 2022 levels, and remodeling growth is expected to slow.",
+    "whats_growing": "Smart lighting, LED-integrated fixtures, outdoor and landscape lighting, premium decorative pendants, statement chandeliers, trade-designer relationships, omnichannel showroom sales, online quoting, and replacement demand tied to aging housing stock are the healthier pockets. Energy-efficient products benefit from higher electricity costs and consumer interest in lower operating costs.",
+    "whats_shrinking": "Commodity table lamps, basic fixtures, replacement purchases that can be handled online, purely local stores without digital catalogs, and sales tied to new-home construction are under pressure. Foot-traffic-dependent showrooms are also losing share to big-box retailers, marketplaces and direct-to-consumer lighting brands.",
+    "recent_developments": [
+      "2025: US housing starts totaled 1.3557 million units, down from 1.5526 million in 2022.",
+      "2025-10-16: Harvard JCHS projected homeowner improvement and repair spending would reach $524 billion in early 2026, with growth easing to 1.9% by 2026 Q3.",
+      "2026-05-18: Census reported 2026 Q1 US retail e-commerce sales of $326.7 billion, up 9.8% year over year and 16.9% of total retail sales.",
+      "2026-06-16: Census reported May 2026 housing starts at 1.177 million SAAR, down 8.7% from May 2025.",
+      "2026-07-16: Census reported June 2026 US retail and food services sales of $768.6 billion, up 6.7% year over year; furniture and home furnishings stores were $11.3 billion not adjusted.",
+      "2026-07-23: Harvard JCHS said remodeling spending was poised for further slowdown through mid-2027."
+    ],
+    "outlook": "The 2026 outlook is cautious. Specialty lighting stores should remain a declining or low-growth channel even if nominal remodeling dollars stay high, because e-commerce, big-box retailers and direct-to-consumer brands keep eroding traffic and price power. Survivors are likely to be showrooms with strong local designer relationships, differentiated premium inventory, fast online discovery, special-order capability and disciplined inventory management. A recovery in housing turnover would help, but the 2025-2026 data point to slow unit demand rather than a broad rebound.",
+    "themes": [
+      "Housing-cycle exposure",
+      "E-commerce substitution",
+      "Big-box competition",
+      "Premium showroom differentiation",
+      "LED and smart-lighting adoption",
+      "Outdoor living and landscape lighting",
+      "Thin margins",
+      "Fragmented independents",
+      "Omnichannel retailing"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/lamp-and-lighting-stores.txt",
+      "U.S. Census Bureau Quarterly Retail E-Commerce Sales, 2026 Q1: https://www.census.gov/retail/eCommerce.html",
+      "FRED / U.S. Census Bureau E-Commerce Retail Sales, 2026 Q1: https://fred.stlouisfed.org/series/ECOMSA",
+      "FRED / U.S. Census Bureau E-Commerce Share of Retail Sales, 2026 Q1: https://fred.stlouisfed.org/series/ECOMPCTNSA",
+      "U.S. Census Bureau New Residential Construction, May 2026: https://www.census.gov/construction/nrc/current/",
+      "FRED / Census-HUD Housing Starts Annual Data, 2025: https://fred.stlouisfed.org/series/HOUSTNSA",
+      "Harvard Joint Center for Housing Studies LIRA, 2025-10-16 release: https://www.jchs.harvard.edu/press-releases/remodeling-expected-continue-slow-steady-growth-next-year",
+      "Harvard Joint Center for Housing Studies LIRA, 2026-07-23 release page: https://www.jchs.harvard.edu/research-areas/remodeling/lira",
+      "U.S. Census Bureau Advance Monthly Retail Sales, June 2026: https://www.census.gov/retail/sales.html",
+      "FRED / Census Advance Retail Sales for Furniture and Home Furnishings Stores, June 2026: https://fred.stlouisfed.org/series/RSFHFSN/",
+      "NAICS 449129 description and Lamps Plus profile context: https://www.naics.com/naics-code-description/?code=449129&v=2022"
+    ],
+    "one_sentence": "Lamp & Lighting Stores sell decorative lamps, chandeliers, ceiling, wall, outdoor and specialty lighting fixtures mainly to homeowners, with demand tied to remodeling, residential construction, disposable income and consumers' willingness to buy higher-touch design products in-store.",
+    "slug": "lamp-and-lighting-stores"
+  },
+  {
+    "title": "Land Development in the US",
+    "sector": "Real Estate",
+    "one_liner": "Land developers prepare raw land for residential, commercial and industrial construction, but high financing costs and weak builder confidence are keeping 2025-2026 activity uneven.",
+    "overview": "Operators buy, entitle, subdivide and service raw land before selling finished lots or prepared sites to homebuilders, apartment developers, commercial builders and industrial users. Typical work includes securing approvals, grading, installing roads and sidewalks, coordinating utilities and subcontracting excavation or engineering. The industry excludes companies that mainly provide standalone site-preparation contracting or legal subdivision services, and it has structurally shrunk as large homebuilders and commercial developers internalize land acquisition and development. In 2026, demand is bifurcated: residential lot pipelines still matter because the US housing shortage is persistent, while office-oriented land demand remains selective and many speculative projects are harder to finance.",
+    "key_stats": {
+      "market_size": "Estimated 2026 revenue: $12.0 billion",
+      "growth": "Estimated 2026 revenue growth: -1.5% year over year",
+      "profit_margin": "Estimated 2026 EBIT margin: 18.5%",
+      "employment": "Estimated 2026 employment: about 27,000 workers",
+      "establishments": "Estimated 2026 establishments: about 11,900",
+      "downstream_indicator": "June 2026 private residential construction spending: $877.1 billion SAAR; June 2026 private nonresidential construction spending: $745.3 billion SAAR",
+      "housing_indicator": "June 2026 housing starts: 1.427 million SAAR; June 2026 permits: 1.367 million SAAR",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $12.168 billion",
+      "growth": "2022 revenue growth: -8.8%",
+      "profit": "2022 profit: $2.421 billion",
+      "profit_margin": "2022 profit margin: 19.9%",
+      "industry_gross_product": "2022 industry gross product: $4.620 billion",
+      "establishments": "2022 establishments: 12,964",
+      "enterprises": "2022 enterprises: 8,517",
+      "employment": "2022 employment: 28,831",
+      "wages": "2022 wages: $1.785 billion"
+    },
+    "how_it_makes_money": "Revenue comes from selling entitled and improved residential lots, selling prepared commercial or industrial parcels, charging development or project-management fees on customer-owned land, receiving reimbursement for utility or infrastructure improvements, and occasionally selling larger tracts after entitlement value has been created.",
+    "cost_structure": {
+      "largest_costs": "Land acquisition, development infrastructure, subcontracted excavation, surveying, engineering, utility work, permitting, interest carry and property taxes dominate project economics.",
+      "labor": "Wages are moderate relative to revenue because much field work is subcontracted; the 2022 baseline reported $1.785 billion in wages on $12.168 billion of revenue.",
+      "purchases_and_subcontracts": "Materials, roadwork, utility installation, construction machinery services, excavation contractors and professional services are major variable costs.",
+      "financing": "Debt costs are critical because land is capital intensive and cash flows often arrive only after entitlement and lot sale closings.",
+      "profit": "Profitability is high versus many construction services when land appreciation and entitlement execution are favorable, but margins compress when borrowing costs rise, approvals slow or finished-lot demand weakens."
+    },
+    "major_players": [
+      "Forestar Group Inc.",
+      "D.R. Horton-affiliated land development operations",
+      "Howard Hughes Holdings Inc.",
+      "Five Point Holdings LLC",
+      "Brookfield Properties development operations",
+      "Hines development operations"
+    ],
+    "current_dynamics": "The 2026 market is being pulled in opposite directions. Housing undersupply, multifamily absorption and selective industrial demand support land entitlement and finished-lot activity, while elevated mortgage rates, high land prices, construction-cost pressure and weaker builder confidence limit starts and make lenders more cautious. Public construction and infrastructure work can improve local site economics, but private construction spending was down year over year in June 2026 and office development pipelines remain historically thin despite improving office absorption.",
+    "whats_growing": [
+      "Finished lots for production builders in affordable and move-up price bands",
+      "Entitled residential land in Sun Belt and suburban growth corridors where builders still need controlled lot supply",
+      "Multifamily redevelopment and infill sites in markets where 2026 absorption is improving and deliveries are slowing",
+      "Data-center, logistics, utility-served and infrastructure-adjacent land where power, water and permitting access create scarcity value",
+      "Projects with public improvement districts, utility reimbursements or phased lot takedowns that reduce upfront capital exposure"
+    ],
+    "whats_shrinking": [
+      "Speculative raw-land banking financed with short-term or floating-rate debt",
+      "Office-oriented greenfield development, as the Q2 2026 office construction pipeline remained far below 2020 levels",
+      "Small independent developers that cannot match integrated builders' capital access or land teams",
+      "High-cost single-family communities where mortgage rates and affordability weaken buyer traffic",
+      "Projects dependent on fast entitlement approvals in jurisdictions with zoning, environmental or infrastructure bottlenecks"
+    ],
+    "recent_developments": [
+      "2025-10-28: Forestar reported fiscal 2025 revenue of $1.662 billion, up 10% from fiscal 2024, while lots sold fell 5% to 14,240.",
+      "2026-07-17: Census reported June 2026 housing starts of 1.427 million SAAR, up 3.5% from June 2025, but permits of 1.367 million SAAR, down 2.3% from June 2025.",
+      "2026-07-21: Forestar reported fiscal Q3 2026 revenue of $407.0 million, up 4% year over year, with 91,700 owned and controlled lots.",
+      "2026-07-29: The Federal Reserve held the federal funds target range at 3.50%-3.75%, keeping financing costs elevated for land acquisition and development.",
+      "2026-07-29: CBRE reported Q2 2026 US office vacancy at 18.3% and office space under construction at 15.4 million square feet, down 87% from the Q2 2020 peak.",
+      "2026-08-03: Census reported June 2026 construction spending of $2.1665 trillion SAAR, down 3.2% from June 2025, with first-half 2026 spending down 3.5% from first-half 2025."
+    ],
+    "outlook": "Through 2026, revenue is likely to remain near the 2022 baseline rather than break out, with low-single-digit contraction or flat growth depending on mortgage rates and local housing demand. Finished residential lots should outperform raw speculative land because builders prefer controlled, phased supply over large balance-sheet commitments. Multifamily and select industrial land should improve where absorption is strengthening, but office-heavy pipelines will remain limited. If borrowing costs fall materially after 2026, land-option activity and entitlement backlogs could recover before construction starts do; if rates stay elevated, consolidation and builder-integrated land development will continue to pressure independent operators.",
+    "themes": [
+      "Housing affordability",
+      "Interest-rate sensitivity",
+      "Finished-lot scarcity",
+      "Builder integration",
+      "Entitlement and zoning constraints",
+      "Infrastructure and utility access",
+      "Office development reset",
+      "Multifamily stabilization",
+      "Fragmented competition",
+      "Capital-light land options"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/land-development-in-the-us.txt",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "https://www.nahb.org/news-and-economics/press-releases/2026/07/builder-sentiment-stays-weak-as-affordability-concerns-persist",
+      "https://investor.forestar.com/press-releases/2025/10-28-2025-103031955",
+      "https://investor.forestar.com/press-releases/2026/07-21-2026-113026485",
+      "https://www.cbre.com/insights/figures/q2-2026-us-office-market-report",
+      "https://www.cbre.com/press-releases/us-multifamily-market-stabilizes-as-apartment-demand-improves-and-new-construction-slows"
+    ],
+    "one_sentence": "The US land development industry remains a fragmented, low-concentration real estate niche whose 2026 demand is supported by long-term housing undersupply and multifamily absorption but constrained by elevated interest rates, high land costs, lower construction spending and competition from integrated builders.",
+    "slug": "land-development-in-the-us"
+  },
+  {
+    "title": "Landscape Design in the US",
+    "sector": "Business Services",
+    "one_liner": "A fragmented professional-services industry tied to construction cycles, outdoor living demand and public investment in parks, streetscapes and climate-resilient infrastructure.",
+    "overview": "Landscape design covers planning and designing land areas for homes, campuses, parks, highways, schools, subdivisions and commercial or industrial sites; it excludes routine lawn care and landscape maintenance. The 2022 IBISWorld baseline put industry revenue at $7.035 billion, while 2025 public market references point to a larger current market near $9.3 billion depending on whether broader design-build activity is included. The industry remains highly fragmented, with many sole proprietors and small studios serving homeowners and local developers, while larger architecture, engineering and design firms compete for complex institutional, commercial and public-sector work.",
+    "key_stats": {
+      "market_size": "2025: $9.3 billion US landscape design market; separate Kentley estimate reported 2024 industry revenue of $7.7 billion.",
+      "growth": "2025: 2.5% projected annual growth; 2020-2025 CAGR cited at 3.6% by IBISWorld-derived public references, while Kentley reported 8.0% average annual growth over 2019-2024.",
+      "employment": "2024: BLS reported 21,800 landscape architect jobs, with 2024-2034 employment projected to grow 3%.",
+      "pay": "2024: BLS median annual wage for landscape architects was $79,660.",
+      "businesses": "2024: Kentley reported 6,501 companies and top-four share of 4.8%; IBISWorld-derived public references cite 46,699 businesses in 2025, likely including a broader operator universe.",
+      "professional_hiring": "2026: 71% of Houzz outdoor renovators hired a professional, up from 65% in 2024; 15% hired a landscape architect or designer.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $7.035 billion revenue in 2022 dollars.",
+      "growth": "2022: revenue increased 0.8%; 2017-2022 CAGR was 1.8%.",
+      "profit": "2022: $619 million profit, equal to an 8.8% margin.",
+      "wages": "2022: $2.572 billion wages, equal to about 36.6% of revenue.",
+      "employment": "2022: 65,143 workers in the IBISWorld industry definition.",
+      "enterprises": "2022: 42,642 enterprises; establishments were 42,761.",
+      "products_services": "2022: residential building landscape design 28.0%, nonresidential building landscape design 20.4%, recreational/open space 17.8%, urban planning 10.2%, other services 23.6%."
+    },
+    "how_it_makes_money": "Firms earn fees from concept plans, site analysis, master planning, planting and hardscape plans, grading/drainage coordination, construction documents, permitting support, bid assistance and construction observation. Revenue is generated from homeowners, residential developers, commercial property owners, institutions, hospitality and recreation operators, architects, engineers, contractors and public agencies funding parks, streetscapes, highways and urban planning projects.",
+    "cost_structure": {
+      "labor": "2022: wages were $2.572 billion, about 36.6% of revenue; skilled licensed labor is the largest cost category.",
+      "profit": "2022: EBIT profit margin was 8.8%; IBISWorld baseline expected 2027 margin of 9.7% if demand and pricing improved.",
+      "technology_and_professional_services": "2024: Kentley reported professional services at 9.4% of expenses; design software, rendering, GIS, surveying and subcontracted engineering support are recurring costs.",
+      "insurance_and_compliance": "2024: Kentley reported health insurance at 3.6% of expenses; professional liability, licensing, continuing education and permitting support are important overhead items.",
+      "capital_intensity": "2022: low capital intensity; work depends more on licensed design labor and software than heavy equipment."
+    },
+    "major_players": [
+      "No single national operator has material share; the industry is fragmented.",
+      "2024: Kentley reported the top four companies held 4.8% market share.",
+      "Large multidisciplinary or landscape architecture practices competing for complex work include AECOM, Stantec, HDR, Gensler, HOK, Sasaki, SWA Group, Design Workshop and EDSA.",
+      "BrightView and other design-build landscaping firms compete where design is bundled with installation and maintenance."
+    ],
+    "current_dynamics": "Demand is mixed in 2025-2026. Residential outdoor projects remain resilient because homeowners continue investing in comfort, low-maintenance plantings, hardscaping and outdoor living zones. Public work is supported by parks, streetscape, transportation and resilience spending. Commercial and developer-led projects face more caution because high interest rates, tighter credit and soft architecture billings have delayed some new work. Firms with climate adaptation, stormwater, native planting, water efficiency, GIS/BIM visualization and public-sector procurement capabilities are better positioned than small studios dependent on discretionary high-end residential work alone.",
+    "whats_growing": [
+      "2026: outdoor living design, including lounge, dining, cooking and retreat zones.",
+      "2026: professional involvement in homeowner outdoor renovations, with 71% hiring a pro.",
+      "2026: low-maintenance, native, drought-resistant and pollinator-friendly planting plans.",
+      "2025-2026: public-sector resilience, stormwater, urban greening, parks and streetscape planning.",
+      "2025-2026: 3D visualization, GIS, BIM-adjacent workflows and client-facing design software."
+    ],
+    "whats_shrinking": [
+      "2026: natural-grass lawn replacement share declined in Houzz outdoor projects, while synthetic turf, hardscaping and mulch gained.",
+      "2025-2026: resale-driven outdoor renovations weakened as more homeowners prioritized personal use.",
+      "2025: architecture firm billings stayed soft, reducing near-term leads for some commercial site design work.",
+      "2025-2026: discretionary residential design is more exposed to elevated mortgage rates and home sales softness.",
+      "2025-2026: price-only competition remains difficult for small firms facing wage and software overhead."
+    ],
+    "recent_developments": [
+      "2025-03: AIA reported March 2025 Architecture Billings Index at 44.1, signaling softer design pipelines for building-adjacent work.",
+      "2025-06: Public IBISWorld-derived references cited the US landscape design market at $9.3 billion in 2025 with 2.5% annual growth.",
+      "2025-08: BLS updated its outlook, reporting 21,800 landscape architect jobs in 2024 and 3% projected employment growth for 2024-2034.",
+      "2025-10: Barnes Reports published a 2026 US Landscape Architectural Services market report covering 2026 and 2027 sales, establishments and employment estimates for NAICS 54132.",
+      "2026-06: Houzz reported 71% of outdoor renovators hired a professional, up from 65% in 2024, and 15% hired a landscape architect or designer.",
+      "2026-06: Census construction spending at-a-glance showed June 2026 construction spending data, keeping public and private construction indicators central to demand tracking."
+    ],
+    "outlook": "The industry should grow modestly through 2026 as public infrastructure, climate-resilience design and homeowner outdoor living projects offset softness in interest-rate-sensitive residential turnover and commercial development. The best opportunities are in resilient landscapes, water-efficient design, parks and recreation, streetscapes, institutional campuses and higher-value residential outdoor living. Labor availability, licensing requirements, client budget pressure and delayed construction starts remain the main constraints.",
+    "themes": [
+      "Outdoor living",
+      "Climate resilience",
+      "Water efficiency",
+      "Native and drought-resistant planting",
+      "Public parks and streetscapes",
+      "Fragmented small-firm competition",
+      "Design-build convergence",
+      "3D visualization and GIS",
+      "High interest-rate drag",
+      "Skilled labor scarcity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/landscape-design-in-the-us.txt",
+      "https://www.kentleyinsights.com/Landscape-Design-industry-market-research-report/",
+      "https://www.ebdstudios.com/blog/landscape-design-statistics-and-trends",
+      "https://www.bls.gov/ooh/architecture-and-engineering/landscape-architects.htm",
+      "https://www.census.gov/naics/?chart=2017&details=541320&input=541320",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://www.census.gov/construction/c30/historical_data.html",
+      "https://www.houzz.com/magazine/2026-u-s-houzz-outdoor-trends-study-stsetivw-vs~185306879",
+      "https://www.aia.org/resource-center/abi-march-2025-business-conditions-architecture-firms-soften-further",
+      "https://www.asla.org/biodiversityandclimateactionsurveys"
+    ],
+    "one_sentence": "US landscape design firms plan and design residential, commercial, recreational and civic outdoor spaces, with demand supported by outdoor living upgrades and resilience work but constrained by elevated borrowing costs and softer architecture/construction pipelines.",
+    "slug": "landscape-design-in-the-us"
+  },
+  {
+    "title": "Landscaping Services in the US",
+    "sector": "Business Services",
+    "one_liner": "A fragmented, labor-intensive property services market supported by outsourced grounds maintenance, commercial contracts, housing stock and outdoor-living demand.",
+    "overview": "The industry provides landscape care, lawn maintenance, planting, irrigation, snow removal, tree care, pest and weed control, and design-build-installation services for residential, commercial, institutional and government properties. In 2025, NALP, citing IBISWorld, placed US landscape services market size at $188.8 billion, with more than 1.4 million industry workers and 692,777 landscaping service businesses. The baseline IBISWorld report framed the industry as mature and highly fragmented, with commercial maintenance the largest product line and low barriers to entry supporting a long tail of small operators. Current conditions are mixed: recurring maintenance, affluent household demand, public grounds work and snow services provide resilience, but single-unit housing and some nonresidential construction softness reduce installation and development opportunities.",
+    "key_stats": {
+      "market_size": "2025 US landscape services market size: $188.8 billion.",
+      "growth": "2020-2025 average annual market-size growth: 6.5%; 2024-2025 business-count growth: 4.8%.",
+      "businesses": "2025 landscaping service businesses: 692,777.",
+      "employment": "2025 industry employment cited by NALP/IBISWorld: more than 1.4 million workers; May 2025 BLS employment for landscaping and groundskeeping workers: 952,640.",
+      "wages": "May 2025 BLS mean wage for landscaping and groundskeeping workers: $20.33 per hour and $42,290 per year.",
+      "construction_indicator": "June 2026 total US construction spending: $2.1665 trillion SAAR, down 3.2% from June 2025; June 2026 private residential construction: $877.1 billion SAAR; June 2026 private nonresidential construction: $745.3 billion SAAR.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "IBISWorld baseline updated June 23, 2022: 2021 revenue of $114.6 billion in 2021 dollars.",
+      "growth": "IBISWorld baseline: 2021 revenue growth of 5.3%; 2016-2021 revenue CAGR of 5.1%; 2021-2026 forecast CAGR of 2.4% to $129.2 billion by 2026.",
+      "profit": "IBISWorld baseline: 2021 profit margin of 8.1%, recovering from 5.4% in 2020.",
+      "employment": "IBISWorld baseline: 2021 employment of 1,236,537 workers and 615,458 enterprises.",
+      "segments": "IBISWorld baseline 2021 service mix: commercial maintenance and general services 52.3%, residential maintenance and general services 33.2%, design-build-installation 9.2%, arborist and other services 5.3%."
+    },
+    "how_it_makes_money": "Operators earn revenue from recurring mowing, groundskeeping, fertilization, weed and pest control, irrigation, pruning, tree care, snow and ice removal, landscape enhancements, and design-build-installation projects. Commercial and institutional customers often buy multi-property or multi-year maintenance contracts, while residential customers buy recurring lawn care, seasonal cleanup, enhancements and project work.",
+    "cost_structure": "Labor is the dominant cost because crews perform most work onsite and seasonality drives hiring pressure. Other major costs include vehicles, equipment, fuel, repairs, plants, mulch, fertilizer, pesticides, insurance, subcontractors, rent, sales and administration. Public-company data show the pressure: BrightView's fiscal Q2 2026 cost of services was $565.2 million on $702.9 million of net service revenue, while Davey Tree reported 2025 operating expenses equal to 66.8% of revenue and cited labor, benefits, subcontractors, materials and equipment as cost drivers.",
+    "major_players": [
+      "BrightView Holdings: fiscal 2025 revenue of $2.6728 billion; fiscal Q2 2026 revenue of $702.9 million and updated fiscal 2026 guidance of $2.745 billion to $2.795 billion.",
+      "The Davey Tree Expert Company: 2025 revenue of $1.9480 billion, including 2025 US revenue of $1.8388 billion.",
+      "TruGreen: large national residential lawn-care brand focused on fertilization, weed control, pest control and recurring residential service plans.",
+      "Mariani Premier Group: private premium residential and commercial landscape platform active in consolidation.",
+      "Yellowstone Landscape: large commercial grounds maintenance and landscape services operator serving multi-site property customers."
+    ],
+    "current_dynamics": "Recurring maintenance is steadier than installation, but commercial landscapers are still exposed to office, retail, resort, municipal and construction cycles. In 2026, NALP described the year as mild to moderate growth with wide regional variation and construction softness in single-unit housing and nonresidential work. Labor remains the operating constraint, with NALP identifying qualified employees and profit maintenance as top concerns and expecting labor costs to rise roughly 20% through the end of 2029. Weather remains a swing factor: BrightView's fiscal Q2 2026 results were lifted by snow removal revenue, while development services fell because of project timing and mix.",
+    "whats_growing": "Commercial and institutional recurring maintenance, ancillary enhancement work, snow and ice management in active winter markets, tree and plant care, outdoor lighting, curb-appeal plantings, water-smart irrigation, HOA and multi-family grounds contracts, and outsourced services for aging or higher-income households are growing. Consolidators and large regional platforms are also gaining scale through acquisitions and salesforce investment.",
+    "whats_shrinking": "Construction-linked design-build-installation is under more pressure where single-family starts, private nonresidential projects or discretionary renovation budgets soften. Lower-income residential discretionary yard services are more exposed to inflation in housing and essentials. Smaller operators face margin compression from labor, insurance, equipment and materials costs, even when revenue is growing.",
+    "recent_developments": [
+      "2025: NALP/IBISWorld reported US landscape services market size of $188.8 billion, 692,777 businesses and more than 1.4 million workers.",
+      "2025: NALP reported 2020-2025 market-size growth averaged 6.5% per year and 2024-2025 business count increased 4.8%.",
+      "Nov. 19, 2025: BrightView reported fiscal 2025 revenue of $2.6728 billion, down 3.4% from fiscal 2024, and issued fiscal 2026 revenue guidance of $2.670 billion to $2.730 billion.",
+      "Feb. 3, 2026: DHS and DOL authorized up to 64,716 additional FY2026 H-2B visas, relevant for seasonal landscaping labor availability.",
+      "May 5, 2026: BrightView reported fiscal Q2 2026 revenue of $702.9 million, up 6.1% year over year, and raised fiscal 2026 revenue guidance to $2.745 billion to $2.795 billion.",
+      "Aug. 3, 2026: Census reported June 2026 construction spending of $2.1665 trillion SAAR, down 3.2% from June 2025, signaling a softer construction backdrop for installation work."
+    ],
+    "outlook": "The 2026 outlook is positive but slower and more uneven than the 2020-2025 rebound. Maintenance demand should remain resilient because grass, trees, irrigation systems and commercial grounds require recurring care, but installation and development services are more vulnerable to construction softness and household budget pressure. Operators with route density, recurring contracts, pricing discipline, labor pipelines, fleet efficiency and exposure to commercial, HOA, municipal and snow services should outperform. Margin expansion will depend on passing through wage, insurance, materials and equipment costs while avoiding underpriced contracts.",
+    "themes": [
+      "Fragmented market with low barriers to entry",
+      "Recurring maintenance resilience",
+      "Labor scarcity and wage inflation",
+      "Commercial and HOA outsourcing",
+      "Construction-linked installation softness",
+      "Weather-driven snow and storm volatility",
+      "Consolidation among scaled platforms",
+      "Water efficiency and climate-adapted landscaping",
+      "Outdoor living and curb appeal",
+      "Equipment, fuel and insurance cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/landscaping-services-in-the-us.txt",
+      "https://www.landscapeprofessionals.org/LP/LP/Media/landscape-industry-statistics.aspx",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://www.bls.gov/news.release/ocwage.htm",
+      "https://investor.brightview.com/press-releases/press-release-details/2026/BrightView-Reports-2Q26-Results-With-Land-Maintenance-Revenue-Growth--Record-Adjusted-EBITDA-Raises-FY26-Revenue-Guidance/default.aspx",
+      "https://investor.brightview.com/press-releases/press-release-details/2025/BrightView-Posts-Q4-and-FY-2025-Earnings-With-Record-Adjusted-EBITDA-Projects-Fiscal-Year-2026-Revenue-Adjusted-EBITDA-and-Margin-Growth-Increases-Existing-Share-Repurchase-Authorization/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/277638/000162828026015920/davey-20251231.htm",
+      "https://regulations.justia.com/regulations/fedreg/2026/02/03/2026-02131.html"
+    ],
+    "one_sentence": "US landscaping services remain a large, low-concentration industry where recurring maintenance and enhancement work offsets softer construction-linked installation demand, while labor availability, wage inflation and weather volatility shape margins.",
+    "slug": "landscaping-services-in-the-us"
+  }
+]

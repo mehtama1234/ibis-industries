@@ -1,0 +1,440 @@
+[
+  {
+    "title": "VoIP in the US",
+    "sector": "Technology & Digital",
+    "one_liner": "US VoIP is a mature, intensely competitive communications market where legacy fixed voice is shrinking but cloud business phone, UCaaS, AI voice automation and contact-center bundles are still expanding.",
+    "overview": "VoIP providers convert voice into IP data and sell consumer, business and government calling services over broadband, cable networks, mobile apps and cloud platforms. The 2022 IBIS baseline framed the industry as a $17.031 billion 2021 market that benefited from 2020 remote-work demand, but public 2025 IBIS excerpts show a sharper post-pandemic reset, with narrow US VoIP revenue expected at $11.5 billion in 2023 after a 1.4% five-year CAGR decline and a 0.6% 2023 decline. The underlying user base also points to maturity: FCC-linked data show 64 million interconnected VoIP subscriptions in December 2024, down at a 2.1% CAGR from 2021 to 2024, while mobile voice subscriptions rose to 391 million. Growth is therefore concentrated less in standalone residential voice and more in cloud business communications, Teams Phone, Zoom Phone, RingCentral, 8x8 and carrier/cable business services that bundle calling with messaging, meetings, contact center, analytics and AI agents.",
+    "key_stats": {
+      "market_size": "2023 narrow US VoIP industry revenue: $11.5 billion; 2025 broader US business VoIP services estimate: $36.9 billion",
+      "growth": "2023 narrow US VoIP industry growth: -0.6%; 2018-2023 narrow US VoIP CAGR: -1.4%; 2025-2032 broader US business VoIP services forecast CAGR: about 13.5%",
+      "subscriptions": "2024 FCC-linked count: 64 million US interconnected VoIP subscriptions, 16 million switched access lines and 391 million mobile subscriptions",
+      "wireline_mix": "2024 FCC-linked count: 80 million US wireline retail voice connections, with 35% residential and 65% business",
+      "profit_margin": "2023 narrow US VoIP industry profit margin: 10.2%; 2021 baseline profit margin: 14.8%",
+      "employment": "2021 baseline employment: 33,323 workers; 2026 baseline forecast employment: 34,893 workers",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 revenue: $17.031 billion in 2021 dollars",
+      "growth": "2021 revenue growth: 4.9%; 2016-2021 CAGR: 2.1%; 2021-2027 projected CAGR: 1.25%",
+      "profit": "2021 profit: $2.521 billion; 2021 profit margin: 14.8%",
+      "establishments": "2021 establishments: 1,431",
+      "enterprises": "2021 enterprises: 156",
+      "employment": "2021 employment: 33,323",
+      "forecast": "2026 forecast revenue in the baseline: $18.1 billion"
+    },
+    "how_it_makes_money": "Operators earn recurring subscription fees for hosted PBX, SIP trunking, cloud phone seats, residential digital voice, bundled cable voice, virtual numbers, domestic and international calling plans, toll-free services, SMS, fax, conferencing, contact-center seats, usage-based minutes, implementation, support, compliance and add-on AI features. Cable and telecom operators often treat VoIP as part of a broadband bundle, while software-led providers monetize per-user subscriptions and higher-value packages that combine phone, meetings, messaging, analytics and customer engagement workflows.",
+    "cost_structure": "The main costs are network interconnection and termination, cloud hosting and data-center capacity, software engineering, security, customer support, sales and partner commissions, number administration, regulatory compliance, E911, STIR/SHAKEN, carrier fees, payment processing and customer acquisition. Profitability varies by mix: software-led cloud providers can show high gross margins, but narrow industry profit compressed from a 2021 baseline margin of 14.8% to a public IBIS 2023 projection of 10.2% as pricing pressure, churn and competition intensified.",
+    "major_players": [
+      "Microsoft Teams Phone",
+      "Zoom Communications",
+      "RingCentral",
+      "Comcast Business and Xfinity Voice",
+      "Charter Spectrum Voice and Spectrum Business",
+      "8x8",
+      "Vonage/Ericsson",
+      "Cisco Webex Calling",
+      "GoTo",
+      "Ooma"
+    ],
+    "current_dynamics": "The market is split between shrinking fixed residential voice and growing cloud enterprise communications. FCC-linked 2024 data show interconnected VoIP subscriptions declining at a 2.1% CAGR from 2021 to 2024, while cable operators reported further 2025 voice-customer declines. At the same time, Microsoft, Zoom, RingCentral and 8x8 are competing on AI receptionist, transcription, call summaries, contact-center automation, reliability, compliance, Teams/CRM integration and bring-your-own-carrier flexibility. Regulation is becoming more material as providers absorb STIR/SHAKEN, robocall mitigation, E911, outage reporting, direct-numbering and foreign-adversary ownership disclosure obligations.",
+    "whats_growing": [
+      "2025-2026 AI voice agents, AI receptionist, call summaries and workflow automation",
+      "2025-2026 cloud PBX replacements for legacy on-premise business phone systems",
+      "2025-2026 UCaaS bundles that combine phone, meetings, messaging and contact center",
+      "2025-2026 usage-based communications APIs, SMS, virtual numbers and toll-free services",
+      "2025-2026 enterprise deployments with Operator Connect, Direct Routing and bring-your-own-carrier models"
+    ],
+    "whats_shrinking": [
+      "2024-2025 residential fixed voice subscriptions",
+      "2024-2025 cable wireline voice customers at Charter and Comcast",
+      "2021-2024 interconnected VoIP subscriptions in the FCC-linked retail voice dataset",
+      "2023 standalone low-cost VoIP plans that compete only on cheap calling",
+      "2025 legacy switched access lines and traditional landline replacement demand"
+    ],
+    "recent_developments": [
+      "2025-06-24: CDC released 2024 NHIS wireless-substitution data, reinforcing continued household movement away from landline phone use.",
+      "2025-10-09: Zoom announced Zoom Phone surpassed 10 million global seats.",
+      "2026-01-29: Comcast reported 2025 domestic broadband customer losses and lower residential wireline voice revenue driven by fewer customers.",
+      "2026-01-30: Charter reported 6.0 million total wireline voice customers at December 31, 2025, down from 6.9 million in 2024, and 4Q25 voice revenue down 10.3% year over year.",
+      "2026-02-19: RingCentral reported 2025 revenue of $2.515 billion, up 5%, and said AI-led products reached $100 million in ARR.",
+      "2026-07-09: FCC proposed stronger Know-Your-Upstream-Provider and STIR/SHAKEN rules for voice providers to tighten robocall controls."
+    ],
+    "outlook": "Through 2026, the narrow VoIP industry is likely to remain mature and mixed: residential and cable voice will keep declining as mobile substitution deepens, but business VoIP will grow where it is sold as part of cloud communications, customer engagement and AI automation. Pricing power will depend on whether providers can move customers from commodity calling into integrated suites with measurable productivity, compliance and customer-service value. The best-positioned operators are those with large installed collaboration bases, carrier connectivity, robust E911/STIR/SHAKEN compliance, strong uptime and AI features that reduce labor in reception, support and sales workflows.",
+    "themes": [
+      "Post-landline transition",
+      "Cloud PBX replacement",
+      "AI voice automation",
+      "UCaaS consolidation",
+      "Contact-center convergence",
+      "Mobile substitution",
+      "Cable voice decline",
+      "Regulatory compliance",
+      "Robocall mitigation",
+      "Enterprise workflow integration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file, VoIP in the US, last updated January 26, 2022', 'year': '2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/voip-in-the-us.txt'}",
+      "{'name': 'ResearchAndMarkets listing for IBISWorld VoIP in the US report', 'year': '2025', 'url': 'https://www.researchandmarkets.com/report/united-states-voip-market'}",
+      "{'name': 'Benton Institute summary of FCC Voice Telephone Services: Status as of December 31, 2024', 'year': '2026', 'url': 'https://www.benton.org/headlines/voice-telephone-services-status-december-31-2024'}",
+      "{'name': 'CDC NHIS Early Release: Wireless Phone Use', 'year': '2025', 'url': 'https://www.cdc.gov/nchs/nhis/early-release/wireless-substitution.html'}",
+      "{'name': 'Zoom Communications FY2026 financial results', 'year': '2026', 'url': 'https://www.globenewswire.com/news-release/2026/02/25/3244997/0/en/Zoom-Communications-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results.html'}",
+      "{'name': 'Zoom Phone 10 million seats announcement', 'year': '2025', 'url': 'https://news.zoom.com/zoom-phone-hits-10-million-seats/'}",
+      "{'name': 'RingCentral FY2025 results', 'year': '2026', 'url': 'https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html'}",
+      "{'name': '8x8 FY2026 results', 'year': '2026', 'url': 'https://www.investors.8x8.com/news-releases/news-release-details/8x8-inc-reports-fourth-quarter-and-fiscal-year-2026-financial'}",
+      "{'name': 'Charter FY2025 results', 'year': '2026', 'url': 'https://ir.charter.com/news-releases/news-release-details/charter-announces-fourth-quarter-and-full-year-2025-results/'}",
+      "{'name': 'Comcast 2025 Form 10-K', 'year': '2026', 'url': 'https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm'}",
+      "{'name': 'Federal Register, FCC proposed KYUP and STIR/SHAKEN rule', 'year': '2026', 'url': 'https://regulations.justia.com/regulations/fedreg/2026/07/09/2026-13874.html'}",
+      "{'name': 'MarketResearch.com Business VoIP Services report listing', 'year': '2026', 'url': 'https://www.marketresearch.com/Market-Glass-Inc-v1039/Business-VoIP-Services-44933833/'}"
+    ],
+    "one_sentence": "The US VoIP industry has moved past its pandemic video-calling surge into a post-landline reset: residential and cable voice lines are declining, while enterprise cloud telephony platforms are monetizing AI, workflow integrations, PSTN replacement and contact-center features.",
+    "slug": "voip-in-the-us"
+  },
+  {
+    "title": "Vodka Distilleries",
+    "sector": "Food & Drink",
+    "one_liner": "US vodka distilleries remain a profitable but slower-growth spirits niche as 2025 vodka sales fell while RTD cocktails, trade uncertainty and premium-brand competition reshaped demand.",
+    "overview": "The US Vodka Distilleries industry produces vodka from fermented grains, potatoes and other feedstocks, then sells bottled or bulk spirits mainly through wine and spirits wholesalers. The 2021 IBISWorld baseline placed industry revenue at $3.568 billion and projected a 2021-2026 CAGR of 1.57% to about $3.9 billion in 2026, supported by premiumization, craft entrants and stable demand for cocktail bases. Current 2025-2026 data show a tougher category backdrop: DISCUS reported total US spirits supplier sales of $36.4 billion in 2025, down 2.2%, while vodka category sales totaled $7.0 billion, down 3.0%. Vodka remains the largest spirits category by revenue, but growth is shifting toward premixed cocktails and spirits RTDs, which reached $3.8 billion in 2025 and grew 16.4%.",
+    "key_stats": {
+      "market_size": "2026E US vodka distillery revenue: about $3.9 billion; 2025 broader US vodka category supplier sales: $7.0 billion",
+      "growth": "2021-2026E vodka distillery revenue CAGR: 1.57%; 2025 broader US vodka category revenue growth: -3.0%",
+      "profit_margin": "2026E industry EBIT margin: about 15.2% of revenue",
+      "establishments": "2026E establishments: about 658 companies/operators in the IBISWorld baseline outlook",
+      "employment": "2026E employment: about 4,160 workers in the IBISWorld baseline outlook",
+      "exports": "2025 US vodka exports: $282 million; 2024 US vodka exports: $292 million after an 82% year-over-year jump",
+      "broader_spirits_market": "2025 US spirits supplier sales: $36.4 billion, down 2.2%; volume: 318.1 million 9-liter cases, up 1.9%; spirits share of beverage alcohol: 42.4%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022E industry revenue: about $3.62 billion, inferred from the 2021 IBISWorld base of $3.568 billion and the 2021-2026 projected CAGR of 1.57%",
+      "growth": "2022E revenue growth: about 1.6%, consistent with the 2021-2026 IBISWorld projected CAGR",
+      "profit_margin": "2022E profit margin: roughly 15%, based on the 2021 margin of 15.1% and 2026E margin of 15.2%",
+      "domestic_demand": "2021 domestic demand baseline: $4.772 billion; imports accounted for about 27.0% of demand in 2021"
+    },
+    "how_it_makes_money": "Vodka distilleries earn revenue by distilling, proofing, filtering, flavoring and bottling vodka, then selling cases or bulk product to licensed wholesalers, private-label customers and brand owners. Higher-margin revenue comes from premium and ultra-premium brands, flavored extensions, craft positioning, limited releases, hospitality/tasting-room sales where allowed, and contract production for emerging spirits brands.",
+    "cost_structure": {
+      "purchases": "Large costs include grain, neutral spirits, potatoes or other fermentable inputs, bottles, closures, labels, cartons and flavorings; glass and packaging volatility can pressure margins.",
+      "wages": "Labor covers distilling, quality control, bottling, compliance, sales support and visitor/tasting operations for craft producers.",
+      "taxes_and_compliance": "Federal and state excise taxes, TTB permits, formulas, labels, records and reporting are material operating burdens in 2025-2026.",
+      "marketing_and_distribution": "Brand advertising, distributor incentives, on-premise promotion and retail merchandising are essential because vodka is brand-driven and shelf competition is intense.",
+      "utilities_and_depreciation": "Energy, water, filtration systems, tanks, bottling lines, warehouses and aging/storage space create high fixed costs despite vodka not requiring barrel aging.",
+      "profit": "IBISWorld baseline profit was 15.1% of revenue in 2021 and 15.2% projected for 2026."
+    },
+    "major_players": [
+      "Fifth Generation Inc. / Tito's Handmade Vodka",
+      "Diageo brands including Smirnoff and Ciroc",
+      "Pernod Ricard / Absolut",
+      "Bacardi / Grey Goose",
+      "Campari Group / Skyy Vodka",
+      "Heaven Hill Brands / Deep Eddy and Burnett's",
+      "Sazerac and other value/private-label vodka producers"
+    ],
+    "current_dynamics": "The industry is no longer riding only premiumization. In 2025, vodka remained the largest US spirits category at $7.0 billion, but revenue fell 3.0% as inflation, weaker consumer confidence, inventory normalization and competition from tequila, whiskey and RTDs pressured core bottles. Spirits RTDs are the clearest demand shift, reaching $3.8 billion in 2025 with 16.4% growth, creating both a threat to traditional vodka bottles and an opportunity for vodka-based canned cocktails. Export demand is mixed: vodka exports were $292 million in 2024 and $282 million in 2025, while broader US spirits exports fell 3.8% in 2025 amid Canadian shelf removals and unresolved tariff risk.",
+    "whats_growing": [
+      "Vodka-based and spirits-based RTDs, with premixed cocktails reaching $3.8 billion in 2025 and growing 16.4%",
+      "Premium, craft, gluten-free, organic, low-calorie and flavor-led products that give brands a point of differentiation",
+      "Export potential for US vodka, which reached $292 million in 2024 and remained $282 million in 2025",
+      "Marketplace modernization such as cocktails-to-go, third-party delivery and RTD retail-access reforms in 2025-2026"
+    ],
+    "whats_shrinking": [
+      "Traditional bottled vodka revenue in the broader US category, down 3.0% to $7.0 billion in 2025",
+      "Value and undifferentiated vodka brands as consumers either trade down selectively or shift to more convenient RTD formats",
+      "On-premise momentum for weaker brands as bars rationalize back bars and distributors manage high inventories",
+      "Export certainty in Canada-facing channels after 2025 provincial shelf removals of US spirits"
+    ],
+    "recent_developments": [
+      "2025-02-11: DISCUS reported 2024 US spirits supplier sales of $37.2 billion, down 1.1%, while vodka sales were flat at $7.2 billion.",
+      "2025-04-24: DISCUS reported 2024 US spirits exports hit $2.4 billion, with vodka exports up 82% to $292 million.",
+      "2026-02-05: DISCUS reported 2025 US spirits supplier sales fell 2.2% to $36.4 billion and vodka sales fell 3.0% to $7.0 billion.",
+      "2026-02-05: DISCUS reported 2025 premixed cocktails and spirits RTDs reached $3.8 billion, up 16.4%, making RTDs the main growth pressure and opportunity for vodka producers.",
+      "2026-03-31: DISCUS reported 2025 US spirits exports declined 3.8% to $2.37 billion, with vodka exports at $282 million."
+    ],
+    "outlook": "Through 2026, vodka distilleries should see low single-digit distillery-revenue growth at best, with profitability supported by scale, stable excise-tax treatment and premium pricing but capped by soft bottled-vodka demand. Operators with recognizable brands, RTD partnerships, efficient packaging procurement and export optionality are better positioned than small undifferentiated distillers. The biggest upside is using vodka as a base for convenient canned cocktails and flavor innovation; the biggest risks are consumer trade-down, distributor destocking, glass and input inflation, state-level tax fights and tariff-related export disruption.",
+    "themes": [
+      "RTD substitution",
+      "Premiumization under pressure",
+      "Craft and local spirits",
+      "Trade volatility",
+      "Three-tier distribution constraints",
+      "Packaging and input cost pressure",
+      "Regulatory modernization",
+      "Consumer wallet squeeze"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Vodka Distilleries, last updated 2021-10-01', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/vodka-distilleries.txt'}",
+      "{'name': 'DISCUS Annual Economic Briefing 2025 data, published 2026-02-05', 'url': 'https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-2025/'}",
+      "{'name': 'DISCUS Annual Economic Briefing 2024 data, published 2025-02-11', 'url': 'https://distilledspirits.org/news/distilled-spirits-council-annual-economic-briefing-spirits-industry-holds-steady-in-market-share-amid-economic-challenges-in-2024/'}",
+      "{'name': 'DISCUS American Spirits Exports Report 2025, published 2026-03-31', 'url': 'https://distilledspirits.org/news/american-spirits-exports-report-u-s-spirits-exports-decline-3-8-in-2025-amid-ongoing-trade-friction/'}",
+      "{'name': 'DISCUS American Spirits Exports Report 2024, published 2025-04-24', 'url': 'https://distilledspirits.org/news/u-s-spirits-exports-hit-record-2-4-billion-in-2024/'}",
+      "{'name': 'TTB Distilled Spirits Reports and statistics page, updated 2026-01-23 in search result', 'url': 'https://www.ttb.gov/statistics/reports-and-data'}"
+    ],
+    "one_sentence": "Vodka distilleries manufacture traditional, flavored, craft and low-calorie vodka, earning most revenue through wholesale shipments into the three-tier alcohol system, with growth now pressured by weaker 2025 vodka category sales and stronger competition from spirits RTDs.",
+    "slug": "vodka-distilleries"
+  },
+  {
+    "title": "Walk-in & Cabinet Cooler Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US manufacturers of walk-in coolers, freezers, reach-in cabinets and refrigerated display cases are benefiting from foodservice, grocery and cold-chain investment while redesigning around low-GWP refrigerants.",
+    "overview": "Walk-in and cabinet cooler manufacturers build commercial refrigerators, freezers, display cases, walk-in rooms, doors, panels, condensing units and controls used in foodservice, food retail and storage applications. The supplied baseline report placed 2021 industry revenue at $3.839 billion after a 2020 COVID decline and projected a recovery to about $4.4 billion in 2026. Current 2025-2026 conditions are mixed: the broader US commercial refrigeration equipment market is estimated at $12.176 billion in 2025 and $12.776 billion in 2026, restaurants are forecast to reach $1.55 trillion in 2026 sales, and EPA HFC rules are pushing self-contained retail-food refrigeration toward 2025 low-GWP compliance. At the same time, the May 2025 withdrawal of DOE's amended commercial refrigeration energy standard reduced one near-term regulatory overhang, while buyers still face high financing, construction and operating costs.",
+    "key_stats": {
+      "market_size": "$4.4 billion US industry revenue, 2026 estimate from supplied IBIS baseline projection",
+      "growth": "3.0% CAGR, 2021-2026 baseline projection",
+      "broader_market": "$12.176 billion US commercial refrigeration equipment revenue in 2025 and $12.776 billion in 2026",
+      "downstream_restaurant_sales": "$1.55 trillion projected US restaurant sales in 2026 with 1.3% real growth",
+      "baseline_profit_margin": "5.8% EBIT margin in 2021",
+      "baseline_imports": "$5.3 billion imports in 2021, equal to 64.8% of domestic demand",
+      "baseline_exports": "$959.2 million exports in 2021, equal to 25.0% of industry revenue",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$3.95 billion estimated 2022 revenue, implied from $3.839 billion in 2021 and the supplied 2021-2026 CAGR path",
+      "growth": "about 3.0% estimated 2022 revenue growth on the supplied 2021-2026 projection path",
+      "context": "The baseline expected a post-COVID recovery driven by restaurants, grocery stores, refrigerated storage and nonresidential construction."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from standard and custom walk-in coolers and freezers, reach-in refrigerators, refrigerated display cases, open and closed merchandisers, condensing units, panels, doors, electronic controls, warranties, replacement parts and distributor or dealer-channel sales. Demand is project-based for new restaurants, grocery remodels and cold-storage builds, and replacement-based when operators upgrade older equipment for energy, refrigerant or food-safety reasons.",
+    "cost_structure": "Major costs are purchased inputs such as steel, aluminum, insulated panels, polyurethane foam, compressors, condensers, evaporators, glass doors, electronic controls and refrigerants, followed by factory labor, freight, warranty/service support, rent, utilities, engineering and compliance testing. The 2021 baseline margin was 5.8%, and 2025-2026 profitability is shaped by metal and component pricing, labor availability, freight rates, tariffs/import competition and redesign costs for low-GWP refrigerants.",
+    "major_players": [
+      "Dover Food Retail / Hillphoenix",
+      "True Manufacturing",
+      "Refrigerated Solutions Group: Norlake and Master-Bilt",
+      "Hussmann",
+      "Ali Group: Beverage-Air and Delfield",
+      "Haier: Carrier Commercial Refrigeration"
+    ],
+    "current_dynamics": "Foodservice and grocery buyers are still replacing and remodeling refrigeration assets, but capital decisions are selective because financing, construction and operating costs remain elevated in 2025-2026. EPA's AIM Act technology-transition rules are accelerating product shifts toward R-290, CO2 and other lower-GWP designs, especially in self-contained retail-food units. DOE's 2025 amended energy-conservation standard for commercial refrigerators and freezers was withdrawn on May 20, 2025, reducing near-term uncertainty around a 2029 compliance deadline. Imports remain a structural pressure, particularly for standardized cabinets and lower-cost components, while US producers compete on customization, lead times, service networks and compliance-ready engineering.",
+    "whats_growing": "Low-GWP self-contained equipment, R-290 refrigeration systems, CO2 supermarket systems, quick-ship walk-in configurations, energy-efficient doors and controls, replacement units for grocery and convenience-store remodels, and cold-chain equipment tied to online grocery, prepared foods and refrigerated distribution are growing in 2025-2026.",
+    "whats_shrinking": "High-GWP HFC-dependent designs, older open display cases with weak energy performance, purely custom projects exposed to long construction cycles, and domestically made commodity cabinets facing lower-cost imports are losing share or becoming less attractive in 2025-2026.",
+    "recent_developments": [
+      "2025-01-01: EPA AIM Act restrictions began for several HFC-using products, including 150-GWP limits for retail-food stand-alone refrigeration.",
+      "2025-01-21: DOE published amended commercial refrigeration equipment energy standards with a planned 2029 compliance date.",
+      "2025-05-20: DOE withdrew the January 2025 commercial refrigeration equipment final rule after Congressional Review Act disapproval.",
+      "2025-10-20: Dover Food Retail announced a more than $20 million Virginia manufacturing expansion tied to Anthony brand production.",
+      "2025-10-28: Refrigerated Solutions Group announced ISO 9001:2015 and ISO 14001:2015 certification expansion across US manufacturing operations.",
+      "2026-02-11: National Restaurant Association projected 2026 restaurant sales of $1.55 trillion and 15.8 million industry jobs."
+    ],
+    "outlook": "The 2026 outlook is moderately positive. The baseline path to $4.4 billion in 2026 remains plausible because foodservice sales, grocery refrigeration investment and cold-chain modernization support demand. Growth is not likely to be smooth: high interest rates, restaurant margin pressure, construction cost inflation and import competition limit pricing power. The strongest manufacturers will be those with low-GWP compliant product lines, fast lead times, dealer relationships, service support and engineering depth for custom walk-ins and grocery systems.",
+    "themes": [
+      "Low-GWP refrigerant transition",
+      "Restaurant and grocery capex recovery",
+      "Cold-chain and online grocery demand",
+      "Import competition",
+      "Energy efficiency and lifecycle cost",
+      "Customization and quick-ship manufacturing",
+      "Metal and component cost pressure",
+      "Regulatory uncertainty"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Supplied baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/walk-in-and-cabinet-cooler-manufacturing.txt",
+      "US Department of Energy, Commercial Refrigeration Equipment, 2025 rule withdrawal and standards docket: https://www.energy.gov/cmei/buildings/commercial-refrigeration-equipment",
+      "US EPA, Technology Transitions Program, 2025-2026 HFC restrictions: https://www.epa.gov/hfcs/technology-transitions-program",
+      "US EPA, Technology Transitions HFC Restrictions by Sector, 2025 compliance tables: https://www.epa.gov/hfcs/technology-transitions-hfc-restrictions-sector",
+      "Grand View Research Horizon Databook, US Commercial Refrigeration Equipment Market Size and Outlook, 2025-2026 revenue: https://www.grandviewresearch.com/horizon/outlook/commercial-refrigeration-equipment-market/united-states",
+      "National Restaurant Association, 2026 State of the Restaurant Industry, 2026 sales projection: https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry",
+      "US Census Bureau, NAICS 333415 definition: https://www.census.gov/naics/?chart=2022&details=333415&input=333415",
+      "True Manufacturing, commercial refrigeration and R-290 product positioning: https://www.truemfg.com/about/",
+      "Hillphoenix, 2026 commercial refrigeration and natural refrigerant positioning: https://www.hillphoenix.com/",
+      "Refrigerated Solutions Group, Norlake and Master-Bilt brands and 2025 ISO announcement: https://refrigeratedsolutionsgroup.com/",
+      "Carrier, 2024 sale of Commercial Refrigeration to Haier: https://www.carrier.com/commercial-refrigeration/en/eu/news/news-article/carrier-completes-sale-of-its-commercial-refrigeration-business-to-haier.html"
+    ],
+    "one_sentence": "The industry sells commercial cold-storage and merchandising equipment to restaurants, grocers, convenience stores and refrigerated storage operators, with 2025-2026 demand supported by restaurant sales growth and cold-chain modernization but constrained by import competition, metal costs and refrigerant compliance work.",
+    "slug": "walk-in-and-cabinet-cooler-manufacturing"
+  },
+  {
+    "title": "Warehouse Clubs & Supercenters in the US",
+    "sector": "Retail",
+    "one_liner": "A mature, high-volume retail format where scale, grocery traffic, memberships and omnichannel fulfillment keep sales growing despite thin merchandise margins.",
+    "overview": "The industry includes warehouse clubs such as Costco, Sam's Club and BJ's, plus supercenter operators such as Walmart and Target that combine full grocery assortments with broad general merchandise. Census/FRED retail sales for warehouse clubs and supercenters reached $773.9 billion in 2025, up 2.1% from $757.7 billion in 2024, and Jan-May 2026 sales were $317.1 billion, up 2.9% from Jan-May 2025. Growth is being supported by value-seeking households, grocery and household essentials traffic, membership-fee income, fuel trips, private label and rapid pickup/delivery fulfillment from stores and clubs.",
+    "key_stats": {
+      "market_size": {
+        "2025": "$773.9 billion in US warehouse club and supercenter retail sales, Census/FRED not seasonally adjusted annual sum",
+        "2026_ytd": "$317.1 billion in Jan-May 2026 sales, versus $308.1 billion in Jan-May 2025"
+      },
+      "growth": {
+        "2025": "2.1% year over year versus 2024",
+        "2026_ytd": "2.9% year over year for Jan-May 2026"
+      },
+      "profitability": {
+        "2022": "3.9% IBISWorld industry profit margin baseline",
+        "2025": "Costco gross margin was 11.12%; Target operating income margin was 4.9%; Walmart Sam's Club US operating income was $2.44 billion on $93.0 billion net sales in FY2026"
+      },
+      "scale": {
+        "2022": "6,064 establishments and 1.76 million employees in the IBISWorld baseline",
+        "2025": "Target operated 1,995 stores; Costco operated 633 US warehouses as of November 23, 2025; BJ's opened 7 new clubs in fiscal 2025"
+      },
+      "digital": {
+        "2025": "Costco e-commerce comparable sales grew 16% in fiscal 2025",
+        "2026": "Walmart US eCommerce grew 26% and Sam's Club US eCommerce grew 23% in Q1 FY2027; BJ's digitally enabled comparable sales grew 28% in Q1 FY2026; Target digital comparable sales grew 8.9% in Q1 2026"
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$623.4 billion IBISWorld revenue in 2022 dollars",
+      "growth": "2.7% expected 2022 annual growth; 3.1% annualized growth over 2017-2022",
+      "profit": "$24.3 billion profit and 3.9% profit margin in 2022",
+      "establishments": "6,064 establishments in 2022",
+      "employment": "1,757,581 employees in 2022",
+      "wages": "$59.9 billion total wages in 2022",
+      "forecast_at_the_time": "IBISWorld projected revenue to reach $672.0 billion by 2027, a 1.5% annualized increase from 2022"
+    },
+    "how_it_makes_money": "Operators make money from high-volume merchandise sales across grocery, fresh food, household essentials, apparel, electronics, home goods, pharmacy, optical, tires and other ancillary categories. Warehouse clubs add recurring membership fees, while many operators use fuel stations, private-label products, retail media, credit card partnerships, delivery subscriptions, curbside pickup and marketplace services to lift visit frequency and margin mix.",
+    "cost_structure": {
+      "purchases": "The dominant cost is merchandise purchasing; Costco reported $239.9 billion of merchandise costs on $269.9 billion of 2025 net sales, and Walmart Sam's Club US reported $82.5 billion of cost of sales in FY2026.",
+      "labor_and_store_ops": "Large-format stores require substantial staffing, occupancy, logistics, utilities and shrink control; Target reported 2025 SG&A of $21.5 billion and Walmart Sam's Club US reported FY2026 operating, selling, general and administrative expenses of $10.6 billion.",
+      "fuel": "Fuel is a traffic driver but can dilute reported revenue growth and margins when gasoline prices fall; Walmart said lower fuel sales reduced Sam's Club US FY2026 comparable sales by 1.9 percentage points.",
+      "membership_and_media": "Membership fees and advertising are higher-margin offsets to thin merchandise margins; Costco membership fees were $5.3 billion in fiscal 2025, Sam's Club US membership and other income was $2.5 billion in FY2026, and BJ's membership fee income was $499.8 million in fiscal 2025.",
+      "margin_profile": "The model depends on rapid inventory turnover and low prices; merchandise margins are structurally thin, with profit protected by scale, vendor terms, private label, memberships and disciplined operating costs."
+    },
+    "major_players": [
+      "{'name': 'Walmart Inc.', 'position': \"Largest supercenter operator and owner of Sam's Club US\", 'recent_data': \"Walmart US net sales were $483.0 billion in FY2026; Sam's Club US net sales were $93.0 billion in FY2026, up 3.1%.\"}",
+      "{'name': 'Costco Wholesale Corporation', 'position': 'Largest warehouse-club specialist by sales and a leading membership-fee operator', 'recent_data': 'Fiscal 2025 net sales were $269.9 billion, membership fees were $5.3 billion, US comparable sales rose 6%, and US/Canada renewal was 92.3%.'}",
+      "{'name': 'Target Corporation', 'position': 'Major supercenter and large-format general merchandise competitor with grocery and essentials traffic', 'recent_data': '2025 net sales were $104.8 billion, comparable sales fell 2.6%, food and beverage sales were $24.1 billion, and Q1 2026 net sales grew 6.7%.'}",
+      "{'name': \"BJ's Wholesale Club Holdings, Inc.\", 'position': 'Regional warehouse-club operator expanding clubs, gas stations and digital engagement', 'recent_data': 'Fiscal 2025 net sales were $21.0 billion, membership fee income was $499.8 million, and Q1 FY2026 comparable club sales rose 6.3%.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is being shaped by a consumer search for value, resilient grocery demand, stronger traffic among higher-income shoppers trading into mass channels, and rapid digitization of club shopping. Operators are using stores as fulfillment nodes, adding same-day delivery, Scan & Go, curbside pickup and retail media while protecting price gaps through purchasing scale and private-label penetration. Fuel prices remain a reported-sales swing factor, and discretionary categories such as apparel, home and some general merchandise are more uneven than food, pharmacy, beauty and household essentials.",
+    "whats_growing": [
+      "2025-2026 grocery, fresh food, household essentials, pharmacy, health and wellness and beauty categories are growing faster than many discretionary categories.",
+      "2025-2026 membership income is growing as Costco, Sam's Club and BJ's expand higher-tier member penetration and fee revenue.",
+      "2025-2026 digital fulfillment is growing quickly, including Walmart store-fulfilled delivery, Sam's Club eCommerce, BJ's digitally enabled sales and Target same-day delivery.",
+      "2025-2026 retail media, marketplace, credit card and subscription services are expanding as higher-margin income streams.",
+      "2025-2026 new clubs, gas stations and remodeled large-format stores are expanding physical reach selectively."
+    ],
+    "whats_shrinking": [
+      "2025 Target comparable sales declined 2.6%, showing pressure in some large-format discretionary baskets before its 2026 rebound.",
+      "2025-2026 gasoline deflation reduced reported sales growth for some operators, including Costco in fiscal 2025 and Sam's Club US in FY2026.",
+      "2025-2026 margin room remains tight in core merchandise because operators are investing in price to preserve value perception.",
+      "2025-2026 traditional checkout and purely in-store shopping are losing share to Scan & Go, pickup, delivery and digitally initiated trips.",
+      "2025-2026 weaker home furnishings, decor and some apparel demand has weighed on supercenter mix compared with food and essentials."
+    ],
+    "recent_developments": [
+      "2026-07-16: Census/FRED updated warehouse club and supercenter sales through May 2026, showing $69.4 billion in May 2026 not-seasonally-adjusted sales.",
+      "2026-05-28: Costco reported fiscal Q3 2026 net sales of $69.2 billion and 36-week fiscal 2026 net sales growth of 9.6%.",
+      "2026-05-22: BJ's reported Q1 FY2026 comparable club sales growth of 6.3% and digitally enabled comparable sales growth of 28%.",
+      "2026-05-21: Walmart reported Q1 FY2027 Walmart US eCommerce growth of 26% and Sam's Club US eCommerce growth of 23%.",
+      "2026-05-20: Target reported Q1 2026 net sales growth of 6.7%, comparable sales growth of 5.6% and digital comparable sales growth of 8.9%.",
+      "2026-03-05: BJ's reported fiscal 2025 net sales of $21.0 billion, membership fee income of $499.8 million and 7 new clubs opened during the year."
+    ],
+    "outlook": "Industry sales should keep expanding in 2026 as value formats retain grocery and essentials traffic, but growth is likely to remain moderate rather than pandemic-like. The strongest operators will be those that combine low prices with fast digital fulfillment, fresh food, fuel, private label, membership economics and retail media. Margin risk comes from tariffs, wage and occupancy costs, shrink, price investment, fuel volatility and competition from Amazon, supermarkets, dollar stores and specialty retailers. The 2026 Jan-May sales pace points to continued low-single-digit industry growth unless a stronger discretionary recovery or renewed inflation lifts nominal sales faster.",
+    "themes": [
+      "Value-seeking consumers",
+      "Grocery-led traffic",
+      "Membership economics",
+      "Omnichannel fulfillment",
+      "Private label expansion",
+      "Retail media and services",
+      "Fuel volatility",
+      "Discretionary category pressure",
+      "Large-format store productivity",
+      "High concentration and scale advantage"
+    ],
+    "data_year": "2026; current market statistics use Census/FRED data through May 2026 and company FY2025-FY2026 filings/results available by August 8, 2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/warehouse-clubs-and-supercenters-in-the-us.txt', 'used_for': '2022 revenue, growth, profit, establishments, employment, wages, definition and historical context'}",
+      "{'name': 'FRED / US Census Bureau Retail Sales: Warehouse Clubs and Supercenters, SM452311USN', 'url': 'https://fred.stlouisfed.org/data/SM452311USN', 'used_for': '2024, 2025 and Jan-May 2026 category sales and growth calculations'}",
+      "{'name': 'FRED / US Census Bureau Retail Sales: Warehouse Clubs and Supercenters, SM452311USS', 'url': 'https://fred.stlouisfed.org/series/SM452311USS', 'used_for': 'latest seasonally adjusted monthly sales context through May 2026'}",
+      "{'name': 'Walmart FY2026 Form 10-K segment data', 'url': 'https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/R34.htm', 'used_for': \"Walmart US and Sam's Club US FY2026 net sales, cost of sales, membership income and operating income\"}",
+      "{'name': 'Walmart Q1 FY2027 earnings release', 'url': 'https://corporate.walmart.com/news/2026/05/21/walmart-releases-q1-fy27-earnings', 'used_for': '2026 eCommerce, delivery and membership dynamics'}",
+      "{'name': 'Costco fiscal 2025 annual report', 'url': 'https://ebs.publicnow.com/view/DAA79AF9D24C6DC2EFD3FD5F10BFEA095AFA4293', 'used_for': '2025 net sales, membership fees, renewal rates, gross margin and gasoline impacts'}",
+      "{'name': 'Costco Q3 fiscal 2026 results', 'url': 'https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-Third-Quarter-and-Year-To-Date-Operating-Results-For-Fiscal-2026/default.aspx', 'used_for': '2026 net sales, comparable sales and digitally enabled sales growth'}",
+      "{'name': \"BJ's fiscal 2025 results\", 'url': 'https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Holdings-Inc--Announces-Fourth-Quarter-and-Full-Fiscal-2025-Results/default.aspx', 'used_for': '2025 net sales, membership income, openings and digital sales growth'}",
+      "{'name': \"BJ's Q1 fiscal 2026 results\", 'url': 'https://investors.bjs.com/press-releases/press-release-details/2026/BJs-Wholesale-Club-Holdings-Inc--Announces-First-Quarter-Fiscal-2026-Results/default.aspx', 'used_for': '2026 comparable club sales, membership fee income and digital sales growth'}",
+      "{'name': 'Target 2025 annual report', 'url': 'https://corporate.target.com/investors/annual/2025-annual-report/financials/five-year-financial-summary', 'used_for': '2025 net sales, comparable sales, operating margin, store count and square footage'}",
+      "{'name': 'Target Q1 2026 earnings release', 'url': 'https://corporate.target.com/press/release/2026/05/target-corporation-reports-first-quarter-earnings', 'used_for': '2026 net sales growth, comparable sales, digital sales and category performance'}"
+    ],
+    "one_sentence": "Warehouse clubs and supercenters sell groceries, fuel and general merchandise at low prices, using purchasing scale, large-format stores, memberships and store-based fulfillment to defend share against supermarkets, dollar stores and e-commerce rivals.",
+    "slug": "warehouse-clubs-and-supercenters-in-the-us"
+  },
+  {
+    "title": "Washer & Dryer Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, concentrated US appliance manufacturing niche where replacement demand, tariffs, energy-efficiency rules and reshoring matter more than new household penetration.",
+    "overview": "This industry manufactures household-type clothes washers, electric dryers, gas dryers, washer-dryer combinations, and related parts. The 2022 baseline framed the industry as mature, highly concentrated and import-exposed, but supported by reshoring, tariffs on large residential washers and the 2018 opening of Samsung's South Carolina washer plant. By 2025-2026, the core story is mixed: replacement demand is steadier than discretionary remodeling demand, US housing starts are weak, consumer laundry-equipment prices fell in 2025, and major producers are investing in US capacity and supplier localization ahead of next-generation, higher-efficiency product cycles.",
+    "key_stats": {
+      "market_size": "2026 estimated US industry revenue: about $5.8 billion, based on the 2022 IBIS baseline projection and current 2026 flat-to-low-growth appliance demand signals.",
+      "growth": "2021-2026 estimated revenue CAGR: about 0.4%; 2026 demand backdrop is roughly flat for major domestic appliances in North America per Whirlpool's 2026 outlook.",
+      "baseline_revenue_2021": "2021 baseline revenue: $5.648 billion.",
+      "profit_margin": "2021 baseline EBIT-type profit margin: 7.8%; Whirlpool MDA North America 2025 EBIT margin was 4.9%, down from 6.5% in 2024, showing tariff and cost pressure in the broader appliance segment.",
+      "imports": "US imports of HS 8450 household or laundry-type washing machines and parts were $2.157 billion in 2025, down from $2.425 billion in 2024.",
+      "housing_driver": "US privately owned housing starts were at a 1.177 million seasonally adjusted annual rate in May 2026, down 8.7% from May 2025.",
+      "major_public_company_signal": "Whirlpool global laundry net sales were $4.376 billion in 2025, down from $4.585 billion in 2024 and $5.333 billion in 2023.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 implied industry revenue: about $5.61 billion, calculated from 2021 revenue of $5.648 billion and the baseline 2022 forecast decline of 0.7%.",
+      "growth": "2022 baseline forecast growth: -0.7% year over year.",
+      "context": "The January 2022 baseline expected revenue to grow at a 0.4% annualized rate from 2021 to 2026, reaching $5.8 billion, with imports near $2.0 billion and exports near $395.7 million by 2026.",
+      "product_mix_2021": "2021 baseline product mix: washing machines 55.9% of revenue, electric dryers 35.2%, gas dryers 7.8%, parts and accessories 1.1%.",
+      "employment_2021": "2021 baseline employment: 10,058 workers across 10 establishments and 9 enterprises."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling finished washers, dryers, washer-dryer combinations and replacement parts to national retailers, appliance distributors, home improvement chains, builders, property owners and, in some cases, direct-to-consumer channels. Revenue is driven by replacement cycles, new housing completions, remodels, product mix upgrades, energy-efficient models, smart connected features, and private-label or contract manufacturing relationships.",
+    "cost_structure": {
+      "materials_and_components": "Largest cost bucket in 2025: steel, aluminum, resins, motors, electronics, sensors, compressors or heat-pump components, cabinets, tubs, drums, baskets, controls and packaging.",
+      "labor": "Meaningful but moderated by automation; Whirlpool's 2026 Perrysburg project and LG's Tennessee smart factory both emphasize automated manufacturing for washer and dryer production.",
+      "freight_and_distribution": "High relative to many manufactured goods in 2025-2026 because washers and dryers are bulky, retailer fulfillment is national, and domestic plants compete partly on speed-to-market versus imported product.",
+      "tariffs_and_trade_costs": "A renewed pressure point in 2025-2026; Whirlpool reported 2025 MDA North America cost of products sold increased 0.4% despite lower sales, primarily due to tariff cost, while broader US imports of washing machines and parts declined in 2025.",
+      "public_company_proxy": "Whirlpool 2025 consolidated cost of products sold was $13.138 billion on $15.524 billion of net sales, or about 84.6% of sales, while MDA North America cost of products sold was $8.815 billion on $10.158 billion of net sales, or about 86.8%."
+    },
+    "major_players": [
+      "Whirlpool Corporation",
+      "GE Appliances, a Haier company",
+      "Samsung Electronics Home Appliances America",
+      "LG Electronics",
+      "Speed Queen / Alliance Laundry Systems",
+      "smaller niche and specialty appliance manufacturers"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in opposite directions. Replacement demand remains the anchor because most owner-occupied homes already have laundry equipment, but high mortgage rates, weaker housing starts and softer discretionary demand are limiting new-unit growth. Domestic manufacturing is gaining strategic value as tariffs and logistics risks make US assembly more attractive. GE Appliances, Whirlpool, LG and Samsung all have meaningful US laundry manufacturing footprints or expansion activity, while imported washing machines and parts still represent a large share of domestic demand.",
+    "whats_growing": "Heat-pump dryers, all-in-one washer-dryer combinations, front-load and high-efficiency models, connected laundry platforms, automated US assembly lines, domestic supplier contracts, and retailer/builder programs tied to replacement and remodeling demand are growing in relevance in 2025-2026.",
+    "whats_shrinking": "Pandemic-era appliance pull-forward, gas dryer share in efficiency-focused channels, low-efficiency legacy platforms, import growth in washer categories after 2024, and demand tied to weak 2026 new housing starts are shrinking or under pressure.",
+    "recent_developments": [
+      "2024-03: DOE finalized amended energy conservation standards for residential clothes washers, with compliance starting March 1, 2028.",
+      "2025-08: GE Appliances announced a $3.0 billion five-year US manufacturing plan, including a $490 million Louisville laundry investment to produce combo washer/dryers and front-load washers starting in 2027.",
+      "2025-10: Whirlpool announced a $300 million investment in US laundry operations in Clyde and Marion, Ohio, expected to create 400-600 jobs and support next-generation washers and dryers.",
+      "2025-11: GE Appliances awarded more than $150 million in US supplier contracts for steel, resins, parts and components for its new Louisville washer and combo washer/dryer plant.",
+      "2026-04: Whirlpool announced a new Perrysburg, Ohio facility with more than $60 million of investment to make washer and dryer components and subassemblies, creating 100-150 jobs over two years.",
+      "2026-05: US housing starts fell to a 1.177 million SAAR, down 8.7% from May 2025, weakening new-home appliance demand."
+    ],
+    "outlook": "The 2026 outlook is low-growth but strategically active. Industry revenue is likely to stay near $5.8 billion in 2026 as replacement demand offsets weak new housing and affordability pressure. Margins should remain sensitive to tariffs, metal and resin costs, retailer promotions and plant utilization. Through 2028, energy standards and consumer interest in lower operating costs should favor efficient washers, heat-pump dryers and combo units, while domestic investments by GE Appliances and Whirlpool point to a gradual reshoring of higher-value laundry platforms rather than a broad-based surge in establishments.",
+    "themes": [
+      "reshoring and domestic capacity",
+      "tariff exposure",
+      "replacement-cycle demand",
+      "housing-market sensitivity",
+      "energy efficiency and DOE standards",
+      "heat-pump and combo laundry technology",
+      "automation and smart factories",
+      "retailer concentration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBIS-style source file, Washer & Dryer Manufacturing, last updated Jan. 30, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/washer-and-dryer-manufacturing.txt'}",
+      "{'title': 'Whirlpool 2025 Form 10-K, SEC filing', 'url': 'https://www.sec.gov/Archives/edgar/data/106640/000010664026000009/whr-20251231.htm'}",
+      "{'title': 'US Census New Residential Construction, May 2026 release', 'url': 'https://www.census.gov/construction/nrc/current/'}",
+      "{'title': 'USITC, safeguard measure on large residential washers terminated Feb. 7, 2023', 'url': 'https://www.usitc.gov/press_room/news_release/2023/er0807_64208.htm'}",
+      "{'title': 'DOE residential clothes washer standards, GAO review, 2024', 'url': 'https://www.gao.gov/products/b-336150'}",
+      "{'title': 'Federal Register / DOE consumer clothes dryer standards, 2024', 'url': 'https://thefederalregister.org/documents/2024-04765/energy-conservation-program-energy-conservation-standards-for-consumer-clothes-dryers'}",
+      "{'title': 'GE Appliances $3 billion US manufacturing investment, 2025', 'url': 'https://pressroom.geappliances.com/news/ge-appliances-announces-historic-3-billion-investment-to-expand-u-s-manufacturing'}",
+      "{'title': 'GE Appliances $150 million supplier contracts for Louisville laundry plant, 2025', 'url': 'https://pressroom.geappliances.com/news/ripple-effect-ge-appliances-awards-more-than-150-million-in-contracts-to-u-s-suppliers-for-new-laundry-manufacturing-plant'}",
+      "{'title': 'Whirlpool $300 million US laundry investment, 2025', 'url': 'https://www.whirlpoolcorp.com/latest-news/whirlpool-corporation-announces--300-million-investment-in--u-s-.html'}",
+      "{'title': 'Whirlpool $60 million Perrysburg washer and dryer component facility, 2026', 'url': 'https://www.whirlpoolcorp.com/latest-news/whirlpool-announces--60m-investment--up-to-150-jobs-for-new-ohio.html'}",
+      "{'title': 'LG Tennessee smart factory profile, 2025', 'url': 'https://www.lg.com/content/lge/en/global/newsroom/lg-story/beyond-news/on-the-job-a-day-with-charles-lonergan-manufacturing-director-at-lgs-tennessee-smart-factory/'}",
+      "{'title': 'Trade Map HS 8450 US import values through 2025', 'url': 'https://www.trademap.org/Country_SelProduct_TS.aspx?nvpm=1%7C%7C%7C%7C%7C8450%7C%7C%7C4%7C1%7C1%7C1%7C2%7C1%7C2%7C1%7C1%7C1'}",
+      "{'title': 'BLS CPI December 2025 release, laundry equipment price change', 'url': 'https://www.bls.gov/news.release/archives/cpi_01132026.htm'}",
+      "{'title': 'ENERGY STAR heat pump dryer guidance', 'url': 'https://www.energystar.gov/products/clothes_dryers/heat-pump-dryer'}"
+    ],
+    "one_sentence": "US washer and dryer manufacturing remains a roughly $5.8 billion 2026 industry, with mature household penetration limiting volume growth while tariffs, automation, domestic plant investment and high-efficiency laundry platforms reshape where and how machines are made.",
+    "slug": "washer-and-dryer-manufacturing"
+  }
+]

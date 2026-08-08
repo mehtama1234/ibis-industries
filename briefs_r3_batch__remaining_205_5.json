@@ -1,0 +1,474 @@
+[
+  {
+    "title": "Waste Collection Services in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "A mature essential-service industry where 2025 revenue growth came mainly from pricing, route density, acquisitions and specialty waste, while base collection volumes stayed soft.",
+    "overview": "Waste Collection Services in the US remains an essential, route-based infrastructure industry tied to household formation, business activity, construction, industrial output and municipal outsourcing. The 2022 IBIS baseline put industry revenue at $68.0 billion, up 2.7% in 2022, with real revenue expected to reach about $71.4 billion by 2027. Updating that path with 2025 waste-collection producer prices implies an estimated 2025 nominal market near $85.0 billion, with roughly 6.0% nominal growth from 2024. The market is concentrated among vertically integrated haulers that own transfer stations, landfills, recycling assets and increasingly renewable natural gas or organics infrastructure, while smaller regional haulers compete on local contracts and specialized services.",
+    "key_stats": {
+      "market_size": "2025 estimated market size: about $85.0 billion nominal, derived from the 2022 IBIS revenue base and 2025 BLS/FRED waste-collection PPI; about $70.0 billion in 2022 dollars.",
+      "growth": "2025 estimated nominal growth: about 6.0%; 2025 real growth: about 1.0% on the IBIS 2022-2027 outlook path.",
+      "pricing": "2025 waste-collection PPI averaged 201.0, up 5.0% from the 2024 average of 191.4; June 2026 waste-collection PPI was 206.476.",
+      "employment": "2022 baseline employment: 250,191 workers; IBIS projected 268,847 workers by 2027.",
+      "establishments": "2022 baseline establishments: 12,825; IBIS projected 13,900 by 2027.",
+      "profit_margin": "2022 baseline EBIT margin: 6.6%; IBIS projected 6.9% by 2027.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$68.015 billion revenue in 2022 dollars.",
+      "growth": "2.7% revenue growth in 2022 and 2.3% annualized revenue growth over 2017-2022.",
+      "profit": "$4.489 billion profit in 2022, equal to a 6.6% profit margin.",
+      "enterprises": "8,352 enterprises in 2022.",
+      "establishments": "12,825 establishments in 2022.",
+      "employment": "250,191 employees in 2022.",
+      "wages": "$16.354 billion total wages in 2022.",
+      "product_mix": "2022 revenue split: nonresidential waste collection 51.2%, residential waste collection 30.6%, transfer/collection/storage facilities 16.3%, hazardous materials and other 1.9%."
+    },
+    "how_it_makes_money": "Operators earn recurring fees from residential, commercial and industrial collection routes; roll-off container rental and pickup; transfer-station handling; landfill and disposal pass-throughs; recycling and commodity handling; municipal contracts; fuel and environmental recovery fees; and specialty waste services. Larger companies improve margins by internalizing collected tonnage into owned transfer stations and landfills, automating routes, raising contract yields and adding adjacent services such as medical waste, renewable natural gas, recycling processing and organics composting.",
+    "cost_structure": {
+      "labor": "High route labor, driver wages, benefits and training costs; public filings in 2025 cite wage inflation as a continuing cost pressure.",
+      "fuel_and_fleet": "Collection trucks, containers, maintenance, tires, parts, insurance and fuel are core operating costs; automated side-loaders, CNG/RNG trucks and newer fleets require capital but can reduce labor and fuel intensity.",
+      "transfer_and_disposal": "Third-party tipping fees, owned-landfill operating costs, transfer-station costs, closure/post-closure obligations and permitting costs are material; Republic said 67% of its collected solid-waste volume was disposed at landfills it owned or operated in both 2024 and 2025.",
+      "depreciation_and_capex": "The business is capital intensive because trucks, carts, containers, compactors, transfer stations, landfills, recycling facilities and RNG projects must be replaced or expanded.",
+      "recycling_commodity_exposure": "Recyclable commodity prices can lift or reduce revenue and margins; WM reported average single-stream recycled commodity prices declined about 20% in 2025 from 2024.",
+      "compliance": "Environmental, safety, landfill, organics, hazardous-waste, stormwater, emissions and local-franchise rules raise administrative and operating costs."
+    },
+    "major_players": [
+      "{'name': 'WM', 'position': 'Largest US hauler and integrated waste operator; 2025 revenue was $25.204 billion, up 14.2%, including Stericycle and higher collection/disposal yield.'}",
+      "{'name': 'Republic Services', 'position': 'Large national environmental-services provider; 2025 revenue was $16.591 billion, up 3.5%, with 377 collection operations, 255 transfer stations, 79 recycling centers and 207 active landfills as of December 31, 2025.'}",
+      "{'name': 'Waste Connections', 'position': 'Major North American solid-waste operator with secondary-market exposure; 2025 revenue was $9.467 billion, up 6.1%, including $6.748 billion from collection.'}",
+      "{'name': 'GFL Environmental', 'position': 'North American solid-waste operator with a large US segment; 2025 revenue was $6.616 billion and total collection revenue was $4.505 billion.'}",
+      "{'name': 'Casella Waste Systems', 'position': 'Regional Northeast and Mid-Atlantic operator; 2025 revenue was $1.837 billion, with collection representing $1.196 billion.'}",
+      "{'name': 'Clean Harbors', 'position': 'Specialized hazardous, industrial and environmental services player; 2025 revenue was $6.031 billion, led by Environmental Services.'}"
+    ],
+    "current_dynamics": "2025-2026 industry conditions are favorable for revenue but uneven for volumes. Public haulers are still pushing contract yield above inflation, while residential collection and some roll-off/construction volumes remain pressured by municipal contract exits, softer construction activity and weaker discretionary commercial demand. Special waste, disaster cleanup, acquisitions, landfill internalization and pricing are offsetting weak base volumes. Recycling is strategically important but volatile because commodity prices fell in 2025, while organics, composting and RNG investments are expanding due to landfill-methane pressure and state diversion mandates.",
+    "whats_growing": [
+      "Commercial and municipal contract pricing, with major operators reporting 2025 core price or yield gains in the 4%-6% range.",
+      "Special waste and disaster-related cleanup volumes, including 2025 wildfire remediation and hurricane recovery demand cited by Republic and WM.",
+      "Acquisition-driven scale, route density and vertical integration among national and regional haulers.",
+      "Medical waste and secure information destruction after WM’s November 2024 Stericycle acquisition.",
+      "Organics collection and composting infrastructure in states with landfill-diversion mandates, especially California.",
+      "Renewable natural gas and landfill-gas monetization projects tied to owned landfill networks."
+    ],
+    "whats_shrinking": [
+      "Low-margin residential municipal contracts that large haulers are exiting or repricing.",
+      "Base collection volumes in some residential, large-container and transfer lines; Republic guided to about a 1.0% volume decline in 2026.",
+      "Recycling commodity revenue when fiber and single-stream prices weaken; WM reported about a 20% drop in average single-stream recycled commodity prices in 2025.",
+      "Small hauler expansion opportunities in markets where large operators control disposal assets and acquire regional players.",
+      "Traditional landfill disposal share in jurisdictions with stronger organics, packaging EPR and diversion rules."
+    ],
+    "recent_developments": [
+      "2024-11-04: WM completed its $7.2 billion acquisition of Stericycle, creating WM Healthcare Solutions for regulated medical waste and secure information destruction.",
+      "2025-12-31: WM reported 2025 revenue of $25.204 billion, up 14.2%, with higher collection/disposal yield and Stericycle as key drivers.",
+      "2025-12-31: Republic reported 2025 revenue of $16.591 billion, up 3.5%, with 4.1% average yield offset by a 0.6% volume decline.",
+      "2026-02-11: GFL reported 2025 revenue of $6.616 billion and issued 2026 revenue guidance near $7.0 billion.",
+      "2026-05-01: California SB 54 permanent packaging EPR regulations became effective, increasing long-run pressure for recyclable and compostable packaging systems.",
+      "2026-06-18: Republic broke ground on the San Bernardino Sustainability Park, an organics facility expected to open in late 2026 with initial processing capability above 300,000 tons per year."
+    ],
+    "outlook": "Through 2026, nominal revenue should keep growing as pricing, acquisitions and specialty waste offset muted base volumes. Margins should remain supported by route automation, landfill internalization, disciplined contract pricing and lower employee turnover, but labor, maintenance, insurance, fleet replacement, permitting and environmental compliance will remain persistent cost pressure. Longer term, the industry grows slowly in real terms because waste volumes track population, households, business formation and construction activity, while higher-value opportunities come from organics diversion, recycling quality, RNG, medical waste and vertically integrated disposal assets.",
+    "themes": [
+      "Essential local infrastructure",
+      "Pricing power over volume growth",
+      "Consolidation and route density",
+      "Landfill internalization",
+      "Organics diversion and composting",
+      "Recycling commodity volatility",
+      "Fleet automation and alternative fuels",
+      "Disaster cleanup and special waste",
+      "Packaging EPR and diversion mandates",
+      "Medical waste adjacency"
+    ],
+    "data_year": "2026 brief using 2025 actual company data, 2026 guidance and 2026 producer-price/regulatory updates available as of August 8, 2026.",
+    "sources": [
+      "{'name': 'Baseline IBIS file', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/waste-collection-services-in-the-us.txt'}",
+      "{'name': 'WM 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/823768/000110465926012049/wm-20251231x10k.htm'}",
+      "{'name': 'WM full-year 2025 earnings release', 'url': 'https://investors.wm.com/news-releases/news-release-details/wm-announces-fourth-quarter-and-full-year-2025-earnings'}",
+      "{'name': 'WM Stericycle acquisition release', 'url': 'https://investors.wm.com/news-releases/news-release-details/wm-completes-acquisition-stericycle/'}",
+      "{'name': 'Republic Services 2025 Form 10-K summary', 'url': 'https://ebs.publicnow.com/view/2C008B1A2BFA2A98FBE84E83D30B69577DB074CA'}",
+      "{'name': 'Republic Services 2025 results and 2026 guidance', 'url': 'https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-fourth-quarter-and-full-year-2025'}",
+      "{'name': 'Waste Connections 2025 results and 2026 outlook', 'url': 'https://investors.wasteconnections.com/news/news-details/2026/Waste-Connections-Reports-Fourth-Quarter-2025-Results-and-Provides-2026-Outlook/default.aspx'}",
+      "{'name': 'GFL 2025 results and 2026 guidance', 'url': 'https://investors.gflenv.com/English/news/news-details/2026/GFL-Environmental-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Provides-Full-Year-2026-Guidance/default.aspx'}",
+      "{'name': 'Casella 2025 Form 10-K summary', 'url': 'https://ebs.publicnow.com/view/D7871B0378057320C644DCA61C68AAA861643FBD'}",
+      "{'name': 'Clean Harbors 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/822818/000082281826000009/clh-20251231.htm'}",
+      "{'name': 'FRED/BLS waste collection PPI', 'url': 'https://fred.stlouisfed.org/series/PCU5621156211/'}",
+      "{'name': 'FRED/BLS solid waste collection PPI data', 'url': 'https://fred.stlouisfed.org/data/PCU562111562111'}",
+      "{'name': 'US Census Quarterly Services Survey overview', 'url': 'https://www.census.gov/services/qss/about_the_survey.html'}",
+      "{'name': 'EPA Facts and Figures about Materials, Waste and Recycling', 'url': 'https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling'}",
+      "{'name': 'EPA National Strategy for Reducing Food Loss and Waste and Recycling Organics', 'url': 'https://www.epa.gov/newsreleases/biden-harris-administration-announces-national-strategy-reduce-food-loss-and-waste-and'}",
+      "{'name': 'CalRecycle SB 54 packaging EPR program', 'url': 'https://calrecycle.ca.gov/packaging/packaging-epr/'}",
+      "{'name': 'Republic San Bernardino Sustainability Park', 'url': 'https://www.prnewswire.com/news-releases/republic-services-breaks-ground-on-san-bernardino-sustainability-park-302803866.html'}"
+    ],
+    "one_sentence": "US waste collection operators collect residential, commercial, industrial, construction and limited hazardous waste, moving it through transfer stations to landfills, recycling facilities, composting sites and other disposal or recovery outlets.",
+    "slug": "waste-collection-services-in-the-us"
+  },
+  {
+    "title": "Waste Treatment & Disposal Services in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "A mature, regulated disposal industry where landfill scarcity, hazardous-waste compliance and renewable landfill-gas projects support pricing even when waste volumes soften.",
+    "overview": "The industry covers NAICS 5622 establishments that operate waste treatment and disposal facilities, including hazardous-waste treatment and disposal, solid-waste landfills, waste combustors and other non-sewer disposal sites. The baseline IBIS file showed 2021 revenue of $21.6 billion and a 2021-2026 forecast of 1.2% CAGR to $22.9 billion, but Census Service Annual Survey data later placed 2022 NAICS 5622 revenue at $22.934 billion. Applying the broader Census Quarterly Services Survey trend for NAICS 562 through 2025 implies a 2025 NAICS 5622 market of about $27.3 billion, with 2025 growth near 3.9% and Q1 2026 broader-subsector revenue up about 0.5% year over year. Demand remains tied to consumer spending, construction, manufacturing output, industrial cleanup, medical and regulated waste, and storm or wildfire remediation. Pricing power is supported by high permitting barriers, limited landfill airspace, environmental compliance requirements and consolidation among vertically integrated national operators.",
+    "key_stats": {
+      "market_size": "$27.3 billion estimated 2025, inferred from Census 2022 NAICS 5622 revenue of $22.934 billion and 2022-2025 growth in Census QSS NAICS 562 revenue",
+      "growth": "3.9% estimated 2025 revenue growth, based on Census QSS NAICS 562 annual revenue rising from $156.558 billion in 2024 to $162.710 billion in 2025",
+      "q1_2026_indicator": "Census QSS NAICS 562 revenue was $39.593 billion in Q1 2026, up about 0.4% from $39.442 billion in Q1 2025, not seasonally adjusted",
+      "2022_naics_5622_revenue": "$22.934 billion in 2022, Census Service Annual Survey",
+      "2022_hazardous_waste_treatment_revenue": "$8.876 billion in 2022, Census Service Annual Survey NAICS 562211",
+      "2022_solid_waste_landfill_revenue": "$11.239 billion in 2022, Census Service Annual Survey NAICS 562212",
+      "latest_epa_msw_data": "EPA's national municipal solid waste facts and figures remain based on 2018 data: 292.4 million tons generated and 146.1 million tons landfilled",
+      "landfill_methane": "EPA reported landfills emitted 119.8 MMTCO2e of methane in 2022, including 100.9 MMTCO2e from MSW landfills",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$22.934 billion in 2022, Census Service Annual Survey NAICS 5622; the baseline IBIS report published in 2022 listed 2021 revenue at $21.553 billion",
+      "growth": "11.3% 2022 growth versus $20.598 billion in 2021 Census NAICS 5622 revenue",
+      "baseline_ibis_2021_revenue": "$21.553 billion in 2021 currency",
+      "baseline_ibis_2021_profit": "$1.293 billion, 6.0% margin",
+      "baseline_ibis_2021_employment": "60,193 employees",
+      "baseline_ibis_2021_establishments": "2,669 establishments",
+      "baseline_ibis_2021_segments": "37.6% hazardous waste treatment and disposal, 36.5% solid waste landfills, 21.7% waste-to-energy plants, 4.2% other"
+    },
+    "how_it_makes_money": "Operators charge tipping fees, treatment fees, contract disposal fees and special-waste premiums based on waste type, volume, weight, distance, contamination risk and regulatory handling requirements. Hazardous-waste operators earn higher fees from industrial, healthcare, chemical, energy and remediation customers because handling requires permits, specialized equipment, manifests, incineration or stabilization capacity and environmental liability controls. Landfill operators earn gate fees from haulers and municipalities, internal disposal revenue from owned collection routes, special-waste revenue from construction, disaster cleanup and industrial streams, and ancillary revenue from transfer stations, leachate treatment, gas royalties, landfill-gas-to-energy and renewable natural gas. Waste-to-energy operators earn disposal fees plus electricity, steam, recovered metals and environmental-credit revenue where contracts and regulation support it.",
+    "cost_structure": {
+      "labor": "High; WM reported labor and related benefits at 17.8% of 2025 revenue",
+      "transfer_and_disposal": "Material for integrated haulers; WM reported third-party transfer and disposal costs at 5.5% of 2025 revenue",
+      "maintenance_and_repairs": "High because fleets, compactors, landfill equipment, incinerators and gas systems are asset-intensive; WM reported 8.8% of 2025 revenue",
+      "subcontractors": "Important for national accounts, emergency response and project work; WM reported 10.0% of 2025 revenue",
+      "fuel": "Direct fuel is smaller than labor but volatile; WM reported 2.1% of 2025 revenue",
+      "landfill_operating_costs": "Include cell development, daily cover, leachate handling, methane and groundwater monitoring, closure and post-closure reserves; WM reported landfill operating costs at 2.2% of 2025 revenue",
+      "compliance_and_liability": "Heavy and rising due to RCRA, CERCLA, air emissions, greenhouse-gas reporting, PFAS, groundwater, closure and post-closure obligations",
+      "capital_intensity": "Medium to high; landfill airspace, incineration, TSDF capacity, RNG projects, trucks, monitoring systems and permits create high barriers to entry"
+    },
+    "major_players": [
+      "{'name': 'WM', 'position': 'Largest integrated waste company; 2025 revenue of $25.204 billion, including $20.704 billion from collection and disposal, $3.781 billion net landfill revenue, $478 million renewable energy revenue and $2.508 billion healthcare solutions revenue after Stericycle.'}",
+      "{'name': 'Republic Services', 'position': 'Large national operator; 2025 revenue of $16.591 billion, with 207 active landfills, 24 TSDFs, 84 landfill gas-to-energy and other renewable-energy projects, and $1.920 billion net landfill revenue.'}",
+      "{'name': 'Waste Connections', 'position': 'Major North American solid-waste operator; 2025 revenue of $9.467 billion, including $1.542 billion landfill revenue, $1.462 billion transfer revenue and $688.8 million E&P waste revenue.'}",
+      "{'name': 'Clean Harbors', 'position': 'Leading hazardous-waste and industrial-services specialist; 2025 revenue of $6.031 billion and 2025 Environmental Services direct revenue of $5.193 billion, with incinerator utilization of 85% including its new Kimball, Nebraska incinerator.'}",
+      "{'name': 'Reworld, formerly Covanta', 'position': 'Major waste-to-energy operator; 2024 rebrand from Covanta and 30+ North American thermomechanical treatment facilities with WTE technology.'}"
+    ],
+    "current_dynamics": "The 2025-2026 operating environment is better for price than volume. Public company filings show landfill and collection yields continuing to rise, while residential and construction-related volumes are mixed and event-driven special waste from wildfires and hurricanes can temporarily lift landfill activity. Hazardous waste remains structurally attractive because disposal capacity is difficult to permit and industrial customers have fewer substitutes. At the same time, recycling and organics diversion cap long-run landfill tonnage growth, and lower recycled commodity prices can pressure adjacent recycling economics. PFAS regulation, landfill methane reporting updates and tighter emissions scrutiny are increasing compliance complexity, but they also create demand for specialized disposal, monitoring, remediation and consulting-backed waste services.",
+    "whats_growing": [
+      "2025 hazardous and special waste pricing, supported by limited permitted disposal and incineration capacity",
+      "2025 landfill yield, with WM reporting 6.5% municipal solid waste landfill yield and Republic reporting 4.1% average yield across revenue",
+      "2025 renewable landfill gas and RNG projects, with WM renewable energy revenue rising to $478 million in 2025 from $318 million in 2024",
+      "2025 healthcare and regulated medical waste exposure after WM completed the $7.2 billion Stericycle acquisition in November 2024",
+      "2025-2026 PFAS-related testing, treatment, disposal and remediation demand after PFOA and PFOS CERCLA designation",
+      "2025 disaster and remediation waste, including wildfire and hurricane cleanup volumes reported by large operators"
+    ],
+    "whats_shrinking": [
+      "2025 residential collection volumes at large operators as companies exited lower-margin contracts and household waste normalized",
+      "2025 large-container and some construction-and-demolition volumes where commercial construction and renovation softened",
+      "2025 recycling commodity yield for single-stream materials, with WM citing an approximately 20% decline in average single-stream commodity prices versus 2024",
+      "Long-run share of untreated MSW going to landfills in jurisdictions with recycling, organics and zero-waste mandates",
+      "Small independent landfill operators' share as compliance costs, airspace needs and tuck-in M&A favor scaled operators"
+    ],
+    "recent_developments": [
+      "2024-04-03: EPA signed GHGRP landfill reporting amendments updating methane modeling factors and collection-efficiency assumptions for MSW landfills.",
+      "2024-04-19: EPA finalized CERCLA hazardous-substance designation for PFOA and PFOS, increasing attention on PFAS handling, disposal and remediation liability.",
+      "2024-04-16: Covanta announced its rebrand to Reworld, repositioning the WTE operator around broader sustainable waste solutions.",
+      "2024-11-04: WM completed its $7.2 billion enterprise-value acquisition of Stericycle, expanding regulated medical waste and secure information destruction services.",
+      "2025-12-31: WM reported 2025 revenue of $25.204 billion, up 14.2%, with landfill volume gains and Stericycle acquisition contribution.",
+      "2026-06-11: Census QSS showed NAICS 562 revenue of $39.593 billion in Q1 2026, roughly flat year over year after strong 2025 revenue levels."
+    ],
+    "outlook": "The industry should remain a low-to-mid single-digit grower through 2026, with revenue supported more by price, special-waste mix, hazardous-waste demand and renewable-gas monetization than by broad tonnage growth. Landfill airspace scarcity and permitting barriers protect incumbents, while methane, PFAS and groundwater rules raise compliance costs and favor firms with engineering, monitoring and balance-sheet capacity. The main downside risks are weak construction and industrial production, diversion mandates, lower recycling commodity prices, fuel and labor inflation, and political or community resistance to new disposal capacity. The most attractive pockets are hazardous waste, regulated medical waste, special waste, PFAS-related disposal, landfill gas/RNG, and integrated environmental solutions that bundle collection, transfer, disposal, remediation and reporting.",
+    "themes": [
+      "Landfill scarcity and pricing power",
+      "Hazardous waste capacity as a moat",
+      "PFAS regulation and liability",
+      "Landfill methane monitoring and RNG monetization",
+      "Waste-to-energy repositioning",
+      "Consolidation and vertical integration",
+      "Special waste from disasters and remediation",
+      "Recycling diversion as both threat and adjacency",
+      "High compliance and post-closure costs",
+      "Industrial and construction cycle exposure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/waste-treatment-and-disposal-services-in-the-us.txt",
+      "https://fred.stlouisfed.org/data/WTADRAEEF45622",
+      "https://fred.stlouisfed.org/data/REVEF562211ALLEST",
+      "https://fred.stlouisfed.org/series/REVEF562212ALLEST",
+      "https://fred.stlouisfed.org/data/REV562TAXABL144QNSA",
+      "https://alfred.stlouisfed.org/series?seid=REV562TAXABL144QSA",
+      "https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling",
+      "https://www.epa.gov/ghgreporting/subpart-hh-municipal-solid-waste-landfills",
+      "https://www.epa.gov/lmop/frequent-questions-about-landfill-gas",
+      "https://www.epa.gov/brownfields/faqs-what-epas-designation-pfoa-and-pfos-cercla-hazardous-substances-means-epas",
+      "https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-critical-rule-clean-pfas-contamination-protect",
+      "https://www.sec.gov/Archives/edgar/data/823768/000110465926012049/wm-20251231x10k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000094/rsg-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1318220/000110465926013700/wcn-20251231x10k.htm",
+      "https://www.sec.gov/Archives/edgar/data/822818/000082281826000009/clh-20251231.htm",
+      "https://www.reworldwaste.com/what-we-do/renewable-energy-recovery",
+      "https://www.reworldwaste.com/news-resources/newsroom/reworld-releases-2024-sustainability-report-showcases-growth-and-enhanced-services"
+    ],
+    "one_sentence": "US waste treatment and disposal operators run landfills, hazardous-waste treatment facilities and waste-to-energy assets, earning mostly recurring tipping and service fees from municipalities, haulers, manufacturers, construction customers, healthcare providers and industrial waste generators.",
+    "slug": "waste-treatment-and-disposal-services-in-the-us"
+  },
+  {
+    "title": "Watch & Jewelry Repair",
+    "sector": "Consumer Services",
+    "one_liner": "Small, craft-based repair shops benefit when owners maintain watches and jewelry instead of replacing them, but growth is limited by scarce skilled labor and weak discretionary foot traffic.",
+    "overview": "This industry covers establishments primarily providing repair and maintenance of watches, clocks and jewelry without primarily retailing new goods. Demand is tied to jewelry ownership, luxury and bridal purchases, household discretionary income, mall and main-street retail traffic, and the economics of repair versus replacement. The 2020 pandemic shock reduced foot traffic sharply, but the trade has since been supported by higher replacement costs, high gold prices, extended-service plans at chains, mail-in repair workflows and consumer interest in vintage, inherited and pre-owned luxury pieces.",
+    "key_stats": {
+      "market_size": "2025: about $1.6 billion revenue in 2020 dollars, based on the IBISWorld baseline projection from 2020 to 2026",
+      "growth": "2020-2026: about 0.75% projected annual revenue growth in the baseline file",
+      "profit_margin": "2020: 6.7% EBIT margin in the baseline file",
+      "establishments": "2020: 19,397 establishments in the baseline file; 2025 baseline projection implies roughly 19,400-19,500 establishments",
+      "employment": "2020: 21,942 industry workers in the baseline file; BLS reported 35,100 jewelers and precious stone and metal workers across all employer industries in 2024",
+      "labor_market": "2024-2034: BLS projects jeweler and precious-stone/metal-worker employment to decline 5%, with about 4,000 annual openings from replacement needs",
+      "downstream_retail_indicator": "June 2026: Census reported total US retail and food services sales of $768.6 billion, up 6.7% from June 2025; nonstore retailers were up 12.2% year over year",
+      "input_price_indicator": "2025: World Gold Council reported global gold jewelry demand value of $172 billion, up 18%, while physical jewelry demand volume fell 18% to 1,542 tonnes",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.58 billion revenue in 2020 dollars, modeled from the baseline 2020 revenue of $1.559 billion and 0.75% projected annual growth",
+      "growth": "2022: about +0.75% year-over-year projected revenue growth under the baseline 2020-2026 forecast",
+      "context": "2022 baseline remains below the pre-pandemic growth path because the 2020 report recorded a 19.4% revenue decline in 2020 and only modest recovery thereafter"
+    },
+    "how_it_makes_money": [
+      "Labor charges for ring sizing, chain repair, soldering, clasp replacement, stone tightening and resetting",
+      "Watch battery replacement, band sizing, crystal replacement, cleaning and mechanical servicing",
+      "Polishing, rhodium plating, engraving, restoration and custom modification work",
+      "Appraisals and insurance documentation for higher-value pieces",
+      "Parts, findings, replacement stones, watch straps and refurbished item resale",
+      "Wholesale, mail-in or warranty repair work for jewelry retailers and service-plan providers"
+    ],
+    "cost_structure": {
+      "labor": "Highest operating cost; skilled bench jewelers, watchmakers and polishers determine throughput and quality",
+      "purchases": "Replacement parts, findings, batteries, straps, crystals, stones, polishing compounds and precious-metal inputs",
+      "rent_and_utilities": "Small storefronts and mall kiosks carry local rent exposure; home-based and mail-in operators reduce this burden",
+      "insurance_and_security": "Material cost for shops handling high-value watches, diamonds and gold jewelry",
+      "marketing_and_software": "Growing spend on local search, reviews, repair tracking, point-of-sale systems and shipping workflows",
+      "profitability": "Margins are best for specialized high-trust repair, appraisal and restoration work; commodity battery and basic sizing jobs are more price competitive"
+    },
+    "major_players": [
+      "Independent local watch and jewelry repair shops",
+      "Bench jewelers operating inside or alongside local jewelry stores",
+      "Signet Jewelers service centers and Jared Design & Service Centers",
+      "Authorized service networks for Rolex, Richemont, Swatch Group, LVMH and other luxury watch brands",
+      "Mail-in and digital repair platforms serving jewelry retailers and repair facilities"
+    ],
+    "current_dynamics": "The industry is still dominated by small independent operators, but consumer expectations are shifting toward tracked, insured mail-in repair and faster status communication. High precious-metal prices make replacement more expensive, which can push owners toward repair, resizing and restoration, while also raising parts and scrap-metal costs. Jewelry retail traffic remains mixed as e-commerce gains share, but service counters and extended-service plans are valuable because repair work builds repeat visits and can carry better margins than merchandise sales. Skilled labor is the main constraint: BLS projected a 5% decline in jeweler employment from 2024 to 2034 even as replacement openings persist.",
+    "whats_growing": [
+      "Mail-in repair intake, tracking and insured shipping workflows in 2025-2026",
+      "Restoration of inherited, vintage and pre-owned luxury watches and jewelry",
+      "Service plans, warranty work and chain-operated repair centers in 2025-2026",
+      "Appraisals and insurance documentation as gold and jewelry values rise",
+      "Laser welding, CAD/CAM-assisted custom work and higher-productivity bench tools"
+    ],
+    "whats_shrinking": [
+      "Low-skill commodity watch battery and strap work exposed to kiosks, retailers and DIY replacement",
+      "Standalone retail-only jewelry stores without differentiated service capability",
+      "Available pools of trained bench jewelers and watchmakers, with BLS projecting 2024-2034 occupational decline",
+      "Impulse repair traffic tied to enclosed malls and weaker local jewelry-store footfall",
+      "Demand for new gold jewelry by physical volume, with World Gold Council reporting a 2025 global volume decline"
+    ],
+    "recent_developments": [
+      "2024-09-25: Census released the 2022 Service Annual Survey tables covering employer and nonemployer service revenue benchmarks.",
+      "2025-01-29: World Gold Council reported 2025 global jewelry demand value reached $172 billion, up 18%, while jewelry volume fell 18% to 1,542 tonnes.",
+      "2025-09: BLS Occupational Outlook Handbook reported 2024 jeweler employment of 35,100 and projected a 5% decline from 2024 to 2034.",
+      "2026-06-04: Kering highlighted circular services from repair to resale as part of its next sustainability chapter for luxury and jewelry businesses.",
+      "2026-07-16: Census reported June 2026 US retail and food services sales of $768.6 billion, up 6.7% year over year, with nonstore retailers up 12.2%.",
+      "2026-08-03: COMEX gold settled above $4,000 per troy ounce, keeping precious-metal replacement costs elevated for jewelry owners and repair shops."
+    ],
+    "outlook": "Revenue should grow slowly through 2026 rather than break out, with repair economics helped by high replacement costs, aging jewelry ownership, luxury resale and service-plan attachment. The best-positioned operators will be trusted specialists with insured handling, transparent estimates, appraisal capability and digital job tracking. The main risks are a shortage of skilled labor, volatile gold and parts costs, weaker discretionary spending, and competition from retailers that internalize repairs through centralized service centers.",
+    "themes": [
+      "Repair over replacement",
+      "Luxury resale and vintage restoration",
+      "High gold-price effects",
+      "Skilled labor scarcity",
+      "Mail-in service workflows",
+      "Service plans and warranty repairs",
+      "Fragmented local operators",
+      "Trust, security and insurance"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/watch-and-jewelry-repair.txt",
+      "https://www.census.gov/naics/?details=811490&input=811490&year=2022",
+      "https://www.census.gov/data/tables/2022/econ/services/sas-naics.html",
+      "https://www.census.gov/retail/sales.html?stream=business",
+      "https://www.bls.gov/ooh/production/jewelers-and-precious-stone-and-metal-workers.htm",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2025/jewellery",
+      "https://www.kering.com/en/news/kering-publishes-10-year-impact-report-charting-a-decade-of-action/",
+      "https://www.wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67",
+      "https://finnhub.io/api/news?id=959e0c08073b801c311b62b5655bf807b3717618e85274b619dc5ba6ee565ee4"
+    ],
+    "one_sentence": "The US watch and jewelry repair industry is a fragmented consumer-service trade centered on sizing, soldering, stone resetting, polishing, battery and strap work, appraisals, restoration and authorized watch servicing.",
+    "slug": "watch-and-jewelry-repair"
+  },
+  {
+    "title": "Water & Air Quality Testing Services",
+    "sector": "Energy & Environment",
+    "one_liner": "Compliance-driven labs and field technicians test drinking water, wastewater, indoor air, ambient air and asbestos hazards for utilities, builders, industrial sites, public agencies and households.",
+    "overview": "Operators collect samples, run lab analyses and issue compliance documentation for water contaminants, air pollutants, mold, asbestos, bacteria, heavy metals, pesticides, volatile organic compounds and other regulated substances. Demand is recurring because public water systems, construction projects, industrial facilities, food producers, property owners and municipalities must prove compliance with health, safety and environmental standards. The baseline 2021 mix was led by water quality testing at 52.1% of revenue, air quality testing at 34.0% and asbestos testing at 13.9%. By 2025, the strongest incremental demand is tied to PFAS drinking-water monitoring, lead service line inventories and replacement programs, tighter PM2.5 air-quality standards and continuing infrastructure spending.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: $7.5 billion, derived from the 2021 IBISWorld baseline of $6.735 billion and the baseline 2021-2026 projected CAGR of 2.6%.",
+      "growth": "2025 estimated revenue growth: about 2.6%, in line with the baseline 2021-2026 projected CAGR; 2025 employment was 48,283 workers, up 2.4% in 2025 per IBISWorld public employment data.",
+      "employment": "2025 employment: 48,283 workers; 2024 employment: 47,130 workers.",
+      "revenue_per_employee": "2025 estimated revenue per employee: about $155,000, using estimated 2025 revenue of $7.5 billion and 48,283 employees.",
+      "service_mix": "2021 baseline revenue mix: water quality testing 52.1%, air quality testing 34.0%, asbestos testing 13.9%.",
+      "customer_mix": "2021 baseline customer mix: industrial, transportation and construction 48.0%; consumer 18.8%; agriculture and food 17.8%; environmental 8.4%; public sector 7.0%.",
+      "concentration": "2025 public IBISWorld company-profile data reported Culligan International at an estimated 14.6% share of industry revenue, while the broader market remains fragmented.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: $6.9 billion, calculated from the 2021 baseline of $6.735 billion and the baseline 2021-2026 projected CAGR of 2.6%.",
+      "growth": "2022 estimated revenue growth: about 2.6%, consistent with the baseline 2021-2026 projected CAGR.",
+      "baseline_context": "The 2021 baseline file reported revenue of $6.735 billion, profit of $606 million, profit margin of 9.0%, 3,328 enterprises, 3,997 establishments, 43,265 employees and $2.942 billion in wages, all in 2021 dollars."
+    },
+    "how_it_makes_money": "Revenue comes from project-based and recurring fees for field sampling, laboratory analysis, chain-of-custody documentation, compliance reporting, building assessments, asbestos and mold inspections, drinking-water and wastewater testing, ambient and indoor air monitoring, and specialized contaminant panels such as PFAS, lead, mercury, nitrates, bacteria and VOCs. Larger firms also sell bundled inspection, certification, consulting and remediation-support services to utilities, industrial customers and public agencies.",
+    "cost_structure": "The business is labor-heavy and compliance-heavy. In the 2021 baseline, wages were $2.942 billion, equal to about 43.7% of 2021 revenue, and profit was $606 million, equal to a 9.0% margin. Major nonlabor costs include lab supplies, sample containers, reagents, calibration gases, analytical instruments, vehicles, insurance, accreditation, software, data management and subcontracted specialty testing. 2025-2026 cost pressure is elevated for skilled technicians, chemists, certified industrial hygienists, QA staff and advanced PFAS instrumentation, while recurring compliance contracts help stabilize utilization.",
+    "major_players": [
+      "Culligan International",
+      "Eurofins Environment Testing",
+      "SGS North America",
+      "Bureau Veritas",
+      "Intertek",
+      "Pace Analytical Services",
+      "ALS Environmental",
+      "Montrose Environmental Group"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: higher regulatory testing demand and tighter customer budgets in interest-rate-sensitive construction and commercial real estate. Water testing is the strongest demand center because the 2024 PFAS drinking-water rule requires initial monitoring by 2027 and compliance by 2029, while the 2024 Lead and Copper Rule Improvements require more rigorous tap sampling, public inventories and lead service line replacement planning. Air testing demand is supported by the 2024 PM2.5 standard, industrial permitting, indoor-air concerns and wildfire-smoke exposure, but discretionary residential mold and air-quality tests are more cyclical. Public funding remains a major tailwind: EPA announced $6.2 billion in FY2025 Bipartisan Infrastructure Law water investments in October 2024 and $3.0 billion in new lead-reduction SRF funding in November 2025.",
+    "whats_growing": "PFAS panels, lead and copper sampling, municipal service-line inventory support, drinking-water compliance monitoring, wastewater and emerging-contaminant testing, infrastructure-project environmental testing, indoor air quality work for schools and commercial buildings, ambient PM2.5 monitoring, and data/reporting services tied to public disclosure requirements.",
+    "whats_shrinking": "Purely discretionary residential testing, lower-complexity commoditized pH and basic potability tests, legacy asbestos testing tied only to new product use, and construction-linked testing in private markets where 2025-2026 activity is pressured by higher financing costs. Asbestos work is not disappearing because older buildings still need abatement and renovation testing, but EPA's 2024 chrysotile asbestos rule reduces future new-use exposure over time.",
+    "recent_developments": [
+      "2024-02: EPA finalized a tighter annual PM2.5 air-quality standard, lowering the primary annual limit from 12.0 to 9.0 micrograms per cubic meter.",
+      "2024-03: EPA finalized a rule prohibiting ongoing uses of chrysotile asbestos, with phaseouts that affect future asbestos-related testing demand.",
+      "2024-04: EPA finalized the first national PFAS drinking-water limits, requiring initial monitoring by 2027 and compliance actions by 2029.",
+      "2024-10: EPA finalized Lead and Copper Rule Improvements requiring lead service line replacement within 10 years in most cases and more rigorous tap sampling.",
+      "2024-10: EPA announced $6.2 billion in FY2025 Bipartisan Infrastructure Law water-infrastructure investments through Clean Water and Drinking Water SRFs.",
+      "2025-11: EPA announced $3.0 billion in new state funding and $1.1 billion in redistributed unused funding to reduce lead in drinking water."
+    ],
+    "outlook": "The industry outlook is positive but not explosive. Estimated 2025 revenue of about $7.5 billion leaves the market near the baseline 2026 projection of $7.7 billion, implying low- to mid-single-digit growth. Through 2026-2030, PFAS compliance deadlines, lead service line replacement programs, wastewater upgrades, PM2.5 implementation and aging public infrastructure should support recurring work. Private construction softness can cap near-term volume, but water-utility and public-sector mandates give the industry a steadier floor than many construction-adjacent services. Larger operators should keep gaining share where customers need multi-state coverage, accredited labs, rapid turnaround and defensible compliance reporting.",
+    "themes": [
+      "PFAS compliance cycle",
+      "Lead service line replacement",
+      "Aging water infrastructure",
+      "Tighter air-quality standards",
+      "Indoor air quality and mold risk",
+      "Asbestos in legacy buildings",
+      "Infrastructure-funded testing demand",
+      "Laboratory consolidation",
+      "Accreditation and chain-of-custody rigor",
+      "Data reporting and public disclosure"
+    ],
+    "data_year": "2025 with 2026 regulatory and source updates",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/water-and-air-quality-testing-services.txt",
+      "https://www.ibisworld.com/united-states/employment/water-air-quality-testing-services/6068/",
+      "https://www.ibisworld.com/united-states/company/culligan-international-co/405978/",
+      "https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas",
+      "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P101DTXS.TXT",
+      "https://www.epa.gov/newsreleases/biden-harris-administration-issues-final-rule-requiring-replacement-lead-pipes-8",
+      "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P101C1EE.txt",
+      "https://www.epa.gov/newsreleases/epa-finalizes-stronger-standards-harmful-soot-pollution-significantly-increasing",
+      "https://www.epa.gov/pm-pollution/final-reconsideration-national-ambient-air-quality-standards-particulate-matter-pm",
+      "https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-ban-ongoing-uses-asbestos-protect-people-cancer",
+      "https://www.epa.gov/newsreleases/biden-harris-administration-announces-36-billion-water-infrastructure-through",
+      "https://www.epa.gov/newsreleases/epa-announces-3-billion-new-funding-states-reduce-lead-drinking-water",
+      "https://www.census.gov/construction/c30/current/index.html"
+    ],
+    "one_sentence": "The US Water & Air Quality Testing Services industry is a fragmented, regulation-sensitive testing market that has grown from a 2021 baseline of $6.7 billion toward an estimated 2025 market size of about $7.5 billion as PFAS, lead-pipe, particulate-matter and asbestos rules expand required monitoring.",
+    "slug": "water-and-air-quality-testing-services"
+  },
+  {
+    "title": "Wig & Hairpiece Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, fragmented US manufacturing niche serving fashion, cultural and medical hair-loss needs while competing against dominant low-cost imports.",
+    "overview": "The industry manufactures wigs and hairpieces for aesthetic, cultural, religious and medical uses. The legacy 2021 baseline expected steady post-pandemic growth, but the current 2025 IBISWorld update shows the opposite: US revenue fell at a 2020-2025 CAGR of 3.9% to an estimated $161.8 million in 2025, with only 0.6% growth projected for 2025. Demand still benefits from aging, cancer-related and alopecia-related hair loss, higher disposable income for premium custom products and renewed male interest in modern hair systems, but domestic manufacturers remain squeezed by low-cost imports, tariff uncertainty, expensive human hair inputs and alternatives such as hair transplants, medications and minimalist natural-hair trends.",
+    "key_stats": {
+      "market_size": "$161.8 million in 2025; IBISWorld FAQ also lists $161.8 million for 2026",
+      "growth": "2025 revenue projected +0.6%; 2020-2025 CAGR -3.9%",
+      "businesses": "40 businesses in 2025, down at a 2020-2025 CAGR of 1.0%",
+      "concentration": "No company held more than 5% US industry share in 2025",
+      "health_spending_driver": "US national health expenditures were $5.3 trillion in 2024 and are projected by CMS to grow 5.4% annually over 2025-2034",
+      "aging_driver": "US population age 65+ rose from 55.6 million in 2020 to 64.6 million in 2025, a 16.2% increase",
+      "disposable_income_driver": "US disposable personal income was $22.866 trillion in 2025, up from $21.918 trillion in 2024",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$261.3 million in 2022, baseline-derived from the 2021 IBISWorld forecast path of $258.2 million in 2021 growing 1.2% annually to 2026",
+      "growth": "Baseline forecast implied +1.2% in 2022",
+      "profit_margin": "5.8% in 2021 baseline",
+      "wages": "$53 million in 2021 baseline, equal to about 20.5% of 2021 revenue",
+      "imports": "$1.232 billion in 2021 baseline, equal to 83.8% of domestic demand",
+      "exports": "$19.6 million in 2021 baseline, equal to 7.6% of revenue"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, sourcing hair or synthetic fibers, ventilating and assembling wigs, toupees, toppers, extensions and medical hair prostheses, then selling through salons, wig boutiques, medical channels, religious/cultural specialists, wholesale distributors, ecommerce and custom fitting services. Higher margins come from custom human-hair units, medical and cranial prosthesis work, lace-front and hand-tied construction, color matching, repairs and repeat replacement cycles.",
+    "cost_structure": {
+      "labor": "High-touch custom work is labor intensive; baseline wages were $53 million in 2021, about 20.5% of 2021 revenue.",
+      "materials": "Human hair, synthetic fibers, lace, caps, adhesives, packaging and imported components are key variable costs; 2025 industry commentary cites rising raw-material expenses as a margin pressure.",
+      "profit": "Baseline profit margin was 5.8% in 2021; current 2025 public IBISWorld page confirms financial benchmarks exist but does not disclose the 2025 margin publicly.",
+      "tariffs_and_imports": "China-origin synthetic hair extensions under HTSUS 6704.19.0000 faced an additional 20% ad valorem China/Hong Kong duty effective March 4, 2025, on top of applicable Chapter 99 reporting and any Section 301 duties.",
+      "overhead": "Rent, utilities, ecommerce, inventory holding, shipping, compliance, fitting rooms, marketing and returns are meaningful for firms with direct-to-consumer or salon-facing operations."
+    },
+    "major_players": [
+      "No company with more than 5% US industry share in 2025",
+      "Aderans Hair Goods / Rene of Paris",
+      "HairClub / Aderans America Holdings",
+      "Jon Renau",
+      "Amekor Industries",
+      "Estetica Designs"
+    ],
+    "current_dynamics": "The 2025-2026 market is smaller than the old baseline expected. Domestic demand is bifurcated: low-priced fashion wigs and extensions are largely import-led, while US operators defend niches in custom, medical, religious, premium human-hair and service-heavy fitting channels. Tariffs raise landed costs for China-origin goods but also increase uncertainty for firms that import fibers, finished wigs or components. Aging and healthcare spending support medical demand, while social media is reviving male hair systems, yet traditional wig demand is pressured by natural-hair acceptance, shaved-head preferences and hair-restoration substitutes.",
+    "whats_growing": [
+      "Modern male hair systems and toupees, supported by 2025-2026 social-media visibility",
+      "Medical wigs and cranial prostheses tied to cancer treatment, alopecia and aging-related hair loss",
+      "Custom and premium human-hair units where fitting, color matching and service matter",
+      "Synthetic and blended products that offer lower price points and improved realism",
+      "Online discovery and direct-to-consumer replacement sales"
+    ],
+    "whats_shrinking": [
+      "Traditional mass-market domestic wig manufacturing exposed to import competition",
+      "Premium discretionary purchases among price-sensitive consumers facing high human-hair costs",
+      "Generic undifferentiated products that compete directly with China, Indonesia, Vietnam and Bangladesh sourcing",
+      "Male wig/toupee stigma-era products replaced by more natural-looking hair systems",
+      "Baseline-era growth expectations: the 2021 forecast pointed to $274.3 million by 2026, but the current public 2025-2026 figure is $161.8 million"
+    ],
+    "recent_developments": [
+      "Mar 2021: Baseline IBISWorld report estimated 2021 revenue at $258.2 million and projected $274.3 million by 2026.",
+      "Mar 4 2025: China/Hong Kong goods including HTSUS 6704.19.0000 became subject to an additional 20% ad valorem duty under the cited Chapter 99 provision.",
+      "Sep 11 2025: CBP ruling NY N352618 classified synthetic hair extensions under HTSUS 6704.19.0000 and confirmed no lower-duty exemption for the China-origin product in that ruling.",
+      "Nov 2025: IBISWorld updated the US industry report, estimating 2025 revenue at $161.8 million after a 2020-2025 CAGR decline of 3.9%.",
+      "Mar 26 2026: The Guardian reported a modern toupee and hair-system revival, including Aderans reporting a 43% 2025 increase in men buying hair systems.",
+      "Jun 2026: Census Vintage 2025 estimates showed the US 65+ population reached 64.6 million in 2025, up 16.2% from 2020."
+    ],
+    "outlook": "The industry is likely to stabilize but not return quickly to the old 2021 forecast path. Growth opportunities are strongest in custom medical, religious, premium human-hair and men’s hair-system channels, especially where domestic providers bundle manufacturing with consultation, fitting, repair and replacement subscriptions. Headwinds remain significant: imports still dominate price-sensitive categories, tariffs can raise both finished-goods and input costs, and substitutes such as hair transplants, medications and natural-hair styling will keep a ceiling on traditional wig demand. A practical 2026 outlook is low growth from a reduced base, with margin upside only for differentiated operators that avoid commodity import competition.",
+    "themes": [
+      "Import competition",
+      "Tariff exposure",
+      "Aging population",
+      "Medical hair loss demand",
+      "Custom and premiumization",
+      "Men's hair systems revival",
+      "Synthetic fiber improvements",
+      "Fragmented operators",
+      "Hair restoration substitutes",
+      "Social-media-driven demand"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld - Wig & Hairpiece Manufacturing in the US Industry Data and Analysis', 'url': 'https://www.ibisworld.com/united-states/industry/wig-hairpiece-manufacturing/4251/', 'date': 'November 2025', 'notes': 'Used for 2025 revenue, 2020-2025 CAGR, 2025 growth, 2025 business count, concentration and current industry dynamics.'}",
+      "{'title': 'Local baseline file - wig-and-hairpiece-manufacturing.txt', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/wig-and-hairpiece-manufacturing.txt', 'date': 'March 12 2021', 'notes': 'Used for 2021 baseline revenue, 2026 baseline forecast, import share, exports, wages, profit margin and product mix.'}",
+      "{'title': 'CMS National Health Expenditure Fact Sheet', 'url': 'https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet', 'date': 'June 2026', 'notes': 'Used for 2024 health spending and 2025-2034 NHE growth projection.'}",
+      "{'title': 'U.S. Census Bureau Vintage 2025 Population Estimates', 'url': 'https://www.census.gov/newsroom/press-releases/2026/vintage-2025-pop-estimates.html', 'date': 'June 2026', 'notes': 'Used for 2025 US 65+ population and 2020-2025 aging trend.'}",
+      "{'title': 'ALFRED / BEA Disposable Personal Income', 'url': 'https://alfred.stlouisfed.org/series?seid=A067RC1A027NBEA', 'date': 'May 28 2026 update', 'notes': 'Used for 2025 annual disposable personal income.'}",
+      "{'title': 'CBP ruling NY N352618 via CustomsMobile', 'url': 'https://www.customsmobile.com/rulings/docview?doc_id=NY+N352618&highlight=category%3AClassification', 'date': 'September 11 2025', 'notes': 'Used for HTSUS 6704.19.0000 classification and 2025 China/Hong Kong additional duty information.'}",
+      "{'title': 'The Guardian - The remarkable return of the toupee', 'url': 'https://www.theguardian.com/fashion/2026/mar/26/bald-toupee-hair-transplants-hairpieces-glued', 'date': 'March 26 2026', 'notes': 'Used for 2025 male hair-system revival evidence and Aderans-reported 43% increase.'}",
+      "{'title': 'Aderans Group company information', 'url': 'https://www.aderans.co.jp/corporate/english/company/group/', 'date': '2026 accessed', 'notes': 'Used for Aderans North America and Aderans Hair Goods context.'}",
+      "{'title': 'Jon Renau company information', 'url': 'https://jonrenau.com/our-story/', 'date': '2026 accessed', 'notes': 'Used for notable operator context.'}"
+    ],
+    "one_sentence": "US wig and hairpiece manufacturers make human-hair, synthetic and blended wigs, toupees, extensions and medical hair prostheses, but 2025-2026 performance is constrained by import competition, raw-material costs, changing beauty preferences and substitution from hair restoration treatments.",
+    "slug": "wig-and-hairpiece-manufacturing"
+  }
+]

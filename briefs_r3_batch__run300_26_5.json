@@ -1,0 +1,423 @@
+[
+  {
+    "title": "Backpack & Courier Bag Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed US manufacturing niche serving backpack, messenger bag, outdoor pack, school bag and branded carry-goods demand.",
+    "overview": "The industry manufactures backpacks and courier or messenger bags from textile, canvas, rubberized, plastic-based and related materials for school, outdoor, commuter, travel, workwear and branded corporate uses. The 2021 baseline showed $164.2 million of US industry revenue, $109.2 million of imports, $10.9 million of exports, $45.6 million of wages, 86 establishments and 1,178 employees, with imports supplying 41.6% of domestic demand. Applying the baseline 2021–2026 forecast path implies an estimated 2025 domestic manufacturing market of about $170.3 million and a 2026 forecast of $171.9 million, while demand-side data show the broader US backpack market at $5.8809 billion in 2025 and $6.2218 billion in 2026. Domestic manufacturers compete less on low price and more on technical materials, durability, Made-in-USA positioning, small-batch flexibility, repairability, customization, military/fire/outdoor specifications and premium brand equity.",
+    "key_stats": {
+      "market_size": "2025e domestic manufacturing revenue: $170.3 million; 2026f: $171.9 million",
+      "growth": "2021–2026f domestic manufacturing revenue CAGR: 0.9%; 2025e year-over-year growth: about 0.9%",
+      "broader_demand": "2025 US backpack market revenue: $5.8809 billion; 2026 estimate: $6.2218 billion; 2026–2033 CAGR: 7.2%",
+      "baseline_imports": "2021 imports: $109.2 million; 2026f imports: $110.1 million",
+      "baseline_exports": "2021 exports: $10.9 million; 2026f exports: $11.6 million",
+      "baseline_employment": "2021 employment: 1,178 workers; 2021 establishments: 86",
+      "outdoor_participation": "2025 outdoor recreation participation: 183.2 million Americans, 59% of the age-6-plus population",
+      "leisure_driver": "2025 average leisure and sports time: 5.16 hours per day for people age 15 and over",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022e domestic manufacturing revenue: $165.7 million",
+      "growth": "2022e year-over-year growth: 0.9%",
+      "method": "Estimated from the baseline 2021 revenue of $164.2 million using the baseline 2021–2026 forecast CAGR of 0.9%.",
+      "context": "Baseline file reported 2021 revenue of $164.2 million, 2021 profit of $7.0 million, 2021 profit margin of 4.3%, 2021 imports of $109.2 million and 2021 domestic demand of $263.0 million."
+    },
+    "how_it_makes_money": "Manufacturers sell finished backpacks, messenger bags, courier bags, outdoor packs and related soft goods to wholesale customers, brand owners, government and institutional buyers, specialty outdoor and sporting goods retailers, ecommerce channels and direct-to-consumer customers. Higher-margin revenue comes from technical packs, tactical/fire/military load-bearing products, waterproof or abrasion-resistant materials, domestic small-batch production, corporate-logo customization, limited color runs, repairs and premium Made-in-USA positioning.",
+    "cost_structure": {
+      "purchases_materials": "High share of costs; includes nylon, polyester, canvas, leather trims, foam, mesh, webbing, buckles, zippers, thread, labels, packaging and outsourced components.",
+      "wages": "Material for domestic producers; the baseline file reported 2021 wages of $45.6 million, equal to about 27.8% of 2021 revenue.",
+      "profit": "Thin but positive; baseline 2021 profit margin was 4.3%, supported by premium positioning but capped by import competition.",
+      "rent_utilities_equipment": "Moderate; sewing, cutting, finishing, warehousing and quality-control operations require space and equipment but the industry has low capital intensity versus heavier manufacturing.",
+      "freight_tariffs_compliance": "Increasingly important in 2025–2026 because imported inputs and finished competitive products face layered tariff, customs and de minimis changes.",
+      "marketing_r_and_d": "Important for premium brands; spending supports ergonomic designs, lighter materials, waterproofing, tech pockets, modular storage, sustainability claims and direct-to-consumer customer acquisition."
+    },
+    "major_players": [
+      "{'name': 'VF Corporation', 'role': 'Brand owner with major backpack labels including The North Face, JanSport, Eastpak and Kipling; baseline file estimated VF at 27.7% of 2021 industry revenue, though much production is outsourced globally.'}",
+      "{'name': 'YETI / Mystery Ranch', 'role': 'Premium outdoor and load-bearing pack platform; YETI completed the Mystery Ranch acquisition in 2024 for about $36.2 million.'}",
+      "{'name': 'TOM BIHN', 'role': 'Seattle-based premium bag maker retaining backpack, travel bag and briefcase manufacturing in its Seattle factory in 2025 while moving some accessories and tote/crossbody production to a Vietnam partner.'}",
+      "{'name': 'Timbuk2', 'role': 'Messenger bag and commuter backpack brand with strong courier-bag heritage and outsourced/global supply-chain exposure.'}",
+      "{'name': 'Mission Workshop / Chrome Industries and other specialty brands', 'role': 'Premium urban cycling, commuter and technical bag brands competing on design, materials, durability and niche communities rather than mass-market price.'}"
+    ],
+    "current_dynamics": "Demand is healthier than domestic manufacturing revenue suggests: students, hybrid workers, commuters, travelers and outdoor participants are buying more functional bags, but most high-volume production remains offshore. Domestic producers are using premium materials, shorter production runs, repairability, government/fire/military niches and Made-in-USA messaging to defend pricing. Tariff and customs changes in 2025 increased landed-cost uncertainty for China-origin travel goods and direct-to-consumer low-value imports, giving some support to domestic and diversified sourcing while also raising input and inventory-management costs. Broader consumer demand remains tied to disposable income, back-to-school spending, outdoor participation, office commuting, air travel and ecommerce conversion.",
+    "whats_growing": [
+      "2025–2026 technical outdoor, travel and everyday-carry backpacks with laptop sleeves, organization panels and weather-resistant materials.",
+      "2025–2026 premium and durable products that justify higher prices through warranty, repairability, domestic production or mission-specific performance.",
+      "2025–2026 outdoor participation-driven demand, with 183.2 million Americans participating in outdoor recreation in 2025.",
+      "2025–2026 sourcing diversification, customs compliance and nearshoring discussions as brands manage China tariff exposure and de minimis changes.",
+      "2025–2026 direct-to-consumer and ecommerce-driven limited runs, custom colors and brand collaborations."
+    ],
+    "whats_shrinking": [
+      "2025–2026 undifferentiated domestic commodity backpack production because import competition remains intense.",
+      "2025–2026 low-margin school and promotional bag production where large overseas factories have scale and labor-cost advantages.",
+      "2025–2026 purely casual outdoor purchasing frequency, since OIA reported record 2025 participation but declining frequency versus pre-pandemic behavior.",
+      "2025–2026 China-only sourcing strategies for travel goods due to layered tariff and low-value shipment policy risk.",
+      "2025–2026 domestic operators unable to absorb wage, rent, fabric, zipper, freight and compliance cost increases without premium pricing."
+    ],
+    "recent_developments": [
+      "2024-02: YETI completed the acquisition of Mystery Ranch, a backpack and load-bearing bag company, for about $36.2 million net of cash acquired.",
+      "2025-02: CBP guidance implemented an additional 10% duty on China and Hong Kong-origin imports effective February 4, 2025, adding cost pressure to imported travel goods.",
+      "2025-08: DHS said the de minimis exemption had grown to 1.36 billion shipments in 2024 and announced suspension of duty-free treatment for low-value shipments from all countries effective August 29, 2025.",
+      "2025-10: TOM BIHN said core backpacks, travel bags and briefcases would remain Made in Seattle while some accessories, totes and crossbody styles would move to a Vietnam partner.",
+      "2026-04: Grand View Research estimated the US backpack market at $5.8809 billion in 2025 and $6.2218 billion in 2026.",
+      "2026-06: BLS reported 2025 leisure and sports time of 5.16 hours per day for people age 15 and over, supporting outdoor and recreation-linked bag demand."
+    ],
+    "outlook": "The domestic manufacturing outlook is slow-growth but not structurally broken. Baseline projections point to 2026 revenue of $171.9 million, only modestly above 2021, because import penetration and offshore scale continue to limit the addressable market for US factories. The better opportunities are in premium technical packs, tactical/fire/military load-bearing gear, durable commuter bags, warranty-backed travel packs, small-batch ecommerce launches and branded customization. 2025–2026 tariff and de minimis changes may narrow the landed-cost gap for some imported goods, but they do not eliminate the labor and scale advantage of Asian production. Operators with strong design, direct customer relationships, flexible sewing capacity and credible durability claims should outperform; commodity manufacturers remain vulnerable to price competition.",
+    "themes": [
+      "Import competition",
+      "Premiumization",
+      "Made-in-USA positioning",
+      "Outdoor recreation demand",
+      "Hybrid work and commuting",
+      "Back-to-school replacement cycles",
+      "Tariff and de minimis disruption",
+      "Technical materials and waterproofing",
+      "Customization and small-batch production",
+      "Repairability and durability",
+      "Sourcing diversification",
+      "Thin manufacturing margins"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: backpack-and-courier-bag-manufacturing.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/backpack-and-courier-bag-manufacturing.txt', 'used_for': '2021 revenue, profit, wages, imports, exports, establishments, employment, domestic demand, 2021–2026 forecast CAGR and industry structure.'}",
+      "{'name': 'Grand View Research, U.S. Backpack Market Size & Outlook, 2026–2033', 'url': 'https://www.grandviewresearch.com/horizon/outlook/backpack-market/united-states', 'used_for': '2025 US backpack market revenue of $5.8809 billion, 2026 estimate of $6.2218 billion and 2026–2033 CAGR of 7.2%.'}",
+      "{'name': 'USITC DataWeb overview', 'url': 'https://www.usitc.gov/applications/dataweb/about', 'used_for': 'Official source context for US import and export statistics from the Department of Commerce and Census Bureau.'}",
+      "{'name': 'Travel Goods Association, New 10% U.S. Tariff on China', 'url': 'https://travelgoods.org/news/1140011', 'used_for': '2025 tariff impact on China-origin travel goods and cited combined tariff examples for textile and plastic travel goods.'}",
+      "{'name': 'U.S. Customs and Border Protection CSMS #63988468', 'url': 'https://content.govdelivery.com/accounts/USDHSCBP/bulletins/3d062f4', 'used_for': 'February 2025 additional duty guidance for China and Hong Kong-origin imports.'}",
+      "{'name': 'U.S. Customs and Border Protection, de minimis China article', 'url': 'https://www.help.cbp.gov/s/article/Article-1915?language=en_US', 'used_for': 'May 2, 2025 end of duty-free de minimis treatment for China-origin products.'}",
+      "{'name': 'U.S. Department of Homeland Security, de minimis suspension release', 'url': 'https://www.dhs.gov/news/2025/07/31/president-trump-ends-unfair-de-minimis-tariff-exemption-major-victory-securing', 'used_for': '2024 de minimis shipment volume of 1.36 billion and 2025 suspension context.'}",
+      "{'name': 'YETI investor release, YETI Acquires Mystery Ranch', 'url': 'https://investors.yeti.com/news/news-details/2024/YETI-Acquires-MYSTERY-RANCH/default.aspx', 'used_for': 'Mystery Ranch acquisition announcement and business rationale.'}",
+      "{'name': 'YETI 2024 SEC filing', 'url': 'https://www.sec.gov/Archives/edgar/data/1670592/000167059225000008/yeti-20241228.htm', 'used_for': '2024 completed acquisition disclosure and integration into bags offerings.'}",
+      "{'name': 'TOM BIHN, Inside the Factory Fall 2025 Update', 'url': 'https://www.tombihn.com/blogs/main/inside-the-factory-fall-2025-update', 'used_for': '2025 Seattle factory and Vietnam partner production update.'}",
+      "{'name': 'Outdoor Industry Association, 2026 Outdoor Participation Trends Report listing', 'url': 'https://outdoorindustry.org/research/reports-library/', 'used_for': '2025 outdoor participation of 183.2 million Americans and 59% participation share.'}",
+      "{'name': 'BLS, American Time Use Survey 2025 Results', 'url': 'https://www.bls.gov/news.release/atus.htm', 'used_for': '2025 leisure and sports activity time data.'}",
+      "{'name': 'BEA, Disposable Personal Income', 'url': 'https://www.bea.gov/data/income-saving/disposable-personal-income', 'used_for': '2026 disposable personal income context as a demand driver.'}"
+    ],
+    "one_sentence": "US backpack and courier bag manufacturing remains a mature, premium-focused niche in 2025–2026, with domestic revenue far smaller than the broader US backpack retail market because mass production is still dominated by overseas suppliers.",
+    "slug": "backpack-and-courier-bag-manufacturing"
+  },
+  {
+    "title": "Bagel Stores",
+    "sector": "Food & Drink",
+    "one_liner": "U.S. bagel stores are a mature, convenience-led breakfast niche where modest sales growth depends on commute recovery, coffee attachment, catering, digital ordering and premium sandwich tickets.",
+    "overview": "Bagel stores prepare and sell bagels, spreads, coffee, breakfast sandwiches and related takeaway or on-premise food. The category remains highly fragmented, but national and regional chains are using franchising, refreshed store formats, digital pickup lanes and catering to capture breakfast and office occasions. Demand is supported by the bagel's low ticket price and coffee pairing, while growth is capped by hybrid work, high restaurant input costs, high wage intensity and substitution from convenience stores, coffee chains, bakeries and quick-service restaurants.",
+    "key_stats": {
+      "market_size": "Estimated U.S. bagel-store revenue of about $1.45 billion in 2025, based on the 2022 IBIS baseline of $1.389 billion and the 2022 IBIS forecast path toward $1.5 billion in 2027.",
+      "growth": "Estimated low-single-digit 2025 growth; baseline IBIS forecast revenue CAGR was 1.0% for 2022-2027 in 2022 dollars.",
+      "profit_margin": "IBIS baseline profit margin was 4.3% in 2022; 2025 restaurant margin pressure remained elevated as the National Restaurant Association estimated average restaurant expenses were 36% higher in 2026 than in 2019.",
+      "establishments": "IBIS baseline establishments were 2,008 in 2022, with a forecast decline through 2027 as consolidation continued.",
+      "employment": "IBIS baseline employment was 29,847 workers in 2022; limited-service restaurant labor costs remained high in 2024 at a median 31.7% of sales according to the National Restaurant Association.",
+      "demand_indicators": "In 2026, 66% of U.S. adults drank coffee on the past day and 73% drank coffee on the past week, supporting bagel-coffee attachment.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.389 billion U.S. industry revenue in 2022 dollars.",
+      "growth": "3.8% revenue growth in 2022 and 0.7% annualized revenue growth for 2017-2022.",
+      "profit": "$60 million profit in 2022, equal to a 4.3% margin.",
+      "establishments": "2,008 establishments in 2022.",
+      "enterprises": "1,598 enterprises in 2022.",
+      "employment": "29,847 workers in 2022.",
+      "wages": "$513 million in wages in 2022, equal to 37.0% of revenue.",
+      "product_mix": "Takeaway food sales were 50.9% of 2022 revenue, on-premise food sales were 33.6% of 2022 revenue, beverages were 8.2% of 2022 revenue and other items were 7.3% of 2022 revenue."
+    },
+    "how_it_makes_money": "Revenue comes primarily from single bagels, bagel dozens, cream cheese and other spreads, breakfast and lunch sandwiches, coffee and cold beverages, catering boxes, office orders, delivery-app orders, loyalty-app orders and, for chains, franchise royalties and licensed-store fees. Operators lift average checks through egg sandwiches, premium proteins such as smoked salmon, specialty schmears, coffee bundles and catering packages.",
+    "cost_structure": "The model is labor- and ingredient-heavy. Major costs include hourly store labor, flour and bakery inputs, dairy and cream cheese, eggs, proteins, coffee, rent for commuter or neighborhood retail sites, utilities for ovens and refrigeration, packaging, delivery commissions, card fees, insurance, local marketing, franchise fees and equipment maintenance. In 2026, food-away-from-home CPI was up 3.9% year over year in February 2026, limited-service meals were up 3.2% year over year, and wheat-flour PPI was 248.712 in June 2026, keeping cost discipline central to margins.",
+    "major_players": [
+      "Einstein Bros. Bagels / Bagel Brands, including Bruegger's Bagels, Noah's New York Bagels and Manhattan Bagel",
+      "Panera Bread, as a bakery-cafe competitor with bagels and breakfast sandwiches",
+      "H&H Bagels",
+      "PopUp Bagels",
+      "Black Seed Bagels",
+      "Independent local and regional bagel shops"
+    ],
+    "current_dynamics": "The 2025-2026 market is healthier than the 2020 trough but not structurally high-growth. Return-to-office is restoring weekday morning foot traffic in dense markets, with Kastle reporting a 56.3% weekly office-occupancy reading for the week of December 8, 2025, the highest post-pandemic level it had recorded. At the same time, weekday traffic is still far below the 2020 pre-pandemic baseline, so stores are leaning harder into residential locations, weekend demand, catering, app ordering and pickup design. Coffee remains a strong attachment item, but much coffee consumption still happens at home, limiting beverage upside for stores without strong convenience or specialty positioning.",
+    "whats_growing": "Premium breakfast sandwiches, specialty and iced coffee pairings, gluten-free and high-protein bagel variants, catering boxes, mobile pickup, loyalty ordering, suburban stores, small-format franchise models, regional chain rollouts and branded frozen or shipped bagels are growing in 2025-2026.",
+    "whats_shrinking": "Low-margin commodity bagel sales, older oversized dine-in footprints, weak downtown commuter-only locations, independent shops without pricing power, licensed nontraditional units and brands that cannot absorb labor, rent and ingredient inflation are shrinking or consolidating in 2025-2026.",
+    "recent_developments": [
+      "2025-03: Panera Brands named Paul Carbone CEO and disclosed Einstein Bros. Brands had more than 700 units excluding 277 licensed units as of March 4, 2025.",
+      "2025-07: PopUp Bagels announced signed franchise deals for 300 new locations and a goal of 100 open stores by the end of 2027.",
+      "2025-09: Einstein Bros. Bagels began rolling out its Elevate the Morning store design with clearer digital pickup and a front-and-center bagel case.",
+      "2025-09: Bruegger's Bagels locations in Cincinnati were slated for conversion to Einstein Bros. Bagels through winter 2026.",
+      "2026-04: Black Seed Bagels reported 10 New York City locations and tripled gross payments volume since 2017 on Square.",
+      "2026-06: Einstein Bros. Bagels announced a plan to add more than 300 new bakeries across the United States by 2030."
+    ],
+    "outlook": "Revenue should grow slowly through 2026-2028 as menu pricing, breakfast sandwiches, catering and chain expansion outweigh weak office-week frequency. The best-positioned stores will be dense neighborhood or suburban commuter locations with fast throughput, visible fresh baking, strong coffee attachment and app-enabled pickup. Margin recovery will be limited because 2026 labor, utilities, occupancy and food costs remain above 2019 levels, so consolidation and franchising are likely to continue.",
+    "themes": [
+      "Return-to-office breakfast traffic",
+      "Digital ordering and pickup shelves",
+      "Premiumization of bagel sandwiches",
+      "Coffee attachment and specialty beverages",
+      "Small-format franchising",
+      "Catering and office orders",
+      "Cost inflation and wage pressure",
+      "Brand consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Local baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/bagel-stores.txt, IBISWorld Bagel Stores report last updated 2022-06-20",
+      "https://www.researchandmarkets.com/report/bagel-shop",
+      "https://www.panerabread.com/en-us/press/press-room/panera-brands-names-paul-carbone-chief-executive-officer.html",
+      "https://www.prnewswire.com/news-releases/einstein-bros-bagels-is-baking-up-big-growth-adding-over-300-new-locations-by-2030-302810716.html",
+      "https://www.restaurantdive.com/news/einstein-bros-bagels-store-redesign-cincinnati/759524/",
+      "https://www.bakingbusiness.com/articles/64420-popup-bagels-eyes-growth-to-300-stores",
+      "https://squareup.com/us/en/press/black-seed-bagels",
+      "https://www.bls.gov/opub/ted/2026/consumer-prices-up-2-4-percent-over-year-ended-february-2026.htm",
+      "https://fred.stlouisfed.org/series/WPU021203",
+      "https://restaurant.org/research-and-media/research/inflation/",
+      "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-labor-costs-are-well-above-historical-averages/",
+      "https://www.ncausa.org/Newsroom/Coffee-tops-Americans-beverage-choices",
+      "https://www.kastle.com/resource/kastle-back-to-work-barometer-hits-all-time-post-pandemic-highs/"
+    ],
+    "one_sentence": "The U.S. Bagel Stores industry is estimated at about $1.45 billion in 2025 revenue, up modestly from $1.389 billion in 2022 as higher menu prices, return-to-office traffic and chain expansion offset weak margins, high labor costs and competition from coffee shops, bakery cafes and fast-food breakfast menus.",
+    "slug": "bagel-stores"
+  },
+  {
+    "title": "Bakery Cafes",
+    "sector": "Food & Drink",
+    "one_liner": "Bakery cafes sell fresh-baked breads, pastries, sandwiches, soups, salads and coffee through fast-casual stores built around breakfast, lunch and snack occasions.",
+    "overview": "Bakery cafes sit between coffee shops, quick-service restaurants and full-service cafes: they bake or finish bakery products on-site and pair them with prepared meals and beverages for dine-in, pickup, delivery and catering. The category is led by Panera Bread, with smaller national and regional chains including Paris Baguette, Corner Bakery Cafe, la Madeleine, Au Bon Pain, Bruegger's Bagels and Tous les Jours, plus thousands of independent local bakeries. Compared with the 2021 baseline, the market is larger in nominal dollars because menu prices and food-away-from-home inflation lifted average tickets, while growth has slowed as consumers trade down, labor remains expensive and large chains rationalize weaker stores.",
+    "key_stats": {
+      "market_size": "2025: $18.6 billion US market size",
+      "growth": "2025: +1.6% year over year",
+      "recent_market_size": "2024: $18.3 billion",
+      "recent_growth": "2024: +0.1% year over year",
+      "five_year_growth": "2020-2025: +2.8% CAGR",
+      "menu_price_inflation": "June 2026: food away from home +3.4% year over year; limited-service meals +3.1%",
+      "input_price_context": "June 2026: cereals and bakery products CPI +2.4% year over year; bakery products +2.5%; bread +3.9%",
+      "labor_cost_context": "2024: limited-service restaurant salaries and benefits were a median 31.7% of sales",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $11.8 billion in 2021 dollars, inferred from the May 2021 IBISWorld baseline forecast of $11.7 billion in 2021 and 1.32% projected annual growth through 2027",
+      "growth": "2022: about +1.3% year over year, based on the May 2021 IBISWorld baseline forecast",
+      "profit_margin": "2021 baseline: 4.9% EBIT margin",
+      "establishments": "2021 baseline: 11,460 establishments",
+      "employment": "2021 baseline: 198,500 employees"
+    },
+    "how_it_makes_money": "Revenue comes from counter-service and digital sales of bakery items, breakfast sandwiches, lunch sandwiches, soups, salads, coffee, espresso drinks, teas, cold beverages, packaged goods, catering platters and delivery orders. Chain franchisors also earn franchise fees, royalties, marketing fund contributions and supply-chain income, while company-operated stores rely on store-level restaurant margins.",
+    "cost_structure": "The largest costs are hourly labor, bakery ingredients and prepared-food inputs, packaging, occupancy, utilities, delivery fees, equipment, insurance and marketing. Labor is structurally high because cafes must bake, assemble food, serve customers and manage peak morning/lunch periods; the National Restaurant Association reported 2024 limited-service salaries and benefits at a median 31.7% of sales. Food costs are sensitive to flour, dairy, eggs, coffee, proteins, produce and paper packaging; in June 2026, BLS reported bakery products CPI up 2.5% year over year and food-away-from-home up 3.4%.",
+    "major_players": [
+      "Panera Bread",
+      "Paris Baguette",
+      "Corner Bakery Cafe",
+      "la Madeleine",
+      "Au Bon Pain",
+      "Bruegger's Bagels",
+      "Tous les Jours",
+      "Independent local bakery cafes"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions. Large chains are simplifying operations, pushing digital ordering, improving value menus and using franchising to expand with less capital. At the same time, premium Asian-French and European-style bakery cafe brands are opening units quickly because consumers still pay for specialty pastries, visual products, seasonal items and cafe occasions. Traffic remains vulnerable to higher menu prices, but breakfast, coffee, catering and pickup-friendly formats support demand.",
+    "whats_growing": "Breakfast sandwiches, bagels, croissants, premium pastries, espresso and cold beverages, loyalty-driven digital orders, catering, drive-thru or pickup formats, franchise development, small-format cafes and Asian-French bakery concepts are growing. Paris Baguette reported 77 North American cafe openings in 2025 and planned 150 more in 2026, showing demand for premium bakery cafe franchising.",
+    "whats_shrinking": "Labor-intensive scratch-production networks, large dine-in footprints in weaker trade areas, low-margin lunch traffic, undifferentiated independent operators and cafes that depend on discretionary afternoon visits are under pressure. Panera's 2025-2027 shift away from its fresh dough facility network toward third-party par-baked production shows the cost and scalability pressure on legacy bakery operations.",
+    "recent_developments": [
+      "2025-04-30: Panera said it would close its remaining fresh dough facilities over roughly 18-24 months and shift to third-party par-baked bread finished in cafes.",
+      "2025-11-18: Panera launched its Panera RISE turnaround plan, targeting more than $7 billion in systemwide sales by 2028.",
+      "2026-01-22: Paris Baguette said it opened 77 cafes in 2025, signed 101 leases, added nearly 300 development agreements and planned 150 North American openings in 2026.",
+      "2026-06-01: Panera had opened 23 bakery-cafes in 2026 year to date and expected at least 25 more openings by year-end, while also closing underperforming locations.",
+      "2026-07-14: BLS reported June 2026 food-away-from-home prices up 3.4% year over year and limited-service meals up 3.1%, keeping menu-price pressure elevated."
+    ],
+    "outlook": "The 2026 outlook is modest positive growth rather than broad acceleration. Nominal revenue should keep rising as menu prices, beverage attach rates and breakfast/lunch convenience support tickets, but real traffic growth will be harder to win. Chains with strong franchising, bakery supply-chain scale, loyalty data and differentiated pastries should outperform, while independents need premium positioning, local identity or catering strength to avoid price competition. Margin expansion depends on labor scheduling, simplified prep, par-baked or commissary models, and procurement discipline more than on strong volume growth.",
+    "themes": [
+      "Fast-casual breakfast and lunch",
+      "Premium pastries and specialty bakery",
+      "Coffee and beverage attach",
+      "Franchising and unit expansion",
+      "Digital ordering and loyalty",
+      "Operational simplification",
+      "Labor and food-cost pressure",
+      "Par-baked and outsourced production"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/bakery-cafes.txt",
+      "https://script.ibisworld.com/united-states/market-size/bakery-cafes/4319/",
+      "https://www.bls.gov/news.release/archives/cpi_07142026.htm",
+      "https://ers.usda.gov/data-products/charts-of-note/111258",
+      "https://www.restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurant-labor-costs-are-well-above-historical-averages/",
+      "https://www.restaurantdive.com/news/panera-closes-fresh-dough-facilities/746848/",
+      "https://www.panerabread.com/en-us/press/press-room/panera-bread-unveils-panera-rise-transformation-strategy-to-reclaim-industry-leadership-and-drive-growth.html",
+      "https://www.prnewswire.com/news-releases/paris-baguette-hits-record-77-cafe-openings-in-2025-prepares-for-400th-north-american-location-302667860.html",
+      "https://www.fastcompany.com/91551052/panera-bread-closing-stores-list-shuttered-locations-2026"
+    ],
+    "one_sentence": "The US bakery cafe industry is a mature but still growing fast-casual segment, with 2025 revenue of $18.6 billion and 1.6% growth as menu inflation, breakfast demand, beverage attach rates and franchise expansion offset traffic sensitivity and labor pressure.",
+    "slug": "bakery-cafes"
+  },
+  {
+    "title": "Barbecue & Grill Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed US manufacturing niche serving a large outdoor-cooking installed base through gas, charcoal, pellet, electric, portable and griddle products.",
+    "overview": "The US barbecue and grill manufacturing industry covers domestic production of gas, charcoal, electric, pellet, hybrid and portable outdoor cooking equipment, plus parts and accessories. The legacy IBISWorld 2022 baseline described a mature, low-concentration industry with 2021 revenue of $1.081 billion, 2021 profit of $59 million and 2021 profit margin of 5.5%, while imports supplied 51.6% of 2021 domestic demand. Current 2025-2026 indicators point to a mixed market: the broader US barbecue grill market reached $1.36 billion in 2025 and is expected to reach $1.41 billion in 2026, but public grill brands are managing lower unit volumes, tariff-related price pressure and more selective retail replenishment. Growth is concentrated in premium outdoor kitchens, griddles, smart controls, pellet systems, electric units for code-sensitive urban settings and recurring consumables/accessories rather than basic commodity charcoal grills.",
+    "key_stats": {
+      "market_size": "2025 US barbecue grill market size was $1.36 billion; 2026 market size is expected at $1.41 billion.",
+      "growth": "2026-2031 forecast CAGR is 3.07% for the US barbecue grill market.",
+      "domestic_manufacturing_reference": "2021 domestic industry revenue was $1.081 billion in the IBISWorld baseline; the baseline projected 2021-2027 annual growth of 1.93%.",
+      "import_exposure": "2021 imports were $1.028 billion and represented 51.6% of domestic demand in the IBISWorld baseline.",
+      "exports": "2021 exports were $116 million in the IBISWorld baseline; the baseline projected exports of $128.7 million by 2026.",
+      "establishments": "2021 establishments totaled 37 and enterprises totaled 35 in the IBISWorld baseline.",
+      "employment": "2021 employment totaled 2,758 workers and was projected to reach 3,039 workers by 2026 in the IBISWorld baseline.",
+      "housing_driver": "June 2026 privately owned housing starts ran at a seasonally adjusted annual rate of 1.427 million, up 3.5% from June 2025, while June 2026 permits were 1.367 million, down 2.3% from June 2025.",
+      "product_mix_baseline": "2021 IBISWorld product mix was gas grills 49.8%, charcoal grills 22.0%, portable grills 21.4% and electric grills 6.8%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated domestic manufacturing revenue was about $1.10 billion, derived from 2021 IBISWorld revenue of $1.081 billion and its 2021-2027 projected CAGR of 1.93%.",
+      "growth": "2022 baseline growth expectation was about 1.93% annually over 2021-2027, following 2021 rebound growth of 14.8% and 2016-2021 annualized growth of 3.9%.",
+      "profitability": "2021 baseline profit was $59 million and 2021 profit margin was 5.5%.",
+      "trade": "2021 baseline imports were $1.028 billion, exports were $116 million and imports accounted for 51.6% of domestic demand.",
+      "structure": "2021 baseline counted 35 enterprises, 37 establishments and 2,758 employees.",
+      "demand_drivers": "2022 baseline demand was tied to housing starts, per capita disposable income, consumer confidence, household appliance prices, the trade-weighted dollar and world steel prices."
+    },
+    "how_it_makes_money": "Manufacturers sell finished grills, smokers, griddles and replacement parts into home improvement chains, mass merchants, department stores, outdoor equipment retailers, specialty hearth/barbecue dealers, restaurant-and-hotel equipment wholesalers and direct-to-consumer channels. Higher-margin revenue is increasingly tied to branded accessories, covers, tools, connected thermometers, pellets, rubs, sauces, outdoor-kitchen modules, warranties and replacement parts that monetize the installed base after the initial grill sale.",
+    "cost_structure": "The cost base is dominated by steel, aluminum, castings, burners, ceramics, electronics, packaging, freight, imported components, retailer allowances, warranty service and labor. In the 2021 IBISWorld baseline, wages were $160 million and profit margin was 5.5%. In 2025, Traeger reported 39.2% gross margin, down from 42.3% in 2024, citing tariff-related costs. In 2026 Q1, Traeger reported 32.6% adjusted gross margin excluding a tariff refund benefit, showing how tariff timing, product mix and retailer programs can outweigh factory efficiencies.",
+    "major_players": [
+      "Weber LLC",
+      "Traeger Inc.",
+      "Outdoor Brands LLC / W.C. Bradley Co. brands Charbroil, Pit Boss and Oklahoma Joe's",
+      "Middleby residential outdoor brands including Kamado Joe, Masterbuilt, Char-Griller, Lynx and EVO",
+      "Blackstone Products",
+      "Napoleon",
+      "The Outdoor GreatRoom Company and other niche domestic producers"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Demand remains structurally supported by high grill ownership, premium outdoor kitchens and year-round cooking habits, with HPBA reporting in 2025 that mid-to-high-end grill owners use grills multiple times per week in spring 2022 data at 65%, summer 2022 data at 83% and fall 2022 data at 63%. At the same time, major brands are seeing price elasticity, retailer inventory resets and tariff pressure. Traeger’s 2025 grill revenue fell 8.2% to $298.0 million, and 2026 Q1 grill revenue fell 45.4% to $47.4 million against a 2025 launch/load-in comparison. The broader US market is still forecast to grow from $1.36 billion in 2025 to $1.41 billion in 2026, but domestic manufacturers must compete with imports and manage higher steel and aluminum tariff exposure after June 2025 policy changes.",
+    "whats_growing": "Electric grills, griddles, pellet systems, smart/connected controls, outdoor-kitchen installations, portable/tabletop units and recurring consumables are growing faster than legacy commodity formats. Research and Markets/Mordor estimated in 2026 that electric grills have a 2026-2031 CAGR of 4.31%, portable/tabletop designs have a 2026-2031 CAGR of 3.83%, and freestanding cart grills held a 2025 share of 41.62%. HPBA reported in 2025 that premium grill owners had average outdoor-kitchen investment of $10,600 based on 2022 study data, and 63% of homeowners in that study planned outdoor-kitchen improvements.",
+    "whats_shrinking": "Commodity charcoal grills, low-end imported grills, older pellet models, discretionary accessories without clear utility and retailer overstock are under pressure. Charcoal remains important for flavor-oriented users, but local fire and air-quality restrictions, cleanup burden and storage constraints make growth more difficult in some urban and Western markets. Traeger’s 2025 accessories revenue fell 16.3% to $134.0 million and 2025 grill revenue fell 8.2% to $298.0 million, while Solo Stove segment net sales fell 43.8% in 2025 to $167.2 million as retail partners worked through excess inventory and DTC volumes declined.",
+    "recent_developments": [
+      "2025-01-14: Weber announced its 2025 lineup, including a reimagined Spirit gas grill, Weber Smoque pellet smoker, 28-inch Slate griddle and expanded Weber Works accessory system.",
+      "2025-06-03: The White House announced Section 232 steel and aluminum tariffs would rise from 25% to 50% effective 2025-06-04, increasing cost risk for metal-intensive grill supply chains.",
+      "2025-06-24: HPBA highlighted premium outdoor cooking trends, including 2022 study data showing $10,600 average outdoor-kitchen investment among premium grill owners.",
+      "2025-07-23: W.C. Bradley Co. launched Outdoor Brands LLC to group Charbroil, Pit Boss and Oklahoma Joe's under one outdoor-cooking business entity.",
+      "2026-03-05: Traeger reported 2025 revenue of $559.5 million, down 7.4%, and 2025 grill revenue of $298.0 million, down 8.2%, with tariff-related pricing pressure cited.",
+      "2026-05-11: Traeger reported 2026 Q1 revenue of $94.1 million, down 34.3%, and 2026 Q1 grill revenue of $47.4 million, down 45.4%, while reiterating 2026 revenue guidance of $465 million to $485 million."
+    ],
+    "outlook": "The industry outlook is modestly positive in revenue but difficult in unit volume and margin. The broader US barbecue grill market is expected to grow from $1.41 billion in 2026 to $1.64 billion in 2031 at a 3.07% CAGR, but domestic manufacturers face a narrow path: pass through tariff and metal-cost inflation without losing price-sensitive consumers, protect retailer shelf space, and shift mix toward differentiated products. Winners should be brands with durable retail relationships, attractive entry price points, premium outdoor-kitchen credibility, accessories and consumables attach rates, and resilient supply chains. Risks include weak discretionary spending in 2026, lower single-family housing momentum, high steel/aluminum tariff exposure, import substitution and longer replacement cycles after the 2020-2021 pandemic purchase surge.",
+    "themes": [
+      "Outdoor living as a durable demand base",
+      "Tariff and steel-cost pressure",
+      "Import competition and private-label pricing",
+      "Premiumization through outdoor kitchens",
+      "Griddles and pellet systems expanding the category",
+      "Electric and code-compliant urban grilling",
+      "Smart controls and connected thermometers",
+      "Retail inventory discipline after pandemic pull-forward",
+      "Accessories and consumables as margin support",
+      "Mature industry with low domestic concentration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/barbecue-and-grill-manufacturing.txt",
+      "https://www.researchandmarkets.com/reports/5937456/united-states-barbeque-grill-market-share",
+      "https://hpba.org/fire-up-the-grill-celebrate-julys-national-grilling-month-with-insights-into-premium-outdoor-cooking-trends/",
+      "https://www.businesswire.com/news/home/20260305856572/en/Traeger-Announces-Fourth-Quarter-and-Full-Year-2025-Results",
+      "https://www.sec.gov/Archives/edgar/data/1857853/000162828026033467/q1-26earningspressrelease.htm",
+      "https://www.weber.com/US/en/pr-release-NPD25.html",
+      "https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/",
+      "https://www.census.gov/construction/nrc/current/",
+      "https://shop-eat-surf-outdoor.com/press-releases/w-c-bradley-co-launches-outdoor-brands-llc/609983/"
+    ],
+    "one_sentence": "Barbecue & grill manufacturers make money by designing and producing outdoor cooking appliances and parts for home centers, specialty retailers, distributors and direct channels, with demand supported by outdoor-living investment but pressured in 2025-2026 by tariffs, cautious discretionary spending and retailer inventory discipline.",
+    "slug": "barbecue-and-grill-manufacturing"
+  },
+  {
+    "title": "Barber Shops",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented, labor-heavy personal care industry where steady haircut demand is being lifted by premium men’s grooming, beard services, online booking and social-media-driven style cycles.",
+    "overview": "Barber shops primarily cut, trim and style men’s and boys’ hair and provide beard, shave and related grooming services. The industry remains highly fragmented and local: the 2021 IBISWorld baseline estimated 109,327 enterprises and 109,817 establishments, with 94.6% of operators classified as nonemployers, while Census 2023 reported 7,789 employer establishments for NAICS 812111. Demand is relatively stable because haircuts are recurring personal-maintenance services, but growth since 2022 has been driven more by higher tickets, premium fades and beard work, online booking, tips and social media visibility than by a large increase in haircut frequency.",
+    "key_stats": {
+      "market_size": "2025: $6.4 billion US revenue, per Kentley Insights 2025 edition for NAICS 812111.",
+      "growth": "2025: 4.2% average annual growth over the prior five years, per Kentley Insights.",
+      "employer_revenue": "2022: $1.819 billion for employer-firm barber shops, Census Service Annual Survey via FRED.",
+      "employer_establishments": "2023: 7,789 US employer establishments, Census Business Patterns profile for NAICS 812111.",
+      "barber_jobs": "2024: 76,000 barber jobs, BLS Occupational Outlook Handbook.",
+      "barber_wage": "2024: $18.73 median hourly wage for barbers, BLS Occupational Outlook Handbook.",
+      "self_employment": "2024: 76% of barbers were self-employed, BLS Occupational Outlook Handbook.",
+      "employment_outlook": "2024-2034: barber employment projected to grow 4%, BLS Occupational Outlook Handbook.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $4.59 billion, inferred from the 2021 IBISWorld baseline revenue of $4.535 billion and its 2021-2027 projected CAGR of 1.24%.",
+      "growth": "2022: about 1.24% baseline projected annual growth, from the 2021 IBISWorld report’s 2021-2027 projection.",
+      "profit_margin": "2021 baseline: 17.9% EBIT margin; 2026 baseline forecast: 19.8%.",
+      "establishments": "2021 baseline: 109,817 establishments; 2026 baseline forecast implied continued contraction in establishments at -0.94% CAGR from 2021 to 2027.",
+      "employment": "2021 baseline: 135,830 workers; 2026 baseline forecast: 138,358 workers."
+    },
+    "how_it_makes_money": [
+      "2021 baseline: basic haircuts generated 67.2% of revenue.",
+      "2021 baseline: haircut-with-shave or beard-trim services generated 27.8% of revenue.",
+      "2021 baseline: merchandise generated 2.2% of revenue and other services generated 2.1%.",
+      "2025-2026 revenue upside comes from premium fades, beard services, hot-towel shaves, scalp treatments, grooming products, subscriptions or memberships, online booking deposits and higher effective prices per visit."
+    ],
+    "cost_structure": {
+      "labor": "2021 baseline: wages were 48.0% of revenue; 2026 baseline forecast: 46.3%. Sport Clips 2024 company-owned store sample reported payroll at 49% of net sales on average.",
+      "rent_and_occupancy": "2021 baseline: rent and utilities were 2.5% of total industry revenue, reflecting many nonemployer shops; Sport Clips 2024 company-owned store sample reported occupancy at 14% of net sales.",
+      "supplies_and_cogs": "2024 Sport Clips company-owned store sample: variable costs, including supplies and cost of goods sold, averaged 7% of net sales.",
+      "marketing": "2024 Sport Clips company-owned store sample: advertising averaged 5% of net sales.",
+      "profit": "2021 baseline: industry EBIT margin was 17.9%; Sport Clips 2024 company-owned store sample reported 23% operating profit before royalties and weekly training fees."
+    },
+    "major_players": [
+      "Independent owner-operator barber shops",
+      "Sport Clips Haircuts",
+      "Great Clips",
+      "Floyd's 99 Barbershop",
+      "Roosters Men's Grooming Center",
+      "Boardroom Salon for Men"
+    ],
+    "current_dynamics": "The 2025-2026 market is larger than the 2021 baseline expected, with Kentley putting 2025 revenue at $6.4 billion versus the baseline’s 2026 forecast of $4.8 billion. Inflation and premiumization explain much of the gap: shops are charging more for fades, beard work and appointments, while labor availability remains the main constraint. Chains such as Sport Clips provide scale in booking technology and training, but the industry remains mostly independent and self-employed, with BLS reporting 76% self-employment among barbers in 2024.",
+    "whats_growing": [
+      "2025: premium men’s grooming, including fades, beard trims and shave add-ons, is growing faster than basic cuts.",
+      "2025-2026: online booking, real-time waitlist tools, deposits and CRM-style client retention are becoming standard for higher-volume shops.",
+      "2026: social-media-driven styles and barber personal brands continue to support higher tickets and repeat visits.",
+      "2024-2034: barber employment is projected by BLS to rise 4%, signaling steady labor demand.",
+      "2025: franchised men’s haircut concepts remain relevant, with Sport Clips reporting almost 1,800 locations across the US and Canada."
+    ],
+    "whats_shrinking": [
+      "2025-2026: purely walk-in, cash-only shops are losing share to appointment-first operators with digital booking and payments.",
+      "2025-2026: low-price basic cuts face margin pressure from wage, rent, insurance and payment-processing costs.",
+      "2024: Sport Clips franchised outlets declined from 1,785 at the start of 2024 to 1,754 at year-end 2024, showing selective pruning even among scaled concepts.",
+      "2025-2026: non-differentiated shops without strong client retention are more exposed to chair vacancies and barber turnover."
+    ],
+    "recent_developments": [
+      "2024-01: FRED/Census Service Annual Survey showed 2022 employer-firm barber shop revenue at $1.819 billion.",
+      "2025-06: Census Business Patterns data showed 2023 US employer barber shop establishments at 7,789 for NAICS 812111.",
+      "2025-08: Kentley Insights reported 2025 barber shop industry revenue of $6.4 billion and a 4.2% five-year annual growth rate.",
+      "2025-08: Sport Clips 2025 FDD analysis reported 2024 average net sales of $533,445 across 73 company-owned stores, with payroll at 49% of sales.",
+      "2025-10: Sport Clips said it had almost 1,800 locations across the US and Canada and was ranked in the Franchise Times Top 400 for 2025.",
+      "2026-05: SQUIRE’s 2026 barbershop report covered May 2025-April 2026 activity across 7,000 US shops and 13.9 million appointments."
+    ],
+    "outlook": "The outlook through 2026 is steady to moderately positive. Revenue should keep rising as shops increase prices, package services and sell higher-value grooming experiences, but unit growth will be limited by licensing requirements, barber recruitment, chair utilization and local rent pressure. The industry’s core risk is not demand collapse; it is execution, especially hiring, retention, booking discipline and keeping enough productive chairs filled. Consolidation should remain limited because owner-operated shops have low startup costs and local client relationships, but franchises and tech-enabled multi-shop operators will keep gaining share in denser suburban and metro markets.",
+    "themes": [
+      "Fragmented local competition",
+      "Premium men’s grooming",
+      "Beard and shave add-ons",
+      "Self-employment and booth-rental economics",
+      "Online booking and waitlist technology",
+      "Social media as customer acquisition",
+      "Labor availability and chair utilization",
+      "Recurring nondiscretionary demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/barber-shops.txt",
+      "https://www.kentleyinsights.com/barber-shops-industry-market-research-report/",
+      "https://fred.stlouisfed.org/series/REVEF812111ALLEST",
+      "https://data.census.gov/profile/812111_-_Barber_Shops?codeset=naics~812111",
+      "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+      "https://www.sportclips.com/about-us/press-box/press-releases/2025/10/sport-clips-haircuts-named-a-top-100-franchise-for-2025",
+      "https://www.franchisechatter.com/2025/08/07/sport-clips-franchise-review-2025-costs-fees-news-average-revenues-and-or-profits/",
+      "https://getsquire.com/barbershop-trends-insights-report"
+    ],
+    "one_sentence": "US barber shops are a mature but resilient consumer services industry, with 2025 revenue estimated at $6.4 billion and growth supported by price increases, premium cuts, beard grooming and self-employed operators rather than major chain consolidation.",
+    "slug": "barber-shops"
+  }
+]

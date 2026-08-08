@@ -1,0 +1,478 @@
+[
+  {
+    "title": "Industrial Machinery & Equipment Wholesaling in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, fragmented wholesale channel for pumps, compressors, material handling systems, oilfield equipment, metalworking machinery and related parts.",
+    "overview": "This industry distributes specialized machinery, equipment and related parts used in manufacturing, oilfield, refinery, pipeline, warehousing and material-handling applications. The 2022 IBIS baseline put revenue at $305.5 billion, and a 2025 estimate indexed to BLS/FRED NAICS 4238 sectoral output puts this industry near $330.2 billion. Demand softened in parts of 2023-2025 as high rates and uneven factory activity delayed discretionary machinery purchases, but 2026 indicators show a better backdrop: broader machinery, equipment and supplies wholesaler sales reached $60.1 billion in May 2026, industrial production was 1.1% above June 2025, and manufacturing returned to expansion in early 2026. The market remains low-concentration, with scale advantages in inventory breadth, technical sales, branch density, e-commerce catalogs, repair support and supplier relationships.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $330.2 billion, indexed from the 2022 IBIS revenue baseline to BLS/FRED NAICS 4238 sectoral output.",
+      "growth": "2025 estimated revenue growth: 2.4% versus 2024, using BLS/FRED NAICS 4238 sectoral output growth from $650.3 billion in 2024 to $665.9 billion in 2025.",
+      "broader_channel_sales": "May 2026 machinery, equipment and supplies merchant wholesaler sales: $60.1 billion seasonally adjusted, equal to a $720.7 billion annualized run rate for the broader NAICS 4238 channel.",
+      "industrial_production": "June 2026 total industrial production index: 102.6, up 1.1% from June 2025; business equipment output was up 5.4% year over year.",
+      "establishments": "2023 Census Business Patterns employer establishments for NAICS 423830: 25,949.",
+      "profit_margin": "2022 IBIS profit margin: 4.1%; 2025 margins remain pressured by wage, freight, inventory-carrying and tariff-sensitive metals costs.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $305.5 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: 2.4%; 2017-2022 CAGR: 2.5%.",
+      "profit": "2022 profit: $12.5 billion.",
+      "profit_margin": "2022 profit margin: 4.1%.",
+      "industry_gross_product": "2022 industry gross product: $49.5 billion.",
+      "establishments": "2022 establishments: 28,418.",
+      "enterprises": "2022 enterprises: 21,696.",
+      "employment": "2022 employment: 406,220.",
+      "wages": "2022 total wages: $34.3 billion.",
+      "product_mix_2022": [
+        "General-purpose machinery and equipment: 37.3% of 2022 revenue",
+        "Other industrial machinery and equipment: 21.6% of 2022 revenue",
+        "Oil well, refinery and pipeline machinery and equipment: 13.9% of 2022 revenue",
+        "Material handling equipment: 10.6% of 2022 revenue",
+        "Hydraulic and pneumatic machinery and equipment: 8.2% of 2022 revenue",
+        "Metalworking machinery and equipment: 6.5% of 2022 revenue",
+        "Food processing machinery: 1.9% of 2022 revenue"
+      ]
+    },
+    "how_it_makes_money": "Operators buy new and used industrial machinery, equipment and replacement parts from manufacturers, hold inventory, provide technical sales and application support, and resell to business customers. Revenue also comes from repair labor, service receipts, parts fulfillment, vendor-managed inventory, online catalog sales, and specialized sourcing for oilfield, factory, warehouse and machine-shop buyers.",
+    "cost_structure": {
+      "purchases": "Largest cost category, generally around three-quarters of revenue, reflecting inventory bought from OEMs and machinery manufacturers.",
+      "wages": "2022 wages equaled about 11.2% of revenue; sales engineers, branch staff, warehouse labor, drivers and technicians are core operating costs.",
+      "profit": "2022 profit margin was 4.1%, with 2025-2026 margins shaped by price realization, freight, financing costs, wage inflation and inventory turns.",
+      "logistics_and_occupancy": "Freight, fuel, branch leases, warehouses, insurance and distribution systems are material but smaller than purchases and wages.",
+      "technology": "E-commerce catalogs, ERP, warehouse management, pricing tools and customer portals are increasingly necessary for scale and service levels.",
+      "working_capital": "High inventory values make interest rates, supplier terms and receivables collection important to returns."
+    },
+    "major_players": [
+      "Applied Industrial Technologies",
+      "Motion, a Genuine Parts Company business",
+      "W.W. Grainger",
+      "MSC Industrial Supply",
+      "DNOW Inc.",
+      "McMaster-Carr",
+      "DXP Enterprises",
+      "SunSource"
+    ],
+    "current_dynamics": "The 2025-2026 cycle is mixed but improving. Broader NAICS 4238 output reached $665.9 billion in 2025, up 2.4% from 2024, while May 2026 monthly sales for machinery, equipment and supplies wholesalers reached $60.1 billion. Manufacturing demand moved from contraction in late 2025 to expansion in 2026, with ISM Manufacturing PMI at 53.3 in June 2026 and machinery among expanding industries. Oilfield-related demand is volatile: EIA’s July 2026 STEO put Brent at $82 per barrel for 2026 and $65 for 2027, supporting near-term service and replacement demand but signaling possible moderation. Tariffs on steel, aluminum, copper and certain equipment categories are raising landed-cost uncertainty and pushing distributors to reprice faster, diversify suppliers and carry more strategic inventory.",
+    "whats_growing": [
+      "2025-2026 warehouse automation, conveyors, lift trucks, controls and related material-handling equipment tied to e-commerce fulfillment and labor productivity.",
+      "2025-2026 replacement parts, repair services and MRO programs as customers extend equipment life under high financing costs.",
+      "2025-2026 metalworking machinery demand, with AMT reporting 2025 U.S. manufacturing technology orders of $5.74 billion, up 22.5% from 2024.",
+      "2026 technical distribution around fluid power, automation, bearings, power transmission and motion control, helped by acquisition-driven platform expansion.",
+      "2026 online catalogs, procurement portals and vendor-managed inventory for recurring industrial customers."
+    ],
+    "whats_shrinking": [
+      "2025-2026 discretionary greenfield machinery purchases in rate-sensitive or demand-soft customer segments.",
+      "2026 export-sensitive machinery orders where ISM reported new export orders contracting in June 2026.",
+      "2026 lower-margin commodity resale where tariffs, freight volatility and price transparency limit pass-through.",
+      "2026 oilfield equipment orders if Brent moves from the 2026 forecast average of $82 per barrel toward the 2027 forecast of $65 per barrel.",
+      "2025-2026 small independent wholesalers without scale in inventory, financing, e-commerce or technical services."
+    ],
+    "recent_developments": [
+      "2025-02: The White House restored Section 232 steel tariffs to 25% and raised aluminum tariffs to 25%, increasing input-cost and pricing risk for machinery channels.",
+      "2025-12: U.S. manufacturing technology orders reached a record $814.3 million in December 2025; full-year 2025 orders reached $5.74 billion, up 22.5% from 2024.",
+      "2026-01: Applied Industrial Technologies reported fiscal Q2 2026 sales of $1.16 billion, up 8.4% year over year, and acquired Thompson Industrial Supply.",
+      "2026-05: Census/FRED reported machinery, equipment and supplies merchant wholesaler sales of $60.1 billion in May 2026, seasonally adjusted.",
+      "2026-06: Federal Reserve G.17 showed June 2026 industrial production up 1.1% year over year and business equipment output up 5.4% year over year.",
+      "2026-07: MDM’s 2026 Top Distributors list, based on 2025 revenue, ranked W.W. Grainger, Motion, Fastenal, Applied Industrial Technologies and MSC among leading industrial distributors."
+    ],
+    "outlook": "The industry outlook is modestly positive through 2026 but not uniformly strong. Replacement demand, factory automation, warehouse throughput projects, and healthier 2026 manufacturing indicators should support sales, while high financing costs, tariff pass-through risk, labor expense and oil-price volatility constrain margins and new-equipment cycles. Scale distributors should keep gaining share through acquisitions, private-label and digital procurement platforms, while smaller specialists remain viable where technical expertise, repair capability and local inventory matter. A practical 2026 view is low- to mid-single-digit revenue growth if manufacturing expansion persists, with margin upside depending on inventory discipline and successful price pass-through.",
+    "themes": [
+      "Manufacturing capex recovery",
+      "Warehouse automation",
+      "Oilfield volatility",
+      "Tariff and metals-cost pass-through",
+      "Distributor consolidation",
+      "Technical sales and repair services",
+      "E-commerce procurement",
+      "Inventory and working-capital discipline"
+    ],
+    "data_year": "2025 revenue estimate with 2026 current indicators",
+    "sources": [
+      "{'title': 'Baseline IBIS file, Industrial Machinery & Equipment Wholesaling in the US, last updated Aug. 30, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-machinery-and-equipment-wholesaling-in-the-us.txt'}",
+      "{'title': 'FRED/BLS sectoral output for Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers, NAICS 4238, 2025', 'url': 'https://fred.stlouisfed.org/series/IPUGN4238T300000000'}",
+      "{'title': 'FRED/Census monthly sales for Machinery, Equipment, and Supplies Merchant Wholesalers, May 2026', 'url': 'https://fred.stlouisfed.org/series/S4238SM144SCEN'}",
+      "{'title': 'U.S. Census Bureau profile for NAICS 423830 Industrial Machinery and Equipment Merchant Wholesalers, 2023 establishments', 'url': 'https://data.census.gov/profile/423830_-_Industrial_Machinery_and_Equipment_Merchant_Wholesalers?codeset=naics~423830'}",
+      "{'title': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, release dated July 17, 2026', 'url': 'https://www.federalreserve.gov/Releases/G17/Current/default.htm'}",
+      "{'title': 'ISM June 2026 Manufacturing PMI report', 'url': 'https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/june/'}",
+      "{'title': 'EIA Short-Term Energy Outlook, release dated July 7, 2026', 'url': 'https://www.eia.gov/outlooks/steo/'}",
+      "{'title': 'AMT Manufacturing Technology Orders Set Record in December 2025, published Feb. 9, 2026', 'url': 'https://amtonline.org/article/manufacturing-technology-orders-set-record-in-december-2025'}",
+      "{'title': 'Modern Distribution Management 2026 Top Distributors, based on 2025 revenue', 'url': 'https://www.mdm.com/top_distributors/'}",
+      "{'title': 'Industrial Distribution 2025 Big 50, published Sept. 25, 2025', 'url': 'https://www.inddist.com/big-50/article/22950923/the-2025-industrial-distribution-big-50'}",
+      "{'title': 'White House fact sheet on June 2026 steel, aluminum and copper tariff updates', 'url': 'https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/'}"
+    ],
+    "one_sentence": "Industrial machinery and equipment wholesalers make money by buying specialized industrial equipment from manufacturers and reselling it to manufacturers, oil and gas operators, warehouses, machine shops, contractors and other industrial users, with demand tied closely to capital spending, industrial production, oil prices and warehouse automation.",
+    "slug": "industrial-machinery-and-equipment-wholesaling-in-the-us"
+  },
+  {
+    "title": "Industrial Spraying Equipment Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "Manufacturers of industrial paint, coating, blasting, waterproofing and automated spray systems are recovering with factory output while facing higher metal-input costs and uneven construction demand.",
+    "overview": "This industry manufactures non-agricultural industrial spraying equipment used to apply paints, coatings, sealants, waterproofing materials, insulation foam and surface-preparation media to manufactured goods and construction surfaces. The 2022 IBIS baseline put revenue at $1.785 billion after a 25.7% rebound in 2022, with 58.0% of 2022 revenue from painting sprayers, 26.0% from roof and waterproof sprayers and 16.0% from blasting machines, parts and other equipment. For 2026, demand is supported by renewed US factory expansion, motor-vehicle assemblies running at a 10.96 million-unit seasonally adjusted annual rate in June 2026, and large nonresidential construction spending, but margins remain exposed to steel, aluminum, electronics and imported-equipment competition.",
+    "key_stats": {
+      "market_size": "2026 estimate: $2.02 billion US revenue, rolled forward from the 2022 IBIS baseline at the baseline 2022-2028 projected CAGR of 3.12%.",
+      "growth": "2026 estimate: +3.1% year over year, using the 2022-2028 IBIS projected CAGR and supported by June 2026 manufacturing output up 1.1% year over year.",
+      "profit_margin": "2022 baseline: 17.4% EBIT margin; 2027 baseline forecast: 17.2% EBIT margin.",
+      "domestic_demand": "2022 baseline: $1.857 billion domestic demand.",
+      "exports": "2022 baseline: $349 million exports, equal to 19.5% of 2022 revenue.",
+      "imports": "2022 baseline: $421 million imports, equal to 22.6% of 2022 domestic demand.",
+      "establishments": "2022 baseline: 26 establishments; 2027 baseline forecast: 27 establishments.",
+      "employment": "2022 baseline: 3,522 workers; 2027 baseline forecast: 3,970 workers.",
+      "downstream_indicators": "June 2026: US total industrial production index 102.6, up 1.1% year over year; June 2026 manufacturing capacity utilization 75.7%; May 2026 nonresidential construction spending $1.267 trillion SAAR.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $1.785 billion revenue in 2022 dollars.",
+      "growth": "2022: +25.7% revenue growth; 2017-2022 CAGR +0.8%.",
+      "profit": "2022: $311 million profit.",
+      "profit_margin": "2022: 17.4% EBIT margin.",
+      "product_mix": "2022: painting sprayers 58.0%, roof and waterproof sprayers 26.0%, blasting machines, parts and other equipment 16.0%.",
+      "trade": "2022: exports $349 million; imports $421 million; domestic demand $1.857 billion.",
+      "structure": "2022: 22 enterprises, 26 establishments and 3,522 employees."
+    },
+    "how_it_makes_money": "Companies sell standard and engineered industrial spray guns, pumps, proportioners, mixing systems, powder-coating equipment, blasting machines, roof and waterproofing sprayers, robotic paint-system components, replacement parts and service support. Revenue is driven by new factory lines, equipment replacement, automation upgrades, coating-efficiency projects, construction waterproofing and maintenance-intensive installed bases.",
+    "cost_structure": {
+      "materials": "2025-2026: steel, aluminum, machined components, pumps, controls, hoses, nozzles and electronic controls are the main variable costs; steel mill product prices rose in 2026, pressuring gross margins.",
+      "labor": "Skilled machining, assembly, engineering, field support and R&D labor are important because many systems are configured for coating chemistry, throughput and downstream production-line requirements.",
+      "profitability": "2022 baseline profit margin was 17.4%, high for a small machinery niche, helped by specialized parts, aftermarket revenue and engineered systems.",
+      "other_costs": "Distribution, warranty, compliance, testing, freight, inventory carrying costs and overseas sourcing/logistics affect margins, especially when customers delay capital purchases.",
+      "capital_intensity": "2022 baseline classified capital intensity as low, but automation, robotics integration and software-enabled coating controls are raising engineering and R&D needs."
+    },
+    "major_players": [
+      "{'name': 'Graco Inc.', 'position': 'Key US fluid-handling and industrial spray equipment manufacturer.', 'data': '2025: total sales $2.2366 billion; Industrial segment sales $996.8 million; Contractor segment sales $1.0719 billion.'}",
+      "{'name': 'Nordson Corporation', 'position': 'Major supplier of precision dispensing, coating and fluid-management systems.', 'data': 'Fiscal 2025: Industrial Precision Solutions sales $1.3318 billion, down 4.8% from fiscal 2024.'}",
+      "{'name': 'Carlisle Companies', 'position': 'Relevant through construction waterproofing, roof coatings, spray polyurethane foam and coating systems.', 'data': '2025: Carlisle Weatherproofing Technologies revenue $1.2982 billion, with organic revenue down 9.2%.'}",
+      "{'name': 'ABB Robotics', 'position': 'Supplier of robotic painting systems and painting software used by automotive and industrial manufacturers.', 'data': '2026: ABB markets robotic painting software that can reduce setup time by up to 80% and reduce overspray/material usage.'}",
+      "{'name': 'Durr Group', 'position': 'Global automotive paint-shop and application-technology supplier competing in large automated coating lines.', 'data': '2025-2026: benefits from automotive paint-shop automation demand but competes mainly in large, engineered systems.'}"
+    ],
+    "current_dynamics": {
+      "demand": "2026 demand is improving with manufacturing output up 1.1% year over year in June 2026 and ISM manufacturing PMI at 53.3 in June 2026, its sixth straight month of expansion.",
+      "automotive": "Automotive finishing remains important: June 2026 motor-vehicle assemblies reached 10.96 million units SAAR, above the 2025 average of 10.16 million units.",
+      "construction": "Construction-related sprayers face a split market: May 2026 nonresidential construction spending was $1.267 trillion SAAR, but Carlisle reported 2025 softness in new construction and weaker organic CWT revenue.",
+      "costs": "Input costs are a headwind: June 2026 iron and steel mills PPI reached 335.165, up from February 2026 at 297.158, and metals indexes rose through 2026.",
+      "technology": "Automation, robotic paint cells, color-change systems and software simulation are gaining share because customers want lower labor, paint waste, VOC emissions, scrap and rework."
+    },
+    "whats_growing": [
+      "2026: automated paint-line components, robotic spray applicators and software-aided paint-path optimization.",
+      "2026: replacement parts and retrofit demand tied to aging factory equipment and high uptime requirements.",
+      "2026: automotive and transportation-equipment finishing demand as June 2026 vehicle assemblies reached 10.96 million units SAAR.",
+      "2026: high-transfer-efficiency, low-waste and VOC-reducing coating systems as manufacturers pursue material savings and compliance.",
+      "2025-2026: construction maintenance, re-roofing, waterproofing and insulation applications, especially where labor-saving equipment offsets skilled-labor constraints."
+    ],
+    "whats_shrinking": [
+      "2025: construction-exposed organic demand weakened, with Carlisle Weatherproofing Technologies organic revenue down 9.2%.",
+      "2025: Nordson Industrial Precision Solutions sales fell 4.8%, showing softness in some industrial precision and polymer-processing markets.",
+      "2026: manual, labor-heavy spray operations are losing share to robotic and automated systems.",
+      "2026: price-sensitive domestic equipment is pressured by imports and by customer pushback when steel-driven price increases are passed through.",
+      "2026: new commercial construction demand remains less reliable than re-roofing and retrofit demand."
+    ],
+    "recent_developments": [
+      "2025-01: Graco reorganized reporting into Contractor, Industrial and Expansion Markets, with Industrial combining the industrial, powder and selected process-transfer equipment businesses.",
+      "2025-10-31: Nordson reported fiscal 2025 Industrial Precision Solutions sales of $1.3318 billion, down 4.8% from fiscal 2024.",
+      "2025-12-31: Carlisle Weatherproofing Technologies reported 2025 revenue of $1.2982 billion and organic revenue down 9.2%.",
+      "2026-06-30: FRED reported May 2026 US nonresidential construction spending at $1.267 trillion SAAR.",
+      "2026-07-17: The Federal Reserve reported June 2026 industrial production at 102.6, up 1.1% year over year, with manufacturing output flat for the month but up 4.7% annualized in Q2 2026.",
+      "2026-07-17: The Federal Reserve reported June 2026 motor-vehicle assemblies at 10.96 million units SAAR, supporting paint and coating equipment demand."
+    ],
+    "outlook": "The 2026-2028 outlook is moderately positive: the industry should track low-single-digit annual growth as factory output, vehicle production, aerospace activity and re-roofing/retrofit construction support replacement and automation projects. The strongest upside is in robotic, high-transfer-efficiency and digitally controlled spray systems that reduce paint waste and labor. The main risks are delayed capital spending, import competition, elevated steel and electronics costs, and weak new commercial construction. A reasonable 2027 revenue target remains near the baseline trajectory of about $2.1 billion if manufacturing expansion holds.",
+    "themes": [
+      "Manufacturing automation",
+      "Robotic painting",
+      "Automotive production",
+      "Aerospace coatings",
+      "Commercial waterproofing",
+      "Re-roofing and retrofit demand",
+      "Steel input inflation",
+      "Import competition",
+      "VOC and waste reduction",
+      "Aftermarket parts and service"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBIS text file, Industrial Spraying Equipment Manufacturing, last updated July 7, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-spraying-equipment-manufacturing.txt'}",
+      "{'title': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, July 17, 2026 release', 'url': 'https://www.federalreserve.gov/releases/g17/current/default.htm'}",
+      "{'title': 'Federal Reserve G.17 Table 3 Motor Vehicle Assemblies, July 17, 2026 release', 'url': 'https://www.federalreserve.gov/releases/g17/current/table3.htm'}",
+      "{'title': 'FRED, Total Construction Spending: Nonresidential in the United States, May 2026 observation', 'url': 'https://fred.stlouisfed.org/series/TLNRESCONS'}",
+      "{'title': 'Graco 2025 Form 10-K segment results', 'url': 'https://ebs.publicnow.com/view/609DE8BB8E4B311300694C8CCCEFCC0A95D251E7'}",
+      "{'title': 'Nordson fiscal 2025 results and segment sales', 'url': 'https://investors.nordson.com/news/news-details/2025/Nordson-Corporation-Reports-Record-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx'}",
+      "{'title': 'Carlisle 2025 Form 10-K and Weatherproofing Technologies segment data', 'url': 'https://ebs.publicnow.com/view/105E72B06999675F75CB22868A02DDEBE8BF3032'}",
+      "{'title': 'FRED, Producer Price Index by Industry: Iron and Steel Mills and Ferroalloy Manufacturing, June 2026 observation', 'url': 'https://fred.stlouisfed.org/series/PCU331110331110P'}",
+      "{'title': 'ISM June 2026 Manufacturing PMI report', 'url': 'https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/june/'}",
+      "{'title': 'Graco automated paint systems product page', 'url': 'https://www.graco.com/us/en/in-plant-manufacturing/products/liquid-coating/paint-line-automation/automated-paint-systems.html'}",
+      "{'title': 'ABB painting software solutions', 'url': 'https://www.abb.com/global/en/areas/robotics/products/software/painting-software-solutions'}"
+    ],
+    "one_sentence": "The US industrial spraying equipment manufacturing industry is a small, cyclical machinery niche, estimated at about $2.02 billion in 2026, whose demand follows automotive, aerospace, general manufacturing and commercial construction capital spending.",
+    "slug": "industrial-spraying-equipment-manufacturing"
+  },
+  {
+    "title": "Industrial Supplies Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "A mature, fragmented B2B distribution market selling MRO and general-use industrial supplies into manufacturing, warehousing, repair, energy, packaging and construction workflows.",
+    "overview": "The industry sits between manufacturers of general industrial inputs and downstream users that need reliable local availability rather than bulk direct purchasing. IBISWorld's 2022 baseline placed revenue at $95.3 billion after a 2022 decline of 2.0%, with low concentration, mature demand and profit of 4.7% of revenue. The closest public Census benchmark, NAICS 423840, reported 2023 employer-establishment revenue of $92.7 billion. Current 2025-2026 conditions are mixed but improving: 2025 manufacturing demand was weak for much of the year, tariffs pushed metal-related input volatility higher, and large distributors still gained share through e-commerce, vending, onsite programs and national-account coverage; by June-July 2026, industrial production and manufacturing PMI data pointed to a stronger demand backdrop.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue of about $99.1 billion, based on the 2022 IBISWorld baseline of $95.3 billion grown at its stated 2022-2027 forecast CAGR of 1.3%; latest public Census NAICS 423840 benchmark was $92.7 billion in 2023.",
+      "growth": "2025 estimated industry growth of about 1.3% on the IBISWorld 2022-2027 forecast path; current demand indicators improved in 2026, with Federal Reserve industrial production up 1.1% year over year in June 2026 and up at a 4.0% annual rate in 2026 Q2.",
+      "profitability": "2022 IBISWorld profit was $4.5 billion, equal to a 4.7% margin.",
+      "employment": "2022 IBISWorld employment was 116,518 workers; 2022-2027 employment was forecast to reach 125,530 workers.",
+      "establishments": "2023 Census Business Patterns reported 9,605 employer establishments for NAICS 423840.",
+      "public_benchmark": "2023 Census AIES revenue for NAICS 423840 industrial supplies merchant wholesalers was $92.7 billion across all employer establishments.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue of $95.3 billion in 2022 dollars.",
+      "growth": "2022 revenue declined 2.0%, while 2017-2022 revenue grew at a 2.3% CAGR.",
+      "profit": "2022 profit of $4.5 billion and 4.7% profit margin.",
+      "industry_gross_product": "2022 industry gross product of $14.1 billion.",
+      "establishments": "2022 establishments of 12,410 in the IBISWorld baseline.",
+      "enterprises": "2022 enterprises of 9,016 in the IBISWorld baseline.",
+      "employment": "2022 employment of 116,518 workers.",
+      "wages": "2022 wages of $9.0 billion."
+    },
+    "how_it_makes_money": "Operators purchase industrial supplies from upstream manufacturers, stock them in branches, distribution centers, vending machines and customer sites, then sell smaller, customized and time-sensitive orders to manufacturers, maintenance departments, automotive shops, warehouses, food and beverage producers, construction users and energy customers. Revenue comes from resale markups, private-label sourcing, contract pricing, national-account programs, value-added kitting, vendor-managed inventory, onsite inventory management and digital catalog fulfillment.",
+    "cost_structure": {
+      "purchases": "2025-2026 purchases and inventory carrying costs remained the dominant cost category because wholesalers resell manufactured goods and must stock broad SKU ranges close to customers.",
+      "labor": "2022 wages were $9.0 billion, about 9.4% of 2022 revenue, reflecting branch sales, warehousing, delivery, procurement and customer-service labor.",
+      "profit": "2022 profit margin was 4.7%; large scaled distributors reported materially higher corporate margins in 2025, such as Grainger's 2025 adjusted operating margin of 15.0%.",
+      "freight_and_warehousing": "2025-2026 freight, warehouse rent, inventory systems and last-mile delivery costs remained important because speed and local availability are core value propositions.",
+      "technology": "2025-2026 spending favored e-commerce platforms, pricing systems, vending machines, onsite inventory tools and analytics that reduce transaction costs and improve fill rates.",
+      "tariffs_and_inputs": "2025-2026 metal tariffs and volatile steel, aluminum, copper and industrial-component prices raised working-capital and pass-through risk."
+    },
+    "major_players": [
+      "W.W. Grainger Inc.",
+      "Fastenal Company",
+      "MSC Industrial Direct Co. Inc.",
+      "Applied Industrial Technologies Inc.",
+      "Global Industrial Company",
+      "Kennametal Inc."
+    ],
+    "current_dynamics": "Demand was soft through much of 2025 as the ISM Manufacturing PMI ended December 2025 at 47.9, but large distributors still posted share gains: Grainger's 2025 sales rose 4.5% to $17.9 billion and Fastenal's 2025 sales rose 8.7% to $8.2 billion, while MSC's fiscal 2025 sales fell 1.3% to $3.8 billion. The tone improved in 2026: Federal Reserve data showed June 2026 total industrial production up 1.1% year over year and manufacturing output rising at a 4.7% annual rate in 2026 Q2, while July 2026 reporting put the ISM Manufacturing PMI at 55.6. Tariffs on steel, aluminum and copper increased cost volatility and made inventory discipline more important.",
+    "whats_growing": "E-commerce catalogs, private-label product lines, onsite inventory management, vending-machine replenishment, national-account contracts, data-center and AI-infrastructure supply needs, industrial automation maintenance, U.S. reshoring projects, and specialty categories tied to power transmission, fluid power, safety and metalworking are growing in 2025-2026.",
+    "whats_shrinking": "Small independent regional distributors, purely counter-service branch models, low-value commodity resale without service differentiation, customer segments tied to weak consumer-facing manufacturing, and categories exposed to delayed maintenance capex shrank or lagged in 2025 before the 2026 manufacturing rebound broadened.",
+    "recent_developments": [
+      "2025-02: The White House restored Section 232 tariffs to 25% on steel and aluminum imports, expanding cost pressure on metal-intensive industrial supply chains.",
+      "2025-06: The White House increased steel and aluminum tariffs from 25% to 50%, raising pricing and pass-through risk for distributors and their customers.",
+      "2025-12: ISM reported a December 2025 Manufacturing PMI of 47.9, signaling a weak close to 2025 for core manufacturing demand.",
+      "2026-02: Grainger reported 2025 sales of $17.9 billion, up 4.5%, and 2025 adjusted operating margin of 15.0%.",
+      "2026-02: Fastenal reported 2025 sales of $8.2 billion, up 8.7%, with higher unit sales across direct OEM, indirect MRO and construction supplies.",
+      "2026-07: Federal Reserve data showed June 2026 industrial production up 1.1% year over year and manufacturing output up at a 4.7% annual rate in 2026 Q2."
+    ],
+    "outlook": "The 2026 outlook is better than the 2025 trough but still uneven. Baseline industry growth remains modest because the market is mature and price competition is intense, but a 2026 manufacturing rebound, AI and data-center capital spending, reshoring, low customer concentration and demand for inventory reliability support revenue. Margin upside should concentrate among scaled distributors with digital catalogs, private-label sourcing, dense logistics networks and onsite programs; smaller wholesalers remain vulnerable to tariff-driven working-capital needs, freight costs, customer consolidation and direct manufacturer sales.",
+    "themes": [
+      "Mature fragmented distribution",
+      "Manufacturing-cycle exposure",
+      "MRO resilience",
+      "Digital catalog migration",
+      "Vendor-managed inventory",
+      "Private-label sourcing",
+      "Tariff and metal-price volatility",
+      "Distributor consolidation",
+      "Reshoring and domestic capex",
+      "AI and data-center industrial demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Industrial Supplies Wholesaling in the US, last updated May 12, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-supplies-wholesaling-in-the-us.txt'}",
+      "{'title': 'U.S. Census Bureau AIES, NAICS 423840 Industrial Supplies Merchant Wholesalers, 2023 revenue', 'url': 'https://data.census.gov/table?codeset=naics~423840&g=010XX00US'}",
+      "{'title': 'U.S. Census Bureau profile, NAICS 423840, 2023 establishments', 'url': 'https://data.census.gov/profile/423840_-_Industrial_Supplies_Merchant_Wholesalers?codeset=naics~423840&g=010XX00US'}",
+      "{'title': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, June 2026 release', 'url': 'https://www.federalreserve.gov/releases/g17/Current/'}",
+      "{'title': 'ISM Manufacturing PMI December 2025 report', 'url': 'https://www.prnewswire.com/news-releases/manufacturing-pmi-at-47-9-december-2025-ism-manufacturing-pmi-report-302649307.html'}",
+      "{'title': 'W.W. Grainger 2025 full-year results, February 3, 2026', 'url': 'https://invest.grainger.com/investor-news/news-details/2026/GRAINGER-REPORTS-RESULTS-FOR-THE-FOURTH-QUARTER-AND-FULL-YEAR-2025/default.aspx'}",
+      "{'title': 'Fastenal 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/815556/000081555626000009/fast-20251231.htm'}",
+      "{'title': 'MSC Industrial Direct fiscal 2025 Form 10-K summary', 'url': 'https://www.publicnow.com/view/6FB28E34E2F888BC42409B1CBE1BA951CF90B9B9'}",
+      "{'title': 'White House Section 232 steel and aluminum tariff proclamation, June 3, 2025', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/'}",
+      "{'title': 'BLS Producer Price Index, June 2026 release', 'url': 'https://www.bls.gov/news.release/ppi.htm'}"
+    ],
+    "one_sentence": "Industrial supplies wholesalers make money by buying broad lines of abrasives, containers, valves, fittings, hoses, bearings, power-transmission supplies, tape and packaging products in volume, holding local inventory, and reselling customized orders to industrial customers at a markup.",
+    "slug": "industrial-supplies-wholesaling-in-the-us"
+  },
+  {
+    "title": "Infant Formula Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A concentrated, safety-critical manufacturing niche selling powdered, concentrated liquid and ready-to-feed infant nutrition through retailers, wholesalers, hospitals and WIC channels.",
+    "overview": "The industry manufactures infant formula as a breastmilk substitute or supplement, mainly in powdered form, with smaller ready-to-feed and concentrated liquid segments. The 2022 shortage exposed the fragility of a market dominated by a few plants and brands; since then, regulators have pushed resiliency, contaminant testing, supplier oversight and WIC contingency planning. Demand in 2025 is still structurally soft because U.S. births fell to 3,606,400 in 2025 and 2022-born infants had an 85.7% breastfeeding initiation rate, but formula remains essential for infants who cannot breastfeed, need supplemental feeding, or require specialized nutrition.",
+    "key_stats": {
+      "market_size": "2025 estimate: $2.0 billion U.S. infant formula manufacturing revenue, derived from the 2022 IBISWorld baseline projection of a decline to about $2.0 billion by 2027.",
+      "growth": "2022-2027 baseline forecast CAGR: -0.8%; 2025 demand proxy: U.S. births down 1.0% to 3,606,400.",
+      "demand_base": "2025 provisional births: 3,606,400; 2024 final births: 3,628,934.",
+      "breastfeeding": "2022 birth cohort: 85.7% ever breastfed and 27.9% exclusively breastfed through 6 months.",
+      "wic_exposure": "2024 GAO/USDA: over half of U.S. infant formula is purchased through WIC; August 2024 WIC milk-based contracts were 36 states plus DC for Abbott, 13 states for Mead Johnson/Reckitt and 1 state for Nestle/Gerber transitioning after the Perrigo sale.",
+      "concentration": "2022 USDA ERS: the top 3 manufacturers accounted for 83% of U.S. infant formula sales; 2022 National Academies/FDA data put Abbott at 27%, Reckitt Mead Johnson at 39% and Perrigo at 13%.",
+      "imports": "2022 baseline: imports were $98.0 million and 5.0% of domestic demand after shortage-driven emergency supply.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $2.074 billion revenue in 2022 dollars.",
+      "growth": "2017-2022 CAGR: -2.0%; 2022 annual decline: -5.8%.",
+      "profit": "2022: $295 million profit; 2022 profit margin: 14.2%.",
+      "domestic_demand": "2022: $1.931 billion domestic demand.",
+      "exports": "2022: $241 million exports, equal to 11.6% of revenue.",
+      "imports": "2022: $98 million imports, equal to 5.0% of domestic demand.",
+      "establishments": "2022: 21 establishments and 15 enterprises.",
+      "employment": "2022: 2,012 employees and $132 million wages.",
+      "product_mix": "2022: powdered formula 69.4% of revenue, ready-to-feed 23.1%, concentrated liquid 7.5%; nondairy formulas 12.0%."
+    },
+    "how_it_makes_money": "Manufacturers sell branded, store-brand and specialty infant formula to grocery, drug, mass, club and online retailers, wholesalers, hospitals and WIC-authorized channels. Revenue comes from high-volume milk-based powder, premium ready-to-feed formats, hypoallergenic and medical formulas, organic or non-GMO blends, and private-label production; WIC contracts can drive large state-level volume but require manufacturer rebates.",
+    "cost_structure": "Major 2025-2026 cost pressures are dairy and other nutrition ingredients, vitamins and specialty oils, cans and packaging, plant sanitation, laboratory testing, FDA compliance, recalls, logistics, retailer slotting and WIC rebates. The 2022 baseline shows a high-margin but regulated structure: $132 million wages, $295 million profit and a 14.2% profit margin, with milk identified as the largest input cost.",
+    "major_players": [
+      "Abbott Nutrition / Abbott Laboratories: Similac; 2022 FDA/NASEM market share 27%; August 2024 WIC milk-based contracts in 36 states plus DC.",
+      "Reckitt Mead Johnson Nutrition: Enfamil and Nutramigen; 2022 FDA/NASEM market share 39%; August 2024 WIC milk-based contracts in 13 states.",
+      "Perrigo Company plc: store-brand infant formula and Good Start rights; 2022 FDA/NASEM market share 13%; 2025 strategic review of infant formula business announced.",
+      "Nestle / Gerber legacy: Good Start U.S. and Canadian formula rights sold to Perrigo in 2022; August 2024 one remaining WIC state contract was transitioning.",
+      "ByHeart: newer premium entrant; 2025 ByHeart products were about 1% of U.S. formula sales before the nationwide recall.",
+      "Nara Organics: small imported organic entrant; 2026 FDA said its formula was less than 1% of U.S. formula sales."
+    ],
+    "current_dynamics": "The market is no longer in the acute 2022 shortage phase, but the operating environment is more regulated, more transparent and more supply-chain focused. FDA’s 2025 Operation Stork Speed and 2026 contaminant testing increased pressure on manufacturers to document nutrient adequacy, supplier controls and contaminant exposure. WIC remains the biggest structural channel because more than half of U.S. formula moves through WIC, and single-supplier contracts still amplify state-level concentration. Demand is soft because 2025 births declined and breastfeeding rates remain high, while recalls in 2025 and 2026 have reinforced consumer and regulator scrutiny of powdered formula safety.",
+    "whats_growing": "Higher-value ready-to-feed and specialty formulas, hypoallergenic and medical nutrition, organic and premium-positioned formulas, private-label/store-brand alternatives, compliance testing, supplier qualification, traceability systems and policy interest in new entrants are growing in 2025-2026.",
+    "whats_shrinking": "Overall infant volume is shrinking as 2025 births fell 1.0% and breastfeeding remains common; traditional powder volumes face renewed safety scrutiny after 2025-2026 botulism events; Nestle’s direct U.S. formula footprint has shrunk after the 2022 Good Start sale to Perrigo; import reliance is expected to normalize from 2022 emergency levels.",
+    "recent_developments": [
+      "2025-01-14: GAO reported over half of U.S. infant formula is purchased through WIC and FY2023 rebates saved about $1.6 billion.",
+      "2025-03-18: HHS and FDA launched Operation Stork Speed to expand safe, reliable infant formula options and begin the first comprehensive nutrient review since 1998.",
+      "2025-11: ByHeart recalled all Whole Nutrition Infant Formula products after a multistate infant botulism outbreak; FDA said ByHeart was about 1% of U.S. formula sales.",
+      "2026-04-29: FDA released its largest-ever U.S. infant formula contaminant testing results under Operation Stork Speed and Closer to Zero.",
+      "2026-06-13: Nara Organics recalled all powdered infant formula lots after FDA and CDC linked illnesses to its product; FDA said Nara was less than 1% of U.S. formula sales.",
+      "2026-07-13: FDA sent an industry letter calling for stronger supplier oversight after 2025-2026 powdered formula contamination events."
+    ],
+    "outlook": "Through 2026, the industry is likely to remain flat to slightly down in volume but more valuable per unit where manufacturers sell premium, ready-to-feed and specialized formulas. Births and breastfeeding are the main demand headwinds, while WIC, medical necessity and working-parent supplementation support a durable base. The biggest risks are contamination, recalls, plant shutdowns and supplier traceability failures; the biggest upside is capacity diversification and consumer trust from stronger testing and oversight. A practical 2025-2027 view is low-single-digit revenue pressure around a $2.0 billion manufacturing base rather than a return to shortage-era spikes.",
+    "themes": [
+      "Oligopoly and WIC contract leverage",
+      "Post-2022 supply resilience",
+      "FDA scrutiny and contaminant testing",
+      "Powdered formula safety risk",
+      "Low births and breastfeeding headwinds",
+      "Premium, specialty and ready-to-feed mix shift",
+      "Private-label affordability",
+      "Supplier traceability"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/infant-formula-manufacturing.txt",
+      "https://www.fda.gov/food/infant-formula-guidance-documents-regulatory-information/long-term-national-strategy-increase-resiliency-us-infant-formula-market",
+      "https://www.fda.gov/food/infant-formula-homepage/operation-stork-speed",
+      "https://www.fda.gov/news-events/press-announcements/fda-releases-results-largest-ever-testing-infant-formula-us",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-calls-infant-formula-industry-better-safeguard-against-contaminants-introduced-through-their",
+      "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025",
+      "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026",
+      "https://www.gao.gov/products/gao-25-106503",
+      "https://www.ers.usda.gov/data-products/charts-of-note/108933",
+      "https://www.nationalacademies.org/read/27765/chapter/6",
+      "https://www.cdc.gov/nchs/pressroom/releases/20260409.html",
+      "https://www.cdc.gov/nchs/products/databriefs/db535.htm",
+      "https://www.cdc.gov/breastfeeding-data/about/index.html",
+      "https://www.cdc.gov/breastfeeding-data/survey/results.html",
+      "https://investor.perrigo.com/2026-02-26-Perrigo-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results-From-Continuing-Operations"
+    ],
+    "one_sentence": "U.S. infant formula manufacturing remains about a $2.0 billion industry in 2025, with demand capped by low births and breastfeeding gains but supported by medically necessary feeding, WIC purchasing and higher-value specialty formats.",
+    "slug": "infant-formula-manufacturing"
+  },
+  {
+    "title": "Information in the US",
+    "sector": "Technology & Digital",
+    "one_liner": "The US information sector is a $2.582 trillion 2025 revenue market spanning telecom, software and internet publishing, data hosting, search, streaming, broadcasting, film, audio and print.",
+    "overview": "The Information sector, NAICS 51, produces and distributes information and cultural products, transmits communications and data, and processes data for consumers, businesses and governments. Its largest revenue pools are telecommunications, software and digital publishing, data processing and hosting, search and online platforms, streaming and filmed entertainment, broadcasting, and traditional publishing. Census/FRED quarterly services data show taxable Information establishments generated $625.537 billion in Q1 2025, $642.359 billion in Q2 2025, $649.432 billion in Q3 2025 and $664.651 billion in Q4 2025, equal to $2.582 trillion for 2025 on a seasonally adjusted quarterly-revenue basis. Q1 2026 revenue reached $683.565 billion, implying a $2.734 trillion annualized 2026 run rate. BEA/FRED value added for Information reached $1.787 trillion in Q1 2026, up from $1.634 trillion in Q1 2025, showing that the sector is still expanding faster than many legacy media narratives imply.",
+    "key_stats": {
+      "market_size": "2025 taxable Information establishment revenue was $2.582 trillion, based on Census/FRED seasonally adjusted quarterly revenue summed across Q1-Q4 2025.",
+      "growth": "2026 Q1 revenue was $683.565 billion, up 2.8% from 2025 Q4 and 9.3% from 2025 Q1; 2026 Q1 BEA value added was $1.787 trillion, up 9.4% from 2025 Q1.",
+      "value_added": "2026 Q1 Information value added was $1.787 trillion at a seasonally adjusted annual rate; 2025 Q4 was $1.761 trillion.",
+      "employment": "BLS reported 2.780 million Information jobs in July 2026, seasonally adjusted, versus 2.787 million in April 2026.",
+      "digital_ad_revenue": "IAB/PwC reported 2025 US internet advertising revenue of $294.6 billion, up 13.9% year over year.",
+      "cloud_infrastructure": "Synergy Research estimated global cloud infrastructure services revenue at $128.6 billion in Q1 2026, up 35% year over year, with the US remaining the largest cloud market.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "The 2022 IBISWorld baseline file reported 2021 sector revenue of $1.939 trillion in 2021 dollars.",
+      "growth": "The 2022 baseline file reported 2021 revenue growth of 7.7% after a 1.8% 2020 pandemic decline, and projected 2021-2027 revenue CAGR of 2.42%.",
+      "profit": "The 2022 baseline file reported 2021 sector profit of $267.597 billion and a 13.8% profit margin.",
+      "employment": "The 2022 baseline file reported 2021 employment of 4.137 million and wages of $438.585 billion in 2021 dollars."
+    },
+    "how_it_makes_money": {
+      "subscriptions": "2025-2026 recurring subscriptions from broadband, wireless, cloud software, streaming video, gaming, news, audio, and data services are the core cash-flow engine.",
+      "advertising": "2025 US internet ad revenue reached $294.6 billion, with social at $117.7 billion, search at $114.2 billion, digital video at $78.0 billion and commerce media at $63.4 billion.",
+      "enterprise_services": "2025-2026 enterprise demand is concentrated in cloud infrastructure, SaaS, cybersecurity-adjacent hosting, data processing, collaboration tools and AI compute capacity.",
+      "content_licensing_and_distribution": "Studios, sports networks, publishers and broadcasters earn from licensing, affiliate fees, theatrical and streaming windows, syndication, and bundles.",
+      "transaction_and_usage_fees": "Platforms monetize app stores, marketplaces, usage-based cloud computing, data transfer, creator tools, games, and premium digital services."
+    },
+    "cost_structure": {
+      "labor": "BLS reported 2026 Q1 Information-sector private-industry compensation costs of $83.82 per hour worked, with wages and salaries at 64.4% of total compensation and benefits at 35.6%.",
+      "content_and_rights": "2025-2026 streaming and sports businesses face high content amortization, production, talent, and sports-rights costs, pressuring profitability as subscriber growth matures.",
+      "network_and_cloud_capex": "2025-2026 telecom and cloud operators are spending heavily on fiber, spectrum, data centers, GPUs, power, cooling and network interconnection to support broadband and AI workloads.",
+      "sales_and_traffic_acquisition": "Search, social, streaming and app platforms spend materially on traffic acquisition, creator payments, advertising sales, marketing, measurement, and payments processing.",
+      "profitability": "The 2022 baseline file put 2021 sector profit margin at 13.8%; 2025-2026 margins diverge widely, with asset-light software and platforms stronger than capital-intensive telecom, studios and legacy media."
+    },
+    "major_players": [
+      "Alphabet: Google Search, YouTube, Google Cloud and online advertising make it a central 2025-2026 information-sector platform.",
+      "Meta Platforms: Facebook, Instagram, WhatsApp and AI-powered ad systems anchor a major share of 2025-2026 social advertising.",
+      "Amazon: AWS, Prime Video, Twitch, advertising and marketplace media tie cloud, video and commerce media together in 2025-2026.",
+      "Microsoft: Azure, LinkedIn, GitHub, gaming and software publishing make it a leading cloud and information-services supplier in 2025-2026.",
+      "Apple: App Store, services, media subscriptions and device-linked distribution give it a large 2025-2026 consumer information platform role.",
+      "Comcast: broadband, cable, NBCUniversal, Peacock and business connectivity keep it central in 2025-2026 telecom and media distribution.",
+      "Verizon: wireless, fiber and enterprise connectivity remain major 2025-2026 telecom revenue pools.",
+      "AT&T: wireless, fiber and business services are major 2025-2026 telecom revenue sources.",
+      "Netflix: subscription and ad-supported streaming keep it a leading 2025-2026 video platform.",
+      "The Walt Disney Company: Disney+, Hulu, ESPN and studio assets make it a major 2025-2026 streaming and sports-media player.",
+      "Paramount Skydance: the August 2025 Paramount-Skydance merger created a restructured studio, broadcast and streaming competitor."
+    ],
+    "current_dynamics": "The 2025-2026 sector is being pulled in two directions: AI/cloud, digital advertising, connected TV, sports streaming and fiber are expanding, while print, linear TV, basic cable and some wireline voice products are contracting. Q1 2026 Census/FRED revenue of $683.565 billion and Q1 2026 BEA value added of $1.787 trillion show strong current-dollar momentum, but the mix is shifting toward scaled platforms with data, compute, content libraries and distribution control. Regulation remains unsettled after the January 2025 Sixth Circuit net-neutrality decision, while BEAD broadband grants are moving from planning into subaward and deployment phases across 2025-2026.",
+    "whats_growing": [
+      "AI and cloud infrastructure: Synergy Research estimated Q1 2026 global cloud infrastructure spending at $128.6 billion, up 35% year over year.",
+      "Digital advertising: IAB/PwC reported 2025 US internet ad revenue of $294.6 billion, up 13.9% year over year, with social, video and commerce media driving growth.",
+      "Streaming sports and bundles: ESPN launched a full direct-to-consumer service on August 21, 2025, adding another premium sports streaming option.",
+      "Fiber and broadband deployment: the $42.45 billion BEAD program moved into 2025-2026 final proposals and subawards, supporting rural and underserved network buildout.",
+      "Data processing and hosting: enterprise AI workloads, SaaS modernization and multicloud architectures are expanding demand for hosting, storage, networking and managed platforms."
+    ],
+    "whats_shrinking": [
+      "Linear pay TV: cord-cutting continues to reduce cable-network affiliate fees and legacy video distribution revenue in 2025-2026.",
+      "Print publishing: advertising and readership continue shifting from print to digital channels in 2025-2026.",
+      "Wired voice and older telecom services: households and businesses continue substituting mobile, fiber broadband, VoIP and collaboration platforms for legacy voice lines in 2025-2026.",
+      "Transactional theatrical exposure: streaming windows and franchise concentration continue to reduce the number of mid-budget films that can rely on traditional box-office economics in 2025-2026.",
+      "Smaller ad-supported publishers: 2025 internet ad growth is concentrated among scaled platforms with first-party data, commerce loops and automated buying tools."
+    ],
+    "recent_developments": [
+      "2025-01-02: The Sixth Circuit vacated the FCC's 2024 open-internet order and held that broadband internet access service is an information service under the Communications Act.",
+      "2025-07-21: NTIA approved all 56 states and territories to begin the BEAD Benefit of the Bargain subgrantee-selection round.",
+      "2025-08-07: Skydance Media and Paramount Global completed their merger, creating Paramount Skydance Corporation under ticker PSKY.",
+      "2025-08-21: ESPN launched its direct-to-consumer streaming service with all ESPN networks available directly to fans for the first time.",
+      "2026-04-16: IAB/PwC reported 2025 US internet advertising revenue of $294.6 billion, up 13.9% year over year.",
+      "2026-06-11: Census/FRED reported Q1 2026 Information-sector taxable establishment revenue of $683.565 billion, seasonally adjusted."
+    ],
+    "outlook": "The 2026 outlook is positive in nominal terms but uneven by subsector. If Q1 2026 Census/FRED revenue of $683.565 billion persisted for four quarters, taxable Information revenue would run at about $2.734 trillion in 2026. Growth should be strongest in AI-enabled cloud infrastructure, software, data hosting, creator/social/video advertising, retail media, sports streaming, and fiber broadband. Margin risk is concentrated in businesses carrying high content-rights costs, heavy data-center capex, wireless and fiber buildout, or declining linear-TV and print revenue. The sector's main watch items for 2026 are AI monetization versus infrastructure spending, digital ad concentration, broadband grant execution, sports-rights inflation, and the regulatory classification of broadband after the 2025 court ruling.",
+    "themes": [
+      "AI infrastructure arms race",
+      "Cloud and data-center capacity",
+      "Digital advertising concentration",
+      "Streaming sports unbundling and rebundling",
+      "Cord-cutting and linear TV decline",
+      "Fiber broadband and BEAD deployment",
+      "Platform scale and first-party data",
+      "Content rights inflation",
+      "Regulatory uncertainty around broadband",
+      "Print-to-digital substitution"
+    ],
+    "data_year": "2026, using latest available public data through 2026 Q1 for Census/FRED revenue and BEA value added, 2026 July for BLS employment, and 2025 full-year IAB/PwC internet advertising revenue.",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/information-in-the-us.txt, IBISWorld baseline last updated 2022-08-30.",
+      "U.S. Census Bureau via FRED, Total Revenue for 51: Information, Establishments Subject to Federal Income Tax, updated 2026-06-11: https://fred.stlouisfed.org/series/REV51TAXABL144QSA",
+      "U.S. Bureau of Economic Analysis via FRED, Value Added by Industry: Information, updated 2026-06-25: https://fred.stlouisfed.org/series/VAI",
+      "U.S. Bureau of Labor Statistics, Information: NAICS 51, accessed 2026-08-08: https://www.bls.gov/iag/tgs/iag51.htm",
+      "IAB/PwC, Internet Advertising Revenue Report: Full Year 2025, published 2026-04-16: https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/",
+      "Synergy Research Group, Cloud Market Annual Revenue Run Rate Topped Half a Trillion Dollars in Q1, published 2026-04-29: https://www.srgresearch.com/articles/cloud-market-annual-revenue-run-rate-topped-half-a-trillion-dollars-in-q1-as-growth-surge-continues",
+      "NTIA, BEAD Benefit of the Bargain approval announcement, published 2025-07-21: https://www.ntia.doc.gov/press-release/2025/all-56-states-and-territories-receive-approval-begin-benefit-bargain-round-under-bead-program",
+      "NTIA BroadbandUSA, BEAD Program overview, accessed 2026-08-08: https://broadbandusa.ntia.gov/funding-programs/broadband-equity-access-and-deployment-bead-program",
+      "Justia, Benton Institute for Broadband & Society v. FCC, Sixth Circuit decision, published 2025-01-02: https://law.justia.com/cases/federal/appellate-courts/ca6/24-3507/24-3507-2025-01-02.html",
+      "Paramount, Skydance Media and Paramount Global Complete Merger, published 2025-08-07: https://ir.paramount.com/news-releases/news-release-details/skydance-media-and-paramount-global-complete-merger-creating",
+      "The Walt Disney Company, ESPN Direct-to-Consumer: What You Need to Know, published 2025-08-21: https://thewaltdisneycompany.com/news/espn-dtc/"
+    ],
+    "one_sentence": "In 2025-2026, US information revenue is growing on cloud, AI infrastructure, digital advertising and streaming bundles, while legacy pay TV, print publishing and parts of wireline telecom continue to lose share.",
+    "slug": "information-in-the-us"
+  }
+]

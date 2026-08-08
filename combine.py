@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Combine pilot (25) + full-run chunk briefs into one normalized briefs_full.json."""
-import json, os, html
+import json, os, html, glob
 ROOT=os.path.dirname(os.path.abspath(__file__))
 
 SECTORS={'Agriculture','Manufacturing','Construction','Retail','Food & Drink','Healthcare',
@@ -37,12 +37,20 @@ for rl in ('_run200.json','_run300.json'):
         for it in json.load(open(p)): canon[it['slug']]=it['title']
 sources=['briefs_deep.json','briefs_full_1.json','briefs_full_2.json','briefs_full_3.json','briefs_full_R.json',
          'briefs_r2_1.json','briefs_r2_2.json','briefs_r2_3.json','briefs_r2_4.json','briefs_r2_5.json','briefs_r2_R.json',
-         'briefs_r3_1.json','briefs_r3_2.json','briefs_r3_3.json','briefs_r3_4.json','briefs_r3_5.json','briefs_r3_R.json']
+         'briefs_r3_1.json','briefs_r3_2.json','briefs_r3_3.json','briefs_r3_4.json','briefs_r3_5.json','briefs_r3_R.json',
+         'briefs_r3_batch__run300_next3_full.json',
+         'briefs_r3_batch__run300_0_150.json','briefs_r3_batch__run300_150_150.json',
+         'briefs_r3_batch__run300_next_0_150.json','briefs_r3_batch__run300_next_150_150.json',
+         'briefs_r3_batch__run300_next2_0_150.json','briefs_r3_batch__run300_next2_150_150.json']
+sources += sorted(os.path.basename(p) for p in glob.glob(f'{ROOT}/briefs_r3_batch__*.json'))
+sources = list(dict.fromkeys(sources))
 seen={}; order=[]
 for f in sources:
     p=f'{ROOT}/{f}'
     if not os.path.exists(p): print("skip (missing):",f); continue
     for b in json.load(open(p)):
+        if not isinstance(b, dict):
+            continue
         b=norm(b); s=b.get('slug')
         if not s or s in seen: continue
         if s in canon: b['title']=canon[s]   # clean canonical display title

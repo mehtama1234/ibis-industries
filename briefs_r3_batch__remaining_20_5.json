@@ -1,0 +1,437 @@
+[
+  {
+    "title": "Online Baby Product Sales",
+    "sector": "Retail",
+    "one_liner": "US online baby product sellers are still growing, but slower births, tariff pressure and safety scrutiny are reshaping what wins.",
+    "overview": "Online baby product sales remain a growth retail niche because many purchases are recurring, time-sensitive and convenience-driven. The 2022 IBIS baseline put US industry revenue at $14.9 billion after pandemic-era channel shift, and applying the baseline 2022-2027 CAGR implies a 2025 market of about $16.6 billion and a 2026 market near $17.3 billion. Growth is now less about first-time e-commerce adoption and more about delivery speed, subscriptions, registry ecosystems, product safety trust, private label value and premium items for older, higher-income parents.",
+    "key_stats": {
+      "market_size": "2025 estimated US online baby product sales: $16.6 billion; 2026 implied market size: $17.3 billion based on the 2022 IBIS forecast path.",
+      "growth": "2025 estimated annual growth: 3.7%; 2022-2027 baseline CAGR: 3.7%.",
+      "ecommerce_share": "US retail e-commerce was 18.3% of total retail sales in 2025 Q4 and 16.8% in 2026 Q1, not seasonally adjusted.",
+      "births": "US births were 3,622,673 in 2024, up 1.0% from 2023; the 12-month general fertility rate fell from 54.6 in 2024 Q4 to 53.3 in 2025 Q4.",
+      "profit_margin": "2022 baseline industry profit margin: 6.0%.",
+      "establishments": "2022 baseline establishments: 4,692; 2027 baseline forecast: about 6,000 enterprises.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $14.9 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: 2.5%; 2017-2022 CAGR: 11.7%.",
+      "profit": "2022 profit: $896 million; 2022 profit margin: 6.0%.",
+      "employment": "2022 employment: 11,484 workers; 2022 wages: $458 million.",
+      "product_mix": "2022 revenue mix: clothing and footwear 22.1%, baby furniture 18.3%, toys and hobby goods 16.4%, bottles/monitors/carriers/other goods 13.2%, toiletries 11.6%, formula and food 9.7%, diapers and wipes 8.7%."
+    },
+    "how_it_makes_money": "Operators buy baby goods from manufacturers, wholesalers or brand partners and resell them online through owned websites, apps, marketplaces and registry platforms. Revenue comes from product markups, private-label sales, subscriptions and auto-replenishment for diapers, wipes, food and toiletries, marketplace commissions, fulfillment fees, registry-driven gifting, advertising/media placements and, for larger platforms, paid memberships that increase order frequency.",
+    "cost_structure": {
+      "largest_costs": "2025-2026 cost base is dominated by inventory purchases and inbound freight, followed by fulfillment labor, parcel delivery, warehouse automation, payment processing, returns, customer service and digital marketing.",
+      "margin_pressure": "2025-2026 margins are pressured by price matching from Amazon, Walmart and Target, higher compliance costs for infant products, tariff exposure on China-made gear and furniture, and the high cost of shipping bulky items such as strollers, car seats and nursery furniture.",
+      "profit_support": "2025-2026 margin support comes from private label, sponsored listings, retail media, registry conversion, subscription replenishment, lower store-rent exposure than physical baby stores and better warehouse scale among large operators."
+    },
+    "major_players": [
+      "Amazon: dominant marketplace and first-party seller; 2025 global online stores net sales were $269.3 billion and 2025 North America segment net sales were $426.3 billion.",
+      "Walmart: major omnichannel competitor; FY2026 global eCommerce grew 24% and Walmart US eCommerce grew 27% in Q4 FY2026.",
+      "Target: major omnichannel baby category seller; 2025 digitally originated sales were 20.6% of merchandise sales and 2025 digital comparable sales grew 3.1%.",
+      "Babylist: registry-led specialist; 2025 revenue surpassed $750 million, up 45% year over year, with more than 10 million purchasers in 2025.",
+      "Carter's: key branded baby apparel seller through owned e-commerce, stores and wholesale channels.",
+      "buybuy BABY/Beyond: relaunched as an online-focused baby retailer in 2025 after the 2023 bankruptcy and store closures."
+    ],
+    "current_dynamics": "The channel has normalized from pandemic spikes into steadier growth. Essential consumables keep traffic recurring, while big-ticket furniture and gear are more exposed to birth trends, tariffs and consumer confidence. Marketplaces keep pricing transparent, so specialists are leaning into registry ownership, expert content, safety curation, sample boxes and health-adjacent services. Omnichannel retailers are advantaged in pickup, returns and same-day delivery, while pure plays need stronger fulfillment economics and differentiated assortments.",
+    "whats_growing": [
+      "2025-2026 registry-led commerce and curated gear recommendations, led by Babylist-style ecosystems.",
+      "2025-2026 subscriptions and auto-replenishment for diapers, wipes, formula, baby food and toiletries.",
+      "2025-2026 premium and clean-label products, including organic baby food, toxin-free toiletries and higher-end strollers, monitors and nursery items.",
+      "2025-2026 retail media and sponsored product placements on large baby and parenting platforms.",
+      "2025-2026 fast delivery, ship-from-store and marketplace fulfillment models."
+    ],
+    "whats_shrinking": [
+      "2025-2026 undifferentiated online-only resellers that compete mainly on price.",
+      "2025-2026 low-compliance imported infant sleep and safety products facing CPSC warnings, recalls and marketplace removal risk.",
+      "2025-2026 discretionary big-ticket purchases when households reuse furniture, toys and gear across children.",
+      "2025-2026 physical specialty baby-store footprints after the 2023 buybuy BABY bankruptcy and subsequent online-first relaunch.",
+      "2025-2026 low-value direct-from-China economics after de minimis changes and tariff increases."
+    ],
+    "recent_developments": [
+      "2025-05-02: CBP ended duty-free de minimis treatment for China-origin low-value shipments, raising landed costs for many online imported goods.",
+      "2025-11-11: ByHeart recalled all infant formula products after an infant botulism outbreak tied to formula sold online and at major retailers.",
+      "2026-03-26: Babylist reported 2025 revenue above $750 million, 45% year-over-year growth and more than 10 million purchasers.",
+      "2026-04-23: Walmart released FY2026 results, reporting 24% global eCommerce growth and a stronger digital mix.",
+      "2026-07-02: CPSC warned consumers to stop using certain Criblike mattresses sold on Amazon because of entrapment and suffocation risks."
+    ],
+    "outlook": "The 2026-2028 outlook is positive but more moderate than the 2017-2022 surge. Online penetration should keep rising as parents value convenience, replenishment and broad assortment, but demographic demand is weak because the 2025 provisional fertility rate declined from the 2024 level. Winners are likely to be platforms that combine low prices, reliable delivery, registry demand capture, safety vetting and high-margin media or private-label revenue. Industry revenue is expected to track mid-single-digit annual growth unless births rebound materially or tariffs create a sharper price shock.",
+    "themes": [
+      "E-commerce normalization",
+      "Registry ecosystems",
+      "Recurring essentials",
+      "Premiumization",
+      "Safety and recall scrutiny",
+      "Tariff and de minimis disruption",
+      "Omnichannel fulfillment",
+      "Retail media monetization"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-baby-product-sales.txt",
+      "U.S. Census Bureau via FRED, E-Commerce Retail Sales as a Percent of Total Sales: https://fred.stlouisfed.org/series/ECOMPCTNSA/",
+      "CDC/NCHS Natality Dashboard, 2025 provisional fertility indicators: https://www.cdc.gov/nchs/nvss/vsrr/natality-dashboard.htm",
+      "CDC/NCHS, U.S. Births Increase by 1% in 2024: https://www.cdc.gov/nchs/pressroom/releases/20250423.html",
+      "Amazon 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "Target 2025 Annual Report: https://corporate.target.com/investors/annual/2025-annual-report/10-k-report/10-k-part-ii/item-7-management-s-discussion-and-analysis-of-financial-condition-and-results-of-operations",
+      "Walmart FY2026 Annual Report release: https://corporate.walmart.com/news/2026/04/23/walmart-releases-2026-annual-report-and-proxy-statement",
+      "Babylist 2025 results press release: https://www.prnewswire.com/news-releases/babylist-tops-750-million-in-revenue-in-2025-increasing-45-as-it-expands-ecosystem-for-growing-families-302726386.html",
+      "CBP de minimis China shipment guidance: https://www.help.cbp.gov/s/article/Article-1915?language=en_US",
+      "CDC infant botulism outbreak linked to infant formula: https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-nov-2025/index.html",
+      "CPSC Criblike mattress warning: https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Criblike-Mattresses-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-or-Suffocation-Violates-Mandatory-Standards-for-Mattresses-Sold-on-Amazon-by-Mengna"
+    ],
+    "one_sentence": "The industry sells diapers, clothing, formula, toys, nursery furniture, gear and toiletries for infants and toddlers through websites, apps, marketplaces and registries, with 2025 demand supported by entrenched e-commerce behavior but constrained by fertility softness and heavy price competition.",
+    "slug": "online-baby-product-sales"
+  },
+  {
+    "title": "Online Beer, Wine & Liquor Sales",
+    "sector": "Food & Drink",
+    "one_liner": "Online alcohol retail has moved from pandemic surge to slower, convenience-led growth, with delivery marketplaces gaining share as wine direct shipping weakens.",
+    "overview": "This industry covers online sales of packaged beer, wine, liquor and adjacent products for off-premise consumption, including pure-play online retailers, winery/distillery direct-to-consumer channels, and marketplace models that route orders through licensed local retailers. The baseline IBISWorld report showed a fast-growth industry at $1.4 billion in 2021 revenue after COVID-era regulatory loosening and consumer adoption. By 2024, IBISWorld's public market-size page reported the U.S. Online Beer, Wine & Liquor Sales market at $3.1 billion, up 4.0% in 2024, with $2.9 billion in 2023. Current 2025-2026 conditions are mixed: delivery apps and omnichannel retailers continue to grow alcohol pickup and delivery, while direct-to-consumer wine shipping has declined since 2022 and broader beverage alcohol demand is pressured by moderation, value-seeking and weak wine volumes.",
+    "key_stats": {
+      "market_size": "2024: $3.1 billion U.S. Online Beer, Wine & Liquor Sales market size; 2025E: about $3.2 billion if 2024 growth trends persist.",
+      "growth": "2024: +4.0% market-size growth; 2019-2024: +16.5% CAGR according to IBISWorld public data; IWSR forecasted U.S. online alcohol sales at +7.0% value CAGR for 2023-2027.",
+      "online_share": "2022: ecommerce was 3.2% of U.S. total beverage alcohol value; 2027 forecast: 3.9%.",
+      "dtc_wine": "January-June 2025: U.S. DtC wine shipment volume fell 12% to 2.7 million cases and value fell 6% to $1.7 billion.",
+      "door_dash_alcohol": "2025 DoorDash report: U.S. respondents ordering alcohol delivery more often than in 2024 reached 42%; DoorDash also reported 2024 alcohol pickup and delivery orders up 54% year over year in a separate alcohol trends page.",
+      "retail_context": "2025: BLS/FRED sectoral output for beer, wine and liquor stores was $72.9 billion, down from $73.9 billion in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022E: about $2.8 billion, inferred from IBISWorld's public 2023 market size of $2.9 billion and 2023 growth of +3.8%.",
+      "growth": "2022: U.S. online alcohol sales grew about +1.0% by value, according to IWSR's 2023 data release.",
+      "context": "The 2021 baseline report expected slower normalization after COVID-era growth, but the later IBISWorld public 2024 data implies the market scaled materially above the old 2026 forecast."
+    },
+    "how_it_makes_money": "Operators earn revenue from packaged alcohol sales, gross margins on owned inventory, delivery and service fees, marketplace commissions from licensed liquor stores, subscription or membership benefits, advertising and sponsored placement, gift packaging, and corporate or event ordering. Pure-play retailers such as Wine.com rely more on inventory, fulfillment and shipping economics, while marketplaces such as DoorDash, Uber Eats and Instacart rely on merchant commissions, consumer fees and local retailer fulfillment.",
+    "cost_structure": "Major costs include alcoholic beverage inventory or wholesale cost of goods, marketplace payouts to retailers and drivers, shipping and last-mile delivery, payment processing, age verification and compliance systems, state licensing and tax administration, digital marketing, customer support, packaging, warehousing for inventory-led models, technology development and cybersecurity. Margins are pressured by heavy glass-bottle shipping, adult-signature delivery, product breakage, promotions, high customer acquisition costs and complex state rules.",
+    "major_players": [
+      "Wine.com",
+      "Total Wine & More",
+      "DoorDash",
+      "Uber Eats",
+      "Instacart",
+      "Gopuff",
+      "ReserveBar",
+      "Minibar Delivery",
+      "Vivino",
+      "Winc and other wine clubs"
+    ],
+    "current_dynamics": "The market is settling into a slower-growth phase after the pandemic spike. Consumer demand has not disappeared, but the strongest demand is shifting toward convenience, replenishment, gifting, premium spirits, ready-to-drink products, low- and no-alcohol options, and app-based delivery through large aggregators. At the same time, the old standalone alcohol-delivery model weakened, shown by Uber shutting down Drizly in March 2024 and folding alcohol into Uber Eats. Wine remains structurally important online because DTC shipping infrastructure is mature, but 2025 shipment data show falling wine volume and value. State law remains the main structural constraint: wine shipping is widely allowed under permits, while spirits DTC shipping remains far more limited and local delivery must comply with age, ID, delivery-zone and retailer-license requirements.",
+    "whats_growing": "Marketplace alcohol delivery, omnichannel pickup, local liquor-store participation on delivery platforms, premium spirits discovery, beer/cider/RTD delivery from a small base, low- and no-alcohol beverages, AI-assisted and personalized recommendations, and sponsored digital shelf placement are growing. DoorDash reported in 2025 that the number of U.S. liquor stores on its marketplace increased nearly 50% during 2024 and that the median independent liquor store joining in the last year saw a 40% sales increase within six months.",
+    "whats_shrinking": "Standalone alcohol-only delivery platforms, high-cost shipped wine volumes, undifferentiated online wine clubs, fast-delivery models without scale, and beer shipment economics are under pressure. U.S. DtC wine shipping has been declining since 2022, with the January-June 2025 report showing shipment volume down 12% and value down 6%. Beer remains under-indexed online because it is heavy to ship, lower priced per unit and widely available in physical stores.",
+    "recent_developments": [
+      "2024-03: Uber shut down Drizly and shifted alcohol delivery focus into Uber Eats.",
+      "2024-03: IWSR reported U.S. online alcohol growth had slowed, with 2022 value growth of +1% and 2023-2027 online alcohol value CAGR forecast at +7%.",
+      "2025-02: IWSR forecast global beverage alcohol ecommerce would surpass $36 billion by 2028 after post-pandemic stabilization.",
+      "2025-05: DoorDash reported 42% of U.S. survey respondents were ordering alcohol delivery more often than in 2024 and non-alcoholic beer orders rose 82% year over year from 2023 to 2024.",
+      "2025-09: Sovos and WineBusiness reported January-June 2025 U.S. DtC wine shipment volume down 12% and value down 6% to $1.7 billion.",
+      "2026-01: Sovos previewed its 2026 DtC Wine Shipping Report, describing 2025 as another challenging year with record year-over-year decreases in DtC shipment volume and value."
+    ],
+    "outlook": "Through 2026, the industry should keep growing, but growth will be uneven and more dependent on scaled platforms than on pandemic-era demand spikes. Marketplaces and large omnichannel retailers are better positioned because they can spread compliance, marketing and delivery costs across grocery, restaurant, convenience and retail orders. Wine DTC operators face a tougher near-term outlook as volume declines and shipping costs rise, but premium wineries may defend value through higher average bottle prices and larger baskets. Spirits and RTDs have more online share upside if state shipping and delivery rules loosen, while low- and no-alcohol products can scale faster because they avoid many alcohol-specific shipping barriers.",
+    "themes": [
+      "post-pandemic normalization",
+      "marketplace consolidation",
+      "state-by-state regulation",
+      "adult ID verification",
+      "omnichannel retail",
+      "DTC wine pressure",
+      "premiumization vs value-seeking",
+      "low- and no-alcohol growth",
+      "RTD and spirits share gains",
+      "last-mile delivery economics"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-beer-wine-and-liquor-sales.txt",
+      "IBISWorld, Online Beer, Wine & Liquor Sales in the US Market Size Statistics, last updated September 2024: https://www.ibisworld.com/united-states/market-size/online-beer-wine-liquor-sales/5087/",
+      "IWSR, From necessity to novelty, US beverage alcohol ecommerce is evolving, March 13, 2024: https://www.theiwsr.com/insight/from-necessity-to-novelty-us-beverage-alcohol-ecommerce-is-evolving/",
+      "IWSR, Alcohol ecommerce channel to surpass $36 billion by 2028, February 5, 2025: https://www.theiwsr.com/insight/iwsr-projects-alcohol-ecommerce-channel-to-surpass-36-billion-by-2028/",
+      "Sovos ShipCompliant and WineBusiness Analytics, 2025 Direct-to-Consumer Wine Shipping Mid-Year Report press release, September 4, 2025: https://sovos.com/press-releases/mid-year-report-dtc-wine-shipping-down-as-industry-pressures-persist/",
+      "Sovos ShipCompliant, Unlocking Insights: 2026 DtC Wine Shipping Report: https://sovos.com/shipcompliant/webinar/unlocking-insights-2026-dtc-wine-shipping-report/",
+      "DoorDash, 2025 Delivery Trends Report announcement, May 15, 2025: https://about.doordash.com/en-us/news/doordash-delivery-trends-report",
+      "DoorDash, Responsible Alcohol Delivery Local Impact, May 14, 2025: https://about.doordash.com/en-us/news/responsible-alcohol-delivery-local-impact",
+      "CBS News, Uber to shut down Drizly, January 16, 2024: https://www.cbsnews.com/news/uber-drizly-closing-march-2024/",
+      "FRED/BLS, Sectoral Output for Retail Trade: Beer, Wine, and Liquor Stores, updated June 3, 2026: https://fred.stlouisfed.org/series/IPUHN44531T300000000",
+      "NCSL, Direct Shipment of Alcohol State Statutes: https://www.ncsl.org/financial-services/direct-shipment-of-alcohol-state-statutes"
+    ],
+    "one_sentence": "The U.S. Online Beer, Wine & Liquor Sales industry sells packaged alcohol through websites, apps and retailer marketplaces, with 2025 demand supported by delivery convenience, mobile ordering and premium spirits but constrained by state-by-state alcohol rules, shipping costs and softer wine volumes.",
+    "slug": "online-beer-wine-and-liquor-sales"
+  },
+  {
+    "title": "Online Book Sales",
+    "sector": "Retail",
+    "one_liner": "Online book sellers distribute print books, e-books and audiobooks through e-commerce storefronts, marketplaces and reading/listening apps.",
+    "overview": "This industry covers operators that sell books online, including print books ordered through websites and apps, e-books and audiobooks; brick-and-mortar book sales are excluded. The 2022 IBIS baseline put revenue at $8.772 billion after pandemic-era acceleration, and the 2025 market is best read as a slower-growth continuation of that base rather than a new boom. AAP reported that 2024 publisher sales through online retail reached nearly $11.0 billion in the Trade category and $12.0 billion across publishing categories, while 2025 Trade revenue was down 0.5% year to date for the full year and print units rose only 0.3% to 762.4 million. Online sellers still benefit from the broader e-commerce shift: US retail e-commerce reached $326.7 billion in Q1 2026, up 9.8% from Q1 2025 and equal to 16.9% of total retail sales. Amazon remains the defining competitor because of Prime, Kindle, Audible, marketplace scale and pricing power, but Barnes & Noble, Bookshop.org, Apple Books, Spotify audiobooks, Kobo and publisher direct channels compete around curation, indie-bookstore support, e-book access and audio subscription models.",
+    "key_stats": {
+      "market_size": "2025 estimated US online book sales revenue: about $10.0 billion; 2026 projected revenue: about $10.4 billion, based on the 2022 IBIS baseline and its 2022-2028 projected CAGR.",
+      "growth": "2022-2028 projected CAGR: 4.5%; 2025 print book unit sales growth: 0.3%; 2025 AAP Trade revenue growth: -0.5%; Q1 2026 US retail e-commerce growth: 9.8% year over year.",
+      "profit_margin": "2022 IBIS profit margin: 5.2%; 2026 margins remain constrained by book discounting, fulfillment costs, platform fees and customer-acquisition spending.",
+      "online_channel_context": "2024 AAP Online Retail publishing revenue: nearly $11.0 billion in Trade and $12.0 billion across categories; 2026 Q1 e-commerce share of US retail: 16.9%.",
+      "format_mix": "2024 AAP digital formats were 21.2% of Trade revenue; 2025 AAP e-book revenue was about $1.0 billion and digital audio revenue was about $1.0 billion for the year.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBIS revenue: $8.772 billion.",
+      "growth": "2022 IBIS revenue growth: 2.3%; 2017-2022 CAGR: 9.3%; 2022-2028 projected CAGR: 4.5%.",
+      "profit": "2022 IBIS profit: $456 million.",
+      "profit_margin": "2022 IBIS profit margin: 5.2%.",
+      "establishments": "2022 IBIS establishments: 1,188.",
+      "enterprises": "2022 IBIS enterprises: 1,113.",
+      "employment": "2022 IBIS employment: 1,644 workers.",
+      "wages": "2022 IBIS wages: $370 million.",
+      "digital_share": "2022 IBIS e-books share of revenue: 19.5%."
+    },
+    "how_it_makes_money": "Operators earn revenue from selling physical books online, selling or licensing e-books, selling audiobook downloads or subscriptions, marketplace commissions, affiliate/referral fees, membership-driven shipping economics and, for large platforms, cross-selling books alongside broader retail, device and media ecosystems.",
+    "cost_structure": "Major costs include book inventory or publisher/wholesaler payments, author and publisher royalties for digital formats, fulfillment-center labor, postage and last-mile delivery, payment processing, returns, cloud and app infrastructure, search and performance marketing, marketplace commissions, customer service, warehousing, and technology development for recommendation, reading and listening platforms.",
+    "major_players": [
+      "Amazon",
+      "Barnes & Noble",
+      "Bookshop.org",
+      "Apple Books",
+      "Spotify Audiobooks",
+      "Kobo",
+      "Walmart",
+      "Target",
+      "ThriftBooks",
+      "AbeBooks"
+    ],
+    "current_dynamics": "The market has shifted from pandemic-driven channel migration to normalized e-commerce competition. Print demand is resilient but low growth, with 2025 US print units up only 0.3%, while 2026 Q1 print units fell 3.1% from Q1 2025. Digital formats are mature in e-books but still strategically important because they keep customers inside device and app ecosystems; digital audio is a key battleground as Spotify expands audiobook access and Audible defends its subscription base. Amazon remains structurally advantaged through Prime, Kindle, Audible, logistics and pricing, but Bookshop.org’s 2025 e-book launch and 55% revenue growth show that mission-led and indie-affiliated online channels can take share in niches. Regulatory scrutiny of Amazon’s subscriptions, marketplace conduct and pricing practices remains a material overhang for the dominant platform.",
+    "whats_growing": [
+      "2025 Bookshop.org revenue grew 55% to just under $70 million, helped by romance and e-books.",
+      "2025 romance print sales rose 3.9% to almost 44 million units at Circana BookScan outlets.",
+      "2025 graphic novel print sales rose 9.2% to 25.9 million units.",
+      "2026 Q1 manga unit sales rose 45% according to Circana commentary.",
+      "2026 Q1 US retail e-commerce sales rose 9.8% year over year to $326.7 billion.",
+      "2024 AAP digital audio revenue grew 22.5% to $2.4 billion across publishing categories."
+    ],
+    "whats_shrinking": [
+      "2025 AAP Trade revenue fell 0.5% for the year despite a strong December.",
+      "2025 AAP mass-market paperback revenue fell 29.2% to $84.9 million.",
+      "2025 AAP physical audio revenue fell 31.2% to $6.1 million.",
+      "2026 Q1 US print book unit sales fell 3.1% from Q1 2025.",
+      "2026 Q1 adult nonfiction and young adult fiction weakened versus the 2025 blockbuster comparison period.",
+      "2025 fantasy print units fell 8.7% to 24.1 million after strong romantasy comparisons."
+    ],
+    "recent_developments": [
+      "2025-01: Bookshop.org launched an e-book platform for independent bookstores with iOS, Android and web readers.",
+      "2025-06: Spotify said US, UK and Australia audiobook listeners rose more than 30% year over year and listening hours rose more than 35%.",
+      "2025-08: Spotify expanded Audiobooks+ access to US Family and Duo plan members at $11.99 per month.",
+      "2025-09: The FTC announced a $2.5 billion Amazon Prime subscription settlement, including $1.5 billion in consumer refunds and a $1.0 billion civil penalty.",
+      "2026-01: Circana BookScan data showed 2025 US print book units reached 762.4 million, up 0.3% from 2024.",
+      "2026-04: Circana BookScan data showed Q1 2026 US print book units fell 3.1% from Q1 2025."
+    ],
+    "outlook": "Online book sales should continue expanding through 2026-2028, but at a moderate pace below the 2020-2021 surge. The best opportunities are in digital audio, mobile-first buying, indie-affiliated online storefronts, romance, manga, graphic novels, children’s/activity books and algorithmic discovery tied to social media. The biggest constraints are flat unit growth, discount-led price competition, shipping costs, returns, publisher margin pressure, digital-platform lock-in and regulatory exposure around Amazon. A reasonable 2026 outlook is low- to mid-single-digit revenue growth, with stronger share gains for specialized and digital-first platforms than for the overall book market.",
+    "themes": [
+      "Amazon dominance",
+      "E-commerce penetration",
+      "Digital audio expansion",
+      "E-book platform competition",
+      "Independent bookstore online channels",
+      "BookTok and social discovery",
+      "Romance and manga demand",
+      "Mass-market paperback decline",
+      "Regulatory pressure on large platforms",
+      "Fulfillment and shipping cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-book-sales.txt",
+      "https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-32-5-billion-for-calendar-year-2024/",
+      "https://publishers.org/news/aap-december-2025-statshot-report-overall-publishing-industry-up-9-4-for-month-of-december-and-up-1-1-year-to-date/",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/99417-print-book-sales-rose-slightly-in-2025.html",
+      "https://www.circana.com/post/turning-the-page-on-2026-book-trends",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/96906-bookshop-org-debuts-its-e-book-platform.html",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100198-bookshop-org-s-sales-grew-55-in-2025-sparked-by-romance-and-e-books.html",
+      "https://newsroom.spotify.com/2025-06-10/spotify-delivers-growth-for-the-publishing-industry-audiobooks-sales-continue-to-grow/",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon",
+      "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm"
+    ],
+    "one_sentence": "The US online book sales industry remains a growth market in 2025-2026, but the post-pandemic surge has normalized into slower gains driven by online retail penetration, digital audio, mobile reading and niche alternatives to Amazon.",
+    "slug": "online-book-sales"
+  },
+  {
+    "title": "Online Camera & Camcorder Sales",
+    "sector": "Retail",
+    "one_liner": "Online camera and camcorder retailers are mature but still growing as e-commerce gains, creator demand, mirrorless systems and compact-camera nostalgia offset smartphone substitution and legacy media decline.",
+    "overview": "This industry consists of online-only merchants and the online operations of omnichannel retailers that sell digital cameras, camcorders, lenses, tripods, memory cards, lighting, recording media and adjacent creator equipment. Demand has shifted away from low-end point-and-shoot cameras and standalone camcorders toward mirrorless interchangeable-lens systems, premium fixed-lens compacts, used gear, vlogging accessories and professional video equipment. The channel remains structurally supported by US e-commerce adoption: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025 and equal to 16.9% of retail sales. Smartphone cameras remain the main substitute, with Pew reporting 91% US adult smartphone ownership in 2025, but dedicated cameras retain demand among professionals, enthusiasts, creators, schools, studios and buyers seeking optical zoom, larger sensors, interchangeable lenses, ergonomics and workflow reliability.",
+    "key_stats": {
+      "market_size": "$6.3 billion in 2026 estimated US industry revenue",
+      "growth": "+1.7% CAGR from 2021 to 2026 based on the baseline projection; near-term 2026 demand is supported by Q1 2026 US e-commerce sales growth of +9.8% year over year",
+      "profit_margin": "4.7% in 2021 baseline margin; 2026 margin remains pressured by freight, marketplace fees, promotions and high online price transparency",
+      "establishments": "49,000+ enterprises projected for 2026 in the baseline as low entry barriers keep the seller base fragmented",
+      "ecommerce_context": "US retail e-commerce sales were $326.7 billion in Q1 2026, 16.9% of total retail sales",
+      "camera_market_context": "CIPA-based 2025 data showed global camera shipments up 6.6% year over year and total market value just under $20 billion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$5.9 billion in 2022 estimated from the baseline 2021 revenue of $5.761 billion and 2021-2026 CAGR projection",
+      "growth": "+1.7% estimated 2022 revenue growth, in line with the baseline 2021-2026 projection",
+      "revenue_anchor": "$5.761 billion in 2021 baseline revenue",
+      "baseline_product_mix": "54.7% cameras and photographic equipment, 13.5% camcorders and video equipment, 31.8% compact discs, records, tapes and other products in the 2021 baseline"
+    },
+    "how_it_makes_money": "Operators earn revenue from direct online sales of new and used cameras, lenses, camcorders, lighting, tripods, memory cards, bags, microphones, drones and recording media; marketplace sellers also pay commissions, fulfillment fees, advertising fees and payment-processing charges. Higher-margin revenue comes from accessories, used gear, warranties, service plans, bundles, private-label accessories, rentals, trade-ins and financing, while core camera bodies often carry lower margins because shoppers can compare prices instantly across Amazon, B&H, Adorama, Best Buy, Walmart Marketplace and manufacturer sites.",
+    "cost_structure": "The largest cost is merchandise purchases from manufacturers, distributors and wholesalers, followed by fulfillment, warehousing, shipping subsidies, returns processing and marketplace fees. Labor costs cover customer service, category specialists, warehouse staff, merchandising, software and digital marketing teams. Other meaningful costs include paid search, affiliate commissions, fraud prevention, payment processing, web infrastructure, insurance, rent for warehouses or hybrid retail sites and inventory write-downs on aging models. Profitability is constrained by promotions, high return rates on electronics, MAP pricing rules, gray-market competition and fast product cycles.",
+    "major_players": [
+      "Amazon",
+      "B&H Photo Video",
+      "Adorama",
+      "Best Buy",
+      "Walmart Marketplace",
+      "eBay",
+      "KEH Camera",
+      "MPB",
+      "Canon USA direct-to-consumer",
+      "Sony Electronics direct-to-consumer",
+      "Nikon USA direct-to-consumer"
+    ],
+    "current_dynamics": "The 2025-2026 market is better than the pre-2024 narrative for dedicated cameras, but not broad-based. Mirrorless cameras and lenses remain the value center, premium fixed-lens compacts have had a visible comeback, and creators continue to buy microphones, lights, gimbals, capture cards and hybrid still/video kits online. At the same time, DSLR demand, commodity camcorders, DVDs, CDs and casual point-and-shoot replacement purchases continue to shrink. Retailers compete on inventory availability, fast delivery, trusted advice, used-gear liquidity, trade-in credit and bundles rather than only on list price.",
+    "whats_growing": [
+      "Premium mirrorless camera bodies and RF/E/Z/X-mount lens ecosystems in 2025-2026",
+      "Fixed-lens compact cameras and retro-style models, with 2025 global fixed-lens growth highlighted in CIPA-based data",
+      "Used and refurbished camera gear as buyers seek lower-cost access to high-end equipment in 2025-2026",
+      "Creator kits for YouTube, TikTok, streaming, podcasts and small-business video production in 2025-2026",
+      "Mobile commerce and marketplace sales, supported by US Q1 2026 e-commerce growth of +9.8% year over year"
+    ],
+    "whats_shrinking": [
+      "Standalone consumer camcorders in 2025-2026 as smartphones and hybrid mirrorless cameras absorb casual video demand",
+      "DSLR cameras in 2025-2026 as manufacturers and buyers continue shifting to mirrorless systems",
+      "Low-end point-and-shoot cameras for everyday snapshots due to 91% US adult smartphone ownership in 2025",
+      "Compact discs, DVDs, tapes and other legacy physical media as streaming and cloud storage displace recording media",
+      "Margins on commodity accessories where marketplace competition and paid-search costs remain intense in 2025-2026"
+    ],
+    "recent_developments": [
+      "2025-02-25: Canon said it held the No. 1 global interchangeable-lens digital camera market share for the 22 years through 2024.",
+      "2025-05-29: Best Buy reported Q1 FY26 domestic online revenue of $2.58 billion, up 2.1% on a comparable basis and equal to 31.7% of domestic revenue.",
+      "2025-11-20: Pew Research Center reported 91% of US adults owned a smartphone in 2025, reinforcing smartphone substitution pressure on casual camera demand.",
+      "2026-02-03: CIPA-based reporting showed 2025 global camera shipments up 6.6% year over year and total market value just under $20 billion, with fixed-lens cameras leading growth.",
+      "2026-05-18: The US Census Bureau reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025 and 16.9% of total retail sales.",
+      "2026-08-05: CIPA-based first-half 2026 reporting showed global camera shipments modestly above 2025 levels, with compact cameras and crop-sensor interchangeable-lens cameras outperforming weaker DSLR and full-frame categories."
+    ],
+    "outlook": "Revenue is expected to grow slowly through 2026 rather than return to the high-growth phase seen during the pandemic e-commerce surge. The strongest operators will pair broad selection with specialist advice, reliable fulfillment, used-gear programs and creator-focused merchandising. Industry upside comes from premium mirrorless upgrades, lens attach rates, compact-camera scarcity, social video production and the continued shift of electronics purchases online. Downside risks include household discretionary-spending pressure, smartphone camera improvements, weak entry-level camera demand, supply constraints in image sensors or memory, tariff and freight volatility and margin compression from marketplaces. A reasonable 2026 view is stable to low-single-digit growth, with market size near the baseline $6.3 billion projection.",
+    "themes": [
+      "E-commerce penetration",
+      "Creator economy",
+      "Mirrorless upgrade cycle",
+      "Compact camera revival",
+      "Smartphone substitution",
+      "Used and refurbished gear",
+      "Marketplace price transparency",
+      "Specialist retail service",
+      "Legacy media decline",
+      "Accessory and lens margin mix"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-camera-and-camcorder-sales.txt",
+      "US Census Bureau Quarterly Retail E-Commerce Sales, Q1 2026: https://www.census.gov/retail/eCommerce.html",
+      "FRED series ECOMSA, Census e-commerce retail sales through Q1 2026: https://fred.stlouisfed.org/series/ECOMSA",
+      "CIPA statistics and reports: https://www.cipa.jp/e/stats/report.html",
+      "MPB summary of CIPA 2025 global camera shipment data: https://www.mpb.com/en-us/content/latest-from-mpb/fixed-lens-camera-market-growth-2025",
+      "Pew Research Center Mobile Fact Sheet, November 20 2025: https://www.pewresearch.org/internet/fact-sheet/mobile/",
+      "Best Buy Q1 FY26 results, May 29 2025: https://corporate.bestbuy.com/2025/best-buy-reports-q1-fy26-results/",
+      "Amazon 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "Canon 2025 market-share release: https://global.canon/en/news/2025/20250225.html",
+      "Canon sales by business unit, updated April 23 2026: https://global.canon/en/ir/finance/business-unit.html",
+      "Nikon financial results library, fiscal year ended March 31 2026: https://www.nikon.com/company/ir/ir_library/result/",
+      "B&H Photo Video 2025 recognition release: https://www.prnewswire.com/news-releases/bh-photo-earns-top-honors-in-newsweeks-2025-best-of-the-best-ranking-302544934.html"
+    ],
+    "one_sentence": "The US Online Camera & Camcorder Sales industry sells cameras, camcorders, lenses and related media through online channels, with 2026 revenue estimated near $6.3 billion after steady low-single-digit growth from the 2022 baseline.",
+    "slug": "online-camera-and-camcorder-sales"
+  },
+  {
+    "title": "Online Car Dealers",
+    "sector": "Retail",
+    "one_liner": "Online car dealers sell vehicles through digital-first or omnichannel platforms, with growth tied to used-car supply, auto-credit affordability and dealer adoption of end-to-end digital retailing.",
+    "overview": "Online car dealers retail new and used passenger vehicles through websites, apps and digitally enabled dealer platforms, often bundling financing, trade-ins, delivery or pickup, warranties, service contracts and insurance-related products. The category includes pure-play platforms such as Carvana, omnichannel used-car retailers such as CarMax, and traditional franchised or independent dealers that complete parts of the sale online. After rapid pandemic growth, the market is now being reshaped by high vehicle prices, elevated auto-loan rates, tighter used-vehicle supply and the exit of weaker pure-play competitors. In 2025, the strongest operators were those that combined digital acquisition, reconditioning, logistics, credit monetization and dealer software rather than relying only on online storefront traffic.",
+    "key_stats": {
+      "market_size": "$154.22 billion in 2025 for the U.S. online car buying market; $173.05 billion projected in 2026",
+      "growth": "12.2% implied 2025-2026 growth from $154.22 billion to $173.05 billion",
+      "online_purchase_share": "7% of U.S. vehicle buyers completed the entire purchase online in the 2025 Cox Automotive Car Buyer Journey Study",
+      "omnichannel_preference": "63% of U.S. vehicle buyers said an omnichannel mix of online and in-person steps was ideal in the 2025 Cox Automotive Car Buyer Journey Study",
+      "new_vehicle_sales": "16.3 million U.S. new vehicles sold in 2025, up 1.8% from 2024; Cox forecasts 15.8 million in 2026",
+      "used_vehicle_price_index": "Manheim Used Vehicle Value Index reached 215.3 in March 2026, up 6.2% year over year",
+      "auto_loan_rates": "Average U.S. auto loan rates were 6.39% for new cars and 11.43% for used cars in Q1 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$45.103 billion in 2022 IBISWorld revenue",
+      "growth": "4.7% revenue growth in 2022 and 6.4% annualized growth over 2017-2022",
+      "projected_growth": "2.56% projected annualized revenue growth over 2022-2028 in the baseline file",
+      "establishments": "6,437 establishments in 2022",
+      "enterprises": "6,194 enterprises in 2022",
+      "employment": "56,760 workers in 2022",
+      "wages": "$3.197 billion in wages in 2022",
+      "industry_gross_product": "$3.300 billion in 2022"
+    },
+    "how_it_makes_money": "Operators earn revenue from vehicle sales, trade-in and purchased-vehicle resale, wholesale disposal of vehicles not suited for retail inventory, financing gains or loan-sale income, dealer-arranged finance and insurance products, service contracts, GAP coverage, delivery fees, subscriptions, advertising and dealer technology tools. Carvana reported $14.537 billion of 2025 retail vehicle sales, $4.052 billion of 2025 wholesale sales and revenues, and $1.733 billion of 2025 other sales and revenues, mainly finance and complementary products.",
+    "cost_structure": "The largest cost is vehicle acquisition and preparation. Carvana's 2025 cost of sales was $16.130 billion against $20.322 billion of revenue, or about 79.4% of sales. Other major costs are reconditioning centers, inspection labor, logistics, vehicle transport, floorplan and securitization funding, customer support, title and registration processing, software platforms, advertising, search traffic, data services, rent or vending-machine/store footprint, and compliance. The 2022 IBISWorld baseline showed wages of $3.197 billion, equal to about 7.1% of 2022 revenue.",
+    "major_players": [
+      "Carvana",
+      "CarMax",
+      "AutoNation",
+      "Lithia & Driveway",
+      "Cars Commerce",
+      "CarGurus",
+      "Cox Automotive",
+      "TrueCar",
+      "Shift Technologies legacy assets",
+      "Vroom legacy CarStory and UACC assets"
+    ],
+    "current_dynamics": "Affordability is the central constraint in 2025-2026: record new-vehicle prices, high used-car borrowing rates and longer loan terms push many shoppers toward used vehicles, leasing comparisons, older inventory or delayed purchases. The winning model is increasingly omnichannel rather than purely online: Cox found only 7% of 2025 buyers completed the entire purchase online, while 63% preferred a blend of online and in-person steps. At the same time, digital influence is broad: CarMax said digital capabilities supported 83% of retail unit sales in fiscal 2026 Q4, while Carvana's 2025 retail units rose 43.3% to 596,641 as its vertically integrated model recovered profitability. Used-vehicle supply remains tight because pandemic-era production shortfalls reduced later-model trade-ins and lease returns, supporting prices and gross profit for scaled operators with strong sourcing.",
+    "whats_growing": "Mostly digital and omnichannel journeys, online credit applications, instant trade-in offers, AI-assisted shopping, dealer website tools, remote paperwork, used-SUV demand, finance and protection-product monetization, and scaled reconditioning/logistics networks are growing. Cox reported in 2026 that 19% of 2025 buyers used AI websites or AI-generated overviews during shopping, and Carvana reported Q2 2026 retail unit growth of 38% year over year to 197,325 units.",
+    "whats_shrinking": "Unprofitable pure-play online dealers, fully online-only expectations, low-margin inventory turns, late-model certified used supply and budget-buyer affordability are under pressure. Vroom halted used-vehicle ecommerce in January 2024 and substantially completed its wind-down by March 29, 2024. Cox forecasts 2026 U.S. new-vehicle sales at 15.8 million, down 2.4% from 2025, and expects retail used-vehicle sales to decline slightly year over year in 2026.",
+    "recent_developments": [
+      "2024-01-22: Vroom announced it would discontinue ecommerce used-vehicle operations and wind down its used-vehicle dealership business.",
+      "2025-04: IBISWorld's Online Car Dealers in the US report estimated industry revenue at $44.3 billion in 2023 after a 3.5% five-year CAGR.",
+      "2025-12-17: Cox Automotive estimated 2025 U.S. new-vehicle sales at 16.3 million, up 1.8% from 2024 and the best result since 2019.",
+      "2026-01-13: Cox Automotive's 2025 Car Buyer Journey Study reported that only 7% of buyers purchased entirely online, while 63% preferred omnichannel buying.",
+      "2026-02-18: Carvana reported 596,641 retail units sold in 2025, up 43% year over year, and $20.322 billion in 2025 revenue.",
+      "2026-07-29: Carvana reported Q2 2026 revenue of $7.376 billion and 197,325 retail units, up 52% and 38% year over year, respectively."
+    ],
+    "outlook": "The 2026 outlook is stable but uneven. Digital retailing will keep taking share of the customer journey, but the industry is unlikely to become predominantly fully online in the near term because consumers still value physical inspection, test drives, local dealer support and in-person finalization. Revenue growth should come from higher digital penetration, used-car demand, AI-assisted shopping, finance conversion and better inventory logistics, while high interest rates, record vehicle prices, tariff uncertainty and limited late-model used supply cap unit growth. Scaled operators with strong reconditioning, credit access, logistics and dealer partnerships are positioned to gain share from smaller online-only sellers.",
+    "themes": [
+      "Omnichannel Retail",
+      "Used-Car Affordability",
+      "Digital Financing",
+      "AI Shopping Tools",
+      "Inventory Sourcing",
+      "Reconditioning Scale",
+      "Vehicle Logistics",
+      "Dealer Platform Software",
+      "Finance And Insurance Monetization",
+      "Pure-Play Consolidation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-car-dealers.txt",
+      "https://www.researchandmarkets.com/report/united-states-online-car-retail-market",
+      "https://straitsresearch.com/report/online-car-buying-market",
+      "https://www.coxautoinc.com/insights-hub/cox-automotive-car-buyer-journey-study-finds-efficiency-digital-tools-and-ai-drive-record-satisfaction/",
+      "https://www.coxautoinc.com/insights/cox-automotive-2026-outlook/",
+      "https://www.coxautoinc.com/insights/cox-automotive-forecast-dec-2025-u-s-auto-sales-forecast/",
+      "https://press.carvana.com/carvana-announce-record-fourth-quarter-and-full-year-2025-results/",
+      "https://press.carvana.com/carvana-announces-record-second-quarter-2026-results/",
+      "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000009/cvna-20251231.htm",
+      "https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results/default.aspx",
+      "https://www.businesswire.com/news/home/20240122996684/en/Vroom-Announces-Wind-Down-of-Ecommerce-Used-Vehicle-Operations",
+      "https://www.experian.com/blogs/ask-experian/auto-loan-rates-financing/",
+      "https://mediaroom.kbb.com/2026-01-13-Kelley-Blue-Book-Report-As-America-Spends-a-Record-15-Billion-on-Full-Size-Pickup-Trucks-in-December%2C-New-Vehicle-Prices-Hit-New-High"
+    ],
+    "one_sentence": "The U.S. online car dealer market has moved from pandemic-era disruption to a more mature omnichannel model, where fully online purchases remain a minority but digital search, financing, trade-in and paperwork tools increasingly shape most vehicle transactions.",
+    "slug": "online-car-dealers"
+  }
+]

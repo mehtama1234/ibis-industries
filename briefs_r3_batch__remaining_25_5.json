@@ -1,0 +1,443 @@
+[
+  {
+    "title": "Online Car Rental",
+    "sector": "Consumer Services",
+    "one_liner": "Online car rental is now the default booking layer for a capital-heavy travel service, with growth coming from mobile reservations, leisure travel, fleet optimization and direct-channel loyalty.",
+    "overview": "The industry covers car rentals booked or managed through digital channels, including direct brand apps and websites, online travel agencies, corporate travel tools and platform integrations. The 2022 IBISWorld baseline showed a post-pandemic rebound to $41.653 billion in revenue, helped by travel recovery and higher rental pricing. By 2025, newer market estimates put the broader US vehicle rental market at $48.48 billion, with online reservations representing 71.35% of bookings, implying about $34.6 billion of online-channel rental revenue under that definition. The market is concentrated around Enterprise, Hertz and Avis Budget at airports, but the digital layer is increasingly contested by OTAs, peer-to-peer platforms, ride-hail integrations and premium mobile-first services.",
+    "key_stats": {
+      "market_size": "2025: about $34.6 billion implied US online-channel car rental revenue, calculated from $48.48 billion US vehicle rental market size and 71.35% online reservation share; 2026 broader US vehicle rental market size estimated at $51.13 billion.",
+      "growth": "2026-2031: 5.59% CAGR projected for online booking channels; 2026-2031: 5.47% CAGR projected for the broader US vehicle rental market.",
+      "online_share": "2025: online reservations held 71.35% of US car rental bookings.",
+      "travel_demand": "2026: US travel spending forecast at $1.37 trillion, with domestic travel representing 87% of total spending.",
+      "airport_exposure": "2025: Hertz Americas RAC reported airport revenue at 68% of segment revenue; 2025: Avis Budget Americas revenue was $8.900 billion.",
+      "fleet_cost_signal": "2025: Avis Budget recorded $518 million of US EV fleet impairment and related charges; 2025: Hertz revenue-earning vehicle depreciation and lease charges declined to $1.927 billion from $3.611 billion in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $41.653 billion IBISWorld revenue for Online Car Rental, stated in 2022 dollars.",
+      "growth": "2022: 5.7% annual revenue growth; 2017-2022: 7.7% annualized revenue growth; 2022-2027: 2.8% annualized revenue forecast to $47.8 billion.",
+      "profit": "2022: $2.791 billion profit and 6.7% profit margin.",
+      "establishments": "2022: 15,282 establishments.",
+      "employment": "2022: 78,710 employees.",
+      "wages": "2022: $3.164 billion total wages."
+    },
+    "how_it_makes_money": "Operators earn base rental fees by day or contract, premium vehicle upgrades, insurance and damage-waiver products, fuel and refueling charges, airport concession pass-throughs, GPS/toll/child-seat add-ons, loyalty or corporate-account volume, OTA distribution, peer-to-peer platform fees and remarketing gains or losses when fleet vehicles are sold. Digital channels improve conversion, pricing yield and ancillary attachment, especially when customers book direct through brand apps.",
+    "cost_structure": "The largest costs are fleet acquisition, financing, depreciation and lease charges, followed by branch labor, cleaning and turnaround, maintenance, insurance, vehicle repositioning, airport concession fees, payment and OTA commissions, technology, cybersecurity, marketing and SG&A. Profitability is highly sensitive to residual values, interest rates, utilization, revenue per day and seasonal fleet sizing.",
+    "major_players": [
+      "Enterprise Mobility: Enterprise, National and Alamo",
+      "Avis Budget Group: Avis, Budget, Payless and Zipcar",
+      "Hertz Global Holdings: Hertz, Dollar and Thrifty",
+      "Sixt SE",
+      "Fox Rent A Car",
+      "Expedia Group and Booking Holdings as online travel distribution channels",
+      "Turo and Getaround in peer-to-peer rentals"
+    ],
+    "current_dynamics": "The 2025-2026 market is less about post-pandemic shortage pricing and more about fleet discipline, utilization and digital conversion. Online bookings continue to take share, but pricing has become more competitive as fleet supply normalizes. Airport demand remains important, while domestic leisure, road trips and replacement rentals provide steadier volume than international inbound travel, which weakened in 2025 before an expected 2026 rebound. EV fleet plans have become more cautious after large residual-value write-downs, while telematics, AI inspections, dynamic pricing and app-based pickup are becoming core operating tools.",
+    "whats_growing": [
+      "2025: online reservations, with 71.35% booking share and 5.59% projected CAGR through 2031.",
+      "2025: leisure and tourism rentals, with 56.71% share of the US car rental market.",
+      "2026: domestic travel spending, forecast at $1.20 trillion and 87% of total US travel spending.",
+      "2026: fleet-services adjacencies such as robotaxi depot operations, telematics, inspection automation and third-party mobility support.",
+      "2025-2026: direct digital booking, loyalty apps and embedded rental options inside broader travel or ride-hailing platforms."
+    ],
+    "whats_shrinking": [
+      "2025: offline booking share as digital channels continue to gain share.",
+      "2025: Hertz total revenue, down to $8.504 billion from $9.049 billion in 2024.",
+      "2025: Avis Budget full-year revenue, down to $11.652 billion from $11.789 billion in 2024.",
+      "2025: US international inbound visits, forecast down from 72.4 million in 2024 to 67.9 million in 2025.",
+      "2025-2026: aggressive EV rental fleet expansion, as operators reassess residual-value and charging economics."
+    ],
+    "recent_developments": [
+      "2025-07-21: Avis Budget launched Avis First, a premium curbside pickup and drop-off product for higher-end renters.",
+      "2025-07-29: Avis Budget announced a multi-year Waymo partnership to support autonomous ride-hailing fleet operations in Dallas.",
+      "2025-12: Avis Budget recorded $518 million of US EV fleet impairment and related charges after revising its EV fleet strategy.",
+      "2026-01-08: Cox Automotive reported the Manheim Used Vehicle Value Index ended 2025 at 205.5, up 0.4% year over year, and forecast a 2% rise by year-end 2026.",
+      "2026-04-29: Avis Budget reported Q1 2026 revenue of $2.5 billion and 70% vehicle utilization in both Americas and International segments.",
+      "2026-07-28: Avis Budget reported Q2 2026 revenue of $3.0 billion, net income of $63 million and 72.6% total company vehicle utilization."
+    ],
+    "outlook": "The online channel should keep outgrowing the overall car rental market through 2031 as more bookings move to apps, direct loyalty channels and embedded travel platforms. Growth is likely to be moderate rather than explosive because travel spending is positive but pressured, international inbound demand is still recovering and ride-hailing remains a substitute for short urban trips. Operators with disciplined fleet acquisition, strong direct-booking funnels, better vehicle-turn technology and lower depreciation volatility should outperform. The main risks are weaker consumer travel, higher interest rates, airport fee pressure, EV residual-value swings, cyber outages and renewed fare competition.",
+    "themes": [
+      "Digital booking share shift",
+      "Direct channels versus OTAs",
+      "Fleet discipline over fleet growth",
+      "Residual-value risk",
+      "EV caution after write-downs",
+      "Airport exposure and domestic leisure demand",
+      "Dynamic pricing and telematics",
+      "Ride-hailing and peer-to-peer competition",
+      "Premium and frictionless pickup",
+      "Autonomous fleet-services adjacency"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld file, Online Car Rental, last updated 2022-06-03', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-car-rental.txt'}",
+      "{'name': 'Mordor Intelligence, United States Vehicle Rental Market, updated 2026', 'url': 'https://www.mordorintelligence.com/industry-reports/united-states-vehicle-rental-market'}",
+      "{'name': 'U.S. Travel Association, U.S. Travel Forecast, Spring 2026', 'url': 'https://www.ustravel.org/research/travel-forecasts'}",
+      "{'name': 'Avis Budget Group, 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231.htm'}",
+      "{'name': 'Avis Budget Group, Q2 2026 results', 'url': 'https://www.avisbudgetgroup.com/home/news-and-media/press-release/avis-budget-group-reports-second-quarter-results-2026.html'}",
+      "{'name': 'Hertz Global Holdings, 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm'}",
+      "{'name': 'Cox Automotive, Manheim Used Vehicle Value Index 2025 close and 2026 forecast', 'url': 'https://www.prnewswire.com/news-releases/manheim-used-vehicle-value-index-ends-2025-on-stable-note-2026-forecast-calls-for-normal-depreciation-rising-ev-influence-302656152.html'}",
+      "{'name': 'Bureau of Transportation Statistics, U.S. Air Carrier Traffic Statistics through April 2026', 'url': 'https://www.transtats.bts.gov/traffic/'}",
+      "{'name': 'Skift, Car Rental Companies Are Winning the Digital War With OTAs, 2025-10-24', 'url': 'https://skift.com/2025/10/24/car-rental-companies-are-winning-the-digital-war-with-otas/'}"
+    ],
+    "one_sentence": "The US online car rental industry connects travelers, business customers and replacement-rental users to vehicle fleets through websites, apps, OTAs and embedded mobility platforms, while operators earn rental, ancillary, insurance, fuel, loyalty and fleet-service revenue.",
+    "slug": "online-car-rental"
+  },
+  {
+    "title": "Online Children's Toy Sales",
+    "sector": "Retail",
+    "one_liner": "Online children's toy sellers are benefiting from renewed 2025 toy demand, fandom-driven collectibles and the continued migration of gift shopping to digital channels.",
+    "overview": "Online children's toy sales includes online-only retailers, marketplaces and the e-commerce operations of omnichannel chains that sell new toys, games, electronic games, hobby kits and craft supplies to US consumers. The baseline IBISWorld file showed a pandemic-era surge to $20.5 billion in 2021 revenue, followed by an older forecast of $27.1 billion by 2026. A later IBISWorld-distributed 2023 report put industry revenue at $32.4 billion in 2023, reflecting the scale of online adoption after COVID-19. Using that 2023 base, Toy Association/Circana 2024-2025 toy retail growth, and the broader rise in US e-commerce share, 2025 online children's toy sales are estimated at about $36.8 billion. Demand is now less about lockdown-driven at-home play and more about licensing, collectibles, quick fulfillment, price comparison, social discovery and adult or family gift buying.",
+    "key_stats": {
+      "market_size": "2025 estimated US revenue: $36.8 billion, inferred from IBISWorld's 2023 $32.4 billion industry revenue base, 2024-2025 US toy retail sales growth and the 2025 increase in US e-commerce share.",
+      "growth": "2025 estimated revenue growth: about +8.1% year over year; Circana reported total US toy retail sales +6% in 2025, with units +3% and ASP +4%.",
+      "total_us_toy_market": "2025 total US toy market size: about $45.6 billion projected to 100% of market; Circana-tracked retail toy sales were $30.3 billion in 2025, +6% vs. 2024.",
+      "ecommerce_context": "2025 US e-commerce share of total retail sales: 16.4%, up from 16.1% in 2024 and 15.4% in 2023.",
+      "profit_margin": "2023 industry EBIT margin: 6.2% according to the IBISWorld-distributed September 2023 report; 2025-2026 margins are pressured by shipping, paid search, returns, discounting and tariff-related costs.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US revenue: $31.5 billion, implied by the September 2023 IBISWorld-distributed report's $32.4 billion 2023 revenue and +2.7% 2023 growth.",
+      "growth": "2022 implied growth: high single digit to low double digit, consistent with the report's 2018-2023 CAGR of +12.7% and slower post-pandemic 2023 growth of +2.7%.",
+      "baseline_note": "The provided April 2021 baseline file used 2021 dollars and listed 2021 revenue of $20.5 billion, 2016-2021 CAGR of +7.1%, 2021 growth of +4.6%, and a then-forecast 2026 revenue of $27.1 billion."
+    },
+    "how_it_makes_money": "Operators buy toys, games, craft supplies and licensed merchandise from manufacturers, wholesalers, distributors or brand owners, then earn retail gross margin through direct online sales, marketplace storefronts, third-party seller fees, subscriptions, advertising placements, fulfillment fees, gift services and private-label products. Large platforms also monetize search placement, sponsored listings and logistics services, while specialty toy sellers compete on curated assortments, educational positioning and higher service levels.",
+    "cost_structure": "Major costs are merchandise purchases and inbound freight, fulfillment labor, warehousing, packaging, parcel delivery, payment processing, customer service, returns and damaged inventory, paid search and marketplace advertising, website and app technology, data security, insurance, safety testing documentation, and compliance with children's product rules. Compared with brick-and-mortar toy stores, online sellers have lower storefront rent but higher shipping, returns, digital advertising and platform-fee exposure.",
+    "major_players": [
+      "Amazon: the dominant online marketplace and first-stop search platform for toys, games, collectibles and licensed products, with Prime fulfillment shaping consumer expectations.",
+      "Walmart: a major omnichannel competitor using store inventory, marketplace assortment, rollbacks and fast local delivery to win holiday toy demand.",
+      "Target: a key omnichannel toy retailer with strong licensed, exclusive and family gifting assortments supported by same-day pickup and delivery.",
+      "eBay: important for collectibles, hard-to-find toys, trading cards, secondary-market demand and discontinued items, though used goods are outside the strict IBIS definition.",
+      "LEGO: a leading direct-to-consumer and marketplace brand in building sets, a 2025 growth category.",
+      "Specialty e-tailers such as Fat Brain Toys and educational toy sellers: smaller players competing on curation, STEM, developmental play and differentiated products."
+    ],
+    "current_dynamics": "The industry is in a post-pandemic normalization phase, but not a retreat from online buying. Consumers still use online channels for price comparison, delivery speed, reviews, gift lists and access to scarce licensed products. 2025 brought a broad toy-market rebound after 2023 declines and flat 2024 performance, with growth concentrated in games and puzzles, building sets, explorative toys, trading cards, licensed properties and adult collectors. Value sensitivity remains high, so large retailers are using promotions and fast fulfillment to protect volume, while specialty sellers face higher customer-acquisition costs and difficulty matching marketplace delivery economics.",
+    "whats_growing": "Games and puzzles grew sharply in 2025, led by Pokemon and trading-card demand. Building sets, youth electronics, action figures, arts and crafts and vehicles also posted 2025 growth. Licensed toys represented 37% of US toys sold in the first half of 2025 and grew 18% in sales, while adult recipients aged 18 and older grew 18% in first-half 2025 toy sales. Collectibles, fandom products, STEM toys, personalized play, nostalgia-driven toys and premium products priced $30-$69.99 are gaining share.",
+    "whats_shrinking": "Outdoor and sports toys, plush and dolls were the steepest decliners in 2025 according to Circana. Lower-priced segments under $5 and the $15-$19.99 range weakened in 2025, suggesting polarization between value deals and premium fandom or licensed items. Physical video game discs remain structurally pressured by direct digital downloads, and undifferentiated toy listings face margin compression from marketplace competition, advertising auctions and free-shipping expectations.",
+    "recent_developments": [
+      "2025-03-01: The Toy Association named 2025 trends including Newstalgia Trip, Collectible Cravings, skill-building STEAM toys and social-emotional play.",
+      "2025-08-05: Circana reported first-half 2025 US toy dollar sales +6%, units +3% and ASP +3%, with games and puzzles +39% and explorative toys +19%.",
+      "2025-09-16: Walmart released its 2025 Top Toys list and announced 500 planned toy rollbacks for the holiday season.",
+      "2025-10-16: NRF said 55% of 2025 winter holiday shoppers planned to shop online, the top holiday shopping destination, with average planned spending of $890.49.",
+      "2026-02-03: Circana reported full-year 2025 US toy sales +6%, ASP +4% and units +3%; Pokemon reached $2.5 billion in US sales, +87% year over year.",
+      "2026-07-08: CPSC mandatory eFiling for certificates of compliance took effect for most regulated imported consumer products, including many children's products."
+    ],
+    "outlook": "Revenue should keep expanding in 2026, but at a more uneven pace than during the pandemic surge. The strongest operators will combine broad assortment, reliable compliance, fast fulfillment, data-driven merchandising and access to licensed or collectible products. Growth will be supported by adult collectors, video-game and movie franchises, trading cards, STEM and craft products, and omnichannel holiday shopping. Risks include tariff pass-through, consumer credit pressure, higher return and delivery costs, stricter import documentation and the ability of Amazon, Walmart and Target to use scale to pressure smaller sellers' margins.",
+    "themes": [
+      "E-commerce penetration",
+      "Licensed and fandom-driven toys",
+      "Collectibles and trading cards",
+      "Adult toy buyers and nostalgia",
+      "STEM and skill-building play",
+      "Omnichannel fulfillment",
+      "Marketplace advertising costs",
+      "Tariff and import compliance pressure",
+      "Toy safety certification",
+      "Holiday promotions and value seeking"
+    ],
+    "data_year": "2026 brief using 2025 market data and 2026 regulatory updates",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-childrens-toy-sales.txt",
+      "https://www.researchandmarkets.com/report/united-states-online-toy-sales-market",
+      "https://www.toyassociation.org/ta/toys/research-and-data/data/us-sales-data.aspx",
+      "https://www.circana.com/post/u-s-toy-industry-returns-to-growth-in-2025-circana-reports",
+      "https://www.circana.com/post/us-toy-market-is-growing-in-2025-circana-reports",
+      "https://www.toyassociation.org/PressRoom2/News/2025_News/top-toy-trends-unveiled-at-toy-fair.aspx",
+      "https://nrf.com/media-center/press-releases/consumers-to-spend-second-highest-amount-on-record-according-to-nrf-holiday-survey",
+      "https://corporate.walmart.com/news/2025/09/16/holiday-trends-and-value-fuel-walmarts-2025-top-toys-list",
+      "https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Certificates",
+      "https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Implenents-Mandatory-eFiling-for-Certificates-of-Compliance-Targeting-Dangerous-Foreign-Imports",
+      "https://fred.stlouisfed.org/series/ECOMPCTNSA"
+    ],
+    "one_sentence": "The US online children's toy sales industry sells toys, games, hobby kits, craft supplies and related youth entertainment products through e-commerce sites and marketplaces, with 2025 demand lifted by licensed properties, collectibles, building sets and games while margins remain pressured by delivery costs, marketplace competition, tariffs and compliance requirements.",
+    "slug": "online-childrens-toy-sales"
+  },
+  {
+    "title": "Online Computer & Tablet Sales",
+    "sector": "Retail",
+    "one_liner": "Online computer and tablet sellers are growing with e-commerce penetration, Windows 11 refresh demand and premium AI-device upgrades, but 2026 component inflation is pressuring unit volumes and entry-level pricing.",
+    "overview": "This industry includes internet retailers and direct-to-consumer manufacturers selling desktop computers, laptops, ultrabooks, 2-in-1 hybrids and tablets. The 2022 baseline described a growth-stage online retail category lifted by pandemic-era channel migration, broader household computer ownership, secure digital payments and fast delivery. By 2025-2026, the same channel shift remains supportive, but the demand mix is more replacement-driven: commercial Windows 11 migrations, AI PC launches and education/tablet deployments are offset by consumer price sensitivity, tariff uncertainty, high promotion intensity and rising memory and storage costs.",
+    "key_stats": {
+      "market_size": "$50.8 billion in 2025",
+      "growth": "3.6% in 2025; 3.7% CAGR from 2020 to 2025",
+      "businesses": "2,896 businesses in 2025",
+      "employment": "33,209 employees in 2025",
+      "us_retail_ecommerce": "$326.7 billion in Q1 2026, up 9.8% year over year; e-commerce was 16.9% of US retail sales in Q1 2026",
+      "global_pc_shipments": "62.8 million units in Q1 2026, up 4.0% year over year",
+      "global_tablet_shipments": "151.9 million units in 2025, up 5.0% year over year",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$39.876 billion in 2022",
+      "growth": "3.6% in 2022; 9.2% CAGR from 2017 to 2022",
+      "profit": "$1.874 billion in 2022",
+      "profit_margin": "4.7% in 2022",
+      "establishments": "13,483 establishments in 2022",
+      "employment": "37,529 employees in 2022",
+      "product_mix": "Desktop computers were 22.9% of 2022 revenue; laptops, ultrabooks and hybrids were 34.7%; tablets were 42.4%."
+    },
+    "how_it_makes_money": "Operators buy computers and tablets from manufacturers, wholesalers or marketplace sellers and resell them online; manufacturers also sell direct through branded web stores. Revenue comes from device sales, marketplace commissions, shipping and fulfillment fees, protection plans, accessories bundled with devices, advertising placements and financing or membership-linked offers.",
+    "cost_structure": "The largest cost is merchandise purchasing, followed by fulfillment, parcel shipping, returns processing, payment acceptance, customer service, platform technology, cybersecurity, digital marketing and wages. Online-only operators save on store occupancy and sales-floor labor, but those savings are partly absorbed by free delivery, fast shipping, return logistics, price matching and search advertising. Baseline industry profit margin was 4.7% in 2022, while 2026 memory and storage inflation is shifting pressure from freight and promotions toward product acquisition costs.",
+    "major_players": [
+      "Amazon.com",
+      "Apple",
+      "Best Buy",
+      "Dell Technologies",
+      "HP Inc.",
+      "Lenovo",
+      "Newegg",
+      "Walmart Marketplace"
+    ],
+    "current_dynamics": "The category is being pulled in two directions in 2025-2026. Online penetration keeps rising, and replacement activity tied to Windows 10 end of support has supported PC demand. AI PCs, premium notebooks and tablet refreshes give retailers higher-ticket items to promote. At the same time, consumer technology demand remains uneven, entry-level devices are exposed to component inflation, and vendors have pulled shipments forward to avoid expected price increases. This makes 2026 revenue more dependent on price/mix than unit growth.",
+    "whats_growing": "Premium laptops, AI PCs, Apple Mac and iPad demand, commercial Windows 11 refreshes, education tablet deployments, marketplace assortments, retail media advertising, omnichannel pickup and fast-delivery offers are growing. US retail e-commerce reached 16.9% of retail sales in Q1 2026, reinforcing online channel share gains.",
+    "whats_shrinking": "Desktop share continues to lose ground to notebooks, hybrids and tablets. Entry-level PCs and low-margin tablets are under pressure from memory and storage cost inflation in 2026. Consumer PC unit demand is weaker than commercial demand, and tablets face normalized replacement cycles after the 2025 rebound.",
+    "recent_developments": [
+      "2025-02: IBISWorld estimated US Online Computer & Tablet Sales revenue at $50.8 billion in 2025, up 3.6% in 2025.",
+      "2025-10-14: Microsoft ended Windows 10 support, pushing households and businesses toward Windows 11 upgrades or replacement PCs.",
+      "2026-02-24: IDC reported worldwide tablet shipments rose 5.0% in 2025 to 151.9 million units.",
+      "2026-04-10: Gartner estimated worldwide PC shipments rose 4.0% year over year in Q1 2026 to 62.8 million units, helped by inventory builds ahead of expected price hikes.",
+      "2026-05-18: The US Census Bureau estimated Q1 2026 US retail e-commerce sales at $326.7 billion, up 9.8% year over year and equal to 16.9% of retail sales.",
+      "2026-06-08: IDC forecast 2026 global PC shipments to fall 11.3% and tablet shipments to fall 8.6% as memory shortages and macro pressure hit demand."
+    ],
+    "outlook": "The industry should remain larger than its 2022 base, but 2026 is likely to be choppy. Revenue can hold up better than unit shipments because higher component costs, AI PC configurations and premium notebooks lift average selling prices. Longer term, online retailers benefit from entrenched e-commerce habits, wider marketplace assortments and recurring commercial replacement cycles, while growth is capped by saturated household computer ownership, smartphone substitution for casual computing and price resistance in lower-income consumer segments.",
+    "themes": [
+      "E-commerce share gains",
+      "Windows 11 replacement cycle",
+      "AI PC premiumization",
+      "Memory and storage cost inflation",
+      "Marketplace expansion",
+      "Tablet replacement normalization",
+      "Fast fulfillment and returns",
+      "Price transparency and promotion intensity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-computer-and-tablet-sales.txt",
+      "https://www.ibisworld.com/united-states/industry/online-computer-tablet-sales/5078/",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMSA",
+      "https://www.idc.com/resource-center/blog/global-tablet-shipments-rise-1-9-in-4q25-as-seasonal-demand-offsets-cooling-replacement-cycle/",
+      "https://www.idc.com/promo/pcdforecast/",
+      "https://www.gartner.com/en/newsroom/press-releases/2026-4-10-gartner-says-worldwide-pc-shipments-increased-4-percent-in-first-quarter-of-2026",
+      "https://www.gartner.com/en/newsroom/press-releases/2025-08-28-gartner-says-artificial-intelligence-pcs-will-represent-31-percent-of-worldwide-pc-market-by-the-end-of-2025",
+      "https://learn.microsoft.com/en-us/lifecycle/announcements/windows-10-end-of-support",
+      "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "https://corporate.bestbuy.com/2026/best-buy-reports-q4-fy26-results/"
+    ],
+    "one_sentence": "The US Online Computer & Tablet Sales industry sells desktops, notebooks, hybrids and tablets through internet channels to consumers and businesses, with 2025 revenue estimated at $50.8 billion and 2025 growth at 3.6%.",
+    "slug": "online-computer-and-tablet-sales"
+  },
+  {
+    "title": "Online Computer Software Sales",
+    "sector": "Technology & Digital",
+    "one_liner": "Online distribution of downloaded, licensed and subscription computer software remains a large, maturing US digital-commerce market, with AI features and SaaS renewals offsetting slower PC-user growth.",
+    "overview": "This industry covers US online sales and distribution of computer software for local installation or use through subscription/download models, including productivity suites, operating systems, security tools, database and network software, vertical applications, developer tools and game software. The 2022 IBIS baseline placed revenue at $587.6 billion after 1.5% growth in 2022, with a 2022-2027 forecast CAGR of 2.9%. Public 2025-2026 indicators point to stronger software demand than the baseline’s cautious post-pandemic outlook: Federal Reserve Z.1 data show total US software fixed investment at $888.3 billion in 2025, Gartner forecast worldwide software spending at $1.2495 trillion in 2025 and $1.4336 trillion in 2026, and Census reported US retail e-commerce sales up 9.8% year over year in 2026 Q1.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: $640.0 billion in 2022 dollars, derived from the 2022 IBIS baseline and its 2022-2027 projected CAGR.",
+      "growth": "2025 estimated industry revenue growth: 2.9%; 2026 worldwide software spending forecast growth: 14.7%.",
+      "demand_proxy": "2025 US total software fixed investment: $888.3 billion, up from $815.0 billion in 2024.",
+      "ecommerce_context": "2026 Q1 US retail e-commerce sales: $326.7 billion, up 9.8% from 2025 Q1 and equal to 16.9% of total retail sales.",
+      "profitability": "2022 industry profit margin: 2.2%; large software publishers report far higher gross margins, but online retail/distribution competition keeps industry-level margins thin.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $587.638 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: 1.5%; 2017-2022 revenue CAGR: 4.6%.",
+      "profit": "2022 profit: $12.928 billion.",
+      "profit_margin": "2022 profit margin: 2.2%.",
+      "industry_gross_product": "2022 industry gross product: $106.099 billion.",
+      "establishments": "2022 establishments: 57,198.",
+      "enterprises": "2022 enterprises: 49,217.",
+      "employment": "2022 employment: 703,001.",
+      "wages": "2022 wages: $84.168 billion.",
+      "product_mix_2022": [
+        "General business productivity and home use applications: 31.0% of 2022 revenue",
+        "Other system and application software: 17.5% of 2022 revenue",
+        "Operating systems software: 12.3% of 2022 revenue",
+        "Cross-industry application software: 10.4% of 2022 revenue",
+        "Network software: 9.2% of 2022 revenue",
+        "Vertical market application software: 7.5% of 2022 revenue",
+        "Database management software: 6.6% of 2022 revenue",
+        "Game software: 5.5% of 2022 revenue"
+      ]
+    },
+    "how_it_makes_money": {
+      "subscriptions": "Monthly or annual SaaS and cloud-linked desktop subscriptions for productivity, creative, security, accounting, developer and vertical-market software.",
+      "license_sales": "Perpetual or term licenses sold as downloads, activation keys or bundled digital entitlements.",
+      "marketplace_commissions": "App stores, cloud marketplaces and online retailers earn take rates, listing fees or referral commissions on third-party software sales.",
+      "upgrades_and_add_ons": "Vendors monetize storage, AI copilots, premium support, templates, security modules, seat expansions and version upgrades.",
+      "bundles": "Revenue also comes from software bundled with PCs, peripherals, cloud infrastructure, gaming platforms or business-service packages."
+    },
+    "cost_structure": {
+      "largest_costs": "2025 cost pressure centers on vendor royalties or wholesale software acquisition, cloud hosting and delivery, payment processing, cybersecurity, fraud prevention, customer support, sales and marketing, and engineering required for storefronts, license management and AI-enabled features.",
+      "labor": "2022 wages were $84.168 billion, equal to about 14.3% of 2022 revenue.",
+      "profit": "2022 EBIT profit was $12.928 billion, equal to 2.2% of 2022 revenue.",
+      "technology_infrastructure": "2025-2026 costs are rising for AI infrastructure, cloud delivery and data-center capacity, visible in Microsoft’s 2025 cloud gross-margin pressure from scaling AI infrastructure.",
+      "marketing_and_customer_acquisition": "Price competition and crowded app marketplaces keep paid acquisition, partner incentives and discounting important operating costs."
+    },
+    "major_players": [
+      "Microsoft",
+      "Adobe",
+      "Apple",
+      "Alphabet / Google",
+      "Amazon",
+      "Intuit",
+      "Salesforce",
+      "Oracle",
+      "Valve",
+      "Shopify app ecosystem and other vertical SaaS marketplaces"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026: core PC software sales are mature because computer ownership and broadband access are near saturation, but recurring SaaS, AI-assisted productivity tools, cybersecurity, cloud marketplaces and online-only tax/accounting workflows are expanding spend per user. Microsoft reported 2025 Microsoft 365 Commercial products and cloud services revenue up 14%, Adobe reported 2025 Digital Media revenue up 11% and Digital Media ARR up 11.5%, and Intuit reported 2025 Online Ecosystem revenue up 20%. The shift from one-time downloads to subscriptions gives vendors steadier revenue and more pricing power, while app stores and hyperscaler marketplaces continue to make software discovery and procurement more centralized.",
+    "whats_growing": [
+      "2025 AI-enabled productivity, creative, developer, security and business applications.",
+      "2025-2026 subscription renewals, seat expansion and usage-based add-ons.",
+      "2025 cloud marketplaces and direct publisher portals for enterprise procurement.",
+      "2025 online accounting, tax, payroll and small-business software, with Intuit Online Ecosystem revenue up 20%.",
+      "2026 generative AI model spending, with Gartner forecasting 80.8% growth in 2026."
+    ],
+    "whats_shrinking": [
+      "2025 perpetual desktop licenses and boxed/physical software distribution.",
+      "2025 transactional on-premises server software purchases as customers shift to cloud offerings.",
+      "2025 standalone low-price consumer utilities exposed to bundled OS, browser and cloud-suite features.",
+      "2025 console hardware-linked game purchasing, partly offset by subscription/game-pass content models.",
+      "2025 low-margin resale of commoditized software keys because direct vendor stores and app marketplaces capture more demand."
+    ],
+    "recent_developments": [
+      "2025-01: Microsoft 365 Consumer revenue benefited from subscriber growth and a January 2025 price increase, according to Microsoft’s 2025 annual report.",
+      "2025-08-21: Intuit reported fiscal 2025 revenue of $18.8 billion, up 16%, and Online Ecosystem revenue of $8.3 billion, up 20%.",
+      "2025-12-10: Adobe reported fiscal 2025 revenue of $23.77 billion, up 11%, with Digital Media revenue of $17.65 billion and Digital Media ARR of $19.20 billion.",
+      "2026-02-03: Gartner forecast worldwide software spending of $1.4336 trillion in 2026, up 14.7% from 2025.",
+      "2026-03-19: Federal Reserve Z.1 data showed 2025 US software fixed investment at $888.3 billion, up from $815.0 billion in 2024.",
+      "2026-05-18: Census reported 2026 Q1 US retail e-commerce sales of $326.7 billion, up 9.8% from 2025 Q1."
+    ],
+    "outlook": "Revenue should keep growing through 2026-2027, but the mix will continue shifting away from one-time downloads toward subscriptions, AI copilots, cloud marketplace procurement and vertical SaaS bundles. The baseline 2022 forecast implied 2027 revenue near $679.0 billion in 2022 dollars; current demand indicators support that trajectory and suggest upside where vendors can attach AI, security, workflow automation and data services to existing customer bases. Risks include subscription fatigue, tighter enterprise IT budgets, marketplace fee pressure, antitrust scrutiny of app stores, cybersecurity incidents and rising infrastructure costs for AI-enabled products.",
+    "themes": [
+      "SaaS and recurring revenue",
+      "AI copilots and agentic software",
+      "Cloud marketplaces",
+      "Cybersecurity demand",
+      "Subscription pricing power",
+      "App store regulation",
+      "Enterprise digital transformation",
+      "PC maturity and mobile substitution",
+      "Vertical SaaS specialization",
+      "Software procurement consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Online Computer Software Sales, last updated 2022-02-26', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/online-computer-software-sales.txt'}",
+      "{'title': 'Gartner, 2026-02-03 worldwide IT spending forecast', 'url': 'https://www.gartner.com/en/newsroom/press-releases/2026-02-03-gartner-forecasts-worldwide-it-spending-to-grow-10-point-8-percent-in-2026-totaling-6-point-15-trillion-dollars'}",
+      "{'title': 'Federal Reserve Z.1, F.4.g Gross fixed investment, last update 2026-03-19', 'url': 'https://www.federalreserve.gov/Releases/Z1/20260319/html/f4g.htm'}",
+      "{'title': 'US Census Bureau, Quarterly Retail E-Commerce Sales, 2026-05-18', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'title': 'Microsoft 2025 Annual Report', 'url': 'https://www.microsoft.com/investor/reports/ar25/index.html'}",
+      "{'title': 'Adobe FY2025 Q4 and full-year results, 2025-12-10', 'url': 'https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm'}",
+      "{'title': 'Intuit FY2025 results and FY2026 guidance, 2025-08-21', 'url': 'https://investors.intuit.com/news-events/press-releases/detail/1266/intuit-reports-strong-fourth-quarter-and-full-year-fiscal-2025-results-sets-fiscal-2026-guidance-with-double-digit-revenue-growth-and-continued-operating-margin-expansion'}"
+    ],
+    "one_sentence": "The industry sells computer software over the internet through direct publisher storefronts, app stores, marketplaces and subscription portals, with 2025 revenue estimated at about $640.0 billion in 2022 dollars and demand supported by rising software investment and recurring SaaS adoption.",
+    "slug": "online-computer-software-sales"
+  },
+  {
+    "title": "Online Designer Clothing Sales",
+    "sector": "Retail",
+    "one_liner": "US online designer clothing sellers are still benefiting from ecommerce adoption, but growth has slowed as luxury shoppers trade down, demand discounts and concentrate spending with stronger platforms.",
+    "overview": "This industry covers US online retail sales of designer apparel, shoes, handbags, leather goods, jewelry and related accessories, including mono-brand ecommerce sites, luxury department-store sites and multi-brand platforms. The 2022 IBISWorld baseline described a fast-growing industry driven by broadband access, comfort with online luxury purchases and rising affluent-household demand; the 2025-2026 update is more mixed. Ecommerce continues to take share of US retail, with Census reporting 2025 ecommerce sales of $1.234 trillion and 16.4% of total retail sales, and Q1 2026 ecommerce share rising to 16.9%. However, luxury goods demand weakened in 2024-2025 as elevated prices, fewer aspirational shoppers and value seeking pressured full-price designer fashion. The strongest operators are using logistics, personalization, private-client services, off-price channels and marketplace scale to defend conversion and margins.",
+    "key_stats": {
+      "market_size": "2025: about $12.2 billion in US online designer clothing sales revenue, based on the 2022 IBISWorld forecast and adjusted qualitatively for 2025 luxury-market softness.",
+      "growth": "2025: low-single-digit industry growth; IBISWorld's 2022 baseline forecast a 2020-2025 CAGR of 3.4%, while public 2025 signals show US ecommerce up 5.4% for the year but global personal luxury goods expected down 2% to 5%.",
+      "profit_margin": "2025: about 9.2% EBIT margin in the IBISWorld baseline, with current margin pressure from markdowns, fulfillment costs, customer acquisition and returns.",
+      "ecommerce_share": "2025: US ecommerce represented 16.4% of total retail sales; Q1 2026 share reached 16.9%.",
+      "enterprises": "2025: 3,980 industry enterprises in the IBISWorld baseline forecast.",
+      "product_mix_2020": "2020: leather goods 55.5% of industry revenue, footwear 19.5%, women's ready-to-wear 12.0%, jewelry 5.0%, men's ready-to-wear 4.7%, other 3.3%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2020: $10.4 billion revenue in 2020 dollars; 2025 forecast: $12.2 billion.",
+      "growth": "2015-2020: 9.5% annualized revenue growth; 2020: 9.0% pandemic-related revenue decline; 2020-2025 forecast: 3.4% annualized growth.",
+      "profit": "2020: $986 million profit and 9.5% profit margin; 2025 forecast margin: 9.2%.",
+      "employment": "2020: 8,683 employees; 2025 forecast: 11,450 employees.",
+      "establishments": "2020: 2,709 establishments; 2025 forecast: 3,980 enterprises."
+    },
+    "how_it_makes_money": "Operators earn revenue by selling full-price and discounted designer goods online, taking retail markups on owned inventory, commissions or marketplace fees on third-party boutique and brand sales, shipping and service fees, private-client styling, loyalty programs, data-driven merchandising and, for some platforms, off-price liquidation of past-season inventory.",
+    "cost_structure": {
+      "purchases": "Merchandise purchases are the largest cost, especially for owned-inventory retailers carrying handbags, footwear and ready-to-wear.",
+      "fulfillment_and_returns": "Warehousing, pick-pack, shipping subsidies, duties, fraud prevention and high return rates are major operating costs, especially for apparel fit-sensitive categories.",
+      "marketing": "Paid search, affiliate commissions, creator campaigns, retargeting, loyalty credits and private-client outreach are material because online luxury discovery is competitive.",
+      "labor": "Labor includes buyers, merchandisers, engineers, stylists, customer service, warehouse staff and returns processing teams.",
+      "technology": "Platforms spend on ecommerce infrastructure, mobile apps, personalization, cybersecurity, payment processing, inventory systems and AI-enabled search or styling.",
+      "rent_and_overhead": "Online-only players have lower store rent exposure, while department-store and brand operators allocate omnichannel costs across stores, fulfillment nodes and digital teams."
+    },
+    "major_players": [
+      "Saks Global / Saks Fifth Avenue / Neiman Marcus / Bergdorf Goodman",
+      "Nordstrom",
+      "Farfetch / Coupang",
+      "LuxExperience / Mytheresa / Net-a-Porter / Mr Porter / Yoox / The Outnet",
+      "Moda Operandi",
+      "SSENSE",
+      "Gucci, Louis Vuitton, Prada, Saint Laurent and other mono-brand ecommerce sites"
+    ],
+    "current_dynamics": "The industry sits between two opposing forces in 2025-2026: structural ecommerce penetration is still rising, but luxury fashion demand is no longer broad-based. Affluent shoppers remain active, but aspirational consumers are more selective after several years of price increases. This shifts traffic toward entry luxury, off-price, resale and deal events while making full-price ready-to-wear harder to move. Platform consolidation is accelerating as scale matters for technology, logistics, customer data and brand access. Department-store groups are trying to use Amazon, Salesforce and other technology partners to improve fulfillment and personalization, while digital luxury specialists are combining banners and separating off-price operations to restore profitability.",
+    "whats_growing": [
+      "2025: Accessible luxury, entry-price leather goods and value-led designer purchases are outperforming ultra-discretionary full-price fashion for aspirational shoppers.",
+      "2025: US ecommerce penetration is still rising, with online share of retail at 16.4% for 2025 and 16.9% in Q1 2026.",
+      "2025: Off-price luxury and past-season marketplaces are gaining relevance as consumers seek value without abandoning designer brands.",
+      "2025-2026: AI-enabled product discovery, personalization, clienteling and inventory allocation are becoming larger competitive tools.",
+      "2026: The Americas are expected to be one of the firmer regions for luxury demand, supporting US-focused online sellers."
+    ],
+    "whats_shrinking": [
+      "2025: Global personal luxury goods demand is expected to contract 2% to 5%, weighing on designer apparel sellers.",
+      "2025: Full-price discretionary ready-to-wear is weaker than leather goods, beauty-adjacent luxury and selected high-end categories.",
+      "2025: Standalone mid-scale luxury ecommerce models are under pressure from customer acquisition costs, returns, markdowns and fulfillment complexity.",
+      "2024-2025: Department-store luxury space and weaker brick-and-mortar formats are being rationalized, pushing operators to rely more on curated flagships and digital channels.",
+      "2025: Unprofitable white-label and undifferentiated platform services are being cut as groups focus on core retail banners."
+    ],
+    "recent_developments": [
+      "2024-01-31: Coupang completed its acquisition of Farfetch and provided $500 million of capital to stabilize the luxury marketplace.",
+      "2024-12-23: Saks Global completed its acquisition of Neiman Marcus Group, combining Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman and Saks OFF 5TH.",
+      "2025-04-24: Mytheresa completed its acquisition of YOOX NET-A-PORTER from Richemont and prepared to rebrand as LuxExperience.",
+      "2025-06-30: Bain and Altagamma's midyear luxury update pointed to a 2025 contraction of 2% to 5% in personal luxury goods, with apparel more resilient than several categories.",
+      "2026-05-18: US Census reported Q1 2026 ecommerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-06-25: Altagamma's 2026 monitor update indicated moderate 2026 growth, with personal luxury goods expected up 2% to 4% and the Americas driving demand."
+    ],
+    "outlook": "The 2026 outlook is cautious but not structurally negative. Online penetration, mobile buying, faster fulfillment and personalization should keep sales above the 2022 baseline trajectory, but revenue growth is likely to remain uneven until aspirational luxury demand improves. Winners will be platforms and brands with differentiated curation, strong loyalty data, tight inventory, resilient handbag and accessory franchises, and profitable off-price outlets. Weaker sellers face margin compression from markdowns, returns, paid media inflation and the cost of maintaining luxury-level service online. Over the next few years, the industry should grow at a low- to mid-single-digit pace, with upside if US affluent spending strengthens and downside if tariffs, inflation or luxury fatigue keep shoppers trading down.",
+    "themes": [
+      "Ecommerce share gains",
+      "Luxury demand normalization",
+      "Platform consolidation",
+      "Off-price and accessible luxury",
+      "AI personalization and clienteling",
+      "High return and fulfillment costs",
+      "Marketplace versus owned-inventory models",
+      "Aspirational shopper pullback"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-designer-clothing-sales.txt",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTSA",
+      "https://www.census.gov/library/stories/2025/07/clothing-retail-jobs.html",
+      "https://altagamma.it/en/studi-e-ricerche/year_filter/2015/",
+      "https://www.prnewswire.com/news-releases/global-luxury-stays-resilient-despite-economic-headwinds-and-shifting-consumer-trends-that-reshape-marketbain--company-and-altagamma-302620818.html",
+      "https://www.richemont.com/news-media/press-releases-news/myt-netherlands-parent-bv-mytheresa-and-richemont-announce-the-successful-completion-of-mytheresa-s-acquisition-of-yoox-net-a-porter-ynap/",
+      "https://www.richemont.com/news-media/press-releases-news/myt-netherlands-parent-bv-mytheresa-and-richemont-sign-agreement-for-mytheresa-to-acquire-yoox-net-a-porter-ynap/",
+      "https://www.aboutcoupang.com/farfetch-stadium-goods/?print=print",
+      "https://www.exemplarluxurygroup.com/news-releases?l=100",
+      "https://www.digitalcommerce360.com/apparel-ecommerce-statistics/",
+      "https://www.digitalcommerce360.com/state-of-american-ecommerce/"
+    ],
+    "one_sentence": "The Online Designer Clothing Sales industry sells luxury apparel, footwear, leather goods and accessories through brand sites, department-store sites and multi-brand marketplaces, with 2025 revenue estimated at about $12.2 billion against a softer luxury cycle.",
+    "slug": "online-designer-clothing-sales"
+  }
+]

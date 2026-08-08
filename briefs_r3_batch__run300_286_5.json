@@ -1,0 +1,424 @@
+[
+  {
+    "title": "Major Smart Appliance Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. manufacturers of connected refrigerators, laundry equipment, cooking appliances, dishwashers and related major appliances are riding smart-home adoption, but housing softness, tariffs and import competition keep pressure on volumes and margins.",
+    "overview": "The industry manufactures major smart household cooking appliances, refrigerators, freezers, laundry equipment, dishwashers and other connected major appliances. The 2020 IBIS baseline put U.S. industry revenue at $1.319 billion and projected revenue of about $1.5 billion in 2025; using that baseline and 2025-2026 market signals, U.S. manufacturing revenue is estimated near $1.55 billion in 2026. The broader U.S. smart home appliance market reached $11.27 billion in 2025, showing that domestic manufacturers compete inside a much larger retail-demand pool served heavily by imports and multinational supply chains. Growth is strongest where connectivity is paired with useful AI features, energy management, predictive maintenance and bundled kitchen or laundry ecosystems.",
+    "key_stats": {
+      "market_size": "$1.55 billion estimated U.S. manufacturing revenue in 2026; $11.27 billion U.S. smart home appliance market demand in 2025",
+      "growth": "about 3.0% estimated U.S. manufacturing revenue growth in 2026; 14.94% global smart home appliance CAGR projected for 2026-2034",
+      "profit_margin": "about 6.6% estimated U.S. manufacturing EBIT margin in 2025 from the IBIS baseline outlook",
+      "imports": "imports were projected by the baseline to satisfy about 50.2% of U.S. domestic demand in 2025",
+      "exports": "exports were projected by the baseline at $191.2 million in 2025",
+      "pricing": "BLS major household appliance manufacturing PPI was 139.722 in June 2026, with May 2016=100",
+      "broader_market": "global smart home appliance market was $48.52 billion in 2025 and projected at $54.77 billion in 2026; North America was $12.90 billion in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.41 billion estimated 2022 U.S. manufacturing revenue in 2020 dollars, interpolated from the IBIS 2020-to-2025 projection",
+      "growth": "about 3.2% estimated 2022 annual growth from the IBIS baseline outlook",
+      "context": "The baseline expected recovery from the 2020 COVID-19 decline, with demand supported by consumer spending, residential construction and smart-appliance adoption."
+    },
+    "how_it_makes_money": "Manufacturers sell connected refrigerators, freezers, ranges, ovens, dishwashers, washers, dryers and bundled kitchen or laundry suites to wholesalers, home-improvement retailers, electronics retailers, builders, multifamily developers and direct-to-consumer channels. Revenue comes from finished appliance sales, premium smart-feature pricing, replacement parts, warranties, service plans and increasingly software-enabled ecosystem features that support brand lock-in.",
+    "cost_structure": "The largest costs are purchased inputs such as steel, aluminum, copper, plastics, compressors, motors, sensors, circuit boards, displays, wireless modules and other electronics. Labor, plant overhead, logistics, warranty reserves, R&D, software development, cloud-platform support, retailer allowances and marketing are also material. Tariffs on steel, aluminum and derivative appliance products in 2025-2026 raise cost and pricing risk for imported inputs and finished goods, while competitive retail promotions limit pass-through.",
+    "major_players": [
+      "Whirlpool Corporation",
+      "GE Appliances, a Haier company",
+      "Samsung Electronics",
+      "LG Electronics",
+      "BSH Home Appliances",
+      "Electrolux / Frigidaire",
+      "Midea",
+      "Panasonic"
+    ],
+    "current_dynamics": "In 2025-2026, the market is being pulled in two directions. Smart-home adoption, broadband penetration, energy-efficiency demand and AI-enabled features support premiumization, while high interest rates, weak home turnover and uneven residential construction restrain big-ticket appliance volumes. Multinational brands are using U.S. product launches, connected platforms such as SmartThings, ThinQ and Home Connect, and bundled kitchen/laundry ecosystems to differentiate. At the same time, import dependence, metals tariffs, electronics costs and retail discounting keep margins sensitive.",
+    "whats_growing": "AI-enabled refrigerators, laundry combos, connected cooking appliances, smart dishwashers, app-based diagnostics, predictive maintenance, energy-optimization features, direct-to-consumer sales, online appliance shopping and whole-home ecosystem integration are growing in 2025-2026. Laundry appliances are identified as the fastest-growing smart home appliance category in the 2026-2034 global outlook.",
+    "whats_shrinking": "Low-differentiation connected features, standalone smart functions without clear utility, entry-level major appliances without energy or AI upgrades, and demand tied to discretionary remodels are under pressure in 2025-2026. Domestic volume growth is also constrained where imported finished appliances satisfy a large share of demand and where weak housing turnover delays replacement purchases.",
+    "recent_developments": [
+      "2025-06-23: U.S. Section 232 steel derivative duties took effect for listed appliances including refrigerator-freezers, dryers, washing machines, dishwashers and freezers.",
+      "2025-09: LG introduced an upgraded ThinQ AI Platform for smart home appliances with predictive maintenance and energy-saving recommendations.",
+      "2025-12-15: LG announced an expanded AI-powered LG SIGNATURE appliance lineup for CES 2026, including an AI refrigerator with natural-language interaction and camera-based food management.",
+      "2025-12-23: Samsung announced CES 2026 Bespoke AI kitchen appliances using AI Vision enhanced with Google Gemini and Google Cloud.",
+      "2026-04-09: Samsung said its 2026 Bespoke AI Kitchen Appliances were available in the U.S.",
+      "2026-06: BLS reported the major household appliance manufacturing PPI at 139.722, using May 2016=100."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but not frictionless. U.S. manufacturing revenue should grow modestly from the 2025 IBIS baseline as smart features become standard on premium appliances, but the larger opportunity is in the broader U.S. smart home appliance demand pool that reached $11.27 billion in 2025. Growth will depend on replacement demand, housing turnover, builder demand, energy-efficiency regulations and whether AI features create enough practical value to sustain premium pricing. Margin risk remains elevated because metals tariffs, electronics costs, logistics, warranty complexity and heavy retail promotion can offset revenue gains.",
+    "themes": [
+      "AI-enabled appliances",
+      "Smart-home ecosystem lock-in",
+      "Energy efficiency and demand response",
+      "Predictive maintenance",
+      "Connected kitchen and laundry suites",
+      "Import competition",
+      "Tariff and input-cost exposure",
+      "Housing-cycle sensitivity",
+      "Premiumization versus affordability",
+      "Retail and D2C channel shift"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/major-smart-appliance-manufacturing.txt",
+      "https://www.fortunebusinessinsights.com/smart-home-appliances-market-106267",
+      "https://www.aham.org/AHAM/What_We_Do/Top_Industry_Data__Research",
+      "https://www.sec.gov/Archives/edgar/data/106640/000010664026000009/whr-20251231.htm",
+      "https://news.samsung.com/us/category/product/product-home-appliances/",
+      "https://news.samsung.com/us/samsung-unveil-ai-vision-google-gemini-ces-2026/",
+      "https://www.lg.com/us/press-release/lg-signature-evolves-with-ai-redefining-premium-home-appliances-at-ces-2026",
+      "https://alfred.stlouisfed.org/series?seid=PCU335220335220",
+      "https://content.govdelivery.com/bulletins/gd/USDHSCBP-3e68dc6",
+      "https://www.bea.gov/index.php/data/consumer-spending/main",
+      "https://www.census.gov/construction/c30/at_a_glance.html"
+    ],
+    "one_sentence": "Major Smart Appliance Manufacturing is a growth-stage U.S. manufacturing niche where established appliance makers add Wi-Fi, AI, sensors and app connectivity to large household appliances, with demand tied to replacement cycles, residential construction, consumer spending and smart-home ecosystem adoption.",
+    "slug": "major-smart-appliance-manufacturing"
+  },
+  {
+    "title": "Mall Carts & Kiosks",
+    "sector": "Retail",
+    "one_liner": "Small-footprint retail remains viable where foot traffic is concentrated, but ecommerce and weaker enclosed malls cap growth.",
+    "overview": "Mall carts and kiosks are compact specialty retail formats, usually 150 to 200 square feet, selling apparel and fashion accessories, small electronics and accessories, personal care products and services, toys, gifts and other impulse-driven goods. The 2021 baseline framed the industry as a mature, highly fragmented retail channel recovering from COVID-19 after revenue fell sharply in 2020. The July 2025 IBISWorld update shows a rebound from the pandemic trough, with revenue growing at a 4.6% CAGR from 2020 to 2025 to reach $13.4 billion, but it also notes that 2025 sales remain below pre-pandemic levels and that growth slowed to 1.4% in 2025.",
+    "key_stats": {
+      "market_size": "$13.4 billion in 2025",
+      "growth": "1.4% in 2025",
+      "five_year_growth": "4.6% CAGR from 2020 to 2025",
+      "businesses": "63,165 businesses in 2025",
+      "retail_context": "US retail sales excluding auto dealers, gasoline stations and restaurants grew 5.08% in 2025 according to the CNBC/NRF Retail Monitor",
+      "ecommerce_pressure": "US retail ecommerce sales were $1.2337 trillion in 2025, up 5.4% from 2024, and accounted for 16.4% of total retail sales",
+      "mall_traffic_signal": "Indoor mall visits rose 1.3% year over year in July 2025, while outlet mall visits were down 2.1% year over year",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Approximately $10.6 billion in 2022 on the 2021 IBISWorld forecast path",
+      "growth": "Approximately 2.4% in 2022, based on the 2021 IBISWorld forecast CAGR for 2021-2026",
+      "baseline_note": "The local 2021 baseline reported 2021 revenue of $10.4 billion, projected 2021-2026 revenue CAGR of 2.4%, and projected 2026 revenue of $11.7 billion in 2021 dollars."
+    },
+    "how_it_makes_money": "Operators earn revenue from direct sales of merchandise, service add-ons such as phone repair, screen replacement, piercing, threading and beauty consultations, seasonal pop-up sales, franchise or branded kiosk formats, and automated self-service units in malls, airports, convention centers and entertainment venues. Profitability depends on securing high-traffic locations, controlling small-format rent, managing inventory turns, and converting impulse traffic into higher-margin customized goods or services.",
+    "cost_structure": "The model has low capital intensity and lower rent than full-line stores, but costs are sensitive to mall or venue lease terms, merchandise purchasing, payment processing, shrink, seasonal labor and marketing. The 2021 baseline listed profit margin at 4.0% of revenue, with wages of $2.9 billion and employment of 103,066 in 2021. Since 2022, higher wages, insurance, card fees, inventory costs and tariff uncertainty have pressured operators, while service-heavy kiosks and automated units can improve gross margin and reduce staffing needs.",
+    "major_players": [
+      "No company holds more than 5% US market share in 2025, according to IBISWorld.",
+      "The industry is dominated by independent single-site operators, local franchisees, seasonal pop-up merchants and brand-owned kiosks.",
+      "Comparable branded formats include electronics vending, cosmetics vending, phone repair kiosks and temporary holiday toy, gift and personalization sellers."
+    ],
+    "current_dynamics": "2025-2026 conditions are bifurcated. Stronger malls, open-air centers, airports and event venues offer usable foot traffic, while weaker enclosed malls and discretionary tenants remain exposed to online substitution. Retail real estate availability is tight overall, with CBRE reporting a 4.9% retail availability rate at midyear 2025, but bankruptcies and closures continue to release space in underperforming suburban or mall-adjacent assets. Kiosk operators benefit from flexible leasing and landlords' need to monetize common areas, but they face intense price transparency from online sellers and weaker spontaneous purchases when visits soften.",
+    "whats_growing": [
+      "Service-based kiosks such as phone repair, beauty services, piercings, threading and customization, because services are harder to replace online.",
+      "Automated and self-service kiosks, supported by broader North American kiosk market growth from $8.37 billion in 2024 to a projected $9.39 billion in 2025.",
+      "Airport, tourism, university, sporting venue and open-air center locations with more reliable traffic than weaker malls.",
+      "Seasonal and event-driven pop-ups, especially holiday toys, gifts, apparel personalization and beauty products.",
+      "Value-oriented and novelty products that work well as impulse purchases during promotional or holiday traffic spikes."
+    ],
+    "whats_shrinking": [
+      "Commodity phone accessories, basic electronics accessories and undifferentiated apparel that consumers can price-check or buy online.",
+      "Locations in weak enclosed malls where anchors have closed and visits are not recovering.",
+      "Pure merchandise-only carts without services, customization, brand exclusivity or venue-specific demand.",
+      "High-rent discretionary concepts that depend on low conversion impulse traffic.",
+      "Operators exposed to imported low-ticket goods if 2025-2026 tariff and freight costs cannot be passed through."
+    ],
+    "recent_developments": [
+      "2025-07: IBISWorld published its July 2025 update, estimating US Mall Carts & Kiosks revenue at $13.4 billion in 2025, up 1.4% in 2025.",
+      "2025-08-06: Placer.ai reported July 2025 indoor mall visits up 1.3% year over year, with outlet visits down 2.1% year over year.",
+      "2025-12-02: NRF reported a record 202.9 million Thanksgiving weekend shoppers in 2025, including 129.5 million in-store shoppers, up 3% from 2024.",
+      "2026-01-12: NRF said 2025 holiday sales from November 1 through December 31 grew 4.1%, near the top of its 3.7% to 4.2% forecast range.",
+      "2026-03-10: The US Census Bureau reported Q4 2025 ecommerce sales of $316.1 billion, up 5.3% year over year and equal to 16.6% of total retail sales.",
+      "2026-05-18: The US Census Bureau reported Q1 2026 ecommerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales."
+    ],
+    "outlook": "The industry should grow slowly through 2026-2030, but not evenly. Demand will be supported by positive retail spending, tight retail space availability, landlord interest in monetizing common areas, and expansion into high-traffic nonmall venues. Growth will be constrained by ecommerce share gains, selective consumers, labor costs and the declining productivity of weaker mall corridors. The best-positioned operators will use kiosks as flexible omnichannel or service nodes rather than as stand-alone impulse merchandise stalls.",
+    "themes": [
+      "Foot traffic arbitrage",
+      "Flexible retail leasing",
+      "Service-led differentiation",
+      "Seasonal pop-ups",
+      "Self-service automation",
+      "Ecommerce substitution",
+      "Mall quality bifurcation",
+      "Low concentration and low barriers to entry"
+    ],
+    "data_year": 2025,
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, Mall Carts & Kiosks, last updated Mar. 31, 2021', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/mall-carts-and-kiosks.txt'}",
+      "{'name': 'IBISWorld, Mall Carts & Kiosks in the US Industry Data and Analysis, July 2025', 'url': 'https://www.ibisworld.com/united-states/industry/mall-carts-kiosks/4233/'}",
+      "{'name': 'IBISWorld, Mall Carts & Kiosks in the US Market Size Statistics for 2026', 'url': 'https://www.ibisworld.com/united-states/market-size/mall-carts-kiosks/4233/'}",
+      "{'name': 'Placer.ai, Mall Index: July 2025', 'url': 'https://www.placer.ai/anchor/articles/placer-ai-mall-index-july-2025'}",
+      "{'name': 'CBRE, 2025 US Real Estate Market Outlook Midyear Review, Retail', 'url': 'https://www.cbre.com/insights/reports/2025-us-real-estate-market-outlook'}",
+      "{'name': 'CBRE, 2026 US Real Estate Market Outlook, Retail', 'url': 'https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/retail'}",
+      "{'name': 'US Census Bureau, Quarterly Retail E-Commerce Sales Report, Q1 2026 release', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'name': 'NRF, December 2025 Retail Monitor and 2025 holiday sales', 'url': 'https://nrf.com/media-center/press-releases/cnbc-nrf-retail-monitor-s-december-data-shows-strong-holiday-season-spending'}",
+      "{'name': 'NRF, Thanksgiving Holiday Weekend Draws a Record 203 Million Shoppers, Dec. 2, 2025', 'url': 'https://nrf.com/media-center/press-releases/thanksgiving-holiday-weekend-draws-record-203-million-shoppers'}",
+      "{'name': 'NAMA Foundation convenience services census via GlobeNewswire, Mar. 20, 2026', 'url': 'https://www.globenewswire.com/news-release/2026/03/20/3259860/0/en/report-convenience-services-outpacing-much-of-foodservice-and-shifting-toward-tech-enabled-health-forward-offerings.html'}"
+    ],
+    "one_sentence": "The US Mall Carts & Kiosks industry sells discretionary goods and services from carts, kiosks, pop-ups and automated units in malls, airports, venues and other high-traffic locations, with 2025 revenue of $13.4 billion and 2025 growth of 1.4%.",
+    "slug": "mall-carts-and-kiosks"
+  },
+  {
+    "title": "Manufactured Home Dealers in the US",
+    "sector": "Retail",
+    "one_liner": "Manufactured home dealers sell factory-built HUD-code homes to affordability-constrained buyers, with demand supported by high site-built housing costs but capped by financing costs, zoning limits and land availability.",
+    "overview": "Manufactured home dealers retail new and used HUD-code manufactured homes, arrange delivery and setup, sell parts and accessories, and often coordinate financing, insurance, land-home packages and installation services. The industry is tied to factory-built housing shipments, consumer credit availability, site-built home prices, rental costs, zoning rules and manufactured-housing community capacity. The 2022 baseline showed revenue rebounding on low interest rates and expensive conventional housing; by 2025-2026, affordability still favored manufactured homes, but the channel was operating in a higher-rate market with slower buyer conversion, more digital lead generation and continued consolidation around vertically integrated manufacturers and dealer networks.",
+    "key_stats": {
+      "market_size": "2025: estimated $9.3 billion in US dealer revenue; 2024 reported industry revenue was $9.1 billion.",
+      "growth": "2025: estimated +2.2% revenue growth from 2024, with higher average selling prices offsetting slightly softer unit shipments.",
+      "shipments": "2025: 102,800 new manufactured homes shipped in the US, versus 103,400 in 2024; 2026 January-May shipments were 41,400 versus 45,000 in January-May 2025.",
+      "average_sales_price": "2025: average new manufactured home sales price averaged about $127,000; March 2026 average price was $137,500.",
+      "mortgage_rate_context": "July 16, 2026: Freddie Mac 30-year fixed mortgage rate averaged 6.55%, keeping financing affordability a central demand constraint.",
+      "retail_locations": "2025: Champion Homes cited approximately 2,400 manufactured-housing retail locations operating in the US.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $8.416 billion revenue in 2022 dollars from the baseline IBISWorld file.",
+      "growth": "2022: revenue increased 3.1%; 2017-2022 revenue CAGR was 5.6%.",
+      "profit": "2022: $345 million profit and 4.1% profit margin.",
+      "establishments": "2022: 3,404 establishments.",
+      "enterprises": "2022: 2,741 enterprises.",
+      "employment": "2022: 12,397 employees.",
+      "wages": "2022: $868 million total wages."
+    },
+    "how_it_makes_money": "Dealers earn gross margin on new and used manufactured home sales, especially multisection homes, plus fees or margins from delivery, setup, site preparation coordination, parts, accessories, warranties, insurance referrals and finance-originated or finance-assisted transactions. Higher-ticket multisection homes drive most revenue, while financing access and the ability to secure land, permits and installation determine close rates.",
+    "cost_structure": {
+      "largest_costs": "2025: home inventory purchases from manufacturers remain the dominant cost, followed by labor, lot rent or real estate, transport, installation coordination, sales commissions, advertising, insurance and floorplan financing.",
+      "gross_margin_drivers": "2025: margin depends on model mix, manufacturer pricing, inventory turns, credit approvals, freight and setup costs, and whether the dealer captures ancillary finance, insurance, warranty or community-placement revenue.",
+      "pressure_points": "2025-2026: elevated borrowing costs raise floorplan and consumer-finance expense, while regulatory compliance, local siting constraints, labor availability and transport costs add friction."
+    },
+    "major_players": [
+      "{'name': 'Clayton Homes', 'notes': '2025: Berkshire Hathaway reported Clayton Homes revenue of $12.9 billion, with home-sales revenue up 1.6% and financial-services revenue up 12.5%; Clayton remains the largest vertically integrated manufactured-housing producer, retailer and lender.'}",
+      "{'name': 'Champion Homes', 'notes': 'Fiscal 2025: net sales were $2.483 billion; the company cited 22.0% US HUD-code wholesale share for fiscal 2025 and approximately 2,400 US retail locations in calendar 2025.'}",
+      "{'name': 'Cavco Industries', 'notes': 'Fiscal 2026: net revenue was $2.245 billion, up 11.4%; Cavco acquired American Homestar in September 2025, adding 19 company-owned retail locations and two manufacturing facilities.'}",
+      "{'name': 'Independent regional dealers', 'notes': '2025: still numerous but pressured by consolidation, financing complexity, inventory carrying costs and the need for stronger digital lead generation.'}"
+    ],
+    "current_dynamics": "The market is being pulled in two directions. On one side, site-built housing remains expensive and mortgage rates near the mid-6% range in 2026 make lower-priced manufactured homes attractive. On the other side, many buyers rely on chattel or specialty manufactured-home financing, so monthly-payment sensitivity is high. Unit shipments were roughly flat in 2025 versus 2024, and 2026 January-May shipments trailed the same 2025 period, but average selling prices rose into 2026, supporting nominal revenue. Dealer performance is best where zoning permits manufactured homes, land-home financing is available, and operators can convert online leads into site-ready transactions.",
+    "whats_growing": [
+      "2025-2026: multisection homes and higher-spec models as buyers seek more space while staying below site-built home prices.",
+      "2025-2026: land-home financing, insurance and warranty attachment as dealers try to improve affordability and ancillary revenue.",
+      "2025-2026: digital shopping, online floor-plan browsing, virtual tours and centralized lead handling.",
+      "2026: policy interest in manufactured housing as an affordable-housing supply tool, including HUD proposals to broaden design flexibility."
+    ],
+    "whats_shrinking": [
+      "2025-2026: buyer pools with weak credit or limited down payments, because higher rates reduce approval odds and purchasing power.",
+      "2025-2026: small undercapitalized dealers carrying costly inventory without strong finance or manufacturer relationships.",
+      "2026: near-term unit momentum, with January-May 2026 shipments down versus January-May 2025.",
+      "2025-2026: used-home affordability in some markets as community rents, transport, setup and repair costs rise."
+    ],
+    "recent_developments": [
+      "2025-02-25: HUD delayed the effective date for the Manufactured Home Construction and Safety Standards 4th and 5th sets to September 15, 2025.",
+      "2025-07-02: DOE finalized an extension delaying Tier 2 manufactured-home energy-standard compliance until 180 days after final enforcement procedures are published.",
+      "2025-09-29: Cavco acquired American Homestar, adding two manufacturing plants, 19 owned retail locations and finance operations.",
+      "2026-03: Census/FRED reported the average US new manufactured home sales price at $137,500.",
+      "2026-05: Census/FRED reported 8,400 US new manufactured-home shipments in May 2026 and 41,400 shipments for January-May 2026.",
+      "2026-06-12: HUD proposed revising the manufactured-home definition to support multi-story manufactured housing and remove some chassis-related barriers."
+    ],
+    "outlook": "Revenue is likely to grow modestly through 2026-2027 if manufactured homes remain a clear affordability substitute for site-built homes. Growth should be price-led unless interest rates fall enough to unlock more financed buyers. The biggest upside is policy-driven expansion of allowed siting, land-home lending and factory-built housing acceptance. The main downside is a prolonged high-rate environment, tighter consumer credit, community lot shortages, local zoning resistance and compliance costs that raise delivered prices.",
+    "themes": [
+      "Housing affordability gap",
+      "High-rate financing drag",
+      "Dealer and manufacturer consolidation",
+      "Digital retailing and online floor plans",
+      "Land-home financing",
+      "Zoning and siting reform",
+      "Energy-standard uncertainty",
+      "Multisection home mix shift"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/manufactured-home-dealers-in-the-us.txt",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Manufactured-Home-Dealers-Research-Updated-41763168/",
+      "https://fred.stlouisfed.org/data/SHTNSAUS",
+      "https://fred.stlouisfed.org/data/SPTNSAUS",
+      "https://www.census.gov/programs-surveys/mhs/data/latest-data.html",
+      "https://www.freddiemac.com/pmms",
+      "https://www.hud.gov/hud-partners/manufactured-home",
+      "https://www.energy.gov/cmei/buildings/manufactured-housing",
+      "https://www.hud.gov/news/hud-no-26-049",
+      "https://www.globenewswire.com/news-release/2026/05/21/3299722/0/en/Cavco-Industries-Reports-Fiscal-2026-Fourth-Quarter-and-Year-End-Results.html",
+      "https://www.marketscreener.com/news/champion-homes-annual-report-for-fiscal-year-ending-march-28-2026-form-10-k-ce7f5ad2da8ff32c",
+      "https://ebs.publicnow.com/view/A03369CD3645DFF2886C0935174FBBBD8CE673C5"
+    ],
+    "one_sentence": "In 2025, the US manufactured home dealer market was roughly a $9.3 billion retail industry, benefiting from a severe affordability gap in conventional housing while elevated 2025-2026 mortgage and chattel-loan rates kept many buyers cautious.",
+    "slug": "manufactured-home-dealers-in-the-us"
+  },
+  {
+    "title": "Manufactured Home Wholesaling in the US",
+    "sector": "Construction",
+    "one_liner": "A fragmented distributor market linking manufactured-home producers and specialty construction-material suppliers with dealers, contractors, retailers and land developers.",
+    "overview": "The industry wholesales manufactured homes, prefabricated buildings and specialty construction materials such as insulation, vapor barriers, construction glass, gypsum-related products, fencing, architectural metals and awnings. The 2022 IBISWorld baseline put revenue at $32.0 billion, with manufactured homes only 13.1% of sales and the larger revenue base tied to residential and nonresidential construction inputs. In 2025-2026, demand is being pulled in two directions: affordability pressure keeps manufactured homes relevant, but high mortgage rates, soft early-2026 shipments and renewed construction-material inflation are restraining volume and margins.",
+    "key_stats": {
+      "market_size": "2025 estimated industry revenue: about $31.6 billion, derived from the 2022 IBISWorld baseline of $32.0 billion and its 2022-2027 forecast CAGR of -0.4%.",
+      "growth": "2025 estimated revenue growth: about -0.4% year over year; 2026 conditions are mixed, with June 2026 housing starts up 3.5% from June 2025 but manufactured-home shipment SAAR down 4.3% to 103,703 in April 2026 versus 2025.",
+      "manufactured_home_shipments": "2025 Census/FRED manufactured-home shipments totaled about 102,800 homes; January-May 2026 shipments totaled about 41,400 homes.",
+      "mortgage_rates": "Freddie Mac 30-year fixed mortgage rate was 6.55% on July 16, 2026, still high enough to pressure housing turnover and dealer financing.",
+      "construction_inputs": "AGC reported construction input prices up 7.1% year over year in June 2026, with metals and freight costs still elevated.",
+      "structure": "2022 baseline: 4,121 enterprises, 5,133 establishments, 52,968 employees and 5.4% EBIT margin.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $31.988 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: -0.7%; 2017-2022 revenue CAGR: 1.2%; 2022-2027 forecast CAGR: -0.4%.",
+      "profit": "2022 profit: $1.727 billion; 2022 EBIT margin: 5.4%.",
+      "product_mix": "2022 product mix included house wraps, vapor barriers and insulation at 43.8%, construction glass at 14.7%, manufactured homes at 13.1%, fencing and architectural metals at about 12.9%, and other products for the balance.",
+      "scale": "2022 establishments: 5,133; 2022 enterprises: 4,121; 2022 employment: 52,968; 2022 wages: $3.482 billion."
+    },
+    "how_it_makes_money": "Wholesalers buy manufactured homes and specialty construction materials from manufacturers, take title to inventory, store or stage products near contractors and dealers, and earn gross margin by providing product breadth, local availability, credit, logistics, delivery timing and technical support. Manufactured homes are commonly sold through dealer networks, while materials flow to contractors, home improvement retailers, specialty installers, land developers and community operators.",
+    "cost_structure": {
+      "purchases": "Largest cost in 2022 and 2025-2026 because wholesalers resell bulky homes and construction inputs; margins are exposed to gypsum, insulation, glass, steel, aluminum, freight and fuel prices.",
+      "wages": "2022 wages were $3.482 billion, reflecting sales, warehouse, logistics and branch staff; durable-goods wholesaling wages remained elevated in 2025-2026 as BLS reported May 2026 average hourly earnings of $40.64 for NAICS 423.",
+      "freight_and_warehousing": "High relative cost because manufactured homes, glass, gypsum and metal products are bulky, fragile or delivery-sensitive; AGC reported truck freight PPI up 15.2% year over year in April 2026.",
+      "rent_and_facilities": "Branch networks require yards, warehouses and sales offices near contractor and dealer customers, limiting national scale economies.",
+      "profit": "2022 EBIT margin was 5.4%; 2026 margin risk is higher because construction input prices rose 7.1% year over year in June 2026 while bid-price pass-through lagged."
+    },
+    "major_players": [
+      "ABC Supply Interiors, formerly L&W Supply, is the main large specialty-distribution player cited by the 2022 baseline; ABC Supply aligned L&W Supply under the ABC Supply Interiors brand in 2026 and reported more than 1,000 North American locations across the broader ABC Supply group in 2025.",
+      "Independent regional manufactured-home dealers and construction-material wholesalers make up most establishments, keeping concentration low in 2022 and 2025-2026.",
+      "Clayton Homes, Cavco Industries and Champion Homes are major upstream factory-built housing manufacturers whose dealer networks, company-owned retail centers and financing programs influence wholesaler/dealer economics.",
+      "Champion Homes reported 2025 net sales of about $2.5 billion, 48 manufacturing facilities and 72 sales centers, showing continued manufacturer integration into retail, construction services, logistics and financing.",
+      "Cavco reported in fiscal 2025 that it sells through independent and company-owned retailers, community operators and developers, and provides commercial loan programs to parts of its wholesale distribution chain."
+    ],
+    "current_dynamics": "The 2025-2026 market is not a clean growth story. Manufactured-home shipments recovered from the 2023 trough but remained far below the long-term 200,000-plus annual shipment norm cited by public manufacturers. Early-2026 MHI reports showed production and shipments slowing year to date, while the broader construction backdrop improved in June 2026. Wholesalers benefit from affordability-driven interest in factory-built housing, but high mortgage rates, local zoning friction, direct manufacturer distribution, retailer integration and volatile input/freight costs keep revenue growth modest.",
+    "whats_growing": [
+      "Affordable factory-built housing interest in 2025-2026 as site-built homes remain expensive and mortgage rates stay in the mid-6% range.",
+      "Energy-efficient insulation, house wraps, vapor barriers and resilient envelope products, supported by high utility costs and building-code attention in 2025-2026.",
+      "Large distributor networks, as ABC Supply continued consolidating specialty distribution and rebranded L&W Supply as ABC Supply Interiors in 2026.",
+      "Dealer and consumer financing programs from manufacturers in 2025-2026, including Champion Financing and Cavco commercial loan programs.",
+      "Manufactured-home community investment activity, with Berkadia reporting 2025 community transaction volume up 47.1% year over year."
+    ],
+    "whats_shrinking": [
+      "Small independent wholesalers' bargaining power as manufacturers and large distributors expand direct retail, logistics and financing channels in 2025-2026.",
+      "Single-section manufactured-home momentum in early 2026, with MHI reporting single-section shipments down 10.7% year to date in April 2026.",
+      "Margin cushion on building-material distribution in 2026 as construction input inflation outpaced contractor bid prices.",
+      "Interest-rate-sensitive homebuyer demand, with Freddie Mac mortgage rates still around 6.55% in July 2026.",
+      "Low-value intermediary roles where e-commerce, direct manufacturer networks and national account purchasing reduce the need for local wholesalers."
+    ],
+    "recent_developments": [
+      "2025-02-25: HUD delayed the effective date of its manufactured-home construction and safety standards rule from March 17, 2025 to September 15, 2025.",
+      "2025-07-02: DOE delayed the Tier 2 manufactured-housing energy-standard compliance date to 180 days after final enforcement procedures are published.",
+      "2026-02-26: ABC Supply announced L&W Supply would be identified as ABC Supply Interiors, a name alignment across interior building-product distribution.",
+      "2026-05-15: MHI reported March 2026 manufactured-home shipment SAAR of 100,540, down 5.2% from 2025 levels.",
+      "2026-07-17: Census reported June 2026 housing starts at a 1.427 million SAAR, up 3.5% from June 2025.",
+      "2026-07-15: AGC reported June 2026 construction input prices up 7.1% from June 2025, with steel, aluminum, copper and freight still pressuring costs."
+    ],
+    "outlook": "The most likely 2026-2027 path is flat to slightly negative revenue for the wholesaling industry, close to the 2022 baseline forecast of a -0.4% CAGR, because higher affordability need is offset by financing friction and input-cost volatility. Manufactured homes should gain strategic relevance as policymakers and buyers look for lower-cost housing, but wholesalers only capture that upside when they remain embedded in dealer logistics, inventory finance, community sales and contractor supply. Consolidated distributors with dense branches and purchasing power should outperform smaller operators, while pure intermediaries face continued pressure from manufacturer-owned retail, direct-to-developer sales and digital procurement.",
+    "themes": [
+      "Affordable housing shortage",
+      "Factory-built housing",
+      "Construction-material inflation",
+      "Mortgage-rate sensitivity",
+      "Distributor consolidation",
+      "Manufacturer vertical integration",
+      "Dealer financing",
+      "Energy-efficiency standards",
+      "Regional zoning reform",
+      "Freight and logistics pressure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld file supplied by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/manufactured-home-wholesaling-in-the-us.txt'}",
+      "{'name': 'U.S. Census Bureau, Manufactured Housing Survey latest data', 'url': 'https://www.census.gov/programs-surveys/mhs/data/latest-data.html'}",
+      "{'name': 'FRED, Total Shipments of New Manufactured Homes: Total Homes in the United States', 'url': 'https://fred.stlouisfed.org/data/SHTNSAUS'}",
+      "{'name': 'U.S. Census Bureau, New Residential Construction June 2026 release', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'name': 'HUD Office of Manufactured Housing Programs', 'url': 'https://www.hud.gov/hud-partners/manufactured-home'}",
+      "{'name': 'DOE Manufactured Housing energy conservation standards', 'url': 'https://www.energy.gov/cmei/buildings/manufactured-housing'}",
+      "{'name': 'Federal Register, Energy Conservation Standards for Manufactured Housing, 90 FR 28873', 'url': 'https://thefederalregister.org/documents/2025-12328/energy-conservation-standards-for-manufactured-housing'}",
+      "{'name': 'MHI Economic Report: Soft Start in 2026', 'url': 'https://www.manufacturedhousing.org/news/mhi-economic-report-soft-start-in-2026/'}",
+      "{'name': 'MHI March 2026 economic report summary', 'url': 'https://www.manufacturedhousing.org/news/mhi-member-exclusive-march-2026-economic-report-production-and-shipment-trends-show-slowdown/'}",
+      "{'name': 'MHI April 2026 economic report summary', 'url': 'https://www.manufacturedhousing.org/news/april-economic-report-published/'}",
+      "{'name': 'AGC June 2026 construction input prices', 'url': 'https://www.agc.org/news/2026/07/15/construction-input-costs-remain-sharply-higher-year-ago-despite-june-decline-aluminum-copper-and-0'}",
+      "{'name': 'Freddie Mac PMMS archive', 'url': 'https://www.freddiemac.com/pmms/archive'}",
+      "{'name': 'ABC Supply L&W Supply brand alignment press release', 'url': 'https://www.abcsupply.com/media-center/press-release/abc-supply-co-inc-aligns-lw-supply-and-town-country-industries-under-abc-supply-brand/'}",
+      "{'name': 'ABC Supply 2025 history and milestones', 'url': 'https://www.abcsupply.com/about-us/our-history/history-and-milestones/'}",
+      "{'name': 'Champion Homes fiscal 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/90896/000095017025077746/sky-20250329.htm'}",
+      "{'name': 'Cavco Industries fiscal 2025 Form 10-K', 'url': 'https://fintel.io/doc/sec-cavco-industries-inc-278166-10k-2025-may-23-20231-2552'}",
+      "{'name': 'Berkadia Manufactured Housing Annual Report 2025 summary', 'url': 'https://www.berkadia.com/lp/manufactured-housing-annual-report-2025/'}"
+    ],
+    "one_sentence": "Manufactured home wholesaling remains a mature, construction-cycle-sensitive industry, with affordable-housing demand supporting factory-built homes while elevated mortgage rates, materials inflation and manufacturer direct distribution limit wholesaler growth in 2025-2026.",
+    "slug": "manufactured-home-wholesaling-in-the-us"
+  },
+  {
+    "title": "Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. manufacturing is a massive, mature production base shifting from post-pandemic normalization toward AI, defense, semiconductor, energy and reshoring-led capital cycles.",
+    "overview": "The industry transforms raw materials, components and intellectual property into finished and intermediate goods sold to wholesalers, retailers, governments, construction firms, exporters and other manufacturers. It spans food and beverage, chemicals, petroleum products, metals, machinery, transportation equipment, electronics, pharmaceuticals, aerospace, defense and consumer goods. The sector remains one of the largest parts of the U.S. economy, but its growth profile is mixed: nominal shipments are expanding in 2025-2026, while production capacity remains underused, labor growth is modest and profitability is exposed to materials, energy, interest-rate and tariff shocks.",
+    "key_stats": {
+      "market_size": "$7.247 trillion in 2025 U.S. manufacturers' shipments, calculated from Census/FRED AMTMVS monthly seasonally adjusted shipments.",
+      "growth": "2.0% in 2025 versus 2024 shipments; 2026 Jan-May shipments annualized at $7.609 trillion, up 5.7% versus Jan-May 2025.",
+      "employment": "12.598 million seasonally adjusted manufacturing jobs in June 2026, according to BLS/FRED MANEMP.",
+      "output": "Federal Reserve manufacturing output index was 97.9 in June 2026, up 1.1% from June 2025.",
+      "capacity_utilization": "Manufacturing capacity utilization was 75.7% in June 2026, 2.5 percentage points below its 1972-2025 long-run average.",
+      "new_orders": "Advance durable-goods new orders were $334.8 billion in June 2026, up 0.3% from May 2026.",
+      "foreign_direct_investment": "Manufacturing accounted for $121.8 billion of new foreign direct investment expenditures in 2025, equal to 52.5% of total 2025 new FDI expenditures.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$8.794 trillion IBISWorld revenue in 2022 dollars.",
+      "growth": "14.2% IBISWorld revenue growth in 2022 and 6.6% annualized growth over 2017-2022.",
+      "profit": "$703.5 billion IBISWorld profit in 2022.",
+      "profit_margin": "8.0% IBISWorld profit margin in 2022.",
+      "industry_gross_product": "$2.034 trillion IBISWorld sector gross product in 2022.",
+      "employment": "16.161 million IBISWorld sector employment in 2022.",
+      "exports": "$1.319 trillion IBISWorld exports in 2022.",
+      "imports": "$2.932 trillion IBISWorld imports in 2022.",
+      "domestic_demand": "$10.407 trillion IBISWorld domestic demand in 2022."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling finished goods, parts, components, refined materials and contract production services. Pricing is driven by production scale, product differentiation, commodity pass-throughs, engineering content, regulatory requirements, distribution access, long-term supply contracts and export competitiveness. Higher-margin segments include branded pharmaceuticals, aerospace and defense systems, specialized machinery, semiconductors and advanced materials, while commodity-linked refining, metals, chemicals and food manufacturing are more exposed to input-price cycles.",
+    "cost_structure": "The largest costs are raw materials, components, energy, logistics, plant labor, maintenance, depreciation, compliance and financing. In 2022, the IBISWorld baseline showed an 8.0% profit margin, implying a high-volume, cost-sensitive sector despite pockets of strong margins. In 2025-2026, cost pressure is concentrated in metals, imported components, construction inputs, energy volatility, skilled labor, automation investment and financing costs for new plants.",
+    "major_players": [
+      "Exxon Mobil",
+      "General Motors",
+      "Ford Motor Company",
+      "Boeing",
+      "RTX",
+      "GE Aerospace",
+      "Caterpillar",
+      "Dow",
+      "3M",
+      "Procter & Gamble"
+    ],
+    "current_dynamics": "The 2025 market recovered in nominal terms, with shipments up 2.0% from 2024, and 2026 Jan-May shipments accelerated to a $7.609 trillion annualized pace. Federal Reserve data show manufacturing output up 1.1% year over year in June 2026, but utilization at 75.7% remains below the 1972-2025 norm, indicating slack despite stronger orders in select categories. Demand is being pulled by AI data centers, defense, aerospace, semiconductors, power equipment, chemicals investment and reshoring strategies, while consumer goods, housing-linked products, some machinery and tariff-exposed supply chains remain uneven.",
+    "whats_growing": "AI infrastructure supply chains, electrical equipment, power transmission equipment, semiconductor-related construction, aerospace and defense production, chemicals investment, plastics and rubber FDI, petroleum and coal output in June 2026, and automation-heavy production are growing. Business equipment output was up 5.4% year over year in June 2026, and manufacturing FDI reached $121.8 billion in 2025.",
+    "whats_shrinking": "Factory construction spending eased after its 2024 peak, with 2025 spending down from the prior peak in several measures. Labor intensity is shrinking as automation lifts output without proportional hiring. In June 2026, durable manufacturing output slipped 0.1% month over month, with wood products, nonmetallic minerals, machinery, and electrical equipment, appliances and components each posting declines of more than 0.5% in Federal Reserve detail. Consumer-goods output was down 1.2% year over year in June 2026.",
+    "recent_developments": [
+      "2025-05: Census benchmarked M3 shipments and inventories data to the 2022 Economic Census and revised ASM inputs.",
+      "2025: U.S. manufacturers' shipments totaled $7.247 trillion, up 2.0% from 2024.",
+      "2025: BEA reported $121.8 billion of new foreign direct investment expenditures in manufacturing, 52.5% of total 2025 new FDI.",
+      "2026-06: Federal Reserve reported manufacturing output unchanged for the month but up 1.1% from June 2025, with utilization at 75.7%.",
+      "2026-06: Census reported advance durable-goods new orders of $334.8 billion, up 0.3% from May 2026.",
+      "2026-07: ISM Manufacturing PMI rose to 55.6, the strongest reading in more than four years, with employment returning to expansion."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but uneven. Shipments and survey momentum point to faster nominal growth than 2025, helped by AI infrastructure, defense, aerospace, power equipment, chemicals and semiconductor-related supply chains. The main constraints are underused capacity, soft consumer-goods output, uncertain trade policy, high plant-construction costs, energy volatility and limited labor growth. Over 2026-2027, automation and capital deepening should matter more than headcount expansion, and the best-performing manufacturers are likely to be those with pricing power, domestic supply-chain advantages and exposure to public or enterprise capital spending.",
+    "themes": [
+      "reshoring and nearshoring",
+      "AI infrastructure build-out",
+      "semiconductor and electronics capacity",
+      "defense and aerospace demand",
+      "automation and labor productivity",
+      "tariffs and supply-chain risk",
+      "energy and commodity volatility",
+      "factory construction normalization",
+      "foreign direct investment",
+      "capacity utilization gap"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/manufacturing-in-the-us.txt",
+      "https://fred.stlouisfed.org/data/AMTMVS",
+      "https://fred.stlouisfed.org/series/MANEMP",
+      "https://www.federalreserve.gov/RELEASES/g17/current/default.htm",
+      "https://www.census.gov/economic-indicators/factory-orders.html",
+      "https://www.bea.gov/news/2026/new-foreign-direct-investment-united-states-2025",
+      "https://www.bls.gov/productivity/highlights/manufacturing-mining-labor-productivity.htm",
+      "https://www.factcheck.org/2026/02/manufacturing-construction-spending-declines-under-trump/",
+      "https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-again-in-july-620ff592"
+    ],
+    "one_sentence": "In 2025, U.S. manufacturers generated $7.247 trillion in shipments, up 2.0% from 2024, while 2026 data show faster shipment momentum but still-low capacity utilization and uneven demand across consumer, commodity and industrial end markets.",
+    "slug": "manufacturing-in-the-us"
+  }
+]

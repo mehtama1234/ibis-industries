@@ -1,0 +1,431 @@
+[
+  {
+    "title": "Pressure Sensor Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, export-heavy U.S. manufacturing niche supplying pressure and flow sensing components into autos, medical devices, HVAC, aerospace, oil and gas, water systems and industrial automation.",
+    "overview": "The industry manufactures devices that measure gas, liquid and mechanical pressure, including piezoresistive, airflow, ceramic capacitive and silicon capacitive sensors. The 2021 IBIS baseline put U.S. industry revenue at US$1.407 billion, exports at US$1.134 billion and imports at US$1.319 billion, showing how globalized the category already was. Using the baseline forecast path, U.S. manufacturing revenue is roughly US$1.6 billion in 2026, but the broader U.S. pressure sensor demand pool is larger: Grand View Research estimates U.S. pressure sensor revenue at US$3.7015 billion in 2025 and US$3.8321 billion in 2026. Demand is being pulled by vehicle safety and electrification, medical monitoring, process automation, HVAC, water infrastructure and energy production, while margins are pressured by tariff uncertainty, semiconductor-material exposure, calibration costs and Asian and Mexican import competition.",
+    "key_stats": {
+      "market_size": "US$1.6 billion estimated U.S. manufacturing revenue in 2026; US$3.8321 billion broader U.S. pressure sensor market revenue in 2026",
+      "growth": "+2.1% CAGR for U.S. manufacturing revenue over 2021-2026 baseline forecast; +2.9% CAGR for broader U.S. pressure sensor revenue over 2026-2033",
+      "imports": "US$1.7558 billion of U.S. HS 902620 pressure measuring/checking instrument imports in 2025",
+      "baseline_exports": "US$1.134 billion of industry exports in 2021",
+      "baseline_import_penetration": "Imports equaled 80.6% of 2021 industry revenue in the IBIS baseline",
+      "baseline_profit_margin": "5.2% EBIT margin in 2021",
+      "employment": "3,330 U.S. workers in 2021 baseline; 3,459 projected for 2026 in the baseline outlook",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "US$1.44 billion estimated U.S. industry revenue in 2022, calculated from the 2021 IBIS revenue base of US$1.407 billion and the 2021-2026 forecast path",
+      "growth": "+2.1% estimated 2022 revenue growth on the 2021-2026 baseline forecast path",
+      "context": "The 2021 baseline described a rebound from the 2020 COVID shock, with 2021 revenue up 5.2% after a 12.3% decline in 2020."
+    },
+    "how_it_makes_money": "Manufacturers sell pressure transducers, MEMS pressure sensors, airflow sensors, ceramic and silicon capacitive sensors, pressure switches and application-specific modules to OEMs, industrial distributors and systems integrators. Revenue is earned through component sales, custom design-in programs, qualification and testing, long-cycle OEM supply agreements, replacement parts and, for larger players, bundled instrumentation and automation offerings.",
+    "cost_structure": "Major costs are electronic components, wafers and MEMS fabrication, metal and ceramic housings, plastics and resins, calibration and test equipment, skilled engineering labor, quality systems, warranty support, compliance and distribution. The 2021 baseline margin was 5.2%, reflecting a mix of high-value engineered products and price competition from imported commodity sensors. In 2025-2026, tariff uncertainty and semiconductor-material exposure add procurement risk, while automation and scale help larger producers defend margins.",
+    "major_players": [
+      "Honeywell International",
+      "Emerson Electric / Rosemount",
+      "Sensata Technologies",
+      "TE Connectivity",
+      "Amphenol Sensors / NovaSensor",
+      "ABB",
+      "Siemens",
+      "Bosch Sensortec",
+      "Endress+Hauser",
+      "Yokogawa"
+    ],
+    "current_dynamics": "Automotive remains the largest demand engine, with 2025 U.S. pressure sensor reports putting automotive near one-third of the U.S. market and MEMS at about 30.6% of 2025 U.S. sensor type share. Industrial automation and process markets are improving as plants add predictive maintenance and tighter pressure control, but U.S. manufacturing output was revised weaker for 2022-2024 and only modestly higher by August 2025. Oil and gas demand is supportive because U.S. crude oil production reached a record 13.6 million barrels per day in 2025. Trade remains a defining issue: U.S. imports of HS 902620 pressure measuring instruments reached US$1.7558 billion in 2025, and manufacturers entered 2026 still planning cautiously around tariffs and supply-chain risk.",
+    "whats_growing": "MEMS and NEMS sensors, capacitive low-power designs, automotive safety and EV thermal systems, medical respiratory and wearable monitoring, industrial IoT pressure nodes, semiconductor fab gas and vacuum control, LNG and energy infrastructure, water and wastewater monitoring, and aerospace and defense qualified components.",
+    "whats_shrinking": "Commodity pressure sensors with little differentiation, legacy internal-combustion-only airflow and manifold applications over the long run, low-margin domestic production exposed to Mexican and Asian imports, and purely analog sensors without diagnostics, digital output or integration into predictive maintenance systems.",
+    "recent_developments": [
+      "2025: Grand View Research estimated U.S. pressure sensor market revenue at US$3.7015 billion for 2025.",
+      "2025: U.S. HS 902620 pressure measuring/checking instrument imports totaled US$1.7558 billion, underscoring heavy import penetration.",
+      "2025: TE Connectivity reported record fiscal 2025 net sales of US$17.3 billion, up 9%, with industrial sales up 24%.",
+      "2025: Sensata reported full-year 2025 Automotive revenue of US$2.1117 billion, Industrials revenue of US$787.8 million and Aerospace, Defense and Commercial Equipment revenue of US$805.0 million.",
+      "2025: EIA reported record U.S. crude oil production of 13.6 million barrels per day, supporting pressure instrumentation demand in energy markets.",
+      "2026: Manufacturers Alliance reported 88% of manufacturers were moderately or very concerned about tariff impacts in January 2026, down from 95% in April 2025 but still elevated."
+    ],
+    "outlook": "The 2026 outlook is positive but not uniform. High-spec U.S. producers should benefit from automotive electrification, medical devices, semiconductor fabs, process automation, water infrastructure and energy production, while commodity segments remain vulnerable to imports and price competition. A reasonable near-term view is low-single-digit growth for U.S. manufacturing revenue, closer to the baseline 2021-2026 path, with faster growth in MEMS, NEMS, capacitive and digitally connected products. Margin upside depends on design-in wins, automation and pricing discipline; downside risks are tariffs, sensor-chip supply, customer inventory corrections and weaker general manufacturing output.",
+    "themes": [
+      "MEMS miniaturization",
+      "Automotive electrification",
+      "Industrial IoT and predictive maintenance",
+      "Medical and wearable monitoring",
+      "Import competition",
+      "Tariff and supply-chain risk",
+      "High-spec domestic manufacturing",
+      "Energy and water infrastructure demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/pressure-sensor-manufacturing.txt, last updated 2021-05-27",
+      "https://www.grandviewresearch.com/horizon/outlook/pressure-sensor-market/united-states",
+      "https://www.mordorintelligence.com/industry-reports/united-states-pressure-sensors-market-industry",
+      "https://www.tradeint.com/search/united-states/import-data/hs-code/902620/",
+      "https://www.federalreserve.gov/RELEASES/G17/revisions/current/default_rev.htm",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67404",
+      "https://investors.te.com/news-releases/press-release-details/2025/TE-Connectivity-delivers-17-sales-growth-in-fiscal-fourth-quarter-with-results-above-guidance/default.aspx",
+      "https://investors.sensata.com/news/news-details/2026/Sensata-Technologies-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx",
+      "https://www.manufacturersalliance.org/research-insights/tariff-impact-update-evolving-manufacturer-responses-uncertainty",
+      "https://ir.emerson.com/sec-filings/all-sec-filings/content/0000032604-25-000087/emr-20250930.htm"
+    ],
+    "one_sentence": "Pressure Sensor Manufacturing in the U.S. is a mature but technology-driven industry where domestic producers compete on accuracy, ruggedness and application engineering while lower-cost imports serve much of the commodity sensor market.",
+    "slug": "pressure-sensor-manufacturing"
+  },
+  {
+    "title": "Primary Care Doctors in the US",
+    "sector": "Healthcare",
+    "one_liner": "Primary care remains a large, mature healthcare services market, with demand lifted by aging, chronic disease and value-based care but constrained by physician shortages and reimbursement pressure.",
+    "overview": "The industry covers MD and DO general practitioners, family medicine physicians, general internists, pediatricians and geriatricians that provide first-contact, longitudinal and preventive care. The 2022 IBISWorld baseline framed the industry as mature, low-concentration and heavily regulated, with 2021 revenue of $254.5 billion and a forecast recovery to $290.5 billion by 2026. Current 2025-2026 data support the same direction: CMS reported 2024 physician and clinical services spending of $1.1097 trillion, up 8.1% in 2024, and projects 5.5% average annual growth for physician and clinical services over 2025-2034. Demand is broad and recurring, but access remains uneven: HRSA/KFF data as of December 31, 2025 showed 8,467 primary care HPSA designations, 92.3 million people in designated shortage areas and 15,604 additional practitioners needed to remove those designations.",
+    "key_stats": {
+      "market_size": "2026 forecast: $290.5 billion industry revenue",
+      "growth": "2021-2026 forecast CAGR: 2.7%",
+      "physician_clinical_services_spending": "2024: $1.1097 trillion, up 8.1% year over year",
+      "projected_physician_clinical_services_growth": "2025-2034 CMS projection: 5.5% average annual growth",
+      "shortage_areas": "2025: 8,467 primary care HPSA designations covering 92.3 million people",
+      "practitioners_needed": "2025: 15,604 additional primary care practitioners needed to remove HPSA designations",
+      "employment_reference": "2025 BLS OEWS: 107,510 family medicine physicians and 67,150 general internal medicine physicians employed",
+      "wages_reference": "2025 BLS OEWS: family medicine physicians mean annual wage $255,820; general internal medicine physicians mean annual wage $267,200",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 forecast estimate: $261.4 billion, derived from the 2022 IBISWorld report's 2021 revenue of $254.5 billion and 2021-2026 forecast CAGR of 2.7%",
+      "growth": "2021-2026 forecast CAGR: 2.7%",
+      "reported_2021_revenue": "2021: $254.5 billion",
+      "reported_2021_profit": "2021: $37.7 billion",
+      "reported_2021_profit_margin": "2021: 14.8%",
+      "reported_2021_establishments": "2021: 153,680 establishments",
+      "reported_2021_employment": "2021: 954,633 employees",
+      "reported_2026_revenue_forecast": "2026: $290.5 billion"
+    },
+    "how_it_makes_money": "Revenue comes mainly from evaluation and management visits, annual wellness and preventive services, chronic disease management, pediatric and geriatric care, lab-adjacent office services, referrals and care coordination. Payment is dominated by private insurance, Medicare and Medicaid, with smaller out-of-pocket revenue; the 2022 baseline estimated private insurance at 43.6% of payments, Medicare and Medicaid at 19.8% of revenue, and out-of-pocket payments at 7.7% of revenue. In 2025-2026, growth is increasingly tied to Medicare Advantage, accountable care contracts, risk-based senior primary care, Advanced Primary Care Management codes and hybrid virtual/in-person access models.",
+    "cost_structure": {
+      "labor": "2026 forecast: wages of $117.9 billion, equal to about 40.6% of the $290.5 billion revenue forecast",
+      "profit": "2026 forecast: 15.1% EBIT margin in the 2022 IBISWorld baseline",
+      "clinical_supplies_and_drugs": "2025-2026: moderate share for vaccines, medical supplies, basic diagnostics and office consumables, with cost exposure to supply contracts and reimbursement rules",
+      "rent_and_occupancy": "2025-2026: meaningful but secondary expense for office-based practices; pressure is higher for small independent practices with underutilized space",
+      "technology_and_admin": "2025-2026: rising spending on EHRs, billing, cybersecurity, patient portals, telehealth, prior authorization workflows and AI-enabled documentation",
+      "malpractice_and_compliance": "2025-2026: persistent regulated cost category, with state variation in premiums and liability exposure"
+    },
+    "major_players": [
+      "UnitedHealth Group / Optum Health",
+      "CVS Health / Oak Street Health / MinuteClinic",
+      "Humana / CenterWell Senior Primary Care / Conviva",
+      "Amazon One Medical",
+      "VillageMD / Walgreens-backed primary care assets",
+      "Large hospital and health-system-owned physician groups",
+      "Independent physician-owned primary care practices"
+    ],
+    "current_dynamics": "Demand is structurally favorable because older adults use more care, chronic disease management is recurring and payers want primary care to reduce avoidable hospital and specialist spending. The pressure points are different: physician supply is not keeping pace with access needs, Medicare fee-schedule updates remain volatile, and independent practices face rising labor, technology and compliance costs. Consolidation is a defining 2025-2026 feature: AMA reported that the share of physicians in private practice fell to 42.2% in 2024 from 60.1% in 2012, while hospital-owned, insurer-owned, retailer-owned and private-equity-backed platforms keep expanding their role.",
+    "whats_growing": "Senior-focused, value-based primary care; Medicare Advantage-aligned clinics; care-management billing; behavioral health integration; chronic disease programs; hybrid virtual and in-person access; team-based care using nurse practitioners, physician assistants, pharmacists, social workers and care coordinators; employer and membership-based primary care models; AI documentation and population-health tooling.",
+    "whats_shrinking": "Small independent solo and very small practices; purely fee-for-service economics; pediatric volume growth in areas with weaker child-population trends; undercapitalized rural practices; retail-clinic strategies that cannot support durable primary care panels; standalone practices without payer-contracting scale or technology investment capacity.",
+    "recent_developments": [
+      "2024-11-01: CMS finalized the CY 2025 Physician Fee Schedule, cutting the 2025 conversion factor to $32.35 and creating Advanced Primary Care Management HCPCS codes G0556, G0557 and G0558.",
+      "2025-01-29: Amazon One Medical and Montefiore announced a partnership to open One Medical primary care offices in Westchester County in 2026.",
+      "2025-05-07: CVS Health highlighted Oak Street Health's senior primary care model, with Medicare Advantage as the core vehicle for prevention-based multidisciplinary care.",
+      "2025-10-16: Amazon One Medical expanded pay-per-visit virtual care to children ages 2-11, with message visits starting at $29 and video visits at $49.",
+      "2025-10-31: CMS finalized the CY 2026 Physician Fee Schedule, raising 2026 conversion factors by 3.77% for qualifying APM participants and 3.26% for nonqualifying clinicians versus the 2025 factor.",
+      "2026-01-15: HRSA/KFF shortage data showed 8,467 primary care HPSA designations as of December 31, 2025, up from 7,718 in 2024, with 15,604 practitioners needed to remove designations."
+    ],
+    "outlook": "The industry should keep growing through 2026 as utilization normalizes, health spending rises and aging pushes more patients into chronic and preventive care. Revenue growth is likely steadier than capacity growth: Medicare and value-based payment changes support care management and senior panels, but fee-schedule uncertainty, labor scarcity and administrative burden keep pressure on margins. Large payer-owned, retailer-owned and health-system-owned platforms are positioned to gain share, while independent practices that remain viable will likely depend on better payer contracts, physician networks, shared administrative services or niche local access advantages.",
+    "themes": [
+      "Aging population",
+      "Chronic disease management",
+      "Primary care shortage",
+      "Value-based care",
+      "Medicare Advantage",
+      "Advanced Primary Care Management",
+      "Behavioral health integration",
+      "Telehealth normalization",
+      "Provider consolidation",
+      "Independent practice pressure",
+      "Retail and tech-enabled care",
+      "Rural access gaps"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/primary-care-doctors-in-the-us.txt",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2025-medicare-physician-fee-schedule-final-rule",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f",
+      "https://www.kff.org/other-health/state-indicator/primary-care-health-professional-shortage-areas-hpsas/",
+      "https://www.aamc.org/news/press-releases/new-aamc-report-shows-continuing-projected-physician-shortage",
+      "https://www.bls.gov/news.release/ocwage.htm",
+      "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "https://www.ama-assn.org/about/ama-research/physician-practice-benchmark-survey",
+      "https://www.ama-assn.org/practice-management/private-practices/smaller-share-doctors-private-practice-ever",
+      "https://www.cvshealth.com/services/health-care-and-wellness/health-services.html",
+      "https://www.onemedical.com/mediacenter/montefiore-health-system-partnership/",
+      "https://press.aboutamazon.com/2025/10/amazon-one-medical-introduces-pay-per-visit-virtual-healthcare-for-kids-ages-2-11",
+      "https://policy.humana.com/centerwell"
+    ],
+    "one_sentence": "US primary care doctors generate revenue from office, outpatient, virtual and care-management services paid by private insurance, Medicare, Medicaid and patients, while 2025-2026 growth is shaped by higher health spending, Medicare payment changes, consolidation and persistent access gaps.",
+    "slug": "primary-care-doctors-in-the-us"
+  },
+  {
+    "title": "Prime Mover Generator Sets Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. generator-set manufacturers are being pulled from mature backup-power demand into a faster data-center, grid-resilience and outage-protection cycle.",
+    "overview": "This is a mature but newly energized manufacturing market. The 2021 IBIS baseline described a $5.8B U.S. industry recovering from 2020 disruption and forecasting slow growth to 2026, but 2025-2026 public data show stronger generator-set demand than that legacy outlook because AI data centers, grid constraints, storm risk and commercial backup-power requirements have lifted orders for larger diesel and natural-gas systems. The core revenue base still includes motors and generators, but the strategic center of gravity has shifted toward complete gensets, controls, monitoring, packaging and service contracts for mission-critical power.",
+    "key_stats": {
+      "market_size": "$6.26B U.S. generator sets revenue in 2025; $6.76B estimated for 2026",
+      "growth": "7.9% implied 2026 growth over 2025 from Grand View Research Horizon estimates; 5.4% CAGR forecast for 2026-2033",
+      "broader_market_reference": "$8.7B U.S. generator sets market in 2024 with 6.9% CAGR forecast for 2025-2034 in Global Market Insights",
+      "establishments": "398 employer establishments in NAICS 335312 motor and generator manufacturing in 2023 Census Business Patterns",
+      "demand_indicator": "EIA forecast in January 2026 that U.S. electricity use grows 1% in 2026 and 3% in 2027, the strongest four-year demand growth since 2000",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "~$5.8B in 2022, extrapolated from the IBIS 2021 baseline of $5.763B and its 2021-2027 projected CAGR near 1.1%",
+      "growth": "~1.1% estimated 2022 growth under the original IBIS forecast path",
+      "context": "The 2021 baseline expected slow post-pandemic expansion to $6.1B by 2026, before the 2025-2026 data-center order cycle became visible"
+    },
+    "how_it_makes_money": "Manufacturers sell finished generator sets, motors, alternators, controls, switchgear integration, packaging, installation support, replacement parts, monitoring and service. Margins improve on higher-power engineered systems, data-center and healthcare specifications, branded dealer channels, aftermarket parts and multi-year service agreements; margins compress when steel, copper, electronics, engines, labor, freight or tariff costs rise faster than pricing.",
+    "cost_structure": {
+      "largest_costs": "Purchased components and materials are the largest cost bucket, including engines, alternators, copper windings, steel enclosures, power electronics, controls and emissions equipment.",
+      "labor": "IBIS baseline wages were $1.113B in 2021 and forecast near $1.2B by 2026 as establishments and employment expanded.",
+      "profitability": "IBIS baseline profit margin was 8.1% in 2021; public OEM results show stronger 2025-2026 margins in selected power businesses, including Cummins Power Systems Q4 2025 EBITDA margin of 21.7% and Generac 2026 adjusted EBITDA margin guidance of 20.0%-21.0%.",
+      "tariffs_and_inputs": "2025-2026 company filings and releases cite tariff costs, tariff refunds, unfavorable sales mix, higher input costs and manufacturing costs as active margin swing factors."
+    },
+    "major_players": [
+      "{'name': 'Cummins', 'position': 'Major power-generation and generator-technologies supplier; 2025 Power Systems sales were $7.46B, including $4.73B power generation sales, up 19% from 2024.'}",
+      "{'name': 'Caterpillar', 'position': 'Major large-engine, turbine and generator-set supplier; 2025 Power & Energy sales rose 12% to $32.20B, with power-generation growth led by large reciprocating engines for data centers.'}",
+      "{'name': 'Generac', 'position': 'Major residential and C&I backup-power manufacturer; 2025 net sales were $4.21B, and Q2 2026 C&I sales rose 29% to $556M on data-center demand.'}",
+      "{'name': 'Kohler Energy / Rehlko', 'position': 'Large standby and industrial generator-set supplier serving commercial, residential, healthcare and mission-critical applications.'}",
+      "{'name': 'Rolls-Royce mtu', 'position': 'High-power diesel and gas genset supplier for data centers, marine, defense and industrial backup power.'}",
+      "{'name': 'Honda, Briggs & Stratton, Atlas Copco and Deere', 'position': 'Important participants in portable, rental, light commercial and engine-powered generator categories.'}"
+    ],
+    "current_dynamics": "The 2025-2026 cycle is being driven by mission-critical power. Data centers need large megawatt backup and sometimes bridge or on-site power while grid interconnections lag; utilities and commercial customers want resilience against outages and peak-load stress; residential demand remains tied to outage frequency and storm seasons. At the same time, emissions rules, noise limits, fuel availability, local permitting, tariff exposure and long lead times for engines, alternators, transformers and switchgear are shaping what can ship and where it can be installed.",
+    "whats_growing": [
+      "Large diesel and natural-gas generator sets for hyperscale and non-hyperscale data centers in 2025-2026.",
+      "C&I backup power for healthcare, telecom, wastewater, critical infrastructure, rental fleets and commercial facilities.",
+      "Natural-gas generator sets, hybrid systems, remote monitoring, predictive maintenance and controls integration.",
+      "Aftermarket parts, service contracts and connected-asset support tied to uptime requirements.",
+      "Export opportunities when the U.S. dollar weakens, consistent with the April 2025 IBIS report summary."
+    ],
+    "whats_shrinking": [
+      "Portable generator shipments when outage activity is below prior-year storm comparisons, as Generac reported in 2025.",
+      "Lower-end commodity generator sets exposed to import competition and price-based bidding.",
+      "Traditional diesel-only systems where emissions permitting, customer decarbonization goals or local air-quality rules favor gas, hybrid or cleaner alternatives.",
+      "Hydrogen and electrolyzer-adjacent alternative-power activity at some OEMs, with Cummins recording 2025 charges and planning to stop new commercial activity in its electrolyzer space."
+    ],
+    "recent_developments": [
+      "2024-04: Cummins launched C2750D6E and C3000D6EB Centum generator sets for critical applications including data centers and healthcare.",
+      "2024-12: DOE released an LBNL report estimating U.S. data-center load growth could double or triple by 2028.",
+      "2025-04: IBISWorld’s updated industry report summary said exports would surge as the dollar depreciates and reaffirmed the industry scope of gensets, integral motors and fractional motors.",
+      "2026-01: EIA forecast the strongest four-year U.S. electricity-demand growth since 2000, fueled by data centers.",
+      "2026-07: Generac reported Q2 2026 net sales of $1.17B, C&I sales up 29%, and data-center backlog of about $1.6B.",
+      "2026-08: Caterpillar moved to expand generator capacity, including restarting 10 MW generator production for shipments beginning in Q4 2026."
+    ],
+    "outlook": "The outlook is positive through 2026, with growth above the old IBIS slow-growth path because data centers and grid resilience have become structural demand sources. The biggest upside is large C&I and mission-critical power, especially packaged systems with controls, monitoring and service. The biggest risks are permitting delays, emissions restrictions, high customer concentration in hyperscale data centers, tariffs and input costs, and a potential normalization of residential outage-driven demand after active storm years.",
+    "themes": [
+      "Data-center power demand",
+      "Grid resilience",
+      "Backup and standby power",
+      "Natural-gas gensets",
+      "Diesel emissions compliance",
+      "Remote monitoring and predictive maintenance",
+      "Aftermarket service",
+      "Tariffs and input-cost volatility",
+      "Storm and outage preparedness",
+      "Manufacturing capacity expansion"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/prime-mover-generator-sets-manufacturing.txt', 'notes': '2021 baseline revenue, growth, product mix, cost and forecast data.'}",
+      "{'name': 'Research and Markets / IBISWorld April 2025 report listing', 'url': 'https://www.researchandmarkets.com/reports/5415404/prime-mover-generator-sets-manufacturing-in-the', 'notes': 'Updated 2025 industry description and scope.'}",
+      "{'name': 'Grand View Research Horizon U.S. generator sets market outlook', 'url': 'https://www.grandviewresearch.com/horizon/outlook/generator-sets-market/united-states', 'notes': '2025 revenue $6.2586B, 2026 estimate $6.7557B, 2026-2033 CAGR 5.4%.'}",
+      "{'name': 'Global Market Insights U.S. generator sets market', 'url': 'https://www.gminsights.com/industry-analysis/us-generator-sets-market', 'notes': '2024 market size $8.7B and 2025-2034 CAGR 6.9%; drivers and key players.'}",
+      "{'name': 'U.S. Census Bureau NAICS 335312 profile', 'url': 'https://data.census.gov/profile/335312_-_Motor_and_generator_manufacturing?codeset=naics~335312&g=010XX00US', 'notes': '2023 employer establishment count for motor and generator manufacturing.'}",
+      "{'name': 'EIA January 2026 STEO press release', 'url': 'https://www.eia.gov/pressroom/releases/press582.php', 'notes': '2026-2027 electricity demand growth forecast and data-center driver.'}",
+      "{'name': 'Cummins 2025 results and annual filing excerpts', 'url': 'https://investor.cummins.com/news/detail/689/cummins-reports-strong-fourth-quarter-and-full-year-2025', 'notes': '2025 Power Systems and power-generation sales, data-center demand and margin data.'}",
+      "{'name': 'Generac Q2 2026 results', 'url': 'https://investors.generac.com/news-releases/news-release-details/generac-reports-second-quarter-2026-results', 'notes': 'Q2 2026 sales, C&I growth, data-center backlog and 2026 guidance.'}",
+      "{'name': 'Caterpillar 2025 highlights', 'url': 'https://www.caterpillar.com/en/investors/reports/annual-report/segment-highlights.html', 'notes': '2025 power demand, large-engine capacity, gas-turbine production and G3500K generator-set launch.'}"
+    ],
+    "one_sentence": "The industry manufactures prime mover generator sets, integral horsepower motors and fractional horsepower motors used for standby, prime and continuous power across homes, data centers, utilities, healthcare, construction, telecom and industrial sites.",
+    "slug": "prime-mover-generator-sets-manufacturing"
+  },
+  {
+    "title": "Print Advertising Distribution in the US",
+    "sector": "Business Services",
+    "one_liner": "A small, fragmented distribution industry is losing print circular and handbill volume to digital media, while in-store sampling, shared mail and targeted local offers keep a limited role.",
+    "overview": "This industry covers the direct distribution and delivery of circulars, coupons, handbills, flyers and samples, excluding advertising materials distributed through the mail. The baseline 2022 IBISWorld file placed revenue at $3.691 billion and described the industry as being in decline as print advertising expenditure fell and digital advertising became more targeted and cost effective. Current 2025-2026 conditions point to the same structural pattern: local advertising budgets are growing unevenly, with mobile, social, CTV/OTT and other digital formats capturing most incremental dollars, while legacy print formats continue to lose share. Operators remain concentrated in local field teams, promotional sampling, coupon distribution, retail circular support and outsourced campaign logistics.",
+    "key_stats": {
+      "market_size": "$3.7 billion in 2025 estimated industry revenue, based on the 2022 baseline of $3.691 billion, the 2023 IBISWorld/ResearchAndMarkets estimate of $3.9 billion and continued low-single-digit decline through 2025",
+      "growth": "-2.1% estimated annualized revenue decline for 2022-2027, consistent with the baseline outlook; 2025 local advertising revenue was forecast at $169.0 billion, down 2.4% year over year, while 2026 local advertising revenue was forecast at $184.5 billion, up 8.1% year over year",
+      "establishments": "1,164 employer establishments in 2023 for NAICS 541870 Advertising Material Distribution Services",
+      "employment": "11,284 employees in 2023 for NAICS 541870",
+      "profit_margin": "7.7% EBIT margin in 2022 baseline; margins remain pressured by labor, fuel, paper, printing and campaign logistics costs",
+      "adjacent_promotional_products_market": "$26.78 billion in 2024 US distributor sales, up 2.63% year over year, according to PPAI",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$3.691 billion in 2022 revenue",
+      "growth": "0.9% revenue growth in 2022 after pandemic-era declines; revenue declined at a 2.1% annualized rate over 2017-2022",
+      "profit": "$284 million in 2022 profit",
+      "profit_margin": "7.7% in 2022",
+      "establishments": "1,126 establishments in 2022",
+      "enterprises": "1,057 enterprises in 2022",
+      "employment": "10,412 workers in 2022",
+      "wages": "$884 million in 2022 wages",
+      "print_advertising_expenditure": "$17 billion in 2022 print advertising expenditure"
+    },
+    "how_it_makes_money": "Operators earn fees from advertisers, agencies, retailers, restaurants, consumer brands, grocers, nonprofits and local businesses to plan, staff and execute physical distribution campaigns. Revenue comes from door-to-door delivery of circulars and handbills, placement of flyers or coupons, in-store or event-based sampling, route management, local targeting, campaign reporting, creative or printing coordination and bundled promotional services.",
+    "cost_structure": "The largest costs are field labor, route supervision, recruiting and training brand ambassadors, printing and paper when bundled into campaigns, fuel and transportation, insurance, local office overhead, technology for targeting and reporting, and subcontracted logistics. Profitability depends on route density, repeat local accounts, campaign scale, utilization of field staff and the ability to pass through print, postage-adjacent and wage inflation.",
+    "major_players": [
+      "Colony Brands Inc.",
+      "Valpak",
+      "RRD",
+      "Vericast",
+      "Local flyer, coupon and sampling distributors",
+      "Event staffing and promotional sampling agencies"
+    ],
+    "current_dynamics": "The industry is stuck between cyclical advertising recovery and structural print decline. BIA revised 2025 US local advertising to $169.0 billion, down 2.4% from 2024 because of weaker consumer sentiment, tariffs, high rates and tighter credit, but its 2026 forecast rose to $184.5 billion, up 8.1%, helped by political spending and digital channels. That growth does not translate evenly to print distribution: mobile, social, PC/laptop and CTV/OTT are taking incremental budget because advertisers can target and measure outcomes more precisely. Physical offers still have value in grocery, local services, restaurants, home services, discount retail and older demographics, especially where tangible coupons drive store traffic.",
+    "whats_growing": "Promotional sampling, event staffing, grocery and value-oriented offers, localized couponing, shared distribution programs, neighborhood-level targeting, QR-code-linked print campaigns, omnichannel campaigns that pair physical offers with digital retargeting, and sustainability-oriented promotional products are the relative growth areas.",
+    "whats_shrinking": "Standalone handbill and flyer drops, newspaper-insert distribution, untargeted mass circulars, magazine and newspaper print ad volume, small print-only local campaigns, and low-measurement campaigns are shrinking as advertisers shift toward digital media and performance marketing.",
+    "recent_developments": [
+      "2025-02-20: PPAI reported US promotional products distributor sales reached $26.78 billion in 2024, up 2.63% year over year.",
+      "2025-04-07: PPAI reported promotional products revenue grew only 0.61% year over year in January-February 2025, showing a slower start to 2025.",
+      "2025-08-13: BIA revised its 2025 US local advertising forecast to $169.0 billion, down 2.4% from 2024, citing consumer sentiment, tariffs, high rates and tight credit.",
+      "2025-12-2026-01: EMARKETER’s US print ad spending forecast update continued to classify print as newspapers and magazines only, reflecting print’s legacy-media position in the ad mix.",
+      "2026-04-09: BIA revised its 2026 US local advertising forecast to $184.5 billion, up 8.1% year over year, with growth led by mobile, social, streaming and political advertising.",
+      "2026-07-09: RRD expanded a cooperative shared-mail grocery circular program in Greater Hartford after local newspaper total-market-coverage distribution closed."
+    ],
+    "outlook": "Revenue is expected to keep declining through 2026-2027 as print advertising expenditure falls faster than overall advertising grows. The most resilient operators will look less like pure flyer distributors and more like local activation firms: they will combine sampling, data-driven routing, print production partners, QR and coupon attribution, retail media tie-ins and digital follow-up. Political cycles, grocery promotions and consumer demand for savings can create temporary boosts, but the long-term base case is low-single-digit annual revenue decline and continued consolidation among smaller local operators.",
+    "themes": [
+      "Digital substitution",
+      "Local advertising fragmentation",
+      "Promotional sampling resilience",
+      "Grocery and coupon value seeking",
+      "Route-density economics",
+      "Print-to-digital attribution",
+      "Fragmented local operators",
+      "Declining legacy print media"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/print-advertising-distribution-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-print-advertising-market",
+      "https://data.census.gov/profile/541870_-_Advertising_Material_Distribution_Services?codeset=naics~541870",
+      "https://fred.stlouisfed.org/series/REVEF54187ALLEST",
+      "https://www.bia.com/press-releases/bia-2025-forecast-update-169-billion-in-u-s-local-advertising-and-2-4-year-over-year-decline/",
+      "https://www.bia.com/press-releases/bia-revises-2026-local-ad-forecast-total-spend-to-reach-184-5-billion-2/",
+      "https://www.emarketer.com/forecasts/5c66d06c8920aa05b8b0e35a/5aa6a66b60a15705f86fb189",
+      "https://www.ppai.org/media-hub/ppai-sales-volume-estimate-modest-growth-in-2024-but-reasons-for-optimism-remain/",
+      "https://www.ppai.org/media-hub/ppai-research-promo-growth-takes-notable-dip-suppliers-hit-harder/",
+      "https://www.rrd.com/about/newsroom/press-release/rrds-cooperative-mail-program-expands-to-hartford-connecticut-providing-essential-grocery-savings-for-consumers-2026-zukl19-wds",
+      "https://www.valpak.com/about-valpak",
+      "https://www.vericast.com/solutions/print-marketing/inserts/",
+      "https://www.colonybrands.com/companies/building-an-enterprise/about-us/"
+    ],
+    "one_sentence": "Print Advertising Distribution in the US distributes physical ads and samples door-to-door, at retail locations and through other non-digital channels, but 2025-2026 demand remains pressured by shrinking print ad budgets and advertiser migration to measurable digital channels.",
+    "slug": "print-advertising-distribution-in-the-us"
+  },
+  {
+    "title": "Printing Services in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A small, fragmented printing-support industry is still pressured by digital substitution, in-house prepress tools and weak print media demand, even as specialty finishing and packaging-adjacent work provide pockets of resilience.",
+    "overview": "The industry supplies support services to printers, publishers, agencies and brand owners rather than primarily printing finished products itself. Its core work includes prepress file preparation, platemaking, typesetting, trade binding, folding, gluing, die-cutting, embossing and other postpress services. The 2022 baseline described a long-running decline caused by the migration of advertising, newspapers, magazines and some book workflows to digital channels, plus the spread of desktop publishing and integrated printer workflows. Current 2025–2026 data show the same pressure: IBISWorld reported a $2.9 billion US market in 2025, down 4.1% from 2024, while BLS reported broader NAICS 323 employment slipping to 339.0 thousand jobs in July 2026 and 2025 output falling 3.1%. Operators that remain viable are increasingly specialized around fast turnaround, embellishment, packaging-adjacent finishing, workflow automation and outsourced overflow for printers that do not want to carry every binding or prepress capability in-house.",
+    "key_stats": {
+      "market_size": "2025: $2.9 billion US market size for Printing Services in the US, according to IBISWorld.",
+      "growth": "2025: -4.1% market-size growth for Printing Services in the US; 2020–2025 CAGR was -1.8%, according to IBISWorld.",
+      "prior_year_market_size": "2024: $3.0 billion US market size; 2024 growth was +0.9%, according to IBISWorld.",
+      "employment_context": "2026: broader NAICS 323 printing and related support activities employment was 339.0 thousand in July 2026, down from 340.3 thousand in May 2026, according to BLS.",
+      "price_context": "2026: broader NAICS 323 producer price index was 182.902 in June 2026, up from 179.872 in March 2026, according to BLS.",
+      "productivity_context": "2025: broader NAICS 323 output fell 3.1%, hours worked fell 2.7%, and unit labor costs rose 3.3%, according to BLS productivity data.",
+      "establishments_context": "2025: broader NAICS 323 private establishments were 27,525 in Q4 2025, according to BLS QCEW data.",
+      "value_added_context": "2022: Federal Reserve G.17 underlying weights put NAICS 32312 support activities for printing value added at $2.010 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021: $2.424 billion revenue in the supplied January 2022 IBISWorld baseline, in 2021 dollars; the same baseline forecast 2026 revenue of $2.1 billion.",
+      "growth": "2021: -4.9% annual revenue growth in the supplied January 2022 IBISWorld baseline; 2016–2021 CAGR was -8.4% and 2021–2026 forecast CAGR was -2.9%.",
+      "profit_margin": "2021: 4.8% EBIT margin in the supplied January 2022 IBISWorld baseline, forecast to fall to 4.3% in 2026.",
+      "employment": "2021: 19,437 workers in the supplied January 2022 IBISWorld baseline, forecast to fall to 16,172 in 2026.",
+      "businesses": "2021: 2,254 enterprises in the supplied January 2022 IBISWorld baseline, forecast to fall to 1,822 in 2026.",
+      "exports_imports": "2021: $68.1 million exports and $25.5 million imports in the supplied January 2022 IBISWorld baseline."
+    },
+    "how_it_makes_money": "Operators earn fees from business-to-business prepress and postpress jobs, including file preparation, proofing, image setting, typesetting, platemaking, cylinders, trade binding, folding, collating, gluing, die-cutting, embossing, mounting and other finishing services. Revenue is usually project-based or contract-based and depends on print volumes from commercial printers, publishers, packaging and label producers, agencies, direct-mail providers and brand owners. Higher-margin work tends to come from specialized finishing, fast-turnaround trade work, short runs, variable-data support, complex binding and overflow services that customers cannot efficiently perform in-house.",
+    "cost_structure": {
+      "labor": "High labor intensity for skilled prepress, bindery, finishing, estimating, scheduling and quality-control work; BLS reported broader NAICS 323 average hourly earnings of $31.15 for all employees and $24.93 for production and nonsupervisory employees in July 2026.",
+      "purchases": "Paper, board, plates, chemicals, adhesives, coatings, packaging materials, outsourced print work, replacement parts and energy-sensitive supplies remain major variable costs; the 2022 baseline noted paper as a key input cost and a direct margin pressure.",
+      "equipment_and_depreciation": "Moderate capital needs for platesetters, binding lines, cutters, folders, die cutters, proofing systems, workflow software and automation, with spending concentrated among operators pursuing specialty finishing or faster throughput.",
+      "rent_and_logistics": "Facilities need production floor space near printers, publishers or regional customers to control pickup, delivery and turnaround times.",
+      "profit": "Low-to-mid single-digit margins are typical in the baseline: 2021 EBIT margin was 4.8% and the supplied baseline forecast 4.3% for 2026, reflecting price competition and weak demand."
+    },
+    "major_players": [
+      "SGS & Co / Southern Graphic Systems",
+      "SGK / Schawk USA",
+      "RRD",
+      "Quad",
+      "Cenveo",
+      "Fragmented independents and regional trade binders"
+    ],
+    "current_dynamics": "Demand is still tied to print volumes, especially commercial print, books, catalogs, direct mail, labels, packaging and publishers. Traditional prepress tied to newspapers, magazines and generic marketing collateral is shrinking as agencies, publishers and printers use desktop publishing, automated workflows and digital channels. At the same time, some operators benefit from printers outsourcing overflow, brands demanding consistent color and appearance across packaging, and customers seeking specialty finishing that is expensive to own internally. Inflation has shifted from a pure supply shock to a margin-management issue: broader NAICS 323 prices rose through mid-2026, but customers remain price-sensitive and competitive pressure limits pass-through.",
+    "whats_growing": [
+      "2025–2026: Specialty finishing, embellishment, die-cutting, folding, gluing and premium short-run work where customers value differentiation over commodity print cost.",
+      "2025–2026: Packaging-adjacent prepress and appearance-management work, including color consistency, proofs and brand production support.",
+      "2025–2026: Workflow automation, web-to-print handoffs, AI-assisted estimating, job routing, preflight and production scheduling.",
+      "2026: Outsourced overflow for printers that are keeping core presses busy but avoiding investment in every bindery or prepress capability.",
+      "2026: Direct mail and targeted physical marketing niches that can integrate with digital campaigns and customer data."
+    ],
+    "whats_shrinking": [
+      "2025–2026: Newspaper and magazine-related prepress and binding volumes as audience attention and ad dollars keep moving to digital formats.",
+      "2025–2026: Generic typesetting, layout and file-preparation services that agencies, publishers and customers can do in-house with software.",
+      "2025–2026: Commodity trade binding and postpress work exposed to aggressive price competition from integrated commercial printers.",
+      "2025: Broader NAICS 323 output, which BLS reported down 3.1% in 2025.",
+      "2026: Broad printing and related support employment, which BLS reported at 339.0 thousand in July 2026 versus 370.8 thousand annual employment for 2025 in FRED/BLS productivity data for broader NAICS 323."
+    ],
+    "recent_developments": [
+      "2025-06: IBISWorld listed Printing Services in the US market size at $2.9 billion for 2025, down 4.1% from 2024.",
+      "2025-07: PwC’s 2025–2029 outlook said digital formats accounted for 72% of global ad revenue in 2024 and were forecast to reach 80% in 2029, reinforcing print-ad substitution pressure.",
+      "2025-12: EMARKETER’s December 2025–January 2026 forecast maintained a separate US print ad spending series limited to magazines and newspapers, highlighting the continuing measurement of a shrinking legacy channel.",
+      "2026-01: IAB forecast 9.5% growth in 2026 US ad spend, fueled by digital growth, cyclical events and AI adoption rather than print media.",
+      "2026-05: WhatTheyThink’s 2026–27 Printing Outlook survey projected 2026 print service provider revenues up 5.7% nominal and 3.3% after inflation, while ranking pricing pressure, the economy and tariff uncertainty as leading concerns.",
+      "2026-08: BLS data extracted August 7, 2026 showed broader NAICS 323 employment at 339.0 thousand in July 2026 and a June 2026 PPI of 182.902."
+    ],
+    "outlook": "The industry is likely to remain in secular decline through 2026–2030, but the decline is uneven. Commodity prepress and publishing-linked postpress should keep contracting as print media loses share and customers internalize routine work. Better-positioned operators will look less like generic service bureaus and more like specialized production partners for high-touch finishing, packaging support, brand color management, direct mail, short-run books and overflow work. The 2025 IBISWorld market-size decline of 4.1% and BLS 2025 broader-output decline of 3.1% point to ongoing volume pressure, while the 2026 WhatTheyThink survey suggests surviving print service providers can still post nominal growth if they diversify, automate and price specialized capabilities effectively.",
+    "themes": [
+      "Digital substitution",
+      "Industry consolidation",
+      "Workflow automation",
+      "Specialty finishing",
+      "Packaging-adjacent services",
+      "In-house prepress competition",
+      "Print ad decline",
+      "Labor productivity pressure",
+      "Price competition",
+      "Fragmented operators"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/printing-services-in-the-us.txt",
+      "https://www.ibisworld.com/united-states/market-size/printing-services/444/",
+      "https://www.bls.gov/iag/tgs/iag323.htm",
+      "https://fred.stlouisfed.org/series/IPUEN323W200000000",
+      "https://fred.stlouisfed.org/series/IPUEN323W010000000",
+      "https://www.federalreserve.gov/releases/g17/SandDesc/table1.20.htm",
+      "https://www.pwc.com/gx/en/news-room/press-releases/2025/pwc-global-entertainment-media-outlook.html",
+      "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-global-entertainment-media-outlook.html",
+      "https://www.emarketer.com/forecasts/5c66d06c8920aa05b8b0e35a/5aa6a66b60a15705f86fb189",
+      "https://www.iab.com/news/outlook-study-forecasts-9-5-growth-in-u-s-ad-spend/",
+      "https://store.whattheythink.com/downloads/2026-27-printing-outlook/",
+      "https://whattheythink.com/articles/130275-2026-printing-outlook-why-brands-oems-should-fund-appearance-management-pilots-2026/"
+    ],
+    "one_sentence": "US printing services, covering prepress and postpress support such as typesetting, platemaking, trade binding, die-cutting and finishing, remained a structurally declining but cash-generative niche in 2025–2026 as publishers and printers internalized more work while operators chased shorter-run, higher-touch finishing jobs.",
+    "slug": "printing-services-in-the-us"
+  }
+]

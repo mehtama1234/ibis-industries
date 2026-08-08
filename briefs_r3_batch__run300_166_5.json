@@ -1,0 +1,396 @@
+[
+  {
+    "title": "Hoist & Winch Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, mature US machinery niche making hoists, winches and replacement parts for factories, warehouses, construction, mining, utilities, vehicles and marine uses.",
+    "overview": "The industry manufactures hoists that lift loads vertically, winches that pull or position loads laterally, and related parts such as chains, wire rope assemblies, hooks, drums, controls and motorized drive components. It is a compact segment within material-handling equipment, overlapping NAICS 333923, which includes hoists, winches, overhead cranes and monorail systems. Baseline 2021 revenue was about $2.1 billion, and the legacy outlook called for low single-digit replacement-led growth through 2026. Current 2025-2026 conditions support that mature profile: manufacturing structures investment remained historically elevated at $219.5 billion in 2025, Federal Reserve industrial production was 1.7% higher year over year in May 2026, and major suppliers reported stronger orders, but steel mill product prices were up 16.9% year over year in June 2026 and manufacturing capacity utilization was only 75.7% in May 2026.",
+    "key_stats": {
+      "market_size": "2026 estimated US industry revenue: about $2.2 billion in 2021 dollars, based on the 2022 IBISWorld baseline projection from $2.059 billion in 2021 at roughly 0.7%-0.9% annual growth through 2026-2027.",
+      "growth": "2021-2026 projected revenue CAGR: about 0.7%; 2026 current demand indicators are firmer, with US industrial production up 1.7% year over year in May 2026.",
+      "profit_margin": "2021 baseline EBIT margin: 6.0%; 2026 margins are under input-cost pressure as steel mill product PPI was up 16.9% year over year in June 2026.",
+      "employment": "2021 baseline employment: 2,069 workers; 2026 baseline projection: about 2,143 workers.",
+      "establishments": "2021 baseline establishments: 34; 2026 baseline projection: low-30s establishments.",
+      "trade": "2021 baseline exports: $112.5 million; 2021 baseline imports: $239.3 million, leaving the US market import-exposed but still mainly supplied domestically.",
+      "demand_indicators": "2025 US private manufacturing structures investment: $219.5 billion; May 2026 manufacturing capacity utilization: 75.7%, 2.5 percentage points below its 1972-2025 average.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $2.07 billion in 2021 dollars, extrapolated from the baseline 2021 revenue of $2.059 billion and the baseline low-growth 2021-2026 outlook.",
+      "growth": "2022 projected growth: about 0.7% in 2021 dollars under the baseline outlook.",
+      "profit_margin": "2021 baseline EBIT margin carried into 2022 benchmark: 6.0%.",
+      "product_mix_2021": "Electric and other winches 22.0%, hoist parts 19.5%, electric motor hoists 19.2%, vehicle-mounted winches 16.0%, nonelectric hoists 14.8%, winch parts 8.5%.",
+      "domestic_demand": "2021 baseline domestic demand: $2.186 billion in 2021 dollars."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from original equipment sales to industrial users and distributors, engineered or configured hoists and winches for lifting systems, vehicle and utility winches, replacement parts, service parts and controls. Demand is mostly business-to-business and tied to capital projects, factory expansions, fleet replacement, warehousing automation, mining output, construction equipment usage, utilities work and marine/off-road applications.",
+    "cost_structure": {
+      "materials_and_components": "Largest cost bucket in 2026, driven by steel, forgings, castings, wire rope, chain, motors, gearboxes, brakes, electronics and controls; steel price volatility is a direct margin risk.",
+      "labor": "2021 baseline wages were $133 million, equal to about 6.5% of revenue; skilled machinists, assemblers, welders and engineers remain central because products are safety-critical and often configured.",
+      "overhead_and_depreciation": "Medium capital intensity from machining, fabrication, testing, inventory, plant overhead and quality systems.",
+      "selling_distribution_and_service": "Important for distributor relationships, aftermarket parts, technical support, warranty handling and global service networks.",
+      "profit": "2021 baseline profit was $124 million, or 6.0% of revenue; 2026 public-company data show pricing and synergy gains competing against tariffs, mix and steel inflation."
+    },
+    "major_players": [
+      "{'name': 'Columbus McKinnon', 'position': 'Major US-listed lifting and intelligent motion supplier with hoists, crane components, lifting hardware, securement and controls; FY2026 net sales were $1.193 billion and FY2027 guidance was $2.05 billion-$2.12 billion after Kito Crosby.'}",
+      "{'name': 'Kito Crosby / Harrington Hoists', 'position': 'Combined into Columbus McKinnon in February 2026, strengthening the US hoist, rigging and lifting-hardware footprint.'}",
+      "{'name': 'Konecranes', 'position': 'Global material-handling and industrial lifting supplier; 2025 sales were EUR 4.188 billion and 2025 order intake was EUR 4.389 billion.'}",
+      "{'name': 'Warn Industries', 'position': 'US winch manufacturer focused on vehicle, utility and industrial winches, with a Clackamas, Oregon facility and about 400 workers.'}",
+      "{'name': 'Terex', 'position': 'Broader industrial equipment manufacturer exposed to lifting, utilities and materials-processing end markets; 2025 results showed pricing and productivity offsetting tariff and inflation headwinds.'}"
+    ],
+    "current_dynamics": "The market is not experiencing rapid volume growth, but it is benefiting from a better replacement cycle, factory and warehouse automation, elevated manufacturing-construction investment and stronger 2026 industrial production. The main offset is cost: steel and metal inputs accelerated again in 2025-2026, tariffs and supply-chain uncertainty remain visible in manufacturer commentary, and high financing costs still restrain some capital-equipment purchases. Consolidation is reshaping competitive structure, especially Columbus McKinnon's 2026 Kito Crosby acquisition and related divestitures.",
+    "whats_growing": [
+      "Electric chain hoists, wire-rope hoists and powered lifting solutions for automated or semi-automated material handling.",
+      "Aftermarket hoist parts, winch parts, service components and safety upgrades because installed equipment has long service lives.",
+      "Factory, warehouse, utility, energy, data-center and infrastructure-related applications tied to 2025-2026 US industrial investment.",
+      "Digitally controlled lifting, ergonomic positioning, remote operation and condition-monitoring features from larger suppliers."
+    ],
+    "whats_shrinking": [
+      "Purely manual or low-feature equipment where customers can substitute imported products or extend replacement cycles.",
+      "Margins on fixed-price work when steel, tariffs, freight and component costs rise faster than pricing actions.",
+      "Export competitiveness when the US dollar is strong or global industrial buyers delay capital purchases.",
+      "Short-cycle demand from customers exposed to weak residential construction, soft consumer goods manufacturing or cautious small manufacturers."
+    ],
+    "recent_developments": [
+      "2025: US private fixed investment in manufacturing structures reached $219.5 billion, below 2024's $234.8 billion but far above 2022's $124.5 billion.",
+      "2025: Konecranes reported EUR 4.389 billion of order intake, up 9.7%, and launched the D-series electric chain hoist for industrial customers.",
+      "2026-02-04: Columbus McKinnon completed its acquisition of Kito Crosby, creating a larger global lifting and intelligent motion supplier.",
+      "2026-03-04: Columbus McKinnon divested its US power chain hoist and chain manufacturing operations required as part of the Kito Crosby transaction.",
+      "2026-05: Federal Reserve data showed total US industrial production at 102.6, up 1.7% from May 2025, while manufacturing capacity utilization held at 75.7%.",
+      "2026-06: Steel mill products PPI reached 361.439, up 16.9% year over year, increasing input-cost pressure for hoist and winch producers."
+    ],
+    "outlook": "The 2026-2030 outlook is steady rather than breakout. Revenue should expand modestly as replacement demand, reshoring-linked manufacturing investment, warehouse automation, utility work and infrastructure projects support orders. Pricing will remain an important part of nominal growth because steel and metal components are volatile. The best-positioned manufacturers will be those with scale, engineered products, distributor coverage, aftermarket revenue and enough pricing power to protect margins. Risks include renewed capital-spending delays, tariff-driven cost spikes, lower mining or construction activity, and import competition in standardized products.",
+    "themes": [
+      "Mature industrial niche",
+      "Replacement-cycle demand",
+      "Automation and intelligent motion",
+      "Steel and tariff exposure",
+      "Manufacturing reshoring",
+      "Aftermarket parts resilience",
+      "Consolidation among lifting suppliers",
+      "Safety-critical engineered equipment"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Local baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/hoist-and-winch-manufacturing.txt, IBISWorld Hoist & Winch Manufacturing, last updated 2022-01-31.",
+      "https://www.census.gov/naics/?details=333923&input=333923&year=2022",
+      "https://www.federalreserve.gov/RELEASES/g17/current/default.htm",
+      "https://fred.stlouisfed.org/series/WPU1017",
+      "https://fred.stlouisfed.org/series/C307RC1A027NBEA",
+      "https://investors.cmco.com/investor-news/news-details/2026/Columbus-McKinnon-Delivers-Order-Growth-of-20-and-Net-Sales-Growth-of-24-in-FY26-Issues-FY27-Guidance/default.aspx",
+      "https://cdn.harringtonhoists.com/news/columbus-mckinnon-completes-acquisition-of-kito-crosby",
+      "https://investors.konecranes.com/annual_report_2025",
+      "https://www.warn.com/pages/about-warn",
+      "https://investors.terex.com/news/news-details/2026/Terex-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
+    ],
+    "one_sentence": "US hoist and winch manufacturers sell durable lifting and pulling equipment into industrial capital-spending cycles, so 2025-2026 demand is being helped by manufacturing investment and material-handling automation but pressured by high steel costs, tariffs, consolidation and still-below-average factory utilization.",
+    "slug": "hoist-and-winch-manufacturing"
+  },
+  {
+    "title": "Home Furnishing Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "A mature B2B distribution market linking flooring, textile, kitchenware and window-treatment suppliers with retailers, installers and other commercial buyers.",
+    "overview": "The industry is a low-concentration wholesale channel for non-furniture home furnishings and housewares. The 2022 NAICS 423220 definition covers merchant wholesalers of home furnishings and housewares such as carpets, rugs, floor coverings, glassware, chinaware, curtains, draperies, linens, kitchen utensils, lamps, blinds and shades. IBISWorld's 2021 baseline described a $62.8 billion 2021 industry recovering from the 2020 COVID decline and projected slow growth to $65.4 billion in 2026. The public 2022 Economic Census reported $66.6 billion of 2022 sales for NAICS 423220, while broader NAICS 4232 furniture and home furnishing wholesale sectoral output was $112.7 billion in 2025 after $111.3 billion in 2024 and $117.0 billion in 2023. Current conditions are mixed: 2026 wholesale sales for the broader furniture and home furnishings wholesale group improved through May 2026, but high mortgage rates, weak existing-home turnover, cautious retailers, elevated import duties and direct-to-retailer sourcing continue to limit traditional merchant wholesaler pricing power.",
+    "key_stats": {
+      "market_size": "$65.4 billion projected 2026 revenue in the IBIS baseline; $66.6 billion 2022 sales for NAICS 423220 in the 2022 Economic Census",
+      "growth": "0.8% projected 2021-2026 CAGR in the IBIS baseline; broader NAICS 4232 sectoral output was $112.7 billion in 2025, up 1.2% from $111.3 billion in 2024 and down 3.7% from $117.0 billion in 2023",
+      "profit_margin": "4.4% EBIT margin in 2021 in the IBIS baseline, projected to reach 5.0% in 2026",
+      "establishments": "6,517 employer establishments in NAICS 423220 in 2022 Economic Census margin-profile data; broader NAICS 4232 had 11,608 employer establishments in 2023 County Business Patterns",
+      "employment": "100,612 workers in 2021 in the IBIS baseline; projected 104,077 workers in 2026",
+      "monthly_indicator": "Broader NAICS 4232 merchant wholesale sales were $10.264 billion in May 2026, not seasonally adjusted",
+      "downstream_retail_indicator": "Furniture and home furnishings store retail sales were $11.326 billion in May 2026, seasonally adjusted",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$66.6 billion 2022 sales for NAICS 423220 Home Furnishing Merchant Wholesalers in the 2022 Economic Census",
+      "growth": "Approximately +6.1% in 2022 versus the IBIS baseline's $62.8 billion 2021 revenue, noting the 2022 figure is Census current-dollar sales and the 2021 figure is IBIS 2021-dollar revenue",
+      "establishments": "6,517 employer establishments in 2022",
+      "largest_product_segments": "Floor coverings were $26.2 billion in 2022 Census product-line sales; linens, domestics, draperies and curtains were $12.1 billion in 2022",
+      "baseline_context": "IBIS's 2021 report projected 2021-2026 revenue growth of 0.8% annually to $65.4 billion in 2026"
+    },
+    "how_it_makes_money": "Operators take title to goods, earn a wholesale gross margin, and monetize assortment, import sourcing, warehousing, credit, sales coverage, delivery reliability and access to smaller retailers or installers that lack direct factory purchasing scale. Flooring and floor coverings are the anchor category, followed by kitchenware, decorative furnishings, linens and window treatments.",
+    "cost_structure": "Purchases are the dominant cost because wholesalers resell finished goods from domestic and overseas manufacturers. Freight, warehousing, fuel, tariffs, insurance and inventory carrying costs are material because operators hold bulky or fragile goods. Wages cover sales teams, warehouse labor, drivers, purchasing and customer service. Profit is structurally thin: the IBIS baseline reported a 4.4% EBIT margin in 2021 and projected 5.0% in 2026, with margins pressured by price competition, input-cost pass-through limits, inventory markdowns and manufacturer direct selling.",
+    "major_players": [
+      "Mohawk Industries and Daltile-related distribution channels",
+      "MSI Surfaces",
+      "Shaw Industries and aligned flooring distribution networks",
+      "UCX / Belknap-Haines flooring distribution group",
+      "Bradshaw International",
+      "ARC International North America",
+      "Belknap White Group / Herregan-type regional flooring distributors",
+      "Home Depot USA and Williams-Sonoma purchasing entities appear in NAICS 423220 business listings but are primarily downstream retail or purchasing operations"
+    ],
+    "current_dynamics": "The 2025-2026 operating environment is better than the 2023-2024 destocking trough but still constrained. Broader NAICS 4232 wholesale sales reached $10.264 billion in May 2026, while retail furniture and home furnishings store sales were $11.326 billion in May 2026. Housing starts rebounded to a 1.427 million-unit annual rate in June 2026, but single-family starts were still essentially flat month to month and permits were down 2.3% from June 2025. Flooring distributors described 2025 as disappointing because high mortgage rates, home prices and weak consumer confidence held back big-ticket replacement activity. Tariffs and sourcing shifts are pushing wholesalers to diversify from China toward Vietnam, India, Mexico and domestic suppliers where feasible, but category-specific duties on wood-product derivatives and broad reciprocal tariff actions keep landed-cost risk elevated.",
+    "whats_growing": "Value-oriented imported goods, private-label assortments, domestic and nearshore sourcing alternatives, luxury vinyl tile, porcelain and ceramic surfaces, quick-ship distribution, e-commerce replenishment, data-driven inventory planning, and distributors serving independent dealers, installers and remodelers that cannot buy directly from factories at scale.",
+    "whats_shrinking": "Traditional middleman volume where large retailers or vertically integrated manufacturers bypass wholesalers, discretionary premium home decor tied to weak housing turnover, China-dependent sourcing where tariffs raise landed costs, slow-moving inventory carried after the 2021-2022 home-goods boom, and small wholesalers without freight scale or digital ordering capability.",
+    "recent_developments": [
+      "2026-07-17: Census reported June 2026 housing starts at a 1.427 million-unit annual rate, 3.5% above June 2025, while permits were 2.3% below June 2025.",
+      "2026-07-08: Census/FRED reported May 2026 broader NAICS 4232 wholesale sales of $10.264 billion, not seasonally adjusted.",
+      "2026-05-15: IBISWorld renamed the report from Home Furnishing Wholesaling in the US to Home Furnishings Wholesaling in the US.",
+      "2026-03-30: Furniture Today reported 2025 U.S. furniture imports fell 11% to $22.7 billion, with Vietnam at $9.5 billion and 42% share while China fell 39% to $3.6 billion and 16% share.",
+      "2025-12-31: The White House delayed scheduled 2026 tariff increases for upholstered furniture, kitchen cabinets and vanities while keeping a 25% tariff in place on covered products.",
+      "2025-11-03: Floor Covering News described 2025 flooring distribution as weak after three years of downturns tied to high mortgage rates, high home prices and soft confidence."
+    ],
+    "outlook": "The 2026-2030 outlook is slow-growth rather than expansionary. Housing completions, remodeling, installer demand and retail restocking should support a modest recovery if mortgage rates ease and home turnover improves, but the industry remains mature and fragmented. Wholesalers with import compliance, diversified sourcing, freight scale, digital ordering, strong regional delivery and installer relationships should outperform. Margin risk remains high because tariffs, ocean freight, domestic trucking, inventory write-downs and retailer bargaining power can move faster than wholesalers can reprice contracts.",
+    "themes": [
+      "Housing-cycle exposure",
+      "Retailer destocking and restocking cycles",
+      "Manufacturer direct selling and disintermediation",
+      "Import sourcing diversification",
+      "Tariff and landed-cost volatility",
+      "Flooring-led category mix",
+      "Low concentration and regional distribution networks",
+      "Inventory discipline and quick-ship logistics",
+      "Value orientation in consumer home goods",
+      "Consolidation among flooring distributors"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/home-furnishing-wholesaling-in-the-us.txt",
+      "https://www.census.gov/naics/?chart=2022&details=423220&input=423220",
+      "https://data.census.gov/table/ECNGRMARGPROF2022.EC2242GRMARGPROF",
+      "https://fred.stlouisfed.org/series/IPUGN4232T300000000",
+      "https://fred.stlouisfed.org/series/S4232SM144NCEN",
+      "https://fred.stlouisfed.org/series/MRTSSM442USS",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://www.census.gov/wholesale/current/index.html",
+      "https://help.ibisworld.com/en/articles/12466682-us-industry-report-title-changes",
+      "https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-adjusts-imports-of-timber-lumber-and-their-derivative-products-into-the-united-states/",
+      "https://www.furnituretoday.com/research-and-analysis/shifting-tides-vietnam-dominates-u-s-imports-as-china-recedes/",
+      "https://www.fcnews.net/2025/11/top-20-distributors-2025/",
+      "https://www.msisurfaces.com/corporate/company-profile.aspx",
+      "https://mohawkind.com/about/",
+      "https://www.naics.com/naics-code-description/?code=423220&v=2022"
+    ],
+    "one_sentence": "Home furnishing wholesalers buy carpets, rugs, linens, kitchenware, decorative furnishings and window treatments from domestic and foreign producers and resell them to retailers, flooring dealers, installers, department stores and other businesses, with demand tied closely to housing turnover, renovation spending, retail inventory cycles and import costs.",
+    "slug": "home-furnishing-wholesaling-in-the-us"
+  },
+  {
+    "title": "Home Furnishings Stores in the US",
+    "sector": "Retail",
+    "one_liner": "A mature specialty retail channel selling decor, kitchenware, textiles, window treatments and related home goods, squeezed between housing-cycle demand and online/big-box competition.",
+    "overview": "Home furnishings stores sell new home goods from fixed retail locations, including decorative accessories, kitchenware, housewares, textiles, window treatments, floor coverings and smaller furniture/sleep products. The 2022 IBISWorld baseline framed the industry as mature, low-margin and exposed to e-commerce substitution, with 2021 revenue of $30.5 billion after a 3.7% rebound from the 2020 store-closure shock. Current public data point to a larger NAICS 4422 output base of $65.3 billion in 2025, up from $62.8 billion in 2024, while broader furniture and home furnishings store retail sales totaled $135.6 billion in 2025, up 2.2% from 2024. The operating story in 2025-2026 is mixed: demand is supported by home refresh cycles and omnichannel retailers, but pressured by weak existing-home turnover, cautious discretionary spending, tariff-related landed-cost inflation and continued online share gains.",
+    "key_stats": {
+      "market_size": "$65.3 billion in 2025 NAICS 4422 sectoral output; public proxy for home furnishings stores",
+      "growth": "4.0% nominal output growth in 2025 versus 2024",
+      "broader_retail_sales": "$135.6 billion in 2025 furniture and home furnishings store sales, up 2.2% from 2024",
+      "recent_sales_momentum": "$53.8 billion in January-May 2026 furniture and home furnishings store sales, down 2.8% from January-May 2025",
+      "employment": "386,500 employees in July 2026 for furniture and home furnishings stores, NAICS 442",
+      "ecommerce_context": "U.S. e-commerce accounted for 16.9% of total retail sales in Q1 2026, up 9.8% year over year",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$30.5 billion in 2021 revenue in the August 2022 IBISWorld baseline file, stated in 2021 dollars",
+      "growth": "3.7% expected 2021 rebound after an 11.6% decline in 2020; projected 2021-2027 CAGR of 0.02%",
+      "profit_margin": "1.9% EBIT margin in 2021, down from 3.7% in 2016",
+      "establishments": "14,760 establishments in 2021, projected to decline to 14,132 by 2026",
+      "product_mix_2021": "52.5% decorative accessories and home furnishings; 17.4% kitchenware/small appliances/electronics/nonperishables/cleaning; 10.8% furniture and sleep; 7.8% window, wall and floor coverings; 7.1% textiles; 4.4% other and repairs"
+    },
+    "how_it_makes_money": "Stores buy finished home goods from manufacturers and wholesalers, merchandise them through showrooms and omnichannel storefronts, and earn gross margin on retail markups plus ancillary revenue from delivery, installation, design services, warranties, private-label credit-card economics and gift-card breakage. Large chains improve margins through private labels, import sourcing, store fulfillment, loyalty data and vendor scale, while independents compete on curation, service and local design expertise.",
+    "cost_structure": "Purchases of merchandise are the dominant cost, followed by store labor, occupancy, freight, fulfillment, advertising, technology and shrink. In 2025-2026, tariff exposure, ocean freight volatility and inventory financing are key margin variables; wages remain meaningful, with BLS reporting June 2026 average hourly earnings of $29.92 for all employees in furniture and home furnishings stores and $25.21 for production and nonsupervisory employees. The baseline 2022 file showed low profitability, with 2021 EBIT margin at 1.9% and 2026 margin expected around 2.0%.",
+    "major_players": [
+      "Williams-Sonoma Inc. / Pottery Barn / West Elm",
+      "RH",
+      "At Home Group",
+      "The Container Store",
+      "Bed Bath & Beyond brand under Beyond/Overstock successor structure",
+      "Crate & Barrel",
+      "Wayfair, Amazon, Target, Walmart and HomeGoods/TJX as major external competitors"
+    ],
+    "current_dynamics": "The channel is no longer in a pandemic rebound; 2025 was a stabilization year and early 2026 softened. Public NAICS 4422 output rose 4.0% in 2025, but broader monthly store sales for furniture and home furnishings declined 2.8% in January-May 2026 versus the same 2025 period. Housing remains the demand hinge: 2025 existing-home sales were about 4.06 million, essentially a 30-year low, limiting move-related furnishing purchases. Tariffs added landed-cost pressure in 2025, with Federal Reserve research finding 2025 tariff pass-through of 15%-20% in high-exposure categories and a 4% spending decline at the mean tariff-exposure increase. E-commerce keeps taking share, reaching 16.9% of total U.S. retail sales in Q1 2026.",
+    "whats_growing": "Omnichannel fulfillment, private-label home brands, higher-end design-led concepts, seasonal decor, value-oriented trade-down assortments, store-as-showroom models, B2B/design trade programs and retailers with flexible sourcing outside China are gaining share. Williams-Sonoma reported fiscal 2025 net revenue of $7.81 billion, up 1.2%, with comparable brand revenue up 3.5%, indicating that strong brands with digital scale can still grow in a soft category.",
+    "whats_shrinking": "Undifferentiated mall and big-box specialty formats, debt-heavy store fleets, middle-market discretionary home refresh purchases, weakly capitalized independents and categories dependent on housing turnover are losing ground. Bed Bath & Beyond's legacy store base disappeared after 2023 bankruptcy, and At Home's 2025 restructuring reduced its footprint from roughly 260 stores at filing to 229 stores after exit.",
+    "recent_developments": [
+      "2023-06: Overstock agreed to acquire Bed Bath & Beyond intellectual property and digital assets for $21.5 million after the legacy retailer's Chapter 11 filing.",
+      "2025-06: At Home filed for Chapter 11 protection and identified 26 stores for closure amid weak demand, inflation and tariff pressure.",
+      "2025-10: At Home exited Chapter 11 after eliminating nearly all of its $2.0 billion funded debt and securing $500 million in exit financing, operating 229 stores in 39 states.",
+      "2026-05: Census reported Q1 2026 U.S. retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-07: FRED/Census data through May 2026 showed furniture and home furnishings store sales down 2.8% for January-May 2026 versus January-May 2025."
+    ],
+    "outlook": "The 2026-2030 outlook is low-growth and uneven. A housing recovery would unlock move-related demand, but elevated prices, mortgage-rate sensitivity and tight affordability keep the base case restrained. Store survivors should gain from consolidation, private-label sourcing, better inventory discipline and omnichannel fulfillment, while weaker chains remain vulnerable to tariff shocks, rent burdens and online price transparency. Expect modest nominal growth, flat-to-down unit volumes in weak housing periods, and continued migration of discovery and transactions to digital channels.",
+    "themes": [
+      "Mature specialty retail",
+      "Housing-cycle exposure",
+      "E-commerce substitution",
+      "Big-box and marketplace competition",
+      "Tariff and import-cost pressure",
+      "Private-label margin defense",
+      "Store fleet rationalization",
+      "Value versus premium bifurcation",
+      "Omnichannel fulfillment"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/home-furnishings-stores-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/IPUHN4422T300000000",
+      "https://fred.stlouisfed.org/data/MRTSSM442USN",
+      "https://www.bls.gov/iag/tgs/iag442.htm",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://www.sec.gov/Archives/edgar/data/886158/000119312523166026/d466174d8k.htm",
+      "https://ebs.publicnow.com/view/CC35C1E88DCA804F8A531788617A5AC27E93E3EA",
+      "https://ir.rh.com/financials-filings/sec-filings/content/0001558370-25-004329/rh-20250201x10k.htm",
+      "https://www.retaildive.com/news/at-home-exits-bankruptcy-eliminates-2b-debt-most-stores-open/803838/",
+      "https://www.federalreserve.gov/econres/feds/paying-more-and-buying-less-2025-tariffs-and-us-household-spending.htm",
+      "https://www.pbs.org/newshour/economy/2025-home-sales-stuck-at-30-year-low"
+    ],
+    "one_sentence": "In 2025, publicly reported NAICS 4422 home furnishings store output reached $65.3 billion, up 4.0% from 2024, but 2026 store-channel momentum weakened as furniture and home furnishings retail sales fell 2.8% year over year for January-May 2026.",
+    "slug": "home-furnishings-stores-in-the-us"
+  },
+  {
+    "title": "Home Furniture Rental",
+    "sector": "Consumer Services",
+    "one_liner": "A small, declining rental niche that benefits when households are mobile, credit-constrained or unwilling to buy furniture outright.",
+    "overview": "Home furniture rental companies rent or lease household furniture such as sofas, beds, dining sets, lamps, tables and television stands to consumers, students, relocating households and renters with temporary needs. The industry is distinct from broader rent-to-own chains that also lease appliances, electronics and tires, but the same customer economics matter: households use rental when upfront cash, credit access, mobility or timing make ownership less attractive. The 2022 IBIS baseline described a declining, countercyclical industry with $599.8 million in revenue; applying the baseline 2022-2027 decline path implies an estimated 2025 market size near $578 million and 2026 near $571 million. Current 2025-2026 conditions are mixed: higher rental vacancy, lower homeownership and still-elevated credit costs support flexible furnishing demand, while rising disposable income, discount furniture retailers, online furniture buying and store closures continue to shrink the traditional brick-and-mortar home furniture rental base.",
+    "key_stats": {
+      "market_size": "2025 estimated $578 million for US home furniture rental, extrapolated from the 2022 IBIS baseline of $599.8 million and its 2022-2027 forecast decline path",
+      "growth": "2025 estimated -1.2% annual decline for the narrow home furniture rental industry; the adjacent US party and furniture rental market reached $5.9 billion in 2025 with 1.8% five-year annual growth",
+      "baseline_projection": "2026 estimated $571 million if the 2022-2027 IBIS decline path continues",
+      "profitability": "2022 baseline profit was $59 million, equal to a 9.8% margin; large lease-to-own operators still show materially higher gross margins in store-based rental than in virtual retail-partner models",
+      "stores_and_employment_context": "The broader US rent-to-own sector reported 5,798 brick-and-mortar stores and 42,115 total employees in 2024",
+      "demand_indicators": "US rental vacancy rate was 7.1% in 2025 and 7.3% in Q2 2026; US homeownership was 65.2% in 2025 and 65.0% in Q2 2026",
+      "financing_context": "The federal funds target range was 3.50%-3.75% on June 18, 2026, after 2025 cuts from the 4.25%-4.50% range at year-end 2024",
+      "consumer_income_context": "US disposable personal income was $22.866 trillion in 2025, up from $21.918 trillion in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$599.8 million in 2022 revenue",
+      "growth": "Revenue increased 2.1% in 2022 but declined at a 3.5% annualized rate over 2017-2022",
+      "profit": "$59 million in 2022 profit",
+      "profit_margin": "9.8% in 2022",
+      "establishments": "606 establishments in 2022",
+      "enterprises": "509 enterprises in 2022",
+      "employment": "2,292 employees in 2022",
+      "wages": "$143 million in 2022 wages",
+      "industry_gross_product": "$233 million in 2022"
+    },
+    "how_it_makes_money": "Operators earn recurring rental and lease payments on household furniture, fees tied to delivery or service, optional lease renewals, early purchase or buyout payments, sales of previously rented merchandise and, for franchised systems, wholesale merchandise sales and royalties. Store-based rent-to-own models buy furniture at wholesale, rent it multiple times when possible and may eventually transfer title to the customer; relocation-oriented rental companies focus more on temporary furnishing packages, delivery, setup, pickup and corporate or student moves.",
+    "cost_structure": "Major costs are rental merchandise purchases and depreciation, delivery fleet and logistics, store/showroom occupancy, warehouse handling, repair and refurbishment, labor, advertising, bad debt or lease charge-offs, insurance, technology and compliance. In 2022, wages equaled about 23.8% of narrow-industry revenue and profit margin was 9.8%. In 2025, Upbound reported cost of rentals and fees at 39.8% of rentals and fees revenue, Rent-A-Center segment gross margin at 67.0%, Rent-A-Center operating margin at 13.2%, and merchandise losses of $366.1 million across its lease-to-own business, illustrating the importance of charge-off control and inventory reuse.",
+    "major_players": [
+      "CORT Furniture Rental",
+      "Aaron's",
+      "Rent-A-Center",
+      "Upbound Group / Acima",
+      "Brook Furniture Rental",
+      "Fernish",
+      "Feather"
+    ],
+    "current_dynamics": "The market is caught between two opposing forces. Demand improves when households rent longer, move for work or school, delay home purchases, face tight cash flow, or need temporary furniture during relocation, renovation or staging. At the same time, the traditional store-based home furniture rental model continues to lose ground to low-cost furniture retailers, online marketplaces, buy-now-pay-later financing, virtual lease-to-own platforms and better omnichannel convenience. Public company data shows this split: Upbound's Acima virtual partner channel grew in 2025, while its Rent-A-Center store segment revenue fell 4.2% and same-store sales declined 2.2%.",
+    "whats_growing": "Flexible and digital lease-to-own, retailer-integrated virtual leasing, corporate relocation packages, student and military packages, apartment-community partnerships, used-rental clearance sales, and sustainability messaging around reuse are growing. Adjacent party and furniture rental demand also grew through 2025 as events, staging, renovation and transitional housing needs recovered.",
+    "whats_shrinking": "Traditional brick-and-mortar home furniture rental stores, long-term household furniture rental for customers who can instead buy cheap furniture, and weaker franchise or small local operators are shrinking. Store rationalization remains visible: Upbound's Rent-A-Center locations declined from 2,176 at year-end 2024 to 2,075 at year-end 2025, and the 2022 baseline expected home furniture rental establishments to keep contracting through 2027.",
+    "recent_developments": [
+      "2024-10: IQVentures completed its acquisition of The Aaron's Company for about $504 million in enterprise value, taking Aaron's off the NYSE.",
+      "2025-01: Upbound completed its Brigit acquisition for about $395.4 million, expanding its financial-health and customer-data strategy around underserved consumers.",
+      "2025: Upbound's Rent-A-Center segment revenue fell 4.2% to $1.897 billion and same-store sales declined 2.2%.",
+      "2025: Upbound ended the year with 2,075 Rent-A-Center locations, down from 2,176 at year-end 2024.",
+      "2025: The adjacent US party and furniture rental industry reached $5.9 billion in revenue, with 3,751 companies and 1.8% five-year annual growth.",
+      "2026-Q2: US rental vacancy was 7.3% and homeownership was 65.0%, keeping mobility and rental-housing demand relevant for furniture rental."
+    ],
+    "outlook": "The narrow home furniture rental industry is likely to remain in slow decline through 2026 unless weaker household finances or a sharper housing downturn lift countercyclical demand. Elevated financing costs and rental mobility support rental use, but disposable-income growth, online furniture retail, discount chains and buy-now-pay-later options reduce the need to rent furniture from a dedicated store. Operators with stronger delivery networks, used-inventory monetization, apartment and relocation partnerships, and virtual leasing capabilities should outperform small showroom-dependent firms.",
+    "themes": [
+      "Countercyclical Demand",
+      "Rent-to-Own Consolidation",
+      "Digital Leasing",
+      "Store Rationalization",
+      "Housing Mobility",
+      "Credit-Constrained Consumers",
+      "Low-Cost Retail Competition",
+      "Circular Furniture Reuse",
+      "Regulatory Scrutiny"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Home Furniture Rental, IBISWorld extract, last updated July 1, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/home-furniture-rental.txt'}",
+      "{'title': 'APRO 2025 State of the Rent-to-Own Industry', 'url': 'https://www.rtohq.org/rent-to-own/industry-reports/2025-review/'}",
+      "{'title': 'Kentley Insights Party and Furniture Rental 2025 U.S. Market Research Report', 'url': 'https://www.kentleyinsights.com/party-and-furniture-rental-industry-market-research-report/'}",
+      "{'title': 'Upbound Group 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/933036/000093303626000008/upbd-20251231.htm'}",
+      "{'title': \"Aaron's / IQVentures merger closing announcement, October 3, 2024\", 'url': 'https://www.sec.gov/Archives/edgar/data/1821393/000182139324000136/mergerclosingannouncement-.htm'}",
+      "{'title': 'CORT company profile and services', 'url': 'https://www.cort.com/about-cort'}",
+      "{'title': 'US Census Housing Vacancies and Homeownership, Q2 2026', 'url': 'https://www.census.gov/housing/hvs/current/index.html'}",
+      "{'title': 'FRED / BEA Disposable Personal Income annual data', 'url': 'https://fred.stlouisfed.org/graph/?graph_id=1116328'}",
+      "{'title': 'Federal Reserve policy rate, June 18, 2026', 'url': 'https://www.federalreserve.gov/economy-at-a-glance-policy-rate.htm'}"
+    ],
+    "one_sentence": "US home furniture rental remains a sub-$1 billion consumer-services industry built around short-term furnishing needs, lease-to-own access and relocation demand, but it is pressured by cheaper furniture retail, online substitutes, better consumer credit access and shrinking store networks.",
+    "slug": "home-furniture-rental"
+  },
+  {
+    "title": "Home Medical Equipment Rentals",
+    "sector": "Healthcare",
+    "one_liner": "Home medical equipment rental companies rent oxygen, respiratory, sleep-therapy, mobility and other durable medical equipment to patients receiving care at home.",
+    "overview": "Home medical equipment rental operators supply and service durable medical equipment used in the home, including oxygen concentrators and tanks, ventilators, CPAP/BiPAP devices, hospital beds, wheelchairs, walkers, scooters and related supplies. Demand is tied to Medicare enrollment, chronic respiratory and mobility conditions, hospital discharge patterns and payer policies that shift care into lower-cost home settings. The industry remains highly regulated because Medicare Part B and managed-care plans determine much of the pricing, documentation and billing workflow.",
+    "key_stats": {
+      "market_size": "2025: $5.6 billion in U.S. home health equipment rental industry sales",
+      "growth": "2020-2025: 4.2% CAGR",
+      "companies": "2025: 565 companies",
+      "employer_establishments": "2023: 1,998 employer establishments in NAICS 532283",
+      "senior_population": "2024: 61.2 million U.S. residents age 65+, up 3.1% from 2023",
+      "public_player_signal": "2026 Q1: AdaptHealth net revenue was $819.8 million, up 5.4% year over year; VieMed net revenue was $75.4 million, up 28.0% year over year",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $4.999 billion in Census/FRED employer-firm revenue for home health equipment rental",
+      "growth": "2021-2022: 5.3% revenue growth from $4.749 billion to $4.999 billion",
+      "baseline_context": "The 2021 IBIS baseline reported 2021 industry revenue of $4.759 billion and projected 2021-2027 annualized growth of 1.51%."
+    },
+    "how_it_makes_money": "Operators earn recurring monthly rental payments and service fees from Medicare, Medicare Advantage, Medicaid, commercial insurers and patients. Revenue is generated by delivering equipment, documenting medical necessity, billing covered rental periods, servicing and replacing equipment, and selling or resupplying masks, tubing, oxygen supplies, PAP supplies, wound-care items and other consumables.",
+    "cost_structure": "Major costs are equipment purchases and depreciation, delivery fleet and logistics, respiratory therapists and technicians, billing and collections staff, payer denials and documentation work, call centers, oxygen and supply procurement, branch rent, software, compliance, accreditation, insurance and bad debt. Margins depend on utilization of rental assets, denial rates, payer mix, route density and whether operators can shift more revenue into resupply, capitated contracts or higher-acuity respiratory services.",
+    "major_players": [
+      "AdaptHealth",
+      "Lincare",
+      "Apria and Byram Healthcare / Owens & Minor Patient Direct",
+      "Rotech Healthcare",
+      "VieMed Healthcare",
+      "Regional and local Medicare-enrolled DME suppliers"
+    ],
+    "current_dynamics": "The market is being pulled in two directions. Volumes are supported by aging demographics, sleep apnea diagnosis, chronic respiratory disease and health-system pressure to discharge patients faster. Pricing and cash flow remain constrained by Medicare fee schedules, Medicare Advantage prior authorization, documentation burdens, competitive bidding uncertainty and payer audits. Larger operators are gaining share because they can manage billing complexity, national payer contracts, digital intake and route density better than small local suppliers.",
+    "whats_growing": "Respiratory therapy, home ventilation, oxygen starts, PAP therapy, PAP resupply, remote patient engagement, capitated payer contracts, hospital-to-home discharge partnerships and chronic-care products are growing. Public-company results show stronger 2026 growth in sleep and respiratory lines than in some legacy wellness or mobility categories.",
+    "whats_shrinking": "Lower-margin undifferentiated rentals, custom rehabilitation assets, small independent DME suppliers exposed to reimbursement cuts, cash-pay mobility items and product categories with heavy denial risk are under pressure. Some rental revenue is also shifting toward sales, resupply and capitated reimbursement rather than traditional month-to-month fee-for-service rentals.",
+    "recent_developments": [
+      "2025-05: Resmed acquired VirtuOx to expand at-home sleep, respiratory and cardiac diagnostic testing.",
+      "2025-06: Census reported the U.S. age-65+ population reached 61.2 million in 2024, up 3.1% from 2023.",
+      "2025-11: CMS finalized CY 2026 Home Health PPS rule changes that included DMEPOS Competitive Bidding Program updates.",
+      "2026-01: CMS implemented the CY 2026 DMEPOS fee schedule update and posted 2026 quarterly fee schedule files.",
+      "2026-05: AdaptHealth reported 2026 Q1 net revenue of $819.8 million, up 5.4% year over year, and rental revenue of $272.4 million.",
+      "2026-05: VieMed reported 2026 Q1 net revenue of $75.4 million, up 28.0% year over year, with rental revenue at 68% of revenue."
+    ],
+    "outlook": "Industry revenue should keep expanding modestly through 2026 as demographic demand and home-based care adoption offset reimbursement friction. The best-positioned operators will be scaled respiratory and sleep providers with strong payer relationships, documentation automation, resupply programs and dense delivery networks. Downside risk comes from renewed competitive bidding, Medicare Advantage payment friction, labor costs and equipment-cost inflation; upside comes from faster hospital-at-home adoption, more sleep testing and higher-acuity respiratory care moving into the home.",
+    "themes": [
+      "Aging population",
+      "Care shifting from hospital to home",
+      "Medicare reimbursement pressure",
+      "Competitive bidding reset",
+      "Sleep and respiratory care growth",
+      "Payer prior authorization and documentation burden",
+      "Consolidation and scale advantages",
+      "Digital intake, monitoring and resupply automation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/home-medical-equipment-rentals.txt",
+      "https://fred.stlouisfed.org/data/REVEF532291ALLEST",
+      "https://data.census.gov/profile/532283_-_Home_Health_Equipment_Rental?codeset=naics~532283",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Home-Health-Equipment-Rental-Research-43309469/",
+      "https://www.cms.gov/medicare/payment/fee-schedules/dmepos-competitive-bidding",
+      "https://www.cms.gov/medicare/payment/fee-schedules/dmepos/dmepos-fee-schedule",
+      "https://www.cms.gov/medicare/payment/prospective-payment-systems/home-health/home-health-prospective-payment-system-regulations-and-notices/cms-1828-f",
+      "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html",
+      "https://www.sec.gov/Archives/edgar/data/1725255/000162828026030120/ahco-20260505x8k_ex991.htm",
+      "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000028/q12026earningsrelease.htm",
+      "https://newsroom.resmed.com/news-releases/news-details/2025/Resmed-Acquires-VirtuOx/default.aspx",
+      "https://www.lincare.com/en/why-lincare/about-lincare",
+      "https://www.sec.gov/Archives/edgar/data/75252/000155837025011059/omi-20250630x10q.htm"
+    ],
+    "one_sentence": "The industry is growing again as aging, chronic respiratory disease and hospital-at-home demand offset Medicare reimbursement pressure and a tighter competitive-bidding regime.",
+    "slug": "home-medical-equipment-rentals"
+  }
+]

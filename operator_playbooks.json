@@ -1,0 +1,2414 @@
+[
+  {
+    "slug": "local-services-rollup",
+    "title": "The Local Services Rollup",
+    "lens": "Main Street Services",
+    "thesis": "Fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "slugs": [
+      "hair-and-nail-salons-in-the-us",
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises",
+      "handyman-service-franchises",
+      "janitorial-services-in-the-us",
+      "dance-studios",
+      "health-and-wellness-spas",
+      "massage-franchises"
+    ],
+    "operator_questions": [
+      "Can dispatch, booking, marketing, and procurement be centralized without killing local demand?",
+      "Is labor scarce enough that recruiting and retention are the real moat?",
+      "Can price increases be passed through without churn?"
+    ],
+    "industries": [
+      {
+        "slug": "hair-and-nail-salons-in-the-us",
+        "title": "Hair & Nail Salons in the US",
+        "sector": "Consumer Services",
+        "one_sentence": "US hair and nail salons generated an estimated $90.9 billion in 2025 revenue and are projected to reach about $92.5 billion in 2026, with growth supported by service-price inflation, premium hair color and nail services, and high self-employment despite tight labor and occupancy costs.",
+        "market_size": "2025: $90.9 billion estimated US hair and nail salon revenue; 2026: $92.5 billion projected revenue",
+        "growth": "2026: about 1.8% projected revenue growth from 2025; 2020-2026: about 2.2% CAGR implied by IBISWorld-cited public summaries",
+        "profit_margin": "2025: public IBISWorld-cited salon benchmarks put typical net margin around 8.2% to 17%, varying by booth-rental, commission, location and service mix",
+        "themes": [
+          "fragmented local competition",
+          "premiumization of color and nail services",
+          "salon suites and independent professionals",
+          "digital booking and loyalty",
+          "service-price inflation",
+          "labor and worker-classification scrutiny"
+        ]
+      },
+      {
+        "slug": "hair-salons",
+        "title": "Hair Salons",
+        "sector": "Consumer Services",
+        "one_sentence": "US hair salons generated about $60.0 billion in 2025 after a slight pullback from 2024, with inflation-supported pricing and premium services balancing weaker visit frequency among budget-conscious clients.",
+        "market_size": "2025: $60.0 billion US hair salon market revenue",
+        "growth": "2025: -1.0% versus 2024; 2020-2025 CAGR: 5.5%",
+        "profit_margin": "n/a",
+        "themes": [
+          "Fragmented local competition",
+          "Recurring haircut demand",
+          "Premium color and extensions",
+          "Men’s grooming growth",
+          "Digital booking and retention",
+          "Salon-suite and booth-rental models"
+        ]
+      },
+      {
+        "slug": "gym-and-fitness-franchises",
+        "title": "Gym & Fitness Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "The US gym and fitness franchise industry operates branded franchised fitness centers and studios that earn recurring membership, class, training, and ancillary revenue while relying on franchisor systems for site selection, marketing, technology, equipment purchasing, and operating standards.",
+        "market_size": "2025: estimated $4.4 billion US gym and fitness franchise operator revenue, using the baseline IBISWorld 2025 forecast adjusted for 2024-2025 post-pandemic visitation, membership, and pricing gains; broader US gyms, health and fitness clubs revenue was $43.3 billion in 2025.",
+        "growth": "2025: estimated +7% to +9% revenue growth for franchised gym and fitness operators; HFA reported 2025 visits per location up 4.2% and HVLP visits up 4.5%, while its 2025 benchmarking report showed 2024 median facility revenue growth of 9.9%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "HVLP scale wins budget consumers",
+          "Boutique fitness shifts toward Pilates, recovery, and measurable outcomes",
+          "Franchisees need stronger unit economics and multi-unit scale",
+          "Technology, AI, apps, and wearables are retention tools",
+          "Fitness is converging with preventive health and wellness",
+          "Suburban and secondary markets are more attractive than saturated urban cores"
+        ]
+      },
+      {
+        "slug": "gym-health-and-fitness-clubs-in-the-us",
+        "title": "Gym, Health & Fitness Clubs in the US",
+        "sector": "Consumer Services",
+        "one_sentence": "The industry sells recurring access to fitness facilities, classes and training, with 2025 demand at record highs but margins still shaped by rent, labor, equipment reinvestment and intense local price competition.",
+        "market_size": "2025: $43.3 billion in US gym, health and fitness club revenue; 2026: about $47.0 billion market size as of February 2026.",
+        "growth": "2020-2025: 2.7% CAGR in market revenue; 2025: fitness facility memberships rose 5.2% from 2024; 2024: surveyed operators reported median revenue growth of 9.9%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Record membership penetration",
+          "High-value low-price gyms",
+          "Premium wellness clubs",
+          "Strength training and recovery",
+          "Boutique fitness reset",
+          "Employer and insurance access"
+        ]
+      },
+      {
+        "slug": "hvac-service-franchises",
+        "title": "HVAC Service Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "The US HVAC Service Franchises industry is a small but resilient home-services franchise niche, supported by recurring repair demand, aging building systems, energy-efficiency upgrades and national franchisors that help local operators with branding, dispatch, software, training and purchasing power.",
+        "market_size": "2025: about $1.2 billion in US franchise outlet revenue; 2026: estimated $1.23 billion-$1.28 billion based on baseline 2025 level and low-single-digit 2026 demand indicators.",
+        "growth": "2020-2025: +4.8% CAGR in the baseline forecast; 2026: low-single-digit estimated revenue growth as repair/replacement offsets weaker new housing starts.",
+        "profit_margin": "2025: 5.6% EBIT margin in the baseline forecast, up from 4.8% in 2020.",
+        "themes": [
+          "Essential home services",
+          "Franchise consolidation",
+          "Aging housing stock",
+          "Heat pump adoption",
+          "Low-GWP refrigerant transition",
+          "Energy efficiency incentives"
+        ]
+      },
+      {
+        "slug": "handyman-service-franchises",
+        "title": "Handyman Service Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "US handyman service franchises provide residential and light-commercial maintenance, repair, installation, painting, plumbing-adjacent, electrical-adjacent, flooring, deck, fence and small remodeling services through branded local franchisees.",
+        "market_size": "2026: about $5.2B US handyman-service franchise revenue, versus a 2021 baseline forecast of $5.0B by 2026",
+        "growth": "2026: about +4.1% annual growth according to 2026 industry commentary citing IBISWorld; JCHS projects owner-occupied renovation and repair spending growth slowing to +0.5% by Q2 2027",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging housing stock",
+          "Do-it-for-me home maintenance",
+          "Franchise lead-generation advantage",
+          "Skilled labor shortage",
+          "Small-project contractor gap",
+          "Aging-in-place repairs"
+        ]
+      },
+      {
+        "slug": "janitorial-services-in-the-us",
+        "title": "Janitorial Services in the US",
+        "sector": "Business Services",
+        "one_sentence": "Janitorial Services in the US covers commercial, industrial, institutional and residential cleaning of building interiors, transportation equipment interiors and windows, with 2026 demand supported by outsourced facility care, healthcare and education work, return-to-office activity and higher standards for cleanliness.",
+        "market_size": "$112.0 billion in 2026, using broader IBIS-cited commercial janitorial market references; narrower Grand View Research estimate is $84.00 billion in 2026",
+        "growth": "1.8% year-over-year in 2026 in IBIS-cited cleaning-industry references; narrower Grand View Research forecast CAGR is 3.3% from 2026 to 2033",
+        "profit_margin": "n/a",
+        "themes": [
+          "Fragmented local competition",
+          "Recurring commercial contracts",
+          "Labor scarcity and wage pressure",
+          "Return-to-office versus office vacancy",
+          "Green cleaning and sustainability requirements",
+          "Robotics and smart-cleaning technology"
+        ]
+      },
+      {
+        "slug": "dance-studios",
+        "title": "Dance Studios",
+        "sector": "Consumer Services",
+        "one_sentence": "The U.S. dance studio industry is a fragmented discretionary-services market recovering into slow growth as youth enrollment, adult wellness classes, competitive dance, and studio-management technology offset competition from gyms, online fitness, and other extracurricular activities.",
+        "market_size": "About $5.0 billion in U.S. dance studio revenue in 2025",
+        "growth": "2.3% U.S. revenue growth in 2025 and 0.8% CAGR from 2020 to 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "Fragmented local competition",
+          "Recurring tuition and retention economics",
+          "Youth extracurricular spending",
+          "Adult wellness and social dance",
+          "Competitive dance and performance packages",
+          "Digital registration and studio-management software"
+        ]
+      },
+      {
+        "slug": "health-and-wellness-spas",
+        "title": "Health & Wellness Spas",
+        "sector": "Consumer Services",
+        "one_sentence": "Health & Wellness Spas includes day spas, resort and hotel spas, medical spas and related wellness facilities that sell discretionary massage, skin care, body treatment, aesthetics and relaxation services to consumers.",
+        "market_size": "$23.5 billion in U.S. spa revenue in 2025",
+        "growth": "4.2% revenue growth in 2025 versus 2024",
+        "profit_margin": "n/a",
+        "themes": [
+          "self-care as routine spending",
+          "wellness travel",
+          "medical aesthetics convergence",
+          "membership-based recurring revenue",
+          "premium skin care and LED treatments",
+          "licensed labor shortages"
+        ]
+      },
+      {
+        "slug": "massage-franchises",
+        "title": "Massage Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "U.S. massage franchises provide recurring, appointment-based massage and adjacent wellness services through branded local outlets, with 2025-2026 growth supported by health-and-wellness demand, medicalized positioning and multi-unit franchise expansion.",
+        "market_size": "$4.5 billion estimated U.S. massage-franchise revenue in 2025; $5.2 billion 2026 forecast from the 2021 IBISWorld baseline trajectory.",
+        "growth": "15.8% forecast CAGR for U.S. massage-franchise revenue from 2021 to 2026 in the baseline; broader U.S. massage therapy services were forecast at 5.5% CAGR from 2025 to 2034 by Emergen Research and 7.1% CAGR from 2024 to 2030 by Grand View Research.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Wellness-as-healthcare",
+          "Recurring memberships",
+          "Therapist labor constraint",
+          "Franchise white-space expansion",
+          "Pain management and recovery",
+          "Skincare and service diversification"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Consumer Services",
+        9
+      ],
+      [
+        "Business Services",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Fragmented local competition",
+        3
+      ],
+      [
+        "Aging housing stock",
+        2
+      ],
+      [
+        "fragmented local competition",
+        1
+      ],
+      [
+        "premiumization of color and nail services",
+        1
+      ],
+      [
+        "salon suites and independent professionals",
+        1
+      ],
+      [
+        "digital booking and loyalty",
+        1
+      ],
+      [
+        "service-price inflation",
+        1
+      ],
+      [
+        "labor and worker-classification scrutiny",
+        1
+      ],
+      [
+        "clean beauty and formaldehyde regulation",
+        1
+      ],
+      [
+        "low capital intensity",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Hair & Nail Salons in the US",
+        "development": "2025-07-04: Congress extended the Section 45B FICA tip tax credit to salon, spa and barbershop employers, according to the Professional Beauty Association."
+      },
+      {
+        "industry": "Hair & Nail Salons in the US",
+        "development": "2025-08-10: IBISWorld/Statista market-growth data indicated the 2025 hair-salon market slipped slightly after its post-COVID rebound."
+      },
+      {
+        "industry": "Hair Salons",
+        "development": "2024-12: Regis completed the acquisition of Alline Salon Group, adding 314 salons from its largest franchisee."
+      },
+      {
+        "industry": "Hair Salons",
+        "development": "2025-06: Statista/IBISWorld data showed the combined US hair, skin and nail salon market had not fully recovered to pre-2020 levels by 2023."
+      },
+      {
+        "industry": "Gym & Fitness Franchises",
+        "development": "2025-01: Planet Fitness promoted a $1 down and $15 per month offer for new members, reinforcing HVLP pricing pressure in franchised fitness."
+      },
+      {
+        "industry": "Gym & Fitness Franchises",
+        "development": "2025-07-28: Xponential Fitness completed the divestiture of CycleBar and Rumble to Extraordinary Brands to focus on higher-priority brands and franchisee profitability."
+      },
+      {
+        "industry": "Gym, Health & Fitness Clubs in the US",
+        "development": "2025-09-30: HFA released its 2025 Fitness Industry Benchmarking Report, showing 2024 median operator revenue growth of 9.9%, median EBITDA margin of 23.6% and member retention of 66.4%."
+      },
+      {
+        "industry": "Gym, Health & Fitness Clubs in the US",
+        "development": "2025-10-30: HFA reported 2024 US fitness facility membership reached 77 million, up 5.6% from 2023, with nearly 96 million total customers."
+      },
+      {
+        "industry": "HVAC Service Franchises",
+        "development": "2025-01-01: EPA Technology Transitions rules began restricting high-GWP HFCs in new residential and light-commercial AC and heat-pump equipment, with key installation sell-through provisions extending into 2026 for qualifying pre-2025 components."
+      },
+      {
+        "industry": "HVAC Service Franchises",
+        "development": "2025-01-01: ENERGY STAR 2025 rules kept the federal air-source heat-pump tax credit at 30% of project cost up to $2,000 for qualifying installations purchased and installed from 2023-01-01 through 2025-12-31."
+      },
+      {
+        "industry": "Handyman Service Franchises",
+        "development": "2025-03: JCHS reported US remodeling spending rose from $404B in 2019 to $611B in 2022 and was expected to remain above $600B through 2025."
+      },
+      {
+        "industry": "Handyman Service Franchises",
+        "development": "2026-01: Neighborly said all 19 North American franchise brands, including Mr. Handyman, appeared on Entrepreneur's 2026 Franchise 500 for the second consecutive year."
+      }
+    ]
+  },
+  {
+    "slug": "specialty-manufacturer",
+    "title": "The Specialty Manufacturer",
+    "lens": "Industrial Operators",
+    "thesis": "Small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "slugs": [
+      "laboratory-casework-manufacturing",
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing",
+      "dental-clinical-instrument-manufacturing",
+      "drug-and-alcohol-test-kit-manufacturing",
+      "cotton-personal-care-product-manufacturing",
+      "laminated-plastics-manufacturing-in-the-us",
+      "lighting-fixtures-manufacturing-in-the-us"
+    ],
+    "operator_questions": [
+      "Is demand driven by replacement, regulation, or specification rather than discretionary volume?",
+      "Can automation or procurement improve margin without new plant risk?",
+      "Are tariffs and input costs pass-throughable?"
+    ],
+    "industries": [
+      {
+        "slug": "laboratory-casework-manufacturing",
+        "title": "Laboratory Casework Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "The industry is a small, project-driven manufacturing niche tied to lab construction, R&D budgets, healthcare research, university funding and import-sensitive steel, wood, laminate, resin and installation costs.",
+        "market_size": "2026 estimated U.S. revenue of about $2.3 billion, based on the 2021 IBIS baseline projection for Laboratory Casework Manufacturing.",
+        "growth": "2021-2026 estimated CAGR of about 4.2%, based on the 2021 IBIS baseline outlook from $1.885 billion in 2021 to about $2.3 billion in 2026.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Lab construction normalization",
+          "R&D funding sensitivity",
+          "Healthcare and biopharma demand",
+          "University and government labs",
+          "Import competition",
+          "Steel and aluminum tariff pressure"
+        ]
+      },
+      {
+        "slug": "laboratory-fume-hoods-manufacturing",
+        "title": "Laboratory Fume Hoods Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "Laboratory fume hood manufacturers sell ducted, ductless, benchtop, floor-mounted and custom containment systems whose demand rises with 2025-2026 lab construction, R&D spending, bioscience investment and safety-compliance replacement cycles.",
+        "market_size": "2026 estimated U.S. manufacturing revenue: $676.7 million; 2025 baseline U.S. manufacturing revenue: $648.4 million",
+        "growth": "2025-2026 estimated growth: 4.36%; 2020-2025 baseline CAGR: 2.9%",
+        "profit_margin": "n/a",
+        "themes": [
+          "R&D spending as the core demand driver",
+          "Energy-efficient lab ventilation",
+          "Ductless and filtered retrofit growth",
+          "Life-sciences real estate reset",
+          "U.S.-made procurement advantage",
+          "Steel and component cost volatility"
+        ]
+      },
+      {
+        "slug": "industrial-and-fluid-power-valve-manufacturing",
+        "title": "Industrial & Fluid Power Valve Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "US industrial and fluid power valve manufacturers are recovering with industrial production and infrastructure demand, but import penetration, tariff-driven metal costs and volatile oil-and-gas spending keep growth modest.",
+        "market_size": "Estimated $28.7 billion in US industry revenue in 2025, based on IBISWorld's 2022 revenue of $27.845 billion and 2022-2027 forecast path to $29.3 billion",
+        "growth": "Estimated roughly 1.0% annual revenue growth on the 2022-2027 IBISWorld forecast path; 2026 demand indicators improved with June 2026 manufacturing output up 1.1% year over year",
+        "profit_margin": "8.6% industry profit margin in 2022 baseline; 2025-2026 margins pressured by steel, aluminum, copper and component tariffs but supported by higher-value severe-service and automated valves",
+        "themes": [
+          "Industrial automation",
+          "Water infrastructure rebuild",
+          "Buy America procurement",
+          "Tariff-driven metal-cost volatility",
+          "Import competition",
+          "Severe-service specialization"
+        ]
+      },
+      {
+        "slug": "industrial-and-commercial-fan-and-blower-manufacturing",
+        "title": "Industrial & Commercial Fan & Blower Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "Industrial & Commercial Fan & Blower Manufacturing covers NAICS 333413 establishments that build stationary air purification equipment, dust and fume collectors, attic fans, commercial exhaust fans, industrial fans and blowers for buildings, factories, utilities, mines, water treatment, refrigeration and process industries.",
+        "market_size": "$6.9 billion U.S. market estimate in 2025 for industrial and commercial fans and blowers; IBIS baseline projected U.S. industry revenue of $6.8 billion in 2026.",
+        "growth": "3.1% CAGR forecast for the U.S. industrial and commercial fans and blowers market from 2025 to 2032; IBIS baseline projected 2.5% annualized U.S. industry revenue growth from 2021 to 2026.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Data center cooling and ventilation demand",
+          "Energy efficiency and FEI-rated product selection",
+          "Indoor air quality and dust/fume collection",
+          "Aftermarket parts and lifecycle service",
+          "Tariff and metals-cost exposure",
+          "Fragmented domestic manufacturing with selective consolidation"
+        ]
+      },
+      {
+        "slug": "commercial-oven-manufacturing",
+        "title": "Commercial Oven Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "Commercial Oven Manufacturing is a mature U.S. equipment niche with estimated 2025 revenue near $4.5 billion, supported by restaurant sales growth and energy-efficient kitchen upgrades but pressured by tariffs, volatile steel prices, imports and uneven restaurant traffic.",
+        "market_size": "Estimated $4.5 billion in 2025 U.S. commercial oven manufacturing revenue; baseline projection reaches $4.6 billion in 2026.",
+        "growth": "Baseline 2021-2026 CAGR of 2.2%; MAFSI-reported foodservice equipment sales grew 2.4% in 2025 Q4 and were forecast to grow 3.5% in 2026 Q1.",
+        "profit_margin": "Baseline profit margin was 6.6% in 2021 and projected at 7.1% in 2026.",
+        "themes": [
+          "Restaurant capex recovery but uneven traffic",
+          "Energy efficiency and electrification",
+          "Steel, aluminum and tariff exposure",
+          "Connected ovens and programmable cooking",
+          "Labor-saving kitchen automation",
+          "Aftermarket parts and service resilience"
+        ]
+      },
+      {
+        "slug": "dental-clinical-instrument-manufacturing",
+        "title": "Dental Clinical Instrument Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "Dental Clinical Instrument Manufacturing is a mature U.S. manufacturing niche serving dentists, orthodontists and dental labs, with 2025 demand supported by dental spending, aging demographics and digital dentistry, but pressured by distributor inventory swings, tariffs, imported competition and slower discretionary procedures.",
+        "market_size": "2025 U.S. dental equipment market estimated at $4.096 billion; baseline dental clinical instrument manufacturing revenue projected at $5.2 billion for 2026.",
+        "growth": "2026 U.S. dental equipment market estimate of $4.355 billion implies +6.3% growth from 2025; 2026-2033 forecast CAGR is 7.2%; baseline 2021-2026 industry CAGR was +2.2%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Digital dentistry and chairside workflow",
+          "Recurring consumables over one-time equipment",
+          "Distributor consolidation and channel power",
+          "Aging population and implant demand",
+          "Practice-margin pressure",
+          "Tariffs, imports and reshoring math"
+        ]
+      },
+      {
+        "slug": "drug-and-alcohol-test-kit-manufacturing",
+        "title": "Drug & Alcohol Test Kit Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "The industry manufactures at-home and on-site diagnostic kits that screen urine, oral fluid, hair, breath, or other specimens for alcohol, cannabis, opioids, stimulants, and other drugs, with demand tied to workplace safety programs, clinical toxicology, law enforcement, rehabilitation monitoring, and consumer self-testing.",
+        "market_size": "2026 estimated US industry revenue: $3.13 billion, derived from the 2021 IBISWorld baseline of $2.811 billion and its 2021-2026 forecast CAGR of about 2.2%.",
+        "growth": "2021-2026 estimated CAGR: 2.2% for the manufacturing industry; broader US drug screening market sources show faster 2025-2033 growth of about 5.9%-7.4% depending on scope.",
+        "profit_margin": "2026 forecast profit margin: 9.2%, up from 8.6% in 2021 in the IBISWorld baseline.",
+        "themes": [
+          "Workplace safety",
+          "Cannabis legalization complexity",
+          "Oral-fluid testing",
+          "Tamper resistance",
+          "Point-of-care diagnostics",
+          "Fentanyl and polysubstance screening"
+        ]
+      },
+      {
+        "slug": "cotton-personal-care-product-manufacturing",
+        "title": "Cotton Personal-Care Product Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "In 2025-2026, U.S. cotton personal-care product manufacturing remains a flat-volume, price-sensitive industry supported by resilient beauty, household hygiene and medical demand but pressured by imports, private label competition, and cotton/input cost volatility.",
+        "market_size": "2025: about $280 million in U.S. manufacturer revenue, current dollars; this is derived from the IBISWorld baseline forecast of about $224.7 million for 2024 in 2019 dollars and adjusted to 2025 dollars.",
+        "growth": "2025: roughly flat real growth, about 0% real volume growth; nominal revenue supported mainly by price inflation rather than unit expansion.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Mature low-growth manufacturing niche",
+          "Private label and retailer bargaining power",
+          "Beauty and skincare routine tailwinds",
+          "Medical and first-aid demand resilience",
+          "Import penetration and tariff uncertainty",
+          "Cotton price volatility"
+        ]
+      },
+      {
+        "slug": "laminated-plastics-manufacturing-in-the-us",
+        "title": "Laminated Plastics Manufacturing in the US",
+        "sector": "Manufacturing",
+        "one_sentence": "US laminated plastics manufacturers are benefiting from durable commercial and institutional retrofit demand and renewed 2025 vehicle production, but 2026 resin inflation and weaker residential construction are keeping real growth modest.",
+        "market_size": "2025 market size: about $4.7 billion in US industry revenue, estimated from the 2022 IBIS baseline forecast path and updated demand indicators.",
+        "growth": "2025 growth: about 0.5% year over year; 2026 growth outlook: about 0.8% nominal, with volume growth weaker because resin prices rose in 2026.",
+        "profit_margin": "2026 profit margin: about 3.8%-4.0%, broadly consistent with the 2022 baseline's 2026 profit-margin forecast of 3.9%.",
+        "themes": [
+          "Mature domestic manufacturing niche",
+          "Resin-cost pass-through",
+          "Commercial interiors resilience",
+          "Residential remodeling softness",
+          "Transportation-cycle exposure",
+          "Sustainability and recycled-content claims"
+        ]
+      },
+      {
+        "slug": "lighting-fixtures-manufacturing-in-the-us",
+        "title": "Lighting Fixtures Manufacturing in the US",
+        "sector": "Manufacturing",
+        "one_sentence": "In 2025, the US light fixture manufacturing industry is an estimated $15.0 billion market, above the $12.7 billion 2022 IBIS baseline, with growth concentrated in commercial, institutional, data-center and connected-lighting applications while residential replacement and low-end imported fixtures remain pressured.",
+        "market_size": "2025 estimated US industry revenue: $15.0 billion",
+        "growth": "2022-2025 implied nominal CAGR from the IBIS 2022 baseline to Kentley 2025 estimate: about 5.7%",
+        "profit_margin": "n/a",
+        "themes": [
+          "LED conversion and high-efficacy standards",
+          "Connected lighting and building controls",
+          "Data center and healthcare construction demand",
+          "Tariff exposure and supply-chain localization",
+          "Specification-grade differentiation",
+          "Residential rate sensitivity"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Manufacturing",
+        10
+      ]
+    ],
+    "common_themes": [
+      [
+        "Import competition",
+        2
+      ],
+      [
+        "Lab construction normalization",
+        1
+      ],
+      [
+        "R&D funding sensitivity",
+        1
+      ],
+      [
+        "Healthcare and biopharma demand",
+        1
+      ],
+      [
+        "University and government labs",
+        1
+      ],
+      [
+        "Steel and aluminum tariff pressure",
+        1
+      ],
+      [
+        "Flexible and modular lab design",
+        1
+      ],
+      [
+        "Dealer and project backlog management",
+        1
+      ],
+      [
+        "Renovation over speculative newbuilds",
+        1
+      ],
+      [
+        "Containment and biosafety adjacency",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Laboratory Casework Manufacturing",
+        "development": "2025-02-06: CBRE reported 12.1 million sq. ft. of U.S. lab construction in progress at Q4 2024, down roughly two-thirds from the 2024 peak."
+      },
+      {
+        "industry": "Laboratory Casework Manufacturing",
+        "development": "2025-06-03: The White House raised Section 232 steel and aluminum tariffs from 25% to 50% effective June 4, 2025."
+      },
+      {
+        "industry": "Laboratory Fume Hoods Manufacturing",
+        "development": "2024-11: Kewaunee completed the $55.0 million acquisition of Nu Aire, expanding its laboratory airflow and containment platform."
+      },
+      {
+        "industry": "Laboratory Fume Hoods Manufacturing",
+        "development": "2025-03: Labconco marked its 100th year and emphasized U.S.-made fume hoods, biosafety cabinets and sustainable lab equipment."
+      },
+      {
+        "industry": "Industrial & Fluid Power Valve Manufacturing",
+        "development": "2025-04: IBISWorld reported broader US Valve Manufacturing revenue of $38.8 billion in 2025, with 1.1% CAGR over 2020-2025 and 870 businesses."
+      },
+      {
+        "industry": "Industrial & Fluid Power Valve Manufacturing",
+        "development": "2025-06: US Section 232 steel and aluminum tariffs increased from 25% to 50% effective June 4, 2025, raising cost volatility for metal-intensive valve producers."
+      },
+      {
+        "industry": "Industrial & Commercial Fan & Blower Manufacturing",
+        "development": "2023-10-30: DOE fan and blower test procedures took effect, making federal test-method compliance necessary for U.S. energy-use representations."
+      },
+      {
+        "industry": "Industrial & Commercial Fan & Blower Manufacturing",
+        "development": "2025-01-17: DOE withdrew its January 2024 proposed energy conservation standards rule for fans and blowers, leaving no current federal energy conservation standard while the test procedure remains in force."
+      },
+      {
+        "industry": "Commercial Oven Manufacturing",
+        "development": "2025-01: Technavio projected the global commercial cooking equipment market would add $4.8 billion from 2025 to 2029 at a CAGR above 6.2%."
+      },
+      {
+        "industry": "Commercial Oven Manufacturing",
+        "development": "2025-06: U.S. Section 232 steel and aluminum tariffs increased from 25% to 50%, raising cost risk for metal-intensive commercial kitchen equipment."
+      },
+      {
+        "industry": "Dental Clinical Instrument Manufacturing",
+        "development": "2025-04-17: Patient Square Capital completed its $4.1 billion acquisition of Patterson Companies, taking a major dental distributor private."
+      },
+      {
+        "industry": "Dental Clinical Instrument Manufacturing",
+        "development": "2025-12-31: Dentsply Sirona reported 2025 net sales down 3.0%, with weakness in U.S. CAD/CAM, implants and Byte-related clear aligners partly offset by preventive/restorative and treatment-center volumes."
+      }
+    ]
+  },
+  {
+    "slug": "health-services-operator",
+    "title": "The Health Services Operator",
+    "lens": "Healthcare Delivery",
+    "thesis": "Healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+    "slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "eating-disorder-clinics",
+      "dna-and-dna-forensic-laboratories",
+      "laboratory-testing-services-in-the-us",
+      "hearing-aid-clinics",
+      "healthcare-staff-recruitment-agencies",
+      "healthcare-consultants",
+      "hospices-and-palliative-care-centers",
+      "in-home-senior-care-franchises",
+      "dental-equipment-dealers"
+    ],
+    "operator_questions": [
+      "Is payer mix improving or deteriorating?",
+      "Can clinician and caregiver labor be recruited reliably?",
+      "Does compliance complexity favor scale?"
+    ],
+    "industries": [
+      {
+        "slug": "elderly-and-disabled-services-in-the-us",
+        "title": "Elderly & Disabled Services in the US",
+        "sector": "Healthcare",
+        "one_sentence": "Elderly and disabled services providers deliver nonmedical home aide, adult day, companionship, transportation and community support services for older adults and people with disabilities, with demand increasingly tied to Medicaid HCBS policy and the preference to age in place.",
+        "market_size": "$80.1 billion in 2025",
+        "growth": "3.4% in 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging population",
+          "Aging in place",
+          "Medicaid HCBS",
+          "Direct care workforce shortage",
+          "Low-margin labor model",
+          "State reimbursement risk"
+        ]
+      },
+      {
+        "slug": "eating-disorder-clinics",
+        "title": "Eating Disorder Clinics",
+        "sector": "Healthcare",
+        "one_sentence": "The US Eating Disorder Clinics industry is a small but expanding behavioral health specialty, supported by high unmet need, broader acceptance of telehealth and stepped-care models, and constrained by insurance denials, workforce shortages and high out-of-pocket costs.",
+        "market_size": "2025 estimated US revenue: $1.5 billion, based on the 2021 IBISWorld baseline of $1.29 billion and 2021-2026 forecast growth toward $1.4 billion+",
+        "growth": "2025 estimated YoY revenue growth: about 2.0%-3.0%; 2021-2026 baseline forecast CAGR: 2.1%",
+        "profit_margin": "n/a",
+        "themes": [
+          "High unmet behavioral health need",
+          "Insurance parity uncertainty",
+          "Virtual PHP and IOP expansion",
+          "Adolescent and family-based care",
+          "Residential capacity and hybrid campuses",
+          "Private equity and consolidation"
+        ]
+      },
+      {
+        "slug": "dna-and-dna-forensic-laboratories",
+        "title": "DNA & DNA Forensic Laboratories",
+        "sector": "Healthcare",
+        "one_sentence": "The US DNA & DNA Forensic Laboratories industry generated an estimated $4.2 billion in 2025 revenue, up at an estimated 5.0% 2020-2025 CAGR from the 2020 IBISWorld baseline, with forensic backlogs, CODIS expansion, paternity demand and specialty genetic testing offsetting softer direct-to-consumer ancestry demand.",
+        "market_size": "2025 estimated US industry revenue: $4.2 billion, based on the baseline 2020 IBISWorld forecast for DNA & DNA Forensic Laboratories.",
+        "growth": "2020-2025 estimated revenue CAGR: 5.0%, based on the baseline IBISWorld forecast.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Forensic backlog reduction",
+          "Rapid DNA and CODIS integration",
+          "Lab automation and throughput",
+          "Paternity and relationship testing resilience",
+          "Direct-to-consumer ancestry reset",
+          "Genetic data privacy"
+        ]
+      },
+      {
+        "slug": "laboratory-testing-services-in-the-us",
+        "title": "Laboratory Testing Services in the US",
+        "sector": "Business Services",
+        "one_sentence": "The US laboratory testing services industry is a fragmented, compliance-driven business services market that has moved from COVID-era volatility into steadier growth from PFAS, consumer-product certification, infrastructure, food safety, R&D and advanced electronics testing.",
+        "market_size": "$30.3 billion in 2025 estimated US revenue; $28.9 billion in 2023 Census AIES reported revenue",
+        "growth": "2.3% estimated 2025 growth, using the 2022 IBISWorld five-year outlook CAGR; 2023 reported revenue grew 5.1% from 2022 Census SAS revenue",
+        "profit_margin": "14.3% EBIT margin in 2022 IBISWorld baseline",
+        "themes": [
+          "Regulation-driven demand",
+          "PFAS and environmental compliance",
+          "Consumer product safety and import documentation",
+          "Food safety and specialty-product verification",
+          "EV, battery and electronics testing",
+          "Fragmented market with TIC consolidation"
+        ]
+      },
+      {
+        "slug": "hearing-aid-clinics",
+        "title": "Hearing Aid Clinics",
+        "sector": "Healthcare",
+        "one_sentence": "The US Hearing Aid Clinics industry remains a modest-growth, service-heavy healthcare retail niche where demographics and Medicare Advantage hearing benefits support demand, while OTC devices, warehouse clubs, online sellers and AI-enabled earbuds pressure pricing and shift simpler cases away from traditional clinic visits.",
+        "market_size": "2025 estimated US hearing aid clinic/store revenue: about $2.7 billion; 2025 broader US hearing aids market: $5.47 billion including devices and implants; 2025 US hearing aids device market: $2.395 billion",
+        "growth": "2020-2025 clinic revenue baseline forecast CAGR: 1.8%; 2025-2032 broader US hearing aids market forecast CAGR: 11.3%; 2026-2035 US hearing aids device market forecast CAGR: 6.6%",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging population demand",
+          "OTC disruption",
+          "Medicare Advantage benefit networks",
+          "AI and app-based personalization",
+          "Tele-audiology and remote fitting",
+          "Clinic consolidation"
+        ]
+      },
+      {
+        "slug": "healthcare-staff-recruitment-agencies",
+        "title": "Healthcare Staff Recruitment Agencies",
+        "sector": "Healthcare",
+        "one_sentence": "After the 2021-2022 travel-nurse surge, US healthcare staffing is smaller but stabilizing as health systems keep using contingent labor to cover persistent clinician shortages, census volatility and specialty gaps.",
+        "market_size": "$39.4 billion in 2025 US healthcare staffing revenue; $40.2 billion forecast for 2026, based on SIA forecast cited in AMN Healthcare's 2026 investor materials.",
+        "growth": "-6.0% in 2025 versus $41.9 billion in 2024; +2.0% forecast in 2026 versus 2025, calculated from SIA figures cited by AMN.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Post-pandemic bill-rate normalization",
+          "Structural clinician shortages",
+          "Hospital cost containment",
+          "MSP and VMS consolidation",
+          "Locum tenens resilience",
+          "Allied health and home-based care demand"
+        ]
+      },
+      {
+        "slug": "healthcare-consultants",
+        "title": "Healthcare Consultants",
+        "sector": "Healthcare",
+        "one_sentence": "The US healthcare consulting market is expanding as healthcare organizations face 2025-2026 pressure from cost inflation, payer friction, AI adoption, value-based care, regulatory change and weak provider margins.",
+        "market_size": "2025: $12.55 billion US healthcare consulting services revenue",
+        "growth": "2025: +9.2% year over year; 2026: +8.9% projected year over year",
+        "profit_margin": "n/a",
+        "themes": [
+          "AI-enabled healthcare operations",
+          "Revenue cycle management and denial prevention",
+          "Value-based care and risk contracting",
+          "Provider margin repair",
+          "Payer-provider friction",
+          "Healthcare IT modernization"
+        ]
+      },
+      {
+        "slug": "hospices-and-palliative-care-centers",
+        "title": "Hospices & Palliative Care Centers",
+        "sector": "Healthcare",
+        "one_sentence": "US hospices and palliative care centers provide comfort-focused care for terminally ill patients, with revenue anchored by Medicare hospice payments and demand supported by aging demographics, home-based care preferences, and high hospital costs.",
+        "market_size": "$33.0 billion in 2025",
+        "growth": "2.0% CAGR from 2019 to 2024; 2.3% revenue growth in 2024; FY2026 Medicare hospice payment update of 2.6%",
+        "profit_margin": "9.7% of revenue in 2024",
+        "themes": [
+          "Aging population",
+          "Medicare reimbursement exposure",
+          "Home-based care shift",
+          "Labor shortages and wage pressure",
+          "Program integrity and fraud enforcement",
+          "Quality reporting and HOPE implementation"
+        ]
+      },
+      {
+        "slug": "in-home-senior-care-franchises",
+        "title": "In-Home Senior Care Franchises",
+        "sector": "Healthcare",
+        "one_sentence": "U.S. in-home senior care franchises provide nonmedical personal care, companionship, respite care, transportation, meal help and, in some systems, skilled home health services to older adults who want to remain at home.",
+        "market_size": "2026 U.S. in-home senior care franchise revenue is estimated near $17.6 billion based on the baseline IBISWorld 2021 forecast; the broader U.S. Elderly & Disabled Services market was $80.1 billion in 2025.",
+        "growth": "The baseline forecast was 2.6% CAGR for 2021-2026; broader U.S. Elderly & Disabled Services grew 3.4% in 2025, according to IBISWorld public market-size data.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging in place",
+          "Caregiver shortage",
+          "Private-pay affordability",
+          "Medicaid HCBS expansion",
+          "Medicare reimbursement pressure",
+          "Franchise consolidation"
+        ]
+      },
+      {
+        "slug": "dental-equipment-dealers",
+        "title": "Dental Equipment Dealers",
+        "sector": "Healthcare",
+        "one_sentence": "The US Dental Equipment Dealers industry is a mature healthcare distribution market, estimated at about $18.2 billion in 2026, growing modestly as recurring consumables offset softer capital-equipment buying and digital workflow adoption lifts higher-value sales.",
+        "market_size": "2026 estimated US dental equipment dealer revenue: $18.2 billion, derived from IBISWorld 2022 revenue of $16.851 billion and its 2022-2027 projected CAGR of 1.88%.",
+        "growth": "2026 estimated annual industry growth: about 1.9%, in line with the IBISWorld 2022-2027 projected CAGR of 1.88%.",
+        "profit_margin": "2022 industry profit margin: 6.2%.",
+        "themes": [
+          "Recurring consumables anchor revenue",
+          "Digital dentistry upgrades",
+          "DSO purchasing power",
+          "Practice margin pressure",
+          "Private-label margin support",
+          "Equipment financing and service contracts"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Healthcare",
+        9
+      ],
+      [
+        "Business Services",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Aging population",
+        2
+      ],
+      [
+        "Aging in place",
+        2
+      ],
+      [
+        "Private-pay affordability",
+        2
+      ],
+      [
+        "Medicaid HCBS",
+        1
+      ],
+      [
+        "Direct care workforce shortage",
+        1
+      ],
+      [
+        "Low-margin labor model",
+        1
+      ],
+      [
+        "State reimbursement risk",
+        1
+      ],
+      [
+        "Managed long-term services and supports",
+        1
+      ],
+      [
+        "Caregiver compensation",
+        1
+      ],
+      [
+        "Waiver waiting lists",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Elderly & Disabled Services in the US",
+        "development": "2024-04-22: CMS finalized the Medicaid Access Rule, including HCBS payment transparency, wait-list reporting, quality reporting and an 80% direct-care compensation requirement for specified HCBS payments."
+      },
+      {
+        "industry": "Elderly & Disabled Services in the US",
+        "development": "2024-06-10: Addus HomeCare agreed to acquire Gentiva's personal care operations for about $350 million, adding about $280 million in annualized revenue across seven states."
+      },
+      {
+        "industry": "Eating Disorder Clinics",
+        "development": "2024-09-09: DOL, HHS and Treasury issued final MHPAEA rules intended to strengthen mental health and substance use disorder parity for group plans beginning in 2025 and some requirements in 2026."
+      },
+      {
+        "industry": "Eating Disorder Clinics",
+        "development": "2025-02-18: Alsana announced a new virtual eating disorder treatment program for adolescents in California."
+      },
+      {
+        "industry": "DNA & DNA Forensic Laboratories",
+        "development": "2025-07-01: FBI national QAS and procedures for Rapid DNA forensic casework became effective for CODIS-eligible forensic samples."
+      },
+      {
+        "industry": "DNA & DNA Forensic Laboratories",
+        "development": "2025-07-14: TTAM Research Institute completed the acquisition of 23andMe's Personal Genome Service and Research Services assets for a reported $305.0 million bankruptcy sale price."
+      },
+      {
+        "industry": "Laboratory Testing Services in the US",
+        "development": "2024-04: EPA finalized enforceable PFAS drinking-water limits, requiring initial monitoring by 2027 and compliance actions by 2029."
+      },
+      {
+        "industry": "Laboratory Testing Services in the US",
+        "development": "2025-01: SGS agreed to acquire Detroit-based RTI Laboratories, adding environmental, materials, PFAS and Department of Defense-certified testing capacity in the US Midwest."
+      },
+      {
+        "industry": "Hearing Aid Clinics",
+        "development": "2022-10-17: FDA OTC hearing aid rules took effect, allowing adults with perceived mild-to-moderate hearing loss to buy qualifying devices without a prescription or audiologist visit."
+      },
+      {
+        "industry": "Hearing Aid Clinics",
+        "development": "2024-09-12: FDA authorized Apple’s AirPods Pro 2 Hearing Aid Feature as the first OTC hearing aid software device."
+      },
+      {
+        "industry": "Healthcare Staff Recruitment Agencies",
+        "development": "2024-12-04: Aya Healthcare agreed to acquire Cross Country Healthcare for about $615 million in cash."
+      },
+      {
+        "industry": "Healthcare Staff Recruitment Agencies",
+        "development": "2025-02-20: The FTC issued a second request for information on the Aya-Cross Country transaction under HSR review."
+      }
+    ]
+  },
+  {
+    "slug": "experiential-venue",
+    "title": "The Experiential Venue",
+    "lens": "Consumer Experience",
+    "thesis": "Experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+    "slugs": [
+      "arcade-food-and-entertainment-complexes-in-the-us",
+      "dance-studios",
+      "karaoke-bars",
+      "golf-driving-ranges-and-family-fun-centers-in-the-us",
+      "indoor-climbing-walls",
+      "indoor-sports-facilities-management",
+      "ice-rinks",
+      "boxing-gyms-and-clubs",
+      "convention-and-visitor-bureaus-in-the-us",
+      "cruise-and-travel-agency-franchises"
+    ],
+    "operator_questions": [
+      "Can utilization be smoothed across weekdays and seasons?",
+      "Does the concept have local scarcity or is it easy to copy?",
+      "Are labor, insurance, and rent rising faster than ticket yield?"
+    ],
+    "industries": [
+      {
+        "slug": "arcade-food-and-entertainment-complexes-in-the-us",
+        "title": "Arcade, Food & Entertainment Complexes in the US",
+        "sector": "Media & Entertainment",
+        "one_sentence": "The US arcade, food and entertainment complex industry remains a discretionary leisure business: post-pandemic traffic has normalized, but growth in 2025-2026 depends on value pricing, private events, food-and-beverage execution and new attractions rather than simple arcade game volume.",
+        "market_size": "2025: about $4.6 billion, estimated from the 2022 IBISWorld baseline of $4.459 billion and its 2022-2027 growth path, cross-checked against 2025 Census/FRED growth for NAICS 7131 amusement parks and arcades.",
+        "growth": "2025: about +1.5% year over year estimated; NAICS 7131 seasonally adjusted revenue increased from $32.537 billion in 2024 to $33.039 billion in 2025, a +1.5% comparable-industry signal.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Experiential leisure",
+          "Eatertainment",
+          "Family entertainment centers",
+          "Adult arcade bars",
+          "Private events and corporate outings",
+          "Cashless game cards"
+        ]
+      },
+      {
+        "slug": "dance-studios",
+        "title": "Dance Studios",
+        "sector": "Consumer Services",
+        "one_sentence": "The U.S. dance studio industry is a fragmented discretionary-services market recovering into slow growth as youth enrollment, adult wellness classes, competitive dance, and studio-management technology offset competition from gyms, online fitness, and other extracurricular activities.",
+        "market_size": "About $5.0 billion in U.S. dance studio revenue in 2025",
+        "growth": "2.3% U.S. revenue growth in 2025 and 0.8% CAGR from 2020 to 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "Fragmented local competition",
+          "Recurring tuition and retention economics",
+          "Youth extracurricular spending",
+          "Adult wellness and social dance",
+          "Competitive dance and performance packages",
+          "Digital registration and studio-management software"
+        ]
+      },
+      {
+        "slug": "karaoke-bars",
+        "title": "Karaoke Bars",
+        "sector": "Food & Drink",
+        "one_sentence": "The US Karaoke Bars industry generated an estimated $1.12 billion in 2025 revenue, with low single-digit nominal growth driven more by beverage pricing and premium group experiences than by unit expansion.",
+        "market_size": "2025 estimated US karaoke bar revenue: $1.12 billion",
+        "growth": "2025 estimated nominal revenue growth: +0.4%; 2021-2026 baseline CAGR: +0.4%",
+        "profit_margin": "2021 baseline EBIT margin: 6.6% of revenue",
+        "themes": [
+          "Experiential nightlife",
+          "Private-room karaoke",
+          "Premium beverage mix",
+          "Home karaoke competition",
+          "Fragmented independents",
+          "Digital songbooks and app booking"
+        ]
+      },
+      {
+        "slug": "golf-driving-ranges-and-family-fun-centers-in-the-us",
+        "title": "Golf Driving Ranges & Family Fun Centers in the US",
+        "sector": "Consumer Services",
+        "one_sentence": "The industry sells out-of-home recreation through driving ranges, mini golf, go-karts, batting cages, party packages, food and beverages, and related amusement services, with 2025–2026 demand supported by record golf participation but pressured by cautious discretionary spending and higher labor, rent, equipment and financing costs.",
+        "market_size": "2026 revenue forecast: $16.5 billion",
+        "growth": "2021-2026 forecast revenue CAGR: 4.3%",
+        "profit_margin": "2021 profit margin: 10.9%; 2026 forecast profit margin: 11.1%",
+        "themes": [
+          "Experiential entertainment",
+          "Off-course golf growth",
+          "Value-seeking consumers",
+          "Technology-enabled recreation",
+          "Food and beverage monetization",
+          "Birthday and group events"
+        ]
+      },
+      {
+        "slug": "indoor-climbing-walls",
+        "title": "Indoor Climbing Walls",
+        "sector": "Consumer Services",
+        "one_sentence": "The US indoor climbing wall industry has moved from niche recreation into boutique fitness, but 2025 conditions were more uneven as higher operating costs, slower gym openings and flatter traffic tested operators after a strong post-pandemic expansion.",
+        "market_size": "2025 US climbing gym revenue: $1.123 billion; 2026 estimate: $1.224 billion",
+        "growth": "2026-2033 US revenue CAGR forecast: 8.9%; 2025 North American net gym growth: 4.7%; 2025 US net gym growth: 4.2%",
+        "profit_margin": "n/a",
+        "themes": [
+          "Boutique fitness",
+          "Bouldering boom",
+          "Youth programming",
+          "Olympic visibility",
+          "High fixed costs",
+          "Membership flexibility"
+        ]
+      },
+      {
+        "slug": "indoor-sports-facilities-management",
+        "title": "Indoor Sports Facilities Management",
+        "sector": "Consumer Services",
+        "one_sentence": "Indoor sports facilities management is a fragmented local-services industry whose 2025-2026 recovery is being lifted by record sports participation, youth team sports, soccer, pickleball and paid facility usage, while labor, utilities and maintenance keep margins tight.",
+        "market_size": "US revenue was $1.4 billion in 2024 according to an IBISWorld market-size citation, and an estimated $1.5 billion in 2025 based on 2024 industry revenue, 2024 market-size growth of 4.0%, 2025 recreation-services PCE growth and 2025 participation gains.",
+        "growth": "Market-size growth was 4.0% in 2024; 2025 growth is estimated at about 3.0% to 5.0% as recreation-services PCE rose from $777.049 billion in 2024 to $819.215 billion in 2025.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Post-pandemic participation recovery",
+          "Youth sports and club-team demand",
+          "Pickleball and padel court conversion",
+          "Soccer momentum before and during the 2026 World Cup",
+          "Multi-sport facility utilization",
+          "Fee increases to offset inflation"
+        ]
+      },
+      {
+        "slug": "ice-rinks",
+        "title": "Ice Rinks",
+        "sector": "Consumer Services",
+        "one_sentence": "US ice rink operators earn most revenue from admissions, memberships, ice-time rentals, lessons, tournaments, equipment rental and concessions, with demand tied to household income, youth hockey, figure skating, winter recreation and the availability of nearby rink capacity.",
+        "market_size": "2025 estimate: $610 million US private ice rink operator revenue, inferred from the 2023 IBISWorld figure of $585.6 million and low-single-digit recovery growth",
+        "growth": "2025 estimate: +2.0% year over year; August 2025 IBISWorld resale page reported a 2018-2023 CAGR of -3.4% through $585.6 million in 2023",
+        "profit_margin": "n/a",
+        "themes": [
+          "Youth sports monetization",
+          "Women’s hockey growth",
+          "Energy-intensive recreation",
+          "Aging infrastructure",
+          "Refrigerant transition",
+          "Local capacity scarcity"
+        ]
+      },
+      {
+        "slug": "boxing-gyms-and-clubs",
+        "title": "Boxing Gyms & Clubs",
+        "sector": "Consumer Services",
+        "one_sentence": "The U.S. Boxing Gyms & Clubs industry is estimated at about $1.31 billion in 2026, recovering from the 2020 COVID shock as facility-based fitness participation reaches record 2025 levels and boxing/MMA participation remains a multi-million-person demand pool.",
+        "market_size": "2026: about $1.31 billion in U.S. industry revenue, inferred from the IBISWorld 2021 baseline of $1.179 billion and its 2021-2026 CAGR forecast of 2.1%.",
+        "growth": "2021-2026: +2.1% CAGR in industry revenue projected by the baseline; 2025: U.S. commercial fitness visits per location rose 4.2% year over year according to HFA.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Boutique fitness recovery",
+          "Recurring membership economics",
+          "Private coaching upsell",
+          "Women and youth participation",
+          "Combat-sport wellness crossover",
+          "Value-gym competition"
+        ]
+      },
+      {
+        "slug": "convention-and-visitor-bureaus-in-the-us",
+        "title": "Convention & Visitor Bureaus in the US",
+        "sector": "Business Services",
+        "one_sentence": "US convention and visitor bureaus promote destinations, bid for meetings and conventions, support visitor information services, and rely heavily on lodging-tax-funded public support plus memberships, sponsorships and service fees.",
+        "market_size": "2026 estimated $3.2 billion US industry revenue, based on the 2022 IBISWorld baseline of $2.897 billion and its 2022-2027 projected CAGR of 2.5%.",
+        "growth": "2022-2027 projected CAGR of 2.5%; 2026 US total travel spending forecast growth of 1.0% in inflation-adjusted 2025 dollars.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Domestic travel resilience",
+          "International inbound recovery risk",
+          "Meetings and conventions rebound",
+          "Hotel-tax funding dependence",
+          "Tourism improvement districts",
+          "Major-event-led destination marketing"
+        ]
+      },
+      {
+        "slug": "cruise-and-travel-agency-franchises",
+        "title": "Cruise & Travel Agency Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "Cruise & Travel Agency Franchises in the US are small, franchised travel-advisor businesses that earn commissions and fees from cruises, tours, resorts, air and packaged travel, with 2025 demand supported by record cruise volume, resilient outbound travel and the continued shift toward home-based advisors.",
+        "market_size": "2025: about $3.0 billion in US cruise and travel agency franchise revenue",
+        "growth": "2025: about 5.2% year-over-year growth in broader US travel arrangement and reservation services revenue, based on Census/FRED quarterly revenue rising from $88.5 billion in 2024 to $93.1 billion in 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "Cruise-led recovery",
+          "Home-based franchise model",
+          "Human advice for complex travel",
+          "Luxury and expedition growth",
+          "Supplier leverage through networks",
+          "AI-enabled advisor productivity"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Consumer Services",
+        7
+      ],
+      [
+        "Media & Entertainment",
+        1
+      ],
+      [
+        "Food & Drink",
+        1
+      ],
+      [
+        "Business Services",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Fragmented local competition",
+        3
+      ],
+      [
+        "Experiential leisure",
+        1
+      ],
+      [
+        "Eatertainment",
+        1
+      ],
+      [
+        "Family entertainment centers",
+        1
+      ],
+      [
+        "Adult arcade bars",
+        1
+      ],
+      [
+        "Private events and corporate outings",
+        1
+      ],
+      [
+        "Cashless game cards",
+        1
+      ],
+      [
+        "Redemption and prize economics",
+        1
+      ],
+      [
+        "VR and immersive attractions",
+        1
+      ],
+      [
+        "Menu inflation",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Arcade, Food & Entertainment Complexes in the US",
+        "development": "2025-06-29: Lucky Strike Entertainment reported fiscal 2025 total revenue of $1.2013 billion, up 4.0%, and fiscal 2025 amusement and other revenue of $227.2 million."
+      },
+      {
+        "industry": "Arcade, Food & Entertainment Complexes in the US",
+        "development": "2025-06-29: Lucky Strike Entertainment said fiscal 2025 acquisitions added 10 locations for $80.9 million of consideration."
+      },
+      {
+        "industry": "Dance Studios",
+        "development": "2024: IBISWorld-linked public summaries put U.S. dance studio revenue at about $4.9 billion, with 0.9% growth in 2024."
+      },
+      {
+        "industry": "Dance Studios",
+        "development": "May 2024: BLS reported median hourly pay of $23.97 for dancers and $26.73 for choreographers."
+      },
+      {
+        "industry": "Karaoke Bars",
+        "development": "2025-02: National Restaurant Association projected 2025 US foodservice sales of $1.5 trillion and 15.9 million jobs, with operators focused on on-premise dining experiences."
+      },
+      {
+        "industry": "Karaoke Bars",
+        "development": "2025-09: NIQ/CGA released a 2025 US On-Premise Channel Strategy Study covering consumer behavior across 11 on-premise beverage channels."
+      },
+      {
+        "industry": "Golf Driving Ranges & Family Fun Centers in the US",
+        "development": "2025-08-06: Topgolf Callaway reported Q2 2025 Topgolf revenue of $485.3 million and same-venue sales down 6%, partly offset by new venues."
+      },
+      {
+        "industry": "Golf Driving Ranges & Family Fun Centers in the US",
+        "development": "2025-10-16: Topgolf announced its Woodbury, Minnesota venue would open on 2025-10-30 as its 111th global outdoor venue."
+      },
+      {
+        "industry": "Indoor Climbing Walls",
+        "development": "2025-02-09: CBJ reported North American climbing gyms rose to over 870 in 2024, with bouldering gyms accounting for 73% of new development."
+      },
+      {
+        "industry": "Indoor Climbing Walls",
+        "development": "2025-04-09: IFSC reported that LA28 will hold standalone Boulder, Lead and Speed Olympic medal events, raising sport climbing to six gold-medal events in 2028."
+      },
+      {
+        "industry": "Indoor Sports Facilities Management",
+        "development": "2025-04-15: NSGA reported 2024 youth team sports gains, with flag football up 21% and basketball up 12% versus their three-year averages."
+      },
+      {
+        "industry": "Indoor Sports Facilities Management",
+        "development": "2026-03-12: SFIA reported 250 million Americans participated in a sport, fitness or leisure activity in 2025, the highest level in its tracking history."
+      }
+    ]
+  },
+  {
+    "slug": "food-production-niche",
+    "title": "The Food Production Niche",
+    "lens": "Food & Beverage",
+    "thesis": "Niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+    "slugs": [
+      "cocoa-and-drinking-chocolate-production",
+      "coffee-creamer-production",
+      "kombucha-production-in-the-us",
+      "hot-sauce-production",
+      "bbq-sauce-production",
+      "cider-production",
+      "doughnut-stores",
+      "dairy-farms-in-the-us",
+      "dairy-wholesaling-in-the-us",
+      "egg-and-poultry-wholesaling-in-the-us"
+    ],
+    "operator_questions": [
+      "Is this product riding health, premium, convenience, or indulgence?",
+      "Can input swings be hedged or passed through?",
+      "Does distribution create the moat or the squeeze?"
+    ],
+    "industries": [
+      {
+        "slug": "cocoa-and-drinking-chocolate-production",
+        "title": "Cocoa & Drinking Chocolate Production",
+        "sector": "Manufacturing",
+        "one_sentence": "The industry primarily makes powdered hot cocoa and drinking chocolate mixes for retail, foodservice, wholesalers, and specialty channels, with 2025-2026 performance driven more by cocoa input costs and price realization than by strong volume growth.",
+        "market_size": "About $1.1 billion in 2026 US producer revenue, estimated on a nominal basis from the 2021 IBISWorld baseline and 2024-2026 cocoa-cost pass-through.",
+        "growth": "About 3% to 5% nominal revenue growth in 2026, with unit demand softer than dollar sales because 2025-2026 pricing is carrying much of the increase.",
+        "profit_margin": "About 12% to 16% EBIT margin in 2026, down from the 2021 baseline margin of 19.3% because cocoa, sugar, dairy, packaging, and tariff costs absorbed part of price realization.",
+        "themes": [
+          "Cocoa price volatility",
+          "Seasonal household demand",
+          "Premiumization",
+          "Lower sugar and health positioning",
+          "Private-label competition",
+          "Ethical and traceable sourcing"
+        ]
+      },
+      {
+        "slug": "coffee-creamer-production",
+        "title": "Coffee Creamer Production",
+        "sector": "Manufacturing",
+        "one_sentence": "U.S. coffee creamer producers manufacture dairy and nondairy liquid, powdered and specialty creamers for grocery, foodservice, office and coffee-shop channels, with 2025-2026 growth increasingly tied to premium refrigerated formats and coffeehouse-style at-home use.",
+        "market_size": "$3.16 billion estimated U.S. production revenue in 2026, based on the 2022 IBISWorld baseline of $2.999 billion and its 2022-2027 outlook of 1.1% CAGR to about $3.2 billion by 2027",
+        "growth": "1.1% projected production-revenue CAGR for 2022-2027; broader U.S. creams and creamers retail dollar sales grew 5.8% in the 52 weeks ended January 26, 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "At-home coffeehouse experience",
+          "Refrigerated liquid creamer growth",
+          "Cold foam innovation",
+          "Plant-based rebound",
+          "Flavor and licensed-brand competition",
+          "Private-label value pressure"
+        ]
+      },
+      {
+        "slug": "kombucha-production-in-the-us",
+        "title": "Kombucha Production in the US",
+        "sector": "Food & Drink",
+        "one_sentence": "Kombucha production in the US makes fermented tea beverages for grocery, convenience, foodservice and direct-to-consumer channels, with growth now depending less on basic awareness and more on flavor innovation, lower sugar, functional claims, cold-chain reach and brand consolidation.",
+        "market_size": "2025: about $1.83 billion US kombucha market estimate; 2025 refrigerated retail sales were $756 million in the 52 weeks ended October 5, 2025.",
+        "growth": "2025: total US market forecast CAGR of 13.6% for 2025-2030; refrigerated retail dollar sales fell 0.2% year over year in the 52 weeks ended October 5, 2025.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Gut health mainstreaming",
+          "Functional beverage competition",
+          "Premium cold-chain distribution",
+          "Low sugar and clean label",
+          "Flavor innovation",
+          "Brand consolidation"
+        ]
+      },
+      {
+        "slug": "hot-sauce-production",
+        "title": "Hot Sauce Production",
+        "sector": "Food & Drink",
+        "one_sentence": "US hot sauce producers make chili-pepper-based sauces for grocery, mass retail, foodservice, wholesalers and other food manufacturers, with growth coming from mainstream spicy-food adoption, Mexican and Asian flavor profiles, premium small-batch brands and restaurant sauce innovation.",
+        "market_size": "2026 US hot sauce market: $1.29 billion; 2025 US hot sauce market: $1.25 billion; 2023 US hot sauce production revenue: $2.6 billion in the latest public IBISWorld listing",
+        "growth": "2026-2031 forecast CAGR: 4.0%; 2025-2032 forecast CAGR: 7.58%; 2018-2023 IBISWorld production CAGR: 2.5%",
+        "profit_margin": "n/a",
+        "themes": [
+          "Global Flavor Mainstreaming",
+          "Swicy And Flavor-Led Heat",
+          "Foodservice Sauce Innovation",
+          "Premium Small-Batch Condiments",
+          "Shelf-Space Saturation",
+          "Pepper And Packaging Cost Volatility"
+        ]
+      },
+      {
+        "slug": "bbq-sauce-production",
+        "title": "BBQ Sauce Production",
+        "sector": "Manufacturing",
+        "one_sentence": "BBQ sauce producers manufacture bottled sauces, bulk foodservice sauces, private-label products and related marinades for grocery, club, e-commerce, restaurant and industrial channels, with 2025-2026 growth driven more by pricing, premium mix and flavor innovation than by household penetration.",
+        "market_size": "$2.415 billion in 2026F U.S. barbecue sauce market revenue",
+        "growth": "+5.0% in 2026F year-over-year market revenue growth",
+        "profit_margin": "n/a",
+        "themes": [
+          "Premiumization",
+          "Global and fusion flavors",
+          "At-home cooking",
+          "Grilling culture",
+          "Foodservice standardization",
+          "Private-label pressure"
+        ]
+      },
+      {
+        "slug": "cider-production",
+        "title": "Cider Production",
+        "sector": "Food & Drink",
+        "one_sentence": "US cider production remains a sub-billion-dollar industry in 2025-2026, with measured off-premise hard cider sales at $502 million in 2025 and modest growth returning after 2024 weakness, but domestic hard cider production fell to 21.7 million wine gallons in 2025 from 29.4 million in 2023.",
+        "market_size": "2025 producer revenue estimate: about $603 million; 2025 measured off-premise hard cider retail sales: $502 million",
+        "growth": "2025 hard cider sales growth: +2.0% in Circana measured channels and +1.6% in NIQ data",
+        "profit_margin": "n/a",
+        "themes": [
+          "Craft localization",
+          "Flavor innovation",
+          "Gluten-free alcohol",
+          "Shelf-space pressure",
+          "Orchard-linked supply risk",
+          "Regulatory parity"
+        ]
+      },
+      {
+        "slug": "doughnut-stores",
+        "title": "Doughnut Stores",
+        "sector": "Food & Drink",
+        "one_sentence": "US doughnut stores remain a mature but resilient foodservice niche, supported by breakfast routines, coffee attachment and franchised unit growth, while traffic pressure, labor costs and ingredient inflation keep margins tight.",
+        "market_size": "2025: approximately $7.8 billion in US doughnut-store revenue, estimated from the 2023 IBISWorld/Research and Markets figure of $7.4 billion and 2025 restaurant foodservice inflation/growth signals.",
+        "growth": "2025: approximately 2.5% nominal revenue growth; 2026: approximately 3.0%-4.0% nominal growth, with real growth likely below nominal because limited-service meal prices were up 3.1% year over year in June 2026.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Affordable indulgence",
+          "Coffee-led traffic",
+          "Franchise expansion",
+          "Premium flavors",
+          "Value pressure",
+          "Digital ordering and loyalty"
+        ]
+      },
+      {
+        "slug": "dairy-farms-in-the-us",
+        "title": "Dairy Farms in the US",
+        "sector": "Agriculture",
+        "one_sentence": "In 2026, USDA forecasts higher U.S. milk production of 236.6 billion pounds but a lower all-milk price of $20.00 per cwt, pushing farm-level milk receipts down from an estimated 2025 peak even as cheese, butterfat and protein-oriented dairy products support demand.",
+        "market_size": "2026F farm-level milk cash receipts of about $42.2 billion, inferred from USDA ERS forecast that 2026 milk receipts decline by $6.2 billion or 12.8% from 2025",
+        "growth": "2026F growth of -12.8% versus 2025F milk receipts, according to USDA ERS",
+        "profit_margin": "n/a",
+        "themes": [
+          "Farmgate price volatility",
+          "Consolidation into larger herds",
+          "Feed-cost margin management",
+          "HPAI testing and biosecurity",
+          "Cheese and butterfat demand",
+          "Export dependence"
+        ]
+      },
+      {
+        "slug": "dairy-wholesaling-in-the-us",
+        "title": "Dairy Wholesaling in the US",
+        "sector": "Food & Drink",
+        "one_sentence": "US dairy wholesalers remain essential to cold-chain distribution, but 2025-2026 growth is restrained by retailer and processor bypass, soft domestic fluid-milk demand, volatile milk prices and rising logistics costs, while export strength in cheese and butterfat supports upstream volume.",
+        "market_size": "$97.2 billion estimated 2026 revenue, based on the 2022 IBISWorld baseline forecast path from $94.6 billion in 2022 to $98.0 billion in 2027",
+        "growth": "0.7% estimated 2022-2027 CAGR; roughly sub-1% annual growth in 2026",
+        "profit_margin": "1.6% EBIT margin in 2022 baseline and 1.6% projected for 2027 baseline",
+        "themes": [
+          "Mature industry",
+          "Thin margins",
+          "Cold-chain logistics",
+          "Retailer bargaining power",
+          "Vertical integration",
+          "Commodity price volatility"
+        ]
+      },
+      {
+        "slug": "egg-and-poultry-wholesaling-in-the-us",
+        "title": "Egg & Poultry Wholesaling in the US",
+        "sector": "Food & Drink",
+        "one_sentence": "The industry is a mature, low-margin food distribution niche where steady poultry demand is offset by volatile egg pricing, avian influenza disruptions, and rising competition from broadline distributors and vertically integrated processors.",
+        "market_size": "2026 estimate: $12.9 billion in revenue, based on the 2022 IBISWorld $12.3 billion baseline and its 2022-2027 forecast to $13.1 billion.",
+        "growth": "2022-2027 baseline forecast: 1.2% CAGR; 2026 conditions are mixed, with USDA forecasting 2026 broiler prices up 1.6% and 2026 egg prices down 30.4% after the 2025 HPAI-driven spike.",
+        "profit_margin": "2022 baseline: 2.2% EBIT margin; 2027 baseline forecast: 2.2% EBIT margin.",
+        "themes": [
+          "Avian influenza volatility",
+          "Cold-chain logistics",
+          "Broadline distributor competition",
+          "Producer-direct distribution",
+          "Low-margin pass-through pricing",
+          "Chicken as everyday protein"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Food & Drink",
+        6
+      ],
+      [
+        "Manufacturing",
+        3
+      ],
+      [
+        "Agriculture",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Premiumization",
+        2
+      ],
+      [
+        "Flavor innovation",
+        2
+      ],
+      [
+        "Fluid milk decline",
+        2
+      ],
+      [
+        "Cold-chain logistics",
+        2
+      ],
+      [
+        "Cocoa price volatility",
+        1
+      ],
+      [
+        "Seasonal household demand",
+        1
+      ],
+      [
+        "Lower sugar and health positioning",
+        1
+      ],
+      [
+        "Private-label competition",
+        1
+      ],
+      [
+        "Ethical and traceable sourcing",
+        1
+      ],
+      [
+        "Heavy-metal scrutiny",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Cocoa & Drinking Chocolate Production",
+        "development": "2024-12: Cocoa futures traded above $12,000 per tonne, creating a major cost shock for chocolate and cocoa-product manufacturers."
+      },
+      {
+        "industry": "Cocoa & Drinking Chocolate Production",
+        "development": "2025-07: J.P. Morgan reported Q2 2025 cocoa grindings fell 2.8% year over year in North America, showing demand destruction from high cocoa costs."
+      },
+      {
+        "industry": "Coffee Creamer Production",
+        "development": "2025-01-28: Nestle USA opened a $675 million Glendale, Arizona beverage factory and distribution center to produce Coffee mate, natural bliss and Starbucks creamers."
+      },
+      {
+        "industry": "Coffee Creamer Production",
+        "development": "2025-01: Coffee mate Cold Foam became available at select U.S. retailers, with a 14 fl. oz. MSRP range of $4.68-$5.49."
+      },
+      {
+        "industry": "Kombucha Production in the US",
+        "development": "Mar 2025: GT's Living Foods named Jon Clancy as its first president as the company marked 30 years and prepared for a new scaling phase."
+      },
+      {
+        "industry": "Kombucha Production in the US",
+        "development": "Mar 2025: Humm announced Nitro Kombucha, a low-sugar nitrogenated format with 2 billion probiotics and 250 mg of L-theanine per can, launching at Sprouts in April 2025."
+      },
+      {
+        "industry": "Hot Sauce Production",
+        "development": "2024-05: Circana reported 93% of Americans eat hot sauce and 51% use it more than once a week."
+      },
+      {
+        "industry": "Hot Sauce Production",
+        "development": "2024-06: A public IBISWorld listing put US hot sauce production at $2.6 billion in 2023, up 1.9% in 2023 with 4.1% profit."
+      },
+      {
+        "industry": "BBQ Sauce Production",
+        "development": "2025-02: Kraft Heinz launched Heinz Flavor Tour sauces, including Korean Inspired Sweet & Tangy BBQ, nationwide."
+      },
+      {
+        "industry": "BBQ Sauce Production",
+        "development": "2025-03: IFT cited Circana data showing 2024 barbecue sauce unit sales up 6.2% amid home-centric eating."
+      },
+      {
+        "industry": "Cider Production",
+        "development": "2025-07-22: The Bubble Tax Modernization Act was reintroduced in the House as H.R. 4613 to raise allowable carbonation levels for cider, mead and fruit wine."
+      },
+      {
+        "industry": "Cider Production",
+        "development": "2025-08-15: USApple forecast the 2025/26 US apple crop at 278.5 million bushels, up 1.3% from 2024/25 and 3.6% above the five-year average."
+      }
+    ]
+  },
+  {
+    "slug": "regulated-admin-stack",
+    "title": "The Regulated Admin Stack",
+    "lens": "Compliance Infrastructure",
+    "thesis": "Complexity creates businesses: testing, claims, identity, forensic work, HR, and compliance software turn regulation into recurring demand.",
+    "slugs": [
+      "insurance-claims-processing-software",
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services",
+      "dna-and-dna-forensic-laboratories",
+      "drug-and-alcohol-test-kit-manufacturing",
+      "hr-and-payroll-software",
+      "it-security-consulting",
+      "education-consultants"
+    ],
+    "operator_questions": [
+      "Is the work mandatory, recurring, and hard to defer?",
+      "Can AI reduce fulfillment cost without increasing liability?",
+      "Are customers buying risk reduction or just a cheaper workflow?"
+    ],
+    "industries": [
+      {
+        "slug": "insurance-claims-processing-software",
+        "title": "Insurance Claims Processing Software",
+        "sector": "Finance & Insurance",
+        "one_sentence": "The US insurance claims processing software industry is a growth market as P&C, health, life, disability and workers' compensation insurers replace legacy claims systems with cloud platforms, AI-assisted triage, FNOL automation, fraud analytics and connected payment workflows.",
+        "market_size": "2026: $17.4 billion estimated US revenue for the IBIS-style claims and policy software category; narrower US claims processing software trackers cite 2024: $3.5 billion and 2026: $1.47 billion for claims-management-only definitions.",
+        "growth": "2026: 3.1% five-year CAGR for the IBIS-style US category from 2021-2026; narrower current claims-management trackers cite 2025-2034 US/global CAGRs of about 8.9% to 12.8%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Cloud migration",
+          "AI claims guidance",
+          "FNOL automation",
+          "Fraud detection",
+          "Adjuster productivity",
+          "Catastrophe response"
+        ]
+      },
+      {
+        "slug": "identity-management-software-in-the-us",
+        "title": "Identity Management Software in the US",
+        "sector": "Technology & Digital",
+        "one_sentence": "Identity management software in the US is a growing cybersecurity software market built around single sign-on, multifactor authentication, identity governance, privileged access, customer identity and emerging controls for machine and AI-agent identities.",
+        "market_size": "2026 US identity and access management software revenue estimated at about $5.8 billion on a conservative software-only basis; broader US IAM estimates for 2024-2026 range from $8.6 billion in 2024 to $16.5 billion in 2024 depending on inclusion of services, CIAM and adjacent security categories.",
+        "growth": "2026 growth estimated at 10%-12%; broader IAM forecasts cite 2025-2034 CAGR ranges of 10.5%-15.1%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Zero trust becomes an identity-led architecture",
+          "Credential attacks keep MFA and passkeys high on the budget list",
+          "AI agents create a new non-human identity category",
+          "Platform consolidation favors Microsoft but leaves room for neutral specialists",
+          "Governance and auditability matter more as regulations tighten",
+          "Cloud IAM grows faster than legacy on-premises deployments"
+        ]
+      },
+      {
+        "slug": "identity-theft-protection-services",
+        "title": "Identity Theft Protection Services",
+        "sector": "Technology & Digital",
+        "one_sentence": "U.S. identity theft protection services sell consumer and enterprise subscriptions that monitor credit files, dark-web exposure, accounts, public records, and breached credentials, then monetize alerts, restoration support, insurance add-ons, and breach-response contracts.",
+        "market_size": "2026 U.S. market estimate: $4.685 billion; 2025 U.S. market estimate from another commercial source: $5.5 billion.",
+        "growth": "2025-2032 U.S. CAGR estimate: 7.3%; 2026-2031 broader identity theft protection market CAGR estimate: 10.66%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "AI-enabled fraud raises perceived need for monitoring",
+          "Free credit tools commoditize basic alerts",
+          "Breach-response contracts create episodic enterprise demand",
+          "Subscription bundles replace standalone credit monitoring",
+          "Data broker removal becomes a mainstream feature",
+          "Account takeover and new-account fraud drive product innovation"
+        ]
+      },
+      {
+        "slug": "forensic-accounting-services",
+        "title": "Forensic Accounting Services",
+        "sector": "Business Services",
+        "one_sentence": "The US forensic accounting services industry remains a specialized business-services niche where demand is driven by fraud losses, whistleblower activity, litigation, restructurings, regulatory enforcement and the shift toward data-heavy investigations.",
+        "market_size": "2026 US industry revenue estimate: $7.9 billion, based on the 2021 IBISWorld forecast for Forensic Accounting Services in the US.",
+        "growth": "2021-2026 projected CAGR: 2.6%, based on the 2021 IBISWorld forecast.",
+        "profit_margin": "2021 profit margin baseline: 17.8%.",
+        "themes": [
+          "Fraud and financial crime",
+          "Regulatory enforcement",
+          "Whistleblower investigations",
+          "Bankruptcy and restructuring",
+          "Litigation support",
+          "Forensic data analytics"
+        ]
+      },
+      {
+        "slug": "forensic-technology-services",
+        "title": "Forensic Technology Services",
+        "sector": "Business Services",
+        "one_sentence": "Forensic Technology Services providers process DNA, fingerprints, toxicology, controlled substances, ballistics, trace evidence, crime-scene and digital evidence for federal, state, county and municipal justice agencies.",
+        "market_size": "2026 estimated US forensic technology services revenue: about $792 million, based on the 2021 IBIS forecast for the narrow services category; broader US forensic technology products-and-services market projected at $2.31 billion in 2026 by Fortune Business Insights.",
+        "growth": "2021-2026 forecast CAGR: -0.6% for the narrow IBIS services category; 2026-2034 projected CAGR: 7.16% for the broader global forensic technology market.",
+        "profit_margin": "n/a",
+        "themes": [
+          "DNA backlog reduction",
+          "Synthetic opioids and emerging drug chemistry",
+          "Lab automation and LIMS modernization",
+          "Cybersecurity and evidence integrity",
+          "Public-sector funding dependence",
+          "Accreditation and validation burden"
+        ]
+      },
+      {
+        "slug": "dna-and-dna-forensic-laboratories",
+        "title": "DNA & DNA Forensic Laboratories",
+        "sector": "Healthcare",
+        "one_sentence": "The US DNA & DNA Forensic Laboratories industry generated an estimated $4.2 billion in 2025 revenue, up at an estimated 5.0% 2020-2025 CAGR from the 2020 IBISWorld baseline, with forensic backlogs, CODIS expansion, paternity demand and specialty genetic testing offsetting softer direct-to-consumer ancestry demand.",
+        "market_size": "2025 estimated US industry revenue: $4.2 billion, based on the baseline 2020 IBISWorld forecast for DNA & DNA Forensic Laboratories.",
+        "growth": "2020-2025 estimated revenue CAGR: 5.0%, based on the baseline IBISWorld forecast.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Forensic backlog reduction",
+          "Rapid DNA and CODIS integration",
+          "Lab automation and throughput",
+          "Paternity and relationship testing resilience",
+          "Direct-to-consumer ancestry reset",
+          "Genetic data privacy"
+        ]
+      },
+      {
+        "slug": "drug-and-alcohol-test-kit-manufacturing",
+        "title": "Drug & Alcohol Test Kit Manufacturing",
+        "sector": "Manufacturing",
+        "one_sentence": "The industry manufactures at-home and on-site diagnostic kits that screen urine, oral fluid, hair, breath, or other specimens for alcohol, cannabis, opioids, stimulants, and other drugs, with demand tied to workplace safety programs, clinical toxicology, law enforcement, rehabilitation monitoring, and consumer self-testing.",
+        "market_size": "2026 estimated US industry revenue: $3.13 billion, derived from the 2021 IBISWorld baseline of $2.811 billion and its 2021-2026 forecast CAGR of about 2.2%.",
+        "growth": "2021-2026 estimated CAGR: 2.2% for the manufacturing industry; broader US drug screening market sources show faster 2025-2033 growth of about 5.9%-7.4% depending on scope.",
+        "profit_margin": "2026 forecast profit margin: 9.2%, up from 8.6% in 2021 in the IBISWorld baseline.",
+        "themes": [
+          "Workplace safety",
+          "Cannabis legalization complexity",
+          "Oral-fluid testing",
+          "Tamper resistance",
+          "Point-of-care diagnostics",
+          "Fentanyl and polysubstance screening"
+        ]
+      },
+      {
+        "slug": "hr-and-payroll-software",
+        "title": "HR & Payroll Software",
+        "sector": "Technology & Digital",
+        "one_sentence": "The US HR & payroll software industry is expanding as employers replace manual processes and legacy systems with cloud HCM suites that combine payroll accuracy, HR records, compliance, benefits, scheduling, recruiting and AI-assisted employee self-service.",
+        "market_size": "2025: $21.6 billion US HR & payroll software market estimate; other public estimates range from 2024: $12.34 billion to 2025: $21.6 billion depending on whether services and broader HCM modules are included.",
+        "growth": "2025-2032: 4.4% CAGR forecast for the US HR & payroll software market; 2025-2030: 8.9% CAGR forecast in a broader US HR payroll software estimate.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Cloud migration",
+          "SaaS subscriptions",
+          "Payroll compliance",
+          "AI self-service",
+          "Integrated HCM suites",
+          "SMB digitization"
+        ]
+      },
+      {
+        "slug": "it-security-consulting",
+        "title": "IT Security Consulting",
+        "sector": "Technology & Digital",
+        "one_sentence": "The US IT security consulting industry sells advisory, integration, managed security, testing and incident-response services to organizations facing higher breach costs, cloud complexity, identity attacks, regulatory reporting duties and AI-driven threats.",
+        "market_size": "2024 US IT security consulting revenue: $16.9 billion.",
+        "growth": "2019-2024 US IT security consulting revenue CAGR: 3.7%; 2025 worldwide security services revenue: $84.4 billion, up 11.5% from 2024; 2026 worldwide information-security services spending forecast: $92.8 billion.",
+        "profit_margin": "n/a",
+        "themes": [
+          "AI security and shadow AI governance",
+          "Cloud and identity security",
+          "Ransomware readiness and incident response",
+          "Third-party and supply-chain risk",
+          "Board-level cyber governance",
+          "SEC and critical-infrastructure reporting"
+        ]
+      },
+      {
+        "slug": "education-consultants",
+        "title": "Education Consultants",
+        "sector": "Business Services",
+        "one_sentence": "Education consultants sell noninstructional advice to households, students and education organizations, with demand tied to competitive admissions, enrollment complexity, school budgets, household income and the growing use of digital and AI-enabled advising tools.",
+        "market_size": "About $3.0 billion in 2025 US admissions consulting revenue; the broader IBIS-defined Education Consultants industry was reported at $2.9 billion in 2023.",
+        "growth": "2025-2029 forecast CAGR of about 1.3% for US admissions consulting; the 2024 IBISWorld-distributed report cited 0.8% CAGR over the five years to 2023.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Fragmented sole-proprietor market",
+          "Admissions complexity",
+          "Test-optional recalibration",
+          "AI-enabled advising",
+          "FAFSA and affordability support",
+          "Undergraduate enrollment recovery"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Technology & Digital",
+        4
+      ],
+      [
+        "Business Services",
+        3
+      ],
+      [
+        "Finance & Insurance",
+        1
+      ],
+      [
+        "Healthcare",
+        1
+      ],
+      [
+        "Manufacturing",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Cloud migration",
+        2
+      ],
+      [
+        "AI claims guidance",
+        1
+      ],
+      [
+        "FNOL automation",
+        1
+      ],
+      [
+        "Fraud detection",
+        1
+      ],
+      [
+        "Adjuster productivity",
+        1
+      ],
+      [
+        "Catastrophe response",
+        1
+      ],
+      [
+        "Core-system modernization",
+        1
+      ],
+      [
+        "Embedded payments",
+        1
+      ],
+      [
+        "Document intelligence",
+        1
+      ],
+      [
+        "Claims leakage reduction",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Insurance Claims Processing Software",
+        "development": "2025-02-04: Markel migrated Guidewire ClaimCenter to Guidewire Cloud for US specialty claims operations and selected ClaimCenter for Markel International Wholesale."
+      },
+      {
+        "industry": "Insurance Claims Processing Software",
+        "development": "2025-04-29: Indico Data launched a Ready for Guidewire ClaimCenter accelerator to automate FNOL and claims-document extraction with GenAI."
+      },
+      {
+        "industry": "Identity Management Software in the US",
+        "development": "2025-02-12: SailPoint priced its IPO at $23.00 per share and returned to public markets as an identity security specialist."
+      },
+      {
+        "industry": "Identity Management Software in the US",
+        "development": "2025-03-26: SailPoint reported fiscal 2025 revenue of $862 million, up 23%, and ARR of $877 million, up 29%."
+      },
+      {
+        "industry": "Identity Theft Protection Services",
+        "development": "2025-01-29: ITRC reported 3,322 U.S. data compromises in 2025, a record and 5% above 2024."
+      },
+      {
+        "industry": "Identity Theft Protection Services",
+        "development": "2025-03-28: Gen Digital reported fiscal 2025 identity and information protection revenue of $1.423 billion, up from $1.328 billion in fiscal 2024."
+      },
+      {
+        "industry": "Forensic Accounting Services",
+        "development": "2025-01-17: SEC reported 200 enforcement actions in Q1 FY2025, its busiest first fiscal quarter since at least 2000."
+      },
+      {
+        "industry": "Forensic Accounting Services",
+        "development": "2025-03-10: FTC reported 2024 consumer fraud losses of $12.5 billion, up 25% from 2023."
+      },
+      {
+        "industry": "Forensic Technology Services",
+        "development": "2025-08-05: FBI reported over 14 million 2024 criminal offenses and estimated 2024 violent crime down 4.5% from 2023."
+      },
+      {
+        "industry": "Forensic Technology Services",
+        "development": "2025-09-11: BJA posted the FY25 DNA Capacity Enhancement for Backlog Reduction formula grant opportunity to help labs process DNA samples for CODIS and reduce or prevent backlogs."
+      },
+      {
+        "industry": "DNA & DNA Forensic Laboratories",
+        "development": "2025-07-01: FBI national QAS and procedures for Rapid DNA forensic casework became effective for CODIS-eligible forensic samples."
+      },
+      {
+        "industry": "DNA & DNA Forensic Laboratories",
+        "development": "2025-07-14: TTAM Research Institute completed the acquisition of 23andMe's Personal Genome Service and Research Services assets for a reported $305.0 million bankruptcy sale price."
+      }
+    ]
+  },
+  {
+    "slug": "distribution-middleman",
+    "title": "The Distribution Middleman",
+    "lens": "Wholesale & Distribution",
+    "thesis": "Distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+    "slugs": [
+      "electrical-equipment-wholesaling-in-the-us",
+      "coal-and-ore-wholesaling-in-the-us",
+      "dairy-wholesaling-in-the-us",
+      "egg-and-poultry-wholesaling-in-the-us",
+      "janitorial-equipment-supply-wholesaling-in-the-us",
+      "jewelry-and-watch-wholesaling-in-the-us",
+      "laboratory-supply-wholesaling-in-the-us",
+      "industrial-machinery-and-equipment-wholesaling-in-the-us",
+      "industrial-supplies-wholesaling-in-the-us",
+      "footwear-wholesaling-in-the-us"
+    ],
+    "operator_questions": [
+      "Is the distributor providing credit, speed, expertise, or just taking a margin?",
+      "Can procurement scale improve gross margin?",
+      "Which customers can bypass the channel?"
+    ],
+    "industries": [
+      {
+        "slug": "electrical-equipment-wholesaling-in-the-us",
+        "title": "Electrical Equipment Wholesaling in the US",
+        "sector": "Business Services",
+        "one_sentence": "The industry distributes wire, cable, conduit, lighting, switchgear, controls, security and other electrical power equipment, with 2025 demand strongest in data centers, utilities, power generation and large nonresidential projects while housing and broad industrial automation remain softer.",
+        "market_size": "$226.8 billion in 2023 U.S. Census AIES revenue for NAICS 423610 employer firms; 2025 electrical-distributor channel sales were estimated at $151.2 billion by Electrical Wholesaling/Electrical Marketing for the narrower distributor-sales channel.",
+        "growth": "2025 distributor-channel sales were up 0.4% year over year to $151.2 billion, while leading public/filing distributors outperformed: WESCO 2025 net sales rose 7.8% to $23.5 billion and Graybar 2025 net sales rose 10.6% to $12.9 billion.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Electrification",
+          "Data centers and AI infrastructure",
+          "Grid modernization",
+          "Power generation and utilities",
+          "Construction cyclicality",
+          "Distributor consolidation"
+        ]
+      },
+      {
+        "slug": "coal-and-ore-wholesaling-in-the-us",
+        "title": "Coal & Ore Wholesaling in the US",
+        "sector": "Energy & Environment",
+        "one_sentence": "The US Coal & Ore Wholesaling industry remains a mature, low-concentration distribution market whose 2025 revenue base is still near $19 billion, but 2026 demand indicators point lower as utility coal consumption retreats while nonfuel mineral demand stays supported by metals, critical-mineral and industrial supply-chain needs.",
+        "market_size": "2025 estimated revenue: about $18.9 billion, using the 2021 IBISWorld baseline revenue of $19.2 billion and its 2021-2026 projection of roughly $18.8 billion, adjusted for the 2025 EIA coal-consumption rebound.",
+        "growth": "2025 estimated revenue growth: about +0.5% year over year; 2026 demand signal: negative, with EIA forecasting US coal consumption down 8.8% from 452 million short tons in 2025 to 412 million short tons in 2026.",
+        "profit_margin": "2021 baseline profit margin: 2.7%; 2026 margin pressure remains high because commodity resale spreads are narrow and logistics, inventory and credit risks are material.",
+        "themes": [
+          "Coal-to-gas-and-renewables substitution",
+          "Utility coal inventory overhang",
+          "Metallurgical coal export resilience",
+          "Ore and critical-mineral supply-chain demand",
+          "Vertical integration by miners",
+          "Thin-margin commodity resale"
+        ]
+      },
+      {
+        "slug": "dairy-wholesaling-in-the-us",
+        "title": "Dairy Wholesaling in the US",
+        "sector": "Food & Drink",
+        "one_sentence": "US dairy wholesalers remain essential to cold-chain distribution, but 2025-2026 growth is restrained by retailer and processor bypass, soft domestic fluid-milk demand, volatile milk prices and rising logistics costs, while export strength in cheese and butterfat supports upstream volume.",
+        "market_size": "$97.2 billion estimated 2026 revenue, based on the 2022 IBISWorld baseline forecast path from $94.6 billion in 2022 to $98.0 billion in 2027",
+        "growth": "0.7% estimated 2022-2027 CAGR; roughly sub-1% annual growth in 2026",
+        "profit_margin": "1.6% EBIT margin in 2022 baseline and 1.6% projected for 2027 baseline",
+        "themes": [
+          "Mature industry",
+          "Thin margins",
+          "Cold-chain logistics",
+          "Retailer bargaining power",
+          "Vertical integration",
+          "Commodity price volatility"
+        ]
+      },
+      {
+        "slug": "egg-and-poultry-wholesaling-in-the-us",
+        "title": "Egg & Poultry Wholesaling in the US",
+        "sector": "Food & Drink",
+        "one_sentence": "The industry is a mature, low-margin food distribution niche where steady poultry demand is offset by volatile egg pricing, avian influenza disruptions, and rising competition from broadline distributors and vertically integrated processors.",
+        "market_size": "2026 estimate: $12.9 billion in revenue, based on the 2022 IBISWorld $12.3 billion baseline and its 2022-2027 forecast to $13.1 billion.",
+        "growth": "2022-2027 baseline forecast: 1.2% CAGR; 2026 conditions are mixed, with USDA forecasting 2026 broiler prices up 1.6% and 2026 egg prices down 30.4% after the 2025 HPAI-driven spike.",
+        "profit_margin": "2022 baseline: 2.2% EBIT margin; 2027 baseline forecast: 2.2% EBIT margin.",
+        "themes": [
+          "Avian influenza volatility",
+          "Cold-chain logistics",
+          "Broadline distributor competition",
+          "Producer-direct distribution",
+          "Low-margin pass-through pricing",
+          "Chicken as everyday protein"
+        ]
+      },
+      {
+        "slug": "janitorial-equipment-supply-wholesaling-in-the-us",
+        "title": "Janitorial Equipment Supply Wholesaling in the US",
+        "sector": "Business Services",
+        "one_sentence": "US janitorial equipment supply wholesalers are growing slowly in 2025-2026 as facility-care demand, nonresidential building activity and automation purchases offset e-commerce price pressure and direct manufacturer sales.",
+        "market_size": "2026 estimated revenue of $29.3 billion, based on the 2022 IBISWorld baseline of $27.276 billion grown at the 2022-2027 projected CAGR of 1.8%.",
+        "growth": "2026 estimated annual industry growth of 1.8%; 2022-2027 projected CAGR of 1.8%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Consolidation and national-account scale",
+          "E-commerce and manufacturer-direct competition",
+          "Robotics and smart cleaning equipment",
+          "Green cleaning and ESG procurement",
+          "Health, hygiene and indoor-environment expectations",
+          "Route density and fulfillment efficiency"
+        ]
+      },
+      {
+        "slug": "jewelry-and-watch-wholesaling-in-the-us",
+        "title": "Jewelry & Watch Wholesaling in the US",
+        "sector": "Retail",
+        "one_sentence": "Jewelry & Watch Wholesaling in the US is a mature, low-margin distribution industry whose dollar revenue moves with precious-metal prices, retail jewelry demand, import costs and inventory cycles rather than with unit volume alone.",
+        "market_size": "$64.6 billion in 2026 forecast revenue from the January 2022 IBISWorld baseline outlook",
+        "growth": "0.7% CAGR forecast for 2021-2026 in the January 2022 IBISWorld baseline outlook",
+        "profit_margin": "n/a",
+        "themes": [
+          "Precious-metal price pass-through",
+          "Fragmented wholesale trade",
+          "Retail jewelry consolidation",
+          "Tariff and customs complexity",
+          "Lab-grown diamond price deflation",
+          "Natural-diamond provenance"
+        ]
+      },
+      {
+        "slug": "laboratory-supply-wholesaling-in-the-us",
+        "title": "Laboratory Supply Wholesaling in the US",
+        "sector": "Business Services",
+        "one_sentence": "US laboratory supply wholesalers benefited from post-pandemic R&D and testing demand, but 2025 growth is modest as COVID-era demand fades, federal research funding becomes less certain and large customers push harder on pricing and e-commerce purchasing.",
+        "market_size": "2025: $30.4 billion",
+        "growth": "2025: 1.4% market-size growth",
+        "profit_margin": "n/a",
+        "themes": [
+          "Post-COVID demand normalization",
+          "Biopharma and diagnostics resilience",
+          "Federal research funding uncertainty",
+          "E-commerce and manufacturer-direct bypass",
+          "Lab automation and high-end analytical instruments",
+          "Margin pressure from freight, wages and competitive bidding"
+        ]
+      },
+      {
+        "slug": "industrial-machinery-and-equipment-wholesaling-in-the-us",
+        "title": "Industrial Machinery & Equipment Wholesaling in the US",
+        "sector": "Manufacturing",
+        "one_sentence": "Industrial machinery and equipment wholesalers make money by buying specialized industrial equipment from manufacturers and reselling it to manufacturers, oil and gas operators, warehouses, machine shops, contractors and other industrial users, with demand tied closely to capital spending, industrial production, oil prices and warehouse automation.",
+        "market_size": "2025 estimated revenue: $330.2 billion, indexed from the 2022 IBIS revenue baseline to BLS/FRED NAICS 4238 sectoral output.",
+        "growth": "2025 estimated revenue growth: 2.4% versus 2024, using BLS/FRED NAICS 4238 sectoral output growth from $650.3 billion in 2024 to $665.9 billion in 2025.",
+        "profit_margin": "2022 IBIS profit margin: 4.1%; 2025 margins remain pressured by wage, freight, inventory-carrying and tariff-sensitive metals costs.",
+        "themes": [
+          "Manufacturing capex recovery",
+          "Warehouse automation",
+          "Oilfield volatility",
+          "Tariff and metals-cost pass-through",
+          "Distributor consolidation",
+          "Technical sales and repair services"
+        ]
+      },
+      {
+        "slug": "industrial-supplies-wholesaling-in-the-us",
+        "title": "Industrial Supplies Wholesaling in the US",
+        "sector": "Business Services",
+        "one_sentence": "Industrial supplies wholesalers make money by buying broad lines of abrasives, containers, valves, fittings, hoses, bearings, power-transmission supplies, tape and packaging products in volume, holding local inventory, and reselling customized orders to industrial customers at a markup.",
+        "market_size": "2025 estimated revenue of about $99.1 billion, based on the 2022 IBISWorld baseline of $95.3 billion grown at its stated 2022-2027 forecast CAGR of 1.3%; latest public Census NAICS 423840 benchmark was $92.7 billion in 2023.",
+        "growth": "2025 estimated industry growth of about 1.3% on the IBISWorld 2022-2027 forecast path; current demand indicators improved in 2026, with Federal Reserve industrial production up 1.1% year over year in June 2026 and up at a 4.0% annual rate in 2026 Q2.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Mature fragmented distribution",
+          "Manufacturing-cycle exposure",
+          "MRO resilience",
+          "Digital catalog migration",
+          "Vendor-managed inventory",
+          "Private-label sourcing"
+        ]
+      },
+      {
+        "slug": "footwear-wholesaling-in-the-us",
+        "title": "Footwear Wholesaling in the US",
+        "sector": "Retail",
+        "one_sentence": "US footwear wholesalers buy shoes from manufacturers and brand owners and resell them mainly to shoe stores, department stores, mass merchants, e-commerce retailers and other trade customers, earning margin on inventory availability, assortment breadth, logistics and retailer relationships.",
+        "market_size": "2025 estimated US footwear wholesaling revenue: about $35 billion, using the 2023 IBIS-reported $35.7 billion industry revenue base and 2025-2026 low-growth retail/trade indicators.",
+        "growth": "2025 estimated industry revenue growth: roughly flat to +1%; 2026 demand indicators remain low-growth, with Q1 2026 US footwear retail dollar sales +1% year over year and units down.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Tariff exposure",
+          "Import dependence",
+          "DTC versus wholesale rebalance",
+          "Running and performance footwear",
+          "Comfort and versatility",
+          "Inventory discipline"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Business Services",
+        4
+      ],
+      [
+        "Food & Drink",
+        2
+      ],
+      [
+        "Retail",
+        2
+      ],
+      [
+        "Energy & Environment",
+        1
+      ],
+      [
+        "Manufacturing",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Distributor consolidation",
+        3
+      ],
+      [
+        "Cold-chain logistics",
+        2
+      ],
+      [
+        "Electrification",
+        1
+      ],
+      [
+        "Data centers and AI infrastructure",
+        1
+      ],
+      [
+        "Grid modernization",
+        1
+      ],
+      [
+        "Power generation and utilities",
+        1
+      ],
+      [
+        "Construction cyclicality",
+        1
+      ],
+      [
+        "Digital procurement",
+        1
+      ],
+      [
+        "Pricing and tariff volatility",
+        1
+      ],
+      [
+        "Switchgear and transformer lead times",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Electrical Equipment Wholesaling in the US",
+        "development": "2025: Census AIES reported $226.8 billion of 2023 revenue for NAICS 423610 employer firms, establishing a post-2022 public benchmark for the industry."
+      },
+      {
+        "industry": "Electrical Equipment Wholesaling in the US",
+        "development": "2025: Electrical Wholesaling's Top 100 distributors generated $108.5 billion, equal to 73% of estimated 2024 industry sales of $148 billion."
+      },
+      {
+        "industry": "Coal & Ore Wholesaling in the US",
+        "development": "2025-09-10: FRED/BLS reported the metal and mineral merchant wholesaler PPI at 149.335 for August 2025, down from 161.926 in April 2025."
+      },
+      {
+        "industry": "Coal & Ore Wholesaling in the US",
+        "development": "2025-11-19: EIA’s Annual Coal Report finalized 2024 US coal production at 512.5 million short tons, down 11.3% from 2023."
+      },
+      {
+        "industry": "Dairy Wholesaling in the US",
+        "development": "2025: US dairy export value rose 15% to $9.63 billion, near the 2022 record of $9.66 billion"
+      },
+      {
+        "industry": "Dairy Wholesaling in the US",
+        "development": "2025: US cheese exports rose 20% to 613,045 metric tons, creating stronger throughput for cheese-oriented supply chains"
+      },
+      {
+        "industry": "Egg & Poultry Wholesaling in the US",
+        "development": "2025-01: USDA and market data showed renewed HPAI pressure on egg-laying flocks, tightening egg supply and lifting wholesale and retail egg prices."
+      },
+      {
+        "industry": "Egg & Poultry Wholesaling in the US",
+        "development": "2025-02: US retail egg prices reached record levels during the 2025 HPAI-driven supply shock, raising revenue pass-through opportunities and procurement risk for egg wholesalers."
+      },
+      {
+        "industry": "Janitorial Equipment Supply Wholesaling in the US",
+        "development": "2025-02-24: Imperial Dade acquired Athens Janitor Supply Company and Chittom Industries in Georgia."
+      },
+      {
+        "industry": "Janitorial Equipment Supply Wholesaling in the US",
+        "development": "2025-06-10: ISSA highlighted 2025 cleaning trends including smart cleaning technology, sustainability, health-focused cleaning and workforce training."
+      },
+      {
+        "industry": "Jewelry & Watch Wholesaling in the US",
+        "development": "2025-04-05: US reciprocal tariffs began with a 10% additional ad valorem duty on most imports under the April 2025 Federal Register order."
+      },
+      {
+        "industry": "Jewelry & Watch Wholesaling in the US",
+        "development": "2025-05-08: De Beers announced plans to close Lightbox after lab-grown diamond wholesale prices fell 90% since the brand's launch pricing model."
+      }
+    ]
+  },
+  {
+    "slug": "care-and-family-infrastructure",
+    "title": "Care & Family Infrastructure",
+    "lens": "Societal Services",
+    "thesis": "Aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us",
+      "in-home-senior-care-franchises",
+      "hospices-and-palliative-care-centers",
+      "home-medical-equipment-rentals",
+      "health-and-welfare-funds-in-the-us",
+      "eating-disorder-clinics"
+    ],
+    "operator_questions": [
+      "Is demand demographic, cyclical, or policy-driven?",
+      "Where is the staffing bottleneck?",
+      "Does regulation protect scaled operators or punish them?"
+    ],
+    "industries": [
+      {
+        "slug": "elderly-and-disabled-services-in-the-us",
+        "title": "Elderly & Disabled Services in the US",
+        "sector": "Healthcare",
+        "one_sentence": "Elderly and disabled services providers deliver nonmedical home aide, adult day, companionship, transportation and community support services for older adults and people with disabilities, with demand increasingly tied to Medicaid HCBS policy and the preference to age in place.",
+        "market_size": "$80.1 billion in 2025",
+        "growth": "3.4% in 2025",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging population",
+          "Aging in place",
+          "Medicaid HCBS",
+          "Direct care workforce shortage",
+          "Low-margin labor model",
+          "State reimbursement risk"
+        ]
+      },
+      {
+        "slug": "early-childhood-learning-centers",
+        "title": "Early Childhood Learning Centers",
+        "sector": "Consumer Services",
+        "one_sentence": "Early Childhood Learning Centers are a labor-heavy, locally regulated education-and-care industry whose 2025 demand is supported by high parental employment and public pre-K funding, but constrained by staffing costs, child-care affordability and demographic softness in young children.",
+        "market_size": "2025: about $22.6B in US Early Childhood Learning Centers revenue, per IBISWorld public market-size estimate.",
+        "growth": "2019-2024: about 3.6% CAGR for US Early Childhood Learning Centers revenue; 2025: roughly flat near $22.6B based on IBISWorld public summary.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Affordability gap",
+          "Labor scarcity",
+          "State pre-K expansion",
+          "Employer-sponsored child care",
+          "Occupancy management",
+          "Franchise growth"
+        ]
+      },
+      {
+        "slug": "child-education-and-developmental-center-franchises",
+        "title": "Child Education & Developmental Center Franchises",
+        "sector": "Consumer Services",
+        "one_sentence": "The US child education and developmental center franchise industry has recovered from the 2020 pandemic shock and is around a 2025 market size of about $3.9-$4.0 billion, but growth is modest because tuition hikes, wage pressure and declining births offset strong demand for reliable, curriculum-based care.",
+        "market_size": "2025: about $3.9-$4.0 billion for US child education and developmental center franchises, estimated from the 2022 baseline of $3.68 billion and the 2022-2028 projected CAGR of 1.67%, consistent with public franchise-market references around $4.0 billion.",
+        "growth": "2022-2025: about 1.7%-2.8% annualized depending on whether the 2022 baseline projection or rounded 2025 public market estimate is used; 2022-2028 baseline projection was 1.67% CAGR.",
+        "profit_margin": "2022: 14.5% EBIT margin in the baseline; 2025-2026 margins remain pressured by wages, insurance, rent and compliance costs despite tuition increases.",
+        "themes": [
+          "Affordability pressure",
+          "Labor shortage",
+          "Premium early education",
+          "Franchise consolidation",
+          "Subsidy reform",
+          "Dual-income households"
+        ]
+      },
+      {
+        "slug": "family-counseling-and-crisis-intervention-services-in-the-us",
+        "title": "Family Counseling & Crisis Intervention Services in the US",
+        "sector": "Healthcare",
+        "one_sentence": "Family counseling and crisis intervention providers deliver nonresidential counseling, support groups, crisis hotlines, family welfare, substance-use support, shelter referrals and related social assistance, with 2025-2026 momentum tied to 988 capacity, CCBHC expansion, block-grant funding and persistent behavioral-health need.",
+        "market_size": "2026: $52.4 billion estimated industry revenue in 2021 dollars from the 2022 IBISWorld forecast; broader Census NAICS 6241 Individual and Family Services revenue reached $194.2 billion in 2025 and $49.3 billion in Q1 2026 seasonally adjusted.",
+        "growth": "2021-2026: 1.8% forecast CAGR for the IBIS industry; broader Census NAICS 6241 revenue grew 7.5% in 2025 versus 2024 and Q1 2026 seasonally adjusted revenue was 6.5% above Q1 2025.",
+        "profit_margin": "2021: 3.5% EBIT margin in the IBIS baseline, reflecting nonprofit reinvestment and labor intensity.",
+        "themes": [
+          "988 crisis infrastructure",
+          "CCBHC Medicaid expansion",
+          "Substance-use recovery and opioid response",
+          "Youth and family mental health",
+          "Grant dependence and reimbursement complexity",
+          "Nonprofit fragmentation"
+        ]
+      },
+      {
+        "slug": "family-planning-and-abortion-clinics-in-the-us",
+        "title": "Family Planning & Abortion Clinics in the US",
+        "sector": "Healthcare",
+        "one_sentence": "US family planning and abortion clinics generated an estimated $3.9 billion in 2025 revenue, with demand supported by contraceptive care, STI testing, Title X and Medicaid reimbursement, while abortion access has shifted sharply toward protected states and telehealth.",
+        "market_size": "2025 estimated revenue: about $3.9 billion, derived from the 2022 IBIS baseline of $3.73 billion and its 1.8% 2022-2027 forecast CAGR; latest public Census/FRED NAICS 621410 employer revenue totaled $3.891 billion in 2022 across taxable and tax-exempt firms.",
+        "growth": "2022-2027 forecast CAGR: 1.8%; 2022 revenue growth: 1.1%; 2017-2022 CAGR: 2.0%.",
+        "profit_margin": "2022 estimated EBIT margin: 7.8%; 2027 baseline forecast: 7.7%.",
+        "themes": [
+          "Post-Dobbs geographic fragmentation",
+          "Safety-net healthcare funding dependence",
+          "Medication abortion and telehealth",
+          "Patient travel and state shield laws",
+          "Title X and Medicaid policy risk",
+          "Low-margin outpatient care"
+        ]
+      },
+      {
+        "slug": "in-home-senior-care-franchises",
+        "title": "In-Home Senior Care Franchises",
+        "sector": "Healthcare",
+        "one_sentence": "U.S. in-home senior care franchises provide nonmedical personal care, companionship, respite care, transportation, meal help and, in some systems, skilled home health services to older adults who want to remain at home.",
+        "market_size": "2026 U.S. in-home senior care franchise revenue is estimated near $17.6 billion based on the baseline IBISWorld 2021 forecast; the broader U.S. Elderly & Disabled Services market was $80.1 billion in 2025.",
+        "growth": "The baseline forecast was 2.6% CAGR for 2021-2026; broader U.S. Elderly & Disabled Services grew 3.4% in 2025, according to IBISWorld public market-size data.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging in place",
+          "Caregiver shortage",
+          "Private-pay affordability",
+          "Medicaid HCBS expansion",
+          "Medicare reimbursement pressure",
+          "Franchise consolidation"
+        ]
+      },
+      {
+        "slug": "hospices-and-palliative-care-centers",
+        "title": "Hospices & Palliative Care Centers",
+        "sector": "Healthcare",
+        "one_sentence": "US hospices and palliative care centers provide comfort-focused care for terminally ill patients, with revenue anchored by Medicare hospice payments and demand supported by aging demographics, home-based care preferences, and high hospital costs.",
+        "market_size": "$33.0 billion in 2025",
+        "growth": "2.0% CAGR from 2019 to 2024; 2.3% revenue growth in 2024; FY2026 Medicare hospice payment update of 2.6%",
+        "profit_margin": "9.7% of revenue in 2024",
+        "themes": [
+          "Aging population",
+          "Medicare reimbursement exposure",
+          "Home-based care shift",
+          "Labor shortages and wage pressure",
+          "Program integrity and fraud enforcement",
+          "Quality reporting and HOPE implementation"
+        ]
+      },
+      {
+        "slug": "home-medical-equipment-rentals",
+        "title": "Home Medical Equipment Rentals",
+        "sector": "Healthcare",
+        "one_sentence": "The industry is growing again as aging, chronic respiratory disease and hospital-at-home demand offset Medicare reimbursement pressure and a tighter competitive-bidding regime.",
+        "market_size": "2025: $5.6 billion in U.S. home health equipment rental industry sales",
+        "growth": "2020-2025: 4.2% CAGR",
+        "profit_margin": "n/a",
+        "themes": [
+          "Aging population",
+          "Care shifting from hospital to home",
+          "Medicare reimbursement pressure",
+          "Competitive bidding reset",
+          "Sleep and respiratory care growth",
+          "Payer prior authorization and documentation burden"
+        ]
+      },
+      {
+        "slug": "health-and-welfare-funds-in-the-us",
+        "title": "Health & Welfare Funds in the US",
+        "sector": "Finance & Insurance",
+        "one_sentence": "Health and welfare funds remain a large, mature part of the employment-based benefits system, with revenue supported by rising medical premiums and investment income but constrained by flat union density, insurer competition and higher claims costs.",
+        "market_size": "2025 estimated revenue: $258.6 billion, derived from the 2022 IBISWorld baseline of $236.6 billion and its 2022-2027 revenue forecast path to $274.5 billion.",
+        "growth": "2022-2027 projected revenue CAGR: 3.0%; 2025 modeled annual growth: about 3.0%.",
+        "profit_margin": "n/a",
+        "themes": [
+          "Medical-cost inflation",
+          "Union density and collective bargaining",
+          "Employer-sponsored insurance",
+          "Multiemployer benefit trusts",
+          "Prescription-drug and GLP-1 cost pressure",
+          "Investment-income volatility"
+        ]
+      },
+      {
+        "slug": "eating-disorder-clinics",
+        "title": "Eating Disorder Clinics",
+        "sector": "Healthcare",
+        "one_sentence": "The US Eating Disorder Clinics industry is a small but expanding behavioral health specialty, supported by high unmet need, broader acceptance of telehealth and stepped-care models, and constrained by insurance denials, workforce shortages and high out-of-pocket costs.",
+        "market_size": "2025 estimated US revenue: $1.5 billion, based on the 2021 IBISWorld baseline of $1.29 billion and 2021-2026 forecast growth toward $1.4 billion+",
+        "growth": "2025 estimated YoY revenue growth: about 2.0%-3.0%; 2021-2026 baseline forecast CAGR: 2.1%",
+        "profit_margin": "n/a",
+        "themes": [
+          "High unmet behavioral health need",
+          "Insurance parity uncertainty",
+          "Virtual PHP and IOP expansion",
+          "Adolescent and family-based care",
+          "Residential capacity and hybrid campuses",
+          "Private equity and consolidation"
+        ]
+      }
+    ],
+    "sector_mix": [
+      [
+        "Healthcare",
+        7
+      ],
+      [
+        "Consumer Services",
+        2
+      ],
+      [
+        "Finance & Insurance",
+        1
+      ]
+    ],
+    "common_themes": [
+      [
+        "Aging population",
+        3
+      ],
+      [
+        "Aging in place",
+        2
+      ],
+      [
+        "Private-pay affordability",
+        2
+      ],
+      [
+        "Franchise consolidation",
+        2
+      ],
+      [
+        "Workforce shortages",
+        2
+      ],
+      [
+        "Medicare reimbursement pressure",
+        2
+      ],
+      [
+        "Medicaid HCBS",
+        1
+      ],
+      [
+        "Direct care workforce shortage",
+        1
+      ],
+      [
+        "Low-margin labor model",
+        1
+      ],
+      [
+        "State reimbursement risk",
+        1
+      ]
+    ],
+    "recent_developments": [
+      {
+        "industry": "Elderly & Disabled Services in the US",
+        "development": "2024-04-22: CMS finalized the Medicaid Access Rule, including HCBS payment transparency, wait-list reporting, quality reporting and an 80% direct-care compensation requirement for specified HCBS payments."
+      },
+      {
+        "industry": "Elderly & Disabled Services in the US",
+        "development": "2024-06-10: Addus HomeCare agreed to acquire Gentiva's personal care operations for about $350 million, adding about $280 million in annualized revenue across seven states."
+      },
+      {
+        "industry": "Early Childhood Learning Centers",
+        "development": "2024-04-30: HHS finalized Child Care and Development Fund rules intended to lower eligible-family copayments and stabilize provider payments."
+      },
+      {
+        "industry": "Early Childhood Learning Centers",
+        "development": "2025-05-08: NIEER reported 2023-2024 state preschool enrollment of about 1.75M children and state spending of about $13.6B."
+      },
+      {
+        "industry": "Child Education & Developmental Center Franchises",
+        "development": "2024: HHS finalized Child Care and Development Fund rules limiting many family copayments to no more than 7% of income and encouraging more predictable provider payments."
+      },
+      {
+        "industry": "Child Education & Developmental Center Franchises",
+        "development": "2024: Child Care Aware reported the national average annual price of child care at $13,128, highlighting continued affordability pressure."
+      },
+      {
+        "industry": "Family Counseling & Crisis Intervention Services in the US",
+        "development": "2025-07-17: SAMHSA discontinued the 988 LGBTQ+ youth and young adult Press 3 subnetwork after allocated funding was expended."
+      },
+      {
+        "industry": "Family Counseling & Crisis Intervention Services in the US",
+        "development": "2025-07-28: SAMHSA released 2024 NSDUH results showing 61.5 million adults with any mental illness and 48.4 million people aged 12+ with a substance use disorder."
+      },
+      {
+        "industry": "Family Planning & Abortion Clinics in the US",
+        "development": "2025-06-26: The Supreme Court decided Medina v. Planned Parenthood South Atlantic, limiting Medicaid beneficiaries' private enforcement route to challenge state exclusion of Planned Parenthood as a provider."
+      },
+      {
+        "industry": "Family Planning & Abortion Clinics in the US",
+        "development": "2025-07-04: Section 71113 of the 2025 federal budget reconciliation law began a one-year block on federal Medicaid payments to certain reproductive health entities that provide abortion care."
+      },
+      {
+        "industry": "In-Home Senior Care Franchises",
+        "development": "2025-01-22: HCAOA reported multiple senior care franchise brands, including Senior Helpers, Home Instead, BrightStar Care, Griswold, Right at Home, Homewatch CareGivers and Comfort Keepers, appeared in Entrepreneur's 2025 Franchise 500."
+      },
+      {
+        "industry": "In-Home Senior Care Franchises",
+        "development": "2025-04-29: Comfort Keepers said it had over 600 North American territories and highlighted growth after moving to a fully franchised model."
+      }
+    ]
+  }
+]

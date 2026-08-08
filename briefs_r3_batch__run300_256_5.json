@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Language Instruction in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A small, labor-heavy education services niche is being squeezed between recovered mobility demand and faster, cheaper digital language platforms.",
+    "overview": "The US language instruction industry covers standalone language schools, tutors and private programs offering foreign-language instruction, ESL and ASL, excluding broad college and university instruction and self-serve software-only products. The 2022 IBISWorld baseline put revenue at $1.511 billion after a 2022 rebound of 2.3%, with foreign-language instruction representing 82.0% of 2022 revenue, English-language instruction 10.4% and sign-language instruction 7.6%. By 2025, the narrow US market was reported at about $1.7 billion with 0.2% 2025 growth, implying nominal recovery but little real momentum. Demand is supported by 2024 US Census data showing 28.9 million people age 5+ speaking English less than very well and by 2024/25 international student totals of 1,177,766, but intensive English programs fell to 66,033 students at 325 US programs in 2025, down 5% from 2024. The industry remains fragmented below a few recognizable education brands, with price pressure from Duolingo, Rosetta Stone and other app-based learning alternatives.",
+    "key_stats": {
+      "market_size": "2025: about $1.7 billion in US language instruction revenue",
+      "growth": "2025: 0.2% market-size growth",
+      "intensive_english_program_students": "2025: 66,033 international IEP students at 325 US programs, down 5% from 2024",
+      "limited_english_proficient_population": "2024: 28.9 million US residents age 5+ spoke English less than very well",
+      "international_students": "2024/25: 1,177,766 international students in US higher education, up 5% from 2023/24",
+      "college_language_enrollment": "2021: MLA reported language course enrollments down 16.6% from 2016 to 2021",
+      "digital_competition": "2025: Duolingo revenue was $1.0376 billion, up 39% from 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $1.511 billion revenue in 2022 dollars",
+      "growth": "2022: 2.3% annual revenue growth; 2017-2022 revenue CAGR was -0.8%",
+      "profit": "2022: $80 million profit and 5.3% profit margin",
+      "industry_gross_product": "2022: $648 million industry gross product",
+      "establishments": "2022: 13,034 establishments",
+      "enterprises": "2022: 12,663 enterprises",
+      "employment": "2022: 32,754 employees",
+      "wages": "2022: $499 million total wages",
+      "product_mix": "2022: foreign language instruction 82.0% of revenue, English language instruction 10.4%, sign language instruction 7.6%"
+    },
+    "how_it_makes_money": "Operators charge tuition, hourly lesson fees, course packages, corporate training contracts, private tutoring fees, test-prep or pathway-program fees, and in some cases online live-class subscriptions. Consumer learners pay for Spanish, French, Japanese, Korean, Chinese and other foreign-language classes, immigrants and international students pay for ESL, and health care, education and public-service customers support ASL and workplace language programs.",
+    "cost_structure": "The 2022 model was labor-intensive: wages were $499 million against $1.511 billion of revenue, and profit was $80 million, or a 5.3% margin. Key costs include instructor wages and contractor payments, curriculum and learning-platform expenses, classroom rent for in-person schools, marketing and agent commissions for international recruitment, insurance, technology subscriptions, payment processing and administrative staff. Digital delivery lowers facility costs but raises spending on software, video platforms, lead generation and instructor scheduling.",
+    "major_players": [
+      "Graham Holdings Co. / Kaplan International Languages: major branded operator; Graham reported 2025 Kaplan International revenue of $1.080 billion globally, with 2025 declines in Pathways and Languages offset by other units",
+      "IXL Learning / Rosetta Stone: major digital language-learning brand and external substitute for live instruction",
+      "Berlitz: long-running corporate and consumer language training brand with US operations",
+      "EF Education First: global education and language travel provider competing for English and foreign-language learners",
+      "Duolingo: not a traditional language school, but a dominant substitute; 2025 revenue was $1.0376 billion and Q4 2025 daily active users were 52.7 million",
+      "Independent local schools and tutors: the bulk of 2022 establishments and enterprises, competing mainly on price, language specialization and schedule flexibility"
+    ],
+    "current_dynamics": "The 2025 market is stable in nominal terms but competitively strained. Live instruction benefits from 2024/25 international student recovery, 2024 LEP demand and renewed adult enrichment spending, while the fall 2025 decline in new international students and the 2025 drop in IEP enrollment weaken the premium ESL pipeline. College foreign-language enrollment remains structurally soft after the 2021 MLA decline from 2016, which reduces tutoring demand tied to academic courses. Operators are adding hybrid and remote classes, but app-based competitors are scaling much faster, with Duolingo crossing $1.0376 billion of 2025 revenue and investing in AI-enabled learning features.",
+    "whats_growing": [
+      "2024: ESL addressable demand remained large, with 28.9 million US residents age 5+ speaking English less than very well",
+      "2024/25: total international students reached 1,177,766, up 5% from 2023/24, supporting pathway, ESL and academic-preparation services",
+      "2025: community college and adult learner recovery supported local language programs as total spring 2025 postsecondary enrollment rose 3.2% to 18.4 million",
+      "2025: ASL and career-linked language instruction remained more defensible than casual hobby classes because learners often need credentials or live feedback",
+      "2025: hybrid one-on-one tutoring, small-group online classes and corporate cross-cultural training gained share within live instruction"
+    ],
+    "whats_shrinking": [
+      "2025: intensive English programs fell to 66,033 students at 325 US programs, down 5% from 2024",
+      "2025: fall 2025 new international student enrollment fell 17% from fall 2024 in IIE's snapshot, pressuring future ESL and pathway starts",
+      "2021: college language course enrollments were down 16.6% from 2016, reducing academic tutoring demand for many traditional languages",
+      "2025: low-cost app subscriptions and AI practice tools continued to take casual learners away from paid live classes",
+      "2025: large campus-based and travel-linked programs remained exposed to visa delays, airline costs and destination-safety perceptions"
+    ],
+    "recent_developments": [
+      "2025-05-22: National Student Clearinghouse reported spring 2025 postsecondary enrollment at 18.4 million, up 3.2% from spring 2024.",
+      "2025-11-17: IIE reported 1,177,766 international students in 2024/25, up 5% from 2023/24.",
+      "2025-11-17: IIE's fall 2025 snapshot showed total international students down 1% and new international enrollment down 17% from fall 2024.",
+      "2026-02-25: Graham Holdings reported 2025 Kaplan International revenue of $1.080 billion and noted declines at Pathways and Languages.",
+      "2026-02-26: Duolingo reported 2025 revenue of $1.0376 billion, up 39% from 2024, and Q4 2025 daily active users of 52.7 million.",
+      "2026-05-28: Open Doors IEP data reported 66,033 international IEP students at 325 US programs in 2025, down 5% from 2024."
+    ],
+    "outlook": "Through 2026, the industry should remain close to flat unless visa processing and international pathway starts improve materially. ESL demand has a large 2024 demographic base, but 2025 IEP weakness and fall 2025 new-student declines point to softer starts for schools dependent on foreign students. Foreign-language instruction is likely to keep losing casual learners to app and AI tools, while premium live instruction survives where feedback, accountability, certification, employer requirements or specialized languages matter. The best-positioned operators will combine live instructors with online delivery, corporate contracts, test preparation, pathway partnerships and niche languages that general-purpose apps serve poorly.",
+    "themes": [
+      "AI-enabled language learning pressure",
+      "Hybrid tutoring and small-group online classes",
+      "ESL demand from immigration and LEP populations",
+      "International student and visa-cycle exposure",
+      "Declining college foreign-language enrollment",
+      "ASL and career-linked language resilience",
+      "Fragmented local-school competition",
+      "Corporate cross-cultural and workforce training"
+    ],
+    "data_year": "2026 brief using 2025 industry sizing, 2025 IEP data, 2025 company results, 2024 ACS language data and 2024/25 international student data",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, last updated 2022-07-29', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/language-instruction-in-the-us.txt'}",
+      "{'name': 'IBISWorld state page, Language Instruction in Massachusetts, published 2025-04-10', 'url': 'https://www.ibisworld.com/united-states/industry/massachusetts/language-instruction/27622/'}",
+      "{'name': 'KitsunePass summary citing IBISWorld 2025 US language instruction market size', 'url': 'https://www.kitsunepass.com/blog/language-school-usa-market-analysis-2026'}",
+      "{'name': 'IIE Open Doors 2025 international student enrollment release', 'url': 'https://www.iie.org/news/open-doors-2025-press-release/'}",
+      "{'name': 'IIE Fall 2025 Snapshot on International Student Enrollment', 'url': 'https://www.iie.org/blog/four-things-to-know-about-the-fall-2025-snapshot/'}",
+      "{'name': 'IIE Open Doors 2025 Intensive English Program data', 'url': 'https://opendoorsdata.org/infographic/number-of-international-iep-students-in-the-u-s/'}",
+      "{'name': 'U.S. Census Bureau 2024 ACS S1601 Language Spoken at Home', 'url': 'https://data.census.gov/table/ACSST1Y2024.S1601'}",
+      "{'name': 'Migration Policy Institute 2024 LEP statistics', 'url': 'https://www.migrationpolicy.org/journal/spotlight/frequently-requested-statistics-immigrants-and-immigration-united-states'}",
+      "{'name': 'Modern Language Association Language Enrollment Database, 1958-2021', 'url': 'https://apps.mla.org/about_search_flsurvey'}",
+      "{'name': 'Duolingo FY 2025 shareholder letter and results', 'url': 'https://www.sec.gov/Archives/edgar/data/1562088/000162828026012246/q4fy25duolingo12-31x25shar.htm'}",
+      "{'name': 'Graham Holdings 2025 Form 10-K and earnings release', 'url': 'https://www.sec.gov/Archives/edgar/data/104889/000162828026011405/ghc-20251231.htm'}",
+      "{'name': 'National Student Clearinghouse Spring 2025 enrollment report', 'url': 'https://www.studentclearinghouse.org/news/postsecondary-spring-enrollment-continues-progress-toward-pre-pandemic-highs/'}"
+    ],
+    "one_sentence": "Language instruction providers sell foreign-language, English-as-a-second-language and sign-language classes to consumers, students and employers, but 2025 growth remains nearly flat as online platforms and weak college language enrollment offset recovering international mobility.",
+    "slug": "language-instruction-in-the-us"
+  },
+  {
+    "title": "Language Learning Software Developers",
+    "sector": "Technology & Digital",
+    "one_liner": "U.S. language-learning software is a subscription-led edtech niche being reshaped by AI speaking practice, freemium scale and school, library and enterprise channels.",
+    "overview": "The industry has moved decisively from packaged software and CD-ROMs to cloud, mobile and subscription products. The 2021 IBISWorld baseline sized U.S. developer revenue at $4.021 billion in 2021 and forecast $5.2 billion for 2026, while newer third-party U.S. language-learning software estimates use a narrower market definition of $3.1 billion in 2024 and $3.6 billion in 2025, growing at an 18.3% CAGR through 2032. The most important commercial shift in 2025-2026 is AI: leading apps are adding voice dialogs, pronunciation feedback, adaptive review and generative content pipelines, while also absorbing higher model and cloud costs. Demand remains broad across consumers, K-12, higher education, libraries, employers, immigrants, refugees and travelers, but competition is intense because freemium mobile distribution keeps entry barriers low and pushes vendors to differentiate through brand, efficacy, speaking practice and institutional administration features.",
+    "key_stats": {
+      "market_size": "2025 U.S. language-learning software market: $3.6 billion; 2026 implied market at 18.3% growth: about $4.26 billion",
+      "growth": "2025-2032 forecast CAGR: 18.3%",
+      "north_america_market": "2024 North America online language learning market: $2.9 billion by Meticulous Research; alternative Grand View/Horizon estimate: $7.97 billion in 2024, reflecting broader online-language definitions",
+      "duolingo_scale": "2025 Duolingo revenue: $1.038 billion; 2025 total bookings: $1.158 billion; Q1 2026 revenue: $292.0 million, up 27% year over year",
+      "duolingo_users": "Q1 2026 Duolingo daily active users: 56.5 million; Q1 2026 paid subscribers: 12.5 million",
+      "education_demand_driver": "FY 2024 U.S. public elementary-secondary total expenditures: $983.7 billion; FY 2025-26 projected current expenditures: $822.8 billion",
+      "travel_demand_driver": "2025 international visitation to the U.S. forecast: 68.3 million in the newer NTTO forecast series; 2026 forecast: 70.5 million, up 3.2%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated 2022 U.S. industry revenue: about $4.23 billion, extrapolated from the baseline 2021 revenue of $4.021 billion using the baseline 2021-2026 forecast CAGR of 5.3%",
+      "growth": "Baseline forecast 2021-2026 revenue CAGR: 5.3%; baseline 2021 revenue growth: 10.1%",
+      "establishments": "Baseline 2021 establishments: 211; baseline forecast 2026 establishments implied continued double-digit growth",
+      "employment": "Baseline 2021 employment: 9,021 workers; baseline forecast 2026 employment: 13,332 workers",
+      "profit_margin": "Baseline 2021 EBIT margin: 0.9%; baseline forecast 2026 EBIT margin: 1.0%"
+    },
+    "how_it_makes_money": "Revenue comes mainly from recurring consumer subscriptions, family plans, premium AI tiers, annual school and district licenses, library and government contracts, corporate learning seats, live tutoring or class add-ons, app-store in-app purchases, advertising on free tiers and language proficiency tests. Duolingo's 2025 revenue mix illustrates the model: $873.4 million of subscription revenue and $164.1 million of other revenue from advertising, Duolingo English Test and in-app purchases.",
+    "cost_structure": {
+      "software_and_cloud": "2025 Duolingo cost of revenue was 28% of revenue, including hosting, app delivery, payment processing, content serving, customer support and AI feature costs.",
+      "product_development": "2025 Duolingo R&D was 30% of revenue, reflecting engineers, learning scientists, linguists, content tooling, AI model integration and experimentation.",
+      "sales_and_marketing": "2025 Duolingo sales and marketing was 12% of revenue; smaller vendors often spend a higher share to acquire users against dominant freemium brands.",
+      "general_and_admin": "2025 Duolingo G&A was 18% of revenue, including public-company, legal, finance, HR, facilities and compliance costs.",
+      "labor_intensity": "The baseline industry was low-capital but wage-heavy, with 2021 wages of $1.605 billion and rapid hiring as product, AI and content teams expanded."
+    },
+    "major_players": [
+      "Duolingo: public category leader; 2025 revenue of $1.038 billion, 2025 bookings of $1.158 billion, Q1 2026 DAUs of 56.5 million and Q1 2026 paid subscribers of 12.5 million.",
+      "Rosetta Stone / IXL Learning: legacy U.S. brand now owned by IXL; serves individuals, schools and enterprises and reports more than 50 million people helped and more than 43,000 businesses, organizations and educational institutions served.",
+      "Babbel: Berlin/New York subscription platform with more than 25 million subscriptions sold as of its 2023 press materials; launched AI and group-plan features in 2025-2026.",
+      "Mango Languages: U.S.-based consumer and institutional provider with 70+ language courses, library distribution, individual plans at $13.99 per month in 2026 and annual plans at $119.99.",
+      "Pimsleur / Simon & Schuster: audio-first language-learning subscription and app product with brand strength among adult self-learners.",
+      "Busuu / Chegg: global language-learning platform used in the U.S. market, focused on self-study, community feedback and subscription access."
+    ],
+    "current_dynamics": "AI is moving from a novelty into the product core. Duolingo is expanding speaking practice and AI video calls, Babbel is adding AI-powered voice practice, and institutional vendors are emphasizing assessment, reporting, privacy and accessibility. Subscriptions remain the dominant revenue model, but free tiers and low-cost lifetime deals pressure pricing. Schools, libraries and employers remain attractive because they lower churn and support seat-based renewals. The market is fragmented below the leaders, and app-store discovery, brand recognition, retention algorithms and proof of learning outcomes are now more important than simple course breadth.",
+    "whats_growing": "AI conversation practice, pronunciation feedback, adaptive review, gamified streak mechanics, family plans, school and library licenses, ESL/ELL products, Spanish and English learning, mobile-first subscriptions, institutional dashboards, test-prep adjacent products and speech-rich premium tiers are growing. Demand is also supported by 2024-2026 public education spending, workforce multilingual needs and continued immigration-related English learning needs.",
+    "whats_shrinking": "Packaged desktop software, CD-ROM distribution, one-time license models, generic flashcard apps without speaking or personalization, travel-only use cases and undifferentiated free apps are shrinking in strategic importance. Human-only live tutoring is also under pressure where AI roleplay can satisfy beginner conversation practice at lower marginal cost, though advanced learners and institutional buyers still value human instruction.",
+    "recent_developments": [
+      "2025-03: Babbel became Inter Miami CF's official language-learning partner, using sports fandom to broaden U.S. consumer reach.",
+      "2025-08: Duolingo reported 41% Q2 2025 revenue growth and acquired the NextBeat music-gaming startup team to support broader learning engagement.",
+      "2025-09: Duolingo unveiled Duocon 2025 product updates focused on turning app learning into real-world communication and proficiency signals.",
+      "2026-02: Duolingo reported 2025 revenue of $1.038 billion, 2025 bookings of $1.158 billion and authorized a $400 million share repurchase program.",
+      "2026-04: Babbel launched its first group plan for up to six users with independent learning paths.",
+      "2026-07: Rosetta Stone for Schools won the 2026 CODiE Award for Best Solution for English Language Learners."
+    ],
+    "outlook": "The 2026-2032 outlook is positive but more competitive. The narrow U.S. language-learning software market is forecast to grow from $3.6 billion in 2025 to $11.6 billion in 2032, a 2025-2032 CAGR of 18.3%, helped by AI-enabled speaking practice, mobile subscriptions, school procurement, workforce training and ESL/ELL demand. Margin performance will diverge: scaled platforms can spread product and marketing costs across large user bases, while smaller apps face high customer-acquisition costs, app-store fees and rising AI infrastructure expense. The biggest risks are AI translation substitutes reducing motivation for casual learners, privacy constraints in schools, churn from discretionary consumer subscriptions and price competition from free or bundled learning tools.",
+    "themes": [
+      "AI speaking tutors",
+      "Freemium subscription economics",
+      "Mobile-first learning",
+      "ESL and immigrant integration",
+      "K-12 and library procurement",
+      "Corporate multilingual workforce",
+      "Gamification and retention",
+      "App-store competition",
+      "Privacy and student data compliance",
+      "Shift away from packaged software"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/language-learning-software-developers.txt",
+      "https://www.psmarketresearch.com/market-analysis/us-language-learning-software-market",
+      "https://www.researchandmarkets.com/report/north-america-online-language-learning-market",
+      "https://www.grandviewresearch.com/horizon/outlook/online-language-learning-market/north-america",
+      "https://www.sec.gov/Archives/edgar/data/1562088/000162828026012494/0001628280-26-012494-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1562088/000162828026029790/q1fy26duolingo3-31x26share.htm",
+      "https://investors.duolingo.com/press",
+      "https://www.babbel.com/press/en-us",
+      "https://www.rosettastone.com/about/company",
+      "https://www.rosettastone.com/newsroom",
+      "https://mangolanguages.com/pricing/",
+      "https://www.census.gov/programs-surveys/school-finances.html",
+      "https://www.trade.gov/travel-and-tourism-forecasts"
+    ],
+    "one_sentence": "Language Learning Software Developers build apps and platforms that teach foreign languages or English language skills through mobile lessons, speech recognition, games, assessments, live or AI conversation practice and institutional learning tools.",
+    "slug": "language-learning-software-developers"
+  },
+  {
+    "title": "Laser Tag Arenas",
+    "sector": "Media & Entertainment",
+    "one_liner": "A small, fragmented indoor recreation niche where birthday parties and group events still pay the bills, while growth is increasingly captured inside larger family entertainment centers.",
+    "overview": "Laser tag arenas operate indoor and outdoor facilities where customers pay for timed team-based games using infrared or optical tagging equipment, usually supported by party rooms, arcade games, concessions and private event packages. The industry remains highly fragmented and local, with few pure-play national operators after Laser Quest exited North America in 2020. By 2025-2026, demand had largely normalized from pandemic closures, but the best-performing formats were less likely to be stand-alone laser tag boxes and more likely to be multi-attraction family entertainment centers that bundle laser tag with bowling, arcades, VR, gel blasters, food and corporate events.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: $394.8 million",
+      "growth": "2020-2025 estimated CAGR: +1.2%",
+      "establishments": "2025 forecast establishments: 946 locations",
+      "employment": "2025 forecast employment: about 6,891 workers",
+      "profit_margin": "2025 forecast EBIT margin: 5.3% of revenue",
+      "broader_market_context": "2024 US family/indoor entertainment centers market: $5.24887 billion; 2025-2034 forecast CAGR: 8.1%",
+      "consumer_spending_context": "2025 US personal consumption expenditures on recreation: $1.978541 trillion, up from $1.873432 trillion in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: $380.9 million",
+      "growth": "2022 estimated annual growth: +1.2%, interpolated from the baseline 2020-2025 IBISWorld forecast",
+      "context": "2022 was a reopening-and-recovery baseline year, with demand returning from 2020 closures but still constrained by indoor-activity caution, labor availability and the loss of Laser Quest as a national pure-play chain."
+    },
+    "how_it_makes_money": "Operators earn most revenue from admission fees for laser tag games, party packages and group reservations. The baseline report estimated 2020 revenue mix at 76.6% laser tag activities, 12.5% video games, 9.2% Makoto-style reaction games, 1.5% consumables and 0.2% souvenirs. Birthday parties accounted for about 50.0% of 2020 demand, group events 30.0%, corporate events 10.0% and walk-in customers 10.0%.",
+    "cost_structure": {
+      "labor": "High-touch venue staffing, party hosting, supervision, cleaning and front-desk labor are the largest controllable operating burden; wage pressure continued into 2025-2026 across leisure venues.",
+      "rent_and_occupancy": "Indoor arenas need sizable, well-located space near families, malls or suburban retail centers, making rent, utilities, insurance and common-area charges material fixed costs.",
+      "equipment_and_maintenance": "Laser packs, vests, phasers, sensors, arena props, scoring systems, arcade machines and software need periodic replacement, calibration and repair.",
+      "food_and_party_costs": "Party packages add food, beverages, paper goods and event supplies; broader FEC operators use food attachment to lift ticket size but carry food-cost exposure.",
+      "marketing_and_payments": "Local search, birthday-party acquisition, school and corporate outreach, booking software and card fees are meaningful for independents.",
+      "profit": "Baseline IBISWorld forecast profit margin declined to 5.3% in 2025, down from 8.8% in 2020, as wages and operating costs absorbed more revenue."
+    },
+    "major_players": [
+      "Dave & Buster's / Main Event: the largest relevant chain exposure, with 64 Main Event locations in 22 states at fiscal 2025 year-end; Main Event venues commonly include laser tag alongside bowling, arcades, VR and food.",
+      "Independent local laser tag arenas: the core of the pure-play industry, usually single-location or small regional operators focused on birthday parties, schools, youth groups and walk-ins.",
+      "Regional family entertainment centers such as Scene75, Stars and Strikes and similar multi-attraction operators: important competitors because laser tag is often one attraction within a broader entertainment mix.",
+      "Equipment-led ecosystems including Laserforce and other laser tag system suppliers: not venue operators, but influential in arena upgrades, scoring systems and game formats.",
+      "No dominant pure-play national laser tag chain: market concentration remains low after Laser Quest closed its North American operations in 2020."
+    ],
+    "current_dynamics": "The narrow laser tag arena industry is mature and modestly growing, but the surrounding family entertainment center market is expanding faster. Consumers are spending more on recreation overall, yet operators face traffic sensitivity from inflation, labor costs and competition from richer attractions. Dave & Buster's fiscal 2025 results showed how large eatertainment chains can keep opening venues while still facing weaker comparable-store traffic, with total revenue of $2.1028 billion, down 1.4%, and comparable sales down 5.0%. For laser tag specifically, the strongest positioning is as a bookable, social, weather-proof attraction inside venues that also offer food, arcade games, bowling, VR, mini golf or gel blasters.",
+    "whats_growing": [
+      "Multi-attraction FECs that include laser tag rather than rely on it as the only draw.",
+      "Birthday parties, youth group bookings, school events and corporate team events with reserved rooms and bundled food.",
+      "Immersive and tech-forward arenas using better scoring, lighting, theming, tactical formats and adjacent VR or mixed-reality attractions.",
+      "Suburban retail, outlet-center and mall-adjacent locations looking for experiential tenants.",
+      "Food-and-play bundles that raise spend per visit."
+    ],
+    "whats_shrinking": [
+      "Standalone laser-tag-only concepts with limited ancillary revenue.",
+      "Undifferentiated walk-in play sessions that compete directly with arcades, home gaming, VR venues and trampoline parks.",
+      "Older arenas that have not refreshed equipment, lighting, scoring or party-room experience.",
+      "Margins for small operators exposed to rent, insurance, utilities and wage inflation.",
+      "Legacy national pure-play chain presence after Laser Quest's 2020 North American exit."
+    ],
+    "recent_developments": [
+      "2025: Baseline IBISWorld forecast placed US laser tag arena revenue at $394.8 million and establishments at 946 locations.",
+      "2025: US personal consumption expenditures on recreation reached $1.978541 trillion, up 5.6% from 2024.",
+      "2025-06-26: OWA Parks & Resort opened Neon Rebellion, a glow-in-the-dark laser tag attraction in Foley, Alabama.",
+      "2025-08-11: Main Event opened a 48,000 sq. ft. Taylor, Michigan venue with laser tag, bowling, arcade games, gel blaster battles and party rooms.",
+      "2025-08-18: Main Event opened a nearly 49,000 sq. ft. Norman, Oklahoma FEC featuring laser tag, bowling, gel blasters, arcade games and private meeting space.",
+      "2026-03-31: Dave & Buster's reported fiscal 2025 revenue of $2.1028 billion, down 1.4%, while opening 11 company stores including three Main Event locations."
+    ],
+    "outlook": "Through 2026, the US laser tag arena niche should remain stable to modestly positive rather than high-growth on a stand-alone basis. The larger opportunity is in hybrid FECs, where laser tag is a repeatable group attraction that complements higher-frequency arcade, food and event spending. Operators that refresh equipment, sell birthday and corporate packages, and use laser tag as part of a broader social entertainment offer should outperform. Risks include weak discretionary traffic, higher labor and occupancy costs, insurance costs, and substitution from newer immersive attractions if arenas do not reinvest.",
+    "themes": [
+      "Experiential leisure",
+      "Birthday-party economy",
+      "Family entertainment centers",
+      "Immersive competitive games",
+      "Indoor recreation",
+      "Arcade and food bundling",
+      "Fragmented local operators",
+      "Post-pandemic recovery",
+      "Labor and rent pressure",
+      "Technology refresh cycle"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/laser-tag-arenas.txt",
+      "https://www.ibisworld.com/united-states/industry/laser-tag-arenas/",
+      "https://www.alliedmarketresearch.com/u-s-family-indoor-entertainment-centers-market-A110128",
+      "https://fred.stlouisfed.org/series/DRRLRC1A027NBEA",
+      "https://ir.daveandbusters.com/news-releases/news-release-details/dave-busters-reports-fourth-quarter-and-fiscal-year-end-2025",
+      "https://www.amusementsandattractions.com/amusements/news/main-event-to-open-oklahoma-us-fec",
+      "https://www.amusementsandattractions.com/amusements/news/new-main-event-to-open-in-michigan-us",
+      "https://visitowa.com/neon-rebellion-laser-tag-to-open-at-owa-parks-resort/",
+      "https://www.intergameonline.com/coin-op/news/laser-quest-closes-down",
+      "https://dataintelo.com/report/laser-tag-market"
+    ],
+    "one_sentence": "US laser tag arenas generated an estimated $394.8 million in 2025 revenue, with low-single-digit narrow-industry growth but stronger demand tailwinds from multi-attraction family entertainment centers, immersive games and group bookings.",
+    "slug": "laser-tag-arenas"
+  },
+  {
+    "title": "Laundromats in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A mature, location-driven consumer services industry where renter density, utility costs and payment technology determine store economics.",
+    "overview": "The industry covers facilities with coin-, card- or app-operated washers and dryers for customer use, plus operators that supply and service laundry equipment in apartments, dormitories, hotels and similar sites. Demand is concentrated among renters, students and dense urban households with limited in-unit laundry access. The 2025 industry is still fragmented and local, but larger route operators and equipment vendors are gaining importance as owners modernize stores, add mobile/card payments, install higher-capacity and efficient machines, and layer in wash-and-fold or pickup-and-delivery services.",
+    "key_stats": {
+      "market_size": "$6.8 billion revenue in 2025",
+      "growth": "2.3% CAGR over 2020-2025",
+      "businesses": "18,374 businesses in 2025",
+      "employees": "49,596 employees in 2025",
+      "major_player_revenue": "CSC ServiceWorks generated an estimated $1.296 billion in 2025 industry revenue",
+      "rental_vacancy_rate": "7.1% U.S. rental vacancy rate in 2025",
+      "electricity_price": "12.75 cents per kWh average U.S. commercial electricity price in 2024",
+      "baseline_profit_margin": "16.1% profit margin in 2022",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$5.435 billion revenue in 2022",
+      "growth": "-0.9% revenue growth in 2022 and -1.6% CAGR over 2017-2022",
+      "profit": "$875 million profit in 2022",
+      "profit_margin": "16.1% in 2022",
+      "establishments": "19,267 establishments in 2022",
+      "enterprises": "18,264 enterprises in 2022",
+      "employment": "47,466 employees in 2022",
+      "wages": "$1.035 billion wages in 2022",
+      "product_mix": "Washer services 47.5% of 2022 revenue; dryer services 30.5%; self-service dry cleaning 3.2%; commercial laundry services 1.3%; other services 17.5%"
+    },
+    "how_it_makes_money": "Revenue comes primarily from per-cycle washer and dryer payments in storefront laundromats and multi-housing or dormitory route laundry rooms. Additional 2022 revenue streams included self-service dry cleaning, commercial laundry for small institutions, maintenance and repair work, replacement parts, vending, detergent sales, alterations and other ancillary services. In 2025-2026, operators increasingly monetize card/mobile payments, loyalty pricing, higher-capacity machines, wash-and-fold, and pickup-and-delivery where store labor and route density support margins.",
+    "cost_structure": "The business is capital intensive because washers, dryers, water heating, plumbing, leaseholds and payment systems require large upfront investment and recurring depreciation. Major 2022 operating costs were utilities, rent, purchases and maintenance, while wages were lower than many consumer services because many locations operate with limited attendant labor. Utility exposure remained important in 2024-2026: EIA reported average U.S. commercial electricity prices of 12.75 cents per kWh in 2024, above 12.41 cents per kWh in 2022, while water, sewer and gas costs also affect store-level margins. Operators offset cost pressure through efficient equipment, dynamic vend pricing, preventative maintenance and unattended or lightly attended operations.",
+    "major_players": [
+      "CSC ServiceWorks",
+      "WASH Multifamily Laundry Systems",
+      "Alliance Laundry Systems",
+      "Speed Queen-branded independent operators",
+      "Regional and single-store independent laundromat owners"
+    ],
+    "current_dynamics": "The 2025 market is larger than the 2022 baseline, reflecting post-pandemic traffic normalization, price increases, service add-ons and modernization. Core self-service demand remains tied to renter-heavy neighborhoods and campuses, while the industry faces structural pressure from apartment buildings with in-unit laundry, consumer appliance ownership and higher-income customers shifting to wash-and-fold or delivery. Payment technology is a major operating theme: CLA reported in 2026 that about 55% of locations accepted mobile or card-based payments, nearly double the 2022 share. Consolidation is most visible in multi-housing laundry routes and equipment distribution rather than in independent storefront ownership.",
+    "whats_growing": "Growing areas include mobile/card payments, remote machine monitoring, IoT-enabled maintenance alerts, high-capacity machines for bedding and bulky loads, urban stores with strong renter density, campus and multifamily route laundry where contracts are defensible, and wash-and-fold or pickup-and-delivery add-ons that use idle store capacity. CLA reported in 2026 that independently owned laundromats saw average 8% year-over-year revenue growth and that more than 60% of urban laundromats offered wash-and-fold services.",
+    "whats_shrinking": "Shrinking areas include coin-only stores, older low-efficiency equipment, self-service dry cleaning demand, small stores in low-density suburban trade areas, and operators unable to absorb rent, financing, water, sewer, gas and electricity increases. The 2022 baseline already showed establishment decline to 19,267 establishments, and IBISWorld's 2025 outlook projected market size decline over 2025-2030 as economic recovery, lower interest rates and home laundry adoption reduce need-based visits.",
+    "recent_developments": [
+      "2025-04: IBISWorld estimated U.S. laundromat revenue at $6.8 billion in 2025, with 2.3% CAGR over 2020-2025, 18,374 businesses and 49,596 employees.",
+      "2025-07-15: Northleaf Capital Partners and Avalt Holdings agreed to acquire WASH Multifamily Laundry Systems from EQT, signaling continued investor interest in route laundry assets.",
+      "2025-08-01: Alliance Laundry Systems acquired Metropolitan Laundry Machinery Sales, strengthening its New York metro distribution footprint for laundromat, on-premise and multi-housing customers.",
+      "2025-10-16: EIA reported 2024 average U.S. commercial electricity prices of 12.75 cents per kWh, up from 12.41 cents per kWh in 2022, keeping utilities central to laundromat margins.",
+      "2026-06: MatYard reported that 747 of 2,165 digitally indexed U.S. laundromats with machine-readable service menus offered pickup and delivery, or 34.5% of that digitally mature subset.",
+      "2026-07: CLA reported that the U.S. laundromat market was valued at $6.8 billion in 2025 and that about 55% of locations accepted mobile or card-based payments."
+    ],
+    "outlook": "The 2026-2030 outlook is mixed: revenue can hold up through vend-price increases, modernization, renter-heavy urban demand and add-on services, but unit demand is constrained by rising apartment amenities, in-home appliances and premium substitutes. The best-positioned operators in 2026-2030 are dense-market stores with long leases, efficient utilities, app/card payment data, strong maintenance discipline and the labor model to profitably support wash-and-fold. Lower-quality coin-only stores are more exposed to utility inflation, equipment downtime and competition from modernized locations.",
+    "themes": [
+      "Renter density",
+      "Urban convenience",
+      "Cashless payments",
+      "Utility inflation",
+      "Equipment efficiency",
+      "Wash-and-fold expansion",
+      "Pickup and delivery",
+      "Fragmented ownership",
+      "Multi-housing route laundry",
+      "Consolidation in suppliers and route operators"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'title': 'IBISWorld Laundromats in the US baseline report', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/laundromats-in-the-us.txt', 'date': '2022-04-26'}",
+      "{'title': 'IBISWorld Laundromats in the US Market Research Report', 'url': 'https://img3.ibisworld.com/united-states/industry/laundromats/1729/', 'date': '2025-04'}",
+      "{'title': 'CLA Industry Overview', 'url': 'https://laundryassociation.org/for-investors/industry-overview/', 'date': '2026 accessed'}",
+      "{'title': 'CLA The Spin on Innovation', 'url': 'https://laundryassociation.org/fullcycle/2026/07/the-spin-on-innovation/', 'date': '2026-07'}",
+      "{'title': 'U.S. Energy Information Administration Electric Power Annual Table 2.4', 'url': 'https://www.eia.gov/electricity/annual/table.php?t=epa_02_04.html', 'date': '2025-10-16'}",
+      "{'title': 'Federal Reserve Bank of St. Louis FRED Rental Vacancy Rate for the United States', 'url': 'https://fred.stlouisfed.org/series/USRVAC', 'date': '2026-03-24'}",
+      "{'title': 'S&P Global Market Intelligence deal wrap on WASH Multifamily Laundry Systems', 'url': 'https://www.spglobal.com/market-intelligence/en/news-insights/articles/2025/7/eqt-to-sell-wash-to-northleaf-avalt-sterling-to-buy-major-stake-in-precision-91550550', 'date': '2025-07-15'}",
+      "{'title': 'Alliance Laundry Systems acquisition of Metropolitan Laundry Machinery Sales', 'url': 'https://ir.alliancelaundry.com/news-events/press-releases/detail/85/alliance-laundry-systems-acquires-metropolitan-laundry-machinery-sales', 'date': '2025-08-01'}",
+      "{'title': 'MatYard pickup and delivery adoption report', 'url': 'https://matyard.com/reports/laundromat-pickup-delivery-adoption', 'date': '2026-06'}"
+    ],
+    "one_sentence": "U.S. laundromats generated an estimated $6.8 billion in 2025 revenue after 2.3% annualized growth over 2020-2025, but IBISWorld expects demand pressure over 2025-2030 as in-unit laundry, homeownership and premium laundry substitutes compete for customers.",
+    "slug": "laundromats-in-the-us"
+  },
+  {
+    "title": "Lawn & Outdoor Equipment Stores in the US",
+    "sector": "Retail",
+    "one_liner": "Specialty lawn and outdoor equipment retailers are benefiting from steady repair, replacement and rural-lifestyle demand, but big-box, e-commerce and battery-tool shifts keep pricing power tight.",
+    "overview": "This is a mature, low-concentration retail niche focused on lawn and garden machinery, outdoor power tools, parts, farm-adjacent tools and repair services. The 2022 IBISWorld baseline framed the specialty-store industry at about $10.5 billion in 2021 revenue and roughly flat through 2026, while broader public NAICS 4442 data for lawn and garden equipment and supplies stores show a larger $67.1 billion 2025 output base because it includes more garden-supply retail activity. Current conditions are mixed: nominal sales recovered in 2025 after a 2023 pullback, but volumes remain exposed to weak housing turnover, high financing costs on riding mowers and tractors, discounting by home centers, and consumer migration toward battery-powered tools.",
+    "key_stats": {
+      "market_size": "2025 public NAICS 4442 sectoral output was $67.1 billion; the narrower IBIS specialty-store baseline was $10.5 billion in 2021 and roughly $10.5 billion projected for 2026.",
+      "growth": "2025 public NAICS 4442 output grew 4.8% year over year from $64.1 billion in 2024; Kentley reported 2024 sector revenue of $67.8 billion and a 7.4% annual growth rate over the prior 3 years.",
+      "profit_margin": "2021 IBISWorld specialty-store EBIT margin was 3.0%, with 2026 forecast margin of 2.9%.",
+      "establishments": "2021 IBISWorld specialty-store establishments were 5,850, with 2026 projected establishments of about 5,900.",
+      "employment": "2021 IBISWorld specialty-store employment was 33,470, with 2026 projected employment of 34,270.",
+      "broader_output_trend": "Public NAICS 4442 output was $66.4 billion in 2022, $62.8 billion in 2023, $64.1 billion in 2024 and $67.1 billion in 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 IBISWorld specialty-store revenue was $10.5 billion in the January 2022 baseline; public NAICS 4442 output was $66.4 billion in 2022.",
+      "growth": "IBISWorld estimated 2021 specialty-store revenue growth of 5.3% and forecast 2021-2026 revenue CAGR of -0.1%; public NAICS 4442 output grew 4.1% in 2022.",
+      "profit_margin": "2021 IBISWorld EBIT margin was 3.0%.",
+      "product_mix": "2021 IBISWorld product mix was 82.7% lawn and garden equipment and tools, 9.7% farm equipment and tools, 3.5% repair and other services, and 4.1% other products."
+    },
+    "how_it_makes_money": "Stores earn revenue from retail markups on walk-behind and riding mowers, snow blowers, chainsaws, trimmers, leaf blowers, batteries, chargers, parts and accessories; a smaller but strategically important stream comes from repair, maintenance, rental and service work that big-box rivals often cannot match locally.",
+    "cost_structure": "Purchases of equipment and parts are the dominant cost, followed by store labor, rent and occupancy, freight, credit-card fees, advertising, insurance, utilities and warranty/service support. Margins are constrained because big-box retailers buy at scale, manufacturers increasingly support online channels, and seasonal inventory must be financed before spring demand is certain.",
+    "major_players": [
+      "Tractor Supply Company",
+      "SiteOne Landscape Supply",
+      "Rural King",
+      "Ace Hardware dealers",
+      "John Deere independent dealers",
+      "Husqvarna and STIHL authorized dealers",
+      "The Home Depot and Lowe's as major external competitors",
+      "Amazon and manufacturer-direct e-commerce as external competitors"
+    ],
+    "current_dynamics": "Demand in 2025-2026 is not collapsing, but it is uneven. Homeowner repair and replacement spending remains supported by high home equity and slow-but-positive remodeling outlays, while new discretionary purchases of riding mowers, tractors and premium gas equipment are pressured by affordability and high interest rates. Professional landscapers continue to need durable equipment and parts, but are shifting some handheld categories toward battery platforms. Specialty stores are leaning on service departments, local expertise, commercial accounts, financing, delivery and warranty support to defend share against Home Depot, Lowe's, Tractor Supply and online marketplaces.",
+    "whats_growing": "Battery-powered handheld tools, cordless blowers and trimmers, robotic and autonomous mowing, higher-capacity battery systems, repair/service relationships, parts, commercial landscaping accounts, click-and-collect, delivery, and rural-lifestyle retailers with garden-center expansions are growing. In 2024 NIQ reported battery-powered outdoor equipment at roughly one-third of the installed base and 44% of consumers expecting their next outdoor equipment purchase to be battery-powered.",
+    "whats_shrinking": "Corded electric tools, lower-service commodity equipment sales at independent stores, gas-powered handheld equipment in California-compliant channels, repair demand for low-priced equipment where replacement is cheaper, and discretionary big-ticket purchases tied to housing turnover are shrinking or losing share. Public NAICS output fell from $66.4 billion in 2022 to $62.8 billion in 2023 before recovering in 2024-2025.",
+    "recent_developments": [
+      "2025-01-06: EPA published its decision granting California authorization for 2016 and 2021 small off-road engine amendments, supporting zero-emission standards for most new lawn and garden equipment engines in model year 2024 and later.",
+      "2025-03-20: Home Depot promoted its 2025 Spring Project Report and Spring Black Friday event with outdoor power equipment offers, reinforcing big-box pressure on specialty retailers.",
+      "2025-11-06: Kentley Insights' 2025 Lawn & Outdoor Equipment Stores report cited 2024 revenue of $67.8 billion, 13,746 companies and 13.6% forecast e-commerce sales growth for 2024.",
+      "2026-01-29: Tractor Supply reported fiscal 2025 net sales of $15.52 billion, up 4.3%, comparable-store sales up 1.2%, and guided fiscal 2026 net sales growth of 4% to 6%.",
+      "2026-02-24: Home Depot reported fiscal 2025 sales of $164.7 billion, up 3.2%, with Outdoor Garden posting positive comparable sales.",
+      "2026-05-20: Lowe's reported Q1 2026 comparable sales up 0.6% and 15.5% online sales growth, while affirming 2026 sales guidance of $92.0 billion to $94.0 billion."
+    ],
+    "outlook": "The 2026 outlook is for low-to-mid single-digit nominal growth in the broader lawn and garden retail channel, with specialty-store real growth likely softer because big-box and e-commerce channels continue to absorb category demand. Upside comes from battery replacement cycles, landscaper accounts, service work and stable remodeling spending; downside comes from weak existing-home sales, weather volatility, tariffs or supplier cost inflation, and promotional pricing by national chains.",
+    "themes": [
+      "Battery electrification",
+      "Big-box channel pressure",
+      "Repair and parts defensibility",
+      "Housing turnover sensitivity",
+      "Seasonality and weather risk",
+      "Rural lifestyle retail expansion",
+      "Commercial landscaper demand",
+      "E-commerce and click-and-collect",
+      "California emissions regulation",
+      "Margin pressure from promotion and freight"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: IBISWorld Lawn & Outdoor Equipment Stores in the US, last updated Jan. 19, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/lawn-and-outdoor-equipment-stores-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Bureau of Labor Statistics, Sectoral Output for Retail Trade: Lawn and Garden Equipment and Supplies Stores, updated Jun. 3, 2026', 'url': 'https://fred.stlouisfed.org/series/IPUHN4442T300000000'}",
+      "{'name': 'Kentley Insights via MarketResearch.com, Lawn & Outdoor Equipment Stores 2025 U.S. Market Research Report, published Nov. 6, 2025', 'url': 'https://www.marketresearch.com/Kentley-Insights-v4035/Lawn-Outdoor-Equipment-Stores-Research-41393312/'}",
+      "{'name': 'Tractor Supply Company, fiscal 2025 results and fiscal 2026 outlook, Jan. 29, 2026', 'url': 'https://ir.tractorsupply.com/newsroom/news-releases/news-releases-details/2026/Tractor-Supply-Company-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results-Provides-Fiscal-Year-2026-Outlook/default.aspx'}",
+      "{'name': 'The Home Depot, fiscal 2025 results and annual report materials, Feb.-Mar. 2026', 'url': 'https://corporate.homedepot.com/news/earnings/home-depot-announces-fourth-quarter-2025-earnings'}",
+      "{'name': \"Lowe's, Q4 2025 and Q1 2026 sales and earnings releases\", 'url': 'https://corporate.lowes.com/newsroom/press-releases/lowes-reports-first-quarter-2026-sales-and-earnings-results-05-20-26'}",
+      "{'name': 'EPA / Federal Register, California State Nonroad Engine Pollution Control Standards; Small Off-Road Engines Regulations; Notice of Decision, Jan. 6, 2025', 'url': 'https://thefederalregister.org/documents/2024-31123/california-state-nonroad-engine-pollution-control-standards-small-off-road-engines-regulations-notice-of-decision'}",
+      "{'name': 'NielsenIQ, Power or Convenience? Driving Change in the Outdoor Lawn Equipment Market, Oct. 3, 2024', 'url': 'https://nielseniq.com/global/en/insights/analysis/2024/power-or-convenience-driving-change-in-the-outdoor-lawn-equipment-market/'}",
+      "{'name': 'Harvard Joint Center for Housing Studies, LIRA remodeling outlook releases, 2025-2026', 'url': 'https://www.jchs.harvard.edu/research-areas/remodeling/lira'}"
+    ],
+    "one_sentence": "The industry sells mowers, blowers, chainsaws, tractors, parts and repair services to homeowners, landscapers, farmers and rural consumers, with 2025-2026 demand shaped by modest home-improvement growth, California zero-emission equipment rules, and continued share pressure from Home Depot, Lowe's, online sellers and Tractor Supply.",
+    "slug": "lawn-and-outdoor-equipment-stores-in-the-us"
+  }
+]

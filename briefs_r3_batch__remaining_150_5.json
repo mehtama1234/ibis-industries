@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Soybean Farming in the US",
+    "sector": "Agriculture",
+    "one_liner": "US soybean farming is a large, export-exposed row-crop industry whose 2025 revenue was pressured by lower prices and weaker China demand, while 2026 acreage and USDA forecasts point to a rebound.",
+    "overview": "The industry covers US farms primarily growing soybeans, the dominant US oilseed crop and the second major row crop behind corn. The 2022 IBISWorld baseline captured a high-price period, with revenue at $56.4 billion and five-year growth of 5.2% CAGR. By 2025, the farm-gate market had reset lower as soybean prices fell from the 2021-2022 spike and China demand weakened. Using USDA 2025 production of about 4.262 billion bushels and a 2025/26 season-average price near $10.20 per bushel implies an estimated 2025 market size of about $43.5 billion. The 2026 setup is firmer: USDA ERS in July 2026 forecast record 2026/27 soybean production of 4.5 billion bushels, 85.4 million planted acres and an $11.40 per bushel season-average price, implying a forward farm-gate value near $51.3 billion if realized.",
+    "key_stats": {
+      "market_size": "2025 estimated farm-gate soybean revenue: $43.5 billion, calculated as 4.262 billion bushels x $10.20 per bushel",
+      "growth": "2022-2025 estimated market-size CAGR: -8.3%; 2025 estimated market size was 22.9% below the 2022 IBISWorld baseline",
+      "production": "2025 US soybean production: about 4.262 billion bushels; 2026/27 USDA ERS forecast: record 4.5 billion bushels",
+      "acreage": "2025 planted area: 83.4 million acres; 2026 planted area: 85.4 million acres; 2026 harvested area estimate: 84.4 million acres",
+      "price": "2025/26 USDA season-average soybean price cited in market reporting: $10.20 per bushel; 2026/27 USDA ERS July 2026 forecast: $11.40 per bushel",
+      "domestic_crush": "2025/26 USDA ERS forecast crush: 2.49 billion bushels, nearly 3% higher and a record, equal to 57% of US production",
+      "exports": "2024 US whole-soybean exports: $24.58 billion and 52.40 million metric tons; MY 2024/25 US soy-complex exports: $29.6 billion according to USSEC using USDA GATS data",
+      "stocks": "June 1, 2026 soybean stocks: 1.06 billion bushels, up 5% from June 1, 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$56.4 billion revenue in 2022, in 2022 dollars",
+      "growth": "5.2% annualized revenue growth over 2017-2022; 4.9% estimated annual growth in 2022",
+      "profit": "$7.2 billion profit in 2022; 12.7% profit margin",
+      "exports": "$29.9 billion exports in 2022",
+      "domestic_demand": "$27.0 billion domestic demand in 2022",
+      "establishments": "104,488 establishments in 2022",
+      "employment": "115,153 workers in 2022"
+    },
+    "how_it_makes_money": "Farmers earn revenue by selling harvested soybeans to grain elevators, merchandisers, exporters and domestic processors. Processors crush soybeans into soybean meal for livestock and aquaculture feed, soybean oil for food, industrial uses and biomass-based diesel, and smaller volumes of hulls for feed. Farm-level revenue is mainly bushels sold multiplied by market price, with crop insurance, farm-program payments and hedging gains or losses affecting net farm income rather than core product demand.",
+    "cost_structure": {
+      "seed_and_trait_fees": "High-value genetically modified and herbicide-resistant seed is a major annual input; 2026 NASS reported 95% of soybean acres used herbicide-resistant seed varieties.",
+      "fertilizer_and_chemicals": "Fertilizer, lime, herbicides, fungicides and pesticides are key variable costs; soybean nitrogen needs are lower than corn but chemical and seed-technology costs remain material.",
+      "land": "Owned land opportunity cost and cash rent are major fixed or semi-fixed costs, especially in the Midwest where more than 80% of US soybean acreage is concentrated.",
+      "machinery_fuel_and_repairs": "Planters, combines, tractors, grain handling, diesel, parts and repairs make the industry capital intensive and sensitive to equipment and energy costs.",
+      "labor": "Direct hired labor is smaller than land, machinery and inputs for many grain farms, but seasonal labor and operator labor remain important during planting and harvest.",
+      "storage_transport_and_interest": "On-farm storage, drying, freight to elevators or river terminals, operating loans and interest expense matter more when harvest prices are weak or inventories are carried longer."
+    },
+    "major_players": [
+      "No single company has meaningful national share; the industry is fragmented across tens of thousands of independent and family-owned farms.",
+      "Large Midwest row-crop farms in Illinois, Iowa and Indiana are the production center; ERS reported these three states accounted for more than 37% of 2024 US soybean production.",
+      "Key upstream suppliers include Bayer, Corteva Agriscience, fertilizer producers, crop-chemical distributors and farm-equipment companies.",
+      "Key downstream buyers and merchandisers include grain elevators, export terminals, oilseed crushers, animal-feed producers and biofuel-linked soybean oil users."
+    ],
+    "current_dynamics": "The industry is being pulled in opposite directions. Domestic demand is improving because crush capacity is expanding and soybean oil remains tied to biomass-based diesel demand, while export exposure has become riskier because China demand fell sharply in 2025 and Brazil continues to expand output. USDA ERS reported in July 2026 that 2026/27 soybean production is forecast at a record 4.5 billion bushels, supported by higher acreage, and that the 2026/27 season-average price forecast is $11.40 per bushel. At the same time, June 2026 stocks were 1.06 billion bushels, up 5% year over year, so price recovery depends on export execution, crush utilization and weather during the 2026 crop year.",
+    "whats_growing": [
+      "Domestic soybean crush demand, with 2025/26 crush forecast at a record 2.49 billion bushels.",
+      "Soybean oil demand linked to biomass-based diesel, even as feedstock competition from tallow, canola oil and used cooking oil has increased.",
+      "2026 soybean acreage, with NASS estimating 85.4 million planted acres, up 5% from 2025.",
+      "Regional basis opportunities near new crush plants in North Dakota, Nebraska, Wisconsin, Iowa, Kansas and Ohio.",
+      "Herbicide-resistant seed adoption remains very high at 95% of 2026 soybean acreage."
+    ],
+    "whats_shrinking": [
+      "Farm-gate revenue versus the 2022 high-price baseline, with estimated 2025 market size down about 22.9% from 2022.",
+      "China-related export certainty, after ERS reported China fell to sixth among US agricultural export markets in 2025 and US agricultural exports to China fell 66% from 2024.",
+      "Soybean planted acreage in 2025, which NASS estimated at 83.4 million acres, down 4% from 2024.",
+      "Exporter share of soybean use, as more soybeans are crushed domestically rather than shipped as whole beans.",
+      "Margins for high-cost producers when cash rents, machinery costs and interest remain elevated while soybean prices are near $10-$11 per bushel."
+    ],
+    "recent_developments": [
+      "2025-06-30: NASS estimated 2025 soybean planted area at 83.4 million acres, down 4% from 2024, and harvested area at 82.5 million acres.",
+      "2025-07-01: USDA ERS said 2025/26 soybean crush was forecast to rise nearly 3% to a record 2.49 billion bushels, equal to 57% of US production.",
+      "2026-03-31: NASS reported US farmers intended to plant 84.7 million soybean acres in 2026, up 4% from 2025.",
+      "2026-06-30: NASS estimated 2026 soybean planted area at 85.4 million acres and harvested area at 84.4 million acres, both up 5% from 2025.",
+      "2026-06-30: ERS reported US agricultural exports to China fell 66% in 2025 to $8.4 billion, citing reciprocal tariffs and lower demand for US soybeans.",
+      "2026-07-15: USDA ERS forecast record 2026/27 US soybean production of 4.5 billion bushels and a season-average price of $11.40 per bushel."
+    ],
+    "outlook": "The 2026 outlook is cautiously better than 2025 because acreage, production and price forecasts have moved higher, implying a potential farm-gate market around $51.3 billion if USDA’s July 2026 production and price assumptions are realized. The structural upside is domestic crush capacity: more bushels can be absorbed by US processors even when export markets are volatile. The main constraints are South American competition, tariff-sensitive China demand, large stocks, weather risk and input costs. Over 2026-2027, industry revenue is likely to remain volatile rather than follow a smooth growth path, with strong years requiring both solid yields and enough export or crush demand to prevent stocks from weighing on prices.",
+    "themes": [
+      "Crush capacity expansion",
+      "Biofuel-linked soybean oil demand",
+      "China trade risk",
+      "Brazil export competition",
+      "Weather and yield volatility",
+      "High seed and land costs",
+      "Fragmented farm ownership",
+      "Farm policy and crop insurance safety net"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Soybean Farming in the US, last updated May 31, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/soybean-farming-in-the-us.txt', 'year': '2022'}",
+      "{'title': 'USDA ERS, Soybeans and Oil Crops Market Outlook, updated July 15, 2026', 'url': 'https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/market-outlook', 'year': '2026'}",
+      "{'title': 'USDA NASS, Corn planted acreage down 3% from 2025, soybean acreage up 5% from last year, June 30, 2026', 'url': 'https://www.nass.usda.gov/Newsroom/2026/06-30-2026.php', 'year': '2026'}",
+      "{'title': 'USDA NASS, Corn planted acreage up 5% from 2024, soybean acreage down 4% from last year, June 30, 2025', 'url': 'https://www.nass.usda.gov/Newsroom/archive/2025/06-30-2025.php', 'year': '2025'}",
+      "{'title': 'USDA ERS, More soybeans being processed in United States to meet rising demand for soybean meal and oil, July 1, 2025', 'url': 'https://www.ers.usda.gov/data-products/charts-of-note/112861', 'year': '2025'}",
+      "{'title': 'USDA ERS, The top 5 U.S. agricultural trading partners accounted for 56 percent of U.S. agricultural exports in 2025, June 30, 2026', 'url': 'https://www-tx.ers.usda.gov/data-products/chart-gallery/58374', 'year': '2026'}",
+      "{'title': 'USDA FAS, Soybeans commodity exports page', 'url': 'https://www.fas.usda.gov/data/commodities/soybeans', 'year': '2025'}",
+      "{'title': 'U.S. Energy Information Administration, Feedstocks Consumed for Production of Biofuels: Total Soybean Oil, release date June 30, 2026', 'url': 'https://www.eia.gov/dnav/pet/PET_PNP_FEEDBIOFUEL_A_EPOOBDSO_YIFBP_MMLB_M.htm', 'year': '2026'}"
+    ],
+    "one_sentence": "Soybean farms generate revenue by selling harvested soybeans into export channels and domestic crush plants, with returns driven by bushels produced, farm prices, crush demand for meal and oil, biofuel policy, weather, input costs and trade access.",
+    "slug": "soybean-farming-in-the-us"
+  },
+  {
+    "title": "Space Vehicle & Missile Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A government-anchored aerospace and weapons manufacturing industry lifted by missile replenishment, hypersonics, missile defense and national-security launch demand.",
+    "overview": "This industry sits at the intersection of defense procurement and commercial space launch. In 2022, IBISWorld estimated revenue at $35.5 billion, with missile systems at 48.0% of industry revenue, propulsion systems at 26.8%, space systems at 20.3% and other missile and space vehicle parts at 4.9%. By 2025, publicly cited IBISWorld-derived market sizing placed space vehicle and missile manufacturing at roughly $44.1 billion. Government buyers remain the core market: FY2025 federal contract data for NAICS 336414 showed $32.8 billion in contract value, and FY2026 budget materials point to continued demand from missile defense, hypersonics, strategic deterrence and Space Force launch programs. Commercial launch cadence is also structurally stronger: BryceTech counted 325 orbital launches globally in 2025, up about 25% from 2024, with U.S. providers conducting nearly 60% of launches.",
+    "key_stats": {
+      "market_size": "2025: approximately $44.1 billion in U.S. space vehicle and missile manufacturing revenue, based on a 2025 IBISWorld-derived public citation.",
+      "growth": "2022-2025 implied CAGR: approximately 7.5%, calculated from IBISWorld's 2022 revenue estimate of $35.5 billion and the 2025 public market-size citation of $44.1 billion.",
+      "federal_contracting": "FY2025: NAICS 336414 guided missile and space vehicle manufacturing recorded $32.8 billion in federal contract value and ranked #7 among tracked federal-contract industries.",
+      "space_economy_context": "2023: BEA estimated the U.S. space economy at $240.9 billion in gross output, with 2023 real manufacturing gross output for the space economy up 2.9%.",
+      "launch_activity": "2025: BryceTech reported 325 global orbital launches, up about 25% from 2024; U.S. providers conducted nearly 60% of 2025 launches.",
+      "defense_budget_signal": "FY2026: DOD requested $40.2 billion for missile defeat and defense procurement and RDT&E programs and $34.0 billion for space-based systems procurement and RDT&E.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $35.5 billion in revenue, in 2022 dollars.",
+      "growth": "2017-2022 revenue CAGR: 3.6%; 2022 annual growth: 1.5%.",
+      "profit": "2022: $4.1 billion profit and 11.5% profit margin.",
+      "employment": "2022: 60,260 employees.",
+      "establishments": "2022: 105 establishments and 67 enterprises.",
+      "exports_imports": "2022: $2.2 billion exports and $807.2 million imports.",
+      "product_mix": "2022: missile systems 48.0%, propulsion systems 26.8%, space systems 20.3%, other missile and space vehicle parts 4.9%."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from long-cycle government procurement and R&D contracts for missiles, interceptors, hypersonic weapons, strategic systems, space launch vehicles, rocket motors, spacecraft, ground support equipment and parts. Additional revenue comes from NASA crew/cargo and exploration programs, national-security launch services, commercial launch customers, foreign military sales and allied missile-defense modernization.",
+    "cost_structure": "The industry is high-skill and engineering-heavy, but the largest operating costs are specialized materials, electronics, propulsion components, subcontracted systems and compliance-heavy production. In 2022, IBISWorld estimated wages at $7.4 billion and profit at 11.5% of revenue. Cost pressure in 2025-2026 is concentrated in solid rocket motors, energetic materials, microelectronics, precision machining, test infrastructure and cleared engineering labor, while long-term government contracts and cost-plus development work partially cushion margin volatility.",
+    "major_players": [
+      "Lockheed Martin",
+      "RTX / Raytheon",
+      "Northrop Grumman",
+      "Boeing",
+      "SpaceX",
+      "United Launch Alliance",
+      "Blue Origin",
+      "L3Harris / Aerojet Rocketdyne",
+      "General Dynamics Mission Systems",
+      "Anduril Industries"
+    ],
+    "current_dynamics": "Demand is broadening from legacy missile programs into missile defense, hypersonics, strategic deterrence, space-based sensing and national-security launch. FY2026 budget documents show large increases for missile defeat and defense, space-based systems, Space Force capabilities and industrial-base expansion. The missile side is driven by Ukraine-related replenishment, Indo-Pacific deterrence, Red Sea and Middle East air-defense usage, and allied FMS demand. The space side is increasingly commercialized: SpaceX dominates launch cadence, ULA's Vulcan is now central to national-security launch, and Blue Origin entered the FY2025 NSSL Phase 3 Lane 2 award pool for FY2026 missions. NASA's FY2026 proposal shifts future lunar transportation away from SLS and Orion after Artemis III toward lower-cost commercial systems, which is positive for commercial launch and spacecraft firms but a risk for legacy SLS/Orion suppliers.",
+    "whats_growing": [
+      "2025-2026: Patriot, THAAD, Aegis, SM-3, PAC-3 MSE and other air-and-missile-defense production tied to replenishment and homeland-defense priorities.",
+      "2025-2026: Hypersonic weapons, including Conventional Prompt Strike, ARRW restart activity and Long Range Hypersonic Weapon fielding.",
+      "2025-2026: National Security Space Launch demand, with April 2025 Phase 3 Lane 2 awards totaling about $13.7 billion across SpaceX, ULA and Blue Origin.",
+      "2025: Commercial launch throughput, as BryceTech reported 325 global orbital launches and U.S. providers conducted nearly 60% of the total.",
+      "2026: Space Force and space-based missile-warning, tracking, PNT and resilient-architecture programs supported by FY2026 budget priorities."
+    ],
+    "whats_shrinking": [
+      "2026: Legacy NASA SLS and Orion production visibility weakens after NASA's FY2026 proposal to retire SLS and Orion after Artemis III.",
+      "2025-2026: Smaller legacy programs and lower-priority platforms face budget tradeoffs as funds shift toward missile defense, hypersonics, autonomous systems and space-based architectures.",
+      "2025-2026: Import opportunities remain structurally limited because national-security launch and missile programs prefer domestic manufacturing and restricted supply chains.",
+      "2025-2026: Capacity-constrained programs face delivery pressure where solid rocket motors, energetic materials and specialized electronics limit output growth."
+    ],
+    "recent_developments": [
+      "2025-04-04: Space Systems Command awarded NSSL Phase 3 Lane 2 contracts with anticipated values of $5.9 billion for SpaceX, $5.4 billion for ULA and $2.4 billion for Blue Origin.",
+      "2025-04-07: Space Systems Command assigned nine FY2025 NSSL missions, including seven SpaceX missions priced at $845.8 million and two ULA missions priced at $427.6 million.",
+      "2025-05-12: DOD awarded Raytheon a $2.134 billion SM-3 Block missile support modification running through 2029.",
+      "2025-06-26: DOD's FY2026 budget briefing cited a $1.01 trillion national-defense request, $25.0 billion for Golden Dome, $40.0 billion for Space Force and $2.5 billion for missiles and munitions production expansion.",
+      "2026-02-20: CRS reported FY2026 DOD requests of $40.2 billion for missile defeat and defense, $35.7 billion for missile and munitions programs and $34.0 billion for space-based systems."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but capacity-constrained. Industry revenue should remain above the 2022 baseline because FY2026 appropriations and authorizations reinforce missile defense, munitions, hypersonics, Space Force architectures and national-security launch. Upside comes from Golden Dome-related interceptors and sensors, allied missile orders, Starship and other reusable launch systems, and commercial lunar logistics. Downside risks include federal-budget delays, cancellation or restructuring of legacy NASA programs, production bottlenecks in motors and electronics, classified-program execution risk, and cost overruns on strategic systems such as Sentinel. Overall, the industry is shifting from a slow-growth mature defense niche into a higher-tempo manufacturing base where launch cadence and missile inventory depth matter as much as bespoke platform development.",
+    "themes": [
+      "Missile-defense acceleration",
+      "Munitions replenishment",
+      "Hypersonic weapons",
+      "Space Force procurement",
+      "Reusable launch economics",
+      "Commercialization of NASA missions",
+      "National-security launch competition",
+      "Solid rocket motor bottlenecks",
+      "Allied foreign military sales",
+      "Industrial-base reshoring"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file, Space Vehicle & Missile Manufacturing in the US, last updated 2022-05-31', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/space-vehicle-and-missile-manufacturing-in-the-us.txt'}",
+      "{'name': 'Thomas Industry Overview citing IBISWorld 2025 market size', 'url': 'https://www.thomasnet.com/articles/top-suppliers/military-equipment-supplies-manufacturers-suppliers/'}",
+      "{'name': 'OpenSpending NAICS 336414 federal contract spending, data current through FY2025', 'url': 'https://www.openspending.us/industries/336414-guided-missile-and-space-vehicle-manufacturing'}",
+      "{'name': 'U.S. Department of Defense FY2026 Defense Budget briefing, 2025-06-26', 'url': 'https://www.defense.gov/News/Transcripts/Transcript/Article/4228828/background-briefing-on-fy-2026-defense-budget/'}",
+      "{'name': 'Congressional Research Service, FY2026 Defense Budget: Funding for Selected Weapon Systems, 2026-02-20', 'url': 'https://www.congress.gov/crs-product/R48860'}",
+      "{'name': 'U.S. Space Force, NSSL Phase 3 Lane 2 contract awards, 2025-04-04', 'url': 'https://www.spaceforce.mil/News/Article-Display/Article/4146459/space-systems-command-awards-national-security-space-launch-phase-3-lane-2-cont/'}",
+      "{'name': 'Space Systems Command, FY2025 NSSL mission assignments, 2025-04-07', 'url': 'https://www.ssc.spaceforce.mil/Newsroom/Article/4148471/space-systems-command-releases-national-security-space-launch-phase-3-lane-2-fy'}",
+      "{'name': 'NASA FY2026 human space exploration budget release', 'url': 'https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/'}",
+      "{'name': 'BryceTech Orbital Launches Year in Review 2025', 'url': 'https://brycetech.com/reports/report-documents/global-orbital-activity-2025/'}",
+      "{'name': 'U.S. Bureau of Economic Analysis, U.S. Space Economy 2012-2023, released 2025-03-31', 'url': 'https://apps.bea.gov/scb/issues/2025/03-march/0325-space-economy.htm'}"
+    ],
+    "one_sentence": "The industry manufactures guided missiles, rockets, launch vehicles, spacecraft, propulsion systems and related components, with 2025-2026 demand increasingly shaped by U.S. missile-defense budgets, munitions restocking and commercial launch scale-up.",
+    "slug": "space-vehicle-and-missile-manufacturing-in-the-us"
+  },
+  {
+    "title": "Specialist Doctors in the US",
+    "sector": "Healthcare",
+    "one_liner": "A fragmented, labor-heavy specialty physician market is expanding as aging, chronic disease, mental health demand and Medicare utilization offset reimbursement pressure and consolidation risk.",
+    "overview": "This industry covers MD and DO practices limited to specialized medicine or surgery, including anesthesiology, oncology, ophthalmology, cardiology, dermatology, orthopedics, psychiatry, radiology, OB/GYN and surgery, excluding family medicine, general internal medicine and general pediatrics. Revenue is largely tied to insured patient visits, procedures, diagnostics, chronic disease management and referrals from primary care and hospitals. The 2025 market is larger than the 2021 pandemic-recovery baseline, but growth remains uneven because procedure-heavy specialties face reimbursement scrutiny, staffing costs and site-of-care shifts while behavioral health, oncology, cardiology, ophthalmology and chronic-care specialties benefit from demographics and higher acuity.",
+    "key_stats": {
+      "market_size": "2025 revenue: $352.5 billion",
+      "growth": "2020-2025 revenue CAGR: 1.4%; 2023 revenue change: -2.7%",
+      "labor_costs": "2025 labor costs: $226.0 billion",
+      "physician_and_clinical_services_spending": "2024 US physician and clinical services expenditures: $1.1097 trillion, up 8.1% from 2023",
+      "employment_context": "2024 physicians and surgeons jobs: 839,000; 2024-2034 projected employment growth: 3.0%",
+      "medicare_payment": "2026 Medicare PFS conversion factors: $33.57 for qualifying APM clinicians and $33.40 for nonqualifying clinicians, up 3.77% and 3.26% from 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "report_date": "2022-08-30",
+      "market_size": "2021 revenue: $286.2 billion in 2021 dollars",
+      "growth": "2016-2021 revenue CAGR: 0.7%; 2021 revenue rebound: 10.6%; 2021-2026 forecast CAGR: 2.6% to $325.7 billion",
+      "profit": "2021 EBIT profit: $42.9 billion; 2021 profit margin: 15.0%",
+      "establishments": "2021 establishments: 296,177",
+      "enterprises": "2021 enterprises: 261,461",
+      "employment": "2021 employment: 1,821,528",
+      "wages": "2021 total wages: $148.5 billion"
+    },
+    "how_it_makes_money": "Specialist practices bill commercial insurers, Medicare, Medicaid and patients for office visits, professional procedure fees, surgery, anesthesia, diagnostic interpretation, imaging-related professional services, chronic disease management, follow-up care, telehealth where clinically appropriate and ancillary services. Revenue is strengthened by referral networks, payer contracts, ownership of outpatient sites, subspecialty expertise and high-acuity case mix.",
+    "cost_structure": "The cost base is dominated by physician and clinical labor, with IBISWorld listing $226.0 billion of labor costs in 2025. Other major costs include malpractice insurance, rent and facility costs, medical and office supplies, drugs and biologics used in-office, diagnostic equipment, health IT and cybersecurity, billing and coding staff, payer compliance, prior authorization administration and financing costs. Practices with procedural, imaging or infusion exposure carry higher equipment and supply intensity, while psychiatry and some cognitive specialties are more labor-weighted.",
+    "major_players": [
+      "Mayo Clinic",
+      "Cleveland Clinic",
+      "Johns Hopkins Medicine",
+      "Kaiser Permanente",
+      "NYU Langone Health",
+      "Mass General Brigham",
+      "UnitedHealth Group/Optum specialty practices",
+      "HCA Healthcare-affiliated physician groups"
+    ],
+    "current_dynamics": "The market is benefiting from high 2024 physician and clinical services spending growth, Medicare enrollment growth and older patients with complex needs. At the same time, 2025-2026 Medicare policy is reshaping economics through separate APM and non-APM conversion factors, efficiency adjustments for some non-time-based services, updated practice-expense methodology and more scrutiny of overvalued procedure codes. Consolidation continues as physicians seek payer leverage, administrative scale and capital for technology, while independent practices face rising labor, rent, malpractice, compliance and revenue-cycle costs.",
+    "whats_growing": "Behavioral health and psychiatry, oncology, cardiology, ophthalmology, orthopedics linked to aging, chronic disease management, ambulatory procedures, remote monitoring, telehealth-enabled follow-up care, multispecialty groups, hospital-owned practices, APM participation and specialties tied to Medicare demand are growing. CMS projects physician and clinical services spending to grow 5.5% annually on average over 2025-2034, supporting nominal revenue expansion.",
+    "whats_shrinking": "Solo and small independent practices, physician-owned private practice share, purely fee-for-service models without scale, specialties highly exposed to Medicare code revaluation, low-margin elective procedures, pediatric specialty demand in areas affected by slower child-population growth and practices unable to absorb prior authorization, staffing and technology costs are shrinking or under pressure.",
+    "recent_developments": [
+      "2025-01-29: Research and Markets listed the February 2025 IBISWorld Specialist Doctors report showing 2025 revenue of $352.5 billion and 2020-2025 CAGR of 1.4%.",
+      "2025-05-29: AMA reported that private practice accounted for 42.2% of physicians in 2024, down from 60.1% in 2012, while hospital-owned and private-equity-owned practices gained share.",
+      "2025-08-28: BLS released 2024-2034 projections showing physicians and surgeons employment growing 3.0% from 839,000 jobs in 2024 to 863,200 in 2034.",
+      "2025-10-31: CMS finalized the 2026 Medicare Physician Fee Schedule with conversion factors of $33.57 for qualifying APM clinicians and $33.40 for nonqualifying clinicians.",
+      "2026-01-14: CMS historical NHE data showed 2024 physician and clinical services spending of $1.1097 trillion, up 8.1% from 2023.",
+      "2026-06-24: CMS projected physician and clinical services spending growth of 5.5% annually on average over 2025-2034."
+    ],
+    "outlook": "The 2026 outlook is positive but margin-sensitive. Demand should rise as Medicare enrollment, chronic disease, oncology, cardiovascular disease, eye care, musculoskeletal care and behavioral health needs increase. Revenue growth will be strongest for scaled groups that can negotiate commercial rates, manage value-based contracts, automate revenue-cycle work and keep procedures in lower-cost outpatient settings. Smaller practices remain vulnerable to wage inflation, payer denials, Medicare payment volatility and technology investment needs. Consolidation is likely to continue through 2030, but regulatory and payer scrutiny of hospital and private-equity ownership may temper deal activity in some markets.",
+    "themes": [
+      "Aging population",
+      "Chronic disease burden",
+      "Medicare reimbursement pressure",
+      "Physician practice consolidation",
+      "Private equity and hospital ownership",
+      "Labor cost inflation",
+      "Telehealth normalization",
+      "Value-based care and APMs",
+      "Behavioral health integration",
+      "Outpatient site-of-care shift"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/specialist-doctors-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-specialist-doctor-market",
+      "https://www.globenewswire.com/news-release/2025/01/29/3017367/28124/en/US-Specialist-Doctors-Industry-Research-Report-2024-Focus-on-Anesthesiology-Surgery-Oncology-and-Ophthalmology.html",
+      "https://www.ibisworld.com/united-states/industry-trends/industries-highest-labor-costs/",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/projected",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f",
+      "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "https://www.ama-assn.org/press-center/ama-press-releases/more-physicians-move-practices-owned-hospitals-private-equity",
+      "https://www.ama-assn.org/practice-management/private-practices/smaller-share-doctors-private-practice-ever"
+    ],
+    "one_sentence": "Specialist Doctors in the US generated about $352.5 billion in 2025 revenue after a 2020-2025 CAGR of 1.4%, with demand supported by older patients and complex care needs but margins pressured by labor costs, payer negotiations and Medicare fee-schedule changes.",
+    "slug": "specialist-doctors-in-the-us"
+  },
+  {
+    "title": "Specialized Storage & Warehousing in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "Specialized warehouses earn storage and handling fees for petroleum, chemicals, lumber, whiskey, records and other goods that need purpose-built space or regulated handling.",
+    "overview": "Specialized Storage & Warehousing in the US covers NAICS 49319 facilities that store goods excluded from general, refrigerated and farm-product warehousing, including bulk petroleum, chemicals, lumber, documents, whiskey and automobiles. The 2022 IBIS baseline put revenue at $8.657 billion and forecast a 2022-2027 CAGR of 2.0% to about $9.6 billion in 2027/2026 terms. Current 2025-2026 indicators point to mixed demand: energy inventory volatility supports tank farms and terminals, while softer broad industrial leasing and high warehouse vacancy pressure pricing for less specialized space. Document storage remains resilient, helped by regulated retention and recurring rental contracts, while digital records and data center adjacencies are shifting the growth mix for leaders such as Iron Mountain.",
+    "key_stats": {
+      "market_size": "2026 estimated revenue: $9.6 billion, based on the 2022 IBIS forecast path",
+      "growth": "2022-2027 forecast CAGR: 2.0%",
+      "profit_margin": "2022 baseline EBIT margin: 15.0%",
+      "employment": "2022 baseline employment: 51,971 workers; 2027 forecast: 57,551 workers",
+      "businesses": "2024 IBISWorld public snapshot: 1,469 businesses; 2023 Census employer establishments for NAICS 49319: 2,670",
+      "price_index": "June 2026 warehousing, storage and related services PPI: 146.682, Dec. 2008=100",
+      "petroleum_stocks": "July 17, 2026 EIA total crude and petroleum products excluding SPR: 1.222 billion barrels; commercial crude excluding lease stock: 411.675 million barrels",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $8.657 billion",
+      "growth": "2022 revenue growth: 0.6%; 2017-2022 revenue CAGR: 0.7%",
+      "profit": "2022 profit: $1.299 billion",
+      "profit_margin": "2022 profit margin: 15.0%",
+      "establishments": "2022 establishments: 2,615",
+      "enterprises": "2022 enterprises: 1,363",
+      "employment": "2022 employment: 51,971",
+      "wages": "2022 wages: $3.284 billion",
+      "product_mix": "2022 revenue mix: bulk petroleum and chemical storage 51.7%, other services 26.8%, bulk lumber storage 11.0%, whiskey warehousing 6.9%, document storage and warehousing 3.6%"
+    },
+    "how_it_makes_money": "Operators charge recurring storage rentals, tankage and throughput fees, handling fees, inventory management fees, blending and transloading charges, document retrieval and destruction fees, and specialized services tied to security, environmental compliance, product segregation, aging, custody and regulated retention. Petroleum and chemical terminals usually monetize tank capacity, pipeline/marine/truck/rail connectivity and value-added blending; records and whiskey warehouses monetize long dwell times and recurring customer relationships.",
+    "cost_structure": {
+      "profit": "2022 EBIT profit: 15.0% of revenue",
+      "wages": "2022 wages: about 37.9% of revenue, calculated from $3.284 billion wages on $8.657 billion revenue",
+      "other_costs": "2022 implied purchases, rent, utilities, insurance, maintenance, depreciation, compliance and overhead: about 47.1% of revenue",
+      "main_cost_pressures": "2025-2026 cost pressure comes from labor, insurance, tank and building maintenance, environmental and port security compliance, energy costs, property taxes, interest rates and technology spend for automation and monitoring"
+    },
+    "major_players": [
+      "Iron Mountain Inc.",
+      "Kinder Morgan Inc.",
+      "Enterprise Products Partners L.P.",
+      "IMTT",
+      "Oiltanking / Advario",
+      "Regional whiskey, lumber, chemical and vehicle-storage operators"
+    ],
+    "current_dynamics": "Petroleum and chemical storage remains the swing factor. EIA data show 2026 crude and product inventories moving week to week, with July 2026 commercial crude still below typical seasonal levels in some reports, supporting demand for well-connected terminals but limiting broad tank scarcity. EIA's 2025-2026 outlook for low distillate inventories and lower 2026-2027 oil prices implies more inventory management volatility, not simple volume growth. Warehousing price inflation is no longer uniformly strong: the June 2026 warehousing/storage PPI was 146.682, down from April 2026's 153.897, while CBRE's 2025 outlook expected US industrial vacancy to reach 7.0% by year-end 2025 and peak in mid-2026. That softens generic warehouse rent leverage but does less damage to specialized sites with permits, tanks, rail, waterfront, security or regulatory features that are hard to replicate.",
+    "whats_growing": "Growth is strongest in petroleum and refined-products storage tied to inventory volatility, chemical tankage and blending near Gulf Coast and port infrastructure, compliant records retention with digital conversion add-ons, data-center-adjacent information management at Iron Mountain, and whiskey storage where aging requirements create multi-year inventory dwell times. Demand also improves where 2025-2026 reshoring, energy exports, petrochemical activity and 3PL demand require specialized handling rather than commodity warehouse space.",
+    "whats_shrinking": "Pressure is greatest in lower-spec overflow warehousing, automobile storage tied to normalized dealer inventories, paper-only records accounts that are actively digitizing, and lumber storage exposed to weak housing starts or lower lumber pricing. Generic industrial space with rising 2025-2026 vacancy faces more rent concessions and competition than regulated tank farms, document vaults or specialized bonded/secure storage.",
+    "recent_developments": [
+      "2025-09-24: EIA forecast US total distillate inventories would end 2025 and 2026 at multiyear lows, increasing the value of storage and inventory flexibility.",
+      "2025-12-31: Iron Mountain reported 2025 revenue of $6.902 billion, including $4.053 billion of storage rental revenue, up 10.1% from 2024.",
+      "2026-02-11: EIA forecast lower oil prices in 2026 and 2027 due to persistent stock builds, a setup that can increase storage demand while pressuring tariff rates.",
+      "2026-06: FRED/BLS reported the warehousing, storage and related services PPI at 146.682 for June 2026, below the April 2026 reading of 153.897.",
+      "2026-07-17: EIA reported US total crude and petroleum products excluding SPR at 1.222 billion barrels and commercial crude excluding lease stock at 411.675 million barrels."
+    ],
+    "outlook": "The 2026-2027 outlook is modestly positive rather than breakout. The baseline forecast of roughly 2.0% annualized growth remains reasonable because specialized storage capacity is constrained by permitting, location, safety rules and customer switching costs. Upside comes from oil-price contango episodes, export and refinery disruptions, chemical production, records retention and whiskey aging. Downside comes from lower warehouse pricing, reduced lumber and construction activity, digitization of records, high interest rates and compliance costs. Profitability should remain above many logistics categories where operators own scarce infrastructure or provide regulated handling, but labor, insurance, maintenance and environmental compliance will cap margin expansion.",
+    "themes": [
+      "Energy inventory volatility",
+      "Regulated storage and compliance",
+      "Scarce terminal infrastructure",
+      "Records retention and digitization",
+      "Industrial real estate normalization",
+      "Whiskey aging inventory",
+      "Automation and tank monitoring",
+      "Gulf Coast and port concentration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/specialized-storage-and-warehousing-in-the-us.txt",
+      "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
+      "https://www.eia.gov/petroleum/data.php/summary",
+      "https://www.eia.gov/todayinenergy/detail.php?id=66124",
+      "https://fred.stlouisfed.org/series/WPU321",
+      "https://data.census.gov/profile/49319_-_Other_Warehousing_and_Storage?codeset=naics~49319&g=010XX00US",
+      "https://www.ibisworld.com/united-states/number-of-businesses/specialized-storage-warehousing/1227/",
+      "https://investors.ironmountain.com/financials/quarterly-results/default.aspx",
+      "https://kindermorgan.com/Operations/Terminals/Index",
+      "https://www.cbre.com/insights/reports/2025-us-real-estate-market-outlook-midyear-review"
+    ],
+    "one_sentence": "The industry is a mature, asset-heavy logistics niche whose 2026 revenue is estimated near $9.6 billion, with growth tied mainly to petroleum and chemical inventories, industrial activity, records retention, spirits aging and construction-linked lumber flows.",
+    "slug": "specialized-storage-and-warehousing-in-the-us"
+  },
+  {
+    "title": "Specialty Food Stores in the US",
+    "sector": "Retail",
+    "one_liner": "Specialty food stores sell premium packaged foods, confections, baked goods, coffee, tea and other niche grocery items, but growth increasingly depends on differentiation as supermarkets, natural grocers and ecommerce absorb more specialty-food demand.",
+    "overview": "Specialty food stores are specialized retailers focused on premium, gourmet, organic, local, ethnic, indulgent or dietary-specific food products not primarily for immediate consumption. The 2022 IBISWorld baseline described a mature, low-concentration industry with low entry barriers, high revenue volatility and rising competition from supermarkets, natural food chains and online sellers. Current 2025-2026 data show that specialty-food demand is still expanding across retail, foodservice and ecommerce, but store-level operators face a mixed environment: nominal sales benefit from food inflation and premiumization, while unit softness, higher labor costs, rent, shrink and delivery economics pressure margins.",
+    "key_stats": {
+      "market_size": "$31.9 billion in 2025 sectoral output for NAICS 4452 specialty food stores, up from $31.0 billion in 2024",
+      "growth": "3.1% nominal growth in 2025, calculated from BLS/FRED 2025 sectoral output of $31.922 billion versus $30.965 billion in 2024",
+      "businesses": "10,055 businesses in 2025 for IBISWorld's narrower NAICS 44529 Specialty Food Stores in the US category, up 0.9% in 2025",
+      "employment": "102,667 employees in 2025 for IBISWorld's narrower NAICS 44529 category, up 1.2% in 2025",
+      "broader_employment": "232,400 jobs in 2025 for BLS specialty food stores NAICS 4452",
+      "specialty_food_market": "$231.3 billion projected 2025 US specialty food and beverage sales across retail, foodservice and ecommerce, up 5.5% from 2024",
+      "food_inflation": "US food-at-home prices increased 2.3% in 2025 and were forecast by USDA ERS in July 2026 to rise 2.7% in 2026",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$10.913 billion in 2021 revenue in the January 29, 2022 IBISWorld baseline file; the same file forecast $13.0 billion by 2026",
+      "growth": "6.9% revenue growth in 2021 and -2.9% annualized revenue growth over 2016-2021 in the January 2022 baseline",
+      "profit_margin": "7.4% of 2021 revenue in the January 2022 baseline, up from 6.4% in 2016",
+      "establishments": "48,663 establishments in 2021 in the January 2022 baseline",
+      "enterprises": "45,176 enterprises in 2021 in the January 2022 baseline",
+      "employment": "133,631 employees in 2021 in the January 2022 baseline",
+      "wages": "$2.278 billion in 2021 wages in the January 2022 baseline"
+    },
+    "how_it_makes_money": "Stores buy packaged and specialty food products from producers, wholesalers, importers and local makers, then earn retail margins by curating assortment, offering discovery and sampling, bundling gifts, running subscriptions or loyalty programs, and charging premium prices for differentiated products such as artisan cheese, specialty coffee and tea, confectionery, snacks, sauces, condiments, bakery items and dietary-specific foods.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket; wholesale food purchases typically dominate revenue because operators resell finished goods and have limited manufacturing value-add.",
+      "wages": "Meaningful but below many service industries; 2025 labor pressure is visible in BLS food and beverage store wage data, with May 2026 average hourly earnings of $22.57 for all employees in NAICS 445.",
+      "rent_and_occupancy": "Important for urban and high-income trade areas where discovery-oriented stores depend on foot traffic.",
+      "utilities_and_distribution": "Cold storage, perishables handling, freight and last-mile fulfillment costs are higher for stores with cheese, frozen, refrigerated or online assortments.",
+      "marketing_and_technology": "Rising spend on POS systems, inventory management, loyalty tools, ecommerce listings, marketplaces and social media promotion.",
+      "profit": "Baseline profitability was 7.4% of 2021 revenue; current margins are pressured by labor, rent, shrink and wholesale input costs but supported by premium pricing and private-label or exclusive assortments."
+    },
+    "major_players": [
+      "Fragmented independent specialty food retailers",
+      "Local and regional gourmet grocers",
+      "The Fresh Market and other premium grocery formats as adjacent competitors",
+      "Whole Foods Market, Trader Joe's, Sprouts Farmers Market and Kroger specialty aisles as major external competitors",
+      "Online specialty-food sellers and producer direct-to-consumer channels"
+    ],
+    "current_dynamics": "The industry is benefiting from consumers cooking more at home, treating themselves with premium ingredients and buying snacks, sauces, beverages and specialty staples, but the channel is no longer protected by exclusivity. Specialty products have become mainstream, with SFA reporting that specialty foods represented 21.6% of measured center-store grocery sales in 2023. That helps demand for products but shifts power toward supermarkets, club stores, natural grocers and ecommerce platforms that can underprice small operators or offer broader convenience.",
+    "whats_growing": [
+      "Premium ingredients for at-home cooking and restaurant-style meals",
+      "Snacks, including familiar formats with global flavors and functional claims",
+      "Specialty coffee, tea, hot cocoa and nonalcoholic beverages",
+      "Sauces, seasonings, condiments, vinegars and flavor enhancers",
+      "Shelf-stable pantry items such as flours, pasta sauces, rice and grains",
+      "Retailer demand for local, ethical, organic and differentiated brands that build loyalty"
+    ],
+    "whats_shrinking": [
+      "Undifferentiated packaged bakery products facing grocery and bakery-cafe competition",
+      "Premium eggs and dairy sold without a clear specialty proposition as supermarkets expand organic and cage-free assortments",
+      "Impulse discovery in pure ecommerce, where specialty food has fewer sampling and browsing moments",
+      "Small stores that cannot absorb higher labor, rent, freight and input costs",
+      "Products with weak value-for-price positioning as shoppers trade down or consolidate trips"
+    ],
+    "recent_developments": [
+      "2024-05-21: SFA reported specialty product sales rose from $88 billion in 2013 to an estimated $207 billion in 2023 and reached 21.6% of measured center-store grocery sales.",
+      "2024-07-01: SFA said specialty food sales across retail, foodservice and ecommerce grew 6.5% to $206.8 billion in 2023.",
+      "2025-06-29: SFA's 2025 Summer Fancy Food Show opened with nearly 2,500 exhibitors from 59 countries and about 32,000 industry professionals.",
+      "2025-07-09: SFA said the specialty food market was projected to hit $231 billion in 2025, with 2025 show attendee registration up 14% from 2024.",
+      "2026-02-12: SFA announced a Q1 2026 pilot data-insights platform with MenuData and The Food Institute for retail, foodservice and social-media trends.",
+      "2026-07-24: USDA ERS forecast 2026 food-at-home prices to increase 2.7%, keeping grocery-price pressure relevant for specialty retailers."
+    ],
+    "outlook": "The 2026 outlook is moderate growth with margin discipline. Nominal sales should keep rising as specialty foods remain a large and growing part of US grocery spending, but real growth is more constrained because 2025-2026 food inflation, labor costs and consumer value-seeking limit volume gains. Winning stores will lean into curation, local supplier access, gifting, sampling, prepared-but-not-restaurant assortments, loyalty data and omnichannel pickup. Weak stores will be those selling products consumers can easily find at a supermarket, club store or Amazon at a lower price.",
+    "themes": [
+      "Premiumization with value scrutiny",
+      "Specialty goes mainstream",
+      "At-home cooking as affordable indulgence",
+      "Snacking and small-meal occasions",
+      "Functional, clean-label and dietary-specific products",
+      "Local sourcing and provenance",
+      "Omnichannel discovery versus physical-store sampling",
+      "Fragmented independents versus scaled grocery competitors"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/specialty-food-stores-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/IPUHN4452T300000000",
+      "https://fred.stlouisfed.org/data/IPUHN4452T300000000",
+      "https://www.ibisworld.com/united-states/number-of-businesses/specialty-food-stores/1046",
+      "https://www.ibisworld.com/united-states/employment/specialty-food-stores/1046/",
+      "https://www.specialtyfood.com/news-media/news-features/association-press-releases/sffs25-post-show-release/",
+      "https://www.specialtyfood.com/news-media/news-features/specialty-food-news/68th-summer-fancy-food-show-drew-thousands/",
+      "https://www.specialtyfood.com/news-media/news-features/association-press-releases/sfa-releases-new-research-understanding-the-real-value-of-specialty-foods-2024-edition/",
+      "https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "https://www.ers.usda.gov/data-products/chart-gallery/76961",
+      "https://www.bls.gov/IAG/TGS/iag445.htm",
+      "https://www.census.gov/naics/?details=4452&input=4452&year=2012"
+    ],
+    "one_sentence": "In 2025, the broader NAICS 4452 specialty food stores output was $31.9 billion, up 3.1% from 2024, while the narrower IBISWorld-defined specialty food store base remains fragmented and pressured by grocery chains that sell the same premium and natural products at scale.",
+    "slug": "specialty-food-stores-in-the-us"
+  }
+]

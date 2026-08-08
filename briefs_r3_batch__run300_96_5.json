@@ -1,0 +1,431 @@
+[
+  {
+    "title": "Eating Disorder Clinics",
+    "sector": "Healthcare",
+    "one_liner": "Specialized eating disorder clinics provide inpatient, residential, PHP, IOP, outpatient and virtual treatment for anorexia, bulimia, binge eating disorder and related conditions.",
+    "overview": "Eating disorder clinics diagnose and treat eating disorders through psychotherapy, nutrition counseling, medical monitoring, psychiatry, family-based therapy, meal support and step-down care. The 2021 IBISWorld baseline placed industry revenue at $1.29 billion in 2021 after a 2020 COVID decline, with a forecast recovery to about $1.4 billion by 2026. Using that baseline and current 2024-2026 signals, the industry is best viewed as a roughly $1.45 billion-$1.55 billion US specialty behavioral health market in 2025, with growth concentrated in residential capacity, PHP/IOP programs, virtual care and adolescent/family-based treatment. Demand remains structurally larger than realized clinic revenue because NIMH data show low lifetime eating-disorder-specific treatment rates, while treatment can cost $1,000-$2,500 per day for residential care in 2025 reporting.",
+    "key_stats": {
+      "market_size": "2025 estimated US revenue: $1.5 billion, based on the 2021 IBISWorld baseline of $1.29 billion and 2021-2026 forecast growth toward $1.4 billion+",
+      "growth": "2025 estimated YoY revenue growth: about 2.0%-3.0%; 2021-2026 baseline forecast CAGR: 2.1%",
+      "employment": "2024 IBISWorld public statistic: 28,692 employees; 2024 employment growth: 2.0%",
+      "research_funding": "NIH eating disorders research funding: $55 million in FY2024 and $53 million in FY2025",
+      "treatment_gap": "NIMH adult lifetime treatment rates: 33.8% for anorexia nervosa, 43.2% for bulimia nervosa and 43.6% for binge eating disorder, based on NCS-R data still used in 2026 NIMH statistics",
+      "residential_cost": "2025 reported national residential treatment cost: $1,000-$2,500 per day, with typical stays of four to eight weeks",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: $1.32 billion, extrapolated from the 2021 IBISWorld baseline of $1.29 billion and 2.1% annualized 2021-2026 forecast growth",
+      "growth": "2022 estimated growth: about 2.1% after the 2021 rebound from the 2020 COVID decline",
+      "profit_margin": "2021 baseline profit margin: 10.9%; 2026 baseline forecast: 11.4%",
+      "establishments": "2022 estimated establishments: about 500, extrapolated from 488 locations in 2021 and a 2.5% 2021-2026 establishment CAGR",
+      "employment": "2021 baseline employment: 9,571; later IBISWorld public data show 28,130 employees in 2023 and 28,692 in 2024, indicating a broader or revised current industry count"
+    },
+    "how_it_makes_money": "Clinics earn revenue from commercial insurance reimbursement, single-case agreements, Medicaid or Medicare where accepted, self-pay fees, and hospital or health-system contracts. The highest-dollar services are inpatient and residential treatment, followed by PHP, IOP, outpatient therapy, dietitian visits, psychiatric medication management, family therapy, alumni support and virtual programs. Operators compete on acuity coverage, payer contracts, wait times, clinical reputation, outcomes reporting, adolescent programs and the ability to move patients across levels of care without losing continuity.",
+    "cost_structure": {
+      "labor": "Largest cost category; multidisciplinary staffing includes therapists, psychiatrists, physicians, nurses, dietitians, milieu staff, intake/utilization-review teams and administrative personnel. The 2021 baseline wages were $543 million, equal to about 42% of 2021 revenue.",
+      "facility_and_occupancy": "Residential and inpatient programs carry high rent, mortgage, utilities, food service, housekeeping, security and maintenance costs; PHP/IOP and virtual models have lower facility intensity.",
+      "medical_food_and_supplies": "Meal programming, nutrition services, labs, vitals monitoring, medications, EHR systems and clinical supplies are recurring costs.",
+      "insurance_and_compliance": "HIPAA, state licensure, Joint Commission accreditation, utilization review, parity appeals and documentation add compliance overhead.",
+      "marketing_and_referrals": "Providers rely on clinician referrals, school and family outreach, digital screening tools, payer directories and brand reputation.",
+      "profit": "2021 baseline profit margin was 10.9%; margins are pressured by clinician wage inflation and payer denials but supported by high-acuity residential reimbursement and scaled virtual programs."
+    },
+    "major_players": [
+      "Eating Recovery Center / Pathlight Mood & Anxiety Center",
+      "Monte Nido & Affiliates, including Walden Behavioral Care and Clementine",
+      "Discovery Behavioral Health / Center for Discovery",
+      "Alsana",
+      "Equip Health",
+      "EDCare",
+      "Inner Haven Wellness",
+      "Hospital-affiliated programs such as academic medical center eating disorder units"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions in 2025-2026. Demand is rising because eating disorders are more openly discussed, adolescent and young adult need remains high, and more patients are presenting with co-occurring anxiety, depression, OCD, trauma or substance use. Supply is expanding through virtual IOP/PHP programs, hybrid residential campuses and stepped-care platforms. However, access remains limited by high list prices, narrow networks, utilization management, uneven Medicaid coverage for residential care, clinician shortages and inconsistent state-level enforcement. Federal parity policy is important but uncertain: 2024 final MHPAEA rules were designed to improve access starting in 2025 and 2026, but federal agencies announced on May 15, 2025 that they would not enforce the new portions while litigation and reconsideration continue.",
+    "whats_growing": "Virtual eating disorder treatment, adolescent-focused programs, family-based treatment, PHP and IOP step-down care, outcomes reporting, payer-facing utilization teams, hybrid behavioral health campuses, programs serving all genders and all diagnoses, and Medicaid/state-government contracting where operators can make reimbursement work.",
+    "whats_shrinking": "Pure self-pay dependence, programs without payer contracts, isolated single-level residential models, narrow female-only positioning, paper-heavy utilization review workflows, and clinics unable to staff psychiatry, dietetics and medical monitoring consistently.",
+    "recent_developments": [
+      "2024-09-09: DOL, HHS and Treasury issued final MHPAEA rules intended to strengthen mental health and substance use disorder parity for group plans beginning in 2025 and some requirements in 2026.",
+      "2025-02-18: Alsana announced a new virtual eating disorder treatment program for adolescents in California.",
+      "2025-05-15: DOL, HHS and Treasury stated they would not enforce new portions of the 2024 MHPAEA final rule before litigation is resolved plus 18 months.",
+      "2025-10-20: Discovery Behavioral Health announced two 72-bed hybrid residential centers in Irving, Texas and Orange, California, plus expansion of its Annapolis, Maryland center to 40 beds.",
+      "2025-10-21: Alsana announced plans to expand virtual PHP and IOP eating disorder treatment to more than 30 states by the end of 2025.",
+      "2026-06-23: NIH published FY2025 categorical spending data showing $53 million in eating disorders research funding, down from $55 million in FY2024."
+    ],
+    "outlook": "Revenue should continue to grow modestly through 2026 as in-person volumes normalize, virtual programs extend geographic reach and large operators expand step-down care. Growth is likely to be strongest among providers with broad payer contracts, adolescent/family-based programming, residential-to-PHP-to-IOP continuity and credible outcomes data. The main downside risks are non-enforcement or rollback of 2024 parity rules, payer resistance to residential authorizations, wage inflation and reputational scrutiny of for-profit behavioral health roll-ups. A reasonable 2026 view is low-single-digit revenue growth, with the market around $1.5 billion and capacity shifting toward virtual and hybrid levels of care rather than only bed-heavy residential expansion.",
+    "themes": [
+      "High unmet behavioral health need",
+      "Insurance parity uncertainty",
+      "Virtual PHP and IOP expansion",
+      "Adolescent and family-based care",
+      "Residential capacity and hybrid campuses",
+      "Private equity and consolidation",
+      "Workforce shortages",
+      "Outcomes measurement and payer scrutiny",
+      "High out-of-pocket costs",
+      "Co-occurring mental health treatment"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/eating-disorder-clinics.txt",
+      "https://www.ibisworld.com/united-states/employment/eating-disorder-clinics/5999/",
+      "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+      "https://report.nih.gov/funding/categorical-spending",
+      "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/mental-health-and-substance-use-disorder-parity/law-and-regulations",
+      "https://www.dol.gov/index.php/agencies/ebsa/laws-and-regulations/laws/mental-health-parity/statement-regarding-enforcement-of-the-final-rule-on-requirements-related-to-mhpaea",
+      "https://www.cms.gov/newsroom/press-releases/departments-labor-health-and-human-services-treasury-issue-final-rules-strengthening-access-mental",
+      "https://www.montenido.com/outcomes-report",
+      "https://www.eatingrecoverycenter.com/professionals/partner-with-us/",
+      "https://centerfordiscovery.com/find-help-today/",
+      "https://www.prnewswire.com/news-releases/discovery-behavioral-health-adds-two-flagship-residential-treatment-centers-to-expand-measurement-based-care-of-eating-and-mental-health-disorders-in-california-and-texas-302589436.html",
+      "https://www.prnewswire.com/news-releases/alsana-announces-plan-to-expand-virtual-eating-disorder-treatment-to-30-states-strengthening-access-to-care-nationwide-302589601.html",
+      "https://www.alsana.com/press-and-media/",
+      "https://coloradosun.com/2025/01/15/eating-disorder-treatment/",
+      "https://equip.health/"
+    ],
+    "one_sentence": "The US Eating Disorder Clinics industry is a small but expanding behavioral health specialty, supported by high unmet need, broader acceptance of telehealth and stepped-care models, and constrained by insurance denials, workforce shortages and high out-of-pocket costs.",
+    "slug": "eating-disorder-clinics"
+  },
+  {
+    "title": "Education Consultants",
+    "sector": "Business Services",
+    "one_liner": "A fragmented advisory industry helping students, families and schools navigate admissions, financial aid, academic planning and institutional strategy.",
+    "overview": "The US education consulting market remains highly fragmented, with thousands of independent counselors and small boutiques serving families alongside institutional consultants serving schools, districts, colleges and universities. The baseline IBISWorld file described 2021 revenue of $2.231 billion, with college admissions consulting as the largest 2021 service line at 34.1% of revenue, other postsecondary services at 30.4%, institutional services at 18.0%, financial planning at 9.2% and other services at 8.3%. Updated public summaries from the 2024 IBISWorld-distributed report put 2023 industry revenue at $2.9 billion after 0.8% annualized growth over the prior five years, while 2025 sector commentary estimated US admissions consulting alone at about $3.0 billion and forecast it to reach $3.2 billion by 2029. Demand in 2025 and 2026 is being supported by higher application volumes, recovering undergraduate enrollment, complicated FAFSA and aid decisions, selective-school test-policy changes and continued willingness among affluent households to pay for personalized application strategy.",
+    "key_stats": {
+      "market_size": "About $3.0 billion in 2025 US admissions consulting revenue; the broader IBIS-defined Education Consultants industry was reported at $2.9 billion in 2023.",
+      "growth": "2025-2029 forecast CAGR of about 1.3% for US admissions consulting; the 2024 IBISWorld-distributed report cited 0.8% CAGR over the five years to 2023.",
+      "applications": "Common App reported 1,498,199 distinct first-year applicants and more than 10 million applications in the 2024-2025 season, up 8% in applications from 2023-2024.",
+      "enrollment": "National Student Clearinghouse reported spring 2026 total postsecondary enrollment of 18.6 million, up 1.0% from spring 2025, including 15.5 million undergraduates, up 1.3%.",
+      "testing": "College Board reported more than 2 million SAT takers in the high school class of 2025; ACT reported nearly 1.4 million ACT-tested 2025 graduates.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated $2.89 billion in 2022, implied by the 2024 IBISWorld-distributed 2023 revenue of $2.9 billion and 0.2% 2023 growth.",
+      "growth": "About 0.2% 2023 growth from the estimated 2022 base; legacy baseline projected low-single-digit growth after 2021.",
+      "legacy_baseline": "The baseline file reported 2021 revenue of $2.231 billion, 2021 profit of $212 million, a 2021 profit margin of 9.5%, 32,275 establishments and 37,118 employees."
+    },
+    "how_it_makes_money": "Operators charge hourly fees, fixed application packages, annual retainers, premium concierge packages, essay and interview coaching fees, test-prep or graduate-exam prep fees, financial-aid planning fees, school-placement fees and institutional consulting project fees. Household-facing consultants monetize one-to-one advice around school lists, application positioning, essays, interviews, athletic recruiting, transfer strategy and scholarship searches; institutional consultants sell strategic planning, enrollment management, curriculum, teacher development, technology integration and analytics projects to schools, districts, nonprofits and universities.",
+    "cost_structure": "The business is labor-intensive and low-capital. In the baseline file, 2021 wages were $677 million, equal to about 30.3% of 2021 revenue, while profit was $212 million, equal to a 9.5% margin. Major 2025-2026 costs are consultant compensation, contractor payments, marketing and referrals, CRM and application-management software, AI and analytics tools, insurance, professional memberships, travel, rent for higher-touch boutiques and compliance or data-security expenses for firms handling student records. Sole proprietors can run with low overhead, but scaled firms spend more on sales, brand, technology and admissions-officer talent.",
+    "major_players": [
+      "Independent education consultants and sole proprietors",
+      "IvyWise",
+      "Command Education",
+      "Solomon Admissions Consulting",
+      "Collegewise",
+      "EAB Consulting",
+      "Huron Consulting Group",
+      "Deloitte Higher Education"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions in 2025-2026. Application complexity is rising: Common App applications topped 10 million in the 2024-2025 cycle, applicants applied to more schools on average, and 2026 Common App updates showed applicants and applications still up year over year through March 1, 2026. Enrollment is also recovering, with spring 2026 postsecondary enrollment up 1.0% and undergraduate enrollment up 1.3%. At the same time, many families are more price-sensitive because tuition, borrowing rules and aid uncertainty remain central to college decisions. Test policy is creating fresh advising demand: FairTest tracked 1,940+ test-optional or test-free four-year colleges for fall 2026, while selective universities including several Ivy League and elite institutions reinstated or announced testing requirements for 2025-2027 cycles.",
+    "whats_growing": "Premium admissions strategy, early high-school planning, essay coaching, athletic recruiting guidance, scholarship and FAFSA support, transfer advising, graduate and professional school advising, virtual advising, AI-assisted essay review and school-list modeling, and institutional enrollment-management consulting are growing. Public four-year and community-college enrollment gains in 2025-2026 also support institutional consulting tied to retention, certificate programs, advising capacity and workforce-aligned credentials.",
+    "whats_shrinking": "Pure standardized-test waiver strategy is shrinking as many families now need more nuanced score-submission advice and some selective schools reinstate testing. In-person-only tutoring and advising is losing share to hybrid and virtual models. International graduate-student advising faced pressure in spring 2026 as National Student Clearinghouse reported international graduate enrollment down 4.3% year over year. Budget-dependent public-sector consulting can also weaken when school districts or universities delay discretionary projects.",
+    "recent_developments": [
+      "2024-12: Research and Markets distributed the IBISWorld Education Consultants in the US report, citing 2023 revenue of $2.9 billion and 0.8% five-year CAGR.",
+      "2025-04: The US Department of Education reported 10 million 2025-2026 FAFSA submissions as of April 11, 2025, up 39% from the prior cycle at that point.",
+      "2025-08: Common App reported 1,498,199 first-year applicants and more than 10 million applications for the 2024-2025 season.",
+      "2025-10: ACT reported nearly 1.4 million ACT-tested 2025 graduates, while College Board reported more than 2 million SAT takers in the class of 2025.",
+      "2026-03: Common App reported applicants and applications through March 1, 2026 were up year over year, including 6% growth in first-generation applicants and 8% growth from below-median-income ZIP codes.",
+      "2026-06: National Student Clearinghouse reported spring 2026 postsecondary enrollment of 18.6 million, up 1.0% year over year."
+    ],
+    "outlook": "The 2026 outlook is modestly positive. Revenue should continue growing at a low-single-digit pace as admissions competition, FAFSA complexity, testing-policy fragmentation and recovering undergraduate enrollment sustain demand. The best-positioned firms are likely to combine human admissions judgment with scalable digital workflows, transparent outcomes data and specialized niches such as STEM admissions, athletic recruiting, transfer pathways, graduate admissions and financial-aid planning. Pricing pressure will remain because barriers to entry are low and many independent counselors compete locally or online. Institutional demand should be steadier for consultants tied to enrollment management, retention, technology modernization and workforce programs, but discretionary district and college budgets remain a constraint.",
+    "themes": [
+      "Fragmented sole-proprietor market",
+      "Admissions complexity",
+      "Test-optional recalibration",
+      "AI-enabled advising",
+      "FAFSA and affordability support",
+      "Undergraduate enrollment recovery",
+      "Premium concierge services",
+      "Institutional enrollment management"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/education-consultants.txt",
+      "https://www.researchandmarkets.com/report/united-states-education-consulting-market",
+      "https://www.globenewswire.com/news-release/2024/12/05/2992188/28124/en/US-Education-Consultants-Research-Report-2024-2029-Continued-Price-Based-Competition-is-Expected-to-Slow-Revenue-Growth.html",
+      "https://navagant.com/admissions-tutoring-and-test-prep-industry-report-q4-2025/",
+      "https://www.commonapp.org/about/reports-and-insights/end-season-report-2024-2025-first-year-application-trends",
+      "https://www.commonapp.org/about/reports-and-insights/",
+      "https://www.studentclearinghouse.org/news/spring-enrollment-undergraduate-growth-continues-while-graduate-enrollment-holds-steady/",
+      "https://reports.collegeboard.org/sat-suite-program-results",
+      "https://www.act.org/content/act/en/research/services-and-resources/data-and-visualization/grad-class-database-2025.html",
+      "https://fairtest.org/test-optional-list/",
+      "https://fsapartners.ed.gov/fafsacentral",
+      "https://www.sec.gov/Archives/edgar/data/1289848/000162828026011093/hurn-20251231.htm"
+    ],
+    "one_sentence": "Education consultants sell noninstructional advice to households, students and education organizations, with demand tied to competitive admissions, enrollment complexity, school budgets, household income and the growing use of digital and AI-enabled advising tools.",
+    "slug": "education-consultants"
+  },
+  {
+    "title": "Egg & Poultry Wholesaling in the US",
+    "sector": "Food & Drink",
+    "one_liner": "Specialty egg and poultry wholesalers distribute chicken, turkey, eggs and related products from producers to grocers, restaurants and specialty food retailers.",
+    "overview": "Egg & Poultry Wholesaling in the US covers specialty wholesalers that primarily distribute fresh chicken, refrigerated poultry, frozen or processed poultry, turkey, duck, quail and eggs to downstream retailers and foodservice buyers. The 2022 IBISWorld baseline placed revenue at $12.3 billion after a 2017-2022 annualized decline of 1.2%, with a 2022 rebound of 3.5%. Using the 2022-2027 IBISWorld forecast path and 2025-2026 USDA market conditions, 2026 industry revenue is best read as roughly $12.9 billion, supported by high egg prices in 2025, resilient chicken consumption, and foodservice demand, but constrained by broadline grocery distributors and producer-direct distribution.",
+    "key_stats": {
+      "market_size": "2026 estimate: $12.9 billion in revenue, based on the 2022 IBISWorld $12.3 billion baseline and its 2022-2027 forecast to $13.1 billion.",
+      "growth": "2022-2027 baseline forecast: 1.2% CAGR; 2026 conditions are mixed, with USDA forecasting 2026 broiler prices up 1.6% and 2026 egg prices down 30.4% after the 2025 HPAI-driven spike.",
+      "profit_margin": "2022 baseline: 2.2% EBIT margin; 2027 baseline forecast: 2.2% EBIT margin.",
+      "enterprises": "2022 baseline: 717 enterprises; 2027 baseline forecast: 701 enterprises.",
+      "employment": "2022 baseline: 9,888 workers; 2027 baseline forecast: 10,171 workers.",
+      "product_mix_2022": {
+        "fresh_or_refrigerated_chicken": "38.6% of revenue",
+        "eggs": "36.7% of revenue",
+        "processed_or_frozen_poultry": "9.2% of revenue",
+        "turkey_duck_quail_and_other_fresh_poultry": "5.2% of revenue",
+        "other": "10.3% of revenue"
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $12.3 billion revenue.",
+      "growth": "2017-2022: -1.2% CAGR; 2022: +3.5% expected annual growth.",
+      "profit": "2022: $272 million EBIT.",
+      "profit_margin": "2022: 2.2% of revenue.",
+      "industry_gross_product": "2022: $842 million.",
+      "establishments": "2022: 746 establishments.",
+      "enterprises": "2022: 717 enterprises.",
+      "employment": "2022: 9,888 workers.",
+      "wages": "2022: $518 million."
+    },
+    "how_it_makes_money": "Wholesalers buy eggs and poultry products from farms, processors and integrated poultry companies, then earn a margin by aggregating supply, managing cold-chain logistics, breaking bulk, maintaining regional distribution relationships, and selling to grocery stores, specialty food retailers, meat markets, convenience stores, restaurants, institutions and other foodservice buyers. Revenue rises when poultry and egg volumes grow, when inflation lifts selling prices, and when wholesalers can pass through producer costs without losing accounts to broadline distributors or direct producer sales.",
+    "cost_structure": {
+      "largest_cost": "2026: purchases remain the dominant cost because wholesalers resell perishable poultry and eggs and must absorb rapid changes in producer prices.",
+      "labor": "2022 baseline wages were $518 million, equal to about 4.2% of 2022 revenue.",
+      "profit": "2022 EBIT was $272 million, equal to 2.2% of 2022 revenue.",
+      "logistics": "2025-2026 cold-chain transportation, fuel, refrigeration, warehousing, shrink and insurance costs remain material because products are temperature-sensitive and high-turnover.",
+      "risk_costs": "2025-2026 avian influenza exposure raises procurement, substitution, sanitation, traceability and contract-risk costs, especially for egg-heavy wholesalers."
+    },
+    "major_players": [
+      "No single specialty wholesaler dominates the industry; the 2022 baseline describes concentration as low.",
+      "Regional specialty poultry and egg distributors serving independent grocers, restaurants and specialty food stores.",
+      "Cal-Maine Foods: 2025-2026 major adjacent egg producer with direct distribution capacity, more competitor/supplier than pure wholesaler.",
+      "Tyson Foods: 2025-2026 major adjacent poultry processor with integrated distribution capacity, more competitor/supplier than pure wholesaler.",
+      "Pilgrim's/JBS USA: 2025-2026 major adjacent poultry processor with integrated distribution capacity, more competitor/supplier than pure wholesaler.",
+      "Sysco, US Foods and C&S Wholesale Grocers: 2025-2026 broadline distributors that compete for downstream accounts but are outside the narrow specialty-wholesaler definition."
+    ],
+    "current_dynamics": "The 2025-2026 operating environment is defined by a split between stable poultry demand and unstable egg supply. Broiler consumption remains high and chicken continues to benefit from its position as a lower-cost protein, while egg availability and prices have been disrupted by HPAI outbreaks. USDA’s 2026 outlook points to lower egg prices after the 2025 spike, while broiler prices are expected to remain firmer. Specialty wholesalers face margin pressure because they handle volatile commodities but compete against broadline distributors with stronger procurement, technology and route density.",
+    "whats_growing": "2025-2026 growth is strongest in chicken distribution, premium and specialty eggs when available, foodservice recovery accounts, refrigerated fresh cuts, value-added poultry formats, and distributors with cold-chain technology, traceability, inventory visibility and reliable regional sourcing. Demand is also supported by consumers’ continued use of chicken and eggs as everyday proteins.",
+    "whats_shrinking": "2025-2026 pressure is highest on small undifferentiated specialty wholesalers, turkey-heavy volumes, accounts that can be served directly by vertically integrated processors, and commodity egg distribution when 2026 prices normalize from 2025 highs. Independent operators are also losing share where grocers and restaurants consolidate purchases through broadline distributors.",
+    "recent_developments": [
+      "2025-01: USDA and market data showed renewed HPAI pressure on egg-laying flocks, tightening egg supply and lifting wholesale and retail egg prices.",
+      "2025-02: US retail egg prices reached record levels during the 2025 HPAI-driven supply shock, raising revenue pass-through opportunities and procurement risk for egg wholesalers.",
+      "2025-06: USDA updated 2025 egg-market expectations as flock losses and rebuilding cycles kept egg supply constrained relative to normal conditions.",
+      "2026-01: USDA projected 2026 egg prices would fall sharply from 2025 levels as production recovered, creating a revenue headwind for egg-heavy wholesalers.",
+      "2026-07: USDA’s Livestock, Dairy, and Poultry Outlook forecast 2026 broiler prices up 1.6% and 2026 egg prices down 30.4%, signaling firmer poultry revenue but weaker egg-price support."
+    ],
+    "outlook": "Through 2027, the industry should remain a slow-growth, mature distribution segment. The baseline forecast of $13.1 billion in 2027 revenue and 1.2% CAGR from 2022 to 2027 still fits the structural picture: steady consumption and foodservice demand support volumes, while competition from broadline distributors, direct producer relationships and thin margins limit upside. In 2026, falling egg prices after the 2025 spike are likely to reduce nominal revenue for egg-heavy wholesalers, while broiler demand and pricing keep poultry distribution more stable.",
+    "themes": [
+      "Avian influenza volatility",
+      "Cold-chain logistics",
+      "Broadline distributor competition",
+      "Producer-direct distribution",
+      "Low-margin pass-through pricing",
+      "Chicken as everyday protein",
+      "Egg-price normalization after 2025 spike",
+      "Consolidation among regional wholesalers",
+      "Foodservice recovery",
+      "Traceability and inventory technology"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Egg & Poultry Wholesaling in the US, last updated 2022-02-17', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/egg-and-poultry-wholesaling-in-the-us.txt', 'used_for': '2022 revenue, growth, profit, enterprise, employment, product mix and 2027 forecast baseline.'}",
+      "{'title': 'USDA ERS Poultry & Eggs Market Outlook, 2026', 'url': 'https://www.ers.usda.gov/topics/animal-products/poultry-eggs/market-outlook', 'used_for': '2025-2026 poultry and egg production, price and market outlook context.'}",
+      "{'title': 'USDA Livestock, Dairy, and Poultry Outlook, 2026', 'url': 'https://www.ers.usda.gov/publications/pub-details/?pubid=112000', 'used_for': '2026 broiler and egg price outlook and current market dynamics.'}",
+      "{'title': 'USDA NASS Chickens and Eggs Annual Summary, 2026', 'url': 'https://usda.library.cornell.edu/concern/publications/1v53jx15n', 'used_for': 'US egg production and laying-flock context.'}",
+      "{'title': 'BLS Consumer Price Index egg and poultry price data, 2025-2026', 'url': 'https://www.bls.gov/cpi/', 'used_for': 'Retail price inflation context for eggs and poultry.'}",
+      "{'title': 'USDA APHIS Highly Pathogenic Avian Influenza detections, 2025-2026', 'url': 'https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections', 'used_for': 'HPAI supply-disruption context affecting egg and poultry markets.'}"
+    ],
+    "one_sentence": "The industry is a mature, low-margin food distribution niche where steady poultry demand is offset by volatile egg pricing, avian influenza disruptions, and rising competition from broadline distributors and vertically integrated processors.",
+    "slug": "egg-and-poultry-wholesaling-in-the-us"
+  },
+  {
+    "title": "Elderly & Disabled Services in the US",
+    "sector": "Healthcare",
+    "one_liner": "Aging demographics and Medicaid-backed home care are expanding demand, while labor shortages and state budget pressure constrain margins.",
+    "overview": "The industry provides outpatient social assistance rather than overnight housing or skilled medical care. Core services include help with activities of daily living, homemaker support, adult day programs, transportation, companionship, respite and community participation supports. IBISWorld estimated 2025 industry revenue at $80.1 billion, up 3.4% from 2024, compared with a 2022 baseline of $64.9 billion. Demand is structurally supported by population aging: the U.S. age 65+ population reached 61.2 million in 2024, up 3.1% from 2023. Medicaid remains the central payer for low-income older adults and people with disabilities, especially through home- and community-based services, but payer rules, reimbursement rates and waiver capacity vary sharply by state.",
+    "key_stats": {
+      "market_size": "$80.1 billion in 2025",
+      "growth": "3.4% in 2025",
+      "market_size_2024": "$77.5 billion in 2024",
+      "growth_2024": "1.4% in 2024",
+      "cagr_2020_2025": "2.0% in 2020-2025",
+      "older_adults": "61.2 million people age 65+ in 2024, up 3.1% from 2023",
+      "medicaid_home_care_users": "Over 5.0 million Medicaid-covered home care users annually in 2025",
+      "hcbs_waiting_lists": "606,895 people on Medicaid HCBS waiting or interest lists in 2025",
+      "workforce_indicator": "Home health and personal care aide employment was 4.35 million in 2024 and is projected by BLS to grow 17% from 2024 to 2034",
+      "median_aide_pay": "$34,900 annual median pay for home health and personal care aides in May 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$64.9 billion in 2022 IBISWorld revenue",
+      "growth": "2.6% in 2022",
+      "cagr_2017_2022": "2.4% annualized revenue growth in 2017-2022",
+      "profit": "$3.0 billion in 2022",
+      "profit_margin": "4.7% in 2022",
+      "establishments": "37,046 establishments in 2022",
+      "enterprises": "35,804 enterprises in 2022",
+      "employment": "1,393,152 employees in 2022",
+      "wages": "$32.9 billion in 2022",
+      "adults_65_plus": "59.0 million people age 65+ in 2022",
+      "service_mix_2022": "42.5% nonmedical home aide services, 31.3% social assistance for elderly and disabled adults, 18.7% government grants and private contributions, 4.6% social assistance for children, 2.9% other services"
+    },
+    "how_it_makes_money": "Operators earn revenue from Medicaid HCBS waivers and state-plan personal care benefits, other public disability and aging programs, private-pay families, long-term care insurance, grants and donations. Larger operators also use managed-care contracts, state reimbursement schedules, franchise networks and acquisitions to build local caregiver density.",
+    "cost_structure": "Labor is the dominant cost: IBISWorld's 2022 wage bill of $32.9 billion equaled about 50.8% of 2022 revenue, before payroll taxes, benefits, recruiting, training and scheduling overhead. Other costs include insurance, background checks, compliance, billing, transportation mileage, rent for adult day or office sites, technology, franchise fees, supplies and administration. Profit was 4.7% of revenue in 2022, and the CMS HCBS Access Rule's 80% direct-care compensation requirement for specified Medicaid HCBS payments will put additional pressure on administrative margins where reimbursement rates do not rise.",
+    "major_players": [
+      "Addus HomeCare: public home care operator with personal care as its largest segment; it bought Gentiva's personal care operations in December 2024 and reported personal care as 76.6% of Q4 2025 revenue.",
+      "BrightSpring Health Services: national home- and community-based provider serving complex populations; in 2025 it moved to divest ResCare Community Living to Sevita and refocus provider services on home health, hospice, personal care, rehabilitation and care management.",
+      "Sevita: large provider of home- and community-based specialty care for people with intellectual and developmental disabilities; agreed in 2025 to acquire BrightSpring's ResCare Community Living business.",
+      "Help at Home: large private personal care and home support provider with Medicaid and managed-care exposure across multiple states.",
+      "Home Instead and Visiting Angels: large franchise-based senior home care brands focused heavily on private-pay nonmedical care.",
+      "Local nonprofits, county agencies and small agencies: the market remains fragmented, with thousands of state-licensed or community-based providers and no single national operator dominating revenue."
+    ],
+    "current_dynamics": "Demand is rising because more older adults and people with disabilities prefer home- and community-based supports over institutional care, and states continue to rely on HCBS as a lower-cost alternative to nursing facilities. Revenue growth is positive, but the operating model is squeezed by caregiver shortages, wage inflation, Medicaid rate variability, managed-care authorization rules and tighter state budgets after pandemic-era funding expired. The 2025 reconciliation law and FY2026 Medicaid budget uncertainty add downside risk to eligibility, waiver capacity and provider payment growth, even as long-term care utilization keeps rising.",
+    "whats_growing": "Nonmedical personal care, companionship, respite, self-directed and family-caregiver models, home-delivered supports, care coordination, Medicaid managed LTSS, technology-enabled scheduling and monitoring, and acquisition-led scale in states with favorable reimbursement are growing. Demand is strongest where aging populations, HCBS waiver investment and labor availability align.",
+    "whats_shrinking": "Standalone adult day programs and small agencies with weak recruiting, limited billing infrastructure or thin Medicaid rates are under pressure. Pure private-pay growth is constrained by household affordability, while administrative margin is likely to shrink where the CMS 80% HCBS compensation rule applies without matching rate increases. Institutional substitution continues to reduce relative demand for facility-based alternatives when home care can be safely delivered.",
+    "recent_developments": [
+      "2024-04-22: CMS finalized the Medicaid Access Rule, including HCBS payment transparency, wait-list reporting, quality reporting and an 80% direct-care compensation requirement for specified HCBS payments.",
+      "2024-06-10: Addus HomeCare agreed to acquire Gentiva's personal care operations for about $350 million, adding about $280 million in annualized revenue across seven states.",
+      "2025-01-20: BrightSpring Health Services agreed to sell ResCare Community Living to Sevita for $835 million and refocus provider services around home health, hospice, personal care, rehabilitation and care management.",
+      "2025-06-26: Census reported the U.S. age 65+ population reached 61.2 million in 2024, up 3.1% from 2023 and equal to 18.0% of the population.",
+      "2025-11-20: KFF reported Medicaid HCBS waiting or interest lists exceeded 600,000 people in 2025, up 14% from 2024.",
+      "2026-01-05: KFF reported that over 5 million people receive Medicaid-covered home care annually and that Medicaid covered nearly two-thirds of U.S. home care spending in 2023."
+    ],
+    "outlook": "The 2026 outlook is constructive but uneven. Demographics, aging-in-place preferences and the economics of avoiding institutional care support continued revenue growth. The largest practical bottleneck is labor: BLS projects 765,800 annual openings for home health and personal care aides over 2024-2034. Margin outcomes will depend on whether Medicaid and managed-care rate increases keep pace with wage floors, overtime, training, reporting and the 80% compensation rule. Consolidators should keep buying regional agencies to gain caregiver density and payer leverage, while smaller operators will need strong recruiting and compliance capabilities to survive.",
+    "themes": [
+      "Aging population",
+      "Aging in place",
+      "Medicaid HCBS",
+      "Direct care workforce shortage",
+      "Low-margin labor model",
+      "State reimbursement risk",
+      "Managed long-term services and supports",
+      "Caregiver compensation",
+      "Waiver waiting lists",
+      "Fragmented provider market",
+      "Consolidation",
+      "Private-pay affordability"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld market size page, Elderly & Disabled Services in the US, April 2025', 'url': 'https://www.ibisworld.com/united-states/market-size/elderly-disabled-services/1607/'}",
+      "{'name': 'Baseline IBISWorld report text, Elderly & Disabled Services in the US, April 28 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/elderly-and-disabled-services-in-the-us.txt'}",
+      "{'name': 'U.S. Census Bureau, Older Adults Outnumber Children in 11 States, June 26 2025', 'url': 'https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html'}",
+      "{'name': 'KFF, Medicaid Home Care (HCBS) in 2025, January 5 2026', 'url': 'https://www.kff.org/medicaid/medicaid-home-care-hcbs-in-2025/'}",
+      "{'name': 'KFF, Medicaid Enrollment & Spending Growth: FY 2025 & 2026, November 13 2025', 'url': 'https://www.kff.org/medicaid/medicaid-enrollment-spending-growth-fy-2025-2026/'}",
+      "{'name': 'KFF, A Look at Waiting Lists for Medicaid HCBS from 2016 to 2025, November 20 2025', 'url': 'https://www.kff.org/medicaid/a-look-at-waiting-lists-for-medicaid-home-and-community-based-services-from-2016-to-2025/'}",
+      "{'name': 'CMS, Home and Community-Based Services Provisions', 'url': 'https://www.medicaid.gov/medicaid/access-care/home-and-community-based-services-provisions'}",
+      "{'name': 'CMS, Access Rule press release, April 22 2024', 'url': 'https://www.cms.gov/newsroom/press-releases/biden-harris-administration-takes-historic-action-increase-access-quality-care-support-families-care'}",
+      "{'name': 'BLS Occupational Outlook Handbook, Home Health and Personal Care Aides', 'url': 'https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm'}",
+      "{'name': 'Addus HomeCare, Gentiva personal care acquisition announcement, June 10 2024', 'url': 'https://addus.gcs-web.com/news-releases/news-release-details/addus-homecare-announces-definitive-agreement-acquire-personal'}",
+      "{'name': 'BrightSpring Health Services, ResCare Community Living divestiture announcement, January 20 2025', 'url': 'https://ir.brightspringhealth.com/news-releases/news-release-details/brightspring-health-services-inc-enters-definitive-agreement'}"
+    ],
+    "one_sentence": "Elderly and disabled services providers deliver nonmedical home aide, adult day, companionship, transportation and community support services for older adults and people with disabilities, with demand increasingly tied to Medicaid HCBS policy and the preference to age in place.",
+    "slug": "elderly-and-disabled-services-in-the-us"
+  },
+  {
+    "title": "Electrical Equipment Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "Electrical equipment wholesalers sit between manufacturers and contractors, utilities, industrial plants and data-center builders, making the industry a direct beneficiary of electrification and power-infrastructure spending.",
+    "overview": "Electrical equipment wholesaling is a mature but strategically important B2B distribution industry. Operators buy electrical construction materials, wiring supplies, lighting products, automation and controls, communications and security equipment, and power-distribution gear from manufacturers and resell them to electrical contractors, utilities, industrial customers, builders, retailers and government buyers. The 2022 IBISWorld baseline showed a $211.1 billion industry after a 15.9% rebound in 2022. Current 2025-2026 evidence points to a bifurcated market: large distributors with exposure to hyperscale data centers, grid upgrades and power-generation projects are outperforming, while smaller generalist distributors remain more exposed to weak residential starts, slow office construction and uneven industrial demand.",
+    "key_stats": {
+      "market_size": "$226.8 billion in 2023 U.S. Census AIES revenue for NAICS 423610 employer firms; 2025 electrical-distributor channel sales were estimated at $151.2 billion by Electrical Wholesaling/Electrical Marketing for the narrower distributor-sales channel.",
+      "growth": "2025 distributor-channel sales were up 0.4% year over year to $151.2 billion, while leading public/filing distributors outperformed: WESCO 2025 net sales rose 7.8% to $23.5 billion and Graybar 2025 net sales rose 10.6% to $12.9 billion.",
+      "establishments": "13,379 employer establishments in 2023 for NAICS 423610, according to Census Business Patterns.",
+      "profitability": "Baseline industry EBIT margin was 4.8% in 2022; WESCO reported 5.2% operating margin in 2025 and Graybar reported 4.5% operating margin in 2025.",
+      "electricity_demand": "U.S. retail electricity sales were about 4,058 billion kWh in 2025, up by about 83 billion kWh from 2024; total U.S. electricity consumption was about 4.20 trillion kWh in 2025.",
+      "construction_demand": "Total U.S. construction starts increased 5.4% in 2025, with nonbuilding starts up 18.7% and nonresidential starts up 4.5%, according to Dodge Construction Network.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$211.1 billion revenue in 2022, in 2022 dollars.",
+      "growth": "15.9% revenue growth in 2022 and 2.6% annualized growth over 2017-2022.",
+      "profit": "$10.1 billion profit in 2022.",
+      "profit_margin": "4.8% EBIT margin in 2022.",
+      "establishments": "18,984 establishments in 2022.",
+      "enterprises": "12,592 enterprises in 2022.",
+      "employment": "245,536 workers in 2022.",
+      "wages": "$20.4 billion total wages in 2022.",
+      "outlook_from_baseline": "IBISWorld projected 1.1% annualized revenue growth from 2022 to 2027, reaching $223.4 billion in 2027."
+    },
+    "how_it_makes_money": "Wholesalers earn gross margin by buying electrical products in bulk from manufacturers and selling them to contractors, utilities, industrial plants, OEMs, retailers and institutions. Revenue comes from product resale, project fulfillment, branch counter sales, national-account contracts, logistics services, inventory management, kitting, e-commerce, technical support and value-added services for automation, lighting, data communications and power-distribution systems.",
+    "cost_structure": {
+      "purchases": "Purchases are the dominant cost: WESCO's 2025 cost of goods sold was 78.9% of net sales and Graybar's 2025 cost of merchandise sold was 80.7% of net sales.",
+      "gross_margin": "Large distributors reported 2025 gross margins around 19.3% to 21.1%.",
+      "labor_and_sga": "SG&A, including branch labor, sales staff, warehouses, rent, systems and delivery costs, was 15.1% of WESCO 2025 sales and 14.1% of Graybar 2025 sales.",
+      "profit": "Operating margins are modest but resilient for scale operators: 5.2% at WESCO in 2025 and 4.5% at Graybar in 2025, compared with the 4.8% industry baseline in 2022.",
+      "capital_needs": "Capital intensity is low to moderate, but investment is rising in automated distribution centers, ERP, digital ordering, inventory visibility and project logistics."
+    },
+    "major_players": [
+      "{'name': 'WESCO International', 'position': 'Largest public U.S.-based electrical, communications and utility distributor; 2025 net sales of $23.5 billion, up 7.8% year over year.'}",
+      "{'name': 'Graybar Electric', 'position': 'Employee-owned electrical, communications and data-networking distributor; 2025 net sales of $12.9 billion, up 10.6% year over year.'}",
+      "{'name': 'Sonepar USA', 'position': 'Major privately held electrical distributor; Sonepar reported 2025 Americas sales of €17 billion across eight countries and continued U.S. consolidation under brands such as Echo Electric.'}",
+      "{'name': 'Rexel USA', 'position': 'Global electrical distributor expanding U.S. industrial automation and regional coverage through acquisitions, including 2025 U.S. acquisitions and a 2026 agreement to acquire Revere Electrical Supply, which generated about $330 million of 2025 turnover.'}",
+      "{'name': 'CED / Consolidated Electrical Distributors', 'position': 'Large privately held U.S. electrical distributor with broad local-branch coverage.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Data centers, utility grid work, power generation, reshoring projects and electrification are driving large orders for switchgear, transformers, wire, cable, conduit, controls and power-distribution equipment. At the same time, high financing costs, weak single-family starts, slow office construction and uneven factory capital spending are limiting broader volume growth. Pricing remains a meaningful contributor because 2025 electrical product categories such as building wire, switchgear and fuses saw double-digit year-over-year price increases through August 2025, but competitive pricing pressure is compressing gross margin for some distributors.",
+    "whats_growing": [
+      "Data-center electrical packages, where electrical products and systems can account for 40% or more of construction spend in 2025-2026 planning commentary.",
+      "Utility, grid, power-generation and transmission-related equipment as U.S. electricity demand reached record levels in 2025.",
+      "Switchgear, power distribution, transformers, fuses, building wire and cable tied to power-intensive construction.",
+      "Digital ordering, inventory visibility, branch automation and distribution-center automation among large distributors.",
+      "M&A by large distributors seeking local branches, industrial automation expertise and purchasing leverage."
+    ],
+    "whats_shrinking": [
+      "Single-family residential construction exposure, with Dodge reporting 2025 single-family starts down 13.2%.",
+      "General office construction outside data centers, pressured by high vacancy and slow new-office demand in 2025-2026 commentary.",
+      "Industrial automation and some broad industrial end markets, which distributor surveys described as soft in 2025.",
+      "Margins on commodity-like products where competitive pricing and customer bid pressure offset supplier price increases.",
+      "Small distributors without scale, digital tools, national-account coverage or access to large data-center and utility projects."
+    ],
+    "recent_developments": [
+      "2025: Census AIES reported $226.8 billion of 2023 revenue for NAICS 423610 employer firms, establishing a post-2022 public benchmark for the industry.",
+      "2025: Electrical Wholesaling's Top 100 distributors generated $108.5 billion, equal to 73% of estimated 2024 industry sales of $148 billion.",
+      "2025: U.S. electrical distributor sales estimates reached $151.2 billion, up 0.4% year over year, according to Electrical Wholesaling/Electrical Marketing's 2026 Market Planning Guide.",
+      "2025: WESCO reported record 2025 net sales of $23.5 billion, up 7.8%, with data-center sales of $4.3 billion, up about 50%.",
+      "2025: Graybar reported 2025 net sales of $12.9 billion, up 10.6%, while gross margin rate declined to 19.3% from 20.1% in 2024 due to competitive pricing pressure.",
+      "2026: Rexel signed a May 2026 agreement to acquire Revere Electrical Supply, a Midwest industrial automation distributor with about $330 million of 2025 turnover."
+    ],
+    "outlook": "The industry should grow modestly overall in 2026, with Electrical Wholesaling expecting national electrical distributor sales growth of 2% to 4%. Upside is concentrated in data centers, utilities, grid modernization, power generation, institutional projects, retrofit work and lighting/control upgrades. Downside risks include tariff-driven input inflation, long lead times for switchgear and transformers, project delays, weak residential construction, sluggish office construction and margin pressure from competitive bids. Scale distributors are likely to keep gaining share because they can finance inventory, serve national accounts, invest in digital tools and support complex project logistics.",
+    "themes": [
+      "Electrification",
+      "Data centers and AI infrastructure",
+      "Grid modernization",
+      "Power generation and utilities",
+      "Construction cyclicality",
+      "Distributor consolidation",
+      "Digital procurement",
+      "Pricing and tariff volatility",
+      "Switchgear and transformer lead times",
+      "Energy efficiency and lighting retrofits"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/electrical-equipment-wholesaling-in-the-us.txt",
+      "https://data.census.gov/table/AIESBASICTIMESERIES.AIES00BASIC?q=423610",
+      "https://data.census.gov/profile/423610_-_Electrical_apparatus_and_equipment%2C_wiring_supplies%2C_and_related_equipment_merchant_wholesalers?codeset=naics~423610",
+      "https://www.ewweb.com/data-training/top-100/article/55295399/electrical-wholesalings-2025-top-100-electrical-distributors",
+      "https://www.ewweb.com/data-training/market-planning-guide/article/55332162/2026-market-planning-guide",
+      "https://wesco.gcs-web.com/news-releases/news-release-details/wesco-international-reports-fourth-quarter-and-full-year-2025",
+      "https://www.sec.gov/Archives/edgar/data/205402/000020540226000015/c402-20251231x10k.htm",
+      "https://www.construction.com/construction-starts-grow-3-in-december/",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67284",
+      "https://www.eia.gov/energyexplained/electricity/use-of-electricity.php",
+      "https://www.sonepar.com/en/newsroom/39650-39650",
+      "https://www.rexel.com/en/rexel-renforce-sa-presence-aux-etats-unis-avec-lacquisition-de-revere-electrical-supply"
+    ],
+    "one_sentence": "The industry distributes wire, cable, conduit, lighting, switchgear, controls, security and other electrical power equipment, with 2025 demand strongest in data centers, utilities, power generation and large nonresidential projects while housing and broad industrial automation remain softer.",
+    "slug": "electrical-equipment-wholesaling-in-the-us"
+  }
+]

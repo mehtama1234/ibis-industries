@@ -1,0 +1,454 @@
+[
+  {
+    "title": "Dental Clinical Instrument Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. makers of dental instruments, imaging systems, chairs, CAD/CAM equipment, implants, impression materials and clinical consumables are being pulled between digital-workflow growth and cautious dental-practice capital spending.",
+    "overview": "This industry manufactures tools and equipment used in dental offices and dental laboratories, including diagnostic and procedural instruments, dental imaging equipment, instrument delivery systems, chairs, storage and sterilization systems, impression materials, cements, orthodontic instruments, implants and lab equipment. The baseline file defined 2021 revenue at $4.669 billion and projected recovery to $5.2 billion by 2026 as dental practices normalized after COVID-19 and manufacturers shifted toward higher-value clinical technology. Current 2025-2026 data point to a mixed but constructive market: the U.S. dental equipment market was estimated at $4.096 billion in 2025 and $4.355 billion in 2026, while the broader dentist market reached $190.4 billion in 2025. Demand is strongest where products improve workflow, imaging, scanning, chairside CAD/CAM, endodontics, implants, preventive care or recurring consumable use; it is weaker where high interest rates and dental-practice margin pressure delay large equipment purchases.",
+    "key_stats": {
+      "market_size": "2025 U.S. dental equipment market estimated at $4.096 billion; baseline dental clinical instrument manufacturing revenue projected at $5.2 billion for 2026.",
+      "growth": "2026 U.S. dental equipment market estimate of $4.355 billion implies +6.3% growth from 2025; 2026-2033 forecast CAGR is 7.2%; baseline 2021-2026 industry CAGR was +2.2%.",
+      "downstream_market": "2025 Dentists in the U.S. market size was $190.4 billion, up 2.9% in 2025; 2024 national dental care expenditures were $189 billion, up 3.6% from 2023 in real terms.",
+      "prices": "BLS/FRED dental professional equipment and supplies PPI was 221.399 in December 2025 and 229.489 in June 2026, up 3.7% over six months.",
+      "trade": "USITC reported the full 2025 official U.S. import and export dataset was available through DataWeb after December 2025 data were released.",
+      "employment_baseline": "Baseline industry employment was 15,147 workers in 2021 and wages were $1.003 billion in 2021.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated 2022 revenue of about $4.77 billion, based on the baseline 2021 revenue of $4.669 billion and the baseline 2021-2027 projected CAGR of 2.13%.",
+      "growth": "Estimated 2022 growth of +2.13% from the baseline projection.",
+      "profit_margin": "Baseline profit margin was 9.6% in 2021 and projected to reach 10.0% by 2026.",
+      "exports": "Baseline exports were $812 million in 2021 and projected to fall to $710 million by 2026.",
+      "imports": "Baseline imports were $1.457 billion in 2021 and projected to remain near $1.5 billion through 2026."
+    },
+    "how_it_makes_money": "Manufacturers sell dental clinical instruments, capital equipment and consumables to distributors, dental-service organizations, independent dentists, orthodontists, oral surgeons and dental laboratories. Revenue comes from equipment sales such as imaging systems, treatment centers, instrument delivery systems, CAD/CAM scanners and lab equipment; recurring consumables such as cements, impression materials, endodontic products, burs and infection-prevention supplies; implants and orthodontic instruments; software-enabled digital workflow products; service, parts and upgrades. Large manufacturers rely heavily on distributors such as Henry Schein and Patterson, while some specialty and digital dentistry companies sell directly to dental practices and labs.",
+    "cost_structure": {
+      "materials": "Major inputs include stainless steel and specialty metals, plastics and resins, ceramics, chemicals, electronics, imaging components, motors, precision tooling and packaging.",
+      "labor": "Skilled production, quality, regulatory, engineering, software and R&D labor are material costs; baseline wages were $1.003 billion in 2021 and were projected to approach $1.1 billion by 2026.",
+      "profit": "Baseline EBIT margin was 9.6% in 2021 and projected at 10.0% in 2026; public dental manufacturers show wide variation, with Envista Equipment & Consumables operating margin at 16.3% in 2025 and Dentsply Sirona pressured by 2025 impairments and restructuring.",
+      "distribution": "Third-party distributor margins, rebates, incentives, freight and inventory programs are important because many dental products flow through channel partners.",
+      "r_and_d": "R&D supports digital imaging, CAD/CAM, cloud software, materials science, implants and endodontics; Dentsply Sirona stated it has historically invested at least 4% of annual net sales in R&D and plans at least 5% beginning in 2026.",
+      "regulatory_quality": "FDA, quality-system, sterilization, product testing, clinical support and post-market compliance costs are recurring overhead items.",
+      "tariffs_and_fx": "2025 filings cited tariffs, foreign exchange and imported competition as margin and pricing factors."
+    },
+    "major_players": [
+      "Dentsply Sirona",
+      "Envista Holdings",
+      "Align Technology",
+      "Henry Schein private-label and specialty products",
+      "Patterson Dental distribution channel",
+      "Straumann Group",
+      "3M oral care legacy/product lines",
+      "Young Innovations",
+      "A-dec",
+      "HuFriedyGroup"
+    ],
+    "current_dynamics": "The market is not moving uniformly. Digital workflow and recurring clinical consumables are growing, while some large-ticket equipment and CAD/CAM categories remain sensitive to dental-practice cash flow, financing costs and distributor inventory destocking. Dentsply Sirona reported 2025 net sales down 3.0% and noted lower U.S. CAD/CAM and implant volumes, but higher treatment-center, imaging and preventive/restorative volumes in selected regions. Envista reported 2025 Equipment & Consumables sales of $966.7 million, up 8.1%, with 70% of segment sales from North America and 70% from consumables, services and spare parts. Align reported 2025 revenue of $4.035 billion, up 0.9%, with Systems and Services revenue of $789.6 million, up 2.7%, driven partly by scanner wand sales. Dental-practice economics remain tight: ADA HPI reported that 2024 national dental expenditures were $189 billion, up 3.6% from 2023 in real terms, but 2025 practice commentary pointed to staffing, insurance, overhead and appointment-volume pressure. Equipment and supply prices kept rising into 2026, with the dental professional equipment PPI at 229.489 in June 2026.",
+    "whats_growing": [
+      "Intraoral scanners, imaging systems and software-enabled digital workflow products",
+      "Endodontic, preventive and restorative consumables with recurring usage",
+      "Treatment centers and equipment tied to productivity improvements",
+      "Teen and growing-patient clear aligner volume, which Align reported up 7.8% in 2025",
+      "Implant and prosthetic demand over the long term, supported by aging demographics",
+      "Service, spare parts, subscriptions, scanner upgrades and non-system digital revenue"
+    ],
+    "whats_shrinking": [
+      "Low-differentiation hand instruments exposed to import competition and distributor price pressure",
+      "Discretionary capital equipment purchases at financially squeezed dental practices",
+      "Some U.S. CAD/CAM volumes, which Dentsply Sirona said declined in 2025 due partly to competitive pricing pressure",
+      "Some implant and prosthetics volumes at Dentsply Sirona in 2025",
+      "Distributor-held inventory levels for CAD/CAM, imaging and consumables at Dentsply Sirona, which remained below historical averages at December 31, 2025",
+      "Export share relative to the historical baseline, as foreign manufacturers compete more aggressively"
+    ],
+    "recent_developments": [
+      "2025-04-17: Patient Square Capital completed its $4.1 billion acquisition of Patterson Companies, taking a major dental distributor private.",
+      "2025-12-31: Dentsply Sirona reported 2025 net sales down 3.0%, with weakness in U.S. CAD/CAM, implants and Byte-related clear aligners partly offset by preventive/restorative and treatment-center volumes.",
+      "2025-12-31: Envista reported 2025 Equipment & Consumables sales of $966.7 million, up 8.1%, with 70% of segment sales from North America.",
+      "2025-12-31: Align Technology reported 2025 revenue of $4.035 billion, up 0.9%, and Systems and Services revenue of $789.6 million, up 2.7%.",
+      "2026-02-03: FY2026 federal funding preserved oral-health investments, including HRSA oral health workforce funding of $43 million and CDC oral health activities funding of $21 million.",
+      "2026-06-01: BLS/FRED dental professional equipment and supplies PPI reached 229.489, up 3.7% from December 2025."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but uneven. Baseline industry revenue was projected to reach $5.2 billion in 2026, while external market estimates put the U.S. dental equipment market at $4.355 billion in 2026 and forecast a 7.2% CAGR from 2026 to 2033. Growth should come from digital dentistry, imaging, scanner upgrades, endodontics, preventive/restorative consumables, implants, aging-patient demand and dental-service-organization purchasing scale. Risks include cautious dental-practice capital budgets, dental insurance pressure, hygienist shortages, tariffs, foreign exchange, distributor inventory swings and pricing competition in CAD/CAM and commodity instruments. Manufacturers with differentiated consumables, software-linked equipment, service revenue and strong distributor access should outperform companies dependent on discretionary equipment cycles or undifferentiated hand tools.",
+    "themes": [
+      "Digital dentistry and chairside workflow",
+      "Recurring consumables over one-time equipment",
+      "Distributor consolidation and channel power",
+      "Aging population and implant demand",
+      "Practice-margin pressure",
+      "Tariffs, imports and reshoring math",
+      "R&D-led differentiation",
+      "Dental-service-organization purchasing scale",
+      "Software, scanners and connected equipment",
+      "Regulatory and quality-system burden"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/dental-clinical-instrument-manufacturing.txt",
+      "https://fred.stlouisfed.org/data/PCU3391143391141",
+      "https://fred.stlouisfed.org/series/PCU339114339114P",
+      "https://www.grandviewresearch.com/horizon/outlook/dental-equipment-market/united-states",
+      "https://www.ibisworld.com/united-states/market-size/dentists/1557/",
+      "https://www.ada.org/resources/research/health-policy-institute/dental-care-market",
+      "https://adanews.ada.org/huddles/dental-fiscal-squeeze-continues-into-2026/",
+      "https://www.usitc.gov/complete_2025_trade_statistics_now_available.htm",
+      "https://www.census.gov/naics/?details=3391&input=339&year=2022",
+      "https://www.sec.gov/Archives/edgar/data/891024/000119312525087961/d913697dex991.htm",
+      "https://www.publicnow.com/view/66A06D6628B3904298BA3040E00EDFEE2680FCC4",
+      "https://ebs.publicnow.com/view/10A8866A21765CCECC38E0464F15F41011069EBE",
+      "https://www.publicnow.com/view/7F980037229B547AECEE03446D0F2A2F0E552CDA",
+      "https://www.henryschein.com/us-en/Corporate/Divisions.aspx",
+      "https://www.straumann.com/group/en/discover/annualreport/2025.html"
+    ],
+    "one_sentence": "Dental Clinical Instrument Manufacturing is a mature U.S. manufacturing niche serving dentists, orthodontists and dental labs, with 2025 demand supported by dental spending, aging demographics and digital dentistry, but pressured by distributor inventory swings, tariffs, imported competition and slower discretionary procedures.",
+    "slug": "dental-clinical-instrument-manufacturing"
+  },
+  {
+    "title": "Dental Equipment Dealers",
+    "sector": "Healthcare",
+    "one_liner": "Dental equipment dealers distribute consumables, devices, software-adjacent services and repair support to dental practices, with demand tied to patient volumes, insurance coverage, practice consolidation and digital dentistry upgrades.",
+    "overview": "Dental equipment dealers sit between dental manufacturers and downstream dentists, orthodontists, oral surgeons, dental laboratories, hospitals and specialty practices. The core business is still recurring distribution of small instruments, restorative materials, infection-control products and other consumables, but the strategic growth pool is digital dentistry: CAD/CAM systems, intraoral scanners, 3D imaging, radiography, practice software, equipment repair and value-added services. Baseline IBISWorld data put 2022 revenue at $16.851 billion, with 2022 growth of 1.4% and a projected 2022-2027 CAGR of 1.88%; applying that path implies roughly $18.2 billion of dealer revenue in 2026. Current 2025-2026 indicators are mixed: ADA data show 2024 national dental expenditures of $189 billion, up 3.6% in real terms from 2023, and consumer dental spending up 4% year over year as of January 2026, while dentists continue to report pressure from staffing, insurance reimbursement, overhead and softer appointment books.",
+    "key_stats": {
+      "market_size": "2026 estimated US dental equipment dealer revenue: $18.2 billion, derived from IBISWorld 2022 revenue of $16.851 billion and its 2022-2027 projected CAGR of 1.88%.",
+      "growth": "2026 estimated annual industry growth: about 1.9%, in line with the IBISWorld 2022-2027 projected CAGR of 1.88%.",
+      "profit_margin": "2022 industry profit margin: 6.2%.",
+      "employment": "2022 employment: 24,326 workers; 2027 projected employment: 26,966 workers.",
+      "establishments": "2022 establishments: 1,584; 2027 projected enterprises: 1,231.",
+      "product_mix": "2022 revenue mix: small dental instruments, supplies and consumables 65.4%; large dental equipment 22.3%; other products and services 12.3%.",
+      "adjacent_equipment_market": "2025 US dental equipment market: $4.096 billion, with 2026-2033 CAGR forecast at 7.2% by Grand View Research.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $16.851 billion.",
+      "growth": "2022 revenue growth: 1.4%; 2017-2022 CAGR: 3.2%; 2022-2027 projected CAGR: 1.88%.",
+      "profit": "2022 profit: $1.045 billion.",
+      "profit_margin": "2022 profit margin: 6.2%.",
+      "industry_gross_product": "2022 industry gross product: $3.270 billion.",
+      "enterprises": "2022 enterprises: 1,128.",
+      "establishments": "2022 establishments: 1,584.",
+      "employment": "2022 employment: 24,326.",
+      "wages": "2022 total wages: $2.108 billion."
+    },
+    "how_it_makes_money": "Dealers earn revenue by buying dental consumables, small instruments, supplies, PPE, restorative materials, radiography equipment, chairs, CAD/CAM systems, scanners, sterilizers, software, networking products and repair services from manufacturers and reselling them to dental offices and institutions. Recurring consumables generate high-volume repeat orders, while digital imaging, CAD/CAM, scanners, specialty products, private-label supplies, financing, installation, training and repair services support larger tickets and stronger account lock-in.",
+    "cost_structure": "The largest cost is merchandise purchasing from dental device, instrument and supply manufacturers. Other major costs include sales-force compensation, warehouse and logistics expenses, freight, inventory carrying costs, technology and e-commerce platforms, equipment-service technicians, rent, insurance, compliance, marketing and administrative overhead. The 2022 baseline margin was 6.2%, so dealers rely on purchasing scale, private-label mix, contracts, bundled services and working-capital discipline rather than high standalone distribution margins.",
+    "major_players": [
+      "Henry Schein",
+      "Patterson Dental",
+      "Benco Dental",
+      "Burkhart Dental Supply",
+      "Darby Dental Supply",
+      "Midway Dental Supply",
+      "Pearson Dental Supply"
+    ],
+    "current_dynamics": "The industry is benefiting from steady dental spending and the long-term need for replacement supplies, but 2025-2026 practice economics are uneven. ADA HPI reports a fiscal squeeze from insurance, staffing and overhead costs, and ADA-linked reporting says equipment and supply expenses rose 5% since the beginning of 2025. Henry Schein’s 2025 filings show global dental distribution sales of $6.868 billion, up 2.8%, but its US dental distribution sales grew only 0.7% to $3.486 billion, indicating slow domestic dealer growth. Patterson’s nine months ended January 25, 2025 showed dental segment sales down 4.0%, with equipment down 6.2%, highlighting weakness in digital and CAD/CAM demand before its April 2025 take-private transaction.",
+    "whats_growing": "Digital workflow products, intraoral scanners, 3D imaging, dental lasers, CAD/CAM, equipment repair, practice software, analytics, financing, specialty implant/endodontic/orthodontic products, private-label consumables and DSO-oriented contracting are growing. Grand View Research estimates the US dental equipment market at $4.096 billion in 2025 and forecasts a 7.2% CAGR for 2026-2033, with systems and parts the largest 2025 product segment and dental lasers the fastest-growing forecast segment.",
+    "whats_shrinking": "Basic office infrastructure and discretionary capital equipment are pressured when dentists face weak appointment books, high interest rates, staffing shortages and reimbursement pressure. Patterson reported its dental equipment sales down 6.2% for the nine months ended January 25, 2025, primarily in digital and CAD/CAM categories. Secondary online marketplaces and direct buying can also pressure lower-complexity supplies, although regulated equipment, service needs and dealer contracts limit full disintermediation.",
+    "recent_developments": [
+      "2024: US national dental care expenditures reached $189 billion, up 3.6% from 2023 after inflation, according to ADA HPI.",
+      "2024-12: Patterson Companies agreed to be acquired by Patient Square Capital for about $4.1 billion, including refinancing of receivables facilities.",
+      "2025-01: Patterson reported dental segment net sales of $1.758 billion for the nine months ended January 25, 2025, down 4.0% year over year, with equipment down 6.2%.",
+      "2025-04: Patient Square Capital completed its acquisition of Patterson Companies on April 17, 2025, and Patterson’s shares stopped trading on Nasdaq.",
+      "2026-02: Henry Schein reported 2025 global dental distribution sales of $6.868 billion, up 2.8%, and 2025 US dental distribution sales of $3.486 billion, up 0.7%.",
+      "2026-01: ADA reported consumer dental spending up 4% year over year, while dental equipment and supply expenses had risen 5% since the beginning of 2025 and about 25% of dentists planned major equipment purchases."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but not broad-based. Consumables should keep revenue stable because dentists need restorative, hygiene and infection-control products for routine care. Capital equipment should improve where DSOs and higher-margin practices invest in productivity, imaging and chairside digital workflows, but independent practices may delay large purchases when interest costs, labor shortages and reimbursement pressure constrain cash flow. The strongest dealers will be those with scale purchasing, private-label penetration, service technicians, financing, e-commerce, software integrations and DSO relationships.",
+    "themes": [
+      "Recurring consumables anchor revenue",
+      "Digital dentistry upgrades",
+      "DSO purchasing power",
+      "Practice margin pressure",
+      "Private-label margin support",
+      "Equipment financing and service contracts",
+      "Secondary-market price competition",
+      "Insurance and access sensitivity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld extract: Dental Equipment Dealers, last updated June 18, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/dental-equipment-dealers.txt'}",
+      "{'name': 'American Dental Association Health Policy Institute, Dental Care Market, crawled 2026', 'url': 'https://www.ada.org/resources/research/health-policy-institute/dental-care-market'}",
+      "{'name': 'American Dental Association, State of the US Dental Economy, 2025-2026 reports', 'url': 'https://www.ada.org/resources/research/health-policy-institute/dental-care-market/state-of-the-us-dental-economy'}",
+      "{'name': 'American Dental Association News, Dental fiscal squeeze continues into 2026', 'url': 'https://adanews.ada.org/huddles/dental-fiscal-squeeze-continues-into-2026/'}",
+      "{'name': 'Henry Schein 2025 Form 10-K, filed February 24, 2026', 'url': 'https://www.sec.gov/Archives/edgar/data/1000228/000100022826000013/hsic-20251227.htm'}",
+      "{'name': 'Henry Schein, 2025 full-year financial results and 2026 guidance', 'url': 'https://investor.henryschein.com/news-releases/news-release-details/2026/Henry-Schein-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Introduces-2026-Financial-Guidance'}",
+      "{'name': 'Patterson Companies, fiscal 2025 third-quarter SEC filing', 'url': 'https://www.sec.gov/Archives/edgar/data/891024/000089102425000003/pdco-20250125.htm'}",
+      "{'name': 'Patterson Companies, completion of acquisition by Patient Square Capital, April 22, 2025', 'url': 'https://www.pattersoncompanies.com/news/patterson-companies-completes-aaquisition-by-patient-square-capital/'}",
+      "{'name': 'Grand View Research, US Dental Equipment Market Outlook, 2026-2033', 'url': 'https://www.grandviewresearch.com/horizon/outlook/dental-equipment-market/united-states'}"
+    ],
+    "one_sentence": "The US Dental Equipment Dealers industry is a mature healthcare distribution market, estimated at about $18.2 billion in 2026, growing modestly as recurring consumables offset softer capital-equipment buying and digital workflow adoption lifts higher-value sales.",
+    "slug": "dental-equipment-dealers"
+  },
+  {
+    "title": "Direct Selling of Jewelry & Accessories",
+    "sector": "Retail",
+    "one_liner": "A small, declining nonstore retail niche where independent sellers, ambassadors and social-commerce creators sell jewelry, watches and accessories outside fixed stores.",
+    "overview": "This industry covers companies and independent salespeople that sell jewelry, watches, precious stones/metals and accessories directly to consumers through parties, trunk shows, one-on-one selling, replicated websites, social media and affiliate links. The 2021 IBISWorld baseline placed revenue at $1.074 billion and forecast a decline to $983.2 million by 2026 as online and brick-and-mortar alternatives keep taking share. The broader US direct-selling channel generated $34.7 billion in 2024 retail sales through 34.3 million customers and 5.4 million entrepreneurs, but jewelry-specific direct selling is weaker than the broader channel because high-value fine jewelry has moved toward branded stores and e-commerce while lower-priced fashion jewelry reduces average order value.",
+    "key_stats": {
+      "market_size": "2026: $983.2 million US industry revenue, based on the IBISWorld 2021-2026 forecast baseline.",
+      "growth": "2021-2026: -1.8% CAGR forecast; 2026 revenue is about 8.5% below 2021 revenue of $1.074 billion.",
+      "profit_margin": "2026: 4.5% forecast EBIT margin, down from 4.6% in 2021.",
+      "enterprises": "2026: 57,024 companies forecast, up 0.2% CAGR from 2021.",
+      "wages": "2026: $153.1 million forecast wages, down 1.2% CAGR from 2021.",
+      "external_channel_pressure": "Q1 2026: US retail e-commerce sales were $326.7 billion, up 9.8% year over year, and represented 16.9% of total retail sales.",
+      "broader_direct_selling_context": "2024: US direct selling produced $34.7 billion in retail sales, 34.3 million preferred customers/discount buyers and 5.4 million entrepreneurs.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.055 billion, implied from the 2021 $1.074 billion IBISWorld baseline and the 2021-2026 -1.8% CAGR forecast.",
+      "growth": "2022: about -1.8% year over year, implied by the IBISWorld 2021-2026 forecast path.",
+      "context": "2022 was a post-COVID normalization year: in-person selling resumed, but the channel still faced rising e-commerce competition and lower average tickets from fashion jewelry."
+    },
+    "how_it_makes_money": "Companies source or design jewelry, watches, charms and accessories, then sell through independent consultants, brand partners, ambassadors, pop-up sellers, replicated websites and affiliate storefronts. Revenue comes from retail product sales, wholesale starter/inventory purchases by sellers, commissionable online orders, subscription jewelry drops and occasional wholesale programs for boutiques and event sellers.",
+    "cost_structure": "The main costs are product sourcing and inventory, seller commissions, fulfillment, marketing technology, payment processing, shipping, returns and corporate overhead. In the 2021 baseline, profit was 4.6% of revenue and wages were $162 million; by 2026, IBISWorld forecast profit at 4.5% of revenue and wages at $153.1 million. Product mix matters: 2021 revenue was 52.8% fine jewelry, 17.0% fashion/costume jewelry, 15.3% precious stones/metals and 14.9% watches, so a shift toward lower-priced fashion jewelry limits dollar revenue even when units or seller activity hold up.",
+    "major_players": [
+      "Origami Owl / Think Goodness: personalized lockets, charms and subscription/wholesale channels; Think Goodness filed Chapter 11 Subchapter V on 2025-02-12, according to Arizona bankruptcy docket summaries.",
+      "Stella & Dot: jewelry brand that has shifted from classic home-selling toward e-commerce, ambassadors and creator affiliate links; its 2026 ShopMy program lists 35% new-customer commissions and 20% repeat-customer commissions.",
+      "Paparazzi Accessories: St. George, Utah direct-selling company focused on affordable fashion jewelry and accessories; DSSRC described it in 2025 as a direct selling company primarily focused on jewelry and related items.",
+      "Independent consultants and micro-sellers: the industry remains fragmented, with low concentration and many part-time sellers using social media, local events and personal networks."
+    ],
+    "current_dynamics": "Current demand is split between consumers seeking affordable self-expression and buyers who prefer established jewelry retailers or online marketplaces for price transparency, reviews and faster fulfillment. The strongest macro headwind is digital retail: Q1 2026 US e-commerce sales were $326.7 billion and 16.9% of retail, creating constant substitution pressure for direct sellers. The broader direct-selling channel is still sizable at $34.7 billion in 2024 retail sales, but DSA noted 2024 revenue declined as the channel adjusted after pandemic-era hypergrowth. Seller economics are also changing: Stella & Dot’s January 2026 ShopMy migration shows the model moving toward creator affiliate infrastructure, while Paparazzi’s 2025 DSSRC case highlights ongoing scrutiny of income claims.",
+    "whats_growing": [
+      "2026: creator-affiliate and ambassador selling models with trackable links, storefronts and weekly payouts.",
+      "2026: social-commerce selling through livestreams, posts, private groups and short-form content.",
+      "2025-2026: affordable fashion jewelry, charms and customizable pieces that work as impulse gifts or repeat add-ons.",
+      "2026: wholesale and pop-up/event formats for brands trying to reach boutiques, gift shops and local markets without maintaining traditional MLM structures.",
+      "2026: personalized service and curation where sellers can justify a relationship-based purchase over a marketplace search."
+    ],
+    "whats_shrinking": [
+      "2021-2026: overall industry revenue, forecast down from $1.074 billion in 2021 to $983.2 million in 2026.",
+      "2021-2026: wage pool, forecast down from $162 million in 2021 to $153.1 million in 2026.",
+      "2021-2026: traditional home-party selling as consumers shift to online buying and seller activity moves to social platforms.",
+      "2021-2026: higher-ticket fine jewelry share in direct selling, as consumers often prefer brand-name stores, jewelers or online comparison tools for expensive purchases.",
+      "2025-2026: tolerance for aggressive income claims, as direct-selling compliance scrutiny remains active."
+    ],
+    "recent_developments": [
+      "2025-02-12: Think Goodness, LLC, dba Origami Owl, filed Chapter 11 Subchapter V in the US Bankruptcy Court for the District of Arizona, case 2:25-bk-01160.",
+      "2025-08-27: DSA reported 2024 US direct-selling retail sales of $34.7 billion, 34.3 million customers and 5.4 million entrepreneurs.",
+      "2025-09-08: DSSRC administratively closed its Paparazzi Accessories inquiry after the company removed or revised social-media income claims.",
+      "2026-01: Stella & Dot began transitioning ambassadors to ShopMy, listing 35% commission on new customers and 20% on repeat customer orders.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-07-30: BEA reported real disposable personal income rose 0.3% in June 2026, a modest support for discretionary categories."
+    ],
+    "outlook": "The 2026 outlook is subdued. The industry can benefit from higher disposable income, gifting occasions and demand for low-ticket fashion accessories, but these positives are outweighed by e-commerce growth, marketplace price transparency, compliance costs and weaker economics for part-time sellers. Revenue is best viewed as stable-to-declining around the IBISWorld 2026 forecast of $983.2 million unless brands successfully convert old direct-selling networks into modern social-commerce and affiliate communities.",
+    "themes": [
+      "E-commerce substitution",
+      "Social commerce",
+      "Creator affiliates",
+      "Affordable fashion jewelry",
+      "Personalization and charms",
+      "Compliance and income-claim scrutiny",
+      "Low barriers to entry",
+      "Part-time seller economics",
+      "Fragmented competition",
+      "Discretionary consumer spending"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline text file, Direct Selling of Jewelry & Accessories, last updated 2021-05-26', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/direct-selling-of-jewelry-and-accessories.txt'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales, Q1 2026, released 2026-05-18', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'name': 'Direct Selling Association 2025 Growth & Outlook Study press release, 2024 data, released 2025-08-27', 'url': 'https://www.dsa.org/events/news/press-releases/us-direct-selling-association-releases-2025-growth-outlook-study-2024-data-shows-steady-interest-in-direct-selling'}",
+      "{'name': 'BEA Disposable Personal Income page, current release 2026-07-30', 'url': 'https://www.bea.gov/data/income-saving/disposable-personal-income'}",
+      "{'name': 'Stella & Dot ShopMy Ambassador Platform help page, updated 2026', 'url': 'https://help.stelladot.com/en-US/shopmy-ambassador-platform-4129878'}",
+      "{'name': 'BBB National Programs DSSRC Case #229-2025, Paparazzi Accessories, closed 2025-09-08', 'url': 'https://bbbprograms.org/programs/advertising/dssrc/closures/paparazziaccessories'}",
+      "{'name': 'Inforuptcy docket summary, Think Goodness LLC bankruptcy case 2:25-bk-01160', 'url': 'https://www.inforuptcy.com/browse-filings/arizona-bankruptcy-court/2%3A25-bk-01160/bankruptcy-case-think-goodness-llc'}",
+      "{'name': 'Origami Owl wholesale page, crawled 2026', 'url': 'https://origamiowl.com/pages/wholesale'}"
+    ],
+    "one_sentence": "The US Direct Selling of Jewelry & Accessories industry remains pressured by e-commerce, marketplace comparison shopping and shifting seller economics, even as personalized charms, affordable fashion jewelry and creator-led affiliate programs keep parts of the channel active.",
+    "slug": "direct-selling-of-jewelry-and-accessories"
+  },
+  {
+    "title": "Donations, Grants & Endowment in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "Grantmaking foundations, charitable trusts and donor-advised fund sponsors convert donated and invested assets into grants for nonprofits, education, health, religion, human services and public-benefit causes.",
+    "overview": "This industry includes grantmaking foundations, charitable trusts, endowment vehicles and donor-advised fund sponsors that receive gifts, manage invested assets and distribute grants. IBISWorld’s 2022 baseline measured industry revenue as contributions, grants, investment income and realized gains, not just outgoing grants. Using the baseline 2022 revenue of $164.2 billion and the 2022-2027 projected CAGR of 2.6%, 2025 industry revenue is estimated at about $177.5 billion and 2026 revenue at about $182.1 billion. Current external data show the sector’s underlying flows are larger and rising: Giving USA reported 2025 total US charitable giving of $617.20 billion, foundation giving of $117.15 billion and corporate giving of $43.67 billion, while DAFRC reported FY2024 donor-advised fund assets of $327.87 billion and grants of $64.60 billion.",
+    "key_stats": {
+      "market_size": "2026 estimated industry revenue: $182.1 billion; 2025 estimated industry revenue: $177.5 billion, based on the 2022 IBISWorld baseline and 2022-2027 projected CAGR.",
+      "growth": "2025 estimated industry revenue growth: 2.6%; 2025 US total charitable giving growth: 5.7% current-dollar and 3.0% inflation-adjusted.",
+      "foundation_giving": "2025 foundation giving: $117.15 billion, up 5.7% current-dollar and 3.0% inflation-adjusted.",
+      "total_us_charitable_giving": "2025 total US charitable giving: $617.20 billion, up 5.7% current-dollar.",
+      "daf_assets": "FY2024 donor-advised fund assets: $327.87 billion, up 27.9% from FY2023.",
+      "daf_grants": "FY2024 donor-advised fund grants: $64.60 billion, up 17.9% from FY2023.",
+      "daf_contributions": "FY2024 donor-advised fund contributions: $90.57 billion, up 38.6% from FY2023.",
+      "daf_accounts": "FY2024 donor-advised fund accounts: 3.59 million.",
+      "profit_margin": "2022 baseline industry profit margin: 13.3%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $164.229 billion.",
+      "growth": "2022 annual revenue growth: 1.9%; 2005-2022 CAGR: 3.5%; 2022-2028 projected CAGR: 2.46%.",
+      "profit": "2022 profit: $21.843 billion.",
+      "profit_margin": "2022 profit margin: 13.3%.",
+      "establishments": "2022 establishments: 35,708.",
+      "enterprises": "2022 enterprises: 33,487.",
+      "employment": "2022 employment: 225,951 workers.",
+      "wages": "2022 wages: $15.870 billion.",
+      "revenue_mix": "2022 revenue mix: private contributions, gifts and grants 35.7%; investment income 21.3%; realized gains or losses from assets sold 19.2%; government contributions, gifts and grants 7.2%; other 16.6%."
+    },
+    "how_it_makes_money": "Operators receive private gifts, corporate and family foundation contributions, government grants, bequests, endowment gifts, donor-advised fund contributions, dividends, interest and realized capital gains. They preserve or grow invested assets and distribute grants under donor intent, trust documents, foundation strategies or DAF donor recommendations.",
+    "cost_structure": {
+      "grants_and_distributions": "The largest use of funds is grants and charitable distributions to qualified recipients; private foundations generally face a 5.0% annual distribution requirement.",
+      "wages": "2022 wages equaled 9.7% of industry revenue as foundations hired staff for grantmaking, compliance, investment oversight and donor services.",
+      "investment_management": "Portfolio management, custody, audit, legal and administrative fees rise with asset complexity, especially for endowments, alternatives and non-cash gifts.",
+      "compliance": "Costs include IRS Form 990 or 990-PF reporting, excise-tax compliance, due diligence, grant monitoring and donor-restriction administration.",
+      "profit_or_retained_surplus": "2022 baseline retained surplus/profit margin was 13.3%, reflecting contributions and investment income exceeding grants and expenses in that year."
+    },
+    "major_players": [
+      "{'name': 'Lilly Endowment', 'note': 'Among the largest US private foundations; 2024 assets were reported at $79.9 billion, up 29% from 2023, implying materially higher 2025 required giving.'}",
+      "{'name': 'Gates Foundation', 'note': '2024 foundation trust endowment was $77.2 billion; 2025 budget was $8.74 billion and 2026 payout is planned at $9.0 billion.'}",
+      "{'name': 'Fidelity Charitable', 'note': 'Largest US DAF sponsor; 2024 donor-recommended grants totaled $14.9 billion across 2.7 million grants.'}",
+      "{'name': 'DAFgiving360', 'note': 'Formerly Schwab Charitable; FY2024 grants exceeded $6.6 billion, up 31% from FY2023.'}",
+      "{'name': 'Vanguard Charitable', 'note': '2024 grants totaled $3.1 billion, up nearly 20% from 2023.'}",
+      "{'name': 'Ford Foundation', 'note': 'Large private foundation with 2024 assets reported around $17.5 billion in public foundation-ranking summaries.'}"
+    ],
+    "current_dynamics": "Strong 2024 and 2025 equity markets lifted foundation and DAF asset bases, improving grant capacity even as inflation, low consumer sentiment and policy uncertainty constrained smaller donors. Mega-gifts and bequests are increasingly important to headline growth. DAFs remain a fast-growing vehicle because donors can contribute appreciated assets, take immediate tax deductions and recommend grants over time. The 2025 reconciliation law creates mixed 2026 incentives: a new non-itemizer charitable deduction may broaden small-donor tax benefits, while new deduction floors for itemizers and corporations may reduce marginal incentives for some larger gifts.",
+    "whats_growing": [
+      "2025 foundation giving grew 5.7% to $117.15 billion.",
+      "FY2024 DAF assets grew 27.9% to $327.87 billion.",
+      "FY2024 DAF contributions grew 38.6% to $90.57 billion after a FY2023 decline.",
+      "FY2024 DAF grants grew 17.9% to $64.60 billion.",
+      "2025 bequest giving grew 19.7% to $62.19 billion, signaling more estate-driven philanthropy.",
+      "2025 mega-gifts totaled $19.22 billion, including large gifts from MacKenzie Scott, Michael Bloomberg, Bill Gates and Warren Buffett."
+    ],
+    "whats_shrinking": [
+      "2025 giving to grantmaking foundations as a recipient category fell 16.2% after a 2024 surge.",
+      "2025 corporate giving growth slowed to 3.1%, effectively flat at 0.5% after inflation.",
+      "FY2023 DAF contributions fell 21.7% to $59.43 billion before rebounding in FY2024.",
+      "2024 foundation giving was flat after inflation at -0.5%, showing that nominal growth can be absorbed by inflation.",
+      "Smaller household giving remains pressured by 2025 low consumer sentiment despite asset-market gains."
+    ],
+    "recent_developments": [
+      "2025-06: Candid reported that 37.3% of surveyed foundations expected to increase 2025 giving, 53.9% expected flat giving and 8.8% expected decreases.",
+      "2025-06: Giving USA 2025 reported 2024 charitable giving of $592.50 billion, up 6.3% current-dollar and 3.3% inflation-adjusted.",
+      "2025-07: The One Big Beautiful Bill Act was signed, setting 2026 charitable deduction changes including a $1,000/$2,000 non-itemizer deduction and new 0.5% individual and 1.0% corporate floors.",
+      "2026-06: Giving USA 2026 reported 2025 charitable giving of $617.20 billion, up 5.7% current-dollar and above $600 billion for the first time.",
+      "2026-06: Giving USA 2026 reported 2025 foundation giving of $117.15 billion, up 5.7%, and bequest giving of $62.19 billion, up 19.7%.",
+      "2026-Spring: DAFRC updated its 2025 Annual DAF Report, reporting FY2024 DAF assets of $327.87 billion, contributions of $90.57 billion and grants of $64.60 billion."
+    ],
+    "outlook": "Through 2026, industry revenue should keep growing at a mid-single or low-single current-dollar pace if markets remain constructive, but volatility is high because realized gains, endowment values and mega-gifts can swing annual results. Foundations entered 2026 with larger 2025 asset bases and higher grant capacity, while nonprofits face increased demand from public-funding pressure. DAFs should continue gaining share as donors use appreciated securities, crypto and complex assets, but scrutiny around payout transparency and donor control will remain. The 2026 tax changes create a split outlook: small cash gifts may benefit from the new non-itemizer deduction, while itemized and corporate deduction floors could encourage bunching of gifts and more DAF use around high-income tax planning.",
+    "themes": [
+      "Asset-market sensitivity",
+      "Donor-advised fund growth",
+      "Mega-gifts and wealth concentration",
+      "Bequests and the Great Wealth Transfer",
+      "Tax-policy changes in 2026",
+      "Foundation payout and transparency scrutiny",
+      "Education, health and human services funding demand",
+      "Mission and impact investing"
+    ],
+    "data_year": "2026 brief using latest annual giving data for 2025, FY2024 DAF data and 2022 IBISWorld baseline data.",
+    "sources": [
+      "{'name': 'Baseline file: IBISWorld Donations, Grants & Endowment in the US, last updated 2022-05-31', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/donations-grants-and-endowment-in-the-us.txt'}",
+      "{'name': 'Giving USA 2026 / Indiana University Lilly Family School of Philanthropy, 2025 charitable giving', 'url': 'https://philanthropy.indianapolis.iu.edu/news-events/news/_news/2026/giving-usa-report-2026.html'}",
+      "{'name': 'Giving USA 2025, 2024 charitable giving', 'url': 'https://givingusa.org/giving-usa-2025-u-s-charitable-giving-grew-to-592-50-billion-in-2024-lifted-by-stock-market-gains/'}",
+      "{'name': 'Donor Advised Fund Research Collaborative, Annual DAF Report 2025 updated Spring 2026', 'url': 'https://dafresearchcollaborative.squarespace.com/research/annual-daf-report'}",
+      "{'name': 'National Philanthropic Trust, 2024 DAF Report', 'url': 'https://www.nptrust.org/reports/the-2024-daf-report/'}",
+      "{'name': 'Candid, 2025 Foundation Giving Forecast Survey', 'url': 'https://candid.org/blogs/data-forecasts-more-foundation-giving-in-2025-charitable-giving-trends/'}",
+      "{'name': 'IRS, 2026 charitable contribution deduction guidance', 'url': 'https://www.irs.gov/taxtopics/tc506'}",
+      "{'name': 'IRS, private foundation excise taxes', 'url': 'https://www.irs.gov/charities-non-profits/private-foundations/private-foundation-excise-taxes'}",
+      "{'name': 'National Council of Nonprofits, 2025 One Big Beautiful Bill Act nonprofit tax provisions', 'url': 'https://www.councilofnonprofits.org/federal-tax-law-one-big-beautiful-bill-act'}",
+      "{'name': 'Fidelity Charitable, 2025 Giving Report', 'url': 'https://www.fidelitycharitable.org/insights/2025-giving-report.html'}",
+      "{'name': 'DAFgiving360 / Charles Schwab, FY2024 grantmaking release', 'url': 'https://pressroom.aboutschwab.com/press-releases/press-release/2024/DAFgiving360-Donors-Give-More-Than-6.6B-to-Charities-in-Fiscal-Year-2024/default.aspx'}",
+      "{'name': 'Vanguard Charitable, 2024 annual report', 'url': 'https://www.vanguardcharitable.org/2024annualreport'}",
+      "{'name': 'Gates Foundation, 2024 annual report and 25th anniversary facts', 'url': 'https://www.gatesfoundation.org/ideas/media-center/25th-anniversary-facts'}"
+    ],
+    "one_sentence": "The US donations, grants and endowment industry is mature but asset-sensitive: 2025 giving was supported by strong financial markets and mega-gifts, while 2026 tax-rule changes and uneven household sentiment reshape donor incentives.",
+    "slug": "donations-grants-and-endowment-in-the-us"
+  },
+  {
+    "title": "Doughnut Stores",
+    "sector": "Food & Drink",
+    "one_liner": "Doughnut stores sell affordable indulgence, with coffee, drive-thru, digital ordering and franchising now carrying much of the growth.",
+    "overview": "The industry consists of establishments that primarily prepare or serve doughnuts for on-premise consumption, takeout, drive-thru, catering or delivery. The baseline IBISWorld file showed 2020 revenue of $7.2 billion and a pre-2025 forecast of $8.3 billion by 2025, but the newer August 2025 IBISWorld listing via Research and Markets reports a slower post-pandemic path: revenue increased at a 2018-2023 CAGR of 0.7% to $7.4 billion in 2023, with 2023 growth of 0.8% as inflation lifted prices. For 2025-2026, the category is best read as low-single-digit nominal growth: restaurant spending is still expanding, coffee demand is steady, and chains continue selective expansion, but visits are more value-sensitive and operators are pruning low-return doors.",
+    "key_stats": {
+      "market_size": "2025: approximately $7.8 billion in US doughnut-store revenue, estimated from the 2023 IBISWorld/Research and Markets figure of $7.4 billion and 2025 restaurant foodservice inflation/growth signals.",
+      "growth": "2025: approximately 2.5% nominal revenue growth; 2026: approximately 3.0%-4.0% nominal growth, with real growth likely below nominal because limited-service meal prices were up 3.1% year over year in June 2026.",
+      "2023_market_size": "2023: $7.4 billion, per IBISWorld/Research and Markets.",
+      "2023_growth": "2023: 0.8%, per IBISWorld/Research and Markets.",
+      "price_pressure": "2026: food away from home prices rose 3.4% year over year in June 2026; limited-service meals and snacks rose 3.1%.",
+      "coffee_demand": "2025: 66% of US adults drank coffee each day, supporting beverage-led doughnut concepts.",
+      "restaurant_context": "2025: US restaurant and foodservice sales were expected to reach $1.5 trillion; 2026 restaurant and foodservice sales were forecast to rise 4.3% nominally and 0.8% in real terms.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $7.3 billion, derived from the 2023 IBISWorld/Research and Markets revenue figure of $7.4 billion and 2023 growth of 0.8%.",
+      "growth": "2022: low-single-digit recovery growth after the 2020 COVID-19 decline; newer public IBISWorld summary does not disclose an exact 2022 annual growth rate.",
+      "establishments": "2020 baseline: 13,438 establishments; the baseline forecast expected establishments to keep growing through 2025.",
+      "profit_margin": "2020 baseline: 4.5% EBIT margin, down from 6.7% in 2015."
+    },
+    "how_it_makes_money": "Revenue comes from individual and dozen doughnut sales, premium and seasonal doughnuts, coffee and espresso drinks, cold beverages, breakfast sandwiches, kolaches or other savory items, catering, office orders, digital delivery and franchise royalties. Chains increasingly use hub-and-spoke production, wholesale delivery doors, convenience partners and loyalty apps, while independents rely on local flavors, freshness, events and social-media-driven discovery.",
+    "cost_structure": {
+      "labor": "High: stores need counter service, baking or finishing labor, early-morning production and beverage preparation; BLS reported food services and drinking places average hourly earnings of $21.86 in April 2026.",
+      "purchases": "High: flour, sugar, eggs, dairy, frying oil, coffee, packaging and branded supplies are core inputs; June 2026 CPI showed cereals and bakery products up 2.4% year over year and food away from home up 3.4%.",
+      "rent_and_utilities": "Meaningful: retail visibility, drive-thru access and commuter corridors matter, while 2026 energy volatility and utilities add pressure.",
+      "marketing_and_franchise_fees": "Material for chains and franchisees through royalties, local advertising funds, loyalty platforms and delivery marketplace fees.",
+      "profit": "Moderate: the 2020 baseline margin was 4.5%; 2025-2026 margins are constrained by labor, rent, ingredients and delivery costs despite pricing power on beverages and premium doughnuts."
+    },
+    "major_players": [
+      "{'name': \"Dunkin' / Inspire Brands\", 'position': \"Largest US coffee-and-doughnut chain; reached 10,000 US Dunkin' locations in October 2025 and more than 14,000 global restaurants in 2025.\"}",
+      "{'name': 'Krispy Kreme', 'position': 'Major branded doughnut chain and wholesale-door operator; 2025 net revenue was $1.5 billion and global points of access fell 13.5% to 15,194 after underperforming-door closures.'}",
+      "{'name': 'Shipley Do-Nuts', 'position': 'Regional franchise chain expanding beyond its Texas base; reported 370 units in 12 states and expected 48 openings in 2025.'}",
+      "{'name': 'Duck Donuts', 'position': 'Made-to-order doughnut franchise pursuing US franchise growth.'}",
+      "{'name': 'Voodoo Doughnut', 'position': 'Premium specialty operator with locations across states including Oregon, Colorado, Texas, California, Florida, Illinois, Arizona, Tennessee and Washington.'}"
+    ],
+    "current_dynamics": "Demand is helped by breakfast habits, snack occasions, office/event catering and coffee attachment, but traffic is uneven because consumers are trading down, using promotions and scrutinizing restaurant value. Beverage-led models are stronger than doughnut-only stores because coffee adds frequency and margin. Franchised chains are still expanding selectively, while Krispy Kreme's 2025 retrenchment shows that wholesale and partner-door growth must work economically, not just add distribution.",
+    "whats_growing": [
+      "Coffee, iced coffee and frozen beverages as traffic drivers and high-margin add-ons.",
+      "Premium and limited-time flavors that justify higher tickets, especially seasonal, filled, cereal, bacon, fruit and regional flavors.",
+      "Drive-thru, mobile ordering, loyalty offers, delivery and catering.",
+      "Franchised expansion by regional brands such as Shipley Do-Nuts into new US markets in 2025-2026.",
+      "Smaller-format, hub-and-spoke and partner-retail models when delivery density is profitable."
+    ],
+    "whats_shrinking": [
+      "Low-margin partner doors and wholesale accounts that add logistics cost without enough unit demand.",
+      "Purely traditional doughnut-only positioning where coffee, beverages or breakfast items are weak.",
+      "Impulse visits from lower-income consumers when menu prices rise faster than wage growth.",
+      "Margins for operators unable to pass through labor, rent, packaging and ingredient inflation.",
+      "Large, labor-heavy stores without drive-thru, digital demand or efficient production."
+    ],
+    "recent_developments": [
+      "2025-02-06: National Restaurant Association forecast 2025 US restaurant and foodservice sales of $1.5 trillion and employment of 15.9 million.",
+      "2025-02-28: Shipley Do-Nuts announced a 30-shop development deal for New Mexico and Miami-Dade, with first shops expected within 12 months.",
+      "2025-06-24: Krispy Kreme and McDonald's USA announced they would end their partnership effective July 2, 2025 after operating in about 2,400 McDonald's restaurants.",
+      "2025-09-09: National Coffee Association reported 66% of US adults drank coffee daily in 2025, reinforcing beverage-led doughnut-shop demand.",
+      "2025-10-17: Dunkin' became the fourth QSR brand to reach 10,000 US locations.",
+      "2026-07-22: National Restaurant Association revised 2026 restaurant and foodservice sales growth to 4.3% nominal and 0.8% real, citing uneven traffic and higher operating costs."
+    ],
+    "outlook": "The 2026-2030 outlook is steady rather than explosive. Nominal revenue should rise as menu prices, beverages, franchising and catering lift checks, but real growth will depend on traffic recovery and value perception. Large chains will keep investing in loyalty apps, drive-thru throughput, beverage innovation and asset-light franchising. Independents can still win through freshness, local identity and specialty flavors, but cost control is decisive because foodservice labor and occupancy costs remain elevated. The biggest risk is that consumers treat doughnuts as an easy discretionary cut when gasoline, rent or restaurant prices pressure household budgets.",
+    "themes": [
+      "Affordable indulgence",
+      "Coffee-led traffic",
+      "Franchise expansion",
+      "Premium flavors",
+      "Value pressure",
+      "Digital ordering and loyalty",
+      "Breakfast competition",
+      "Labor and ingredient inflation",
+      "Selective wholesale distribution",
+      "Local specialty positioning"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline file: doughnut-stores.txt, IBISWorld report last updated Oct. 22, 2020', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/doughnut-stores.txt'}",
+      "{'name': 'Research and Markets / IBISWorld, Doughnut Stores in the US - Market Analysis Report 2015-2030, August 2025', 'url': 'https://www.researchandmarkets.com/report/donut-shop'}",
+      "{'name': 'BLS Consumer Price Index, June 2026 release', 'url': 'https://www.bls.gov/news.release/cpi.htm'}",
+      "{'name': 'National Restaurant Association, restaurants remain resilient despite challenging business conditions, July 22, 2026', 'url': 'https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/'}",
+      "{'name': 'National Restaurant Association, 2025 State of the Restaurant Industry press release, Feb. 6, 2025', 'url': 'https://restaurant.org/research-and-media/media/press-releases/restaurant-industry-poised-for-growth-in-2025-industry-expected-to-employ-15-9-million-people-and-r/'}",
+      "{'name': 'National Coffee Association, Fall 2025 National Coffee Data Trends release, Sept. 9, 2025', 'url': 'https://www.ncausa.org/Newsroom/Grounds-for-celebration-Americans-remain-committed-to-coffee'}",
+      "{'name': 'Krispy Kreme FY2025 results press release filed with SEC', 'url': 'https://www.sec.gov/Archives/edgar/data/1857154/000185715426000012/exh991q4pressrelease2025.htm'}",
+      "{'name': \"BusinessWire, Krispy Kreme and McDonald's USA end partnership, June 24, 2025\", 'url': 'https://www.businesswire.com/news/home/20250624271564/en/Krispy-Kreme-and-McDonalds-USA-Announce-Joint-Decision-to-End-Partnership'}",
+      "{'name': \"Inspire Brands, 10K US Dunkin's announcement, Oct. 17, 2025\", 'url': 'https://inspirebrands.com/timeline/dunkin-10k/'}",
+      "{'name': 'Shipley Do-Nuts franchise news, East Coast expansion and 2025 unit growth', 'url': 'https://shipleydonuts.com/franchise/news/shipley-do-nuts-strengthens-east-coast-expansion-with-third-maryland-store'}"
+    ],
+    "one_sentence": "US doughnut stores remain a mature but resilient foodservice niche, supported by breakfast routines, coffee attachment and franchised unit growth, while traffic pressure, labor costs and ingredient inflation keep margins tight.",
+    "slug": "doughnut-stores"
+  }
+]

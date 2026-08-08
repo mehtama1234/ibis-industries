@@ -1,0 +1,407 @@
+[
+  {
+    "title": "Postal Service in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "The US postal-service industry is effectively the USPS: a universal mail monopoly whose revenue is being held up by price increases and parcels while letter volumes keep falling.",
+    "overview": "The industry consists of the United States Postal Service and its post-office, sorting, routing, delivery and retail postal operations. USPS retains legal advantages in mailbox access, universal-service reach and market-dominant mail products, but the core business is in long-term decline as bills, statements, advertising and correspondence migrate online. Revenue has been steadier than volume because USPS has used repeated price increases, package products and network changes under its Delivering for America plan. The strategic problem in 2025-2026 is that price increases are offsetting volume erosion, but not enough to cover a high fixed-cost delivery network, compensation-heavy operations and mandated retirement-related obligations.",
+    "key_stats": {
+      "market_size": "FY2025 operating revenue: $80.5 billion",
+      "growth": "FY2025 operating revenue growth: +1.2% year over year",
+      "latest_partial_year": "FY2026 H1 operating revenue: $42.4 billion, up about 0.5% from FY2025 H1",
+      "mail_volume": "FY2025 total mail and package volume: 108.7 billion pieces, down 3.3% from FY2024",
+      "latest_volume_trend": "FY2026 H1 total volume: 53.9 billion pieces, down about 6.7% from FY2025 H1",
+      "net_result": "FY2025 GAAP net loss: $9.0 billion; FY2025 controllable loss: $2.7 billion",
+      "delivery_points": "FY2025 delivery points: 170.4 million, up 1.1% from FY2024",
+      "ecommerce_driver": "Q1 2026 US retail e-commerce sales: $326.7 billion, up 9.8% from Q1 2025 and 16.9% of total retail sales",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "FY2022 operating revenue: $78.5 billion",
+      "growth": "FY2022 operating revenue growth: +1.9% year over year",
+      "mail_volume": "FY2022 total volume: 127.3 billion pieces, down 1.2% from FY2021",
+      "first_class_mail": "FY2022 First-Class Mail revenue: $24.0 billion; volume: 48.9 billion pieces, down 3.4%",
+      "shipping_packages": "FY2022 Shipping and Packages revenue: $31.3 billion; volume: 7.2 billion pieces, down 5.3%",
+      "profitability": "FY2022 adjusted loss: $473 million; FY2022 GAAP net income: $56.0 billion due mainly to a one-time Postal Service Reform Act non-cash benefit"
+    },
+    "how_it_makes_money": "USPS earns revenue from First-Class Mail, Marketing Mail, Shipping and Packages, international mail, periodicals, post-office boxes, money orders, retail services and other postal products. In FY2025, Shipping and Packages produced $32.6 billion, First-Class Mail $25.8 billion and Marketing Mail $15.7 billion, making parcels the largest revenue line even though letters and advertising mail still carry major network economics.",
+    "cost_structure": "The cost base is dominated by compensation and benefits, retirement-related obligations, transportation, facilities, processing equipment, delivery vehicles, fuel, rent, utilities and technology modernization. FY2025 operating expenses were nearly $89.8 billion, above FY2025 operating revenue of $80.5 billion. USPS reduced transportation expense by $422 million in FY2025, but compensation and benefits rose by $1.7 billion, and FY2026 Q2 management still described compensation and benefits as the largest expense component.",
+    "major_players": [
+      "{'name': 'United States Postal Service', 'role': 'Sole national postal-service operator; holds universal-service obligations and monopoly access to mailboxes for letter mail.'}",
+      "{'name': 'UPS', 'role': 'Major private parcel competitor affecting USPS package pricing, volumes and last-mile partnerships.'}",
+      "{'name': 'FedEx', 'role': 'Major private parcel and express competitor; also historically linked to USPS transportation and parcel-market dynamics.'}",
+      "{'name': 'Amazon Logistics', 'role': 'Large e-commerce delivery network that reduces addressable parcel growth for USPS in some dense markets.'}"
+    ],
+    "current_dynamics": "The industry is being pulled in two directions. Physical mail keeps contracting: FY2025 First-Class Mail volume fell 5.0%, Marketing Mail fell 1.3% and total volume fell 3.3%. At the same time, USPS is using price increases and parcel products such as USPS Ground Advantage to stabilize revenue. In FY2026 H1, revenue was essentially flat to slightly positive while volume fell sharply, showing that pricing is doing most of the revenue work. Liquidity pressure intensified in 2026, with USPS citing a cash crisis, seeking congressional action to expand borrowing authority and temporarily suspending its FERS normal-cost contributions to conserve about $200 million per pay period.",
+    "whats_growing": [
+      "FY2025 operating revenue grew 1.2% to $80.5 billion despite lower volume.",
+      "FY2025 USPS Ground Advantage and strategic price increases supported revenue growth.",
+      "FY2026 Q2 Shipping and Packages revenue rose 4.5% year over year even as package volume declined 1.4%.",
+      "Q1 2026 US retail e-commerce sales rose 9.8% year over year, sustaining long-term parcel demand even though USPS faces heavy competition.",
+      "FY2025 delivery points rose 1.1% to 170.4 million, expanding the universal delivery footprint."
+    ],
+    "whats_shrinking": [
+      "FY2025 total volume fell 3.3% to 108.7 billion pieces.",
+      "FY2025 First-Class Mail volume fell 5.0% to 42.0 billion pieces, continuing electronic substitution of bills, statements and correspondence.",
+      "FY2025 Shipping and Packages volume fell 5.7% to 6.8 billion pieces as post-pandemic parcel demand normalized and competitors captured growth.",
+      "FY2026 H1 total volume fell about 6.7% year over year.",
+      "FY2025 International revenue fell to $1.3 billion from $1.4 billion in FY2024."
+    ],
+    "recent_developments": [
+      "2025-03-24: Louis DeJoy stepped down as Postmaster General, and Doug Tulino became acting Postmaster General.",
+      "2025-05-09: USPS Board of Governors selected David Steiner as the 76th Postmaster General and CEO.",
+      "2025-11-14: USPS reported FY2025 operating revenue of $80.5 billion, up 1.2%, and a GAAP net loss of $9.0 billion.",
+      "2026-03-27: PRC issued its FY2025 Annual Compliance Determination, finding service performance continued to lag in FY2025.",
+      "2026-04-09: USPS filed July 2026 mailing-services price changes, including a First-Class Forever stamp increase from 78 cents to 82 cents effective July 12, 2026.",
+      "2026-05-08: USPS reported FY2026 Q2 operating revenue of $20.2 billion, up 2.3%, and said it was conserving cash by suspending FERS normal-cost contributions effective April 10, 2026."
+    ],
+    "outlook": "Revenue is likely to remain supported by rate increases in 2026, but unit demand is expected to keep falling. The central outlook risk is not demand volatility but financial sustainability: USPS must serve a growing number of delivery points with fewer mailpieces per address, while parcel growth is contested by UPS, FedEx, Amazon and regional carriers. Network modernization, transportation savings, Ground Advantage growth and regulatory pricing flexibility could improve margins, but FY2025 and FY2026 results show that management actions alone have not closed the structural gap. The most likely near-term path is low nominal revenue growth, continued volume decline and persistent losses unless Congress, PRC pricing rules or retirement-funding policy changes materially reduce fixed burdens or expand pricing authority.",
+    "themes": [
+      "Electronic substitution of First-Class Mail",
+      "Universal-service obligation versus declining density",
+      "Parcel competition and e-commerce logistics",
+      "Strategic postage increases",
+      "Delivering for America network modernization",
+      "Retirement and pension funding pressure",
+      "Liquidity and borrowing-authority reform",
+      "USPS Ground Advantage growth"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "https://about.usps.com/newsroom/national-releases/2025/1114-usps-reports-fiscal-year-2025-results.htm",
+      "https://about.usps.com/newsroom/national-releases/2026/0205-usps-reports-first-quarter-fiscal-year-2026-results.htm",
+      "https://about.usps.com/newsroom/local-releases/id/2026/0508-usps-reports-second-quarter-fiscal-year-2026-results.htm",
+      "https://facts.usps.com/table-facts/",
+      "https://prc.gov/press-releases/prc-releases-report-assessing-postal-service-compliance-rates-and-service-service",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://about.usps.com/newsroom/national-releases/2022/1110-usps-reports-fiscal-year-2022-results.htm",
+      "https://www.congress.gov/bill/117th-congress/house-bill/3076"
+    ],
+    "one_sentence": "In FY2025, the Postal Service generated $80.5 billion in operating revenue, up 1.2% year over year, but delivered only 108.7 billion mailpieces and posted a $9.0 billion GAAP net loss as structural labor, retirement and network costs outweighed pricing gains.",
+    "slug": "postal-service-in-the-us"
+  },
+  {
+    "title": "Potato Chip Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, brand-led snack manufacturing industry where pricing power, flavor innovation and retail distribution scale offset health concerns and commodity volatility.",
+    "overview": "Potato chip production remains a large, domestically oriented US snack-manufacturing niche anchored by Frito-Lay, regional branded producers, private-label suppliers and premium kettle or better-for-you brands. The 2021 IBISWorld baseline put industry revenue at $10.5 billion in 2021 and forecast $11.1 billion by 2026 in 2021 dollars; since then, nominal revenue has been lifted by sharp retail price inflation, with BLS average potato-chip prices rising from about $5.07 per 16 ounces in 2021 to roughly $6.71 in 2025. Demand is resilient because chips are a staple snack, but growth is constrained by sodium/fat concerns, GLP-1-related appetite changes, private-label value seeking and competition from tortilla chips, popcorn, pretzels and other salty snacks.",
+    "key_stats": {
+      "market_size": "About $14.0 billion estimated US producer revenue in 2025, derived from the $10.5 billion 2021 IBISWorld baseline, the 2021-2026 real-growth forecast path and 2025 BLS chip-price inflation.",
+      "growth": "Potato chips rose 1.8% in dollar sales, 2.8% in unit sales and 2.3% in volume for the 52 weeks ended Jan. 26, 2025, according to Circana data cited by SNAC International.",
+      "retail_price": "BLS/FRED average US city price for potato chips was about $6.71 per 16 ounces in 2025, versus about $6.47 in January 2025 and $6.63 in June 2026.",
+      "raw_potato_supply": "US potato production was estimated at about 412.1 million cwt in 2025, down about 2.2% from 2024, with national yield near 461 cwt per acre.",
+      "trade_exposure": "IBISWorld estimated 2021 imports at $118 million, or about 1.1% of domestic demand, and forecast imports at $142 million in 2026, or about 1.3% of demand.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $10.6 billion in 2022 revenue on the 2021 IBISWorld forecast path, stated in 2021 dollars.",
+      "growth": "About 1.1% forecast 2022 revenue growth on the 2021-2026 IBISWorld outlook path.",
+      "potatoes_for_chips": "US potatoes used for chips and shoestrings totaled 62.1 million cwt in 2022, up 3% from 2021, according to Census/USDA National Potato Chip Day data.",
+      "context": "The baseline report described a mature, low-import industry with 2021 revenue of $10.483 billion, 10.5% EBIT margin, 448 establishments, 431 enterprises and 10,977 employees."
+    },
+    "how_it_makes_money": "Producers earn revenue by selling finished potato chips and related potato-stick products to retailers, wholesalers, convenience distributors, club stores, foodservice accounts and private-label customers. Large brands monetize national marketing, direct-store-delivery systems, shelf space, multipacks, premium flavors and pack-price architecture; smaller operators compete through regional loyalty, kettle-cooked formats, cleaner labels, specialty oils, organic or reduced-sodium lines and co-manufacturing.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket: potatoes, frying oil, seasonings, flexible packaging film, cartons, fuel and logistics; 2025-2026 public filings cite potatoes, cooking oil, packaging and tariffs as margin variables.",
+      "labor": "IBISWorld reported $615 million in wages in 2021 and forecast $660.2 million by 2026 as automation limits labor intensity.",
+      "profit": "IBISWorld estimated 10.5% EBIT margin in 2021 and forecast 11.0% by 2026; public snack companies in 2025-2026 show margins pressured by volume softness, tariffs, supply-chain costs and commodity inflation, partly offset by pricing and productivity.",
+      "distribution": "Direct-store-delivery routes, retailer trade spending, freight, fuel and slotting/promotional costs are material because chips are bulky, fragile and high-turnover.",
+      "capital": "High capital intensity from fryers, slicing lines, oil systems, seasoning drums, packaging lines, quality systems and warehouse automation."
+    },
+    "major_players": [
+      "PepsiCo / Frito-Lay North America: dominant national producer behind Lay's, Ruffles, Kettle Cooked and related salty-snack brands; PepsiCo reported 2025 PFNA savory-snack volume down 3% and operating profit down 7%.",
+      "Utz Brands: major branded salty-snack producer with Utz, Zapp's, Boulder Canyon, Golden Flake, Hawaiian and other chip brands; 2025 filings say potato chips were 41% of Utz retail sales in the 13 weeks ended Dec. 28, 2025.",
+      "The Campbell's Company: owns Cape Cod and Kettle Brand potato chips within its Snacks division; fiscal 2025 company net sales were $10.3 billion and 2026 snack sales were under pressure.",
+      "Private-label and regional manufacturers: grocery, club and value-channel suppliers plus regional chip brands that compete on price, local identity, kettle styles and specialty flavors."
+    ],
+    "current_dynamics": "The 2025-2026 market is split between resilient snack occasions and weaker branded volume. Dollar growth has been supported by higher prices and premium mix, while consumers respond with promotions, value packs, private label and channel switching. Frito-Lay and Campbell show volume softness in public filings, while Utz is gaining share in selected geographies and better-for-you potato-chip lines such as Boulder Canyon. Input conditions are mixed: the 2025 potato crop was smaller than 2024, but supply was not broadly scarce; cooking oil, packaging, freight, tariffs and retailer promotions remain important margin levers.",
+    "whats_growing": [
+      "Bold, spicy, globally inspired and nostalgic flavors, including hot-honey, sauce-inspired and regional limited-time offers in 2025.",
+      "Better-for-you and premium chips, including avocado-oil, olive-oil, kettle-cooked, reduced-sodium, organic and cleaner-label products.",
+      "Multipacks, club packs and single-serve formats that fit lunchboxes, convenience trips and portion-controlled snacking.",
+      "Regional brands expanding into new geographies through DSD networks and acquired shelf relationships.",
+      "Private-label and value-oriented packs as 2025 shoppers trade down or wait for promotions."
+    ],
+    "whats_shrinking": [
+      "Mainstream branded volume where price increases have reduced frequency or pack size affordability; PepsiCo reported 2025 PFNA savory-snack volume down 3%.",
+      "Legacy high-sodium/high-fat positioning among health-conscious consumers and GLP-1 users.",
+      "Some convenience-store potato-chip momentum, with 2024 c-store quarter data showing potato-chip dollar sales down 2.7% and volume down 5.0% for the quarter ended Dec. 1, 2024.",
+      "Campbell snack momentum in 2025-2026, with its Snacks segment down 4% to $940 million in fiscal Q3 2026 and volume down 6%.",
+      "Small brands without scale in procurement, trade spending, food-safety compliance or distribution."
+    ],
+    "recent_developments": [
+      "Jan. 26, 2025: Circana data cited by SNAC International showed potato chips up 1.8% in dollar sales, 2.8% in units and 2.3% in volume for the prior 52 weeks.",
+      "Feb. 2, 2026: SNAC/Circana Super Bowl Week 2025 data reported potato chips sold 32 million pounds for $195.6 million, up 8.0% year over year.",
+      "Sep. 26, 2025: USDA/NASS Potatoes Annual Summary estimated US potato production at roughly 412.1 million cwt in 2025, down about 2.2% from 2024.",
+      "Dec. 27, 2025: PepsiCo reported 2025 Frito-Lay North America unit volume down 2%, driven by a 3% decline in savory snacks volume, while PFNA operating profit fell 7%.",
+      "Dec. 28, 2025: Utz reported potato chips represented 41% of company retail sales for the quarter and its branded salty-snack retail sales rose 3.5% year over year.",
+      "Jun. 2026: Campbell highlighted pressure in salty snacks after fiscal Q3 2026 Snacks sales fell 4% to $940 million and volume declined 6%."
+    ],
+    "outlook": "Nominal industry revenue should remain positive into 2026 because prices are structurally higher than pre-2022 levels and chips remain a frequent household purchase, but real volume growth is likely modest. Winners will be producers that combine value packs, high-velocity core SKUs, stronger promotion discipline, better-for-you claims and fast flavor development. Margin upside depends on productivity, automation and stable potatoes/oils/packaging costs; downside comes from retailer pushback, private-label share gains, tariff-related packaging or input costs, and continued volume weakness at large branded snack platforms.",
+    "themes": [
+      "Pricing power versus volume elasticity",
+      "Flavor innovation and limited-time offers",
+      "Better-for-you chips and specialty oils",
+      "Private-label and value packs",
+      "Direct-store-delivery scale",
+      "Commodity and packaging cost volatility",
+      "Retailer promotion pressure",
+      "Mature domestic manufacturing with low imports"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/potato-chip-production.txt",
+      "https://snacintl.org/2025-state-of-the-industry-report/",
+      "https://commercialbaking.com/savory-snacks-ride-super-bowl-momentum/",
+      "https://fred.stlouisfed.org/data/APU0000718311",
+      "https://www.census.gov/newsroom/stories/potato-chip-day.html",
+      "https://esmis.nal.usda.gov/publication/potatoes-annual-summary/2025-09-26",
+      "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
+      "https://www.sec.gov/Archives/edgar/data/1739566/000162828026007757/utz-20251228.htm",
+      "https://investors.utzsnacks.com/news/news-details/2026/Utz-Brands-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "https://www.thecampbellscompany.com/newsroom/press-releases/campbells-reports-fourth-quarter-fiscal-2025-results-provides-full-year-fiscal-2026-guidance/",
+      "https://www.potatobusiness.com/business-news/campbells-targets-salty-snacks-turnaround-as-sales-decline/"
+    ],
+    "one_sentence": "US potato chip producers turn potatoes, oils, seasonings and packaging into branded, private-label and foodservice snack products sold mainly through grocery, mass, club and convenience channels.",
+    "slug": "potato-chip-production"
+  },
+  {
+    "title": "Potato Farming",
+    "sector": "Agriculture",
+    "one_liner": "U.S. potato farming is a mature, processor-led crop market where acreage discipline, storage, yields and fry/chip demand drive farm receipts.",
+    "overview": "The industry grows potatoes, sweet potatoes and related tubers, but commercial economics are dominated by white potatoes sold into frozen fries, chips, dehydrated products, seed and fresh table stock. The latest complete USDA farm-sales anchor is the 2024 potato crop: growers sold 390.3 million cwt for $4.60 billion, down 8.0% from 2023 as both volume and average price fell. USDA's 2025 production estimate points to another smaller crop: 412.9 million cwt, down 2.0% from 2024, on 896,800 harvested acres, down 3.3%, despite a yield increase to 460 cwt per acre. Demand is stable but not fast-growing: USDA ERS reported 2022-2024 potato availability of 115 pounds per person, with frozen products at about 58 pounds and fresh availability down to 28 pounds. By mid-2026, old-crop supplies were tighter, while processor use was running ahead of the prior season.",
+    "key_stats": {
+      "market_size": "$4.60 billion in U.S. potato farm sales in 2024; USDA 2025 farm value not yet final as of 2026-08-08",
+      "growth": "2024 farm sales decreased 8.0% from $5.00 billion in 2023; 2025 production decreased 2.0% to 412.9 million cwt",
+      "production": "412.9 million cwt in 2025, down from 421.2 million cwt in 2024",
+      "harvested_area": "896,800 acres in 2025, down from 927,000 acres in 2024",
+      "yield": "460 cwt per harvested acre in 2025, up from 454 cwt in 2024",
+      "average_price": "$11.70 per cwt for the 2024 crop, down from $12.30 in 2023",
+      "processing_share": "273.8 million cwt used for processing in 2024, equal to about 65.0% of 2024 production",
+      "retail_category_sales": "$19.9 billion in 2025 U.S. retail potato-category sales, down 0.7% from 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$4.84 billion in U.S. potato farm sales in 2022",
+      "growth": "2022 farm sales were about 15.1% above the 2021 IBISWorld baseline revenue of $4.78 billion, though the measures are not perfectly identical",
+      "production": "402.1 million cwt in 2022",
+      "harvested_area": "918,200 acres in 2022",
+      "yield": "438 cwt per harvested acre in 2022",
+      "average_price": "$12.90 per cwt in 2022",
+      "baseline_context": "The 2021 IBISWorld baseline described the industry as $4.78 billion in revenue, low concentration, mature, and forecast to reach about $4.9 billion by 2026."
+    },
+    "how_it_makes_money": "Growers earn revenue by selling potatoes by hundredweight under processor contracts or fresh-market channels. The largest revenue pools are frozen french fries and other frozen products, chipstock, dehydrated products, seed potatoes and table-stock potatoes; growers may also sell into livestock feed or other lower-value channels when crop size, quality or storage conditions require it.",
+    "cost_structure": "The main costs are seed, fertilizer and crop chemicals, irrigation water and energy, hired labor, machinery, fuel, repairs, land rent, crop storage, packing, freight to processor or fresh packer, insurance and financing. A 2025 Farm Bureau case-study estimate placed full economic production cost near $12.25 per cwt across representative potato states, which was above many open-market fresh prices and close to contract-price levels, implying tight margins when yields or prices soften.",
+    "major_players": [
+      "{'name': 'R.D. Offutt Farms', 'role': 'Large private potato grower supplying frozen-processing and fresh markets; company materials describe more than 15 farms across four Midwest states, while industry directories describe it as the largest U.S. potato grower.'}",
+      "{'name': 'Wada Farms', 'role': 'Idaho-based grower-shipper and marketer of fresh potatoes, onions and sweet potatoes with year-round retail, foodservice and wholesale distribution.'}",
+      "{'name': 'CSS Farms', 'role': 'Multi-state potato producer focused on chip, seed and specialty potatoes; company materials state 17 farms in 10 states as of 2023.'}",
+      "{'name': 'Black Gold Farms', 'role': 'Privately held potato and specialty-crop grower known for chip and fresh-market potatoes across multiple U.S. production regions.'}",
+      "{'name': 'Lamb Weston, J.R. Simplot, McCain Foods and Frito-Lay', 'role': 'Not farms in this industry classification, but major downstream processors whose contracts strongly influence planted acreage, varieties and grower returns.'}"
+    ],
+    "current_dynamics": "Supply is tightening through acreage cuts while yield gains partly offset fewer acres. The 2025 crop was smaller because harvested area fell to 896,800 acres, even as the national yield rose to 460 cwt per acre. Processor demand is firmer than the headline crop number suggests: by June 1, 2026, processors in eight states had used 192.2 million cwt from the 2025 crop season-to-date, up 4.0% from June 2025. Retail demand is steady rather than booming, with 2025 total potato retail dollars down 0.7% and fresh potato volume up 1.0%. Farmgate pricing remains the pressure point after 2024 average grower prices fell to $11.70 per cwt.",
+    "whats_growing": [
+      "Processing momentum: season-to-date processor use reached 192.2 million cwt by June 1, 2026, up 4.0% from June 2025.",
+      "Fresh retail volume: fresh potato volume grew 1.0% in calendar 2025 despite total category volume slipping 0.5%.",
+      "Deli-prepared potato sides: 2025 volume increased 0.9% and dollar sales increased 2.8%.",
+      "Yield: U.S. potato yield rose to 460 cwt per acre in 2025 from 454 cwt in 2024.",
+      "Specialty, small-pack and value-added fresh formats continue to support packer margins even as total potato availability remains mature."
+    ],
+    "whats_shrinking": [
+      "Farm receipts: 2024 potato farm sales fell 8.0% to $4.60 billion from $5.00 billion in 2023.",
+      "Acreage: harvested area fell to 896,800 acres in 2025 from 927,000 acres in 2024.",
+      "Production: U.S. production declined to 412.9 million cwt in 2025 from 421.2 million cwt in 2024.",
+      "Fresh availability over the long term: USDA ERS reported fresh potato availability averaged 28 pounds per person in 2022-2024, down from 46 pounds in 2002-2004.",
+      "Retail processed categories: 2025 retail volume declined 1.5% for chips, 2.6% for instant potatoes, 2.6% for refrigerated potatoes, 0.7% for canned potatoes and 0.1% for frozen potatoes."
+    ],
+    "recent_developments": [
+      "2025-09-26: USDA NASS reported 2024 potato production of 421.2 million cwt, down 4.0%, and 2024 farm sales of $4.60 billion, down 8.0%.",
+      "2026-01-12: USDA NASS estimated the 2025 U.S. potato crop at 412.9 million cwt on 896,800 harvested acres, with yield of 460 cwt per acre.",
+      "2026-02-06: USDA NASS and Statistics Canada reported combined U.S.-Canada 2025 potato production of 539 million cwt, down 2.0% from 2024; U.S. production was 413 million cwt, down 2.0%.",
+      "2026-03-03: Potatoes USA reported 2025 U.S. retail potato-category sales of $19.9 billion and 15.3 billion pounds, with dollar sales down 0.7% and volume down 0.5%.",
+      "2026-06-18: USDA NASS reported June 1, 2026 potato stocks of 54.7 million cwt, down 2.0%, while season-to-date processor use rose 4.0% to 192.2 million cwt."
+    ],
+    "outlook": "The 2026 outlook is stable but margin-sensitive. Smaller 2025 acreage and lower June 2026 stocks should help limit oversupply, but growers still face high production costs, heavy dependence on processor contracts and weak long-term fresh consumption. Revenue is likely to track farmgate prices more than volume: a modest price recovery would lift receipts, while another year of soft contract pricing or open-market weakness would keep margins tight. Growth areas are specialty fresh packs, seed-quality programs, processor reliability and storage efficiency rather than broad demand expansion.",
+    "themes": [
+      "Mature staple crop",
+      "Processor contract dependence",
+      "Acreage discipline",
+      "Yield and storage management",
+      "Fresh-to-frozen consumption shift",
+      "High input-cost pressure",
+      "Fragmented growers, concentrated buyers",
+      "Specialty and value-added fresh formats",
+      "Regional concentration in Idaho, Washington and the Upper Midwest"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file: Potato Farming, last updated 2021-08-30', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/potato-farming.txt'}",
+      "{'name': 'USDA NASS, Potatoes 2024 Summary, released 2025-09-26', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/fx719m44h/wh248r00m/b2775v872/pots0925.txt'}",
+      "{'name': 'USDA NASS, Crop Production 2025 Summary, released 2026-01-12', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf'}",
+      "{'name': 'USDA NASS, North American Potatoes, released 2026-02-06', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795761/uscp0226.pdf'}",
+      "{'name': 'USDA NASS, Potato Stocks, released 2026-06-18', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795944/post0626.txt'}",
+      "{'name': 'USDA ERS, From fresh to frozen: Potato per capita availability changes over time, published 2025-09-04', 'url': 'https://www.ers.usda.gov/data-products/charts-of-note/113195'}",
+      "{'name': 'Potatoes USA, U.S. Retail Potato Sales Stay Steady in 2025, published 2026-03-03', 'url': 'https://potatoesusa.com/u-s-retail-potato-sales-stay-steady-in-2025-demonstrating-consistent-consumer-demand/'}",
+      "{'name': 'American Farm Bureau Federation, Specialty Crops Need Economic Aid case studies, 2025 potato cost estimate', 'url': 'https://www.fb.org/intel/markets/specialty-crops-need-economic-aid-case-studies-almonds-apples-blueberries-lettuce-potatoes-and-strawberries'}",
+      "{'name': 'R.D. Offutt Farms, company overview', 'url': 'https://www.rdoffuttfarms.com/about/'}",
+      "{'name': 'CSS Farms, company overview', 'url': 'https://cssfarms.com/about-us/'}",
+      "{'name': 'Wada Farms, company overview', 'url': 'https://www.wadafarms.com/about-us/'}"
+    ],
+    "one_sentence": "Potato farmers sell mostly russet, chip, dehydrating, fresh-market and seed potatoes into processors, packers, wholesalers and retailers, with revenue shaped more by contract demand, acreage and farmgate prices than by big shifts in consumer consumption.",
+    "slug": "potato-farming"
+  },
+  {
+    "title": "Power Circuit Breaker Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US power circuit breaker manufacturers are benefiting from grid modernization, AI data-center construction and electrification, even as imports and component costs keep pressure on margins.",
+    "overview": "Power circuit breaker manufacturers produce devices that interrupt current during overloads, short circuits and other power anomalies. The 2021 IBIS baseline described a mature, low-concentration US manufacturing industry with 2021 revenue of $2.628 billion, high import penetration and demand tied to utilities, nonresidential construction, residential construction and industrial production. By 2025–2026, the broader US circuit breaker market was larger and faster-growing than the old baseline implied, supported by data centers, utility transmission and distribution upgrades, renewable interconnection, microgrids, EV infrastructure and industrial reshoring. The industry remains exposed to electrical steel, copper, semiconductors, labor availability, tariff risk and competition from imported low-voltage products.",
+    "key_stats": {
+      "market_size": "2025 US circuit breaker market: $4.342 billion; 2026 US power circuit breaker manufacturing revenue: about $2.9 billion estimated from the IBIS 2021 baseline outlook",
+      "growth": "2025-2030 US circuit breaker market CAGR: 5.9%; 2021-2026 IBIS baseline manufacturing revenue CAGR: 2.0%",
+      "electricity_demand": "2025 US electricity consumption: about 4.20 trillion kWh, the highest recorded",
+      "grid_spending": "2023 US transmission capital spending: $27.7 billion, up 11% from 2022; 2023 distribution capital spending: $50.9 billion, up $6.5 billion from 2022",
+      "manufacturing_utilization": "Q2 2026 US manufacturing capacity utilization: 75.5932%",
+      "import_penetration": "2021 imports supplied 43.4% of domestic demand in the IBIS baseline; 2026 baseline projection was 42.9%",
+      "profit_margin": "2021 IBIS baseline profit margin: 5.8%; 2026 baseline projection: 6.3%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated manufacturing revenue: $2.68 billion in 2021 dollars, calculated from the IBIS 2021 revenue base of $2.628 billion and its 2021-2026 projected 2.0% CAGR",
+      "growth": "2022 implied baseline growth: about 2.0% year over year",
+      "context": "The baseline expected recovery from 2020 disruption, higher nonresidential and utility construction, and easing semiconductor input costs, while imports remained near 43% of domestic demand."
+    },
+    "how_it_makes_money": "Manufacturers sell molded-case, low-voltage, medium-voltage and high-voltage circuit breakers and related assemblies to electrical distributors, OEMs, utilities, contractors, industrial facilities, commercial building owners, data-center developers and renewable-energy projects. Revenue comes from equipment sales, custom engineering, replacement units, higher-spec smart breakers, switchgear-integrated products and aftermarket parts or service support.",
+    "cost_structure": "Major costs include purchased electrical components, copper, steel, nonferrous metals, semiconductors, molded plastics, insulation materials, plant labor, testing and certification, engineering, R&D, distribution and warranty support. Baseline 2021 profitability was modest at 5.8% of revenue because high imports, volatile metal prices and electronic component shortages limited pricing power; 2026 margins were projected to improve to 6.3% as demand recovered and some component pressure eased.",
+    "major_players": [
+      "Eaton",
+      "ABB",
+      "Schneider Electric",
+      "Siemens",
+      "GE Vernova",
+      "Mitsubishi Electric",
+      "Powell Industries",
+      "Littelfuse"
+    ],
+    "current_dynamics": "The market is being pulled upward by electricity-load growth, utility capital programs, storm-hardening, renewable interconnection, EV charging, industrial electrification and especially AI data-center construction. EIA reported in 2026 that US electricity demand was on track for its strongest four-year growth since 2000, with data centers a key driver. Manufacturers are adding North American capacity, but long lead times for electrical equipment, skilled labor constraints and import competition remain important constraints. Higher-end medium-voltage, smart and utility-grade products have better domestic manufacturing prospects than commodity low-voltage units.",
+    "whats_growing": "Medium-voltage breakers, smart breakers with monitoring, arc-flash and safety features, utility and grid-hardening applications, data-center power distribution, microgrid and renewable interconnection equipment, and US-made products favored by lead-time, resilience and domestic-supply-chain concerns.",
+    "whats_shrinking": "Commodity low-voltage breakers face the most import pressure, residential demand is softer than commercial and utility demand in 2025–2026, and older non-digital products are losing share to connected protection devices and integrated switchgear packages.",
+    "recent_developments": [
+      "2025-02: Eaton announced a $340 million South Carolina transformer plant and said North American electrical-manufacturing investments had exceeded $1 billion since 2023, including switchgear, switchboards and circuit breakers.",
+      "2025-03: ABB announced $120 million of US manufacturing expansion, including $40 million to expand Senatobia, Mississippi production for advanced low-voltage circuit breakers by Q2 2026.",
+      "2025-03: Schneider Electric announced more than $700 million of US investments, including Columbia, Missouri expansion for molded-case and air circuit breakers and medium-voltage capacity in Tennessee.",
+      "2025-05: EIA reported US electricity consumption was rising again after years of flat demand and forecast 2025 and 2026 consumption above the 2024 record.",
+      "2026-01: EIA forecast the strongest four-year growth in US electricity demand since 2000, driven largely by large computing facilities including data centers.",
+      "2026-03: DOE announced an approximately $1.9 billion SPARK funding opportunity for accelerated transmission and grid technology upgrades."
+    ],
+    "outlook": "The 2026–2030 outlook is positive. Market growth should outpace the mature baseline if data-center, utility and industrial electrification investment continues, with the broader US circuit breaker market projected at 5.9% CAGR from 2025 to 2030. Domestic manufacturers should gain where customers value reliability, certifications, short lead times and engineered medium-voltage products, but imports will remain a structural drag in lower-spec categories. Main risks are delayed grid interconnections, interest-rate-sensitive construction, tariff and input-cost volatility, and bottlenecks in transformers, switchgear and skilled electrical labor.",
+    "themes": [
+      "Grid modernization",
+      "AI data centers",
+      "Electrification",
+      "Domestic manufacturing capacity",
+      "Import competition",
+      "Smart protection devices",
+      "Renewable interconnection",
+      "Utility resilience spending"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/power-circuit-breaker-manufacturing.txt",
+      "https://www.marketsandmarkets.com/Market-Reports/geography/circuit-breaker-and-fuse-market/us",
+      "https://www.eia.gov/todayinenergy/detail.php?id=65264",
+      "https://www.eia.gov/pressroom/releases/press582.php",
+      "https://www.eia.gov/todayinenergy/detail.php?id=63724",
+      "https://fred.stlouisfed.org/series/CUMFN",
+      "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2025/eaton-invests-in-new-south-carolina-transformer-manufacturing.html",
+      "https://www.globenewswire.com/news-release/2025/3/3/3035462/0/en/abb-to-invest-120-million-to-expand-us-manufacturing.html",
+      "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-plans-to-invest-over-700-million-in-the-u-s-supporting-energy-ai-sectors-and-job-growth-67bdeb3ee4475a5955011b6a/",
+      "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity"
+    ],
+    "one_sentence": "The industry makes electrical protection equipment used in buildings, factories, utilities, renewable projects and data centers, with 2025–2026 demand shifting from pandemic recovery toward grid capacity, resilience and high-power digital infrastructure.",
+    "slug": "power-circuit-breaker-manufacturing"
+  },
+  {
+    "title": "Power Conversion Equipment Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US power conversion equipment makers are benefiting from data centers, grid buildout, storage and electrification, while import exposure, labor costs and electronics supply risk keep margins under pressure.",
+    "overview": "This industry manufactures equipment that converts, conditions, stores or protects electrical power, including AC-DC and DC-AC converters, inverters, rectifiers, UPS systems, surge suppressors, battery chargers, appliance and extension cords, capacitors, laser systems and carbon/graphite products. Demand is tied to construction, manufacturing, electronics, clean power projects, data centers and grid reliability spending. The 2025 market is larger than the 2022 baseline, but operators remain exposed to imports, semiconductor and copper costs, foreign exchange, tariffs and project timing in construction and renewables.",
+    "key_stats": {
+      "market_size": "$24.1 billion revenue in 2025",
+      "growth": "3.3% CAGR from 2020 to 2025",
+      "businesses": "943 businesses in 2025, up 1.0% from 2024",
+      "broader_subsector_employment": "440,300 NAICS 335 employees in June 2026",
+      "broader_subsector_ppi": "NAICS 335 producer price index of 217.455 in June 2026",
+      "broader_subsector_productivity": "NAICS 335 output fell 2.4% in 2025 and unit labor costs rose 10.3% in 2025",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$19.023 billion revenue in 2022",
+      "growth": "1.7% revenue growth in 2022",
+      "profit": "$1.027 billion profit in 2022",
+      "profit_margin": "5.4% profit margin in 2022",
+      "exports": "$6.549 billion exports in 2022",
+      "imports": "$22.627 billion imports in 2022",
+      "domestic_demand": "$35.102 billion domestic demand in 2022",
+      "employment": "53,166 employees in 2022",
+      "establishments": "919 establishments in 2022"
+    },
+    "how_it_makes_money": "Manufacturers sell power supplies, UPS systems, inverters, rectifiers, surge protection, battery chargers, cords, capacitors, laser systems and carbon/graphite products to electrical equipment makers, industrial facilities, construction contractors, data centers, renewable-energy developers, utilities, electronics OEMs and distributors. Revenue comes from original equipment sales, engineered systems, replacement units, parts, service contracts and project-specific power conditioning packages.",
+    "cost_structure": "Materials and components are the largest cost bucket, especially semiconductors, printed circuit boards, copper, aluminum, steel, magnetic components, capacitors, enclosures and carbon/graphite inputs. Labor is meaningful because many products require engineering, assembly, testing and compliance work; broader NAICS 335 unit labor costs rose 10.3% in 2025. Profitability is modest relative to high-value electronics, with the baseline profit margin at 5.4% in 2022, while freight, tariffs, warranty reserves, R&D and certification costs affect margins.",
+    "major_players": [
+      "Schneider Electric SE: largest listed industry participant in 2025 sources; mirrored IBIS data shows $6.0 billion of 2024 industry revenue attributed to the company",
+      "Emerson Electric Co.: major participant; mirrored IBIS data shows $3.3 billion of 2024 industry revenue attributed to the company",
+      "Eaton Corporation plc: major participant; mirrored IBIS data shows $1.6 billion of 2024 industry revenue attributed to the company",
+      "ABB Ltd.: global power electronics and electrification competitor with US exposure",
+      "Advanced Energy Industries Inc.: specialized power conversion supplier for industrial, semiconductor and medical markets",
+      "XP Power Ltd.: specialized power supply and converter supplier for industrial, healthcare and technology applications"
+    ],
+    "current_dynamics": "Demand is being pulled upward by AI data centers, utility-scale solar, battery storage, EV infrastructure, grid modernization and industrial automation. EIA reported in 2026 that US electricity demand grew about 1.7% annually from 2020 to 2025 and forecast load growth of 1.9% in 2026 and 2.5% in 2027. EIA also reported 53 GW of new US utility-scale generating capacity added in 2025 and planned additions of 86 GW in 2026, including 43.4 GW of utility-scale solar and 24 GW of battery storage. At the same time, broader NAICS 335 output fell 2.4% in 2025, producer prices remained elevated in June 2026, and trade-policy uncertainty affects imported electrical components and semiconductors.",
+    "whats_growing": "UPS systems, rack-level and facility-level data center power conversion, high-efficiency power supplies, inverters for solar and battery storage, solid-state transformer technology, silicon-carbide and gallium-nitride based converters, grid-tied battery systems, industrial automation power electronics and service/retrofit work for reliability upgrades.",
+    "whats_shrinking": "Lower-margin commodity cords, basic surge protectors and standardized power supplies face import and private-label pressure. Carbon and graphite products remain cyclical with steel and industrial production. Residential solar-linked inverter demand is softer near term, with SEIA forecasting a 19% residential solar contraction in 2026 after the Section 25D tax credit expiration. Broader NAICS 335 output declined 2.4% in 2025 despite strong end-market pockets.",
+    "recent_developments": [
+      "2025: Industry revenue reached an estimated $24.1 billion, with 2020-2025 CAGR of about 3.3%.",
+      "2025: The industry had 943 businesses, up 1.0% from 2024.",
+      "2025: US solar installed 43.2 GWdc, down 14% from 2024, while solar and storage made up 79% of new US generating capacity additions.",
+      "2026-02-20: EIA reported 53 GW of new US utility-scale capacity added in 2025 and 86 GW planned for 2026, including 43.4 GW of solar and 24 GW of battery storage.",
+      "2026-03-12: EIA forecast US electricity load growth of 1.9% in 2026 and 2.5% in 2027, with data centers as a key driver.",
+      "2026-06: BLS reported broader NAICS 335 employment at 440,300 and a producer price index of 217.455 in June 2026."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but uneven. Data centers, clean power, storage and grid reliability should support above-baseline demand for high-efficiency converters, UPS systems and inverters, while residential solar weakness in 2026, import competition, copper and semiconductor costs, tariffs and labor-cost inflation limit margin expansion. Domestic producers with engineered products, certification capability, short lead times and service relationships are better positioned than commodity suppliers.",
+    "themes": [
+      "AI data center power demand",
+      "Grid reliability and electrification",
+      "Solar and battery-storage inverter demand",
+      "Silicon carbide and gallium nitride power electronics",
+      "Import competition and tariff exposure",
+      "Copper and semiconductor cost pressure",
+      "Industrial automation and reshoring",
+      "UPS and power-quality upgrades"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld file, Power Conversion Equipment Manufacturing in the US, last updated Feb. 21, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/power-conversion-equipment-manufacturing-in-the-us.txt'}",
+      "{'name': 'IBISWorld number of businesses page, July 2025', 'url': 'https://www.ibisworld.com/united-states/number-of-businesses/power-conversion-equipment-manufacturing/810/'}",
+      "{'name': 'Mirrored IBISWorld industry snapshot with 2025 revenue and 2024 company revenue figures', 'url': 'https://alfabank-adres.ru/united-states/industry/power-conversion-equipment-manufacturing/810/'}",
+      "{'name': 'US Census NAICS 335999 definition', 'url': 'https://www.census.gov/naics/?details=335999&input=335999&year=2022'}",
+      "{'name': 'BLS NAICS 335 industry data, extracted July 22, 2026', 'url': 'https://www.bls.gov/iag/tgs/iag335.htm'}",
+      "{'name': 'EIA, New U.S. electric generating capacity expected to reach a record high in 2026, Feb. 20, 2026', 'url': 'https://www.eia.gov/todayinEnergy/detail.php?id=67205'}",
+      "{'name': 'EIA, Fossil generation could rise with faster-than-expected growth in data center power demand, Mar. 12, 2026', 'url': 'https://www.eia.gov/TODAYINENERGY/detail.php?id=67344'}",
+      "{'name': 'SEIA/Wood Mackenzie, US Solar Market Insight 2025 Year in Review', 'url': 'https://seia.org/research-resources/us-solar-market-insight/'}",
+      "{'name': 'Lawrence Berkeley National Laboratory, United States Data Center Energy Usage Report: 2025 Update, June 2026', 'url': 'https://eta-publications.lbl.gov/publications/united-states-data-center-energy-2025'}",
+      "{'name': 'Oak Ridge National Laboratory, GaN power converters for AI data center demand, May 20, 2026', 'url': 'https://www.ornl.gov/news/new-semiconductor-building-blocks-make-power-converters-smaller-more-affordable'}"
+    ],
+    "one_sentence": "In 2025, the industry reached an estimated $24.1 billion in revenue after a 2020-2025 CAGR of about 3.3%, with demand shifting toward UPS systems, inverters, rectifiers and power electronics for data centers, renewables, storage and industrial automation.",
+    "slug": "power-conversion-equipment-manufacturing-in-the-us"
+  }
+]

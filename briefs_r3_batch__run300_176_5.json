@@ -1,0 +1,441 @@
+[
+  {
+    "title": "Horse Racing Tracks",
+    "sector": "Media & Entertainment",
+    "one_liner": "U.S. horse racing tracks are recovering from the 2020 attendance shock but remain structurally pressured by fewer race days, an aging fan base, online sports betting competition and higher safety-compliance costs.",
+    "overview": "The industry operates venues that stage live horse races and monetize them through wagering, event-day spending, media and simulcast distribution, and ancillary gaming where state law permits. The baseline IBIS file describes a mature industry in long-term decline, with 2020 revenue down sharply because attendance collapsed during COVID-19 and with 2020-2025 revenue forecast to rebound at a 3.4% CAGR to $4.1 billion in 2025. Current 2025 data supports a more mixed recovery: fans returned to marquee meets such as Saratoga and Keeneland, but the national Thoroughbred product contracted, with 2025 U.S. race days down 5.2% and races below 30,000 for the first time since the mid-1950s. The core demand problem remains that casual entertainment dollars and betting wallets have shifted toward casinos, lotteries, mobile sportsbooks, iGaming and daily fantasy, while the sport still depends heavily on loyal older bettors and high-volume wagering accounts. Regulation is also more central than in the baseline period because HISA now imposes national safety, anti-doping and medication-control standards on covered Thoroughbred racing.",
+    "key_stats": {
+      "market_size": "2025: about $4.1 billion in U.S. horse-racing-track operator revenue based on the baseline 2020-2025 IBIS forecast; 2025 wagering on U.S. Thoroughbred races was nearly $11.03 billion, down from more than $11.26 billion in 2024.",
+      "growth": "2025: U.S. Thoroughbred wagering handle fell 2.1% year over year; 2020-2025 baseline revenue CAGR was forecast at +3.4% from the 2020 pandemic trough.",
+      "race_days": "2025: U.S. Thoroughbred race days fell 5.2% to 3,590.",
+      "races": "2025: U.S. Thoroughbred races fell 4.7% to 29,401.",
+      "purses": "2025: total U.S. purses paid were more than $1.22 billion, down 2.5% year over year.",
+      "average_wagering_per_race_day": "2025: average wagering per race day rose nearly 3.3% to $3,072,048.",
+      "business_count": "2024: IBISWorld's public page listed 85 Horse Racing Tracks businesses, flat versus 2023.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $3.68 billion estimated horse-racing-track revenue, interpolated from the baseline file's 2020 revenue of $3.442 billion and its 2020-2025 +3.4% CAGR forecast; Census/FRED reported 2022 NAICS 711212 all-racetrack employer-firm revenue of $8.193 billion.",
+      "growth": "2022: about +3.4% implied baseline forecast growth for horse-racing-track revenue; Census/FRED all-racetrack employer-firm revenue grew 9.2% from $7.503 billion in 2021 to $8.193 billion in 2022.",
+      "context": "The baseline file was last updated in 2021, so 2022 values are best treated as a recovery-period benchmark rather than a final observed IBIS industry value."
+    },
+    "how_it_makes_money": "Tracks primarily keep a takeout from pari-mutuel wagering on live races, simulcast races and account-wagering channels; collect admissions, parking, premium seating, food and beverage, sponsorship and event fees; sell broadcast and data rights; lease space to horsemen and vendors; and, in states that allow it, generate material revenue from racinos, slot-like historical racing machines or linked gaming operations that subsidize purses and facilities.",
+    "cost_structure": "Major costs include race purses and horsemen payments, wages for racing operations and hospitality staff, pari-mutuel and tote technology, simulcast and ADW fees, marketing and event production, insurance, utilities, track-surface maintenance, barns and grandstand upkeep, security, property taxes, depreciation on capital-heavy facilities, and rising regulatory, veterinary, testing and HISA assessment costs. Profitability is highly sensitive to race-day volume, field size, weather cancellations, takeout rates, high-volume-player rebates, labor intensity and whether the track has gaming revenue outside live racing.",
+    "major_players": [
+      "Churchill Downs Inc. - Kentucky Derby owner with 2025 Live and Historical Racing revenue of $1.3947 billion and Wagering Services and Solutions revenue of $488.2 million.",
+      "New York Racing Association - operator of Aqueduct, Belmont Park and Saratoga; Saratoga's 2025 summer meet generated more than $1.0 billion in all-sources handle including Belmont Stakes festival dates.",
+      "1/ST Racing / The Stronach Group - operator or owner interests tied to major properties including Santa Anita, Gulfstream Park, Laurel Park and Pimlico-related Maryland racing assets.",
+      "Keeneland Association - nonprofit Kentucky track and sales company; 2025 Fall Meet reached a record $217.3 million in all-sources wagering.",
+      "Del Mar Thoroughbred Club - major California summer meet; 2025 summer handle reached $535.15 million, up 6.7% from 2024."
+    ],
+    "current_dynamics": "The 2025 market is not demand-led in the simple sense: fewer race days and fewer races reduced national handle, while stronger average handle and purse metrics per race day show that remaining high-quality dates can still concentrate betting volume. Premium meets are outperforming ordinary dates, with Saratoga and Keeneland reporting strong 2025 engagement, while smaller circuits remain exposed to horse supply shortages, weather disruptions, regulatory costs and competition from mobile sportsbooks. HISA has improved safety metrics, with 2025 annual racing-related fatalities at 1.04 per 1,000 starts and 2026 Q1 at 0.95 per 1,000 starts, but compliance costs and assessment disputes remain a friction point for tracks and horsemen.",
+    "whats_growing": "Premium race days, festival-style meets, hospitality, sponsorships, ADW-linked wagering, historical racing machines in states such as Kentucky and Virginia, safety analytics, centralized veterinary reporting, high-quality turf and dirt maintenance programs, and cross-property racing series designed to create season-long narratives are growing. Handle per race day and available purses per race day rose in 2025 despite lower national totals, indicating demand is concentrating around better fields, marquee tracks and stronger betting products.",
+    "whats_shrinking": "The national racing calendar is shrinking: 2025 race days fell 5.2%, races fell 4.7%, starts declined and total handle fell 2.1%. Smaller tracks without gaming subsidies, strong ADW economics or destination-event appeal are losing relevance. On-track-only wagering, casual weekday attendance, lower-grade racing inventory and younger consumer mindshare are under pressure from mobile sports betting, iGaming, casinos, streaming entertainment and animal-welfare concerns.",
+    "recent_developments": [
+      "2025-09-01: NYRA reported Saratoga's 2025 summer meet exceeded 1.0 million paid fans for the 10th consecutive year and generated $1.0725 billion in all-sources handle including festival dates.",
+      "2025-10-25: Keeneland's 2025 Fall Meet set a season record with $217.3 million in all-sources wagering, up 3.38% from 2024.",
+      "2026-01-05: Equibase reported 2025 U.S. Thoroughbred wagering handle fell 2.1% to nearly $11.03 billion as race days dropped 5.2% to 3,590.",
+      "2026-01-09: HISA announced FTC-approved enforcement-rule changes effective 2026-01-19, including automatic suspension for unpaid fines or purse repayments.",
+      "2026-04-13: The FTC approved HISA's 2026 budget; Daily Racing Form reported spending of $78.4 million and a 4% reduction from 2025.",
+      "2026-05-12: HISA reported 2026 Q1 racing-related equine fatalities of 0.95 per 1,000 starts at covered tracks."
+    ],
+    "outlook": "For 2026-2029, track revenue should be steadier than raw race-count data suggests for operators with premium meets, gaming adjacency, strong ADW economics or valuable real estate, but the national racing product is likely to keep consolidating. The most likely path is low nominal revenue growth with flat-to-declining live racing volume: fewer dates, better-supported marquee cards, more regulatory oversight, more dependence on off-track and mobile wagering, and a sharper divide between destination tracks and marginal local circuits. Upside comes from safer racing, better broadcast packaging, lower-friction wagering and new championship formats; downside comes from sports-betting substitution, field-size weakness, weather cancellations, HISA cost disputes and public scrutiny of equine injuries.",
+    "themes": [
+      "Declining core attendance",
+      "ADW and mobile wagering dependence",
+      "Race-day consolidation",
+      "Racino and historical-racing-machine subsidies",
+      "HISA safety and compliance",
+      "Animal welfare and reputation risk",
+      "Premium meet outperformance",
+      "Sports betting competition",
+      "Weather and climate disruption",
+      "Aging customer base"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/horse-racing-tracks.txt",
+      "https://cms.equibase.com/node/311321",
+      "https://cms.equibase.com/node/306397",
+      "https://cms.equibase.com/node/300116",
+      "https://fred.stlouisfed.org/data/REVEF711212ALLEST",
+      "https://www.ibisworld.com/united-states/number-of-businesses/horse-racing-tracks/4372/",
+      "https://www.nyra.com/saratoga/news/summer-2025/",
+      "https://www.keeneland.com/media/news/keeneland-fall-meet-concludes-record-217-million-all-sources-wagering",
+      "https://hisaus.org/news/hisa-publishes-2026-first-quarter-metrics-report",
+      "https://www.ftc.gov/enforcement/hisa",
+      "https://www.drf.com/news/ftc-approves-2026-hisa-budget",
+      "https://www.sec.gov/Archives/edgar/data/20212/000002021226000025/R45.htm"
+    ],
+    "one_sentence": "Horse racing tracks earn from pari-mutuel takeout, admissions, hospitality, simulcast and ADW economics, sponsorships, events and racino or historical-racing-machine activity, but 2025 public indicators show a smaller racing calendar and lower total handle even as wagering and purses per race day improved.",
+    "slug": "horse-racing-tracks"
+  },
+  {
+    "title": "Hose & Belt Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, trade-exposed manufacturing niche making rubber and plastic hoses, conveyor belts and power-transmission belts for vehicles, machinery, energy, mining and industrial maintenance.",
+    "overview": "This industry corresponds to NAICS 326220: establishments manufacturing rubber hose, reinforced plastic hose and belting from natural rubber, synthetic rubber and plastic resins, including purchased-hose garden hose finishing. Core products include transportation hoses and transmission belts, flat rubber and plastic belts, industrial hoses, water/garden hose, conveyor belting and related specialty products. Demand is split between OEM fitment for vehicles and machinery, MRO replacement demand for factories and off-highway equipment, and energy/mining applications where hose and belt failure creates costly downtime. The 2022 baseline showed a mature but globalized industry: revenue of $7.178 billion, exports equal to 42.6% of revenue, imports satisfying 54.2% of domestic demand, and 210 enterprises. Current 2025-2026 conditions are mixed: automotive-dollar output improved in 2025, manufacturing output strengthened in Q2 2026, but the broader plastics and rubber products subsector posted real-output declines through 2025 and elevated unit labor costs.",
+    "key_stats": {
+      "market_size": "2025: about $7.3 billion US revenue, estimated from the 2022 IBISWorld baseline of $7.178 billion and its 2022-2027 forecast path to about $7.4 billion.",
+      "growth": "2022-2027 projected CAGR: about 0.5%; 2026 demand indicators improved with Federal Reserve manufacturing output up at a 4.7% annual rate in Q2 2026 and total industrial production 1.1% above June 2025.",
+      "profit_margin": "2022: 7.6% EBIT margin baseline; 2025-2026 margins pressured by labor and input volatility but supported by price pass-through and aftermarket/MRO demand.",
+      "employment": "2022: 18,951 people in the baseline industry; broader NAICS 326 plastics and rubber products manufacturing employment was 687,100 in June 2026.",
+      "trade_exposure": "2022: exports were $3.060 billion and imports were $4.876 billion; 2025 official US trade data are available through USITC DataWeb, which reports monthly and annual NAICS trade statistics.",
+      "pricing": "June 2026: PPI for rubber and plastics hose and belting was 216.877 on a Dec. 2003=100 basis in May 2026; belt manufacturing PPI was 160.071 in June 2026; industrial hose without fittings PPI was 161.453 in June 2026.",
+      "demand_driver": "2025: BEA motor vehicle output final sales were $755.023 billion, up from $708.807 billion in 2024 and $671.424 billion in 2022.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $7.178 billion revenue in 2022 dollars.",
+      "growth": "2017-2022 CAGR: 3.5%; 2022 single-year growth: 13.9% as post-pandemic demand recovered.",
+      "profit": "2022: $546 million EBIT-level profit; 7.6% profit margin.",
+      "industry_gross_product": "2022: $1.799 billion.",
+      "establishments": "2022: 290 establishments.",
+      "enterprises": "2022: 210 enterprises.",
+      "employment": "2022: 18,951 employees.",
+      "wages": "2022: $1.106 billion wages.",
+      "exports": "2022: $3.060 billion, equal to 42.6% of industry revenue.",
+      "imports": "2022: $4.876 billion, satisfying 54.2% of domestic demand.",
+      "domestic_demand": "2022: $8.994 billion.",
+      "product_mix": "2022: transportation hoses and transmission belts 33.2%, flat rubber and plastic belts 30.7%, industrial rubber and plastic hoses 13.0%, rubber and plastic hoses 7.8%, other 15.3%."
+    },
+    "how_it_makes_money": "Manufacturers sell engineered hoses, belts and assemblies into OEM and aftermarket channels. Revenue comes from transportation hose and transmission belt programs for automakers and parts suppliers, conveyor and flat belting for material handling, hydraulic and industrial hose for factories, mining, oil and gas, agriculture and construction equipment, plus replacement parts sold through distributors. Pricing is often contract-based or distributor-based, with pass-through mechanisms for rubber, resin, carbon black, textile reinforcement, steel cord, energy and freight costs. Higher-value margins come from application-specific products, safety certifications, high-pressure hose, abrasion-resistant conveyor belts, short-lead-time replacement parts and customer qualification barriers.",
+    "cost_structure": {
+      "raw_materials": "2025-2026: rubber, synthetic rubber, plastic resin, textile reinforcement, steel wire/cord, carbon black and chemicals remain the largest cost exposure; petroleum-linked resin and synthetic rubber prices affect selling prices and margins.",
+      "labor": "2022: wages were $1.106 billion, or about 15.4% of revenue; 2025 BLS data for broader NAICS 326 showed unit labor costs up 2.6%.",
+      "energy_and_utilities": "2025-2026: extrusion, calendaring, molding, curing and testing are energy-intensive, so electricity, natural gas and plant utilization affect unit costs.",
+      "freight_and_distribution": "2025-2026: heavy and bulky belting/hose products create meaningful freight, warehousing and distributor margin costs, especially for replacement/MRO channels.",
+      "profit": "2022: EBIT-level profit was 7.6% of revenue; 2025-2026 profitability depends on price realization, capacity use, import pricing, labor efficiency and mix shift toward engineered replacement products."
+    },
+    "major_players": [
+      "{'name': 'Gates Industrial Corporation plc', 'role': 'Major global power-transmission and fluid-power manufacturer with belts and hoses across industrial, mobility, OEM and aftermarket channels; reported 2025 net sales of $3.443 billion, up 1.0%.'}",
+      "{'name': 'Continental / ContiTech', 'role': 'Large global industrial rubber, hose, conveyor and drive-belt supplier; ContiTech reported 2025 sales of €6.005 billion, down 6.0%, and Continental agreed in 2026 to sell ContiTech to Lone Star Funds.'}",
+      "{'name': 'Parker Hannifin', 'role': 'Large motion-and-control company active in hose, fittings, fluid connectors and engineered systems; fiscal 2025 annual sales were $19.9 billion across Parker.'}",
+      "{'name': 'Forbo Siegling', 'role': 'Conveyor and processing-belt supplier with US manufacturing and distribution exposure.'}",
+      "{'name': 'Titeflex / Smiths Flex-Tek', 'role': 'Specialty flexible hose and fluid-transfer products supplier serving industrial, aerospace and other engineered applications.'}",
+      "{'name': 'The Timken Company belts business', 'role': 'North American belts operation serving industrial and mobility markets; Gates announced a 2026 agreement to acquire the business.'}"
+    ],
+    "current_dynamics": "Demand is uneven but improving from a weak 2023-2025 manufacturing backdrop. The broader plastics and rubber products subsector posted real output declines of 6.3% in 2023, 1.8% in 2024 and 3.4% in 2025, while unit labor costs rose 10.4% in 2023, 4.0% in 2024 and 2.6% in 2025. By June 2026, Federal Reserve data showed manufacturing output rising at a 4.7% annual rate in Q2 2026, which supports industrial hose and belting replacement demand. Automotive-related demand improved in dollar terms, with BEA motor vehicle output at $755.023 billion in 2025 versus $708.807 billion in 2024, but electrification and lower combustion-engine content pressure some legacy engine belt and hose categories. Pricing remains elevated: industrial hose and belting PPIs in 2026 are well above pre-2021 levels, helping nominal revenue but keeping buyers sensitive to imports and substitution.",
+    "whats_growing": [
+      "2025-2026: industrial MRO replacement demand where factory utilization, mining, energy and material handling require reliable hoses and conveyor belts.",
+      "2025-2026: power-transmission and specialty belts for higher-duty industrial, agriculture, construction and off-highway applications.",
+      "2025: motor vehicle output in dollar terms, which supports OEM and replacement hose/belt content despite mix changes.",
+      "2026: consolidation-driven scale, illustrated by Gates' agreement to buy Timken's North American belts business and Continental's planned ContiTech divestiture.",
+      "2025-2026: engineered hose, high-pressure hydraulic hose, abrasion-resistant belting and certified products where failure costs justify premium pricing."
+    ],
+    "whats_shrinking": [
+      "2025-2026: commoditized hoses and belts exposed to low-cost import competition and buyer switching.",
+      "2025-2026: legacy internal-combustion engine belt and hose applications as EV penetration reduces some traditional powertrain components over time.",
+      "2025: broader plastics and rubber products real output, which BLS reported down 3.4% for NAICS 326 in 2025.",
+      "2025: ContiTech reported weaker automotive original-equipment, industrial, commercial-vehicle and off-highway demand, contributing to a 6.0% sales decline.",
+      "2025-2026: margin room for producers unable to pass through labor, resin, rubber, freight and tariff-related cost changes."
+    ],
+    "recent_developments": [
+      "2025: BEA reported US motor vehicle output final sales of $755.023 billion, up from $708.807 billion in 2024.",
+      "2026-02-02: Continental completed the sale of ContiTech's Original Equipment Solutions business, which generated about €1.7 billion of 2025 sales and makes hose lines and bearing elements for vehicles.",
+      "2026-02-12: Gates reported 2025 net sales of $3.443 billion, up 1.0%, with adjusted EBITDA margin of 22.4%.",
+      "2026-05-01: Gates announced an agreement to acquire The Timken Company's North American belts business serving industrial and mobility markets.",
+      "2026-07-04: Continental agreed to sell ContiTech to Lone Star Funds for €4.0 billion plus up to €250 million of performance-based components, with closing possible by year-end 2026.",
+      "2026-07-17: Federal Reserve reported June 2026 industrial production 1.1% above June 2025 and manufacturing output up at a 4.7% annual rate in Q2 2026."
+    ],
+    "outlook": "The industry should remain mature and low-growth through 2027, with nominal revenue around the low-$7-billion range unless pricing or trade conditions shift sharply. The best outlook is in engineered industrial hose, conveyor belting, hydraulic hose, MRO replacement, energy/mining and off-highway applications where product reliability matters more than unit price. Automotive remains a large customer, but mix is changing: EVs can reduce some traditional engine-belt and fluid-hose content while adding thermal-management and specialty hose opportunities. Consolidation is likely to continue as global suppliers seek purchasing scale, broader distributor reach and more disciplined capacity. Risks are high import penetration, dollar strength, tariffs and volatile rubber/resin input costs; supports are 2026 manufacturing recovery, aftermarket replacement cycles and customers' preference for qualified domestic supply in critical applications.",
+    "themes": [
+      "Mature manufacturing niche",
+      "Automotive content transition",
+      "Industrial MRO resilience",
+      "Import competition",
+      "Rubber and resin cost volatility",
+      "Consolidation and divestitures",
+      "Engineered-product premium",
+      "Trade and tariff exposure",
+      "Energy and mining demand",
+      "Distributor-led aftermarket sales"
+    ],
+    "data_year": "2025-2026 current data with 2022 baseline",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hose-and-belt-manufacturing-in-the-us.txt', 'used_for': '2022 revenue, growth, product mix, profit, employment, exports, imports and outlook baseline.'}",
+      "{'name': 'U.S. Census Bureau NAICS 326220 definition', 'url': 'https://www.census.gov/naics/resources/archives/sect31-33.html', 'used_for': 'Official industry boundary and product definition.'}",
+      "{'name': 'BLS Industry at a Glance: Plastics and Rubber Products Manufacturing, NAICS 326', 'url': 'https://www.bls.gov/iag/tgs/iag326.htm', 'used_for': '2025 productivity, output, unit labor cost, establishments and June 2026 employment context.'}",
+      "{'name': 'Federal Reserve G.17 Industrial Production and Capacity Utilization, July 17 2026 release', 'url': 'https://www.federalreserve.gov/releases/g17/Current/default.htm', 'used_for': 'June 2026 industrial production and Q2 2026 manufacturing output indicators.'}",
+      "{'name': 'FRED / BLS PPI PCU326220326220D', 'url': 'https://fred.stlouisfed.org/series/PCU326220326220D', 'used_for': 'June 2026 rubber and plastics belt and belting PPI.'}",
+      "{'name': 'FRED / BLS PPI PCU326220326220H4', 'url': 'https://fred.stlouisfed.org/series/PCU326220326220H4', 'used_for': 'June 2026 industrial rubber and plastics hose without fittings PPI.'}",
+      "{'name': 'FRED / BEA Motor vehicle output final sales', 'url': 'https://fred.stlouisfed.org/series/AB60RC1A027NBEA', 'used_for': '2025 motor vehicle output demand indicator.'}",
+      "{'name': 'USITC DataWeb 2025 trade availability', 'url': 'https://www.usitc.gov/complete_2025_trade_statistics_now_available.htm', 'used_for': 'Current 2025 official NAICS trade-data availability and trade context.'}",
+      "{'name': 'Gates Industrial 2025 results press release / SEC exhibit', 'url': 'https://www.sec.gov/Archives/edgar/data/1718512/000162828026007483/gtes-exhibit991xq42025.htm', 'used_for': 'Gates 2025 sales, growth and EBITDA margin.'}",
+      "{'name': 'Gates May 1 2026 Timken belts acquisition announcement', 'url': 'https://www.prnewswire.com/news-releases/gates-corporation-to-expand-north-american-power-transmission-business-with-acquisition-302760099.html', 'used_for': '2026 consolidation development.'}",
+      "{'name': 'Continental 2025 Annual Report ContiTech section', 'url': 'https://annualreport.continental.com/2025/en/report/economic-report/development-group-sectors/contitech.php', 'used_for': 'ContiTech 2025 sales, margin and market-demand commentary.'}",
+      "{'name': 'Continental July 4 2026 ContiTech sale announcement', 'url': 'https://www.continental.com/en/investors/ir-news/ad-hoc-news/continental-ag-continental-ag-sells-contitech-group-sector/', 'used_for': '2026 ContiTech sale value and expected closing timing.'}",
+      "{'name': 'Parker Hannifin company profile', 'url': 'https://investors.parker.com/company-information', 'used_for': 'Parker fiscal 2025 sales and market positioning.'}"
+    ],
+    "one_sentence": "Hose & Belt Manufacturing in the US is a roughly $7.3 billion 2025 industry whose volume demand follows automotive, machinery, mining and factory activity, while revenue and margins swing with rubber, resin, oil-linked input costs and import competition.",
+    "slug": "hose-and-belt-manufacturing-in-the-us"
+  },
+  {
+    "title": "Hosiery Mills in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-heavy US manufacturing niche making socks, pantyhose, tights and legwear, with domestic operators surviving through branded basics, specialty socks, automation and Made-in-USA positioning.",
+    "overview": "This industry covers establishments that knit, knit-and-finish, or otherwise manufacture hosiery and sock products in the United States, including men's socks, cotton and cotton-blend socks, sheer pantyhose, tights, knee-length hosiery and specialty legwear. The baseline IBIS report placed 2021 revenue at $760.5 million after a 2020 pandemic-driven contraction, while newer Kentley market summaries put industry sales at $0.7 billion in 2022, $0.8 billion in 2024 and $0.7 billion in 2025. The industry's structural story has not changed: domestic mills face high labor costs, high import penetration and secular decline in women's sheer hosiery, but selected operators remain relevant through athletic socks, work socks, therapeutic socks, fashion socks, retailer private label, domestic quick-turn production and brand licensing.",
+    "key_stats": {
+      "market_size": "2025 industry sales were $0.7 billion for US sock and hosiery manufacturing / hosiery and sock mills.",
+      "growth": "2022-2025 industry sales declined at a 1.7% annual rate; 2021-2024 sales grew at a 0.9% annual rate before the 2025 decline.",
+      "companies": "2025 industry had 109 companies; 2024 hosiery and sock mills also reported 109 companies in the Kentley summary.",
+      "imports": "2024 US cotton knitted hosiery and footwear imports under HS 611592 were $708.7 million; 2023 imports for the same HS code were $591.3 million.",
+      "pricing": "2025 PPI growth for sock and hosiery manufacturing was 0.0%; 2024 PPI growth was 0.6%.",
+      "productivity": "2025 employee productivity was $93,682 per employee; 2024 employee productivity was $94,554-$95,454 per employee across Kentley hosiery/sock summaries.",
+      "payroll": "2025 payroll per employee was $38,814; 2024 payroll per employee was $37,492-$38,249.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 industry sales were $0.7 billion.",
+      "growth": "2019-2022 industry sales declined at a 4.6% annual rate.",
+      "companies": "2022 industry had 111 companies.",
+      "sales_per_facility": "2022 average sales per facility were $6.1 million.",
+      "ppi": "2022 PPI growth was 4.5%.",
+      "productivity": "2022 employee productivity was $93,935.",
+      "payroll": "2022 payroll per employee was $34,969."
+    },
+    "how_it_makes_money": "Hosiery mills earn revenue by producing socks, pantyhose, tights and specialty legwear for wholesalers, mass merchants, department stores, apparel brands, ecommerce sellers, uniform/workwear channels and private-label retail programs. Higher-margin revenue tends to come from branded or licensed products, technical socks, compression or therapeutic hosiery, workwear socks, fashion colors and quick-turn domestic production, while commodity white athletic socks and basic sheers are more exposed to low-cost imports.",
+    "cost_structure": "The baseline IBIS file estimated 2021 wages at 26.9% of revenue, 2021 total wages at $204.7 million and 2021 profit margin at 3.9%. The largest ongoing costs are cotton, synthetic yarn, elastane, dyes, packaging, electricity, plant labor, freight, compliance and retailer chargebacks. Kentley summaries show 2025 payroll per employee at $38,814, 2025 operating expenses down 0.9%, and 2025 tariff cost estimated at $20 million for sock and hosiery manufacturing. Cotton was softer through much of 2025, but USDA's June 2026 outlook projected the 2026/27 Cotton A-Index to rebound to about $0.90 per pound from about $0.80 per pound in the prior two seasons, which points to renewed input-cost pressure.",
+    "major_players": [
+      "Gildan Activewear / HanesBrands: after the December 1, 2025 acquisition, the combined company markets hosiery brands including Gildan, Hanes, GoldToe, Peds, MediPeds and Powersox, while using a vertically integrated manufacturing network across the United States, Central America, the Caribbean and Asia.",
+      "Renfro Brands: a major sock and legwear designer, manufacturer and marketer with US production in Cleveland, Tennessee, and Fort Payne, Alabama, and 2024-2026 activity including a Soffe acquisition and new CEO appointment.",
+      "Fruit of the Loom / Lamour: Fruit of the Loom is a Berkshire Hathaway-owned apparel company whose 2023 sock partnership with Lamour supports Fruit of the Loom branded family socks.",
+      "Nester Hosiery / Farm to Feet: a US sock manufacturer focused on performance and outdoor socks with Made-in-USA positioning.",
+      "For Bare Feet: a licensed and novelty sock producer serving sports, lifestyle and retail channels."
+    ],
+    "current_dynamics": "The domestic production base is small and still pressured by imports. In 2024, US imports of cotton knitted hosiery and footwear under HS 611592 rose to $708.7 million from $591.3 million in 2023, led by Pakistan, Honduras, China and El Salvador. In 2025, broader US apparel import data showed Vietnam, China, Bangladesh, India, Cambodia and Indonesia remained dominant sourcing countries, reinforcing the cost pressure on US mills. At the same time, 2025-2026 tariff and de minimis changes increased landed-cost uncertainty, especially for China-linked low-value ecommerce shipments, which may help domestic quick-turn suppliers at the margin but also raises costs for brands with offshore supply chains. Gildan's 2025 acquisition of HanesBrands creates a much larger basic-apparel competitor with sock brands and a low-cost regional manufacturing platform, increasing scale pressure on smaller mills.",
+    "whats_growing": "Growth is concentrated in athletic, workwear, medical/therapeutic, compression, moisture-wicking, odor-control, outdoor, novelty, collegiate/licensed and colorful fashion socks. Made-in-USA programs, retailer reshoring initiatives and short-run domestic replenishment are also gaining relevance where speed, compliance, origin claims or inventory control matter more than lowest unit cost. Plus-size hosiery, body-shaping legwear and comfort-oriented products remain stronger than traditional sheer pantyhose.",
+    "whats_shrinking": "Traditional women's sheer pantyhose and daily office hosiery continue to shrink as bare legs, casual workplaces, hybrid work and athleisure reduce routine use. Commodity mass-market socks made in domestic mills are also pressured by lower-cost imports from Asia and Central America. Smaller US operators face shrinking scale, fewer establishments, expensive labor and retailer pricing pressure.",
+    "recent_developments": [
+      "2024-09-26: Renfro Brands announced the acquisition of MJ Soffe, expanding beyond socks and legwear into athletic and casual apparel.",
+      "2025-04-02: The White House ordered the end of duty-free de minimis treatment for covered China and Hong Kong low-value imports effective 2025-05-02, raising compliance and duty costs for China-linked ecommerce apparel shipments.",
+      "2025-08-13: Gildan agreed to acquire HanesBrands in a transaction valued at about $2.2 billion in equity value and about $4.4 billion in enterprise value.",
+      "2025-12-01: Gildan completed the HanesBrands acquisition, combining Gildan, Hanes, GoldToe, Peds, MediPeds and Powersox under one global basic-apparel platform.",
+      "2026-01-16: Renfro Brands appointed Jay W. Robinson as president and CEO.",
+      "2026-06-16: USDA projected 2026/27 world cotton ending stocks at 71.1 million bales, down 7.0% from 2025/26, and forecast cotton prices rebounding to about $0.90 per pound."
+    ],
+    "outlook": "The 2026 outlook is cautious. Domestic sales are likely to remain around the 2025 level of roughly $0.7 billion unless tariffs, retailer reshoring or brand-led Made-in-USA programs materially shift purchasing back to US mills. The best opportunities are specialty socks, performance fibers, workwear, medical/therapeutic products, licensed designs and rapid replenishment for retailers. The main risks are persistent import competition, further consolidation after the Gildan-HanesBrands deal, cotton-price rebound in 2026/27, soft department-store demand and limited pricing power in basic socks.",
+    "themes": [
+      "Import penetration and offshore production",
+      "Casualization of workwear",
+      "Performance and technical socks",
+      "Made-in-USA and quick-turn manufacturing",
+      "Tariff and de minimis uncertainty",
+      "Industry consolidation",
+      "Cotton and synthetic-fiber cost volatility",
+      "Decline of sheer pantyhose"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/hosiery-mills-in-the-us.txt",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Sock-Hosiery-Manufacturing-Research-Updated-45581211/",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Hosiery-Sock-Mills-Research-Updated-39138283/",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Hosiery-Sock-Mills-Research-Updated-32768243/",
+      "https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2024/tradeflow/Imports/partner/ALL/product/611592",
+      "https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2023/tradeflow/Imports/partner/ALL/product/611592",
+      "https://www.trade.gov/otexa-import-data",
+      "https://gildancorp.com/en/media/news/gildan-and-hanesbrands-agree-to-combine/",
+      "https://gildancorp.com/en/media/news/gildan-completes-acquisition-of-hanesbrands/",
+      "https://www.sec.gov/Archives/edgar/data/1061894/000106189426000006/exhibit991-mdax2025.htm",
+      "https://www.renfro.com/about-us/",
+      "https://www.renfro.com/expertise/made-in-usa/",
+      "https://www.renfro.com/news/",
+      "https://www.fotlinc.com/sustainability/supply-chain/",
+      "https://www.businesswire.com/news/home/20230105006064/en/Fruit-of-the-Loom-Inc.-Announces-Sock-Partnership-with-Lamour-Inc.",
+      "https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/",
+      "https://www.cbp.gov/trade/basic-import-export/e-commerce",
+      "https://www-tx.ers.usda.gov/topics/crops/cotton-and-wool/market-outlook",
+      "https://www.cotton.org/news/releases/2025/25ameconoutlook.cfm"
+    ],
+    "one_sentence": "US hosiery mills generated about $0.7 billion in 2025 sales, down at a 2022-2025 annual rate of 1.7%, as low-cost imports, casual dress and offshore production continued to offset demand for performance, workwear, medical and fashion socks.",
+    "slug": "hosiery-mills-in-the-us"
+  },
+  {
+    "title": "Hospices & Palliative Care Centers",
+    "sector": "Healthcare",
+    "one_liner": "A Medicare-funded end-of-life care industry growing with the aging population but facing heavier scrutiny over payment incentives, quality, and fraud.",
+    "overview": "The industry provides symptom relief, pain management, nursing, aide, social work, bereavement, drug, equipment, and inpatient hospice services for patients certified as terminally ill, usually with a prognosis of six months or less. The baseline 2022 report showed a smaller, pressured market after reimbursement cuts, but the public 2024-2025 IBISWorld update shows revenue recovering to $33.0 billion by 2024 and remaining $33.0 billion in 2025. Medicare is the core payer: HHS-OIG reported in 2026 that about 1.8 million Medicare beneficiaries receive hospice care annually and Medicare pays about $27.5 billion for it. Demand is structurally favorable because care is shifting from hospitals and nursing facilities to homes, but the business model is highly exposed to CMS rate updates, wage inflation, clinician shortages, quality reporting requirements, program integrity enforcement, and potential payment reform.",
+    "key_stats": {
+      "market_size": "$33.0 billion in 2025",
+      "growth": "2.0% CAGR from 2019 to 2024; 2.3% revenue growth in 2024; FY2026 Medicare hospice payment update of 2.6%",
+      "medicare_hospice_spending": "$27.5 billion in FY2024",
+      "medicare_hospice_beneficiaries": "about 1.8 million annually in 2026 OIG summary; CDC reported 1.8 million hospice patients in 2022",
+      "providers": "5,800 hospice care agencies in 2022; 75.6% for-profit ownership in 2022",
+      "profit_margin": "9.7% of revenue in 2024",
+      "employment": "417,000 employees in 2024",
+      "businesses": "8,087 businesses in 2024",
+      "fy2026_hospice_cap": "$35,361.44 per beneficiary aggregate cap in FY2026",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$26.836 billion in 2022 revenue",
+      "growth": "0.9% revenue growth in 2022 and -0.9% annualized revenue decline over 2017-2022",
+      "profit": "$2.657 billion in 2022",
+      "profit_margin": "9.9% in 2022",
+      "industry_gross_product": "$14.839 billion in 2022",
+      "establishments": "3,257 establishments in 2022",
+      "enterprises": "1,824 enterprises in 2022",
+      "employment": "309,124 workers in 2022",
+      "wages": "$11.529 billion in 2022",
+      "product_mix_2022": {
+        "private_residence_care": "33.9% of 2022 revenue",
+        "nursing_home_and_residential_facility_care": "30.1% of 2022 revenue",
+        "hospice_inpatient_care": "28.2% of 2022 revenue",
+        "hospital_inpatient_care": "7.1% of 2022 revenue",
+        "other": "0.7% of 2022 revenue"
+      }
+    },
+    "how_it_makes_money": "Operators are paid mainly through the Medicare Hospice Benefit, with Medicaid, Medicare Advantage-related arrangements, private insurance, and limited out-of-pocket payments filling out the payer mix. Revenue is generally generated through per-day hospice payments by level of care, including routine home care, continuous home care, inpatient respite care, and general inpatient care, plus service intensity add-ons near death when qualifying RN or social worker visits occur. Providers also earn through contracted inpatient units, assisted-living and skilled-nursing facility relationships, palliative-care programs, and related home-health or advanced-illness-management referrals.",
+    "cost_structure": "Labor is the dominant cost, with 2024 IBISWorld commentary noting wage costs take about half of revenue. Key expenses include nurses, aides, physicians, social workers, chaplains, bereavement staff, clinical managers, travel, drugs, durable medical equipment, medical supplies, inpatient facility costs, rent, insurance, compliance, billing, quality reporting systems, and corporate overhead. Profitability depends on census density, length of stay, visit mix, wage index geography, cap exposure, direct-care intensity, admissions pipeline quality, and avoiding regulatory penalties.",
+    "major_players": [
+      "Chemed Corporation / VITAS Healthcare: $1.526 billion industry revenue in 2024 per IBISWorld public page; VITAS reported serving more than 92,000 patients in 2025",
+      "Gentiva: reported 476 hospice agencies across 38 states in June 2025 and more than 525 total locations across hospice, palliative, and home health",
+      "Optum / Amedisys: Amedisys completed a $3.3 billion sale to UnitedHealth Group's Optum in August 2025, with required divestitures of home health and hospice locations",
+      "BrightSpring Health Services: expanded provider-services footprint through 2025 acquisitions of Amedisys and LHC branches, including hospice locations",
+      "The Pennant Group: acquired divested UnitedHealth/Amedisys operations in Tennessee, Georgia, and Alabama in October 2025, including hospice services"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Demographics, Medicare enrollment, home-based care preference, and expensive hospital care support demand, while labor costs, rural staffing gaps, quality reporting, payment caps, and fraud enforcement pressure margins. CMS finalized a 2.9% FY2025 hospice payment update and a 2.6% FY2026 update, which helps nominal revenue but may not fully offset wage and compliance costs. Oversight is intensifying because OIG and GAO identify daily-rate payment incentives, low-visit hospices, fraud schemes, and quality gaps as persistent risks. Consolidation remains active, with Optum/Amedisys, Gentiva ownership changes, and divestiture-driven acquisitions reshaping local competition.",
+    "whats_growing": "Home-based routine hospice care, advanced illness management, palliative care adjacent services, dementia and cardiac specialty programs, scale-driven compliance infrastructure, urban and suburban agency networks, Medicare-funded demand from older adults, and provider groups that can combine hospice with home health, personal care, and referral relationships.",
+    "whats_shrinking": "Standalone undercapitalized operators, low-quality agencies exposed to surveys or Special Focus Program scrutiny, providers dependent on long-stay low-visit economics if payment reform advances, hospital-only hospice episodes after the COVID-era mix shift, and rural access where travel time and clinician shortages weaken unit economics.",
+    "recent_developments": [
+      "2025-01-01: The Medicare Advantage hospice VBID carve-in ended for new hospice elections, returning Medicare-covered hospice benefit payment to Medicare fee-for-service.",
+      "2025-08-01: CMS finalized the FY2026 hospice rule with a 2.6% payment update and a $35,361.44 aggregate cap for FY2026.",
+      "2025-08-14: Amedisys completed its $3.3 billion sale to Optum after a DOJ settlement requiring divestitures of 164 home health and hospice locations in 19 states.",
+      "2025-10-01: CMS began replacing the Hospice Item Set with the HOPE patient-level quality reporting tool for hospice admissions and care updates.",
+      "2026-01-29: HHS-OIG highlighted hospice as a priority oversight area, citing about $27.5 billion in annual Medicare hospice payments and concerns around quality, billing, and fraud.",
+      "2026-06-09: GAO reported Medicare hospice spending nearly doubled from $15.5 billion in FY2015 to $27.5 billion in FY2024 and said per-visit routine home care reform could have reduced selected 2024 payments by $7.6 billion."
+    ],
+    "outlook": "The outlook is moderate nominal growth with rising operating discipline. The 2025 market size is $33.0 billion, and IBISWorld's public 2024 update says the industry is expected to grow over the following five years. CMS's FY2026 2.6% rate update supports reimbursement, and CMS national health expenditure projections show Medicare spending growing 7.7% per year on average over 2025-2034, which supports the payer base. However, margins are capped by wage inflation, clinician scarcity, Medicare caps, and increasing oversight. The biggest risk to the existing model is payment reform for routine home care, because GAO and OIG both point to daily-rate incentives that may reward low visit intensity. Scaled operators with strong compliance, dense service territories, balanced lengths of stay, and demonstrable quality should gain share.",
+    "themes": [
+      "Aging population",
+      "Medicare reimbursement exposure",
+      "Home-based care shift",
+      "Labor shortages and wage pressure",
+      "Program integrity and fraud enforcement",
+      "Quality reporting and HOPE implementation",
+      "Consolidation and private equity ownership scrutiny",
+      "Rural access gaps",
+      "Payment reform risk",
+      "Palliative care adjacency"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hospices-and-palliative-care-centers.txt",
+      "https://www.ibisworld.com/united-states/industry/hospices-palliative-care-centers/4952/",
+      "https://www.cms.gov/newsroom/fact-sheets/fiscal-year-fy-2025-hospice-payment-rate-update-final-rule-cms-1810-f",
+      "https://www.cms.gov/newsroom/fact-sheets/fy-2026-hospice-wage-index-payment-rate-update-hospice-quality-reporting-program-requirements-final",
+      "https://www.gao.gov/products/gao-26-107585",
+      "https://oig.hhs.gov/reports/featured/hospice/",
+      "https://www.cdc.gov/nchs/fastats/hospice-care.htm",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.vitas.com/about-us/fast-facts",
+      "https://www.gentivahs.com/articles/news-and-press/gentiva-expands-high-quality-compassionate-hospice-care-with-new-locations/",
+      "https://www.paulweiss.com/insights/client-news/amedisys-completes-sale-to-unitedhealth-group-s-optum",
+      "https://www.fiercehealthcare.com/payers/humana-sell-minority-stake-end-life-care-provider-gentiva"
+    ],
+    "one_sentence": "US hospices and palliative care centers provide comfort-focused care for terminally ill patients, with revenue anchored by Medicare hospice payments and demand supported by aging demographics, home-based care preferences, and high hospital costs.",
+    "slug": "hospices-and-palliative-care-centers"
+  },
+  {
+    "title": "Hospital Bed Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, concentrated medical equipment niche selling replacement and smart hospital beds into hospitals, health systems, alternate care sites and home-care channels.",
+    "overview": "The US hospital bed manufacturing industry produces specialized clinical bed frames, support surfaces, stretchers and related furniture used in hospitals, outpatient facilities and some home-care settings. Baseline IBISWorld data put 2021 industry revenue at $2.638B and projected 2026 revenue at about $3.0B, implying modest post-pandemic normalization rather than another demand spike. The 2026 operating environment is still favorable: AHA's 2026 statistics reported 907,216 staffed beds in all US hospitals for FY2024, CMS reported 2024 hospital expenditures of $1.635T and projected 2025-2034 hospital spending growth of 5.2% per year, and public market reports estimate the narrower US hospital beds market at $1.78B in 2026 with a 2026-2033 CAGR of 6.2%. Demand is concentrated among large health systems and GPO-led purchasing programs, which keeps pricing competitive, while manufacturers differentiate through ICU features, low-height fall-prevention beds, connected nurse-call integration, bed-exit alarms, pressure-injury prevention surfaces and service contracts.",
+    "key_stats": {
+      "market_size": "2026: about $3.0B US hospital bed manufacturing revenue based on the IBISWorld 2022 projection; narrower US hospital beds market estimates include $1.78B in 2026 from Coherent Market Insights.",
+      "growth": "2021-2026: IBISWorld baseline projected 2.8% CAGR; 2026-2033: Coherent Market Insights projected 6.2% CAGR for the narrower US hospital beds market.",
+      "downstream_capacity": "FY2024: AHA reported 907,216 staffed beds in all US hospitals and 775,297 staffed beds in community hospitals, published in 2026.",
+      "health_spending_driver": "2024: CMS reported hospital expenditures of $1.635T, up 8.9% from 2023; 2025-2034: CMS projected hospital spending growth of 5.2% per year.",
+      "adjacent_manufacturing_output": "2025: BLS/FRED reported NAICS 3391 medical equipment and supplies manufacturing sectoral output of $82.737B, down from $86.053B in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $2.71B, derived from the baseline report's 2021 revenue of $2.638B and 2021-2026 projected CAGR of 2.8%.",
+      "growth": "2022: about 2.8% annual growth implied by the baseline 2021-2026 CAGR.",
+      "profit_margin": "2021: 12.3% EBIT margin in the baseline report; 2026: 10.0% projected EBIT margin.",
+      "employment": "2021: 4,099 employees in the baseline report; 2026: employment was projected to rise with establishments.",
+      "establishments": "2021: 34 establishments in the baseline report; 2026: 37 establishments projected."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling bed frames, ICU and acute-care beds, bariatric and maternity beds, psychiatric and long-term-care beds, support surfaces, replacement parts, accessories, service agreements, rentals and connected-care software or integration features. Large orders typically flow through hospital capital budgets, health-system procurement departments, GPO contracts, distributors and government or VA purchasing channels, while home-care beds are supported partly by durable medical equipment reimbursement when medically necessary.",
+    "cost_structure": {
+      "materials_and_components": "2026: major input costs include steel, aluminum, motors, actuators, electronics, sensors, foam and mattresses; input inflation and imported components remain important margin variables.",
+      "labor": "2021: baseline wages were $315M, equal to about 11.9% of 2021 revenue; 2026: baseline wages were projected at $357.7M, also about 11.9% of projected 2026 revenue.",
+      "r_and_d_and_compliance": "2026: R&D, testing, quality systems, FDA compliance, software validation and cybersecurity are higher for smart beds and connected platforms than for manual beds.",
+      "sales_distribution_service": "2026: direct sales teams, GPO contracting, installation, training, repair, parts logistics and rental support are central costs because hospital beds are installed capital equipment, not commodity furniture.",
+      "profit": "2021: baseline EBIT margin was 12.3%; 2026: baseline projected EBIT margin was 10.0% as post-pandemic pricing power eased."
+    },
+    "major_players": [
+      "Baxter / Hillrom",
+      "Stryker",
+      "LINET Group",
+      "Getinge",
+      "Paramount Bed",
+      "Medline Industries",
+      "Invacare / home-care bed brands",
+      "Joerns Healthcare"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Replacement demand, smart-bed upgrades, ICU acuity, fall-prevention initiatives and home-care use support revenue, while hospital consolidation, GPO leverage, high advanced-bed prices and normalized staffed-bed capacity restrain unit growth. Baxter/Hillrom and Stryker remain the most visible US competitors, with Stryker marketing ProCuity low-height connected beds in 2026 and Baxter keeping Hillrom smart beds inside its Healthcare Systems & Technologies segment after completing its 2025 kidney-care divestiture. Broader medical equipment output softened in 2025, but hospital spending and Medicare growth projections remain supportive for capital equipment over 2026-2034.",
+    "whats_growing": [
+      "2026: electric and smart beds with bed-exit alerts, nurse-call integration, remote monitoring and analytics.",
+      "2026: ICU and acute-care beds, with Coherent Market Insights estimating intensive-care beds at 52.2% of the narrower US hospital beds market by application and acute-care beds at 38.8% by usage.",
+      "2026: replacement cycles for older bed fleets as hospitals modernize fall-prevention, pressure-injury and infection-control features.",
+      "2026: home-care and alternate-site beds tied to aging demographics and durable medical equipment coverage.",
+      "2025-2034: demand linked to CMS-projected 5.2% annual hospital spending growth and 7.7% annual Medicare spending growth."
+    ],
+    "whats_shrinking": [
+      "2026: manual and lower-feature beds as hospitals shift toward electric and connected models.",
+      "2026: pandemic surge orders, because 2020-2021 emergency capacity buying has normalized.",
+      "2026: standalone commodity bed-frame margins where GPOs and consolidated health systems use scale to pressure prices.",
+      "2025: broader NAICS 3391 medical equipment and supplies output declined to $82.737B from $86.053B in 2024.",
+      "2026: long-term-care hospital bed share within the IBIS-defined industry remains pressured by shorter inpatient stays and care migration outside hospitals."
+    ],
+    "recent_developments": [
+      "2026-02: AHA reported FY2024 US hospital capacity of 907,216 staffed beds across 6,100 hospitals.",
+      "2026-02: Coherent Market Insights estimated the US hospital beds market at $1.78B in 2026 and projected a 2026-2033 CAGR of 6.2%.",
+      "2026-01-29: Stryker reported 2025 net sales of $25.116B, with its Medical category at $4.204B in 2025.",
+      "2025-03-26: FDA posted a Class II recall for Baxter Progressa Bed Surfaces under recall Z-1468-2025.",
+      "2025-01-31: Baxter completed the $3.80B sale of its Kidney Care business to Carlyle, leaving Hillrom smart beds in Baxter's Healthcare Systems & Technologies segment.",
+      "2025: BLS/FRED reported NAICS 3391 medical equipment and supplies manufacturing sectoral output of $82.737B, down 3.9% from 2024."
+    ],
+    "outlook": "The industry should grow modestly through 2026, with upside concentrated in high-acuity, electric, bariatric, fall-prevention and connected beds. The baseline IBISWorld path points to about $3.0B in 2026 industry revenue and a 2021-2026 CAGR of 2.8%, while narrower product-market estimates show faster 2026-2033 growth as smart-bed adoption rises. The main risks are hospital capital budget discipline, GPO price pressure, FDA quality events, component costs and import competition. The strongest manufacturers will pair bed hardware with analytics, service, parts availability and integration into nurse-call and patient-monitoring workflows.",
+    "themes": [
+      "Smart beds and connected care",
+      "Hospital replacement cycle",
+      "Aging population and Medicare demand",
+      "Patient safety and fall prevention",
+      "GPO pricing pressure",
+      "Hospital consolidation",
+      "Home-care migration",
+      "FDA quality and recall risk",
+      "ICU and acute-care acuity",
+      "Manufacturing input-cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/hospital-bed-manufacturing.txt'}",
+      "{'name': 'American Hospital Association Fast Facts on U.S. Hospitals, 2026', 'url': 'https://www.aha.org/statistics/fast-facts-us-hospitals'}",
+      "{'name': 'CMS National Health Expenditure Fact Sheet, modified 2026-06-24', 'url': 'https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet'}",
+      "{'name': 'FRED/BLS NAICS 3391 sectoral output, updated 2026-06-29', 'url': 'https://fred.stlouisfed.org/series/IPUEN3391T300000000'}",
+      "{'name': 'FDA Medical Device Recall Z-1468-2025', 'url': 'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?event_id=96327&start_search=1'}",
+      "{'name': 'Baxter SEC Form 10-Q, 2025-06-30', 'url': 'https://www.sec.gov/Archives/edgar/data/10456/000162828025037877/bax-20250630.htm'}",
+      "{'name': 'Baxter Investor Overview, 2025 global sales and Hillrom ownership context', 'url': 'https://investor.baxter.com/investors/investor-overview/default.aspx?DocType=Annual'}",
+      "{'name': 'Stryker bed frames and ProCuity product page, accessed 2026', 'url': 'https://www.stryker.com/us/en/portfolios/medical-surgical-equipment/bedframes.html'}",
+      "{'name': 'Stryker 2025 Form 10-K via SEC', 'url': 'https://www.sec.gov/Archives/edgar/data/310764/000031076426000010/syk-20251231.htm'}",
+      "{'name': 'Coherent Market Insights U.S. Hospital Beds Market Analysis & Forecast, 2026-2033', 'url': 'https://www.coherentmarketinsights.com/market-insight/us-hospital-beds-market-996'}"
+    ],
+    "one_sentence": "Hospital Bed Manufacturing makes acute-care, ICU, psychiatric, long-term-care and home-care beds, with 2025-2026 demand supported by hospital capital spending, aging demographics, patient-safety upgrades and connected-bed technology rather than the emergency surge buying seen in 2020-2021.",
+    "slug": "hospital-bed-manufacturing"
+  }
+]

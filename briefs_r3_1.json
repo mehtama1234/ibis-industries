@@ -1,0 +1,812 @@
+[
+ {
+  "title": "3D Printing & Rapid Prototyping Services",
+  "sector": "Manufacturing",
+  "one_liner": "Additive manufacturing moving from prototyping into production-scale deployment, with industry consolidation accelerating as tariffs and market maturation reshape competitive dynamics.",
+  "data_year": "2026",
+  "overview": "The US 3D printing and rapid prototyping services industry generated $4.0 billion in 2026, up from $1.9 billion in 2021. This represents explosive growth of 13.7% annually over five years, capped by a 31.8% spike in 2025 alone. Over 1,020 businesses now operate in the space, serving aerospace, medical devices, automotive, and construction sectors. The industry is entering maturity, where utilization rates and cost-per-part economics drive value rather than technological novelty. Consolidation accelerated sharply in 2025 with major acquisitions, and tariffs have begun pressuring margins and industrial equipment sales.",
+  "one_sentence": "The 3D printing services industry is shifting from experimental prototyping to repeatable production manufacturing, with consolidation reshaping competition and tariffs creating near-term pressure on equipment sales and margins.",
+  "key_stats": {
+   "market_size": "$4.0 billion (US) in 2026",
+   "growth": "13.7% CAGR (2020-2025); 31.8% growth in 2025",
+   "businesses": "1,020 establishments (2025)",
+   "employees": "8,000-9,000 (estimated)",
+   "concentration": "Moderate; consolidation accelerating",
+   "profit_margin": "11% historically; under pressure from tariffs"
+  },
+  "current_dynamics": "The industry is pivoting decisively from experimental prototyping to production-scale manufacturing. Prototyping still represents 40-55% of revenue, but metal additive manufacturing for aerospace, defense, and medical devices has become the fastest-growing segment. Automation and AI-driven process control are now essential infrastructure, not optional features; companies compete on software, quality assurance, and integrated production systems rather than hardware alone. Consolidation surged in 2025 with Stratasys acquiring Forward AM, EnvisionTEC filing Chapter 11 bankruptcy, and Desktop Metal merging with Nano Dimension—a shift driven by rising R&D costs and need for integrated hardware-software-materials ecosystems. Tariffs imposed in 2025 (10% on Chinese 3D printers, 25% on metals, up to 245% on certain Chinese components) have depressed industrial printer sales by 14% year-on-year in Q1 2025, though recovery is expected as interest rates decline. Entry-level desktop printers have become affordable (sub-$300), driving consumer adoption, but the high-volume, high-margin opportunity remains firmly industrial.",
+  "how_it_makes_money": "Service bureaus operate on a three-revenue-stream model: design and development consulting (27.2% of revenue in 2021), machine-based 3D printing services (selective laser sintering, fused deposition modeling, stereolithography account for 72.8%), and increasingly, integrated production contracts. Aerospace and defense customers pay premium rates for certified parts and closed-loop quality systems. Medical device manufacturers outsource custom implants and surgical models. Consumer-market players offer mass-customization services online. Pricing power has risen as utilization improves and software differentiates offerings, though tariff pass-through to customers remains contested.",
+  "cost_structure": "Fixed costs include equipment (laser sintering systems, high-end polymer printers, metal printing machines), facility leasing, and R&D. Variable costs center on materials (resins, powders, filaments), labor (skilled technicians, CAD designers), and energy. Capital intensity remains moderate-to-high, with metal systems exceeding $1 million. Profitable operators have achieved double-digit margins by spreading fixed costs over high utilization, automation reducing labor, and software enabling margin capture through IP and recurring revenue.",
+  "major_players": [
+   "Stratasys Ltd.",
+   "3D Systems Corp.",
+   "Nikon (via acquisitions of Titan Robotics, dp polar, Wematter)",
+   "Formlabs (acquired Micronics)",
+   "HP Inc. (Jet Fusion line)",
+   "Proto Labs",
+   "i-Space (metal printing for aerospace)",
+   "Forward AM (acquired by Stratasys/rebranded as Mass Additive)",
+   "Shapeways Inc.",
+   "Desktop Metal (merged with Nano Dimension, restructured 2025)"
+  ],
+  "whats_growing": "Metal additive manufacturing for aerospace and defense (18.5% CAGR through 2035); production-parts manufacturing (16.5% CAGR to 2031, overtaking prototyping); AI-driven process control and software; closed-loop quality systems; aerospace structural components (landing gear, fuel nozzles, turbine blades); medical implants and surgical planning models; consumer-market online services; distributed manufacturing models supporting supply chain resilience. Global 3D printing market forecast to grow 17.2% annually 2025-2030.",
+  "whats_shrinking": "Stereolithography as a revenue share (losing ground to selective laser sintering and FDM). Desktop-scale hobbyist printers facing price inflation from tariffs. Industrial printer sales slumped in Q1 2025 (down 14% year-on-year), though stabilization expected 2026. Standalone prototyping services without integrated software or quality certifications losing differentiation. Smaller, non-consolidated service providers under margin pressure from tariffs and scale competition.",
+  "themes": [
+   "Production-scale manufacturing",
+   "Industry 4.0 integration",
+   "Material science expansion",
+   "Software as differentiator",
+   "Consolidation wave",
+   "Tariff resilience",
+   "Defense-led growth",
+   "Cost-per-part economics"
+  ],
+  "baseline_2022": {
+   "market_size": "$1.9 billion (2021)",
+   "growth": "15.6% CAGR (2016-2021); 8.6% growth in 2021"
+  },
+  "recent_developments": [
+   "Stratasys acquired Forward AM GmbH operations (2025), launching Mass Additive Manufacturing to accelerate industrial scaling",
+   "EnvisionTEC US LLC (subsidiary of Desktop Metal) filed Chapter 11 bankruptcy July 2025 after failed integration",
+   "Desktop Metal merged with Nano Dimension under Delaware Court order (April 2025), followed by restructuring",
+   "Tariffs raised to 10% on Chinese 3D printers, 25% on metals/industrial components, sparking 14% drop in industrial printer sales Q1 2025",
+   "Metal 3D printing expanded into series production for aerospace (Boeing, SpaceX, i-Space), replacing prototyping-only use",
+   "US rapid prototyping and services revenue reached $4.0 billion in 2026, growing 31.8% from 2024 to 2025 (CAGR 13.7% since 2020)",
+   "Services segment captured 48% of total additive manufacturing market value in 2025, up from historical undervaluation"
+  ],
+  "outlook": "The industry will continue consolidating through 2027 as capital-intensive operations favor larger, more mature players with integrated hardware-software-materials ecosystems. Tariffs will remain a headwind but create opportunity for domestic reshoring and supply chain diversification; manufacturers adopting 3D printing to reduce import dependency will accelerate adoption. Metal additive manufacturing will remain the highest-margin growth segment, driven by aerospace/defense and medical devices. Consumer/commercial 3D printing will expand at slower (12% CAGR) as costs plateau and market saturates, though online service bureaus (mass customization) will thrive. By 2030, production-parts manufacturing will likely exceed prototyping as a revenue share. Regulatory focus on material safety (metal powders), waste reduction (sustainability), and quality certification (aerospace/medical) will intensify, raising barriers for smaller entrants. Software, automation, and AI-driven quality control will be non-negotiable competitive requirements. The global 3D printing market is forecast to reach $152.7 billion by 2035 (17.96% CAGR), with services remaining a core value stream but increasingly bundled into integrated production-system contracts rather than standalone bureau work.",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/3d-printing-rapid-prototyping-services/4581/",
+   "https://www.fortunebusinessinsights.com/rapid-prototyping-materials-market-106524",
+   "https://www.precedenceresearch.com/3d-printing-market",
+   "https://www.grandviewresearch.com/industry-analysis/3d-printing-industry-analysis",
+   "https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/",
+   "https://www.startus-insights.com/innovators-guide/additive-manufacturing-report-key-statistics/",
+   "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+   "https://www.indexbox.io/blog/metal-3d-printing-market-forecast-points-higher-toward-2035-driven-by-aerospace-production-scaling/",
+   "https://3dprint.com/318145/stratasys-acquires-forward-ams-operations-assets-launches-mass-additive-manufacturing/",
+   "https://3dprint.com/322764/who-merged-who-was-acquired-and-who-disappeared-in-3d-printing-in-2025-",
+   "https://www.marketsandmarkets.com/ResearchInsight/trump-tariffs-impact-3d-printing-market-analysis.asp",
+   "https://3dprint.com/317017/strategic-advantage-of-3d-printing-in-a-time-of-import-tariffs/"
+  ],
+  "slug": "3d-printing-and-rapid-prototyping-services"
+ },
+ {
+  "title": "US ADHD Medication Manufacturing",
+  "sector": "Healthcare",
+  "one_liner": "A mature but accelerating market producing stimulant and non-stimulant medications for ADHD, facing patent-cliff pressure from generic competition yet growing through expanding adult diagnoses and supply constraints that manufacturers are struggling to resolve.",
+  "overview": "The US ADHD medication manufacturing industry is at a critical juncture in 2025-2026, balancing stagnation with surprising strength. Market size has climbed to approximately $15-16 billion in 2025 (from $10.5 billion in 2022), representing 4-5% annual growth despite structural headwinds. The industry faces two competing pressures: patented blockbusters like Vyvanse collapsed after losing patent exclusivity in August 2023, with generic versions eroding branded revenue; yet overall prescribing volumes keep surging, particularly in adult populations where diagnosis and treatment have become mainstream. Supply chain constraints that emerged in 2022 persist even after DEA quota increases in October 2025 and January 2026, creating an unusual dynamic where manufacturers cannot meet demand despite easing regulatory quotas. Consolidation is accelerating among major players (Takeda/Shire, Janssen, Novartis), while innovation is finally breaking out of the traditional amphetamine mold with new mechanism classes like centanafadine receiving FDA approval in mid-2026.",
+  "key_stats": {
+   "market_size": "15.9-16.3 billion USD in 2025",
+   "growth": "5-7% CAGR through 2026",
+   "businesses": "Major consolidated players: Takeda Pharmaceutical (Shire acquisition, 2019), Janssen Pharmaceuticals, Novartis; mid-tier: Naurex, Corium; generics: Teva, Viatris, Actavis, and smaller manufacturers",
+   "employees": "Approximately 10,000-11,000 (down from peak)",
+   "concentration": "Highly concentrated among 3-5 major pharmaceutical firms controlling 70-80% of branded market; generic channel increasingly fragmented",
+   "profit_margin": "7-8% EBIT margin industry-wide; brand-name drugs 15-20%, generics 5-10%"
+  },
+  "current_dynamics": "Vyvanse's 2023 patent cliff was seismic: Takeda's lisdexamfetamine revenue cratered from $2+ billion to roughly $800 million by 2024 as Teva, Viatris, and others launched low-cost generics. Yet this channel shift masked explosive demand growth elsewhere. Methylphenidate prescriptions rose 11% in 2025, lisdexamfetamine 36% in NHS primary care and 98% in private markets, signaling a two-tier healthcare system where NHS waiting lists (years-long) pushed patients to private clinics willing to pay $200-400 monthly for branded drugs. Adult ADHD diagnosis surged at 8%+ annually, becoming the market's fastest-growing segment as workplace productivity concerns and social-media awareness drove adults to seek diagnosis. DEA production quotas finally loosened after years of constraint: d-amphetamine quota up 25% in October 2025, lisdexamfetamine allocation increased to 51+ million grams for 2026. However, supply chain recovery remains incomplete; active pharmaceutical ingredient sourcing remains fragile, manufacturer capacity utilization lags quotas (firms producing only 70% of allocated volumes), and pharmacy-level stocking limits and insurance restrictions keep certain formulations backordered well into 2026.",
+  "one_sentence": "The US ADHD medication market is growing steadily at 5-7% annually, driven by surging adult diagnoses and limited supply, even as blockbuster drugs face generic competition and manufacturers struggle to convert loosened DEA quotas into actual pharmacy stock.",
+  "baseline_2022": {
+   "market_size": "10.5 billion USD in 2022",
+   "growth": "2.45% projected CAGR 2022-2028 (IBISWorld)"
+  },
+  "whats_growing": "Adult ADHD diagnosis and treatment (8%+ annual growth through 2025), private-pay prescribing channels (lisdexamfetamine up 98% in private UK prescribing in 2025), novel non-stimulant mechanisms like centanafadine (NDSRI class, FDA-approved July 2026), and international demand for US-manufactured lisdexamfetamine (Vyvanse approved in 30+ countries, with new market launches planned 2025-2027).",
+  "whats_shrinking": "Branded Vyvanse revenue (down 60-75% post-2023 patent cliff), profit margins for small-to-mid generic manufacturers facing price compression from bulk generics, domestic market share of domestic manufacturers (imports held 51%+ of domestic demand in 2022, still elevated), and number of independent pharmaceutical manufacturers (consolidation reducing operator count).",
+  "major_players": [
+   "Takeda Pharmaceutical (Shire acquisition 2019; Vyvanse, Adderall XR, multiple ADHD franchises)",
+   "Janssen Pharmaceuticals (Concerta, extended-release methylphenidate franchise)",
+   "Novartis (ADHD portfolio including atomoxetine and guanfacine)",
+   "Naurex (private company, stimulant formulations)",
+   "Corium International (drug delivery)",
+   "Teva Pharmaceuticals (generic lisdexamfetamine and methylphenidate)",
+   "Viatris (generic lisdexamfetamine, Adderall XR generic)",
+   "Actavis/Allergan (generic Adderall XR)",
+   "Otsuka US (Simtriyo/centanafadine, FDA-approved July 2026)"
+  ],
+  "how_it_makes_money": "Pharmaceutical manufacturers generate revenue through brand-name drug sales (commanding 3-5x generic prices, 15-20% EBIT margins before patent expiration), generic drug volume production (5-10% margins, high volume), contract manufacturing for other pharma firms, and licensing of formulations or delivery technologies. Brands sustain pricing power through patent protection and market loyalty; once generics enter, revenue shifts to volume-based competition. Exports (historically 30-35% of US manufacturer revenue) remain lucrative but face dollar-strength headwinds and API sourcing constraints.",
+  "themes": [
+   "Patent cliffs and generic erosion reshaping market economics",
+   "Supply chain fragility driving DEA policy shifts but not yet solving shortages",
+   "Adult ADHD diagnosis surge creating growth despite brand revenue collapse",
+   "Two-tier healthcare: public rationing vs. private pay expansion",
+   "Innovation in new mechanisms beyond traditional stimulants",
+   "Regulatory tightening (DEA quotas, pricing pressure) limiting margin expansion"
+  ],
+  "recent_developments": [
+   "October 2025: DEA raised d-amphetamine production quota by 25% and methylphenidate by 9%, first major d-amphetamine increase since 2021, reflecting acknowledgment of shortages",
+   "July 2026: FDA approved Simtriyo (centanafadine, Otsuka), first triple reuptake inhibitor for ADHD (dopamine, serotonin, norepinephrine), representing novel mechanism diverging from traditional amphetamines",
+   "August 2023 – ongoing: Vyvanse (lisdexamfetamine) patent exclusivity ended, generics launched by Teva, Viatris, others; Takeda's branded revenue collapsed 60-75% but total prescription volume continued climbing",
+   "2025: Private-pay lisdexamfetamine prescriptions in UK jumped 98% year-over-year (408,229 items prescribed), reflecting demand escape from overwhelmed NHS waiting lists",
+   "October 2025: FDA accepted for review Cingulate's CTx-1301 (dexmethylphenidate) with May 31, 2026 PDUFA decision target",
+   "January 2026: DEA published final 2026 aggregate quotas setting lisdexamfetamine at 51+ million grams, reflecting rising international demand and domestic prescribing"
+  ],
+  "outlook": "The ADHD medication market will expand 5-7% annually through 2027-2030, driven primarily by adult diagnosis growth and geographic expansion (Vyvanse launching in 30+ countries by 2027). However, several near-term frictions will persist: DEA quota increases are real but supply chain recovery remains 12-18 months behind demand, API sourcing from India and China will stay a vulnerability (evidenced by 2022-2023 import contractions), and pharmacy-level stocking restrictions will prevent inventory buildup even as quotas ease. Branded drugs will continue losing share to generics, but the market will bifurcate: premium brands targeting adults seeking convenience (once-daily formulations, abuse-deterrent designs) will command 10-15% price premiums over generics, while pediatric and budget-conscious segments consolidate around $30-60/month generic pricing. New mechanisms like centanafadine and pending guanfacine/atomoxetine improvements will capture 5-10% market share by 2028, appealing to patients tolerant-resistant to stimulants. International expansion, particularly in Western Europe and Australia where ADHD diagnosis is still ramping, represents the highest-margin growth; these markets will absorb 15-20% of total US manufacturing capacity by 2027. Consolidation will accelerate, with mid-sized players unable to sustain R&D pipelines folding into larger firms or exiting entirely.",
+  "data_year": "2025-2026, with baseline 2022",
+  "sources": [
+   "https://www.verifiedmarketreports.com/product/adhd-medication-market/",
+   "https://www.marketresearchfuture.com/reports/adhd-therapeutics-market-1573",
+   "https://www.snsinsider.com/reports/adhd-therapeutics-market-9773",
+   "https://www.intelmarketresearch.com/adhd-medications-market-35118",
+   "https://www.issup.net/node/34061",
+   "https://medvidi.com/blog/adhd-medication-shortage",
+   "https://www.mindbody7.com/news/adhd-medication-shortages-in-2026/",
+   "https://pharmaceutical-journal.com/article/news/adhd-medicines-prescriptions-rose-again-in-2025",
+   "https://xtalks.com/several-adhd-generics-get-fda-green-light-as-takedas-vyvanse-loses-market-exclusivity-3513/",
+   "https://www.fiercepharma.com/pharma/takeda-still-vyvanse-slog-lifts-guidance-it-looks-ahead-new-growth",
+   "https://www.understood.org/en/articles/fda-approves-simtriyo-adhd",
+   "https://www.grandviewresearch.com/industry-analysis/us-attention-deficit-hyperactivity-disorder-market-report",
+   "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2846547",
+   "https://www.sec.gov/Archives/edgar/data/0001395064/000139506426000185/a2026_air.htm"
+  ],
+  "slug": "adhd-medication-manufacturing"
+ },
+ {
+  "title": "US ATM Manufacturing",
+  "sector": "Manufacturing",
+  "one_liner": "A declining but stabilizing hardware business adapting to digital payments through software services and smart ATM features, while facing tariff pressures and import competition.",
+  "overview": "The US ATM manufacturing industry is in structural decline but showing signs of stabilization in 2025-2026. The market is worth $364 million in 2026, down from $208 million in 2022 as a result of the shift to digital and contactless payments. However, ATM operators are pivoting from pure hardware sales to recurring-revenue models like ATM-as-a-Service, and they are deploying smarter machines with biometric authentication and contactless features to stay relevant. Only 18 manufacturers remain in the space, concentrated around Diebold Nixdorf and NCR Atleos, after Diebold emerged from Chapter 11 bankruptcy in August 2023. Tariff policies in 2025 have increased pressure on import-dependent parts of the supply chain.",
+  "key_stats": {
+   "market_size": "$364.0 million in 2026",
+   "growth": "Declined 0.6% CAGR (2021-2026); expected to continue modest decline",
+   "businesses": "18 active manufacturers (down 3.0% CAGR from 2021-2026)",
+   "employees": "Not disclosed in recent reports",
+   "profit_margin": "Not disclosed in recent reports",
+   "concentration": "High: Diebold Nixdorf and NCR Atleos dominate the market"
+  },
+  "current_dynamics": "Cash usage has declined sharply in retail transactions—down 16.7% from 2020 to 2025—but 90% of consumers say they plan to keep using cash, and 76% still carry cash. Digital wallets and contactless payments reduced ATM usage by 5.7% in 2025, yet ATMs remain critical infrastructure for banks and credit unions. The industry has pivoted from hardware-centric manufacturing to ATM-as-a-Service models; NCR Atleos reported 33% growth in AaaS in 2025 and achieved record quarterly bookings in Q4. Smart ATMs with biometric authentication (fingerprint, facial recognition, palm vein scanners) now account for roughly 44% of new installations. Diebold Nixdorf, after exiting bankruptcy in August 2023, is emphasizing AI-powered management and simplified technology for branch revamps. Tariff escalation in 2025 (including 50% rates on steel and aluminum derivative products) has increased input costs and forced many manufacturers to accelerate supply chain diversification and stockpile inventory.",
+  "one_sentence": "The ATM manufacturing sector is contracting but stabilizing as vendors shift from selling boxes to managing ATM services, deploying biometric-enabled smart machines, and navigating rising import tariffs and persistent cash-to-digital migration.",
+  "whats_growing": "ATM-as-a-Service revenue and recurring subscriptions (NCR Atleos grew AaaS 33% and ATM hardware 14% in 2025); biometric and contactless smart ATM deployments (44% of new installations); cardless ATM technology (growing 13.11% CAGR to reach $7.51 billion by 2030 globally).",
+  "whats_shrinking": "Hardware-only sales and the number of traditional ATM transactions (5.7% decline in 2025); cash use in retail (down 16.7% since 2020); the number of independent ATM operators and smaller retailers placing new machines; domestic manufacturing footprint as imports remain ~70% of demand.",
+  "baseline_2022": {
+   "market_size": "$208.4 million in 2022",
+   "growth": "-4.9% CAGR (2017-2022); -9.9% annualized decline attributed to COVID-19"
+  },
+  "major_players": [
+   "Diebold Nixdorf (largest market share; emerged from Chapter 11 August 2023; 2025 revenue ~$3.8 billion across all divisions)",
+   "NCR Atleos (separated from legacy NCR in 2025; ATM hardware grew 14% and AaaS grew 33% in 2025)",
+   "Hyosung Innovue",
+   "GRG Banking",
+   "Hitachi Channel Solutions",
+   "Fujitsu"
+  ],
+  "recent_developments": [
+   "August 2023: Diebold Nixdorf emerged from Chapter 11 bankruptcy after restructuring $2.7 billion in debt in 71 days; relisted on NYSE under DBD",
+   "2025: NCR separated from its legacy parent and now operates independently as NCR Atleos, reporting strong ATM hardware (+14%) and AaaS (+33%) growth",
+   "2025: Tariff escalation (including 50% rates on steel and aluminum) forced ATM manufacturers to accelerate supply chain diversification and inventory stockpiling",
+   "Q3 2025: Diebold reported quarterly revenue of $945.2 million (up from $927.1 million prior year) and emphasized AI-powered ATM management",
+   "Late 2025: Global biometric ATM market reached $39.21 billion, growing 8.74% CAGR toward $70.49 billion by 2032; fingerprint recognition dominates at 50-55% share"
+  ],
+  "themes": [
+   "Digital-to-Cash Tension",
+   "Hardware-to-Service Shift",
+   "Biometric Security",
+   "Import Tariffs & Supply Chain Stress",
+   "Financial Inclusion",
+   "Declining Transaction Volume"
+  ],
+  "outlook": "The ATM manufacturing industry will likely continue a slow decline in unit volumes through 2030, but profitability may improve as vendors shift to higher-margin recurring-revenue models and services. Smart ATMs with biometric and contactless features will capture an increasing share of replacements, but absolute demand will remain weak because the domestic market is saturated and cash usage per capita is falling. Tariffs and supply chain reshoring will increase costs and pressure margins in the near term. Banks and credit unions will remain the primary customers, driven by brand loyalty and regulatory compliance, while independent ATM operators will continue to exit. The industry is unlikely to see growth returns, but strategic pivots toward AaaS, software, and managed services may stabilize revenues in the $350-400 million range through 2030.",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/atm-manufacturing/4427/",
+   "https://www.mordorintelligence.com/industry-reports/atm-market",
+   "https://www.grandviewresearch.com/industry-analysis/atm-market",
+   "https://www.datos-insights.com/blog/atm-industry-trends-a-z-guide-global-market-evolution/",
+   "https://www.datos-insights.com/blog/tariff-impact-atm-industry-banking-strategy-2025/",
+   "https://www.americanbanker.com/payments/news/diebold-nixdorf-bets-on-branch-revamps-to-boost-atms",
+   "https://investor.ncratleos.com/news-events/press-releases/detail/173/ncr-atleos-corporation-reports-strong-results-in-2025",
+   "https://www.atmadvantage.com/atm-trends-2025-future-of-banking-technology-cash/",
+   "https://www.frbservices.org/news/fed360/issues/080426/cash-remains-essential-us-consumers",
+   "https://www.prnewswire.com/news-releases/diebold-nixdorf-plan-of-reorganization-confirmed-301877101.html",
+   "https://www.researchandmarkets.com/reports/5995037/biometric-automated-teller-machine-atm-market",
+   "https://www.mordorintelligence.com/industry-reports/cardless-atm-market",
+   "https://brinks-ams.com/top-atm-tech-trends-to-watch-in-2026/"
+  ],
+  "data_year": "2026",
+  "slug": "atm-manufacturing"
+ },
+ {
+  "title": "US ATV Manufacturing",
+  "sector": "Manufacturing",
+  "one_liner": "The US ATV manufacturing industry is stuck in low-growth malaise, squeezed by tariffs, weak consumer confidence, and rising Chinese competition.",
+  "one_sentence": "The $4.6 billion US ATV manufacturing industry is contracting under tariff pressure and consumer caution, with leading manufacturers facing margin collapse and rising competition from improving Chinese brands.",
+  "overview": "The US ATV manufacturing industry generated $4.6 billion in 2025, down from higher levels just a few years prior, growing at only 0.6% annually from 2020 to 2025. Tariff headwinds and consumer hesitation due to high borrowing costs have crushed recent demand. Polaris, Honda, and John Deere dominate an oligopoly market but all face margin pressure and inventory challenges. The industry is structurally under stress: flat unit sales in 2025, dealer inventory right-sizing, and a growing threat from Chinese manufacturers who are no longer just cheap—they are closing the quality gap fast.",
+  "key_stats": {
+   "market_size": "$4.6 billion (2025)",
+   "growth": "0.6% CAGR (2020-2025); -2.4% decline in 2025 vs 2024",
+   "employees": "~6,900 (2021 baseline, likely stable to slightly declining 2024-2026)",
+   "businesses": "~34 manufacturing establishments, concentrated among 3-5 major players",
+   "concentration": "High—Polaris holds ~31% market share (2025), with Honda, Deere, Yamaha, and Kawasaki splitting the rest",
+   "profit_margin": "1-2% range (heavily pressured by tariffs and rising input costs in 2025)"
+  },
+  "current_dynamics": "The industry faces a lethal combination of headwinds. Tariffs on Chinese parts and imports hit gross margin by $37 million in Q4 2025 for Polaris alone, forcing pricing discipline on an already cautious consumer base. High interest rates (10-year Treasury yields remain elevated) have choked discretionary vehicle financing, and consumer confidence continues to slide. Polaris posted a full-year 2025 net loss of $304 million despite flat revenue, showing how badly tariffs and cost inflation are cutting into profitability. Simultaneously, Chinese manufacturers (CFMoto, Linhai, Coolster) are no longer cheap knock-offs—they are scaling rapidly, improving quality, and expanding into North American distribution networks at a pace that threatens the established incumbents. Dealers are actively right-sizing inventory and diversifying into aftermarket services, subscriptions, and extended warranties to offset slower unit sales growth.",
+  "whats_growing": "Electric ATV and UTV adoption is accelerating, though off a tiny base. Polaris launched the Ranger XP Kinetic (electric UTV) in June 2024 with 80-mile range. Yamaha announced three new electric models by mid-2026. The global electric ATV market grew to $1.35 billion in 2024 and is forecast to hit $2.24 billion by 2033 (5.4% CAGR), but adoption remains under 5% of total ATV sales. Parts and accessories sales remain resilient as consumers repair and upgrade existing vehicles rather than buy new. Domestic production (nearshoring) is expanding as OEMs shift away from tariff-exposed Chinese sourcing.",
+  "whats_shrinking": "Unit sales of new ATVs are declining. Global ATV/SSV unit sales fell to 0.8 million units in 2025 (down 1.6% from 2024). The 2025 revenue drop of 2.4% signals persistent weakness in core demand. Recreational spending on big-ticket discretionary items like ATVs is being crowded out by higher borrowing costs and mortgage payments. Dealer inventories have been right-sized, meaning less production pull-through for manufacturers.",
+  "themes": [
+   "Tariffs reshape supply chains",
+   "Chinese competition rising",
+   "Electric vehicles gaining (slowly)",
+   "Consumer credit constraints",
+   "Margin compression",
+   "Market consolidation"
+  ],
+  "major_players": [
+   "Polaris Industries (31% market share, 2025)",
+   "Honda Motor (strong in utility models, US manufacturing)",
+   "John Deere (utility/farm segment)",
+   "Yamaha Motor",
+   "Kawasaki",
+   "Can-Am (BRP)"
+  ],
+  "recent_developments": [
+   "January 2026: Polaris reports full-year 2025 net loss of $304M, tariffs cost $37M gross margin in Q4 2025 alone, but gains market share across all segments",
+   "October 2025: Yamaha announces three new electric ATV models launching by mid-2026",
+   "June 2024: Polaris launches Ranger XP Kinetic, its first fully electric UTV with 80-mile range and 5-year battery warranty",
+   "2025: US tariff rates on Chinese imports spike to 145% (temporarily reduced to 10% in April 2025 during 90-day truce); impact across parts, tires, accessories",
+   "2025: Chinese manufacturers scale rapidly with improved quality; brands like CFMoto, Linhai closing technology/quality gap and expanding North American distribution",
+   "2025: Dealers right-size field inventory; OEMs accelerate nearshoring; Honda consolidates North Carolina ATV production to reduce freight costs by 8%"
+  ],
+  "baseline_2022": {
+   "market_size": "$4.783 billion (2021 actual, from IBISWorld Sept 2021 report)",
+   "growth": "-0.2% CAGR (2016-2021); projected 2.0% CAGR (2021-2026 forecast—not met)"
+  },
+  "outlook": "The outlook is muted at best. Polaris guided 2026 revenue growth of 1-3% with adjusted EPS of $1.50-1.60, assuming no worsening of tariff policy—a low bar. Consumer confidence remains fragile, and high interest rates are not expected to fall sharply. The industry will see continued margin pressure unless tariff uncertainty resolves favorably. Unit sales growth will remain in the low single digits or flat. Electric ATVs will capture 5-10% of the market by 2027-2028 but require substantial battery-cost deflation to drive mainstream adoption. Chinese competition will intensify; expect pricing pressure and market share erosion for mid-tier Western brands unless they can differentiate on technology, brand loyalty, or dealer experience. M&A among tier-two players (Textron's Arctic Cat acquisition in 2025) signals further consolidation ahead. The industry is mature, cyclical, and facing structural headwinds; near-term recovery depends entirely on tariff resolution and a rebound in consumer credit conditions.",
+  "data_year": "2025-2026 (with 2024 data where cited)",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/atv-manufacturing/5714/",
+   "https://www.fortunebusinessinsights.com/all-terrain-vehicle-market-106392",
+   "https://www.gminsights.com/industry-analysis/all-terrain-vehicle-atv-market",
+   "https://www.mordorintelligence.com/industry-reports/north-america-atv-and-utv-market",
+   "https://www.researchandmarkets.com/reports/5939168/all-terrain-vehicle-atv-utility-task-vehicle",
+   "https://www.imarcgroup.com/electric-all-terrain-vehicle-utility-terrain-vehicle-market-report",
+   "https://www.atv.com/atv/tariffs-affect-powersports-industry-44742991",
+   "https://www.china-briefing.com/news/us-china-tariff-rates-2025/",
+   "https://powersportsbusiness.com/top-stories/2026/01/28/polaris-reports-marketshare-gains-rightsizes-dealer-inventory-as-tariffs-weigh-on-2025-results/",
+   "https://s21.q4cdn.com/608247098/files/doc_events/2026/01/PII-Q4-2025-Earnings-Release-1-27-26_F2.pdf"
+  ],
+  "slug": "atv-manufacturing"
+ },
+ {
+  "title": "ATV, Golf Cart & Snowmobile Manufacturing in the US",
+  "sector": "Manufacturing",
+  "one_liner": "A mature recreational vehicle sector navigating tariff headwinds and shifting demand toward electric platforms while imports from China continue to erode low-end pricing power.",
+  "one_sentence": "Tariff uncertainty, snowmobile market contraction (down to Polaris and BRP only), and accelerating electrification are reshaping a $10.6 billion industry facing margin compression and demand volatility.",
+  "overview": "The ATV, Golf Cart and Snowmobile Manufacturing industry in 2025-2026 remains fundamentally stable but under pressure. The combined market (ATVs, golf carts, snowmobiles, utility vehicles, and parts) was valued at roughly $10.0 to $10.6 billion in 2024-2025 (2025). Tariffs have become the dominant near-term challenge: tariffs on Chinese imports jumped to 145% by early 2025 (temporarily reduced to 10% under a 90-day truce in April 2025), and powersports vehicles now face 25% duty when imported, up from 2.5%. Electric models are growing faster than the overall market (14-16% CAGR for electric ATVs/UTVs through 2030), signaling a structural shift in product mix. Polaris, the market leader, reported raised 2026 revenue guidance to $7.3-7.5 billion and market share gains in Q2 2026, though dealer inventories and margin pressure persist across the industry.",
+  "key_stats": {
+   "market_size": "$10.6 billion (2025)",
+   "growth": "2.3% CAGR (2020-2025); ATV/UTV segment 6.8% CAGR through 2035",
+   "employees": "15,000+ (stable; automation offsetting labor demands)",
+   "businesses": "Consolidated; top 4 players control ~50% of market; Polaris and John Deere lead",
+   "profit_margin": "Compressed; tariffs pushing prices up and eroding margins",
+   "concentration": "High; Polaris, Textron/Arctic Cat, BRP (Ski-Doo), John Deere dominate"
+  },
+  "current_dynamics": "Tariff volatility is reshaping the industry's cost structure and retail pricing in real time. U.S. manufacturers face 25% import duties on finished vehicles while sourcing components (wiring, shocks, bearings, plastics) heavily from China at elevated tariff rates, compressing margins that are already thin. Snowmobiles are experiencing disruption: Textron has paused Arctic Cat production, leaving only Polaris and BRP/Ski-Doo as surviving OEMs, reducing competitive choice and inventory. Electric models are now a significant growth vector—electric ATVs/UTVs are forecast at 15.4% CAGR through 2030, driven by EPA emissions standards, state-level clean vehicle incentives, and battery cost reductions. Golf carts are shifting electric (72.5% of market share in 2024) and expanding beyond golf courses into resort, airport, and municipal applications. Chinese imports have penetrated the low-to-mid market aggressively, capturing ~30% of ATV import value; however, tariff uncertainty is causing demand pullback and inventory correction among dealers, visible in Q2 2026 dealer inventory right-sizing at Polaris. Supply chain remains fragile—Red Sea conflicts, Ukraine effects, and tariff uncertainty are pushing manufacturers toward automation and domestic capacity increases, with Polaris plants at 70% capacity (room to grow without new capex) and Club Car investing $100 million in U.S. manufacturing.",
+  "whats_growing": "Electric ATVs and UTVs (14-16% CAGR through 2030); electric golf carts (6.7% CAGR through 2035); commercial/utility applications (agriculture, landscaping, fleet operations); connected vehicle features (GPS, IoT, smart diagnostics); solar-powered golf cart options (expected to reach 15% of golf cart sales by 2026); Polaris market share in utility segment (>10% retail sales growth in Q2 2026).",
+  "whats_shrinking": "Traditional gasoline golf carts; Yamaha's snowmobile business (exiting); Arctic Cat snowmobile production (paused); snowmobile market itself, which grew only 3.6% YoY in 2026 after years of decline; leisure-time demand (time spent on leisure projected to decline -0.17% annually through 2028 vs. 2022 baseline).",
+  "baseline_2022": {
+   "market_size": "$9.4 billion (2022)",
+   "growth": "-0.73% CAGR (2003-2022)"
+  },
+  "recent_developments": [
+   "Textron seeks buyer for Arctic Cat division (December 2024); production paused in 2025, with only Polaris and BRP remaining in snowmobiles",
+   "Club Car launches lithium-ion electric golf cart for commercial fleets (Q2 2024); Yamaha Golf Car opens new Georgia facility (Q3 2024)",
+   "U.S. tariffs on Chinese imports reach 145% by early 2025, then reduced to 10% under 90-day truce (April 2025); powersports vehicles now 25% duty",
+   "Polaris raises 2026 revenue guidance to $7.3-7.5 billion after Q2 2026 earnings beat; reports market share gains in utility/ATV segment",
+   "Kandi Technologies launches first U.S.-assembled electric golf cart at Garland, Texas facility (May 2025)",
+   "Yamaha plans to expand electric ATV lineup with three new models by mid-2026; John Deere introduces all-electric Gator GX/GX Crew models (October 2025)"
+  ],
+  "major_players": [
+   "Polaris Inc. (market leader; Polaris, Indian, Ranger brands)",
+   "Textron Inc. (Arctic Cat snowmobiles; production paused)",
+   "John Deere/Deere & Co (Gator golf carts, utility vehicles)",
+   "BRP/Bombardier Recreational Products (Ski-Doo snowmobiles, Can-Am ATVs/UTVs)",
+   "Club Car (electric golf carts)",
+   "Yamaha Motor (snowmobiles, exiting market; electric ATV expansion)"
+  ],
+  "themes": [
+   "Tariff volatility and supply chain restructuring",
+   "Electrification and emissions compliance",
+   "Market consolidation (fewer snowmobile makers)",
+   "Shift from recreation to commercial/utility use",
+   "Chinese import competition in low-end segment",
+   "Dealer inventory correction and demand pullback"
+  ],
+  "how_it_makes_money": "Manufacturers earn revenue by selling finished vehicles (ATVs, UTVs, snowmobiles, golf carts, personal watercraft) through dealer networks to consumers, golf courses, and commercial operators (farms, municipalities, resorts). Parts and accessories sales represent a secondary revenue stream. Gross margins are typically 30-40%, but tariff costs are eating into profits (25% import duty on finished vehicles, elevated component costs from China tariffs). Volume and mix matter: Polaris has shifted revenue composition toward higher-margin utility vehicles (UTVs) and electric models, offsetting price pressure from tariffs and Chinese competition.",
+  "cost_structure": "Raw materials (steel, aluminum, engines, tires, electronics) represent ~50-55% of COGS; tariffs add 10-25% on imported components and finished goods. Labor (now ~8-10% of COGS, declining due to automation) is concentrated in assembly plants (Wisconsin, Minnesota, North Carolina, Georgia, Texas). Warranty, logistics, dealer support, and R&D for electrification add another 15-20%. Operating margins are thin (3-4%) after accounting for tariff volatility, component inflation, and dealer support costs.",
+  "outlook": "The industry faces a bifurcated path: traditional gasoline vehicles will flatten or decline as tariffs pressure affordability and emissions rules tighten; electric models will capture 15-20% of the ATV/UTV market by 2030, growing at 15%+ CAGR. Snowmobiles remain a niche (2.8 billion, 2026) with limited growth unless electrification accelerates; Arctic Cat's exit leaves room for Polaris and BRP to consolidate. Tariff policy is the wildcard: permanent 25% duties on powersports vehicles and 145%+ on Chinese imports would force reshoring and price increases; any tariff relief would unlock pent-up demand and margin recovery. Golf carts will expand beyond golf courses into mobility and fleet use, with electric models dominant. Polaris is well-positioned to gain share if tariffs persist (higher manufacturing footprint in the U.S.); smaller competitors may retreat or get acquired. Employment will remain stable or grow modestly, with automation offsetting any volume gains. By 2026-2027, the market should stabilize around $11-12 billion if tariffs normalize, or stagnate below $11 billion if they persist.",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/atv-golf-cart-snowmobile-manufacturing/858/",
+   "https://www.psmarketresearch.com/market-analysis/us-atv-golf-cart-snowmobile-market",
+   "https://www.atv.com/atv/tariffs-affect-powersports-industry-44742991",
+   "https://powersportsbusiness.com/news/polaris/2026/07/29/polaris-raises-2026-revenue-outlook-as-utility-sales-dealer-health-fuel-q2-growth/",
+   "https://www.gminsights.com/industry-analysis/all-terrain-vehicle-atv-market",
+   "https://www.verifiedmarketreports.com/product/golf-carts-and-neighborhood-electric-vehicle-market/",
+   "https://www.marketresearchfuture.com/reports/electric-all-terrain-vehicle-market-23487",
+   "https://powersportsbusiness.com/top-stories/2024/12/20/textron-seeks-buyer-for-arctic-cat-division/",
+   "https://www.stratviewresearch.com/117/snowmobile-market.html",
+   "https://finance.yahoo.com/markets/stocks/articles/polaris-inc-q2-2026-earnings-123000403.html"
+  ],
+  "data_year": "2025-2026",
+  "slug": "atv-golf-cart-and-snowmobile-manufacturing-in-the-us"
+ },
+ {
+  "title": "US Abrasive & Sandpaper Manufacturing (2025-2026)",
+  "sector": "Manufacturing",
+  "one_liner": "A mature, consolidating industry serving automotive, construction, and now semiconductor manufacturing, pressured by tariffs and imports but stabilizing on domestic sourcing shifts.",
+  "overview": "The US abrasive and sandpaper manufacturing industry is transitioning through a tariff-driven reshuffling. In 2025, the sector generated an estimated USD 5.4 billion in domestic revenues with sustained growth reaching 2026. Over 40 percent of US manufacturers have switched to domestic suppliers to avoid tariff costs on Chinese abrasives, lifting domestic producer market share to 65.6 percent by Q3 2025. Meanwhile, the semiconductor sector is driving new precision-grinding demand, particularly for wafer polishing and slicing applications. Consolidation continues as multinational players like 3M (which cut 8,500 jobs through 2025) and Saint-Gobain optimize their portfolios. The industry remains mature and cyclical, tied tightly to manufacturing output, construction, and now semiconductor capex.",
+  "key_stats": {
+   "market_size": "USD 5.4 billion (US market, 2026)",
+   "growth": "4.4 percent CAGR to 2031",
+   "employees": "Approximately 12,000-13,000 (down from 2021 due to automation and restructuring)",
+   "businesses": "Dominated by 3M and Saint-Gobain; ~245 companies in 2021, slight consolidation continuing",
+   "profit_margin": "Steady at ~3 percent of revenue (2025-2026)",
+   "concentration": "Highly concentrated; top 2-3 firms control majority of high-value segments"
+  },
+  "current_dynamics": "Tariffs on Chinese imports have jumped to 25 percent, forcing a structural shift. Domestic suppliers have gained ground, with 40+ percent of manufacturers now choosing US-made abrasives to avoid costs and long lead times (30-50 percent delays from tariffs). Material costs have risen 15-25 percent across the supply chain. Semiconductor manufacturing is emerging as a growth engine, with wafer polishing films and precision abrasives now a significant new demand stream tied to advanced chip fabrication expansions. Bonded abrasives hold 47-50 percent market share, while coated abrasives (36 percent share) are accelerating at 5.5 percent CAGR. Automotive remains the top end-use segment at 35 percent of demand, followed by construction at a solid mid-teen percentage. 3M's comprehensive restructuring and job cuts reflect broader industry consolidation and the shift away from lower-margin commodity products toward specialty synthetic abrasives.",
+  "one_sentence": "Tariffs and semiconductor demand are reshaping a mature industry that is consolidating around domestic suppliers and high-precision applications.",
+  "major_players": [
+   "3M Company",
+   "Saint-Gobain (including FOSROC acquisition, 2025)",
+   "Robert Bosch",
+   "Asahi Diamond",
+   "CUMI",
+   "Henkel",
+   "Sumitomo Group",
+   "Ahlstrom (abrasives unit)"
+  ],
+  "whats_growing": "Semiconductor wafer polishing and slicing abrasives (high-precision super abrasives) are the fastest-growing segment, driven by US semiconductor capex and advanced node requirements. Electric vehicle production and battery manufacturing are boosting precision grinding demand. Coated abrasives are expanding at 5.5 percent CAGR to 2031. Domestic sourcing is accelerating due to tariff avoidance.",
+  "whats_shrinking": "Commodity paper and cloth coated abrasives, especially low-cost imports from Asia, are under pressure as tariffs make them uneconomical. Mining-grade abrasives remain soft, as the sector has not recovered fully since the 2015-2016 commodity collapse. Traditional metal finishing applications are seeing slower growth as industrial production remains tepid. Employment has contracted due to automation and restructuring (3M cut 8,500 jobs through 2025).",
+  "themes": [
+   "Tariff Reshuffling",
+   "Domestic Supply Surge",
+   "Semiconductor Precision Demand",
+   "Industry Consolidation",
+   "Margin Pressure & Specialization",
+   "Automation & Labor Shedding"
+  ],
+  "recent_developments": [
+   "3M announced and executed 8,500 layoffs through 2025 as part of companywide restructuring aimed at margin recovery and the 2024 planned healthcare spinout (Manufacturing Dive, 2024-2025).",
+   "Saint-Gobain completed FOSROC acquisition in February 2025 for USD 487 million to expand in high-growth emerging markets (OpenPR, 2025).",
+   "Tariff rates on Chinese abrasives reached 25 percent in 2025, driving 40+ percent of US manufacturers to domestic suppliers and lifting domestic share to 65.6 percent by Q3 2025 (CPA, 2025; Fictiv, 2025-2026).",
+   "Semiconductor wafer polishing equipment market projected to grow from USD 1.58 billion in 2025 to USD 1.67 billion in 2026, pulling demand for precision abrasives (IMARC, Grand View Research, 2025-2026).",
+   "Bonded abrasives held 47-50 percent of global market share in 2025-2026, while coated abrasives accelerated at 5.5 percent CAGR (Mordor Intelligence, Expert Market Research, 2025-2026).",
+   "Ahlstrom received a definitive acquisition proposal for its Abrasives business unit from Munksjö in July 2025, signaling continued portfolio reshuffling (OpenPR, 2025)."
+  ],
+  "outlook": "The industry is forecast to grow 4.4 percent annually through 2031, reaching approximately USD 5.18 billion by 2031. Tariffs are expected to remain structural, supporting continued domestic sourcing and pricing power for US manufacturers. Semiconductor capex will be a steady tailwind, particularly for high-precision super abrasives and wafer polishing films. Automotive and construction will remain core, though growth will be muted as these sectors mature. Consolidation will accelerate; smaller players without scale or proprietary technology will likely exit or be absorbed. Profit margins should stabilize around 3 percent as competition from imports moderates and specialty products command better pricing. Electric vehicles and battery manufacturing will drive incremental demand. The industry is unlikely to return to growth rates above 5 percent, as it is structurally mature and tied to cyclical downstream demand.",
+  "baseline_2022": {
+   "market_size": "USD 4.1 billion (2021)",
+   "growth": "-1.94 percent CAGR (2005-2021); -7.4 percent five-year decline to 2021"
+  },
+  "cost_structure": "Raw materials (silica sand, alumina, silicon carbide, synthetic diamonds) comprise 25-35 percent of costs. Labor represents 15-20 percent. Energy is 10-15 percent. Tariffs and logistics now add 10-20 percent premiums on imported inputs. High capital intensity in grinding wheel and bonded abrasive production; coated abrasives are lower-capex but higher-volume commodity items.",
+  "how_it_makes_money": "Manufacturers earn revenue from four main product streams: coated abrasives (50+ percent of sales, lower margins, higher volume); bonded abrasives or grinding wheels (26 percent, higher margins in specialty grades); grain abrasives (16 percent, lower margins); and metal abrasives (8 percent, niche applications). Pricing power varies by product; specialty super abrasives for semiconductors command premium margins, while commodity papers face intense import competition. Export sales have stabilized at ~25-26 percent of revenue. Domestic sales benefit from tariff protection and customer localization. Profitability is thin (3 percent EBIT margin) due to competition and material cost volatility.",
+  "sources": [
+   "https://www.grandviewresearch.com/industry-analysis/abrasives-market",
+   "https://www.verifiedmarketresearch.com/product/abrasives-market/",
+   "https://www.mordorintelligence.com/industry-reports/abrasives-market",
+   "https://www.cognitivemarketresearch.com/sandpaper-market-report",
+   "https://www.openpr.com/news/3470052/abrasives-and-abrasive-tools-market-2024-is-thriving-worldwide",
+   "https://prosperousamerica.org/new-cpa-report-shows-domestic-manufacturing-market-share-rebounds-in-2025-as-tariffs-begin-to-reshape-u-s-industry/",
+   "https://www.fictiv.com/articles/2025-u-s-tariff-updates-key-trade-policy-changes",
+   "https://www.indexbox.io/blog/abrasives-china-market-overview-2024/",
+   "https://benchmarkabrasives.com/blogs/bonded-abrasives/abrasive-trends-for-2026",
+   "https://www.imarcgroup.com/global-semiconductor-wafer-polishing-grinding-equipment-market",
+   "https://www.fiercebiotech.com/medtech/3m-layoff-tally-climbs-8500-companywide-restructuring-ahead-of-healthcare-spinout",
+   "https://www.manufacturingdive.com/news/3m-to-restructure-lay-off-6000-worldwide/648509/",
+   "https://www.databridgemarketresearch.com/reports/us-abrasive-market",
+   "https://www.volza.com/p/abrasive/export/export-from-china/"
+  ],
+  "data_year": "2025-2026",
+  "slug": "abrasive-and-sandpaper-manufacturing-in-the-us"
+ },
+ {
+  "title": "Accommodation and Food Services in the US",
+  "sector": "Consumer Services",
+  "one_liner": "A mature $1.8 trillion sector recovering from pandemic disruption but pressed by wage inflation, tariffs, and consumer caution—growing steadily on business travel and food spending, but facing structural headwinds.",
+  "overview": "The US accommodation and food services sector comprises hotels, motels, restaurants, bars, and food contractors—all serving consumers and businesses away from home. By 2026, the sector reached $1.8 trillion in revenue after growing at 5.4% CAGR from 2021-2026, recovering sharply from 2020 pandemic lows. However, growth is slowing: the sector added just 0.6% revenue in 2025 and 2.2% in 2026, as consumer spending remains constrained and operators battle persistent wage pressures. The sector now employs roughly 15-16 million people across 1 million establishments, with wage and staffing challenges replacing pandemic closures as the central operational concern.",
+  "key_stats": {
+   "market_size": "$1.8 trillion (2026)",
+   "growth": "5.4% CAGR (2021-2026); 0.6% (2025), 2.2% (2026)",
+   "employees": "15-16 million across lodging and food service",
+   "businesses": "1 million establishments, 4.3% CAGR growth (2021-2026)",
+   "profit_margin": "8.54% net margin; gross margins 37.7% (2025), 41.8% in Q1 2026",
+   "concentration": "Low—highly fragmented; major players include Hilton, McDonald's, but no single dominant operator"
+  },
+  "current_dynamics": "The sector has shifted from pandemic recovery to a new normal of margin squeeze. Labor costs grew 11% per available room in hotels (2024) and 6.3% in quick-service restaurants, even as wage growth slows in 2025. Tariffs imposed starting in 2024 have raised food costs materially—coffee up 33.6%, beef up 19.3%—and households now bear roughly $1,000-$1,300 annually in tariff-driven costs (2025-2026). Consumer spending is bifurcating sharply: affluent diners spend freely while middle- and lower-income households are cutting back, with 55% reporting reduced dining out in Q3 2024. M&A activity rebounded sharply in 2025 with $51.6 billion in deals (83% YoY increase), signaling private equity's return to the sector after a quiet 2024. Meanwhile, 2024 saw major bankruptcies (Red Lobster, TGI Fridays) that closed roughly 348 full-service restaurant locations, exposing weakness in sit-down dining formats hit hardest by cost inflation and consumer caution.",
+  "one_sentence": "A $1.8T sector (2026) managing steady but slowing recovery while wrestling with stubborn wage inflation, tariffs raising food costs, and a splintering consumer base that's forcing operators to ruthlessly manage margins and technology.",
+  "baseline_2022": {
+   "market_size": "$853.1 billion (2021, adjusted for inflation to 2021 dollars); revenue had declined 3.1% CAGR over 2016-2021 due to pandemic",
+   "growth": "0.85% CAGR (2005-2021); projected 6.14% (2021-2027 from 2022 report)"
+  },
+  "whats_growing": "Business travel rebounding (corporate profit forecast +2.7% CAGR 2021-2026 in 2022 report); AI-driven back-of-house automation (74% of operators now view tech as labor-augmenting); domestic leisure travel (estimate +9.4% CAGR through 2026); high-end dining (consumers trading up within price tiers). Inbound international tourism showed a sharp rebound in 2025 as post-pandemic travel restrictions fully lifted. Hotels are posting stronger demand growth (3.2% YoY in 2026) than new supply growth (2.3%), tightening market conditions.",
+  "whats_shrinking": "Full-service restaurants—Red Lobster (131 closures in 2024) and TGI Fridays (86 closures) represent structural weakness in the sit-down segment. Middle- and lower-income consumer dining frequency is contracting; 66% of those expecting worsening finances plan to cut restaurant spending. Quick-service restaurants are holding, but menu price increases (71% of operators plan hikes in 2026 vs. 57% in 2025) risk demand destruction. International trips by US residents (rising 18.9% CAGR through 2026) divert discretionary spending away from domestic accommodations.",
+  "major_players": [
+   "Hilton Worldwide Holdings (hotel chains)",
+   "McDonald's Corporation (QSR)",
+   "Marriott International (hotels)",
+   "Starbucks (coffee/quick-service)",
+   "Darden Restaurants (Red Lobster, Olive Garden, LongHorn Steakhouse)",
+   "Brinker International (Chili's)",
+   "Oyo (emerged as major consolidator, acquired Motel 6/Studio 6 brands in Dec 2024 from Blackstone for $525M)"
+  ],
+  "recent_developments": [
+   "Red Lobster Chapter 11 bankruptcy filed May 2024; $20 all-you-can-eat shrimp promotion cost $11M per quarter; closed 131 locations during restructuring, ended 2024 with 518 stores; considering dozens more closures in 2025-2026.",
+   "TGI Friday's filed for bankruptcy protection November 2024 after closing 86 locations (36 in Jan 2024, 50 in Oct 2024)",
+   "M&A rebounds sharply: global travel/leisure/hospitality saw $51.6B in deals (H1 2025: $15.4B, H2 2025: $36.2B = 229.8% increase). Oyo acquired Motel 6/Studio 6 for $525M (Dec 2024). PAR Technology acquired Delaget (Jan 2025) for restaurant analytics; Access Group acquired Paytronix (Nov 2024).",
+   "AI/automation adoption accelerates: 89% of hoteliers planning new AI applications by 2026. Front-of-house robotics (cleaning, delivery, security) rolling out. 74% of restaurant operators use AI for labor scheduling, inventory forecasting, demand prediction.",
+   "Tariff impact mounts: average US household bearing $1,000 in tariff costs (2025), projected $1,300 more (2026). Food-specific: coffee +33.6%, ground beef +19.3%, romaine lettuce +16.8% in 2025. Accommodation costs rising (energy, imported supplies).",
+   "Labor market cooling: job openings fell to 2018-2019 levels by mid-2025; turnover stabilized at lowest in ~10 years after 2022-2024 spike. Hotel wages up +28% (GMs), average hospitality wage $22.70/hr (Apr 2025). 76% of hotels short-staffed (housekeeping, front desk critical gaps). Annual hospitality turnover still 70-80%."
+  ],
+  "themes": [
+   "Labor Squeeze: Wages up 28-50% since 2020 but turnover remains 5x broader economy; staffing shortages in housekeeping, front-of-house core roles.",
+   "Tariffs & Input Costs: Food, energy, imports all up; tariffs alone adding $1000+ per household annually; operators passing costs to consumers.",
+   "Consumer Bifurcation: Affluent spending holds; middle/lower-income tightening belts (55% cut dining 2024, 66% planning further cuts). Price sensitivity at all-time high.",
+   "Tech Acceleration: AI moving from novelty to necessity; back-of-house automation reducing labor dependency; dynamic pricing and predictive inventory now standard.",
+   "M&A & Consolidation: Private equity returning after quiet 2024; 2025 saw sharp rebound ($51.6B); tech platforms (POS, analytics) consolidating.",
+   "Full-Service Weakness: Sit-down chains bearing brunt of cost inflation; bankruptcies signal format stress; quick-service and upscale fine dining more resilient."
+  ],
+  "outlook": "The sector is likely to grow 2-3% annually through 2026-2029, significantly below the 6.9% post-pandemic recovery of 2021-2025. This reflects maturity, market saturation, and structural headwinds. Domestic leisure travel will continue recovering, and inbound international tourism offers upside, but consumer price sensitivity will persist—particularly if tariffs remain high. Business travel will provide modest support. Labor costs will stabilize as wage growth moderates, but operators will remain under pressure to invest in AI-driven scheduling, inventory, and delivery systems to cut labor hours. M&A momentum should continue as PE deploys capital into tech-enabled platforms and consolidating underperforming full-service chains. Profitability will depend entirely on operators' ability to raise prices without demand destruction—a tricky balance when 60% of consumers cite price as the deciding factor in restaurant choice. Hotels have a slight edge: RevPAR growing again (2.9% forecast for 2026) and demand outpacing supply. But restaurants face a brutal squeeze: food inflation, wage pressure, and cautious consumers all converge. Expect continued closures of overleveraged sit-down chains; fast-casual and QSR formats should hold market share by trading price discipline for volume.",
+  "sources": [
+   "[Accommodation & Food Services in the US Industry Analysis, 2026](https://www.ibisworld.com/united-states/industry/accommodation-food-services/1658/)",
+   "[US Hospitality Industry: Key Trends and Statistics for 2026](https://oysterlink.com/spotlight/us-hospitality-industry-statistics/)",
+   "[Restaurant Industry Inflation: Impact, Costs & Consumer Trends](https://oysterlink.com/spotlight/inflation-impact-restaurant-industry/)",
+   "[U.S. Restaurant Trends 2025: Data on Inflation, Labor & AI](https://pos.toasttab.com/blog/data/2025-voice-of-restaurant-industry-survey)",
+   "[Rising Food & Beverage Labor Costs Push Hotel Expenses in 2024](https://www.hotelnewsresource.com/article134309.html)",
+   "[Hospitality M&A value saw 'sharp rebound' in H2 2025: report](https://www.hoteldive.com/news/hospitality-rebound-deal-value-h2-2025-report/812948/)",
+   "[Wendy's, Denny's, Red Lobster close locations in 2024](https://www.cnbc.com/2025/01/01/wendys-dennys-red-lobster-close-locations-in-2024.html)",
+   "[Red Lobster files for bankruptcy after missteps including all-you-can-eat shrimp](https://www.npr.org/2024/05/20/1252426585/red-lobster-bankruptcy)",
+   "[AI and Automation Reshape Hotel Operations as Industry Prepares for 2026](https://www.hotelnewsresource.com/article139730.html)",
+   "[Why 2026 is the year of the AI-driven restaurant](https://www.qsrweb.com/articles/why-2026-is-the-year-of-the-ai-driven-restaurant/)",
+   "[Restaurant and foodservice sales are expected to reach $1.55T in 2026](https://www.restaurantbusinessonline.com/operations/restaurant-foodservice-sales-are-expected-reach-155t-2026)",
+   "[2026 State of the Restaurant Industry](https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry/)",
+   "[Trump's tariffs will cost each American household $900 in 2026](https://reason.com/2026/07/31/trumps-tariffs-will-cost-each-american-household-900-in-2026/)",
+   "[Trump Tariffs Will Raise the Cost of Food for Americans](https://taxfoundation.org/blog/trump-tariffs-food-prices/)",
+   "[Hospitality Wages & Salaries: 2026 Data and Trends](https://oysterlink.com/spotlight/hospitality-wages-2025/)",
+   "[Hotel Profit Margin: The Ultimate Hotel Owner's Guide 2026](https://www.roommaster.com/blog/hotel-profit-margin)",
+   "[AHLA releases 2026 State of The Industry](https://www.ahla.com/news/ahla-releases-2026-state-industry)"
+  ],
+  "data_year": "2026",
+  "slug": "accommodation-and-food-services-in-the-us"
+ },
+ {
+  "findings": "[]",
+  "title": "US Acne Treatment Manufacturing OTC (2025-2026)",
+  "sector": "Healthcare",
+  "one_liner": "A consolidating domestic manufacturing sector dominated by giants like Johnson & Johnson, now disrupted by FDA approval of over-the-counter retinoids and surging adult-acne demand, while tariffs and import pressure squeeze margins.",
+  "overview": "The US OTC acne treatment manufacturing industry produced $418.2 million in 2024, down from $345 million in 2020. Eight companies and 406 employees remain, with essentially flat business counts but slight employment gains in 2025. The long decline has bottomed: imports rose 145% in tariff costs during 2025, and domestic manufacturers lost competitive ground for two decades. But 2025-2026 shows a turning point. The FDA approved Differin Epiduo (adapalene plus benzoyl peroxide) for OTC use in May 2026, making a prescription retinoid available over-the-counter by summer 2026. Consumer demand is shifting radically: pimple patches became a Gen Z phenomenon, adult acne (especially women 25-45) now drives growth faster than teen acne, and clean/organic acne products are exploding. Major players like Johnson & Johnson launched new adult-focused lines in early 2026 and integrated AI diagnostics into e-commerce. Competition from prescription alternatives and laser treatments remains intense, but the retinoid approval opens new terrain.",
+  "key_stats": {
+   "market_size": "$418.2 million (2024)",
+   "growth": "+1.11% (2024 vs 2023); -1.0% average annual decline over 5 years (2020-2025)",
+   "employees": "406 workers (2025); +0.2% annual growth (2025); -1.0% average over 5 years",
+   "businesses": "8 enterprises (2024-2025); essentially flat year-over-year",
+   "concentration": "Extremely high: Johnson & Johnson dominates with ~50% domestic production; top 4 companies hold 95%+ market share",
+   "profit_margin": "19.9% (2023, down from 20.1% in 2020)"
+  },
+  "baseline_2022": {
+   "market_size": "$345 million (2020, last reported year in baseline)",
+   "growth": "-7.5% CAGR (2015-2020); projected -2.3% CAGR (2020-2025) in 2020 report"
+  },
+  "current_dynamics": "The OTC acne sector is caught between structural decline and a new growth vector. On one side: tariffs on Chinese cosmetics hit 145% in 2025, pushing supply-chain costs up sharply; domestic manufacturers have been relocating production abroad for 20 years, making the domestic base smaller and more dependent on imports (which now satisfy roughly 40%+ of US demand). Profit margins eroded to 19.9% in 2023 from 20.1% in 2020. Adolescents, the traditional core market, continue to shrink as a population share. On the other side: the FDA approval of OTC Differin Epiduo retinoid gel in May 2026 is a watershed moment, moving a prescription-strength product to shelves and validating premium OTC formulations. Adult acne (women especially) is now the growth engine; pimple patches reached near $1 billion market size by 2026 and became a cultural phenomenon. Clean/organic acne brands are expanding rapidly (9.49% CAGR through 2035). E-commerce integration with AI diagnostic tools (Neutrogena's FitSkin AI launch in July 2025) is reshaping how products reach consumers. Consolidation remains intense: only 8 manufacturers survive domestically, and recent M&A in dermatology brands (PanOxyl merger with Revance, Obagi sale to Bridgepoint for $460M) signals strategic repositioning for long-term growth in premium segments.",
+  "one_sentence": "The US OTC acne treatment manufacturing industry is stabilizing after decades of decline, with growth now driven by FDA approval of over-the-counter retinoids and explosive consumer demand for adult-acne and clean beauty solutions, offset by tariff pressures and chronic import competition.",
+  "major_players": [
+   "Johnson & Johnson (Clean & Clear, Neutrogena, Aveeno brands)",
+   "Galderma (acquired PanOxyl via Revance merger, 2024)",
+   "Guthy-Renker (Proactiv)",
+   "Reckitt Benckiser Group",
+   "L'Oreal (skincare acne brands)",
+   "Estée Lauder (multi-brand portfolio)"
+  ],
+  "recent_developments": [
+   "May 2026: FDA approves Differin Epiduo (adapalene 0.1% + benzoyl peroxide 2.5%) for OTC use in patients 12+; retail availability planned for summer 2026 (major shift from prescription-only).",
+   "February 2026: Neutrogena launches Evenly Clear adult acne collection, co-designed with dermatologists, featuring salicylic acid, benzoyl peroxide, adapalene, PHAs, and hypochlorous acid.",
+   "July 2025: Neutrogena partners with FitSkin AI to offer AI-powered acne diagnostics and personalized product recommendations on e-commerce platforms in North America.",
+   "August 2024: Crown Laboratories and Revance merge, combining portfolios with acne brand PanOxyl and other dermatology assets (SkinPen, RHA Collection, DAXXIFY).",
+   "April 2025: US tariffs on Chinese cosmetics/skincare products rise to 145%, significantly increasing import costs for OTC acne treatments.",
+   "February 2025: Puddles (organic skincare) launches teenage acne range with plant-based, scientifically validated ingredients."
+  ],
+  "whats_growing": "Adult-acne products (women 25-45), clean/natural acne formulations (9.49% CAGR through 2035), pimple patches (projected to reach $1 billion by 2033 from $500 million), premium OTC retinoid-based treatments (post-FDA approval), and digital/AI-integrated skincare diagnostics (Neutrogena FitSkin AI model). E-commerce and direct-to-consumer channels are expanding rapidly.",
+  "whats_shrinking": "Adolescent population share (declining as % of total US population), domestic manufacturing employment (-1.0% average over 5 years), domestic product concentration (manufacturers moving plants overseas), and traditional benzoyl peroxide/salicylic acid-only formulations (being displaced by combination and retinoid products).",
+  "themes": [
+   "Retinoid Revolution",
+   "Adult Acne Boom",
+   "Clean/Organic Beauty Shift",
+   "Tariff Squeeze & Supply Chains",
+   "Digital Skincare & AI",
+   "Pimple Patch Phenomenon",
+   "Consolidation & M&A",
+   "Gen Z Consumer Power"
+  ],
+  "outlook": "The OTC acne sector will likely stabilize around $400-450 million through 2027-2028, growing modestly (1-2% annually) as adult-acne demand offsets continued adolescent shrinkage. The FDA approval of OTC retinoids (Differin Epiduo, summer 2026) will cannibalize some prescription business and create new premium OTC tiers. Tariffs will keep domestic manufacturing costs elevated, forcing more consolidation and overseas production. Clean/organic and pimple patch segments will outpace mainstream OTC treatments (8-12% CAGR). Prescription alternatives (isotretinoin, hormonal agents) and laser treatments will continue to compete fiercely. Digital/AI-integrated skincare diagnostics will become standard at major brands by 2027. Johnson & Johnson and other consolidators will likely acquire smaller acne-focused brands (especially adult-acne and clean-beauty plays) to defend market share. Import penetration will hover near 40-45% of domestic demand due to tariff barriers and supply-chain shifts.",
+  "data_year": "2026 (current data through August 2026)",
+  "sources": [
+   "https://www.researchandmarkets.com/reports/5852400/acne-treatment-manufacturing-otc-in-the-us",
+   "https://www.ibisworld.com/united-states/industry/acne-treatment-manufacturing-otc/4125/",
+   "https://www.futuremarketinsights.com/reports/acne-treatment-solution-market",
+   "https://www.fortunebusinessinsights.com/acne-treatment-market-103361",
+   "https://www.patientcareonline.com/view/fda-clears-otc-adapalene-benzoyl-peroxide-gel-for-acne-in-patients-12-and-older",
+   "https://www.dermatologytimes.com/view/fda-approves-otc-differin-epiduo-gel-for-acne-in-patients-12-and-older",
+   "https://retailboss.co/the-top-beauty-retail-acquisitions-of-2024/",
+   "https://www.beautypackaging.com/exclusives/mergers-acquisitions-in-the-beauty-industry-in-2025/",
+   "https://www.accio.com/business/gen-z-pimple-patch-trend",
+   "https://beautymatter.com/articles/the-202-billion-tariff-problem-facing-small-beauty-brands",
+   "https://bonniecobeauty.com/industry-challenges-in-cosmetics-trade-amid-high-us-tariffs/",
+   "https://www.grandviewresearch.com/industry-analysis/organic-skin-care-market",
+   "https://www.marketresearchfuture.com/reports/natural-organic-cosmetics-market-7257"
+  ],
+  "slug": "acne-treatment-manufacturing-otc"
+ },
+ {
+  "title": "US Acoustic & Electric Guitar Manufacturing",
+  "sector": "Manufacturing",
+  "one_liner": "A mature, high-import-dependent industry facing tariff headwinds and shifting consumer demand toward electric guitars and home recording, though anchored by strong brand players like Fender and Gibson.",
+  "overview": "The US acoustic and electric guitar manufacturing industry is navigating a complex 2025-2026 landscape shaped by aggressive tariffs, online learning adoption, and a decisive market shift toward electric guitars and home recording. While the global guitar market reached $9.96 billion in 2025 and is projected to grow to $14.13 billion by 2030, the domestic US industry faces margin compression as tariff rates on imported instruments hit 16.6% in Q1 2026—up nearly three-fold from 2024 levels. Fender and Gibson remain dominant, but smaller manufacturers and retailers face closures, and entry-level affordability has contracted sharply. The pandemic-era sales surge (60% jump in 2020) has held, with US sales reaching $1.8 billion in 2023 and projected to exceed $2 billion by 2026, but pricing power is eroding.",
+  "key_stats": {
+   "market_size": "$806.9 million (2025)",
+   "growth": "1.2% growth in 2025; 0.7% CAGR recent period",
+   "profit_margin": "3.8% (2025)",
+   "employees": "~3,791 workers (2021 baseline); estimated 3,748 by 2026",
+   "businesses": "~192 establishments (2021); declining slightly",
+   "concentration": "High; dominated by Fender, Gibson, PRS, Yamaha; imports satisfy 38%+ of domestic demand"
+  },
+  "current_dynamics": "Electric guitars now command roughly 60% of the guitar market, driven by affordability of entry-level models (under $300, up 15% year-over-year) and social media adoption—about 60% of new players cite online content as their motivation. Tariffs have become the dominant market shock: a 25% duty on imported instruments combined with component tariffs has forced price increases of $50–$150 on mid-tier guitars and $50 jumps on entry-level models. Fender absorbed an estimated $20–$25 million in tariff costs in 2025 and saw its credit rating downgraded by Moody's. Paradoxically, this tariff regime has driven offshoring rather than reshoring—Conn-Selmer closed its US brass factory and moved production to China because absorbing tariffs was cheaper than domestic production under inflated steel costs. The beginner market has collapsed under price pressure, threatening the industry's future talent pipeline. Meanwhile, Fender changed ownership to Servco Pacific in 2024–2025; G&L terminated all employees in September 2025; and boutique makers filed for bankruptcy. Online learning platforms (Fender Play, Guitar Tricks, TrueFire) have become major touchpoints, reshaping how consumers access instruction and guitars.",
+  "one_sentence": "Electric guitars are gaining market share, online learning is fueling adoption, but aggressive tariffs are compressing margins, raising prices, suppressing entry-level sales, and driving paradoxical offshoring rather than domestic production growth.",
+  "whats_growing": "Electric guitars (60% of market); hybrid electric-acoustic instruments (projected 8.9% CAGR 2025–2032); entry-level affordable models under $300 (15% YoY growth through tariff-induced scarcity); home recording and direct-to-consumer channels; online learning platforms and gear sales; high-end boutique and custom guitars among affluent players.",
+  "whats_shrinking": "Acoustic guitar market share (40%); entry-level affordability and beginner accessibility (tariff-driven price hikes); retail brick-and-mortar locations (Sam Ash closed 2024; regional shops shuttering); import volumes (down 20.4% Q1 2026 vs Q1 2024); small independent luthiers and boutique makers (facing 10%+ tariff-driven revenue loss); used instrument market is cannibalizing new sales.",
+  "major_players": [
+   "Fender Musical Instruments Corporation (majority-owned by Servco Pacific as of 2025)",
+   "Gibson Brands (owned by KKR since 2018)",
+   "PRS Guitars",
+   "Yamaha Corporation",
+   "Squier (Fender subsidiary)",
+   "Epiphone (Gibson subsidiary)",
+   "Ibanez",
+   "Korg"
+  ],
+  "recent_developments": [
+   "Fender's ownership changed to Servco Pacific gaining majority stake from TPG Growth (2024–2025), signaling private holding company consolidation",
+   "Moody's downgraded Fender's credit rating in 2025 due to tariff cost pressures and $20–$25 million annual tariff impact",
+   "Tariff effective rate on musical instruments reached 16.6% in Q1 2026, nearly triple the 2024 level; real imports fell 20.4% YoY",
+   "G&L Musical Instruments furloughed all production staff September 15, 2025, and terminated all employees September 29, 2025",
+   "Fernandes Guitars and Bax Music filed for bankruptcy in 2024–2025; Sam Ash closed all stores March 2024; Play Music Today (UK) and multiple regional shops shuttered in 2025",
+   "Gibson and Synchrony partnered March 2026 to offer 0% financing for 18–36 months; Gibson CEO stepped down June 2026"
+  ],
+  "baseline_2022": {
+   "market_size": "$714 million (2021 actual; IBISWorld report dated Aug 2021)",
+   "growth": "-0.82% CAGR 2002–2021; -0.25% projected 2021–2027"
+  },
+  "outlook": "The 2025–2026 outlook is mixed: global guitar demand remains resilient at $9.96–$14.13 billion (2025–2030), but US domestic manufacturers face a tariff squeeze unlikely to ease soon. Entry-level sales will remain suppressed unless tariff rates fall; higher-priced, US-made guitars ($1,000+) targeted at experienced players will stabilize. Electric dominance will continue as home recording and digital distribution favor amplified instruments. Online platforms will expand reach but commoditize pricing. Reshoring remains minimal—tariffs have paradoxically driven production to Indonesia, Mexico, and China where cost arbitrage still favors overseas over US manufacturing. The industry will consolidate: smaller retailers and independent luthiers will exit; major brands will focus on direct-to-consumer and subscription models. Profit margins will remain compressed at 3–4% through 2026 unless tariff policy reverses. The long-term threat is pipeline damage: suppressed beginner access today means fewer advanced players and expensive guitar buyers tomorrow.",
+  "themes": [
+   "Tariff shock and margin compression",
+   "Electric dominance and home recording trend",
+   "Online platforms reshaping buyer journeys",
+   "Retail consolidation and boutique closures",
+   "Paradoxical offshoring despite tariffs",
+   "Beginner market contraction and future talent pipeline risk"
+  ],
+  "data_year": "2026",
+  "sources": [
+   "[Guitar Market Size & Demand Analysis by 2035](https://www.globalgrowthinsights.com/market-reports/guitar-market-121877)",
+   "[Guitar Market Size, Share And Trends Report, 2023-2030](https://www.grandviewresearch.com/industry-analysis/guitar-market-report)",
+   "[Guitar Market Size, Trends & Forecast Analysis 2025 to 2035](https://www.futuremarketinsights.com/reports/guitar-market)",
+   "[Guitar Market Growth Analysis - Size and Forecast 2026-2030](https://www.technavio.com/report/guitar-market-size-industry-analysis)",
+   "[Guitar Market Size and Forecast Report 2026-2030](https://www.thebusinessresearchcompany.com/report/guitar-global-market-report)",
+   "[Guitar Industry Statistics 2026](https://gitnux.org/guitar-industry-statistics/)",
+   "[Guitar Market – Global Market Size, Share, and Trends Analysis Report](https://www.databridgemarketresearch.com/reports/global-guitar-market)",
+   "[Latest Guitar Trend 2025: What's Hot in Electric & Acoustic Guitars?](https://www.accio.com/business/latest-guitar-trend)",
+   "[The Electric Guitar Market Boom in 2025: Why Electrics Are Outselling Acoustics](https://guitar-muse.com/the-electric-guitar-market-boom-in-2025-why-electrics-are-outselling-acoustics-27328)",
+   "[Guitar News: Fender](https://www.themusiczoo.com/blogs/news/tagged/fender)",
+   "[Guitar News: Gibson](https://www.themusiczoo.com/blogs/news/tagged/gibson)",
+   "[Why 2025 holds a surprising turnaround for Fender](https://www.guitarworld.com/gear/electric-guitars/fender-year-in-review-2024)",
+   "[Gibson - 2026 Company Profile, Funding & Competitors](https://tracxn.com/d/companies/gibson/__98Z2VmGAhhRt9TesQ6b9nxAV6h_mbx218Ct9kHEXEaY)",
+   "[Our 5 Favorites From NAMM 2026](https://www.aol.com/articles/5-favorites-namm-2026-prs-145048183.html)",
+   "[Guitar Tariffs: Your 2025 Guitar-Buying Survival Guide](https://getmyguitar.com/guitar-tariffs-your-2025-buying-guide/)",
+   "[Tariffs and the Affordability Crisis: Why Guitar Prices Are Climbing](https://fosterfollynews.net/tariffs-and-the-affordability-crisis-why-guitar-prices-are-climbing-and-who-pays/)",
+   "[2025 Guitar Tariffs: Guitar Prices Set to Soar as Tariffs Shake Up the Market](https://guitarbites.com/guitar-prices-set-to-soar-in-2025-as-tariffs-shake-up-the-market/)",
+   "[American Import Tariffs: What Does This Mean for Your Guitar?](https://www.tfoa.eu/blogs/news/american-import-tariffs-what-does-this-mean-for-your-guitar)",
+   "[New Tariffs Raise Guitar Prices and Affect Supply Chains](https://www.vintageguitarlegacies.com/post/new-tariffs-raise-guitar-prices-and-affect-supply-chains)",
+   "[Tariffs slashed US musical instrument imports, but to what end?](https://www.piie.com/blogs/realtime-economics/2026/tariffs-slashed-us-musical-instrument-imports-what-end)",
+   "[Chinese Guitar Companies: Top Manufacturers for 2025](https://www.accio.com/supplier/chinese-guitar-companies)",
+   "[Fender's credit rating is downgraded as tariffs pose new challenges](https://www.guitarplayer.com/makers/fenders-credit-rating-downgraded-moodys-report-2025)",
+   "[Best Online Music Lessons and Learning Platforms in 2026](https://www.side-line.com/best-online-music-lessons-learning-platforms-2026/)",
+   "[Guitar Brand Mergers and Acquisitions News: 7 Game-Changing Deals (2025)](https://www.guitarbrands.org/guitar-brand-mergers-and-acquisitions-news/)",
+   "[Fender's ownership history in a nutshell](https://guitar.com/features/fender-ownership-history/)",
+   "[Fender announces change in ownership, with Servco buying TPG Growth's shares](https://guitar.com/news/industry-news/fender-announces-change-in-ownership-servco-tpg-growth/)",
+   "[Fender® Musical Instruments Corporation Announces Change In Ownership](https://www.prnewswire.com/news-releases/fender-musical-instruments-corporation-announces-change-in-ownership-servco-pacific-inc-to-secure-majority-stake-300993268.html)",
+   "[Bax Music files for bankruptcy and ceases operations](https://www.guitarworld.com/music-industry/bax-music-files-for-bankruptcy)",
+   "[Fernandes Guitars files for bankruptcy again](https://www.guitarworld.com/music-industry/fernandes-files-for-bankruptcy-again-but-theres-still-hope)",
+   "[The day the music dies: Why Utah's guitar shops are closing](https://www.utahbusiness.com/industry/2025/11/25/music-dies-utah-guitar-shops-closing-current-market-tariffs-future-guitars/)",
+   "[The 2025 Guitar Seller's Advantage: Margins, Trends & Platforms That Pay](https://www.shelftrend.com/other-categories/guitar-market-analysis-sellers-guide-2025)"
+  ],
+  "slug": "acoustic-and-electric-guitar-manufacturing"
+ },
+ {
+  "title": "US Activated Carbon Manufacturing",
+  "sector": "Manufacturing",
+  "one_liner": "A $4-5 billion mature manufacturing sector, driven by PFAS drinking-water regulations and industrial emissions compliance, concentrated among five major players who dominate with specialized technologies and regeneration networks.",
+  "overview": "The US activated carbon manufacturing industry stands at roughly $4-5 billion in 2025-2026, growing at 4-8% annually. The sector is anchored by the April 2024 EPA PFAS drinking-water rule, which mandates 4 parts-per-trillion limits for six PFAS compounds and compels 6,000-8,000 water utilities to adopt granular activated carbon by 2029. Five large players—Ingevity, Cabot, Kuraray, Jacobi Carbons, and Xylem—hold 78% market share as of 2025. The industry is simultaneously benefiting from coal-utility mercury emission standards, pharmaceutical API reshoring under the Inflation Reduction Act, and tightening VOC emission limits. Capital investment in reactivation facilities and regeneration services is accelerating, with companies like Calgon Carbon expanding Columbus reactivation capacity to achieve greater-than-99.9% PFAS destruction rates.",
+  "key_stats": {
+   "market_size": "$4.2 billion (2026)",
+   "growth": "6-8% CAGR (2024-2026)",
+   "employees": "706 workers (2021 baseline); modestly growing",
+   "businesses": "26 establishments, 23 enterprises (2021 baseline); five major players control 78% share (2025)",
+   "concentration": "High: Ingevity, Cabot, Kuraray, Jacobi Carbons, Xylem hold 78% (2025)",
+   "profit_margin": "5-7% (inferred from 4.9% baseline, rising with regulatory demand)"
+  },
+  "baseline_2022": {
+   "market_size": "$363 million (2021)",
+   "growth": "0.2% CAGR (2016-2021)"
+  },
+  "current_dynamics": "The industry has undergone a dramatic transformation since 2022, moving from stagnant growth to double-digit expansion. The April 2024 EPA PFAS drinking-water rule is the single largest demand driver: it mandates 4 ppt limits for six PFAS compounds (PFOA, PFOS, PFNA, GenX, PFHxS, PFBS), with compliance required by April 2029. This creates predictable, multi-year demand from roughly 6,000-8,000 community water systems across all US states. American Water, the largest utility provider, signed a nine-year supply contract with Calgon Carbon through 2033 for granular activated carbon and reactivation services across 50+ treatment sites in 10 states. Simultaneously, three other macro tailwinds are accelerating: coal-plant mercury emission compliance (30 GW of lignite capacity driving powdered-carbon demand), pharmaceutical API reshoring under the Inflation Reduction Act (adding 25,000-30,000 metric tons of output capacity in 2023-2025, each ton requiring 50-200 kg of activated carbon for purification), and tightening VOC limits in nonattainment zones (favoring specialty pellet formats). Reactivation has emerged as a competitive differentiator—Calgon Carbon's Columbus facility claims greater-than-99.9% PFAS destruction rates and is drawing long-term contracts. At the same time, China antidumping duties remain in force (2.42 USD/kg cash deposit rate for non-selected Chinese exporters as of 2026), protecting domestic manufacturers. US imports in 2024 totaled $240.3 million (from India $55.6M, Sri Lanka $49.4M, Canada $24M, China $22.4M, Mexico $16.8M), while exports remain a key revenue source.",
+  "one_sentence": "The US activated carbon manufacturing industry—worth $4-5 billion and growing 6-8% annually—is being revitalized by the 2024 EPA PFAS drinking-water rule, which drives predictable municipal water-treatment demand through 2031, while five dominant companies leverage proprietary regeneration technology and vertical integration to capture margin.",
+  "major_players": [
+   "Ingevity (including divested specialty focus on high-margin regulated applications)",
+   "Cabot Corporation (dual-activation patent technology for micro-pore PFAS adsorption)",
+   "Kuraray (2026 Louisiana reactivation capacity expansion)",
+   "Jacobi Carbons (global regeneration network and filter innovation)",
+   "Xylem (IoT sensors and bundle services)"
+  ],
+  "themes": [
+   "Regulatory Compliance",
+   "Water Treatment & PFAS",
+   "Reactivation Services",
+   "Supply Chain Resilience",
+   "Consolidation & Specialization",
+   "Tariff Protection"
+  ],
+  "whats_growing": "Granular activated carbon for PFAS treatment (driven by EPA 2024 rule and 2029 compliance deadline), reactivation and regeneration services (capturing higher margin), powdered activated carbon for coal-plant mercury emission control, pharmaceutical-grade activated carbon for API production reshoring, and extruded pellets for VOC vapor-phase capture in industrial applications.",
+  "whats_shrinking": "Low-margin commodity activated carbon exposed to Chinese imports; non-regulated water filtration where domestic price disadvantage persists; and older product formats (traditional GAC in fixed-bed systems facing displacement by newer spherical and impregnated formats introduced in 2026).",
+  "recent_developments": [
+   "April 2024: EPA finalizes PFAS National Primary Drinking Water Regulation (4 ppt PFOA/PFOS), mandating utility compliance by April 2029 and triggering multi-year supply contracts for granular activated carbon across US water systems",
+   "September 2025: Ingevity appoints Ruth Castillo as president of Performance Materials (activated carbon segment), signaling leadership focus on growth segment",
+   "November 2025: Kuraray discloses 2026 Louisiana reactivation expansion targeting Gulf-Coast petrochemical clients under stricter VOC rules",
+   "January 2026: Activated-carbon manufacturers introduce next-generation spherical products with enhanced pore structures for industrial gas purification and solvent recovery",
+   "January 2026: Ingevity divests North Charleston refinery and Industrial Specialties line, redirecting capital to higher-margin specialty applications for regulated end-uses",
+   "June 2026: US Commerce Department updates China antidumping dumping margin to US$2.42/kg for non-selected exporters, maintaining tariff protection on Chinese imports"
+  ],
+  "outlook": "The sector outlook through 2031 is constructive. The EPA PFAS rule anchors 1.2% incremental CAGR growth through the compliance period, while pharmaceutical reshoring adds incremental demand. Market analysts project 6-8% annual growth in the US market through 2026, with tariff protection limiting Chinese import competition. Five major players will likely consolidate their 78% share through selective M&A targeting niche applications and regeneration networks. Reactivation capacity will expand as utilities seek multi-year contracts to derisk procurement and lock in disposal/regeneration bundles. The industry will face downside risks if coal retirements accelerate post-2030 (reducing mercury-removal demand) or if alternative filtration technologies (biochar, ion exchange) gain traction in municipal applications. Supply-chain stress from tariffs and coal input-cost volatility will continue to shape pricing, though rising regulatory complexity favors integrated, domestically-anchored producers over import-dependent competitors.",
+  "data_year": "2025-2026",
+  "sources": [
+   "https://www.marketresearchfuture.com/reports/activated-carbon-market-1744",
+   "https://www.grandviewresearch.com/industry-analysis/activated-carbon-market",
+   "https://www.mordorintelligence.com/industry-reports/activated-carbon-market",
+   "https://www.mordorintelligence.com/industry-reports/united-states-activated-carbon-market",
+   "https://www.coherentmarketinsights.com/industry-reports/activated-carbon-market",
+   "https://market.us/report/global-activated-carbon-market/",
+   "https://www.precedenceresearch.com/activated-carbon-market",
+   "https://www.imarcgroup.com/activated-carbon-pricing-report",
+   "https://www.federalregister.gov/documents/2026/07/13/2026-14028/certain-activated-carbon-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in",
+   "https://www.usitc.gov/publications/701_731/pub5474.pdf",
+   "https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2024/tradeflow/Imports/partner/ALL/product/380210",
+   "https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas",
+   "https://www.sec.gov/cgi-bin/browse-edgar",
+   "https://finance.yahoo.com/markets/commodities/articles/activated-carbon-industry-research-report-104800650.html"
+  ],
+  "slug": "activated-carbon-manufacturing"
+ },
+ {
+  "title": "US Adhesive Manufacturing: 2025-2026 Market Brief",
+  "sector": "Manufacturing",
+  "one_liner": "The US adhesive manufacturing industry is a mature $21.3 billion market in 2026 growing slowly at 0.5%, pressured by raw material costs and tariffs while consolidating around major players like Henkel and H.B. Fuller.",
+  "one_sentence": "US adhesive manufacturers face slowing growth as tariffs and raw material volatility squeeze margins, while regulatory shifts push the industry toward sustainable bio-based products.",
+  "overview": "US adhesive manufacturing is a slow-growth, capital-intensive industry dominated by fewer but larger players. The market stood at $21.3 billion in 2026 with just 370 businesses down from about 408 in 2022 as consolidation continues. Growth has been muted (0.9% CAGR from 2021-2026) because downstream demand from automotive, construction, and packaging is stable but not expanding. The industry is grappling with volatile raw material costs tied to crude oil and natural gas, plus new 2025 US tariffs that have disrupted sourcing strategies and added pressure to margins.",
+  "key_stats": {
+   "market_size": "$21.3 billion (2026)",
+   "growth": "0.5% (2026); 0.9% CAGR (2021-2026)",
+   "businesses": "370 establishments (2026)",
+   "employees": "Not available for 2026",
+   "profit_margin": "Not available for 2026",
+   "concentration": "High; Henkel, 3M, H.B. Fuller, Sika, Dow, and Huntsman lead the market"
+  },
+  "baseline_2022": {
+   "market_size": "$17.0 billion (2022)",
+   "growth": "0.2% CAGR (2017-2022); projected 2.66% (2022-2028)"
+  },
+  "current_dynamics": "Raw material costs remain the main profit lever. Crude oil and natural gas volatility translate directly to resin and plastic prices, which account for roughly 50% of adhesive production costs; in 2024-2025, key feedstocks like ethylene and propylene swung 15-20% per quarter. The 2025 US tariff regime (10% minimum global tariff, 22.7% on China) has forced manufacturers to reassess supply chains and explore near-shoring or domestic production. Regulatory pressure is mounting: the EPA's January 2025 determination that formaldehyde poses unreasonable risk and the EU's 2030 packaging circularity rules are driving shifts toward bio-based and low-VOC adhesives. Aircraft and aerospace demand is accelerating, with structural bonding replacing mechanical fastening; the aerospace adhesive market is expected to grow from $1.40 billion in 2025 to $3.01 billion by 2036. Consolidation remains the industry norm, with Henkel, H.B. Fuller, and private equity backing key players in aggressive M&A.",
+  "whats_growing": "Aerospace and aircraft adhesive demand (structural bonding replacing fasteners); bio-based and water-based adhesives (projected 11.1% CAGR through 2025); sustainable adhesive segment expected to reach $6.4 billion by 2030; medical device adhesives and pressure-sensitive formulations for electronics.",
+  "whats_shrinking": "Traditional solvent-based and hot-melt adhesives facing regulatory pressure; non-recyclable adhesive systems for packaging; number of small independent adhesive manufacturers (consolidation ongoing).",
+  "recent_developments": [
+   "H.B. Fuller acquired ND Industries (May 2024) to expand automotive, electronics, and aerospace presence.",
+   "Avery Dennison acquired W.F. Taylor Holdings (Taylor Adhesives) for $390 million (2025) to strengthen flooring adhesives.",
+   "Henkel introduced LED-curable Loctite adhesives AA 3951/3953 and AA 3961/3963 (2025) for medical device assembly.",
+   "Dow sold flexible packaging laminating adhesives business to Arkema (December 2024) for $115 million.",
+   "Arsenal Capital Partners sold APPLIED Adhesives to Bertram Capital (April 2025) in mid-market consolidation.",
+   "EPA determined formaldehyde presents unreasonable risk (January 2025), accelerating shift away from formaldehyde-based adhesives."
+  ],
+  "how_it_makes_money": "Adhesive manufacturers sell formulated products (polyurethane, epoxy, pressure-sensitive, water-based) into three main channels: direct sales to automotive assemblers, aircraft and aerospace manufacturers; industrial buyers in packaging, construction, electronics, and medical device assembly; and downstream wholesalers and distributors. Revenue is sensitive to raw material input costs (resin, plastics, solvents, additives) which manufacturers pass through to customers. High-volume commodity adhesives carry thin margins (3-4%) while specialty aerospace and medical adhesives command 10-15% margins. Scale matters: larger players achieve 5-7% profit margins through economies of scale; smaller players struggle below 3%.",
+  "cost_structure": "Raw materials (resins, plastics, solvents, additives): ~50% of COGS; crude oil and natural gas are primary cost drivers. Manufacturing labor and facilities: ~20-25% of COGS. Transportation and logistics: ~10-15%, especially post-2025 tariff increases. R&D and regulatory compliance (formulation innovation, environmental testing): ~5-8%. Sales, marketing, and overhead: ~5-10%. Tariff costs (2025+): now adding 2-5% to total landed costs for imported feedstocks and finished goods.",
+  "major_players": [
+   "Henkel AG (German parent, North American dominance via Loctite brand)",
+   "H.B. Fuller Company (US-based, expanding via acquisition)",
+   "3M Company (diversified conglomerate with strong adhesive portfolio)",
+   "Sika AG (Swiss, focused on construction and industrial)",
+   "Dow Chemical (diversified, selling off non-core adhesive lines)",
+   "Huntsman Corporation (specialty chemicals including adhesives)"
+  ],
+  "outlook": "The 2025-2026 outlook is cautiously stable with modest headwinds. The industry is forecast to grow at 0.5% in 2026, held back by slow automotive demand and tariff friction. However, aerospace demand will be a bright spot: Airbus targets record A320 deliveries in 2026 and Boeing's production recovery is underway, both requiring high-spec structural adhesives. Environmental regulation will accelerate the shift to bio-based and water-based adhesives, creating product mix challenges for legacy manufacturers but opportunity for innovators. Raw material price stability (crude hovering $70-85/barrel in 2026) should ease margin pressure compared to 2021-2024 volatility. The real risk is escalating US tariffs: any increase beyond current 22.7% on China tariffs could force more plant relocations and near-shoring, fundamentally reshaping the supply chain. Consolidation will persist as large players use M&A to achieve scale and absorb margin pressure. By 2027, the industry is expected to inch up to 2.0-2.5% annual growth if tariff uncertainty eases and construction demand picks up.",
+  "themes": [
+   "Raw Material Volatility",
+   "Tariffs and Supply Chain Risk",
+   "Environmental Regulation & Sustainability Shift",
+   "Aerospace and Structural Bonding Growth",
+   "Industry Consolidation and Scale Race",
+   "Bio-Based and Low-VOC Product Innovation"
+  ],
+  "data_year": "2026",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/adhesive-manufacturing/493/",
+   "https://www.grandviewresearch.com/industry-analysis/adhesives-and-sealants-market",
+   "https://www.marketsandmarkets.com/ResearchInsight/waterproof-adhesives-and-sealants-market.asp",
+   "https://www.futuremarketinsights.com/reports/aerospace-adhesives-and-sealants-market",
+   "https://allanchem.com/guide-adhesive-raw-materials/",
+   "https://www.marketsandmarkets.com/Market-Reports/sustainable-adhesives-market-96245422.html",
+   "https://www.prnewswire.com/news-releases/arsenal-completes-sale-of-applied-adhesives-to-bertram-capital-302428434.html",
+   "https://www.sec.gov/Archives/edgar/data/39368/000003936826000002/fulars25.pdf",
+   "https://chemicalresearchinsight.com/2025/09/13/top-10-companies-in-the-bioadhesives-industry-2025-market-leaders-powering-sustainable-bonding-solutions/"
+  ],
+  "slug": "adhesive-manufacturing-in-the-us"
+ },
+ {
+  "title": "US Adhesive Tape Manufacturing 2025-2026",
+  "sector": "Manufacturing",
+  "one_liner": "A mature manufacturing sector caught between import pressure and strong downstream demand from e-commerce, automotive electrification, and healthcare—now wrestling with aggressive tariffs on Chinese imports while consolidating around a few dominant players.",
+  "overview": "The US adhesive tape manufacturing industry is a modestly growing but increasingly pressured sector. In 2025-2026, the industry is valued at approximately $9.3 billion in 2025 and $10.6 billion in 2026, with growth of roughly 0.7 percent annually—far below historical norms. The industry counts 197 businesses and roughly 1,717-1,800 employees. Three players dominate: 3M, Intertape Polymer Group, and Tesa. The industry faces simultaneous tailwinds and headwinds: e-commerce and automotive electrification are driving genuine demand, but Chinese tariffs now running 22.7-46 percent have scrambled the supply chain, and import competition continues to erode margins.",
+  "one_sentence": "A slow-growing mature industry being reshaped by tariffs, e-commerce growth, and EV demand, with consolidation accelerating around three major players.",
+  "key_stats": {
+   "market_size": "$10.6 billion in 2026",
+   "growth": "0.7% annually 2025-2026; global market growing 4-8% CAGR",
+   "profit_margin": "3.9-4.2% (compressed from historical 5-6% pre-2020)",
+   "employees": "1,717-1,800 workers in 2025-2026",
+   "businesses": "197 establishments in 2025, declining 1.4% annually",
+   "concentration": "High: 3M (~$1.48B revenue 2024), Intertape Polymer (~$750M), Tesa (~$408M)"
+  },
+  "current_dynamics": "Tariffs are reshaping the supply chain in real time. Starting February 2025, the US imposed escalating tariffs on Chinese tape (now 22.7 percent cumulative), Vietnamese products (46 percent), and Malaysian tape (24 percent), forcing distributors to absorb 30-45 percent price spikes and pause orders through mid-2025. This has prompted serious domestic production repatriation—especially by US firms with offshore facilities considering reshoring to Vietnam and Malaysia to avoid China tariffs. E-commerce remains a genuine growth engine: global packaging tape demand is surging at 4+ percent annually, driven by Amazon and Shopify, and US box-sealing tape orders remain steady. Automotive is an emerging bright spot: electric vehicle battery assembly and thermal management adhesive tape demand is growing 6.3 percent annually, with electronics applications driving 47.9 percent of automotive adhesive tape revenue. Sustainability is shifting manufacturing: 55 percent of makers are developing biodegradable tapes, with 3M launching bio-based offerings in September 2025 and Henkel acquiring ATP Adhesive Systems in January 2026 to expand high-performance water-based specialty tapes.",
+  "whats_growing": "E-commerce packaging tape (driven by online retail boom), automotive electrification adhesive tape (EV battery and thermal management), sustainable and eco-friendly tapes (now growing 7.5 percent annually), automotive-grade specialty tapes (7.5-8 percent CAGR), and healthcare/medical adhesive tape (offset some decline in office tape from digitalization).",
+  "whats_shrinking": "Office and stationery tape demand (ongoing shift to digital, paperless offices continues since 2022), traditional paper-based tape sales (replaced by water-based alternatives), and domestic manufacturing capacity (number of establishments down 1.4 percent annually despite tariff tailwinds—consolidation is faster than greenfield investment).",
+  "how_it_makes_money": "Revenue splits roughly as: self-adhesive plastic tape over 20cm width (66.3 percent—mostly box-sealing for industrial and packaging), self-adhesive plastic tape under 20cm width (18.2 percent—office and retail), transparent tape (8.5 percent—specialty commercial), reflective tape (4.3 percent—construction and safety), and electrical/rubberized tape (2.1 percent—automotive and industrial). Gross margins are razor-thin (3.9-4.2 percent operating margin 2025) due to commodity pricing and import competition, but manufacturers survive through scale, supply chain efficiency, and customer lock-in (large buyers like Amazon and retailers demand consistent supply).",
+  "cost_structure": "Raw materials (plastic resins, adhesives, backing substrates) account for roughly 60-70 percent of costs, labor roughly 15-20 percent, and overhead/distribution roughly 10-15 percent. Raw material costs are volatile and tied to crude oil and polymer prices. Labor costs are moderately high due to skilled manufacturing, though many firms have moved production offshore or adopted automation. Tariffs now add 22-46 percent to Chinese imports, raising landed costs across the supply chain and pushing some manufacturers back onshore.",
+  "major_players": [
+   "3M Company (dominant, $1.48B+ in adhesive-tape-related revenue 2024)",
+   "Intertape Polymer Group Inc. ($750M annually)",
+   "Tesa Tape Inc./Beiersdorf ($408M in US 2024, part of Henkel post-ATP deal)",
+   "Henkel AG (acquiring ATP Adhesive Systems January 2026, expanding specialty tapes)",
+   "H.B. Fuller (acquired HS Butyl Limited August 2024 for construction tapes expansion)",
+   "Shurtape Technologies (acquired Preferred Finishing Technologies September 2024)",
+   "Nautic Partners (acquired Berry Global Specialty Tapes November 2024)"
+  ],
+  "recent_developments": [
+   "January 2026: Henkel AG signs agreement to acquire ATP Adhesive Systems (Switzerland) for ~€270M revenue base, targeting high-performance water-based specialty tapes for automotive, electronics, medical, and construction—signals industry push into premium segments",
+   "September 2025: 3M announces expanded sustainable adhesive tape portfolio with bio-based and recycled materials for e-commerce and logistics industries",
+   "August 2025: 3M launches new line of biodegradable adhesive tapes, accelerating shift from traditional PVC/acrylic to sustainable formulations",
+   "March 2026: AJ Adhesives reshapes portfolio with higher recycled content in substrates and adhesives for corrugated board and flexible films, responding to brand and regulatory green demands",
+   "November 2024: Nautic Partners acquires Berry Global Specialty Tapes division, expanding presence in industrial adhesive tape market",
+   "February 2025: Trump administration imposes initial 10% tariff on Chinese goods; by mid-2025, cumulative Chinese tape tariffs reach 22.7% (building on 2019 base 25%), forcing supply chain reshoring; Vietnamese tapes hit with 46%, Malaysian with 24%"
+  ],
+  "outlook": "The industry faces a bifurcated outlook to 2027-2028. Domestically, the US adhesive tape market will remain a low-single-digit growth sector (0.7-2.2 percent annually), held back by office/stationery decline, saturation in general retail, and import pressure. However, three tailwinds could accelerate growth: (1) tariffs forcing reshoring and domestic capacity expansion; (2) e-commerce packaging tape demand accelerating 4+ percent globally, with North America as the largest market; (3) automotive electrification driving specialty adhesive tape demand at 6-7 percent CAGR through 2028. Consolidation will intensify as smaller regional makers exit or fold into larger players. Expect 3M, Intertape, and Tesa/Henkel to absorb share through M&A and organic growth into premium segments (automotive, medical, sustainable tapes). Profitability will remain compressed (3-4 percent margins) unless firms succeed in premium-tier shift or secure dominant downstream relationships (e.g., exclusive supply to major shippers). Tariff dynamics are a wildcard: if tariffs persist or rise further, nearshoring to Vietnam/Mexico accelerates; if tariffs ease, import competition from China resurges and margins fall further. By 2027, expect US manufacturing revenue to reach $10.8-11.2 billion if tariffs persist, or revert to flat growth if tariffs normalize.",
+  "themes": [
+   "Tariff-driven reshoring",
+   "E-commerce packaging demand",
+   "EV battery assembly adhesive tape",
+   "Sustainability and biodegradable tapes",
+   "Industry consolidation and M&A",
+   "Import competition and margin pressure",
+   "Healthcare tape growth",
+   "Specialty tape premiumization"
+  ],
+  "baseline_2022": {
+   "market_size": "$233 million in 2022 (2022 IBISWorld report; note this is a different classification—2025-2026 broader definition yields $9.3-10.6B)",
+   "growth": "5-year CAGR 2002-2022 was -2.87%; 2022 saw +1.3% growth after COVID rebound"
+  },
+  "data_year": "2025-2026 (current research); baseline from 2022 IBISWorld report",
+  "sources": [
+   "https://www.ibisworld.com/united-states/industry/adhesive-tape-manufacturing/4963/",
+   "https://www.imarcgroup.com/adhesive-tapes-market",
+   "https://www.grandviewresearch.com/industry-analysis/adhesive-tapes-market-report",
+   "https://www.thebusinessresearchcompany.com/report/adhesive-tapes-global-market-report",
+   "https://www.marketsandmarkets.com/Market-Reports/adhesive-tapes-market-251563138.html",
+   "https://www.globenewswire.com/news-release/2025/06/30/3107252/28124/en/adhesive-tapes-market-growth-and-strategy-outlook-2025-2030-technological-innovations-in-high-performance-tapes-present-business-opportunities.html",
+   "https://www.henkel.com/press-and-media/press-releases-and-kits/2026-01-16-henkel-to-acquire-atp-adhesive-systems-a-leading-expert-in-high-performance-water-based-specialty-tapes-2116612",
+   "https://sztxtape.com/blog/trump-tariffs-adhesive-tape-impact/",
+   "https://www.futuremarketinsights.com/reports/packaging-tapes-market",
+   "https://www.businessmarketinsights.com/reports/sustainable-adhesive-tapes-market",
+   "https://www.adhesivesmag.com/articles/101483-consumer-demand-for-eco-friendly-products-drives-growth-in-market-for-sustainable-adhesive-tapes"
+  ],
+  "slug": "adhesive-tape-manufacturing"
+ }
+]

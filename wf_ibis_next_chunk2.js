@@ -1,0 +1,63 @@
+export const meta = {
+  name: 'ibis-next-chunk2',
+  description: 'Deep 2025-2026 web-researched plain-English briefs for a batch of US IBIS industries (model-agnostic workflow)',
+  phases: [{ title: 'Research', detail: 'one model-configured agent per industry: read 2022 baseline + web-research current' }],
+}
+
+// args = { items: [ { title, slug, file } ... ] }
+const items = [{"title": "Chocolate Stores", "slug": "chocolate-stores", "file": "./txt_full/chocolate-stores.txt"}, {"title": "Cider Production", "slug": "cider-production", "file": "./txt_full/cider-production.txt"}, {"title": "Cigar Lounges", "slug": "cigar-lounges", "file": "./txt_full/cigar-lounges.txt"}, {"title": "Civic, Social & Youth Organizations in the US", "slug": "civic-social-and-youth-organizations-in-the-us", "file": "./txt_full/civic-social-and-youth-organizations-in-the-us.txt"}, {"title": "Classic Car Dealers", "slug": "classic-car-dealers", "file": "./txt_full/classic-car-dealers.txt"}, {"title": "Clothing Alteration Services", "slug": "clothing-alteration-services", "file": "./txt_full/clothing-alteration-services.txt"}, {"title": "Clothing Boutiques", "slug": "clothing-boutiques", "file": "./txt_full/clothing-boutiques.txt"}, {"title": "Coal & Ore Wholesaling in the US", "slug": "coal-and-ore-wholesaling-in-the-us", "file": "./txt_full/coal-and-ore-wholesaling-in-the-us.txt"}, {"title": "Cocoa & Drinking Chocolate Production", "slug": "cocoa-and-drinking-chocolate-production", "file": "./txt_full/cocoa-and-drinking-chocolate-production.txt"}, {"title": "Coffee Creamer Production", "slug": "coffee-creamer-production", "file": "./txt_full/coffee-creamer-production.txt"}, {"title": "Cold Sore Medication Manufacturing", "slug": "cold-sore-medication-manufacturing", "file": "./txt_full/cold-sore-medication-manufacturing.txt"}, {"title": "Comic Book Publishing", "slug": "comic-book-publishing", "file": "./txt_full/comic-book-publishing.txt"}, {"title": "Commercial Oven Manufacturing", "slug": "commercial-oven-manufacturing", "file": "./txt_full/commercial-oven-manufacturing.txt"}, {"title": "Computer Rental", "slug": "computer-rental", "file": "./txt_full/computer-rental.txt"}, {"title": "Convention & Visitor Bureaus in the US", "slug": "convention-and-visitor-bureaus-in-the-us", "file": "./txt_full/convention-and-visitor-bureaus-in-the-us.txt"}, {"title": "Costume & Team Uniform Manufacturing in the US", "slug": "costume-and-team-uniform-manufacturing-in-the-us", "file": "./txt_full/costume-and-team-uniform-manufacturing-in-the-us.txt"}, {"title": "Cotton Personal-Care Product Manufacturing", "slug": "cotton-personal-care-product-manufacturing", "file": "./txt_full/cotton-personal-care-product-manufacturing.txt"}, {"title": "Cough & Cold Medicine Manufacturing OTC", "slug": "cough-and-cold-medicine-manufacturing-otc", "file": "./txt_full/cough-and-cold-medicine-manufacturing-otc.txt"}, {"title": "Cruise & Travel Agency Franchises", "slug": "cruise-and-travel-agency-franchises", "file": "./txt_full/cruise-and-travel-agency-franchises.txt"}, {"title": "DNA & DNA Forensic Laboratories", "slug": "dna-and-dna-forensic-laboratories", "file": "./txt_full/dna-and-dna-forensic-laboratories.txt"}, {"title": "DVD, Game & Video Rental in the US", "slug": "dvd-game-and-video-rental-in-the-us", "file": "./txt_full/dvd-game-and-video-rental-in-the-us.txt"}, {"title": "Daily Deals Sites", "slug": "daily-deals-sites", "file": "./txt_full/daily-deals-sites.txt"}, {"title": "Dairy Farms in the US", "slug": "dairy-farms-in-the-us", "file": "./txt_full/dairy-farms-in-the-us.txt"}, {"title": "Dairy Wholesaling in the US", "slug": "dairy-wholesaling-in-the-us", "file": "./txt_full/dairy-wholesaling-in-the-us.txt"}, {"title": "Dance Studios", "slug": "dance-studios", "file": "./txt_full/dance-studios.txt"}, {"title": "Dark Fiber Network Operators", "slug": "dark-fiber-network-operators", "file": "./txt_full/dark-fiber-network-operators.txt"}, {"title": "Dental Clinical Instrument Manufacturing", "slug": "dental-clinical-instrument-manufacturing", "file": "./txt_full/dental-clinical-instrument-manufacturing.txt"}, {"title": "Dental Equipment Dealers", "slug": "dental-equipment-dealers", "file": "./txt_full/dental-equipment-dealers.txt"}, {"title": "Direct Selling of Jewelry & Accessories", "slug": "direct-selling-of-jewelry-and-accessories", "file": "./txt_full/direct-selling-of-jewelry-and-accessories.txt"}, {"title": "Donations, Grants & Endowment in the US", "slug": "donations-grants-and-endowment-in-the-us", "file": "./txt_full/donations-grants-and-endowment-in-the-us.txt"}, {"title": "Doughnut Stores", "slug": "doughnut-stores", "file": "./txt_full/doughnut-stores.txt"}, {"title": "Drug & Alcohol Test Kit Manufacturing", "slug": "drug-and-alcohol-test-kit-manufacturing", "file": "./txt_full/drug-and-alcohol-test-kit-manufacturing.txt"}, {"title": "Durable Baby Goods Stores", "slug": "durable-baby-goods-stores", "file": "./txt_full/durable-baby-goods-stores.txt"}, {"title": "E-Book Publishing", "slug": "e-book-publishing", "file": "./txt_full/e-book-publishing.txt"}, {"title": "E-cigarette Manufacturing in the US", "slug": "e-cigarette-manufacturing-in-the-us", "file": "./txt_full/e-cigarette-manufacturing-in-the-us.txt"}, {"title": "Early Childhood Learning Centers", "slug": "early-childhood-learning-centers", "file": "./txt_full/early-childhood-learning-centers.txt"}, {"title": "Eating Disorder Clinics", "slug": "eating-disorder-clinics", "file": "./txt_full/eating-disorder-clinics.txt"}, {"title": "Education Consultants", "slug": "education-consultants", "file": "./txt_full/education-consultants.txt"}, {"title": "Egg & Poultry Wholesaling in the US", "slug": "egg-and-poultry-wholesaling-in-the-us", "file": "./txt_full/egg-and-poultry-wholesaling-in-the-us.txt"}, {"title": "Elderly & Disabled Services in the US", "slug": "elderly-and-disabled-services-in-the-us", "file": "./txt_full/elderly-and-disabled-services-in-the-us.txt"}, {"title": "Electrical Equipment Wholesaling in the US", "slug": "electrical-equipment-wholesaling-in-the-us", "file": "./txt_full/electrical-equipment-wholesaling-in-the-us.txt"}, {"title": "Epilepsy Medication Manufacturing", "slug": "epilepsy-medication-manufacturing", "file": "./txt_full/epilepsy-medication-manufacturing.txt"}, {"title": "Family Counseling & Crisis Intervention Services in the US", "slug": "family-counseling-and-crisis-intervention-services-in-the-us", "file": "./txt_full/family-counseling-and-crisis-intervention-services-in-the-us.txt"}, {"title": "Family Planning & Abortion Clinics in the US", "slug": "family-planning-and-abortion-clinics-in-the-us", "file": "./txt_full/family-planning-and-abortion-clinics-in-the-us.txt"}, {"title": "Fantasy Sports Services", "slug": "fantasy-sports-services", "file": "./txt_full/fantasy-sports-services.txt"}, {"title": "Fine Arts Schools in the US", "slug": "fine-arts-schools-in-the-us", "file": "./txt_full/fine-arts-schools-in-the-us.txt"}, {"title": "Fish & Seafood Markets in the US", "slug": "fish-and-seafood-markets-in-the-us", "file": "./txt_full/fish-and-seafood-markets-in-the-us.txt"}, {"title": "Foot Care Product Manufacturing", "slug": "foot-care-product-manufacturing", "file": "./txt_full/foot-care-product-manufacturing.txt"}, {"title": "Footwear Wholesaling in the US", "slug": "footwear-wholesaling-in-the-us", "file": "./txt_full/footwear-wholesaling-in-the-us.txt"}, {"title": "For-Profit Universities in the US", "slug": "for-profit-universities-in-the-us", "file": "./txt_full/for-profit-universities-in-the-us.txt"}, {"title": "Foreign Currency Exchange Services", "slug": "foreign-currency-exchange-services", "file": "./txt_full/foreign-currency-exchange-services.txt"}, {"title": "Forensic Accounting Services", "slug": "forensic-accounting-services", "file": "./txt_full/forensic-accounting-services.txt"}, {"title": "Forensic Technology Services", "slug": "forensic-technology-services", "file": "./txt_full/forensic-technology-services.txt"}, {"title": "Forest Support Services in the US", "slug": "forest-support-services-in-the-us", "file": "./txt_full/forest-support-services-in-the-us.txt"}, {"title": "Frozen Cake & Pastry Manufacturing", "slug": "frozen-cake-and-pastry-manufacturing", "file": "./txt_full/frozen-cake-and-pastry-manufacturing.txt"}, {"title": "Fruit & Vegetable Markets in the US", "slug": "fruit-and-vegetable-markets-in-the-us", "file": "./txt_full/fruit-and-vegetable-markets-in-the-us.txt"}, {"title": "Glucose Meter Manufacturing", "slug": "glucose-meter-manufacturing", "file": "./txt_full/glucose-meter-manufacturing.txt"}, {"title": "Golf Driving Ranges & Family Fun Centers in the US", "slug": "golf-driving-ranges-and-family-fun-centers-in-the-us", "file": "./txt_full/golf-driving-ranges-and-family-fun-centers-in-the-us.txt"}, {"title": "Graphic Designers in the US", "slug": "graphic-designers-in-the-us", "file": "./txt_full/graphic-designers-in-the-us.txt"}, {"title": "Greeting Cards & Other Publishing in the US", "slug": "greeting-cards-and-other-publishing-in-the-us", "file": "./txt_full/greeting-cards-and-other-publishing-in-the-us.txt"}]
+
+const SCHEMA = {
+  type: 'object',
+  required: ['title','sector','one_liner','overview','key_stats','current_dynamics','one_sentence'],
+  properties: {
+    title: { type: 'string' },
+    sector: { type: 'string', description: 'ONE of: Agriculture | Manufacturing | Construction | Retail | Food & Drink | Healthcare | Finance & Insurance | Technology & Digital | Energy & Environment | Business Services | Consumer Services | Media & Entertainment | Transport & Logistics | Real Estate' },
+    one_liner: { type: 'string' },
+    overview: { type: 'string', description: '3-4 plain sentences on the CURRENT 2025-2026 state' },
+    key_stats: {
+      type: 'object',
+      required: ['market_size','growth'],
+      properties: {
+        market_size: { type: 'string', description: 'latest $ WITH year' },
+        growth: { type: 'string' }, businesses: { type: 'string' }, employees: { type: 'string' },
+        profit_margin: { type: 'string' }, concentration: { type: 'string' },
+      },
+    },
+    baseline_2022: {
+      type: 'object', required: ['market_size','growth'],
+      properties: { market_size: { type: 'string' }, growth: { type: 'string' } },
+    },
+    how_it_makes_money: { type: 'string' },
+    cost_structure: { type: 'string' },
+    major_players: { type: 'array', items: { type: 'string' } },
+    current_dynamics: { type: 'string', description: '4-6 plain sentences of real depth on what is happening now' },
+    whats_growing: { type: 'string' },
+    whats_shrinking: { type: 'string' },
+    recent_developments: { type: 'array', items: { type: 'string' }, description: '3-6 dated 2023-2026 events' },
+    outlook: { type: 'string' },
+    themes: { type: 'array', items: { type: 'string' }, description: '4-6 short reusable force tags' },
+    data_year: { type: 'string' },
+    sources: { type: 'array', items: { type: 'string' } },
+    one_sentence: { type: 'string' },
+  },
+}
+
+function prompt(it) {
+  return (
+`Produce a CURRENT (2025-2026) plain-English brief on the US "${it.title}" industry, with real depth on its present dynamics.
+
+TWO INPUTS:
+1) A 2022 IBISWorld report (baseline only) at this local file — read it for structure and the 2022 figures: ${it.file}
+2) THE WEB — you MUST use your WebSearch and WebFetch tools to research the CURRENT state (2024, 2025, 2026): latest market size and growth, recent company moves / M&A / bankruptcies, the main forces disrupting or reshaping the industry right now (technology, regulation, consumer shifts, macro/tariffs), current competitive dynamics, and the 2025-2026 outlook. Attach a YEAR to every number. If a search returns nothing useful, use your own most recent knowledge and label the year — but genuinely try the web first.
+
+Write in plain, everyday English: short sentences, no jargon, no clichés. Every number must carry its year. Do NOT present 2022 figures as current. Put the 2022 report's revenue and 5-yr growth in baseline_2022. Do NOT spawn sub-agents or use the deep-research skill.`
+  )
+}
+
+phase('Research')
+const briefs = await parallel(items.map(it => () =>
+  agent(prompt(it), { label: `ibis:${it.slug}`, phase: 'Research', schema: SCHEMA })
+    .then(b => (b ? { ...b, slug: it.slug } : null))
+))
+return briefs.filter(Boolean)

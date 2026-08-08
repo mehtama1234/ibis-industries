@@ -1,0 +1,383 @@
+[
+  {
+    "title": "Heavy-Duty Diesel Engine Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature but strategically important manufacturing industry supplying diesel engines for freight trucks, vocational equipment, industrial machinery and backup power systems as fleets prepare for model-year 2027 emissions rules.",
+    "overview": "This industry manufactures heavy-duty diesel engines and related powertrain systems used in Class 8 freight trucks, medium-duty trucks and buses, vocational vehicles, off-highway industrial equipment, locomotives, marine applications and stationary power generation. IBISWorld’s public 2025 page estimates US industry revenue at $36.1 billion in 2025, after a 1.5% CAGR decline from 2020 to 2025. Demand is cyclical because engine orders follow truck production, fleet replacement, freight rates, construction, mining, oil and gas capital spending and power-generation investment. The 2025 market was pressured by weak freight conditions and cautious truck customers, but 2026 order data shows a recovery as fleets position around model-year 2027 engine standards and improving rates.",
+    "key_stats": {
+      "market_size": "$36.1 billion revenue in 2025",
+      "growth": "-1.5% CAGR from 2020 to 2025; 2025-to-2030 outlook positive per IBISWorld’s 2025 public summary",
+      "businesses": "250 businesses in 2025",
+      "employment": "33,132 employees in 2025",
+      "largest_segment": "Heavy-duty transportation engines were the largest product segment in 2025",
+      "class_8_orders": "North American preliminary Class 8 net orders were 22,100 units in July 2026, up 68% year over year",
+      "cummins_engine_sales": "Cummins Engine segment external sales were $8.104 billion in 2025, including $2.544 billion from heavy-duty truck engines in 2025",
+      "caterpillar_power_energy": "Caterpillar Power & Energy sales were $9.400 billion in Q4 2025, up 23% year over year",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$13.4 billion in 2022, estimated from the baseline file’s 2021 revenue of $13.062 billion and its 2021-to-2027 projected CAGR of 2.24%",
+      "growth": "2.24% projected 2021-to-2027 CAGR in the baseline file, applied as a 2022 baseline growth rate",
+      "note": "Baseline file figures are in 2021 dollars and came from an August 2021 IBISWorld report; the current 2025 IBISWorld public page uses a materially larger 2025 industry revenue estimate."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling engines, integrated powertrains, aftertreatment systems, replacement engines, industrial engines, generator engines, parts, warranties, software-enabled controls and engineering support to truck OEMs, equipment OEMs, dealers, fleet customers and industrial power users. Revenue is concentrated in OEM production cycles, while aftermarket parts and service provide steadier recurring demand.",
+    "cost_structure": "The cost base is purchase- and manufacturing-heavy. For Cummins’ Engine segment in 2025, cost of goods sold excluding warranty was $8.260 billion on $10.875 billion of total segment sales, warranty expense was $408 million in 2025, R&D and engineering expense was $624 million in 2025, and administrative expense was $570 million in 2025. Industrywide margins are pressured by steel, castings, electronics, turbochargers, aftertreatment materials, labor, warranty reserves, emissions certification, tooling and tariff-sensitive cross-border components.",
+    "major_players": [
+      "Caterpillar Inc.",
+      "Cummins Inc.",
+      "International Motors LLC / Navistar",
+      "Daimler Truck North America / Detroit",
+      "PACCAR Inc.",
+      "Volvo Group North America"
+    ],
+    "current_dynamics": "The 2025 truck market was weak, with freight recession effects, high financing costs and tariff uncertainty limiting fleet orders. TRATON reported International Motors sales of 63,732 units and revenue of €8.169 billion in 2025, down from 90,562 units and €11.116 billion in 2024. By mid-2026, order activity improved: ACT Research reported 31,751 final North American Class 8 net orders in June 2026 and 22,100 preliminary orders in July 2026. Regulatory timing is central: EPA’s 2022 heavy-duty NOx rule and 2024 Phase 3 GHG rule target model-year 2027 vehicles, while EPA’s July 2026 proposed amendments and February 2026 GHG rescission add uncertainty around compliance, warranty periods, useful life and pricing.",
+    "whats_growing": "EPA-2027-ready diesel platforms, integrated engine-transmission-aftertreatment systems, fuel-efficiency upgrades, vocational engines tied to infrastructure and utility work, replacement demand after sub-replacement 2025 sales, power-generation engines for data centers, parts and service revenue, and low-complexity architectures that reduce EGR or aftertreatment maintenance are growing. Cummins’ Power Systems external sales rose to $4.114 billion in 2025 from $3.500 billion in 2024, and its Distribution power-generation sales rose to $4.928 billion in 2025 from $3.961 billion in 2024.",
+    "whats_shrinking": "Legacy diesel platforms without 2027 compliance paths, discretionary tractor purchases during weak freight cycles, smaller carrier expansion orders, emissions systems with high service complexity, and internal-combustion development programs without scale are shrinking. Cummins’ heavy-duty truck engine external sales fell to $2.544 billion in 2025 from $3.320 billion in 2024, and International Motors unit sales fell to 63,732 units in 2025 from 90,562 units in 2024.",
+    "recent_developments": [
+      "2024-03-29: EPA finalized Phase 3 heavy-duty GHG standards beginning with model-year 2027 vehicles.",
+      "2024-09-25: Navistar announced its rebrand to International Motors, effective 2024-10-01.",
+      "2025-12-31: Cummins reported 2025 Engine segment external sales of $8.104 billion and heavy-duty truck engine sales of $2.544 billion.",
+      "2026-02-23: Daimler Truck announced Detroit Gen 6 DD13, DD15 and DD16 engines for North America, with DD13 and DD15 production planned for January 2027 and DD16 for January 2028.",
+      "2026-07-14: EPA published proposed amendments for model-year 2027 and later heavy-duty highway engine compliance provisions and test procedures.",
+      "2026-08-05: ACT Research reported July 2026 preliminary North American Class 8 net orders of 22,100 units, up 68% year over year."
+    ],
+    "outlook": "The 2026-to-2030 outlook is cautiously positive. Freight-rate improvement and low 2025 replacement activity support a Class 8 recovery, while model-year 2027 rules may pull forward some demand and force fleets to evaluate higher equipment prices. Diesel will remain central in long-haul, vocational, off-highway and backup-power applications through 2030, but growth will favor manufacturers with compliant platforms, scale purchasing, strong dealer service, lower warranty risk and adjacent power-generation exposure. Battery-electric and alternative-fuel adoption will keep pressure on long-term diesel volumes, especially in depot-based and port applications, but infrastructure constraints and duty-cycle requirements preserve diesel’s role in heavy-duty use cases.",
+    "themes": [
+      "EPA 2027 compliance",
+      "freight-cycle recovery",
+      "fuel efficiency",
+      "tariff exposure",
+      "integrated powertrains",
+      "data-center backup power",
+      "aftermarket parts and service",
+      "diesel-to-zero-emission transition",
+      "vocational resilience",
+      "industry consolidation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/heavy-duty-diesel-engine-manufacturing.txt",
+      "https://www.ibisworld.com/united-states/industry/heavy-duty-diesel-engine-manufacturing/5644/",
+      "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-and-related-materials-control-air-pollution",
+      "https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-greenhouse-gas-emissions-standards-heavy-duty",
+      "https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-smog-soot-and-other-air-pollution-commercial",
+      "https://www.actresearch.net/resources/blog/north-america-class-8-blog",
+      "https://investor.cummins.com/sec-filings/annual-reports/xbrl_doc_only/3858",
+      "https://investor.cummins.com/sec-filings/annual-reports/xbrl_doc_only/3838",
+      "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "https://annualreport.traton.com/2025/en/further-information/five-year-overview/index.html",
+      "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-introduces-new-heavy-duty-diesel-engine-generation-in-north-america-53372228",
+      "https://www.international.com/products/trucks/features/engines-and-powertrains/s13-integrated"
+    ],
+    "one_sentence": "US heavy-duty diesel engine manufacturers are balancing a weak 2025 truck cycle with 2026 order recovery, data-center power demand, tariff risk and engineering spend for model-year 2027 compliant engines.",
+    "slug": "heavy-duty-diesel-engine-manufacturing"
+  },
+  {
+    "title": "Heavy-Duty OTR Tire Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, import-exposed tire niche tied to mining, construction, trucking and farm equipment cycles.",
+    "overview": "This industry manufactures heavy-duty off-the-road, industrial, construction, agricultural, mining, truck and bus tires used on haul trucks, loaders, bulldozers, graders, cranes, farm tractors, buses and heavy trucks. The baseline IBISWorld file placed 2021 revenue at $4.43 billion and forecast a recovery to about $5.1 billion by 2026 after COVID-era disruption, implying a roughly $5.0 billion 2025 US manufacturing revenue base. The market remains mature and concentrated around large global tire makers with US production or distribution footprints, while lower-cost imports and retreading alternatives keep pricing pressure high.",
+    "key_stats": {
+      "market_size": "2026: $5.1 billion forecast US industry revenue; 2025: about $5.0 billion estimate implied by the 2021-2026 baseline forecast.",
+      "growth": "2021-2026: 2.9% forecast CAGR from the baseline file; 2025 demand was mixed, with mining stronger and North American truck/agricultural OE weaker.",
+      "imports": "2021: $3.1 billion baseline imports, with imports forecast to rise to about $3.4 billion by 2026.",
+      "exports": "2021: $826.5 million baseline exports, with Canada and Mexico important nearby markets.",
+      "rubber_input": "2026-06: IMF/FRED global rubber price reached 133.8 US cents per pound, up from 94.7 US cents per pound in 2025-12.",
+      "construction_driver": "2026-05: US construction spending ran at a $2.210 trillion seasonally adjusted annual rate, 1.5% below 2025-05, while highway construction was $150.6 billion.",
+      "farm_driver": "2026: USDA forecast net farm income of $153.4 billion, down 0.7% from 2025, and net cash farm income of $158.5 billion, up 3.0% from 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $4.56 billion, forecast-implied from the baseline file's 2021 revenue of $4.43 billion and 2021-2026 recovery path.",
+      "growth": "2022: about 2.9% forecast-implied revenue growth; the baseline file expected a post-2021 recovery toward $5.1 billion by 2026.",
+      "profit_margin": "2021 baseline profit margin: 7.6%, down from 9.8% in 2016.",
+      "establishments": "2021 baseline establishments: 96.",
+      "employment": "2021 baseline employment: 10,614 workers."
+    },
+    "how_it_makes_money": "Manufacturers sell new tires into two main channels: original equipment fitments for heavy trucks, buses, construction machinery, mining equipment and farm machinery; and higher-margin replacement tires sold through dealers, commercial service networks, fleet accounts and mining/agriculture/construction distributors. Large players also attach value through tire management software, field service, retreading programs, pressure/load consulting and application-specific designs for fuel economy, wear life, traction and uptime.",
+    "cost_structure": {
+      "purchases": "2021 baseline purchases were 48.6% of revenue, dominated by natural rubber, synthetic rubber, carbon black, steel cord, fabric, chemicals and energy-intensive processing inputs.",
+      "labor": "Labor is meaningful but secondary to materials; 2021 baseline wages were $712 million across 10,614 employees.",
+      "profit": "2021 baseline EBIT margin was 7.6%; 2025-2026 margins are pressured by plant utilization, raw-material inflation and OE volume weakness but supported by premium replacement and mining tire mix.",
+      "distribution_and_service": "Dealer networks, fleet service, warranty support, logistics and inventory availability are important because OTR customers value uptime and fast replacement.",
+      "capital_and_rd": "Plants require specialized curing, mixing, testing and quality systems, while R&D focuses on radialization, longer tread life, heat resistance, fuel efficiency, load capacity and sensor-enabled tire management."
+    },
+    "major_players": [
+      "Bridgestone Americas: major US OTR and agricultural tire supplier, with nearly 40% domestic OTR replacement/OE share cited by Bridgestone Americas and about 40% agricultural replacement share.",
+      "Michelin: global premium tire producer; 2025 specialty tire results showed mining strength but agricultural OE weakness in North America.",
+      "Titan International: US-based off-highway wheel, tire, assembly and undercarriage manufacturer with Titan and Goodyear Farm Tire brands; Q4 2025 revenue rose 7% to $410 million.",
+      "The Goodyear Tire & Rubber Company: important commercial truck tire brand and historical OTR participant, with farm tire brand exposure through Titan.",
+      "Yokohama, Continental and Balkrishna Industries: global competitors supplying OTR, agriculture, construction and mining tire demand in the US market, often through import and dealer channels."
+    ],
+    "current_dynamics": "The 2025-2026 market is split. Mining tires are comparatively strong because large mines prioritize uptime, wear life and fleet productivity, and Bridgestone and Michelin both reported firm or rising mining tire demand in 2025. Agriculture and construction OE demand is softer: Michelin said more than 80% of its 2025 tire volume decline came from OE markets, especially North American truck and agricultural tires, while Titan cited lower agricultural and earthmoving/construction demand in 2025. Construction remains a volume support from public works and highway spending, but total construction spending in 2026-05 was below 2025-05. Rubber cost risk has re-emerged, with the FRED global rubber price climbing sharply from late 2025 into 2026-06.",
+    "whats_growing": "Mining replacement tires, ultra-large mining tires, premium radial OTR tires, tire-management software, high-durability compounds, retreading and service-led fleet programs are growing. Public infrastructure, highway work and large industrial construction support replacement demand for loaders, graders, cranes and haul trucks even when private construction is uneven. Farm cash income remains above long-run averages in 2026, supporting replacement demand even as crop receipts and OE equipment purchases are less robust.",
+    "whats_shrinking": "North American truck and agricultural original-equipment tire demand weakened in 2025, and construction OEM demand remained soft for some suppliers. Coal mining is a structural drag: US coal production fell 11.3% in 2024 to 512.5 million short tons, reducing a historically tire-intensive end market. Domestic producers also face ongoing pressure from imported OTR tires, especially where buyers can substitute lower-priced Asian supply or retreaded/remanufactured alternatives.",
+    "recent_developments": [
+      "2025-04-30: Titan reported Q1 2025 net sales of $490.7 million, but earthmoving/construction segment sales fell 13.3% year over year.",
+      "2025-08-22: The US Court of International Trade sustained Commerce's countervailing-duty review decision involving certain new pneumatic OTR tires from India.",
+      "2026-02-11: Michelin reported 2025 tire volumes down 4.7%, mainly from OE weakness in North American truck and agricultural tires, while mining tire volumes rose.",
+      "2026-02-16: Bridgestone reported FY2025 revenue of ¥4,429.5 billion and cited firm sales of ultra-large tires for mining vehicles despite tariff and North American demand headwinds.",
+      "2026-05-19: USDA forecast 2026 net farm income at $153.4 billion, down 0.7% from 2025, while net cash farm income was forecast up 3.0%.",
+      "2026-07-01: Census reported May 2026 construction spending at a $2.210 trillion annual rate, 1.5% below May 2025, with highway construction at $150.6 billion."
+    ],
+    "outlook": "Revenue should hold near the baseline's 2026 forecast of about $5.1 billion, but the mix matters more than headline growth. Replacement mining, construction service and premium radial tires should outperform, while OE-linked agriculture, truck and construction machinery tire volumes remain vulnerable to equipment-cycle weakness and interest-rate-sensitive capital spending. Rubber prices, tariff policy and import availability will decide how much cost pressure manufacturers can pass through. Over 2026-2028, the best-positioned producers will be those with local supply, premium application engineering, service networks and mining/agriculture fleet relationships rather than pure commodity tire capacity.",
+    "themes": [
+      "Import competition and tariff protection",
+      "Mining replacement resilience",
+      "Agricultural OE downcycle",
+      "Rubber price volatility",
+      "Infrastructure-linked construction demand",
+      "Premium radialization and longer tread life",
+      "Retreading and tire-as-a-service",
+      "Domestic supply-chain value"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/heavy-duty-otr-tire-manufacturing.txt",
+      "https://fred.stlouisfed.org/data/PRUBBUSDM",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast",
+      "https://www.michelin.com/en/publications/group/financial-information-december-31-2025",
+      "https://www.bridgestone.com/ir/financialdata/results/",
+      "https://www.prnewswire.com/news-releases/titan-international-inc-reports-fourth-quarter-and-fiscal-year-2025-financial-performance-302697570.html",
+      "https://ir.titan-intl.com/news-and-events/news-releases/press-release-details/2025/Titan-International-Inc--Reports-First-Quarter-Financial-Performance/",
+      "https://law.justia.com/cases/federal/appellate-courts/cit/23-00233/23-00233-2025-08-22.html",
+      "https://www.eia.gov/coal/annual/"
+    ],
+    "one_sentence": "US heavy-duty OTR tire manufacturers are benefiting from mining replacement demand and infrastructure-linked construction use, but weak North American agricultural and truck original-equipment demand, volatile rubber prices and import competition are keeping growth uneven in 2025-2026.",
+    "slug": "heavy-duty-otr-tire-manufacturing"
+  },
+  {
+    "title": "Hedge Funds",
+    "sector": "Finance & Insurance",
+    "one_liner": "Hedge funds are fee-driven private investment vehicles that use flexible strategies, leverage and short selling to pursue absolute returns for institutions and wealthy investors.",
+    "overview": "US hedge funds pool capital from accredited and institutional investors and invest across equities, fixed income, derivatives, currencies, commodities, credit, event-driven situations and multi-strategy portfolios. Industry revenue is tied to assets under management, investment performance and fee terms, so higher asset values and performance fees can quickly lift revenue, while weak returns, redemptions and fee compression reduce it. The 2025-2026 cycle is more favorable than the post-2022 reset: HFR reported global hedge fund capital of $5.15 trillion at year-end 2025 and $5.6 trillion at Q2 2026, while SEC Form PF data showed hedge funds with $5.42 trillion of NAV and $12.59 trillion of gross asset value in 2025 Q1 among SEC-registered Form PF filers.",
+    "key_stats": {
+      "market_size": "$130.1 billion US industry revenue in 2026, based on the baseline IBISWorld 2021-2026 forecast",
+      "growth": "4.8% 2021-2026 CAGR forecast for US industry revenue in the baseline IBISWorld file",
+      "global_aum": "$5.6 trillion global hedge fund industry capital in 2026 Q2, up from $5.15 trillion at 2025 year-end",
+      "form_pf_assets": "$5.42 trillion NAV and $12.59 trillion GAV for hedge funds reported by SEC-registered Form PF filers in 2025 Q1",
+      "domestic_financial_assets": "$3.443 trillion US hedge fund total financial assets in 2025, up from $2.900 trillion in 2024 and $2.409 trillion in 2022",
+      "performance": "HFRI Fund Weighted Composite gained 12.5% in 2025 and 7.5% in 2026 H1",
+      "fees": "Average industry-wide management fee was 1.32% and incentive fee was 15.78% in 2026 Q1",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$108.0 billion estimated US industry revenue in 2022, derived from the baseline 2021 revenue of $103.1 billion and 4.8% 2021-2026 forecast CAGR",
+      "growth": "4.8% estimated 2022 revenue growth using the baseline 2021-2026 forecast CAGR",
+      "context": "Baseline file last updated 2021; it gives 2021 revenue of $103.1 billion and a 2026 forecast of $130.1 billion rather than an observed 2022 table."
+    },
+    "how_it_makes_money": "Hedge funds mainly earn management fees charged as a percentage of AUM and incentive fees on investment gains, with some managers also earning pass-through expense reimbursements, fund-level administrative recoveries, co-investment economics or customized mandate fees. The traditional 2-and-20 model has weakened; HFR estimated 2026 Q1 average fees at 1.32% management and 15.78% incentive, while new 2026 Q1 funds averaged 1.22% management and 17.4% incentive.",
+    "cost_structure": "The largest costs are highly compensated investment staff, quantitative researchers, traders, technology and market data, followed by prime brokerage, financing, legal and compliance, fund administration, audit, custody, insurance and investor relations. Costs rise with strategy complexity: multi-strategy, quant, macro and relative-value funds require expensive systems, financing relationships and risk infrastructure, while regulatory reporting and Form PF compliance add fixed overhead that favors larger managers.",
+    "major_players": [
+      "Citadel",
+      "Millennium Management",
+      "D.E. Shaw",
+      "Bridgewater Associates",
+      "AQR Capital Management",
+      "Two Sigma",
+      "Point72 Asset Management",
+      "Elliott Investment Management",
+      "Balyasny Asset Management",
+      "Renaissance Technologies"
+    ],
+    "current_dynamics": "The industry has regained momentum after the 2022 market shock. In 2025, HFR reported the strongest calendar-year hedge fund performance since 2009, $115.8 billion of net inflows and $642.8 billion of capital growth. In 2026 H1, performance and capital growth accelerated, with Q2 2026 global industry capital reaching $5.6 trillion and investor allocations still concentrated among managers above $5 billion in AUM. At the same time, fee compression continues, fund liquidations rose in 2026 Q1, and regulators remain focused on leverage, Treasury basis trades, counterparty exposure and private fund reporting.",
+    "whats_growing": "Equity hedge, event-driven, relative-value, macro and multi-strategy platforms are growing where managers can monetize dispersion, AI infrastructure spending, M&A, IPOs, distressed credit and rate volatility. HFR reported 2026 Q2 equity hedge AUM of $1.76 trillion, event-driven AUM of $1.59 trillion, relative-value AUM of $1.43 trillion and macro AUM of $857.5 billion. Large managers are taking a disproportionate share of flows, with firms above $5 billion receiving $77.2 billion of net inflows in 2026 H1.",
+    "whats_shrinking": "Undifferentiated long/short equity funds, smaller managers without scale, high-fee products with index-like beta and weaker-performing macro or commodity strategies are under pressure. Industry-wide average fees continued to decline in 2026 Q1, and HFR reported 129 fund liquidations in 2026 Q1, the highest quarterly total since 2024 Q2. Regulatory changes proposed in 2026 would reduce some large-adviser Form PF burdens but also highlight continued official scrutiny of hedge fund leverage and systemic risk.",
+    "recent_developments": [
+      "2025 Q1: SEC Form PF data showed 9,822 hedge funds advised by 1,830 advisers, with $12.59 trillion GAV and $5.42 trillion NAV.",
+      "2025: HFR reported global hedge fund capital rose by a record $642.8 billion to $5.15 trillion, including $115.8 billion of net inflows.",
+      "2025: HFRI Fund Weighted Composite gained 12.5%, the strongest calendar-year hedge fund performance since 2009.",
+      "2025 Sep: Federal Reserve analysis found large hedge funds' gross US Treasury exposures had doubled since 2023 to $4.0 trillion, including an approximately $830 billion Treasury cash-futures basis trade.",
+      "2026 Q1: HFR estimated 166 new hedge fund launches and 129 liquidations, while average industry fees slipped to 1.32% management and 15.78% incentive.",
+      "2026 Q2: HFR reported global hedge fund capital reached a record $5.6 trillion after $409.3 billion of quarterly capital growth."
+    ],
+    "outlook": "The 2026 outlook is constructive but more scale-dependent. Revenue should benefit from elevated AUM, positive performance fees, market dispersion, AI-linked volatility, M&A and IPO activity, and demand for uncorrelated returns. The main risks are crowded trades, financing stress, sudden deleveraging in Treasury relative-value strategies, weaker public markets, lower incentive fees after drawdowns, and continued fee pressure from institutional investors. Large multi-strategy, quant, macro and relative-value platforms are best positioned because they can spread technology, financing, compliance and talent costs across larger asset bases.",
+    "themes": [
+      "record AUM and renewed inflows",
+      "large-manager concentration",
+      "fee compression",
+      "AI and technology dispersion",
+      "Treasury basis trade leverage",
+      "multi-strategy platform growth",
+      "event-driven and IPO cycle recovery",
+      "regulatory reporting and systemic-risk scrutiny",
+      "quantitative and systematic strategies",
+      "institutional demand for portfolio diversification"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld text file: Hedge Funds', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hedge-funds.txt'}",
+      "{'title': 'HFR - Global Hedge Fund Industry Capital Surges Past Historic $5 Trillion Milestone, January 22 2026', 'url': 'https://www.hfr.com/media/market-commentary/global-hedge-fund-industry-capital-surges-past-historic-5-trillion-milestone/'}",
+      "{'title': 'HFR - Hedge Fund Industry Asset Growth Shatters Records, July 23 2026', 'url': 'https://www.hfr.com/media/market-commentary/hedge-fund-industry-asset-growth-shatters-records/'}",
+      "{'title': 'HFR - Hedge Fund Launches, Liquidations Rise to Begin Volatile 2026, July 14 2026', 'url': 'https://www.hfr.com/media/market-commentary/hedge-fund-launches-liquidations-rise-to-begin-volatile-2026/'}",
+      "{'title': 'SEC - Private Fund Statistics, 2025 Q3 dashboard and Form PF background', 'url': 'https://www.sec.gov/data-research/statistics-data-visualizations/private-fund-statistics'}",
+      "{'title': 'Federal Register - Form PF Reporting Requirements for All Filers, 2026 proposal using 2025 Q1 Form PF data', 'url': 'https://thefederalregister.org/documents/2026-07993/form-pf-reporting-requirements-for-all-filers'}",
+      "{'title': 'Federal Reserve - Enhanced Financial Accounts Hedge Funds, last updated June 18 2026', 'url': 'https://www.federalreserve.gov/releases/efa/efa-hedge-funds.htm'}",
+      "{'title': 'FRED - Hedge Funds; Total Financial Assets, 2025 annual observation', 'url': 'https://fred.stlouisfed.org/series/BOGZ1FL624090005A'}",
+      "{'title': \"Federal Reserve - Decomposing Hedge Funds' U.S. Treasury Exposures, June 22 2026\", 'url': 'https://www.federalreserve.gov/econres/notes/feds-notes/decomposing-hedge-funds-u-s-treasury-exposures-20260622.html'}"
+    ],
+    "one_sentence": "The US hedge fund industry earns management and incentive fees on investor capital, with 2026 conditions defined by record global AUM, stronger inflows, AI-led equity dispersion, Treasury relative-value leverage and continuing fee pressure.",
+    "slug": "hedge-funds"
+  },
+  {
+    "title": "Helium Production",
+    "sector": "Energy & Environment",
+    "one_liner": "U.S. helium producers extract and refine a scarce natural-gas byproduct that is essential for semiconductors, MRI systems, aerospace, research and specialty industrial uses.",
+    "overview": "The industry manufactures helium in compressed, liquid and purified Grade-A forms, mostly by separating helium from helium-rich natural gas streams and refining crude helium into merchant product. In 2022, IBISWorld estimated U.S. industry revenue at $942.5 million after a 29.2% rebound from the 2020 pandemic shock. USGS estimated 2024 U.S. Grade-A and gaseous helium sales at 81 million cubic meters valued at about $1.1 billion, with apparent consumption of 56 million cubic meters. For 2025, USGS Mineral Commodity Summaries 2026 estimated U.S. helium production at 81 million cubic meters and world production at 190 million cubic meters, leaving the United States the largest producer at roughly 43% of global output.",
+    "key_stats": {
+      "market_size": "$1.1 billion in 2024 U.S. Grade-A and gaseous helium sales, according to USGS; IBISWorld projected U.S. industry revenue to reach about $1.2 billion by 2027.",
+      "growth": "4.8% projected U.S. industry revenue CAGR for 2022-2027 in the 2022 IBISWorld baseline; 2024 U.S. Grade-A and gaseous helium sales volume was flat year over year at 81 million cubic meters.",
+      "production": "81 million cubic meters of U.S. helium production in 2025, per USGS Mineral Commodity Summaries 2026.",
+      "global_share": "The United States produced about 43% of 2025 world helium output, based on 81 million cubic meters out of a 190 million cubic meter world total.",
+      "price": "USGS estimated the 2024 Grade-A helium base price at about $14 per cubic meter, with producer surcharges.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$942.5 million in 2022 U.S. industry revenue, in 2022 dollars.",
+      "growth": "29.2% revenue growth in 2022 and 2.2% annualized revenue growth over 2017-2022.",
+      "profit": "$243 million profit in 2022, equal to a 25.8% margin.",
+      "exports": "$446.2 million in 2022 exports, equal to 47.2% of industry revenue.",
+      "imports": "$61.1 million in 2022 imports, equal to 11.0% of domestic demand.",
+      "establishments": "18 establishments and 10 enterprises in 2022.",
+      "employment": "1,318 employees in 2022."
+    },
+    "how_it_makes_money": "Operators sell bulk liquid helium, compressed gaseous helium, crude helium enrichment, purification services and long-term supply contracts to industrial gas distributors and large end users. Revenue is tied to take-or-pay contracts, spot sales, export shipments, purity premiums, logistics charges and surcharges during tight supply periods. Key 2024 end uses by U.S. apparent consumption were analytical/lab/science/specialty gases at 22%, lifting gas at 18%, MRI at 17%, controlled atmospheres/fiber optics/semiconductors at 15%, welding at 8%, aerospace pressurizing and purging at 7%, leak detection at 5%, diving at 5% and other uses at 3%.",
+    "cost_structure": "The business is capital intensive because producers need helium-rich gas acreage or supply rights, cryogenic extraction, enrichment and purification units, liquefaction capacity, storage, ISO containers and specialized transport. Major costs include natural gas feedstock and field operations, power for compression and cryogenic processing, plant maintenance, labor, royalties, pipeline and storage access, cylinder and container fleets, insurance and compliance. Profitability is supported by scarcity, high barriers to entry and long-term contracts, but margins move with plant uptime, natural gas economics, export logistics and spot-price volatility.",
+    "major_players": [
+      "Messer Group / Messer Helium Cliffside",
+      "Linde plc",
+      "Air Products and Chemicals Inc.",
+      "Air Liquide SA / Airgas USA LLC",
+      "Matheson Tri-Gas Inc.",
+      "Iwatani Corporation of America",
+      "North American Helium"
+    ],
+    "current_dynamics": "The 2024 sale of the Federal Helium System moved the former federal reserve, Cliffside Field, crude helium pipeline and related infrastructure into private ownership under Messer, ending a century-long federal operating role. Supply remains concentrated: USGS 2026 data put 2025 world helium production at 190 million cubic meters, led by the United States at 81 million cubic meters and Qatar at 63 million cubic meters. Market balance improved in 2025 as new sources came online, with Gasworld/Intelligas estimating 2025 global demand near 6.0 Bcf and supply near 6.5 Bcf, but the market remains vulnerable to outages because production depends on a small number of gas fields, purification plants and cryogenic logistics assets.",
+    "whats_growing": "Demand is growing from semiconductor fabrication, advanced electronics, AI chip supply chains, fiber optics, aerospace launch and test programs, national defense, scientific research, quantum and cryogenic systems, and continued MRI installed-base support. U.S. and Canadian private helium projects are also growing as buyers seek supply outside legacy hydrocarbon projects and geopolitically exposed regions.",
+    "whats_shrinking": "Federal ownership and direct public-market supply have effectively ended after the 2024 Federal Helium System sale. Legacy reserve withdrawals are no longer a public stabilizer, balloon and low-value discretionary uses face more substitution and conservation pressure, and older hydrocarbon-linked sources are declining where gas fields mature or operators choose not to recover helium.",
+    "recent_developments": [
+      "2024-06-24: BLM reported transfer of the Federal Helium System to a private party under the Helium Stewardship Act.",
+      "2024-06-27: BLM closed the Federal Helium System sale to Messer, including the Federal Helium Reserve, Cliffside Field, 423-mile crude helium pipeline and operating assets.",
+      "2025-01-13: Messer said court receivership allowed Cliffside Refiners operations to continue at the former Federal Helium System near Amarillo, Texas.",
+      "2025-03-11: USGS released world production-capacity projections for helium and seven critical minerals through 2029.",
+      "2025-08-08: NASA awarded about $105.1 million in agency-wide liquid and gaseous helium supply contracts to Messer, Linde and Airgas for performance beginning 2025-10-01.",
+      "2026-02-06: USGS Mineral Commodity Summaries 2026 estimated 2025 U.S. helium production at 81 million cubic meters and world output at 190 million cubic meters."
+    ],
+    "outlook": "The 2026-2029 outlook is constructive but volatile. IBISWorld's 2022 baseline projected U.S. revenue growth of 4.8% annually from 2022 to 2027, supported by electronics, healthcare, aerospace and exports. Current public data show U.S. production still large and strategically important in 2025, while global capacity additions could ease pricing when plants operate reliably. The main risks are outages at concentrated production hubs, reduced reserve flexibility after privatization, constrained ISO-container logistics, Russia-related trade restrictions, and the slow pace of developing new helium-rich fields. Producers with reliable feedstock, liquefaction access and long-term contracts should retain pricing power even if spot prices soften from shortage peaks.",
+    "themes": [
+      "Critical mineral supply chain",
+      "Federal Helium System privatization",
+      "Semiconductor and AI infrastructure demand",
+      "MRI and cryogenic healthcare demand",
+      "Aerospace and defense procurement",
+      "High market concentration",
+      "Supply volatility and geopolitical risk",
+      "Helium conservation and recycling",
+      "Natural gas byproduct economics",
+      "North American private project development"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Helium Production, March 09, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/helium-production.txt'}",
+      "{'title': 'USGS Helium and Rare Gases Statistics and Information', 'url': 'https://www.usgs.gov/centers/national-minerals-information-center/helium-and-rare-gases-statistics-and-information'}",
+      "{'title': 'USGS Mineral Commodity Summaries 2026: Helium PDF', 'url': 'https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-helium.pdf'}",
+      "{'title': 'USGS Mineral Commodity Summaries 2025: Helium PDF', 'url': 'https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-helium.pdf'}",
+      "{'title': 'BLM completes sale of Federal Helium System, June 27, 2024', 'url': 'https://www.blm.gov/press-release/blm-completes-sale-federal-helium-system'}",
+      "{'title': 'BLM Stewardship of the Federal Helium Program', 'url': 'https://www.blm.gov/programs/energy-and-minerals/helium/stewardship'}",
+      "{'title': 'Messer completes acquisition of Federal Helium System from BLM, June 27, 2024', 'url': 'https://www.messer-us.com/press-releases/messer-completes-acquisition-of-federal-helium-system-from-blm'}",
+      "{'title': 'Messer Helium Cliffside receivership update, January 13, 2025', 'url': 'https://www.messer-us.com/press-releases/messer-helium-cliffside-keeps-amarillo-system-running'}",
+      "{'title': 'NASA selects contractors to supply centers with helium, August 08, 2025', 'url': 'https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/'}",
+      "{'title': 'Gasworld: The 2025 worldwide helium market, October 03, 2025', 'url': 'https://www.gasworld.com/feature/the-2025-worldwide-helium-market/2165923.article/'}"
+    ],
+    "one_sentence": "Helium Production is a small, highly concentrated U.S. industry whose 2024-2026 performance is shaped by privatization of the former Federal Helium System, tight global supply chains and durable demand from advanced manufacturing, healthcare and space programs.",
+    "slug": "helium-production"
+  },
+  {
+    "title": "Herbal Tea Production",
+    "sector": "Food & Drink",
+    "one_liner": "U.S. herbal tea producers blend and package caffeine-free botanical infusions for grocery, mass retail, natural-channel, online and foodservice buyers.",
+    "overview": "Herbal tea production covers companies that blend and package plant infusions made from leaves, roots, fruits, flowers, herbs and spices other than Camellia sinensis tea leaves; the IBIS baseline excludes iced and ready-to-drink herbal teas. Demand is tied to tea consumption, wellness positioning, aging consumers, disposable income and the shift from sugary drinks toward caffeine-free functional beverages. Public 2025-2026 market data points to a larger U.S. herbal tea sales market than the narrower domestic production dataset, reflecting imported finished teas, retailer/private-label sales and broader channel coverage.",
+    "key_stats": {
+      "market_size": "2025 U.S. herbal tea market sales: $876.91 million; 2025 narrower U.S. herbal beverage market estimate: $221.06 million; 2023 U.S. herbal tea production revenue: $587.3 million",
+      "growth": "2026-2034 U.S. herbal tea market CAGR forecast: 4.27%; 2026-2034 global herbal beverage CAGR forecast: 9.69%; 2020-2025 broader U.S. tea production CAGR: 1.5%",
+      "profit_margin": "2021 herbal tea production profit margin: 10.0%; 2026 baseline forecast profit margin: 12.6%",
+      "trade": "2024 U.S. tea import value: $578.57 million, up 11.0% from 2023; 2025 first-half U.S. tea import value: $296.01 million",
+      "consumption": "2021 Americans consumed almost 85 billion tea servings and more than 3.9 billion gallons; 2022 Tea Association fact sheet cited tea in almost 80% of U.S. households",
+      "products": "2021 production mix: chamomile tea 23.8%, mint tea 17.5%, other herbal teas 58.7%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated domestic herbal tea production revenue: $403.7 million in 2021 dollars, derived from the baseline 2021 revenue of $401.3 million and the baseline 2021-2026 forecast CAGR of 0.6%",
+      "growth": "2022 forecast revenue growth: about 0.6% under the baseline 2021-2026 outlook",
+      "imports": "2021 imports: $171.9 million, equal to 35.5% of domestic demand in the baseline report",
+      "exports": "2021 exports: $89.0 million, equal to 22.2% of industry revenue in the baseline report",
+      "establishments": "2021 establishments: 205; baseline forecast establishment CAGR for 2021-2027: 5.14%",
+      "employment": "2021 employment: 750; baseline forecast 2026 employment: 811"
+    },
+    "how_it_makes_money": "Producers buy dried botanicals, herbs, spices and packaging inputs, then blend, flavor, test, package and sell tea bags, sachets, loose-leaf blends and wellness-oriented variety packs to grocery wholesalers, supermarkets, mass merchants, club stores, specialty/natural retailers, e-commerce platforms, restaurants, cafes and foodservice distributors. Premium pricing comes from organic certification, fair-trade or traceable sourcing, branded wellness platforms, functional ingredient claims, flavor innovation and convenient formats.",
+    "cost_structure": "Major costs are botanical inputs, imported herbs and spices, tea bags/sachets, cartons and other packaging, production labor, quality assurance, freight, warehousing, broker/distributor margins, slotting and trade promotion, advertising, e-commerce fulfillment and regulatory compliance. Baseline economics show meaningful but not dominant labor intensity, with 2021 wages of $38 million against 2021 revenue of $401.3 million, and 2021 EBIT profit margin of 10.0%. Inflation in herbs, paper packaging, freight and tariffs pressures margins, while premium wellness blends and direct-to-consumer sales help offset costs.",
+    "major_players": [
+      "The Hain Celestial Group / Celestial Seasonings",
+      "R.C. Bigelow, Inc.",
+      "Lipton Teas and Infusions / Unilever legacy brand platform",
+      "Traditional Medicinals, Inc.",
+      "East West Tea Company / Yogi Tea",
+      "The Republic of Tea, Inc.",
+      "Numi, Inc.",
+      "Harney & Sons Tea Company"
+    ],
+    "current_dynamics": "The category is being pulled in two directions in 2025-2026: wellness-led demand is expanding the addressable market, while production economics remain exposed to imported botanicals, packaging costs and crowded retail shelves. Chamomile remains the anchor product, but brands are extending into mood, sleep, digestion, detox, prebiotic and women’s wellness blends. Imports remain a structural pressure because many herbs and finished teas are sourced globally, and U.S. producers must defend shelf space against low-cost imports, private label and adjacent functional beverages such as kombucha, sparkling botanicals and RTD teas.",
+    "whats_growing": "Functional herbal blends tied to sleep, stress, digestion, immunity, mood and women’s wellness; chamomile, peppermint, ginger, turmeric, hibiscus and rooibos products; organic and non-GMO positioning; variety packs; online wellness retail; mass-market distribution of formerly natural-channel products; premium loose-leaf and specialty sachets; caffeine-free beverages for younger wellness consumers and older consumers avoiding caffeine.",
+    "whats_shrinking": "Undifferentiated commodity tea bags, products relying only on vague herbal claims, domestic producers without distinctive sourcing or retail relationships, export competitiveness when the U.S. dollar is strong, and shelf space for slower-moving legacy SKUs as retailers favor functional claims, faster turns and private-label alternatives.",
+    "recent_developments": [
+      "2023: IBISWorld’s July 2025 resale listing reported U.S. herbal tea production revenue at $587.3 million in 2023 after an estimated 1.0% CAGR decline through 2023.",
+      "2024: U.S. tea imports reached $578.57 million and 123.36 thousand tons, up 11.0% in value from 2023.",
+      "2025: Deep Market Insights estimated the U.S. herbal tea market at $876.91 million in 2025 and forecast a 4.27% CAGR for 2026-2034.",
+      "2025-07-29: Celestial Seasonings launched new wellness teas including She-Well Raspberry Leaf, Good Vibes Lemon Mint, Detox Blend Dandelion and an Everyday Wellness Variety Pack.",
+      "2026-02-05: Tea & Coffee Trade Journal reported that herbal and botanical teas were benefiting from sustained functional beverage demand and younger consumer adoption of botanicals.",
+      "2026-03-10: Firsd Tea reported that through November 2025 U.S. tea imports totaled 103,179 metric tons, with trade, tariffs and regulation shaping the U.S. tea market."
+    ],
+    "outlook": "The outlook is modestly positive for domestic herbal tea producers through 2026 and beyond. Public market forecasts show mid-single-digit growth for U.S. herbal tea sales and stronger growth for broader herbal beverages, but the production dataset should grow more slowly because imports and RTD products capture part of demand. Winners will be producers with reliable botanical sourcing, credible quality controls, retailer scale, recognizable brands and defensible wellness platforms. Margin risk remains tied to herb availability, packaging, freight, retailer promotion demands and tariff volatility.",
+    "themes": [
+      "functional wellness",
+      "caffeine-free beverages",
+      "sleep and stress support",
+      "digestive health",
+      "organic and clean label",
+      "premiumization",
+      "import competition",
+      "retail shelf pressure",
+      "e-commerce wellness retail",
+      "botanical sourcing risk"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/herbal-tea-production.txt",
+      "https://www.researchandmarkets.com/reports/2052814/herbal_tea_production_in_the_us_market",
+      "https://deepmarketinsights.com/vista/insights/herbal-tea-market/united-states",
+      "https://www.fortunebusinessinsights.com/herbal-beverage-market-116976",
+      "https://www.ibisworld.com/united-states/market-size/tea-production/273/",
+      "https://www.usimportdata.com/blogs/us-tea-imports-by-country-2025-top-tea-importers",
+      "https://firsdtea.com/2025-us-tea-market-recap/",
+      "https://www.teaandcoffee.net/feature/38713/herbal-and-botanical-teas-ride-the-wave-of-the-booming-functional-beverage-market/",
+      "https://ir.hain.com/news-releases/news-release-details/celestial-seasoningsr-tea-expands-category-leading-wellness",
+      "https://www.census.gov/newsroom/stories/hot-tea-month.html"
+    ],
+    "one_sentence": "The industry is a mature but wellness-supported niche where domestic blenders benefit from demand for sleep, digestion, mood, immunity and caffeine-free beverages while competing with imported herbs, private label and ready-to-drink alternatives.",
+    "slug": "herbal-tea-production"
+  }
+]

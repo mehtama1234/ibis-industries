@@ -1,0 +1,373 @@
+[
+  {
+    "title": "Online Grocery Sales",
+    "sector": "Retail",
+    "one_liner": "Online grocery has shifted from a pandemic convenience channel into a core omnichannel growth engine for US food retail.",
+    "overview": "Operators sell grocery and household consumable products through websites, apps, retailer marketplaces and third-party platforms, with orders fulfilled by store pickup, store-based delivery, dedicated fulfillment centers, same-day delivery networks or ship-to-home. The 2022 IBISWorld baseline measured a narrower online grocery operator market at $32.696 billion, while 2025-2026 public sources describe a much larger omnichannel grocery ecommerce market as traditional retailers, mass merchants and delivery intermediaries have brought online ordering into mainstream grocery routines.",
+    "key_stats": {
+      "market_size": "US grocery ecommerce sales were forecast at $220.48 billion in 2025, up 8.3% from 2024, under eMarketer's digital grocery scope.",
+      "growth": "FMI/NIQ's 2026 report projected US online grocery sales to grow at an 11.6% annual rate through 2028, reaching $452 billion in 2028 under its broader grocery-related ecommerce scope.",
+      "penetration": "eMarketer forecast online grocery at 13.7% of total US grocery sales in 2025; FMI/NIQ said ecommerce accounted for about 20% of grocery spending in 2025 under its broader scope.",
+      "monthly_sales": "Brick Meets Click/Mercatus reported $10.0 billion in July 2025 US eGrocery sales, up 26.0% year over year, with online capturing 17.2% of total grocery spending for the month.",
+      "household_reach": "Brick Meets Click/Mercatus reported 81 million US households, or about 61% of households, bought groceries online in July 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "IBISWorld estimated Online Grocery Sales industry revenue at $32.696 billion in 2022.",
+      "growth": "IBISWorld estimated 2022 revenue growth at 5.3% and 2017-2022 revenue CAGR at 17.6%.",
+      "profit": "IBISWorld estimated 2022 profit at $1.504 billion and 2022 profit margin at 4.60%.",
+      "establishments": "IBISWorld estimated 4,877 establishments in 2022.",
+      "employment": "IBISWorld estimated 61,620 employees in 2022.",
+      "forecast": "IBISWorld forecast 2022-2027 revenue CAGR of 4.7%, reaching $41.1 billion in 2027 under its narrower operator-revenue scope."
+    },
+    "how_it_makes_money": "Revenue comes from online sales of groceries and household consumables, delivery and service fees, pickup fees, subscriptions such as Walmart+ and Instacart+, retailer marketplace commissions, fulfillment fees charged to retail partners, retail media advertising, sponsored search and placement, and data-enabled trade promotion services. Large grocers also use online grocery to defend store share, raise basket frequency and monetize first-party customer data rather than treating delivery fees as the sole profit pool.",
+    "cost_structure": "The largest costs are product procurement, picking and packing labor, last-mile delivery, driver or shopper payments, store and fulfillment-center occupancy, cold-chain handling, payment processing, technology infrastructure, customer support, marketing, and promotions. Profitability is pressured by low grocery margins, substitutions, spoilage, refund credits, delivery density, fuel and wage costs, and the expense of offering free or discounted delivery through memberships.",
+    "major_players": [
+      "Walmart: eMarketer forecast Walmart at 31.6% of US grocery ecommerce sales in 2025, supported by stores, pickup, delivery and Walmart+.",
+      "Amazon and Whole Foods Market: eMarketer forecast Amazon at 22.6% of US grocery ecommerce sales in 2025; Amazon said in 2026 that more than 2,300 US cities and towns had access to fresh groceries through Same-Day Delivery after its 2025 expansion.",
+      "Kroger: eMarketer forecast Kroger at 8.6% of US grocery ecommerce sales in 2025, with digital ordering tied to stores, loyalty data and fulfillment partnerships.",
+      "Instacart: Instacart reported 2025 GTV of $37.224 billion, up 11% from 2024, and Q1 2026 GTV of $10.288 billion, up 13% from Q1 2025.",
+      "Target/Shipt: Target uses same-day delivery, pickup and Shipt capabilities to compete in grocery-adjacent baskets and household essentials.",
+      "DoorDash and Uber: delivery platforms are expanding grocery and convenience orders, with eMarketer identifying them as among the fastest-growing digital grocery challengers in 2025."
+    ],
+    "current_dynamics": "The market has moved from emergency adoption to habitual omnichannel use. Pickup remains important because it lowers delivery cost, but 2025 growth was increasingly driven by delivery as subscriptions and waived explicit fees reduced consumer resistance. Retailer-owned channels dominate because grocery chains want to keep customer data, loyalty economics and retail media inventory, while intermediaries compete by adding convenience, restaurant-style logistics and broader local availability. Scale favors Walmart and Amazon because store density, memberships, fulfillment networks and advertising businesses can subsidize thin grocery margins.",
+    "whats_growing": "Delivery, membership-linked free delivery, retailer apps, retail media, AI-powered personalization, social-commerce discovery, perishable same-day delivery, private label online merchandising, and omnichannel shoppers who blend store trips with app-based list building, replenishment and pickup are growing. FMI/NIQ reported in 2026 that online food sales jumped nearly 19% in 2025 and that ecommerce contributed close to 75% of total grocery dollar growth in 2025.",
+    "whats_shrinking": "Standalone online-only grocery models without dense fulfillment economics are under pressure, as are fee-heavy delivery offers, slow delivery windows, undifferentiated marketplaces, and retailers that rely fully on intermediaries for customer ownership. Ship-to-home remains useful for shelf-stable goods but grew more slowly than delivery and pickup in July 2025, when Brick Meets Click/Mercatus reported ship-to-home growth of 10% year over year versus delivery growth of 36% and pickup growth of 24%.",
+    "recent_developments": [
+      "Jan. 9, 2025: eMarketer forecast US digital grocery sales at $220.48 billion in 2025, up 8.3% from 2024.",
+      "Feb. 3, 2025: FMI/NIQ said more than 90% of grocery shoppers used both online and in-store channels and projected US online grocery sales at $388 billion by 2027.",
+      "Aug. 13, 2025: Amazon announced fresh grocery Same-Day Delivery in more than 1,000 US cities and towns, with a plan to exceed 2,300 by year-end 2025.",
+      "Feb. 12, 2026: Instacart reported 2025 GTV of $37.224 billion, up 11% from 2024, with 338.8 million 2025 orders, up 15%.",
+      "Apr. 22, 2026: FMI/NIQ projected US online grocery sales would reach $452 billion by 2028, with an 11.6% annual growth rate through 2028.",
+      "May 6, 2026: Instacart reported Q1 2026 GTV of $10.288 billion, up 13% from Q1 2025, and Q1 2026 revenue of $1.019 billion, up 14%."
+    ],
+    "outlook": "Through 2026-2028, online grocery should keep gaining share, but growth will be uneven by model. Walmart, Amazon and major grocers with dense store networks are best positioned because they can combine pickup, delivery, loyalty, ads and private brands. Instacart, DoorDash and Uber should keep growing where retailers need marketplace reach or faster fulfillment, but their economics depend on order density, ad monetization and partner retention. The main risks are delivery-cost inflation, consumer resistance to fees, food-price pressure, labor regulation, substitution quality and the difficulty of making fresh-food fulfillment profitable at scale.",
+    "themes": [
+      "Omnichannel grocery becomes normal behavior",
+      "Memberships reduce perceived delivery cost",
+      "Retail media subsidizes low grocery margins",
+      "Walmart and Amazon scale advantages deepen",
+      "Store networks double as fulfillment assets",
+      "Fresh-food quality and speed drive conversion",
+      "AI personalization and agentic shopping emerge",
+      "Third-party platforms compete for retailer dependence"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Online Grocery Sales, last updated Jul. 29, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/online-grocery-sales.txt'}",
+      "{'name': 'eMarketer, US Digital Grocery Forecast 2025, Jan. 9, 2025', 'url': 'https://www.emarketer.com/content/us-digital-grocery-forecast-2025'}",
+      "{'name': \"eMarketer, Ecommerce's share of overall grocery sales has more than doubled since the pandemic, Mar. 12, 2025\", 'url': 'https://www.emarketer.com/content/ecommerce-grocery-growth-kroger-amazon-strategies'}",
+      "{'name': 'eMarketer, Walmart, Amazon remain on top as the digital grocery market matures, Jan. 28, 2025', 'url': 'https://www.emarketer.com/content/walmart--amazon-remain-on-top-digital-grocery-market-matures'}",
+      "{'name': 'Brick Meets Click/Mercatus, US eGrocery Sales Soar 26% Versus Year Ago to $10 Billion in July 2025, Aug. 14, 2025', 'url': 'https://www.mercatus.com/newsroom/u-s-egrocery-sales-soar-26-versus-year-ago-to-10-billion-in-july-2025/'}",
+      "{'name': 'FMI/NIQ, Online Grocery Sales Power Omnichannel Growth as Market Poised to Reach $452 Billion by 2028, Apr. 22, 2026', 'url': 'https://www.fmi.org/newsroom/news-archive/view/2026/04/22/online-grocery-sales-power-omnichannel-growth-as-market-poised-to-reach--452-billion-by-2028'}",
+      "{'name': 'FMI, Digital Engagement Is Transforming Grocery Shopping, Apr. 29, 2026', 'url': 'https://www.fmi.org/blog/view/fmi-blog/2026/04/29/digital-engagement-is-transforming-grocery-shopping'}",
+      "{'name': 'Instacart, Q1 2026 financial results, May 6, 2026', 'url': 'https://investors.instacart.com/news-releases/news-release-details/instacart-announces-first-quarter-2026-financial-results'}",
+      "{'name': 'Instacart SEC filing, 2025 annual report data', 'url': 'https://www.sec.gov/Archives/edgar/data/1579091/000157909126000018/cart-20251231.htm'}",
+      "{'name': 'Amazon, Same-Day perishable grocery delivery expansion, updated May 12, 2026', 'url': 'https://www.aboutamazon.com/news/retail/amazon-same-day-fresh-grocery-delivery-united-states'}"
+    ],
+    "one_sentence": "The US online grocery market is growing as Walmart, Amazon, Kroger, Instacart and delivery platforms use pickup, memberships, retail media, AI personalization and faster delivery to capture more routine food and household spending.",
+    "slug": "online-grocery-sales"
+  },
+  {
+    "title": "Online Gun & Ammunition Sales",
+    "sector": "Retail",
+    "one_liner": "A regulated e-commerce retail niche that converts firearm, ammunition and accessories demand into online orders, with firearm transfers completed through licensed dealers.",
+    "overview": "The industry consists of licensed online retailers and marketplaces selling firearms, ammunition and related accessories to US consumers. Firearms bought online are not shipped directly to consumers; they are transferred through Federal Firearms Licensees that complete Form 4473 and NICS or state-equivalent background checks. Ammunition and accessories can often be shipped more directly, but state and local rules create a patchwork of age, permit, registration, shipping and product restrictions. After the 2020-2021 surge, the market has normalized, but 2024 revenue remained well above the pre-pandemic base and 2025 activity shows e-commerce specialists still taking share from fragmented local dealers.",
+    "key_stats": {
+      "market_size": "2025 estimated $3.5 billion; 2024 reported $3.4 billion",
+      "growth": "2025 estimated +2.9%; 2024 reported +5.1%; 2019-2024 CAGR +8.8%",
+      "firearm_demand_indicator": "2024 NSSF-adjusted FBI NICS checks were 15.239 million, down 3.5% from 15.848 million in 2023",
+      "total_nics_checks": "2025 unadjusted FBI NICS checks were about 26.1 million, down about 7.0% from 2024",
+      "licensed_transfer_network": "FY2025 ATF reported 127,739 active FFLs, including 46,072 Type 01 dealers and 5,929 Type 02 pawnbrokers",
+      "online_platform_scale": "2025 GunBroker reported about 8.4 million registered users as of March 31, 2025; 2025 GrabAGun reported a 42,000-FFL transfer network",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate $2.3 billion",
+      "growth": "2022 baseline growth about +3.9%, based on the 2021 IBISWorld baseline projection after 2021 revenue of $2.178 billion",
+      "context": "The 2021 baseline expected revenue to rise from $2.178 billion in 2021 to about $2.6 billion by 2026 as pandemic-era spikes cooled but online penetration kept rising."
+    },
+    "how_it_makes_money": "Operators earn revenue from online retail markups on firearms, ammunition, magazines, optics, parts, safes, cleaning supplies and shooting accessories; marketplace listing, final-value, compliance, advertising and shipping fees; transfer-related service partnerships; memberships, loyalty programs and paid promotions; and higher-margin private-label or bundled accessories. Firearm orders usually ship to a selected FFL, while eligible ammunition and accessories may ship to the customer where legally allowed.",
+    "cost_structure": "The largest costs are merchandise purchases from manufacturers and distributors, inbound freight, parcel shipping, payment processing, insurance, chargebacks, customer service, returns, digital advertising, search and marketplace fees, compliance staff, FFL verification systems, cybersecurity, warehousing, inventory financing and state-by-state tax and regulatory administration. Pure marketplaces have lighter inventory costs and higher gross margins, while retailers carry working-capital and markdown risk.",
+    "major_players": [
+      "GunBroker / Outdoor Holding Company",
+      "GrabAGun Digital Holdings",
+      "Palmetto State Armory",
+      "Bud's Gun Shop",
+      "Guns.com",
+      "Sportsman's Warehouse",
+      "Bass Pro Shops / Cabela's",
+      "Ammo.com",
+      "Brownells"
+    ],
+    "current_dynamics": "2025-2026 demand is healthier than the pre-2020 period but below pandemic peaks. Unit demand indicators have softened, with 2024 adjusted retail firearm checks down from 2023 and 2025 unadjusted checks also lower, yet online revenue is being supported by channel shift, larger assortments, mobile shopping, promotional pricing, replenished ammunition inventory and accessory attach rates. Competition is intense because many local FFLs now sell online, manufacturers and distributors are improving direct or omnichannel capabilities, and marketplaces compete on listings, payments, compliance workflows and FFL-network convenience. Regulatory uncertainty remains a demand catalyst and an operating burden.",
+    "whats_growing": "Mobile-first buying, used-firearm marketplaces, broad online SKU assortments, optics and accessories, bulk ammunition promotions, private-label accessories, automated FFL verification, customer data-driven merchandising, less-lethal personal-protection products and platform tools that reduce checkout friction are growing. Public-market activity also increased in 2025 as GrabAGun listed on the NYSE and Outdoor Holding Company focused on GunBroker after selling ammunition manufacturing assets.",
+    "whats_shrinking": "Pandemic-style panic buying, ammunition shortage premiums, high-margin scarcity pricing, slower checkout flows, smaller offline-only dealers, discretionary categories tied less directly to personal protection, and unadjusted background-check volumes are shrinking or normalizing. Retailers are also under pressure from price competition, higher customer-acquisition costs and patchwork state compliance costs.",
+    "recent_developments": [
+      "2025-01-06: NSSF reported 15.239 million 2024 adjusted NICS firearm retail checks, down 3.5% from 2023.",
+      "2025-04-18: AMMO, Inc. completed the sale of its ammunition manufacturing assets to Olin Winchester and shifted focus toward GunBroker e-commerce.",
+      "2025-07-16: GrabAGun Digital Holdings began NYSE trading under PEW after completing its business combination.",
+      "2025-12-01: NSSF reported 530,156 NICS checks for 2025 Black Friday week, down 13.6% from the comparable 2024 week.",
+      "2026-03-12: GrabAGun reported FY2025 revenue of $96.4 million, up 3.6%, and Q4 2025 revenue of $29.6 million, up 14.1%.",
+      "2026-05-12: ATF noted a 2026 proposal to rescind the 2024 engaged-in-the-business firearms dealer rule while statutory licensing duties remain in force."
+    ],
+    "outlook": "Revenue should grow modestly through 2026 as online penetration, mobile commerce and accessory sales offset lower post-surge firearm unit demand. The best-positioned operators will have large compliant assortments, reliable FFL networks, strong ammunition inventory, low-friction checkout and enough scale to absorb advertising, shipping, payment and compliance costs. Risks include lower discretionary spending, price deflation after inventory normalization, payment-processor constraints, state restrictions, litigation, cyber incidents and demand swings after elections or high-profile policy debates.",
+    "themes": [
+      "Regulated e-commerce",
+      "FFL transfer network scale",
+      "Post-pandemic demand normalization",
+      "Mobile-first firearms retail",
+      "Ammunition inventory recovery",
+      "Marketplace fees and compliance workflows",
+      "State-by-state regulatory complexity",
+      "Promotional pricing pressure",
+      "Accessories and optics attach rates",
+      "Political and legislative demand volatility"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-gun-and-ammunition-sales.txt",
+      "https://www.ibisworld.com/united-states/market-size/online-gun-ammunition-sales/5937/",
+      "https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/nics",
+      "https://www.fbi.gov/file-repository/cjis/nics_firearm_checks_-_day_month_year.pdf/view",
+      "https://www.nssf.org/articles/nssf-adjusted-background-checks-top-15-2-million-in-2024/",
+      "https://www.nssf.org/articles/nics-checks-top-530000-for-black-friday-week/",
+      "https://www.atf.gov/resource-center/fact-sheet/facts-and-figures-fiscal-year-2025",
+      "https://www.atf.gov/rules-and-regulations/final-rule-definition-engaged-business-a-dealer-firearms",
+      "https://www.sec.gov/Archives/edgar/data/1015383/000095017025086893/poww-20250331.htm",
+      "https://www.sec.gov/Archives/edgar/data/1015383/000164117225005369/ex99-1.htm",
+      "https://www.sec.gov/Archives/edgar/data/2051380/000121390025066382/ea024983401ex99-1_graba.htm",
+      "https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/pew-ex99.htm"
+    ],
+    "one_sentence": "Online gun and ammunition sellers benefit from e-commerce adoption, broad SKU availability and recurring shooting-sports demand, but demand remains volatile because firearm purchases are shaped by politics, consumer confidence, state restrictions, inventory cycles and background-check requirements.",
+    "slug": "online-gun-and-ammunition-sales"
+  },
+  {
+    "title": "Online Handbag & Luggage Sales",
+    "sector": "Retail",
+    "one_liner": "A small but resilient online retail niche selling handbags, wallets, luggage and travel bags through marketplaces, department-store sites, brand DTC sites and specialist e-commerce stores.",
+    "overview": "The industry covers U.S. online sales of handbags, wallets, luggage, suitcases, briefcases and related carrying accessories by online-only sellers and omnichannel retailers. The 2021 IBISWorld baseline put the category at $2.6 billion in revenue, while a September 2024 IBISWorld listing via Research and Markets reported a revised $2.1 billion market in 2023 after 6.0% CAGR over the prior five years. For 2026, the category is best read as a roughly $2.4 billion online niche inside a much larger bags-and-accessories e-commerce market, with demand split between fashion-led handbags and travel-led luggage. Growth is helped by Q1 2026 U.S. retail e-commerce sales rising 9.8% year over year and reaching 16.9% of total retail sales, but operators face high customer acquisition costs, return friction, tariff-driven landed-cost volatility and heavy price comparison across Amazon, department stores and DTC brands.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. online handbag and luggage sales revenue: $2.4 billion, based on the September 2024 IBISWorld/R&M reported $2.1 billion in 2023 and 2024-2026 growth supported by e-commerce and travel recovery.",
+      "growth": "2026 estimated industry revenue growth: 3%-5%; broader U.S. retail e-commerce sales grew 9.8% year over year in Q1 2026, while travel spending is forecast to grow 1.0% in real 2025 dollars in 2026.",
+      "ecommerce_penetration": "U.S. retail e-commerce accounted for 16.9% of total retail sales in Q1 2026, up from 16.0% in Q1 2025.",
+      "travel_driver": "U.S. Travel Association forecasts total U.S. travel spending of $1.37 trillion in 2026, with domestic leisure spending of $909 billion and domestic travel representing 87% of total travel spending.",
+      "broad_online_adjacent_market": "ECDB reports the broader U.S. bags and accessories e-commerce market at $56.6 billion in 2025, growing 5%-10% year over year, with a 20%-25% online share.",
+      "baseline_product_mix": "IBISWorld 2021 baseline: women's handbags 61.2% of revenue, luggage 34.9%, other accessories 3.9%.",
+      "profitability_context": "IBISWorld 2021 baseline margin was 8.9% EBIT; Macy's fiscal 2025 gross margin was 38.0%, down 40 bps from tariff impacts and markdowns, while Tapestry fiscal 2025 gross margin was 75.4% for its brand-led global model.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.7 billion, implied by the 2021 IBISWorld baseline revenue of $2.577 billion and its 2021-2026 forecast CAGR of 6.0%.",
+      "growth": "6.0% projected 2022 growth under the 2021 IBISWorld outlook; note that a September 2024 IBISWorld/R&M listing later reported a lower revised $2.1 billion market for 2023.",
+      "context": "The 2022 baseline was expected to benefit from post-pandemic reopening, luggage replacement and continued e-commerce adoption after 2020 travel disruption."
+    },
+    "how_it_makes_money": "Operators earn retail margins on online sales of handbags, wallets, suitcases, carry-ons, backpacks, briefcases and accessories. Sales come through brand-owned DTC sites, department-store websites, specialist luggage sites, marketplaces and third-party e-retailers. Higher-margin revenue comes from designer handbags, private-label goods, premium luggage, bundles and accessories; lower-margin volume comes from marketplace and promotional sales. Omnichannel retailers also monetize traffic through loyalty programs, credit-card income, retail media and marketplace commissions.",
+    "cost_structure": "The largest 2025-2026 costs are inventory and landed product costs, fulfillment, shipping, returns, payment processing, marketplace commissions, performance marketing, website and technology costs, customer service, warehousing, and wages. Product cost sensitivity is high because handbags and luggage are import-heavy and exposed to tariffs and de minimis rule changes. Promotions and returns are structurally important: online shoppers compare prices easily, and luggage and handbag purchases often involve color, size, fit, authenticity and durability questions that raise service and return costs. Brand owners such as Tapestry can earn much higher gross margins than department-store or marketplace resellers, while smaller sellers face weaker buying power and higher ad costs.",
+    "major_players": [
+      "Amazon",
+      "Macy's Inc.",
+      "Tapestry Inc. / Coach and Kate Spade",
+      "Samsonite Group / Samsonite, TUMI and American Tourister",
+      "Away",
+      "Luggage Online",
+      "Nordstrom",
+      "Walmart and Target marketplace channels"
+    ],
+    "current_dynamics": "In 2026, the industry is pulled in two directions. E-commerce penetration and mobile shopping keep expanding, and luggage demand is supported by resilient U.S. domestic travel. At the same time, consumer spending on discretionary fashion remains uneven, international inbound travel was weak in 2025, and operators are managing tariffs, higher fulfillment complexity and promotional competition. Premium handbag demand is strongest where brand heat, social discovery and Gen Z acquisition are working, as seen in Coach's 2026 gains, while mass and midmarket sellers compete heavily on discounts, delivery speed and marketplace visibility.",
+    "whats_growing": "DTC brand sites, marketplace listings with fast delivery, premium and fashion-led handbags, durable carry-ons, expandable luggage, hard-sided suitcases, travel accessories, personalization, retail media monetization, AI-assisted merchandising and social-commerce discovery are growing in 2025-2026. Coach's fiscal Q3 2026 handbag units rose more than 20%, and Tapestry reported about 25% digital growth in the quarter, indicating strong online demand when brand positioning is clear.",
+    "whats_shrinking": "Undifferentiated midmarket handbags, slower specialty sites without marketplace scale, import-dependent low-price sellers exposed to the May 2025 China/Hong Kong de minimis change, and weak wholesale orders from cautious retailers are under pressure. Samsonite reported 2025 North America net sales down 5.6% constant currency, including U.S. weakness tied to cautious wholesale purchasing and soft consumer sentiment, while Macy's 2025 margin was hurt by tariffs and markdowns.",
+    "recent_developments": [
+      "2024-09: Research and Markets listed the IBISWorld Online Handbag & Luggage Sales report, citing $2.1 billion in 2023 revenue and 2.6% 2023 growth.",
+      "2025-05: U.S. CBP ended de minimis duty-free treatment for China and Hong Kong shipments under $800, raising costs for cross-border e-commerce sellers.",
+      "2025-12: Samsonite reported 2025 net sales of $3.50 billion globally, down 2.6% constant currency, with North America down 5.6%.",
+      "2026-03: Macy's reported fiscal 2025 digital sales at 35% of net sales and said tariff impacts reduced gross margin by 40 basis points.",
+      "2026-05: U.S. Census reported Q1 2026 U.S. retail e-commerce sales of $326.7 billion, up 9.8% year over year and 16.9% of retail sales.",
+      "2026-05: Tapestry reported fiscal Q3 2026 revenue of $1.92 billion, up 21%, with Coach revenue up 31% and digital growth of about 25%."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but not explosive. Online share should continue rising as consumers search across marketplaces, brand sites and department-store apps, while luggage demand should track domestic travel and major-event travel tied to 2026. Growth is likely to be mid-single-digit rather than pandemic-era double-digit because the market is more saturated, discretionary buyers remain price-sensitive and tariffs complicate sourcing. Winners will have clear brand equity, strong search and marketplace execution, reliable delivery and return economics, and enough scale to absorb tariff and freight volatility.",
+    "themes": [
+      "E-commerce penetration",
+      "Travel recovery",
+      "Premiumization versus value shopping",
+      "Tariff and de minimis disruption",
+      "Marketplace competition",
+      "DTC brand building",
+      "Social commerce and Gen Z acquisition",
+      "Returns and fulfillment discipline",
+      "Sustainable and durable materials"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-handbag-and-luggage-sales.txt",
+      "https://www.researchandmarkets.com/reports/4871936/online-handbag-and-luggage-sales-in-the-us",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTSA",
+      "https://www.census.gov/retail/sales.html?stream=business",
+      "https://www.ustravel.org/research/travel-forecasts",
+      "https://www.ustravel.org/press/us-travel-forecast-points-steady-growth-ahead",
+      "https://www.trade.gov/travel-and-tourism-forecasts",
+      "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/3de903b",
+      "https://www.help.cbp.gov/s/article/Article-1915?language=en_US",
+      "https://ecdb.com/resources/sample-data/market/us/bags-accessories",
+      "https://tapestry.gcs-web.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2026-third-quarter-results-and",
+      "https://ebs.publicnow.com/view/336477F0B2BBD4F65F805E96875095CA87EE7E98",
+      "https://www.prnewswire.com/news-releases/samsonite-group-sa-announces-results-for-the-year-ended-december-31-2025-302719327.html",
+      "https://www.sec.gov/Archives/edgar/data/794367/000162828026040820/m-20260502.htm",
+      "https://www.publicnow.com/view/07F1EB1A9B1B87FF3F1B7D28BA5601BB821B5230"
+    ],
+    "one_sentence": "Online Handbag & Luggage Sales remains a growth retail category in 2026, supported by expanding e-commerce penetration and travel recovery, but margin pressure has increased from tariffs, promotions, returns and softer discretionary demand.",
+    "slug": "online-handbag-and-luggage-sales"
+  },
+  {
+    "title": "Online Hardware & Tool Sales",
+    "sector": "Retail",
+    "one_liner": "US online hardware and tool sellers are a mature but still-expanding e-commerce niche tied to DIY repair, contractor demand and omnichannel fulfillment.",
+    "overview": "The industry moved from a pandemic surge into a slower, more competitive omnichannel phase in 2025-2026. Baseline IBISWorld data put 2021 revenue at $25.8 billion and forecast 2026 revenue at $28.9 billion, while the June 2025 IBISWorld-distributed update cited 2023 revenue of $25.1 billion after post-pandemic normalization. A practical 2025 estimate is about $26.5 billion, supported by steady home-repair demand, rising online penetration at Home Depot and Lowe's, and broader US retail e-commerce growth, but restrained by housing affordability pressure, weak discretionary big-ticket DIY demand and high fulfillment costs.",
+    "key_stats": {
+      "market_size": "2025 estimated US revenue: $26.5 billion",
+      "growth": "2025 estimated revenue growth: 3.0% year over year",
+      "profit_margin": "2025 estimated industry profit margin: 3.5% to 4.5%",
+      "ecommerce_context": "Q1 2026 US retail e-commerce sales: $326.7 billion, up 9.8% from Q1 2025 and equal to 16.9% of total retail sales",
+      "addressable_retail_context": "2025 US building material, garden equipment and supplies dealer sales: about $482 billion",
+      "major_chain_online_mix": "Home Depot online sales represented 15.9% of fiscal 2025 net sales; Lowe's online sales represented 13% of fiscal 2025 retail sales",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US revenue: $24.9 billion",
+      "growth": "2022 estimated revenue growth: -3.4% year over year after the 2020-2021 DIY e-commerce spike",
+      "basis": "Derived from the June 2025 IBISWorld-distributed 2023 revenue figure of $25.1 billion and 2023 growth of 0.7%, cross-checked against the 2021 baseline revenue of $25.8 billion"
+    },
+    "how_it_makes_money": "Operators buy branded and private-label tools, hardware, fasteners, paint supplies, outdoor power equipment, safety gear and building-renovation products from manufacturers and wholesalers, then sell them online at retail margins. Revenue also comes from marketplace commissions, delivery fees, installation leads, Pro-account services, private-label markups, advertising placements and subscription-style benefits tied to loyalty or fulfillment programs.",
+    "cost_structure": "In 2025, cost of goods sold and inbound freight remained the largest expense at roughly 65% to 75% of revenue. Fulfillment, parcel shipping, returns handling and warehouse operations typically absorbed 8% to 15%; technology, payment processing, marketplace fees and customer service took 3% to 7%; digital marketing and promotions took 3% to 8%; wages were generally 4% to 7%; and operating profit was commonly in the low- to mid-single digits.",
+    "major_players": [
+      "{'name': 'Amazon', 'position': 'Largest general online marketplace for tools and hardware, with strong third-party seller participation and Fulfillment by Amazon logistics.'}",
+      "{'name': 'The Home Depot', 'position': 'Largest home improvement specialist; fiscal 2025 net sales were $164.7 billion and online sales were 15.9% of net sales.'}",
+      "{'name': \"Lowe's\", 'position': 'Second-largest home improvement specialist; fiscal 2025 sales were $86.3 billion and online sales were 13% of retail sales.'}",
+      "{'name': 'Walmart Marketplace', 'position': 'Large general marketplace competing on price, pickup and delivery for basic tools and home-repair products.'}",
+      "{'name': 'Ace Hardware', 'position': 'Dealer-owned hardware network using local stores, pickup and delivery to defend convenience-driven online orders.'}",
+      "{'name': 'Harbor Freight Tools', 'position': 'Value-focused tool retailer with growing digital ordering and store pickup for DIY and trade customers.'}"
+    ],
+    "current_dynamics": "In 2025-2026, demand is being pulled in two directions. Online penetration is still rising as large home-improvement chains improve search, availability, loyalty personalization, Pro catalogs and pickup options. At the same time, high mortgage rates, affordability pressure and consumer caution are suppressing some big-ticket discretionary renovation purchases. Pro customers are becoming more important because they order repeatable consumables, jobsite supplies and specialty products online, while DIY shoppers remain more promotion-sensitive.",
+    "whats_growing": "Pro-focused online ordering, extended-aisle catalogs, buy-online-pickup-in-store, jobsite delivery, private-label tools, repair-and-maintenance products, aging-in-place renovation supplies, marketplace assortment expansion and AI-assisted product selection are growing in 2025-2026.",
+    "whats_shrinking": "Pure-play sellers without logistics scale, bulky low-margin parcel shipments, pandemic-era impulse DIY demand, discretionary big-ticket renovation baskets and undifferentiated resale listings are shrinking or losing margin in 2025-2026.",
+    "recent_developments": [
+      "2025-06: IBISWorld-distributed June 2025 report cited Online Hardware & Tool Sales revenue of $25.1 billion going into 2023, with 2023 growth of 0.7%.",
+      "2025-10-16: Harvard JCHS LIRA projected owner-occupied remodeling spending would reach $524 billion in early 2026, with growth easing to 1.9% by Q3 2026.",
+      "2026-02-18: NAHB forecast residential remodeling activity would rise 3% in 2026 and 2% in 2027 in inflation-adjusted terms.",
+      "2026-03-18: Home Depot reported fiscal 2025 online sales up 8.7% and equal to 15.9% of net sales.",
+      "2026-05-20: Lowe's reported Q1 2026 online sales growth of 15.5% and fiscal 2026 sales guidance of $92.0 billion to $94.0 billion.",
+      "2026-05-18: US Census reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025."
+    ],
+    "outlook": "The 2026 outlook is modestly positive. A reasonable 2026 revenue estimate is $27.4 billion, or about 3.4% growth over the 2025 estimate, as online share gains and remodeling resilience offset weak housing turnover and margin pressure from delivery costs. Growth should be strongest among omnichannel retailers with stores, Pro desks, local inventory and delivery networks, while smaller sellers will need specialization, private-label economics or marketplace reach to defend profitability.",
+    "themes": [
+      "Omnichannel fulfillment",
+      "Pro customer digitization",
+      "Aging housing stock",
+      "Mortgage-rate lock-in remodeling",
+      "Marketplace assortment expansion",
+      "AI-assisted product discovery",
+      "Private-label margin defense",
+      "Fulfillment and return-cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-hardware-and-tool-sales.txt",
+      "https://www.researchandmarkets.com/report/united-states-online-hardware-and-tool-sales-market",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/MRTSSM444USS",
+      "https://www.statista.com/statistics/197604/annual-building-and-garden-equipment-dealer-sales-in-the-us-since-1992/",
+      "https://ir.homedepot.com/investor-resources/investor-documents",
+      "https://ir.homedepot.com/news-releases/2026/05-19-2026-110111934",
+      "https://corporate.lowes.com/sites/lowes-corp/files/2026-04/lowes-2025-annual-report.pdf",
+      "https://corporate.lowes.com/newsroom/press-releases/lowes-reports-first-quarter-2026-sales-and-earnings-results-05-20-26",
+      "https://www.nahb.org/news-and-economics/press-releases/2026/02/nahb-expects-remodeling-growth-in-2026-and-beyond",
+      "https://www.jchs.harvard.edu/press-releases/remodeling-expected-continue-slow-steady-growth-next-year"
+    ],
+    "one_sentence": "Online Hardware & Tool Sales retailers sell tools, hardware, building supplies and renovation products over websites, marketplaces and mobile apps to DIY consumers, property owners and professional trades.",
+    "slug": "online-hardware-and-tool-sales"
+  },
+  {
+    "title": "Online Hobby & Craft Supplies Sales",
+    "sector": "Retail",
+    "one_liner": "Online craft-supply sellers are benefiting from steady e-commerce penetration, value-seeking DIY behavior and the collapse of Joann’s store base, but growth is slower than the pandemic surge.",
+    "overview": "This industry covers online retail sales of sewing and craft supplies, including fabrics, patterns, yarns, needlework accessories, art materials, paper crafts, hobby kits and related project supplies. The pandemic pulled demand forward in 2020, but the market normalized in 2022-2024 as consumers shifted spending back toward services and price sensitivity rose. By 2025-2026, growth is again supported by broader e-commerce share gains, same-day delivery partnerships, marketplace discovery and displacement from Joann’s 2025 liquidation, while competition from Amazon, Walmart, Michaels, Hobby Lobby, Etsy sellers and niche direct-to-consumer craft brands keeps pricing pressure high.",
+    "key_stats": {
+      "market_size": "2026: $15.0 billion estimated US industry revenue; 2025: $14.4 billion estimated US industry revenue",
+      "growth": "2026: +4.0% estimated; 2025: +3.5% estimated",
+      "profit_margin": "2025: about 4.8% EBIT margin, based on the baseline IBIS outlook",
+      "ecommerce_context": "2025: US retail e-commerce sales were about $1.234 trillion, up 5.4%; Q1 2026: $326.7 billion seasonally adjusted, up 9.8% year over year and 16.9% of total retail sales",
+      "product_mix_baseline": "2020: fabrics 40.0% of revenue, hobby goods 33.7%, sewing supplies 24.5%, patterns 1.8%",
+      "customer_mix_baseline": "2020: consumers aged 25-64 generated 49.4% of revenue, consumers under 25 generated 36.0%, consumers 65+ generated 14.6%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $13.2 billion estimated, back-calculated from the January 2025 IBISWorld reseller page stating 2023 revenue of $13.4 billion and 2023 growth of 1.8%",
+      "growth": "2022: about +1.8% estimated; 2018-2023 CAGR was 1.8% per the January 2025 IBISWorld reseller page",
+      "context": "The older baseline file showed 2020 revenue of $14.9 billion, 2020 growth of 9.2%, 2020 profit margin of 5.3% and a pre-normalization forecast of $18.3 billion by 2025; the later 2023 public IBIS summary implies a post-pandemic reset below that earlier forecast."
+    },
+    "how_it_makes_money": "Operators buy craft supplies from manufacturers and wholesalers, list them through owned websites, marketplaces and apps, and earn retail margins on finished orders. Large platforms also earn marketplace commissions, seller services, fulfillment fees, sponsored-listing advertising and membership-driven shipping revenue. Omnichannel retailers such as Michaels use store inventory for buy-online-pickup, ship-from-store and same-day delivery, while Etsy monetizes craft supplies and handmade-adjacent listings through seller fees, payments and advertising.",
+    "cost_structure": "The largest cost is merchandise purchasing, followed by fulfillment, parcel delivery, payment processing, marketplace fees, digital advertising, website operations, warehousing, packaging and customer service. Labor is lower than in store-based craft retail but still meaningful for merchandising, content, support and fulfillment. Profitability is constrained by free-shipping thresholds, return handling, promotions, search advertising inflation and Amazon-led price transparency; the baseline file placed 2020 profit at 5.3% of revenue and expected 2025 profit near 4.8%.",
+    "major_players": [
+      "Amazon.com Inc.",
+      "The Michaels Companies Inc.",
+      "Hobby Lobby Stores Inc.",
+      "Etsy Inc.",
+      "Walmart Inc.",
+      "Target Corp.",
+      "Shein/Temu-style cross-border marketplaces",
+      "Independent Shopify and niche craft-supply sellers"
+    ],
+    "current_dynamics": "Demand is no longer expanding at 2020 lockdown rates, but online penetration continues to rise. US retail e-commerce reached 16.4% of total retail sales in 2025 and 16.9% in Q1 2026, giving the industry a structural tailwind. Joann’s 2025 liquidation removed a major fabric and sewing destination, pushing some demand toward Michaels, Hobby Lobby, Amazon, Walmart and niche online sellers. Consumers remain value-conscious, which favors marketplaces, coupons, private label supplies, bundles and fast delivery over premium-priced specialty assortments.",
+    "whats_growing": "Same-day delivery, buy-online-pickup, ship-from-store, private-label art supplies, kids’ activity kits, party and event crafting, jewelry-making supplies, craft machines and accessories, digital discovery through Pinterest/TikTok/AI shopping, and marketplace seller tools are growing. Etsy’s 2025 filing shows craft supplies remained one of its top six GMS categories, while Michaels expanded delivery reach through DoorDash, Uber Eats, Instacart and Shipt partnerships.",
+    "whats_shrinking": "Pure-play sellers with weak logistics, undifferentiated commodity assortments and high paid-search dependence are under pressure. Store-led fabric demand tied to Joann declined sharply as the chain wound down in 2025, and some pandemic-era categories such as mask-making fabric and beginner sewing kits have normalized. Full-price discretionary craft purchases are pressured by inflation fatigue, substitution toward lower-cost supplies and heavy marketplace comparison shopping.",
+    "recent_developments": [
+      "2024-07: Michaels announced expanded same-day delivery through DoorDash and Uber Eats from more than 1,200 store locations.",
+      "2025-01: A January 2025 IBISWorld reseller summary put 2023 US online hobby and craft supplies sales revenue at $13.4 billion, up 1.8% in 2023.",
+      "2025-02: Joann selected GA Group and term lenders as winning bidders in bankruptcy and planned going-out-of-business sales across its store base.",
+      "2025-10: Shipt added Michaels as its first arts-and-crafts retail partner, covering more than 1,100 Michaels locations in 8,700 US ZIP codes.",
+      "2026-02: Etsy’s 2025 filing reported 86.5 million active Etsy marketplace buyers, 5.6 million active sellers and craft supplies among its top six GMS categories.",
+      "2026-05: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of retail sales."
+    ],
+    "outlook": "Industry revenue should grow in the low- to mid-single digits through 2026-2028, with upside from Joann customer redistribution, faster delivery, marketplace advertising and continued online share gains. Margins are likely to stay modest because craft supplies are easy to compare, bulky or low-ticket items are expensive to ship, and large retailers use promotions to win traffic. The best-positioned operators will combine broad assortment, project content, reliable inventory, fast fulfillment and differentiated private-label or creator-led products.",
+    "themes": [
+      "E-commerce penetration",
+      "Omnichannel fulfillment",
+      "DIY and maker culture",
+      "Value shopping",
+      "Marketplace concentration",
+      "Same-day delivery",
+      "Private label supplies",
+      "Joann demand redistribution",
+      "Social commerce discovery",
+      "Craft entrepreneurship"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-hobby-and-craft-supplies-sales.txt",
+      "https://www.researchandmarkets.com/reports/5205752/online-hobby-and-craft-supplies-sales-in-the-us",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMSA",
+      "https://www.michaelspressroom.com/news/detail/4937/michaels-to-expand-same-day-delivery-through-partnerships",
+      "https://corporate.shipt.com/news/shipt-welcomes-michaels-as-first-arts-crafts-partner-for-same-day-delivery",
+      "https://www.npr.org/2025/02/25/nx-s1-5307907/joann-closing-stores-bankruptcy",
+      "https://www.sec.gov/Archives/edgar/data/1370637/000137063726000019/etsy-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm"
+    ],
+    "one_sentence": "The US online hobby and craft supplies sales industry sells fabrics, yarn, sewing notions, patterns, art supplies and hobby goods through marketplaces, specialty retailer websites and omnichannel fulfillment networks.",
+    "slug": "online-hobby-and-craft-supplies-sales"
+  }
+]

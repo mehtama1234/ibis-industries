@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Drug & Alcohol Test Kit Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US makers of rapid drug and alcohol test kits are benefiting from elevated workplace positivity, cannabis legalization complexity, and gradual migration from urine-only screening toward oral-fluid and digital point-of-care formats.",
+    "overview": "Drug & Alcohol Test Kit Manufacturing is a small but strategically important diagnostics niche inside US medical device manufacturing. The 2021 IBISWorld baseline put industry revenue at $2.811 billion, with 2021-2026 revenue projected to grow at about 2.2% annually to roughly $3.1 billion. A current 2026 estimate consistent with that path is about $3.13 billion, while broader US drug screening market sources put adjacent 2025 market revenue at $2.62 billion to $5.80 billion depending on whether laboratories, instruments, services, and consumables are included. Demand is being pulled by high substance-use prevalence, employer safety programs, federally regulated transportation testing, and growth in rapid point-of-care testing. The product mix remains urine-led, but oral-fluid, hair, multi-panel, fentanyl-inclusive, and reader-enabled kits are gaining attention because they address tampering, shorter detection windows, and faster on-site decision-making.",
+    "key_stats": {
+      "market_size": "2026 estimated US industry revenue: $3.13 billion, derived from the 2021 IBISWorld baseline of $2.811 billion and its 2021-2026 forecast CAGR of about 2.2%.",
+      "growth": "2021-2026 estimated CAGR: 2.2% for the manufacturing industry; broader US drug screening market sources show faster 2025-2033 growth of about 5.9%-7.4% depending on scope.",
+      "profit_margin": "2026 forecast profit margin: 9.2%, up from 8.6% in 2021 in the IBISWorld baseline.",
+      "employment": "2026 forecast employment: about 7,044 workers, up from 6,074 workers in 2021 in the IBISWorld baseline.",
+      "enterprises": "2026 forecast enterprises: about 51 companies, up from 43 companies in 2021 in the IBISWorld baseline.",
+      "imports": "2026 forecast imports: about $2.0 billion, equal to roughly 45.3% of domestic demand in the IBISWorld baseline forecast.",
+      "exports": "2026 forecast exports: about $754.7 million, or roughly 24.1% of industry revenue in the IBISWorld baseline forecast.",
+      "product_mix": "2021 baseline revenue split: urine tests 81.9%, saliva/oral-fluid tests 9.5%, hair tests 6.0%, other tests 2.6%.",
+      "demand_indicator": "2024 NSDUH: 73.6 million Americans aged 12 or older, or 25.5%, reported past-year illicit drug use; 64.2 million reported past-year marijuana use.",
+      "workplace_indicator": "2026 Quest Diagnostics Drug Testing Index: 2025 general US workforce marijuana positivity was 4.4% in urine, 11.1% in oral fluid, and 15.1% in hair testing.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: $2.87 billion, calculated from the 2021 baseline of $2.811 billion using the 2021-2026 forecast CAGR of about 2.2%.",
+      "growth": "2022 estimated revenue growth: about 2.2%.",
+      "profit_margin": "2022 estimated profit margin: about 8.7%, interpolated from 8.6% in 2021 to the 9.2% 2026 forecast.",
+      "imports": "2022 estimated imports: about $1.84 billion, based on the baseline import forecast path from $1.814 billion in 2021 to $2.0 billion in 2026.",
+      "exports": "2022 estimated exports: about $686 million, based on the baseline export forecast path from $669.8 million in 2021 to $754.7 million in 2026."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling single-use and multi-panel test kits, specimen cups, dip cards, oral-fluid collection devices, breath-alcohol screening devices, adulteration controls, calibration materials, and related consumables to distributors, pharmacies, e-commerce channels, occupational-health providers, clinics, laboratories, schools, treatment centers, corrections agencies, law enforcement, and employers. Higher-margin opportunities come from branded rapid kits, digital readers, chain-of-custody compatible systems, recurring consumables, private-label manufacturing, and bundled confirmation-lab relationships.",
+    "cost_structure": "The main cost is purchased inputs: antibodies, lateral-flow membranes, reagents, plastics, swabs, cups, packaging, electronics for readers, and imported finished or semi-finished kits. In the 2021 baseline, wages were $608 million, or 21.6% of revenue, and profit was $242 million, or 8.6% of revenue. For 2026, wages are estimated near 21%-22% of revenue and profit near 9.2%. Other costs include FDA and quality-system compliance, validation testing, contract manufacturing, logistics, tariffs and customs costs, sales commissions, liability insurance, R&D, and inventory write-offs when drug panels, cutoffs, or collection-device standards change.",
+    "major_players": [
+      "Abbott Laboratories",
+      "Thermo Fisher Scientific",
+      "OraSure Technologies",
+      "Premier Biotech",
+      "Alfa Scientific Designs",
+      "QuidelOrtho",
+      "Psychemedics",
+      "Omega Laboratories",
+      "Quest Diagnostics",
+      "Labcorp"
+    ],
+    "current_dynamics": "The 2025-2026 market is being shaped by elevated drug positivity, marijuana policy fragmentation, oral-fluid adoption delays in federal testing, and buyer demand for tamper-resistant rapid screening. SAMHSA’s 2024 NSDUH reported 73.6 million past-year illicit drug users and 64.2 million past-year marijuana users, reinforcing baseline demand. Quest’s 2026 DTI reported 2025 overall workforce urine positivity above 4% for more than a decade and much higher marijuana positivity in oral-fluid and hair specimens than urine. At the same time, DOT-authorized oral-fluid testing remains constrained because DOT programs require at least two HHS-certified oral-fluid laboratories before implementation. Manufacturers also face import sensitivity: the baseline forecast had imports near 45.3% of 2026 domestic demand, and 2025-2026 medical-goods tariff volatility raises costs for imported components and finished kits.",
+    "whats_growing": "Oral-fluid testing, hair testing, fentanyl-inclusive panels, multi-drug cups, adulteration-resistant collection systems, point-of-care readers, cloud-connected result management, workplace post-accident testing, rehabilitation monitoring, and safety-sensitive employer demand are growing. Broader US point-of-care drug-abuse testing sources project faster 2025-2031 growth than the legacy kit-manufacturing category, reflecting demand for immediate screening outside central labs.",
+    "whats_shrinking": "Basic single-analyte kits, non-instrumented commodity urine strips, low-differentiation private-label imports, and pre-employment cannabis-only screening in some non-safety-sensitive roles are under pressure. Alcohol use disorder declined from 10.6% of people aged 12 or older in 2021 to 9.7% in 2024, and past-year cocaine use and prescription opioid misuse also declined from 2021 to 2024 in NSDUH, softening parts of the panel mix even as marijuana and hallucinogen use grew.",
+    "recent_developments": [
+      "2024-11-05: DOT issued a final rule clarifying oral-fluid testing procedures and collector qualification rules, effective 2024-12-05.",
+      "2025-07-28: SAMHSA released the 2024 NSDUH showing 73.6 million people aged 12 or older used illicit drugs in the past year and 64.2 million used marijuana.",
+      "2025-12: NBER reported US medical-goods tariffs generated $3.4 billion in duties from February-July 2025, highlighting cost pressure on healthcare imports.",
+      "2026-05-11: DOT published a final rule adding directly observed urine collection procedures where oral-fluid testing is required but not yet available, effective 2026-06-10.",
+      "2026-06-02: Grand View Research updated its US drug screening outlook, estimating 2025 revenue at $3.068 billion with consumables the largest segment.",
+      "2026-07-10: Quest Diagnostics reported 2025 general-workforce marijuana positivity of 4.4% in urine, 11.1% in oral fluid, and 15.1% in hair testing."
+    ],
+    "outlook": "Revenue should keep expanding modestly through 2026 in the legacy manufacturing definition, with upside if HHS certifies oral-fluid labs for DOT testing and if employers broaden post-accident, random, and return-to-duty programs. Growth is likely to be strongest in differentiated consumables and point-of-care systems rather than commodity urine strips. Margins should improve slightly from the 2021 baseline as higher-value formats grow, but import dependence, tariff exposure, validation costs, and price competition from Asian manufacturers limit upside. The central strategic question for 2026-2030 is whether manufacturers can shift from low-cost disposable kits toward compliant, traceable, tamper-resistant testing ecosystems.",
+    "themes": [
+      "Workplace safety",
+      "Cannabis legalization complexity",
+      "Oral-fluid testing",
+      "Tamper resistance",
+      "Point-of-care diagnostics",
+      "Fentanyl and polysubstance screening",
+      "Import dependence",
+      "Regulatory compliance",
+      "Multi-panel consumables",
+      "Digital readers and chain of custody"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/drug-and-alcohol-test-kit-manufacturing.txt",
+      "https://www.samhsa.gov/newsroom/press-announcements/20250728/samhsa-releases-annual-national-survey-on-drug-use-and-health",
+      "https://www.samhsa.gov/data/report/2024-nsduh-annual-national-report",
+      "https://www.questdiagnostics.com/business-solutions/employers/drug-screening/knowledge-center/drug-testing-index",
+      "https://ir.questdiagnostics.com/press-releases/press-release-details/2026/One-in-Five-American-Workers-Tested-Had-a-Positive-Hair-Drug-Test-in-2025-Signaling-Persistent-Long-Term-Substance-Use-Patterns/default.aspx",
+      "https://www.questdiagnostics.com/business-solutions/resources-insights/workforce-health-solutions/drug-testing/quest-diagnostics-dti--insights--marijuana-is-still-number-1--just-not-in-a-good-way",
+      "https://www.transportation.gov/odapc/Notice_Summary_May_2023",
+      "https://www.transportation.gov/ODAPC/Notice_Summary_Nov_2024",
+      "https://www.transportation.gov/odapc/labs",
+      "https://www.transportation.gov/odapc/HHS_Certified_Oral_Fluid_Laboratories",
+      "https://content.govdelivery.com/accounts/USDOT/bulletins/4180a09",
+      "https://www.fda.gov/medical-devices/in-vitro-diagnostics/drugs-abuse-tests",
+      "https://www.grandviewresearch.com/horizon/outlook/drug-screening-market/united-states",
+      "https://www.grandviewresearch.com/industry-analysis/us-drug-testing-market-report",
+      "https://www.imarcgroup.com/united-states-drug-screening-market",
+      "https://www.ncsl.org/health/state-medical-cannabis-laws",
+      "https://www.pewresearch.org/chart/nearly-half-of-states-have-legalized-recreational-marijuana-use/",
+      "https://www.nber.org/papers/w34531"
+    ],
+    "one_sentence": "The industry manufactures at-home and on-site diagnostic kits that screen urine, oral fluid, hair, breath, or other specimens for alcohol, cannabis, opioids, stimulants, and other drugs, with demand tied to workplace safety programs, clinical toxicology, law enforcement, rehabilitation monitoring, and consumer self-testing.",
+    "slug": "drug-and-alcohol-test-kit-manufacturing"
+  },
+  {
+    "title": "Durable Baby Goods Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty retailers selling cribs, nursery furniture, strollers, car seats and other durable goods for babies and toddlers face a mature demand base, weak birth trends and rising online substitution.",
+    "overview": "This industry consists of stores primarily retailing durable goods for babies and toddlers up to age 4, including cribs, nursery furniture, changing tables, dressers, strollers, car seats, carriers and related accessories. The channel remains useful for high-consideration products that parents want to test in person, but the category has shifted toward omnichannel comparison shopping, online registries, direct-to-consumer brands and big-box retailers. The 2022 IBISWorld baseline put 2021 revenue at $9.0 billion and forecast only modest recovery to $9.3 billion by 2026, reflecting mature product penetration, declining births and online price pressure. Current 2025-2026 data reinforce that view: US births fell to 3.606 million in 2025, while retail e-commerce continued to gain share, limiting the addressable market for brick-and-mortar specialty stores.",
+    "key_stats": {
+      "market_size": "$9.25 billion estimated 2025 revenue and $9.3 billion forecast 2026 revenue, based on the Jan. 2022 IBISWorld baseline projection in 2021 dollars",
+      "growth": "Approximately 0.8% CAGR forecast for 2021-2026 in the Jan. 2022 IBISWorld baseline; structurally low growth in 2025-2026 due to falling births and online substitution",
+      "births": "3,606,400 US births in 2025, down 1% from 3,628,934 in 2024",
+      "ecommerce_share": "16.9% of US total retail sales in Q1 2026, up from 16.6% in Q4 2025",
+      "profit_margin": "3.6% EBIT margin in 2021 baseline; 3.7% forecast for 2026 in the Jan. 2022 IBISWorld baseline",
+      "establishments": "8,628 establishments in 2021 baseline; 8,626 forecast for 2026 in the Jan. 2022 IBISWorld baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$8.966 billion revenue in 2021, reported in the Jan. 29, 2022 baseline file in 2021 dollars",
+      "growth": "Revenue declined at an annualized 1.9% over 2016-2021, recovered 2.2% in 2021, and was forecast to grow 0.8% annually to $9.3 billion by 2026",
+      "product_mix_2021": {
+        "baby_furniture_excluding_cribs": "40.8% of revenue",
+        "cribs": "24.0% of revenue",
+        "strollers": "13.7% of revenue",
+        "car_safety_seats": "13.1% of revenue",
+        "other_mobile_carriers_and_accessories": "8.4% of revenue"
+      },
+      "operating_profile_2021": {
+        "revenue": "$8.966 billion",
+        "profit": "$323 million",
+        "profit_margin": "3.6%",
+        "establishments": "8,628",
+        "enterprises": "6,627",
+        "employment": "48,202",
+        "wages": "$1.197 billion"
+      }
+    },
+    "how_it_makes_money": "Stores earn revenue from retail markups on nursery furniture, cribs, strollers, car seats, carriers and accessories, with additional sales from registry-driven purchases, delivery, assembly, warranties, private-label products and occasional complementary categories such as bedding, toys and baby care goods.",
+    "cost_structure": {
+      "purchases": "Largest cost category; exposed to imported furniture, stroller and car-seat supply chains, freight costs, tariffs and vendor pricing",
+      "wages": "Material store cost because sales associates provide product demos, safety guidance, registry support and customer service; wages were $1.197 billion in the 2021 baseline",
+      "rent_and_occupancy": "Important fixed cost for showroom-style stores that need floor space for cribs, furniture, stroller testing and inventory display",
+      "marketing": "Rising as stores compete with online registries, search advertising, social commerce and big-box retailers",
+      "profit": "Low relative to retail peers; baseline EBIT margin was 3.6% in 2021 and forecast at 3.7% in 2026"
+    },
+    "major_players": [
+      "Pottery Barn Kids / Williams-Sonoma",
+      "buybuy BABY / Dream On Me, now online-only after 2024 store closures",
+      "Babylist, primarily online registry with physical showrooms",
+      "Independent regional baby furniture and gear stores",
+      "Big-box and online competitors including Target, Walmart and Amazon, which pressure specialty-store pricing"
+    ],
+    "current_dynamics": "The industry is not demand-free, because every new birth still creates need for car seats, sleep products and nursery goods, but the purchasing path has changed. Parents research and compare online, registries direct gift spending to digital platforms, and high-ticket items are increasingly bought from big-box retailers, marketplace sellers or DTC brands. The collapse and failed physical relaunch of buybuy BABY removed a major specialty-store footprint, while Babylist’s showroom strategy shows that physical retail is being reconfigured as discovery and registry support rather than a full national store chain. Safety regulation and recalls remain central because cribs, mattresses, carriers and car seats are high-liability categories.",
+    "whats_growing": [
+      "Premium and tech-enabled nursery items bought by older and higher-income first-time parents in 2025-2026",
+      "Omnichannel registries, online comparison shopping and showroom-assisted discovery",
+      "Private-label and exclusive product lines that protect margin against transparent online pricing",
+      "Safety-certified products and retailer advisory services for car seats, sleep products and furniture anchoring",
+      "Babylist-style physical showrooms tied to online registries and media monetization"
+    ],
+    "whats_shrinking": [
+      "Traditional national specialty-store chains after buybuy BABY closed its remaining stores by year-end 2024",
+      "Impulse in-store purchases of commodity gear as shoppers shift to online price comparison",
+      "Demand tied to birth volume, with US births down 1% in 2025",
+      "Small independent stores unable to match Amazon, Target or Walmart pricing and fulfillment speed",
+      "Sales of noncompliant or lightly regulated marketplace baby goods as CPSC enforcement and warnings intensify"
+    ],
+    "recent_developments": [
+      "2024-10: buybuy BABY announced it would close all remaining physical stores by year-end 2024 and operate as an online-only retailer.",
+      "2025-01: CPSC warned consumers to stop using Hermixa 6-in-1 convertible cribs sold on Amazon because of suffocation, fall and regulatory hazards.",
+      "2025-04: CDC reported 3,628,934 US births in 2024, up about 1% from 2023.",
+      "2026-04: CDC provisional data showed 3,606,400 US births in 2025, down 1% from 2024.",
+      "2026-05: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, equal to 16.9% of total retail sales.",
+      "2026: Babylist disclosed plans for a 20,000-square-foot New York showroom after opening an 18,000-square-foot Beverly Hills showroom earlier in the decade."
+    ],
+    "outlook": "The 2026 outlook is stable to slightly positive in nominal retail terms but weak in real specialty-store terms. The baseline forecast of $9.3 billion in 2026 remains a reasonable anchor, but the mix is shifting away from conventional stores toward online registries, marketplaces, DTC brands and big-box omnichannel retail. Stores that survive are likely to emphasize consultative selling, showroom experiences, safety expertise, premium furniture, car-seat fitting help, private-label lines and local service. Revenue upside depends on disposable income and premiumization, while downside comes from 2025 birth declines, high household costs, resale behavior and continued online share gains.",
+    "themes": [
+      "Mature retail niche",
+      "Falling birth rate",
+      "Omnichannel registries",
+      "Showroom retail",
+      "Online price competition",
+      "Product safety and recalls",
+      "Premiumization",
+      "Private label",
+      "Big-box substitution",
+      "Low-margin specialty retail"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/durable-baby-goods-stores.txt",
+      "https://www.cdc.gov/nchs/pressroom/releases/20260409.html",
+      "https://www.ncbi.nlm.nih.gov/books/NBK622025/",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMSA",
+      "https://www.retaildive.com/news/buybuy-baby-closing-all-stores-online-only/730280/",
+      "https://www.cpsc.gov/Warnings/2025/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Hermixa-6-in-1-Convertible-Crib-Due-to-Suffocation-Risk-and-Fall-Hazards-Violations-of-Regulations-for-Non-Full-Size-Cribs-Bedside-Sleepers-Crib-Mattresses-and-Bumper-Ban-Sold-Exclusively-at-Am",
+      "https://www.babylist.com/about/press?view=fullsite"
+    ],
+    "one_sentence": "Durable Baby Goods Stores are a small, mature US retail niche where 2025 demand is supported by older, higher-income parents buying premium gear, but constrained by 3.606 million US births in 2025, a 1% decline from 2024, and by e-commerce reaching 16.9% of total retail sales in Q1 2026.",
+    "slug": "durable-baby-goods-stores"
+  },
+  {
+    "title": "E-Book Publishing",
+    "sector": "Media & Entertainment",
+    "one_liner": "U.S. e-book publishing is a mature digital format business where traditional publishers defend backlist, frontlist and education revenue against print resilience, audio growth, platform concentration and self-publishing.",
+    "overview": "The industry converts print titles into digital editions and publishes digital-first books, excluding author self-publishing. IBISWorld placed 2022 U.S. industry revenue at $3.734 billion, down 7.9% in 2022, while newer AAP data show total U.S. publishing eBook revenue of $2.1 billion in 2024, up 1.5% from 2023, and reported U.S. trade eBook revenue of about $1.0 billion in 2025, down 0.3% from 2024. Through May 2026, reported trade eBook revenue was $429.7 million, down 3.5% from the first five months of 2025, while digital audio was $500.4 million, up 14.5%.",
+    "key_stats": {
+      "market_size": "2025 reported U.S. trade eBook publisher revenue was about $1.0 billion; latest full-estimate all-publishing eBook revenue was $2.1 billion in 2024.",
+      "growth": "2025 reported U.S. trade eBook revenue declined 0.3%; 2026 January-May reported trade eBook revenue declined 3.5% to $429.7 million.",
+      "digital_audio_comparison": "2026 January-May reported trade digital audio revenue rose 14.5% to $500.4 million, exceeding eBook revenue for the period.",
+      "format_share": "In 2024, eBooks and digital audio together accounted for 14.0% of total U.S. publishing revenue, with eBooks at $2.1 billion and digital audio at $2.4 billion.",
+      "baseline_profitability": "IBISWorld reported 2022 profit of $250 million and a 2022 profit margin of 6.7%.",
+      "baseline_scale": "IBISWorld reported 2022 establishments of 291, enterprises of 246, employment of 8,407 and wages of $767 million.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$3.734 billion in 2022 IBISWorld revenue, stated in 2022 dollars.",
+      "growth": "-7.9% in 2022 and -4.3% annualized revenue growth over 2017-2022.",
+      "profit": "$250 million in 2022 profit with a 6.7% margin.",
+      "industry_gross_product": "$1.062 billion in 2022.",
+      "employment": "8,407 employees in 2022."
+    },
+    "how_it_makes_money": "Publishers earn e-book revenue from unit sales and institutional sales through online retailers, device ecosystems, direct-to-consumer storefronts, library aggregators, education platforms and subscription or lending programs. Traditional publishers monetize frontlist releases, discounted backlist, genre fiction series, professional titles and course materials, while distributors and retailers capture a meaningful share through agency or wholesale arrangements.",
+    "cost_structure": "The largest costs are author advances and royalties, editorial labor, design and conversion, metadata, platform fees, marketing, rights management, legal and overhead. Compared with print publishing, e-books avoid 2025 paper, printing, warehousing and physical returns exposure, but they still carry acquisition, editorial and marketing costs; IBISWorld's 2022 wage base was $767 million and 2022 profit margin was 6.7%.",
+    "major_players": [
+      "Penguin Random House",
+      "HarperCollins",
+      "Simon & Schuster",
+      "Hachette Book Group",
+      "Macmillan Publishers",
+      "Amazon Kindle ecosystem",
+      "Apple Books",
+      "Kobo/Rakuten",
+      "Google Play Books",
+      "OverDrive/Libby"
+    ],
+    "current_dynamics": "The 2025-2026 market is flat to down for consumer e-books, with print holding most trade revenue and digital audio taking the growth role once expected from e-books. Platform power remains high because discovery, pricing, reviews, subscriptions and device ecosystems sit largely outside publishers. Education, professional and scholarly segments remain more digitally intensive than consumer trade, with 2026 first-quarter professional digital formats at 52.8% of revenue and education digital formats at 77.6% of revenue in AAP-reported data.",
+    "whats_growing": "Digital audio, accessible e-book workflows, institutional digital course materials, professional and scholarly digital formats, genre backlists, direct audience marketing, and multi-format discovery that links print, e-book and audio editions are growing in 2025-2026.",
+    "whats_shrinking": "Mass-market paperbacks, some adult nonfiction e-book demand, stand-alone consumer e-book growth, publisher pricing leverage against dominant platforms, and the original device-led growth narrative for dedicated e-readers are shrinking in 2025-2026.",
+    "recent_developments": [
+      "2025-08-26: AAP reported 2024 U.S. publishing revenue of $32.5 billion, up 4.1%, with eBooks up 1.5% to $2.1 billion.",
+      "2025-12-02: AAP reported September 2025 year-to-date trade eBook revenue of $788.5 million, down 0.5% from 2024.",
+      "2026-02-11: AAP reported full-year 2025 trade eBook revenue of about $1.0 billion, down 0.3% from 2024, while trade digital audio rose 2.1%.",
+      "2026-04-15: Spotify said its audiobook catalog had expanded to more than 700,000 titles and added tools linking audiobook discovery to print and e-book reading behavior.",
+      "2026-07-21: AAP reported January-May 2026 trade eBook revenue of $429.7 million, down 3.5%, while digital audio rose 14.5% to $500.4 million.",
+      "2026-07: The FTC finalized a $1.5 million order against Publishing.com over allegedly misleading e-book and audiobook self-publishing earnings claims."
+    ],
+    "outlook": "The 2026 outlook is cautious: e-books remain a durable format but not the main growth engine in consumer publishing. Revenue should track the broader book cycle, with support from backlist, genre fiction, education and professional use, but pressure from audiobooks, self-publishing, subscription economics and print preference. Publishers are likely to invest in accessibility, metadata, rights enforcement, AI-assisted production workflows and multi-format bundles rather than treating e-books as a stand-alone high-growth category.",
+    "themes": [
+      "Mature digital format",
+      "Audiobook substitution",
+      "Print resilience",
+      "Platform concentration",
+      "Self-publishing competition",
+      "Backlist monetization",
+      "Education and professional digitization",
+      "Accessibility compliance",
+      "AI and copyright risk",
+      "Library and subscription economics"
+    ],
+    "data_year": "2025 with 2026 developments through 2026-08-08",
+    "sources": [
+      "{'title': 'IBISWorld baseline file: e-book-publishing.txt, last updated 2022-04-21', 'url': 'file:/home/manishmehta/ui-projects/ibis-industries/txt_full/e-book-publishing.txt'}",
+      "{'title': 'AAP 2024 StatShot Annual release', 'url': 'https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-32-5-billion-for-calendar-year-2024/'}",
+      "{'title': 'AAP December 2025 StatShot release', 'url': 'https://publishers.org/news/aap-december-2025-statshot-report-overall-publishing-industry-up-9-4-for-month-of-december-and-up-1-1-year-to-date/'}",
+      "{'title': 'AAP May 2026 StatShot release', 'url': 'https://publishers.org/news/aap-may-2026-statshot-report-overall-publishing-industry-up-6-8-for-month-of-may-and-up-2-6-year-to-date/'}",
+      "{'title': 'Publishers Weekly 2026 Q1 StatShot analysis', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100437-publisher-sales-had-small-first-quarter-gain.html'}",
+      "{'title': 'Publishers Weekly Amazon accessibility metadata report', 'url': 'https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/98618-amazon-adds-benetech-accessible-metadata-to-ebooks-highlighting-simon-schuster-s-leadership.html'}",
+      "{'title': 'Spotify 2026 audiobook and Page Match update', 'url': 'https://newsroom.spotify.com/2026-04-15/audiobook-charts-recaps-page-match-bookshop-update/'}",
+      "{'title': 'FTC Publishing.com final order', 'url': 'https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-publishingcom-settling-allegations-it-misled-consumers'}"
+    ],
+    "one_sentence": "After IBISWorld's 2022 decline baseline, public 2024-2026 data show e-books stabilizing in some trade categories but still underperforming digital audio and remaining heavily dependent on Amazon, Apple, Kobo, Google and library distribution channels.",
+    "slug": "e-book-publishing"
+  },
+  {
+    "title": "E-cigarette Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US e-cigarette manufacturing is a device-led nicotine hardware industry growing slowly under heavy FDA scrutiny, high import competition and a widening split between authorized tobacco/menthol systems and illicit flavored disposables.",
+    "overview": "The industry manufactures open-system and closed-system electronic nicotine delivery devices, including cigalike units, pod devices, rechargeable vaporizers and related hardware; the IBIS baseline excludes nicotine liquids, salts and refill cartridges even though many market sources include them. The 2021 baseline showed $6.309 billion in industry revenue, $612 million in profit, a 9.7% profit margin, $1.985 billion in industry gross product, 480 establishments, 475 enterprises, 24,726 employees, $826 million of exports, $4.446 billion of imports and $9.929 billion of domestic demand. By 2025-2026, the market had matured into a regulated replacement-nicotine category dominated by authorized tobacco and menthol closed systems from large nicotine companies, while unauthorized flavored disposables continued to shape demand, pricing and enforcement risk.",
+    "key_stats": {
+      "market_size": "2025 estimated US e-cigarette manufacturing revenue: $6.8 billion; broader US e-cigarette and vape retail revenue was $14.0836 billion in 2024 according to Grand View Research.",
+      "growth": "2025 estimated manufacturing revenue growth: about 1.9%, based on the IBIS 2021-2027 projected CAGR of 1.95%; broader US e-cigarette and vape retail market CAGR was forecast at 30.5% for 2024-2030 by Grand View Research.",
+      "business_count": "2025 IBISWorld public profile: 100 businesses, up 9.9% in 2025; 2024 count was 91 businesses, up 11.0% from 2023.",
+      "authorized_products": "2026 FDA list: 45 e-cigarette products were authorized for lawful US sale.",
+      "imports": "2021 IBIS baseline imports: $4.446 billion, equal to nearly 50.0% of 2021 domestic demand; 2026 US import enforcement remained focused on unauthorized ENDS products, especially China-origin shipments.",
+      "youth_use": "2024 CDC NYTS: 1.63 million middle and high school students, or 5.9%, currently used e-cigarettes; 55.6% of youth current users used disposable e-cigarettes.",
+      "adult_use": "2023 CDC/NCHS: adult current e-cigarette use rose to 6.5% from 4.5% in 2019.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated industry revenue: $6.43 billion, derived from the 2021 IBIS baseline of $6.309 billion and the 2021-2027 projected CAGR of 1.95%.",
+      "growth": "2022 estimated revenue growth: 1.95%, based on the IBIS 2021-2027 projected CAGR.",
+      "profit_context": "2021 baseline profit was $612 million and 9.7% of revenue; 2022 profitability likely remained pressured by marketing, compliance and import competition.",
+      "employment_context": "2021 baseline employment was 24,726 workers; 2022 employment likely rose with the IBIS outlook for 2021-2027 employment growth."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, assembling, importing, branding and distributing e-cigarette devices and device systems to wholesalers, convenience-store channels, vape shops, online sellers where legal and vertically integrated tobacco-company distribution networks. Closed pod systems generate hardware sales and recurring platform demand through compatible pods, while open systems and rechargeable devices depend more on specialty-vape retailers and component replacement. Large players monetize FDA-authorized systems through national distribution, adult-smoker conversion campaigns and brand loyalty, while smaller operators compete on device design, price, private label and overseas sourcing.",
+    "cost_structure": {
+      "profit": "2021 IBIS baseline profit margin: 9.7% of revenue.",
+      "wages": "2021 IBIS baseline wages: $1.280 billion, equal to about 20.3% of 2021 revenue.",
+      "purchases_and_components": "2021 cost pressure centered on imported electronics, batteries, atomizers, casings and contract-manufactured device assemblies, with imports of $4.446 billion in 2021 supplying nearly 50.0% of domestic demand.",
+      "compliance": "2025-2026 compliance costs were elevated by FDA PMTA requirements, marketing restrictions, import-alert screening, age-gating obligations and litigation risk.",
+      "marketing_and_distribution": "2025-2026 spending favored adult-smoker conversion, trade promotion, convenience-store placement and brand defense against unauthorized flavored disposables."
+    },
+    "major_players": [
+      "R.J. Reynolds Vapor Company / Vuse, owned by British American Tobacco",
+      "JUUL Labs Inc.",
+      "NJOY LLC, owned by Altria Group Inc.",
+      "Logic Technology Development LLC, owned by Japan Tobacco",
+      "Fontem US / blu, owned by Imperial Brands",
+      "Shenzhen-linked disposable and device suppliers serving the US market, including authorized and unauthorized import channels"
+    ],
+    "current_dynamics": "Regulation is the central market force in 2025-2026. FDA authorization increasingly determines which products can scale legally, while import alerts and seizures target unauthorized disposable ENDS products. Large tobacco-backed platforms benefit from regulatory capabilities, national retail access and FDA-authorized tobacco or menthol products. At the same time, illicit flavored disposables continue to pressure authorized brands, pull adult and youth demand toward low-cost high-puff-count devices, and complicate measured growth because many sales sit outside compliant channels. Adult usage has risen through 2023 even as youth e-cigarette use declined in 2024, creating a mixed demand picture: legitimate manufacturers can grow with adult smokers switching away from combustibles, but they face constrained flavor options, higher compliance expense and persistent enforcement volatility.",
+    "whats_growing": [
+      "FDA-authorized closed systems in tobacco and menthol flavors, including Vuse, NJOY, JUUL and Logic products authorized by 2026.",
+      "Rechargeable and modular device formats, with Grand View Research identifying rechargeable products as the largest 2024 US product segment at 58.14% of broader e-cigarette and vape revenue.",
+      "Adult e-cigarette use, which CDC/NCHS reported at 6.5% in 2023 versus 4.5% in 2019.",
+      "Federal import enforcement, including more than 6.0 million unauthorized e-cigarettes worth over $120.0 million stopped by FDA and CBP in 2025 as of September 10, 2025."
+    ],
+    "whats_shrinking": [
+      "Traditional cigalike share, which the 2021 IBIS baseline already described as losing share to closed-system vaping devices.",
+      "Legally risky flavored disposable supply as FDA import alerts and seizures increased in 2025-2026, although consumer demand remained significant.",
+      "Youth use, with CDC reporting 1.63 million current middle and high school e-cigarette users in 2024, down from 2023 levels cited by CDC/NCHS.",
+      "Unauthorized blu disposable prospects after FDA marketing denial activity in 2024 and 2025."
+    ],
+    "recent_developments": [
+      "2025-01-03: FDA updated Import Alerts 98-07 and 98-06 so unauthorized e-cigarette products may be detained without physical examination.",
+      "2025-01-10: FDA, Homeland Security Investigations and CBP seized more than 628,000 unauthorized e-cigarette products valued at over $7.0 million from a Miami warehouse.",
+      "2025-07-17: FDA authorized five JUUL products, including the JUUL device and tobacco- and menthol-flavored JUULpods in 3.0% and 5.0% nicotine strengths.",
+      "2025-09-10: HHS, FDA and CBP announced the largest-ever e-cigarette seizure, 4.7 million unauthorized units valued at $86.5 million, mostly from China-origin shipments.",
+      "2026-01-29: Altria reported 2025 e-vapor impairments of $2.2 billion and stated its 2026 guidance assumes NJOY ACE does not return to the US marketplace in 2026.",
+      "2026-05-08: FDA issued guidance on enforcement priorities for unauthorized ENDS and nicotine pouch products marketed without premarket authorization."
+    ],
+    "outlook": "The 2026 outlook is for low single-digit manufacturing growth, with upside from adult-smoker switching and authorized closed-system products and downside from enforcement disruption, illicit competition and limited flavor availability. The domestic manufacturing revenue base is likely to remain near $6.9 billion in 2026 under the original IBIS 2021-2027 trajectory, but the broader retail market can grow faster because it includes pods, liquids and disposables. Consolidation should favor companies with PMTA science, legal budgets, established retail distribution and the ability to shift production or sourcing as import scrutiny increases. Smaller device manufacturers remain exposed to product-denial risk, customs detention, state flavor restrictions and price competition from overseas suppliers.",
+    "themes": [
+      "FDA authorization as a market-entry barrier",
+      "Illicit flavored disposable competition",
+      "Adult smoker conversion versus youth-prevention regulation",
+      "Closed-system platform economics",
+      "China-linked import dependence and customs enforcement",
+      "Tobacco-company consolidation",
+      "Shift from combustible cigarettes to smoke-free nicotine",
+      "Compliance-heavy product innovation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: E-cigarette Manufacturing in the US, last updated August 17, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/e-cigarette-manufacturing-in-the-us.txt'}",
+      "{'title': 'FDA: Authorized E-Cigarettes, Vapes and Other ENDS', 'url': 'https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda'}",
+      "{'title': 'FDA: Advisory and Enforcement Actions Against Industry for Unauthorized Tobacco Products', 'url': 'https://www.fda.gov/tobacco-products/compliance-enforcement-training/advisory-and-enforcement-actions-against-industry-unauthorized-tobacco-products'}",
+      "{'title': 'FDA: HHS, CBP Seize $86.5 Million Worth of Illegal E-Cigarettes in Largest-Ever Operation, September 10, 2025', 'url': 'https://www.fda.gov/news-events/press-announcements/hhs-cbp-seize-865-million-worth-illegal-e-cigarettes-largest-ever-operation'}",
+      "{'title': 'FDA: More Than $7 Million Worth of Illegal E-Cigarettes Seized in Federal Operation, January 10, 2025', 'url': 'https://www.fda.gov/tobacco-products/ctp-newsroom/more-7-million-worth-illegal-e-cigarettes-seized-federal-operation'}",
+      "{'title': 'FDA: Updates Import Alerts to Reinforce that All Unauthorized E-Cigarettes May Be Detained Without Physical Examination, January 3, 2025', 'url': 'https://www.fda.gov/tobacco-products/ctp-newsroom/fda-updates-import-alerts-reinforce-all-unauthorized-e-cigarettes-may-be-detained-without-physical'}",
+      "{'title': 'FDA: Tobacco Products Marketing Orders', 'url': 'https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/tobacco-products-marketing-orders'}",
+      "{'title': 'FDA: Enforcement Priorities for Unauthorized ENDS and Nicotine Pouch Products, May 8, 2026', 'url': 'https://www.fda.gov/tobacco-products/ctp-newsroom/fda-issues-guidance-enforcement-priorities-unauthorized-ends-and-nicotine-pouch-products'}",
+      "{'title': 'CDC: E-Cigarette Use Among Youth, October 17, 2024', 'url': 'https://www.cdc.gov/tobacco/e-cigarettes/youth.html'}",
+      "{'title': 'CDC/NCHS Data Brief No. 524: Electronic Cigarette Use Among Adults, January 2025', 'url': 'https://www.cdc.gov/nchs/products/databriefs/db524.htm'}",
+      "{'title': 'Grand View Research: U.S. E-cigarette and Vape Market Size and Share Report, last updated January 2025', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-e-cigarette-vape-market'}",
+      "{'title': 'Grand View Research Horizon: U.S. E-cigarette and Vape Market Outlook, last updated March 16, 2026', 'url': 'https://www.grandviewresearch.com/horizon/outlook/e-cigarette-and-vape-market/united-states'}",
+      "{'title': 'IBISWorld public profile: E-cigarette Manufacturing in the US Number of Businesses, April 2025', 'url': 'https://www.ibisworld.com/united-states/number-of-businesses/e-cigarette-manufacturing/6196/'}",
+      "{'title': 'Altria: 2025 Fourth-Quarter and Full-Year Results, January 29, 2026', 'url': 'https://investor.altria.com/press-releases/news-details/2026/Altria-Reports-2025-Fourth-Quarter-and-Full-Year-Results-Provides-2026-Earnings-Guidance/default.aspx'}",
+      "{'title': 'British American Tobacco: 2025 Full Year Pre-Close Trading Update, December 9, 2025', 'url': 'https://www.bat.com/media/press-releases/_2025/december/2025-full-year-pre-close-trading-update'}"
+    ],
+    "one_sentence": "In 2025, US e-cigarette manufacturing remained a roughly $6.8 billion domestic manufacturing revenue pool, while the broader 2024 US e-cigarette and vape retail market was estimated at $14.1 billion, with growth constrained by FDA authorization rules, seizures of unauthorized imports and competition from China-linked disposable products.",
+    "slug": "e-cigarette-manufacturing-in-the-us"
+  },
+  {
+    "title": "Early Childhood Learning Centers",
+    "sector": "Consumer Services",
+    "one_liner": "Preschool and early-learning centers sell kindergarten-readiness, developmental care and employer-backed child-care access to families, governments and corporations.",
+    "overview": "The industry includes public and private centers that primarily provide basic preparatory education for children from about age 2 to compulsory school-entry age, with services spanning toddler development, preschool and pre-kindergarten. The 2020 baseline file reported 2019 revenue of $11.917B, 2019 profit of $1.561B, 2019 profit margin of 13.1%, 2019 establishments of 19,894 and 2019 employment of 253,709. Current 2025 public market estimates put the narrower Early Childhood Learning Centers industry at about $22.6B in 2025, while official Census data for the broader child day care services category show much larger employer-firm receipts of $56.881B in 2022 and $62.970B in 2023.",
+    "key_stats": {
+      "market_size": "2025: about $22.6B in US Early Childhood Learning Centers revenue, per IBISWorld public market-size estimate.",
+      "growth": "2019-2024: about 3.6% CAGR for US Early Childhood Learning Centers revenue; 2025: roughly flat near $22.6B based on IBISWorld public summary.",
+      "broader_market_benchmark": "2023: $62.970B in employer-firm revenue for broader US Child Day Care Services, up 10.7% from 2022, per US Census Annual Services data.",
+      "public_pre_k": "2023-2024 school year: state-funded preschool served about 1.75M children and state spending reached about $13.6B, per NIEER.",
+      "head_start": "FY2024: Head Start served about 761,000 funded enrollment slots with about $12.3B in federal appropriations, per ACF program facts.",
+      "employment_driver": "2024: labor force participation for mothers with children under age 6 was 68.1%, per BLS.",
+      "cost_pressure": "2024 baseline forecast: wages were expected to equal 49.3% of industry revenue, making labor the largest cost category.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: estimated $21.1B for the narrower Early Childhood Learning Centers industry, backcast from the 2024 IBISWorld public market-size level of $22.6B and its 2019-2024 CAGR of 3.6%.",
+      "growth": "2022: approximately +3.6% implied annual revenue growth using the 2019-2024 IBISWorld public CAGR; broader Census Child Day Care Services employer revenue grew 13.3% in 2022 from 2021.",
+      "broader_official_reference": "2022: $56.881B in employer-firm revenue for broader US Child Day Care Services, per US Census Annual Services data."
+    },
+    "how_it_makes_money": "Centers earn tuition and fees from parents, state-funded preschool reimbursements, Head Start and child-care subsidy payments, employer-sponsored or corporate-contracted care, franchise and curriculum fees, summer or enrichment programs, registration fees, meals and ancillary services. Private centers usually price weekly or monthly by age group and schedule, while public and nonprofit operators rely more heavily on per-child grants, contracts and reimbursements.",
+    "cost_structure": "The cost base is dominated by staff wages, payroll taxes and benefits because state ratios require a minimum number of teachers and aides per child. The 2024 baseline forecast put wages at 49.3% of revenue. Other major 2025 cost buckets include rent or mortgage costs for licensed facilities, insurance, food, supplies, curriculum materials, toys and books, utilities, cleaning, licensing, background checks, compliance administration, training, marketing, technology platforms and franchise royalties where applicable. Profitability is highest for scaled operators with strong occupancy, premium tuition, employer contracts or franchise economics; it is weakest for small centers exposed to wage inflation, rent increases and subsidy reimbursement lags.",
+    "major_players": [
+      "{'name': 'Bright Horizons Family Solutions', 'position': 'Largest publicly traded employer-sponsored child-care and early-education operator; 2025 revenue was about $2.94B, with 2025 center-based child care making up most revenue.'}",
+      "{'name': 'KinderCare Learning Companies', 'position': 'Large national operator of KinderCare centers, before- and after-school programs and employer-sponsored care; 2025 revenue was about $2.73B and 2025 early childhood education revenue was about $2.52B.'}",
+      "{'name': 'Learning Care Group', 'position': 'Large privately held multi-brand provider operating La Petite Academy, Childtime, Tutor Time and related brands; 2025 disclosures describe more than 1,000 schools nationally.'}",
+      "{'name': 'The Goddard School', 'position': 'Major franchised early-childhood education brand with more than 2025: 600 US schools, focused on premium preschool and play-based learning.'}",
+      "{'name': 'Primrose Schools', 'position': 'Major franchised early-education and care system with more than 2025: 500 schools, positioned around curriculum-led private preschool.'}"
+    ],
+    "current_dynamics": "In 2025-2026, demand is being pulled in two directions. High employment among parents and employer retention programs support paid care, while tuition affordability, labor shortages and the 2023 expiration of federal pandemic stabilization grants continue to pressure operators. State pre-K expansion is a demand source for public, nonprofit and contracted private providers, but it can also compete with private preschool tuition for 3- and 4-year-olds. Large operators are using scale, employer partnerships, tuition management and occupancy discipline to offset wage inflation, while small centers remain more exposed to local rent, staffing and subsidy-payment timing.",
+    "whats_growing": [
+      "2023-2024: state-funded preschool enrollment and spending grew, increasing publicly funded demand for pre-K seats.",
+      "2025: employer-sponsored child care and backup care grew as large employers used benefits to improve retention and office attendance.",
+      "2025: premium private preschool models grew in high-income suburbs where parents can absorb tuition increases.",
+      "2025: software for billing, waitlists, classroom communication, compliance and staffing grew as centers tried to raise utilization and reduce admin work.",
+      "2025-2026: franchise networks grew because local owners can use national curriculum, marketing, procurement and compliance systems."
+    ],
+    "whats_shrinking": [
+      "2025: smaller independent centers with weak occupancy shrank or consolidated as wages, rent and insurance costs rose faster than tuition in many markets.",
+      "2025: purely private preschool demand for 4-year-olds shrank in states and cities expanding free or low-cost public pre-K.",
+      "2025: low-margin infant and toddler classrooms remained constrained because staff-to-child ratios limit capacity and raise per-seat labor cost.",
+      "2025-2026: discretionary enrichment add-ons were more vulnerable where households faced high child-care, housing and food costs."
+    ],
+    "recent_developments": [
+      "2024-04-30: HHS finalized Child Care and Development Fund rules intended to lower eligible-family copayments and stabilize provider payments.",
+      "2025-05-08: NIEER reported 2023-2024 state preschool enrollment of about 1.75M children and state spending of about $13.6B.",
+      "2025-02-13: Bright Horizons reported 2024 revenue of about $2.67B, up 16.0% from 2023.",
+      "2025-03-20: KinderCare reported 2024 revenue of about $2.66B in its first annual report after its 2024 IPO.",
+      "2026-02-12: Bright Horizons reported 2025 revenue of about $2.94B, up about 10.0% from 2024.",
+      "2026-03-18: KinderCare reported 2025 revenue of about $2.73B, up about 2.9% from 2024."
+    ],
+    "outlook": "The 2026-2030 outlook is modest growth with uneven winners. Revenue should benefit from high parental labor-force attachment, state pre-K expansion, employer child-care benefits and tuition increases, but unit growth will be limited by educator shortages, licensing constraints, weak birth trends and household affordability. Scaled public companies, franchise systems and operators with public or employer contracts are better positioned than small tuition-only centers. The main margin question for 2026-2030 is whether centers can keep occupancy high enough to offset teacher wage increases without pricing families out.",
+    "themes": [
+      "Affordability gap",
+      "Labor scarcity",
+      "State pre-K expansion",
+      "Employer-sponsored child care",
+      "Occupancy management",
+      "Franchise growth",
+      "Public funding dependence",
+      "Premium private preschool",
+      "Compliance burden",
+      "Post-pandemic subsidy reset"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/early-childhood-learning-centers.txt",
+      "https://www.ibisworld.com/united-states/market-research-reports/early-childhood-learning-centers-industry/",
+      "https://www.census.gov/programs-surveys/sas/data/tables.html",
+      "https://nieer.org/the-state-of-preschool-yearbook",
+      "https://acf.gov/ohs/about/head-start-program-facts",
+      "https://www.bls.gov/news.release/famee.nr0.htm",
+      "https://investors.brighthorizons.com/financial-information/sec-filings",
+      "https://investors.kindercare.com/financials/sec-filings/default.aspx"
+    ],
+    "one_sentence": "Early Childhood Learning Centers are a labor-heavy, locally regulated education-and-care industry whose 2025 demand is supported by high parental employment and public pre-K funding, but constrained by staffing costs, child-care affordability and demographic softness in young children.",
+    "slug": "early-childhood-learning-centers"
+  }
+]

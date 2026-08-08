@@ -1,0 +1,454 @@
+[
+  {
+    "title": "High Frequency Trading",
+    "sector": "Finance & Insurance",
+    "one_liner": "High frequency trading firms use ultra-low-latency algorithms to make markets, arbitrage prices and monetize short-lived trading opportunities across equities, options, ETFs, futures and other liquid securities.",
+    "overview": "The High Frequency Trading industry consists of proprietary trading and electronic market-making firms that submit, cancel and execute large volumes of orders in fractions of a second using quantitative models, exchange connectivity, colocation and automated risk controls. The legacy IBIS baseline framed the US industry around pure-play HFT revenue, which was $6.37 billion in 2020 and projected to ease toward about $5.8 billion in 2025 as pandemic volatility normalized. Actual 2025 market conditions were materially stronger: US equities average daily volume reached 17.6 billion shares in 2025, up 44.6% from 2024, and US listed options volume reached 15.207 billion contracts in 2025, up 24.4% from 2024. Private and public market-maker disclosures show the revenue pool has expanded well beyond the older pure-play HFT baseline, led by Jane Street, Citadel Securities, Hudson River Trading, Virtu Financial, Two Sigma Securities and other automated liquidity providers.",
+    "key_stats": {
+      "market_size": "2025: roughly $25 billion-$35 billion US-addressable HFT/electronic market-making revenue, using public and reported 2025 trading revenue from leading firms; legacy IBIS pure-play HFT baseline points to about $5.8 billion in 2025.",
+      "growth": "2025: strong double-digit growth; Virtu Financial total revenue rose 26.2% in 2025, Citadel Securities trading revenue was reported up 25% in 2025, US equities ADV rose 44.6% in 2025 and OCC total options contract volume rose 24.4% in 2025.",
+      "trading_volume": "2025: US equities ADV was 17.6 billion shares and average daily notional value was $1.1 trillion; 2025 OCC total options volume was 15.207 billion contracts.",
+      "profitability": "2025: leading scaled firms remained highly profitable; Citadel Securities was reported to have about $6.5 billion of 2025 EBITDA on $12.2 billion of trading revenue, while Virtu reported 2025 total revenue of $3.632 billion.",
+      "market_structure": "2025: off-exchange US equities trading reached 50.6% of total consolidated volume, with 81.3% of TRF volume through principal dealers and 18.7% through ATS platforms.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $6.1 billion, estimated from the baseline report's 2020 revenue of $6.37 billion and projected 2020-2025 revenue CAGR of about -2.0%.",
+      "growth": "2022: about -2.0% baseline projected annual revenue growth as volatility was expected to normalize after the 2020 pandemic spike.",
+      "profit_margin": "2020 baseline profit margin was 25.4%; 2022 baseline profitability was expected to remain supported by consolidation and automation despite rising data and infrastructure costs.",
+      "enterprises": "2020 baseline enterprises were 153, with the baseline projecting continued consolidation through 2025."
+    },
+    "how_it_makes_money": [
+      "Capturing bid-ask spreads while providing automated liquidity across equities, ETFs, options, futures and related instruments.",
+      "Statistical arbitrage and latency-sensitive arbitrage between correlated securities, venues, ETFs, futures and options.",
+      "Exchange rebates and maker-taker economics where the firm supplies liquidity under venue fee schedules.",
+      "Internalization and wholesale market-making for retail and broker-dealer order flow, offset by payment-for-order-flow and execution-quality obligations.",
+      "Execution services, algorithmic routing, agency trading tools and technology services for institutional clients."
+    ],
+    "cost_structure": [
+      "Market data, exchange connectivity, colocation, microwave/fiber networks and cloud/HPC compute are core fixed costs in 2025-2026.",
+      "Brokerage, exchange, clearing, settlement, financing and payment-for-order-flow costs scale with trading volume.",
+      "Quant researchers, engineers, traders, compliance staff and risk managers are high-wage labor costs, but headcount intensity is low compared with revenue at scaled firms.",
+      "Capital, margin, clearing-fund contributions and inventory-risk buffers are required to quote continuously and absorb intraday volatility.",
+      "Regulatory reporting, surveillance, cyber controls and model-risk governance costs are rising as trading becomes more automated and fragmented."
+    ],
+    "major_players": [
+      "Jane Street",
+      "Citadel Securities",
+      "Hudson River Trading",
+      "Virtu Financial",
+      "Two Sigma Securities",
+      "Susquehanna International Group",
+      "Jump Trading",
+      "DRW",
+      "IMC Trading",
+      "Optiver"
+    ],
+    "current_dynamics": "Record 2025 trading activity reversed the older post-pandemic normalization thesis. Volatility around tariffs, rates, AI-led equity concentration and retail options flow expanded short-term price dislocations and quoting opportunities. Scale matters more than ever: the largest firms can absorb higher market-data bills, regulatory implementation costs and compute spending while using cross-asset models to trade equities, ETFs, options, futures, crypto-linked products and global markets. At the same time, spreads remain structurally competitive, off-exchange routing keeps order flow fragmented, and SEC Regulation NMS changes create implementation work around smaller tick sizes, lower access-fee caps and odd-lot transparency in late 2025 and 2026.",
+    "whats_growing": [
+      "2025: listed options, especially ETF, index and 0DTE options; OCC total options volume rose 24.4% and Cboe reported SPX 0DTE averaged 2.3 million contracts daily in 2025.",
+      "2025: off-exchange and non-displayed equities execution; TRF share reached 50.6% of total consolidated US equities volume.",
+      "2025-2026: AI-assisted signal research, automated risk management, high-performance compute and private low-latency infrastructure.",
+      "2026: index options and SPX 0DTE activity; Cboe reported record June 2026 and Q2 2026 proprietary index options and SPX 0DTE volumes.",
+      "2025: institutional engagement with electronic execution services, reflected in Virtu's 2025 commissions, net and technology services increasing 19.4%."
+    ],
+    "whats_shrinking": [
+      "Small standalone HFT shops with limited capital, weaker data access or insufficient technology scale.",
+      "Simple latency-only equity strategies where spreads are narrow and advantages decay quickly.",
+      "Manual trading workflows and headcount-heavy execution models in liquid, electronic products.",
+      "Certain exchange-fee economics as Regulation NMS access-fee caps move lower for protected quotes.",
+      "Baseline IBIS-style pure-play HFT revenue definitions, which understate the broader 2025 electronic market-making revenue pool."
+    ],
+    "recent_developments": [
+      "2025-01-05: OCC reported 2025 total options volume of 15.207 billion contracts, up 24.4% from 2024.",
+      "2026-01-22: Cboe reported US listed options averaged about 61 million contracts per day in 2025, the sixth consecutive record year.",
+      "2026-01-26: Cboe reported 2025 US equities ADV of 17.6 billion shares, up 44.6%, and off-exchange TRF share of 50.6%.",
+      "2026-03-24: Bloomberg reported Citadel Securities generated a record $12.2 billion of 2025 trading revenue, up 25% from 2024.",
+      "2026-04-25: Reuters reported Jane Street generated $39.6 billion of 2025 net trading revenue.",
+      "2026-07-06: Cboe reported record June 2026 US options activity, including Q2 2026 SPX options ADV of 5.1 million contracts and SPX 0DTE ADV of 3.1 million contracts."
+    ],
+    "outlook": "The 2026 outlook is constructive but uneven. Industry revenue should remain above the older 2022 baseline if equity and options volumes stay elevated, with the best economics accruing to large, diversified market makers that can internalize flow, trade cross-asset volatility and invest heavily in data, AI and low-latency infrastructure. Growth is most likely in options, ETFs, index products, extended-hours trading and off-exchange execution. Risks include lower realized volatility, tighter spreads, lower access-fee caps, higher market-data charges, exchange competition, regulatory scrutiny of market structure and concentration of order flow among a small group of firms.",
+    "themes": [
+      "Market volatility monetization",
+      "0DTE and index options growth",
+      "Off-exchange trading and internalization",
+      "Scale-driven consolidation",
+      "AI and high-performance compute",
+      "Market-data and connectivity inflation",
+      "Regulation NMS implementation",
+      "Liquidity provision under tighter spreads",
+      "Retail order flow and payment-for-order-flow pressure",
+      "Cross-asset electronic market making"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: high-frequency-trading.txt', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/high-frequency-trading.txt'}",
+      "{'name': 'Cboe 2025 U.S. Equities Year in Review', 'url': 'https://www.cboe.com/insights/posts/2025-u-s-equities-year-in-review'}",
+      "{'name': 'OCC Annual 2025 and December 2025 Volume', 'url': 'https://www.theocc.com/newsroom/views/2026/01-05-occ-annual-2025-and-december-2025-volume'}",
+      "{'name': 'Cboe State of the Options Industry 2025', 'url': 'https://www.cboe.com/insights/posts/the-state-of-the-options-industry-2025'}",
+      "{'name': 'Virtu Financial 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1592386/000159238626000009/virt-20251231.htm'}",
+      "{'name': 'SEC Regulation NMS tick sizes and access fee caps final rule', 'url': 'https://www.sec.gov/rules-regulations/2024/09/regulation-nms-minimum-pricing-increments-access-fees-transparency-better-priced-orders'}",
+      "{'name': 'SEC tick sizes small entity compliance guide', 'url': 'https://www.sec.gov/resources-small-businesses/small-business-compliance-guides/tick-sizes'}",
+      "{'name': 'Cboe June 2026 trading volume release', 'url': 'https://ir.cboe.com/news/news-details/2026/Cboe-Global-Markets-Reports-Trading-Volume-for-June-2026/default.aspx'}",
+      "{'name': 'Reuters via Economic Times: Jane Street 2025 trading revenue', 'url': 'https://m.economictimes.com/markets/us-stocks/news/jane-streets-40-billion-trading-haul-tops-rivals-sources-say/amp_articleshow/130508024.cms'}",
+      "{'name': 'Bloomberg Law: Citadel Securities 2025 trading revenue', 'url': 'https://news.bloomberglaw.com/banking-law/citadel-securities-nets-record-12-billion-trading-haul-1'}"
+    ],
+    "one_sentence": "In 2025–2026, US high frequency trading is benefiting from record equity and options volumes, wider opportunity sets in 0DTE/index options and off-exchange trading, while facing lower tick sizes, lower access-fee caps and rising technology, market-data and connectivity costs.",
+    "slug": "high-frequency-trading"
+  },
+  {
+    "title": "High Fructose Corn Syrup Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. corn-wet-milling industry that still supplies beverage and processed-food manufacturers, but faces long-running pressure from sugar reduction, clean-label reformulation and soft-drink volume weakness.",
+    "overview": "The U.S. HFCS industry is a concentrated, capital-intensive segment of corn wet milling. The baseline IBIS file projected 2025 industry revenue at $3.6 billion after a 2020-2025 CAGR of -0.5%, reflecting a mature market in which soda and processed-food demand remained large but consumers and brands continued to move away from added sugars and HFCS-free labels gained shelf space. Current 2025-2026 data point to the same mixed picture: USDA-ERS reports long-term declines in caloric sweetener and corn sweetener availability, the FDA's 2025 front-of-package labeling proposal targets added sugars, while USDA grain forecasts show abundant 2025/26 corn supply and lower corn prices that support producer input costs. Mexico remains the key export relief valve, with USDA/WASDE-linked 2025 data showing Mexican HFCS consumption near multiyear highs before a projected 2025/26 easing.",
+    "key_stats": {
+      "market_size": "2025 U.S. industry revenue estimated at $3.6 billion from the baseline 2020-2025 IBIS projection.",
+      "growth": "2020-2025 revenue CAGR projected at -0.5%; 2025-2026 demand outlook is flat to slightly negative in the U.S. but helped by cheaper corn and Mexican demand.",
+      "profit_margin": "2025 baseline operating profit margin projected at about 5.0%.",
+      "exports": "2025 baseline exports projected at $486.7 million, equal to about 13.7% of industry revenue.",
+      "domestic_demand_signal": "2024 U.S. per-capita caloric sweetener deliveries were 120.7 pounds, down from 126.4 pounds in 2022 and 123.0 pounds in 2023.",
+      "corn_sweetener_signal": "2023 U.S. corn sweetener availability was 53.0 pounds per person, down from the 1999 peak of 85.7 pounds.",
+      "input_cost_signal": "USDA's November 2025 WASDE projected 2025/26 U.S. corn production at 16.752 billion bushels and a season-average farm price of $4.00 per bushel.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 U.S. industry revenue estimated at about $3.62 billion by applying the baseline 2020-2025 -0.5% CAGR path to the 2020 revenue base.",
+      "growth": "2022 sat inside the baseline 2020-2025 decline path of -0.5% CAGR, following a 2020 revenue level of $3.659 billion and projected 2025 revenue of $3.6 billion.",
+      "context": "2022 remained a post-COVID normalization year with beverage demand recovering from 2020 foodservice disruption but still constrained by health-conscious reformulation and lower per-capita sweetener intake."
+    },
+    "how_it_makes_money": "Producers earn revenue by selling bulk liquid HFCS under supply contracts or spot arrangements to beverage bottlers, food processors, bakeries, dairy manufacturers, confectionery companies and exporters. HFCS-55 is the core beverage sweetener, HFCS-42 serves broader food and beverage uses, and higher-fructose syrups are mainly blended into HFCS-55 or sold into niche formulations. Byproducts and adjacent corn-wet-milling streams such as starches, glucose, dextrose, corn oil and animal feed help facility economics but are outside the pure HFCS revenue line.",
+    "cost_structure": {
+      "corn": "Largest variable input; 2025/26 USDA corn price projections around $4.00 per bushel reduce pressure versus 2023/24's $4.55 per bushel.",
+      "energy_and_utilities": "Wet milling, evaporation, refining, ion exchange and drying are energy- and water-intensive, making natural gas, electricity and wastewater costs important.",
+      "chemicals_and_enzymes": "Alpha-amylase, glucoamylase, xylose isomerase, filtration media, activated carbon and ion-exchange resins are core process costs.",
+      "labor": "Baseline 2025 employment projected at 2,184 workers, with automation limiting headcount growth.",
+      "freight_and_storage": "Bulk liquid syrups require tanks, railcars, trucks and customer-proximate logistics; the product is less easily traded than dry sugar.",
+      "depreciation": "High fixed costs from wet-mill plants, refining equipment and environmental controls make utilization rates critical to margins."
+    },
+    "major_players": [
+      "ADM",
+      "Cargill",
+      "Ingredion",
+      "Primient",
+      "Grain Processing Corporation"
+    ],
+    "current_dynamics": "Domestic HFCS volume remains mature to declining because beverage makers, retailers and consumers continue to scrutinize added sugars and ultra-processed ingredients. FDA's 2025 proposed front-of-package Nutrition Info box would make added sugar levels more visible, reinforcing pressure on sweetened packaged foods. At the same time, 2025/26 corn fundamentals are favorable for processors, and tight or policy-supported sugar markets can make HFCS attractive to cost-focused manufacturers. Mexico is the most important external demand stabilizer, with 2024/25 Mexican HFCS consumption estimated at 1.755 million metric tons dry basis and 2025/26 projected at 1.680 million metric tons in July 2025 WASDE-linked data.",
+    "whats_growing": [
+      "Export-driven demand tied to Mexico's beverage and processed-food manufacturers, especially when Mexican sugar is expensive or short.",
+      "Demand for cost-efficient bulk sweetening in value-priced private-label beverages, sauces, bakery, dairy desserts and shelf-stable foods.",
+      "Producer focus on operational efficiency, lower-carbon plants, sustainable corn sourcing and broader carbohydrate-solution portfolios.",
+      "Use of HFCS as one ingredient in hybrid sweetener systems where brands balance cost, sweetness, mouthfeel and sugar-reduction targets."
+    ],
+    "whats_shrinking": [
+      "Per-capita U.S. corn sweetener availability, which fell to 53.0 pounds per person in 2023 from 85.7 pounds in 1999.",
+      "HFCS-55 exposure to carbonated soft drinks as soda volumes and full-sugar beverage consumption remain under health and labeling pressure.",
+      "Standalone HFCS-free reformulation losses in premium, natural, organic and clean-label food lines.",
+      "High-cost or underutilized wet-milling capacity in regions far from core corn supply or beverage bottling customers."
+    ],
+    "recent_developments": [
+      "2024-12-19: FDA finalized an updated 'healthy' nutrient-content claim that sets added-sugar limits for qualifying foods.",
+      "2025-01-14: FDA proposed front-of-package Nutrition Info labeling for saturated fat, sodium and added sugars on most packaged foods.",
+      "2025-07-00: July 2025 WASDE-linked data estimated Mexico HFCS consumption at 1.755 million metric tons dry basis for 2024/25 and projected 1.680 million for 2025/26.",
+      "2025-11-14: USDA WASDE projected 2025/26 U.S. corn production at 16.752 billion bushels and the season-average corn price at $4.00 per bushel.",
+      "2026-07-17: USDA-ERS updated Sugar and Sweeteners Yearbook corn sweetener supply, use and trade tables, keeping current data available for HFCS supply-demand tracking."
+    ],
+    "outlook": "The 2026 outlook is stable but not structurally high-growth. U.S. domestic demand should keep edging lower as added-sugar visibility, dietary guidance and beverage reformulation weigh on HFCS-55. Producer margins should get support from lower 2025/26 corn costs and disciplined capacity, while exports to Mexico remain the main upside swing factor. Over the next several years, the industry is likely to defend volume through price competitiveness against sugar, integrated corn-refining economics, and food-processing functionality rather than through broad new domestic consumption growth.",
+    "themes": [
+      "Added-sugar reduction",
+      "Clean-label reformulation",
+      "Corn input-cost relief",
+      "Mexico export dependence",
+      "Beverage demand maturity",
+      "Wet-mill capacity discipline",
+      "Sugar-HFCS price arbitrage",
+      "Food-labeling regulation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/high-fructose-corn-syrup-production.txt",
+      "https://www.ers.usda.gov/data-products/sugar-and-sweeteners-yearbook-tables",
+      "https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/background",
+      "https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/market-outlook",
+      "https://www.ers.usda.gov/data-products/charts-of-note/110515",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-proposed-rule-front-package-nutrition-labeling",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-finalizes-updated-healthy-nutrient-content-claim",
+      "https://www.fns.usda.gov/cnpp/dietary-guidelines-americans",
+      "https://www.sec.gov/Archives/edgar/data/7084/000000708426000011/adm-20251231.htm",
+      "https://www.tateandlyle.com/news/tate-lyle-plc-sale-remaining-interest-primient-joint-venture-kps-capital-partners-lp",
+      "https://primient.com/news/article/2022/04/primient-launches-as-a-leading-producer-of-food-and-industrial-products-made-from-plant-based-renewable-sources",
+      "https://www.statista.com/statistics/184227/per-capita-consumption-of-caloric-sweeteners-in-the-us-since-2000/"
+    ],
+    "one_sentence": "High fructose corn syrup producers convert corn starch into HFCS-42, HFCS-55 and higher-fructose blends sold mainly to beverage, bakery, dairy, confectionery and processed-food manufacturers, with 2025-2026 performance shaped by weak domestic sweetener consumption, cheaper corn, sugar-price arbitrage and resilient exports to Mexico.",
+    "slug": "high-fructose-corn-syrup-production"
+  },
+  {
+    "title": "Historic Sites in the US",
+    "sector": "Consumer Services",
+    "one_liner": "Historic sites preserve and interpret nationally or locally significant places, earning from admissions, memberships, tours, retail, food service, donations, grants and endowment support.",
+    "overview": "This industry covers establishments primarily preserving and exhibiting sites, buildings, forts, battlefields, historical ships, archeological sites and living-history communities connected to people or events of historical interest. The 2022 IBISWorld baseline described a mature, low-concentration, heavily nonprofit industry whose 2021 revenue was $917.8 million after a 2020 pandemic decline and whose 2026 revenue was forecast near $1.0 billion. Newer Census data show a stronger nominal rebound: employer-firm revenue for NAICS 712120 Historical Sites was $1.296721 billion in 2023, with tax-exempt establishments contributing $1.056259 billion. Using broader NAICS 712 quarterly revenue growth as a demand proxy, 2025 historical-sites revenue is estimated near $1.48 billion, supported by resilient domestic travel, higher admissions and memberships, group tours, school visits and donor/grant activity.",
+    "key_stats": {
+      "market_size": "2025 estimated market size: $1.48 billion, inferred from 2023 Census NAICS 712120 employer-firm revenue of $1.296721 billion and 2023-2025 growth in broader Census QSS NAICS 712 revenue.",
+      "growth": "2025 estimated growth: +7.9%, using broader Census QSS NAICS 712 annual revenue growth from $26.829 billion in 2024 to $28.945 billion in 2025 as the closest timely demand proxy.",
+      "establishments": "2023 employer establishments: 1,120 for NAICS 712120 Historical Sites.",
+      "tax_exempt_share": "2023 tax-exempt historical-site revenue: $1.056259 billion, equal to 81.5% of 2023 employer-firm revenue.",
+      "broader_subsector_revenue": "2025 broader NAICS 712 Museums, Historical Sites, and Similar Institutions revenue: $28.945 billion seasonally adjusted, up from $26.829 billion in 2024.",
+      "visitor_demand": "2025 National Park Service recreation visits: 323.014305 million, down 2.7% from record 2024 but with 26 parks setting records.",
+      "travel_backdrop": "2026 US travel spending forecast: $1.37 trillion, with 2026 domestic leisure spending forecast at $909 billion and 2026 inbound visits forecast at 70.6 million.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline-implied market size: about $942.6 million, based on IBISWorld's 2021 revenue of $917.8 million and its 2021-2026 forecast CAGR of 2.7%.",
+      "growth": "2022 baseline-implied growth: +2.7%, matching IBISWorld's 2021-2026 forecast CAGR.",
+      "revenue_mix": "2021 IBISWorld revenue mix: donations, grants and endowments 45.3%; admissions and memberships 33.3%; merchandise 8.8%; food and beverages 6.4%; other 6.2%.",
+      "profitability": "2021 IBISWorld profit margin: 3.7%, with sector profit described as volatile because many operators are nonprofit or publicly supported.",
+      "employment": "2021 IBISWorld employment: 9,898 workers; 2026 forecast employment: 10,822 workers."
+    },
+    "how_it_makes_money": "Historic sites earn operating revenue from paid admissions, memberships, guided tours, field trips, special events, venue rentals, concessions, parking, gift-shop merchandise, licensing, public grants, private donations and endowment draws. The 2021 IBISWorld baseline placed donations, grants and endowments at 45.3% of revenue and admissions and memberships at 33.3%, so the model is less purely ticket-driven than most leisure venues.",
+    "cost_structure": {
+      "labor": "2021 IBISWorld wages were $344 million against $917.8 million of revenue, or about 37.5% of revenue; broader NAICS 712 average hourly earnings were $31.97 in May 2026 according to BLS.",
+      "site_preservation_and_maintenance": "2025-2026 cost pressure is concentrated in building conservation, groundskeeping, security, insurance, utilities, climate control, collections care and accessibility upgrades.",
+      "programming_and_visitor_services": "2025-2026 operators continue spending on interpretation staff, education programs, digital ticketing, donor systems, events and merchandise operations.",
+      "profit_margin": "2021 IBISWorld profit margin was 3.7%; 2025-2026 margins remain structurally thin because nonprofits reinvest surpluses and public sites often operate below full cost recovery.",
+      "volunteer_dependence": "2025-2026 staffing models still rely on volunteers and seasonal workers to offset fixed preservation costs and variable visitor-service demand."
+    },
+    "major_players": [
+      "{'name': 'National Park Service', 'role': 'Largest public steward of federally managed historic parks, monuments, battlefields and memorials; 2025 systemwide recreation visits were 323.014305 million.'}",
+      "{'name': 'Colonial Williamsburg Foundation', 'role': 'Large nonprofit living-history operator and major named player in the 2022 IBISWorld baseline.'}",
+      "{'name': 'National Trust for Historic Preservation', 'role': 'National nonprofit preservation organization and operator or supporter of significant historic properties.'}",
+      "{'name': \"Mount Vernon Ladies' Association\", 'role': \"Nonprofit operator of George Washington's Mount Vernon, a leading independently operated historic estate.\"}",
+      "{'name': 'Thomas Jefferson Foundation', 'role': 'Nonprofit operator of Monticello, a major historic house and education site.'}",
+      "{'name': 'Alamo Trust Inc.', 'role': 'Large nonprofit historical-site operator; philanthropy.org listed 2025-profile revenue of $87.5 million for Alamo Trust Inc.'}"
+    ],
+    "current_dynamics": "In 2025-2026, demand is no longer defined by reopening, but by affordability and trip mix. Domestic leisure travel remains the core support, while international visitation is still below 2019 levels and exposed to policy, sentiment and visa frictions. Public and tax-credit support remains critical: the NPS reported that FY2024 federal historic tax-credit projects generated $12.8 billion in economic output, while annual preservation grants and state historic-preservation funding continue to shape capital projects. The main operating squeeze is that higher nominal visitation and pricing do not fully solve labor, maintenance, insurance and deferred-capital needs at aging properties.",
+    "whats_growing": [
+      "2025-2026 regional and drive-market trips as travelers manage higher travel costs.",
+      "2025-2026 memberships, timed admissions, premium tours and special events that raise per-visitor yield.",
+      "2025-2026 preservation-linked capital projects supported by historic tax credits and grant programs.",
+      "2026 inbound leisure upside tied to the World Cup and a projected 70.6 million international visits to the US.",
+      "2025-2026 digital interpretation, online ticketing, donor CRM and hybrid education programming."
+    ],
+    "whats_shrinking": [
+      "2025 long-haul international reliance, as inbound international visits fell 5.5% by volume to 68.3 million in 2025 before a forecast 2026 rebound.",
+      "2025-2026 free or pay-as-you-wish access at sites facing wage, insurance and maintenance inflation.",
+      "2025-2026 tolerance for deferred maintenance, because aging buildings and climate exposure raise preservation risk.",
+      "2025-2026 small-site operating slack, as thin nonprofits face competition for donors, school budgets and volunteers."
+    ],
+    "recent_developments": [
+      "2026-02-26: Census AIES reported 2023 NAICS 712120 Historical Sites employer-firm revenue of $1.296721 billion and 1,120 employer establishments.",
+      "2026-03-04: NPS reported FY2024 federal historic tax-credit rehabilitation activity generated $12.8 billion in economic output, supported 116,000 jobs and contributed $6.6 billion to GDP.",
+      "2026-03-13: NPS reported 323.014305 million recreation visits in 2025, down 2.7% from record 2024, with 26 parks setting visitation records.",
+      "2026-05-07: U.S. Travel forecast 2026 total US travel spending of $1.37 trillion and 2026 domestic leisure spending of $909 billion.",
+      "2026-06-11: Census QSS showed broader NAICS 712 revenue at $7.905 billion in 2026 Q1, up 17.6% from $6.724 billion in 2025 Q1.",
+      "2026-06-30: NPS set the application deadline for 2026 annual Tribal Historic Preservation Office grants under the Historic Preservation Fund."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but uneven. Domestic leisure travel should keep attendance and admissions stable, and U.S. Travel forecasts 2026 real travel spending growth of 1.0% with domestic leisure spending up 0.9%. International visitation is forecast to rise 3.2%-3.4% in 2026 to roughly 70.5 million-70.6 million visitors, helped by major events, but remains below the 2019 level of 79 million. For historic-site operators, the best growth should come from pricing, memberships, premium programming, school and group recovery, grants and preservation capital work rather than rapid new-site formation. Risks include travel inflation, public-budget volatility, climate and maintenance costs, donor fatigue and staffing constraints.",
+    "themes": [
+      "Heritage tourism recovery",
+      "Domestic leisure resilience",
+      "Grant and tax-credit dependence",
+      "Nonprofit margin pressure",
+      "Admissions and membership monetization",
+      "Deferred maintenance",
+      "Digital interpretation",
+      "International visitor recovery",
+      "Semiquincentennial programming"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: historic-sites-in-the-us.txt', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/historic-sites-in-the-us.txt'}",
+      "{'name': 'U.S. Census Bureau AIES, NAICS 712120 Historical Sites, 2023 revenue and establishments', 'url': 'https://data.census.gov/table?codeset=naics~712120&g=010XX00US'}",
+      "{'name': 'U.S. Census Bureau/FRED, QSS total revenue for NAICS 712, updated 2026-06-11', 'url': 'https://fred.stlouisfed.org/data/REV712AMSA'}",
+      "{'name': 'National Park Service, 2025 visitation statistics, published 2026-03-13', 'url': 'https://www.nps.gov/orgs/1207/03-13-26-2025-visitation-statsitics.htm'}",
+      "{'name': 'National Park Service Visitor Use Data dashboard, 2025 at-a-glance', 'url': 'https://www.nps.gov/subjects/socialscience/visitor-use-statistics-dashboard.htm'}",
+      "{'name': 'U.S. Travel Association Spring 2026 Travel Forecast', 'url': 'https://www.ustravel.org/research/travel-forecasts'}",
+      "{'name': 'U.S. Department of Commerce NTTO International Visitor Forecast 2026-2030', 'url': 'https://www.trade.gov/travel-and-tourism-forecasts'}",
+      "{'name': 'National Park Service, FY2024 federal historic tax credit economic impact release', 'url': 'https://www.nps.gov/orgs/1207/03-04-2026-fy-24-htc-report-fy-25-annual-report.htm'}",
+      "{'name': 'BLS industry profile for NAICS 712, updated 2026', 'url': 'https://www.bls.gov/iag/tgs/iag712.htm'}",
+      "{'name': 'National Park Service THPO Grants, 2026 application deadline', 'url': 'https://www.nps.gov/subjects/historicpreservationfund/thpo-grants.htm'}"
+    ],
+    "one_sentence": "The US historic sites industry has moved past its pandemic trough, but 2025-2026 performance remains tied to domestic leisure travel, uneven international tourism, public preservation funding and the ability of nonprofits to cover labor and maintenance costs.",
+    "slug": "historic-sites-in-the-us"
+  },
+  {
+    "title": "Hobby & Toy Stores in the US",
+    "sector": "Retail",
+    "one_liner": "Specialty hobby, toy and game retailers are mature but got a 2025 lift from collectibles, licensed toys and craft-share gains after weaker competitors exited.",
+    "overview": "US hobby and toy stores remain a mature specialty retail channel. IBISWorld's 2022 baseline put industry revenue at $24.255 billion with 2022 growth of -1.2%, reflecting post-pandemic normalization and pressure from e-commerce and mass merchants. Current public data point to a stronger 2025 demand backdrop: BLS/FRED sectoral output for hobby, toy and game stores reached $25.188 billion in 2025, up from $22.033 billion in 2024, while Circana reported total US toy dollar sales grew 6% in 2025 after a flat 2024. The rebound is concentrated in games and puzzles, trading cards, building sets, licensed properties and adult collectors, not broad-based traditional toy demand.",
+    "key_stats": {
+      "market_size": "2025 sectoral output/revenue proxy: $25.188 billion for US hobby, toy and game stores (BLS/FRED NAICS 451120).",
+      "growth": "2025 growth: +14.3% year over year versus $22.033 billion in 2024 (BLS/FRED sectoral output); total US toy industry dollar sales grew +6% in 2025 (Circana).",
+      "employment": "2025 employment: 145.7 thousand jobs in US hobby, toy and game stores (BLS/FRED).",
+      "total_toy_market": "2024 total US toy market size: approximately $42.0 billion when projected to 100% of the market (Circana/Toy Association); 2025 total US toy dollar sales grew +6%.",
+      "ecommerce_pressure": "Q1 2026 US retail e-commerce was $326.7 billion and 16.9% of total retail sales, up 9.8% year over year (US Census).",
+      "profit_margin": "2022 IBISWorld profit margin baseline: 6.0% of revenue.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $24.255 billion in 2022 dollars (IBISWorld baseline file).",
+      "growth": "2022 annual growth: -1.2%; 2017-2022 CAGR: +3.3% (IBISWorld baseline file).",
+      "profit": "2022 profit: $1.455 billion; 2022 profit margin: 6.0% (IBISWorld baseline file).",
+      "establishments": "2022 establishments: 21,613 (IBISWorld baseline file).",
+      "enterprises": "2022 enterprises: 18,223 (IBISWorld baseline file).",
+      "employment": "2022 employment: 142,966 workers (IBISWorld baseline file).",
+      "wages": "2022 wages: $2.716 billion (IBISWorld baseline file)."
+    },
+    "how_it_makes_money": "Stores buy toys, games, hobby goods, model kits, collectibles, cards, puzzles, arts-and-crafts supplies and seasonal items from manufacturers and wholesalers, then resell them to consumers through brick-and-mortar locations, omnichannel pickup, ship-from-store, classes, parties, framing/customization services and loyalty programs. Revenue is highly seasonal, with the 2025 holiday period especially important for toys, games, puzzles, licensed products and collectibles.",
+    "cost_structure": {
+      "purchases": "Largest cost item; 2025-2026 margins are sensitive to merchandise costs, freight and tariff exposure because many toys and components are imported from China and other Asian sourcing markets.",
+      "wages": "Material store-level cost; IBISWorld baseline wages were $2.716 billion in 2022, and BLS/FRED employment rose to 145.7 thousand jobs in 2025.",
+      "rent_and_occupancy": "Important fixed cost for specialty retail; larger chains can spread occupancy, distribution and marketing costs across hundreds of stores.",
+      "marketing_and_promotions": "Discounting, loyalty offers, seasonal promotions and paid digital advertising are necessary to compete with Amazon, Walmart and Target; Michaels spent $190.0 million on advertising in fiscal 2020 in the baseline file.",
+      "profit": "IBISWorld baseline profit margin was 6.0% in 2022; 2025-2026 margins face offsetting forces from stronger collectible demand, selective price increases, wage inflation and tariffs."
+    },
+    "major_players": [
+      "{'name': 'Michaels', 'position': 'Largest arts-and-crafts specialty chain; S&P reported 1,369 stores as of May 3, 2025, and expected roughly 4% 2025 revenue growth as it captured share after competitor liquidations.'}",
+      "{'name': 'Hobby Lobby', 'position': 'Privately held arts-and-crafts retailer with over 950 stores in 2025, competing heavily in crafts, home decor, seasonal, fabrics, yarn and DIY categories.'}",
+      "{'name': 'GameStop', 'position': 'Video game and collectibles retailer; fiscal 2025 net sales were $3.630 billion, with US net sales of $2.668 billion and collectibles sales of $1.060 billion, up 47.7% from fiscal 2024.'}",
+      "{'name': 'Build-A-Bear Workshop', 'position': 'Experiential toy retailer; fiscal 2025 revenue was $529.8 million, up 6.7%, with 662 global locations at January 31, 2026.'}",
+      "{'name': 'Independent hobby, game and specialty toy stores', 'position': 'Fragmented local operators serving tabletop games, model kits, specialty toys, trading cards and hobby communities; they compete on assortment depth, events and service.'}",
+      "{'name': 'Amazon, Walmart and Target', 'position': 'Major external competitors rather than pure industry operators; their scale, pricing, convenience and online reach continue to pull toy and hobby sales away from specialty stores.'}"
+    ],
+    "current_dynamics": "The 2025 market is healthier than the 2022 baseline forecast implied, but uneven. Circana reported 2025 US toy dollar sales up 6%, with average selling price up 4% and units up 3%. Growth is concentrated in fandom and collectibles: games and puzzles rose 37%, building sets rose 15%, and explorative and other toys rose 20% in 2025, with those three supercategories contributing 92% of toy industry growth. Specialty retailers are also benefiting from the 2025 liquidation of Joann and the 2024-2025 disappearance of weaker craft and party-supply capacity, but they face tariff volatility, consumer price sensitivity and continued e-commerce substitution.",
+    "whats_growing": [
+      "2025 licensed toys: sales increased 18% in the first half of 2025 and represented 37% of US toys sold, according to Circana.",
+      "2025 collectibles: collectible toys rose 33% through Q3 2025, led by strategic trading card games, sports trading cards and action figure collectibles.",
+      "2025 games and puzzles: dollar sales rose 37% for full-year 2025, driven primarily by Pokemon.",
+      "2025 building sets: dollar sales rose 15% for full-year 2025, supported by licensed properties such as Formula 1.",
+      "2025 adult toy buyers: Q1 2025 sales for recipients aged 18+ grew 12%, and first-half 2025 adult-recipient sales grew 18%.",
+      "2025 crafts, fabric and sewing at Michaels: Michaels added over 600 fabric, yarn, quilting and sewing products after acquiring Joann intellectual property and private-label brands."
+    ],
+    "whats_shrinking": [
+      "2025 outdoor and sports toys were among the steepest declining toy supercategories, with weather disruptions hurting seasonal demand.",
+      "2025 plush and dolls were among the steepest declining supercategories in Circana's full-year 2025 toy data.",
+      "2025 weaker craft retail capacity shrank sharply as Joann closed nearly 800 stores by the end of May 2025.",
+      "2025 e-commerce demand at some specialty chains softened: Build-A-Bear reported consolidated e-commerce demand down 5.5% in fiscal 2025 and down 26.1% in Q1 fiscal 2026.",
+      "2025 traditional specialty toy stores remain pressured by Amazon, Walmart and Target on price, shipping, breadth and convenience."
+    ],
+    "recent_developments": [
+      "2025-01: Joann filed for Chapter 11 for the second time in less than a year, beginning a wind-down process that reshaped craft retail competition.",
+      "2025-05: Joann closed all nearly 800 US stores by the end of May 2025, removing a major fabric and craft competitor from physical retail.",
+      "2025-06: Michaels acquired Joann's intellectual property and private-label brands, including Big Twist yarn, and added over 600 sewing, quilting, fabric and yarn products.",
+      "2025-12: Circana later reported full-year 2025 US toy dollar sales grew 6%, with units up 3% and average selling price up 4%.",
+      "2026-03: GameStop reported fiscal 2025 net sales of $3.630 billion and collectibles sales of $1.060 billion, up 47.7% year over year.",
+      "2026-07: The Toy Association said new Section 301 tariffs effective July 24, 2026 applied to toys from multiple trading partners, adding cost uncertainty for import-heavy retailers."
+    ],
+    "outlook": "The 2026 outlook is cautious but better than the stale 2022 baseline. Specialty stores should benefit from 2025 demand momentum in Pokemon, trading cards, building sets, licensed toys, adult collectors and crafts, plus share opportunities from Joann's exit. Growth is unlikely to be uniform: toy demand is increasingly hit-driven, while mass merchants and Amazon keep pressuring commodity toys. Tariffs are the main 2026 margin risk, especially for smaller retailers and brands with limited negotiating leverage. Stores that offer events, classes, personalization, local gaming communities, fabric/craft services and collectible drops should outperform stores relying on undifferentiated toys.",
+    "themes": [
+      "Fandom and licensed merchandise",
+      "Adult collectors and kidult demand",
+      "Trading cards and collectibles",
+      "Experiential retail and in-store events",
+      "DIY crafts and sewing share shift after Joann",
+      "E-commerce and omnichannel pressure",
+      "Tariff and import-cost volatility",
+      "Mass-merchant competition",
+      "Seasonality and holiday execution"
+    ],
+    "data_year": "2025 with 2026 updates",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hobby-and-toy-stores-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/IPUHN451120T300000000",
+      "https://fred.stlouisfed.org/series/IPUHN451120W200000000",
+      "https://www.circana.com/post/u-s-toy-industry-returns-to-growth-in-2025-circana-reports",
+      "https://www.circana.com/post/us-toy-market-is-growing-in-2025-circana-reports",
+      "https://www.toyassociation.org/ta/research/data/u-s-sales-data/toys/research-and-data/data/us-sales-data.aspx",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://www.retaildive.com/news/michaels-acquires-joann-ip-private-labels/749927/",
+      "https://www.npr.org/2025/02/25/nx-s1-5307907/joann-closing-stores-bankruptcy",
+      "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101633013",
+      "https://www.hobbylobby.com/stores/search",
+      "https://news.gamestop.com/news-releases/news-details/2026/GameStop-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://buildabear.gcs-web.com/news-releases/news-release-details/build-bear-workshop-reports-fourth-and-record-fiscal-2025/",
+      "https://www.toyassociation.org/ta/PressRoom2/News/2025_News/toy-association-member-survey-reveals-alarming-impact-of-145-percent-tariffs.aspx",
+      "https://toyfoundation.org/PressRoom2/News/2026-News/tariff-update-new-section-301-tariffs-take-effect.aspx"
+    ],
+    "one_sentence": "The industry sells discretionary toys, games, hobby goods and craft supplies through specialty stores, competing against Amazon, Walmart, Target and other scaled retailers while leaning into experiential retail, fandom products and DIY communities.",
+    "slug": "hobby-and-toy-stores-in-the-us"
+  },
+  {
+    "title": "Hog & Pig Farming in the US",
+    "sector": "Agriculture",
+    "one_liner": "U.S. hog farming is a scale-driven livestock industry where feed costs, processor demand, export pull and herd productivity determine farm cash receipts.",
+    "overview": "Hog and pig farms breed, farrow, wean, nursery and finish swine for sale as market hogs, feeder pigs, breeding stock and cull animals. The industry is mature, highly exposed to corn and soybean meal costs, and structurally tied to meat processors that buy live animals for slaughter and pork fabrication. Large, vertically coordinated systems dominate commercial production, but many smaller farms remain in the count of establishments. Since the 2022 baseline, nominal receipts have been more volatile than volumes: 2022 cash receipts were elevated at $30.634 billion, fell to $27.183 billion in 2023, stabilized at $27.257 billion in 2024, and rebounded to $30.893 billion in 2025. For 2026, USDA expects pork production just under 28.0 billion pounds, 1.4% above 2025, but hog receipts are forecast to fall 0.7% as price gains soften.",
+    "key_stats": {
+      "market_size": "2025 hog and pig cash receipts: $30.893 billion; 2026 USDA forecast implied near $30.7 billion after a 0.7% decline from 2025.",
+      "growth": "2025 cash receipts grew 13.3% from 2024; 2026 hog receipts are forecast to decline 0.7% from 2025.",
+      "inventory": "June 1, 2026 U.S. inventory: 73.7 million hogs and pigs, down slightly from June 2025; 67.8 million market hogs and 5.88 million breeding animals.",
+      "production": "2025 hog and pig production: 42.304 billion liveweight pounds; 2026 pork production forecast: just under 28.0 billion pounds carcass-weight equivalent, up 1.4% from 2025.",
+      "exports": "2025 U.S. pork exports: 2.94 million metric tons valued at $8.4 billion; 2026 pork exports forecast: 7.2 billion pounds, up 3.8% from 2025.",
+      "geography": "June 1, 2026 leading inventory states: Iowa 24.7 million head, Minnesota 9.30 million head, North Carolina 7.20 million head.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 hog and pig cash receipts: $30.634 billion.",
+      "growth": "2022 cash receipts grew 9.3% from 2021 cash receipts of $28.020 billion.",
+      "production": "2022 hog and pig production: 40.674 billion liveweight pounds.",
+      "marketings": "2022 hog and pig marketings: 42.186 billion liveweight pounds.",
+      "baseline_report_context": "The June 2022 IBISWorld baseline listed 2021 industry revenue at $19.336 billion in 2021 dollars and projected 2021-2027 revenue CAGR of 0.35%, with feed at 24.1% of revenue and market hogs at 74.6% of product value."
+    },
+    "how_it_makes_money": "Farms earn revenue mainly by selling market-weight hogs to slaughter and processing plants, with additional income from feeder pigs sold to finishing operations, breeding stock, cull animals and limited farm-slaughter sales. Pricing is usually linked to live hog markets, contract formulas, carcass values, regional basis, animal weight and quality, while integrated producers may capture margin across feed milling, production and processing.",
+    "cost_structure": {
+      "feed": "Feed is the largest operating cost; the 2022 baseline put feed at 24.1% of revenue, and USDA forecast national feed expenses to fall 6.8% in 2026 from 2025.",
+      "livestock_and_genetics": "Replacement breeding stock, feeder-pig transfers, genetics and health management are major costs in vertically coordinated systems; USDA forecast broader livestock and poultry purchase expenses to rise 9.7% in 2026 from 2025.",
+      "labor": "Labor is a smaller but rising cost category; USDA forecast broad farm cash labor expenses to rise 2.2% in 2026 from 2025.",
+      "facilities_and_utilities": "Confinement barns, manure handling, ventilation, biosecurity, land application, utilities, repairs, debt service and depreciation create high fixed costs and favor large-scale utilization.",
+      "compliance": "2025-2026 costs include sow-housing adjustments for California Proposition 12 sales channels, environmental permitting, animal-health protocols and traceability requirements."
+    },
+    "major_players": [
+      "{'name': 'Smithfield Foods', 'position': 'Largest U.S. pork producer in the 2025 Pork Powerhouses list, with 550,000 sows reported for 2025.'}",
+      "{'name': 'Pipestone Management', 'position': 'Second-largest U.S. swine production system in the 2025 Pork Powerhouses list, with 405,000 sows reported for 2025.'}",
+      "{'name': 'Seaboard Foods', 'position': 'Seaboard describes its connected food system as the third-largest U.S. hog producer and fourth-largest U.S. pork processor, producing about 8 million hogs annually.'}",
+      "{'name': 'Iowa Select Farms', 'position': 'Large Iowa-based producer with 275,000 sows reported in the 2025 Pork Powerhouses list.'}",
+      "{'name': 'The Maschhoffs', 'position': 'Large family-owned U.S. hog producer; reported lower sow numbers in 2025 amid industry recalibration.'}"
+    ],
+    "current_dynamics": "The industry entered 2026 with improved 2025 receipts but a tighter and more cautious herd expansion cycle. June 2026 inventory was slightly lower year over year, while pigs per litter remained high at 11.87 for March-May 2026, showing continued productivity gains. Export demand remains important because roughly 2025 exports represented 29.6% of U.S. pork and pork variety meat production, but USDA reduced 2026 export expectations because shipments to Mexico weakened. Feed relief supports margins, but compliance, disease prevention, labor, financing and processor concentration keep pressure on independent producers.",
+    "whats_growing": "Productivity per sow, export dependence, integrated production systems, Prop 12-compliant supply channels, Western Hemisphere pork demand, and data-driven animal health management are growing. USDA expects 2026 pork exports to rise 3.8% from 2025 and 2026 pork production to rise 1.4% from 2025 despite lower second-half forecasts.",
+    "whats_shrinking": "Small independent farrow-to-finish capacity, noncompliant sow-housing channels for premium West Coast sales, and live-hog trade relevance are shrinking. June 2026 total inventory was down slightly from June 2025, breeding inventory was 5.88 million head, and USDA forecast 2026 hog receipts down 0.7% from 2025.",
+    "recent_developments": [
+      "2025-12: NASS reported 75.5 million hogs and pigs on U.S. farms as of Dec. 1, 2025, up 1% from Dec. 1, 2024.",
+      "2026-02: USMEF and National Pork Board reported 2025 U.S. pork exports of 2.94 million metric tons valued at $8.4 billion.",
+      "2026-04: NASS reported 2025 hog and pig cash receipts of $30.893 billion, up 13% from 2024, with 43.942 billion liveweight pounds marketed.",
+      "2026-06: NASS reported 73.7 million hogs and pigs on U.S. farms as of June 1, 2026, down slightly from June 2025 and March 2026.",
+      "2026-07: USDA ERS lowered second-half 2026 pork production forecasts and projected 2026 pork exports at 7.2 billion pounds, up 3.8% from 2025."
+    ],
+    "outlook": "The 2026 outlook is modestly positive for volume but mixed for revenue. USDA expects pork output just under 28.0 billion pounds in 2026, 1.4% above 2025, and 28.1 billion pounds in 2027, 0.6% above 2026. Lower feed costs should help margins, but 2026 hog receipts are forecast to slip 0.7% from 2025 and exports face Mexico softness. Operators with scale, reliable processor contracts, biosecurity, Prop 12-compliant capacity and feed-risk management should outperform, while smaller farms remain exposed to price swings and fixed-cost pressure.",
+    "themes": [
+      "Feed-cost sensitivity",
+      "Processor concentration",
+      "Export-led demand",
+      "Herd productivity gains",
+      "Biosecurity and disease risk",
+      "Animal-welfare regulation",
+      "Vertical integration",
+      "Regional production concentration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Hog & Pig Farming in the US, IBISWorld, Jun. 23, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hog-and-pig-farming-in-the-us.txt'}",
+      "{'name': 'USDA NASS, Meat Animals Production, Disposition, and Income 2025 Summary, Apr. 30, 2026', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795883/meatan26.txt'}",
+      "{'name': 'USDA NASS, Meat Animals Production, Disposition, and Income 2023 Summary, Apr. 23, 2024', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/02870v85d/ht24z715t/3x818959v/meatan24.txt'}",
+      "{'name': 'USDA NASS, Quarterly Hogs and Pigs news release, Jun. 25, 2026', 'url': 'https://www.nass.usda.gov/Newsroom/2026/06-25-2026.php'}",
+      "{'name': 'USDA ERS, Hogs & Pork Market Outlook, updated Jul. 17, 2026', 'url': 'https://www.ers.usda.gov/topics/animal-products/hogs-pork/market-outlook'}",
+      "{'name': 'USDA ERS, Farm Sector Income Forecast, updated May 19, 2026', 'url': 'https://ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast'}",
+      "{'name': 'USDA ERS, Hogs & Pork Sector at a Glance, updated Jan. 8, 2025', 'url': 'https://ers.usda.gov/topics/animal-products/hogs-pork/sector-at-a-glance'}",
+      "{'name': 'National Pork Board, 2025 U.S. Pork Exports Near Record High, Feb. 26, 2026', 'url': 'https://porkcheckoff.org/news/2025-u-s-pork-exports-near-record-high/'}",
+      "{'name': 'Agriculture.com, Pork Powerhouses 2025, May 2026', 'url': 'https://www.agriculture.com/pork-powerhouses-2025-profits-return-health-and-labor-concerns-remain-11965508'}",
+      "{'name': 'Seaboard Corp., Seaboard Foods company profile', 'url': 'https://www.seaboardcorp.com/our-companies/seaboard-foods/'}"
+    ],
+    "one_sentence": "In 2025, U.S. hog and pig cash receipts reached $30.893 billion, up 13.3% from 2024, while USDA’s 2026 outlook points to flatter receipts, slightly lower midyear inventories and modest pork production growth.",
+    "slug": "hog-and-pig-farming-in-the-us"
+  }
+]

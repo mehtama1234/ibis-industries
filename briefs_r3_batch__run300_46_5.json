@@ -1,0 +1,385 @@
+[
+  {
+    "title": "CRM System Providers",
+    "sector": "Technology & Digital",
+    "one_liner": "U.S. CRM system providers sell subscription software that organizes customer data, sales pipelines, marketing campaigns and service workflows.",
+    "overview": "CRM system providers develop and host software used to manage customer records, leads, campaigns, support cases, revenue operations and customer analytics. The baseline IBISWorld file described a fast-growing U.S. provider industry that reached $42.9 billion in 2021 revenue after pandemic-era e-commerce and remote-work adoption pulled more customer interactions online. By 2025, growth had slowed from the 2010s boom but remained positive as cloud subscriptions, AI copilots, data-unification layers and industry-specific CRM workflows offset tougher software budgets and buyer scrutiny. Demand is strongest among large enterprises with complex sales and service operations, but mid-market and small-business adoption continues to rise as modular SaaS pricing lowers implementation barriers.",
+    "key_stats": {
+      "market_size": "$45.3 billion U.S. CRM System Providers industry revenue in 2025, up 2.7% in 2025; a narrower Mordor Intelligence U.S. CRM market estimate was $20.22 billion in 2025 and $21.62 billion in 2026.",
+      "growth": "2.7% U.S. CRM System Providers revenue growth in 2025; 6.94% CAGR forecast for the U.S. CRM market from 2026 to 2031 by Mordor Intelligence.",
+      "global_context": "Metrigy estimated the global CRM market at $83.0 billion in 2025, up 3.0% year over year; Fortune Business Insights estimated the broader global CRM market at $112.91 billion in 2025 and $126.17 billion in 2026.",
+      "cloud_mix": "Cloud accounted for 79.54% of U.S. CRM revenue in 2025, according to Mordor Intelligence.",
+      "software_mix": "Software accounted for 75.22% of U.S. CRM revenue in 2025, according to Mordor Intelligence.",
+      "leading_vendor": "Salesforce held 20.0% worldwide CRM market share in 2025 according to IDC as cited by Salesforce, and Metrigy estimated Salesforce at 25.8% global CRM revenue share in 2025 under its taxonomy.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $46.0 billion U.S. CRM System Providers revenue in 2022, estimated from the September 2024 IBISWorld summary showing $46.2 billion in 2023 revenue and 0.5% growth in 2023.",
+      "growth": "About 7.2% revenue growth in 2022, estimated from the baseline file's $42.873 billion 2021 revenue and the derived $46.0 billion 2022 revenue.",
+      "profit_margin": "18.2% profit margin in 2023 per the September 2024 IBISWorld summary, down from the baseline file's 24.0% profit margin in 2021."
+    },
+    "how_it_makes_money": "Providers make money mainly through recurring SaaS subscriptions priced per user, seat, feature tier, contact volume or usage, plus add-ons for AI agents, data cloud, marketing automation, analytics, integration, industry clouds, implementation, training, premium support and marketplace extensions. Enterprise vendors also earn revenue through multi-year contracts, platform expansion, professional services and partner ecosystems, while SMB-focused providers rely more on self-service plans, freemium conversion and lower-cost onboarding.",
+    "cost_structure": "The 2025 cost base is dominated by software engineering, cloud infrastructure, cybersecurity, sales and marketing, customer success, implementation labor, partner commissions and administrative overhead. The baseline file showed 2021 wages of $17.416 billion and 2021 profit of $10.290 billion; later conditions point to lower average margins, with the September 2024 IBISWorld summary citing an 18.2% profit margin in 2023 as competition, AI investment and customer-acquisition costs rose. Large vendors can spread R&D and hosting costs across bigger customer bases, while smaller vendors face heavier 2025-2026 pressure from paid search, integrations, security reviews and AI compute costs.",
+    "major_players": [
+      "Salesforce",
+      "Microsoft Dynamics 365",
+      "HubSpot",
+      "Oracle Fusion Cloud CX",
+      "SAP Customer Experience",
+      "Adobe Experience Cloud",
+      "Zendesk",
+      "Zoho",
+      "Freshworks",
+      "Creatio"
+    ],
+    "current_dynamics": "The market is shifting from systems of record to AI-assisted systems of action. Buyers still need reliable sales, service and marketing databases, but 2025-2026 product differentiation is increasingly tied to embedded generative AI, autonomous sales agents, unified customer data, industry-specific workflows, consent management and integration with productivity suites. Growth is being held back by budget scrutiny, SaaS seat optimization and competition from lower-cost platforms, but mission-critical retention, service automation and revenue operations use cases keep churn lower than in more discretionary software categories.",
+    "whats_growing": "AI copilots and agents, revenue operations, customer service automation, customer data platforms, cloud and hybrid deployment, healthcare and life sciences CRM, SMB modular adoption, privacy and consent tooling, low-code workflow extensions, and CRM integrations with email, collaboration and data warehouses are growing in 2025-2026.",
+    "whats_shrinking": "On-premise CRM deployments, standalone contact databases, heavily customized legacy CRM implementations, seat-only expansion without usage value, manual data entry workflows and broad marketing-suite spending viewed as discretionary are shrinking or losing share in 2025-2026.",
+    "recent_developments": [
+      "2025-01-21: Oracle announced AI agents and generative AI capabilities for Oracle Fusion Cloud Sales.",
+      "2025-02-26: Salesforce reported FY2025 revenue of $37.9 billion and Data Cloud & AI ARR of $900 million, up 120% year over year.",
+      "2025-09-10: Microsoft announced role-based Microsoft 365 Copilot solutions for sales, service and finance, connecting with Dynamics 365 and Salesforce CRM data.",
+      "2025-09-22: California privacy regulators finalized CCPA updates effective 2026-01-01 covering risk assessments, cybersecurity audits and automated decision-making technology rights.",
+      "2026-04-16: Metrigy reported the global CRM market reached $83.0 billion in 2025, up 3.0%, with Salesforce leading at 25.8% global revenue share.",
+      "2026-06-04: Salesforce said IDC ranked it the number-one CRM provider for the 13th consecutive year, with 20.0% worldwide CRM market share in 2025."
+    ],
+    "outlook": "The U.S. CRM provider industry should grow moderately through 2026 and beyond as AI-native workflows, customer service automation and customer data consolidation raise average contract value. Growth is likely to be slower than the pandemic-era and 2010s expansion because CRM penetration is high, procurement teams are scrutinizing SaaS stacks, and customers are demanding measurable productivity gains before paying for AI add-ons. Providers with strong data governance, workflow automation, integration depth and industry-specific offerings are best positioned, while point solutions without defensible AI, data or ecosystem advantages face pricing pressure and consolidation risk.",
+    "themes": [
+      "AI agents inside sales and service workflows",
+      "Cloud CRM as core customer operating layer",
+      "Customer data unification and governance",
+      "Privacy, consent and automated decision compliance",
+      "SaaS budget scrutiny and seat rationalization",
+      "Industry-specific CRM workflows",
+      "SMB adoption through modular pricing",
+      "Platform consolidation around Salesforce, Microsoft, Oracle, SAP and Adobe"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/crm-system-providers.txt",
+      "https://www.researchandmarkets.com/reports/5324558/crm-system-providers-in-the-us-industry-market",
+      "https://www.mordorintelligence.com/industry-reports/united-states-customer-relationship-management-market",
+      "https://www.salesforce.com/news/stories/idc-crm-market-share-ranking-2026/",
+      "https://investor.salesforce.com/news/news-details/2025/Salesforce-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://www.metrigy.com/press-release-customer-relationship-management-market-up-3-0-year-over-year-in-2025/",
+      "https://www.oracle.com/news/announcement/cx-sales-ai-agents-2025-01-21/",
+      "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/10/moving-sales-service-and-finance-to-the-frontier-with-microsoft-365-copilot/",
+      "https://cppa.ca.gov/regulations/ccpa_updates.html",
+      "https://www.fortunebusinessinsights.com/customer-relationship-management-crm-market-103418"
+    ],
+    "one_sentence": "The industry is mature but still expanding as companies replace fragmented customer databases with cloud CRM suites, AI sales agents, data-cloud products and compliance-ready customer engagement platforms.",
+    "slug": "crm-system-providers"
+  },
+  {
+    "title": "Cable Shopping Networks",
+    "sector": "Retail",
+    "one_liner": "TV shopping networks remain a shrinking retail niche as ecommerce, streaming and social commerce replace legacy cable reach.",
+    "overview": "The industry covers companies that use subscription or fee-basis cable TV programming to display merchandise and generate consumer orders, excluding sales primarily generated through ecommerce, mail order, direct mail, door-to-door marketing or brick-and-mortar retail. The baseline 2022 market was already in structural decline as cable subscriptions fell and online retail absorbed discretionary demand. By 2025, the core TV-shopping channel was smaller and more concentrated, while the largest operator, QVC/HSN, increasingly described itself as a live social shopping and video commerce business rather than a traditional cable-shopping business.",
+    "key_stats": {
+      "market_size": "2025: about $5.0 billion in U.S. industry revenue, estimated from the 2022 IBISWorld baseline forecast path in 2022 dollars",
+      "growth": "2025: about -2.5% annualized industry revenue decline implied by the 2022-2028 IBISWorld forecast; 2025 QxH net revenue declined 10.0% year over year",
+      "profit_margin": "2025: QVC consolidated cost of goods sold was 66.4% of net revenue and operating expenses were 7.7% of net revenue; 2022 IBISWorld industry profit margin was 8.8%",
+      "largest_operator_indicator": "2025: QxH, including QVC U.S. and HSN, generated $5.936 billion of total net revenue, of which 66.9% came through digital platforms",
+      "audience_reach": "2025: QxH programming reached about 82 million U.S. television households and 99% of households subscribing to television distributors",
+      "demand_indicator": "2025: 36% of U.S. adults subscribed to cable or satellite TV at home, while 83% used streaming services",
+      "ecommerce_pressure": "2025: U.S. retail ecommerce totaled $1.234 trillion and represented 16.4% of total retail sales",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $5.346 billion in revenue, 2022 dollars",
+      "growth": "2022: revenue declined 6.2%; 2017-2022 revenue CAGR was -6.7%",
+      "profit": "2022: $471 million profit and 8.8% profit margin",
+      "employment": "2022: 16,502 employees",
+      "enterprises": "2022: 24 enterprises",
+      "establishments": "2022: 62 establishments",
+      "product_mix": "2022: home products and electronics 50%, apparel and accessories 27%, beauty/health/wellness 18%, jewelry and watches 5%"
+    },
+    "how_it_makes_money": "Operators buy or curate merchandise, demonstrate it through live or recorded shopping programming, and capture orders by phone, website, app, remote-control interface, streaming channel or social platform. Revenue comes mainly from product sales, with additional economics from shipping and handling, private-label credit card programs, installment-payment programs and vendor relationships. The industry definition is narrower than the largest operators' full business because digital-platform sales are increasingly outside the traditional cable-shopping category.",
+    "cost_structure": "The main costs are merchandise cost of goods sold, fulfillment, freight, warehousing, returns processing, TV distribution and satellite carriage, studios and production, hosts and customer service, credit card processing, marketing, technology, depreciation, and corporate overhead. In 2025, QVC reported cost of goods sold at 66.4% of net revenue, operating expenses at 7.7%, advertising of $369 million, and SG&A excluding stock-based compensation and advertising at 11.7% of net revenue. Cost pressure in 2025 came from freight, warehousing, labor, tariffs, restructuring and sales deleverage.",
+    "major_players": [
+      "{'name': 'QVC Group / QVC U.S. and HSN', 'position': 'Dominant U.S. operator; QxH generated $5.936 billion of 2025 total net revenue and had 66.9% of QxH revenue through digital platforms'}",
+      "{'name': 'ShopHQ / iMedia Brands successor operations', 'position': 'Smaller televised and digital shopping competitor focused on video commerce and specialty retail categories'}",
+      "{'name': 'Jewelry Television', 'position': 'Specialist cable and digital jewelry-shopping network competing in jewelry, gemstones and collectibles'}",
+      "{'name': 'Amazon Live, TikTok Shop and livestream commerce platforms', 'position': 'Adjacent competitors rather than traditional cable-shopping networks; they pressure discovery, conversion and vendor budgets'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is defined by a smaller linear-TV funnel and more competition for discovery. QVC/HSN still has broad TV reach, repeat customers and production infrastructure, but its customer acquisition is moving to TikTok Shop, streaming apps, mobile apps and ecommerce. Traditional cable and satellite penetration is materially lower than streaming penetration, and younger households are much less likely to subscribe to cable. The result is a shrinking legacy-TV industry with the largest player trying to migrate its live-selling capabilities onto social and streaming platforms.",
+    "whats_growing": "Digital and mobile ordering, TikTok Shop customer acquisition, QVC+ and HSN+ streaming usage, social commerce, short-form product storytelling, beauty and home categories with demonstrable use cases, private-label/exclusive products, and cross-platform live selling are growing. In 2025, QxH digital-platform revenue was 66.9% of QxH net revenue, and QVC Group said QVC+ and HSN+ reached 1.5 million monthly active users while streaming-attributed sales grew 19%.",
+    "whats_shrinking": "Traditional cable-shopping revenue, units shipped, cable/satellite household reach, jewelry and watch share, linear-only customer acquisition, and standalone TV distribution economics are shrinking. QxH 2025 net revenue fell 10.0%, 2025 units shipped fell 10.6%, and Q1 2026 QxH revenue fell another 10.0% from Q1 2025.",
+    "recent_developments": [
+      "2025-01: QVC announced consolidation of QVC and HSN operations at Studio Park in West Chester, Pennsylvania, and closure of the St. Petersburg, Florida campus.",
+      "2025-03: QVC announced team reorganizations under the WIN strategy, recording 2025 restructuring charges at QxH and QVC International.",
+      "2025-08: QVC Group reported Q2 2025 revenue of $2.236 billion, down from $2.407 billion in Q2 2024, and a $2.395 billion impairment charge.",
+      "2026-04: QVC Group entered a restructuring support agreement and began a prepackaged Chapter 11 process to reduce debt.",
+      "2026-07: A bankruptcy court confirmed QVC Group's restructuring plan, reducing debt from about $6.6 billion to about $1.325 billion upon emergence."
+    ],
+    "outlook": "The legacy cable-shopping industry is likely to keep contracting through 2026-2030 as ecommerce and streaming take share from linear TV shopping. A reasonable near-term base case is continued low- to mid-single-digit annual decline for the defined cable-shopping industry, with steeper risk if cable household losses accelerate or QVC/HSN shifts more revenue outside the industry definition. Upside depends on whether live social shopping, streaming channels and creator-led demonstrations can stabilize customer acquisition without relying on legacy cable subscriptions.",
+    "themes": [
+      "Cord-cutting reduces the addressable linear-TV audience",
+      "Ecommerce is no longer an add-on; it is the core growth channel",
+      "Live shopping is migrating from cable to social and streaming platforms",
+      "QVC/HSN concentration makes industry performance highly company-specific",
+      "Fulfillment, freight, labor and tariff costs pressure margins",
+      "Older repeat customers remain valuable but younger acquisition is digital-first",
+      "Installment payments and private-label credit economics support conversion but add regulatory and credit risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/cable-shopping-networks.txt",
+      "https://www.sec.gov/Archives/edgar/data/1254699/000125469926000004/qvc-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1254699/000125469926000011/qvc-20260331.htm",
+      "https://www.sec.gov/Archives/edgar/data/1355096/000135509626000010/qvcga-20251231.htm",
+      "https://investors.qvcgrp.com/news-media/press-releases/detail/667/qvc-group-to-significantly-strengthen-financial-position-as",
+      "https://investors.qvcgrp.com/investors/news-events/press-releases/detail/668/qvc-group-achieves-key-milestone-with-courts-approval-of",
+      "https://www.pewresearch.org/short-reads/2025/07/01/83-of-us-adults-use-streaming-services-far-fewer-subscribe-to-cable-or-satellite-tv/",
+      "https://www.census.gov/retail/data.html",
+      "https://fred.stlouisfed.org/data/ECOMNSA"
+    ],
+    "one_sentence": "Cable Shopping Networks sell discretionary products through televised shopping programming, but the 2025-2026 market is being reshaped by cord-cutting, ecommerce migration, QVC/HSN restructuring and a push into TikTok, streaming apps and mobile commerce.",
+    "slug": "cable-shopping-networks"
+  },
+  {
+    "title": "Camera & Film Wholesaling in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "A declining but still sizable US distribution channel for cameras, lenses, film, motion-picture gear and photo supplies, pressured by smartphones, ecommerce and manufacturer-direct sales.",
+    "overview": "The industry wholesales photographic equipment and supplies, including digital cameras, lenses, motion-picture equipment, photographic film, photofinishing supplies and related accessories. The 2022 baseline placed the industry in decline because smartphone cameras displaced household point-and-shoot demand, ecommerce made direct manufacturer and marketplace sales easier, and independent wholesalers lost scale. Current 2025-2026 data show a more mixed product cycle: CIPA reported 2025 worldwide digital camera shipments of 9.4 million units, up 11.2% from 2024, and Americas shipments of 2.3 million units, up 12.7% from 2024. That recovery helps distributors with professional and enthusiast inventory, but the wholesale channel remains structurally smaller because brands, large retailers and marketplaces capture more of the transaction directly.",
+    "key_stats": {
+      "market_size": "2026 estimate: $11.6 billion US industry revenue, derived from the 2022 IBISWorld baseline and its 2022-2027 decline path.",
+      "growth": "2026 estimate: -1.5% annual revenue growth; 2022-2026 estimated CAGR: about -1.5%.",
+      "global_camera_shipments": "2025 CIPA: 9,438,876 digital cameras shipped worldwide, up 11.2% from 2024.",
+      "americas_camera_shipments": "2025 CIPA: 2,346,778 digital cameras shipped to the Americas, up 12.7% from 2024.",
+      "mirrorless_shipments": "2025 CIPA: 6,311,054 mirrorless cameras shipped worldwide, up 12.5% from 2024.",
+      "fixed_lens_shipments": "2025 CIPA: 2,436,911 built-in-lens digital cameras shipped worldwide, up 29.6% from 2024.",
+      "smartphone_penetration": "2025 Pew: 91% of US adults owned a smartphone, unchanged from 2024.",
+      "ecommerce_share": "2026 Q1 Census: ecommerce accounted for 16.9% of seasonally adjusted US retail sales.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld baseline: $12.335 billion revenue in 2022 dollars.",
+      "growth": "2022 IBISWorld baseline: 0.1% revenue growth in 2022 and -0.5% annualized revenue growth from 2017 to 2022.",
+      "profit": "2022 IBISWorld baseline: $802 million profit and 6.5% profit margin.",
+      "establishments": "2022 IBISWorld baseline: 717 establishments.",
+      "enterprises": "2022 IBISWorld baseline: 618 enterprises.",
+      "employment": "2022 IBISWorld baseline: 9,347 employees.",
+      "wages": "2022 IBISWorld baseline: $848 million wages.",
+      "outlook": "2022 IBISWorld baseline: revenue projected to decline to $11.4 billion by 2027."
+    },
+    "how_it_makes_money": "Wholesalers buy cameras, lenses, film, motion-picture equipment, photofinishing supplies, drones, tripods, accessories and related imaging products from manufacturers or import channels, then resell them to camera stores, ecommerce sellers, professional photographers, studios, broadcasters, production companies, retailers and institutional buyers. Margin is earned on inventory availability, dealer relationships, credit, fulfillment, bundling, repairs or service support, and access to specialist products that manufacturers or retailers do not handle efficiently.",
+    "cost_structure": "The main 2026 cost drivers are merchandise purchases from camera and film manufacturers, inbound and outbound freight, warehousing, inventory carrying costs, wages for sales and logistics staff, ecommerce and order-management systems, credit losses, returns, and insurance. Profitability is sensitive to foreign exchange, tariff costs, diesel and parcel freight rates, semiconductor and memory component costs embedded in cameras, silver and chemical costs embedded in film, and discounting when models age or manufacturers sell direct.",
+    "major_players": [
+      "Canon U.S.A. / Canon Inc.",
+      "Sony Electronics / Sony Group Corp.",
+      "Nikon Inc. / Nikon Corp.",
+      "FUJIFILM North America / FUJIFILM Holdings Corp.",
+      "Eastman Kodak / Kodak film supply channels",
+      "Panasonic imaging channels",
+      "Independent merchant wholesalers and specialist photo distributors"
+    ],
+    "current_dynamics": "In 2025-2026, product demand is better than the old baseline implied, but the wholesaling channel is still pressured. CIPA data show 2025 recovery in Americas shipments, mirrorless bodies and fixed-lens cameras, while 2026 first-half shipment patterns slowed after a strong 2025 base. Premium mirrorless systems, lenses and fixed-lens compacts are supporting average order values, while 2025 Pew smartphone ownership of 91% of US adults keeps household standalone-camera replacement low. Manufacturer-direct selling, marketplace logistics and 2026 Q1 ecommerce penetration of 16.9% of US retail sales continue to reduce the need for independent wholesalers.",
+    "whats_growing": "The strongest 2025-2026 pockets are mirrorless camera bodies, interchangeable lenses tied to full-frame and crop-sensor systems, fixed-lens compact cameras, instant-photo systems such as Instax, professional video and creator equipment, and specialty film demand from hobbyists and studios. CIPA reported 2025 fixed-lens shipments up 29.6% and mirrorless shipments up 12.5%, while Fujifilm reported 2025 imaging revenue growth from Instax, X-series and GFX products.",
+    "whats_shrinking": "DSLRs, low-end household point-and-shoot cameras, traditional film-developing supplies, independent wholesaler establishments, and routine replacement purchases are shrinking. CIPA reported 2025 single-lens reflex shipments of 690,911 units worldwide, down 30.7% from 2024, and the 2022 baseline projected US industry enterprises falling from 618 in 2022 to 511 in 2027 as direct selling and consolidation continue.",
+    "recent_developments": [
+      "2026-08-03: CIPA released June 2026 digital camera and lens statistics, showing 2026 first-half camera shipments above 2024 levels but softer than several 2025 monthly comparisons.",
+      "2026-07-27: Canon updated its 2026 projection, showing Imaging sales of JPY1,201.5 billion in 2026 versus JPY1,054.9 billion in 2025.",
+      "2026-05-18: US Census reported 2026 Q1 ecommerce at 16.9% of seasonally adjusted US retail sales, reinforcing manufacturer and retailer direct-channel pressure.",
+      "2026-02-02: CIPA annual 2025 data showed worldwide digital camera shipments of 9,438,876 units, up 11.2% from 2024, and Americas shipments up 12.7%.",
+      "2025-11-20: Pew reported 2025 US smartphone ownership at 91% of adults, keeping smartphone substitution near saturation.",
+      "2025-05-08: Fujifilm reported FY2025 Imaging fourth-quarter revenue up 14.1% year over year to JPY115.3 billion, supported by Instax and digital cameras."
+    ],
+    "outlook": "The 2026-2028 outlook is mildly negative for US wholesalers even though camera manufacturers are seeing selective product strength. Revenue is expected to drift down from an estimated $11.6 billion in 2026 toward the 2027 baseline path near $11.4 billion as independent distributors lose share to direct brand sales, online retail and large omnichannel dealers. Upside comes from 2025-2026 enthusiasm for compact cameras, instant photography, creator video and premium mirrorless systems; downside comes from saturated 2025 smartphone ownership, DSLR decline, tariffs or FX-driven price increases, and weaker replacement cycles when professional buyers delay upgrades.",
+    "themes": [
+      "Smartphone substitution",
+      "Manufacturer-direct distribution",
+      "Mirrorless camera mix shift",
+      "Compact camera revival",
+      "Film and instant-photo niche demand",
+      "Professional and creator-video demand",
+      "Wholesale consolidation",
+      "Ecommerce channel pressure",
+      "Inventory and tariff risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/camera-and-film-wholesaling-in-the-us.txt",
+      "https://www.cipa.jp/e/stats/dc.html",
+      "https://www.cipa.jp/e/stats/dc-2025.html",
+      "https://www.cipa.jp/stats/documents/e/d-2025_e.pdf",
+      "https://www.cipa.jp/stats/documents/e/dw-202606_e.pdf",
+      "https://www.cipa.jp/stats/documents/e/sw-202606_e.pdf",
+      "https://global.canon/en/ir/finance/business-unit.html",
+      "https://holdings.fujifilm.com/en/news/list/1901",
+      "https://www.pewresearch.org/internet/fact-sheet/mobile/",
+      "https://www.census.gov/retail/eCommerce.html"
+    ],
+    "one_sentence": "Camera and film wholesalers remain relevant for professional, specialty and dealer inventory, but 2025-2026 product demand strength in mirrorless, compact and instant cameras is only partly offsetting long-term channel erosion from smartphones and direct-to-consumer distribution.",
+    "slug": "camera-and-film-wholesaling-in-the-us"
+  },
+  {
+    "title": "Card Reward Program Services",
+    "sector": "Business Services",
+    "one_liner": "Card-linked rewards providers help banks, issuers, merchants and loyalty programs turn payment-card transactions into targeted offers, points, miles or cash-back rewards.",
+    "overview": "Operators provide outsourced card-linked marketing, reward fulfillment, offer sourcing, transaction matching, campaign analytics and loyalty-program support to banks, card issuers, airlines, retailers, restaurants and digital wallets. The industry sits between payment data, loyalty economics and merchant advertising: cardholders earn cash back, points, miles or statement credits, merchants pay for incremental spend or customer acquisition, and banks use rewards to deepen engagement and defend top-of-wallet status.",
+    "key_stats": {
+      "market_size": "2025: $952.0 million US market size for Card Reward Program Services.",
+      "growth": "2025: 1.1% market-size growth; 2020-2025: 2.4% CAGR.",
+      "card_purchase_volume": "2025: Visa, Mastercard, American Express and Discover cards issued in the US generated $11.463 trillion in purchase volume, up 6.4% from 2024.",
+      "credit_card_purchase_volume": "2025: US credit-card purchase volume across major networks reached about $6.51 trillion, up 6.1% from 2024.",
+      "credit_card_balances": "2025 Q4: US credit card debt stood at $1.277 trillion, up $66 billion from 2024 Q4.",
+      "consumer_credit_cards": "2024: credit cards were used by 208 million US consumers, according to the CFPB's 2025 report.",
+      "rewards_penetration": "2024: rewards cards accounted for the dominant share of general-purpose card spending; CFPB reported cash-back cards at 36% of general-purpose accounts in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate: about $812.0 million, inferred from the Dec. 2021 IBISWorld baseline of $789.1 million in 2021 and its 2021-2026 forecast CAGR of 2.9%.",
+      "growth": "2022 baseline growth assumption: 2.9%, matching the Dec. 2021 IBISWorld 2021-2026 projected CAGR.",
+      "baseline_context": "2021 baseline: $789.1 million revenue, $155.0 million profit and 19.6% profit margin in 2021 currency."
+    },
+    "how_it_makes_money": "Revenue comes from bank reward solution fees, loyalty-program services, card reward marketing services, offer sourcing, campaign management, transaction matching, reward fulfillment, APIs, reporting and analytics. Many card-linked offer models are merchant-funded: advertisers pay a fee, commission or cost-per-served-sale when targeted cardholders purchase, and part of that spend funds the consumer reward while the platform and bank or publisher share the remainder.",
+    "cost_structure": "Major costs are wages for engineering, sales, client service, analytics and compliance teams; consumer incentives or reward funding where the operator fronts or shares rewards; partner-share payments to banks and publishers; cloud, data security, PCI/SOC compliance, fraud controls and transaction-processing infrastructure; merchant acquisition and sales costs; and general overhead. The 2021 IBISWorld baseline implied wages of about $290.0 million against $789.1 million of revenue and a 19.6% profit margin, while 2025-2026 conditions point to rising compliance, AI, personalization and data-governance costs.",
+    "major_players": [
+      "Cartera Commerce, a Rakuten company",
+      "Cardlytics",
+      "Rewards Network",
+      "Mastercard Commerce Media and SessionM",
+      "Chase Media Solutions",
+      "American Express Offers",
+      "Augeo",
+      "Linkable Networks"
+    ],
+    "current_dynamics": "The industry is benefiting from record card purchase volume and the shift of loyalty into bank apps, issuer marketplaces and digital wallets. Growth is slower than the immediate post-pandemic rebound because large issuers increasingly build or acquire in-house platforms, reward costs remain high, and regulators are scrutinizing devaluations, vague terms and failed redemptions. Higher 2025 card balances and still-elevated APRs make rewards attractive for affluent transactors, but they also increase reputational risk when revolving borrowers pay more in interest and fees than they earn in rewards.",
+    "whats_growing": "Merchant-funded card-linked offers, bank-led commerce media networks, cash-back rewards, personalized app-based offers, dining and travel-linked rewards, retail media integrations, issuer shopping portals, APIs for reward enrollment and fulfillment, and closed-loop measurement based on actual card transactions are growing in 2025-2026.",
+    "whats_shrinking": "Standalone third-party rewards platforms with limited bank distribution, generic coupon-style offers, weakly attributed affiliate rewards, undifferentiated points portals, low-margin programs dependent on issuer subsidies, and reward terms that allow abrupt devaluation or redemption friction are losing ground as issuers, networks and regulators demand clearer value and better controls.",
+    "recent_developments": [
+      "2025-01: IBISWorld updated the US Card Reward Program Services market size to $952.0 million for 2025, with 1.1% 2025 growth.",
+      "2025-04-28: Mastercard announced it would power Sam's Club Sam's Cash Bonus Offers with personalized card-linked offers.",
+      "2025-05-20: Cardlytics launched Cardlytics Rewards Platform to expand card-linked offers beyond financial-institution publishers into merchant and loyalty channels.",
+      "2025-06-11: Chase announced The Shops at Chase, extending Ultimate Rewards into a cardmember shopping marketplace.",
+      "2025-12-30: CFPB released its 2025 Consumer Credit Card Market report, highlighting rewards growth, cash-back penetration and issuer investment in differentiated benefits.",
+      "2026-02-10: New York Fed reported 2025 Q4 credit card debt of $1.277 trillion and total household debt of $18.776 trillion."
+    ],
+    "outlook": "The 2026 outlook is modestly positive: purchase volume, high rewards-card penetration and merchant demand for measurable acquisition should support continued revenue growth, but pricing power is constrained by issuer insourcing, bank-owned media networks and regulatory scrutiny. Platforms with large bank reach, proven merchant incrementality, transparent reward fulfillment and strong data controls are best positioned, while smaller vendors may need specialization in dining, travel, retail media, APIs or compliance-heavy fulfillment to defend margins.",
+    "themes": [
+      "Card-linked commerce media",
+      "Merchant-funded rewards",
+      "Issuer insourcing",
+      "Cash-back preference",
+      "Travel and dining recovery",
+      "Closed-loop attribution",
+      "Rewards regulation",
+      "Data privacy and PCI compliance",
+      "AI personalization",
+      "Affluent transactor focus"
+    ],
+    "data_year": "2026, using latest public 2025 market-size and 2025-2026 card-market data",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/card-reward-program-services.txt",
+      "https://www.ibisworld.com/united-states/market-size/card-reward-program-services/5842/",
+      "https://www.newyorkfed.org/newsevents/news/research/2026/20260210",
+      "https://nilsonreport.com/articles/global-brand-cards-us-2025/",
+      "https://rss.globenewswire.com/news-release/2026/03/03/3248427/0/en/mastercard-and-visa-cards-reach-10-trillion-in-spending-in-2025.html",
+      "https://www.consumerfinance.gov/data-research/research-reports/the-consumer-credit-card-market-2025/",
+      "https://www.consumerfinance.gov/compliance/circulars/consumer-financial-protection-circular-2024-07-design-marketing-and-administration-of-credit-card-rewards-programs/",
+      "https://www.mastercard.com/news/press/2025/april/mastercard-elevates-sam-s-club-sam-s-cash-bonus-offer-program-with-personalization-and-rewards/",
+      "https://ir.cardlytics.com/news/news-details/2025/Cardlytics-Launches-Cardlytics-Rewards-Platform-and-Expands-Publisher-Base-Beyond-Financial-Institutions/default.aspx",
+      "https://media.chase.com/news/Announcing-The-Shops-at-Chase",
+      "https://www.cartera.com/",
+      "https://www.rewardsnetwork.com/"
+    ],
+    "one_sentence": "The US Card Reward Program Services industry is a small but strategically important performance-marketing market that grew to $952.0 million in 2025, supported by higher card spending, richer issuer rewards programs and merchant demand for closed-loop attribution.",
+    "slug": "card-reward-program-services"
+  },
+  {
+    "title": "Celebrity & Sports Agents in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "US celebrity and sports agents are benefiting from larger sports, creator, sponsorship and live-event markets, but commission pressure and entertainment-production volatility keep growth uneven.",
+    "overview": "The industry sits between talent and buyers of talent: studios, streamers, sports franchises, brands, live-event promoters, publishers, conference organizers and digital platforms. Current demand is stronger than the 2022 baseline expected because sports rights, NIL, creator marketing and brand partnerships have expanded the monetizable surface area for clients. At the same time, Hollywood labor disruption aftereffects, fewer traditional TV and film orders, box-office uncertainty and intense competition among boutique agents limit pricing power outside top-tier talent.",
+    "key_stats": {
+      "market_size": "2025: $14.314 billion in US NAICS 71141 taxable-employer revenue, up from $13.563 billion in 2024; Q1 2026 revenue was $3.574 billion.",
+      "growth": "2025: +5.5% year over year based on Census QSS/FRED quarterly revenue totals; 2024: +21.9% versus 2023 on the same basis.",
+      "baseline_comparison": "The 2022 IBISWorld baseline projected 2026 revenue of $11.3 billion; Census QSS/FRED revenue reached $14.314 billion in 2025 for taxable employers, indicating a larger current market base than the older forecast.",
+      "profitability": "2021 baseline profit margin: 8.5%; 2026 baseline forecast margin: 9.0%.",
+      "employment": "2021 baseline employment: 62,880; 2026 baseline forecast employment: 71,414.",
+      "enterprises": "2021 baseline enterprises: 41,272; 2026 baseline forecast enterprises: 41,872.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "source": "IBISWorld baseline file last updated 2022-08-31.",
+      "market_size": "2021: $9.627 billion revenue; 2026 forecast in that 2022 report: $11.3 billion.",
+      "growth": "2021: +20.6% recovery after a 2020 pandemic decline; 2021-2026 forecast CAGR: +3.3%.",
+      "profit": "2021: $818 million profit and 8.5% profit margin.",
+      "wages": "2021: $3.490 billion total wages.",
+      "establishments": "2021: 42,156 establishments."
+    },
+    "how_it_makes_money": "Agents and managers mainly take commissions and management fees from client income. The 2021 baseline described representation services as 59.8% of revenue, career management as 10.6%, licensing and contract services as 4.2%, and other services as 25.4%. Commission rates are often capped near 10.0% for covered representation, while newer revenue pools include NIL deals, influencer sponsorships, podcast/video licensing, speaking fees, brand partnerships and athlete off-field ventures.",
+    "cost_structure": {
+      "wages": "2021 baseline wages were $3.490 billion, equal to about 36.3% of 2021 revenue.",
+      "profit": "2021 baseline profit was 8.5% of revenue; 2026 baseline forecast profit was 9.0%.",
+      "other_costs": "The remaining cost base is mainly legal and contract support, client servicing, travel, marketing, insurance, rent, technology, data subscriptions and outside professional services.",
+      "cost_pressure": "2025-2026 pressure points include higher senior-agent compensation, bidding for scarce high-value clients, compliance costs around NIL and league certification, and technology spending for creator analytics and brand-safety workflows."
+    },
+    "major_players": [
+      "Creative Artists Agency (CAA)",
+      "WME Group / Endeavor",
+      "United Talent Agency (UTA), including Klutch Sports Group",
+      "Wasserman",
+      "Excel Sports Management",
+      "Boras Corporation"
+    ],
+    "current_dynamics": "Sports representation is the most resilient part of the market because league media-rights economics, player salaries, endorsements and NIL have all expanded. Entertainment representation is mixed: theatrical and streaming demand supports top talent, but studios have reduced some TV, film and streaming-series spending after the 2023 strikes and after years of streaming losses. Creator representation is growing as brands shift budget to influencers, podcasts, YouTube, TikTok and direct social commerce. Large agencies keep broadening into sports, creators, brand consulting, live experiences and corporate advisory work, while boutique agents compete on specialization and lower fees.",
+    "whats_growing": [
+      "2025-2026: athlete NIL representation, especially after the 2025 House settlement enabled direct school payments and broader roster economics.",
+      "2025-2026: creator, podcast, YouTube, TikTok and influencer-management work tied to brand campaigns and performance marketing.",
+      "2025-2026: sports contract, endorsement, licensing and media work as US leagues and women’s sports attract larger sponsorship and media-rights dollars.",
+      "2025-2026: brand consulting, experiential marketing, speaking engagements and cross-platform IP packaging for clients.",
+      "2025: live-event and touring representation remains a large fee pool despite normalization after the post-pandemic surge."
+    ],
+    "whats_shrinking": [
+      "2025-2026: traditional scripted TV package volume remains below the peak streaming-buildout period.",
+      "2025-2026: mid-tier entertainment clients face more volatile deal flow as studios concentrate spending on fewer projects and known IP.",
+      "2025-2026: undifferentiated small agencies face fee pressure from client self-service tools, creator platforms and competition from managers, lawyers and brand consultants.",
+      "2025: theatrical film recovery remains uneven, making some actor and writer representation less predictable than sports or creator work."
+    ],
+    "recent_developments": [
+      "2025-03: Silver Lake completed its take-private acquisition of Endeavor, separating TKO and leaving WME inside a privately held entertainment and representation group.",
+      "2025-06: The House v. NCAA settlement took effect, allowing schools to share revenue with college athletes and accelerating NIL advisory demand.",
+      "2025-07: Census QSS/FRED showed 2025 NAICS 71141 revenue running above the 2022 IBISWorld forecast path, with Q1 2026 revenue at $3.574 billion.",
+      "2025-11: IAB reported continued advertiser movement into creator and influencer channels, supporting creator-management deal flow.",
+      "2026-01: IAB projected 2026 US advertising spending growth of 7.1%, following 9.5% growth in 2025, supporting endorsement and sponsorship demand."
+    ],
+    "outlook": "The 2026 outlook is positive but uneven. A reasonable current view is mid-single-digit revenue growth from the 2025 base if ad spending, sports salaries, NIL and live events stay healthy, with downside risk from a weaker consumer economy or further pullback in scripted entertainment production. Large diversified agencies should outperform because they can monetize clients across sports, entertainment, creators, licensing, speaking and brand consulting, while small agents remain exposed to commission compression and client concentration.",
+    "themes": [
+      "Sports rights and athlete monetization",
+      "NIL and college athlete representation",
+      "Creator economy and influencer marketing",
+      "Agency consolidation and private-equity ownership",
+      "Streaming-era entertainment volatility",
+      "Brand partnerships and licensing",
+      "Live events and touring recovery",
+      "Commission pressure among boutique agencies"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/celebrity-and-sports-agents-in-the-us.txt, last updated 2022-08-31",
+      "https://fred.stlouisfed.org/series/REV71141TMSA",
+      "https://www.census.gov/services/qss",
+      "https://www.ncaa.org/news/2025/6/6/media-center-house-settlement-approval-offers-college-sports-stability.aspx",
+      "https://www.iab.com/news/2026-ad-spend-outlook/",
+      "https://www.silverlake.com/news/endeavor-announces-close-of-acquisition-by-silver-lake/"
+    ],
+    "one_sentence": "Celebrity & Sports Agents in the US earn commissions and fees by representing athletes, actors, musicians, creators, models and public figures in employment, endorsement, licensing, appearances and career-management deals.",
+    "slug": "celebrity-and-sports-agents-in-the-us"
+  }
+]

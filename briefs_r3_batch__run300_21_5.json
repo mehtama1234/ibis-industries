@@ -1,0 +1,421 @@
+[
+  {
+    "title": "Automatic Fire Sprinkler System Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, consolidated manufacturing niche that sells code-driven sprinkler hardware into commercial buildings, multifamily housing, retrofits and specialized facilities.",
+    "overview": "The industry manufactures automatic fire sprinkler systems and related components, excluding installation and maintenance revenue. IBISWorld's 2021 baseline described a mature, highly consolidated US manufacturing niche with 2021 revenue of $385.7 million, 2021 profit of $32.0 million and a 2021 profit margin of 8.4%. Demand is led by nonresidential construction, multifamily residential construction and retrofit work, with data centers, healthcare, logistics and institutional buildings adding demand for more complex pre-action and monitored systems. The 2025-2026 update is mixed: code and safety requirements remain supportive, broader US fire-sprinkler product and service markets are growing, but 2026 construction spending is softer than 2025 and steel pipe and valve costs remain elevated.",
+    "key_stats": {
+      "market_size": "2026 estimated US manufacturer revenue: $432.1 million in 2021 dollars, based on the IBISWorld 2021-2026 forecast for this manufacturing industry.",
+      "growth": "2021-2026 forecast CAGR: 2.3% for US manufacturer revenue; broader US fire sprinklers market forecast: $3.68 billion in 2025 to $5.71 billion in 2032, a 2025-2032 CAGR of 6.5%.",
+      "profit": "2021 industry profit: $32.0 million; 2021 profit margin: 8.4%.",
+      "employment": "2021 employment: 1,173 workers; 2026 forecast employment: 1,274 workers.",
+      "trade": "2021 exports: $106.0 million; 2026 forecast exports: $123.6 million; 2021 imports: $37.7 million; 2026 forecast imports: $42.1 million.",
+      "construction_indicator": "US Census June 2026 construction spending was $2.1665 trillion SAAR, 3.2% below June 2025; June 2026 private residential was $877.1 billion SAAR and private nonresidential was $745.3 billion SAAR.",
+      "input_cost_indicator": "Steel pipe and tube PPI was 420.951 in June 2026; metal valves PPI was 506.001 in June 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US manufacturer revenue: $394.6 million in 2021 dollars, derived from the IBISWorld 2021 revenue base of $385.7 million and its 2021-2026 forecast path.",
+      "growth": "2022 estimated revenue growth: 2.3%, aligned to the IBISWorld 2021-2026 forecast CAGR.",
+      "product_mix": "2021 wet-pipe systems represented 87.8% of revenue, split between 43.0% residential wet-pipe systems and 44.8% nonresidential wet-pipe systems; 2021 dry-pipe systems represented 9.3%.",
+      "structure": "2021 enterprises: 29; 2021 establishments: 31; 2021 top two companies accounted for 59.1% of revenue in the baseline file."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling sprinkler heads, valves, pipe-network system packages, wet-pipe systems, dry-pipe systems, pre-action systems and related fire-suppression components to contractors, distributors, integrated fire-protection firms and building owners. Large players also benefit indirectly from vertically integrated design, fabrication, installation, monitoring and service channels, although those service revenues are outside the narrow manufacturing definition.",
+    "cost_structure": {
+      "materials": "Steel pipe, valves, castings, fittings, sensors and fabricated metal parts are the main cost exposure; steel pipe and tube PPI reached 420.951 in June 2026 and metal valves PPI reached 506.001 in June 2026.",
+      "labor": "2021 wages were $86.0 million, equal to about 22.3% of 2021 revenue.",
+      "profit": "2021 profit was $32.0 million and 2021 margin was 8.4%, supported by consolidation and code-driven demand.",
+      "freight_and_inventory": "2025-2026 costs remain sensitive to freight, tariff policy, pipe availability and working-capital needs because projects are specified, scheduled and delivered around construction timelines.",
+      "capital_intensity": "2021 IBISWorld characterized capital intensity as low, with production relying more on fabrication know-how, approvals, testing, distribution and contractor relationships than heavy greenfield plant investment."
+    },
+    "major_players": [
+      "{'name': 'Johnson Controls / Tyco Fire Products', 'position': 'Large diversified building-systems company with fire-suppression products; Johnson Controls reported fiscal 2025 sales of $23.6 billion and fiscal 2025 systems and services backlog of $14.9 billion.'}",
+      "{'name': 'Viking Group / Minimax Viking', 'position': 'Major sprinkler, valve and system-component supplier; listed among leading North American fire sprinkler systems players in 2025 market research.'}",
+      "{'name': 'Reliable Automatic Sprinkler Co.', 'position': 'Specialist sprinkler and fire-protection equipment manufacturer; listed among leading North American and US fire sprinkler players in 2025-2026 market research.'}",
+      "{'name': 'Victaulic', 'position': 'Major pipe-joining, valve and fire-protection systems supplier serving commercial, industrial and special-hazard applications.'}",
+      "{'name': 'Senju Sprinkler', 'position': 'Sprinkler-head and fire-protection equipment manufacturer active in US and global markets.'}"
+    ],
+    "current_dynamics": "In 2025-2026, demand is being pulled in two directions. The supportive side is code compliance, retrofit work, insurance-risk management, multifamily completions, healthcare projects and AI/data-center construction that requires higher-value pre-action or monitored systems. The drag is weaker 2026 total construction spending versus 2025, cautious nonresidential owners, tighter financing in some commercial segments and higher steel pipe and valve input prices. The result is a market where volume growth is moderate for the narrow manufacturing niche, while broader fire-sprinkler systems revenue grows faster because service, monitoring and retrofit packages expand the wallet.",
+    "whats_growing": "Pre-action and monitored sprinkler systems for data centers, healthcare, pharmaceutical, advanced manufacturing and other mission-critical facilities are growing in 2025-2026. Multifamily residential demand is also stronger than single-family in 2026 construction forecasts. Retrofit and replacement work is growing as building owners upgrade aging systems, address corrosion, add supervision and comply with newer standards.",
+    "whats_shrinking": "Single-family new-construction sprinkler opportunity remains limited by low adoption and uneven local mandates. Warehouse, hotel and some manufacturing-project pipelines were softer in 2026 construction commentary, and narrow dry-pipe demand remains comparatively smaller than wet-pipe because wet-pipe systems dominate the 2021 product mix and continue to benefit from simplicity and reliability.",
+    "recent_developments": [
+      "2025-05-01: Johnson Controls marked 140 years and highlighted its fire-protection portfolio for data centers, advanced manufacturing, education, hospitals and pharmaceutical labs.",
+      "2025-11-03: ICC listed NFPA 13-2025 with revisions for vacuum dry-pipe systems, corrosion inhibitors, sprinkler placement, elevator hoistways and seismic load tables.",
+      "2025-11-05: Johnson Controls reported fiscal 2025 sales of $23.6 billion and systems and services backlog of $14.9 billion, up 13% organically year over year.",
+      "2026-05-14: Census released final 2025 annual building permit estimates, updating the residential construction base used to gauge multifamily sprinkler demand.",
+      "2026-06-01: FRED/BLS showed steel pipe and tube PPI at 420.951 in June 2026, keeping metal input costs elevated for sprinkler system manufacturers.",
+      "2026-08-03: Census reported June 2026 construction spending at $2.1665 trillion SAAR, 3.2% below June 2025, with private nonresidential at $745.3 billion SAAR."
+    ],
+    "outlook": "The narrow manufacturing industry should grow modestly through 2026 rather than surge, with a reasonable 2026 anchor of $432.1 million in 2021 dollars from the IBISWorld forecast. Upside comes from stricter standards, retrofit work, institutional projects, data centers and multifamily construction. Downside comes from softer 2026 construction spending, volatile steel and valve costs, and the fact that most commercial buildings already have sprinkler systems. Over the next several years, the broader US fire-sprinkler systems market is likely to outgrow manufacturing-only revenue because monitoring, inspection, retrofit and integrated safety services capture more value than hardware shipments alone.",
+    "themes": [
+      "Code-driven demand",
+      "Data-center and mission-critical facilities",
+      "Multifamily housing exposure",
+      "Retrofit and corrosion mitigation",
+      "Steel pipe and valve cost pressure",
+      "Consolidated manufacturer base",
+      "Wet-pipe system dominance",
+      "Smart monitoring and integrated fire safety"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/automatic-fire-sprinkler-system-manufacturing.txt",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://www.census.gov/construction/bps/index.html",
+      "https://shop.iccsafe.org/standards/nfpa-13-2025-standard-for-the-installation-of-sprinkler-systems.html",
+      "https://fred.stlouisfed.org/series/WPU101706",
+      "https://fred.stlouisfed.org/series/WPU114902",
+      "https://investors.johnsoncontrols.com/news/news-details/2025/Johnson-Controls-Reports-Q4-and-FY25-Results-Initiates-FY26-Guidance-11-05-2025/default.aspx",
+      "https://www.fortunebusinessinsights.com/u-s-fire-sprinklers-market-109827",
+      "https://www.gminsights.com/industry-analysis/north-america-fire-sprinkler-systems-market",
+      "https://forecast.aia.org/2026/Charts/Jan%202026/ccf_01926_v5Final.html"
+    ],
+    "one_sentence": "Automatic Fire Sprinkler System Manufacturing produces wet-pipe, dry-pipe and pre-action sprinkler systems whose demand is tied to new construction, retrofit cycles, fire-code enforcement and metal input costs.",
+    "slug": "automatic-fire-sprinkler-system-manufacturing"
+  },
+  {
+    "title": "Automotive Coatings Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. specialty chemicals industry supplying OEM paint systems and refinish coatings for vehicles, with demand tied to auto production, collision repair, VOC rules and color/material innovation.",
+    "overview": "The U.S. Automotive Coatings Manufacturing industry is a small, concentrated specialty segment inside coatings and chemicals. The 2021 baseline put industry revenue at $2.255 billion, profit at $171 million and a 7.6% margin, with revenue expected to recover only modestly after the 2020 auto-production shock. Current 2025-2026 conditions are stronger on the vehicle-sales side but mixed for coatings: Cox Automotive estimated 2025 U.S. new-vehicle sales at 16.3 million units, the best result since 2019, while the Federal Reserve reported 2025 U.S. motor vehicle assemblies averaging 10.16 million units SAAR and June 2026 assemblies at 10.96 million units SAAR. OEM coatings benefit from steady light-truck output, EV platform launches and higher-performance paint stacks, while refinish coatings face lower repairable claim volume even as average repair cost and calibration complexity rise. Regulation remains heavy, with EPA VOC and HAP rules pushing manufacturers toward waterborne, high-solids, powder, low-temperature-cure and other lower-emission systems.",
+    "key_stats": {
+      "market_size": "2026 U.S. automotive coatings manufacturing revenue is estimated at about $2.3 billion, based on the baseline industry forecast; broader public estimates place the 2024 U.S. automotive OEM coatings market alone at $2.71 billion and forecast a 2025-2034 CAGR of 5.50%.",
+      "growth": "2026 industry revenue growth is estimated near 0.5% annually from the baseline forecast, while public OEM-coatings demand forecasts imply faster 2025-2034 growth of 5.50% for the broader U.S. OEM coatings market.",
+      "profit_margin": "2021 baseline profit margin was 7.6%; the baseline forecast expected 2026 profit margin of 7.9%.",
+      "employment": "2021 baseline employment was 3,026 workers; the baseline forecast expected 2026 employment of 2,968 workers.",
+      "establishments": "2021 baseline establishments were 89; the baseline forecast expected 2026 establishments of 82.",
+      "exports": "2021 baseline exports were $258 million; the baseline forecast expected 2026 exports of $266.5 million.",
+      "imports": "2021 baseline imports were $126 million; the baseline forecast expected 2026 imports of $134.6 million.",
+      "downstream_indicator": "2025 U.S. new-vehicle sales were estimated at 16.3 million units; Cox Automotive forecast 2026 new-vehicle sales near 15.8 million units.",
+      "production_indicator": "2025 U.S. motor vehicle assemblies averaged 10.16 million units SAAR; June 2026 assemblies were 10.96 million units SAAR.",
+      "input_indicator": "EIA’s July 2026 STEO put Brent crude at $69/bbl in 2025 and forecast $82/bbl in 2026, raising petroleum-based resin and solvent cost pressure versus 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 industry revenue is estimated at about $2.27 billion, derived from the 2021 baseline revenue of $2.255 billion and the baseline 2021-2027 projected CAGR of 0.47%.",
+      "growth": "2022 revenue growth is estimated at about 0.5% from the 2021 baseline projection.",
+      "profit_margin": "2022 profit margin is estimated around 7.7%, between the 2021 baseline margin of 7.6% and the 2026 forecast margin of 7.9%.",
+      "context": "The 2022 baseline reflects a post-pandemic rebound period still constrained by semiconductor shortages, volatile petroleum inputs and uneven North American vehicle production."
+    },
+    "how_it_makes_money": [
+      "Selling OEM coating systems directly to automakers and Tier 1 component suppliers under long-term approved-platform contracts.",
+      "Supplying electrocoat, primer, basecoat and clearcoat layers used in assembly plants and parts coating operations.",
+      "Selling refinish coatings, toners, clearcoats and repair systems through distributors, jobbers, dealer networks and body shops.",
+      "Providing technical service, color-matching tools, application support and productivity systems that lock customers into coating platforms.",
+      "Charging premium prices for low-VOC, waterborne, powder, low-temperature-cure, ceramic clearcoat and specialty finish technologies."
+    ],
+    "cost_structure": {
+      "raw_materials": "Largest variable cost category; resins, pigments, additives, solvents and petrochemical intermediates move with crude oil and chemical feedstock markets. EIA’s 2026 Brent forecast of $82/bbl signals renewed input-cost pressure after $69/bbl in 2025.",
+      "labor": "Specialized chemical manufacturing, color science and technical-service labor; 2021 baseline wages were $211 million, equal to about 9.4% of revenue.",
+      "profit": "2021 baseline EBIT profit was $171 million, or 7.6% of revenue; 2026 baseline profit margin was forecast at 7.9%.",
+      "compliance": "Heavy EPA VOC and HAP compliance costs for formulation, testing, reporting, emissions controls and process changes.",
+      "distribution_and_service": "OEM onsite technical support, refinish distribution, color libraries, digital matching equipment and training are important selling costs.",
+      "depreciation_and_r_and_d": "Capital spending goes to mixing, batching, quality systems, labs and application testing; R&D is material because automakers require validated coatings for corrosion, durability, appearance and emissions performance."
+    },
+    "major_players": [
+      "PPG Industries",
+      "Axalta Coating Systems",
+      "BASF Coatings / Carlyle pending transaction",
+      "The Sherwin-Williams Company",
+      "AkzoNobel",
+      "Kansai Paint",
+      "Nippon Paint"
+    ],
+    "current_dynamics": [
+      "OEM demand improved in 2025 as U.S. new-vehicle sales reached 16.3 million units, but Cox Automotive forecast a softer 2026 at about 15.8 million units because affordability, tariffs and EV incentive changes weigh on demand.",
+      "U.S. motor vehicle assemblies rose into mid-2026, with June 2026 SAAR at 10.96 million units, supporting OEM coatings volumes after a weaker late-2025 production pace.",
+      "Refinish coatings are softer than miles-driven data alone would suggest: CCC reported 2025 repairable claim volume down 9.7%, while average repair cost rose 1.7% to $4,818.",
+      "EPA VOC and HAP requirements continue to favor lower-emission formulations and more sophisticated compliance systems, reinforcing barriers to entry.",
+      "Input-cost risk increased in 2026 as EIA forecast Brent crude at $82/bbl versus $69/bbl in 2025, pressuring resin, solvent and additive costs.",
+      "Large suppliers are optimizing portfolios: BASF agreed in 2025 to sell its automotive OEM coatings, refinish coatings and surface-treatment businesses to Carlyle at a €7.7 billion enterprise value, with expected 2026 closing."
+    ],
+    "whats_growing": [
+      "Waterborne, high-solids, powder and low-temperature-cure coatings that help OEMs reduce VOC emissions, energy use and process steps.",
+      "Coatings for EV platforms, battery-related components, lightweight substrates and mixed-material vehicle bodies.",
+      "Color-matching software, digital mixing, automated refinish systems and productivity tools for collision shops.",
+      "Premium clearcoats, ceramic/scratch-resistant finishes and specialty effects that support OEM differentiation and higher coating content per vehicle.",
+      "North American chromatic color interest, with Axalta reporting 2025 North America blue at 10% and red at 7% while white still led at 31%."
+    ],
+    "whats_shrinking": [
+      "Solvent-heavy legacy systems where VOC regulation and OEM sustainability targets favor lower-emission substitutes.",
+      "Low-value refinish volume tied to small claims, as more minor damage is not reported and total-loss share remains elevated.",
+      "Smaller independent manufacturers without OEM approvals, testing capacity, emissions compliance infrastructure or national refinish distribution.",
+      "U.S. automotive refinish demand in 2025, with both PPG and Axalta citing weaker claims activity and customer inventory dynamics.",
+      "Silver color share globally, with Axalta reporting silver at 7% in 2025 versus stronger white, black and gray shares."
+    ],
+    "recent_developments": [
+      "2025-01-17: EPA finalized amendments to national VOC emission standards for aerosol coatings, including updated reactivity factors, limits, test methods and electronic reporting.",
+      "2025-07-02: EPA issued an interim final rule for aerosol coatings VOC standards, keeping regulatory attention high for coating formulations.",
+      "2025-10-10: BASF signed a binding agreement to sell its automotive OEM coatings, refinish coatings and surface-treatment businesses to Carlyle at a €7.7 billion enterprise value, with closing expected in Q2 2026.",
+      "2025-12-16: Axalta’s 2025 Global Automotive Color Popularity Report showed white at 29%, black at 23% and gray at 22% globally; North America white led at 31%, with blue at 10% and red at 7%.",
+      "2025-12-17: Cox Automotive estimated 2025 U.S. new-vehicle sales at 16.3 million units and forecast 2026 sales near 15.8 million units.",
+      "2026-07-17: Federal Reserve G.17 data showed U.S. motor vehicle assemblies at 10.96 million units SAAR in June 2026, above the 2025 average of 10.16 million."
+    ],
+    "outlook": "The 2026 outlook is stable but not easy. Baseline industry revenue remains around $2.3 billion with low single-digit growth, while broader public OEM-coatings estimates imply faster growth for the larger U.S. OEM coatings opportunity as waterborne, powder and low-temperature-cure systems gain share. Demand should be supported by light-truck output, EV programs, aging vehicles and higher coating performance requirements, but 2026 new-vehicle affordability pressure, softer refinish claim counts, volatile crude-linked inputs and heavy environmental compliance limit margin upside. Consolidation and portfolio reshaping favor scaled suppliers with OEM approvals, global color databases, application engineering and the balance sheet to keep pace with regulatory and technology requirements.",
+    "themes": [
+      "Mature specialty manufacturing",
+      "OEM platform dependence",
+      "Refinish channel softness",
+      "Waterborne and low-VOC transition",
+      "EV and lightweight-material coatings",
+      "Color personalization",
+      "Petrochemical input volatility",
+      "Regulatory compliance as barrier to entry",
+      "Supplier consolidation",
+      "Digital color matching and shop productivity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/automotive-coatings-manufacturing.txt",
+      "https://www.coxautoinc.com/insights/cox-automotive-forecast-dec-2025-u-s-auto-sales-forecast/",
+      "https://www.federalreserve.gov/releases/g17/Current/table3.htm",
+      "https://www.eia.gov/outlooks/steo/report/index.php",
+      "https://www.epa.gov/stationary-sources-air-pollution/aerosol-coatings-national-volatile-organic-compound-emission",
+      "https://www.epa.gov/stationary-sources-air-pollution/surface-coating-automobiles-and-light-duty-trucks-national",
+      "https://newsroom.axalta.com/posts/pressreleases/axalta-releases-2025-global-automotive-color",
+      "https://newsroom.axalta.com/posts/pressreleases/axalta-releases-fourth-quarter-and-record-ful",
+      "https://www.sec.gov/Archives/edgar/data/79879/000007987926000046/ppg-20251231.htm",
+      "https://www.basf-coatings.com/global/en/media/acquisition",
+      "https://report.basf.com/2025/en/financial-statements/notes/reporting-by-segment-and-region.html",
+      "https://www.cccis.com/reports/crash-course-2026",
+      "https://www.researchandmarkets.com/reports/6112453/united-states-automotive-oem-coatings-market"
+    ],
+    "one_sentence": "Automotive coatings manufacturers make electrocoats, primers, basecoats, clearcoats and refinish systems that protect and decorate vehicles, selling primarily to automakers, Tier 1 parts suppliers, distributors and collision-repair channels.",
+    "slug": "automotive-coatings-manufacturing"
+  },
+  {
+    "title": "BBQ & Outdoor Cooking Stores",
+    "sector": "Retail",
+    "one_liner": "A mature, big-box-led retail niche selling grills, smokers, outdoor ovens, fuel, parts and accessories, with premium outdoor kitchens offsetting softer replacement grill demand.",
+    "overview": "This industry covers physical retailers that sell barbecue grills, smokers, outdoor cooking appliances, replacement parts, fuel, tools and accessories; online-only sellers are outside the baseline IBIS scope. The 2021 IBIS baseline put revenue at $7.8 billion and forecast $8.4 billion by 2026, implying a steady mature-retail profile rather than a breakout category. In 2025-2026, demand is being pulled in two directions: premium outdoor kitchens, pizza ovens, pellet systems and accessories are supported by homeowners upgrading patios and entertaining spaces, while replacement grills face more price sensitivity after the 2020-2022 pull-forward in home-cooking purchases.",
+    "key_stats": {
+      "market_size": "$8.4 billion in 2026 US BBQ & outdoor cooking store revenue, based on the 2021 IBIS baseline forecast for the physical-store industry",
+      "growth": "1.5% CAGR in 2021-2026 baseline store-industry revenue; US barbeque grill product market cited at $1.41 billion in 2026 with 3.07% CAGR for 2026-2031 by Mordor Intelligence",
+      "grill_households": "78 million US households owning a grill in 2025, per Traeger 2025 Form 10-K estimate",
+      "household_penetration": "70% of US households owned at least one grill or smoker in HPBA 2022 research, up from 64% in 2019",
+      "premium_outdoor_kitchen_spend": "$10,600 average outdoor kitchen investment among premium grill owners in HPBA 2025 release",
+      "industry_employment": "83,993 workers forecast for 2026 in the IBIS baseline",
+      "profit_margin": "2.9% EBIT margin forecast for 2026 in the IBIS baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "approximately $7.9 billion in 2022, derived from the IBIS 2021 revenue of $7.8 billion and 2021-2026 forecast CAGR of 1.5%",
+      "growth": "approximately 1.5% in 2022 under the IBIS 2021-2026 forecast path",
+      "context": "2022 demand was still benefiting from pandemic-era home cooking, replacement purchases and outdoor space upgrades, while e-commerce and big-box price competition limited margin expansion."
+    },
+    "how_it_makes_money": "Retailers earn revenue by selling freestanding gas, charcoal, electric and pellet grills; built-in grill heads; smokers; outdoor ovens and pizza ovens; replacement parts; covers; tools; thermometers; fuels such as charcoal, propane and pellets; rubs, sauces and consumables; and installation-adjacent outdoor kitchen products. Big-box stores monetize volume, seasonal promotions and basket attachment, while specialty retailers rely on higher-ticket premium equipment, showroom advice, service, local reputation and outdoor kitchen project support.",
+    "cost_structure": "The 2021 IBIS baseline characterized the industry as low-margin retail, with 2021 profit of $225 million on $7.8 billion of revenue, or a 2.9% margin. Merchandise purchases are the dominant cost because stores resell finished appliances and accessories; wages were $2.0 billion in 2021 and were forecast to rise with employment to 83,993 workers by 2026. Rent, advertising, freight, payment processing and seasonal inventory carrying costs matter, while 2025-2026 tariff and metal-cost pressure raises cost risk for steel and aluminum grill products.",
+    "major_players": [
+      "The Home Depot: largest home-improvement retailer and a leading grill/outdoor-living channel; fiscal 2025 sales were $164.7 billion and comparable sales rose 0.3%.",
+      "Lowe's: major home-improvement channel for grills, patio and outdoor living products; fiscal 2025 annual report was released in April 2026.",
+      "Walmart: high-volume supercenter channel competing on opening price points, seasonal displays and broad household traffic.",
+      "Costco: warehouse club channel with seasonal grill, smoker and outdoor-kitchen packages; IBIS baseline listed it among the four largest 2021 industry revenue contributors.",
+      "Ace Hardware and independent specialty barbecue stores: service-heavy local channel focused on premium grills, charcoal, pellets, parts and enthusiast accessories.",
+      "Traeger, Weber and other branded manufacturers: not retailers in the IBIS definition but important category suppliers; Traeger reported $559.5 million revenue in 2025, down 7.4% from 2024."
+    ],
+    "current_dynamics": "The 2025-2026 market is stable but promotional. Home Depot reported fiscal 2025 comparable sales growth of 0.3%, with smaller projects holding up but high interest rates pressuring broader home-improvement demand. HPBA's 2025 premium-grill release pointed to frequent use and outdoor-kitchen upgrades, including 83% of premium owners grilling multiple times per week in summer and 63% planning outdoor-kitchen improvements. At the same time, Traeger reported 2025 grill revenue down 8.2% and accessories revenue down 16.3%, showing that replacement grill units and some connected accessories remain soft after the pandemic pull-forward. Tariffs on China-origin grill products and 2025 steel and aluminum duties add gross-margin risk unless retailers raise prices, mix into private label, or negotiate vendor support.",
+    "whats_growing": "Premium outdoor kitchens, built-in grill heads, pizza ovens, pellet fuel and consumables, multi-fuel cooking, patio heating/fire features, and service-led specialty retail are growing. HPBA's 2025 release said 35% of premium grill owners had an outdoor kitchen, 98% of those kitchens included a grill, and 73% of owners used the outdoor kitchen at least three times per week. Consumables are also more resilient than grill units: Traeger consumables revenue rose 6.9% in 2025.",
+    "whats_shrinking": "Entry-level and replacement grill demand is softer where households already upgraded in 2020-2022. Traeger grill revenue fell 8.2% in 2025 and its accessories revenue fell 16.3% in 2025, while the company exited direct-to-consumer selling and discontinued its Costco roadshow program as part of Project Gravity. Small undifferentiated stores are pressured by big-box pricing, e-commerce comparison shopping and tariff-driven cost increases.",
+    "recent_developments": [
+      "2025-02-25: US Customs ruling NY N345461 classified a China-origin outdoor grill center and noted an additional 25% China tariff treatment for the cited HTSUS subheading.",
+      "2025-03-27: ICFA's 2025 Outdoor Living Trend Report said 85% of households had some outdoor space and 54% had little/no outdoor furnishings or needed replacement.",
+      "2025-06-24: HPBA released 2025 National Grilling Month findings, including $10,600 average outdoor kitchen investment among premium grill owners and 63% planning outdoor-kitchen improvements.",
+      "2025-12-31: Traeger ended 2025 with revenue of $559.5 million, down 7.4% from 2024, with grill revenue down 8.2%.",
+      "2026-03-18: Home Depot's fiscal 2025 annual report showed total comparable sales up 0.3% and positive comparable sales in Outdoor Garden.",
+      "2026-03-2026: Mordor Intelligence cited the US barbeque grill market at $1.36 billion in 2025 and $1.41 billion in 2026."
+    ],
+    "outlook": "Through 2026, the industry should grow modestly rather than surge. The baseline $8.4 billion 2026 revenue forecast remains a reasonable anchor for physical BBQ and outdoor cooking stores, while third-party grill-product forecasts point to low- to mid-single-digit growth beyond 2026. Upside comes from affluent homeowners adding outdoor kitchens and higher-margin accessories; downside comes from high interest rates, promotion-heavy retail, tariff costs, and replacement cycles lengthening after pandemic-era purchases. Big-box chains should keep gaining share because they can absorb freight and tariff volatility better than smaller stores, while specialty retailers need service, installation knowledge and enthusiast merchandising to defend margins.",
+    "themes": [
+      "Outdoor living as home expansion",
+      "Premiumization and outdoor kitchens",
+      "Big-box channel concentration",
+      "Replacement-cycle normalization",
+      "Pellet, fuel and consumables resilience",
+      "Tariff and metal-cost pressure",
+      "Showroom expertise versus online price comparison",
+      "Seasonal promotions and inventory discipline"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/bbq-and-outdoor-cooking-stores.txt",
+      "https://www.researchandmarkets.com/reports/5937456/united-states-barbeque-grill-market-share",
+      "https://hpba.org/fire-up-the-grill-celebrate-julys-national-grilling-month-with-insights-into-premium-outdoor-cooking-trends/",
+      "https://members.hpba.org/Resources/PressRoom/ID/2140/2022-STATE-OF-THE-BARBECUE-INDUSTRY",
+      "https://www.sec.gov/Archives/edgar/data/1857853/000162828026015450/tra-20251231.htm",
+      "https://ir.homedepot.com/investor-resources/investor-documents",
+      "https://www.prnewswire.com/news-releases/do-we-adore-our-outdoor-spaces-icfa-releases-new-consumer-research-on-porch-and-patio-living-in-2025-302412470.html",
+      "https://www.customsmobile.com/rulings/docview?doc_id=NY+N345461"
+    ],
+    "one_sentence": "BBQ & Outdoor Cooking Stores are benefiting from 2025-2026 outdoor-living investment and high grill ownership, but traffic, promotions, tariffs and slower discretionary big-ticket purchases are keeping growth moderate.",
+    "slug": "bbq-and-outdoor-cooking-stores"
+  },
+  {
+    "title": "BBQ Charcoal Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. fuel-manufacturing niche tied to backyard grilling, premium smoking, grocery/club retail seasons and hardwood input availability.",
+    "overview": "The U.S. BBQ charcoal manufacturing industry is a concentrated, seasonal manufacturing category serving household grilling and a small foodservice market. The baseline IBISWorld file reported 2021 revenue of $1.27 billion, 31 establishments, 21 enterprises, 1,722 employees, $102 million in wages, $110 million in imports and $19 million in exports, all in 2021 dollars. A newer April 2025 IBISWorld listing via ResearchAndMarkets said industry revenue reached $1.6 billion in 2023 after a 3.2% decline that year, implying the post-pandemic grilling boom cooled but did not reverse the category's larger installed base. Current demand is supported by outdoor-living investment, holiday grilling, smokers and premium fuel formats, while volume is pressured by gas, propane, pellet and electric alternatives, private-label retail pressure, and environmental scrutiny of emissions and sourcing.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. BBQ charcoal manufacturing revenue: about $1.6 billion-$1.7 billion, based on 2023 IBISWorld/ResearchAndMarkets revenue of $1.6 billion and low-single-digit category growth signals in 2024-2026.",
+      "growth": "2025-2026 growth: low single digits for U.S. BBQ charcoal manufacturing; broader U.S. charcoal market forecasts published in 2025-2026 cite 4.5% CAGR for 2025-2034.",
+      "profit_margin": "2021 baseline profit margin: 12.3%.",
+      "employment": "2021 baseline employment: 1,722 workers; IBISWorld projected 1,915 workers by 2026.",
+      "establishments": "2021 baseline establishments: 31; IBISWorld projected continued low-single-digit growth through 2026.",
+      "trade": "2025 HS 4402 U.S. charcoal trade: imports included $104.8 million of HS 440290 other wood charcoal, $5.3 million of HS 440220 wood/shell/nut charcoal, and $5.0 million of HS 440210 bamboo charcoal; exports included $18.8 million of HS 440290 other wood charcoal.",
+      "demand_indicator": "2025 HPBA reported 59% of mid-to-high-end grill owners use charcoal or wood and 83% grill multiple times per week in summer.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $1.30 billion in 2021 dollars, using the baseline 2021 revenue of $1.27 billion and the baseline 2021-2026 projected CAGR of about 2.4%.",
+      "growth": "2022 projected growth: about +2.4% from the 2021 IBISWorld baseline projection.",
+      "context": "The baseline file itself was last updated June 25, 2021 and projected 2021-2026 revenue growth to $1.4 billion by 2026; later IBISWorld distribution text cited 2023 revenue of $1.6 billion."
+    },
+    "how_it_makes_money": "Manufacturers carbonize hardwood, wood by-products and combustible inputs, bind and package briquettes, sell lump charcoal and related wood-fuel/fire-starting products, and ship large seasonal orders to grocery chains, warehouse clubs, supercenters, home-improvement stores, wholesalers, distributors and a small restaurant/specialty BBQ channel. Revenue is concentrated in spring and summer, with pricing power strongest in premium lump, natural hardwood, flavored briquettes, smoking woods and branded products.",
+    "cost_structure": {
+      "raw_materials": "Major costs include hardwood, sawmill by-products, coal dust or mineral binders for briquettes, starch or other binders, lighter-fluid/fire-starter chemicals, bags and pallets; 2021 IBISWorld identified logging, coal mining, and mineral/phosphate mining as upstream inputs.",
+      "labor": "2021 baseline wages were $102 million, equal to about 8.0% of 2021 revenue.",
+      "energy_and_fuel": "Kiln operations, drying, packaging, trucking and petrochemical-linked inputs expose margins to crude oil, diesel and natural gas volatility; EIA's August 2025 STEO forecast Brent crude at $67 per barrel in 2025 and $51 per barrel in 2026, but 2026 spot oil volatility remained a risk.",
+      "distribution": "Large retail and wholesale buyers create freight, warehousing, slotting, promotion and working-capital costs around peak grilling season.",
+      "profit": "2021 baseline profit was $156 million, or 12.3% of revenue, but 2024-2026 margins are pressured by retailer concentration, private label, packaging/freight costs and promotional competition."
+    },
+    "major_players": [
+      "The Clorox Company / Kingsford",
+      "Royal Oak Enterprises",
+      "Duraflame / Cowboy Charcoal",
+      "B&B Charcoal",
+      "Jealous Devil",
+      "Fogo Charcoal",
+      "Private-label suppliers for grocery, club and home-improvement retailers"
+    ],
+    "current_dynamics": "The market in 2025-2026 is stable rather than explosive. Post-pandemic home cooking normalized, but the installed base of grills and smokers stayed high, supporting repeat fuel purchases. Premium users are shifting part of spend from standard briquettes toward lump charcoal, hardwood chunks, pellets, specialty woods and flavored/infused briquettes. Retailers still hold leverage because charcoal is bulky, seasonal and promotion-heavy, and Clorox's 2025 10-K shows Walmart represented 27% of total company sales across segments. Imports remain modest relative to domestic demand, but 2025 HS 4402 trade data shows import competition in lower-cost wood-charcoal products. Environmental claims, sustainable hardwood sourcing and cleaner-burning formulations are becoming more important to brand positioning.",
+    "whats_growing": [
+      "Lump charcoal and natural hardwood products, with broader U.S. charcoal-market sources in 2025-2026 citing lump charcoal as the fastest-growing segment at about 6.2% CAGR.",
+      "Premium and specialty fuels, including flavored briquettes, smoking woods, pellets, larger briquettes and restaurant-style hardwood fuels.",
+      "E-commerce and specialty BBQ channels, especially for higher-priced lump charcoal, craft woods and niche smoking fuels.",
+      "Outdoor-kitchen and smoker usage: HPBA's 2025 release said premium grill owners averaged $10,600 in outdoor-kitchen investment and 59% used charcoal or wood."
+    ],
+    "whats_shrinking": [
+      "Standard briquette share within the BBQ-charcoal mix, because consumers increasingly perceive lump charcoal as more natural and flavor-forward.",
+      "Pandemic-era surge growth, with the April 2025 IBISWorld distribution text citing a 3.2% industry revenue decline in 2023 after the 2021 rebound.",
+      "Small unbranded producers' shelf access, as national brands, retailer private label and large seasonal buyers dominate display space and promotional pricing.",
+      "Exports as a strategic focus, since 2025 HS 4402 exports were small relative to domestic demand and the baseline file already identified exports as a low-share outlet."
+    ],
+    "recent_developments": [
+      "2023: IBISWorld/ResearchAndMarkets reported U.S. BBQ charcoal manufacturing revenue reached $1.6 billion while falling 3.2% that year.",
+      "2024: Broader U.S. charcoal market estimates put the U.S. charcoal market at $3.2 billion, with briquettes at about 65% share.",
+      "2025: HPBA reported 59% of mid-to-high-end grill owners used charcoal or wood and 83% grilled multiple times per week in summer.",
+      "2025: Clorox launched Kingsford Beercoal charcoal briquettes in fiscal 2025, extending branded product innovation in grilling fuel.",
+      "2025: HS 4402 U.S. charcoal trade data showed $104.8 million of imports and $18.8 million of exports for the largest other-wood-charcoal category.",
+      "2026: U.S. charcoal market forecasts published in 2026 projected 4.5% CAGR for 2025-2034, with lump charcoal growing faster than briquettes."
+    ],
+    "outlook": "The 2026 outlook is modestly positive. Revenue should grow in low single digits as backyard grilling, outdoor kitchens, smoking and premium hardwood fuels offset slower household discretionary spending and competition from gas, propane, pellets and electric cooking. Manufacturers with reliable domestic hardwood sourcing, efficient kilns, strong retailer relationships and differentiated premium SKUs should outperform commodity briquette suppliers. Margin upside depends on input-cost stability and freight discipline; margin downside comes from promotional pressure at mass retail, private-label growth, and possible emissions or sourcing compliance costs.",
+    "themes": [
+      "Mature but resilient seasonal demand",
+      "Premiumization from briquettes to lump and hardwood fuels",
+      "Retailer concentration and promotion pressure",
+      "Sustainable sourcing and emissions scrutiny",
+      "Domestic production with modest import exposure",
+      "Outdoor living and smoker adoption",
+      "Input-cost and freight volatility"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/bbq-charcoal-manufacturing.txt",
+      "https://www.researchandmarkets.com/reports/4668362/bbq-charcoal-manufacturing-in-the-us-industry",
+      "https://hpba.org/fire-up-the-grill-celebrate-julys-national-grilling-month-with-insights-into-premium-outdoor-cooking-trends/",
+      "https://www.sec.gov/Archives/edgar/data/21076/000002107625000039/clx-20250630.htm",
+      "https://www.royaloak.com/about/",
+      "https://www.emergenresearch.com/industry-report/us-charcoal-market",
+      "https://www.tradeint.com/resources/free-hs-code-tool/united-states/hs/4402900100/",
+      "https://www.eia.gov/pressroom/releases/press573.php"
+    ],
+    "one_sentence": "BBQ charcoal manufacturers make briquettes, lump charcoal, wood chips, pellets and fire starters, selling mainly through grocery stores, wholesalers, warehouse clubs and home-improvement retailers.",
+    "slug": "bbq-charcoal-manufacturing"
+  },
+  {
+    "title": "BBQ Sauce Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. condiment manufacturing niche is shifting from mass sweet-and-smoky sauces toward premium, fusion, reduced-sugar and foodservice formats.",
+    "overview": "U.S. BBQ Sauce Production is a mature, branded-and-private-label food manufacturing industry tied to grilling, meat consumption, home cooking and restaurant menu demand. The older IBIS baseline framed the industry at $1.8 billion of 2020 revenue after a COVID-related restaurant shock, with recovery toward $2.0 billion by 2025; newer market sizing places the narrower packaged U.S. barbecue sauce market at $2.300 billion in 2025 and $2.415 billion in 2026F. Demand remains seasonal but resilient because barbecue sauce is used across meats, prepared meals, dipping occasions and foodservice recipes. The competitive center is still mainstream bottles, but the value pool is moving toward premium regional recipes, Japanese/Korean/Mexican-style barbecue flavors, sugar-conscious products, larger foodservice packs and omnichannel distribution.",
+    "key_stats": {
+      "market_size": "$2.415 billion in 2026F U.S. barbecue sauce market revenue",
+      "growth": "+5.0% in 2026F year-over-year market revenue growth",
+      "2025_market_size": "$2.300 billion in 2025 U.S. barbecue sauce market revenue",
+      "2025_growth": "+0.9% in 2025 year-over-year market revenue growth",
+      "2025_volume": "335 million standardized 17-ounce equivalent units in 2025",
+      "2026_volume": "341 million standardized 17-ounce equivalent units in 2026F",
+      "2026_blended_asp": "$7.08 per standardized 17-ounce equivalent unit in 2026F",
+      "2025_red_meat_poultry_availability": "226 pounds per U.S. consumer in 2025, USDA proxy for consumption",
+      "2026_red_meat_poultry_availability": "227 pounds per U.S. consumer in 2026F, USDA proxy for consumption",
+      "2026_sauce_ppi": "BLS/FRED mayonnaise, dressing and sauce manufacturing PPI at 351.165 in June 2026",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.235 billion in 2022 U.S. barbecue sauce market revenue, current-source historical estimate; older IBIS baseline had 2020 industry revenue of $1.818 billion in 2020 dollars",
+      "growth": "+1.1% in 2022 year-over-year market revenue growth",
+      "volume": "329 million standardized 17-ounce equivalent units in 2022",
+      "blended_asp": "$6.79 per standardized 17-ounce equivalent unit in 2022",
+      "note": "The provided IBIS file did not contain a 2022 actual; this baseline uses the current Ken Research historical series and keeps the older IBIS 2020 revenue as context."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling branded retail bottles, club-size multipacks, private-label sauces, bulk foodservice jugs, restaurant-chain formulations, e-commerce bundles and co-manufactured products. Large players monetize scale through retailer shelf space, national promotions and foodservice contracts, while smaller brands rely on premium recipes, regional authenticity, direct-to-consumer sales and specialty retail velocity.",
+    "cost_structure": "Key costs are tomato paste or puree, sweeteners such as sugar, molasses and high-fructose corn syrup, vinegar, salt, spices, smoke flavorings, preservatives, bottles, caps, labels, cartons, co-packing, labor, freight, slotting and trade promotion. The baseline IBIS structure showed 2020 profit margin at 11.4% and wages at 8.3% of revenue; 2025-2026 margin pressure is coming from sauce-manufacturing producer prices, labor, packaging, retailer promotional demands and tariff-sensitive metal or packaging inputs, partly offset by premium pricing and automation.",
+    "major_players": [
+      "Ken's Foods / Sweet Baby Ray's",
+      "The Kraft Heinz Company / Kraft, Heinz and Bull's-Eye",
+      "McCormick & Company / Stubb's and Cattlemen's",
+      "Conagra Brands / Hunt's and related sauce platforms",
+      "Kinder's",
+      "Bachan's",
+      "Lillie's Q",
+      "Private-label and regional co-manufacturers"
+    ],
+    "current_dynamics": "The category is value-led rather than penetration-led. 2024 barbecue sauce unit sales rose 6.2% in Circana-tracked center-store data cited by IFT, showing at-home cooking momentum, while 2025-2026 market forecasts point to faster dollar growth from premium mix and pricing. USDA forecasts red meat and poultry availability at 226 pounds per consumer in 2025 and 227 pounds in 2026F, supporting sauce occasions, but beef availability declines in 2026F and high cookout costs keep consumers price-sensitive. Branded leaders still control shelf visibility, yet private label, club packs, digital grocery and premium fusion brands are increasing competitive pressure.",
+    "whats_growing": "International and fusion barbecue sauces, including Korean, Japanese, Mexican-inspired, chipotle, gochujang, sweet chili and hot-honey profiles; premium bottles with higher ASPs; reduced-sugar and cleaner-label recipes; bulk foodservice sauces for chains and caterers; e-commerce discovery; and brands that can support regional barbecue credibility while scaling nationally.",
+    "whats_shrinking": "Commodity original sauces are losing relative growth share to premium and fusion variants, heavy-sugar formulas face health scrutiny, purely seasonal summer positioning is less effective than year-round dipping and meal-prep use, and low-margin private-label contracts are harder where packaging, freight and trade-promotion costs rise faster than retail price realization.",
+    "recent_developments": [
+      "2025-02: Kraft Heinz launched Heinz Flavor Tour sauces, including Korean Inspired Sweet & Tangy BBQ, nationwide.",
+      "2025-03: IFT cited Circana data showing 2024 barbecue sauce unit sales up 6.2% amid home-centric eating.",
+      "2025-06: American Farm Bureau reported the 2025 Fourth of July cookout cost at $70.92 for 10 people, with ground beef up 4.4%.",
+      "2025-08: USDA ERS projected red meat and poultry availability at 226 pounds per consumer in 2025 and 227 pounds in 2026.",
+      "2026-06: BLS/FRED sauce-manufacturing PPI reached 351.165, indicating elevated producer-price levels for adjacent sauce manufacturing.",
+      "2026-07: Ken Research sized the 2025 U.S. barbecue sauce market at $2.300 billion and forecast $2.415 billion for 2026F."
+    ],
+    "outlook": "The 2026-2031 outlook is moderately positive: revenue is forecast to rise at about 5.0% annually, reaching roughly $3.083 billion by 2031, while standardized bottle volume grows more slowly at about 1.7% annually. That implies most upside will come from price, premium mix, foodservice formats and flavor differentiation rather than a surge in basic consumption. Risks include consumer trade-down, sugar and sodium scrutiny, retailer bargaining power, shelf congestion, tomato and sweetener volatility, packaging inflation and weaker restaurant traffic if consumer spending slows.",
+    "themes": [
+      "Premiumization",
+      "Global and fusion flavors",
+      "At-home cooking",
+      "Grilling culture",
+      "Foodservice standardization",
+      "Private-label pressure",
+      "Reduced sugar and cleaner labels",
+      "Packaging and freight inflation",
+      "Regional authenticity",
+      "Omnichannel grocery"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Provided baseline file: bbq-sauce-production.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/bbq-sauce-production.txt', 'used_for': '2020 IBIS baseline revenue, margin, wage share, products and older outlook context'}",
+      "{'name': 'Ken Research, USA Barbecue Sauce Market, July 2026', 'url': 'https://www.kenresearch.com/industry-reports/usa-barbecue-sauce-market', 'used_for': '2022-2026 market size, growth, volume, ASP and outlook figures'}",
+      "{'name': 'USDA ERS, Per capita availability of red meat and poultry projected higher in 2025 and 2026, Aug. 21, 2025', 'url': 'https://www.ers.usda.gov/data-products/charts-of-note/113119', 'used_for': '2025 and 2026 meat availability demand driver'}",
+      "{'name': 'American Farm Bureau Federation, Cost of Summer Cookout Nearly Unchanged from 2024, 2025', 'url': 'https://www.fb.org/news-release/cost-of-summer-cookout-nearly-unchanged-from-2024', 'used_for': '2025 cookout cost and grocery-price pressure'}",
+      "{'name': 'Kraft Heinz, Heinz Flavor Tour press release, Feb. 26, 2025', 'url': 'https://ir.kraftheinzcompany.com/news/heinz-is-taking-fans-on-the-ultimate-flavor-tour-with-three-new-globally-inspired-sauces/3151481e-ada8-420b-a80a227', 'used_for': '2025 global-flavor product launch'}",
+      "{'name': 'Institute of Food Technologists, Home-Centric Eating Creates Market Opportunities, March 2025', 'url': 'https://www.ift.org/publications/food-technology-magazine/2025/march/features/home-centric-eating-creates-market-opportunities/', 'used_for': 'Circana-cited 2024 barbecue sauce unit sales growth'}",
+      "{'name': 'FRED, BLS Producer Price Index for Mayonnaise, Dressing, and Sauce Manufacturing, June 2026', 'url': 'https://fred.stlouisfed.org/series/PCU3119413119417', 'used_for': '2026 adjacent sauce-manufacturing producer price indicator'}",
+      "{'name': 'Keychain, The 13 Best BBQ Sauce Manufacturers and Brands, 2026', 'url': 'https://www.keychain.com/manufacturer/bbq-sauce', 'used_for': '2024-2026 brand, pricing, packaging and ingredient signals'}"
+    ],
+    "one_sentence": "BBQ sauce producers manufacture bottled sauces, bulk foodservice sauces, private-label products and related marinades for grocery, club, e-commerce, restaurant and industrial channels, with 2025-2026 growth driven more by pricing, premium mix and flavor innovation than by household penetration.",
+    "slug": "bbq-sauce-production"
+  }
+]

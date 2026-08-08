@@ -1,0 +1,448 @@
+[
+  {
+    "title": "Laboratory Casework Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. laboratory casework manufacturers make the cabinets, benches, tables, fixtures, carts, shelves and work surfaces used in research, healthcare, education, government and industrial labs.",
+    "overview": "Laboratory casework manufacturers supply fixed and modular laboratory furniture, including wood and steel cabinets, storage systems, benches, tables, counters, sinks, fixtures, shelving, carts and specialty chemical-resistant or sanitary surfaces. The 2021 IBIS baseline put U.S. industry revenue at $1.885 billion and projected recovery to roughly $2.3 billion by 2026 as R&D spending, healthcare expenditure and lab construction normalized after the 2020 COVID shock. Current 2025-2026 conditions are mixed: NIH FY2025 extramural research grants were $35.3 billion, NIH FY2025 RPG funding rose 3.0% from FY2024, Kewaunee reported FY2026 sales of $282.0 million and a $165.9 million backlog, and CBRE reported early 2026 signs of life-sciences real estate stabilization. Offsetting those positives, lab/R&D vacancy reached about 23.0% in Q4 2025, the 2026 lab/R&D construction pipeline fell to 6.0 million sq. ft., and 2025 steel and aluminum tariffs raised input-cost and import-pricing risk.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. revenue of about $2.3 billion, based on the 2021 IBIS baseline projection for Laboratory Casework Manufacturing.",
+      "growth": "2021-2026 estimated CAGR of about 4.2%, based on the 2021 IBIS baseline outlook from $1.885 billion in 2021 to about $2.3 billion in 2026.",
+      "baseline_revenue": "2021 U.S. revenue of $1.885 billion in 2021 dollars.",
+      "employment": "2021 baseline employment of 10,758 workers.",
+      "establishments": "2021 baseline establishments of 302 units.",
+      "trade": "2021 baseline imports of $936 million and exports of $441 million.",
+      "demand_signal": "FY2025 NIH extramural grants were $35.3 billion, and FY2025 NIH RPG funding was $26.503 billion, up 3.0% from FY2024.",
+      "real_estate_signal": "CBRE reported Q4 2025 life-sciences vacancy of 23.0% across major markets and a 2026 lab/R&D construction pipeline of 6.0 million sq. ft.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated U.S. revenue of about $2.0 billion, interpolated from the 2021 IBIS baseline revenue of $1.885 billion and the 2021-2026 projected recovery path.",
+      "growth": "2022 estimated growth of about 4% on the 2021 IBIS recovery trajectory.",
+      "context": "The 2022 baseline reflects post-COVID recovery assumptions, rising R&D and healthcare expenditure, and continued import competition rather than a newly published public 2022 industry census."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by bidding and fulfilling project orders for new laboratories, renovations, replacement casework, modular furniture systems, technical tables, chemical-resistant work surfaces, fixtures, carts, shelving and related installation or dealer-supported packages. Demand comes mainly from universities, hospitals, pharmaceutical and biotechnology companies, clinical research organizations, testing labs, government labs, K-12 science facilities and industrial research sites. Large projects are often specified by architects, lab planners and general contractors, then supplied through dealer networks or direct purchase orders.",
+    "cost_structure": {
+      "materials": "2026 cost exposure is dominated by steel, stainless steel, wood, laminate, phenolic resin, epoxy resin, hardware, sinks, fixtures, packaging and purchased components; 2025 tariffs lifted steel and aluminum import duties from 25% to 50% effective June 4, 2025, pressuring metal-intensive products.",
+      "labor": "Manufacturing labor, engineering, drafting, project management, field coordination and installation support are important because lab casework is often customized to building plans, safety requirements and utilities.",
+      "freight_and_installation": "Freight, warehousing, site delivery, dealer coordination and installation timing matter because products are bulky and tied to construction schedules.",
+      "public_comparable": "Kewaunee's FY2026 cost of products sold was $201.6 million on $282.0 million of sales, implying a 2026 gross margin of 28.5%; FY2026 operating expenses were $63.7 million, or 22.6% of sales.",
+      "margin_context": "The 2021 IBIS baseline reported an industry profit margin of 2.6% in 2021 after the COVID disruption; Kewaunee's FY2026 results show higher gross margin but still meaningful pressure from project timing, lower manufacturing volumes, higher inputs and tariffs."
+    },
+    "major_players": [
+      "{'name': 'Kewaunee Scientific Corporation', 'note': 'Public U.S. laboratory furniture and infrastructure supplier; FY2026 sales were $282.0 million, including $214.9 million in the Lab Products Group and $67.1 million in International.'}",
+      "{'name': 'Mott Manufacturing', 'note': 'North American laboratory casework, flexible furniture, fume hood and work-surface manufacturer; its 2024 history page cited a $10 million investment in its steel facility.'}",
+      "{'name': 'Hamilton Laboratory Solutions', 'note': 'Established laboratory furniture and fume hood supplier serving education, healthcare, pharmaceutical, industrial and government projects.'}",
+      "{'name': 'TMI Systems Corporation', 'note': 'Supplier of plastic laminate laboratory casework and institutional casework through regional representatives and dealers.'}",
+      "{'name': 'Diversified Woodcrafts', 'note': 'Laboratory furniture and science-room casework supplier referenced in the baseline for specialty work surfaces.'}",
+      "{'name': 'Case Systems Inc.', 'note': 'Laboratory and institutional casework supplier referenced in the baseline for antimicrobial and specialty-surface innovation.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is no longer a simple post-pandemic rebound. NIH FY2025 grant dollars rose modestly, federal FY2024 R&D and R&D plant budget authority totaled $199.3 billion, and life-sciences employment reached 2.1 million in March 2025 according to CBRE. However, lab real estate remains oversupplied: CBRE reported Q4 2025 vacancy at 23.0% and said the 2026 pipeline had fallen to 6.0 million sq. ft., well below the 2023 peak of more than 37.0 million sq. ft. For casework makers, that means near-term replacement, renovation, healthcare, education, government and build-to-suit projects are healthier than speculative lab shell demand. Input costs are also a central issue after the 2025 steel and aluminum tariff increase to 50%.",
+    "whats_growing": [
+      "2025-2026 modular, flexible and mobile lab furniture that lets users reconfigure oversupplied or repurposed lab space.",
+      "2025-2026 healthcare, biopharma, government and university renovations where funded research programs still require compliant lab environments.",
+      "2025-2026 biosafety, containment and broader lab-products bundles, reflected in Kewaunee's Nu Aire integration and FY2026 Lab Products Group structure.",
+      "2026 build-to-suit and fully leased lab projects as speculative lab construction slows.",
+      "2025-2026 chemical-resistant, sanitary, ergonomic and durable work surfaces used in higher-spec research and testing environments."
+    ],
+    "whats_shrinking": [
+      "2025-2026 speculative life-sciences lab construction demand as vacancy remains around 23.0% in major markets.",
+      "2025-2026 large early-stage biotech fit-outs that depend on fragile venture funding and IPO windows.",
+      "2025-2026 low-margin import-reliant metal casework where 50% steel and aluminum tariffs raise landed costs and quoting uncertainty.",
+      "2026 new lab/R&D construction pipeline volume, with CBRE citing only 6.0 million sq. ft. under construction versus more than 37.0 million sq. ft. at the 2023 peak.",
+      "2025-2026 long-cycle international project visibility where Kewaunee reported FY2026 India project cancellations and timing shifts."
+    ],
+    "recent_developments": [
+      "2025-02-06: CBRE reported 12.1 million sq. ft. of U.S. lab construction in progress at Q4 2024, down roughly two-thirds from the 2024 peak.",
+      "2025-06-03: The White House raised Section 232 steel and aluminum tariffs from 25% to 50% effective June 4, 2025.",
+      "2026-01-30: CBRE reported Q4 2025 life-sciences vacancy declined 30 basis points to 23.0%, the first decline since Q2 2022.",
+      "2026-03-12: NIH reported FY2025 extramural grants of $35.3 billion and FY2025 RPG funding of $26.503 billion, up 3.0% from FY2024.",
+      "2026-06-23: Kewaunee reported FY2026 sales of $282.0 million, up 17.3% from FY2025, and a FY2026 backlog of $165.9 million."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but uneven. Industry revenue is best framed near the 2021 IBIS baseline projection of about $2.3 billion for 2026, supported by healthcare research, NIH-funded labs, university renovations, pharmaceutical onshoring and ongoing safety-compliance needs. Growth is constrained by reduced speculative lab construction, high vacancy in core life-sciences markets, dealer and contractor timing risk, and tariff-driven metal-cost pressure. Manufacturers with flexible product lines, containment-adjacent offerings, dealer reach, strong sourcing and renovation exposure should outperform commodity casework suppliers tied mainly to new speculative labs.",
+    "themes": [
+      "Lab construction normalization",
+      "R&D funding sensitivity",
+      "Healthcare and biopharma demand",
+      "University and government labs",
+      "Import competition",
+      "Steel and aluminum tariff pressure",
+      "Flexible and modular lab design",
+      "Dealer and project backlog management",
+      "Renovation over speculative newbuilds",
+      "Containment and biosafety adjacency"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline file: Laboratory Casework Manufacturing, IBISWorld-derived text, last updated 2021-02-22', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/laboratory-casework-manufacturing.txt'}",
+      "{'title': 'NIH Fiscal Year 2025 By the Numbers: Extramural Grant Investments in Research, 2026-03-12', 'url': 'https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/03/fiscal-year-2025-by-the-numbers-extramural-grant-investments-in-research'}",
+      "{'title': 'NCSES Federal R&D Funding, by Budget Function 2024-2026, 2026-03-10', 'url': 'https://ncses.nsf.gov/data-collections/federal-budget-function/2024-2026'}",
+      "{'title': 'CBRE Green Shoots for US Life Sciences Real Estate in Q4, 2026-01-30', 'url': 'https://www.cbre.com/press-releases/green-shoots-for-us-life-sciences-real-estate-in-q4'}",
+      "{'title': 'CBRE U.S. Real Estate Market Outlook 2026: Life Sciences', 'url': 'https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/life-sciences'}",
+      "{'title': 'Kewaunee Scientific FY2026 results press release filed with SEC, 2026-06-23', 'url': 'https://www.sec.gov/Archives/edgar/data/55529/000005552926000017/prfy26q4earningsrelease.htm'}",
+      "{'title': 'White House proclamation adjusting steel and aluminum imports, 2025-06-03', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/'}",
+      "{'title': 'Mott Manufacturing history and 2024 facility investment', 'url': 'https://www.mott.ca/history/'}"
+    ],
+    "one_sentence": "The industry is a small, project-driven manufacturing niche tied to lab construction, R&D budgets, healthcare research, university funding and import-sensitive steel, wood, laminate, resin and installation costs.",
+    "slug": "laboratory-casework-manufacturing"
+  },
+  {
+    "title": "Laboratory Fume Hoods Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, specialized U.S. manufacturing industry supplying chemical-containment ventilation equipment for laboratories, research facilities, universities and regulated industrial sites.",
+    "overview": "The industry manufactures ventilation devices that limit exposure to hazardous fumes, vapors, gases and dusts in laboratories. The 2020 IBIS baseline put U.S. industry revenue at $562.7 million after a 14.3% COVID-era decline and projected recovery to $648.4 million in 2025, a 2020-2025 CAGR of 2.9%. Using that 2025 baseline and the 2026 global fume hood growth benchmark of 4.36%, 2026 U.S. manufacturing revenue is estimated at $676.7 million. Demand is concentrated in pharmaceutical and biotechnology labs, academic research, laboratory testing, healthcare, chemical and industrial R&D, and government facilities. Current demand is mixed: U.S. R&D spending is large and rising, with NCSES estimating total U.S. R&D performance at $993.0 billion in 2024, but life-sciences real estate entered 2026 with high lab vacancy and a sharply reduced construction pipeline, shifting procurement toward build-to-suit projects, retrofits, replacement hoods and energy-saving upgrades.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. manufacturing revenue: $676.7 million; 2025 baseline U.S. manufacturing revenue: $648.4 million",
+      "growth": "2025-2026 estimated growth: 4.36%; 2020-2025 baseline CAGR: 2.9%",
+      "global_market": "2025 global fume hood market estimates range from $631.88 million to $681.58 million depending on source; 2026 Mordor estimate: $657.85 million",
+      "u_s_product_market": "2025 U.S. fume hood product market estimate: $192.98 million; 2035 forecast: $298.97 million",
+      "r_and_d_driver": "2024 U.S. R&D performance estimate: $993.0 billion; 2023 U.S. R&D performance: $937.0 billion",
+      "nih_driver": "FY2025 NIH appropriation: $48.5 billion; FY2025 NIH extramural grants: $35.3 billion",
+      "lab_real_estate": "Q4 2025 U.S. life-sciences vacancy: 23.1%; Q4 2025 construction pipeline: just under 8.0 million sq. ft.; 2026 CBRE lab/R&D pipeline: 6.0 million sq. ft.",
+      "input_costs": "2025 steel mill products PPI annual average: 298.426; May 2026 steel mill products PPI: 348.530",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated U.S. industry revenue: $595.8 million, modeled from the 2020 IBIS revenue base of $562.7 million and the 2020-2025 projected CAGR of 2.9%",
+      "growth": "2022 estimated annual growth: 2.9% under the IBIS 2020-2025 recovery path",
+      "profit_margin": "2020 EBIT margin: 3.7%; 2025 IBIS projected EBIT margin: 5.6%",
+      "employment": "2020 employment: 3,221 workers; 2025 IBIS projected employment: 3,538 workers",
+      "trade": "2020 exports: $74.2 million; 2025 IBIS projected exports: $83.0 million; 2020 imports: $192.4 million; 2025 IBIS projected imports: $231.9 million"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, fabricating and selling fume hoods, airflow-control components, lab casework integrations, work surfaces, ductless filtration systems, accessories, installation support and replacement parts. Standard benchtop hoods provide volume, while custom hoods, VAV systems, ductless filtered models, corrosion-resistant materials and project engineering raise average selling prices. Sales are usually made directly to institutions, contractors, lab planners, distributors and scientific-equipment channels rather than through consumer retail.",
+    "cost_structure": "Major costs are sheet steel, stainless steel, polypropylene or fiberglass liners, glass sashes, blowers, filters, valves, electrical controls, sensors, powder coating, freight, skilled fabrication labor, engineering, sales and installation support. The 2020 baseline reported wages of $158.0 million, equal to 28.1% of 2020 revenue, and projected wages of $177.8 million by 2025. Profit was compressed to a 3.7% EBIT margin in 2020 and projected to recover to 5.6% in 2025. Steel and metals remained a 2026 margin risk, with steel mill products PPI rising from a 2025 annual average of 298.426 to 348.530 in May 2026.",
+    "major_players": [
+      "Thermo Fisher Scientific",
+      "Labconco Corporation",
+      "Kewaunee Scientific Corporation",
+      "AirClean Systems",
+      "Flow Sciences",
+      "Terra Universal",
+      "Sentry Air Systems",
+      "NuAire / Kewaunee Lab Products Group",
+      "Erlab",
+      "Esco Lifesciences"
+    ],
+    "current_dynamics": "2025-2026 conditions favor replacement, compliance, renovation and energy-efficiency projects more than speculative new lab buildouts. Life-sciences landlords face elevated vacancy, but pharmaceutical, biotech, academic, clinical and advanced-manufacturing users continue to fund high-quality laboratory space. Manufacturers with U.S. production, dealer networks and short lead times benefit from federal and institutional procurement preferences, while import competition remains strongest in simpler, lower-spec equipment. The technical center of gravity is shifting from constant-air-volume ducted hoods toward VAV, low-flow, ductless and filtered systems that reduce HVAC loads and support carbon-reduction goals.",
+    "whats_growing": "VAV and low-flow hoods, ductless filtered hoods, benchtop systems for teaching and research labs, corrosion-resistant polypropylene and stainless-steel units, IoT-enabled airflow monitoring, retrofit installations in older academic buildings, build-to-suit pharmaceutical and cGMP facilities, and U.S.-made equipment aligned with 2025 Buy America procurement preferences.",
+    "whats_shrinking": "Speculative lab construction, undifferentiated constant-air-volume replacements, low-margin commodity hoods, custom projects tied to delayed early-stage biotech leasing, and export opportunities where lower-cost Asian and Mexican production competes on price.",
+    "recent_developments": [
+      "2024-11: Kewaunee completed the $55.0 million acquisition of Nu Aire, expanding its laboratory airflow and containment platform.",
+      "2025-03: Labconco marked its 100th year and emphasized U.S.-made fume hoods, biosafety cabinets and sustainable lab equipment.",
+      "2025-09: Kewaunee reported FY2026 Q1 sales of $71.104 million, up 46.9% from FY2025 Q1.",
+      "2026-02: NCSES reported U.S. R&D totaled $937.0 billion in 2023 and estimated $993.0 billion for 2024.",
+      "2026-04: SNS Insider estimated the 2025 U.S. fume hood market at $192.98 million and projected $298.97 million by 2035.",
+      "2026-06: CBRE said the 2026 U.S. lab/R&D construction pipeline fell to 6.0 million sq. ft., the lowest level since early 2019."
+    ],
+    "outlook": "The 2026-2031 outlook is moderate growth with uneven end-market timing. Public and private R&D budgets, NIH-funded biomedical research, pharmaceutical manufacturing onshoring and university lab renovations support demand, while elevated 2025-2026 lab vacancy limits speculative new construction. The best-positioned manufacturers will sell energy-saving systems, ductless retrofit solutions, certified performance, short domestic lead times and integrated lab-environment packages. Margin risk remains tied to 2026 steel and nonferrous-metal costs, project delays and price competition from imported hoods.",
+    "themes": [
+      "R&D spending as the core demand driver",
+      "Energy-efficient lab ventilation",
+      "Ductless and filtered retrofit growth",
+      "Life-sciences real estate reset",
+      "U.S.-made procurement advantage",
+      "Steel and component cost volatility",
+      "Compliance with ANSI/ASSP Z9.5-2022 and ANSI/ASHRAE 110-2016(R2025)",
+      "Consolidation around broader laboratory infrastructure platforms"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/laboratory-fume-hoods-manufacturing.txt'}",
+      "{'name': 'NCSES National Patterns of R&D Resources 2023-2024', 'url': 'https://ncses.nsf.gov/data-collections/national-patterns/2023-2024'}",
+      "{'name': 'NIH FY2025 extramural grant investments', 'url': 'https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/03/fiscal-year-2025-by-the-numbers-extramural-grant-investments-in-research'}",
+      "{'name': 'Mordor Intelligence Fume Hood Market 2026-2031', 'url': 'https://www.mordorintelligence.com/industry-reports/fume-hood-market'}",
+      "{'name': 'SNS Insider / GlobeNewswire Fume Hood Market 2025-2035', 'url': 'https://www.globenewswire.com/news-release/2026/04/07/3268832/0/en/fume-hood-market-size-to-reach-usd-1-132-million-by-2035-owing-to-rising-laboratory-safety-regulations-and-pharma-investments-research-by-sns-insider.html'}",
+      "{'name': 'Cushman & Wakefield Life Sciences Update February 2026', 'url': 'https://www.cushmanwakefield.com/en/united-states/news/2026/02/life-sciences-sector-enters-measured-growth-phase'}",
+      "{'name': 'CBRE U.S. Real Estate Market Outlook 2026 Life Sciences', 'url': 'https://www.cbre.com/insights/books/us-real-estate-market-outlook-2026/life-sciences'}",
+      "{'name': 'ANSI Blog ANSI/ASSP Z9.5-2022 Laboratory Ventilation', 'url': 'https://blog.ansi.org/ansi/ansi-assp-z9-5-2022-laboratory-ventilation/'}",
+      "{'name': 'ANSI Webstore ANSI/ASHRAE 110-2016(R2025)', 'url': 'https://webstore.ansi.org/standards/ashrae/ansiashrae1102016r2025'}",
+      "{'name': 'Labconco Proudly Made in America', 'url': 'https://www.labconco.com/detail/articles/labconco-corporation-proudly-made-in-america'}",
+      "{'name': 'Kewaunee Scientific Nu Aire acquisition press release', 'url': 'https://www.prnewswire.com/news-releases/kewaunee-scientific-corporation-completes-acquisition-of-nu-aire-302294066.html'}",
+      "{'name': 'BLS/FRED Steel Mill Products PPI WPU1017', 'url': 'https://fred.stlouisfed.org/series/WPU1017'}"
+    ],
+    "one_sentence": "Laboratory fume hood manufacturers sell ducted, ductless, benchtop, floor-mounted and custom containment systems whose demand rises with 2025-2026 lab construction, R&D spending, bioscience investment and safety-compliance replacement cycles.",
+    "slug": "laboratory-fume-hoods-manufacturing"
+  },
+  {
+    "title": "Laboratory Information Management Systems",
+    "sector": "Technology & Digital",
+    "one_liner": "LIMS vendors sell the software backbone that labs use to track samples, automate workflows, preserve data integrity and prove compliance.",
+    "overview": "Laboratory Information Management Systems companies develop, configure, host and support software used by laboratories to manage samples, tests, instruments, workflows, quality records, audit trails, reporting and regulatory documentation. The baseline IBIS file described a US niche with 2020 revenue of $460.1 million, 2020 profit margin of 9.4%, 2020 employment of 2,174 workers and a 2025 revenue forecast of $555.6 million. Current 2025–2026 market sources point to a larger and faster-growing US opportunity as LIMS is increasingly bundled with services, cloud hosting, ELN, SDMS, LES, analytics and compliance modules. Arizton valued the US LIMS market at $735.33 million in 2024 and projected $1.30 billion in 2030, a 2024–2030 CAGR of 10.02%; applying that path implies an estimated US market size of about $809 million in 2025 and $890 million in 2026.",
+    "key_stats": {
+      "market_size": "2026 estimated US market size: $890 million, derived from Arizton's 2024 US value of $735.33 million and 2024–2030 CAGR of 10.02%.",
+      "growth": "2024–2030 US CAGR: 10.02%.",
+      "global_market_size": "2025 global LIMS market estimates vary by scope: $1.48 billion, $2.08 billion and $2.88 billion across major 2025–2026 market reports.",
+      "north_america_share": "2025 North America share: 43.7% to 45.37% of global LIMS revenue in cited 2026 reports.",
+      "cloud_share": "2025 cloud-based deployment share: 43.85% of global LIMS revenue in Grand View Research's 2026 report.",
+      "services_share": "2025 services component share: 58.5% of global LIMS revenue in Grand View Research's 2026 report.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: $495.7 million, calculated from the baseline IBIS 2020 revenue of $460.1 million using its 2020–2025 forecast CAGR of 3.8%.",
+      "growth": "2022 baseline growth assumption: 3.8%, from the baseline IBIS 2020–2025 forecast CAGR.",
+      "context": "The 2022 baseline reflects the narrower IBIS industry definition of LIMS software developers and excludes some broader services, hosting and adjacent informatics revenue captured by newer market studies."
+    },
+    "how_it_makes_money": "Operators earn revenue from perpetual software licenses, SaaS subscriptions, cloud hosting, implementation projects, configuration and validation work, instrument and enterprise-system integrations, support and maintenance contracts, training, managed services, analytics modules, ELN/SDMS/LES extensions and industry-specific templates for regulated labs.",
+    "cost_structure": "Costs are dominated by skilled labor for software engineering, product management, implementation consulting, validation, customer support and sales. Other major costs include cloud infrastructure and data hosting, cybersecurity, third-party software and database licenses, marketing and trade shows, professional services subcontractors, insurance, compliance documentation, rent and corporate overhead. Profitability improves when vendors shift customers toward reusable SaaS configurations, standardized integrations and subscription renewals, but heavy customization, long validation cycles and support-intensive regulated customers can compress margins.",
+    "major_players": [
+      "Thermo Fisher Scientific",
+      "LabWare",
+      "LabVantage Solutions",
+      "STARLIMS",
+      "Agilent Technologies",
+      "LabLynx",
+      "CloudLIMS",
+      "Illumina",
+      "Siemens",
+      "Xybion Autoscribe Informatics",
+      "Confience",
+      "Datacor Baytek"
+    ],
+    "current_dynamics": "Demand is being pulled by higher lab data volumes, tighter expectations for traceability and audit readiness, pressure to reduce manual entry errors, multi-site lab operations, digital transformation in pharma and biotech, and modernization in food, environmental, chemical and clinical testing labs. The competitive axis has moved from basic sample tracking toward cloud deployment, validated SaaS, instrument connectivity, ELN/SDMS/LES integration, AI-assisted analytics, workflow automation and faster implementation for smaller labs.",
+    "whats_growing": "Cloud-hosted and SaaS LIMS, services-led implementation revenue, AI-assisted data review, predictive analytics, workflow automation, food-safety and environmental testing configurations, CRO/CDMO use cases, pharma and biotech R&D workflows, instrument integration, cybersecurity and ISO/21 CFR Part 11 data-integrity capabilities are growing in 2025–2026.",
+    "whats_shrinking": "Standalone and heavily on-premise LIMS deployments are losing share as labs prefer browser-based, cloud-hosted and subscription models. Custom one-off implementations remain necessary for complex labs but face pressure from prevalidated SaaS templates, lower total-cost-of-ownership demands and faster go-live expectations. Manual spreadsheet-based sample tracking and disconnected legacy systems continue to be displaced.",
+    "recent_developments": [
+      "2024-10: Xybion launched Xybion LIMS 10.0, a modern SaaS LIMS built on Autoscribe Informatics capabilities and positioned for regulated laboratories.",
+      "2025-03: LabVantage released LabVantage 8.9 with faster database handling, automation, improved compliance tools and AI-oriented SaaS 2.0 features.",
+      "2025-03: LabWare expanded its SaaS portfolio with LabWare ASSURE, adding a food-safety and quality-focused SaaS LIMS alongside QAQC and GROW offerings.",
+      "2025-05: Datacor acquired Baytek International, expanding its process manufacturing software suite into LIMS and QC software.",
+      "2025-06: Confience acquired Labsoft to expand its SaaS LIMS footprint and strengthen its position in Latin America and global laboratory data management.",
+      "2026-06: Thermo Fisher released SampleManager LIMS 21.3 SP2 with cloud-hosted deployment updates, usability improvements and more than 25 quality fixes."
+    ],
+    "outlook": "The US LIMS market is expected to remain in growth mode through 2030, with 2026 demand supported by recurring SaaS adoption, regulatory compliance needs, lab automation and modernization of legacy informatics estates. Growth should outpace the older IBIS 2020–2025 forecast because newer market definitions include more cloud, services and adjacent lab informatics revenue. Risks include long sales cycles, validation burden, cybersecurity and privacy concerns, integration complexity, buyer budget scrutiny and competition from broader enterprise software, in-house IT teams and lab automation platforms.",
+    "themes": [
+      "Cloud migration",
+      "SaaS subscriptions",
+      "AI-assisted laboratory analytics",
+      "Regulatory compliance",
+      "Data integrity",
+      "Instrument integration",
+      "ELN and SDMS convergence",
+      "Workflow automation",
+      "Food safety testing",
+      "Pharma and biotech R&D",
+      "Environmental testing",
+      "Cybersecurity",
+      "Legacy system replacement"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBIS-style file: laboratory-information-management-systems.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/laboratory-information-management-systems.txt', 'used_for': '2020 baseline revenue, profit margin, employment, product segmentation and 2020–2025 forecast path.'}",
+      "{'name': 'Arizton via ResearchAndMarkets, U.S. Laboratory Information Management System Market - Focused Insights 2025-2030', 'url': 'https://www.researchandmarkets.com/report/united-states-laboratory-information-system-market', 'used_for': '2024 US market value of $735.33 million, 2030 forecast of $1.30 billion and 2024–2030 CAGR of 10.02%.'}",
+      "{'name': 'Arizton, US Laboratory Information Management System Market Report', 'url': 'https://www.arizton.com/market-reports/us-laboratory-information-management-system-market', 'used_for': 'US market value, growth rate and publication/update timing.'}",
+      "{'name': 'MarketsandMarkets via GlobeNewswire, Laboratory Information Management Systems Market Size Expected to Reach USD 5.19 Billion by 2030', 'url': 'https://www.globenewswire.com/news-release/2026/06/26/3318323/0/en/laboratory-information-management-systems-lims-market-size-expected-to-reach-usd-5-19-billion-by-2030-marketsandmarkets.html', 'used_for': '2025 global market size of $2.88 billion, 2030 forecast of $5.19 billion and 2025–2030 CAGR of 12.5%.'}",
+      "{'name': 'Fortune Business Insights, Laboratory Information Management System Market Size, Share & Industry Analysis', 'url': 'https://www.fortunebusinessinsights.com/laboratory-information-management-system-lims--114329', 'used_for': '2025 global value of $1.48 billion, 2026 global value of $1.53 billion, 2034 forecast, North America 2025 share and named key players/developments.'}",
+      "{'name': 'Grand View Research, Laboratory Information Management System Market Report 2026-2033', 'url': 'https://www.grandviewresearch.com/industry-analysis/laboratory-information-management-system-lims-market', 'used_for': '2025 global value of $2.1 billion, 2026 value of $2.2 billion, 2026–2033 CAGR of 6.6%, cloud share and services share.'}",
+      "{'name': 'LabVantage, LabVantage Solutions Unveils Version 8.9', 'url': 'https://www.labvantage.com/press-release/labvantage-solutions-unveils-version-8-9-of-its-industry-leading-lims-platform-to-improve-lab-productivity-and-efficiency/', 'used_for': 'March 2025 product release and AI/SaaS 2.0 positioning.'}",
+      "{'name': 'LabWare, LabWare Showcases the Future of Laboratory Informatics with Expanded SaaS LIMS', 'url': 'https://www.labware.com/blog/expanded-saas-lims?hs_amp=true', 'used_for': 'March 2025 LabWare ASSURE and SaaS portfolio expansion.'}",
+      "{'name': 'Datacor, Datacor Acquires Baytek International', 'url': 'https://www.datacor.com/resources/datacor-acquires-baytek-international', 'used_for': 'May 2025 acquisition and expansion into LIMS/QC software.'}",
+      "{'name': 'Confience, Confience Acquires Labsoft', 'url': 'https://www.confience.io/news/confience-acquires-labsoft-uniting-two-purpose-built-teams-to-create-a-global-lims-leader', 'used_for': 'June 2025 acquisition and SaaS LIMS positioning.'}",
+      "{'name': 'Thermo Fisher Scientific Digital Science Resource Center Announcements', 'url': 'https://resource.digital.thermofisher.com/announcements.aspx', 'used_for': 'June 2026 SampleManager LIMS 21.3 SP2 release and cloud-hosted deployment update.'}",
+      "{'name': 'Thermo Fisher Scientific, SampleManager LIMS Software', 'url': 'https://www.thermofisher.com/us/en/home/digital-solutions/lab-informatics/samplemanager-lims.html', 'used_for': 'SampleManager LIMS capabilities, cloud/on-prem deployment and integrated SDMS/ELN/LES functionality.'}"
+    ],
+    "one_sentence": "The US Laboratory Information Management Systems industry is growing as clinical, pharmaceutical, biotech, environmental, food-safety and industrial labs replace manual or legacy systems with cloud, SaaS, instrument-connected and AI-assisted platforms.",
+    "slug": "laboratory-information-management-systems"
+  },
+  {
+    "title": "Laboratory Supply Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "A mature B2B distribution market selling lab instruments, consumables and scientific supplies into research, testing, healthcare, education and industrial labs.",
+    "overview": "The industry wholesales laboratory, scientific and school equipment and supplies, excluding wholesalers mainly focused on medical, hospital and dental equipment. Core customers include biotech and pharmaceutical companies, diagnostic and medical laboratories, hospitals, universities, government facilities, industrial testing labs, veterinary practices and schools. The 2022 baseline showed a mature, moderately concentrated industry with revenue of $25.0 billion and a 4.8% profit margin. By 2025, IBISWorld’s market-size page put the US market at $30.4 billion, up 1.4% in 2025, with a 2.3% CAGR from 2020 to 2025. Demand is still supported by high national R&D spending, biomedical research grants, clinical testing volumes and quality-control regulation, but wholesalers face margin pressure from manufacturer direct sales, Amazon-style procurement, competitive bidding, freight and wage costs, and uneven academic/government lab budgets.",
+    "key_stats": {
+      "market_size": "2025: $30.4 billion",
+      "growth": "2025: 1.4% market-size growth",
+      "five_year_growth": "2020-2025: 2.3% CAGR",
+      "prior_year_market_size": "2024: $29.9 billion",
+      "prior_year_growth": "2024: 0.9% growth",
+      "broader_us_rd_spending": "2023: $937 billion in US R&D performance; 2024 estimate: $993 billion",
+      "federal_rd_obligations": "FY2024: $194.2 billion; preliminary FY2025: $194.1 billion",
+      "nih_research_grants": "FY2025: $35.3 billion in NIH extramural grants",
+      "thermo_fisher_revenue": "2025: $44.56 billion company revenue, up 4%; organic revenue up 2%",
+      "avantor_revenue": "2025: $6.55 billion company net sales, down 3.4%; organic sales down 2.8%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $24.998 billion revenue in 2022 dollars",
+      "growth": "2022: 1.5% annual revenue growth; 2017-2022: -0.6% CAGR",
+      "profit": "2022: $1.2 billion EBIT",
+      "profit_margin": "2022: 4.8% of revenue",
+      "industry_gross_product": "2022: $4.714 billion",
+      "establishments": "2022: 3,287 establishments",
+      "enterprises": "2022: 2,779 enterprises",
+      "employment": "2022: 38,714 employees",
+      "wages": "2022: $3.357 billion",
+      "forecast_at_baseline": "2022-2027: revenue projected to rise at a 2.6% CAGR to $28.4 billion"
+    },
+    "how_it_makes_money": {
+      "core_model": "Wholesalers buy lab instruments, consumables, reagents, glassware, plastics, safety supplies and educational lab products from manufacturers and resell them to institutional and commercial labs at a markup.",
+      "largest_product_line": "2022: laboratory equipment and supplies were 61.7% of industry revenue.",
+      "other_product_lines": [
+        "2022: other professional equipment was 15.0% of revenue",
+        "2022: scientific equipment and supplies were 10.6% of revenue",
+        "2022: school equipment and supplies were 5.8% of revenue",
+        "2022: veterinary equipment and supplies excluding medicines were 5.1% of revenue",
+        "2022: engineers' and architects' supplies were 1.8% of revenue"
+      ],
+      "services": "Revenue is supported by catalog and e-commerce ordering, contract pricing, inventory availability, kitting, cold-chain or regulated handling, technical support, private-label supplies and multi-site procurement programs."
+    },
+    "cost_structure": {
+      "profit": "2022: EBIT margin was 4.8%; margins remain exposed to competitive bidding and inflation.",
+      "largest_costs": "Purchases of finished goods are the dominant cost because the industry is a resale and distribution business.",
+      "labor": "2022: wages were $3.357 billion; staffing covers sales, procurement, technical support, warehousing and logistics.",
+      "logistics": "Freight, warehousing, cold-chain handling and inventory carrying costs are important margin variables, especially for bulky instruments, chemicals and temperature-sensitive products.",
+      "technology_and_sales": "Costs include e-commerce platforms, catalog systems, ERP procurement integrations, field sales teams and customer service.",
+      "margin_pressure": "2025: Avantor cited lower volume, inflationary pressure, higher freight costs and competitive intensity as drags on its lab-solutions business."
+    },
+    "major_players": [
+      "Thermo Fisher Scientific / Fisher Scientific",
+      "Avantor / VWR",
+      "Thomas Scientific",
+      "Cole-Parmer / Antylia Scientific",
+      "DWK Life Sciences",
+      "Grainger / Zoro laboratory supply channels"
+    ],
+    "current_dynamics": "The market has normalized after the COVID testing and vaccine supply surge, but it is not shrinking outright. 2025 growth is being driven by ongoing biopharma, industrial testing, diagnostics and R&D activity, while academic and government customers are more cautious because of funding uncertainty. Thermo Fisher reported 2025 organic growth of 2% and growth in pharma/biotech and industrial/applied markets, partly offset by lower COVID-related demand and weaker academic/government demand. Avantor’s 2025 lab-solutions sales fell organically by 3.2%, pointing to softer consumables, equipment and instrument demand at some customers. The FDA’s 2024 LDT rule created a possible compliance-driven demand cycle for clinical labs, but the rule was vacated in March 2025 and reverted in September 2025, reducing that regulatory tailwind. Federal R&D obligations were roughly flat in preliminary FY2025 data, while total US R&D spending continued to rise through the 2024 estimate.",
+    "whats_growing": [
+      "2025: biopharma, biotech and industrial/applied lab demand grew at Thermo Fisher, supporting higher-value instruments, bioprocessing supplies and analytical workflows.",
+      "FY2025: NIH awarded $35.3 billion in extramural grants, supporting university, hospital and medical-school purchasing of lab supplies.",
+      "2024 estimate: US R&D performance reached $993 billion, supporting long-run demand for scientific instruments, consumables and testing supplies.",
+      "2025: quality-control, environmental, food, pharmaceutical and materials testing continued to support recurring consumables demand.",
+      "2025-2026: automation, mass spectrometry, cryo-EM, single-use bioreactors and integrated procurement platforms remained growth categories for large suppliers."
+    ],
+    "whats_shrinking": [
+      "2025: COVID vaccine, therapy and testing-related product demand continued to decline from pandemic highs.",
+      "2025: academic and government demand softened at major suppliers amid US funding uncertainty and cautious purchasing.",
+      "2025: Avantor reported weaker demand for consumables, equipment and instrumentation in its Total Science Solutions business.",
+      "2025: e-commerce and manufacturer-direct sales continued to bypass traditional wholesalers and compress distribution margins.",
+      "2025: clean-room and third-party consumables demand was weaker in Avantor’s Bioscience Production segment."
+    ],
+    "recent_developments": [
+      "Apr 2025: IBISWorld listed the US Laboratory Supply Wholesaling market at $30.4 billion for 2025, up 1.4%.",
+      "May 2025: FDA’s LDT phaseout would have begun MDR, correction/removal and complaint-file expectations, but the rule was later vacated.",
+      "Sep 2025: FDA reverted LDT regulatory text after a federal district court vacated the May 2024 LDT final rule on Mar. 31, 2025.",
+      "FY2025: NIH awarded $35.3 billion in competing and noncompeting extramural biomedical research grants.",
+      "Jan 2026: Thermo Fisher reported 2025 revenue of $44.56 billion, up 4%, with 2% organic growth.",
+      "Feb 2026: Avantor reported 2025 net sales of $6.55 billion, down 3.4%, citing lower lab consumables, equipment and instrumentation demand."
+    ],
+    "outlook": "The 2026 outlook is steady but uneven. Baseline demand should be supported by biomedical research, private-sector R&D, clinical diagnostics, industrial quality-control testing and recurring consumables replacement. Upside comes from biotech funding recovery, lab automation, regulated testing, reshoring or diversification of life-science supply chains, and high-value analytical instruments. Downside comes from federal grant delays or reductions, high customer price sensitivity, manufacturer direct channels, soft academic purchasing, reduced COVID-related volumes and cost inflation in freight and labor. A reasonable current read is low-single-digit annual industry growth, with larger scaled distributors gaining share when customers value procurement breadth, availability and compliance support.",
+    "themes": [
+      "Post-COVID demand normalization",
+      "Biopharma and diagnostics resilience",
+      "Federal research funding uncertainty",
+      "E-commerce and manufacturer-direct bypass",
+      "Lab automation and high-end analytical instruments",
+      "Margin pressure from freight, wages and competitive bidding",
+      "Recurring consumables versus cyclical equipment purchases",
+      "Compliance and quality-control testing demand"
+    ],
+    "data_year": "2025 with 2026 source updates",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/laboratory-supply-wholesaling-in-the-us.txt",
+      "https://www.ibisworld.com/industry-statistics/market-size/laboratory-supply-wholesaling-united-states/",
+      "https://www.researchandmarkets.com/report/united-states-laboratory-supply-wholesaling-market",
+      "https://ncses.nsf.gov/data-collections/national-patterns/2023-2024",
+      "https://ncses.nsf.gov/surveys/federal-funds-research-development/2024-2025",
+      "https://www.nih.gov/about-nih/organization/budget",
+      "https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/03/fiscal-year-2025-by-the-numbers-extramural-grant-investments-in-research",
+      "https://www.fda.gov/medical-devices/in-vitro-diagnostics/laboratory-developed-tests",
+      "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "https://news.avantorsciences.com/2026-02-11-Avantor-R-Reports-Fourth-Quarter-and-Full-Year-2025-Results"
+    ],
+    "one_sentence": "US laboratory supply wholesalers benefited from post-pandemic R&D and testing demand, but 2025 growth is modest as COVID-era demand fades, federal research funding becomes less certain and large customers push harder on pricing and e-commerce purchasing.",
+    "slug": "laboratory-supply-wholesaling-in-the-us"
+  },
+  {
+    "title": "Laboratory Testing Services in the US",
+    "sector": "Business Services",
+    "one_liner": "Independent labs test products, materials, food, water, buildings and industrial assets so clients can prove safety, quality and regulatory compliance.",
+    "overview": "This industry covers non-medical and non-veterinary physical, chemical and analytical testing performed in labs or on-site, including food and agricultural testing, environmental and biological testing, consumer-product compliance, construction materials testing, calibration, electrical/electronic testing, geotechnical testing, nondestructive testing and industrial materials analysis. Demand is recurring because manufacturers, importers, utilities, contractors, retailers and government agencies need documented evidence that products and materials meet law, customer specifications and safety standards. Census AIES reported 2023 testing laboratories revenue of $28.9 billion, up 5.1% from the 2022 Census SAS figure of $27.5 billion; applying the 2022 IBISWorld outlook trajectory implies a roughly $30.3 billion 2025 market and roughly $31.0 billion 2026 run-rate, with growth led by environmental testing, product certification and technology-heavy TIC work rather than broad volume alone.",
+    "key_stats": {
+      "market_size": "$30.3 billion in 2025 estimated US revenue; $28.9 billion in 2023 Census AIES reported revenue",
+      "growth": "2.3% estimated 2025 growth, using the 2022 IBISWorld five-year outlook CAGR; 2023 reported revenue grew 5.1% from 2022 Census SAS revenue",
+      "establishments": "7,463 employer establishments in 2023 Census County Business Patterns",
+      "payroll": "$11.9 billion annual payroll in 2023 Census County Business Patterns",
+      "payroll_share": "41.2% of 2023 revenue, calculated from $11.9 billion payroll and $28.9 billion revenue",
+      "profit_margin": "14.3% EBIT margin in 2022 IBISWorld baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$28.6 billion in 2022 IBISWorld revenue; $27.5 billion in 2022 Census SAS employer-firm revenue",
+      "growth": "3.6% 2022 IBISWorld annual revenue growth; 3.9% 2017-2022 IBISWorld CAGR",
+      "profit": "$4.1 billion in 2022 IBISWorld EBIT",
+      "profit_margin": "14.3% in 2022 IBISWorld baseline",
+      "employment": "154,911 workers in 2022 IBISWorld baseline",
+      "wages": "$11.0 billion in 2022 IBISWorld baseline",
+      "establishments": "11,928 establishments in 2022 IBISWorld baseline",
+      "enterprises": "9,777 enterprises in 2022 IBISWorld baseline"
+    },
+    "how_it_makes_money": "Revenue comes from fee-for-service analytical tests, certification testing, inspection and sampling programs, recurring compliance monitoring, calibration, audit support, test-report documentation, product launch testing, environmental sample analysis, materials failure analysis and on-site nondestructive or geotechnical testing. Larger TIC companies also sell bundled global market-access programs, ongoing certification services, consulting and compliance software.",
+    "cost_structure": "The industry is labor-intensive and credential-sensitive: 2023 Census payroll was $11.9 billion, equal to about 41.2% of 2023 revenue. The 2022 IBISWorld baseline put wages at $11.0 billion and EBIT profit at 14.3% of revenue. Other major 2025-2026 costs include lab instruments and depreciation, chemicals and consumables, sample logistics, rent for specialized facilities, utilities for controlled environments, accreditation and quality systems, insurance, data systems, sales/admin labor and compliance with OSHA chemical-lab rules.",
+    "major_players": [
+      "SGS",
+      "Intertek",
+      "UL Solutions",
+      "Bureau Veritas",
+      "Eurofins Scientific",
+      "Element Materials Technology",
+      "MISTRAS Group",
+      "TUV SUD",
+      "TUV Rheinland"
+    ],
+    "current_dynamics": "Demand is broad but uneven. Environmental labs are seeing a strong PFAS pipeline as public water systems complete initial monitoring by 2027 and remediation planning by 2029. Consumer-product labs benefit from retailer compliance programs and CPSC certificate eFiling that became effective in 2026 for most regulated imports. Electronics, wireless, battery, EV, aerospace and industrial automation testing are stronger niches because products are more software-defined, safety-critical and internationally regulated. Construction and geotechnical testing remain tied to infrastructure and private nonresidential activity. The market remains fragmented, but global TIC firms are using acquisitions and lab investments to add capacity in PFAS, electrical/electronics, food, environmental and aerospace materials testing.",
+    "whats_growing": "PFAS and drinking-water compliance testing, food and feed microbiology, consumer-product certification, electrical safety, EMC and wireless testing, battery and EV-related testing, aerospace materials testing, cybersecurity and AI-related testing/evaluation frameworks, and recurring certification data management.",
+    "whats_shrinking": "Pandemic-specific PPE and emergency COVID-adjacent testing demand has normalized; some discretionary R&D and startup-funded product testing is more cautious when capital is expensive; in-house testing can pressure outsourced labs where large manufacturers already own equipment; oil-and-gas-exposed field inspection volumes weakened for some providers in 2025.",
+    "recent_developments": [
+      "2024-04: EPA finalized enforceable PFAS drinking-water limits, requiring initial monitoring by 2027 and compliance actions by 2029.",
+      "2025-01: SGS agreed to acquire Detroit-based RTI Laboratories, adding environmental, materials, PFAS and Department of Defense-certified testing capacity in the US Midwest.",
+      "2025-Q1: Eurofins said its newly built Chicago, Illinois laboratory was fully commissioned, supporting North American food, feed and environmental testing expansion.",
+      "2025-10: Eurofins reported 3.5% North America organic growth for 9M 2025, with Food, Feed and Environment testing strengthening and PFAS demand supporting environmental testing.",
+      "2026-04: UL Solutions agreed to acquire Eurofins' Electrical & Electronics business for about €575 million, with the business expected to generate about $200 million of 2026 revenue.",
+      "2026-07: CPSC certificate eFiling took effect for most regulated imported consumer products, increasing the operational importance of documented test records and lab identification."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive. Growth should track low-to-mid single digits as regulation, retailer standards, product complexity and R&D spending offset cyclical softness in construction, manufacturing or commodity-linked inspection work. Environmental testing is the clearest growth lane through PFAS monitoring and remediation timelines. Product testing should benefit from CPSC eFiling, battery and electronics safety requirements, global market-access needs and tighter supply-chain documentation. Margin pressure will come from scientist and technician wages, instrument investment, accreditation costs and tariff-sensitive equipment and consumables, but larger labs with automation, national footprints and recurring certification programs should retain pricing power.",
+    "themes": [
+      "Regulation-driven demand",
+      "PFAS and environmental compliance",
+      "Consumer product safety and import documentation",
+      "Food safety and specialty-product verification",
+      "EV, battery and electronics testing",
+      "Fragmented market with TIC consolidation",
+      "Labor and accreditation constraints",
+      "R&D-linked product launch cycles",
+      "Infrastructure and construction materials testing",
+      "Automation and lab data systems"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Laboratory Testing Services in the US, last updated July 27, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/laboratory-testing-services-in-the-us.txt'}",
+      "{'title': 'U.S. Census Bureau AIES 2023, NAICS 541380 revenue', 'url': 'https://data.census.gov/table/AIESEXP01TIMESERIES.AIES00EXP01?codeset=naics~541380'}",
+      "{'title': 'FRED / U.S. Census Bureau SAS, Total Revenue for Testing Laboratories, 2022', 'url': 'https://fred.stlouisfed.org/series/REVEF54138ALLEST'}",
+      "{'title': 'U.S. Census Bureau County Business Patterns 2023, NAICS 541380 establishments and payroll', 'url': 'https://data.census.gov/table/CBP2023.CB2300CBP?codeset=naics~541380'}",
+      "{'title': 'U.S. Census Bureau NAICS definition for 541380 Testing Laboratories', 'url': 'https://www.census.gov/naics/?details=541380'}",
+      "{'title': 'EPA PFAS drinking water regulation and monitoring timeline', 'url': 'https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas'}",
+      "{'title': 'CPSC eFiling certificate requirements, July 2026 effective date', 'url': 'https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Implements-Mandatory-eFiling-for-Certificates-of-Compliance-Targeting-Dangerous-Foreign-Imports'}",
+      "{'title': 'SGS acquisition of RTI Laboratories, January 2025', 'url': 'https://www.sgs.com/en-gb/news/2025/01/sgs-acquires-rti-laboratories-strengthening-environmental-and-pfas-testing-capabilities'}",
+      "{'title': 'Eurofins 9M 2025 trading update', 'url': 'https://www.eurofins.com/en/media-centre/press-releases/2025-10-21/'}",
+      "{'title': 'UL Solutions April 2026 agreement to acquire Eurofins Electrical & Electronics business', 'url': 'https://www.ul.com/news/ul-solutions-inc-broadens-portfolio-agreement-acquire-eurofins-scientifics-electrical'}",
+      "{'title': 'UL Solutions 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1901440/000190144026000005/uls-20251231.htm'}",
+      "{'title': 'MISTRAS 2025 Form 10-K summary', 'url': 'https://www.publicnow.com/view/232B577199304589270E6ABCB6FD96153404F906'}",
+      "{'title': 'Bureau Veritas 2025 financial results', 'url': 'https://bureauveritas2025.fr.digital-report.net/en/report/5297'}",
+      "{'title': 'NSF NCSES U.S. R&D 2023-2024 estimates', 'url': 'https://ncses.nsf.gov/pubs/nsf26314'}"
+    ],
+    "one_sentence": "The US laboratory testing services industry is a fragmented, compliance-driven business services market that has moved from COVID-era volatility into steadier growth from PFAS, consumer-product certification, infrastructure, food safety, R&D and advanced electronics testing.",
+    "slug": "laboratory-testing-services-in-the-us"
+  }
+]

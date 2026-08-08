@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/tmp/extract_run300_next2.py", line 18, in <module>
+    txt.append(pg.extract_text() or '')
+               ~~~~~~~~~~~~~~~^^
+  File "/home/manishmehta/.local/lib/python3.14/site-packages/pypdf/_page.py", line 2180, in extract_text
+    return self._extract_text(
+           ~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<6 lines>...
+        visitor_text,
+        ^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/manishmehta/.local/lib/python3.14/site-packages/pypdf/_page.py", line 1853, in _extract_text
+    for operands, operator in content.operations:
+                              ^^^^^^^^^^^^^^^^^^
+  File "/home/manishmehta/.local/lib/python3.14/site-packages/pypdf/generic/_data_structures.py", line 1517, in operations
+    self._parse_content_stream(BytesIO(self._data))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/home/manishmehta/.local/lib/python3.14/site-packages/pypdf/generic/_data_structures.py", line 1390, in _parse_content_stream
+    operands.append(read_object(stream, None, self.forced_encoding))
+                    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/manishmehta/.local/lib/python3.14/site-packages/pypdf/generic/_data_structures.py", line 1577, in read_object
+    stream.seek(-len(peek), 1)  # reset to start
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyboardInterrupt

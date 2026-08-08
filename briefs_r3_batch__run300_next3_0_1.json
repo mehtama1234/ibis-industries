@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Water Heater Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US water heater manufacturing in 2025–2026 is a concentrated, replacement-driven niche where efficiency mandates, trade-cost pressure, and housing-cycle effects are reshaping growth.",
+    "overview": "The US market is dominated by replacement demand and a concentrated manufacturer set, while new installations are more exposed to housing start cycles. In 2025, the broader US water-heater market is estimated at USD 4.873 billion, with gas remaining the largest segment and electricity-saver product categories (including heat pump and hybrid solutions) showing faster growth over the forecast horizon. Major manufacturers are emphasizing high-efficiency products to defend margins as tariffs, input costs, and policy-driven efficiency standards reshape product economics.",
+    "key_stats": {
+      "market_size": "USD 4,873.0 million (US water-heater market, 2025)",
+      "growth": "4.2% annualized US market growth forecast for 2026–2033; global water-heater market from USD 31.8 billion in 2025 to USD 33.3 billion in 2026",
+      "market_structure": "IBIS baseline 2021 still shows a highly concentrated, mature structure with strong participation by a few large operators",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "USD 3.13 billion (2022 proxy, aligned to IBIS 2021 baseline of USD 3.117 billion and 0.4% annualized trend to 2026)",
+      "growth": "0.4% annualized (2021–2026 IBIS trend; low single-digit expansion profile)"
+    },
+    "how_it_makes_money": {
+      "revenue_model": "Primary revenue is from unit sales of residential and commercial heaters plus associated parts and services, with strong replacement demand for household units.",
+      "revenue_mix": "Residential replacement historically remains the largest demand source, while commercial boiler, tankless, and high-efficiency replacement packages are becoming more meaningful.",
+      "value_capture": "Manufacturers rely on product mix upgrades (efficiency, gas/electric portfolio shifts, tankless, commercial-grade systems) and contractor/distribution relationships to support pricing."
+    },
+    "cost_structure": {
+      "core_cost_drivers": [
+        "2025 A. O. Smith reporting shows pricing actions were needed to offset higher input costs in North America, including tariffs and material pressure.",
+        "Materials and components (metals, refrigeration and heat-transfer parts, controls/electronics) and transportation logistics.",
+        "Labor and SG&A intensity remains relevant despite moderate scale; manufacturing scale concentrates in limited facilities."
+      ],
+      "cost_pressure_notes": "Higher tariffs on imported components increased pressure in 2025, and firms offset this with price actions and mix shift toward premium-efficient products.",
+      "efficiency_investment_burden": "Compliance and design investments are rising as efficiency standards tighten, with longer product-development cycles for higher-efficiency systems."
+    },
+    "major_players": [
+      "{'name': 'A. O. Smith Corporation', 'role': 'Public integrated water-heater and water-treatment manufacturer', '2025_context': 'North America segment sales of USD 2,984.2 million in 2025; 2025 results showed commercial water heater/boiler volume gains with lower residential volumes partially offset.'}",
+      "{'name': 'Rheem Manufacturing Company', 'role': 'Private HVAC and water-heating manufacturer', '2025_context': '2025 sustainability and product-cycle updates emphasized 2025 heat-pump and high-efficiency expansion and expanded contractor/training channels.'}",
+      "{'name': 'Bradford White Corporation', 'role': 'Private full-line water-heating and storage manufacturer', '2025_context': 'Expanded portfolio via Heat-flo acquisition in 2024 to broaden indirect stainless-steel water-heating solutions and comply with evolving regulations.'}",
+      "{'name': 'GE Appliances (Haier-owned)', 'role': 'Home appliances group with US water-heating operations', '2025_context': 'Earlier capacity expansion in US manufacturing (Camden, SC) continues to support long-term domestic manufacturing presence.'}"
+    ],
+    "current_dynamics": "Demand is split between replacement-led residential activity and efficiency-led commercial upgrades, with policy standards increasing product modernization pressure. AOE-style and DOE-linked efficiency direction is pushing manufacturers toward heat-pump storage and hybrid solutions, while tariffs and material volatility are reducing margin elasticity for baseline models.",
+    "whats_growing": [
+      "High-efficiency and heat-pump oriented water-heating products (2025–2026 product roadmaps and DOE direction).",
+      "Commercial and institutional opportunities where efficiency upgrades are linked to energy-cost and compliance cases.",
+      "A.O. Smith-style commercial heater and boiler demand uplift from 2025 performance.",
+      "Indirect heating and hydronic ecosystem products through portfolio expansion activity in 2024."
+    ],
+    "whats_shrinking": [
+      "Pure commodity replacement demand in price-sensitive segments, as older storage models face substitution by efficient alternatives.",
+      "Residential water heater unit growth has shown weakening relative to prior years, with firms reporting lower residential units in 2025.",
+      "Demand volatility from housing-cycle uncertainty, especially where starts/completions soften relative to prior periods."
+    ],
+    "recent_developments": [
+      "2026-06-30: U.S. Census New Residential Construction update showed June 2026 starts at 1,427,000 SAAR and permits at 1,367,000 SAAR.",
+      "2026-05-05: DOE announced phased enforcement timing for certain commercial water-heater efficiency standards, delaying enforcement for units made Oct 2026–Oct 2027.",
+      "2026-04-29: Rheem released 2025 Sustainability Progress results, highlighting large reduction in manufacturing emissions and major heat-pump/governance product focus.",
+      "2025-07-02: Bradford White acquired Heat-flo, expanding indirect stainless-steel hydronic and indirect water-heating solutions.",
+      "2026-01-17: IRS updated energy-efficient appliance FAQ guidance in fact-sheet cycle for residential clean-energy credits, affecting credit compliance and demand timing."
+    ],
+    "outlook": "US water heater manufacturing is expected to remain low to mid-single-digit in aggregate through 2026, with uneven segment movement: slower commodity replacement growth but stronger demand for premium high-efficiency hardware, commercial solutions, and contractors-driven installations. If housing remains stable, replacement demand should hold; if regulation-linked incentive windows tighten, growth concentrates further into higher-efficiency segments.",
+    "themes": [
+      "Replacement-led but efficiency-accelerated demand",
+      "Regulatory pull toward low-energy water heating",
+      "Tariff and input-cost pressure",
+      "Concentration and limited entry",
+      "Shifts toward commercial/boiler mix and service-led conversion"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/water-heater-manufacturing.txt",
+      "https://www.aosmith.com/on/demandware.static/-/Sites-aosmith-Library/default/dw9faf4a3d/pdf/2025-Annual-Report.pdf",
+      "https://www.aosmith.com/on/demandware.static/-/Sites-aosmith-Library/default/dw9faf4a3d/pdf/2024-Annual-Report-AOSmith-Corporation-lores.pdf",
+      "https://www.grandviewresearch.com/horizon/outlook/water-heater-market/united-states",
+      "https://www.grandviewresearch.com/industry-analysis/water-heaters-market",
+      "https://www.energy.gov/articles/doe-finalizes-efficiency-standards-water-heaters-save-americans-over-7-billion-household",
+      "https://www.energy.gov/gc/articles/commercial-water-heater-enforcement-policy",
+      "https://www.irs.gov/credits-deductions/frequently-asked-questions-about-energy-efficient-home-improvements-and-residential-clean-energy-property-credits-residential-clean-energy-property-credit-energy-efficiency-requirements",
+      "https://www.census.gov/construction/nrc/pdf/newresconst_202601.pdf",
+      "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "https://www.rheem.com/about/news-releases/rheem%C2%AE-announces-achievements-in-2025-sustainability-progress-report/",
+      "https://www.prnewswire.com/news-releases/bradford-white-announces-the-acquisition-of-heat-flo-302186039.html"
+    ],
+    "one_sentence": "The industry remains mature and narrow in scale, with modest demand growth offset by volatile materials and trade costs but steady structural shifts toward higher-efficiency systems.",
+    "slug": "water-heater-manufacturing"
+  }
+]

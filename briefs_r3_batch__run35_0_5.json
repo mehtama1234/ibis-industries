@@ -1,0 +1,469 @@
+[
+  {
+    "title": "3D Printer Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US 3D printer manufacturers sell industrial additive-manufacturing systems, proprietary materials, service contracts and software into aerospace, defense, medical, dental, automotive and prototyping markets.",
+    "overview": "This industry manufactures 3D printers and related additive-manufacturing systems, including polymer, resin, metal, composite and binder-jet platforms. The 2021 IBISWorld baseline described a fast-growth US manufacturing niche with 2021 revenue of $5.2 billion and a 2021-2026 forecast of $8.8 billion, but 2025-2026 public market data shows a more mature cycle: global AM revenue reached $24.2 billion in 2025, up 10.9%, while system sales and servicing represented 26% of the total and grew only 3.6%. US-facing demand remains strongest where 3D printing solves high-value production problems, especially medical devices, dental, aerospace and defense, tooling, jigs, fixtures and spare parts.",
+    "key_stats": {
+      "market_size": "2025 global AM system sales and servicing: about $6.3 billion, equal to 26% of $24.2 billion global AM revenue; 2026 US industry revenue is best treated as below the old IBISWorld $8.8 billion forecast because 2025 hardware growth was modest.",
+      "growth": "2025 global AM revenue growth: 10.9%; 2025 global AM system sales growth: 3.6%; 2025 Americas AM company revenue growth: 12.6%.",
+      "global_am_revenue": "2025: $24.2 billion.",
+      "system_sales_share": "2025: 26% of global AM revenue.",
+      "materials_share": "2025: 20% of global AM revenue.",
+      "services_share": "2025: 48% of global AM revenue.",
+      "software_share": "2025: 6% of global AM revenue.",
+      "profitability_signal": "2025 public pure-play results remained mixed: Stratasys reported a 2025 GAAP net loss of $104.3 million and 3D Systems reported a 2025 operating loss of $96.1 million despite cost reductions.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US industry revenue: about $5.8 billion, extrapolated from the IBISWorld 2021 revenue base of $5.181 billion using its 2021-2026 forecast CAGR.",
+      "growth": "2022 estimated growth: about 11.3%, matching the IBISWorld 2021-2026 forecast CAGR.",
+      "baseline_context": "The 2021 baseline reported 2021 revenue of $5.181 billion, 2021 profit margin of 0.8%, 108 establishments, 105 enterprises, 4,072 employees, $86 million exports and $292 million imports, all in 2021 dollars."
+    },
+    "how_it_makes_money": "Operators earn revenue from selling 3D printers and production systems, proprietary build materials and powders, maintenance contracts, spare parts, software, workflow tools, training, application engineering and parts-on-demand services. The 2021 baseline split revenue into 57.1% primary production of 3D printers, 28.6% build materials and 14.3% maintenance and services; the 2025 global AM mix shows services and materials gaining importance as the installed base matures.",
+    "cost_structure": "Costs are driven by precision components, printheads, lasers, motion systems, electronics, metal and polymer materials, outsourced manufacturing, skilled engineering labor, sales support, warranties, R&D, software development and customer application support. Public company results show the margin challenge: 3D Systems reported a 2025 gross margin of 33.9%, while Stratasys reported a 2025 GAAP gross margin of 41.2% and guided to 2026 non-GAAP gross margins of 46.7%-47.1%, including tariff and FX pressure.",
+    "major_players": [
+      "Stratasys",
+      "3D Systems",
+      "HP Additive Manufacturing",
+      "Formlabs",
+      "Carbon",
+      "Nano Dimension / Markforged",
+      "EOS",
+      "Nikon SLM Solutions",
+      "Desktop Metal assets after 2025 restructuring",
+      "Bambu Lab and Creality in entry-level systems"
+    ],
+    "current_dynamics": "Demand is bifurcated. Entry-level printers under $2,500 grew quickly in 2025, helped by low-cost Chinese systems and tariff-related pull-forward buying, while industrial and midrange systems were pressured by high interest rates, cautious capital budgets, tariff uncertainty and consolidation. Industrial buyers are asking for validated materials, repeatable processes, lower cost per part and production uptime rather than novelty prototyping alone.",
+    "whats_growing": "Production applications in aerospace and defense, personalized medical devices, dental, automotive tooling, high-temperature polymers, metal powder-bed fusion, binder-jet materials, copper and nickel alloys, software-enabled workflows, service bureaus, localized spare-part production and recurring materials revenue are growing. In 2025, AM services grew 15.5% globally and materials remained a strong adoption signal.",
+    "whats_shrinking": "Standalone industrial hardware growth, midrange systems, professional material-extrusion systems and unprofitable consumer-focused strategies are under pressure. CONTEXT reported 2025 full-year industrial units down 3%, midrange units down 12% and professional units down 15%, while Wohlers reported only 3.6% growth in 2025 system sales.",
+    "recent_developments": [
+      "2025-03-31: Wohlers Report 2025 put 2024 global AM revenue at $21.9 billion, up 9.1%, while system manufacturers declined.",
+      "2025-04-25: Nano Dimension closed its $116 million acquisition of Markforged, adding a 15,000-plus-system installed base and a business that generated more than $85 million in 2024 revenue.",
+      "2025-07-28: Desktop Metal filed for Chapter 11 after Nano Dimension acquired it in April 2025; Nano Dimension said income-producing assets were sold in Q3 2025.",
+      "2025-11-18: HP announced an additive manufacturing network program, new high-temperature filament printer plans for 2026 and expanded Metal Jet material collaborations.",
+      "2026-02-16: Wohlers Report 2026 valued 2025 global AM revenue at $24.2 billion, up 10.9%, with system sales and servicing at 26% of the market.",
+      "2026-03-05: Stratasys reported 2025 revenue of $551.1 million, down from $572.5 million in 2024, and guided to 2026 revenue of $565 million to $575 million."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but less aggressive than the older IBISWorld growth curve. Demand should improve as interest rates ease and manufacturers restart capital projects, but buyers will favor systems tied to proven production economics, validated materials and recurring service ecosystems. Aerospace, defense, medical, dental and high-performance polymer applications should outperform, while general-purpose hardware vendors face pricing pressure, consolidation risk and competition from lower-cost Asian suppliers.",
+    "themes": [
+      "Installed-base utilization over pure printer unit growth",
+      "Recurring materials and service revenue",
+      "Aerospace and defense adoption",
+      "Medical and dental customization",
+      "High-temperature polymers and metal AM",
+      "Tariffs and reshoring",
+      "Low-cost entry-level disruption",
+      "Industry consolidation and restructuring",
+      "Software-enabled manufacturing workflows",
+      "ROI discipline in capital equipment purchases"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/3d-printer-manufacturing.txt",
+      "https://www.astm.org/news/press-releases/wohlers-report-2026",
+      "https://www.astm.org/news/press-releases/wohlers-report-2025",
+      "https://www.contextworld.com/en/quarterly-3d-printer-shipments-show-entry-level-remains-hot-while-industrial-segment-still-caught-in-catch-22",
+      "https://www.contextworld.com/en/quarterly-3d-printer-shipments-face-turbulence-amid-shifting-market-dynamics",
+      "https://investors.stratasys.com/news-events/press-releases/detail/975/stratasys-releases-fourth-quarter-and-full-year-2025/",
+      "https://www.globenewswire.com/news-release/2026/03/09/3251676/8852/en/3D-Systems-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+      "https://www.hp.com/us-en/newsroom/press-releases/2025/hp-drives-additive-manufacturing.html",
+      "https://www.sec.gov/Archives/edgar/data/1643303/000121390025035275/ea023872401ex99-1_nano.htm"
+    ],
+    "one_sentence": "The industry is still growing, but 2025-2026 demand has shifted from broad hardware expansion toward installed-base utilization, materials consumption, services and production applications with clearer ROI.",
+    "slug": "3d-printer-manufacturing"
+  },
+  {
+    "title": "Adjustable Bed & Mattress Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A premium sleep-products manufacturing niche tied to aging consumers, smart-bed features, housing turnover and a weak but stabilizing U.S. mattress cycle.",
+    "overview": "The industry remains a premium subset of U.S. bedding manufacturing. The 2021 baseline placed revenue at $1.865 billion and projected a 2.4% CAGR to about $2.1 billion in 2026, but the 2025 mattress cycle was softer than that baseline expected: ISPA reported the total U.S. mattress market including stationary foundations at $9.25 billion in 2025 wholesale value, down 6.5% from 2024, with units down 13.2%. Adjustable bases were comparatively resilient in 2025, and public market estimates place the U.S. adjustable bed-base market near $2.04 billion in 2025, with longer-run demand supported by aging households, wellness positioning, split-king configurations, app controls and premium home-comfort spending. Manufacturing pressure is concentrated in weak retail traffic, high financing costs, retailer inventory discipline, import competition and component-cost exposure in steel, foam, motors, electronics and textiles.",
+    "key_stats": {
+      "market_size": "$2.1 billion in 2026 estimated U.S. adjustable bed and mattress manufacturing revenue, based on the baseline 2021-to-2026 industry projection",
+      "growth": "2.4% CAGR projected for 2021-2026 in the baseline; 2025 adjacent U.S. mattress market wholesale value fell 6.5% year over year",
+      "adjacent_us_mattress_market": "$9.25 billion wholesale value in 2025 including mattresses and stationary foundations, down from $9.9 billion in 2024",
+      "us_adjustable_bed_base_market": "$2.04 billion in 2025, with one 2026 market estimate forecasting an 8.73% CAGR for 2026-2034",
+      "housing_driver": "1.36 million total U.S. housing starts in 2025, down 0.6% from 2024; June 2026 starts were 1.427 million at a seasonally adjusted annual rate",
+      "income_driver": "U.S. per-capita disposable personal income was $66,871 in 2025, up from $64,446 in 2024",
+      "baseline_employment": "7,347 employees projected for 2026 in the baseline",
+      "baseline_enterprises": "160 enterprises projected for 2026 in the baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.91 billion in 2022 estimated from the baseline 2021 revenue of $1.865 billion and 2.4% projected annual growth",
+      "growth": "2.4% projected 2022 annual growth under the baseline outlook",
+      "baseline_2021_revenue": "$1.865 billion in 2021",
+      "baseline_2021_profit_margin": "3.4% in 2021",
+      "baseline_2021_exports": "$54.9 million in 2021",
+      "baseline_2021_imports": "$301.5 million in 2021",
+      "baseline_2021_product_mix": "53.9% adjustable bases and 45.1% adjustable mattresses in 2021"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling adjustable bases, compatible adjustable mattresses, smart beds, private-label products, OEM components and branded sleep systems through furniture stores, mattress specialty chains, wholesalers, e-commerce, company-owned stores and selected institutional channels. Higher margins come from premium features such as split adjustability, massage, anti-snore presets, cooling or heating, app controls, sleep tracking and bundled mattress-base sets.",
+    "cost_structure": {
+      "materials_and_components": "Largest cost bucket; includes polyurethane and specialty foam, textiles, steel springs and frames, wood or platform materials, motors, actuators, electronics, remotes, packaging and imported subassemblies.",
+      "labor": "Material handling, sewing, foam cutting, assembly, quality control, logistics and engineering; baseline 2021 wages were $254 million, equal to about 13.6% of 2021 revenue.",
+      "freight_and_distribution": "Meaningful because finished beds and bases are bulky, often require home delivery, retailer distribution centers or white-glove delivery coordination.",
+      "sales_marketing_and_retail_support": "High for branded smart-bed makers and DTC channels; Sleep Number reported 2025 sales and marketing expense of $664.2 million, equal to 47.1% of its net sales.",
+      "profitability": "Baseline profit margin was 3.4% in 2021 and projected at 3.4% in 2026; public company results show margins vary widely by brand, retail exposure and restructuring stage.",
+      "capital_intensity": "Low to moderate; production uses cutting, sewing, foaming, fabrication, assembly and testing equipment, while innovation spending goes into sensors, controls, software and comfort materials."
+    },
+    "major_players": [
+      "Somnigroup International / Tempur Sealy, including Tempur-Pedic, Sealy, Stearns & Foster and Mattress Firm after the 2025 acquisition",
+      "Sleep Number Corporation",
+      "Leggett & Platt",
+      "Serta Simmons Bedding",
+      "Reverie / Ascion",
+      "Ergomotion",
+      "Resident Home / Nectar",
+      "Saatva",
+      "Rize Home",
+      "Denver Mattress"
+    ],
+    "current_dynamics": "Demand is bifurcated. The broad U.S. mattress market contracted in 2025 as consumers delayed big-ticket purchases, but adjustable bases held up better because they are tied to premium replacement cycles, aging consumers and health-and-comfort use cases. Somnigroup’s 2025 acquisition of Mattress Firm increased vertical integration and channel power, while Sleep Number and Leggett & Platt show the stress in the category: Sleep Number’s 2025 net sales fell to $1.411 billion, and Leggett’s 2025 Bedding Products sales fell 11% with weakness in Adjustable Bed and Specialty Foam. Tariffs, USMCA sourcing choices and import competition are pushing manufacturers to optimize North American footprints, including Leggett’s 2025 consolidation of Kentucky adjustable-bed manufacturing into Mexico.",
+    "whats_growing": [
+      "Smart adjustable bases with app controls, anti-snore positions, memory presets and sleep-tracking integration",
+      "Split-king and dual-zone systems for couples with different comfort needs",
+      "Premium bases attached to mattress bundles, especially through omnichannel retailers",
+      "Health and wellness positioning around sleep quality, back pain, circulation, reflux and aging-in-place needs",
+      "Larger mattress sizes and higher average selling prices, which supported 2025 value better than unit demand"
+    ],
+    "whats_shrinking": [
+      "Low-feature foundations and stationary bases, which ISPA identified as having the sharpest 2025 declines",
+      "Unit shipments in the broad U.S. mattress market, down 13.2% in 2025",
+      "Domestic volume for some bedding components and adjustable-bed programs, including Leggett’s 2025 Bedding Products weakness",
+      "Store traffic and discretionary replacement purchases among middle-income households facing high financing and housing costs",
+      "Standalone domestic production that cannot compete with imported or Mexico-sourced adjustable-base components"
+    ],
+    "recent_developments": [
+      "2025-02-05: Tempur Sealy completed its roughly $5 billion acquisition of Mattress Firm, creating a larger vertically integrated bedding group.",
+      "2025-02-18: Tempur Sealy changed its name to Somnigroup International and began trading under ticker SGI.",
+      "2025: ISPA reported the U.S. mattress market, including stationary foundations, at $9.25 billion wholesale value, down 6.5% from 2024, with unit shipments down 13.2%.",
+      "2025: Sleep Number reported net sales of $1.411 billion, down from $1.682 billion in 2024, and continued a turnaround with store closures and cost savings.",
+      "2025: Leggett & Platt Bedding Products sales fell 11% to $1.558 billion and the company cited adjustable-bed and specialty-foam weakness.",
+      "2026-07-17: Census reported June 2026 U.S. housing starts at a 1.427 million seasonally adjusted annual rate, up 19.0% from May 2026."
+    ],
+    "outlook": "The 2026 industry outlook is mixed rather than uniformly high-growth. Manufacturer revenue is likely near the baseline’s $2.1 billion level in 2026, but demand growth is being capped by weak discretionary spending, cautious retailers and soft unit shipments across the broader mattress market. The better growth pockets are premium adjustable bases, smart beds, larger sizes and bundled mattress-base systems. Over the next several years, aging demographics, per-capita income gains and sleep-health awareness should support replacement demand, while high housing costs, tariffs, imported components and retail consolidation keep pressure on smaller manufacturers and low-margin domestic production.",
+    "themes": [
+      "Premiumization despite lower units",
+      "Smart sleep technology",
+      "Aging-in-place demand",
+      "Retail consolidation and vertical integration",
+      "Weak discretionary big-ticket spending",
+      "Import and tariff pressure",
+      "Omnichannel mattress selling",
+      "Foam, steel and motor component volatility",
+      "Housing turnover sensitivity",
+      "Manufacturing footprint optimization"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/adjustable-bed-and-mattress-manufacturing.txt",
+      "https://sleepproducts.org/2026/07/mattress-industry-trends-report-2026-overview/",
+      "https://bedtimesmagazine.com/2026/05/the-mattress-industry-trends-report-sharpens-the-industry-picture-for-2025/",
+      "https://deepmarketinsights.com/vista/insights/adjustable-bed-bases-market/united-states",
+      "https://www.grandviewresearch.com/industry-analysis/us-adjustable-bed-frames-market-report",
+      "https://investor.somnigroup.com/newsroom/news-details/2025/Tempur-Sealy-Successfully-Completes-Acquisition-of-Mattress-Firm/default.aspx",
+      "https://investor.somnigroup.com/newsroom/news-details/2026/Somnigroup-International-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "https://ir.sleepnumber.com/news/news-details/2026/Sleep-Number-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "https://leggett.gcs-web.com/news-releases/news-release-details/leggett-platt-reports-4q-and-full-year-2025-results",
+      "https://www.nahb.org/news-and-economics/press-releases/2026/02/overall-housing-starts-inch-lower-in-2025",
+      "https://www.census.gov/economic-indicators/",
+      "https://fred.stlouisfed.org/series/A229RC0A052NBEA",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/231-0016-tempur-sealy-international-inc-mattress-firm-group-inc-matter"
+    ],
+    "one_sentence": "U.S. adjustable bed and mattress manufacturers make adjustable bases, smart air or foam mattresses and compatible sleep systems for retailers, wholesalers, direct-to-consumer channels and selected institutional buyers, excluding hospital beds.",
+    "slug": "adjustable-bed-and-mattress-manufacturing"
+  },
+  {
+    "title": "Adoption & Child Welfare Services in the US",
+    "sector": "Healthcare",
+    "one_liner": "A fragmented, government-funded network of nonprofits and private agencies providing foster care, adoption placement, counseling, permanency, prevention and youth-support services.",
+    "overview": "The industry includes private nonprofit and for-profit organizations providing nonresidential child and youth social assistance, including foster-care placement, guardianship and adoption services, family counseling, life-skills training, drug-prevention programs, career-development programs and other youth development services. It excludes orphanages and group homes, day care, sports leagues and scouting organizations. Revenue is heavily tied to federal, state and local funding streams, with private donations, grants, endowments and adoption-related fees filling out the mix. The market remains highly fragmented because services are delivered through state, county, tribal and local contracts rather than national scale platforms.",
+    "key_stats": {
+      "market_size": "2026 estimated revenue of $23.2 billion, calculated from the 2022 IBISWorld baseline of $20.708 billion at the 2022-2027 projected CAGR of 2.9%.",
+      "growth": "2026 estimated annual growth of 2.9%, in line with the 2022-2027 baseline projection.",
+      "establishments": "2022 baseline establishments were 42,756; the 2022-2028 projected establishment CAGR was 2.72%.",
+      "employment": "2022 baseline employment was 228,078 workers; 2027 baseline projection was 262,105 workers.",
+      "profit_margin": "2022 baseline budget surplus was 3.7% of revenue; 2027 baseline projection stayed near 3.7%.",
+      "foster_care_caseload": "FY 2024 AFCARS reported 328,947 children in foster care, down for the sixth consecutive year.",
+      "foster_care_adoptions": "FY 2024 AFCARS reported 46,935 children adopted from foster care, more than 6% below FY 2023 and more than 26% below FY 2019.",
+      "awaiting_adoption": "FY 2024 AFCARS reported 70,418 children with an adoption permanency plan.",
+      "human_services_giving": "2024 U.S. giving to human services was $91.15 billion, up 5.0% in current dollars.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$20.708 billion in 2022 revenue.",
+      "growth": "1.7% expected revenue growth in 2022 and 1.8% annualized growth over 2017-2022.",
+      "profit": "$766 million in 2022 budget surplus, equal to a 3.7% margin.",
+      "government_funding_share": "37.1% of 2022 industry revenue came from government funding.",
+      "donations_grants_endowments_share": "About 35.0% of 2022 revenue was tied to donations, grants and endowments.",
+      "service_mix": {
+        "private_and_state_adoption_services": "20.0% of 2022 revenue.",
+        "trade_career_technical_and_professional_development": "18.6% of 2022 revenue.",
+        "counseling_and_information_services": "16.8% of 2022 revenue.",
+        "foster_and_guardianship_placement": "15.0% of 2022 revenue.",
+        "children_and_youth_recreational_programs": "3.3% of 2022 revenue.",
+        "all_other_services": "26.3% of 2022 revenue."
+      }
+    },
+    "how_it_makes_money": "Operators earn revenue from state, county and tribal contracts backed by federal child-welfare funding; Title IV-E foster care, adoption assistance and guardianship assistance reimbursements; Social Services Block Grant and Promoting Safe and Stable Families funds; private adoption fees where legal; foundation grants; corporate and individual donations; membership or program fees for youth services; and restricted grants for prevention, counseling, caseworker support and transition-age youth programs.",
+    "cost_structure": {
+      "labor": "Labor is the largest cost because case management, licensing, home studies, counseling, visitation, permanency planning and compliance are staff-intensive; 2022 baseline wages were $8.059 billion, or about 38.9% of revenue.",
+      "payments_and_program_delivery": "2026 costs include foster-family support, adoption placement work, contracted counseling, transportation, training, background checks, legal coordination, family visitation and youth programming.",
+      "compliance_and_administration": "2026 costs are elevated by state licensing, Title IV-E eligibility documentation, mandated reporting, data systems, court coordination, audit readiness and grant reporting.",
+      "facilities_and_occupancy": "2026 occupancy costs are moderate because the industry is nonresidential, but local offices, visitation spaces and training rooms remain necessary.",
+      "technology": "2026 technology spending is rising as agencies modernize case-management systems, data reporting, remote service delivery and workforce productivity tools.",
+      "surplus": "The 2022 baseline budget surplus was 3.7% of revenue, reflecting nonprofit-heavy operations with limited retained earnings."
+    },
+    "major_players": [
+      "Fragmented market: the 2022 baseline reported the five largest competitors at less than 5.0% of revenue.",
+      "Boys & Girls Clubs of America: national youth-development network active in the broader child and youth services segment.",
+      "Big Brothers Big Sisters of America: mentoring-focused nonprofit active in youth support services.",
+      "National CASA/GAL Association for Children: volunteer advocacy network supporting children in court-involved welfare cases.",
+      "Bethany Christian Services: large nonprofit provider of adoption, foster care and family support services.",
+      "YMCA: broader youth and family services provider with exposure to donations, memberships and local program funding."
+    ],
+    "current_dynamics": "The industry’s funding backdrop is stronger than its caseload volume. FY 2024 AFCARS data show fewer children in foster care and fewer foster-care adoptions, which weighs on placement-driven revenue, while prevention, kinship guardianship, counseling, caseworker support and post-adoption services are gaining policy attention. FY 2026 HHS budget materials proposed $94.7 billion in HHS discretionary budget authority and a $68.8 billion ACFC request, but the ACFC request was $6.4 billion below the FY 2025 final level, keeping operators sensitive to appropriations risk. Private funding improved in 2024 as total U.S. charitable giving reached $592.50 billion and human-services giving reached $91.15 billion.",
+    "whats_growing": [
+      "Family preservation and prevention services tied to the 2018 Family First Prevention Services Act and 2025-2026 state implementation work.",
+      "Kinship guardianship and subsidized guardianship as states seek permanency options outside traditional adoption.",
+      "Counseling, trauma-informed care, substance-use-related family services and post-permanency supports.",
+      "Technology and workforce tools intended to reduce caseworker administrative burden and improve monthly visits.",
+      "Private philanthropy for human services, with 2024 human-services giving up 5.0% to $91.15 billion."
+    ],
+    "whats_shrinking": [
+      "Traditional foster-care placement volume, with FY 2024 foster-care caseloads down to 328,947 children.",
+      "Foster-care adoptions, which fell to 46,935 in FY 2024, the lowest level since 1999 according to NCFA’s AFCARS summary.",
+      "Congregate-care-oriented referrals as Family First continues to discourage unnecessary institutional placements.",
+      "Intercountry adoption volume, which remains a small and highly regulated segment relative to domestic child welfare.",
+      "Recreational youth programs as a share of the industry, which the 2022 baseline placed at only 3.3% of revenue."
+    ],
+    "recent_developments": [
+      "2024: AFCARS FY 2024 data showed 328,947 children in foster care and 46,935 foster-care adoptions.",
+      "2025: ACF moved AFCARS reporting toward an interactive dashboard covering FY 2024 data.",
+      "2025: Giving USA reported 2024 U.S. charitable giving of $592.50 billion and human-services giving of $91.15 billion.",
+      "2025: HHS issued FY 2025 Community-Based Child Abuse Prevention grant guidance on April 21, 2025.",
+      "2025: ACF’s FY 2026 Congressional Justification requested $68.8 billion for ACFC, down $6.4 billion from the FY 2025 final level.",
+      "2026: NCSL reported that 47 states, the District of Columbia and Puerto Rico had submitted Title IV-E prevention plans, with 47 approved as of August 2025."
+    ],
+    "outlook": "Revenue should continue expanding modestly through 2027 as federal reimbursements, state contracts and human-services philanthropy support the provider base. Growth will be strongest in prevention, kinship navigation, behavioral health, family stabilization, caseworker support and post-adoption services, while pure placement activity grows more slowly because foster-care entries, exits and adoptions have declined. The biggest risks are appropriations volatility, state budget pressure, nonprofit labor shortages, high caseworker turnover and compliance costs. The 2022 baseline projected revenue of $23.9 billion by 2027, implying a 2.9% CAGR from 2022.",
+    "themes": [
+      "Public funding dependence",
+      "Family preservation",
+      "Kinship care",
+      "Workforce shortages",
+      "Fragmented local contracting",
+      "Lower foster-care caseloads",
+      "Post-adoption support",
+      "Trauma-informed services",
+      "Compliance-heavy operations",
+      "Human-services philanthropy"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/adoption-and-child-welfare-services-in-the-us.txt'}",
+      "{'name': 'Administration for Children and Families AFCARS data page, current as of September 30, 2025', 'url': 'https://acf.gov/cb/research-data-technology/statistics-research/afcars'}",
+      "{'name': 'National Council For Adoption, Foster Care and Adoption Statistics - AFCARS 2025 Update', 'url': 'https://adoptioncouncil.org/article/foster-care-and-adoption-statistics/'}",
+      "{'name': 'HHS FY 2026 Budget in Brief, reviewed May 8, 2026', 'url': 'https://www.hhs.gov/about/budget/fy2026/index.html'}",
+      "{'name': 'ACF Office of Legislative Affairs and Budget FY 2026 Congressional Justification summary', 'url': 'https://acf.gov/cj'}",
+      "{'name': 'Giving USA 2025 charitable giving release for 2024 data', 'url': 'https://givingusa.org/giving-usa-2025-u-s-charitable-giving-grew-to-592-50-billion-in-2024-lifted-by-stock-market-gains/'}",
+      "{'name': 'NCSL Family First State Plans and Enacted Legislation, updated April 16, 2026', 'url': 'https://www.ncsl.org/human-services/family-first-state-plans-and-enacted-legislation'}",
+      "{'name': 'ACF Social Services Block Grant Program, current as of May 7, 2025', 'url': 'https://acf.gov/ocs/programs/ssbg'}",
+      "{'name': 'U.S. Department of State intercountry adoption congressional reports, updated July 7, 2026', 'url': 'https://adoptions.state.gov/content/travel/en/Intercountry-Adoption/adopt_ref/AnnualReports.html'}"
+    ],
+    "one_sentence": "Adoption and child welfare providers are benefiting from steady federal and philanthropic funding, but shrinking foster-care caseloads, fewer adoptions from foster care and workforce shortages are shifting growth toward prevention, kinship care, counseling and post-permanency support.",
+    "slug": "adoption-and-child-welfare-services-in-the-us"
+  },
+  {
+    "title": "Adult & Pornographic Websites",
+    "sector": "Media & Entertainment",
+    "one_liner": "A high-traffic but hard-to-monetize online adult media industry now shaped as much by age-verification, payments, and trust-and-safety compliance as by audience demand.",
+    "overview": "The US Adult & Pornographic Websites industry remains a growth market, but the operating model is under pressure. The 2022 IBIS baseline put narrowly defined US industry revenue at $1.089 billion, with a 2022-2027 forecast CAGR of 5.3% to about $1.4 billion. Applying the same baseline trajectory implies roughly $1.273 billion in 2025 revenue and $1.340 billion in 2026 revenue, in 2022-dollar terms. Demand is supported by near-universal internet access, private mobile viewing, and continued migration away from legacy adult DVDs and magazines. The industry’s main constraint is monetization: most users expect free content, mainstream advertisers avoid the category, app stores restrict distribution, and payment processors impose higher scrutiny. Since 2023, the central industry issue has shifted toward compliance: verified uploader programs, consent documentation, CSAM and nonconsensual-content controls, age-verification mandates, state access blocks, and litigation after the US Supreme Court upheld Texas-style age checks in 2025.",
+    "key_stats": {
+      "market_size": "$1.340 billion estimated US revenue in 2026, baseline-implied from IBISWorld 2022 revenue of $1.089 billion and 5.33% projected CAGR",
+      "growth": "5.33% projected 2022-2028 CAGR in the 2022 IBIS baseline; 2026 market-size estimate implies growth from $1.273 billion in 2025 to $1.340 billion in 2026",
+      "profit_margin": "8.4% EBIT margin in 2022 baseline; IBIS forecast 7.0% by 2027 as compliance, processing, and competition costs rise",
+      "establishments": "122 establishments in 2022 baseline; IBIS forecast 145 by 2027",
+      "employment": "1,304 workers in 2022 baseline; IBIS forecast 1,750 by 2027",
+      "revenue_mix": "2022 baseline: 75.9% subscriptions and 24.1% advertising; subscription revenue split into 60.7% professional content and 15.2% amateur content",
+      "audience_access": "2025 Pew survey: 96% of US adults use the internet, 90% go online daily, 78% subscribe to home broadband, and 16% are smartphone-dependent",
+      "mobile_driver": "2025 CTIA survey: 579 million US wireless connections and 259 million 5G devices in 2024",
+      "traffic_signal": "May 2026 Similarweb US ranking listed xhamster.com at 228.9 million visits, xvideos.com at 222.6 million, pornhub.com at 221.3 million, and xnxx.com at 202.6 million",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.089 billion US revenue in 2022, inflation-adjusted to 2022 dollars in the IBISWorld baseline",
+      "growth": "14.1% annualized revenue growth over 2017-2022; 4.1% revenue growth in 2022; 5.3% projected annualized growth over 2022-2027",
+      "profit": "$92 million profit in 2022, equal to 8.4% of revenue",
+      "industry_gross_product": "$443 million in 2022",
+      "establishments": "122 establishments in 2022",
+      "enterprises": "103 enterprises in 2022",
+      "employment": "1,304 workers in 2022",
+      "wages": "$347 million total wages in 2022",
+      "broadband_connections": "454 million broadband connections in the 2022 IBIS driver series",
+      "market_segments": "2022 viewership split: men 79.4%, women 20.6%"
+    },
+    "how_it_makes_money": "Operators monetize traffic through recurring premium subscriptions, paywalled video libraries, ad-free memberships, referral fees, display and in-video advertising for adult-adjacent products, and cross-promotion to related services. The 2022 baseline placed subscriptions at 75.9% of revenue and advertising at 24.1%. Free tube sites function as acquisition funnels, while premium sites rely on converting a small share of frequent users into paying customers. Creator subscription platforms such as OnlyFans are adjacent competitors and substitutes rather than a perfect fit for the narrow IBIS definition because they center creator-originated content and direct fan payments.",
+    "cost_structure": {
+      "wages": "$347 million in 2022, about 31.9% of baseline revenue, covering engineers, moderation, billing, compliance, marketing, and administration",
+      "profit": "$92 million in 2022, 8.4% of revenue; forecast pressure from compliance, payments, and litigation lowers expected margin to 7.0% by 2027",
+      "content_and_partner_costs": "Material expense category in 2025-2026, including licensing, producer payouts, affiliate/referral fees, and revenue shares with content owners or uploaders",
+      "technology_and_hosting": "Ongoing 2025-2026 costs include bandwidth, content delivery, storage, cybersecurity, search, recommendation systems, and moderation tooling",
+      "payments_and_chargebacks": "High-risk merchant processing, fraud controls, chargebacks, and processor reserves remain above-normal costs in 2025-2026",
+      "compliance_and_legal": "Fast-growing 2025-2026 cost area covering age-verification vendor integration, consent and identity verification, recordkeeping, content takedown workflows, privacy controls, litigation, and regulatory settlements",
+      "marketing": "Restricted mainstream advertising channels keep acquisition dependent on SEO, affiliates, tube-site funnels, cross-promotion, and adult ad networks"
+    },
+    "major_players": [
+      "{'name': 'Aylo, formerly MindGeek', 'position': 'Dominant multi-site adult platform owner with Pornhub, YouPorn, RedTube, Brazzers, Men.com, Nutaku and related properties; acquired by Ethical Capital Partners in March 2023 and rebranded in August 2023'}",
+      "{'name': 'WGCZ Holding', 'position': 'Major global tube-site operator associated with XVideos and XNXX; Similarweb ranked xvideos.com and xnxx.com among the top US traffic sites in May 2026'}",
+      "{'name': 'xHamster', 'position': 'Large global adult tube platform; Similarweb ranked xhamster.com ahead of Pornhub by US visits in May 2026'}",
+      "{'name': 'Fenix International / OnlyFans', 'position': 'Adjacent creator-subscription substitute; FY2024 filings reported $7.216 billion in gross fan payments, $1.413 billion in revenue, and an 80/20 creator/platform split'}",
+      "{'name': 'Independent paysites and studios', 'position': 'Fragmented long tail of subscription sites, niche networks, production-linked sites, and affiliate-driven adult publishers'}"
+    ],
+    "current_dynamics": "The industry is still demand-rich but compliance-constrained. The 2025 Supreme Court decision in Free Speech Coalition v. Paxton made state age-verification mandates easier to enforce, encouraging a patchwork of state laws and pushing major platforms to block access in some states rather than collect sensitive user ID data. At the same time, the 2025 FTC and Utah action against Aylo made consent verification, illegal-content detection, data security, and user takedown systems core operating requirements. Traffic remains large: Similarweb’s May 2026 US ranking showed several adult sites with more than 200 million monthly US visits each. However, revenue capture is uneven because free content, piracy, VPN workarounds, advertiser avoidance, and payment-risk pricing limit monetization.",
+    "whats_growing": [
+      "Age-verification and identity-assurance vendors serving adult platforms in 2025-2026",
+      "Compliance, content moderation, consent verification, and takedown operations after 2025 enforcement actions",
+      "Creator-led subscription and fan-payment models, with OnlyFans reporting $7.216 billion gross fan payments in FY2024",
+      "Mobile and 5G-enabled consumption, supported by 579 million US wireless connections in 2024",
+      "Niche and women-oriented content; Pornhub’s 2024 review reported female users at 38%, up from 2023"
+    ],
+    "whats_shrinking": [
+      "Unverified upload libraries and lightly moderated tube-site models after 2020-2025 scrutiny",
+      "State-level reachable audience for platforms that block age-verification states rather than comply",
+      "Mainstream advertiser participation on explicit adult inventory",
+      "Legacy adult DVDs, magazines, and other offline formats displaced by streaming",
+      "Low-friction anonymous access in states with 2025-2026 age-verification mandates"
+    ],
+    "recent_developments": [
+      "2023-03: Ethical Capital Partners acquired MindGeek, the parent of Pornhub and related adult sites.",
+      "2023-08: MindGeek rebranded as Aylo, keeping major properties including Pornhub, YouPorn, Brazzers, Men.com, and Nutaku.",
+      "2024-06: Pornhub said Louisiana age verification cut Pornhub traffic by approximately 80% and prepared blocks in five more states effective July 2024.",
+      "2025-06-27: The US Supreme Court upheld Texas’s adult-site age-verification law in Free Speech Coalition v. Paxton by a 6-3 vote.",
+      "2025-09: The FTC and Utah announced a proposed Aylo settlement with a $15 million judgment suspended after $5 million payment to Utah and new CSAM, nonconsensual-content, privacy, and verification obligations.",
+      "2026-07: Free Speech Coalition listed 27 US states with adult-site age-verification requirements in effect or scheduled, including Iowa effective July 1, 2026 and West Virginia effective June 12, 2026."
+    ],
+    "outlook": "Baseline-implied revenue reaches about $1.340 billion in 2026 and about $1.412 billion in 2027, assuming the 2022 IBIS forecast path holds. Growth is likely to continue because demand for online adult content is persistent and high-speed mobile access is mature, but the quality of growth is weakening. The upside is better monetization through premium subscriptions, creator ecosystems, verified-content libraries, VR or interactive products, and privacy-preserving age-assurance. The downside is state-by-state access loss, higher compliance and legal costs, payment processor restrictions, and traffic leakage to noncompliant sites. Operators with scale, trusted billing, strong moderation, and legal capacity are best positioned; small sites face rising fixed compliance costs even though technical entry barriers remain low.",
+    "themes": [
+      "Age verification",
+      "Trust and safety",
+      "Payment processing risk",
+      "Free-to-paid conversion",
+      "Mobile viewing",
+      "Creator economy substitution",
+      "Privacy and identity verification",
+      "Piracy and free tube competition",
+      "Regulatory fragmentation",
+      "Compliance-driven consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/adult-and-pornographic-websites.txt, last updated 2022-06-18",
+      "https://supreme.justia.com/cases/federal/us/606/23-1122/",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-takes-action-against-operators-pornhub-other-pornographic-sites-deceiving-users-about-efforts",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/pornhubmindgeekaylo",
+      "https://action.freespeechcoalition.com/age-verification-resources/state-avs-laws/",
+      "https://action.freespeechcoalition.com/age-verification-bills/",
+      "https://www.aylo.com/newsroom/mindgeek-becomes-aylo/",
+      "https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/",
+      "https://www.similarweb.com/blog/research/market-research/most-visited-websites-usa/",
+      "https://www.pewresearch.org/short-reads/2026/01/08/internet-use-smartphone-ownership-digital-divides-in-u-s/",
+      "https://www.ctia.org/news/2025-annual-survey-highlights",
+      "https://find-and-update.company-information.service.gov.uk/company/10354575/filing-history",
+      "https://sextechguide.com/news/pornhub-year-in-review-2024/"
+    ],
+    "one_sentence": "Adult & Pornographic Websites distribute sexually explicit video and related content online, earning mainly from paid subscriptions and adult-category advertising while competing with free tube sites, creator platforms, piracy, and live cam services outside the narrow IBIS definition.",
+    "slug": "adult-and-pornographic-websites"
+  },
+  {
+    "title": "Adult Day Care",
+    "sector": "Healthcare",
+    "one_liner": "Adult day care provides daytime health, social, meals, transportation and respite services for older adults and adults with disabilities who can remain in the community.",
+    "overview": "Adult day care centers operate during daytime hours and combine supervision, meals, activities, transportation, medication support, personal care and, in adult day health models, nursing or therapy services. Demand is structurally supported by the 2024 U.S. population age 65+ of 61.2 million, up 3.1% from 2023, and by the large cost gap versus residential long-term care. The market remains local and highly fragmented: CDC reported 3,100 adult day services centers and 197,700 participants on any given day in 2022, while IBISWorld reported 32,864 adult day care businesses in 2024 under its broader industry definition. Medicaid HCBS waivers, managed long-term services and supports, Veterans programs, Older Americans Act funding and private-pay caregivers are the core demand channels.",
+    "key_stats": {
+      "market_size": "2025E U.S. industry revenue: approximately $7.0B-$7.3B, using IBISWorld's 2023 $6.6B revenue base and post-2023 low-to-mid-single-digit recovery assumptions.",
+      "growth": "2023 revenue growth: 2.8%; 2024 business-count growth: 5.0%; 2019-2024 business-count CAGR: 4.5%.",
+      "businesses": "2024 IBISWorld business count: 32,864.",
+      "centers": "2022 CDC adult day services centers: 3,100.",
+      "participants": "2022 CDC participants on any given day: 197,700.",
+      "for_profit_mix": "2022 CDC for-profit center share: 42.6%.",
+      "older_population": "2024 U.S. population age 65+: 61.2M, or 18.0% of the population.",
+      "cost_position": "2025 national median adult day health care rate: $95 per day, or $24,700 annually based on 5 days per week; 2025 nursing home private room median: $129,575 annually.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $7.251B in 2022 dollars.",
+      "growth": "2022 IBISWorld revenue growth: 4.6%; 2005-2022 revenue CAGR: 5.78%; 2022-2028 projected revenue CAGR: 4.42%.",
+      "profit": "2022 IBISWorld profit: $276M; profit margin: 3.8%.",
+      "establishments": "2022 IBISWorld establishments: 27,165.",
+      "enterprises": "2022 IBISWorld enterprises: 25,534.",
+      "employment": "2022 IBISWorld employment: 169,734.",
+      "wages": "2022 IBISWorld wages: $3.748B.",
+      "funding_mix": "2022 IBISWorld estimate: government programs supplied 67.7% of funding, with Medicaid at 59.7% of industry revenue."
+    },
+    "how_it_makes_money": "Revenue comes from Medicaid HCBS waivers and managed Medicaid plans, PACE and other integrated-care contracts, Veterans Administration programs, Older Americans Act or local grants, private daily fees paid by families, transportation add-ons, meals and nutrition reimbursement such as CACFP, and specialized services for dementia, developmental disabilities or post-acute support.",
+    "cost_structure": "Labor is the largest cost, including nurses, aides, drivers, activity staff, social workers, therapists and administrators. Other major costs include transportation fleets and fuel, rent or occupancy, food, insurance, licensing and compliance, medical and activity supplies, software and billing, and PPE/infection-control supplies. Profitability is sensitive to Medicaid reimbursement updates, attendance/utilization, wage inflation, liability insurance and transportation density.",
+    "major_players": [
+      "Active Day",
+      "Easterseals affiliates",
+      "InnovAge PACE",
+      "Senior Care Centers of America",
+      "local nonprofit senior centers",
+      "regional Medicaid adult day health operators"
+    ],
+    "current_dynamics": "Population aging and caregiver strain are expanding the addressable market, while states and managed-care plans prefer lower-cost HCBS settings over nursing homes when members can be safely supported in the community. Adult day care is also being pulled into more formal quality, incident-management and payment-transparency requirements under the 2024 Medicaid Access Final Rule, with implementation deadlines running through 2030. Operators with transportation, nursing, dementia programming and Medicaid billing infrastructure are better positioned than small social-only centers. At the same time, fraud scrutiny, work-force shortages and state-by-state reimbursement variability are raising compliance and operating risk.",
+    "whats_growing": "Adult day health models with nursing and medication support; dementia and Alzheimer's programming; Medicaid managed LTSS referrals; PACE-linked day centers; caregiver respite demand; transportation-enabled programs; centers serving adults under 65 with disabilities; nutrition-supported services, as USDA's FY2023 CACFP survey found high use of exercise, ADL assistance, music/art therapy and nursing services among participating adult day centers.",
+    "whats_shrinking": "Purely social adult day models without healthcare or managed-care referral relationships; underutilized centers in high-rent markets; operators dependent on stagnant state reimbursement; centers unable to staff transportation and nursing roles; and providers exposed to tighter Medicaid audit or documentation standards.",
+    "recent_developments": [
+      "2024-04: CMS issued the Ensuring Access to Medicaid Services final rule, adding HCBS quality, grievance, incident-management, payment-transparency and workforce-compensation reporting requirements.",
+      "2024-07: CDC reported 2022 adult day services participant characteristics, including about 182,000 participants and majority Medicaid use among ADSC participants.",
+      "2025-03: CDC published 2022 ADSC operating-status findings, documenting how centers delivered onsite, residential or virtual services after COVID-era disruptions.",
+      "2025-12: CMS approved Massachusetts SPA MA-25-0025, effective 2025-07-01, updating adult day health service payment methods and standards.",
+      "2026-03: CareScout's 2025 Cost of Care Survey reported adult day health care fell 5% year over year to a $95 national median daily rate.",
+      "2026-05: HHS OIG announced audits of Medicaid HCBS eligibility and managed-care payments; it cited 2023 national Medicaid HCBS expenditures of $145.9B."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but reimbursement-dependent. Demand should keep rising as the older population grows and families seek lower-cost alternatives to institutional care. Adult day health care's 2025 median annual cost of $24,700 compares with $74,400 for assisted living and $129,575 for a private nursing-home room, giving payers a strong incentive to keep eligible members in community settings. Growth will be strongest in states with Medicaid HCBS capacity, managed LTSS expansion and PACE investment. Risks include wage pressure, transportation costs, Medicaid eligibility changes, fraud enforcement, state budget stress and stricter reporting requirements that may push weaker operators out or into consolidation.",
+    "themes": [
+      "Aging population",
+      "Medicaid HCBS dependence",
+      "Lower-cost nursing-home alternative",
+      "Caregiver respite",
+      "Dementia and chronic-care support",
+      "Transportation as a differentiator",
+      "Workforce and wage pressure",
+      "Compliance and fraud scrutiny",
+      "PACE and managed LTSS integration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: adult-day-care.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/adult-day-care.txt'}",
+      "{'name': 'IBISWorld via Research and Markets, Adult Day Care in the US, November 2024', 'url': 'https://www.researchandmarkets.com/report/united-states-adult-day-center-market'}",
+      "{'name': 'IBISWorld, Adult Day Care in the US Number of Businesses, 2024', 'url': 'https://www.ibisworld.com/united-states/number-of-businesses/adult-day-care/5942/'}",
+      "{'name': 'CDC NCHS FastStats, Adult Day Services Centers, 2022 data', 'url': 'https://www.cdc.gov/nchs/fastats/adsc.htm'}",
+      "{'name': 'CDC NCHS Data Brief No. 502, Adult Day Services Center Participant Characteristics: United States, 2022', 'url': 'https://www.cdc.gov/nchs/products/databriefs/db502.htm'}",
+      "{'name': 'CDC NCHS Health E-Stat, Operating Status of Adult Day Services Centers in 2022, March 2025', 'url': 'https://www.cdc.gov/nchs/data/hestat/adultday/adult-day-2022.htm'}",
+      "{'name': 'U.S. Census Bureau, Older Adults Outnumber Children in 11 States and Nearly Half of U.S. Counties, June 2025', 'url': 'https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html'}",
+      "{'name': 'CareScout Cost of Care, 2025 national median rates', 'url': 'https://www.carescout.com/cost-of-care'}",
+      "{'name': 'Genworth/CareScout, 2024 Cost of Care Survey Results', 'url': 'https://investor.genworth.com/news-events/press-releases/detail/982/genworth-and-carescout-release-cost-of-care-survey-results'}",
+      "{'name': 'CMS Medicaid, Home and Community-Based Services Provisions, Access Final Rule', 'url': 'https://www.medicaid.gov/medicaid/access-care/home-and-community-based-services-provisions'}",
+      "{'name': 'HHS OIG Work Plan, Audits of Medicaid Home and Community-Based Services Eligibility, May 2026', 'url': 'https://oig.hhs.gov/reports/work-plan/browse-work-plan-projects/audits-of-medicaid-home-and-community-based-services-eligibility/project-oas-26-06-008/'}",
+      "{'name': 'USDA FNS, Characteristics of Adult Day Care Centers that Participate in CACFP, FY2023 survey', 'url': 'https://www.fna.usda.gov/research/cacfp/characteristics-adc'}",
+      "{'name': 'Active Day, About Our Adult Day Center', 'url': 'https://www.activeday.com/about-us/'}",
+      "{'name': 'InnovAge SEC filing, June 30 2025', 'url': 'https://www.sec.gov/Archives/edgar/data/1834376/000183437625000062/innv-20250630.htm'}"
+    ],
+    "one_sentence": "The industry is a fragmented, Medicaid-heavy community-care market benefiting from population aging and the shift away from nursing homes, but margins are constrained by staffing costs, state reimbursement rates and tighter HCBS oversight.",
+    "slug": "adult-day-care"
+  }
+]

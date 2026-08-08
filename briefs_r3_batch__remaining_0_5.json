@@ -1,0 +1,433 @@
+[
+  {
+    "title": "Municipal Building Construction in the US",
+    "sector": "Construction",
+    "one_liner": "Institutional builders are benefiting from elevated 2026 public school, healthcare, public-safety and recreation construction, but labor shortages, materials inflation and post-ARPA funding cliffs are keeping margins tight.",
+    "overview": "This industry includes general contractors, design-builders, engineer-constructors, construction managers and turnkey contractors responsible for new construction, additions, alterations and repairs of institutional buildings such as schools, hospitals, churches, civic centers and prisons. The 2021 IBIS baseline put industry revenue at $183.6 billion after a 2021 contraction, but current Census construction-put-in-place data show the institutional building pool has moved higher: relevant educational, healthcare, religious, public-safety and amusement/recreation construction reached an estimated $281.7 billion seasonally adjusted annual rate in April 2026, up 3.5% from April 2025. Demand is still highly tied to state and local capital budgets, school districts, hospital systems and nonprofit owners, while the contractor market remains fragmented and bid competition is intense.",
+    "key_stats": {
+      "market_size": "2026: $281.7 billion annualized relevant construction put-in-place in April 2026 for educational, healthcare, religious, public-safety and amusement/recreation buildings; 2021 IBIS revenue baseline was $183.6 billion.",
+      "growth": "2026: relevant April 2026 construction put-in-place was up 3.5% from April 2025 on a seasonally adjusted annual-rate basis.",
+      "profit_margin": "2021: IBIS estimated industry profit margin at 2.1%.",
+      "employment": "2021: IBIS estimated industry employment at 138,175 people; 2026: ABC reported total construction employment was up 64,000 jobs year over year in June 2026.",
+      "input_costs": "2026: BLS/FRED new nonresidential building construction PPI reached 182.058 in June 2026, up from 175.976 in June 2025; BLS reported materials and components for construction up 4.3% year over year in June 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $208.6 billion, inferred from Census construction put-in-place categories for educational, healthcare, religious, public-safety and amusement/recreation buildings.",
+      "growth": "2022: approximately 13.6% above the 2021 IBIS revenue baseline of $183.6 billion, reflecting reopening, inflation and rebound in institutional project activity.",
+      "method": "2022 baseline estimate sums Census not-seasonally-adjusted annual spending for educational, healthcare, religious and public-safety construction plus the 2022 average annualized amusement/recreation construction series."
+    },
+    "how_it_makes_money": "Revenue comes from fixed-price, guaranteed-maximum-price, design-build, construction-management-at-risk and cost-plus contracts for institutional buildings. Contractors earn fees, markups and profit by managing labor, subcontractors, materials, equipment, permitting, scheduling and change orders across multi-year public and nonprofit capital projects.",
+    "cost_structure": "The largest cost bucket is purchases and subcontracted specialty trades, especially electrical, mechanical, plumbing, concrete, steel, roofing, glazing and interior trades. The 2021 IBIS baseline shows low margins, with profit at 2.1% of revenue and wages of $9.4 billion, equal to about 5.1% of 2021 revenue; in 2026, higher construction input prices and tight skilled labor continue to pressure bid spreads and contingency budgets.",
+    "major_players": [
+      "{'name': 'Turner Construction Co.', 'note': 'ENR ranked Turner No. 1 among 2026 Top 400 Contractors based on 2025 construction revenue; Turner reported 2025 revenue of $29.2 billion and 2025 year-end backlog of $44.3 billion.'}",
+      "{'name': 'The Whiting-Turner Contracting Co.', 'note': 'ENR ranked Whiting-Turner No. 5 among 2026 Top 400 Contractors.'}",
+      "{'name': 'Hensel Phelps', 'note': 'ENR ranked Hensel Phelps No. 11 among 2026 Top 400 Contractors and it is active in institutional, civic, healthcare and education work.'}",
+      "{'name': 'Clark Group', 'note': 'ENR ranked Clark Group No. 15 among 2026 Top 400 Contractors, with major public, education, healthcare and civic building capabilities.'}",
+      "{'name': 'Skanska USA', 'note': 'ENR ranked Skanska USA No. 17 among 2026 Top 400 Contractors.'}",
+      "{'name': 'Gilbane Building Co.', 'note': 'ENR ranked Gilbane Building Co. No. 19 among 2026 Top 400 Contractors and it has a large education, healthcare and public-sector building portfolio.'}",
+      "{'name': 'McCarthy Holdings Inc.', 'note': 'ENR ranked McCarthy Holdings No. 22 among 2026 Top 400 Contractors and it is a major healthcare, education and public builder.'}"
+    ],
+    "current_dynamics": "The market is expanding in nominal dollars, but real growth is thinner because much of the increase reflects higher labor and material costs. Public educational construction remains the anchor, healthcare is steady, public-safety work is elevated, and amusement/recreation has grown from pandemic lows. At the same time, municipal owners face competing demands for water, transportation, disaster resilience and operating budgets, while ARPA/SLFRF dollars must be spent by December 31, 2026. Contractors with scale, bonding capacity, preconstruction teams and self-perform or preferred subcontractor networks are better positioned than small firms.",
+    "whats_growing": [
+      "2026: public and private educational construction remained the largest relevant category at $139.6 billion SAAR in April 2026, up from $136.7 billion in April 2025.",
+      "2026: healthcare construction reached $70.7 billion SAAR in April 2026, up from $68.7 billion in April 2025.",
+      "2026: religious construction rebounded to $5.6 billion SAAR in April 2026 from $4.7 billion in April 2025.",
+      "2026: amusement and recreation construction reached $45.9 billion SAAR in April 2026, above $42.6 billion in April 2025.",
+      "2026: demand for resilient, energy-efficient and code-compliant public buildings is growing as local governments fold climate, security and electrification requirements into capital plans."
+    ],
+    "whats_shrinking": [
+      "2026: private nonresidential construction momentum outside data centers is weakening, which limits spillover demand for privately funded institutional projects.",
+      "2026: small contractors are seeing more backlog pressure than large contractors, according to ABC commentary on 2025 and 2026 backlog conditions.",
+      "2026: ARPA-funded local project pipelines are approaching the December 31, 2026 expenditure deadline, creating a future replacement-funding risk.",
+      "2026: municipal public-building projects remain lower priority than streets, water, sewer and stormwater assets in the 2026 National League of Cities infrastructure survey."
+    ],
+    "recent_developments": [
+      "2025-08-28: AGC/NCCER reported 92% of construction firms had difficulty filling open positions and 45% said labor shortages delayed projects.",
+      "2026-02-12: GAO reported states had spent $156.3 billion, or 80%, and localities $107.2 billion, or 84%, of SLFRF awards as of March 31, 2025, with a December 31, 2026 spending deadline.",
+      "2026-03-03: Turner reported 2025 revenue of $29.2 billion and 2025 year-end backlog of $44.3 billion, signaling scale advantages among top contractors.",
+      "2026-05-15: National League of Cities reported municipalities were relying more on local cash-based funding and that funding availability remained the top influence on capital planning in 2026.",
+      "2026-07-01: Census/ABC data showed May 2026 public nonresidential construction spending rose 0.4% month over month while private nonresidential spending fell 0.3%.",
+      "2026-07-15: BLS reported June 2026 materials and components for construction were up 4.3% year over year, keeping pressure on project budgets."
+    ],
+    "outlook": "The 2026 outlook is modestly positive in nominal terms but uneven. Public schools, hospitals, jails, fire stations and recreation facilities should keep backlogs active because projects are planned years in advance and many communities still need modernization, security upgrades, accessibility improvements and climate resilience. Growth is likely to slow after 2026 if SLFRF-funded projects roll off and local governments cannot replace them with bonds, grants or own-source revenues. Margin expansion will remain difficult unless materials inflation cools and skilled-labor availability improves.",
+    "themes": [
+      "Public capital budgets drive demand",
+      "School modernization and deferred maintenance",
+      "Healthcare capacity and outpatient campus investment",
+      "ARPA/SLFRF funding deadline risk",
+      "Materials inflation and tariff exposure",
+      "Skilled labor shortages",
+      "Design-build and CM-at-risk delivery",
+      "Resilient and energy-efficient public buildings",
+      "Fragmented contractor base with large-firm scale advantages"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local baseline file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/municipal-building-construction-in-the-us.txt', 'notes': 'IBIS baseline last updated Dec. 28, 2021; 2021 revenue $183.6 billion, 2021 profit margin 2.1%, 2021 employment 138,175, 2026 revenue forecast $187.9 billion.'}",
+      "{'name': 'U.S. Census Bureau construction spending via FRED release table', 'url': 'https://fred.stlouisfed.org/release/tables?eid=22348&rid=229', 'notes': 'April 2026 and April 2025 seasonally adjusted annual-rate category data for educational, healthcare, religious, public-safety and public/private construction.'}",
+      "{'name': 'FRED: Total Construction Spending, Educational', 'url': 'https://fred.stlouisfed.org/data/TLEDUCON', 'notes': 'Monthly not-seasonally-adjusted Census educational construction data through June 2026 used for 2022 baseline calculation.'}",
+      "{'name': 'FRED: Total Construction Spending, Health Care', 'url': 'https://fred.stlouisfed.org/data/TLHLTHCON', 'notes': 'Monthly not-seasonally-adjusted Census healthcare construction data through June 2026 used for 2022 baseline calculation.'}",
+      "{'name': 'FRED: Total Construction Spending, Religious', 'url': 'https://fred.stlouisfed.org/data/TLRELCON', 'notes': 'Monthly not-seasonally-adjusted Census religious construction data through May 2026 used for 2022 baseline calculation.'}",
+      "{'name': 'FRED: Total Construction Spending, Public Safety', 'url': 'https://fred.stlouisfed.org/data/TLPSCON', 'notes': 'Monthly not-seasonally-adjusted Census public-safety construction data through May 2026 used for 2022 baseline calculation.'}",
+      "{'name': 'FRED: Total Construction Spending, Amusement and Recreation', 'url': 'https://fred.stlouisfed.org/data/TLAMUSCONS', 'notes': 'Seasonally adjusted annual-rate amusement and recreation construction data through early 2026 used for 2022 baseline and 2026 current market estimate.'}",
+      "{'name': 'BLS/FRED: PPI New Nonresidential Building Construction', 'url': 'https://fred.stlouisfed.org/series/WPU801', 'notes': 'June 2026 PPI for new nonresidential building construction.'}",
+      "{'name': 'BLS Producer Price Index June 2026 release', 'url': 'https://www.bls.gov/news.release/ppi.htm', 'notes': 'June 2026 materials and components for construction year-over-year price change.'}",
+      "{'name': 'GAO SLFRF spending update', 'url': 'https://www.gao.gov/products/gao-26-108587', 'notes': 'February 2026 update on state and local fiscal recovery fund obligations, spending and December 31, 2026 deadline.'}",
+      "{'name': 'National League of Cities Municipal Infrastructure Conditions Report 2026', 'url': 'https://www.nlc.org/resource/municipal-infrastructure-conditions-report-2026/', 'notes': 'May 2026 municipal infrastructure finance and priority findings.'}",
+      "{'name': 'ENR 2026 Top 400 Contractors', 'url': 'https://www.enr.com/toplists/2026-Top-400-Contractors-1', 'notes': 'May 2026 ranking of largest contractors based on 2025 construction revenue.'}",
+      "{'name': 'Turner Construction 2025 results', 'url': 'https://www.turnerconstruction.com/insights/turner-achieves-record-revenue-and-backlog-in-2025', 'notes': 'March 2026 company-reported 2025 revenue and backlog.'}",
+      "{'name': 'AGC/NCCER 2025 workforce survey', 'url': 'https://www.agc.org/news/2025/08/28/construction-workforce-shortages-are-leading-cause-project-delays-immigration-enforcement-affects', 'notes': 'August 2025 construction workforce shortage survey.'}",
+      "{'name': 'ABC 2026 construction workforce and spending releases', 'url': 'https://www.abc.org/News-Media/News-Releases/abc-construction-industry-must-attract-349000-workers-in-2026-despite-macroeconomic-headwinds', 'notes': '2026 labor-demand estimate and nonresidential construction market commentary.'}"
+    ],
+    "one_sentence": "Municipal Building Construction in the US covers contractors and construction managers building schools, hospitals, religious buildings, civic/public-safety facilities and recreation buildings, with 2026 demand supported by public capital programs and private healthcare projects while costs and funding uncertainty constrain growth.",
+    "slug": "municipal-building-construction-in-the-us"
+  },
+  {
+    "title": "Office Stationery Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature paper-converting niche making envelopes, notebooks, pads, filing products and office paper is shrinking as offices, schools and mail move further online.",
+    "overview": "This industry converts purchased paper and paperboard into writing, filing, mailing and office-use products, including envelopes, notebooks, legal pads, loose-leaf paper, folders, index cards, office paper and die-cut supplies. The 2022 IBISWorld baseline described a declining industry with $5.761 billion of revenue, 403 establishments, 354 enterprises and 15,141 employees in 2022, hurt by e-mail, online bill pay, cloud document storage and the 2020 remote-work shock. Current 2025 data point to a larger nominal revenue base of about $6.3 billion after inflationary and reopening effects, but 2025 revenue still declined 2.1% and the 2025-2030 outlook is for renewed contraction as fewer documents are printed, mailed or filed physically.",
+    "key_stats": {
+      "market_size": "2025: $6.3 billion revenue",
+      "growth": "2025: -2.1% annual revenue growth; 2020-2025 CAGR: +0.4%",
+      "outlook_growth": "2025-2030 forecast CAGR: -2.4%, implying about $5.6 billion revenue by 2030",
+      "producer_prices": "2026: BLS/FRED paper manufacturing PPI was 194.830 in May 2026; converted paper product manufacturing PPI was 201.744 in April 2026",
+      "mail_demand_indicator": "FY2025: USPS Marketing Mail volume was 56.8 billion pieces",
+      "remote_work_indicator": "2025: Federal Reserve survey found 39% of workers worked from home at least some of the time in the prior week",
+      "baseline_establishments": "2022: 403 establishments",
+      "baseline_employment": "2022: 15,141 employees",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $5.761 billion revenue in 2022 dollars",
+      "growth": "2022: +2.1% annual revenue growth; 2017-2022 CAGR: -2.6%",
+      "profit": "2022: $311 million profit; 2022 profit margin: 5.4%",
+      "industry_gross_product": "2022: $1.194 billion",
+      "establishments": "2022: 403",
+      "enterprises": "2022: 354",
+      "employment": "2022: 15,141",
+      "exports": "2022: $72.5 million",
+      "imports": "2022: $404.9 million",
+      "domestic_demand": "2022: $6.093 billion",
+      "wages": "2022: $765 million",
+      "product_mix": "2022: envelopes 37.4% of revenue; stationery, tablets and related products 35.7%; paper supplies for business machines 20.9%; die-cut office stationery 6.0%"
+    },
+    "how_it_makes_money": "Manufacturers buy paper, paperboard, adhesives and packaging inputs, convert them into envelopes, writing pads, notebooks, office paper, filing folders, tabs and related supplies, then sell through paper wholesalers, office-stationery wholesalers, office supply retailers, mass merchants, schools, government buyers and large enterprise accounts. Revenue is mainly recurring, volume-driven replacement demand, with margin support from branded school and office lines, private-label programs, specialty envelopes, recycled/FSC-certified products and short-run customized stationery.",
+    "cost_structure": "The 2022 baseline shows a material-heavy model: 2022 wages were $765 million, equal to about 13.3% of 2022 revenue, while 2022 profit was $311 million, or 5.4% of revenue. Paper and paperboard are the core variable inputs, so 2025-2026 producer-price pressure matters: converted paper product manufacturing PPI rose from 193.937 in January 2025 to 200.325 in December 2025 and 201.744 in April 2026. Other costs include converting equipment, energy, freight, warehousing, depreciation, rent, sales allowances and retailer/wholesaler service requirements.",
+    "major_players": [
+      "{'name': 'ACCO Brands', 'role': 'Large branded office, school and business-products supplier with Mead, Five Star, AT-A-GLANCE, Swingline, Quartet and other brands; 2025 net sales were $1.525 billion globally and 2025 US net sales were $647.3 million.'}",
+      "{'name': 'TOPS Products', 'role': 'Major North American office and school supplies manufacturer; acquired Smead Manufacturing on 2025-06-02, adding filing and organizing products to brands including TOPS, Oxford, Ampad, Pendaflex, Cardinal and Redi-Tag.'}",
+      "{'name': 'Cenveo', 'role': 'Private envelope, labels and print-related manufacturer with historical exposure to envelope manufacturing and consolidation in the industry.'}",
+      "{'name': 'LSC Communications', 'role': 'Atlas Holdings-owned print and paper-services business with adjacency to office, publishing and commercial print supply chains.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is being squeezed from both demand and cost sides. Hybrid work and digitized workflows reduce routine office consumption, while schools and households keep some volume alive through notebooks, folders, paper pads and back-to-school purchasing. USPS FY2025 Marketing Mail volume of 56.8 billion pieces still supports envelope and mail-related demand, but mail remains lower than pre-digital norms. ACCO’s 2025 results show the pressure facing branded suppliers: 2025 net sales fell 8.5% to $1.525 billion, with softer global demand and tariff-related disruptions cited. Input costs remain elevated, with 2026 paper manufacturing and converted-paper PPI readings still far above 2020 levels.",
+    "whats_growing": "Higher-value niches are more resilient in 2025-2026: recycled and FSC-certified paper goods, premium notebooks and planners, personalized and short-run stationery, school-season branded products, specialty envelopes, sticky notes, filing products used in regulated or paper-retentive workflows, and web-to-print or print-on-demand programs that avoid large inventory commitments.",
+    "whats_shrinking": "Commodity office paper, routine copier and printer paper, standard envelopes tied to bills and statements, register/calculator rolls, filing products for digitized offices, and low-margin private-label lines are shrinking as businesses shift to e-mail, online payments, e-signature, cloud storage and lower paper procurement. Domestic producers also face continued price competition from imported paper-converted goods.",
+    "recent_developments": [
+      "2025-04-14: IBISWorld’s 2025 US office stationery manufacturing update estimated industry revenue at $6.3 billion in 2025, with a 2.1% drop in 2025 and 0.4% CAGR for 2020-2025.",
+      "2025-06-02: TOPS Products announced the acquisition of Smead Manufacturing, strengthening its North American filing and organizational-products platform.",
+      "2026-02-27: ACCO Brands reported 2025 net sales of $1.525 billion, down 8.5% from 2024, citing softer global demand and tariff-related disruptions.",
+      "2026-05-13: BLS/FRED data showed converted paper product manufacturing PPI at 201.744 for April 2026, versus 200.325 in December 2025.",
+      "2026-05-15: USPS reported FY2025 Marketing Mail volume of 56.8 billion pieces, a key demand indicator for envelope and mail-related stationery products."
+    ],
+    "outlook": "The industry’s 2025-2030 outlook is negative despite pockets of premium and school-related resilience. IBISWorld’s 2025 update points to a 2025-2030 revenue CAGR of about -2.4%, taking revenue toward roughly $5.6 billion by 2030. Producers are likely to keep consolidating plants, trimming SKUs, automating converting lines, pushing price increases where brand strength allows and shifting toward recycled, customized or school-focused categories. Return-to-office policies may slow the decline in some corporate accounts, but the 2025 Federal Reserve finding that 39% of workers still worked from home at least part time shows that hybrid work is durable enough to keep office-paper usage below pre-pandemic norms.",
+    "themes": [
+      "Paperless office substitution",
+      "Hybrid work demand drag",
+      "School and back-to-school resilience",
+      "Envelope and mail-volume decline",
+      "Input-cost and PPI pressure",
+      "Tariff and import competition",
+      "Consolidation and plant rationalization",
+      "Sustainable and recycled paper products",
+      "Premium notebooks and personalization",
+      "Web-to-print and short-run production"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/office-stationery-manufacturing-in-the-us.txt",
+      "https://www.accio.com/biz-company/stationary-printing-company",
+      "https://ir.accobrands.com/news/news-details/2026/ACCO-Brands-Reports-Fourth-Quarter-and-Full-Year-Results-and-Provides-Outlook-for-2026/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/712034/000119312526098616/acco-20251231.htm",
+      "https://fred.stlouisfed.org/data/PCU32223222",
+      "https://fred.stlouisfed.org/series/PCU322322",
+      "https://facts.usps.com/marketing-mail-volume/",
+      "https://about.usps.com/what/performance/household-mail-survey/",
+      "https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-employment-and-job-quality.htm",
+      "https://ubrands.com/blogs/stay-inspired/tops-products-acquires-smead-manufacturing",
+      "https://www.census.gov/naics/resources/archives/sect31-33.html"
+    ],
+    "one_sentence": "US office stationery manufacturing had an estimated 2025 market size of $6.3 billion, down 2.1% in 2025, with post-2022 recovery gains fading into a renewed structural decline driven by paperless workflows, hybrid work and low-cost imports.",
+    "slug": "office-stationery-manufacturing-in-the-us"
+  },
+  {
+    "title": "Office Stationery Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "A mature office-products distribution industry squeezed by digitization, hybrid work, retailer consolidation and e-commerce disintermediation.",
+    "overview": "Office Stationery Wholesaling in the US is a low-margin, purchasing-heavy distribution industry serving office supply retailers, independent dealers, mass merchants, e-commerce sellers, schools, public agencies and business customers. The 2022 IBISWorld baseline described a declining industry with 2021 revenue of $37.1 billion after a 2016-2021 CAGR of -3.6%, followed by a projected 2021-2026 CAGR of -0.2% to $36.7 billion in 2026. Public 2025-2026 indicators support a flat-to-declining current view: traditional office supply retail output fell to $7.55 billion in 2025 from $9.99 billion in 2022, while Q1 2026 e-commerce reached 16.9% of total retail sales and office occupancy remained structurally below pre-2020 norms despite recovery in prime buildings.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: about $36.8 billion; 2026 baseline projection: $36.7 billion",
+      "growth": "2021-2026 projected CAGR: -0.2%; 2016-2021 baseline CAGR: -3.6%",
+      "profit_margin": "2021 EBIT margin: 2.6%; 2026 baseline projection: 3.1%",
+      "employment": "2021 employment: 66,659 workers; 2026 baseline projection: 63,901 workers",
+      "establishments": "2021 establishments: 5,531; 2023 Census employer establishments for NAICS 424120: 3,190",
+      "downstream_retail_signal": "Office supplies and stationery store sectoral output was $7.55 billion in 2025, down from $9.99 billion in 2022",
+      "digital_channel_signal": "US retail e-commerce was 16.9% of total retail sales in Q1 2026, up from 16.0% in Q1 2025",
+      "office_demand_signal": "CBRE reported US office vacancy of 18.3% in Q2 2026; Kastle's 10-city office occupancy averaged 51.3% during the July 2026 holiday week",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 revenue: $37.1 billion",
+      "growth": "2016-2021 CAGR: -3.6%; 2021 growth: +2.5%; 2021-2026 projected CAGR: -0.2%",
+      "profit": "2021 profit: $966 million; 2021 profit margin: 2.6%",
+      "employment": "2021 employment: 66,659",
+      "enterprises": "2021 enterprises: 4,457; 2026 projected enterprises: 3,943",
+      "product_mix_2021": "Stationery/tablets/office paper 26.6%; envelopes and labels 13.3%; business forms 10.8%; toner and cartridges 13.0%; inked ribbons/pens/pencils 5.3%; other stationery and art products 31.0%"
+    },
+    "how_it_makes_money": "Wholesalers buy stationery and office supply products from manufacturers and brand owners, hold inventory, break bulk, provide catalogs and e-procurement access, and resell to office supply stores, independent dealers, e-commerce sellers, mass merchants, schools, public-sector buyers and business accounts. Revenue comes from product markups, rebates and vendor allowances, private-label distribution, fulfillment fees, and adjacency categories such as breakroom, janitorial, furniture, print supplies and hospitality operating supplies.",
+    "cost_structure": "The model is dominated by cost of goods sold and working-capital carrying costs. Key expenses are product purchases, freight and fuel, warehouse labor, sales and customer service labor, rent and utilities for distribution centers, IT and e-commerce systems, inventory shrink/obsolescence, marketing/catalog costs, credit losses and corporate overhead. The 2022 baseline showed thin EBIT margins of 2.6% in 2021, with operators using warehouse consolidation, automation, RFID, procurement systems and labor reductions to target a 3.1% margin by 2026.",
+    "major_players": [
+      "Staples / Essendant",
+      "S.P. Richards",
+      "The ODP Corporation / ODP Business Solutions / Veyer",
+      "ACCO Brands",
+      "Regional independent office products wholesalers and dealer groups"
+    ],
+    "current_dynamics": "The industry is stabilizing below its pre-pandemic demand base rather than returning to historic volume. Hybrid work reduces routine office paper, forms, envelopes and writing-instrument usage, while e-commerce and direct manufacturer relationships weaken the wholesaler role. At the same time, partial office recovery, back-to-school demand, public-sector purchasing and business formation keep a base level of replenishment demand. Larger distributors are defending volume by broadening into janitorial, breakroom, hospitality, furniture, technology accessories and managed procurement, while smaller regional wholesalers face price pressure, freight costs and customer concentration risk.",
+    "whats_growing": "Growth is concentrated in e-procurement, private-label supplies, recycled and specialty paper, classroom and art supplies, breakroom and janitorial adjacencies, hospitality operating supplies, dealer fulfillment services, and technology-enabled inventory management. ODP reported in 2025 that adjacency categories including cleaning, breakroom, furniture, technology, and copy/print represented 45% of Q2 2025 ODP Business Solutions sales, and that hospitality customer onboarding supported demand.",
+    "whats_shrinking": "Traditional copy paper, business forms, envelopes, labels, inked ribbons, basic pens and pencils, toner-heavy office workflows, catalog-driven dealer sales, office superstore demand and small regional wholesaler counts are shrinking. BLS/FRED data show office supplies and stationery store output falling from $9.99 billion in 2022 to $7.55 billion in 2025, while ACCO Brands reported 2025 net sales down 8.5% and cited softer demand for office-related products.",
+    "recent_developments": [
+      "2025-02-26: ODP reported 2024 consolidated revenue of $6.99 billion, with ODP Business Solutions external sales of $3.58 billion versus $3.90 billion in 2023.",
+      "2025-08-06: ODP said Q2 2025 ODP Business Solutions sales were $859 million, down 6% year over year, while adjacency categories reached 45% of segment sales.",
+      "2025-11-05: ODP reported Q3 2025 total sales of $1.6 billion, down 9% year over year, with B2B sales down 6% and Office Depot retail sales down 13%.",
+      "2026-02-26: ACCO Brands reported 2025 net sales of $1.52 billion, down 8.5% from 2024, citing soft office-related demand and tariff disruption.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-07-29: CBRE reported Q2 2026 US office vacancy of 18.3%, positive net absorption of 12.6 million square feet and leasing activity up 16% year over year."
+    ],
+    "outlook": "The 2026-2030 outlook is muted. Revenue is likely to remain roughly flat to slightly down in nominal terms, with real demand pressured by digital documents, hybrid work and direct-to-customer channels. Margins can improve modestly where distributors consolidate facilities, automate warehouses, improve procurement analytics and shift mix toward higher-value adjacencies, but price competition and freight volatility keep profitability thin. The strongest operators will look less like pure stationery wholesalers and more like workplace-supply platforms combining dealer fulfillment, B2B e-commerce, janitorial/breakroom, hospitality, school and public-sector procurement.",
+    "themes": [
+      "Digitization of paperwork",
+      "Hybrid work normalization",
+      "E-commerce disintermediation",
+      "Dealer and wholesaler consolidation",
+      "Back-to-school seasonality",
+      "Recycled and specialty paper",
+      "Procurement automation",
+      "Adjacency category expansion",
+      "Thin margins and inventory discipline"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/office-stationery-wholesaling-in-the-us.txt",
+      "https://www.ibisworld.com/united-states/industry/colorado/office-stationery-wholesaling/18304/",
+      "https://data.census.gov/all?codeset=naics~424120",
+      "https://www.census.gov/naics/?details=424120&input=424120&year=2012",
+      "https://fred.stlouisfed.org/series/IPUHN453210T300000000",
+      "https://www.bls.gov/news.release/prin1.htm",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTSA",
+      "https://www.cbre.com/insights/figures/q2-2026-us-office-market-report",
+      "https://www.kastle.com/safety-wellness/getting-america-back-to-work/",
+      "https://www.sec.gov/Archives/edgar/data/712034/000119312526098616/acco-20251231.htm",
+      "https://investor.officedepot.com/news-releases/news-release-details/odp-corporation-announces-second-quarter-2025-results/",
+      "https://investor.officedepot.com/news-releases/news-release-details/odp-corporation-announces-third-quarter-2025-results/",
+      "https://www.ftc.gov/news-events/news/press-releases/2019/01/ftc-imposes-conditions-staples-acquisition-office-supply-wholesaler-essendant-inc",
+      "https://www.sprichards.com/"
+    ],
+    "one_sentence": "US office stationery wholesalers distribute paper, envelopes, forms, toner, writing instruments, gift wrap and related office supplies to retailers, dealers, schools, businesses and online channels, but long-run demand is declining as work, procurement and classroom workflows become more digital.",
+    "slug": "office-stationery-wholesaling-in-the-us"
+  },
+  {
+    "title": "Office Supply Stores in the US",
+    "sector": "Retail",
+    "one_liner": "A shrinking specialty retail channel for paper, ink, school supplies, office equipment and small-business services is being squeezed by ecommerce, hybrid work and mass merchants.",
+    "overview": "This industry covers establishments primarily selling office supplies, stationery, school supplies and combinations of office equipment, furniture, supplies and computers through physical retail stores. The core store channel is mature and contracting: FRED/Census monthly retail sales for office supplies and stationery stores totaled $7.367 billion in 2025, down 5.7% from $7.812 billion in 2024, while January-May 2026 sales were $2.924 billion, down 3.7% from January-May 2025. Demand is still supported by schools, home offices, small businesses and print/copy needs, but category traffic has migrated to Amazon Business, mass merchants, warehouse clubs and B2B procurement platforms. Chains are protecting margins through store closures, private label, print services, cleaning/breakroom adjacencies and tighter working-capital discipline.",
+    "key_stats": {
+      "market_size": "$7.367 billion in 2025 US retail sales for NAICS 45321 office supplies and stationery stores, based on Census MRTS data via FRED.",
+      "growth": "-5.7% in 2025 versus 2024; January-May 2026 sales were -3.7% versus January-May 2025.",
+      "latest_month": "$546 million in May 2026 retail sales, not seasonally adjusted.",
+      "establishments": "4,210 employer establishments in 2023 for NAICS 45321, according to Census Business Patterns profile data.",
+      "major_chain_footprint": "The ODP Corporation ended Q2 2025 with 834 Office Depot and OfficeMax retail locations after closing 23 stores during the quarter.",
+      "school_supply_pool": "NRF estimated 2025 K-12 school-supply spending at $6.6 billion, part of $39.4 billion total K-12 back-to-school spending.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$11.475 billion in 2022 IBISWorld industry revenue, stated in 2022 dollars.",
+      "growth": "1.2% estimated 2022 revenue growth after a 2.2% 2021 rebound and a 5.1% 2020 decline in the baseline report.",
+      "profit": "$643 million in 2022 profit, equal to a 5.6% profit margin.",
+      "establishments": "8,810 establishments in 2022.",
+      "enterprises": "6,310 enterprises in 2022.",
+      "employment": "53,997 employees in 2022.",
+      "wages": "$1.304 billion in 2022 wages.",
+      "online_share": "29.67% of services conducted online in 2022."
+    },
+    "how_it_makes_money": {
+      "core_retail_sales": "Revenue from paper, pens, notebooks, envelopes, folders, filing supplies, ink, toner, printers, shredders, desks, chairs and other office equipment sold in stores.",
+      "school_and_seasonal": "Back-to-school and college replenishment drives seasonal sales, with 2025 NRF K-12 school-supply spending estimated at $6.6 billion.",
+      "business_services": "Print, copy, shipping, laminating, binding, signage, tech support and small-business services add higher-service-margin revenue and reasons to visit stores.",
+      "b2b_accounts": "Chains and independents sell recurring office, breakroom, cleaning, furniture and technology supplies to small businesses, schools, nonprofits and local offices.",
+      "private_label": "Retailers use private brands to lift margins and differentiate commodity categories."
+    },
+    "cost_structure": {
+      "purchases_and_inventory": "Merchandise purchases are the largest cost because stores resell branded and private-label supplies, paper, toner, furniture and technology products.",
+      "labor": "Store labor, print/copy staff, managers, customer service and fulfillment labor are significant, but employment has fallen with store closures and ecommerce migration.",
+      "rent_and_occupancy": "Leases, utilities, property costs and store maintenance pressure profitability as traffic declines; chains have responded with planned closures and right-of-use asset impairments.",
+      "logistics": "Distribution centers, cross-docks, fleet delivery, parcel shipping and inventory handling are important for omnichannel and B2B service levels.",
+      "marketing_and_promotions": "Back-to-school, small-business promotions, loyalty programs and price matching are needed to compete with mass merchants and online marketplaces.",
+      "technology": "Ecommerce, inventory systems, procurement portals, analytics and store fulfillment tools are increasingly necessary operating costs."
+    },
+    "major_players": [
+      "Staples",
+      "The ODP Corporation / Office Depot / OfficeMax",
+      "Amazon Business",
+      "Walmart",
+      "Target",
+      "Costco / Sam's Club",
+      "Independent office supply and stationery retailers"
+    ],
+    "current_dynamics": "The specialty store channel is still declining in 2025-2026. Census/FRED sales fell from $7.812 billion in 2024 to $7.367 billion in 2025, and the first five months of 2026 remained below the prior-year period. ODP's Q2 2025 retail division sales fell 10% year over year to $716 million, with comparable store sales down 5% and 834 stores remaining. Demand is not disappearing, but it is being redirected: school supply lists, home offices and small businesses still need physical goods, while price-sensitive shoppers increasingly buy through online, discount, department and warehouse channels. Retailers are shifting emphasis toward print services, adjacency categories, private-label goods, B2B replenishment, hospitality/OS&E accounts and logistics-backed delivery.",
+    "whats_growing": [
+      "Omnichannel ordering, store pickup and direct delivery for repeat office and school supplies.",
+      "Print, copy, signage, binding, shipping and other services that cannot be fully replaced by commodity ecommerce.",
+      "Cleaning, breakroom, hospitality operating supplies, furniture and technology adjacencies in B2B accounts.",
+      "Back-to-school deal shopping, with 67% of 2025 shoppers starting by early July and 82% planning around July sales events.",
+      "Procurement platforms with approval workflows, spend analytics, bulk pricing and multi-user business accounts."
+    ],
+    "whats_shrinking": [
+      "Walk-in traffic for commodity pens, paper, notebooks, envelopes and ink cartridges.",
+      "Large-format specialty retail footprints, as chains close underperforming locations.",
+      "Traditional office demand tied to five-day in-office work and paper-heavy workflows.",
+      "Store-based sales of products easily compared and fulfilled through Amazon, Walmart, Target, warehouse clubs and nonstore retailers.",
+      "Standalone independents without purchasing scale, ecommerce reach or local service differentiation."
+    ],
+    "recent_developments": [
+      "2025-07-15: NRF estimated 2025 K-12 back-to-school spending at $39.4 billion, including $6.6 billion for school supplies, while 67% of shoppers had started by early July.",
+      "2025-08-06: ODP reported Q2 2025 sales of $1.586 billion, down 8% year over year; Office Depot division sales were $716 million, down 10%.",
+      "2025-08-06: ODP closed 23 retail stores in Q2 2025 and ended the quarter with 834 Office Depot and OfficeMax locations.",
+      "2025-12-31: Census/FRED monthly data imply 2025 office supplies and stationery store sales of $7.367 billion, down 5.7% from 2024.",
+      "2026-07-16: FRED's latest update showed May 2026 office supplies and stationery store sales of $546 million and January-May 2026 sales down 3.7% from January-May 2025."
+    ],
+    "outlook": "The industry is expected to keep contracting through 2026 as digitization, hybrid work, procurement automation and generalist retailers reduce traffic to dedicated office supply stores. The pace of decline may moderate when school calendars, small-business formation and return-to-office policies support replenishment demand, but growth is more likely to accrue to ecommerce, B2B platforms and adjacency categories than to traditional storefronts. Survivors will be chains and independents that combine convenient locations with services, rapid fulfillment, local relationships, private-label value and business accounts; stores that rely mainly on commodity supplies will remain exposed to price competition and lease deleveraging.",
+    "themes": [
+      "Channel shift to ecommerce",
+      "Hybrid work drag",
+      "Back-to-school resilience",
+      "Store rationalization",
+      "B2B procurement platforms",
+      "Private label and margin defense",
+      "Print and service differentiation",
+      "Mass merchant competition",
+      "Adjacency expansion"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/office-supply-stores-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/MRTSSM45321USN",
+      "https://fred.stlouisfed.org/data/MRTSSM45321USN",
+      "https://data.census.gov/profile/45321_-_Office_supplies_and_stationery_stores?codeset=naics~45321",
+      "https://www.census.gov/naics/?details=459&input=459&year=2022",
+      "https://investor.officedepot.com/news-releases/news-release-details/odp-corporation-announces-second-quarter-2025-results/",
+      "https://investor.officedepot.com/news-releases/news-release-details/odp-corporation-announces-first-quarter-2025-results/",
+      "https://nrf.com/media-center/press-releases/back-to-school-season-begins-early-majority-shoppers",
+      "https://business.amazon.com/en/industries/small-business"
+    ],
+    "one_sentence": "US office supply stores remain relevant for back-to-school, small-business replenishment, print/copy and convenience trips, but 2025-2026 sales data show continued decline as procurement shifts online and large chains close stores.",
+    "slug": "office-supply-stores-in-the-us"
+  },
+  {
+    "title": "Offshore Oil Rig & Platform Construction",
+    "sector": "Construction",
+    "one_liner": "A small, project-driven U.S. offshore construction niche is shifting from new rig builds toward Gulf platform upgrades, floating production systems, and subsea tiebacks.",
+    "overview": "This industry remains a specialized offshore construction and fabrication market rather than a broad rig-building hub: in 2022, IBISWorld described the U.S. base as focused mainly on jack-ups, assembly, repair, maintenance, and upgrades, while many large offshore rigs and floating units were built in Asian yards and completed or serviced in the Gulf Coast. The market is mature, capital-intensive, highly cyclical, and dependent on upstream oil and gas producers' long-cycle offshore investment decisions. Current 2025-2026 conditions are mixed: Gulf crude output is reaching record levels and new deepwater projects are coming online, but lower oil-price expectations, high financing costs, and the use of subsea tiebacks instead of standalone platforms limit demand for entirely new U.S.-built rigs.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. industry revenue: about $2.5 billion in 2022 dollars, derived from the 2022 IBISWorld revenue base of $2.619 billion and its 2022-2027 projected contraction path.",
+      "growth": "2025 estimated revenue growth: about -2.1% year over year under the 2022 IBISWorld outlook, though Gulf project activity improved in 2025 as several deepwater fields started production.",
+      "profit_margin": "2022 profit margin: 4.4% of revenue; margin pressure in 2025-2026 is tied to steel, skilled labor, financing, and project execution risk.",
+      "employment": "2022 employment: 5,758 workers; IBISWorld projected employment to edge down to about 5,606 workers by 2027.",
+      "active_offshore_rigs": "March 2026 U.S. offshore rotary rigs averaged 13, down from 17 in December 2025 and 17 in February 2026, according to EIA/Baker Hughes data.",
+      "gulf_output": "2025 Federal Gulf of America crude oil production averaged 1.898 million b/d, up from 1.787 million b/d in 2024; EIA forecast about 2.0 million b/d for 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $2.619 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: +4.7%; 2017-2022 revenue CAGR: -2.5%.",
+      "profit": "2022 profit: $115 million.",
+      "profit_margin": "2022 profit margin: 4.4%.",
+      "establishments": "2022 establishments: 79.",
+      "enterprises": "2022 enterprises: 47.",
+      "employment": "2022 employment: 5,758.",
+      "wages": "2022 total wages: $528 million.",
+      "product_mix": "2022 revenue mix: drill ships 39.1%, other rigs/platforms 21.8%, semi-submersibles 21.7%, jack-ups 17.4%."
+    },
+    "how_it_makes_money": "Operators earn revenue from engineering, fabrication, assembly, conversion, repair, maintenance, hook-up, commissioning, upgrades, and support services for offshore rigs, fixed platforms, floating production units, and related modules. Revenue is usually project-based and backlog-driven, with customers including offshore exploration and production companies, drilling contractors, and EPC contractors. In 2025-2026, more work is tied to subsea tiebacks, host-platform modifications, floating production system commissioning, life-extension work, and deepwater infrastructure support than to speculative newbuild drilling rigs.",
+    "cost_structure": {
+      "labor": "2022 wages were $528 million, equal to about 20.2% of 2022 revenue; skilled welders, engineers, project managers, offshore technicians, and commissioning labor remain critical costs in 2025-2026.",
+      "materials": "Steel, pipe, structural metals, machinery, subsea equipment, coatings, and electrical systems are major purchase costs; the U.S. iron and steel PPI reached 354.923 in June 2026, underscoring continued input-cost exposure.",
+      "capital_and_equipment": "Heavy-lift capacity, waterfront fabrication yards, cranes, dry docks, welding systems, marine vessels, and safety systems create high fixed costs and high barriers to entry.",
+      "profit": "2022 EBIT profit was $115 million, or 4.4% of revenue; project delays, rework, steel volatility, and underutilized yard capacity can quickly compress margins.",
+      "financing": "Offshore builds and conversions are expensive, long-cycle projects, so elevated 2025-2026 interest rates and customer capital discipline weigh on new orders."
+    },
+    "major_players": [
+      "McDermott International",
+      "Kiewit Offshore Services",
+      "Gulf Island Fabrication / IES Holdings",
+      "Bollinger Shipyards",
+      "Seatrium AmFELS / Karpowership Brownsville facility",
+      "Oil and gas customers including Shell, Chevron, Beacon Offshore Energy, TotalEnergies, Talos Energy, LLOG, and BP"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Demand is supported by record or near-record Gulf output, new FPUs, offshore lease sales, and aging infrastructure that needs inspection, maintenance, and upgrades. At the same time, lower WTI and Brent expectations for 2026, onshore shale competition, limited U.S. newbuild rig capacity, and producer preference for subsea tiebacks reduce the need for large standalone platform construction. Gulf operators are increasingly using standardized host designs, existing hubs, and lower-cost tieback development to add barrels without building full new platforms for every field.",
+    "whats_growing": "Subsea tiebacks to existing Gulf platforms, floating production systems, high-pressure deepwater equipment, remote operations systems, commissioning work, platform life-extension, decommissioning support, and modifications to existing production hubs are growing. EIA identified 13 Gulf fields expected to start production during 2025-2026, with eight developed through subsea tiebacks and five tied to four new FPUs.",
+    "whats_shrinking": "Standalone new rig construction in the United States, speculative rig builds, shallow-water commodity jack-up work, and projects that require entirely new host platforms are shrinking or staying constrained. U.S. offshore rotary rig activity remained low in 2026 compared with historical offshore cycles, and many large hulls and rig structures continue to be fabricated overseas.",
+    "recent_developments": [
+      "Jan. 9, 2025: Shell started production from the Whale floating production facility in the Gulf, designed for 100,000 boe/d peak output.",
+      "Apr. 21, 2025: Chevron started Ballymore production as a three-well subsea tieback to Blind Faith, with up to 75,000 gross b/d expected.",
+      "Jun. 25, 2025: BOEM proposed Gulf Lease Sale 262 covering roughly 80 million acres, later folded into the new mandated leasing schedule.",
+      "Jul. 25, 2025: Beacon started Shenandoah production from a new FPS with 120,000 b/d oil nameplate capacity and 140 MMcf/d gas capacity.",
+      "Sep. 24, 2025: Seatrium announced the sale of its Brownsville shipbuilding facility to Karpowership, changing ownership of a historically important U.S. offshore rig yard.",
+      "Dec. 10, 2025: BOEM held Big Beautiful Gulf 1, generating $300.4 million in high bids for 181 Gulf blocks."
+    ],
+    "outlook": "Through 2026, the industry should see steady service, commissioning, modification, and tieback-related work, but not a broad return to the pre-2014 offshore rig construction boom. EIA's 2026 Gulf crude forecast of roughly 2.0 million b/d supports platform utilization and aftermarket work, while the new 2025-2040 Gulf leasing schedule improves long-run visibility. The main constraint is economics: if 2026 oil prices stay near the lower EIA forecast range, producers are likely to prioritize lower-cost tiebacks, brownfield upgrades, and standardized FPS concepts over large bespoke newbuilds. Net result: stable-to-soft revenue, better utilization for technically capable Gulf Coast fabricators, and continued pressure on yards dependent on full new rig construction.",
+    "themes": [
+      "Subsea tiebacks over standalone platforms",
+      "Gulf deepwater production resilience",
+      "Aging offshore infrastructure",
+      "High-pressure 20,000-psi technology",
+      "Remote operations and lower-emissions platform design",
+      "Steel and skilled-labor cost pressure",
+      "Federal offshore leasing expansion",
+      "Asian fabrication dominance with U.S. Gulf Coast integration"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/offshore-oil-rig-and-platform-construction.txt",
+      "https://www.eia.gov/todayinenergy/detail.php?id=65444",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67404",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67045",
+      "https://www.eia.gov/dnav/pet/hist/leafhandler.ashx?f=a&n=pet&s=mcrfp3fm2",
+      "https://www.eia.gov/dnav/pet/pet_crd_drill_s1_m.htm",
+      "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2025/shell-starts-production-at-whale-in-the-us-gulf-of-mexico.html",
+      "https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-starts-oil-production-ballymore-project-gulf-america",
+      "https://www.beaconoffshore.com/media",
+      "https://www.boem.gov/oil-gas-energy/big-beautiful-gulf-1-bbg1-oil-gas-lease-sale",
+      "https://www.boem.gov/oil-gas-energy/national-program/obbba-oil-and-gas-leasing-program",
+      "https://www.portofbrownsville.com/pob-statement-on-seatriums-sale-of-shipbuilding-facility-to-karpowership/",
+      "https://fred.stlouisfed.org/series/WPS101",
+      "https://ir.gulfisland.com/news-events/press-releases/detail/282/ies-holdings-to-acquire-gulf-island-fabrication"
+    ],
+    "one_sentence": "The U.S. Offshore Oil Rig & Platform Construction industry builds, assembles, upgrades, repairs, and supports offshore drilling rigs, platforms, floating production units, and related structures, with demand tied to Gulf of America drilling economics, lease activity, oil prices, and aging offshore infrastructure.",
+    "slug": "offshore-oil-rig-and-platform-construction"
+  }
+]

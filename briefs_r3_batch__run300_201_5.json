@@ -1,0 +1,401 @@
+[
+  {
+    "title": "Identity Management Software in the US",
+    "sector": "Technology & Digital",
+    "one_liner": "US identity management software sells the login, access, governance and authentication layer that enterprises now treat as core cybersecurity infrastructure.",
+    "overview": "The industry develops and sells software that manages digital identities and controls access to applications, data, devices and cloud infrastructure. The 2021 IBIS baseline treated the market as a narrow software-publishing category centered on SSO, MFA and password management; since 2022, buyer budgets have broadened toward identity security platforms that bundle workforce IAM, CIAM, identity governance, privileged access, access analytics and machine-identity controls. Demand is being pulled by cloud migration, hybrid work, regulatory pressure, zero-trust programs and the persistence of credential-based attacks. The market remains concentrated around Microsoft and large security suites, but independent specialists such as Okta, CyberArk and SailPoint continue to grow by serving multi-cloud, neutral-platform and governance-heavy use cases.",
+    "key_stats": {
+      "market_size": "2026 US identity and access management software revenue estimated at about $5.8 billion on a conservative software-only basis; broader US IAM estimates for 2024-2026 range from $8.6 billion in 2024 to $16.5 billion in 2024 depending on inclusion of services, CIAM and adjacent security categories.",
+      "growth": "2026 growth estimated at 10%-12%; broader IAM forecasts cite 2025-2034 CAGR ranges of 10.5%-15.1%.",
+      "global_context": "2025 global IAM market estimates range from $22.27 billion to $26.8 billion; 2025 North America share is reported around 39.4%-40.3%.",
+      "profitability": "2026 profitability remains high for scaled SaaS vendors; Okta reported 2026 non-GAAP operating margin of 26% and free cash flow margin of 30%.",
+      "demand_signal": "2025 Verizon DBIR found credential abuse at 22% of breaches and third-party involvement at 30% of breaches; Microsoft reported 2025 identity-based attacks up 32% in the first half of 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 market size estimated at $4.3 billion, derived from the IBIS baseline of $4.206 billion in 2021 and its 2021-2026 projected CAGR of 2.6%.",
+      "growth": "2022 growth estimated at 2.6% based on the IBIS 2021-2026 projection; the 2021 IBIS report had expected growth to slow after 2021's 17.3% pandemic-driven increase.",
+      "context": "IBIS 2021 baseline projected 2026 revenue of $4.8 billion, 2026 enterprises of 217, 2026 employment of 10,956 workers and 2026 profit margin of 18.8%."
+    },
+    "how_it_makes_money": "Vendors make money mainly through recurring SaaS subscriptions priced per user, identity, application, privileged account, customer monthly active user, workload or module. Large enterprise contracts often bundle SSO, MFA, lifecycle management, directory integration, identity governance, privileged access, API access and support. Additional revenue comes from professional services, implementation partners, premium support, usage-based CIAM pricing, add-on risk analytics and integrations with security operations, endpoint, cloud and developer platforms.",
+    "cost_structure": "The main cost is skilled labor for engineering, product security, cloud operations, sales engineering and enterprise sales. The IBIS baseline put 2021 wages at 35.3% of revenue and 2021 profit margin at 17.4%, with 2026 profit margin projected at 18.8%. Scaled SaaS operators can produce high gross margins because distribution is digital, but sales and marketing, cloud hosting, R&D, compliance certifications, acquisitions and stock-based compensation remain material. Public-company results show the model improving with scale: Okta reported 2026 non-GAAP operating margin of 26%, while CyberArk reported 2025 non-GAAP operating margin of 18%.",
+    "major_players": [
+      "Microsoft Entra",
+      "Okta",
+      "CyberArk",
+      "SailPoint",
+      "IBM Security",
+      "Oracle",
+      "Cisco Duo",
+      "Ping Identity and ForgeRock",
+      "Thales OneWelcome and SafeNet Trusted Access",
+      "Amazon Web Services IAM",
+      "Salesforce"
+    ],
+    "current_dynamics": "The market is shifting from identity administration to identity security. Buyers are consolidating point tools into platforms, but they still pay for specialist products where Microsoft-native controls are insufficient, where enterprises run multi-cloud environments, or where governance and privileged-access requirements are complex. Growth is strongest in cloud IAM, CIAM, identity governance, privileged access, phishing-resistant MFA, passkeys and non-human identity management. Competition is intense because identity is being embedded into cloud suites, endpoint security, SASE, DevOps and AI governance products. The practical buyer trigger in 2025-2026 is simple: attackers increasingly log in with valid credentials instead of breaking perimeter defenses.",
+    "whats_growing": "Cloud-delivered IAM, phishing-resistant MFA, passkeys, adaptive access, identity governance, privileged access management, CIAM, machine and workload identity, AI-agent identity controls, identity threat detection and response, and partner-managed implementation services are growing in 2025-2026.",
+    "whats_shrinking": "Standalone password managers, legacy on-premises directory tools, SMS-based MFA, perpetual-license deployments, manual access certification workflows and isolated SSO products are losing share as enterprises consolidate around cloud platforms and stronger authentication methods.",
+    "recent_developments": [
+      "2025-02-12: SailPoint priced its IPO at $23.00 per share and returned to public markets as an identity security specialist.",
+      "2025-03-26: SailPoint reported fiscal 2025 revenue of $862 million, up 23%, and ARR of $877 million, up 29%.",
+      "2025-04-17: Microsoft said its secure-by-design work was expanding mandatory MFA and passkey adoption across Azure, Entra and GitHub ecosystems.",
+      "2025-07-21: Microsoft Entra security defaults documentation emphasized MFA registration, administrator MFA and legacy authentication blocking for baseline protection.",
+      "2026-02: CyberArk reported 2025 revenue of $1.361 billion, up 36%, and ARR of $1.440 billion, up 23%.",
+      "2026-03-04: Okta reported fiscal 2026 revenue of $2.919 billion, up 12%, and guided fiscal 2027 revenue to $3.170 billion-$3.190 billion."
+    ],
+    "outlook": "The US identity management software market should continue expanding through 2026-2030, but growth will be uneven. Core SSO and basic MFA are maturing, while identity governance, privileged access, CIAM, passkeys, non-human identities and AI-agent controls are still expanding quickly. The most defensible vendors will be those that can govern every identity type across SaaS, cloud infrastructure, endpoints, APIs, third parties and AI workflows. Microsoft will pressure pricing in basic workforce identity, while independent vendors will compete on neutrality, depth, governance and integrations. A reasonable 2026-2030 outlook is high-single-digit to low-double-digit annual growth for the narrow US software category, with faster growth in governance, privileged and machine-identity segments.",
+    "themes": [
+      "Zero trust becomes an identity-led architecture",
+      "Credential attacks keep MFA and passkeys high on the budget list",
+      "AI agents create a new non-human identity category",
+      "Platform consolidation favors Microsoft but leaves room for neutral specialists",
+      "Governance and auditability matter more as regulations tighten",
+      "Cloud IAM grows faster than legacy on-premises deployments"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/identity-management-software-in-the-us.txt",
+      "https://www.fortunebusinessinsights.com/industry-reports/identity-and-access-management-market-100373",
+      "https://www.grandviewresearch.com/industry-analysis/identity-and-access-management-market",
+      "https://www.emergenresearch.com/industry-report/us-identity-and-access-management-market",
+      "https://www.mordorintelligence.com/industry-reports/united-states-consumer-identity-and-access-management-market",
+      "https://investor.okta.com/news-and-events/news-releases/news-details/2026/Okta-Announces-Fourth-Quarter-And-Fiscal-Year-2026-Financial-Results/",
+      "https://www.cyberark.com/press/cyberark-announces-record-fourth-quarter-and-full-year-2025-results/",
+      "https://investor.sailpoint.com/news-releases/news-release-details/sailpoint-announces-strong-fiscal-fourth-quarter-and-full-year",
+      "https://www.sailpoint.com/press-releases/sailpoint-announces-pricing-of-upsized-initial-public-offering",
+      "https://learn.microsoft.com/en-us/entra/fundamentals/security-defaults",
+      "https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices",
+      "https://www.verizon.com/about/news/2025-data-breach-investigations-report",
+      "https://www.microsoft.com/en-us/corporate-responsibility/cybersecurity/microsoft-digital-defense-report-2025/"
+    ],
+    "one_sentence": "Identity management software in the US is a growing cybersecurity software market built around single sign-on, multifactor authentication, identity governance, privileged access, customer identity and emerging controls for machine and AI-agent identities.",
+    "slug": "identity-management-software-in-the-us"
+  },
+  {
+    "title": "Identity Theft Protection Services",
+    "sector": "Technology & Digital",
+    "one_liner": "Identity theft protection has shifted from credit monitoring into subscription-based digital identity, fraud alerting, breach response, and recovery support.",
+    "overview": "This industry provides credit monitoring, identity monitoring, fraud alerts, restoration help, and related identity theft insurance to consumers, employers, financial institutions, insurers, retailers, and organizations responding to data breaches. The 2021 IBISWorld baseline described a mature but steadily growing U.S. industry with $3.151 billion in 2021 revenue and a 2021-2026 forecast CAGR of 2.5%, driven by data breaches, online banking, mobile commerce, and consumer willingness to pay for faster detection and remediation. By 2025-2026, the demand environment is stronger but more competitive: commercial market estimates put the U.S. market around $4.7 billion to $5.5 billion, while breach frequency, AI-assisted scams, account takeover, new-account fraud, and employer-sponsored protection keep pushing identity services beyond basic credit alerts.",
+    "key_stats": {
+      "market_size": "2026 U.S. market estimate: $4.685 billion; 2025 U.S. market estimate from another commercial source: $5.5 billion.",
+      "growth": "2025-2032 U.S. CAGR estimate: 7.3%; 2026-2031 broader identity theft protection market CAGR estimate: 10.66%.",
+      "fraud_losses": "2025 identity fraud and scam losses totaled $38 billion, including $27.3 billion of identity fraud losses and $10.7 billion of scam losses.",
+      "victims": "2025 identity fraud and scams affected 36 million U.S. consumers; traditional identity fraud affected 18 million consumers.",
+      "data_breaches": "2025 U.S. data compromises reached a record 3,322, up 5% from 3,152 in 2024.",
+      "identity_theft_reports": "2024 FTC IdentityTheft.gov reports exceeded 1.1 million; 2025 FTC-reported fraud losses reached about $16 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 U.S. industry revenue estimate: about $3.2 billion, implied from IBISWorld's 2021 revenue of $3.151 billion and its 2021-2026 forecast CAGR of 2.5%.",
+      "growth": "2022 baseline growth assumption: 2.5% annual growth under the 2021 IBISWorld forecast path.",
+      "profit_margin": "2021 profit margin baseline: 14.1%; 2026 IBISWorld forecast profit margin: 14.3%.",
+      "employment": "2021 employment baseline: 10,380 workers; 2026 IBISWorld forecast: 11,605 workers.",
+      "establishments": "2021 establishment baseline: 4,444; 2026 IBISWorld forecast enterprises: 3,858."
+    },
+    "how_it_makes_money": "Operators earn recurring monthly and annual subscription revenue from individuals and families; bundled revenue through banks, insurers, employers, credit card issuers, telecoms, and benefits platforms; breach-response contracts that provide affected consumers with free monitoring after incidents; upsells into cyber protection, VPN, device security, data broker removal, credit locks, financial wellness tools, and identity theft insurance; and enterprise identity verification, fraud analytics, and restoration services.",
+    "cost_structure": "Major costs are software engineering, cloud infrastructure, data licensing from credit bureaus and identity-data providers, call-center and restoration specialists, insurance or reimbursement program costs, customer acquisition, affiliate commissions, brand advertising, compliance, legal costs, and breach-response fulfillment. The 2021 IBISWorld baseline showed a relatively high profit profile at 14.1% of revenue, but 2025-2026 margins are pressured by paid search costs, fraud-data licensing, AI and model development, privacy compliance, and higher expectations for 24/7 support.",
+    "major_players": [
+      "Gen Digital / Norton LifeLock",
+      "Experian",
+      "TransUnion / IdentityForce / TrueIdentity",
+      "Equifax / ID Watchdog",
+      "Aura / Identity Guard",
+      "Allstate Identity Protection",
+      "Kroll",
+      "LexisNexis Risk Solutions",
+      "AllClear ID"
+    ],
+    "current_dynamics": "Demand is being pulled by record data compromise counts, AI-enabled phishing and impersonation, account takeover, new-account fraud, and consumers receiving repeated breach notices. At the same time, basic credit alerts are commoditized because banks, credit cards, credit bureaus, and breach settlements often provide free monitoring. The strategic center is moving toward bundled protection: identity monitoring plus device security, scam reimbursement, data broker removal, credit locks, family controls, financial wellness, and human restoration. Enterprise demand is also rising because companies use identity protection as a breach-response remedy and as an employee or customer retention benefit.",
+    "whats_growing": "Fast-growing lines include family and household plans, data broker removal, dark-web and credential monitoring, account takeover alerts, new-account fraud controls, AI-assisted scam detection, employer-sponsored benefits, breach-response monitoring, identity restoration services, and enterprise identity intelligence for digital onboarding. Consumer plans with broader cyber, privacy, and financial features are outgrowing standalone credit monitoring.",
+    "whats_shrinking": "Standalone paid credit monitoring is losing distinctiveness as free credit scores, free annual credit reports, bank alerts, credit freezes, fraud alerts, card transaction notices, and post-breach no-cost monitoring reduce willingness to pay for narrow services. Marketing claims that imply theft can be fully prevented are also less durable because regulators and consumer agencies emphasize that these products mainly monitor, alert, and help remediate after exposure.",
+    "recent_developments": [
+      "2025-01-29: ITRC reported 3,322 U.S. data compromises in 2025, a record and 5% above 2024.",
+      "2025-03-28: Gen Digital reported fiscal 2025 identity and information protection revenue of $1.423 billion, up from $1.328 billion in fiscal 2024.",
+      "2025-04-17: Gen Digital completed its MoneyLion acquisition, adding financial wellness and credit-building capabilities to its identity and cyber safety portfolio.",
+      "2025-08-26: TransUnion notified affected consumers after a July 2025 third-party application breach affecting 4,461,511 people and offered two years of myTrueIdentity monitoring.",
+      "2026-02-27: Experian announced the acquisition of AtData to strengthen email-based identity intelligence and fraud decisioning.",
+      "2026-04-21: Javelin reported 2025 identity fraud and scam losses of $38 billion, with new-account fraud losses rising 13% to $7 billion."
+    ],
+    "outlook": "The industry should keep growing through 2026 as identity exposure becomes a permanent consumer and enterprise risk, but the winners will be firms that can prove faster alerts, higher-quality remediation, and broader protection than free alternatives. Growth is likely to come more from bundled identity, cyber, privacy, and financial products than from classic credit monitoring alone. Consolidation should continue because large credit bureaus, cybersecurity brands, insurers, and breach-response vendors have data, distribution, and trust advantages, while smaller operators face higher marketing and compliance costs.",
+    "themes": [
+      "AI-enabled fraud raises perceived need for monitoring",
+      "Free credit tools commoditize basic alerts",
+      "Breach-response contracts create episodic enterprise demand",
+      "Subscription bundles replace standalone credit monitoring",
+      "Data broker removal becomes a mainstream feature",
+      "Account takeover and new-account fraud drive product innovation",
+      "Regulatory scrutiny limits overpromising and dark-pattern subscriptions"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/identity-theft-protection-services.txt",
+      "https://www.fortunebusinessinsights.com/identity-theft-protection-services-market-105125",
+      "https://www.psmarketresearch.com/market-analysis/us-identity-theft-protection-services-market",
+      "https://www.idtheftcenter.org/post/2025-annual-data-breach-report-record-number-compromises/",
+      "https://javelinstrategy.com/press-release/fraud-losses-stabilize-ai-driven-threats-are-eroding-trust",
+      "https://javelinstrategy.com/whitepapers/2026-identity-fraud-study-illusion-progress",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-data-show-people-reported-losing-3-point-5-billion-imposter-scams-2025",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024",
+      "https://www.sec.gov/Archives/edgar/data/849399/000084939925000033/gen-20250328.htm",
+      "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3dcd9b7c-bce3-4685-bffd-f728ce96e2fd.html",
+      "https://www.experian.com/blogs/news/2026/02/27/experians-acquisition-of-atdata/",
+      "https://www.consumerfinance.gov/ask-cfpb/what-is-identity-monitoring-or-identity-theft-service-en-1369/"
+    ],
+    "one_sentence": "U.S. identity theft protection services sell consumer and enterprise subscriptions that monitor credit files, dark-web exposure, accounts, public records, and breached credentials, then monetize alerts, restoration support, insurance add-ons, and breach-response contracts.",
+    "slug": "identity-theft-protection-services"
+  },
+  {
+    "title": "Immigration Lawyers & Attorneys",
+    "sector": "Business Services",
+    "one_liner": "A fragmented legal-services niche benefiting from immigration backlogs, rule churn and employer visa demand, while self-filing tools pressure simple petition work.",
+    "overview": "The US Immigration Lawyers & Attorneys industry provides legal services tied to immigration status, including family-sponsored petitions, employment-based visas, diversity visas, asylum and refugee matters, naturalization, waivers, DACA-related renewals, bond hearings and removal defense. The 2026 market is materially larger than the 2022 baseline because reopened migration channels, high court and agency backlogs, employer demand for global talent, and 2025 policy reversals have lifted case complexity and urgency. The industry remains highly fragmented, with no firm above 5% share in 2026, and is dominated by small practices, specialist boutiques, nonprofit-adjacent providers and immigration practices inside broader law firms.",
+    "key_stats": {
+      "market_size": "2026: $10.6 billion in US revenue",
+      "growth": "2021-2026 CAGR: 2.6%",
+      "businesses": "2026: 18,417 businesses",
+      "concentration": "2026: highly fragmented; no company holds more than 5% market share",
+      "immigration_court_backlog": "June 2026: 3,195,137 active immigration court cases pending",
+      "asylum_court_backlog": "June 2026: 2,310,698 immigrants awaiting asylum hearings or decisions in immigration court",
+      "fy2025_family_preference_limit": "FY2025: 226,000 worldwide family-sponsored preference visas",
+      "fy2025_employment_preference_limit": "FY2025: 150,037 worldwide employment-based preference visas",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $6.235 billion in revenue, in 2022 dollars",
+      "growth": "2022: 5.2% annual revenue growth; 2017-2022 CAGR: 1.2%",
+      "profit": "2022: $892 million profit",
+      "profit_margin": "2022: 14.3% profit margin",
+      "establishments": "2022: 13,378 establishments",
+      "enterprises": "2022: 13,115 enterprises",
+      "employment": "2022: 14,194 employees",
+      "wages": "2022: $3.453 billion in wages",
+      "product_mix": "2022: family-sponsored immigrants 62.5%, employment-based immigrant visas 19.8%, refugees and asylees 10.4%, diversity programs 4.2%, other categories 3.1%"
+    },
+    "how_it_makes_money": "Revenue comes from hourly billing, flat-fee packages and retainers for family petitions, adjustment of status, naturalization, employment-based visa filings, PERM and I-140 support, investor visas, asylum applications, waivers, bond and removal defense, appeals, compliance audits and employer advisory work. Higher-value work is concentrated in complex employment, litigation, asylum, waiver and removal matters; lower-value routine forms face self-filing and online-service competition.",
+    "cost_structure": {
+      "labor": "2022: wages equaled about 55.4% of revenue based on $3.453 billion of wages against $6.235 billion of revenue",
+      "profit": "2022: profit margin was 14.3%; baseline outlook expected 2027 profit margin of 14.1%",
+      "other_costs": "2022: remaining revenue mainly covered rent, insurance, technology, research tools, marketing, professional dues, interpreters, contract legal support and general overhead",
+      "cost_trend": "2025-2026: labor, malpractice insurance, secure client portals, e-filing systems and compliance research costs are rising as rule changes and backlogs increase attorney time per matter"
+    },
+    "major_players": [
+      "Fragomen, Del Rey, Bernsen & Loewy LLP",
+      "Berry Appleman & Leiden LLP",
+      "Seyfarth Shaw LLP immigration practice",
+      "Ogletree Deakins immigration practice",
+      "Greenberg Traurig immigration practice",
+      "Small specialist firms and solo immigration practices"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions. Employer-side work is supported by continued H-1B, PERM, I-140, O-1, L-1 and EB category demand, but visa caps and retrogression create longer advisory cycles rather than simple filing volume. Consumer and humanitarian work is elevated by asylum, removal defense, bond, family petition and naturalization backlogs. USCIS online filing and self-help tools continue to commoditize straightforward forms, but 2025-2026 policy volatility, enforcement expansion and court congestion raise the value of counsel in complex or high-risk cases.",
+    "whats_growing": "Complex removal defense, asylum merits work, bond hearings, family-based adjustment, waiver work, employment-based green card strategy, H-1B cap and compliance advice, EB-2 NIW and high-skill petitions, employer immigration audits, and client technology that manages documents, deadlines and case status updates.",
+    "whats_shrinking": "Routine low-complexity form preparation, standalone employment authorization filings, simple naturalization applications handled without counsel, commoditized online packages, and discretionary work by price-sensitive applicants when consumer budgets are tight or expected approval odds decline.",
+    "recent_developments": [
+      "2025-01-17: DHS H-1B and H-2 final rules took effect, revising Form I-129 and modernizing selected worker-visa requirements.",
+      "2025-01-20: Executive Order 14159 directed federal agencies to prioritize immigration enforcement and revive stricter enforcement policies.",
+      "2025-03-31: USCIS announced enough FY2026 H-1B registrations had been selected to meet the regular and advanced-degree caps, with petitions opening April 1, 2025.",
+      "2025-09-04: EOIR reported more than 722,000 immigration court case completions in the first 11 months of FY2025 and a pending caseload below 3.75 million.",
+      "2025-09-30: FY2025 diversity visa eligibility ended, while the September 2025 Visa Bulletin warned that employment-based category limits could be reached in August or September 2025.",
+      "2026-06-30: TRAC reported 3,195,137 active immigration court cases and 2,310,698 pending asylum hearing or decision cases."
+    ],
+    "outlook": "The 2026-2031 outlook is positive but uneven. Revenue should be supported by enforcement-driven removal defense, durable family immigration demand, employment-based scarcity, long priority-date queues, asylum backlogs and frequent policy changes. Margin expansion will be limited by attorney labor costs, client price sensitivity, pro bono or discounted humanitarian work, and online filing substitutes. Firms with multilingual intake, high-volume case management systems, litigation depth and employer compliance practices are best positioned.",
+    "themes": [
+      "Policy volatility",
+      "Backlog-driven demand",
+      "Fragmented specialist market",
+      "Employment visa scarcity",
+      "Family immigration resilience",
+      "Asylum and removal defense",
+      "Online filing pressure",
+      "Labor-intensive service model"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld Immigration Lawyers & Attorneys in the US Industry Data and Analysis', 'url': 'https://www.ibisworld.com/united-states/industry/immigration-lawyers-attorneys/4808/', 'date': 'January 2026', 'notes': 'Used for 2026 market size, 2021-2026 CAGR, business count and concentration.'}",
+      "{'name': 'Baseline IBISWorld text file supplied by user', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/immigration-lawyers-and-attorneys.txt', 'date': 'April 29, 2022', 'notes': 'Used for 2022 revenue, growth, profit, wages, establishments, enterprises, employment and product mix.'}",
+      "{'name': 'USCIS FY2026 H-1B Initial Registration Selection Process Completed', 'url': 'https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3d99835', 'date': 'March 31, 2025', 'notes': 'Used for FY2026 H-1B cap and petition timing.'}",
+      "{'name': 'US Department of State Visa Bulletin for September 2025', 'url': 'https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2025/visa-bulletin-for-september-2025.html', 'date': 'August 4, 2025', 'notes': 'Used for FY2025 family and employment preference limits and visa availability pressure.'}",
+      "{'name': 'US Department of Justice EOIR Significant Immigration Court Milestones', 'url': 'https://www.justice.gov/eoir/pr/eoir-announces-significant-immigration-court-milestones', 'date': 'September 4, 2025', 'notes': 'Used for FY2025 court completions and pending caseload reduction.'}",
+      "{'name': 'TRAC Immigration Court Quick Facts', 'url': 'https://www.tracreports.org/immigration/quickfacts/eoir.html', 'date': 'June 2026', 'notes': 'Used for June 2026 court backlog, asylum backlog and case-flow indicators.'}",
+      "{'name': 'GovInfo Executive Order 14159, Protecting the American People Against Invasion', 'url': 'https://www.govinfo.gov/app/details/DCPD-202500126', 'date': 'January 20, 2025', 'notes': 'Used for 2025 enforcement-policy shift.'}",
+      "{'name': 'USCIS Immigration and Citizenship Data', 'url': 'https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data', 'date': 'October 8, 2025', 'notes': 'Used for FY2025 Q3 USCIS data availability, backlog/frontlog, DACA, naturalization and petition-report context.'}"
+    ],
+    "one_sentence": "Immigration lawyers and attorneys advise individuals, families, employers and humanitarian applicants on visas, green cards, naturalization, asylum, removal defense and compliance with a rapidly shifting US immigration system.",
+    "slug": "immigration-lawyers-and-attorneys"
+  },
+  {
+    "title": "In-Home Senior Care Franchises",
+    "sector": "Healthcare",
+    "one_liner": "Franchised in-home senior care is a growing, labor-intensive healthcare services niche built around aging-in-place demand, caregiver availability, and local franchise execution.",
+    "overview": "The industry sits between healthcare and consumer services: demand is driven by the 2024 U.S. population age 65+ reaching 61.2 million, by the 2024 AARP finding that 75% of adults age 50+ want to remain in their current homes, and by family efforts to avoid or delay institutional care. Franchises scale through territory licensing, brand marketing, caregiver recruiting systems, training, scheduling software and compliance support, while local operators earn service revenue from private-pay clients, long-term-care insurance, Medicaid waiver programs, veterans programs and, for licensed medical services, Medicare or Medicare Advantage contracts. The market remains fragmented, with many local independents competing against national brands such as Home Instead, Visiting Angels, Right at Home, Comfort Keepers, Senior Helpers and BrightStar Care.",
+    "key_stats": {
+      "market_size": "2026 U.S. in-home senior care franchise revenue is estimated near $17.6 billion based on the baseline IBISWorld 2021 forecast; the broader U.S. Elderly & Disabled Services market was $80.1 billion in 2025.",
+      "growth": "The baseline forecast was 2.6% CAGR for 2021-2026; broader U.S. Elderly & Disabled Services grew 3.4% in 2025, according to IBISWorld public market-size data.",
+      "older_adult_population": "61.2 million U.S. residents age 65+ in 2024, up 3.1% from 2023, according to the U.S. Census Bureau.",
+      "age_in_place_preference": "75% of U.S. adults age 50+ wanted to remain in their current homes in AARP's 2024 survey.",
+      "care_cost_benchmark": "2025 national median nonmedical in-home caregiver rate was $35 per hour, or $80,080 annually at 44 hours per week, according to CareScout/Genworth.",
+      "labor_benchmark": "4,305,810 U.S. home health and personal care aides were employed in May 2025, with mean pay of $17.36 per hour and $36,120 per year, according to BLS OEWS.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $15.9 billion in 2022 revenue, estimated from the baseline file's 2021 revenue of $15.5 billion and its 2021-2026 forecast CAGR of 2.6%.",
+      "growth": "About 2.6% in 2022, using the baseline file's 2021-2026 forecast CAGR.",
+      "context": "Baseline file last updated 2021 reported 2021 revenue of $15.5 billion, 2021 profit margin of 16.2%, 12,598 establishments, 9,025 enterprises, 464,328 employees and $9.4 billion in wages."
+    },
+    "how_it_makes_money": "Operators bill hourly or visit-based fees for personal care, homemaker and companion services, respite care, dementia support, transportation, medication reminders and care coordination. Revenue is mostly recurring and local, with payment from private-pay households, long-term-care insurance, Medicaid home- and community-based services waivers, veterans benefits, and limited Medicare reimbursement where the franchise or affiliate is licensed for skilled home health. Franchisors earn upfront franchise fees, continuing royalties, marketing fund contributions, technology fees and sometimes transfer or renewal fees.",
+    "cost_structure": "Caregiver wages dominate costs; the baseline file put wages at 60.6% of 2021 revenue, and BLS reported May 2025 mean pay of $17.36 per hour for home health and personal care aides. Other costs include recruiting, background checks, training, workers' compensation, scheduling and EVV software, insurance, local advertising, mileage reimbursement, office staff, regulatory compliance and franchisor royalties. Major brands commonly charge around 5% royalties, and 2025-2026 FDD data cited initial investments such as $92,640-$350,550 for Home Instead and $119,560-$190,700 for Comfort Keepers.",
+    "major_players": [
+      "Home Instead: 2024 global system sales reported at $2.46 billion and 1,198 total locations in Franchise Times coverage published October 2025; directory counts in 2026 show roughly 631 U.S. offices.",
+      "Visiting Angels: major nonmedical home care franchise with 2024 franchise materials citing about $120,000 initial investment and $2.3 million median gross revenue.",
+      "Right at Home: large franchised home care network, listed by HCAOA among 2025 Franchise 500 honorees and tracked at roughly 485-511 U.S. offices in 2025-2026 directories.",
+      "Comfort Keepers: over 600 North American territories in April 2025 company announcement; 2025 FDD data cited $119,560-$190,700 initial investment and 5% royalty.",
+      "Senior Helpers: national senior care franchise and 2025 Franchise 500 honoree, tracked at roughly 350-385 offices in 2025-2026 directories.",
+      "BrightStar Care: mixed medical and nonmedical home care franchise, 2025 Franchise 500 honoree, tracked at roughly 332-340 offices in 2025-2026 directories."
+    ],
+    "current_dynamics": "Demand is strong, but capacity is constrained by caregiver recruitment, wage inflation, turnover and state-by-state licensing rules. Private-pay demand is helped by families comparing in-home care with assisted living and nursing home costs, while Medicare-certified home health operators face reimbursement pressure: CMS finalized a 2026 aggregate Medicare home health payment decrease of 1.3%, or $220 million, versus 2025. Franchise systems are leaning into local lead generation, caregiver retention, dementia care, technology-enabled scheduling, family portals and multi-unit ownership to protect margins.",
+    "whats_growing": "Companion care, personal care, dementia and Alzheimer's support, respite care, post-acute transitions, live-in or extended-hour care, Medicaid waiver-funded home- and community-based services, veterans-related home care, caregiver matching platforms, remote monitoring, fall prevention, family communication tools and multi-territory franchise ownership are growing. Aging-in-place demand is reinforced by the 2024 AARP survey and the 2024 Census estimate showing the 65+ population at 18.0% of the U.S. population.",
+    "whats_shrinking": "Pandemic-driven PPE spikes have eased from 2020-2021 levels, but margins are pressured by wage growth and recruiting costs. Traditional facility-based substitution loses appeal when seniors can safely remain at home, but full-time private-pay home care is becoming less affordable for middle-income households as 2025 nonmedical caregiver costs reached $80,080 annually at 44 hours per week. Medicare-certified home health margins are also pressured by CMS's 2026 payment reductions, which can make lower-margin skilled visits less attractive than private-pay nonmedical care for some franchise networks.",
+    "recent_developments": [
+      "2025-01-22: HCAOA reported multiple senior care franchise brands, including Senior Helpers, Home Instead, BrightStar Care, Griswold, Right at Home, Homewatch CareGivers and Comfort Keepers, appeared in Entrepreneur's 2025 Franchise 500.",
+      "2025-04-29: Comfort Keepers said it had over 600 North American territories and highlighted growth after moving to a fully franchised model.",
+      "2025-06-26: The U.S. Census Bureau reported the U.S. age-65+ population rose 3.1% to 61.2 million in 2024.",
+      "2025-10-24: Home Health Care News reported that 14 home-based care companies appeared in the Franchise Times Top 400, with Home Instead, Visiting Angels, Right at Home and Comfort Keepers among the top 100.",
+      "2025-11-28: CMS finalized the CY 2026 Home Health PPS rule, estimating Medicare home health payments would decrease 1.3%, or $220 million, versus CY 2025.",
+      "2026-03-02: CareScout/Genworth reported the 2025 national median nonmedical in-home caregiver rate rose 3% year over year to $35 per hour."
+    ],
+    "outlook": "The outlook is positive for demand but mixed for profitability. Through 2026, demographic growth, aging-in-place preferences and high facility-care costs should keep client volumes rising, while caregiver shortages, wage inflation and reimbursement pressure keep expansion disciplined. Franchise systems with strong recruitment funnels, scheduling technology, local referral networks, Medicaid/private-pay balance and dementia-care specialization are best positioned. The baseline 2021 forecast of $17.6 billion in 2026 U.S. franchise revenue remains directionally reasonable, while broader elderly and disabled services reached $80.1 billion in 2025 and grew 3.4%.",
+    "themes": [
+      "Aging in place",
+      "Caregiver shortage",
+      "Private-pay affordability",
+      "Medicaid HCBS expansion",
+      "Medicare reimbursement pressure",
+      "Franchise consolidation",
+      "Dementia care specialization",
+      "Scheduling and family communication technology",
+      "Multi-unit franchise ownership",
+      "Sun Belt senior migration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/in-home-senior-care-franchises.txt",
+      "https://www.ibisworld.com/united-states/market-size/elderly-disabled-services/1607/",
+      "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html",
+      "https://www.aarp.org/press/releases/2024-12-10-new-aarp-report-majority-adults-50-plus-age-place-policies-communities-catch-up.html",
+      "https://www.bls.gov/news.release/ocwage.t01.htm",
+      "https://investor.genworth.com/news-events/press-releases/detail/1054/carescout-releases-2025-cost-of-care-survey-results",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-home-health-prospective-payment-system-final-rule-cms-1828-f",
+      "https://www.hcaoa.org/newsletters/congratulations-to-hcaoa-members-on-franchise-500-recognition6927213",
+      "https://homehealthcarenews.com/2025/10/14-home-based-care-companies-earn-spots-on-the-franchise-times-top-400-list/",
+      "https://www.prweb.com/releases/comfort-keepers-achieves-major-milestones-in-q1-2025-as-fully-franchised-model-accelerates-growth-302439210.html",
+      "https://franchisedepth.com/compare/comfort-keepers-vs-home-instead/",
+      "https://franchise.visitingangels.com/",
+      "https://homecareatlas.com/franchise-and-corporate"
+    ],
+    "one_sentence": "U.S. in-home senior care franchises provide nonmedical personal care, companionship, respite care, transportation, meal help and, in some systems, skilled home health services to older adults who want to remain at home.",
+    "slug": "in-home-senior-care-franchises"
+  },
+  {
+    "title": "Independent Label Music Production in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "Independent labels are growing again as streaming scale, vinyl fandom and direct-to-fan channels offset the long decline in downloads and traditional album sales.",
+    "overview": "Independent labels find talent, finance recordings, own or administer master recordings and distribute music through streaming platforms, physical retail, direct-to-consumer channels and licensing buyers. The industry has shifted from a 2022 baseline shaped by pandemic-era touring disruption and declining album purchases to a 2025 market where streaming is the primary monetization channel, vinyl remains resilient and low-cost digital distribution has expanded the number of businesses. The market remains fragmented, but scale advantages matter: labels with strong catalogs, sync capabilities, analytics, playlist relationships and artist-service infrastructure can compound revenue more effectively than small labels that depend on one or two releases.",
+    "key_stats": {
+      "market_size": "$668.6 million in 2025 industry revenue",
+      "growth": "1.7% estimated revenue growth in 2025",
+      "five_year_growth": "10.4% CAGR from 2020 to 2025",
+      "businesses": "8,712 businesses in 2025",
+      "employees": "9,151 employees in 2025",
+      "broader_us_recorded_music": "$11.5 billion wholesale US recorded music revenue in 2025",
+      "streaming_backdrop": "$9.5 billion US streaming revenue in 2025, equal to 82% of US recorded music revenue",
+      "paid_subscription_backdrop": "106.5 million US paid subscription accounts in 2025",
+      "vinyl_backdrop": "46.8 million US vinyl units and more than $1.0 billion vinyl revenue in 2025",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$375.2 million in 2022 revenue",
+      "growth": "-2.1% expected 2022 revenue growth",
+      "five_year_growth": "-0.1% CAGR from 2017 to 2022",
+      "profit": "$28.0 million in 2022 profit",
+      "profit_margin": "7.5% in 2022",
+      "establishments": "700 establishments in 2022",
+      "enterprises": "698 enterprises in 2022",
+      "employment": "1,348 employees in 2022",
+      "wages": "$86.0 million in 2022 wages",
+      "product_mix_2022": {
+        "on_demand_audio_streaming": "73.9% of 2022 revenue",
+        "on_demand_video_streams": "15.2% of 2022 revenue",
+        "physical_sales": "6.5% of 2022 revenue",
+        "digital_album_sales": "2.4% of 2022 revenue",
+        "digital_track_sales": "2.0% of 2022 revenue"
+      }
+    },
+    "how_it_makes_money": "Labels earn revenue from streaming royalties, digital and physical music sales, master-use licensing, synchronization licensing for film, TV, games and ads, neighboring-rights and digital performance payments, distribution fees, merchandise, direct-to-fan bundles and broader artist-services or 360-style arrangements. Streaming is the core recurring revenue source, while vinyl, limited editions, D2C drops and sync placements provide higher-margin upside for labels with loyal audiences or licensable catalogs.",
+    "cost_structure": "Major costs include artist advances and royalties, recording and production budgets, marketing and playlist promotion, digital distribution fees, vinyl and CD manufacturing, freight and fulfillment, legal and accounting services, publishing and sample-clearance administration, staff wages, A&R, data tools and overhead. Independent labels usually outsource pressing, fulfillment and some distribution, keeping capital intensity low, but margins can be pressured by royalty splits, upfront artist investment, rising marketing costs and low per-stream payouts.",
+    "major_players": [
+      "{'name': 'Concord Music Group', 'position': 'Largest identified company in the 2025 IBISWorld public summary', '2025_revenue': '$220.9 million', '2025_profit': '$58.4 million', '2025_profit_margin': '26.4%'}",
+      "{'name': 'Beggars Group', 'position': 'Influential independent label group with labels such as 4AD, Matador, Rough Trade, XL Recordings and Young'}",
+      "{'name': 'Secretly Group', 'position': 'Independent label and distribution group active through labels including Dead Oceans, Jagjaguwar and Secretly Canadian'}",
+      "{'name': 'Epitaph Records', 'position': 'Long-running independent label with punk, alternative and rock catalog strength'}",
+      "{'name': 'Sub Pop', 'position': 'Independent label with durable catalog value and alternative music brand equity'}"
+    ],
+    "current_dynamics": "The 2025 market is more favorable than the 2022 baseline because streaming penetration has deepened and digital distribution has lowered entry barriers. However, growth is not evenly distributed: catalog owners, labels with strong artist brands and labels that can monetize fandom through vinyl and D2C releases are better positioned than labels reliant on low-scale streaming alone. The competitive set now includes major-label distribution arms, artist-owned imprints, DIY distributors and social platforms, so independent labels must prove they add A&R judgment, marketing leverage, rights administration and community credibility rather than simple access to Spotify or Apple Music.",
+    "whats_growing": [
+      "Paid streaming subscriptions: US paid subscription accounts reached 106.5 million in 2025.",
+      "Streaming revenue: US streaming revenue reached $9.5 billion in 2025 and remained 82% of recorded music revenue.",
+      "Vinyl and collectibles: US vinyl revenue surpassed $1.0 billion in 2025, with vinyl unit sales at 46.8 million.",
+      "Direct-to-consumer physical sales: Luminate reported D2C reached 13.6% of US physical album sales in 2025, up 2.1 share points from 2024.",
+      "Independent distribution volume: Luminate reported 106,000 average daily ISRC deliveries to DSPs in 2025, up 7% from 99,000 in 2024, with growth coming from independent distribution."
+    ],
+    "whats_shrinking": [
+      "Digital downloads: the 2022 baseline showed digital albums and tracks at only 4.4% of independent-label revenue, and the broader US download market continues to be pressured by streaming substitution.",
+      "CD relevance: vinyl led US physical formats again in 2025, selling 46.8 million units versus 29.5 million CD units.",
+      "Traditional record-store dependence: physical retail still matters for vinyl culture, but streaming and D2C channels have reduced the need for independent labels to rely on brick-and-mortar sales.",
+      "Small-label bargaining power: competition from major-label distribution arms and DIY aggregators limits pricing power for labels that do not own differentiated catalogs or provide meaningful artist services."
+    ],
+    "recent_developments": [
+      "May 2025: IBISWorld estimated Independent Label Music Production in the US revenue at $668.6 million for 2025, up 1.7% in 2025.",
+      "Sep 9 2025: RIAA reported H1 2025 US recorded music wholesale revenue of $5.6 billion, with streaming at $4.68 billion and 84% of the market.",
+      "Aug 19 2025: Recording Academy highlighted 2025 creator-policy priorities around AI training, digital replicas and the HITS Act.",
+      "Jan 6 2026: Copyright Royalty Judges opened the Phonorecords V proceeding for 2028-2032 mechanical royalty rates.",
+      "Mar 16 2026: RIAA reported 2025 US recorded music wholesale revenue of $11.5 billion, streaming revenue of $9.5 billion and 106.5 million paid subscription accounts.",
+      "Mar 31 2026: Luminate reported 2025 US total album consumption up 4.8% and physical album sales up 6.5%."
+    ],
+    "outlook": "Industry revenue is expected to grow over the next five years from the 2025 base, but the quality of that growth will depend on labels’ ability to build durable catalogs, negotiate favorable distribution terms, convert attention into fandom revenue and manage rights across streaming, short-form video, sync and AI-adjacent licensing. Streaming will remain the dominant revenue channel, while vinyl, D2C bundles, sync licensing and artist services should provide the most attractive incremental economics. Key risks are royalty-rate disputes, platform concentration, rising marketing costs, AI-generated music saturation and the ability of successful independent artists to bypass labels entirely.",
+    "themes": [
+      "Streaming economics",
+      "Vinyl resurgence",
+      "Direct-to-fan monetization",
+      "Catalog and sync licensing",
+      "DIY distribution competition",
+      "AI and rights protection",
+      "Major-label distribution pressure",
+      "Low capital intensity",
+      "Fragmented competition",
+      "Artist-services expansion"
+    ],
+    "data_year": 2025,
+    "sources": [
+      "{'name': 'Baseline file: Independent Label Music Production in the US, IBISWorld, last updated Jul 28 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/independent-label-music-production-in-the-us.txt'}",
+      "{'name': 'IBISWorld public industry page, Independent Label Music Production in the US, May 2025', 'url': 'https://www.ibisworld.com/united-states/industry/independent-label-music-production/1251/'}",
+      "{'name': 'RIAA 2025 Year-End Recorded Music Revenue Report press release, Mar 16 2026', 'url': 'https://www.riaa.com/riaa-reports-us-recorded-music-annual-revenue-achieves-new-high-of-11-5-billion-in-2025/'}",
+      "{'name': 'RIAA 2025 Mid-Year Music Industry Revenue Report, Sep 9 2025', 'url': 'https://www.riaa.com/reports/2025-mid-year-music-industry-revenue-report-riaa/'}",
+      "{'name': 'Luminate 2025 Year-End Music Report', 'url': 'https://view.ceros.com/luminate-data/luminate-year-end-music-report-2025-1'}",
+      "{'name': 'Luminate blog on 2025 physical sales, Mar 31 2026', 'url': 'https://luminatedata.com/blog/taylor-swift-wasnt-the-only-winner-of-physical-sales-in-2025/'}",
+      "{'name': 'Copyright Royalty Board announcements, 2026 and Phonorecords IV/VI updates', 'url': 'https://www.crb.gov/announcements/'}",
+      "{'name': 'Recording Academy AI legislative developments for creators, Aug 19 2025', 'url': 'https://www.recordingacademy.com/advocacy/news/artificial-intelligence-legislative-developments-train-act'}"
+    ],
+    "one_sentence": "The US independent label music production industry reached an estimated $668.6 million in 2025 revenue, up 1.7% in 2025 and up 10.4% annualized from 2020 to 2025, as small labels used digital distribution, streaming royalties, vinyl, sync licensing and artist services to compete with major-label ecosystems.",
+    "slug": "independent-label-music-production-in-the-us"
+  }
+]

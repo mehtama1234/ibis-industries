@@ -1,0 +1,407 @@
+[
+  {
+    "title": "Audio Production Studios in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "A fragmented studio-services industry selling recording, mixing, mastering, sound design and spoken-word production to music, screen, advertising, podcast and audiobook clients.",
+    "overview": "Audio production studios provide facilities, engineers and postproduction expertise for recording, editing, mixing, mastering, sound design, foley, dubbing, radio spots, podcasts and audiobook narration. The baseline 2022 industry was recovering from pandemic closures with $1.473 billion of revenue and a 9.0% EBIT margin, but the 2025-2026 demand mix is more digital: recorded music is dominated by paid streaming, advertising is shifting to video, creator and podcast formats, and audiobooks continue to expand. The core structural tension is unchanged in 2026: professional rooms and experienced engineers remain valuable for high-end masters, sync, voice, film/TV and commercial work, while affordable interfaces, DAWs, plug-ins, remote collaboration and AI-assisted editing let more creators produce usable audio outside traditional studios.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: $1.52 billion in 2022 dollars, derived from the 2022 IBISWorld baseline of $1.473 billion and its 2022-2028 projected CAGR of 1.01%.",
+      "growth": "2025 estimated industry growth: about 1.0% year over year; 2022-2028 projected CAGR: 1.01%.",
+      "profit_margin": "2022 EBIT margin: 9.0%; margins in 2025-2026 are pressured by price competition, labor costs and clients substituting home or remote production for basic recording.",
+      "establishments": "2022 baseline establishments: 30,675; 2022-2028 projected establishment CAGR: 6.09%, reflecting many small and nonemployer operators.",
+      "employment": "2022 baseline employment: 31,183; 2026 baseline forecast employment: 36,519.",
+      "downstream_music": "2025 US recorded music wholesale revenue: $11.5 billion; 2025 streaming revenue: $9.5 billion; 2025 paid streaming accounts: 106.5 million.",
+      "downstream_advertising": "2025 US internet advertising revenue: $294.6 billion, up 13.9% year over year; 2025 podcast advertising revenue: $2.9 billion, up 17.6%.",
+      "downstream_audiobooks": "2025 US audiobook sales revenue: $2.43 billion, up 9%; 2025 active audiobook titles exceeded 750,000.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $1.473 billion in 2022 dollars.",
+      "growth": "2022 revenue growth: 1.6%; 2017-2022 revenue CAGR: 4.7%; 2022-2028 projected CAGR: 1.01%.",
+      "profit": "2022 profit: $133 million.",
+      "profit_margin": "2022 EBIT margin: 9.0%, down from 13.5% in 2017.",
+      "industry_gross_product": "2022 industry gross product: $609 million.",
+      "establishments": "2022 establishments: 30,675.",
+      "enterprises": "2022 enterprises: 30,649.",
+      "employment": "2022 employment: 31,183.",
+      "wages": "2022 wages: $451 million.",
+      "product_mix": "2022 revenue mix: music recording 47.0%, postproduction/sound editing/design 32.6%, spoken word recording 8.6%, radio recording 7.8%, other sound editing and production 4.0%."
+    },
+    "how_it_makes_money": "Studios earn revenue from hourly or project-based studio bookings, engineering, producer services, mixing, mastering, vocal production, foley, ADR/dubbing, sound design, commercial spot production, podcast and audiobook recording, remote session support and delivery of mastered files or stems. Higher-margin work tends to come from reputation-driven mastering, postproduction packages, long-form voice work, label or publisher relationships, and repeat commercial/media clients rather than commodity room rental.",
+    "cost_structure": {
+      "profit": "2022 profit was $133 million, equal to a 9.0% EBIT margin.",
+      "wages": "2022 wages were $451 million, about 30.6% of 2022 revenue; engineers, mixers, producers, editors and studio managers are the main controllable cost base.",
+      "rent_and_facilities": "Commercial studio economics depend on acoustically treated space, control rooms, isolation booths, utilities, insurance and maintenance; high-rent markets such as Los Angeles, New York and Nashville raise break-even utilization.",
+      "equipment_and_software": "Costs include microphones, consoles or control surfaces, monitors, computers, DAWs, plug-ins, storage, backup, licensing and periodic upgrades; falling equipment prices reduce barriers to entry but also compress rates.",
+      "contract_labor": "Freelance engineers, producers, session musicians, voice talent and editors are used to flex capacity around projects.",
+      "marketing_and_admin": "Reputation, referrals, label/publisher relationships, local scene visibility and digital portfolios matter more than scale advertising for many operators."
+    },
+    "major_players": [
+      "{'name': 'Fragmented independent studios', 'position': 'The industry has low concentration; the 2022 baseline notes very few studios operate more than one location and many producers operate independently.'}",
+      "{'name': 'Capitol Studios', 'position': 'High-profile Los Angeles recording and mastering facility tied to major-label and legacy catalog work.'}",
+      "{'name': 'Electric Lady Studios', 'position': 'New York studio known for premium music recording clients.'}",
+      "{'name': 'Sterling Sound', 'position': 'Specialist mastering business serving major-label, independent and catalog releases.'}",
+      "{'name': 'Blackbird Studio', 'position': 'Nashville recording complex serving country, rock, pop and session-driven projects.'}",
+      "{'name': 'The Village Studios', 'position': 'Los Angeles facility serving music, film, television and commercial production clients.'}"
+    ],
+    "current_dynamics": "In 2025-2026, demand is supported by streaming-driven label investment, premium vinyl releases, sync-heavy marketing, podcast/video ad growth, audiobooks and continuing OTT video production. At the same time, many artists and creators can capture professional-enough raw audio at home, shifting studio value toward engineering judgment, room quality, collaboration, mastering, postproduction, metadata/version management and fast delivery. AI noise reduction, stem separation, voice tools and automated mastering are productivity aids for studios but also cheaper substitutes for low-complexity work. The result is steady but modest revenue growth, high entry of small operators and continued pricing pressure outside the best-known rooms.",
+    "whats_growing": [
+      "Mixing, mastering and postproduction for creators who record at home but need release-quality output.",
+      "Podcast, video, social and creator advertising audio, supported by 2025 US podcast ad revenue of $2.9 billion and broader 2025 internet ad revenue of $294.6 billion.",
+      "Audiobook and spoken-word production, supported by 2025 audiobook sales of $2.43 billion and more than 750,000 active titles.",
+      "Sound design, foley, ADR, dubbing and localization for streaming video, games and online content.",
+      "Premium music projects tied to paid streaming, vinyl, sync placements and artist-brand campaigns."
+    ],
+    "whats_shrinking": [
+      "Basic room-rental sessions for demos and simple vocals as home studios and mobile rigs improve.",
+      "Physical-album-dependent demand, despite vinyl growth, because mainstream music consumption remains streaming-led rather than album-unit-led.",
+      "Radio-only recording work as ad spend and audiences move toward digital audio, podcasting and video platforms.",
+      "Undifferentiated local studios that compete mostly on price and equipment lists rather than talent, workflow or client relationships.",
+      "Manual cleanup and commodity editing where AI-assisted tools reduce billable hours."
+    ],
+    "recent_developments": [
+      "2025-03: RIAA reported 2024 US recorded music revenue of $17.7 billion retail and $11.3 billion wholesale, with paid streaming subscriptions reaching 100 million for the first time.",
+      "2025-09: RIAA mid-year 2025 data showed US recorded music revenue of $5.6 billion wholesale, streaming at 84% of revenue and paid subscriptions at 105 million accounts.",
+      "2026-03: RIAA reported 2025 US recorded music wholesale revenue of $11.5 billion, streaming revenue of $9.5 billion and paid streaming accounts of 106.5 million.",
+      "2026-04: IAB reported 2025 US internet advertising revenue of $294.6 billion, up 13.9%, with podcast advertising at $2.9 billion, up 17.6%.",
+      "2026-06: Publishers Weekly, citing the Audio Publishers Association, reported 2025 US audiobook sales of $2.43 billion, up 9%, and more than 750,000 active titles.",
+      "2026-06: PwC reported the 2025 US OTT video market at $113.3 billion and forecast a 2025-2030 CAGR of 6.8%, supporting ongoing audio postproduction demand."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but not high-growth. A reasonable 2025-2028 trajectory is about 1% annual revenue growth from the 2022 IBISWorld baseline, with faster growth in postproduction, spoken-word, podcast, advertising and streaming-video work offset by continued substitution of basic recording sessions into home studios. The best-positioned operators will sell specialist talent, workflow speed, acoustic quality, trusted mastering, ADR/foley capabilities, remote collaboration and relationships with labels, publishers, agencies and screen producers. The weakest operators will be small rooms exposed to low-budget artists and price-based competition.",
+    "themes": [
+      "Streaming-led music monetization",
+      "Home-studio substitution",
+      "Postproduction resilience",
+      "Podcast and creator advertising",
+      "Audiobook growth",
+      "AI-assisted audio workflows",
+      "Fragmented independent operators",
+      "Premium rooms and reputation",
+      "Sync, video and game audio demand",
+      "Labor-intensive creative services"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'title': 'Baseline file: Audio Production Studios in the US, IBISWorld-style report, last updated 2022-02-24', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/audio-production-studios-in-the-us.txt'}",
+      "{'title': 'RIAA 2025 Year-End Music Industry Revenue Report summary, 2026', 'url': 'https://www.riaa.com/reports/2025-year-end-music-industry-revenue-report-riaa/'}",
+      "{'title': 'RIAA 2025 Mid-Year US Recorded Music Revenue Report release, 2025-09-09', 'url': 'https://www.riaa.com/growth-in-paid-subscription-streaming-drives-mid-year-2025-us-recorded-music-revenues-to-new-high-reports-riaa/'}",
+      "{'title': 'RIAA 2024 Year-End Music Industry Revenue Report release, 2025-03-18', 'url': 'https://www.riaa.com/2024-year-end-music-industry-revenue-report-riaa/'}",
+      "{'title': 'IAB Internet Advertising Revenue Report: Full Year 2025 release, 2026-04-16', 'url': 'https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/'}",
+      "{'title': 'Publishers Weekly: US Audiobook Sales Grew 9% in 2025, 2026-06-08', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/100588-u-s-audiobook-sales-up-9-in-2025-reaches-2-43-billion.html'}",
+      "{'title': 'BLS Industry at a Glance: Motion Picture and Sound Recording Industries, data extracted 2026-08-07', 'url': 'https://www.bls.gov/iag/tgs/iag512.htm'}",
+      "{'title': 'PwC US Entertainment & Media Outlook 2026-2030, 2026-06-22', 'url': 'https://www.pwc.com/us/outlook'}",
+      "{'title': 'IBISWorld state page for Audio Production Studios, North Carolina, 2025', 'url': 'https://www.ibisworld.com/united-states/industry/north-carolina/audio-production-studios/34105/'}",
+      "{'title': 'Sweetspot NAICS 512240 federal market snapshot, 2025-2026', 'url': 'https://www.sweetspot.so/markets/federal/naics/sound-recording-studios-512240/'}"
+    ],
+    "one_sentence": "US audio production studios remain a small, mature and highly fragmented media-services market, with 2025 revenue estimated near $1.52 billion as streaming music, creator advertising, podcasting, video production and audiobooks support demand while home-studio technology and AI tools pressure pricing.",
+    "slug": "audio-production-studios-in-the-us"
+  },
+  {
+    "title": "Audiobook Publishing",
+    "sector": "Media & Entertainment",
+    "one_liner": "Audiobook publishing is still one of the fastest-growing book formats, but growth is shifting from simple digital conversion to platform distribution, subscription economics, audio-first originals, and AI-assisted production.",
+    "overview": "Audiobook publishers acquire or license audio rights, produce narrated editions, package metadata and cover assets, market titles, and distribute files through owned apps, subscription platforms, online retailers, library channels, and wholesalers. The industry moved decisively from physical CDs to downloads and streaming: IBISWorld's 2021 baseline put digital audiobooks at 95.4% of industry revenue, while APA reported that 99% of 2024 revenue came from digital audiobooks and 2025 sales remained overwhelmingly digital. Demand is supported by smartphones, commuting and household multitasking, subscription familiarity, celebrity and full-cast productions, strong fiction and romance demand, and expanding library app usage. The market remains concentrated around Amazon's Audible as the dominant retail and subscription ecosystem, but Spotify's bundled Premium listening hours and add-ons have introduced a large new platform buyer and pushed publishers to optimize across multiple monetization models.",
+    "key_stats": {
+      "market_size": "2025 U.S. audiobook sales revenue: $2.43 billion",
+      "growth": "2025 U.S. audiobook sales revenue growth: 9% year over year",
+      "active_titles": "2025 active audiobook titles reported by publishers: over 750,000, up 43% from 2024",
+      "digital_share": "2024 digital audiobooks: 99% of audiobook revenue",
+      "listener_reach": "2026 APA consumer survey: 58% of U.S. adults age 18+ had listened to an audiobook, about 157 million people",
+      "listening_behavior": "2026 APA survey: among audiobook listeners, 63% listened in the last year and 35% in the last month",
+      "access_channels": "2026 APA survey: 49% purchased from websites or apps, 48% used subscriptions, 46% borrowed through digital library apps, and 42% used dedicated audiobook credits",
+      "2026_ytd_indicator": "AAP May 2026 StatShot: Trade digital audio revenue was $500.4 million for the first five months of 2026, up 14.5% year over year",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 U.S. audiobook publisher revenue: $1.8 billion; AAP digital audio revenue: $1.81 billion",
+      "growth": "2022 APA audiobook revenue growth: 10%; 2022 AAP digital audio revenue growth: 2.6%",
+      "context": "2022 was the 11th consecutive year of double-digit APA-reported audiobook sales growth, though the growth rate slowed from the 2021 pandemic surge."
+    },
+    "how_it_makes_money": "Revenue comes from à la carte audiobook sales, subscription and credit-based royalties, wholesale and agency-model sales through retailers, library licensing and metered-access models, direct-to-consumer app and web sales, rights licensing, audio-first originals, bundled print/e-book/audio campaigns, and contract production services for publishers and authors. Large publishers monetize backlists by converting proven print and e-book titles to audio, while specialist studios and platforms monetize narration, casting, recording, editing, mastering, localization, and distribution services.",
+    "cost_structure": "Major costs are narrator and performer fees, studio time, audio engineering, editing, mastering, quality control, rights advances and royalties, production management, metadata and cover preparation, platform commissions, marketing, technology, and administrative labor. Digital distribution reduces replication, inventory, and shipping costs versus CDs, but subscription platforms pressure per-title realization and profit margins. Human-narrated premium titles carry high upfront production costs, while AI narration and translation can lower production costs for backlist and long-tail titles but introduce reputational, rights, disclosure, and quality-control costs.",
+    "major_players": [
+      "Audible / Amazon",
+      "Spotify / Findaway Voices",
+      "Apple Books",
+      "Google Play Books",
+      "Penguin Random House Audio",
+      "HarperAudio / HarperCollins",
+      "Simon & Schuster Audio",
+      "Macmillan Audio",
+      "Hachette Audio",
+      "RBmedia / Recorded Books",
+      "Podium Audio",
+      "Libro.fm",
+      "OverDrive / Libby",
+      "Hoopla Digital"
+    ],
+    "current_dynamics": "The market is expanding but maturing. APA-reported revenue growth slowed to 9% in 2025 after 13% growth in 2024, while active title supply jumped 43% in 2025, increasing competition for listener attention and reducing average revenue per available title. Spotify is broadening discovery through bundled Premium listening and paid Audiobooks+ hours, challenging Audible's long-running dominance without displacing it. Libraries are an important discovery and access channel, but publisher economics depend on licensing terms and usage caps. AI narration is moving from experiment to production workflow, especially for backlist and translation, but APA data show AI-narrated sales were only 0.03% of 2025 revenue and consumer willingness to try AI narration declined in the 2026 survey. Piracy is a sharper issue as free copies on YouTube and AI-generated imitations threaten rights holders.",
+    "whats_growing": "Digital subscriptions, direct app purchases, library app borrowing, Spotify-driven discovery, audio-first originals, fiction, humor, children's and YA audiobooks, romance and romantasy backlist listening, multilingual production, AI-assisted narration for long-tail catalogs, and publisher analytics around listener behavior are growing. Audio-first publications rose from $91.1 million in 2024 revenue to $136 million in 2025, up 50%, and accounted for 6% of 2025 net revenue.",
+    "whats_shrinking": "Physical CD audiobooks, mass-market physical audio channels, single-platform dependence, undifferentiated backlist releases, and e-book-style pricing power are shrinking. Physical audio was already a small legacy segment in IBISWorld's 2021 baseline and AAP's 2026 StatShot showed physical audio revenue down 6.3% year to date through May 2026. Average revenue per title is also under pressure as catalog supply expands faster than total sales.",
+    "recent_developments": [
+      "2025-05-13: Audible announced AI narration and AI translation tools for select publishing partners, including more than 100 AI-generated voices and beta translation pathways.",
+      "2025-06-02: APA sales data showed 2024 U.S. audiobook sales rose 13% to about $2.22 billion, with digital audio accounting for 99% of revenue.",
+      "2025-07-16: Spotify announced Audiobooks+ add-on subscriptions, with U.S. availability starting August 5, 2025.",
+      "2025-10-15: Spotify said its English-language audiobook catalog had grown to more than 500,000 titles and that global audiobook listening hours on Spotify were up 37% year over year.",
+      "2026-05-21: AAP announced a Vermillio partnership to identify and remove infringing audiobook and AI-generated copies from platforms including YouTube.",
+      "2026-06-05: APA reported 2025 U.S. audiobook sales of $2.43 billion, up 9%, with more than 750,000 active titles, up 43% from 2024."
+    ],
+    "outlook": "The U.S. audiobook market should continue growing through 2026 as digital audio remains the strongest book format and AAP's first-five-month 2026 data show trade digital audio up 14.5% year over year. The near-term opportunity is less about converting listeners to digital and more about increasing hours, improving discovery, monetizing backlists, and serving younger listeners through bundled platforms. Margin pressure will persist because platforms, library terms, piracy enforcement, celebrity narration, and high production expectations raise costs or reduce publisher control. AI narration is likely to expand supply and localization, but premium human performance remains important for frontlist fiction, memoir, celebrity, and full-cast productions.",
+    "themes": [
+      "Digital audio as the growth engine of trade publishing",
+      "Subscription bundles reshape pricing power",
+      "Spotify challenges Audible's platform dominance",
+      "Audio-first originals become a real revenue pool",
+      "Libraries expand reach but pressure licensing economics",
+      "AI narration lowers long-tail production cost but raises trust and rights questions",
+      "Piracy and unauthorized AI copies become strategic risks",
+      "Backlist discovery and genre fandom drive listening hours"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Audio Publishers Association 2026 Consumer & 2025 Sales Surveys Announcement', 'url': 'https://www.audiopub.org/surveys', 'date': '2026-06-05'}",
+      "{'title': 'Publishers Weekly: U.S. Audiobook Sales Grew 9% in 2025, to $2.43 Billion', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/100588-u-s-audiobook-sales-up-9-in-2025-reaches-2-43-billion.html', 'date': '2026-06-08'}",
+      "{'title': 'AAP May 2026 StatShot Report', 'url': 'https://publishers.org/news/', 'date': '2026-07-21'}",
+      "{'title': 'AAP StatShot Annual Report for Calendar Year 2022', 'url': 'https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-28-10-billion-for-2022/', 'date': '2023-05-31'}",
+      "{'title': 'Audible Expands Catalog with AI Narration and Translation for Publishers', 'url': 'https://www.audible.com/about/newsroom/audible-expands-catalog-with-ai-narration-and-translation-for-publishers', 'date': '2025-05-13'}",
+      "{'title': 'Spotify Audiobooks+ Brings More Choice and Flexibility to Premium Subscribers', 'url': 'https://newsroom.spotify.com/2025-07-16/audiobooks-brings-more-choice-and-flexibility-to-spotify-premium-subscribers/', 'date': '2025-07-16'}",
+      "{'title': 'Spotify Celebrates Two Years of Audiobooks in Premium', 'url': 'https://newsroom.spotify.com/2025-10-15/audiobooks-in-premium-two-year-anniversary/', 'date': '2025-10-15'}",
+      "{'title': 'IBISWorld baseline file: Audiobook Publishing in the US', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/audiobook-publishing.txt', 'date': '2021-04-26'}"
+    ],
+    "one_sentence": "U.S. audiobook publisher revenue reached $2.43 billion in 2025, up 9% from 2024, with digital formats generating nearly all sales and platforms such as Audible, Spotify, Apple, library apps, and direct publisher channels shaping discovery and pricing.",
+    "slug": "audiobook-publishing"
+  },
+  {
+    "title": "Auto Glass Repair & Replacement Franchises",
+    "sector": "Consumer Services",
+    "one_liner": "Franchised auto glass operators repair chips, replace windshields and windows, and increasingly bundle ADAS camera recalibration with mobile and in-shop service.",
+    "overview": "This industry includes franchised establishments that repair, replace and tint automotive glass for passenger cars, trucks, vans, fleets, dealers and government vehicles. Windshield replacement is the core revenue line, while chip repair, side and rear glass replacement, tinting, headlight restoration and mobile service fill out the offer. Demand is tied to vehicles in operation, miles driven, road debris, weather, theft, collisions and insurance claim routing. The post-2022 market is being reshaped less by simple traffic recovery and more by vehicle complexity: windshields now frequently carry cameras, rain sensors, heating elements, acoustic glass, heads-up-display compatibility and ADAS calibration requirements.",
+    "key_stats": {
+      "market_size": "2025: about $233 million in US franchise revenue, estimated by extending the baseline 2022 IBISWorld revenue of $224.4 million at its 2022-2027 forecast CAGR of about 1.3%.",
+      "growth": "2025: about 1.3% estimated annual franchise revenue growth; broader 2026 demand is supported by FHWA's 2025 forecast for total VMT growth of 0.6% annually from 2023-2053.",
+      "profit_margin": "2022: 8.0% EBIT margin in the baseline IBISWorld franchise report; 2025 margins are pressured by labor, glass, insurance documentation and calibration equipment costs.",
+      "vehicles_in_operation": "2025: S&P Global Mobility reported 289 million US light vehicles in operation and an average light-vehicle age of 12.8 years.",
+      "registered_vehicles": "2024: FHWA reported 297.5 million registered motor vehicles, up from 284.6 million in 2023.",
+      "vehicle_miles": "2024: FHWA reported 3.294 trillion total vehicle miles traveled, up from 3.247 trillion in 2023; March 2026 moving 12-month VMT was 3.335 trillion miles according to FRED/FHWA.",
+      "service_mix_baseline": "2022: windshield replacement 61.4% of revenue, windshield repair 16.2%, window replacement 15.3%, window repair 4.1%, other services 3.0%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $224.4 million revenue.",
+      "growth": "2022: 3.3% annual revenue growth; 2017-2022 revenue CAGR was 3.9% in the baseline file.",
+      "profit": "2022: $18.0 million profit.",
+      "profit_margin": "2022: 8.0%.",
+      "establishments": "2022: 1,070 establishments.",
+      "enterprises": "2022: 989 enterprises.",
+      "employment": "2022: 2,518 employees.",
+      "wages": "2022: $64.0 million wages.",
+      "forecast": "2027: $239.4 million revenue forecast, implying a 2022-2027 CAGR of about 1.3%."
+    },
+    "how_it_makes_money": "Franchisees earn revenue from insurer-paid and retail-paid windshield replacement, windshield chip and crack repair, side and rear glass replacement, tinting, headlight restoration, fleet accounts, dealer work and mobile service fees. Franchisors earn initial franchise fees, royalties, marketing contributions, supplier rebates, training fees and sometimes software or claims-routing revenue.",
+    "cost_structure": "The largest operating costs are technician wages, replacement glass, urethane adhesives, resins, moldings, sensors and trim parts, mobile vans, fuel, insurance, rent for calibration-capable bays, franchise royalties, local advertising, dispatch software and payment/claims administration. ADAS work adds scan tools, calibration targets, controlled lighting and space requirements, technician training, documentation time and liability exposure.",
+    "major_players": [
+      "Glass Doctor / Neighborly: 2025 franchise data showed 80 reporting auto-option businesses with average annual auto gross sales of about $677,657, plus a larger home-and-business glass franchise base.",
+      "NOVUS Glass: 2026 network claims more than 975 points of service worldwide, with US franchise availability in multiple states.",
+      "SuperGlass Windshield Repair: 2026 company materials cite more than 200 locations worldwide and a mobile, repair-focused franchise model with 6% royalties and 3%-5% material costs.",
+      "Safelite AutoGlass / Belron: not primarily a franchise system, but it is the dominant US national competitor, serving all 50 states with more than 800 in-shop locations and broad mobile coverage in 2026.",
+      "Auto Glass Now / Driven Brands: adjacent consolidator and competitor; 2025 segment revenue was $257.8 million across 211 company-operated locations."
+    ],
+    "current_dynamics": "Demand is healthier than the 2022 pandemic-recovery baseline because driving volumes and registered vehicles are higher, but the franchise niche faces stronger national-chain and independent-shop competition. ADAS calibration is the most important mix shift: it raises ticket sizes and makes windshield replacement more technical, while also moving some work from mobile-only operators into fixed bays. Insurance relationships remain critical because comprehensive coverage often determines whether customers repair immediately or defer work. Operators with mobile dispatch, insurer billing, calibration documentation and reliable glass sourcing are better positioned than repair-only owner-operators.",
+    "whats_growing": "Windshield replacement on ADAS-equipped vehicles, bundled repair-and-recalibration jobs, mobile service with same-visit calibration where feasible, insurance-directed claims, fleet accounts, calibration documentation, OEM-quality glass sourcing, and franchise concepts with low-overhead mobile territories are growing. Demand is also supported by a 2025 US vehicle fleet age of 12.8 years and 2024 registered vehicles of 297.5 million.",
+    "whats_shrinking": "Simple low-ticket chip repairs as a share of dollars, uninsured discretionary tinting during strained household budgets, non-calibration-capable mobile-only replacement work, and small operators that cannot meet insurer documentation or OEM repair-procedure expectations are losing relative ground. Collision-avoidance technology may also reduce some accident-driven glass breakage over time even as it increases repair complexity when damage occurs.",
+    "recent_developments": [
+      "2025-05: S&P Global Mobility reported the average US light vehicle age rose to 12.8 years and vehicles in operation reached 289 million.",
+      "2025-09: FHWA's Spring 2025 VMT forecast projected total US vehicle miles traveled to grow 0.6% annually from 2023-2053 under its baseline case.",
+      "2025-Q3: CCC reported calibrations on 35.6% of repairable DRP appraisals, up from 26.9% in 2024-Q3, showing ADAS work becoming routine in auto claims.",
+      "2025: Driven Brands reported Auto Glass Now revenue of $257.8 million, up 8.5% from 2024, with same-store sales up 7.9%.",
+      "2026-01: FHWA's 2024 Highway Statistics reported 297.5 million registered US motor vehicles, up from 284.6 million in 2023.",
+      "2026-04: Safelite told insurance agents that recalibration is required after many windshield replacements and cited more than 800 in-shop locations nationwide."
+    ],
+    "outlook": "The 2026-2028 outlook is modestly positive for franchise revenue, with low-single-digit growth likely if miles driven and the vehicle fleet continue expanding. The best operators will grow through higher average tickets rather than a surge in unit volume, especially from ADAS calibration, premium glass, insurer billing and fleet relationships. Risks include insurer pushback on calibration supplements, tariff or supply-chain pressure on glass and parts, labor shortages, DIY repair kits, and competition from Safelite, Auto Glass Now, body shops and independent mobile technicians.",
+    "themes": [
+      "ADAS calibration monetization",
+      "Insurance-directed demand",
+      "Mobile service convenience",
+      "Aging vehicle fleet",
+      "Higher ticket complexity",
+      "Fragmented local competition",
+      "National-chain pressure",
+      "Glass and labor cost inflation",
+      "Fleet and dealer partnerships",
+      "Safety-critical repair standards"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/auto-glass-repair-and-replacement-franchises.txt",
+      "https://www.fhwa.dot.gov/policyinformation/statistics/2024/vm1.cfm",
+      "https://www.fhwa.dot.gov/policyinformation/tables/vmt/vmt_forecast_sum.cfm",
+      "https://fred.stlouisfed.org/series/M12MTVUSM227NFWA",
+      "https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility",
+      "https://www.cccis.com/reports/crash-course-2025/q4",
+      "https://investors.drivenbrands.com/news-and-events/news/news-details/2026/Driven-Brands-Holdings-Inc--Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1804745/000180474526000048/drvn-20251227.htm",
+      "https://franchisedepth.com/franchise/glass-doctor/",
+      "https://superglass.com/franchise-information/",
+      "https://www.novusglass.com/en-us/shops/",
+      "https://safeliteforagents.com/articles/Required_Recalibration"
+    ],
+    "one_sentence": "The US auto glass repair and replacement franchise niche remains small but steadier than many discretionary auto services because glass damage is safety-sensitive, often insured, and increasingly tied to higher-ticket calibration work on newer vehicles.",
+    "slug": "auto-glass-repair-and-replacement-franchises"
+  },
+  {
+    "title": "Auto Maintenance & Repair Franchises",
+    "sector": "Consumer Services",
+    "one_liner": "Franchised auto repair chains benefit from older cars, higher vehicle complexity and steady miles driven, but compete hard on labor, parts availability and local trust.",
+    "overview": "This is a mature, needs-driven franchise market within the broader automotive aftermarket. Demand is anchored by the size, age and utilization of the US vehicle fleet: S&P Global Mobility reported the average US light-vehicle age reached 12.8 years in 2025, vehicles in operation reached 289 million in 2024, and the Auto Care Association/MEMA forecast continued light-duty aftermarket growth in 2026. Franchise systems gain from brand recognition, purchasing programs, standardized service menus and national marketing, while franchisees still compete locally with independents, dealerships, tire stores and quick-lube chains.",
+    "key_stats": {
+      "market_size": "2026E: about $10.1 billion in US franchised auto maintenance and repair revenue, using the baseline IBISWorld 2021-dollar forecast trend.",
+      "growth": "2021-2026E: about 1.9% CAGR for the franchised industry; 2026: US light-duty aftermarket forecast growth of 5.2% year over year.",
+      "establishments": "2026E: about 9,450 establishments implied by the baseline 2021-2027 establishment CAGR of 0.83% from 9,079 establishments in 2021.",
+      "profit_margin": "2021 baseline: 7.9% EBIT margin; margin pressure remains from technician wages, parts costs, rent and franchise fees.",
+      "vehicle_age": "2025: average US light-vehicle age reached 12.8 years.",
+      "vehicle_miles": "2025: preliminary FHWA/NHTSA data indicated vehicle miles traveled increased about 29.8 billion miles, or 0.9%, from 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022E: about $9.35 billion in 2021 dollars, estimated from the baseline $9.179 billion 2021 revenue and 1.9% forward CAGR.",
+      "growth": "2022E: about 1.9% year-over-year, based on the baseline 2021-2026 industry outlook.",
+      "context": "The 2021 IBISWorld baseline expected recovery from the 2020 traffic shock, with revenue rising from $9.2 billion in 2021 to $10.1 billion by 2026."
+    },
+    "how_it_makes_money": "Revenue comes from labor and parts markups on maintenance and repair jobs, including 2021 baseline service shares of 41.7% major body and mechanical repair, 32.0% oil change and lubrication, 19.4% painting and other body repair, 4.9% transmission repair and about 2.0% other repair services. Franchisors earn royalties, advertising fees, supply-program income and sometimes company-store revenue; franchisees earn shop-level revenue from customer-paid, insurer-paid and fleet-paid work.",
+    "cost_structure": "Major costs are technician and service-advisor wages, replacement parts, fluids, tires and paint materials, rent or property occupancy, equipment and diagnostics, utilities, insurance, payment processing, local marketing, franchise royalties and advertising fund fees. Collision and paint shops carry higher materials, booth, compliance and insurer-administration costs, while quick-lube formats carry higher throughput dependence and fluid inventory costs.",
+    "major_players": [
+      "Driven Brands: parent of Meineke, Maaco, CARSTAR, Take 5 Oil Change, Auto Glass Now and related service brands; reported 2025 system-wide sales of $6.09 billion and 4,252 stores, with Franchise Brands at 2,699 stores.",
+      "Mavis/Midas: Mavis completed the 2025 acquisition of Midas, expanding to more than 3,500 US and Canada locations including nearly 1,300 franchised locations.",
+      "Valvoline Instant Oil Change: reported fiscal 2025 system-wide sales of $3.45 billion, 2,180 stores and 1,164 franchised stores as of September 30, 2025.",
+      "Jiffy Lube: Shell-owned preventive maintenance franchise system with more than 2,000 US locations, mostly independently owned and operated.",
+      "Monro: company-operated tire and auto service chain with 1,260 retail stores as of March 29, 2025; not purely franchised but a major competitive benchmark.",
+      "TBC/Big O Tires: after divesting Midas in 2025, TBC continued to focus on wholesale, distribution and Big O Tires franchise operations."
+    ],
+    "current_dynamics": "Demand is supported by an aging fleet, elevated new- and used-vehicle prices, modest VMT growth and vehicles rolling off warranty from the heavy 2015-2019 registration years. The repair ticket is getting larger as ADAS, electronics, hybrids and newer vehicle architectures raise diagnostic and calibration complexity. At the same time, franchisees face technician shortages, higher wage expectations, parts and tariff uncertainty, insurance-cycle pressure in collision, and local competition from dealerships, independents, tire chains and mobile service providers.",
+    "whats_growing": "Quick-lube and scheduled maintenance, tires and alignments, brake/suspension work, ADAS diagnostics and calibration-adjacent work, fleet accounts, digital vehicle inspections, online booking, financing for larger repair tickets, and franchise consolidation platforms with purchasing and marketing scale.",
+    "whats_shrinking": "Lower-complexity DIY work, standalone exhaust-only or transmission-only legacy concepts, deferred discretionary paint work among price-sensitive consumers, and routine work on newer vehicles still under dealership warranty. EVs reduce some ICE-specific maintenance such as oil changes, though their 2025 fleet age remains low and their near-term impact on total franchise repair revenue is still limited.",
+    "recent_developments": [
+      "2025-03-31: TBC agreed to sell Midas to Mavis, citing a shift toward wholesale, distribution and Big O Tires as core businesses.",
+      "2025-06-12: Auto Care Association/MEMA projected the US light-duty automotive aftermarket would reach about $435 billion in 2025 after 5.1% growth.",
+      "2025-06-16: Mavis completed the Midas acquisition, expanding to more than 3,500 US and Canada stores, including nearly 1,300 franchised locations.",
+      "2025-09-30: Valvoline ended fiscal 2025 with 2,180 system-wide stores, 1,164 franchised stores and 6.1% system-wide same-store-sales growth.",
+      "2026-06-11: Auto Care Association/MEMA forecast 5.2% growth for the total US light-duty automotive aftermarket in 2026 and a market above $500 billion by 2029."
+    ],
+    "outlook": "The franchise repair market should keep expanding through 2026 as aging vehicles and continued driving offset consumer caution. Growth is likely to be steadier than the broader aftermarket because the franchise subset is mature and fragmented, but large systems can gain share through brand trust, digital inspection workflows, parts procurement, fleet programs and acquisition-backed consolidation. The main risks are labor availability, cost inflation, parts/tariff volatility, dealership competition, insurer pressure in collision and the gradual mix shift toward EVs and hybrids.",
+    "themes": [
+      "Aging vehicle fleet",
+      "Repair instead of replace",
+      "Franchise consolidation",
+      "Technician shortage",
+      "ADAS and vehicle complexity",
+      "Digital vehicle inspections",
+      "Right-to-repair and data access",
+      "Parts cost inflation",
+      "Quick-lube resilience",
+      "Collision and insurance cycle pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/auto-maintenance-and-repair-franchises.txt",
+      "https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility",
+      "https://www.autocare.org/news/latest-news/details/2025/06/13/new-report-5.1-growth-expected-for-auto-care-industry-in-2025-reaching-%24664-billion-in-2028",
+      "https://www.autocare.org/news/latest-news/details/2026/06/11/u.s.-light-vehicle-automotive-aftermarket-expected-to-grow-5.2--in-2026",
+      "https://www.nhtsa.gov/press-releases/traffic-deaths-2025-early-estimates-2024-annual",
+      "https://www.tbccorp.com/news/tbc-corporation-signs-agreement-to-divest-midas-to-mavis/",
+      "https://www.mavis.com/news/mavis-midas/",
+      "https://investors.drivenbrands.com/news-and-events/news/news-details/2026/Driven-Brands-Holdings-Inc--Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://investors.valvoline.com/news/news-details/2025/Valvoline-Inc--Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+      "https://www.jiffylube.com/about/history",
+      "https://fintel.io/doc/sec-monro-inc-876427-10k-2025-may-28-20236-222"
+    ],
+    "one_sentence": "The US Auto Maintenance & Repair Franchises industry consists of franchised outlets that provide oil changes, mechanical repair, collision/body work, paint, transmission, brakes, exhaust, alignment and related vehicle maintenance services.",
+    "slug": "auto-maintenance-and-repair-franchises"
+  },
+  {
+    "title": "Auto Windshield Repair Services",
+    "sector": "Consumer Services",
+    "one_liner": "U.S. auto glass shops repair, replace and tint vehicle glass, with ADAS calibration turning a mature local repair trade into a higher-ticket safety service.",
+    "overview": "Operators replace, repair and tint windshields and other automotive glass for passenger cars, light trucks, commercial vehicles and fleets. The baseline IBIS report defined 2021 revenue at $5.354B and expected slow post-pandemic recovery, but public 2025 data points indicate a larger market after inflation, more vehicles in operation and higher average tickets from complex glass, sensors and recalibration. The industry remains fragmented below Safelite, but national networks, insurer claim platforms, mobile dispatch and calibration capability are becoming more important sources of scale.",
+    "key_stats": {
+      "market_size": "2025: $7.9B U.S. Auto Glass Shops industry sales, per ResearchAndMarkets/Kentley Insights public summary.",
+      "growth": "2020-2025: 8.5% annual growth, per ResearchAndMarkets/Kentley Insights public summary.",
+      "companies": "2025: 5,016 U.S. companies, per ResearchAndMarkets/Kentley Insights public summary.",
+      "vehicle_fleet": "2025: 289M U.S. light vehicles in operation and 12.8-year average vehicle age, per S&P Global Mobility.",
+      "vehicle_miles": "2024: 3.294T U.S. vehicle-miles traveled and 297.526M registered motor vehicles, per FHWA Highway Statistics 2024.",
+      "service_mix": "2025: global windshield repair/replacement service mix estimated at 79.0% replacement and 21.0% repair by PMarketResearch; U.S. mix is directionally similar but not identical.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $5.4B, inferred from baseline 2021 revenue of $5.354B and the baseline 2021-2027 projected CAGR of 1.22%, in 2021 dollars.",
+      "growth": "2022: about 1.2% inferred from the baseline 2021-2027 projected CAGR; baseline source was last updated 2021-10-01.",
+      "profit_margin": "2021: 10.2% EBIT margin in the baseline file.",
+      "employment": "2021: 43,186 employees in the baseline file.",
+      "establishments": "2021: 14,204 establishments in the baseline file."
+    },
+    "how_it_makes_money": "Revenue comes from insurance-paid and consumer-paid windshield replacement, chip and crack repair, side and rear glass replacement, ADAS recalibration after glass work, mobile service fees, fleet accounts, dealership referrals, window tinting and small merchandise or maintenance product sales. Higher-priced jobs increasingly combine glass replacement with camera calibration and documentation for insurers or fleet managers.",
+    "cost_structure": {
+      "labor": "2021: baseline wages were $1.501B, equal to roughly 28.0% of 2021 baseline revenue; 2025-2026 technician training costs are rising with ADAS calibration requirements.",
+      "purchases": "2025: glass, adhesives, resin, moldings, sensors, calibration targets and OEM-equivalent parts are the largest variable input category; ADAS-equipped windshields raise part costs versus older standard glass.",
+      "profit": "2021: baseline EBIT margin was 10.2%; 2025 margins depend on insurer reimbursement, technician utilization, mobile route density and calibration capture.",
+      "rent_and_facilities": "2025: shop rent, warehouses and local dispatch hubs matter less for mobile-heavy operators but remain necessary for recalibration bays, inventory and complex replacements.",
+      "technology_and_equipment": "2025: calibration tools, scan tools, scheduling software, claims integrations and mobile fleet equipment are rising cost lines.",
+      "insurance_and_compliance": "2025-2026: liability coverage, licensing, consumer disclosures and calibration documentation are more important as states update motor vehicle glass rules."
+    },
+    "major_players": [
+      "Safelite Group / Belron: 2026 U.S. market leader with more than 850 locations, 6,000 technicians and 6.2M customers per year.",
+      "Driven Brands / Auto Glass Now: 2026 reportable Auto Glass Now segment covering U.S. retail, commercial and insurance glass businesses.",
+      "Boyd Group / Gerber Collision & Glass / Glass America: 2025 Top Auto Glass Retailers list identified Boyd Group among the top three North American retailers.",
+      "Independent local and regional glass shops: 2025 industry still includes 5,016 U.S. companies, so most operators are small despite national-chain scale advantages."
+    ],
+    "current_dynamics": "2025-2026 demand is supported by a larger and older U.S. vehicle fleet, recovered road travel and steady insurance claim volume. The counterweight is that ADAS and safer vehicles can reduce collision frequency, while newer windshields are more expensive, more SKU-specific and often require calibration. That shifts revenue from simple chip repair toward replacement-plus-calibration, favors operators with claims relationships and training, and pressures small shops that lack calibration equipment or insurer network access.",
+    "whats_growing": "Replacement jobs, mobile service, insurer-integrated claims handling, fleet glass programs, ADAS recalibration, OEM-compliant procedures, technician certification and documentation-heavy workflows are growing in 2025-2026. Older vehicles and high vehicle prices are also extending the aftermarket repair pool, with the 2025 U.S. light-vehicle fleet at 289M units and average age at 12.8 years.",
+    "whats_shrinking": "Simple low-ticket chip repair as a share of revenue, non-calibrated windshield replacement, informal cash-only repairs, DIY repair kits for sensor-equipped vehicles and very small operators without insurance-network access are losing relative ground. Collision-related glass demand faces a long-term drag from automatic emergency braking, lane-keeping and other driver-assistance systems.",
+    "recent_developments": [
+      "2025-05-21: S&P Global Mobility reported U.S. light vehicles in operation reached 289M and average vehicle age rose to 12.8 years.",
+      "2025-11: FHWA Highway Statistics 2024 showed U.S. VMT reached 3.294T miles and registered motor vehicles reached 297.526M in 2024.",
+      "2025-12-12: H.R.6688, the ADAS Functionality and Integrity Act, was introduced to require NHTSA guidelines for ADAS calibration and modification tolerances.",
+      "2026-02-09: Driven Brands announced 2025 segment reporting changes that made Auto Glass Now a standalone reportable segment for U.S. retail, commercial and insurance glass.",
+      "2026-05-21: AGRR’s 2025 Top Retailers list, using 2024 financial data, named Safelite, Driven Brands and Boyd Group as the top three North American auto glass retailers.",
+      "2026-05-26: Rhode Island proposed motor vehicle glass rule amendments requiring ADAS calibration certification or certified calibration arrangements for licensees."
+    ],
+    "outlook": "The 2026 outlook is moderate revenue growth with mix-driven upside. Unit demand should track VMT and vehicle parc growth rather than surge, but average ticket values should keep rising as more vehicles need sensor-aware glass, calibration and claims documentation. Consolidation should continue because national and scaled regional operators can buy glass better, staff calibration work, integrate with insurers and maintain mobile density. Risks include insurer reimbursement pressure, state-level claim steering rules, parts availability, technician shortages and slower driving growth if household budgets weaken.",
+    "themes": [
+      "ADAS calibration monetization",
+      "Insurance reimbursement pressure",
+      "Mobile repair and replacement",
+      "Fleet aging and aftermarket demand",
+      "Industry consolidation",
+      "OEM-compliant glass and procedures",
+      "Technician certification",
+      "State consumer-protection rules"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/auto-windshield-repair-services.txt",
+      "https://www.researchandmarkets.com/report/united-states-automotive-glass-market",
+      "https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility",
+      "https://www.fhwa.dot.gov/policyinformation/statistics/2024/vm1.cfm",
+      "https://www.fhwa.dot.gov/policyinformation/tables/vmt/vmt_forecast_sum.cfm",
+      "https://www.safelite.com/about-safelite",
+      "https://www.safelite.com/about-safelite/safelite-autoglass-companies",
+      "https://www.sec.gov/Archives/edgar/data/1804745/000180474526000012/a991resegmentationfinal.htm",
+      "https://agrrmag.com/top-shop/",
+      "https://www.congress.gov/bill/119th-congress/house-bill/6688/text",
+      "https://rules.sos.ri.gov/Promulgations/part/230-30-05-3"
+    ],
+    "one_sentence": "Auto Windshield Repair Services is a mature but growing U.S. aftermarket niche where demand follows vehicle miles, vehicle age, weather and insurance claims, while 2025-2026 growth is being lifted by larger vehicle fleets, higher replacement complexity and ADAS recalibration requirements.",
+    "slug": "auto-windshield-repair-services"
+  }
+]

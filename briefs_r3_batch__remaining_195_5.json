@@ -1,0 +1,405 @@
+[
+  {
+    "title": "Video Games in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "U.S. video games are a large, mature entertainment market shifting toward digital content, subscriptions, mobile spending and live-service monetization while console hardware faces cost pressure.",
+    "overview": "This industry covers video game development, publishing, distribution, software sales, downloadable content, subscriptions, in-game purchases, advertising-supported games, gaming hardware and accessories in the United States. The 2025 market was near its pandemic-era peak: ESA/Circana/Sensor Tower reported final 2025 U.S. consumer spending of $60.8 billion, including $52.4 billion on content, $5.4 billion on hardware and $2.9 billion on accessories. Demand is broad-based, with ESA's 2026 report counting 212.3 million Americans, or 67% of the population, playing video games more than one hour per week. Growth is no longer primarily driven by packaged game sales; it is led by mobile content, recurrent consumer spending, subscriptions, digital distribution, cross-platform franchises and large releases that lift hardware and accessory demand.",
+    "key_stats": {
+      "market_size": "$60.8 billion in U.S. consumer spending in 2025; Circana forecast $62.8 billion in 2026.",
+      "growth": "+1.4% in 2025 versus 2024; Circana forecast +3.0% in 2026.",
+      "content_spending": "$52.4 billion in 2025, the largest category.",
+      "hardware_spending": "$5.4 billion in 2025, up 9% from 2024.",
+      "accessories_spending": "$2.9 billion in 2025, down 7% from 2024.",
+      "mobile_spending": "$26.7 billion in U.S. mobile game consumer demand in 2025.",
+      "players": "212.3 million Americans played video games more than one hour per week in ESA's 2026 data.",
+      "economic_impact": "$95.8 billion total U.S. economic impact and more than 250,000 jobs supported in ESA's 2026 economic impact report.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "IBISWorld's August 30, 2022 baseline estimated $85.9 billion of U.S. industry revenue in 2021, in 2021 dollars, under a broader industry-revenue definition than ESA/Circana consumer spending.",
+      "growth": "IBISWorld estimated 14.3% annualized revenue growth over 2016-2021, 25.3% revenue growth in 2020, 11.9% growth in 2021 and projected 9.4% annualized growth to $134.2 billion by 2026.",
+      "profit": "IBISWorld estimated $20.1 billion of profit and a 23.4% profit margin in 2021.",
+      "employment": "IBISWorld estimated 273,379 employees and 220,422 establishments in 2021."
+    },
+    "how_it_makes_money": "Revenue comes from full-game sales, mobile game spending, downloadable content, microtransactions, battle passes, subscriptions, cloud and online services, in-game advertising, licensing, esports and merchandising, plus consoles, controllers, headsets and other accessories. In 2025, content dominated spending at $52.4 billion, while hardware and accessories contributed $5.4 billion and $2.9 billion respectively. Large publishers increasingly rely on recurrent consumer spending; Take-Two reported recurrent consumer spending accounted for 78% of fiscal 2026 net bookings, and EA reported live services and other revenue of $5.461 billion in fiscal 2025 versus $2.002 billion from full games.",
+    "cost_structure": "Major costs include software development labor, outsourced art and engineering, platform royalties, marketing, user acquisition, live operations, cloud infrastructure, customer support, intellectual-property licensing, console components, manufacturing, logistics and retailer or app-store fees. Hardware margins are pressured because consoles are often sold at low or negative margins, and Microsoft cited 2026 storage and memory cost increases of more than 2.5x when announcing Xbox console price hikes. Content margins are higher but hit-driven, with rising budgets and long development cycles increasing project risk.",
+    "major_players": [
+      "Microsoft Gaming / Xbox / Activision Blizzard: Microsoft reported fiscal 2025 gaming revenue up 9%, Xbox content and services up 16%, and Xbox hardware down 25%.",
+      "Sony Interactive Entertainment / PlayStation: Sony's Game & Network Services segment reported ¥4.570 trillion in external customer sales and ¥463.3 billion in operating income for fiscal 2026.",
+      "Nintendo: Nintendo Switch 2 became a major 2025-2026 hardware driver; Nintendo reported 17.37 million Switch 2 hardware units sold worldwide as of December 31, 2025.",
+      "Electronic Arts: EA reported fiscal 2026 net bookings of $8.026 billion and fiscal 2025 net revenue of $7.463 billion, with sports and live services central to performance.",
+      "Take-Two Interactive: Take-Two reported fiscal 2026 net bookings of $6.721 billion, with 60% of fiscal 2026 net bookings from the United States and 97% through digital channels.",
+      "Roblox, Epic Games, Apple App Store, Google Play and Steam: key digital distribution, user-generated-content, free-to-play and PC/mobile ecosystem participants."
+    ],
+    "current_dynamics": "The market is stable but structurally changing. U.S. spending reached $60.8 billion in 2025 and is forecast at $62.8 billion in 2026, but growth is concentrated in subscriptions, mobile, digital content and major franchise releases rather than broad-based unit growth. Console hardware received a 2025 lift from Switch 2, while Xbox and other legacy hardware face price and volume pressure. Publishers are prioritizing fewer, larger franchises, live operations and margin discipline after the 2023-2025 layoff wave. Mobile remains the largest and most resilient content pool, but user acquisition is expensive and growth is concentrated among top titles.",
+    "whats_growing": "Subscriptions, mobile content, recurrent consumer spending, downloadable add-ons, cross-platform franchises, digital distribution, Roblox-style creator economies, cloud-enabled access, social multiplayer and family/older-adult participation are growing. In 2025, subscription spending grew 20%, mobile spending rose 1% to $26.7 billion, hardware spending rose 9% to $5.4 billion and total U.S. spending rose 1.4%. ESA's 2026 data showed 212.3 million Americans playing weekly, up from 205.1 million in ESA's 2025 report.",
+    "whats_shrinking": "Physical retail distribution, packaged software reliance, legacy console hardware volumes, accessory spending and mid-budget standalone releases are under pressure. In 2025, accessories fell 7% to $2.9 billion, and Microsoft's fiscal 2025 Xbox hardware revenue declined 25%. Take-Two reported fiscal 2026 physical retail and other sales at only 3% of net revenue, showing how far major publishers have shifted toward digital channels. Industry employment and studio counts remain pressured by post-pandemic overexpansion, higher capital costs and project cancellations.",
+    "recent_developments": [
+      "2025-06-03: ESA reported 205.1 million Americans ages 5-90 regularly played video games in its 2025 Essential Facts report.",
+      "2026-02-11: ESA/Circana/Sensor Tower reported final 2025 U.S. video game consumer spending of $60.8 billion, up 1.4% from 2024.",
+      "2026-02-11: Circana forecast U.S. video game spending of $62.8 billion in 2026, up 3.0%, potentially exceeding the 2021 record.",
+      "2026-05-21: Take-Two reported fiscal 2026 net bookings of $6.721 billion and issued fiscal 2027 guidance of $8.0 billion to $8.2 billion tied partly to Grand Theft Auto VI.",
+      "2026-06-25: Microsoft announced Xbox console price increases effective August 1, 2026, citing storage and memory costs up more than 2.5x.",
+      "2026-06: ESA's 2026 Essential Facts data showed 212.3 million Americans, or 67% of the population, played video games more than one hour per week."
+    ],
+    "outlook": "The 2026 outlook is modestly positive. Circana expects U.S. spending to rise 3.0% to $62.8 billion in 2026, driven by the second year of Switch 2, subscription engagement, mobile resilience and major releases including Grand Theft Auto VI. The upside case is a record spending year if software releases convert into hardware upgrades and recurrent spending; the downside case is weaker discretionary spending, higher console prices, development delays and continued pressure on smaller studios. Over the next few years, the industry should grow more like a mature digital media market than an early-stage hardware cycle: slower top-line growth, higher recurring revenue mix, intense competition for attention and larger rewards for scaled IP.",
+    "themes": [
+      "Digital distribution replaces physical retail",
+      "Mobile remains the largest content wallet",
+      "Subscriptions and live services reshape revenue",
+      "Console cycles still matter but are less dominant",
+      "Major franchises drive spending spikes",
+      "Hardware faces component and tariff cost pressure",
+      "Post-pandemic margin discipline and layoffs continue",
+      "Games compete with all entertainment for time, not only with other games",
+      "Accessibility, family play and older players expand the audience"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file: Video Games in the US, updated Aug. 30, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/video-games-in-the-us.txt'}",
+      "{'name': 'ESA, 2025 U.S. Consumer Spending on Video Games Nears Pandemic-Level Peak at $60.7 Billion, Feb. 11, 2026', 'url': 'https://www.theesa.com/2025-u-s-consumer-spending-on-video-games-nears-pandemic-level-peak-at-60-7-billion-second-highest-on-record/'}",
+      "{'name': 'ESA, 2026 Essential Facts About the U.S. Video Game Industry', 'url': 'https://www.theesa.com/resources/essential-facts-about-the-us-video-game-industry/2026-data/'}",
+      "{'name': 'Circana, Circana Forecasts a Transformative Year for Video Games in 2026, Feb. 11, 2026', 'url': 'https://www.circana.com/post/circana-forecasts-a-transformative-year-for-video-games-in-2026'}",
+      "{'name': 'Microsoft 2025 Annual Report', 'url': 'https://www.microsoft.com/investor/reports/ar25/index.html'}",
+      "{'name': 'Sony Group Corporation, Annual Report for Fiscal Year Ending March 31, 2026', 'url': 'https://www.publicnow.com/view/F97B3C908D24516D9BFC89651294F9D5EE81E92B'}",
+      "{'name': 'Nintendo IR, Dedicated Video Game Sales Units as of Dec. 31, 2025', 'url': 'https://www.nintendo.co.jp/ir/en/finance/hard_soft/'}",
+      "{'name': 'Electronic Arts, Q4 and FY26 Results', 'url': 'https://investor.ea.com/press-releases/press-release-details/2026/Electronic-Arts-Reports-Q4-and-FY26-Results/default.aspx'}",
+      "{'name': 'Take-Two Interactive, Q4 and Fiscal Year 2026 Results', 'url': 'https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fourth-2'}",
+      "{'name': 'Xbox Wire, Updated Xbox Console Prices, June 25, 2026', 'url': 'https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/amp/'}"
+    ],
+    "one_sentence": "The U.S. video games industry generated about $60.8 billion in consumer spending in 2025, up 1.4% from 2024, with 2026 spending forecast near $62.8 billion as Nintendo Switch 2 momentum, subscriptions and major releases offset weaker legacy console cycles.",
+    "slug": "video-games-in-the-us"
+  },
+  {
+    "title": "Video Streaming Services in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "US video streaming is still growing, but the 2025-2026 battle has shifted from pure subscriber land-grab to ad tiers, bundles, live sports, and consolidation.",
+    "overview": "The industry moved from pandemic-era hypergrowth into a more mature but still expanding phase. The 2022 IBISWorld baseline put US industry revenue at $51.4 billion after 12.8% growth in 2022, while PwC's 2026-2030 outlook sized the broader US OTT video market at $113.3 billion in 2025 and forecast a 6.8% CAGR to $157.5 billion in 2030. Demand remains supported by cord-cutting, high broadband penetration, mobile viewing, smart-TV adoption, and consumers using multiple services. The main change in 2025-2026 is monetization: subscription-only growth is slowing, while ad-supported tiers, free ad-supported streaming TV, bundles, and live sports are becoming central to revenue strategy.",
+    "key_stats": {
+      "market_size": "$113.3 billion US OTT video revenue in 2025.",
+      "growth": "6.8% forecast CAGR for US OTT video revenue from 2025 to 2030, reaching $157.5 billion in 2030.",
+      "tv_viewing_share": "Streaming accounted for 44.8% of total US TV usage in May 2025 and 48.6% in May 2026.",
+      "leading_viewing_platforms": "In May 2026, YouTube represented 13.8% of US TV viewing and Netflix represented 8.0%.",
+      "cord_cutting": "Pew reported in 2025 that 83% of US adults watched streaming services, while 36% subscribed to cable or satellite TV.",
+      "ad_supported_momentum": "In May 2025, Pluto TV, The Roku Channel, and Tubi together accounted for 5.7% of total US TV viewing; by May 2026, Roku Channel had 3.1% and Tubi had 2.3% individually.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$51.4 billion US industry revenue in 2022.",
+      "growth": "12.8% revenue growth in 2022 and 18.0% annualized revenue growth over 2017-2022.",
+      "profitability": "22.8% estimated EBIT margin in 2022.",
+      "employment": "106,373 workers in 2022.",
+      "enterprises": "1,880 enterprises in 2022.",
+      "revenue_mix": "Live/linear streaming accounted for 61.0% of 2022 revenue and non-linear streaming accounted for 39.0%.",
+      "outlook_at_baseline": "IBISWorld expected revenue to reach $91.4 billion by 2027 on a 12.2% annualized growth rate from 2022 to 2027."
+    },
+    "how_it_makes_money": "Operators earn revenue from monthly subscription fees, ad-supported video impressions, FAST channels, live TV bundles, premium add-ons, transactional video rentals and purchases, pay-per-view events, carriage and wholesale distribution deals, and licensing or windowing of proprietary content. Netflix and Disney+ emphasize paid memberships plus ad tiers; YouTube, Tubi, Pluto TV, and Roku Channel lean heavily on advertising; Hulu + Live TV, YouTube TV, Sling, Fubo, and similar services sell virtual pay-TV packages.",
+    "cost_structure": "The largest costs are content amortization, original programming, licensed film and TV rights, sports rights, cloud delivery and data infrastructure, technology development, marketing, customer acquisition, payment processing, support, and corporate overhead. Baseline 2022 profitability was high at an estimated 22.8% EBIT margin, but 2025 filings show the pressure points: Disney cited higher 2025 programming, production, marketing, technology, and distribution costs in DTC, while WBD cited 2025 content costs, international launch costs, and lower ARPU from ad-supported wholesale distribution.",
+    "major_players": [
+      "{'name': 'Netflix', 'position': 'Largest global subscription streamer; Netflix forecast $44.8-$45.2 billion in 2025 revenue and reported Q2 2025 revenue growth of 15.9%.'}",
+      "{'name': 'YouTube and YouTube TV', 'position': 'Largest US TV-viewing streaming platform by Nielsen in May 2026, with YouTube at 13.8% of total TV viewing.'}",
+      "{'name': 'The Walt Disney Company', 'position': 'Disney+ and Hulu had 196 million subscriptions at fiscal Q4 2025, including 131.6 million Disney+ subscribers and 64.1 million Hulu subscribers.'}",
+      "{'name': 'Amazon Prime Video', 'position': 'Prime Video had 4.5% of US TV viewing in May 2026, supported by Prime bundling, originals, sports, and advertising.'}",
+      "{'name': 'Warner Bros. Discovery', 'position': 'HBO Max, Max, and discovery+ had 131.6 million global streaming subscribers at year-end 2025, including 59.2 million domestic subscribers.'}",
+      "{'name': 'Paramount, Comcast NBCUniversal, Fox, Roku, and Tubi', 'position': 'Paramount+, Peacock, Tubi, The Roku Channel, and Pluto TV compete through studio libraries, sports, news, and ad-supported viewing.'}"
+    ],
+    "current_dynamics": "The industry is no longer defined mainly by adding first-time streaming households. Competition is now about pricing power, reducing churn, increasing ad inventory, bundling services, owning sports and live events, and using scale to spread content and technology costs. Streaming surpassed combined broadcast and cable viewing in May 2025, and nearly half of US TV viewing was streaming in May 2026. At the same time, consumers are more price-sensitive, so ad tiers, annual plans, carrier bundles, and wholesale deals are growing faster than premium standalone subscriptions.",
+    "whats_growing": "Ad-supported tiers, FAST channels, connected-TV advertising, live sports streaming, virtual MVPDs, bundles across Disney+/Hulu/ESPN+, wholesale distribution through cable and broadband operators, creator and YouTube viewing on TV screens, and monetization from password-sharing enforcement are growing. Netflix expected to roughly double ad revenue in 2025, and WBD said its streaming advertising revenue increased 20% in 2025 due to ad-lite subscribers.",
+    "whats_shrinking": "Traditional cable and satellite subscriptions, linear TV viewing share, tolerance for multiple full-price standalone SVOD subscriptions, and low-utilization niche services are shrinking. Nielsen reported cable at 24.1% of TV usage in May 2025 and 20.4% in May 2026, while Pew reported only 36% of US adults subscribed to cable or satellite TV in 2025.",
+    "recent_developments": [
+      "2025-05: Nielsen reported streaming reached 44.8% of US TV usage, exceeding broadcast and cable combined for the first time.",
+      "2025-Q2: Netflix completed rollout of Netflix Ads Suite across all ad markets and said it still expected to roughly double ads revenue in 2025.",
+      "2025-Q4: Disney reported 196 million Disney+ and Hulu subscriptions, with Disney+ at 131.6 million and Hulu at 64.1 million.",
+      "2025-12: Warner Bros. Discovery reported 131.6 million streaming subscribers, up 13% from 116.9 million in 2024, and 20% growth in streaming advertising revenue.",
+      "2026-03: Axios reported Paramount planned to combine Paramount+ with HBO Max after completion of its WBD merger, creating a combined streamer with over 210 million subscribers, subject to regulatory approvals.",
+      "2026-05: Nielsen data reported by Cord Cutters News showed streaming at 48.6% of US TV viewing, led by YouTube at 13.8% and Netflix at 8.0%."
+    ],
+    "outlook": "Revenue should keep rising through 2030, but at slower rates than the 2017-2022 surge. PwC's 2025-2030 forecast implies a mature growth profile rather than another step-change adoption cycle. The strongest operators will be those that combine broad libraries, live sports, ad technology, pricing discipline, and bundles that reduce churn. Consolidation is likely because content, sports rights, and technology costs favor scale. Smaller services can still grow in niches, but many will need advertising, distribution partnerships, or aggregation to survive.",
+    "themes": [
+      "Ad-supported streaming",
+      "FAST channels",
+      "Connected-TV advertising",
+      "Cord-cutting",
+      "Live sports rights",
+      "Bundling and aggregation",
+      "Password-sharing monetization",
+      "Content cost discipline",
+      "Platform consolidation",
+      "Smart-TV and mobile viewing"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Video Streaming Services in the US, IBISWorld extract, last updated 2022-06-23', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/video-streaming-services-in-the-us.txt'}",
+      "{'name': 'PwC US Edition: Global Entertainment & Media Outlook 2026-30', 'url': 'https://www.pwc.com/us/outlook'}",
+      "{'name': 'Nielsen, Streaming Reaches Historic TV Milestone, 2025-06-17', 'url': 'https://www.nielsen.com/news-center/2025/streaming-reaches-historic-tv-milestone-eclipses-combined-broadcast-and-cable-viewing-for-first-time/'}",
+      "{'name': 'Pew Research Center, 83% of US adults use streaming services, 2025-07-01', 'url': 'https://www.pewresearch.org/short-reads/2025/07/01/83-of-us-adults-use-streaming-services-far-fewer-subscribe-to-cable-or-satellite-tv/'}",
+      "{'name': 'Netflix Q2 2025 shareholder letter filed with SEC, 2025-07-17', 'url': 'https://www.sec.gov/Archives/edgar/data/1065280/000106528025000322/ex991_q225.htm'}",
+      "{'name': 'Warner Bros. Discovery 2025 Form 10-K filed with SEC', 'url': 'https://www.sec.gov/Archives/edgar/data/1437107/000143710726000020/wbd-20251231.htm'}",
+      "{'name': 'The Walt Disney Company fiscal 2025 Q4 earnings release', 'url': 'https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/'}",
+      "{'name': 'Cord Cutters News summary of Nielsen May 2026 Gauge data, 2026-07-28', 'url': 'https://cordcuttersnews.com/streaming-made-up-nearly-half-of-all-tv-viewing-in-may-2026/'}",
+      "{'name': 'Axios, Paramount to combine HBO Max and Paramount+, 2026-03-02', 'url': 'https://www.axios.com/2026/03/02/paramount-hbo-max'}"
+    ],
+    "one_sentence": "Video streaming services in the US sell internet-delivered video through subscriptions, ad-supported viewing, live TV bundles, transactional rentals, and licensing, with growth now led by connected-TV advertising, FAST channels, password-sharing monetization, sports rights, and platform bundling.",
+    "slug": "video-streaming-services-in-the-us"
+  },
+  {
+    "title": "Virtual Data Rooms",
+    "sector": "Technology & Digital",
+    "one_liner": "Secure deal-document platforms used for M&A, IPOs, restructuring, fundraising, audits and other confidential workflows.",
+    "overview": "Virtual data room operators provide secure online repositories for confidential documents, permissions, audit trails, Q&A, redaction and collaboration. Demand is concentrated in M&A due diligence, IPO readiness, capital raising, restructuring, legal work, real estate and regulated corporate document warehousing. The 2025 US market is larger than the 2021 baseline forecast because deal work, remote diligence, cybersecurity requirements and SaaS adoption accelerated after 2020, although revenue remains more exposed to capital-market cycles than typical subscription software.",
+    "key_stats": {
+      "market_size": "US revenue was $2.3 billion in 2025.",
+      "growth": "US revenue grew at an 8.1% CAGR from 2020 to 2025 and rose 10.3% in 2025.",
+      "businesses": "There were 393 US businesses in 2025, with business count growing at a 5.7% CAGR from 2020 to 2025.",
+      "employment": "US industry employment was 7,340 in 2025.",
+      "profit_margin": "US industry profit margin was 16.1% in 2025.",
+      "global_context": "Global VDR market estimates ranged from $3.02 billion to $3.4 billion in 2025; one 2026 estimate was $3.58 billion and another was $4.11 billion, reflecting different market definitions.",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated US revenue was about $1.46 billion in 2022, derived from the baseline 2021 revenue of $1.377 billion and the baseline 2021-2026 revenue CAGR forecast of 5.9%.",
+      "growth": "Baseline implied 2022 growth was about 5.9%, using the 2021-2026 forecast CAGR.",
+      "baseline_note": "The local 2021 IBIS baseline reported 2021 revenue of $1.377 billion, 2021 revenue growth of 9.2%, 2021 profit margin of 12.4%, 360 enterprises and 2,822 employees."
+    },
+    "how_it_makes_money": "Operators charge customers for secure data-room access and related workflow tools, usually through project-based fees, subscriptions, storage or page/data volume tiers, user-seat fees, premium support, document indexing, AI/redaction, Q&A workflows, archiving and integrations with legal, banking, compliance or investor-relations systems. Large M&A, IPO and restructuring engagements often command premium pricing because uptime, permissions, audit logs and customer support are mission-critical.",
+    "cost_structure": "The business is software-heavy and labor-intensive. The baseline reported wages at 30.6% of 2021 revenue and profit at 12.4% of 2021 revenue, with wages forecast to reach $557.6 million in 2026 and profit margin forecast at 14.6% in 2026. Current cost pressure is concentrated in engineering, cybersecurity, cloud hosting, compliance certifications, customer success, sales commissions and AI feature development; scalable software delivery keeps marginal document-hosting costs low once platforms are built.",
+    "major_players": [
+      "ShareFile/Citrix Systems, Inc. (identified by IBISWorld as the largest 2025 US share holder)",
+      "Donnelley Financial Solutions, Inc. - Venue",
+      "Datasite LLC",
+      "SS&C Intralinks",
+      "iDeals",
+      "Firmex",
+      "Ansarada",
+      "DealRoom",
+      "CapLinked",
+      "SecureDocs"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: capital-market recovery is lifting premium transaction rooms, while price competition and general secure-file-sharing tools pressure simpler document-storage use cases. US M&A deal value reached $1.2 trillion in the first five months of 2026, up 99% from the same 2025 period, but deal volume was down 4%, favoring providers exposed to larger, complex transactions. IPO activity also improved: the US completed 216 IPOs in 2025 with $47.4 billion of proceeds, up from 176 IPOs and $33 billion in 2024. Vendors are repositioning VDRs from static repositories into full deal-lifecycle systems with AI search, automated redaction, buyer analytics, deal sourcing data and post-close collaboration.",
+    "whats_growing": [
+      "AI-assisted diligence, search, document classification, redaction and buyer-interest analytics in 2025-2026.",
+      "Cloud VDR deployments, with global cloud-native security demand cited as a 2026-2030 growth driver.",
+      "Large-enterprise and complex M&A rooms tied to 2026 megadeals; PwC counted 39 US $5 billion-plus deals in the first five months of 2026.",
+      "IPO, SPAC and capital-raising rooms; PwC reported 46 traditional US IPOs raising $28.2 billion through May 31, 2026, compared with 25 raising $11.1 billion one year earlier.",
+      "Private-market intelligence and sourcing integrations, highlighted by Datasite acquisitions in 2025 and 2026."
+    ],
+    "whats_shrinking": [
+      "Physical data rooms and manual in-person diligence workflows continued losing relevance in 2025-2026.",
+      "Basic standalone document warehousing is becoming less differentiated in 2025-2026 as secure cloud storage and collaboration suites improve.",
+      "Small routine rooms face pricing pressure in 2025-2026 from self-serve VDRs and adjacent file-sharing products.",
+      "Pure project-only revenue remains volatile in 2025-2026 because transaction demand can pause quickly when rates, tariffs or market volatility disrupt deals."
+    ],
+    "recent_developments": [
+      "2025-07: IBISWorld estimated US Virtual Data Rooms revenue at $2.3 billion in 2025, with 8.1% CAGR growth from 2020 to 2025 and 10.3% growth in 2025.",
+      "2025-09-24: DFIN launched a rebuilt Venue VDR with modern architecture, intelligent permissioning, real-time insights and phased legacy migration planned through 2026.",
+      "2026-01-28: EY reported 216 US IPOs in 2025 raising $47.4 billion, compared with 176 IPOs raising $33 billion in 2024.",
+      "2026-01-29: Deloitte reported that 90% of PE respondents and 80% of corporate respondents expected increased deal counts in 2026, while 87% of PE and 81% of corporate respondents expected higher aggregate deal value.",
+      "2026-05-08: Datasite acquired Valu8 to expand AI-driven private-market intelligence and deal sourcing capabilities.",
+      "2026-06-17: PwC reported US M&A deal value of $1.2 trillion in the first five months of 2026, up 99% year over year, despite 4% lower deal volume."
+    ],
+    "outlook": "The industry should keep growing through 2026 as M&A value, IPO readiness, private equity exits, restructuring work and regulated document collaboration support demand. Growth is likely to be strongest among providers that combine VDR security with AI-assisted review, deal workflow, analytics and compliance. Risks are a renewed capital-markets slowdown, customer pushback on premium room pricing, cybersecurity incidents and commoditization by broader enterprise collaboration platforms. The 2025 US industry profit margin of 16.1% suggests attractive economics, but continued AI, cloud-security and sales investment will absorb part of the operating leverage.",
+    "themes": [
+      "AI-enabled due diligence",
+      "Secure cloud collaboration",
+      "M&A and IPO cycle exposure",
+      "Cybersecurity and compliance",
+      "Deal-lifecycle platforms",
+      "Private equity exits",
+      "Workflow automation",
+      "Consolidation among deal-tech vendors"
+    ],
+    "data_year": "2026, using 2025 US market-size data where it is the latest available industry figure.",
+    "sources": [
+      "{'title': 'IBISWorld - Virtual Data Rooms in the US, July 2025', 'url': 'https://www.ibisworld.com/united-states/industry/virtual-data-rooms/4593/'}",
+      "{'title': 'Local baseline file - virtual-data-rooms.txt, last updated February 22, 2021', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/virtual-data-rooms.txt'}",
+      "{'title': 'Research and Markets - Virtual Data Room Market Report 2026', 'url': 'https://www.researchandmarkets.com/reports/5767233/virtual-data-room-market-report'}",
+      "{'title': 'Fortune Business Insights - Virtual Data Room Market, updated July 6, 2026', 'url': 'https://www.fortunebusinessinsights.com/virtual-data-room-market-109254'}",
+      "{'title': 'DFIN - New Venue VDR launch, September 24, 2025', 'url': 'https://www.dfinsolutions.com/knowledge-hub/newsroom/press-release/dfin-introduces-new-venue-most-modern-virtual-data-room-market'}",
+      "{'title': 'Donnelley Financial Solutions 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1669811/000119312526054586/dfin-20251231.htm'}",
+      "{'title': 'PwC - US Deals 2026 midyear outlook, June 17, 2026', 'url': 'https://www.pwc.com/us/en/services/consulting/deals/outlook.html'}",
+      "{'title': 'Deloitte - 2026 M&A Trends Survey, January 29, 2026', 'url': 'https://www.deloitte.com/us/en/about/press-room/deloitte-ma-trends-2026-survey.html'}",
+      "{'title': 'EY - 2025 US IPO activity fuels confidence for 2026, January 28, 2026', 'url': 'https://www.ey.com/en_us/insights/ipo/ipo-market-trends'}",
+      "{'title': 'Datasite - Datasite acquires Valu8, May 8, 2026', 'url': 'https://www.datasite.com/en/company/news/datasite-acquires-valu8-to-further-accelerate-global--ai-driven-deal-sourcing-and-execution'}",
+      "{'title': 'SS&C Intralinks - VDRPro product page, accessed 2026', 'url': 'https://www.intralinks.com/products/virtual-data-room'}"
+    ],
+    "one_sentence": "The US Virtual Data Rooms industry is a fast-growing, deal-cycle-sensitive software niche whose 2025 revenue reached an estimated $2.3 billion as M&A, IPO and private-market workflows moved deeper into secure cloud platforms with AI-assisted diligence and permissions.",
+    "slug": "virtual-data-rooms"
+  },
+  {
+    "title": "Vision Insurance",
+    "sector": "Finance & Insurance",
+    "one_liner": "Supplemental vision plans turn routine eye exams, frames, lenses and contact lenses into a predictable employer and individual benefits product.",
+    "overview": "Vision insurance covers routine eye exams, eyeglasses, lenses, contact lenses and discounts on elective procedures such as LASIK, usually as an employer-sponsored ancillary benefit or as a stand-alone individual plan. The 2021 IBISWorld baseline described a $53.4 billion industry with low volatility, high barriers to entry and increasing consolidation; current 2025-2026 evidence points to continued demand from employer benefits, Medicare Advantage and individual plan channels, but also sharper regulatory attention to vision benefit managers, prescription-release rules and concentrated state markets.",
+    "key_stats": {
+      "market_size": "$50.6 billion estimated US vision insurance revenue in 2025; comparable IBISWorld-baseline projection implies about $56.5 billion in 2025 revenue using the 2021-2026 forecast path.",
+      "growth": "3.0% estimated 2025 revenue growth from a public market estimate; IBISWorld baseline forecast was 1.4% CAGR from 2021 to 2026.",
+      "enrollment": "83 million people had fully insured stand-alone group vision coverage in 2024, and 3 million had fully insured stand-alone individual vision coverage in 2024, excluding about 8 million California enrollees regulated outside NAIC data.",
+      "concentration": "In 2024, the top three stand-alone group vision insurers held a median 77.4% state-level enrollment share; the top three individual vision insurers held a median 78.2%.",
+      "provider_acceptance": "In a 2025 Vision Council survey covering 2024 behavior, 8 in 10 eyecare providers reported accepting EyeMed and VSP.",
+      "category_context": "Warby Parker cited a $70 billion US eyewear market as of December 2025, with insurance used in about 60% of US vision care purchases.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$54.1 billion estimated 2022 revenue, derived from the IBISWorld baseline 2021 revenue of $53.4 billion and its 2021-2026 forecast CAGR of 1.4%.",
+      "growth": "1.4% estimated 2022 growth under the IBISWorld baseline forecast path.",
+      "profit_margin": "8.2% in 2021 baseline, used as the nearest reported margin benchmark.",
+      "employment": "46,202 employees in 2021 baseline, with wages forecast to rise to $3.0 billion by 2026."
+    },
+    "how_it_makes_money": "Insurers earn premiums from employers, employees, individuals, Medicare Advantage-related arrangements and government or affinity groups. Plans monetize predictable utilization through annual premiums, copays, frame and lens allowances, provider network contracts, out-of-network reimbursement limits, discount programs and administrative-services arrangements for self-funded groups.",
+    "cost_structure": "Major costs are claims and provider reimbursements for exams, frames, lenses and contact lenses, followed by network administration, claims processing, broker commissions, sales and marketing, technology, compliance, customer service, wages and capital reserves. Scale matters because large enrollment pools lower per-member administration costs and improve negotiating leverage with providers and retailers.",
+    "major_players": [
+      "VSP Vision Care",
+      "EyeMed Vision Benefits / EssilorLuxottica",
+      "MetLife Vision / Versant Health / Davis Vision / Superior Vision",
+      "UnitedHealthcare Vision",
+      "Aetna / CVS Health",
+      "Humana",
+      "Guardian",
+      "Aflac",
+      "Ameritas"
+    ],
+    "current_dynamics": "Demand remains tied to employment and voluntary benefits budgets, but the product is increasingly treated as a standard health-adjacent benefit rather than a discretionary perk. Group plans dominate enrollment, while individual, Medicare, Medicaid and gig-worker channels are gaining attention. The most important competitive variables are network breadth, retail and online access, claims friction, provider reimbursement, employer-broker relationships and the ability to bundle vision with dental, hearing and supplemental health products.",
+    "whats_growing": "Individual plan satisfaction improved by 13 percentage points between 2023 and 2024 in The Vision Council’s 2025 managed vision care research. Digital benefit use, in-network online eyewear purchasing, Medicare Advantage vision benefits, bundled dental-vision-hearing products, and retailer-carrier integrations are growing. Screen-time concerns and aging demographics are also lifting demand for routine eye exams, blue-light or premium lens options and contact lens replenishment.",
+    "whats_shrinking": "Pure out-of-pocket eyewear purchasing is losing relative share where consumers can use in-network benefits online or at retail chains. Smaller regional insurers and independent providers face pressure from national network scale, vertically integrated optical groups and employer preference for bundled ancillary plans. Low-benefit discount-only plans are also less differentiated as full insurance plans add discounts, online access and richer member tools.",
+    "recent_developments": [
+      "2025-03-04: The Vision Council released Focused inSights 2025: Managed Vision Care, reporting higher 2024 satisfaction across all plan types and a 13-point gain for individual plans.",
+      "2025-05-12: The Vision Lab Choice Act of 2025 was introduced in the US Senate to address vision-plan coverage and lab choice practices.",
+      "2025-06: The FTC sent 37 warning letters to contact lens prescribers over possible Contact Lens Rule and Eyeglass Rule violations, citing potential civil penalties of up to $53,088 per violation.",
+      "2025-12-31: Warby Parker reported that insurance was used in about 60% of US vision care purchases and that its Versant Health integration expanded in-network access by more than 30 million lives.",
+      "2026-03-09: GAO reported that 2024 state-level stand-alone vision insurance markets were concentrated, with the top three group-market insurers holding a median 77.4% share.",
+      "2026-06-24: CMS projected 2025-2034 private health insurance spending growth of 5.0% per year on average, supporting the broader benefits-spending backdrop."
+    ],
+    "outlook": "The industry should grow modestly through 2026 as employer coverage remains sticky, Medicare Advantage and individual channels expand, and eyewear utilization benefits from aging, screen use and replacement cycles. Upside comes from richer ancillary bundles, embedded enrollment and online in-network purchasing. Downside risks include employer cost control, narrower allowances, provider pushback over reimbursements, state-level vision benefit manager laws and federal scrutiny of prescription access and vertically integrated networks.",
+    "themes": [
+      "Employer-sponsored ancillary benefits",
+      "Managed vision care networks",
+      "Vertical integration",
+      "Provider reimbursement pressure",
+      "Online eyewear and benefit redemption",
+      "Medicare Advantage vision benefits",
+      "State and federal regulation",
+      "Aging population and screen-time eye strain"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/vision-insurance.txt",
+      "https://files.gao.gov/reports/GAO-26-107787/index.html",
+      "https://thevisioncouncil.org/blog/new-research-vision-council-reveals-trends-managed-vision-care",
+      "https://www.healthcare.gov/glossary/vision-or-vision-coverage/",
+      "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000006/wrby-20251231.htm",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/06/ftc-sends-warning-letters-prescribers-regarding-possible-violations-contact-lens-rule",
+      "https://www.congress.gov/bill/119th-congress/senate-bill/1716/text",
+      "https://healthsurehub.com/vision-insurance-statistics/"
+    ],
+    "one_sentence": "The US vision insurance industry is a mature but still growing ancillary-benefits market, supported by employer coverage, aging demographics, screen-driven eye strain and insurer-network scale, while facing scrutiny over concentration, vertical integration and provider reimbursement practices.",
+    "slug": "vision-insurance"
+  },
+  {
+    "title": "Vitamin & Supplement Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US vitamin and supplement manufacturers are growing steadily as preventive health, sports nutrition, gummies, women’s health and GLP-1-adjacent wellness routines offset mature multivitamin demand and tighter claims scrutiny.",
+    "overview": "US vitamin and supplement manufacturing is a fragmented, brand-heavy manufacturing market tied to consumer wellness spending rather than prescription drug cycles. The 2022 IBISWorld baseline put industry revenue at $37.2 billion after pandemic-era immune-support demand normalized, while current public market estimates place the US dietary supplements market at $39.28 billion in 2025 and $41.57 billion in 2026. Growth is being led less by generic multivitamins and more by condition-specific, format-led and lifestyle categories: sports nutrition, protein, creatine, magnesium, probiotics, collagen, women’s health, healthy aging, gut health, sleep and mood support. Regulation remains a central constraint because FDA does not preapprove supplements before sale, but it requires labeling compliance, serious-adverse-event reporting and premarket notification for new dietary ingredients; this makes quality systems, testing, traceability and claims discipline increasingly important competitive assets.",
+    "key_stats": {
+      "market_size": "2025 US dietary supplements market: $39.28 billion; 2026 estimate: $41.57 billion",
+      "growth": "2026-2031 forecast CAGR: 5.82%",
+      "retail_sales_context": "2025 US supplement sales: $72.88 billion, up 5.5% from 2024, according to Nutrition Business Journal data reported in 2026",
+      "category_mix": "2025 US supplement sales mix: vitamins 26.7%, specialty ingredients 22.4%, herbs and botanicals 19.2%, sports nutrition 15.6%, meal replacements 10.3%, minerals 5.8%",
+      "vitamin_segment": "2025 US vitamin supplements revenue: $15.64 billion; 2026 estimate: $16.28 billion; 2026-2033 CAGR: 4.0%",
+      "employment_baseline": "2022 IBISWorld employment: 43,216 workers",
+      "establishments_baseline": "2022 IBISWorld establishments: 1,742 locations",
+      "trade_baseline": "2022 IBISWorld exports: $906 million; 2022 imports: $1.61 billion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld industry revenue: $37.236 billion in 2022 dollars",
+      "growth": "2017-2022 revenue CAGR: 1.6%; 2022 annual revenue change: -0.5%; 2022-2028 projected revenue CAGR: 1.15%",
+      "gross_product": "2022 industry gross product: $8.211 billion",
+      "domestic_demand": "2022 domestic demand: $37.941 billion",
+      "wages": "2022 total wages: $4.899 billion",
+      "profit": "2022 EBIT margin estimate: 6.6% of revenue",
+      "products": "2022 product mix included vitamins and minerals at 39.2% and herbs and botanicals at 16.7%; sports nutrition and herbals together accounted for about 33.0% of revenue"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by formulating, blending, encapsulating, tableting, powder-mixing, gummy-making, softgel-filling, packaging and private-label or branded distribution of dietary supplements. Sales flow through national brands, contract manufacturing, private-label programs for retailers, practitioner lines, specialty wellness brands, DTC subscriptions, Amazon and other e-commerce marketplaces, mass retail, grocery, club stores, pharmacies and health stores. Premium pricing comes from clinically supported ingredients, clean-label claims, third-party testing, USP/NSF/Informed Sport certifications, novel delivery formats, targeted health claims and trusted retail shelf placement.",
+    "cost_structure": "The main cost buckets are 2025-2026 raw ingredients and excipients, capsules, gelatin or pectin for gummies, bottles and packaging, quality testing, manufacturing labor, retailer and distributor margins, fulfillment, marketing, R&D and regulatory compliance. In the 2022 IBISWorld baseline, wages were $4.899 billion, equal to about 13.2% of 2022 revenue, and profit was 6.6% of revenue. Ingredient inflation can materially affect margins: Glanbia reported its 2025 Performance Nutrition EBITDA margin fell to 13.0% from 16.9% in 2024, citing record whey input costs.",
+    "major_players": [
+      "Pharmavite / Otsuka: Nature Made, MegaFood, Uqora, Bonafide; opened a $250 million Ohio production facility in 2025 after a 2023 groundbreaking tied to gummy capacity",
+      "Nestle Health Science / The Bountiful Company: Nature's Bounty, Solgar, Garden of Life, Osteo Bi-Flex and other broadline and specialty supplement brands",
+      "Glanbia: Optimum Nutrition and other performance nutrition brands; 2025 group revenue was $3.9 billion and Optimum Nutrition delivered 2025 like-for-like revenue growth of 6.4%",
+      "Haleon: Centrum and adjacent consumer-health nutrition brands",
+      "Bayer: One A Day and other consumer-health vitamin brands",
+      "Herbalife: direct-selling nutrition and supplement products",
+      "Amway: Nutrilite vitamins, minerals and botanicals",
+      "NOW Foods: broadline vitamins, minerals, sports nutrition and natural products",
+      "Church & Dwight: Vitafusion and L'il Critters gummy vitamins",
+      "P&G / Thorne: P&G agreed in August 2026 to buy supplement maker Thorne for $3.8 billion"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: mainstream daily supplement use keeps demand broad, while consumers are shifting from one-size-fits-all multivitamins toward targeted products for energy, sleep, stress, gut health, beauty, menopause, urinary health, healthy aging, protein intake and fitness recovery. Gummies, powders, stick packs and capsules are winning share because they improve convenience and adherence. GLP-1 drug adoption is creating demand for protein, fiber, creatine, multivitamins and digestive support, but it is also increasing legal and regulatory risk around exaggerated GLP-1-like claims. Retailers and large brands are emphasizing third-party testing, supply-chain controls and substantiated structure/function language as FDA activity and class-action scrutiny continue.",
+    "whats_growing": [
+      "2025 sports nutrition, protein, creatine and hydration products tied to fitness, active aging and GLP-1 support routines",
+      "2025 specialty ingredients such as probiotics, omega-3s, collagen, magnesium, CoQ10 and condition-specific blends",
+      "2025 herbs and botanicals, with US herbal supplement sales reaching a 2024 record of $13.2 billion",
+      "2025-2026 women’s health, menopause, urinary health, prenatal and hormone-free wellness products",
+      "2025 gummy, powder, stick-pack, liquid and DTC subscription formats",
+      "2025 e-commerce, social commerce, practitioner-led discovery and personalized nutrition"
+    ],
+    "whats_shrinking": [
+      "2022-2026 generic one-a-day multivitamins are mature relative to targeted and specialty supplements, even though vitamins remain the largest category",
+      "2025-2026 pandemic-era immune-support stockpiling has normalized from 2020-2021 levels",
+      "2025 weight-management supplements without credible GLP-1, protein, fiber or lifestyle-support positioning face weaker consumer trust and legal risk",
+      "2025 low-differentiation private-label and commodity formulas face margin pressure from ingredients, packaging, testing and retailer terms",
+      "2025-2026 products with aggressive disease, drug-like, GLP-1-like or unsubstantiated structure/function claims face higher enforcement and litigation risk"
+    ],
+    "recent_developments": [
+      "2024-03: FDA issued final guidance on New Dietary Ingredient notification procedures and timeframes for dietary supplements.",
+      "2025-05: Nutrition Business Journal reported the US supplement industry reached $69.3 billion in 2024 and projected nearly $87 billion by 2028.",
+      "2025-06: FDA released educational materials on the New Dietary Ingredient notification process for dietary supplements.",
+      "2025-09: US herbal supplement sales were reported at a record $13.2 billion for 2024.",
+      "2026-02: Glanbia reported 2025 revenue of $3.9 billion, Optimum Nutrition like-for-like revenue growth of 6.4%, and margin pressure from record whey costs.",
+      "2026-08: P&G agreed to acquire Thorne for $3.8 billion, signaling continued consumer-products consolidation in premium supplements."
+    ],
+    "outlook": "The industry outlook through 2026-2031 is positive but more disciplined than the pandemic boom. Public market forecasts point to 5.82% CAGR for US dietary supplements from 2026 to 2031, while vitamin-only growth is slower at a 4.0% CAGR from 2026 to 2033. Manufacturers with scale, validated quality systems, flexible formats, sports nutrition exposure, women’s health portfolios, practitioner credibility and e-commerce reach should outperform. Risks include FDA warning letters, NDI compliance costs, class-action litigation over claims and label accuracy, ingredient inflation, retailer concentration, Amazon price transparency and consumer skepticism toward trend-driven ingredients. Consolidation should continue as large CPG, pharma and nutrition companies buy specialty brands with strong consumer communities and defensible science.",
+    "themes": [
+      "Preventive health goes mainstream",
+      "Sports nutrition broadens beyond athletes",
+      "GLP-1 support creates protein, fiber and digestive-health demand",
+      "Gummies and powders keep taking share from pills",
+      "Women’s health and menopause become strategic categories",
+      "Quality testing and claims substantiation become selling points",
+      "Fragmented brands consolidate into CPG and health-science portfolios",
+      "Generic multivitamins mature while targeted formulas grow"
+    ],
+    "data_year": "2026 brief using 2025 market data and 2022 IBISWorld baseline",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/vitamin-and-supplement-manufacturing-in-the-us.txt",
+      "https://www.researchandmarkets.com/reports/6247279/united-states-dietary-supplements-market-share",
+      "https://www.grandviewresearch.com/industry-analysis/us-dietary-supplements-market-report",
+      "https://www.grandviewresearch.com/horizon/outlook/vitamin-supplements-market/united-states",
+      "https://nitesh_nut.rodpub.com/exclusives/u-s-supplement-sales-hit-72-88-billion-as-sports-nutrition-and-digital-discovery-drive-growth/",
+      "https://www.nasdaq.com/press-release/nutrition-business-journal-report-provides-unparalleled-market-intelligence-693",
+      "https://www.fda.gov/food/dietary-supplements/whats-new-dietary-supplements",
+      "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-new-dietary-ingredient-notification-procedures-and-timeframes-dietary-supplements",
+      "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+      "https://www.glanbia.com/media/press-releases/full-year-2025-results",
+      "https://www.pharmavite.com/news/2023/04/pharmavite-llc-makers-of-nature-made-vitamins-breaks-ground-on-new-production-facility-in-new-albany-ohio-to-support-continued-business-growth/",
+      "https://www.pharmavite.com/company/history/",
+      "https://www.nutraingredients.com/Article/2026/01/05/forces-and-factors-that-fueled-the-supplement-industry-in-2025/",
+      "https://www.pwc.com/us/en/industries/consumer-markets/library/glp-1-consumer-trends.html",
+      "https://www.wsj.com/business/retail/p-g-agrees-to-buy-supplements-maker-for-3-8-billion-1f52e7bf"
+    ],
+    "one_sentence": "The industry manufactures vitamins, minerals, herbals, botanicals, sports nutrition powders, specialty nutrients and meal supplements for pharmacies, mass retailers, grocery chains, e-commerce brands and practitioner channels.",
+    "slug": "vitamin-and-supplement-manufacturing-in-the-us"
+  }
+]

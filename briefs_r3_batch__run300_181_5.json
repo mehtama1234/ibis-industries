@@ -1,0 +1,428 @@
+[
+  {
+    "title": "Hospital Construction",
+    "sector": "Construction",
+    "one_liner": "U.S. hospital construction is a fragmented contractor market tied to health-system capital budgets, aging facilities, and the shift from inpatient beds toward outpatient and specialty capacity.",
+    "overview": "The industry remains mature and fragmented, with large national builders competing alongside regional specialists for complex acute-care, academic medical center, children’s hospital, VA, emergency, ICU, behavioral health and renovation work. The 2021 baseline expected a post-pandemic rebound to $42.8B by 2026, but the newer April 2025 IBISWorld listing indicates a smaller hospital-specific market of $28.5B after a 1.2% CAGR decline over the prior five years. Broader U.S. health care construction is much larger: Census/FRED reported total health care construction spending at $74.811B SAAR in June 2026. The gap reflects the industry's narrower hospital-only definition, excluding many medical office, clinic and special-care buildings that are increasingly absorbing capital dollars.",
+    "key_stats": {
+      "market_size": "$28.5B hospital construction revenue in 2025, per April 2025 IBISWorld listing; broader health care construction was $74.811B SAAR in June 2026, per Census/FRED",
+      "growth": "-1.2% CAGR for hospital construction over the five years to 2025, with a 4.9% bump in 2023, per April 2025 IBISWorld listing",
+      "broader_healthcare_construction": "$74.811B SAAR in June 2026 for total U.S. health care construction spending",
+      "forecast_growth": "AIA Consensus Forecast expected health care construction spending to grow 2.6% in 2026 and 4.4% in 2027",
+      "concentration": "Low concentration; the 2021 baseline said Turner Construction and McCarthy together were under 10.0% of industry revenue",
+      "demand_backdrop": "AHA reported U.S. health care spending of $4.9T in 2023 and total hospital expense growth of 7.5% in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$37.8B in 2022, estimated from the baseline file's $36.647B 2021 revenue and 3.2% 2021-2026 forecast CAGR, in 2021 dollars",
+      "growth": "3.2% estimated 2022 growth from the baseline file's 2021-2026 projected CAGR",
+      "baseline_source": "Local baseline file dated Aug. 16, 2021"
+    },
+    "how_it_makes_money": "Contractors earn revenue through construction management, general contracting, design-build, preconstruction, renovation, additions, reconstruction and major replacement work for hospital owners. Projects are usually awarded through competitive bids, negotiated GMP contracts, construction management at risk, integrated project delivery or design-build arrangements, with margins coming from fees, self-performed work, subcontractor management, change orders and project controls.",
+    "cost_structure": {
+      "labor": "High; skilled trades, project management, safety, infection-control and specialized health care construction expertise are critical, and the 2021 baseline forecast industry wages rising to $5.5B by 2026.",
+      "subcontractors_and_materials": "Largest cost bucket; structural steel, concrete, mechanical/electrical/plumbing, medical gases, HVAC, controls, elevators, fire/life safety, imaging-room shielding and clinical fit-out drive project budgets.",
+      "equipment_and_technology": "Large owner-funded and contractor-coordinated category; AHA cited 2025 examples such as ICU-capable beds at $25,000-$30,000 each and advanced clinical equipment that can cost hundreds of thousands per unit.",
+      "profit": "Low to moderate; the 2021 baseline reported a 2.5% profit margin in 2021, pressured by price competition, labor scarcity, escalation risk and complex occupied-campus phasing.",
+      "risk_and_compliance": "Meaningful cost item due to licensing, life safety, infection prevention, security, cybersecurity, commissioning, seismic or resilience standards and continuous hospital operations during renovations."
+    },
+    "major_players": [
+      "Turner Construction",
+      "DPR Construction",
+      "McCarthy Holdings / McCarthy Building Companies",
+      "STO Building Group",
+      "Brasfield & Gorrie",
+      "Robins & Morton",
+      "JE Dunn Construction",
+      "The Whiting-Turner Contracting Co.",
+      "AECOM",
+      "Skanska",
+      "Mortenson"
+    ],
+    "current_dynamics": "Demand is not simply for more beds. Health systems are prioritizing modernization, private rooms, emergency and ICU capacity, specialty care, behavioral health, ambulatory links and replacement of obsolete facilities. At the same time, hospital margins, high interest rates, labor shortages, tariff and materials uncertainty, and Medicaid/Medicare reimbursement pressure are limiting how many large greenfield hospitals can move forward. Broader health care construction is steadier than many private nonresidential categories, but hospital-only work is being diluted by outpatient and medical office investment.",
+    "whats_growing": [
+      "Large campus expansions tied to academic medical centers and regional referral hospitals",
+      "Emergency, ICU, surgical, imaging, cancer, behavioral health and rehabilitation capacity",
+      "Renovations of occupied facilities to improve patient flow, resilience, cybersecurity and infection control",
+      "Hospital-adjacent outpatient, ambulatory surgery and medical office projects backed by health systems",
+      "Prefabrication, BIM, integrated project delivery and early contractor involvement to manage complexity and cost"
+    ],
+    "whats_shrinking": [
+      "Standalone greenfield acute-care hospital projects in slower-growth or financially stressed markets",
+      "Rural and safety-net hospital capital programs where operating losses restrict borrowing capacity",
+      "Traditional inpatient-bed expansion when outpatient substitution can meet demand at lower cost",
+      "Projects dependent on uncertain public reimbursement or certificate-of-need approvals",
+      "Low-margin bid work where escalation, labor availability and phasing risk are not priced adequately"
+    ],
+    "recent_developments": [
+      "2026-08-03: Census/FRED reported total U.S. health care construction spending at $74.811B SAAR for June 2026.",
+      "2026-07-25: AIA Consensus Construction Forecast projected health care construction spending growth of 2.6% in 2026 and 4.4% in 2027.",
+      "2026-03-11: AHA reported hospital expenses rose 7.5% in 2025, while supplies rose 9.9% and drugs rose 13.6%.",
+      "2026-01-20: Building Design+Construction ranked Turner, DPR and McCarthy among the top U.S. hospital facility contractors for 2025.",
+      "2025-06-12: Modern Healthcare named Turner the top U.S. health care construction manager for 2025, according to Turner/HOCHTIEF.",
+      "2025-05-12: Henry Ford Health reported a construction milestone on its $2.2B Detroit hospital expansion, adding 1.2M square feet."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive for health care construction but mixed for hospital-only builders. Aging demographics, higher-acuity patients, aging physical plants and system consolidation support demand for major replacements and campus expansions. However, capital rationing will remain strict because hospitals face 2025 expense growth well above price growth, elevated borrowing costs and policy uncertainty. The strongest opportunities are likely in complex renovations, replacement towers, specialty centers, emergency and ICU upgrades, and health-system-backed outpatient projects rather than broad-based new hospital construction.",
+    "themes": [
+      "Aging population and higher-acuity care",
+      "Outpatient shift reshaping hospital campuses",
+      "Capital discipline under hospital margin pressure",
+      "Renovation over greenfield expansion",
+      "Cybersecurity and physical security in facility planning",
+      "Skilled labor and materials escalation",
+      "Private-room, ICU and emergency capacity modernization",
+      "Fragmented contractor competition"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hospital-construction.txt",
+      "https://fred.stlouisfed.org/series/TLHLTHCONS",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://www.aia.org/resource-center/july-2026-consensus-construction-forecast",
+      "https://www.aha.org/costsofcaring",
+      "https://www.aha.org/aha-center-health-innovation-market-scan/2025-12-23-assessing-health-care-environment-2026-key-signals-field",
+      "https://www.bdcnetwork.com/giants-400/news/55344583/top-100-hospital-facility-construction-firms-for-2025",
+      "https://www.researchandmarkets.com/report/united-states-healthcare-building-market",
+      "https://www.henryford.com/news/2025/05/henry-ford-hospital-construction-first-beam",
+      "https://www.hochtief.com/news-media/press-releases/press-release/turner-named-nations-top-healthcare-construction-manager-by-modern-healthcare",
+      "https://www.sec.gov/Archives/edgar/data/860730/000119312526044769/hca-20251231.htm"
+    ],
+    "one_sentence": "Hospital construction covers new builds, expansions, renovations and major replacements for public and private hospitals, with demand shaped by health-system finances, demographics, care delivery models, construction costs and regulation.",
+    "slug": "hospital-construction"
+  },
+  {
+    "title": "Hot Dog & Sausage Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature meat-processing industry where branded scale, private-label volume and seasonal grilling demand keep sales resilient despite health concerns and volatile livestock costs.",
+    "overview": "The industry produces hot dogs, frankfurters, dinner sausages, breakfast sausage, smoked sausage, dry sausage such as pepperoni and salami, and poultry-based sausage products for grocery, club, foodservice, convenience and institutional channels. The 2021 IBIS baseline put industry revenue at $18.5 billion and projected only modest real growth through 2026, reflecting mature household penetration and price-led rather than volume-led expansion. Current 2025-2026 data show the same pattern: supermarket hot dog and sausage spending exceeded $11.0 billion in 2025, but hot dogs faced 2025 volume pressure while dinner sausage continued to gain on flavor innovation, grilling occasions and meal convenience.",
+    "key_stats": {
+      "market_size": "2025 estimated US production revenue: $19.3 billion; 2025 US supermarket hot dog and sausage retail spending: more than $11.0 billion",
+      "growth": "2025 estimated production revenue growth: +1.3%; 2026 dinner sausage retail dollar sales in May 2026: +1.8% year over year; 2026 breakfast sausage retail dollar sales in May 2026: -0.5% year over year",
+      "retail_volume": "2025 retail hot dog volume: 905 million pounds; 2025 dinner sausage retail volume: more than 1.2 billion pounds; 2025 breakfast sausage retail volume: more than 418 million pounds",
+      "retail_sales": "2025 hot dog retail sales: more than $3.0 billion; 2025 dinner sausage retail sales: more than $5.7 billion; 2025 breakfast sausage retail sales: more than $2.1 billion",
+      "price_indicators": "2025 CPI: frankfurters +6.6% year over year in December 2025; breakfast sausage and related products -0.8% year over year in December 2025",
+      "industry_context": "2023 NAICS 311612 meat processed from carcasses sales: $80.6 billion; 2023 NAICS 311612 operating expenses: $72.8 billion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 baseline estimate: $18.55 billion in 2021 dollars, derived from the 2021 IBIS revenue base of $18.508 billion and the 2021-2027 projected CAGR of +0.25%",
+      "growth": "2022 baseline real revenue growth: +0.25% projected from the 2021 IBIS forecast",
+      "exports": "2021 baseline exports: $4.246 billion in 2021 dollars",
+      "imports": "2021 baseline imports: $1.806 billion in 2021 dollars",
+      "profit_margin": "2021 baseline profit margin: 4.70%"
+    },
+    "how_it_makes_money": "Producers buy pork, beef, poultry trimmings and other inputs, grind, season, cure, smoke, cook, package and distribute branded or private-label products. Revenue comes from supermarket and club retail, foodservice distributors, restaurant chains, convenience stores, stadium concessions, school and institutional buyers, industrial pepperoni and ingredient customers, export markets, and licensing arrangements such as Nathan's Famous branded hot dogs.",
+    "cost_structure": {
+      "raw_materials": "Largest cost bucket; 2025 beef inflation raised input pressure for all-beef hot dogs, while 2025 pork inflation was much milder and supported pork-heavy sausage margins.",
+      "labor": "Meaningful processing-plant cost; the 2021 baseline reported $1.575 billion in wages and 31,874 employees for the narrower IBIS industry.",
+      "packaging_distribution": "Casings, films, cartons, refrigerated warehousing, cold-chain freight and retailer chargebacks remain material costs in 2025-2026.",
+      "marketing_trade_spend": "Large branded suppliers fund retailer promotions, holiday displays, club-pack pricing and licensed-brand support, especially around the 2025 summer grilling season.",
+      "compliance_capex": "Food safety, wastewater, sanitation, automation and traceability spending increased in importance after the 2023 EPA meat and poultry products effluent proposal and ongoing USDA inspection requirements."
+    },
+    "major_players": [
+      "Tyson Foods: 2025 sales of $54.0 billion; key brands include Jimmy Dean, Hillshire Farm, Ball Park and Aidells",
+      "Smithfield Foods: 2023 sales of more than $14.0 billion; packaged meats brands include Smithfield, Eckrich, Nathan's Famous, Farmland, Armour, John Morrell and Carando",
+      "Kraft Heinz: 2025 Oscar Mayer remained a major hot dog and cold-cut brand and launched the limited EveryBun mixed meat and plant-based hot dog pack in August 2025",
+      "Hormel Foods: 2025 portfolio includes Hormel, Applegate, Jennie-O and Columbus products across premium, natural, turkey and deli-style processed meats",
+      "Private-label manufacturers: 2025 private label gained share across US CPG as shoppers sought value, pressuring branded hot dog and sausage pricing power"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: consumers still want convenient, affordable protein, but health, sodium, processing and weight-loss-drug concerns weigh on some center-store processed meats. Beef-heavy hot dogs saw stronger 2025 retail inflation as beef and veal prices rose sharply, while sausage benefited from product variety, pork-based cost stability, spicy flavors, smoked formats and dinner solutions. Retailers are giving space to private label and smaller regional sausages, while large processors defend volume through brand equity, licensed names, holiday promotions and foodservice relationships.",
+    "whats_growing": [
+      "2025 dinner sausage grew to more than $5.7 billion in retail sales, helped by grilling, dinner solutions and flavor variety",
+      "2025 younger consumers increased purchases of cooked dinner sausage and breakfast sausage in Circana-tracked periods ending January 2025",
+      "2025 spicy and ethnic flavors, including chorizo and hot-flavored sausage, over-indexed with Gen Z shoppers",
+      "2025 private label and smaller CPG manufacturers gained share as value remained central to food purchasing",
+      "2026 dinner sausage posted +1.8% dollar growth and +1.7% pound growth in May 2026 retail data"
+    ],
+    "whats_shrinking": [
+      "2025 hot dog units and volume declined about 2%-3% year over year despite dollar support from inflation",
+      "2025 breakfast sausage was softer than dinner sausage by late 2025, and May 2026 breakfast sausage dollars fell -0.5% year over year",
+      "2025 processed meats overall had mild unit and pound declines even as dollar sales rose +1.3%",
+      "2025 premium all-beef hot dog margins were pressured by beef and veal CPI inflation of +16.4% year over year in December 2025",
+      "2025 health-driven consumers continued to trade some processed-meat occasions toward fresh meat, poultry, plant-based or minimally processed protein"
+    ],
+    "recent_developments": [
+      "2025-01-27: Smithfield Foods priced its IPO at $20.00 per share and began trading on Nasdaq under SFD on 2025-01-28.",
+      "2025-02-25: Circana-reported sausage data showed breakfast sausage sales of $2.39 billion and dinner sausage sales of $5.66 billion for the latest 52 weeks cited in early 2025.",
+      "2025-03-18: NHDSC reported 2024 US supermarket hot dog and sausage spending of about $8.5 billion and more than 2.0 billion retail pounds sold.",
+      "2025-08-19: Kraft Heinz's Oscar Mayer launched the limited EveryBun pack combining meat wieners and plant-based hot dogs.",
+      "2026-01-21: Smithfield agreed to acquire Nathan's Famous for an enterprise value of about $450 million, converting a long-running license into ownership if completed.",
+      "2026-07-01: Provisioner/Circana reported May 2026 dinner sausage sales of $505 million, up +1.8% in dollars and +1.7% in pounds year over year."
+    ],
+    "outlook": "The 2026 outlook is stable but not high-growth. Nominal revenue should rise modestly as pricing, summer grilling, foodservice and sausage innovation offset weaker hot dog volume and health-related processed-meat headwinds. Scale favors Tyson, Smithfield, Kraft Heinz, Hormel and large private-label suppliers because they can manage livestock volatility, retailer promotions, plant utilization and food-safety compliance. The strongest opportunities in 2026 are dinner sausage, premium smoked and ethnic flavors, poultry sausage, clean-label lines, club and convenience packs, and licensed brands with strong household recognition.",
+    "themes": [
+      "Value protein",
+      "Summer grilling seasonality",
+      "Dinner sausage outperformance",
+      "Private-label share gains",
+      "Beef cost pressure",
+      "Pork cost stability",
+      "Flavor innovation",
+      "Licensed brands and M&A",
+      "Health and processed-meat scrutiny",
+      "Cold-chain automation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hot-dog-and-sausage-production.txt",
+      "https://www.hot-dog.org/media/consumption-stats",
+      "https://hot-dog.org/press/City_of_Angels_and_Hot_Dogs_LA_Enters_MLB_Season_as_Top_Hot_Dog_Consuming_City",
+      "https://www.meatpoultry.com/articles/31479-hot-dog-and-sausage-report-finding-more-flavors",
+      "https://www.meatpoultry.com/articles/33175-annual-report-hot-dogs-and-sausages-shine",
+      "https://digitaledition.provisioneronline.com/july2026/cover-story-2026-sausage-report/",
+      "https://www.bls.gov/news.release/archives/cpi_01132026.htm",
+      "https://data.census.gov/table/AIESEXP01TIMESERIES.AIES00EXP01",
+      "https://ir.tyson.com/about-tyson/facts/default.aspx?LanguageId=1",
+      "https://investors.smithfieldfoods.com/news-events/press-releases/detail/1392/smithfield-foods-announces-pricing-of-initial-public-offering",
+      "https://investors.smithfieldfoods.com/sec-filings/sec-filings/content/0001628280-25-000470/smithfieldfoods-sx1.htm",
+      "https://www.sec.gov/Archives/edgar/data/91388/000121390026005905/ea027349301ex99-1_smith.htm",
+      "https://news.kraftheinzcompany.com/press-releases-details/2025/Oscar-Mayer-Debuts-Hot-Dogs-for-EveryBun--The-First-Ever-Pack-of-Wieners-and-Plant-Based-Hot-Dogs/default.aspx"
+    ],
+    "one_sentence": "In 2025, US hot dog and sausage producers operated in a slow-growth, value-oriented processed-meat market, with sausage outperforming hot dogs as shoppers balanced convenience, protein demand and higher beef prices.",
+    "slug": "hot-dog-and-sausage-production"
+  },
+  {
+    "title": "Hot Sauce Production",
+    "sector": "Food & Drink",
+    "one_liner": "A small but culturally loud condiment category riding spicy, global, premium and foodservice-driven demand.",
+    "overview": "The baseline IBIS file described a growth-stage US industry that reached $1.456 billion in 2020 revenue, with 274 enterprises, 279 establishments, 2,718 employees, $152.5 million of exports and $148.0 million of imports in 2020 dollars. A later IBISWorld listing published through MarketResearch.com put US hot sauce production at $2.6 billion in 2023, after a 2.5% CAGR over the five years to 2023 and a 1.9% increase in 2023 as foodservice recovered. Public 2026 market trackers differ because some measure retail hot sauce demand rather than domestic production, but they still point to a growing category: Mordor estimated the US hot sauce market at $1.25 billion in 2025 and $1.29 billion in 2026, with a 4.0% CAGR forecast for 2026-2031; Fortune Business Insights estimated $1.09556 billion in 2024 and $1.17104 billion in 2025, with a 7.58% CAGR forecast for 2025-2032. The industry remains fragmented beneath a handful of scale brands, with McCormick's Frank's RedHot and Cholula, McIlhenny's Tabasco, Kraft Heinz, Huy Fong, Tapatio, Texas Pete and Mexican imports competing against many regional and artisanal labels.",
+    "key_stats": {
+      "market_size": "2026 US hot sauce market: $1.29 billion; 2025 US hot sauce market: $1.25 billion; 2023 US hot sauce production revenue: $2.6 billion in the latest public IBISWorld listing",
+      "growth": "2026-2031 forecast CAGR: 4.0%; 2025-2032 forecast CAGR: 7.58%; 2018-2023 IBISWorld production CAGR: 2.5%",
+      "profit": "2023 IBISWorld-listed industry profit margin: 4.1%; 2020 baseline profit margin: 3.8%",
+      "employment": "2020 baseline employment: 2,718 workers",
+      "business_count": "2020 baseline enterprises: 274; 2025 baseline forecast enterprises: 320",
+      "exports_imports": "2020 baseline exports: $152.5 million; 2020 baseline imports: $148.0 million",
+      "consumer_usage": "2024 Circana survey: 93% of Americans eat hot sauce and 51% use it more than once a week",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $2.55 billion, inferred from the 2024 IBISWorld listing that states $2.6 billion in 2023 after a 1.9% 2023 increase",
+      "growth": "About 2.5% 2018-2023 CAGR based on the 2024 IBISWorld listing; older 2021 baseline file forecast only 0.8% annualized growth from 2020 to 2025",
+      "profit": "2023 profit margin was 4.1%; 2022 likely near 4% as wage and input costs pressured margins",
+      "note": "The provided baseline file itself reported $1.456 billion of 2020 revenue in 2020 dollars and projected slower growth to 2025; later public IBISWorld metadata shows a materially higher 2023 revenue base."
+    },
+    "how_it_makes_money": "Producers buy peppers, vinegar, salt, spices, packaging and sometimes fermented pepper mash, then manufacture shelf-stable sauces sold through grocery wholesalers, supermarkets, mass merchants, club stores, specialty retailers, ecommerce, restaurant distributors, QSR/private-label contracts and direct-to-consumer channels. Large brands make money from national retail velocity, foodservice formats, packets and branded licensing, while smaller brands rely on premium pricing, local distribution, subscriptions, gift packs and specialty-store placement.",
+    "cost_structure": "Main costs are pepper and agricultural ingredients, vinegar, spices, bottles, caps, labels, cartons, co-manufacturing or plant labor, freight, slotting fees, trade promotion, food safety compliance and marketing. The 2020 baseline implied wages of about 9.3% of revenue and profit of 3.8%; by 2023, the public IBISWorld listing cited 4.1% profit, with swelling wage costs limiting margins. Packaging, freight and trade spend matter heavily because hot sauce is low-ticket, shelf-stable and often sold in glass or squeeze bottles.",
+    "major_players": [
+      "McCormick & Company: Frank's RedHot and Cholula",
+      "McIlhenny Company: Tabasco",
+      "The Kraft Heinz Company",
+      "Huy Fong Foods",
+      "TW Garner Food Company: Texas Pete",
+      "Tapatio Foods",
+      "Grupo Herdez and other Mexican brands such as Cholula, El Yucateco and Valentina",
+      "Premium and craft brands including Truff, Pepper Palace, Torchbearer Sauces and regional small-batch producers"
+    ],
+    "current_dynamics": "Demand is being pulled by younger consumers, spicy social-media culture, Mexican, Korean, Thai, Indian and Southeast Asian cuisines, hot honey and sweet-spicy flavor formats, and foodservice menu innovation. The market is no longer only about extreme heat: flavored, garlicky, citrus, smoky, fermented, creamy and cooking-sauce formats are gaining shelf space. Scale players are launching extensions to defend facings and foodservice accounts, while craft brands compete on provenance, heat level, novelty peppers and premium packaging. Risks include market saturation, retail slotting pressure, pepper crop volatility, glass and freight costs, wage inflation, import competition and exposure to Mexico-linked agricultural supply chains.",
+    "whats_growing": "Flavored and globally inspired sauces, Mexican-style table sauces, buffalo variants, hot honey and swicy products, chili crisp-adjacent condiments, foodservice squeeze bottles and packets, ecommerce discovery, premium gifting, and sauces positioned for tacos, wings, sandwiches, eggs, pizza and bowls. Mordor's 2026 report highlights flavored hot sauce growing faster than plain sauce and HoReCa/foodservice as a faster-growing channel through 2031.",
+    "whats_shrinking": "Pure novelty extreme-heat positioning is losing momentum relative to flavor-led sauces. Undifferentiated mild red sauces face more shelf competition from private label, Mexican imports and larger brand extensions. Small producers without retail velocity or direct-audience economics are more exposed to rising freight, packaging, compliance, wage and promotional costs.",
+    "recent_developments": [
+      "2024-05: Circana reported 93% of Americans eat hot sauce and 51% use it more than once a week.",
+      "2024-06: A public IBISWorld listing put US hot sauce production at $2.6 billion in 2023, up 1.9% in 2023 with 4.1% profit.",
+      "2025-01: Cholula launched Cholula Extra Hot on National Hot Sauce Day.",
+      "2025-03: Tabasco launched Salsa Picante, its first Mexican-style hot sauce, for foodservice.",
+      "2025-04: Frank's RedHot debuted six new sauces, extending the brand beyond classic buffalo use cases.",
+      "2026-06: Mordor estimated the US hot sauce market at $1.29 billion in 2026 and forecast 4.0% CAGR through 2031."
+    ],
+    "outlook": "The 2026-2031 outlook is positive but more competitive. Category dollars should keep growing as spicy flavors become everyday eating habits and foodservice operators use sauces as low-cost menu differentiators. The strongest producers will combine reliable supply, food safety discipline, grocery execution, foodservice formats and flavor innovation. Margin upside depends on passing through pepper, labor, packaging and freight costs without losing shelf velocity. Consolidation remains likely because larger flavor companies can plug acquired brands into national distribution and foodservice sales teams.",
+    "themes": [
+      "Global Flavor Mainstreaming",
+      "Swicy And Flavor-Led Heat",
+      "Foodservice Sauce Innovation",
+      "Premium Small-Batch Condiments",
+      "Shelf-Space Saturation",
+      "Pepper And Packaging Cost Volatility",
+      "Brand Consolidation",
+      "Import Competition From Mexico And Asia"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hot-sauce-production.txt",
+      "https://www.marketresearch.com/IBISWorld-v2487/Hot-Sauce-Production-Research-37240641/",
+      "https://www.mordorintelligence.com/industry-reports/united-states-hot-sauce-market",
+      "https://www.fortunebusinessinsights.com/u-s-hot-sauce-market-107592",
+      "https://www.circana.com/post/hot-sauce-market-trends",
+      "https://news.mccormick.com/news-releases?keywords=2023&l=100",
+      "https://www.prnewswire.com/news-releases/tabasco-brand-launches-new-mexican-style-hot-sauce-for-foodservice-302395079.html",
+      "https://restaurant.org/research-and-media/media/press-releases/mushrooms-hot-honey-southeast-asian-flavors-spice-up-restaurant-menus-in-2025/",
+      "https://www.ers.usda.gov/data-products/food-price-outlook",
+      "https://www.ers.usda.gov/data-products/chart-gallery/112988"
+    ],
+    "one_sentence": "US hot sauce producers make chili-pepper-based sauces for grocery, mass retail, foodservice, wholesalers and other food manufacturers, with growth coming from mainstream spicy-food adoption, Mexican and Asian flavor profiles, premium small-batch brands and restaurant sauce innovation.",
+    "slug": "hot-sauce-production"
+  },
+  {
+    "title": "Hot Tub Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. hot tub manufacturers sell discretionary wellness and outdoor-living products into a slower but still sizable replacement, remodel and dealer-led market.",
+    "overview": "The industry manufactures acrylic, fiberglass and other nonceramic hot tubs, spas, swim spas and whirlpool baths, then sells mainly through dealers, specialty retailers, distributors and selected direct channels. The 2022 baseline showed a pandemic demand surge, $1.357 billion of 2021 industry revenue and a mature, consolidating manufacturer base. By 2025-2026, the broader U.S. hot tub demand pool remained larger than the manufacturing-only revenue base, with public market estimates ranging from $1.93 billion to $2.4 billion for 2025 U.S. hot tub sales, but growth is being held back by high financing costs, cooling new construction and cautious discretionary spending. The healthier pockets are replacement sales, above-ground and portable tubs, smart controls, energy-efficient heating, water-care systems and remodel-driven outdoor living projects.",
+    "key_stats": {
+      "market_size": "2025 U.S. hot tub market demand estimated at $1.93 billion by Fortune Business Insights; Global Market Insights separately estimates 2025 U.S. hot tub revenue at $2.4 billion, implying a practical current demand range of about $1.9 billion-$2.4 billion.",
+      "growth": "2026 global hot tub market expected to rise to $6.06 billion from $5.76 billion in 2025, or about 5.2% year over year; forecast CAGR is 4.28% for 2026-2034 globally and 4.7% for 2026-2035 in North America.",
+      "profitability": "2021 IBISWorld baseline profit margin was 7.0% of revenue; 2025 PHTA survey data indicate margins were largely flat for builders/remodelers and retailers as input costs and inflation absorbed revenue gains.",
+      "trade": "2021 IBISWorld baseline imports were $100.6 million and exports were $21.5 million; imports satisfied about 7.0% of 2021 domestic demand.",
+      "demand_mix": "2021 IBISWorld baseline market segmentation: residential remodeling 58.0%, new residential construction 26.0%, commercial 14.4%, exports 1.6%.",
+      "input_cost_signal": "BLS/FRED plastics material and resin manufacturing PPI was 368.751 in June 2026, up sharply from early 2026 monthly readings, keeping resin volatility relevant for acrylic and molded spa producers.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 industry revenue was $1.357 billion in 2021 dollars in the January 2022 IBISWorld baseline; applying the baseline 2021-2027 projected CAGR of 1.24% implies about $1.374 billion for 2022.",
+      "growth": "The January 2022 IBISWorld baseline projected 1.24% annualized revenue growth for 2021-2027 after 2021 revenue rose 6.4%.",
+      "profit_margin": "2021 profit margin was 7.0% of revenue.",
+      "establishments": "2021 establishments were 59 and enterprises were 53.",
+      "employment": "2021 employment was 3,668 workers.",
+      "domestic_demand": "2021 domestic demand was $1.436 billion."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, molding, assembling and wholesaling hot tubs, swim spas and whirlpool baths to specialty dealers, pool-and-spa retailers, distributors, home-improvement channels, commercial buyers and limited direct-to-consumer channels. Price realization comes from brand reputation, hydrotherapy features, jet systems, insulation, smart controls, water-care systems, warranties, dealer support and premium finishes, while after-market value is captured indirectly through accessories, covers, replacement parts and service relationships.",
+    "cost_structure": "Major costs are acrylic/fiberglass shells, plastic resins, cabinets, pumps, heaters, jets, controls, plumbing, insulation, covers, freight, dealer support, warranty service and factory labor. The business is not highly capital intensive, but margins are exposed to resin, plastics, metals, electrical components, energy, freight and wage inflation. Larger manufacturers benefit from purchasing scale, automated molding/assembly, broader dealer networks and lower per-unit overhead, while smaller producers compete on niche design, local service and customization.",
+    "major_players": [
+      "Jacuzzi Group Worldwide",
+      "Watkins Wellness / Masco Corporation / Hot Spring Spas",
+      "Master Spas",
+      "Bullfrog Spas",
+      "Cal Spas",
+      "Marquis Corporation",
+      "ThermoSpas",
+      "Dimension One Spas",
+      "Arctic Spas",
+      "Hydropool Hot Tubs",
+      "Coast Spas",
+      "Canadian Spa Company"
+    ],
+    "current_dynamics": "The market has normalized from the pandemic boom. Demand is still supported by home wellness, outdoor living, high-income homeowners and replacement purchases, but new installations are constrained by interest rates, weaker housing starts and cautious big-ticket spending. Dealer showrooms remain important because consumers want to test seating, jet layouts and finishes before buying. Public 2025 industry data show revenue resilience but margin pressure, with service and remodel work stronger than new construction. Manufacturers are leaning into smart controls, energy efficiency, lower-maintenance water systems and portable/above-ground formats to broaden the buyer base.",
+    "whats_growing": [
+      "Above-ground hot tubs: 2025 North America revenue was estimated at $1.84 billion and 64.9% share by Global Market Insights.",
+      "Portable and plug-and-play models: affordability, easier installation and renter-friendly placement are expanding entry-level demand.",
+      "Smart and connected tubs: 2025 smart tubs represented 53.07% of the global hot tub market according to Fortune Business Insights.",
+      "Replacement and remodel-linked purchases: 2025 PHTA survey data showed remodel revenue improving more clearly than new construction.",
+      "Energy-efficient insulation, variable-speed pumps, salt systems and automated water monitoring: consumers are trading up for lower operating and maintenance burden.",
+      "Commercial wellness use in gyms, spas, resorts and vacation rentals: demand benefits from wellness positioning, though budgets remain cyclical."
+    ],
+    "whats_shrinking": [
+      "Pandemic-era backlog premiums and extended delivery times are fading as supply catches up and consumers become more price sensitive.",
+      "New residential construction-linked demand is softer because high rates, slower starts and weak home sales reduce discretionary outdoor installations.",
+      "In-ground/fixed hot tubs are losing relative share to above-ground and portable products that are cheaper and easier to install.",
+      "Low-differentiation basic tubs face pressure from imports, private-label products and inflatable/entry-level alternatives.",
+      "Manufacturer margin expansion is constrained by resin, electrical component, freight, labor and warranty costs."
+    ],
+    "recent_developments": [
+      "2025-09: Be Well Canada Spa opened a 50,000-square-foot factory to expand North American spa production reach.",
+      "2025-10: Global Market Insights reported North America hot tub market size at $2.8 billion for 2025 and forecast $3.0 billion for 2026.",
+      "2025-10: Global Market Insights cited Jacuzzi Group Worldwide's SmartTub integration push across premium lines as a 2025 smart-control development.",
+      "2025-12: PHTA Q3 2025 survey reported typical pool and hot tub industry revenue up 1% to 5% year over year, with margin pressure persisting.",
+      "2026-07: Fortune Business Insights valued the 2025 U.S. hot tub market at $1.93 billion and the 2025 global market at $5.76 billion.",
+      "2026-07: Harvard JCHS forecast renovation and repair spending growth slowing to 0.5% by Q2 2027, signaling a cooler remodel backdrop."
+    ],
+    "outlook": "Through 2026, U.S. hot tub manufacturers should see modest demand rather than another boom. Replacement, remodel and wellness-driven purchases are likely to outperform new construction, while premium brands with dealer networks, energy-efficient features and connected water-care systems should hold pricing better than undifferentiated entry-level producers. The main downside risks are high interest rates, weaker housing turnover, consumer financing stress, resin volatility and competition from imports or low-cost portable products. The best-positioned manufacturers will manage dealer inventory tightly, simplify ownership, reduce operating costs for consumers and keep product lines broad enough to serve both entry-level and premium buyers.",
+    "themes": [
+      "Home wellness",
+      "Outdoor living",
+      "Replacement cycle",
+      "Smart tubs",
+      "Energy efficiency",
+      "Dealer showrooms",
+      "Portable and above-ground formats",
+      "Resin cost volatility",
+      "Consolidation",
+      "Remodel over new construction"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hot-tub-manufacturing.txt",
+      "https://www.fortunebusinessinsights.com/hot-tub-market-104629",
+      "https://www.gminsights.com/industry-analysis/north-america-hot-tub-market",
+      "https://poolpromag.com/phta-results-q3-2025-quarterly-pulse-survey/",
+      "https://www.jchs.harvard.edu/press-releases/remodeling-spending-poised-further-slowdown",
+      "https://fred.stlouisfed.org/series/PCU325211325211",
+      "https://www.watkins.pro/en_ca/brand/"
+    ],
+    "one_sentence": "Hot Tub Manufacturing covers U.S. producers of nonceramic hot tubs, spas, swim spas and whirlpool baths, with demand tied to high-income households, remodeling activity, hospitality spending, energy-efficient product replacement and dealer showroom performance.",
+    "slug": "hot-tub-manufacturing"
+  },
+  {
+    "title": "Hotel Construction",
+    "sector": "Construction",
+    "one_liner": "U.S. hotel construction is a roughly $25B lodging-buildout market with a large pipeline, but 2026 activity is being held back by financing costs, elevated materials prices and slower near-term supply growth.",
+    "overview": "The industry builds and renovates lodging assets for hotel owners, developers, REITs and brands. The 2025 market was supported by a large development pipeline and recovering urban, group and event demand, but actual construction spending softened late in 2025 and into 2026 as debt costs, tariff-sensitive inputs and labor constraints raised project hurdles. Census/FRED private lodging construction spending averaged $25.39B SAAR in 2025, down 0.5% from $25.53B in 2024, and stood at $23.03B SAAR in May 2026. Lodging Econometrics reported 6,020 U.S. hotel pipeline projects and 705,825 rooms at Q1 2026, including 1,071 projects and 132,016 rooms under construction.",
+    "key_stats": {
+      "market_size": "2025 private lodging construction spending averaged $25.39B SAAR; May 2026 private lodging construction spending was $23.03B SAAR.",
+      "growth": "2025 private lodging construction spending was down 0.5% from the 2024 average; May 2026 was down about 10.5% from May 2025 on a SAAR basis.",
+      "pipeline": "Q1 2026 U.S. hotel pipeline: 6,020 projects and 705,825 rooms; 1,071 projects and 132,016 rooms were under construction.",
+      "openings": "Lodging Econometrics forecast 682 U.S. hotel openings and 77,323 rooms in 2026, equal to 1.4% supply growth.",
+      "hotel_demand": "CoStar reported 2025 U.S. hotel occupancy of 62.3%, ADR of $160.54 and RevPAR of $100.02; its June 2026 forecast projected 2026 RevPAR growth of 2.8%.",
+      "input_costs": "AGC reported inputs to new nonresidential construction up 7.1% year over year in June 2026, versus a 3.5% rise in contractor bid prices.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 private lodging construction spending averaged $19.63B SAAR.",
+      "growth": "2022 private lodging construction spending rose 5.5% from the 2021 average of $18.60B SAAR.",
+      "context": "The baseline IBIS file projected hotel construction revenue to rebound to $24.6B by 2026 after $20.9B in 2021 revenue."
+    },
+    "how_it_makes_money": "Operators earn revenue from general contracting, design-build, construction management, additions, reconstruction, conversions and major renovation work for lodging properties. Projects are typically funded by hotel owners, developers, REITs, private equity sponsors and franchisees, with revenue recognized through progress billings, negotiated contracts, guaranteed maximum price contracts and change orders.",
+    "cost_structure": "The baseline IBIS file showed purchases at 71.2% of 2021 revenue, wages at $0.934B in 2021 and profit margin at 2.9% in 2021. In 2026, the cost mix is pressured by steel, copper, aluminum, fuel, insurance, subcontractor labor and financing costs; AGC reported June 2026 nonresidential input costs rising 7.1% year over year while bid prices rose 3.5%, implying margin pressure for contractors unless costs are passed through.",
+    "major_players": [
+      "Turner Construction Co.",
+      "The Whiting-Turner Contracting Co.",
+      "DPR Construction",
+      "HITT Contracting",
+      "PCL Construction",
+      "BL Harbert International",
+      "Suffolk Construction",
+      "AECOM Tishman / AECOM Hunt",
+      "Demand-side hotel brands and owners including Marriott, Hilton, Hyatt, IHG and Choice Hotels"
+    ],
+    "current_dynamics": "The market is split between a large nominal pipeline and slower starts. Lodging Econometrics reported record-high Q4 2024 pipeline counts, but by Q1 2026 projects under construction were only 1,071 of 6,020 total pipeline projects. CoStar’s February 2026 forecast said only 19% of near-record pipeline rooms were in construction, and its Q2 2026 update cut 2026 supply growth expectations to 0.4%. Developers are prioritizing conversions, renovations and select markets where RevPAR, event calendars and brand demand justify replacement-cost economics.",
+    "whats_growing": "Conversions, renovations, upscale and upper-midscale select-service projects, luxury pipeline projects, urban/event-driven markets and Sun Belt markets are growing. Lodging Econometrics reported 1,461 conversion projects and 141,971 rooms at Q1 2026, up 3% by projects and 4% by rooms year over year, and luxury pipeline projects reached 102 projects and 25,527 rooms in Q1 2026, up 16% and 23% year over year.",
+    "whats_shrinking": "Ground-up starts and lower-return projects are shrinking where financing is expensive, construction inputs are volatile or local hotel fundamentals are weak. Private lodging construction spending fell from a $25.39B 2025 average SAAR to $23.03B in May 2026, and CoStar’s Q2 2026 update said the under-construction share of pipeline rooms was the lowest in 12 years.",
+    "recent_developments": [
+      "Jan 2025: Lodging Econometrics reported a record U.S. hotel pipeline of 6,378 projects and 746,986 rooms at Q4 2024.",
+      "May 2025: CBRE cut its 2025 U.S. RevPAR forecast to 1.3% and said supply growth would average 0.8% annually over the next four years.",
+      "Jan 2026: CoStar reported 2025 U.S. hotel RevPAR declined 0.3%, the first full-year decline since 2020.",
+      "Apr 2026: Lodging Econometrics reported 6,020 U.S. hotel pipeline projects and 705,825 rooms at Q1 2026.",
+      "Jun 2026: CoStar and Tourism Economics upgraded the 2026 U.S. RevPAR forecast to 2.8% after stronger group and transient demand through April 2026.",
+      "Jul 2026: AGC reported June 2026 inputs to new nonresidential construction were up 7.1% year over year, outpacing 3.5% bid-price growth."
+    ],
+    "outlook": "The 2026 outlook is modestly positive for demand but constrained for new construction. World Cup demand, America 250 events, urban recovery and stronger group travel support hotel owner confidence, while high replacement costs and limited new supply can lift asset values. However, elevated input costs, tighter underwriting and uncertain tariff and rate policy will keep many projects in planning or push owners toward renovations and conversions. A practical 2026 view is stable-to-slightly-lower construction spending versus 2025, with better prospects for 2027 if financing loosens and RevPAR growth remains positive.",
+    "themes": [
+      "Large pipeline, slower starts",
+      "Conversions over ground-up builds",
+      "Upper-midscale and upscale focus",
+      "Luxury pipeline growth",
+      "Event-driven demand from 2026 World Cup and America 250",
+      "High input costs and margin pressure",
+      "Financing-sensitive development",
+      "Urban and Sun Belt market divergence"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/hotel-construction.txt",
+      "https://fred.stlouisfed.org/data/PLODGCONS",
+      "https://fred.stlouisfed.org/release/tables?eid=22591&rid=229",
+      "https://lodgingeconometrics.com/u-s-hotel-development-trends-projections-spring-2026/",
+      "https://lodgingeconometrics.com/record-breaking-6378-hotel-projects-as-u-s-hotel-pipeline-continues-to-rise/",
+      "https://www.costar.com/products/str-benchmark/resources/press-releases/us-hotels-report-first-full-year-occupancy-revpar",
+      "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q2-2026",
+      "https://www.cbre.com/press-releases/cbre-hotels-forecasts-modest-revpar-growth-in-2025-as-urban-locations-continue-to-outperform",
+      "https://www.agc.org/news/2026/07/15/construction-input-costs-remain-sharply-higher-year-ago-despite-june-decline-aluminum-copper-and-0",
+      "https://www.enr.com/toplists/2026-Top-400-Contractors-1",
+      "https://www.abc.org/News-Media/News-Releases/abc-names-2025-top-performing-us-construction-contractors"
+    ],
+    "one_sentence": "Hotel Construction covers new builds, additions, major renovations and conversions for hotels, motels, resorts and similar lodging facilities, with demand tied to lodging RevPAR, developer financing, construction costs and brand expansion plans.",
+    "slug": "hotel-construction"
+  }
+]

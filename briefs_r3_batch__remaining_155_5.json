@@ -1,0 +1,449 @@
+[
+  {
+    "title": "Specialty Hospitals in the US",
+    "sector": "Healthcare",
+    "one_liner": "Specialty hospitals provide inpatient care for defined conditions or populations, led by cancer treatment, long-term acute care, inpatient rehabilitation and complex chronic recovery.",
+    "overview": "Specialty hospitals are licensed inpatient facilities focused on a specific disease, condition or patient group, excluding psychiatric and substance-abuse hospitals. The industry includes cancer hospitals, long-term acute care hospitals, rehabilitation hospitals, orthopedic and cardiology-focused hospitals, children's specialty hospitals and women's hospitals. The baseline 2022 IBIS report estimated 2022 revenue at $57.4 billion, up 2.6% annually over 2017-2022, with a 14.6% profit margin and 257,620 employees in 2022. More current public data show the category remained larger in nominal terms: Census AIES reported 2023 specialty hospital revenue of $62.5 billion, made up of $10.5 billion from government specialty hospitals and $52.1 billion from non-government specialty hospitals. For 2025, the industry is estimated at about $70.0 billion, reflecting 2023-2025 growth from higher Medicare updates, stronger inpatient rehabilitation volumes, higher net patient revenue per discharge and continued demand from medically complex older patients.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $70.0 billion, derived from 2023 Census AIES specialty hospital revenue of $62.5 billion and 2024-2025 observed growth among large operators and CMS payment updates.",
+      "growth": "2023-2025 estimated revenue CAGR: 5.8%; 2025 estimated year-over-year growth: about 5.0%.",
+      "establishments": "2023 employer establishments: 995 for NAICS 622310, according to Census Business Patterns profile data.",
+      "employment": "2024 employment: 317,100 jobs for NAICS 622310, up from 279,600 jobs in 2022, according to BLS/FRED annual industry productivity data.",
+      "profitability": "2022 baseline profit margin: 14.6%; 2025 margins remained pressured by labor, supplies and payer mix despite higher acuity and reimbursement updates.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $57.4 billion in 2022 dollars, per the baseline IBISWorld report.",
+      "growth": "2017-2022 revenue CAGR: 2.6%; 2022 revenue growth: 1.3%, per the baseline IBISWorld report.",
+      "profit": "2022 profit: $8.38 billion; 2022 profit margin: 14.6%.",
+      "establishments": "2022 establishments: 735; 2022 enterprises: 286.",
+      "employment": "2022 employment: 257,620 workers; 2022 wages: $19.0 billion.",
+      "forecast": "The 2022 baseline forecast called for 2022-2027 revenue CAGR of 3.1% to $66.8 billion."
+    },
+    "how_it_makes_money": "Revenue comes mainly from inpatient reimbursements paid by Medicare, Medicare Advantage, Medicaid, commercial insurers and patients. Long-term acute care hospitals are paid under the LTCH prospective payment system, inpatient rehabilitation hospitals under the IRF prospective payment system, and other specialty hospitals through payer contracts, case rates, diagnosis-based payment systems, grants, philanthropy and patient cost sharing. High-acuity case mix, specialized clinicians, licensed beds, therapy intensity, length of stay, procedure volume and payer mix determine revenue per patient day or discharge.",
+    "cost_structure": "Labor is the largest cost, including nurses, therapists, physicians, respiratory therapists, technicians and agency staff. Other major costs include medical supplies, pharmaceuticals, implants and devices, diagnostics, food and facility services, insurance, compliance and quality reporting, IT systems, depreciation, rent or facility financing, and administrative overhead. Profitability depends on occupancy, case mix, discharge volume, wage inflation, contract labor use, denials from Medicare Advantage plans and annual CMS payment updates.",
+    "major_players": [
+      "Encompass Health",
+      "Select Medical",
+      "ScionHealth / Kindred Hospitals",
+      "PAM Health",
+      "Memorial Sloan Kettering Cancer Center",
+      "Shriners Children's"
+    ],
+    "current_dynamics": "Demand is being pulled upward by the 65-and-older population, complex chronic disease, survivorship care, stroke and orthopedic rehabilitation, post-ICU recovery and higher-acuity patients discharged from general acute-care hospitals. The strongest operators are building or joint-venturing inpatient rehabilitation capacity and running hospital-in-hospital LTACH models. At the same time, the industry faces Medicare Advantage prior authorization and denial friction, staffing shortages, wage pressure, heavy quality reporting, the Affordable Care Act limits on physician-owned hospital expansion and competition from skilled nursing, home health, remote monitoring and outpatient surgical settings.",
+    "whats_growing": "Inpatient rehabilitation is the clearest growth lane. Encompass Health reported 2025 net operating revenue of $5.94 billion, up 10.5% from 2024, and operated 173 inpatient rehabilitation hospitals at year-end 2025. Select Medical reported 2025 rehabilitation hospital revenue of $1.29 billion, up 16.1% from 2024, and critical illness recovery hospital revenue of about $2.45 billion in 2025. CMS finalized a 2.6% FY 2026 increase for IRF PPS payment rates, adding an estimated $340 million in aggregate IRF payments. Cancer treatment, medically complex respiratory recovery, stroke rehabilitation and joint-venture rehabilitation hospitals are also growing.",
+    "whats_shrinking": "Standalone and physician-owned specialty hospital expansion remains constrained by federal limits on physician-owned hospitals. Lower-acuity inpatient stays are shifting toward outpatient surgery centers, home health, skilled nursing and remote monitoring. Some LTACH demand is constrained by site-neutral payment rules, hospital discharge management, managed-care utilization controls and payer pressure to move patients to lower-cost settings. Establishment growth is limited by consolidation, capital costs, certificate-of-need rules in some states and scarce clinical labor.",
+    "recent_developments": [
+      "2025-02-06: Encompass Health issued 2025 guidance after reporting 2024 net operating revenue of $5.37 billion and continued inpatient rehabilitation volume growth.",
+      "2025-06-27: Select Medical signed an agreement with Ballad Health to jointly operate a 46-bed critical illness recovery hospital in Kingsport, Tennessee.",
+      "2025-07-31: CMS finalized FY 2026 LTCH PPS rates with a 2.7% annual update to the LTCH standard payment rate and an estimated $72 million increase in LTCH standard-rate payments.",
+      "2025-08-01: CMS finalized FY 2026 IRF PPS rates with a 2.6% increase and an estimated $340 million increase in aggregate IRF payments.",
+      "2026-02-05: Encompass Health reported 2025 net operating revenue of $5.94 billion, up 10.5%, and issued 2026 revenue guidance of $6.37 billion to $6.47 billion.",
+      "2026-02-26: The Census Bureau released 2023 AIES data showing $62.5 billion in 2023 revenue for government and non-government specialty hospitals combined."
+    ],
+    "outlook": "The 2026 outlook is positive but uneven. Revenue should keep expanding as higher Medicare payment updates, aging demographics and rehabilitation demand offset pressure from lower-cost care settings and managed-care controls. The best-positioned operators are scaled systems with strong referral networks, joint ventures with acute-care hospitals, disciplined staffing models and payer contracting leverage. Growth is likely to remain faster in inpatient rehabilitation than in LTACHs, while cancer and children's specialty hospitals remain supported by clinical complexity, philanthropy, research status and brand reputation.",
+    "themes": [
+      "Aging population",
+      "Medicare reimbursement",
+      "Inpatient rehabilitation growth",
+      "Long-term acute care pressure",
+      "Labor shortages",
+      "Managed-care utilization controls",
+      "Hospital joint ventures",
+      "Specialized cancer care",
+      "Post-ICU recovery",
+      "Shift to lower-cost care settings"
+    ],
+    "data_year": 2025,
+    "sources": [
+      "{'name': 'Baseline file: Specialty Hospitals in the US, IBISWorld, last updated 2022-06-24', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/specialty-hospitals-in-the-us.txt'}",
+      "{'name': 'U.S. Census Bureau AIES 2023 table snippets for NAICS 622310 revenue', 'url': 'https://data.census.gov/table/AIESMISCSECTORTIMESERIES.AIES62TYPEPAYER'}",
+      "{'name': 'U.S. Census Bureau profile for NAICS 622310 establishments', 'url': 'https://data.census.gov/profile/622310_-_Specialty_%28except_Psychiatric_and_Substance_Abuse%29_Hospitals?codeset=naics~622310'}",
+      "{'name': 'FRED / BLS employment for NAICS 622310', 'url': 'https://fred.stlouisfed.org/series/IPURN622310W200000000'}",
+      "{'name': 'CMS FY 2026 IRF PPS final rule fact sheet', 'url': 'https://www.cms.gov/newsroom/fact-sheets/fy-2026-inpatient-rehabilitation-facilities-prospective-payment-system-final-rule-cms-1829-f'}",
+      "{'name': 'CMS FY 2026 IPPS and LTCH PPS final rule fact sheet', 'url': 'https://www.cms.gov/newsroom/fact-sheets/fy-2026-hospital-inpatient-prospective-payment-system-ipps-long-term-care-hospital-prospective-0'}",
+      "{'name': 'Encompass Health 2025 results and 2026 guidance', 'url': 'https://investor.encompasshealth.com/news/news-details/2026/Encompass-Health-reports-results-for-fourth-quarter-2025-and-issues-2026-guidance/default.aspx'}",
+      "{'name': 'Select Medical 2025 Form 10-K summary via PublicNow', 'url': 'https://ebs.publicnow.com/view/B3D55168AC7C667F605392978E1AC999F63AC0B4'}",
+      "{'name': 'ScionHealth company profile and LTACH network description', 'url': 'https://www.scionhealth.com/about-us'}",
+      "{'name': 'Select Medical and Ballad Health joint venture announcement', 'url': 'https://www.selectmedical.com/media-center/news-and-articles/news/sm-agreement-with-ballad-health-to-operate-joint-venture-cirh'}"
+    ],
+    "one_sentence": "The US specialty hospital industry is growing as aging, medically complex patients lift demand for cancer, rehabilitation and long-term acute care, while Medicare payment rules, labor shortages and lower-cost post-acute alternatives limit margins and facility expansion.",
+    "slug": "specialty-hospitals-in-the-us"
+  },
+  {
+    "title": "Speech & Voice Recognition Software Developers",
+    "sector": "Technology & Digital",
+    "one_liner": "US speech and voice recognition developers are being pulled from command-and-dictation software into multimodal, generative-AI voice agents for healthcare, autos, contact centers and consumer devices.",
+    "overview": "The US industry has shifted materially since the 2021 IBISWorld baseline: speech recognition is no longer mainly a licensed feature embedded in phones, cars and transcription workflows, but a core input layer for generative AI agents. Year-stamped market estimates vary by scope, but current sources point to a US market of about $6.0 billion in 2026, up from about $4.6 billion in 2024, while North America speech and voice recognition revenue was estimated at $7.96 billion in 2025 and $9.79 billion in 2026. Demand remains broad across healthcare documentation, IT and telecom, automotive, consumer electronics, financial services, government/legal and retail, but buying criteria have changed: customers now expect low-latency transcription, natural turn-taking, speaker identity, domain-specific vocabulary, privacy controls, EHR/contact-center integrations and guardrails against synthetic-voice misuse.",
+    "key_stats": {
+      "market_size": "US speech and voice recognition software market: about $6.0 billion in 2026, based on published 2026 US and 2024-2032 CAGR estimates.",
+      "growth": "US voice recognition software market CAGR: 14.5% for 2025-2032; global speech and voice recognition market CAGR: 20.30% for 2026-2034; North America market growth from $7.96 billion in 2025 to $9.79 billion in 2026 implies about 23.0% year-over-year growth.",
+      "north_america_market": "North America speech and voice recognition market: $7.96 billion in 2025 and $9.79 billion in 2026.",
+      "global_market": "Global speech and voice recognition market: $19.09 billion in 2025 and $23.70 billion in 2026.",
+      "healthcare_signal": "A 2025 survey of 43 US health systems reported activity related to ambient notes at all responding systems, making clinical documentation one of the clearest enterprise adoption wedges.",
+      "profitability_signal": "The 2021 baseline reported a 30.4% industry profit margin, but 2025-2026 margins are under more pressure from AI model training, inference, cloud infrastructure, security, compliance and scarce machine-learning talent.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated US industry revenue: about $4.26 billion in 2022, calculated from the 2021 IBISWorld baseline revenue of $4.176 billion and its 2021-2027 projected CAGR of 2.08%.",
+      "growth": "Estimated 2022 growth: about 2.1%, aligned with the 2021 IBISWorld 2021-2027 projected CAGR of 2.08%.",
+      "context": "The baseline framed the industry as a growth-stage software niche with 2021 revenue of $4.176 billion, 2021 profit of $1.270 billion, 2021 profit margin of 30.4%, 2021 employment of 9,411 workers and 2021 enterprise count of 168 companies.",
+      "baseline_segments": "The 2021 baseline product split was healthcare 22.5%, IT and telecommunications 22.1%, government and legal 14.1%, auto 13.0%, retail and other 13.7%, with remaining activity spread across other speech and voice software uses."
+    },
+    "how_it_makes_money": "Developers earn 2025-2026 revenue through cloud API usage fees for speech-to-text, text-to-speech, speaker verification and real-time audio; enterprise SaaS subscriptions; per-seat and per-clinician licenses; per-minute transcription and contact-center usage; embedded-device royalties; automotive and consumer-electronics licensing; customization and integration services; and managed vertical products such as ambient clinical documentation, restaurant ordering, fraud detection and voice biometrics.",
+    "cost_structure": "The largest 2025-2026 costs are software engineering and machine-learning wages, R&D, cloud hosting and GPU inference, data acquisition and annotation, model evaluation, cybersecurity, sales and customer success, and compliance for healthcare, finance and biometric data. The 2021 baseline showed high software margins at 30.4% profit, but the 2025-2026 mix is more compute-intensive and integration-heavy as vendors support real-time multimodal models, regulated workflows and enterprise SLAs.",
+    "major_players": [
+      "Microsoft and Nuance, including Dragon Medical One, DAX Copilot and 2025 Dragon Copilot for healthcare voice AI",
+      "Google, including Android, Google Assistant, cloud speech APIs and Gemini-linked voice experiences",
+      "Apple, including Siri and 2024-2026 Apple Intelligence voice features across iPhone, iPad, Mac and CarPlay",
+      "Amazon and AWS, including Alexa, Alexa+ and Amazon Transcribe/Polly-style cloud speech services",
+      "SoundHound AI, with 2025-2026 growth in automotive, restaurants, financial services and enterprise voice agents",
+      "IBM, used in enterprise speech, transcription and conversational AI stacks",
+      "Abridge and other ambient clinical documentation specialists competing in healthcare workflows",
+      "Sensory, LumenVox and other specialized embedded, biometric and enterprise voice vendors"
+    ],
+    "current_dynamics": "Generative AI is raising willingness to pay for voice interfaces because speech is becoming an input and output mode for agents, not just a transcription layer. Healthcare is one of the strongest 2025-2026 enterprise markets as ambient documentation tools reduce clinician note burden and tie directly to EHR workflows. Automotive and restaurants are growing through hands-free ordering, in-car assistants and drive-thru automation. Contact centers are adopting real-time transcription, call summarization, agent assist and voice bots. At the same time, open-source speech models, bundled cloud APIs and native device assistants intensify price competition, while synthetic voice fraud pushes buyers toward authentication, watermarking, consent and audit controls.",
+    "whats_growing": "Fastest-growing 2025-2026 pockets include ambient clinical documentation, low-latency speech-to-speech AI, multilingual real-time transcription and translation, voice biometrics with fraud controls, in-car assistants, voice commerce, restaurant ordering automation, contact-center summarization, meeting intelligence and accessibility tools. Cloud deployment is outgrowing on-premise software because customers want frequent model upgrades and elastic inference capacity, although regulated buyers still demand private, hybrid and on-device options.",
+    "whats_shrinking": "Legacy perpetual-license desktop dictation, standalone voicemail-to-text, simple command-and-control voice interfaces, narrow smart-speaker skills and generic transcription tools with weak differentiation are losing share in 2025-2026. Margins are also shrinking for vendors that cannot offset higher AI compute costs or compete with bundled speech capabilities from large cloud and device ecosystems.",
+    "recent_developments": [
+      "2024-03-04: Microsoft completed its Nuance acquisition, consolidating a major healthcare and enterprise voice-recognition platform inside Microsoft Cloud.",
+      "2024-10-28: Apple released the first Apple Intelligence features with a more natural Siri experience across iPhone, iPad and Mac.",
+      "2025-02-26: Amazon introduced Alexa+, a generative-AI version of Alexa designed for more conversational and personalized voice interactions.",
+      "2025-03-03: Microsoft unveiled Dragon Copilot, combining Dragon Medical One and DAX Copilot for clinical documentation and workflow automation.",
+      "2025-08-08: SoundHound AI reported Q2 2025 revenue of $42.7 million, up 217% year over year, citing growth in automotive, restaurants, enterprise AI and healthcare.",
+      "2026-07-06: Fortune Business Insights estimated the global speech and voice recognition market at $19.09 billion in 2025 and $23.70 billion in 2026, with the US market projected at $6.01 billion in 2026."
+    ],
+    "outlook": "The 2026-2032 outlook is positive but more competitive than the 2021 baseline implied. US revenue should continue expanding as speech becomes a default interface for AI copilots, clinical documentation, customer service, vehicles, smart devices and accessibility. The strongest developers will combine accurate acoustic models, LLM orchestration, vertical datasets, privacy architecture and workflow integrations. Risks include commoditization from open-source and hyperscaler APIs, high inference costs, model hallucination in regulated settings, biometric privacy claims, cybersecurity threats and consumer distrust caused by voice cloning scams. A reasonable 2025-2032 US growth range is low- to mid-teens annually, anchored by the 14.5% CAGR estimate for the US voice recognition software market, with upside if real-time voice agents become a mainstream enterprise interface.",
+    "themes": [
+      "Generative AI voice agents",
+      "Ambient clinical documentation",
+      "Cloud speech APIs",
+      "Voice biometrics and anti-fraud",
+      "Automotive voice commerce",
+      "Contact-center automation",
+      "On-device privacy and edge inference",
+      "Open-source model pressure",
+      "Healthcare and financial compliance",
+      "Multilingual real-time speech"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld-style text file, Speech & Voice Recognition Software Developers, last updated 2021-05-28', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/speech-and-voice-recognition-software-developers.txt'}",
+      "{'name': 'Fortune Business Insights, Speech and Voice Recognition Market, updated 2026-07-06', 'url': 'https://www.fortunebusinessinsights.com/industry-reports/speech-and-voice-recognition-market-101382'}",
+      "{'name': 'P&S Intelligence, U.S. Voice Recognition Software Market Overview, 2024-2032', 'url': 'https://www.psmarketresearch.com/market-analysis/us-voice-recognition-software-market-report'}",
+      "{'name': 'Research and Markets, Voice and Speech Recognition Software Global Market Report 2026', 'url': 'https://www.researchandmarkets.com/reports/6226309/voice-speech-recognition-software-global-market'}",
+      "{'name': 'Microsoft, Dragon Copilot announcement, 2025-03-03', 'url': 'https://news.microsoft.com/source/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/'}",
+      "{'name': 'Microsoft, Nuance acquisition completion, 2022-03-04', 'url': 'https://news.microsoft.com/source/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/'}",
+      "{'name': 'Amazon, Introducing Alexa+, updated 2026-07-21', 'url': 'https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence'}",
+      "{'name': 'Apple Newsroom, Apple Intelligence availability, 2024-10-28', 'url': 'https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/'}",
+      "{'name': 'OpenAI, Realtime API announcement and 2025 GA update', 'url': 'https://openai.com/index/introducing-the-realtime-api/'}",
+      "{'name': 'JAMA Network Open, Ambient Documentation Technology in Clinician Documentation Burden and Burnout, 2025', 'url': 'https://doi.org/10.1001/jamanetworkopen.2025.28056'}",
+      "{'name': 'Federal Trade Commission, Approaches to Address AI-enabled Voice Cloning, 2024-04', 'url': 'https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/approaches-address-ai-enabled-voice-cloning'}",
+      "{'name': 'SoundHound AI, Q2 2025 results, 2025-08-08', 'url': 'https://www.soundhound.com/newsroom/press-releases/soundhound-ai-reports-record-second-quarter-with-all-time-high-42-7-million-revenue-up-217-raises-full-year-outlook/'}"
+    ],
+    "one_sentence": "The industry develops software that converts speech to text, identifies speakers, enables voice commands and powers conversational voice interfaces, with 2025-2026 growth driven by generative AI, ambient clinical documentation, voice commerce and enterprise automation.",
+    "slug": "speech-and-voice-recognition-software-developers"
+  },
+  {
+    "title": "Speech-Language Pathologists",
+    "sector": "Healthcare",
+    "one_liner": "A fragmented, labor-heavy healthcare services industry serving children, schools, older adults, hospitals, post-acute care and teletherapy patients with communication and swallowing disorders.",
+    "overview": "The U.S. Speech-Language Pathologists industry remains a small but resilient healthcare services niche compared with broader therapy markets. The 2021 IBISWorld baseline valued the narrow industry at $4.638 billion in 2021 and projected $5.3 billion by 2026, a 2.7% 2021-2026 CAGR. Demand is split across schools, outpatient clinics, hospitals, residential care and home/virtual care. The current 2025-2026 picture is stronger in medical and pediatric complexity than in pure K-12 enrollment: BLS reported 183,390 employed speech-language pathologists in May 2025 and a $98,170 mean annual wage, while CDC’s 2025 autism update reported about 1 in 31 U.S. 8-year-olds identified with ASD in 2022 data. Public school enrollment is no longer a clear volume tailwind, with NCES reporting 49.5 million public preK-12 students in fall 2023, below 50.8 million in 2019, but IDEA obligations and shortages keep school-based demand firm.",
+    "key_stats": {
+      "market_size": "$5.3 billion in 2026, narrow U.S. Speech-Language Pathologists industry forecast from the 2021 IBISWorld baseline; broader U.S. speech therapy services estimates are higher, including $10.0 billion in 2025 from Market Glass and $22.47 billion in 2026 globally from Mordor Intelligence under wider definitions.",
+      "growth": "2.7% CAGR from 2021 to 2026 for the narrow industry in the IBISWorld baseline; broader speech therapy services estimates show faster 2025-2031 or 2026-2033 growth because they include more settings, geographies and adjacent therapy platforms.",
+      "employment": "183,390 U.S. speech-language pathologists employed in May 2025 according to BLS OEWS; BLS OOH projects 187,400 employed in 2024 rising to 215,500 in 2034, a 15% 2024-2034 increase.",
+      "wages": "$98,170 mean annual wage and $47.05 median hourly wage in May 2025 according to BLS OEWS; BLS OOH reported $95,410 median annual wage in May 2024.",
+      "openings": "13,300 average annual openings projected for 2024-2034 by BLS OOH.",
+      "aging_driver": "61.2 million U.S. residents age 65+ in 2024, up 3.1% from 2023, according to the Census Bureau; the 65+ share was 18.0% in 2024 and 2025 QuickFacts also lists 18.0%.",
+      "school_driver": "49.5 million public preK-12 students in fall 2023, below 50.8 million in fall 2019, according to NCES 2025 Condition of Education highlights.",
+      "autism_driver": "CDC’s 2025 ADDM update identified ASD in about 1 in 31 children age 8 using 2022 surveillance data, up from 1 in 36 in 2020 surveillance data.",
+      "workforce_pressure": "ASHA reported in its 2024 school SLP workforce materials that 78% of school SLPs identified more job openings than job seekers.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $4.76 billion in 2022, inferred from the baseline’s $4.638 billion 2021 revenue and 2.7% 2021-2026 projected CAGR; the baseline’s explicit 2026 forecast is $5.3 billion.",
+      "growth": "About 2.7% in 2022 on the IBISWorld forecast path; the baseline reported 4.0% annualized growth for 2016-2021 and projected 2.7% annualized growth for 2021-2026.",
+      "profit_margin": "About 11%-12% in 2022 implied by the baseline’s 11.3% 2021 profit margin and 12.7% 2026 projected margin.",
+      "employment": "Approximately 82,300 workers in 2022 implied by the baseline’s 79,890 workers in 2021 and 92,855 workers projected for 2026.",
+      "establishments": "Approximately 48,900 locations in 2022 implied by the baseline’s 47,416 establishments in 2021 and 2021-2026 establishment growth near 3.1% annually."
+    },
+    "how_it_makes_money": {
+      "school_contracts": "School districts pay for evaluations, IEP-related therapy, screenings and compliance services; the baseline estimated schools at 39.8% of 2021 industry revenue.",
+      "private_insurance": "Commercial plans reimburse medically necessary outpatient and teletherapy services, often with referrals, prior authorization and patient cost sharing.",
+      "medicare_medicaid": "Medicare Part B, Medicaid and managed-care plans pay for outpatient, post-acute, home-health and pediatric services where coverage rules apply; CMS updates therapy payment rules annually.",
+      "self_pay": "Families and adults pay out of pocket for private therapy, evaluations, accent/voice services, supplemental visits and services not covered by insurance.",
+      "staffing_and_teletherapy": "Staffing firms and virtual-first platforms earn revenue by contracting SLP labor into schools, health systems, payers and direct-to-consumer channels."
+    },
+    "cost_structure": {
+      "labor": "Labor is the core cost: the baseline reported $1.781 billion of wages on $4.638 billion of revenue in 2021, or about 38.4% of revenue, and BLS reported a $98,170 mean annual SLP wage in May 2025.",
+      "rent_and_facilities": "Clinic rent, therapy rooms, utilities and compliance costs are meaningful for outpatient operators, while virtual-first models shift costs toward technology, credentialing and payer operations.",
+      "technology": "2025-2026 costs increasingly include telehealth platforms, EHRs, remote therapeutic monitoring, digital assessments, scheduling, billing and cybersecurity.",
+      "insurance_and_compliance": "Operators carry malpractice coverage and licensing/compliance costs across state SLP boards, school certification rules, HIPAA and payer documentation requirements.",
+      "profit": "The baseline reported an 11.3% profit margin in 2021 and projected 12.7% in 2026, but 2025-2026 Medicare pressure and wage inflation limit margin expansion."
+    },
+    "major_players": [
+      "Fragmented independent SLP practices and school-district providers, with no dominant national SLP-only operator identified in the 2021 baseline",
+      "Powerback Rehabilitation",
+      "Reliant Rehabilitation",
+      "Humanus Corporation",
+      "Expressable",
+      "Kindred Healthcare rehabilitation operations",
+      "The Stepping Stones Group and school staffing platforms",
+      "Hospital systems, nursing facilities and post-acute care operators that employ SLPs internally"
+    ],
+    "current_dynamics": "In 2025-2026, demand is being pulled upward by older adults with stroke, dementia, Parkinson’s disease and dysphagia needs; children with autism, speech sound and language disorders; and teletherapy access in rural and underserved markets. The constraint is clinician supply and reimbursement. BLS May 2025 wage data show high labor costs, ASHA’s 2024 school workforce materials point to more openings than job seekers, and CMS 2026 therapy updates preserve important virtual-care and remote monitoring pathways while Medicare fee schedule pressure continues to squeeze outpatient economics.",
+    "whats_growing": [
+      "Medical SLP demand tied to the 61.2 million U.S. residents age 65+ in 2024 and age-related stroke, dementia, Parkinson’s and swallowing disorders",
+      "Pediatric demand tied to CDC’s 2025 report of about 1 in 31 children age 8 identified with ASD in 2022 surveillance data",
+      "Virtual speech therapy and hybrid care, with CMS’s 2026 therapy update reflecting telehealth authority for PTs, OTs and SLPs through December 31, 2027",
+      "Remote therapeutic monitoring and digital assessment workflows, with CMS adding therapy-related RTM codes in the CY 2026 therapy code list updates",
+      "Payer and employer interest in measurable outcomes, access expansion and multilingual services, including 2025 virtual speech-language programs cited by market researchers"
+    ],
+    "whats_shrinking": [
+      "Public-school enrollment tailwinds, because NCES reported fall 2023 public preK-12 enrollment of 49.5 million versus 50.8 million in fall 2019",
+      "Standalone small-practice pricing power where Medicare, Medicaid and commercial payers tighten reimbursement or documentation rules in 2025-2026",
+      "Purely in-person access models in rural markets as teletherapy and hybrid providers compete on convenience and scheduling",
+      "Margins for operators unable to recruit clinicians, manage authorizations or absorb 2025-2026 wage inflation and Medicare fee schedule pressure"
+    ],
+    "recent_developments": [
+      "2025-05: CDC reported about 1 in 31 U.S. 8-year-olds identified with ASD using 2022 ADDM surveillance data, increasing pediatric speech-language demand signals.",
+      "2025-08: BLS OOH update projected SLP employment to grow 15% from 2024 to 2034, with about 13,300 openings per year.",
+      "2025-10: CMS issued the CY 2026 Medicare Physician Fee Schedule final rule, updating Part B policies effective January 1, 2026.",
+      "2025-11: ASHA said 2026 Medicare payment updates included modest relief but continued reimbursement pressure, with SLP cuts potentially approaching 4% absent further stabilization.",
+      "2026-02: CMS updated therapy services guidance for CY 2026, including a $2,480 KX modifier threshold and new remote therapeutic monitoring therapy-code updates.",
+      "2026-07: ASHA reported CMS proposed payment values for 10 new speech-language pathology treatment codes that would replace CPT 92507 beginning January 1, 2027."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but capacity-constrained. The narrow industry should keep growing at a low-to-mid single-digit pace after the baseline’s $5.3 billion 2026 forecast because aging, autism identification, early intervention, dysphagia care and teletherapy expand the addressable patient base. Growth will be uneven: well-capitalized outpatient, post-acute, school staffing and virtual platforms can scale credentialing, payer contracting and scheduling, while small practices face higher wage costs, reimbursement pressure and administrative burden. The main downside risks are Medicare and Medicaid rate cuts, school budget limits, state licensure friction for teletherapy and clinician burnout.",
+    "themes": [
+      "Aging population and neurological rehabilitation",
+      "Autism and early pediatric intervention",
+      "School-based staffing shortages",
+      "Teletherapy and hybrid care normalization",
+      "Medicare and Medicaid reimbursement pressure",
+      "Remote therapeutic monitoring and digital assessments",
+      "Fragmented market with roll-up potential",
+      "Labor scarcity and wage inflation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/speech-language-pathologists.txt",
+      "https://www.bls.gov/news.release/ocwage.t01.htm",
+      "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+      "https://www.cms.gov/medicare/coding-billing/therapy-services",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f",
+      "https://www.asha.org/practice/reimbursement/medicare/feeschedule/",
+      "https://www.asha.org/news/2025/medicare-finalizes-2026-medicare-fee-schedule-modest-updates-but-continued-cuts/",
+      "https://www.asha.org/news/2026/cms-proposes-medicare-payment-for-new-speech-language-pathology-treatment-codes/",
+      "https://www.asha.org/research/memberdata/schools-survey/",
+      "https://www.asha.org/careers/recruitment/schools/",
+      "https://www.cdc.gov/autism/data-research/index.html",
+      "https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html",
+      "https://www.census.gov/quickfacts/fact/table/US/AGE775223",
+      "https://nces.ed.gov/use-work/resource-library/report/compendium/learn-about-new-condition-education-2025-part-i",
+      "https://fred.stlouisfed.org/series/REVEF62134ALLEST",
+      "https://www.mordorintelligence.com/industry-reports/speech-therapy-services-market",
+      "https://www.grandviewresearch.com/industry-analysis/speech-therapy-services-market-report",
+      "https://www.marketresearch.com/Market-Glass-Inc-v1039/Speech-Therapy-Services-45042536/"
+    ],
+    "one_sentence": "Speech-language pathologists generate revenue from evaluations, therapy sessions and care coordination paid by school districts, private insurance, Medicare, Medicaid and self-pay patients, with 2026 growth supported by aging, autism identification, telehealth and persistent clinician shortages.",
+    "slug": "speech-language-pathologists"
+  },
+  {
+    "title": "Sporting Goods Wholesaling in the US",
+    "sector": "Retail",
+    "one_liner": "A fragmented wholesale channel supplying hunting, cycling, pool, marine, fitness and outdoor equipment to specialty retailers, big-box chains and recreation operators.",
+    "overview": "The industry distributes sporting and recreational goods and accessories, including hunting equipment and firearms, bicycles, camping and fishing gear, athletic and fitness equipment, marine recreation products, billiards goods, ski and snowboard equipment, pool supplies and related accessories. IBISWorld's 2022 baseline put revenue at $61.844 billion after a pandemic-era demand surge, with the industry projected to keep growing modestly rather than repeat 2020-2021 spikes. For 2025, using the baseline 2022 revenue and the 2022-2027 IBIS forecast path implies an estimated market size of about $64.9 billion, while IBISWorld's public 2025 update reports 19,948 businesses and 1.5% business-count growth. Demand is supported by high sports and fitness participation, outdoor recreation, pool maintenance, hunting/shooting demand and specialty stores, but wholesalers face structural pressure as national retailers and brands ship directly to consumers or replenish stores through direct vendor relationships.",
+    "key_stats": {
+      "market_size": "2025 estimated $64.9 billion revenue, derived from 2022 IBISWorld baseline of $61.844 billion and 1.6% annualized 2022-2027 outlook",
+      "growth": "2025 estimated 1.6% annual revenue growth on the IBISWorld 2022-2027 forecast path",
+      "businesses": "2025 IBISWorld public update: 19,948 businesses, up 1.5% in 2025",
+      "employment": "2025 BLS QCEW third-party extract for NAICS 42391: 65,019 private payroll employees in July 2025",
+      "participation": "2024 SFIA: 247.1 million Americans, or 80.0% of people age 6+, participated in at least one tracked sport, fitness or outdoor activity",
+      "retail_demand_indicator": "May 2026 Census/FRED: sporting goods, hobby, musical instrument and book store sales were $8.952 billion seasonally adjusted",
+      "profit_margin": "2022 IBISWorld baseline: 3.9% EBIT margin; 2027 baseline forecast: 4.3%",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 $61.844 billion revenue",
+      "growth": "2022 2.0% revenue growth; 2017-2022 CAGR 3.4%",
+      "profit": "2022 $2.412 billion profit",
+      "profit_margin": "2022 3.9%",
+      "industry_gross_product": "2022 $8.231 billion",
+      "establishments": "2022 18,258 establishments",
+      "enterprises": "2022 17,594 enterprises",
+      "employment": "2022 82,575 workers",
+      "wages": "2022 $5.398 billion",
+      "product_mix": "2022 hunting equipment and firearms 34.0%, bicycles 17.5%, pools and other 23.3%, marine pleasure craft/go-karts/equipment/accessories 9.0%, camping and fishing 8.5%, athletic exercise and fitness equipment 4.8%, skiing and snowboarding 1.9%, billiards 1.0%"
+    },
+    "how_it_makes_money": "Wholesalers buy products from manufacturers and brand owners, hold inventory, break bulk, manage regulated or technical category distribution, extend trade credit, provide sales representation and deliver replenishment to sporting goods stores, gun and ammunition retailers, pool dealers, bike shops, marine/outdoor retailers, department stores, warehouse clubs, gyms, resorts, golf courses and other recreation buyers. Revenue comes from product markups, volume rebates, vendor programs, freight/service fees and private-label or exclusive distribution arrangements.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket in 2022-style wholesale economics; product acquisition costs dominate revenue because firms resell finished goods at relatively thin gross margins.",
+      "wages": "2022 wages were $5.398 billion, equal to about 8.7% of 2022 revenue.",
+      "freight_and_distribution": "Elevated in 2020-2022 from supply-chain disruption and still important in 2025-2026 because bulky goods such as pools, bikes, marine equipment and fitness machines carry high warehousing and freight costs.",
+      "rent_warehousing_and_utilities": "Material for distributors operating regional warehouses, sales centers and inventory-heavy fulfillment networks.",
+      "technology": "Rising spend on B2B ordering portals, inventory visibility, EDI links, demand forecasting and warehouse automation to defend margin against direct channels.",
+      "profit": "2022 EBIT margin was 3.9%, with baseline recovery forecast to 4.3% by 2027."
+    },
+    "major_players": [
+      "Pool Corporation: largest identified industry participant in IBISWorld's public 2025 summary; 2025 net sales were $5.289 billion and the company operated 456 sales centers at year-end 2025.",
+      "Big Rock Sports: outdoor sporting goods wholesaler serving independent and mass retail accounts; transaction materials cite more than 15,000 retailers and over 1,200 represented manufacturers.",
+      "Sports South: major firearms, ammunition and shooting-sports distributor serving federally licensed dealers.",
+      "RSR Group: firearms and shooting-sports wholesale distributor focused on dealer fulfillment.",
+      "Lipsey's: firearms distributor with exclusive and allocated product programs for dealers.",
+      "Davidson's: firearms distributor known for dealer services and Gallery of Guns consumer-to-dealer fulfillment."
+    ],
+    "current_dynamics": "The 2025-2026 market is steadier but less forgiving than the pandemic boom. Participation is high, with SFIA reporting a record 80.0% active rate in 2024, and specialty categories such as pickleball, racquet sports, strength training, youth sports, e-bikes and winter/outdoor recreation continue to create ordering opportunities. At the same time, retailers are managing inventory more tightly, large chains are building direct vendor relationships, and DTC brands are bypassing traditional distributors. Firearms and ammunition remain a large wholesale category, but 2024 adjusted firearm background checks fell 3.5% from 2023 to 15.239 million, indicating normalization after the pandemic surge. Tariff and de minimis changes in 2025 also raised landed-cost and compliance risk for imported sporting goods and small-parcel direct imports.",
+    "whats_growing": [
+      "2024-2025 sports participation, especially team sports, racquet sports, strength training and outdoor activities.",
+      "2024 pickleball participation, up 45.8% from 2023 to 19.8 million participants, supporting paddles, balls, nets and court accessories.",
+      "2024 bicycling participation, with PeopleForBikes reporting 112 million Americans rode a bike at least once in 2024.",
+      "2024-2026 e-bikes and cargo/commuter cycling, including direct-to-consumer and used channels that expand the installed base and aftermarket demand.",
+      "2025-2026 winter sports specialty buying, with Winter Sports Market 2026 registrations up 11% and exhibitors up 12%.",
+      "Pool maintenance and replacement categories, as Pool Corporation reported steady 2025 maintenance product sales."
+    ],
+    "whats_shrinking": [
+      "Traditional bicycle sell-through through conventional channels, with PeopleForBikes/Circana reporting the 2024 bicycle market at about $6.6 billion, down 8% year over year.",
+      "Pandemic-era firearms and ammunition spikes, as 2024 NSSF-adjusted background checks declined 3.5% from 2023.",
+      "Wholesale relevance for large national sporting goods chains that increasingly buy directly from brands and manufacturers.",
+      "Low-margin commodity sporting goods exposed to marketplace sellers, DTC brands and tariff-driven cost volatility.",
+      "Discretionary pool construction and renovation products, with Pool Corporation citing lower 2025 volume for construction and discretionary activity."
+    ],
+    "recent_developments": [
+      "2025-02-27: SFIA reported 247.1 million active Americans in 2024, an 80.0% participation rate and a record high in its tracking.",
+      "2025-04: IBISWorld's public update listed 19,948 Sporting Goods Wholesaling businesses in 2025, up 1.5% for the year.",
+      "2025-04-28: CBP published implementation rules ending duty-free de minimis treatment for China and Hong Kong goods effective May 2, 2025, adding landed-cost pressure for imported sporting goods.",
+      "2025-06-30: Big 5 Sporting Goods agreed to be acquired by Worldwide Golf and Capitol Hill Group, signaling continued consolidation and strategic repositioning among downstream retailers.",
+      "2025-10-08: Bicycle Retailer reported KHS's U.S. distribution business would close in early 2026 unless a buyer emerged, reflecting pressure in the bike wholesale channel.",
+      "2026-02-23: NSGA reported Winter Sports Market 2026 registrations rose 11% and exhibitors rose 12%, pointing to stronger specialty winter-sports buying activity."
+    ],
+    "outlook": "Through 2026-2027, the industry should grow slowly rather than cyclically surge, with a 2025 estimated revenue base near $64.9 billion and the 2022 IBIS baseline pointing toward $67.1 billion by 2027. The best-positioned wholesalers will specialize in regulated, technical or fragmented categories where retailers value assortment, compliance support, allocation access and local service. Margin risk remains tied to freight, inventory markdowns, tariffs, retailer consolidation and direct brand selling. Growth will be strongest where high participation converts into replenishment and accessories, while commodity hardgoods and conventional bike inventory remain more exposed to discounting.",
+    "themes": [
+      "fragmented distribution",
+      "specialty retail resilience",
+      "direct-to-consumer bypass",
+      "outdoor recreation participation",
+      "firearms normalization",
+      "e-bike channel shift",
+      "tariff and de minimis disruption",
+      "inventory discipline",
+      "retailer consolidation",
+      "B2B ordering technology"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sporting-goods-wholesaling-in-the-us.txt",
+      "https://sfia.org/resources/sfias-topline-participation-report-shows-247-1-million-americans-were-active-in-2024/",
+      "https://script.ibisworld.com/united-states/number-of-businesses/sporting-goods-wholesaling/953/",
+      "https://data.census.gov/profile/42391_-_Sporting_and_recreational_goods_and_supplies_merchant_wholesalers?codeset=naics~42391",
+      "https://fred.stlouisfed.org/series/MRTSSM451USS",
+      "https://www.nssf.org/articles/nssf-adjusted-background-checks-top-15-2-million-in-2024/",
+      "https://www.peopleforbikes.org/news/e-bike-market-bigger-than-numbers-show",
+      "https://www.peopleforbikes.org/news/bicycling-participation-report-2024",
+      "https://ir.poolcorp.com/pool-corporation-reports-year-end-and-fourth-quarter-2025-results-provides-2026-earnings-guidance/",
+      "https://www.federalregister.gov/documents/2025/04/28/2025-07325/notice-of-implementation-of-additional-duties-on-products-of-the-peoples-republic-of-china-pursuant",
+      "https://www.sec.gov/Archives/edgar/data/1156388/000119312525152058/d71886dex991.htm",
+      "https://www.bicycleretailer.com/industry-news/2025/10/07/khs-distribution-close-unless-buyer-found",
+      "https://nsga.org/news/winter-sports-market-continues-growth-success/"
+    ],
+    "one_sentence": "Sporting goods wholesalers remain relevant where retailers need assortment depth, regulated products, technical categories or pooled buying power, but direct-to-consumer brands, large-chain vendor programs and e-commerce continue to compress their role.",
+    "slug": "sporting-goods-wholesaling-in-the-us"
+  },
+  {
+    "title": "Sports & Athletic Field Construction",
+    "sector": "Construction",
+    "one_liner": "A niche construction trade building and renovating athletic fields, tracks, courts, lighting and related sports-surface systems for schools, municipalities, colleges and teams.",
+    "overview": "Operators construct and install football, baseball, softball, soccer, lacrosse and multiuse athletic fields, including synthetic turf, natural-grass fields, sand-based drainage systems, running tracks, lighting, bleachers, fencing, scoreboards, goal posts, netting and maintenance or repair work. Stadium and arena construction is outside the core definition. Demand is concentrated in K-12 districts, municipal parks, colleges and universities, private sports complexes, golf courses and professional practice facilities. The industry remains fragmented, with specialized sports-surface contractors competing with broader recreation-facility builders and local civil/site contractors. Public work is a stabilizer because schools and park systems continue to upgrade aging fields, while private-sector work is more cyclical and sensitive to financing costs.",
+    "key_stats": {
+      "market_size": "2025 US industry revenue: about $5.2 billion, based on the baseline IBISWorld 2020-to-2025 projection for this defined industry.",
+      "growth": "2020-2025 projected industry revenue CAGR: 2.0%; 2026 demand proxy: AIA July 2026 consensus forecast for amusement and recreation construction spending growth of 7.1% in 2026 and 3.0% in 2027.",
+      "profit_margin": "2025 projected EBIT margin: about 6.2%, consistent with the baseline outlook.",
+      "establishments": "2025 projected establishments: about 527 operators, up from 486 in 2020 in the baseline file.",
+      "employment": "2025 projected employment: about 11,846 workers, up from 10,634 in 2020 in the baseline file.",
+      "demand_proxy": "May 2026 total US amusement and recreation construction spending: $4.201 billion not seasonally adjusted; April 2026 seasonally adjusted annual rate: $45.912 billion, up from $42.626 billion in April 2025.",
+      "input_cost_pressure": "June 2026 nonresidential construction input prices were 7.1% higher year over year, while bid prices rose 3.5%, according to AGC analysis of BLS PPI data.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated industry revenue: about $4.9 billion, interpolated from the baseline 2020 revenue of $4.69 billion and the baseline 2020-2025 projected CAGR of 2.0%.",
+      "growth": "2022 estimated annual growth: about 2.0%, using the baseline 2020-2025 projection after the 2020 COVID decline.",
+      "context": "2022 demand was in the post-pandemic recovery phase, with school, municipal and college field projects restarting but still exposed to elevated construction costs and supply-chain delays."
+    },
+    "how_it_makes_money": "Revenue comes from fixed-price, bid, design-build and job-order contracts for new fields, turf conversions, track and court installations, drainage and base work, lighting, bleachers, fencing, scoreboards and recurring maintenance or repair. The largest revenue pool is new construction, followed by additions, alterations and reconstruction, then maintenance and repair. Contractors earn margins by managing site work, labor utilization, materials procurement, subcontractors, equipment fleets, warranties and change orders.",
+    "cost_structure": {
+      "labor": "Field crews, project managers, estimators, engineers, installers and maintenance technicians are a major cost, with skilled construction labor availability affecting schedules and bids.",
+      "materials": "Synthetic turf, infill, shock pads, drainage pipe, aggregate, asphalt, concrete, steel, aluminum, copper wiring, lighting systems, fencing, irrigation components and track surfacing are core purchases.",
+      "equipment": "Earthmoving, grading, paving, compaction, hauling and turf-installation equipment create meaningful rental, depreciation and fuel costs.",
+      "subcontractors": "Electrical, lighting, concrete, drainage, fencing, civil engineering, geotechnical and specialty-surface work may be subcontracted depending on project scope.",
+      "profit": "Baseline EBIT margin was about 6.2% in 2020 and projected near 6.2% in 2025, but 2026 margins are pressured by faster input-cost growth than bid-price growth."
+    },
+    "major_players": [
+      "Hellas Construction",
+      "FieldTurf / Tarkett Sports",
+      "AstroTurf",
+      "Shaw Sports Turf",
+      "Sprinturf",
+      "Act Global",
+      "Motz Group",
+      "Barton Malow Holdings",
+      "Turner Construction",
+      "AECOM"
+    ],
+    "current_dynamics": "The market is being pulled in two directions in 2025-2026. Demand remains healthy where districts and municipalities have voter-approved bonds, aging field inventories, weather-disrupted outdoor programs and pressure to support youth sports. Amusement and recreation construction has been stronger than many nonresidential categories, and AIA's July 2026 forecast calls it one of the better institutional segments. At the same time, project budgets are harder to lock because diesel, freight, metals, electrical components and tariff-exposed materials rose sharply in 2026. Synthetic turf remains a major growth driver, but buyers are asking more questions about heat, end-of-life disposal, PFAS content, crumb-rubber infill and player preference for natural grass.",
+    "whats_growing": "Multiuse synthetic fields, all-weather practice facilities, school-district bond-funded athletic complexes, LED sports lighting, drainage upgrades, shock pads, PFAS-free turf specifications, pickleball and racquet-sport court work, field conversions that increase playable hours, and design-build packages that bundle surface, track, lighting and site work.",
+    "whats_shrinking": "Lower-spec natural native-soil field maintenance as a share of spending, projects dependent on discretionary private financing, synthetic-turf systems using regulated PFAS in states with new restrictions, and school or municipal projects that cannot absorb 2026 materials escalation. Golf-related new field work is more selective than K-12 and municipal multisport work.",
+    "recent_developments": [
+      "2025-02: Hellas announced new synthetic turf systems for University of Nebraska football game and practice facilities for the 2025 season.",
+      "2025-04: NSGA reported 2024 youth team-sports participation gains versus three-year averages, including flag football up 21%, basketball up 12% and tackle football up 12%.",
+      "2025-08: SFIA's first-half 2025 participation update showed inactivity rising to 22.9%, while pickleball participation still grew 14.7%.",
+      "2026-01: California restrictions began barring many public entities and schools from purchasing or installing covered artificial-turf surfaces containing regulated PFAS.",
+      "2026-06: SFIA reported 24.3 million US pickleball participants in 2025, up from 4.2 million in 2020, supporting court-construction demand.",
+      "2026-07: AIA's July 2026 consensus forecast projected amusement and recreation construction spending growth of 7.1% in 2026 and 3.0% in 2027."
+    ],
+    "outlook": "The 2026-2027 outlook is modestly positive for demand but mixed for profitability. School districts, parks departments and colleges should continue replacing worn fields and adding multipurpose surfaces, especially in high-growth Sun Belt communities and areas facing weather disruptions. Pickleball, soccer, flag football, women's sports investment and multiuse youth-sports complexes add incremental demand. However, elevated interest rates, 2026 input-cost inflation, tariff uncertainty and synthetic-turf regulation will push owners toward tighter specifications, phased scopes, alternates and lifecycle-cost scrutiny. Contractors with purchasing scale, in-house equipment, design-build capabilities and documented safer-material systems should outperform smaller bidders.",
+    "themes": [
+      "School bond and municipal parks spending",
+      "Artificial turf replacement cycle",
+      "PFAS-free and safer-material specifications",
+      "Heat-resilient athletic facilities",
+      "Youth sports and girls' sports participation",
+      "Pickleball and racquet-court buildout",
+      "Input-cost inflation and tariffs",
+      "Design-build and job-order contracting",
+      "Water conservation versus synthetic-turf scrutiny",
+      "Fragmented specialist contractor market"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sports-and-athletic-field-construction.txt",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://fred.stlouisfed.org/series/TLAMUSCON",
+      "https://fred.stlouisfed.org/series/TLAMUSCONS",
+      "https://www.aia.org/resource-center/july-2026-consensus-construction-forecast",
+      "https://forecast.aia.org/2026/Charts/Jul%202026/ccf_072126_v2.html",
+      "https://www.agc.org/news/2026/07/15/construction-input-costs-remain-sharply-higher-year-ago-despite-june-decline-aluminum-copper-and-0",
+      "https://sfia.org/resources/sfia-releases-first-edition-of-mid-year-participation-report-with-real-time-analysis/",
+      "https://sfia.org/resource_categories/press-release/",
+      "https://nsga.org/news/nsga-annual-sports-participation-study-shows-encouraging-youth-team-sports-growth/",
+      "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1423",
+      "https://dtsc.ca.gov/scp/artificial-turf-containing-pfass/",
+      "https://www.hellas.com/",
+      "https://fieldturf.com/en/",
+      "https://www.bdcnetwork.com/giants-400/news/55320782/top-75-sports-facility-construction-firms-for-2025"
+    ],
+    "one_sentence": "Sports & Athletic Field Construction is a roughly $5.2 billion 2025 US industry supported by school and municipal recreation budgets, youth-sports participation, artificial-turf replacement cycles and amusement/recreation construction spending, but constrained in 2026 by higher materials, fuel and tariff-related input costs plus scrutiny of synthetic turf heat, PFAS and injury risks.",
+    "slug": "sports-and-athletic-field-construction"
+  }
+]

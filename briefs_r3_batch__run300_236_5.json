@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Janitorial Services in the US",
+    "sector": "Business Services",
+    "one_liner": "A labor-intensive, fragmented facilities-services market where recurring commercial contracts, hygiene standards and outsourcing drive revenue, while wage pressure and office vacancies constrain margins.",
+    "overview": "The industry sells recurring cleaning, custodial, floor care, window cleaning, disinfection and specialty sanitation services to offices, schools, hospitals, factories, retail properties, public agencies and households. The 2022 IBISWorld baseline put revenue at $97.6 billion after pandemic-era sanitation demand lifted 2020-2022 growth, while current public 2025-2026 sources point to a large but definition-sensitive market: narrower U.S. janitorial estimates place the market at $81.88 billion in 2025 and $84.00 billion in 2026, while broader commercial cleaning and IBIS-cited market references place the 2025-2026 market around $110 billion to $112 billion. The core structure remains unchanged: many small operators compete locally on price and service quality, while national players bundle janitorial with facilities management, engineering, aviation, education and industrial services.",
+    "key_stats": {
+      "market_size": "$112.0 billion in 2026, using broader IBIS-cited commercial janitorial market references; narrower Grand View Research estimate is $84.00 billion in 2026",
+      "growth": "1.8% year-over-year in 2026 in IBIS-cited cleaning-industry references; narrower Grand View Research forecast CAGR is 3.3% from 2026 to 2033",
+      "employment": "2.4477 million janitors and building cleaners in 2024 occupational employment outlook; 1.4439 million payroll jobs in NAICS 561720 in 2025 FRED/BLS industry productivity data",
+      "wages": "$17.27 median hourly wage for janitors and building cleaners in May 2024; NAICS 561720 labor compensation was $54.76 billion in 2025",
+      "concentration": "Low; 2023 Census Business Patterns showed 67,799 employer establishments, while nonemployer and small local operators make the total operator base much larger",
+      "commercial_share": "89.29% of U.S. janitorial services revenue in 2025 under Grand View Research segmentation",
+      "standard_cleaning_share": "63.18% of U.S. janitorial services revenue in 2025 under Grand View Research segmentation",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$97.586 billion in 2022 IBISWorld baseline revenue, stated in 2022 dollars",
+      "growth": "6.6% revenue growth in 2022; 6.7% CAGR from 2017 to 2022",
+      "profit": "$6.636 billion in 2022 EBIT profit",
+      "profit_margin": "6.8% in 2022",
+      "establishments": "1,211,105 establishments in 2022",
+      "enterprises": "1,207,299 enterprises in 2022",
+      "employment": "2,423,066 workers in 2022",
+      "wages": "$40.750 billion in 2022 wages",
+      "forecast": "3.3% annualized revenue growth to $114.7 billion by 2027 in the 2022 baseline"
+    },
+    "how_it_makes_money": "Revenue is generated through recurring commercial and institutional contracts, route-based nightly or periodic cleaning, day porter services, bundled facilities-management agreements, residential recurring cleans, one-off deep cleans, floor care, window cleaning, damage restoration, disinfection, event sanitation and specialty cleaning for healthcare, manufacturing, aviation and high-traffic facilities. Pricing is usually bid by square footage, labor hours, frequency, scope, building type and compliance needs, with add-on tag work improving account profitability.",
+    "cost_structure": "The industry is dominated by labor costs. The 2022 baseline showed wages of $40.750 billion, equal to about 41.8% of revenue before payroll taxes and benefits; 2025 FRED/BLS labor compensation for NAICS 561720 reached $54.76 billion. Commercial cleaning benchmarks cited for 2025-2026 commonly place total labor burden near 50% to 65% of revenue. Supplies, chemicals, paper products, equipment, vehicles, insurance, workers compensation, rent, dispatch/software, sales and supervision make up most remaining costs. Profit is modest because contracts are price-competitive, labor availability is tight and clients rebid frequently; the 2022 baseline EBIT margin was 6.8%.",
+    "major_players": [
+      "ABM Industries Inc.",
+      "Jani-King International Inc.",
+      "Coverall North America Inc.",
+      "ServiceMaster Clean",
+      "Sodexo facilities-services units",
+      "Stanley Steemer and regional specialty cleaners",
+      "Thousands of local independent and franchise operators"
+    ],
+    "current_dynamics": "Demand is being pulled in different directions in 2025-2026. Return-to-office mandates, education, healthcare, aviation, manufacturing, data centers and public-sector contracts support recurring cleaning demand. At the same time, elevated office vacancy reduces the addressable square footage for traditional office cleaning, especially in weaker non-prime buildings. Clients increasingly expect proof of service, sustainable chemicals, infection-control capability, trained staff and bundled facility solutions. Operators face wage inflation, high turnover, insurance costs and contract rebid pressure, making scheduling software, route density, quality-control data and pricing discipline more important.",
+    "whats_growing": "Healthcare, education, aviation, manufacturing and data-center-adjacent facilities are growing faster than basic office accounts because they need reliable outsourced cleaning, compliance documentation and specialty technical cleaning. Green cleaning, EPA Safer Choice and Green Seal-aligned products, robotic floor scrubbers, IoT-enabled restroom monitoring, service-verification dashboards, day porter programs and bundled facilities contracts are gaining share. Federal janitorial obligations and set-aside opportunities also expanded in FY2025, with one market-intelligence source citing $4.8 billion of FY2025 federal NAICS 561720 obligations, up 9% from FY2024.",
+    "whats_shrinking": "Low-spec traditional office cleaning in older or non-prime buildings is under pressure from high office vacancies, hybrid work and tenant downsizing. One-off pandemic disinfection spikes have normalized into routine hygiene protocols rather than emergency premium work. Small operators that underbid contracts without enough labor coverage are vulnerable as wages, turnover, insurance and supply costs rise. Purely manual workflows without scheduling, timekeeping, route optimization or client reporting are also losing ground to tech-enabled competitors.",
+    "recent_developments": [
+      "2025-01-29: ISSA announced 2025 policy priorities focused on tax policy, workforce development, sustainable cleaning standards, EPA pesticide-program capacity and science-based best practices.",
+      "2025-04-02: Aspire released its 2025 Commercial Cleaning Insights Report, saying 90% of surveyed commercial cleaning companies had a positive or neutral 2025 outlook and 57% expected revenue growth.",
+      "2025-Q2: CBRE’s 2025 midyear office outlook projected U.S. office vacancy to end 2025 at 18.9%, keeping pressure on traditional office-cleaning demand while prime properties performed better.",
+      "2025-12-19: ABM filed its FY2025 10-K, reporting revenue of $8.7459 billion, up 4.6% from FY2024, with Business & Industry revenue of $4.1260 billion.",
+      "2026-03: Grand View Research estimated the U.S. janitorial services market at $81.88 billion in 2025 and $84.00 billion in 2026, with a 3.3% CAGR forecast for 2026-2033.",
+      "2026-06-05: ABM reported fiscal Q2 2026 revenue of $2.290 billion, up 8.4% year over year, including 6.1% organic growth and record first-half new sales bookings of $1.2 billion."
+    ],
+    "outlook": "The 2026-2030 outlook is moderate growth rather than pandemic-style acceleration. Revenue should benefit from outsourcing, higher hygiene expectations, healthcare and education demand, aviation traffic, industrial production and data-center facility needs. Margin expansion is harder: labor compensation is rising, turnover remains costly and many contracts are competitively bid. Larger providers should keep using bundled facilities services, automation and national-account capabilities to defend margins, while smaller firms can grow through route density, specialty niches, local reputation and disciplined contract pricing. Office cleaning remains the main swing factor: prime-building occupancy and return-to-office policies help, but high vacancy in weaker buildings limits upside.",
+    "themes": [
+      "Fragmented local competition",
+      "Recurring commercial contracts",
+      "Labor scarcity and wage pressure",
+      "Return-to-office versus office vacancy",
+      "Green cleaning and sustainability requirements",
+      "Robotics and smart-cleaning technology",
+      "Healthcare and education resilience",
+      "Bundled facilities management",
+      "Federal and institutional outsourcing",
+      "Quality verification and client reporting"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/janitorial-services-in-the-us.txt",
+      "https://www.grandviewresearch.com/industry-analysis/us-janitorial-services-market-report",
+      "https://www.bls.gov/ooh/building-and-grounds-cleaning/janitors-and-building-cleaners.htm",
+      "https://www.bls.gov/news.release/archives/ocwage_04022025.htm",
+      "https://fred.stlouisfed.org/series/IPUPN561720W200000000",
+      "https://fred.stlouisfed.org/series/IPUPN561720L020000000",
+      "https://data.census.gov/profile/561720_-_Janitorial_services?n=561720",
+      "https://abm.gcs-web.com/news-releases/news-release-details/abm-reports-fiscal-second-quarter-2026-results-and-reaffirms",
+      "https://www.sec.gov/Archives/edgar/data/771497/000077149725000031/0000771497-25-000031-index.htm",
+      "https://www.issa.com/articles/trends-in-cleaning-industry/",
+      "https://www.issa.com/industry-news/issa-announces-2025-policy-priorities-to-support-a-cleaner-healthier-future/",
+      "https://www.youraspire.com/news/commercial-cleaning-companies-growth-return-to-office-mandates",
+      "https://www.cbre.com/insights/reports/2025-us-real-estate-market-outlook",
+      "https://www.recompeteiq.com/insights/national/national-government-janitorial-contracts-2026-market-intelligence-2026-04-17",
+      "https://servicebusinessacademy.org/top-6-answering-service-software-cleaning-businesses-2026/"
+    ],
+    "one_sentence": "Janitorial Services in the US covers commercial, industrial, institutional and residential cleaning of building interiors, transportation equipment interiors and windows, with 2026 demand supported by outsourced facility care, healthcare and education work, return-to-office activity and higher standards for cleanliness.",
+    "slug": "janitorial-services-in-the-us"
+  },
+  {
+    "title": "Jewelry & Watch Wholesaling in the US",
+    "sector": "Retail",
+    "one_liner": "A fragmented wholesale trade links imported and domestic jewelry, watches, precious metals, diamonds and findings to retailers, online sellers and other trade buyers.",
+    "overview": "Operators wholesale fine jewelry, costume jewelry, watches, clocks, precious metals, precious and semiprecious stones, silverware and jewelers' findings. The industry remains highly fragmented, with many nonemployer and small trade-focused businesses, while a few scaled players handle bullion, branded jewelry programs, findings, private-label supply and logistics. In 2025-2026, elevated gold and silver prices support nominal sales values and collateral demand but pressure working capital, while flat US jewelry-and-watch retail demand, tariff uncertainty and falling lab-grown diamond prices keep wholesalers cautious on inventory.",
+    "key_stats": {
+      "market_size": "$64.6 billion in 2026 forecast revenue from the January 2022 IBISWorld baseline outlook",
+      "growth": "0.7% CAGR forecast for 2021-2026 in the January 2022 IBISWorld baseline outlook",
+      "official_establishments": "6,949 employer establishments in 2023 for NAICS 42394 according to the US Census Bureau profile",
+      "downstream_market": "$63 billion US jewelry and watch retail market in calendar 2025, flat versus 2024, according to Signet's FY2026 annual report citing Mastercard SpendingPulse and Circana",
+      "retail_store_base": "About 16,800 US jewelry retail stores as of September 2025, down about 2% year over year, according to Signet's FY2026 annual report citing Jewelers Board of Trade",
+      "wholesale_business_count": "3,234 US wholesale jewelry businesses in Q3 2025, down 2.9% year over year, according to Rapaport's report on JBT data",
+      "precious_metals": "World Bank projected precious metals prices up 42% year over year in 2026 after record highs and a Q2 2026 pullback",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "source": "IBISWorld baseline file, last updated January 4, 2022",
+      "market_size": "$62.4 billion in 2021 revenue, stated in 2021 dollars",
+      "growth": "0.4% CAGR for 2016-2021 and 10.4% revenue increase in 2021",
+      "profit": "$3.1 billion in 2021 profit; 4.6%-5.0% profit margin depending on report section",
+      "employment": "42,043 employees in 2021",
+      "enterprises": "28,610 enterprises in 2021",
+      "establishments": "28,799 establishments in 2021",
+      "forecast": "$64.6 billion in 2026 revenue, implying 0.7% CAGR from 2021-2026"
+    },
+    "how_it_makes_money": "Wholesalers buy jewelry, watches, bullion, stones and findings from manufacturers, mints, refiners, importers and brands, then resell to jewelry stores, department stores, apparel retailers, e-commerce merchants, coin dealers and other trade buyers at a markup. Revenue also comes from breaking bulk, import handling, assortment planning, private-label supply, drop ship programs, consignment, financing, storage, logistics and, for bullion-focused operators, spreads on precious-metal products.",
+    "cost_structure": {
+      "purchases": "About 75.2% of 2021 revenue in the IBISWorld baseline, dominated by jewelry, watches, stones, gold, silver, platinum and other resale inventory",
+      "wages": "About $2.6 billion in 2021 wages in the IBISWorld baseline; labor intensity is low relative to purchase costs",
+      "profit": "4.6% of 2021 revenue in the IBISWorld baseline, forecast to reach 5.5% by 2026 as input-cost volatility normalizes",
+      "working_capital": "High inventory values and volatile precious-metal prices make financing, hedging, credit insurance and fast inventory turns central to profitability",
+      "freight_compliance_and_duties": "Meaningful costs in 2025-2026 because imported jewelry, diamonds and watches require customs documentation, formal entries above $2,500 and exposure to tariff changes"
+    },
+    "major_players": [
+      "A-Mark Precious Metals Inc.",
+      "Richline Group Inc.",
+      "Stuller Inc.",
+      "Quality Gold Inc.",
+      "Rolex Watch U.S.A. Inc.",
+      "Independent regional jewelry, gemstone and findings wholesalers"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: high gold and silver prices lift nominal wholesale values and bullion-related activity, but they also raise inventory financing needs and make finished jewelry more expensive for retailers. US jewelry retail demand was roughly flat in 2025, and the retail store base continued to shrink, limiting replenishment volume. At the same time, tariff policy and forced-labor compliance have made imported diamonds, watches and finished jewelry more complex to source. Natural diamonds remain weak because of midstream inventory pressure and lab-grown substitution, while lab-grown diamonds are shifting toward lower-priced fashion jewelry as wholesale prices keep falling.",
+    "whats_growing": [
+      "Precious-metal and bullion distribution tied to elevated 2025-2026 gold and silver prices",
+      "High-end jewelry and watches where affluent consumers remain resilient",
+      "Traceable and provenance-backed natural diamonds after 2025-2026 compliance and marketing pushes",
+      "Wholesale services around logistics, storage, consignment, financing and e-commerce fulfillment",
+      "Retailer startups and fewer closures in Q2 2025, which modestly improved customer churn for suppliers"
+    ],
+    "whats_shrinking": [
+      "Small independent jewelry businesses and supplier counts, with US wholesale jewelry businesses down 2.9% year over year in Q3 2025",
+      "Natural-diamond midstream demand, hurt by excess inventory and lab-grown penetration",
+      "Lab-grown diamond wholesale prices, down 26% year over year in 2025 according to Edahn Golan data",
+      "Mass-market watches and clocks, pressured by smartphones and direct-to-consumer channels",
+      "Wholesaler margins on import-heavy goods exposed to tariffs, freight, insurance and working-capital costs"
+    ],
+    "recent_developments": [
+      "2025-04-05: US reciprocal tariffs began with a 10% additional ad valorem duty on most imports under the April 2025 Federal Register order.",
+      "2025-05-08: De Beers announced plans to close Lightbox after lab-grown diamond wholesale prices fell 90% since the brand's launch pricing model.",
+      "2025-07-22: JBT data reported by JCK showed Q2 2025 North American jewelry business discontinuances down 27% year over year to 177.",
+      "2025-09-30: JBT data reported by Rapaport showed 3,234 US wholesale jewelry businesses, down 2.9% year over year.",
+      "2026-01-31: Signet estimated the 2025 US jewelry and watch market at about $63 billion, flat versus 2024.",
+      "2026-07-15: LBMA reported gold hit an all-time high of $5,501.70 per ounce on January 29, 2026 before closing June 2026 at $4,026.05."
+    ],
+    "outlook": "Revenue should remain modestly positive in nominal terms through 2026 because precious-metal prices are far above pre-pandemic levels, but unit growth is likely restrained by cautious retail replenishment, consolidation and consumer sensitivity to ticket prices. Wholesalers with strong credit controls, hedging, provenance documentation, direct retailer integrations and import flexibility should outperform. The main downside risks are a sharp precious-metal reversal, weaker discretionary spending, tighter retailer credit, more tariff disruption and further diamond price compression. The main upside case is renewed luxury watch demand, stable bridal jewelry demand and higher bullion turnover during volatile macro conditions.",
+    "themes": [
+      "Precious-metal price pass-through",
+      "Fragmented wholesale trade",
+      "Retail jewelry consolidation",
+      "Tariff and customs complexity",
+      "Lab-grown diamond price deflation",
+      "Natural-diamond provenance",
+      "E-commerce and drop-ship distribution",
+      "Working-capital discipline"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/jewelry-and-watch-wholesaling-in-the-us.txt",
+      "https://data.census.gov/profile/42394_-_Jewelry%2C_Watch%2C_Precious_Stone%2C_and_Precious_Metal_Merchant_Wholesalers?codeset=naics~42394",
+      "https://www.sec.gov/Archives/edgar/data/832988/000083298826000055/sig-20260131.htm",
+      "https://www.sec.gov/Archives/edgar/data/1591588/000119312525200462/amrk-20250630.htm",
+      "https://www.jckonline.com/editorial-article/jewelers-board-positive-sign/",
+      "https://rapaport.com/news/us-jewelry-business-closures-continue-to-slow/",
+      "https://www.debeersgroup.com/news-insights/latest-group-news/2026/preliminary-financial-results-for-2025",
+      "https://www.debeersgroup.com/news-insights/latest-group-news/2025/de-beers-group-announces-intention-to-close-lightbox-business",
+      "https://www.worldbank.org/en/research/commodity-markets",
+      "https://blogs.worldbank.org/en/opendata/precious-metals-retreat-from-record-highs",
+      "https://www.lbma.org.uk/articles/lbma-precious-metals-market-report-q2-2026",
+      "https://www.federalregister.gov/documents/full_text/html/2025/04/07/2025-06063.html",
+      "https://www.help.cbp.gov/s/article/Article1137?language=en_US"
+    ],
+    "one_sentence": "Jewelry & Watch Wholesaling in the US is a mature, low-margin distribution industry whose dollar revenue moves with precious-metal prices, retail jewelry demand, import costs and inventory cycles rather than with unit volume alone.",
+    "slug": "jewelry-and-watch-wholesaling-in-the-us"
+  },
+  {
+    "title": "Jewelry Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US jewelry manufacturers are selling into a flat retail market while record precious-metal prices lift ticket values, squeeze affordability and keep import competition intense.",
+    "overview": "This industry manufactures fine jewelry, costume jewelry, silverware, precious-metal personal goods, jewelry parts and lapidary work using gold, platinum, silver, gemstones, diamonds and semiprecious materials. The 2021 baseline described a structurally challenged domestic manufacturing base: 2021 revenue was $6.6 billion, 2021 employment was 18,854 workers, 2021 establishments were 1,989 and 2021 profit margin was 6.2%, with imports far larger than exports. Current 2025-2026 conditions remain mixed. Signet estimated the total US jewelry and watch market at about $63 billion in calendar 2025, flat versus 2024, while World Gold Council data show US gold-jewelry tonnage fell 11.1% in 2025 to 117.3 tonnes even as spending rose 28% to $13 billion. That split captures the industry’s core dynamic: high gold prices inflate nominal sales and protect premium positioning, but reduce units, weight and affordability for price-sensitive shoppers.",
+    "key_stats": {
+      "market_size": "$21.5 billion in 2023 revenue, latest public figure surfaced in the April 2025 IBISWorld report listing; local 2021 baseline was $6.6 billion in 2021 currency, indicating a definitional or rebasing break between sources.",
+      "growth": "-2.6% CAGR over the five years to 2023 and -1.9% projected decline in 2023, per the April 2025 IBISWorld report listing; downstream US jewelry and watch market was flat in 2025 at about $63 billion.",
+      "ppi": "Jewelry and silverware manufacturing primary-products PPI was 153.749 in June 2026, up from 295.133 to 361.922 across 2025 for gold and platinum jewelry subseries, reflecting severe precious-metal price pressure.",
+      "establishments": "1,844 employer establishments in 2023 for NAICS 339910, down from 1,989 establishments in the 2021 baseline.",
+      "employment": "18,854 workers in 2021 baseline; the 2021 baseline forecast 19,411 workers by 2026.",
+      "downstream_market": "US jewelry and watch market was about $63 billion in calendar 2025, flat versus 2024.",
+      "gold_jewelry_demand": "US gold-jewelry demand was 117.3 tonnes in 2025, down 11.1% from 131.9 tonnes in 2024; US gold-jewelry spending rose 28% in 2025 to $13 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $6.8 billion in 2022, derived from the local IBISWorld 2021 revenue base of $6.646 billion and its 2021-2026 forecast CAGR of 2.2%.",
+      "growth": "About +2.2% in 2022 under the local IBISWorld 2021 forecast path, following the 2021 rebound of +7.6%.",
+      "context": "The local baseline was published October 25, 2021, in 2021 dollars, and projected revenue reaching $7.4 billion by 2026; current 2025 public report snippets show a much larger 2023 revenue figure, so the 2022 baseline is kept as a historical baseline rather than blended into the 2025 estimate."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, casting, setting, stamping, engraving, polishing, assembling and finishing jewelry and silverware for wholesalers, retailers, brands, designers and direct-to-consumer channels. Revenue is generated from precious-metal jewelry, gold and platinum pieces, silver and semiprecious jewelry, costume jewelry, custom bridal work, repairs or remounting, jewelry components, lapidary services and private-label production. Operators with stronger margins typically control design, sourcing, inventory turns, customization, brand relationships and the ability to pass through 2025-2026 gold, platinum and gemstone cost increases.",
+    "cost_structure": {
+      "materials": "Largest cost bucket in 2025-2026; gold, platinum, silver, diamonds, lab-grown diamonds, colored stones, findings and packaging drive gross margin volatility. Brilliant Earth reported 2025 cost of sales at 42.5% of net sales, up from 39.7% in 2024, citing higher gold and platinum costs.",
+      "labor": "Important but secondary to materials; the local baseline implied 2021 wages of $990 million, equal to about 14.9% of 2021 revenue, reflecting skilled design, casting, stone setting, polishing and quality-control work.",
+      "profit": "The local baseline reported 2021 profit of $412 million and a 2021 profit margin of 6.2%; 2025 profitability remains pressured where operators cannot fully pass through metal-cost inflation.",
+      "selling_and_distribution": "2025-2026 costs include wholesale commissions, retailer allowances, e-commerce fulfillment, insured shipping, returns, security and showroom or trade-show support.",
+      "technology_and_capex": "3D design, CAD/CAM, laser welding, casting equipment, inventory systems and traceability tools are growing costs in 2025-2026 but can reduce rework and support customization."
+    },
+    "major_players": [
+      "Richline Group, Inc. (Berkshire Hathaway)",
+      "Tiffany & Co. (LVMH)",
+      "Stuller, Inc.",
+      "Signet Jewelers Ltd. and its diamond sourcing/private-label supply chain",
+      "Brilliant Earth Group, Inc.",
+      "David Yurman Enterprises LLC"
+    ],
+    "current_dynamics": "Demand is bifurcated in 2025-2026. Higher-income buyers continue to support premium high-carat and branded fine jewelry, while middle-income buyers are trading down on carat weight, metal weight, stone type or price point. Record gold prices and elevated jewelry PPI lift nominal revenue but compress unit volume and gross margins. Imports remain a structural constraint because lower-cost overseas production can undercut domestic manufacturers, while US-based operators compete on quick-turn customization, responsible sourcing, smaller batches, domestic finishing and relationships with retailers and designers. Lab-grown diamonds are reshaping bridal economics by lowering entry prices and shifting value toward design, setting, brand trust and sustainability claims.",
+    "whats_growing": [
+      "2025 premium high-carat and high-end jewelry spending among higher-income consumers despite lower gold-jewelry tonnage.",
+      "2025 lower-price-point fine jewelry and engagement rings below $5,000, supported by Brilliant Earth's 13.0% order-volume growth in 2025.",
+      "2025-2026 lab-grown diamond assortments, traceability programs, recycled metals and responsible-sourcing claims.",
+      "2025-2026 CAD design, 3D printing, laser work and made-to-order production that reduce inventory risk and enable customization.",
+      "2025 nominal gold-jewelry sales value, with US spending up 28% to $13 billion despite lower tonnes."
+    ],
+    "whats_shrinking": [
+      "2025 US gold-jewelry physical demand, down 11.1% to 117.3 tonnes from 131.9 tonnes in 2024.",
+      "2025 heavier mass-market gold pieces and price-sensitive bridal units as high gold prices reduce affordability.",
+      "2023 employer establishment count, with Census reporting 1,844 NAICS 339910 establishments versus 1,989 in the 2021 baseline.",
+      "2025 natural-diamond pricing power in parts of the market as lab-grown diamonds gain share and pressure comparable mined-stone price points.",
+      "2025-2026 independent domestic manufacturers that lack scale, sourcing advantages or direct customer access."
+    ],
+    "recent_developments": [
+      "2025: Signet estimated the US jewelry and watch market at about $63 billion, flat versus 2024.",
+      "2025: World Gold Council reported US gold-jewelry demand fell 11.1% to 117.3 tonnes while spending rose 28% to $13 billion.",
+      "2025: LBMA reported the actual average gold price reached $3,431.54 per ounce, far above the 2025 forecast average of $2,735.33.",
+      "2025: Brilliant Earth net sales rose 3.6% to $437.5 million, while gross margin fell 280 basis points to 57.5% on higher gold and platinum costs.",
+      "March 2026: Brilliant Earth released its 2025 Mission Report and highlighted lab-diamond supplier audits, recycled or repurposed metals and its 2025 Pacific Green lab-diamond launch.",
+      "June 2026: FRED/BLS reported jewelry and silverware manufacturing primary-products PPI at 153.749, showing manufacturer selling prices remained elevated."
+    ],
+    "outlook": "The 2026 outlook is cautious. Nominal revenue can hold up if precious-metal prices stay high and premium consumers keep buying, but unit growth is constrained by affordability, weak natural-diamond sentiment and competition from imports. Domestic manufacturers with CAD-enabled customization, fast replenishment, reliable sourcing documentation, recycled-metal programs and retail/private-label relationships should outperform. Smaller shops remain vulnerable to working-capital strain because gold and platinum inventory is expensive, while sudden price moves can leave margins exposed. Over the medium term, the industry is likely to remain fragmented and mature, with growth concentrated in custom bridal, designer fine jewelry, lab-grown diamond settings, repair/remounting and domestic short-run production rather than commodity mass manufacturing.",
+    "themes": [
+      "Precious-metal inflation",
+      "Import penetration",
+      "Lab-grown diamonds",
+      "Premiumization",
+      "Affordability pressure",
+      "Domestic customization",
+      "Traceability and recycled metals",
+      "Retailer consolidation",
+      "CAD and 3D production",
+      "Bridal category reset"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/jewelry-manufacturing-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-jewelry-manufacturing--market",
+      "https://fred.stlouisfed.org/series/PCU339910339910P",
+      "https://fred.stlouisfed.org/data/PCU3399103399101",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2025/jewellery",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/us-gold-demand-trends-full-year-2025",
+      "https://www.gold.org/goldhub/research/gold-market-commentary-december-2025",
+      "https://www.lbma.org.uk/prices-and-data/lbma-annual-precious-metals-forecast-survey?cat=buying-assets&r=733457",
+      "https://www.sec.gov/Archives/edgar/data/832988/000083298826000055/sig-20260131.htm",
+      "https://www.signetjewelers.com/investors/financial-reports/",
+      "https://www.brilliantearth.com/about/mission/report-2025/",
+      "https://investors.brilliantearth.com/news-releases/news-release-details/brilliant-earth-reports-record-quarterly-net-sales",
+      "https://data.census.gov/profile/339910_-_Jewelry_and_silverware_manufacturing?codeset=naics~339910"
+    ],
+    "one_sentence": "In 2025-2026, US jewelry manufacturing is shaped less by unit growth than by pricing power, gold and platinum cost pass-through, lab-grown diamond adoption, customization, traceability claims and the ability to defend domestic production against lower-cost imports.",
+    "slug": "jewelry-manufacturing-in-the-us"
+  },
+  {
+    "title": "Job Training & Career Counseling in the US",
+    "sector": "Business Services",
+    "one_liner": "A fragmented, grant-heavy workforce services industry that strengthens when job seekers, dislocated workers, veterans and people with disabilities need help moving into new roles.",
+    "overview": "Operators provide vocational rehabilitation, career counseling, skills assessment, job-search support, resume and interview coaching, short-term job training, work-readiness services, placement assistance and related wraparound support for unemployed, underemployed, disabled, veteran, youth and disadvantaged workers. The 2022 baseline described a mature, low-margin and highly fragmented market driven mainly by federal, state and local funding rather than direct consumer demand. In 2025-2026, the demand picture is mixed: the 2026 unemployment rate remains near 4.1%, limiting recession-driven volume, but slower hiring, 2026 long-term unemployment of 1.8 million in July, 2026 labor-force participation of 61.4%, AI-related skill shifts and public grant priorities are keeping reskilling and counseling relevant.",
+    "key_stats": {
+      "market_size": "2026 market size: about $15.4 billion in 2021 dollars, based on the 2022 IBISWorld baseline forecast for 2026; current 2026 labor-market softness supports a stable-to-slightly-positive demand read versus that forecast.",
+      "growth": "2021-2026 baseline growth: -0.2% CAGR in real terms; 2026 demand is supported by July 2026 unemployment of 4.1%, June 2026 job openings of 7.4 million and July 2026 long-term unemployment of 1.8 million.",
+      "profit_margin": "2026 baseline forecast: 2.9% EBIT margin, down from 3.3% in 2021.",
+      "establishments": "2026 baseline forecast: 20,168 establishments, down slightly from 20,265 establishments in 2021.",
+      "employment": "2026 baseline forecast: 285,958 workers, down from 292,596 workers in 2021.",
+      "public_funding": "FY 2026 DOL Employment and Training Administration budget request: $6.7 billion; PY 2025 WIOA Youth Activities appropriation: $948.1 million; PY 2025 WIOA Adult Activities state allotments: $883.4 million; PY 2025 WIOA Dislocated Worker Activities: $1.393 billion.",
+      "labor_market": "July 2026 nonfarm payrolls: -23,000; July 2026 unemployment rate: 4.1%; June 2026 job openings: 7.4 million; June 2026 hires: 5.3 million.",
+      "target_populations": "2025 disability unemployment rate: 8.3% versus 4.1% for people without a disability; 2025 veteran unemployment rate: 3.5%; 2025 veteran population: 17.3 million.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 revenue: $15.585 billion in 2021 dollars.",
+      "growth": "2016-2021 revenue CAGR: 2.3%; 2021 revenue decline: -5.5%; 2021-2026 forecast revenue CAGR: -0.2% to $15.4 billion in 2026.",
+      "profit": "2021 profit: $514 million; 2021 profit margin: 3.3%; 2026 forecast profit margin: 2.9%.",
+      "structure": "2021 establishments: 20,265; 2021 enterprises: 16,801; 2021 employment: 292,596; 2021 wages: $6.068 billion.",
+      "service_mix": "2021 revenue mix: social assistance for elderly and disabled adults 47.4%, vocational rehabilitation for elderly and disabled adults 23.3%, social assistance for the general population 24.2%, other services 5.1%."
+    },
+    "how_it_makes_money": "Revenue comes mainly from federal, state and local workforce contracts, WIOA formula grants, vocational rehabilitation funding, veterans employment programs, dislocated-worker grants, nonprofit contributions, employer-funded training partnerships and private-pay career coaching. Providers monetize case management, counseling sessions, training cohorts, job-placement services, employer reimbursements, performance-based outcomes, grant administration and wraparound support tied to employment outcomes.",
+    "cost_structure": "The cost base is labor-intensive and low-margin. Major costs include counselors, trainers, case managers, job developers and administrative staff; leased training and office space; technology platforms for remote counseling and case tracking; curriculum and assessment tools; insurance and compliance; outreach; transportation or supportive services in grant-funded programs; and subcontracted training. The 2022 baseline showed 2021 wages of $6.068 billion and 2021 profit margin of 3.3%, with the 2026 margin forecast down to 2.9% as operators spend more to attract clients and comply with grant requirements.",
+    "major_players": [
+      "Goodwill Industries International and local Goodwill workforce affiliates",
+      "Easterseals vocational rehabilitation and workforce programs",
+      "Equus Workforce Solutions / BrightSpring Health Services",
+      "MAXIMUS employment and human-services programs",
+      "America Works of New York and related workforce contractors",
+      "State and local American Job Center operators, community colleges and nonprofit workforce boards"
+    ],
+    "current_dynamics": "The 2026 market is not being lifted by mass unemployment, but it is being supported by a harder job-search environment. July 2026 payroll employment fell by 23,000, July 2026 unemployment was 4.1%, June 2026 openings were 7.4 million and hiring was 5.3 million, suggesting a low-hire environment where job seekers need more counseling even without a recession. Federal and state dollars are increasingly tied to measurable outcomes, apprenticeships, reindustrialization, AI infrastructure, advanced manufacturing, shipbuilding, healthcare, construction and dislocated-worker reskilling. At the same time, free career services from colleges, online platforms and employer training programs pressure private-pay counseling prices.",
+    "whats_growing": "Growing areas include employer-linked training, registered apprenticeship expansion, AI infrastructure and data-center occupations, shipbuilding and defense industrial base training, advanced manufacturing, nuclear and energy infrastructure, healthcare pathways, reentry employment, rural workforce programs, short-term credentials, online counseling, hybrid case management, and services for workers displaced by automation or sector churn.",
+    "whats_shrinking": "Shrinking or pressured areas include generic resume-only counseling, undifferentiated private career coaching, pandemic-era emergency workforce programs, operators dependent on one grant stream, in-person-only service models, and programs aimed only at broad unemployment relief rather than targeted skills, placement and measurable outcomes.",
+    "recent_developments": [
+      "2025-05-20: DOL issued PY 2025 WIOA allotments, including $948.1 million for Youth Activities, $883.4 million for Adult Activities state allotments and $1.393 billion for Dislocated Worker Activities.",
+      "2025-09-30: DOL awarded more than $86 million in Industry-Driven Skills Training Fund grants to 14 states for shipbuilding, AI, advanced manufacturing and other in-demand sectors.",
+      "2026-04-28: BLS reported the 2025 veteran unemployment rate rose to 3.5% and the 2025 veteran population totaled 17.3 million.",
+      "2026-07-08: DOL opened a 2026 Industry-Driven Skills Training Fund grant round focused on employer-responsive training for in-demand jobs and national economic priorities.",
+      "2026-08-04: BLS reported June 2026 job openings of 7.4 million, hires of 5.3 million and layoffs/discharges of 1.8 million.",
+      "2026-08-07: BLS reported July 2026 payroll employment of -23,000, unemployment of 4.1%, long-term unemployed workers of 1.8 million and labor-force participation of 61.4%."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive in nominal dollars but restrained in real terms. A full recession would lift demand quickly, but absent that shock, growth depends on public funding, employer partnerships and the ability to prove placement outcomes. Providers best positioned for 2026-2030 will combine counseling, wraparound supports, sector-specific credentials and employer reimbursement models. Margin pressure should persist because grant compliance, staffing costs and technology investments are rising, while public payers and workforce boards increasingly demand measurable outcomes.",
+    "themes": [
+      "Countercyclical demand tied to unemployment and dislocation",
+      "Federal and state grant dependence",
+      "Workforce reskilling for AI, infrastructure and industrial policy",
+      "Vocational rehabilitation and disability employment",
+      "Veteran transition services",
+      "Registered apprenticeships and short-term credentials",
+      "Fragmented nonprofit and contractor landscape",
+      "Outcome-based funding and placement accountability",
+      "Hybrid counseling and digital case management"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file provided by user, last updated 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/job-training-and-career-counseling-in-the-us.txt'}",
+      "{'name': 'BLS Employment Situation, July 2026, released August 7, 2026', 'url': 'https://www.bls.gov/news.release/empsit.nr0.htm'}",
+      "{'name': 'BLS Job Openings and Labor Turnover, June 2026, released August 4, 2026', 'url': 'https://www.bls.gov/news.release/jolts.nr0.htm'}",
+      "{'name': 'DOL Employment and Training Administration Budget page, FY 2026 request', 'url': 'https://www.dol.gov/agencies/eta/budget/'}",
+      "{'name': 'DOL TEGL 11-24, PY 2025 WIOA allotments', 'url': 'https://www.dol.gov/node/183804'}",
+      "{'name': 'DOL ETA Funding Opportunities, 2026 grants', 'url': 'https://www.dol.gov/agencies/eta/grants/apply/find-opportunities'}",
+      "{'name': 'DOL Industry-Driven Skills Training Fund', 'url': 'https://www.dol.gov/agencies/eta/dislocated-workers/grants/industry-driven-skills'}",
+      "{'name': 'BLS People with a Disability: Labor Force Characteristics, 2025', 'url': 'https://www.bls.gov/news.release/disabl.nr0.htm'}",
+      "{'name': 'BLS Employment Situation of Veterans, 2025', 'url': 'https://www.bls.gov/news.release/vet.nr0.htm'}"
+    ],
+    "one_sentence": "The 2026 industry is steadier than the 2022 baseline expected because unemployment remains low by historical standards but hiring has cooled, public workforce grants are being redirected toward reskilling, apprenticeships and strategic industries, and employers still need help filling skilled roles.",
+    "slug": "job-training-and-career-counseling-in-the-us"
+  },
+  {
+    "title": "Juice & Smoothie Bars",
+    "sector": "Food & Drink",
+    "one_liner": "U.S. juice and smoothie bars are a fragmented health-focused foodservice niche where chain expansion is offset by high produce, labor, rent, and delivery-platform costs.",
+    "overview": "Juice and smoothie bars primarily sell made-to-order smoothies, fresh juices, smoothie bowls, acai bowls, wellness shots, and related healthy snacks. The 2021 IBIS baseline framed the industry as mature, low-concentration, and trend-sensitive, with 2020 revenue of $2.673 billion and a 2020-2025 revenue forecast of 1.6% CAGR to $2.9 billion. Current 2025-2026 public data points suggest the category has outperformed that conservative baseline: one 2026 market estimate puts the U.S. juice bar market at $3.4 billion in 2025 and $3.67 billion in 2026, while major chains are still adding units. Growth is being pulled by wellness, convenient meal replacement, protein and functional nutrition, bowls, digital ordering, and franchising, while profitability is pressured by labor, produce, packaging, rent, and promotional competition.",
+    "key_stats": {
+      "market_size": "$3.4 billion U.S. juice bar market in 2025; $3.67 billion forecast for 2026",
+      "growth": "7.8% CAGR forecast for 2026-2034 in one 2026 juice-bar market estimate",
+      "establishments": "9,244 U.S. juice and smoothie bar establishments projected for 2025 in the IBIS baseline",
+      "profit_margin": "4.5% EBIT margin projected for 2025 in the IBIS baseline, down from 4.7% in 2020",
+      "wages": "$782.0 million total wages projected for 2025 in the IBIS baseline",
+      "broader_smoothie_demand": "U.S. smoothies market estimated at $7.073 billion in 2025 by IMARC and $5.757 billion in 2025 by Grand View Research Horizon; these include retail and non-bar channels, so they are demand context rather than store-industry revenue",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.8 billion U.S. juice bar market in 2022 per a 2026 market estimate; approximately $2.76 billion in 2022 when applying the IBIS baseline's 2020-2025 projected 1.6% CAGR to 2020 revenue of $2.673 billion",
+      "growth": "1.6% annualized 2020-2025 growth in the IBIS baseline; the broader 2026 market estimate implies growth from $2.8 billion in 2022 to $3.4 billion in 2025"
+    },
+    "how_it_makes_money": "Operators earn revenue from made-to-order smoothies, fresh juices, cold-pressed bottles, acai and smoothie bowls, protein or supplement add-ins, wellness shots, coffee or tea add-ons, healthy snacks, catering, app orders, third-party delivery, and franchise royalties. Chains also monetize multi-unit franchising, co-branded footprints, airport/campus/gym sites, and loyalty-driven repeat visits.",
+    "cost_structure": "The 2020 IBIS baseline put wages at 26.2% of revenue and profit at 4.7% of revenue, with profit projected at 4.5% in 2025. Major 2025-2026 cost lines are hourly labor, fresh fruit and vegetable inputs, frozen fruit and puree bases, protein powders and supplements, dairy and plant-based milks, cups/lids/straws, lease costs, utilities, franchise royalties, digital ordering fees, delivery commissions, local marketing, and equipment maintenance. In May 2026 BLS data, fruits and vegetables were up 6.1% year over year, nonalcoholic beverages and beverage materials were up 5.8%, and food away from home was up 3.5%, reinforcing margin pressure.",
+    "major_players": [
+      "Tropical Smoothie Cafe: surpassed $1.5 billion in 2025 systemwide sales, opened its 1,700th cafe in April 2026, and expects about 1,800 locations in 2026",
+      "Smoothie King: opened 74 stores in 2025, signed 101 franchise commitments in 2025, and forecast 90+ new stores in 2026",
+      "Jamba: 772 units and $487 million systemwide sales for the last twelve months ended December 28, 2025, according to S&P Global Ratings; system was 100% franchised",
+      "Nekter Juice Bar: 220+ opened locations and 150 locations in development shown on its 2026 site",
+      "Clean Juice: active 2025 product and regional expansion messaging around organic juices, smoothies, bowls, and wellness positioning",
+      "Robeks: 140 open and in-development locations across 13 states and 2024 top-20% average unit volume of $1.101 million per its franchise site"
+    ],
+    "current_dynamics": "The strongest 2025-2026 operators are acting less like pure juice bars and more like health-oriented limited-service restaurants. Tropical Smoothie Cafe is using food, bowls, digital ordering, and loyalty to raise frequency and check size; Smoothie King is adding food, ovens, new store formats, and franchise incentives; Jamba is relying on a fully franchised system inside GoTo Foods. The category remains fragmented, but scaled chains have advantages in app traffic, procurement, menu testing, and franchise development. Independents still compete through local wellness branding, organic positioning, cold-pressed production, and premium ingredients, but they face high input volatility and limited marketing leverage.",
+    "whats_growing": "Smoothies with protein, collagen, vitamins, energy, immunity, hydration, or other functional claims are growing in 2025-2026. Acai bowls, smoothie bowls, toast, wraps, and healthy snacks are growing because they turn beverage visits into meal occasions. Franchise units, smaller footprints, nontraditional locations, loyalty apps, online ordering, and delivery/pickup are growing. Tropical Smoothie Cafe reported 12 million loyalty members in 2026 and said loyalty represented about one-third of system sales. The broader U.S. smoothie market was valued at $7.073 billion in 2025 by IMARC, with a 3.82% CAGR forecast for 2026-2034.",
+    "whats_shrinking": "High-sugar legacy juice positioning, cleanse-only concepts, undercapitalized independents, and mall-dependent formats are shrinking in relevance. Jamba had about 5% location closures since its 2024 securitization issuance according to a 2026 S&P report, even though the broader GoTo platform continued to grow. Low-margin basic juice products are losing ground to customizable smoothies, bowls, protein items, and food attach. Consumer resistance to premium beverage pricing is rising where household budgets are stretched by 2025-2026 foodservice inflation.",
+    "recent_developments": [
+      "2025-01-21: Tropical Smoothie Cafe said it opened 161 cafes in 2024, surpassed 1,500 cafes, and signed 247 franchise agreements in 2024.",
+      "2026-01-05: Smoothie King reported 74 new store openings in 2025, 101 franchise commitments in 2025, and a forecast of 90+ openings in 2026.",
+      "2026-04-21: Smoothie King announced a brand evolution plan with 200+ new store commitments, 1,500+ available trade areas, and expanded food-menu investment.",
+      "2026-06-09: QSR reported Tropical Smoothie Cafe surpassed $1.5 billion in 2025 systemwide sales, opened its 1,700th cafe in April 2026, and expected to reach 1,800 locations before year-end 2026.",
+      "2026-07: S&P Global Ratings reported Jamba had $487 million of systemwide sales for the last twelve months ended December 28, 2025, across 772 units, with 100% franchising."
+    ],
+    "outlook": "The 2026 outlook is positive but not frictionless. Unit growth, franchising, loyalty, bowls, and functional nutrition should keep revenue expanding, while price increases and food attach help offset traffic volatility. The best-positioned operators will be chains and disciplined regional brands with strong procurement, smaller store formats, high app penetration, and menus that can flex between beverage, snack, and light-meal occasions. Risks through 2026 include fruit-cost spikes, wage increases, delivery commission drag, rent pressure, and competition from Starbucks, QSRs, grocery RTD cases, gyms, and home blenders.",
+    "themes": [
+      "Health and wellness",
+      "Functional nutrition",
+      "Protein and meal replacement",
+      "Acai and smoothie bowls",
+      "Franchise expansion",
+      "Digital ordering and loyalty",
+      "Smaller flexible footprints",
+      "Produce and wage inflation",
+      "Competition from QSRs and retail beverages",
+      "Premiumization versus value pressure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/juice-and-smoothie-bars.txt",
+      "https://marketintelo.com/report/juice-bar-market",
+      "https://www.smoothieking.com/news/smoothie-king-reports-strong-2025-with-74-new-store-openings-and-forecasts-90-locations-in-2026/",
+      "https://www.smoothieking.com/news/smoothie-king-with-50-years-of-expertise-making-nutrition-delicious-announces-new-brand-evolution-plan-designed-to-reinforce-category-leadership-and-accelerate-growth/",
+      "https://www.qsrmagazine.com/story/as-wellness-demand-rises-tropical-smoothie-cafe-hits-its-stride/",
+      "https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3583435",
+      "https://development.gotofoods.com/jamba/",
+      "https://www.nekterjuicebar.com/",
+      "https://www.robeksfranchise.com/",
+      "https://www.bls.gov/news.release/cpi.htm",
+      "https://www.imarcgroup.com/united-states-smoothie-market",
+      "https://www.grandviewresearch.com/horizon/outlook/smoothies-market/united-states",
+      "https://www.restaurant.org/research-and-media/media/press-releases/persistent-cost-increases-and-enduring-demand-will-shape-the-restaurant-industry-in-2026/"
+    ],
+    "one_sentence": "In 2025-2026, the industry is growing faster than the older IBIS baseline as smoothies, bowls, protein add-ins, functional drinks, and franchise unit growth lift sales, but margins remain exposed to fruit inflation, food-away-from-home price pressure, and heavy competition from QSRs, cafes, gyms, grocers, and RTD beverage brands.",
+    "slug": "juice-and-smoothie-bars"
+  }
+]

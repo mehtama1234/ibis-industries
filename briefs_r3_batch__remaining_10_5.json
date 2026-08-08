@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Oil Pipeline Transportation in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "Crude oil pipeline operators move domestic and imported crude from fields, terminals and storage hubs to refineries and export-linked networks under regulated tariffs and long-term capacity arrangements.",
+    "overview": "Operators primarily transport crude oil through gathering and trunk pipelines from production basins, import entry points, storage hubs and marine terminals to refineries and connected long-haul systems. The 2022 baseline described a $17.8 billion industry with 641 establishments, 74 enterprises, 11,415 employees and a 34.8% profit margin, with demand driven by refinery runs, domestic production, Canadian imports and the world price of crude oil. By 2025-2026, the volume backdrop improved because US crude production reached a 2025 record 13.6 million barrels per day, but the network remained mature: PHMSA reported crude oil hazardous-liquid mileage of 81,829 miles in 2025, down from 84,372 miles in 2022, and growth increasingly came from debottlenecking, reversals, terminal links and contracted expansions rather than large greenfield mileage additions.",
+    "key_stats": {
+      "market_size": "2025 estimated industry revenue of $16.8 billion, based on the 2022 IBISWorld baseline revenue of $17.833 billion and its 2022-2027 forecast contraction path.",
+      "growth": "2025 estimated revenue growth of about -2.0%, reflecting the 2022 IBISWorld forecast CAGR to 2027, despite record 2025 crude production.",
+      "profit_margin": "2022 baseline profit margin of 34.8%; 2027 baseline forecast profit margin of 35.2%.",
+      "network_mileage": "2025 PHMSA crude oil hazardous-liquid pipeline mileage of 81,829 miles, compared with 84,372 miles in 2022.",
+      "production_backdrop": "2025 US crude oil production averaged a record 13.6 million barrels per day, up from 13.2 million barrels per day in 2024.",
+      "exports": "2025 US crude oil exports averaged 4.0 million barrels per day, down 3% from 2024.",
+      "employment_indicator": "June 2026 BLS pipeline transportation employment was 56,400 workers for NAICS 486 overall, including crude oil, natural gas and other pipeline transportation.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue of $17.833 billion in 2022 dollars.",
+      "growth": "2022 revenue growth of 8.9%, with 2017-2022 revenue CAGR of 8.3%.",
+      "profit": "2022 profit of $6.206 billion.",
+      "profit_margin": "2022 profit margin of 34.8%.",
+      "industry_gross_product": "2022 industry gross product of $10.915 billion.",
+      "establishments": "2022 establishments of 641.",
+      "enterprises": "2022 enterprises of 74.",
+      "employment": "2022 employment of 11,415 workers.",
+      "wages": "2022 total wages of $1.719 billion.",
+      "product_mix": "2022 revenue mix: 60.5% lower 48 crude transport, 34.5% imported crude oil transport, 2.5% Alaskan crude transport and 2.5% other materials and miscellaneous services."
+    },
+    "how_it_makes_money": "Revenue comes mainly from pipeline tariffs, capacity reservations, committed take-or-pay contracts, gathering fees, storage and terminal fees, loss allowance factors and ancillary services tied to crude oil movements. Fees are typically volume-based or contract-based, with interstate oil pipeline rates constrained by FERC indexing and some intrastate or negotiated rates set through tariffs, contracts and local regulation.",
+    "cost_structure": "The industry has high fixed costs and high capital intensity: pipeline construction, rights-of-way, pump stations, integrity management, monitoring systems, insurance, environmental compliance, depreciation and interest expense dominate the economics. Once a line is built, incremental operating costs are comparatively low; the 2022 baseline noted moderate fuel and labor costs and a 34.8% profit margin. Key 2025-2026 cost pressures include higher financing costs versus the 2020-2021 period, inspection and integrity spending, spill-response obligations, steel and construction costs, cybersecurity and control-system upgrades, and FERC rate-index limits on pass-through pricing.",
+    "major_players": [
+      "Enbridge Inc.",
+      "Energy Transfer LP",
+      "Plains All American Pipeline, L.P.",
+      "Enterprise Products Partners L.P.",
+      "MPLX LP",
+      "Kinder Morgan, Inc.",
+      "TC Energy Corporation"
+    ],
+    "current_dynamics": "The 2025-2026 market is volume-supported but rate- and project-constrained. Record 2025 US crude production helped keep trunk lines, gathering systems and Gulf Coast export corridors busy, especially where Permian, Canadian heavy crude and refinery demand require pipeline movements. At the same time, PHMSA mileage data show crude oil pipeline miles declined in 2025 versus 2022, signaling that operators are prioritizing utilization, optimization and expansions of existing systems. FERC's April 2026 oil pipeline index reset to PPI-FG minus 0.55% for July 1, 2026 through June 30, 2031 moderates annual tariff escalation, while crude export softness in 2025 and lower oil price forecasts temper producer-led expansion.",
+    "whats_growing": "Permian-linked gathering and long-haul movements, Gulf Coast terminal connectivity, Canadian heavy crude egress into the US Midwest and Gulf Coast, drag-reducing agents, automation, leak detection, integrity management technology, and brownfield capacity additions are growing in importance. Enbridge reported 2025 Mainline volumes of 3.1 million barrels per day and sanctioned a 150,000 barrel-per-day Mainline Optimization Phase 1 expected in 2027, while Energy Transfer reported 2025 crude oil transportation volumes of 7.014 million barrels per day, up from 6.612 million barrels per day in 2024.",
+    "whats_shrinking": "Large greenfield crude pipeline development, marginal crude pipeline mileage, Bakken-linked volumes for some systems, and tariff upside are shrinking or under pressure. PHMSA reported crude oil pipeline mileage fell from 84,372 miles in 2022 to 81,829 miles in 2025, and EIA reported 2025 US crude exports fell 3% from 2024 to 4.0 million barrels per day. Lower crude price expectations and fewer active rigs reduce the case for speculative new capacity outside the strongest basins.",
+    "recent_developments": [
+      "2025-04: EIA reported that five US petroleum liquids pipeline projects were completed in 2024, none of which were new crude-oil trunk lines.",
+      "2025-06: Enbridge reported record 2025 first-quarter Mainline volumes of almost 3.2 million barrels per day and evaluated roughly 200,000 barrels per day of near-term Mainline and Express-Platte expansions.",
+      "2025-10: EIA forecast US crude oil production would average 13.5 million barrels per day in both 2025 and 2026 after July 2025 output exceeded 13.6 million barrels per day.",
+      "2026-02: Energy Transfer filed its 2025 Form 10-K, reporting crude oil transportation volumes of 7.014 million barrels per day in 2025 versus 6.612 million barrels per day in 2024.",
+      "2026-04: FERC finalized its oil pipeline index at PPI-FG minus 0.55% for July 1, 2026 through June 30, 2031.",
+      "2026-07: PHMSA reported 2025 crude oil hazardous-liquid pipeline mileage of 81,829 miles, down from 83,209 miles in 2024 and 84,372 miles in 2022."
+    ],
+    "outlook": "The 2026 outlook is stable to slightly negative for revenue but constructive for high-utilization systems. EIA's 2026 releases show US crude production near record levels, supporting transported volumes, but lower expected oil prices and fewer drilling incentives limit broad production growth. Operators with Permian, Canadian, Midwest and Gulf Coast connectivity should outperform because they can add low-cost capacity and capture contracted demand, while systems tied to declining basins or weaker export flows face lower utilization. Over the next five years, the strongest earnings model is likely to be disciplined brownfield expansion, high renewal rates, regulated tariff compliance and asset integrity spending rather than major new crude pipeline buildouts.",
+    "themes": [
+      "Mature infrastructure with high barriers to entry",
+      "Record US crude production supporting throughput",
+      "Brownfield debottlenecking over greenfield construction",
+      "FERC-indexed rate ceilings limiting tariff growth",
+      "Permian and Canadian crude driving corridor demand",
+      "Environmental, safety and integrity compliance",
+      "Export-linked Gulf Coast logistics",
+      "Consolidated midstream ownership"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file, Oil Pipeline Transportation in the US, last updated June 30, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/oil-pipeline-transportation-in-the-us.txt', 'year': 2022}",
+      "{'title': 'U.S. EIA, The United States produced more crude oil than any other country in 2025', 'url': 'https://www.eia.gov/todayinenergy/detail.php?id=67844', 'year': 2026}",
+      "{'title': 'U.S. EIA, Annual U.S. crude oil exports decrease for first time since 2021', 'url': 'https://www.eia.gov/todayinenergy/detail.php/detail.php?id=67324', 'year': 2026}",
+      "{'title': 'PHMSA, Annual Report Mileage for Hazardous Liquid or Carbon Dioxide Systems', 'url': 'https://www.phmsa.dot.gov/data-and-statistics/pipeline/annual-report-mileage-hazardous-liquid-or-carbon-dioxide-systems', 'year': 2026}",
+      "{'title': 'BLS, Pipeline Transportation: NAICS 486', 'url': 'https://www.bls.gov/IAG/TGS/iag486.htm', 'year': 2026}",
+      "{'title': 'FERC, Oil Pipeline Index', 'url': 'https://ferc.gov/general-information-1/oil-pipeline-index', 'year': 2026}",
+      "{'title': 'FERC, Five-Year Review of the Oil Pipeline Index final rule', 'url': 'https://www.ferc.gov/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.ferc.gov%2Fsites%2Fdefault%2Ffiles%2F2026-05%2F20260424-4000.PDF', 'year': 2026}",
+      "{'title': 'Energy Transfer LP 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1276187/000127618726000013/et-20251231.htm', 'year': 2026}",
+      "{'title': \"Enbridge, Record volumes, incremental growth for Enbridge's liquids super system\", 'url': 'https://www.enbridge.com/stories/2025/june/enbridge-liquids-pipelines-record-volumes-growth-expansion-plans', 'year': 2025}",
+      "{'title': 'Enbridge 2025 annual report filing detail', 'url': 'https://www.enbridge.com/investment-center/reports-and-sec-filings/sec-filings/sec-filing-details?docId=265265', 'year': 2026}",
+      "{'title': 'Plains All American Pipeline 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1070423/000107042326000014/paa-20251231.htm', 'year': 2026}"
+    ],
+    "one_sentence": "The US oil pipeline transportation industry is a mature, capital-intensive logistics network whose 2025 demand was supported by record US crude production of 13.6 million barrels per day, while lower oil prices, fewer new pipeline projects and tighter rate-index regulation limited broad revenue upside.",
+    "slug": "oil-pipeline-transportation-in-the-us"
+  },
+  {
+    "title": "Oil and Gas Drilling Equipment Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. makers of rigs, wellheads, rotary drilling systems, production trees, tubular handling gear and related oilfield machinery are benefiting from record hydrocarbon output, but new-equipment demand remains capped by disciplined upstream capex and rig efficiency gains.",
+    "overview": "This industry manufactures oil and gas field drilling machinery, production machinery, derricks, wellheads, Christmas trees, rotary systems, drilling rigs, pressure-control equipment and related parts, excluding offshore floating platforms and pumps classified elsewhere. Demand is cyclical and follows upstream capital spending more than production volumes alone: in 2026, U.S. crude production is forecast at 13.8 million barrels per day and LNG exports at 17.4 billion cubic feet per day, but rig counts remain far below the December 2022 peak because operators drill longer laterals, use better downhole data and prioritize cash returns. The result is a mature, export-exposed manufacturing niche with durable replacement demand, strong safety and reliability requirements, and uneven growth tied to oil, gas, offshore and shale investment cycles.",
+    "key_stats": {
+      "market_size": "2026 estimated U.S. industry revenue: about $11.0 billion in 2021 dollars, based on the 2022 IBIS baseline projection for 2026.",
+      "growth": "2021-2026 projected revenue CAGR: +0.7%; 2016-2021 historical revenue CAGR: -4.0%.",
+      "profitability": "2021 baseline profit: $596 million; 2021 baseline profit margin: 5.6%.",
+      "employment": "2021 baseline employment: 29,697 workers; 2026 baseline projection: 28,436 workers.",
+      "establishments": "2021 baseline establishments: 540; 2023 Census Business Patterns establishments for NAICS 333132: 622.",
+      "rig_count": "U.S. rotary rigs: 750 in December 2022, 517 in October 2025, 588 on July 17 2026, and 587 on July 24 2026.",
+      "oil_price": "EIA July 2026 STEO Brent crude forecast: $69 per barrel in 2025, $82 in 2026, $65 in 2027.",
+      "gas_price": "EIA July 2026 STEO Henry Hub forecast: $3.53 per MMBtu in 2025, $3.67 in 2026, $3.49 in 2027.",
+      "production": "EIA July 2026 STEO U.S. crude production forecast: 13.6 million b/d in 2025, 13.8 million b/d in 2026, 14.0 million b/d in 2027.",
+      "producer_prices": "BLS/FRED oil and gas field machinery PPI: 333.929 in May 2026, index December 1980=100.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 revenue: $10.637 billion in 2021 dollars, from the January 31 2022 IBIS baseline file.",
+      "growth": "2016-2021 revenue CAGR: -4.0%; 2021 revenue change: -2.1%; 2021-2026 projected revenue CAGR: +0.7%.",
+      "exports": "2021 exports: $1.539 billion, equal to about 14.5% of 2021 revenue.",
+      "imports": "2021 imports: $627 million.",
+      "domestic_demand": "2021 domestic demand: $9.725 billion.",
+      "wages": "2021 wages: $2.323 billion.",
+      "industry_gross_product": "2021 industry gross product: $3.234 billion.",
+      "product_mix": "2021 revenue mix: oil and gas field production machinery 51.1%, other drilling machinery 25.0%, rotary drilling machinery 20.0%, portable drilling rigs and parts 3.9%."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from original equipment sales, engineered systems, replacement parts, aftermarket service, rebuilds, rental-related equipment channels and long-cycle project packages for land rigs, offshore rigs, subsea systems and production facilities. Large customers buy on reliability, uptime, safety certification, installed-base compatibility and lead time, while commodity pressure pushes buyers to defer new equipment and rely on parts, repairs and upgrades.",
+    "cost_structure": {
+      "materials": "2025-2026 costs are dominated by steel, forgings, castings, machined components, electronics, hydraulics, elastomers and specialized pressure-control parts.",
+      "labor": "2021 baseline wages were $2.323 billion, about 21.8% of 2021 revenue, reflecting skilled machining, engineering and technical assembly labor.",
+      "profit": "2021 baseline profit was $596 million, a 5.6% margin; margins improve when factory utilization, aftermarket mix and pricing rise.",
+      "capital": "2025-2026 operations require CNC machining, foundry and fabrication capacity, testing, quality systems, inventory and engineering spend for harsh-environment and high-pressure products.",
+      "risk_costs": "Warranty, safety compliance, certification, supply-chain delays and project execution risk remain material in 2025-2026, especially for offshore and subsea equipment."
+    },
+    "major_players": [
+      "{'name': 'NOV Inc.', 'position': 'Major pure-play upstream equipment and technology supplier; 2025 operations included about 503 locations across six continents and drilling, well servicing, offshore production, downhole tools and spare parts.'}",
+      "{'name': 'SLB', 'position': 'Diversified oilfield technology leader; 2025 revenue was $35.708 billion, including $11.856 billion in Well Construction and $13.325 billion in Production Systems.'}",
+      "{'name': 'Baker Hughes', 'position': 'Diversified energy technology supplier; 2025 adjusted EBITDA was $4.83 billion and Oilfield Services & Equipment remained a core segment.'}",
+      "{'name': 'TechnipFMC', 'position': 'Subsea and surface production equipment specialist; 2025 segment revenue was $9.933 billion, including $8.666 billion Subsea and $1.267 billion Surface Technologies.'}",
+      "{'name': 'Halliburton', 'position': 'Large oilfield services and completion technology company with equipment exposure through drilling, completions and production systems.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is stronger than the 2020-2021 trough but not in a broad boom. U.S. crude production is at record levels, 2026 oil prices are elevated in EIA’s July 2026 outlook, and LNG export growth supports natural gas development. At the same time, rig counts remain below the 2022 high, operators are drilling more efficiently with fewer rigs, and public E&P companies continue to limit capital intensity. Equipment demand is therefore concentrated in replacement parts, higher-spec upgrades, offshore/subsea systems, automation, digital downhole tools and gas-linked infrastructure rather than a simple expansion of land rig fleets.",
+    "whats_growing": [
+      "2025-2026 LNG-linked natural gas equipment demand as EIA forecasts U.S. LNG exports rising from 15.1 Bcf/d in 2025 to 17.4 Bcf/d in 2026.",
+      "2025-2026 subsea and offshore production systems, supported by TechnipFMC 2025 Subsea revenue of $8.666 billion, up from $7.820 billion in 2024.",
+      "2025-2026 real-time downhole data, rig automation and wired drill pipe, with NOV reporting more than 750,000 feet drilled using Downhole Broadband Solutions in 2025, up 74% year over year.",
+      "2026 replacement, rebuild and aftermarket work as the installed base ages while rig counts stay below the December 2022 peak.",
+      "2026 high-spec pressure-control, wellhead and production equipment tied to longer laterals, higher pressures and safety requirements."
+    ],
+    "whats_shrinking": [
+      "2025-2026 broad land rig newbuild demand, because U.S. rigs fell from 750 in December 2022 to 517 in October 2025 before partially recovering in 2026.",
+      "2025-2026 low-spec commodity drilling equipment, as customers favor productivity, automation and lower total cost per foot drilled.",
+      "2025-2026 equipment demand tied to marginal oil plays when EIA forecasts Brent easing from $82 per barrel in 2026 to $65 in 2027.",
+      "2025-2026 labor-intensive legacy manufacturing footprints as larger suppliers rationalize plants and use aftermarket, digital and engineered systems to protect margins."
+    ],
+    "recent_developments": [
+      "2025-08-12: EIA forecast Brent crude at $67 per barrel in 2025 and $51 in 2026, warning that lower prices would pull back U.S. drilling and completions activity.",
+      "2025-11-17: EIA reported Lower 48 active rigs fell from 750 in December 2022 to 517 in October 2025 as producers improved drilling efficiency.",
+      "2026-01-02: Baker Hughes reported December 2025 average U.S. rig count of 546, down 43 rigs year over year, and worldwide rig count of 1,783, down 82 year over year.",
+      "2026-02-12: NOV reported 2025 Downhole Broadband Solutions drilled more than 750,000 feet, up 74% year over year, showing demand for real-time drilling data.",
+      "2026-07-07: EIA July 2026 STEO forecast U.S. crude output of 13.8 million b/d in 2026 and Brent crude at $82 per barrel in 2026 after Middle East-related volatility.",
+      "2026-07-17: Baker Hughes reported 588 U.S. rigs, up 44 from July 18 2025, while international rigs were 1,073 in June 2026, down 2 year over year."
+    ],
+    "outlook": "Revenue should grow modestly through 2026 rather than surge. The best conditions are in aftermarket parts, high-spec drilling systems, subsea and surface production equipment, gas and LNG-related projects, and digital/automation upgrades that help customers drill faster with fewer rigs. The main downside is that falling crude prices in 2027, continued capital discipline and rig productivity gains can reduce orders even while production volumes stay high. Manufacturers with large installed bases, export channels, engineered systems and service-heavy aftermarket revenue are better positioned than firms dependent on new land rig construction.",
+    "themes": [
+      "Rig efficiency over rig count",
+      "Aftermarket resilience",
+      "LNG and natural gas pull-through",
+      "Offshore and subsea recovery",
+      "Digital drilling and downhole data",
+      "Capital discipline by E&P customers",
+      "Steel and component cost exposure",
+      "Safety-critical high-spec equipment",
+      "Export dependence",
+      "Commodity-price volatility"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/oil-and-gas-drilling-equipment-manufacturing.txt, IBISWorld report last updated January 31 2022",
+      "https://www.eia.gov/outlooks/steo/?os=f",
+      "https://www.eia.gov/todayinenergy/detail.php?id=66645",
+      "https://rigcount.bakerhughes.com/rig-count-overview/",
+      "https://www.aogr.com/web-exclusives/us-rig-count/2026",
+      "https://fred.stlouisfed.org/series/PCU333132333132A1",
+      "https://data.census.gov/profile/333132_-_Oil_and_Gas_Field_Machinery_and_Equipment_Manufacturing?codeset=naics~333132",
+      "https://investors.nov.com/news-releases/news-release-details/nov-reports-fourth-quarter-and-full-year-2025-earnings",
+      "https://www.bakerhughes.com/company/digital-annual-report",
+      "https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/slb-20251231.htm",
+      "https://www.technipfmc.com/en/investors/financial-news-releases/press-release/technipfmc-announces-fourth-quarter-2025-results/"
+    ],
+    "one_sentence": "The industry sells mission-critical drilling and production equipment to oil and gas operators and oilfield service companies, so 2025-2026 revenue is supported by high U.S. production, LNG-linked gas demand and offshore/subsea spending, while lower rig intensity and volatile oil prices keep growth modest.",
+    "slug": "oil-and-gas-drilling-equipment-manufacturing"
+  },
+  {
+    "title": "Oil, Gas & Mining Consultants",
+    "sector": "Energy & Environment",
+    "one_liner": "Specialized advisers help oil, gas and mining operators evaluate resources, manage projects, navigate regulation and improve operating performance through commodity cycles.",
+    "overview": "This industry provides technical, economic, regulatory, operational and environmental consulting to oil, gas, mining and related energy clients. Demand follows exploration and production budgets, commodity prices, permitting requirements, reserve and feasibility work, methane and safety compliance, mine planning, resource modeling and digital operations programs. The market remains fragmented, with large engineering and environmental consultancies competing against specialist petroleum, mining, geoscience, ESG and independent experts.",
+    "key_stats": {
+      "market_size": "2026e: $6.8 billion U.S. revenue, based on the 2022 IBISWorld baseline forecast and 2025-2026 demand indicators.",
+      "growth": "2021-2026e CAGR: about 2.4%; 2026e annual growth: about 2.0%.",
+      "profit_margin": "2021: 10.6% EBIT margin in the baseline file; 2026e margin remains near 10% as labor costs and competition offset higher compliance demand.",
+      "employment": "2021: 43,244 workers in the baseline file; 2026e employment is higher as the 2021 baseline forecast called for 2021-2027 employment CAGR of 2.47%.",
+      "establishments": "2021: 27,780 establishments in the baseline file; 2026e market remains highly fragmented.",
+      "demand_indicators": "2025: U.S. total energy production reached 107 quads, up 3.4% from 2024; 2025: U.S. crude oil output reached 13.6 million b/d; 2025: U.S. dry natural gas production reached 39 Tcf; 2025: U.S. mineral production value rose 5.6% to $112 billion; 2026-08-07: U.S. rig count was 588, up 49 from 2025-08-08.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022e: about $6.2 billion, extrapolated from 2021 revenue of $6.026 billion and the baseline 2021-2027 projected CAGR of 2.25%.",
+      "growth": "2022e: about 2.25% projected growth from the 2021 baseline forecast.",
+      "revenue_2021": "2021: $6.026 billion.",
+      "profit_2021": "2021: $639 million profit.",
+      "profit_margin_2021": "2021: 10.6%.",
+      "wages_2021": "2021: $2.273 billion, about 37.7% of revenue.",
+      "forecast_2026": "2026f in the baseline executive summary: $6.8 billion revenue."
+    },
+    "how_it_makes_money": [
+      "2021: petroleum liquids consulting generated 32.2% of baseline industry service revenue through reservoir, economics, feasibility, operations and project advisory.",
+      "2021: natural gas consulting generated 31.5% of baseline revenue through shale, gathering, production, market and regulatory advisory.",
+      "2021: renewables consulting generated 14.4% of baseline revenue, mostly for energy-transition, efficiency and project-planning work adjacent to legacy energy clients.",
+      "2021: coal consulting generated 9.2%, nuclear consulting 8.2% and biofuels consulting 4.5% of baseline revenue.",
+      "2026: fees are typically earned through time-and-materials projects, fixed-fee studies, expert testimony, compliance programs, due diligence, resource modeling, mine plans, operational-improvement work and retained advisory relationships."
+    ],
+    "cost_structure": {
+      "labor": "2021: wages were $2.273 billion, or about 37.7% of revenue; 2026: specialist engineers, geologists, economists, environmental scientists and former operators remain the largest cost base.",
+      "profit": "2021: profit was $639 million, or 10.6% of revenue; 2026: margins are pressured by senior-talent costs and client procurement discipline.",
+      "purchases_and_subcontractors": "2026: subcontracted fieldwork, labs, data providers, software, mapping, remote-sensing and specialist experts are material variable costs.",
+      "technology": "2026: spending is rising on reservoir software, mine-planning tools, GIS, emissions measurement, cloud data platforms and AI-assisted modeling.",
+      "travel_and_fieldwork": "2026: site visits, safety training, insurance and travel remain important but more selectively managed than in 2019."
+    },
+    "major_players": [
+      "WSP Global",
+      "AECOM",
+      "Stantec",
+      "ERM",
+      "Wood Mackenzie",
+      "SLR Consulting",
+      "Golder Associates legacy teams within WSP",
+      "Independent petroleum, mining and geoscience consultants"
+    ],
+    "current_dynamics": [
+      "2025: record U.S. crude oil, dry natural gas, NGPL and total energy production supports demand for production optimization, reserve analysis and compliance work even when rig counts are below the 2022 peak.",
+      "2025: U.S. mineral production value increased 5.6% to $112 billion, lifting demand for valuation, feasibility, mine planning and critical-minerals advisory.",
+      "2025: global nonferrous exploration budgets slipped 0.6% to $12.40 billion, limiting greenfield exploration consulting while redirecting work toward near-mine and minesite programs.",
+      "2026: Baker Hughes reported 588 active U.S. rigs on 2026-08-07, up 49 from 2025-08-08, signaling improved near-term drilling-service demand.",
+      "2026: methane reporting, leak detection, bonding, reclamation, federal leasing and critical-minerals policy changes are increasing demand for regulatory and environmental advisory, even as some 2025 policy reversals reduced specific Waste Emissions Charge work."
+    ],
+    "whats_growing": [
+      "2026: methane measurement, leak detection, GHGRP Subpart W reporting and emissions-data assurance.",
+      "2026: production optimization, longer-lateral drilling analytics, completion design and operational efficiency work in shale basins.",
+      "2026: critical minerals, copper, gold and domestic supply-chain advisory tied to permitting, feasibility and policy support.",
+      "2025: minesite exploration, which reached 45% of global nonferrous exploration budgets.",
+      "2026: digital twins, GIS, remote sensing, AI-assisted geological modeling and integrated asset data platforms."
+    ],
+    "whats_shrinking": [
+      "2025: global nonferrous exploration budgets declined 0.6% to $12.40 billion, marking a third consecutive annual decline.",
+      "2025: grassroots exploration fell to 21% of global nonferrous exploration budgets, the lowest share in S&P Global's dataset.",
+      "2025: lithium and nickel exploration budgets declined sharply as battery-metal prices and risk appetite weakened.",
+      "2026: lower oil-price expectations are limiting oil-directed drilling and reducing discretionary early-stage advisory work.",
+      "2026: coal-related consulting remains structurally weaker than oil, gas, critical minerals and emissions-compliance work despite 2025 coal production increasing 4% from 2024."
+    ],
+    "recent_developments": [
+      "2025-11-17: EIA reported Lower 48 active oil and gas rigs fell from 750 in 2022-12 to 517 in 2025-10 while production hit records.",
+      "2026-02-06: USGS reported 2025 U.S. mineral production value rose 5.6% to $112 billion.",
+      "2026-03-10: S&P Global reported 2025 global nonferrous exploration budgets declined 0.6% to $12.40 billion.",
+      "2026-05-11: EIA reported 2025 U.S. total energy production reached a record 107 quads, up 3.4% from 2024.",
+      "2026-08-07: Baker Hughes reported 588 active U.S. rigs, up 49 from 2025-08-08."
+    ],
+    "outlook": "2026-2027 outlook is modestly positive. Record 2025 production, a 2026 rig-count rebound and higher 2025 mineral production values support consulting demand, while lower crude-price expectations, capital discipline and weaker early-stage exploration cap the upside. The best growth is likely in methane and environmental compliance, critical minerals, near-mine resource expansion, production-efficiency analytics and transaction due diligence. Fragmentation and senior-talent scarcity should keep price competition high and margins near the 2021 baseline level.",
+    "themes": [
+      "Record U.S. energy production",
+      "Capital discipline in upstream oil and gas",
+      "Critical minerals supply-chain security",
+      "Methane and environmental compliance",
+      "Near-mine exploration over greenfield discovery",
+      "Digital geoscience and operational analytics",
+      "Fragmented specialist consulting market",
+      "Commodity-price sensitivity"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/oil-gas-and-mining-consultants.txt, IBISWorld report last updated 2022-01-30",
+      "https://www.eia.gov/todayinenergy/detail.php?id=67684",
+      "https://www.eia.gov/todayinenergy/detail.php?id=66645",
+      "https://bakerhughesrigcount.gcs-web.com/",
+      "https://www.usgs.gov/news/national-news-release/value-us-mineral-production-rose-last-year-driven-precious-metals-prices",
+      "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/03/world-exploration-trends-2026-what-the-latest-data-says-about-budgets-risk-appetite-and-the-project-pipeline",
+      "https://www.epa.gov/inflation-reduction-act/methane-emissions-reduction-program-and-ghgrp-subpart-w-petroleum-and",
+      "https://www.epa.gov/newsreleases/epa-finalizes-rule-reduce-wasteful-methane-emissions-and-drive-innovation-oil-and-gas",
+      "https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/leasing/bonding"
+    ],
+    "one_sentence": "In 2026, the U.S. Oil, Gas & Mining Consultants industry is a roughly $6.8 billion niche professional-services market supported by record 2025 U.S. energy output, higher 2025 mineral production value and rising compliance/data needs, but capped by selective drilling budgets and weaker grassroots mineral exploration.",
+    "slug": "oil-gas-and-mining-consultants"
+  },
+  {
+    "title": "Oilseed Farming in the US",
+    "sector": "Agriculture",
+    "one_liner": "A small, volatile farm segment centered on canola and sunflowerseed, with 2025 revenue rebounding on larger sunflower output and continued biofuel-linked demand for canola oil.",
+    "overview": "This industry grows canola, sunflowerseed, flaxseed, safflower, mustard seed and rapeseed for crushing into edible oils, protein meal, spices, birdseed, cosmetics inputs and biofuel feedstocks. The industry is much smaller than soybean farming and is concentrated in northern and High Plains states where cool-season oilseed yields and oil content are strongest. Revenue is highly sensitive to acreage switching, weather, Canadian canola competition, crushing demand and vegetable-oil prices. USDA's 2025 Crop Values Summary shows combined 2025 value of production for the IBIS-defined crop set at $1.586 billion, up 17.2% from 2024 but still below the 2023 level of $1.629 billion.",
+    "key_stats": {
+      "market_size": "2025: $1.586 billion farm-gate value of production for canola, sunflower, flaxseed, mustard seed, rapeseed and safflower.",
+      "growth": "2025: +17.2% versus 2024's $1.353 billion combined value; 2023-2025 CAGR: -1.3%.",
+      "largest_crop": "2025: canola value of production was $941.5 million, equal to 59.4% of the defined crop set.",
+      "second_largest_crop": "2025: sunflower value of production was $516.6 million, equal to 32.6% of the defined crop set.",
+      "prices": "2025: USDA preliminary average prices were canola $20.50/cwt, sunflower $22.90/cwt, flaxseed $13.00/bushel, mustard seed $31.00/cwt, safflower $20.30/cwt and rapeseed $26.70/cwt.",
+      "biofuel_indicator": "May 2026: US biofuel producers consumed 293 million pounds of canola oil, compared with 301 million pounds in December 2025 and 403 million pounds in March 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: IBISWorld baseline revenue was $1.745 billion in 2022 dollars.",
+      "growth": "2022: IBISWorld estimated revenue grew 3.1% in 2022 and 6.3% annualized over 2017-2022.",
+      "profit": "2022: IBISWorld estimated profit at $115 million and profit margin at 6.6%.",
+      "establishments": "2022: IBISWorld estimated 7,524 establishments and 7,470 enterprises.",
+      "employment": "2022: IBISWorld estimated 7,857 employees.",
+      "exports_imports": "2022: IBISWorld estimated exports at $373 million and imports at $842 million."
+    },
+    "how_it_makes_money": "Farmers sell harvested oilseeds to grain handlers, elevators, crushers, wholesalers and food manufacturers. Canola and sunflower drive most revenue through oil and meal channels; flaxseed, safflower and mustard add smaller specialty-food, industrial and spice markets. Producers also receive crop insurance indemnities and farm-program payments when prices, yields or disasters trigger support, but core revenue is farm-gate crop sales priced by commodity markets and local basis.",
+    "cost_structure": "Major 2025-2026 cost items are seed, fertilizer and chemicals, fuel, machinery ownership and repairs, land rent, crop services, irrigation where applicable, interest and labor. Sector-wide USDA data indicate total US farm production expenses were forecast at $473.1 billion in 2025 and $477.7 billion in 2026; 2026 pesticide and fuel/oil expenses were expected to decline versus 2025, while cash labor rose 2.2% to $53.9 billion. The 2022 IBIS baseline profit margin of 6.6% implies thin margins after purchased inputs, depreciation, rent and labor.",
+    "major_players": [
+      "No single company has material national share; the 2022 IBIS baseline described the industry as low-concentration and fragmented among independent farms.",
+      "Canola-focused farms in North Dakota, Montana, Minnesota and Washington are the largest crop base within the IBIS-defined segment.",
+      "Sunflowerseed farms in North Dakota, South Dakota, Minnesota and Kansas form the second major producer group.",
+      "Downstream influence is greater than farm-level concentration, with elevators, oilseed crushers, food-oil processors and biofuel producers shaping local bids."
+    ],
+    "current_dynamics": "The 2025 market rebounded mainly because sunflower value nearly doubled to $516.6 million from 2024's $269.7 million, while canola slipped modestly to $941.5 million from 2024's $964.9 million. Prices were mixed in 2025: canola rose slightly from 2024, sunflower eased from 2024, and mustard and safflower prices fell sharply. Biofuel policy and renewable diesel capacity continue to support canola oil demand, but soybean oil, corn oil, used cooking oil, tallow and imported Canadian canola oil compete for the same fuel market. USDA's July 2026 outlook points to nearly 3.0 million acres of US canola planted in 2026, up 27% from 2025, and a record MY 2026/27 canola production forecast of 5.4 billion pounds.",
+    "whats_growing": "Canola acreage, domestic canola crush and canola oil demand for renewable diesel are growing fastest. USDA's July 2026 outlook projected record MY 2026/27 US canola production of 5.4 billion pounds and record canola crush of 5.3 billion pounds. Sunflower recovered in 2025 after a weak 2024 crop, with USDA/FAS showing 2025/26 sunflowerseed production up strongly from 2024/25. Flaxseed value also more than doubled in 2025 to $67.1 million from $30.1 million in 2024.",
+    "whats_shrinking": "Mustard seed and safflower are shrinking in value: mustard seed value fell to $22.1 million in 2025 from $46.0 million in 2024, and safflower fell to $29.1 million from $32.1 million. Smaller specialty oilseeds remain vulnerable to acreage switching into canola, soybeans, wheat or corn when expected returns are better. Import competition, especially Canadian canola oil and seed, limits pricing power for US growers even as domestic biofuel demand rises.",
+    "recent_developments": [
+      "2025-02-26: USDA's 2024 Crop Values Summary put 2024 combined value for the IBIS-defined oilseed crop set at $1.353 billion, down from $1.629 billion in 2023.",
+      "2025-09-03: USDA ERS forecast US crop cash receipts down 4.9% in 2025 while overall farm profits rose mainly on government payments and livestock receipts.",
+      "2026-02-26: USDA's 2025 Crop Values Summary reported 2025 canola value at $941.5 million and sunflower value at $516.6 million, lifting the defined oilseed crop set to $1.586 billion.",
+      "2026-06-30: USDA NASS reported nearly 3.0 million acres of canola planted for 2026, up 27% from 2025.",
+      "2026-07-15: USDA ERS forecast record MY 2026/27 US canola production of 5.4 billion pounds and record canola crush of 5.3 billion pounds.",
+      "2026-07-2026: EPA's updated RFS pathway table continued to list canola/rapeseed oil pathways for biodiesel, renewable diesel, renewable jet fuel and heating oil with biomass-based diesel and advanced fuel eligibility."
+    ],
+    "outlook": "The 2026-2027 outlook is constructive for canola but uneven for the broader oilseed-farming segment. Record 2026 canola acreage and crush projections should support volumes, while strong renewable diesel and food-oil demand should keep canola bids firmer than many minor oilseeds. However, high acreage can pressure prices if yields are normal, and the industry remains exposed to Canadian supply, weather in the northern Plains, input costs, and policy changes around RFS and 45Z clean-fuel credits. Specialty crops such as mustard and safflower are likely to stay volatile and may lose acreage to canola or other field crops unless premiums improve.",
+    "themes": [
+      "Biofuel-linked canola demand",
+      "Acreage switching",
+      "Canadian import competition",
+      "Weather and yield volatility",
+      "Fragmented farm structure",
+      "Food-oil and protein-meal demand",
+      "Thin margins and high input sensitivity",
+      "Renewable fuel policy exposure"
+    ],
+    "data_year": "2025 with 2026 outlook indicators",
+    "sources": [
+      "{'name': 'Baseline IBIS text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/oilseed-farming-in-the-us.txt'}",
+      "{'name': 'USDA NASS Crop Values 2025 Summary, February 2026', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795791/cpvl0226.txt'}",
+      "{'name': 'USDA NASS Crop Production Annual Summary release page, January 2026', 'url': 'https://esmis.nal.usda.gov/publication/crop-production-annual-summary'}",
+      "{'name': 'USDA ERS Oil Crops Yearbook, updated March 2026', 'url': 'https://www.ers.usda.gov/data-products/oil-crops-yearbook'}",
+      "{'name': 'USDA ERS Soybeans and Oil Crops Market Outlook, July 2026', 'url': 'https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/market-outlook'}",
+      "{'name': 'US EIA Feedstocks Consumed for Production of Biofuels, release data through May 2026', 'url': 'https://www.eia.gov/dnav/pet/pet_pnp_feedbiofuel_dcu_nus_m.htm'}",
+      "{'name': 'EPA Approved Pathways for Renewable Fuel, updated 2026', 'url': 'https://www.epa.gov/renewable-fuel-standard/approved-pathways-renewable-fuel'}",
+      "{'name': 'USDA ERS Farm Sector Income Forecast, updated May 2026', 'url': 'https://ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast'}"
+    ],
+    "one_sentence": "US oilseed farming, excluding soybeans, peanuts and cottonseed, generated an estimated $1.586 billion in 2025 farm-gate value as canola remained the largest crop and sunflower recovered from a weak 2024 harvest.",
+    "slug": "oilseed-farming-in-the-us"
+  },
+  {
+    "title": "Olive Oil Production",
+    "sector": "Food & Drink",
+    "one_liner": "A small, California-led US production base sells premium olive oil into a much larger import-dependent market.",
+    "overview": "Olive Oil Production is a niche US food-manufacturing industry centered on California olive groves, mills, storage and bottling assets. The domestic industry remains small relative to US consumption: USDA ERS reported in 2024 that US production supplied less than 2% of US olive oil consumption, while IOC provisional data put 2024/25 US imports at 437,309 tonnes, up 20.6% from 2023/24. Operators compete mainly on freshness, origin, extra-virgin quality, certifications, harvest dating and direct-to-consumer branding rather than commodity scale. The 2025 market benefited from a rebound in global supply after the 2022/23 and 2023/24 Mediterranean drought shock, but 2026 heat and drought risk in Europe kept price volatility central to procurement and retail pricing.",
+    "key_stats": {
+      "market_size": "2025 estimated US olive oil production revenue: $115 million",
+      "growth": "2025 estimated revenue growth: 3.0%",
+      "domestic_supply_share": "2024 US production supplied less than 2% of US olive oil consumption",
+      "us_imports": "2024/25 US olive oil imports: 437,309 tonnes, up 20.6% from 2023/24",
+      "california_acreage": "2024 California olive bearing acreage: about 43,000 acres, including about 31,000 oil-oriented acres",
+      "california_value": "2024 California olive production value: about $148 million",
+      "global_price": "2025 global olive oil benchmark price: $5,464.54 per metric ton, down from $8,860.34 in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US olive oil production revenue: $84 million in 2021 dollars",
+      "growth": "2022 estimated revenue growth: 2.4%",
+      "imports": "2022 baseline demand remained import-led, with the 2021 IBISWorld file estimating imports at $1.54 billion and domestic production at $82.3 million in 2021",
+      "profit_margin": "2021 baseline profit margin: 3.4% of revenue",
+      "establishments": "2021 baseline establishments: 150"
+    },
+    "how_it_makes_money": "Producers earn revenue by crushing olives and selling bulk or packaged olive oil to grocery wholesalers, supermarkets, specialty retailers, foodservice distributors, private-label customers and direct-to-consumer channels. Premium revenue comes from extra-virgin oils, 100% California-grown claims, organic or regenerative certification, harvest-date labeling, single-varietal oils, estate brands and tasting-room or e-commerce sales.",
+    "cost_structure": {
+      "purchases": "2025 largest cost category: olives, packaging, bottles, caps, labels, cartons, filtration inputs and outsourced logistics",
+      "labor": "2025 important cost category: orchard labor, mill operators, quality-control staff, bottling workers, sales teams and compliance staff",
+      "utilities_and_processing": "2025 meaningful cost category: milling power, water, wastewater handling, storage tanks, nitrogen blanketing, bottling-line maintenance and cold-chain or warehouse costs",
+      "marketing_and_distribution": "2025 meaningful cost category: retail slotting, broker fees, freight, e-commerce fulfillment, sampling and brand promotion",
+      "profit": "2025 margins remained modest for commodity and wholesale channels but stronger for premium estate, organic and direct-to-consumer oils"
+    },
+    "major_players": [
+      "Cobram Estate Olives",
+      "California Olive Ranch",
+      "Pompeian",
+      "Corto Olive Co.",
+      "Brightland",
+      "McEvoy Ranch",
+      "Grumpy Goats Farm",
+      "Texas Olive Ranch"
+    ],
+    "current_dynamics": "The 2025-2026 industry is shaped by the gap between a premium domestic production base and a US market overwhelmingly supplied by imports. IOC reported 2024/25 US imports of 437,309 tonnes, while USDA ERS reported in 2024 that US consumption exceeded 400,000 tonnes in the 2020s and domestic output covered less than 2% of that demand. Global production rebounded in 2024/25 to 3.572 million tonnes after drought-reduced 2022/23 and 2023/24 crops, pushing the 2025 global benchmark price down to $5,464.54 per metric ton from the 2024 record of $8,860.34. At the same time, the 2026 Cobram Estate acquisition of California Olive Ranch increased concentration in California and may improve scale, retail access and agronomic investment while making smaller producers lean harder into ultra-premium differentiation.",
+    "whats_growing": [
+      "2025 extra-virgin olive oil demand tied to health, flavor and Mediterranean-diet positioning",
+      "2025 California-origin, harvest-dated and certified premium oils",
+      "2025-2026 super-high-density and mechanically harvested California orchards",
+      "2025 direct-to-consumer, specialty retail and premium grocery channels",
+      "2026 consolidation-backed scale in milling, storage, bottling and retail distribution"
+    ],
+    "whats_shrinking": [
+      "2025 reliance on undifferentiated domestic commodity volume",
+      "2025 table-olive-oriented acreage share in California versus oil-oriented acreage",
+      "2025 consumer tolerance for sharp price increases after the 2023-2024 price spike",
+      "2026 bargaining room for small producers facing a larger combined Cobram-California Olive Ranch footprint"
+    ],
+    "recent_developments": [
+      "2024-12: USDA ERS reported US olive oil consumption above 400,000 tonnes in the 2020s and domestic production below 2% of consumption.",
+      "2025-03: FRED/IMF annual benchmark olive oil price averaged $5,464.54 per metric ton for 2025, down from $8,860.34 in 2024.",
+      "2025-12: IOC estimated 2024/25 global olive oil production at 3.572 million tonnes, up 38% from 2023/24, and forecast 2025/26 output at 3.440 million tonnes.",
+      "2026-03: IOC reported 2024/25 US olive oil imports of 437,309 tonnes, up 20.6% from 2023/24, with 2025/26 first-quarter US purchases down 1.6%.",
+      "2026-03: Cobram Estate completed its acquisition of California Olive Ranch for about $174 million, combining the two largest California olive oil producers.",
+      "2026-08: European heat, drought and wildfire damage raised renewed concerns about 2026 olive yields and global olive oil pricing."
+    ],
+    "outlook": "The 2026 outlook is positive but volatile. Domestic producers should benefit from persistent US interest in premium extra-virgin oil, quality verification, California provenance and healthier cooking oils, while scale operators gain efficiencies from larger orchards, mechanized harvesting and integrated bottling. Growth is capped by the fact that imported oil will continue to supply nearly all US consumption in 2026. Margin risk remains high because olive yields, water availability, European crop outcomes, glass and freight costs, and retail price elasticity can move faster than domestic producers can adjust output. A reasonable 2026 estimate is US olive oil production revenue of about $120 million, with growth near 4.0% if premium pricing holds and global supply does not trigger another severe price shock.",
+    "themes": [
+      "Premiumization",
+      "Import dependence",
+      "California concentration",
+      "Extra-virgin quality standards",
+      "Mediterranean diet demand",
+      "Crop and climate volatility",
+      "Mechanical harvesting",
+      "Brand consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/olive-oil-production.txt, IBISWorld Olive Oil Production, last updated 2021-09-29",
+      "USDA ERS, Rising popularity of olive oil in the United States has boosted consumption over past 30 years, 2024-12-12, https://www.ers.usda.gov/data-products/charts-of-note/110569",
+      "International Olive Council, Olive sector statistics - February/March 2026, 2026-03-09, https://www.internationaloliveoil.org/olive-sector-statistics-february-march-2026/",
+      "International Olive Council, Olive sector statistics - December 2025 and forecasts, 2026-01-12, https://www.internationaloliveoil.org/olive-sector-statistics-december-2025-and-forecasts/",
+      "FRED, Global price of Olive Oil (POLVOILUSDA), updated 2026-03-24, https://fred.stlouisfed.org/series/POLVOILUSDA",
+      "UC Davis CalAg, March 2026 California Olive Market Report, 2026-03-16, https://calag.ucdavis.edu/reports/2026-03-16-olive-market-report.html",
+      "Sacramento Bee, California’s two olive oil giants to combine, updated 2026-03-16, https://www.sacbee.com/food-drink/article314894483.html",
+      "DLA Piper, Cobram Estate Olives USD174 million acquisition of California Olive Ranch, 2026-03-27, https://www.dlapiper.com/en/news/2026/03/dla-piper-advises-cobram-estate-olives-on-usd174-million-acquisition-of-california-olive-ranch",
+      "The Guardian, Price of olive oil expected to rise again as European crops feel the heat, 2026-08-04, https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires"
+    ],
+    "one_sentence": "US olive oil producers crush olives into extra-virgin, virgin, refined and blended olive oils, with 2025 revenue supported by premium retail demand but constrained by imported supply, crop volatility and consolidation among California producers.",
+    "slug": "olive-oil-production"
+  }
+]

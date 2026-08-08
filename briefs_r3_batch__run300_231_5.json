@@ -1,0 +1,401 @@
+[
+  {
+    "title": "Internet Radio Broadcasting",
+    "sector": "Media & Entertainment",
+    "one_liner": "Internet radio is growing as radio listening shifts onto phones, smart speakers and connected cars, but ad dollars and royalties keep margins under pressure.",
+    "overview": "This industry covers internet-delivered radio-style audio: online simulcasts of AM/FM stations, internet-only stations, and recommendation-based noninteractive services such as Pandora radio. It excludes fully on-demand music services where users choose exact tracks, but those platforms remain the main competitive benchmark for listener time and ad budgets. The industry has moved from a high-growth conversion story to a more mature digital audio segment: Edison Research reported that 79% of Americans age 12+ listened to online audio monthly in 2025, while streamed AM/FM represented 12% of AM/FM listening time in Q1 2025. Revenue growth is now driven less by first-time adoption and more by ad-tech yield, programmatic audio, connected-car access, smart-speaker listening, creator partnerships and bundling radio inventory with podcasts and other digital products.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue of $6.0 billion, derived from the 2022 IBISWorld baseline of $4.958 billion and its 2022-2028 projected CAGR of 6.43%.",
+      "growth": "2025 estimated revenue growth of about 6.4%; 2026 implied revenue is about $6.36 billion if the 2022-2028 IBISWorld CAGR holds.",
+      "digital_radio_ad_revenue": "2025 US radio digital advertising revenue was $2.3 billion, up 7.8% year over year, and RAB/Borrell forecast $2.5 billion in 2026, up 9.5%.",
+      "online_audio_reach": "2025 monthly online audio reach was 79% of Americans age 12+, or about 228 million people; weekly reach was 73%.",
+      "streamed_amfm_share": "Q1 2025 streamed AM/FM accounted for 12% of total AM/FM listening time, versus 88% over the air.",
+      "pandora_scale": "2025 Pandora had 41.1 million monthly active users and 5.6 million subscribers at year-end.",
+      "pandora_revenue": "2025 SiriusXM Pandora and Off-platform revenue was $2.141 billion, including $1.615 billion of advertising revenue and $526 million of subscriber revenue.",
+      "iheart_digital_scale": "2025 iHeartMedia Digital Audio Group revenue was $1.329 billion, up 14.2% year over year.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue of $4.958 billion in 2022 dollars.",
+      "growth": "2022 IBISWorld estimated revenue growth of 4.5%; 2017-2022 CAGR was 14.9%.",
+      "profit": "2022 IBISWorld profit of $1.344 billion and profit margin of 27.1%.",
+      "establishments": "2022 IBISWorld establishments of 1,138.",
+      "employment": "2022 IBISWorld employment of 19,425 workers.",
+      "outlook": "2022 IBISWorld projected 2022-2028 revenue CAGR of 6.43% to $6.8 billion."
+    },
+    "how_it_makes_money": {
+      "advertising": "2025 core revenue came from audio spots, display/video companion ads, sponsorships, programmatic campaigns and local digital packages sold around streamed radio and noninteractive services.",
+      "subscriptions": "2025 subscription revenue came from paid tiers such as Pandora Plus and other ad-reduced radio-style products; Pandora and Off-platform subscriber revenue was $526 million in 2025.",
+      "platform_and_adtech": "2025 operators also monetized through ad-serving technology, off-platform sales representation, podcast bundles and resale of digital marketing services tied to radio sales teams.",
+      "licensing_and_events": "2025 broadcasters used digital radio streams to extend sponsorships, live events, branded content and syndicated programming beyond terrestrial signals."
+    },
+    "cost_structure": {
+      "royalties_and_revenue_share": "2025 music royalties and revenue share were the largest structural cost for noninteractive streamers; SiriusXM reported Pandora and Off-platform revenue share and royalties of $1.308 billion, equal to about 61% of that segment's $2.141 billion revenue.",
+      "programming_and_content": "2025 costs included hosts, producers, music programming, news, sports, podcasts and syndicated content; SiriusXM reported $61 million of Pandora and Off-platform programming and content cost in 2025.",
+      "sales_and_marketing": "2025 costs included ad-sales teams, agency relationships, audience acquisition, promotions and bundled campaigns; iHeartMedia's Digital Audio Group operating expenses were $872.7 million in 2025.",
+      "technology_and_transmission": "2025 costs included streaming infrastructure, bandwidth, ad insertion, apps, data systems and connected-device integrations; SiriusXM reported Pandora and Off-platform transmission costs of $28 million in 2025.",
+      "general_and_administrative": "2025 operators carried corporate overhead, measurement, compliance, rights administration and restructuring costs as legacy broadcasters shifted more revenue online."
+    },
+    "major_players": [
+      "iHeartMedia: largest US radio group and iHeartRadio operator; 2025 Digital Audio Group revenue was $1.329 billion, up 14.2%.",
+      "SiriusXM/Pandora: largest pure internet-radio style platform in the segment; 2025 Pandora and Off-platform revenue was $2.141 billion with 41.1 million Pandora MAUs at year-end.",
+      "Audacy: major US radio broadcaster with a large station-streaming footprint and digital audio sales operation.",
+      "Cumulus Media/Westwood One: national radio network and station owner with streaming, podcast and syndicated audio distribution.",
+      "TuneIn/Stingray: internet radio aggregator; TuneIn was acquired by Stingray in 2025 for up to $175 million.",
+      "NPR and public-radio station streams: large nonprofit internet radio presence, especially in news, talk and local public media."
+    ],
+    "current_dynamics": "The market is being pulled in two directions in 2025-2026. Audience behavior supports continued digital migration: online audio reached 228 million monthly US listeners in 2025, and Edison reported in 2026 that 94% of monthly online audio listeners also listened weekly. Advertisers are also moving into digital audio because it can be bought programmatically and measured more easily than traditional spot radio. At the same time, internet radio is not capturing all digital audio growth: podcasts, YouTube, Spotify, Apple Music and creator video are taking listener time and ad budgets. The strongest operators are using internet radio as one part of a broader audio network, bundling streams with podcasts, social creators, display units, live events and local digital services.",
+    "whats_growing": [
+      "2025-2026 programmatic and targeted digital audio advertising, including iHeartMedia's 2026 guidance for about $200 million of total programmatic revenue.",
+      "2025 local radio digital ad revenue, which reached $2.3 billion and represented 24.4% of total radio industry advertising revenue.",
+      "2025 online audio reach, with 79% monthly and 73% weekly usage among Americans age 12+.",
+      "2025-2026 creator-led radio formats and podcast-radio bundles, including iHeartMedia and TikTok's TikTok Radio and creator podcast network.",
+      "2025-2026 connected-car, smart-speaker and mobile app listening, which improve access to AM/FM streams outside traditional receivers."
+    ],
+    "whats_shrinking": [
+      "2025 Pandora monthly active users, down 5% year over year to 41.1 million at December 31, 2025.",
+      "2025 over-the-air radio ad revenue, with BIA estimating local OTA radio down 6.0% in 2025 while digital radio was roughly flat to up modestly in local markets.",
+      "2025 standalone ad-supported music streaming demand at Pandora, which SiriusXM said partly offset growth from podcasts, programmatic and technology fees.",
+      "2025-2026 traditional receiver dependence, especially at home and work where streaming accounts for a larger share of AM/FM listening than in-car listening.",
+      "2025-2026 small independent webcasters' margin room, as statutory per-performance royalties and reporting requirements remain material fixed and variable costs."
+    ],
+    "recent_developments": [
+      "2025-03-20: Edison Research reported 79% monthly online audio reach among Americans age 12+, equal to about 228 million people, and 73% weekly reach.",
+      "2025-11-10: iHeartMedia and TikTok announced a multiplatform partnership including TikTok Radio, up to 25 creator podcasts and live-event integrations.",
+      "2025-11-12: Stingray agreed to acquire TuneIn for up to $175 million, consolidating a major internet radio aggregator.",
+      "2026-02-09: RAB/Borrell reported US radio digital revenue of $2.3 billion in 2025 and forecast $2.5 billion in 2026.",
+      "2026-03-02: iHeartMedia reported 2025 Digital Audio Group revenue of $1.329 billion, up 14.2% from 2024.",
+      "2026-04-16: SoundExchange and NAB announced 2026-2030 commercial broadcaster webcasting rates, raising the nonsubscription rate from $0.0025 in 2025 to $0.0028 in 2026."
+    ],
+    "outlook": "The industry should keep growing through 2026, but at a mid-single-digit pace rather than the double-digit expansion of the late 2010s and pandemic period. The 2022 IBISWorld trajectory implies 2026 revenue of about $6.36 billion and 2028 revenue of about $6.8 billion. Upside comes from higher digital ad yield, programmatic buying, connected-car interfaces, smart-speaker habits and local advertisers shifting budget from linear radio into station-owned digital inventory. Downside comes from listener fragmentation, weak standalone ad-supported music demand, rising statutory royalties, and the fact that much of the broader digital audio growth is accruing to podcasts, video platforms and on-demand music services rather than radio-style streams.",
+    "themes": [
+      "The Channel Shift",
+      "The Experience Economy",
+      "The Margin Vise",
+      "The AI Rewiring",
+      "The Great Consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld file: Internet Radio Broadcasting, last updated Feb. 27, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/internet-radio-broadcasting.txt'}",
+      "{'title': 'Edison Research, The Infinite Dial 2025', 'url': 'https://www.edisonresearch.com/the-infinite-dial-2025/'}",
+      "{'title': 'Edison Research, How Do Americans Spend Their Day with Audio?, July 23, 2025', 'url': 'https://www.edisonresearch.com/how-do-americans-spend-their-day-with-audio/'}",
+      "{'title': 'Radio Online summary of Edison Share of Ear Q1 2025 streamed AM/FM data', 'url': 'https://news.radio-online.com/articles/n46984/Report-AM-FM-Radio-Still-Dominates-US-Audio-Listening'}",
+      "{'title': \"RAB, Radio's Digital Revenue Hit $2.3 Billion in 2025, Feb. 9, 2026\", 'url': 'https://www.rab.com/public/pr/pr_detail.cfm?id=1015'}",
+      "{'title': 'iHeartMedia 2025 Form 10-K and FY 2025 results', 'url': 'https://investor.iheartmedia.com/news/news-details/2026/iHeartmedia-Inc--Reports-Results-for-2025-Fourth-Quarter-and-Full-Year/default.aspx'}",
+      "{'title': 'SiriusXM 2025 Form 10-K', 'url': 'https://investor.siriusxm.com/sec-filings/all-sec-filings/content/0000908937-26-000006/siri-20251231.htm'}",
+      "{'title': 'SoundExchange and NAB 2026-2030 commercial broadcaster webcasting rate agreement, Apr. 16, 2025', 'url': 'https://www.soundexchange.com/news/soundexchange-nab-agree-on-commercial-broadcaster-non-subscription-royalty-rates-ahead-of-copyright-royalty-board-hearings/'}",
+      "{'title': 'IAB/PwC Internet Advertising Revenue Report: Full Year 2025, Apr. 16, 2026', 'url': 'https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/'}",
+      "{'title': 'TechCrunch, Radio streamer TuneIn acquired for $175M, Nov. 12, 2025', 'url': 'https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/'}"
+    ],
+    "one_sentence": "The US Internet Radio Broadcasting industry generated an estimated $6.0 billion in 2025 revenue, up about 6.4% from 2024, as online AM/FM streams, Pandora-style noninteractive services and digital radio ad products benefited from habitual online audio use while competing with podcasts, YouTube and on-demand music streaming.",
+    "slug": "internet-radio-broadcasting"
+  },
+  {
+    "title": "Intravenous (IV) Solution Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US IV solution manufacturers make sterile saline, dextrose, lactated Ringer's, parenteral nutrition and related fluids for hospitals, clinics, dialysis, home infusion and distributors.",
+    "overview": "Intravenous (IV) solution manufacturing covers sterile fluids infused directly into veins for hydration, electrolyte replacement, drug delivery, surgery, dialysis support and parenteral nutrition. Baseline IBISWorld data described a small domestic manufacturing industry with high concentration, heavy FDA regulation and chronic saline shortage exposure; current 2025-2026 market data points to a much larger broader US IV solutions market as parenteral nutrition, hospital infusion and home infusion demand are included. Demand is relatively recession-resistant because hospitals and acute-care settings need IV fluids continuously, but supply can be disrupted by sterile manufacturing failures, hurricanes, resin and packaging constraints, quality remediation, import reliance and limited redundant domestic capacity.",
+    "key_stats": {
+      "market_size": "$5.2 billion in 2026 US intravenous solutions market revenue forecast, up from $4.9 billion in 2025",
+      "growth": "9.4% CAGR forecast for 2026-2033; implied 2025-2026 growth about 6.1%",
+      "hospital_end_use_share": "50.8% of US IV solutions market revenue in 2025",
+      "tpn_share": "67.3% of US IV solutions market revenue in 2025 was total parenteral nutrition",
+      "industry_concentration": "86% share held by the three largest US IV solution firms in the IBISWorld-derived concentration dataset",
+      "hospital_base": "6,100 US hospitals and 907,216 staffed beds reported in AHA 2026 statistics based on FY 2024 survey data",
+      "health_spending_driver": "US hospital expenditures were $1.6347 trillion in 2024 and CMS projected hospital spending growth at 5.2% average annual growth for 2025-2034",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.6 billion in 2022 estimated domestic IV solution manufacturing revenue, interpolated from the baseline IBISWorld 2019 revenue of $1.5 billion and its 2019-2024 forecast CAGR of 2.7% in 2020 dollars",
+      "growth": "2.7% annualized forecast growth for 2019-2024 in the baseline file",
+      "domestic_demand_context": "Baseline file reported $2.089 billion of domestic demand in 2020 dollars for 2020",
+      "major_players_context": "Baseline file identified Baxter, ICU Medical and B. Braun as the three largest manufacturers with more than 80% of revenue"
+    },
+    "how_it_makes_money": "Manufacturers sell FDA-regulated sterile IV fluids and nutrition solutions in bags, bottles and other containers to hospitals, GPO-contracted health systems, wholesalers, ambulatory surgery centers, dialysis providers, home infusion providers and specialty pharmacies. Revenue comes from large-volume commodity fluids such as 0.9% saline and dextrose, higher-value lactated Ringer's and specialty electrolyte solutions, parenteral nutrition formulations, irrigation fluids and related injectable-fluid SKUs; scale, contract coverage and reliability of supply determine pricing power more than product differentiation in basic crystalloids.",
+    "cost_structure": "Major costs are purified water and active ingredients, plastic resin and films for bags and bottles, sterile containers and closures, cleanroom labor, quality assurance, validation, FDA compliance, depreciation on aseptic filling and water-for-injection systems, energy and utilities, sterilization, warehousing and freight. The baseline file described modest EBIT margins of about 8.7% in 2019 and 8.4% forecast for 2024, pressured by commodity-like pricing, GPO purchasing power and plastic resin costs, while vertically integrated scale helps Baxter, ICU Medical and B. Braun spread fixed sterile-manufacturing costs.",
+    "major_players": [
+      "Baxter International",
+      "ICU Medical",
+      "B. Braun Medical",
+      "Fresenius Kabi",
+      "Pfizer/Hospira",
+      "Otsuka Pharmaceutical",
+      "JW Life Science",
+      "CSL Vifor",
+      "Amphastar Pharmaceuticals"
+    ],
+    "current_dynamics": "The 2025-2026 market is in normalization after the 2024 Hurricane Helene disruption at Baxter's North Cove, North Carolina facility, which exposed the risk of relying on a small number of sterile fluid plants. Baxter restored production and inventory through 2025, while FDA actions, temporary imports, expiry extensions and capacity expansion helped resolve the nationwide 0.9% saline shortage by August 2025. Hospitals have not fully reverted to old consumption patterns because shortage-era protocols encouraged fluid stewardship, smaller bags, IV-to-oral substitution and tighter perioperative fluid management. At the same time, the long-run demand base remains favorable: hospitals are still the largest end market, CMS projects health and hospital spending growth through 2034, and parenteral nutrition demand is rising with chronic disease, cancer care, ICU use, neonatal care and home infusion.",
+    "whats_growing": "Parenteral nutrition, total parenteral nutrition, peripheral parenteral nutrition, amino acid solutions, vitamin and mineral solutions, home infusion, resilient domestic capacity, safety-stock programs, multi-site sourcing, sterile manufacturing automation, inventory visibility and hospital demand tied to aging, surgery, cancer care, renal care and critical care are growing.",
+    "whats_shrinking": "Routine low-acuity IV hydration, wasteful keep-vein-open fluid use, unnecessary large-volume bag use, single-site sourcing tolerance, just-in-time inventories for critical fluids and buyer acceptance of opaque supply-chain risk are shrinking as health systems keep conservation and resilience practices introduced during the 2024-2025 shortage.",
+    "recent_developments": [
+      "2024-09-29: Baxter said flooding from Hurricane Helene closed its North Cove, North Carolina IV solutions facility.",
+      "2025-01-14: ACS reported North Cove had restarted at least 8 of 10 manufacturing lines, equal to about 85% of pre-hurricane capacity.",
+      "2025-05: Baxter reported restored North Cove IV solutions inventory and removed allocations for all IV solution product codes made at the site.",
+      "2025-08-08: FDA announced the nationwide shortage of 0.9% sodium chloride injection products had officially ended.",
+      "2026: Grand View Research forecast US intravenous solutions revenue of $5.2 billion for 2026 and 9.4% CAGR for 2026-2033."
+    ],
+    "outlook": "The outlook is positive but supply-risk sensitive. Revenue should expand in 2026 and beyond as hospitals, home infusion providers and nutrition therapy users consume more IV solutions, with the broader US IV solutions market forecast at $5.2 billion in 2026 and 9.4% CAGR through 2033. Basic saline remains a lower-margin, scale-driven product, so upside is stronger in parenteral nutrition and specialized formulations. The main downside risks are plant outages, FDA quality issues, resin and packaging constraints, GPO price pressure, and lasting demand reduction from hospital fluid stewardship after the 2024-2025 shortage.",
+    "themes": [
+      "Sterile manufacturing resilience",
+      "High supplier concentration",
+      "Hospital fluid stewardship",
+      "Domestic capacity redundancy",
+      "Parenteral nutrition growth",
+      "FDA shortage management",
+      "GPO pricing pressure",
+      "Home infusion expansion",
+      "Plastic resin and packaging exposure",
+      "Climate and disaster risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld text file: Intravenous (IV) Solution Manufacturing', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/intravenous-iv-solution-manufacturing.txt', 'date': '2021-04-29'}",
+      "{'title': 'Grand View Research: U.S. Intravenous Solutions Market Size Report', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-intravenous-solutions-market-report', 'date': '2026'}",
+      "{'title': 'FDA: Announcing Resolution of the IV Saline Solutions Shortage', 'url': 'https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-marty-makary-md-mph-announcing-resolution-iv-saline-solutions-shortage', 'date': '2025-08-08'}",
+      "{'title': 'Baxter: Second-Quarter 2025 Results', 'url': 'https://investor.baxter.com/investors/events-and-news/news/press-release-details/2025/Baxter-Reports-Second-Quarter-2025-Results/default.aspx', 'date': '2025'}",
+      "{'title': 'American College of Surgeons: IV Fluid Production in US Nears Pre-Hurricane Levels', 'url': 'https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/january-14-2025-issue/iv-fluid-production-in-us-nears-pre-hurricane-levels/', 'date': '2025-01-14'}",
+      "{'title': 'AHA: Fast Facts on U.S. Hospitals, 2026', 'url': 'https://www.aha.org/statistics/fast-facts-us-hospitals', 'date': '2026-02'}",
+      "{'title': 'CMS: National Health Expenditure Fact Sheet', 'url': 'https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet', 'date': '2026-06-24'}",
+      "{'title': 'Open Markets Institute: IV Solution Concentration Dataset', 'url': 'https://concentrationcrisis.openmarketsinstitute.org/industry/iv-solution/', 'date': '2026'}"
+    ],
+    "one_sentence": "The industry is essential, highly concentrated and capacity-constrained, with 2025-2026 growth shaped by post-Hurricane Helene supply rebuilding, hospital fluid stewardship, aging-driven utilization and resilience investments in sterile manufacturing.",
+    "slug": "intravenous-iv-solution-manufacturing"
+  },
+  {
+    "title": "Iron Ore Mining in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "A small, highly concentrated mining industry supplies taconite pellets and higher-grade iron units to North American steelmakers.",
+    "overview": "Operators mine, beneficiate and pelletize iron-bearing ore, mainly taconite from Minnesota and Michigan, for use in steelmaking. The industry remains mature, capital intensive and highly concentrated: Cleveland-Cliffs and U.S. Steel, now part of Nippon Steel, control most domestic pellet capacity, while Mesabi Metallics is preparing a new DR-grade pellet facility. Public data indicate the 2025 market was smaller than 2024 because US usable iron ore production fell to an estimated 38.0 million metric tons from 45.1 million metric tons in 2024 and benchmark iron ore prices averaged lower than in 2024. Demand is still tied closely to blast-furnace steel production, but the growth story is shifting toward higher-grade pellets for direct reduced iron and electric-arc-furnace supply chains.",
+    "key_stats": {
+      "market_size": "Estimated $3.9 billion in 2025 domestic iron ore production value, calculated from 38.0 million metric tons of US usable ore and a 2025 IODEX 62% Fe average of $102 per metric ton.",
+      "growth": "Estimated -29.5% in 2025 versus the USGS-reported $5.5 billion 2024 production value, reflecting lower US usable-ore output and lower benchmark prices.",
+      "production": "US usable iron ore production was estimated at 38.0 million metric tons in 2025, down from 45.1 million metric tons in 2024.",
+      "downstream_demand": "US crude steel production was 82.0 million metric tons in 2025, up 3.1% from 2024; AISI reported 2026 year-to-date raw steel output through July 25 was up 5.8% year over year.",
+      "global_context": "World usable iron ore mine production was about 2.6 billion metric tons in 2025, with the US accounting for roughly 1.5%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$6.932 billion in 2022 IBISWorld revenue, stated in 2022 dollars.",
+      "growth": "2022 revenue decreased 12.9%; 2017-2022 revenue CAGR was 10.1%.",
+      "profit": "2022 IBISWorld profit was $1.414 billion, equal to a 20.4% margin.",
+      "production": "USGS later reported 2022 US usable iron ore production of 40.1 million metric tons and mine average unit value of $156.42 per metric ton.",
+      "employment": "2022 IBISWorld employment was 4,556 workers; USGS mine, concentrating and pelletizing employment was 4,790 workers."
+    },
+    "how_it_makes_money": "Revenue comes mainly from mining and processing iron ore into pellets sold or transferred internally to steel mills. In 2022, IBISWorld estimated iron ore pellets represented 91.6% of industry revenue, with concentrates, sinter, fines and other agglomerates making up the balance. Vertically integrated producers monetize ore both through external pellet sales and through lower-cost feedstock for their own blast furnaces, HBI and DRI-related operations.",
+    "cost_structure": "Costs are dominated by labor, energy, mining equipment, explosives, rail and lake-freight logistics, maintenance, depreciation and environmental compliance. The industry is highly capital intensive because mines require pits, concentrators, pellet plants, tailings systems, heavy mobile equipment and long-lived reserves. Profitability moves heavily with pellet prices and steel utilization; IBISWorld estimated a 20.4% profit margin in 2022, a high-margin year supported by elevated iron ore prices.",
+    "major_players": [
+      "Cleveland-Cliffs Inc.",
+      "United States Steel Corporation, now part of Nippon Steel",
+      "Mesabi Metallics Company LLC",
+      "ArcelorMittal/Nippon Steel joint and legacy North American steel operations as downstream buyers"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: 2025 iron ore production value declined from the 2024 restocking rebound, but US steel output improved in 2025 and weekly 2026 AISI data show stronger year-to-date raw steel production. Global steel demand remains fragile because China is still weak, but US infrastructure, manufacturing and reshoring investment support domestic steel demand. The highest-value strategic shift is toward DR-grade pellets, which can feed lower-emissions DRI and EAF steel routes and reduce reliance on imported high-grade metallics.",
+    "whats_growing": "DR-grade pellet capacity, integrated steelmaker demand for secure domestic metallics, investment in Minnesota Iron Range assets, and 2026 domestic raw steel production are growing. Mesabi Metallics is targeting a 7.0 million metric ton per year DR-grade pellet plant, while U.S. Steel began a 4.0 million ton per year DR-grade pellet upgrade at Keetac in 2024.",
+    "whats_shrinking": "2025 US usable iron ore output, 2025 estimated production value and traditional low-growth blast-furnace-only pellet demand are shrinking relative to the 2024 rebound. Longer term, the shift toward EAF steelmaking and scrap competes with conventional pellet demand, although high-grade ore remains important where scrap quality or availability is constrained.",
+    "recent_developments": [
+      "2024-05: U.S. Steel launched DR-grade pellet production at Keetac in Minnesota, targeting about 4.0 million tons annually.",
+      "2025-01: USGS reported 2024 US iron ore production value of $5.5 billion, up 2% from 2023.",
+      "2025-06: Nippon Steel finalized its acquisition of U.S. Steel, making U.S. Steel a wholly owned subsidiary with US government national-security commitments.",
+      "2026-02: USGS reported 2025 US usable iron ore production at an estimated 38.0 million metric tons, down from 45.1 million metric tons in 2024.",
+      "2026-03: Mesabi Metallics announced a $520 million senior secured credit facility to advance its Minnesota DR-grade pellet project toward 2026 startup.",
+      "2026-07: Mesabi Metallics completed its first production blast in Nashwauk, Minnesota, and said first pellet production remained targeted for later in 2026."
+    ],
+    "outlook": "The near-term outlook is mixed. 2026 domestic steel utilization and infrastructure-linked demand should improve shipments, but global prices remain exposed to China property weakness, seaborne oversupply and new global capacity. Over 2026-2028, industry growth is likely to come less from tonnage expansion at legacy blast-furnace operations and more from high-grade pellet upgrades, integrated metallics strategies and Mesabi Metallics' ramp-up if it reaches commercial production. Revenue will remain volatile because price changes can outweigh operating improvements.",
+    "themes": [
+      "Vertical integration",
+      "DR-grade pellets",
+      "Steel decarbonization",
+      "Commodity price volatility",
+      "Minnesota Iron Range reinvestment",
+      "China demand risk",
+      "Domestic steel supply chains",
+      "High capital intensity"
+    ],
+    "data_year": "2025 with 2026 developments",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/iron-ore-mining-in-the-us.txt",
+      "https://www.usgs.gov/centers/national-minerals-information-center/iron-ore-statistics-and-information",
+      "https://www.usgs.gov/publications/mineral-commodity-summaries-2026",
+      "https://www.usgs.gov/news/national-news-release/value-us-mineral-production-rose-last-year-driven-precious-metals-prices",
+      "https://hub.truesourcemetals.com/metals/iron-ore",
+      "https://worldsteel.org/media/press-releases/2026/december-2025-crude-steel-production-2025-global-crude-steel-production/",
+      "https://www.steel.org/industry-data/",
+      "https://worldsteel.org/media/press-releases/2025/worldsteel-short-range-outlook-october-2025/",
+      "https://investors.ussteel.com/news-events/news-releases/detail/680/united-states-steel-celebrates-opening-of-dr-grade-pellet",
+      "https://www.nipponsteel.com/en/newsroom/news/2025/20250618_100.html",
+      "https://www.mesabimetallics.com/mesabi-metallics-secures-520-million-from-breakwall-capital-advances-towards-q3-2026-start-of-new-american-iron-ore-mine/",
+      "https://www.mesabimetallics.com/first-blast-americas-iron-ore-comeback-heard-on-the-iron-range/"
+    ],
+    "one_sentence": "US iron ore mining is dominated by vertically integrated steel producers, with 2025 revenue pressured by lower usable-ore output and softer benchmark prices even as 2026 steel utilization and DR-grade pellet investment improve the demand backdrop.",
+    "slug": "iron-ore-mining-in-the-us"
+  },
+  {
+    "title": "Italian Restaurants",
+    "sector": "Food & Drink",
+    "one_liner": "A mature U.S. dining category built around pizza, pasta, full-service Italian meals and delivery-led convenience.",
+    "overview": "The industry includes chain, franchised and independent restaurants whose primary offer is Italian-style food, including pizza, pasta, salads, wine and related beverages. The 2022 IBISWorld baseline described a mature but resilient industry with 2021 revenue of $73.279 billion after a 2020 dine-in shock and a 2021 rebound. For 2025, the best public proxy points to a U.S. pizza restaurant market of $49.45 billion; using the baseline 2021 pizza share of 61.3% implies an estimated 2025 Italian restaurants market near $80.7 billion. In 2026, growth is being driven more by menu pricing, delivery, digital ordering, high-income full-service demand and chain expansion than by broad traffic gains.",
+    "key_stats": {
+      "market_size": "Estimated 2025 U.S. market size: $80.7 billion, derived from 2025 U.S. pizza restaurant market size of $49.45 billion and the baseline 2021 pizza revenue share of 61.3%.",
+      "growth": "Estimated 2021-2025 CAGR: +2.5%; 2026 broader U.S. restaurant and foodservice sales forecast: +4.3% nominal and +0.8% real.",
+      "pizza_market": "2025 U.S. pizza restaurant market size: $49.45 billion.",
+      "broader_foodservice": "2025 inflation-adjusted U.S. foodservice outlet sales: $1.41 trillion; 2025 full-service establishments: $488.4 billion; 2025 limited-service establishments: $516.1 billion.",
+      "price_inflation": "Food away from home CPI rose +4.1% from December 2024 to December 2025; restaurant menu prices were +3.4% year over year in June 2026.",
+      "employment_cost_pressure": "In 2026, National Restaurant Association reported food and labor each at about 33 cents of every restaurant sales dollar, with restaurant employee average hourly earnings +41% since February 2020 and average wholesale food prices +35%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "source_file": "italian-restaurants.txt",
+      "report_date": "2022-01-29",
+      "market_size": "2021 revenue: $73.279 billion in 2021 dollars.",
+      "growth": "2021 revenue growth: +25.0%; 2005-2021 CAGR: +3.85%; 2021-2026 forecast CAGR: +4.6%.",
+      "profit": "2021 profit: $4.104 billion; 2021 profit margin: 5.6%.",
+      "establishments": "2021 establishments: 68,654.",
+      "enterprises": "2021 enterprises: 53,874.",
+      "employment": "2021 employment: 1,212,570 workers.",
+      "revenue_mix": "2021 revenue mix: pizza restaurants 61.3%, quick-service Italian restaurants 31.2%, full-service Italian restaurants 6.4%, other Italian restaurants 1.1%."
+    },
+    "how_it_makes_money": "Operators earn revenue from dine-in meals, carryout, delivery, catering, alcohol sales, franchise royalties and fees, and in large pizza chains, supply-chain or commissary sales to franchisees. Quick-service and pizza brands rely on high ticket frequency, digital ordering, delivery and franchise scale, while full-service Italian restaurants rely on table service, beverage attachment, group dining and higher average checks.",
+    "cost_structure": "The baseline reported purchases at 34.3% of 2020 revenue and profit at 5.6% of 2021 revenue. In 2026, the National Restaurant Association said food and labor each account for roughly 33 cents per restaurant sales dollar, keeping margins tight despite menu-price increases. Other important costs include rent, utilities, insurance, delivery commissions, credit-card fees, marketing, franchise fees, repairs and local compliance costs.",
+    "major_players": [
+      "{'name': 'Darden Restaurants / Olive Garden', 'position': 'Largest full-service Italian chain; Olive Garden had FY2026 annual sales of $5.5948 billion, FY2026 segment profit of $1.2579 billion, FY2026 same-restaurant sales growth of +4.0%, and 949 company-owned Olive Garden restaurants at May 31, 2026.'}",
+      "{'name': \"Domino's Pizza\", 'position': \"Largest delivery-focused pizza operator; Domino's reported 2025 total revenue of $4.9400 billion, 2025 U.S. retail sales growth of +4.8%, 2025 U.S. same-store sales growth of +3.0%, and 7,186 U.S. stores at December 28, 2025.\"}",
+      "{'name': 'Pizza Hut / Yum Brands', 'position': 'Global pizza chain with U.S. exposure; Yum reported 2025 Pizza Hut system sales of $12.794 billion globally, 19,974 Pizza Hut division units, and 2025 same-store sales decline of -1%.'}",
+      "{'name': 'Papa Johns', 'position': 'Major franchised pizza chain competing on delivery, value bundles and digital ordering; 2026 reports pointed to North American same-store sales pressure and a turnaround focus.'}",
+      "{'name': 'Independent pizzerias and Italian restaurants', 'position': 'The long tail remains large; the baseline cited 2021 independent operation shares of 48.0% of pizzerias and 89.0% of Italian restaurants.'}"
+    ],
+    "current_dynamics": "In 2025-2026, nominal sales are still expanding, but traffic is uneven and much of the growth comes from price. Full-service Italian restaurants benefit from dining occasions, alcohol, local sourcing and higher-income consumers, while pizza and quick-service Italian operators benefit from value, convenience and delivery. Margin pressure is elevated because food, labor, insurance and payment costs remain high, forcing operators to balance price increases against consumer value sensitivity.",
+    "whats_growing": "Digital ordering, delivery, carryout, loyalty programs, lighter portions, value bundles, premium pizza styles, gluten-free and health-positioned menu items, wine and beverage attachment, catering, and suburban or college-town unit expansion are growing in 2025-2026. Limited-service restaurants accounted for 36.5% of U.S. food-away-from-home spending in 2025, ahead of full-service restaurants at 34.5%.",
+    "whats_shrinking": "Traditional dine-in pizza huts, undercapitalized independent restaurants, low-margin discounting, and full-service concepts without strong value or differentiated experience are under pressure. Pizza Hut's global same-store sales declined -1% in 2025, and broader 2026 restaurant data show uneven traffic despite positive nominal sales.",
+    "recent_developments": [
+      "2025-12: U.S. food away from home prices rose +4.1% from December 2024 to December 2025, above the +2.7% all-items CPI increase.",
+      "2025: U.S. pizza restaurant market size was $49.45 billion, according to Statista's 2025 pizza restaurant industry figure.",
+      "2025: Domino's U.S. retail sales rose +4.8% and U.S. same-store sales rose +3.0%, with 7,186 U.S. stores at December 28, 2025.",
+      "2025: Yum Brands' Pizza Hut division posted global system sales of $12.794 billion and same-store sales decline of -1%.",
+      "2026-06: Darden reported FY2026 Olive Garden sales of $5.5948 billion and FY2026 Olive Garden same-restaurant sales growth of +4.0%.",
+      "2026-07: National Restaurant Association revised 2026 restaurant and foodservice sales growth to +4.3% nominal and +0.8% real."
+    ],
+    "outlook": "The 2026 outlook is cautious growth. Italian restaurants should keep growing in nominal dollars as menu prices, delivery, loyalty, new units and full-service occasions support revenue, but real growth is thin and margins remain exposed to food and labor costs. The strongest operators will pair Italian comfort food with visible value, faster off-premise execution, differentiated pizza or pasta quality, and tighter labor scheduling. Independents remain viable where local reputation is strong, but weak traffic, lease costs and delivery economics will continue to drive closures and turnover.",
+    "themes": [
+      "Value pressure and menu-price fatigue",
+      "Delivery and digital ordering",
+      "Pizza-chain competition",
+      "Full-service experience differentiation",
+      "Labor productivity and scheduling",
+      "Ingredient inflation",
+      "Healthier Italian menus",
+      "Independent restaurant turnover",
+      "Loyalty programs and first-party data",
+      "Premium and regional pizza styles"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: italian-restaurants.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/italian-restaurants.txt', 'date_accessed': '2026-08-08'}",
+      "{'name': 'National Restaurant Association, Restaurants remain resilient despite challenging business conditions', 'url': 'https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/', 'date_published': '2026-07-22'}",
+      "{'name': 'National Restaurant Association, Menu Prices', 'url': 'https://restaurant.org/research-and-media/research/restaurant-economic-insights/economic-indicators/menu-prices/', 'date_published': '2026-07-14'}",
+      "{'name': 'Bureau of Labor Statistics, Consumer Price Index: 2025 in review', 'url': 'https://www.bls.gov/opub/ted/2026/consumer-price-index-2025-in-review.htm', 'date_published': '2026-01-21'}",
+      "{'name': 'USDA Economic Research Service, Food Service Industry - Market Segments', 'url': 'https://ers.usda.gov/topics/food-markets-prices/food-service-industry/market-segments', 'date_updated': '2026-07-08'}",
+      "{'name': 'Darden Restaurants, Fiscal 2026 Fourth Quarter and Full Year Results', 'url': 'https://investor.darden.com/news/news-details/2026/Darden-Restaurants-Reports-Fiscal-2026-Fourth-Quarter-and-Full-Year-Results-Increases-Quarterly-Dividend-Authorizes-New-1-5-Billion-Share-Repurchase-Program-and-Provides-Fiscal-2027-Outlook/default.aspx', 'date_published': '2026-06-25'}",
+      "{'name': \"Domino's Pizza, 2025 Annual Report\", 'url': 'https://ir.dominos.com/node/5881', 'date_published': '2026-03-10'}",
+      "{'name': 'Yum Brands, 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1041061/000104106126000084/yum-20251231.htm', 'date_published': '2026-02-20'}",
+      "{'name': 'Statista, Pizza restaurants in the U.S. - statistics & facts', 'url': 'https://www.statista.com/topics/1610/pizza-delivery-market/', 'date_published': '2026-01'}"
+    ],
+    "one_sentence": "Italian restaurants remain a large, fragmented U.S. foodservice industry in 2025-2026, with pizza and quick-service formats providing most sales while full-service operators face traffic, labor and ingredient-cost pressure.",
+    "slug": "italian-restaurants"
+  },
+  {
+    "title": "Janitorial Equipment Supply Wholesaling in the US",
+    "sector": "Business Services",
+    "one_liner": "A mature B2B distribution industry supplying cleaning, facility-care, beauty, barber, laundry and related service-establishment equipment.",
+    "overview": "This industry covers merchant wholesalers of specialized equipment and supplies used by service establishments, including janitorial equipment and supplies, beauty and barber equipment, laundry and dry-cleaning equipment, fire sprinkler and alarm equipment, and other service-establishment goods. The 2022 baseline placed revenue at $27.276 billion with 2022 growth of 2.1%, while a 2022-2027 projected CAGR of 1.8% implies a 2026 market near $29.3 billion in 2022 dollars. Demand is tied to business formation, offices, hospitality, foodservice, salons, laundries, car washes, funeral homes, construction, and outsourced cleaning contractors.",
+    "key_stats": {
+      "market_size": "2026 estimated revenue of $29.3 billion, based on the 2022 IBISWorld baseline of $27.276 billion grown at the 2022-2027 projected CAGR of 1.8%.",
+      "growth": "2026 estimated annual industry growth of 1.8%; 2022-2027 projected CAGR of 1.8%.",
+      "establishments": "2023 Census Business Patterns counted 5,296 employer establishments in NAICS 423850.",
+      "profitability": "2022 baseline profit was $1.309 billion and 2022 profit margin was 4.8%.",
+      "employment": "2022 baseline industry employment was 54,825 workers; 2025 downstream janitorial services employment was 1.4439 million jobs.",
+      "input_prices": "June 2026 soaps and detergents PPI was 253.436, up 3.8% from June 2025 and up 1.7% from December 2025.",
+      "wholesale_labor_cost": "May 2026 durable-goods merchant wholesalers averaged $40.64 hourly earnings and 39.4 weekly hours.",
+      "construction_driver": "May 2026 private construction spending was $1.669 trillion SAAR, including $930.2 billion residential and $738.7 billion nonresidential.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue of $27.276 billion.",
+      "growth": "2022 revenue growth of 2.1%; 2017-2022 CAGR of 1.4%.",
+      "profit": "2022 profit of $1.309 billion.",
+      "profit_margin": "2022 profit margin of 4.8%.",
+      "industry_gross_product": "2022 industry gross product of $4.798 billion.",
+      "establishments": "2022 establishments of 5,913.",
+      "enterprises": "2022 enterprises of 4,449.",
+      "employment": "2022 employment of 54,825 workers.",
+      "wages": "2022 wages of $3.309 billion.",
+      "product_mix": "2022 product mix: janitorial equipment and supplies 33.1%, beauty and barber equipment and supplies 31.1%, other products 19.8%, laundry-related equipment and supplies 9.7%, fire sprinkler devices and fire alarm equipment 6.3%."
+    },
+    "how_it_makes_money": "Wholesalers buy cleaning equipment, paper and restroom supplies, chemicals, floor-care machines, laundry equipment, beauty and barber supplies, and related service-establishment goods from manufacturers, then resell them to commercial customers through contract sales teams, catalogs, branches, e-commerce portals, delivery routes, equipment service, training, chemical programs, and account-based purchasing agreements.",
+    "cost_structure": "The 2022 baseline described a stable wholesale cost structure with purchases as the dominant cost, wages at $3.309 billion, profit at $1.309 billion and a 4.8% margin. In 2025-2026, margins remain sensitive to chemical and paper input inflation, freight and fuel costs, warehouse labor, sales payroll, delivery-route density, inventory carrying costs, and price competition from online marketplaces and direct manufacturer channels.",
+    "major_players": [
+      "Imperial Brady",
+      "Uline",
+      "Veritiv Corp.",
+      "Network Distribution",
+      "HD Supply",
+      "W.W. Grainger",
+      "Global Industrial",
+      "Aramsco",
+      "Regional JanSan distributors and buying groups"
+    ],
+    "current_dynamics": "The 2025-2026 market is being reshaped by scale. Imperial Dade and BradyPLUS completed a 2026 merger and launched Imperial Brady with approximately $10 billion in annual revenue, about 13,000 employees and roughly 300 locations, accelerating consolidation among JanSan, foodservice, packaging and facility-care distributors. Demand is supported by commercial cleaning standards, public-health expectations, hospitality and institutional restocking, and the shift toward consultative supply programs. At the same time, online B2B sellers, broadline industrial distributors and manufacturer-direct ordering keep pricing transparent and pressure smaller local wholesalers.",
+    "whats_growing": "Robotic floor-cleaning equipment, IoT restroom monitoring, data-enabled facility-care programs, sustainable and certified green cleaning products, chemical-management systems, hand hygiene, restroom consumables, training-led distributor services, national-account fulfillment, and customers tied to healthcare, education, government, hospitality, sports venues and large multi-site facilities are growing in 2025-2026.",
+    "whats_shrinking": "Undifferentiated local resellers, walk-in branch sales, low-service commodity products, pandemic-era emergency disinfectant spikes, smaller operators without e-commerce or route density, and legacy beauty, salon and dry-cleaning demand pockets exposed to consumer softness are shrinking or losing share in 2025-2026.",
+    "recent_developments": [
+      "2025-02-24: Imperial Dade acquired Athens Janitor Supply Company and Chittom Industries in Georgia.",
+      "2025-06-10: ISSA highlighted 2025 cleaning trends including smart cleaning technology, sustainability, health-focused cleaning and workforce training.",
+      "2025-08-11: BradyPLUS and Imperial Dade announced a planned merger of two major JanSan, foodservice and packaging distributors.",
+      "2026-03-12: Imperial Dade and BradyPLUS completed their merger, creating a large North American JanSan and packaging distribution platform.",
+      "2026-05-08: The merged business launched the Imperial Brady brand with about $10 billion in annual revenue, about 13,000 employees and broad North American reach.",
+      "2026-06-01: The soaps and detergents PPI reached 253.436 in June 2026, keeping chemical input costs elevated versus 2025."
+    ],
+    "outlook": "The 2026-2027 outlook is low-growth but resilient. Revenue should track business services activity, facility occupancy, construction completions and replacement cycles for floor-care and laundry equipment. Large distributors are likely to gain share through acquisitions, private-label programs, better procurement data, and multi-site contracts. Smaller wholesalers can still compete where they provide same-day service, machine repair, technical support, route relationships and product expertise. Key risks are weak consumer-service spending, falling residential construction, tariff or freight shocks, chemical and paper-cost inflation, and margin compression from e-commerce marketplaces.",
+    "themes": [
+      "Consolidation and national-account scale",
+      "E-commerce and manufacturer-direct competition",
+      "Robotics and smart cleaning equipment",
+      "Green cleaning and ESG procurement",
+      "Health, hygiene and indoor-environment expectations",
+      "Route density and fulfillment efficiency",
+      "Input-cost and wage pressure",
+      "Mature industry with low concentration outside the largest distributors"
+    ],
+    "data_year": "2026 current update using 2025 annual indicators, 2026 monthly indicators and 2022 baseline data.",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/janitorial-equipment-supply-wholesaling-in-the-us.txt'}",
+      "{'name': 'U.S. Census Bureau profile for NAICS 423850', 'url': 'https://data.census.gov/profile/423850_-_Service_Establishment_Equipment_and_Supplies_Merchant_Wholesalers?codeset=naics~423850'}",
+      "{'name': 'Imperial Brady merger completion announcement', 'url': 'https://www.imperialbrady.com/news/imperial-dade-and-bradyplus-complete-merger'}",
+      "{'name': 'Imperial Brady unified brand announcement', 'url': 'https://www.imperialbrady.com/news/imperial-dade-and-bradyplus-launch-unified-brand-imperial-brady'}",
+      "{'name': 'Modern Distribution Management 2026 JanSan, Packaging and Disposables top distributors', 'url': 'https://www.mdm.com/top_distributors/distributor_categories/jan-san/'}",
+      "{'name': 'FRED/BLS janitorial services employment series IPUPN561720W200000000', 'url': 'https://fred.stlouisfed.org/series/IPUPN561720W200000000'}",
+      "{'name': 'FRED/BLS soaps and detergents PPI series WPU0671', 'url': 'https://fred.stlouisfed.org/series/WPU0671'}",
+      "{'name': 'U.S. Census Bureau May 2026 construction spending release', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'name': 'BLS industry page for NAICS 423 durable-goods merchant wholesalers', 'url': 'https://www.bls.gov/IAG/TGS/iag423.htm'}",
+      "{'name': 'ISSA 2025 cleaning trends article', 'url': 'https://www.issa.com/articles/trends-in-cleaning-industry/'}",
+      "{'name': 'ISSA 2026 robotic floor-cleaning article', 'url': 'https://www.issa.com/articles/going-mainstream/'}"
+    ],
+    "one_sentence": "US janitorial equipment supply wholesalers are growing slowly in 2025-2026 as facility-care demand, nonresidential building activity and automation purchases offset e-commerce price pressure and direct manufacturer sales.",
+    "slug": "janitorial-equipment-supply-wholesaling-in-the-us"
+  }
+]

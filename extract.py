@@ -3,7 +3,7 @@
 import json, html, re, os, sys
 
 ROOT=os.path.dirname(os.path.abspath(__file__))
-TASKS="/tmp/claude-1000/-home-manishmehta-projects/de20a7fc-8dc8-42cf-b660-6cc71272fcc7/tasks"
+TASKS=os.environ.get("WORKFLOW_TASKS_DIR", "/tmp/workflow-tasks")
 ids=json.load(open(f'{ROOT}/_agent_ids.json'))
 
 def walk_strings(obj):

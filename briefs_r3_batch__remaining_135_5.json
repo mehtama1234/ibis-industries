@@ -1,0 +1,431 @@
+[
+  {
+    "title": "Smartphone App Developers",
+    "sector": "Technology & Digital",
+    "one_liner": "US smartphone app developers build, update and maintain mobile apps for businesses and entrepreneurs, with growth shifting from new app launches toward AI features, security, payments compliance and ongoing product maintenance.",
+    "overview": "Smartphone App Developers covers companies and independent developers that design, build, publish-support, maintain and upgrade apps for smartphones and tablets, especially for clients that do not rely solely on internal engineering teams. Under the IBISWorld-style definition, revenue is generated from development services and maintenance contracts, not from in-app purchases, advertising, app-store commissions or revenue earned by app publishers from their own apps. Demand is supported by mobile-first commerce, banking, healthcare, media, delivery, productivity and enterprise workflows. The market is still growing, but it is more mature than the 2010s: smartphone adoption is near saturation, app-store shelves are crowded, and clients are spending more on modernization, AI-enabled features, privacy/security, cross-platform development and lifecycle support rather than simply launching first-generation apps.",
+    "key_stats": {
+      "market_size": {
+        "2022": "$161.7 billion revenue, 2022 IBISWorld baseline",
+        "2025": "about $180.9 billion revenue, 2025 estimate using the 2022 IBISWorld forecast CAGR of 3.8%",
+        "2026": "about $187.8 billion revenue, 2026 estimate using the 2022 IBISWorld forecast CAGR of 3.8%"
+      },
+      "growth": {
+        "2022": "2.7% revenue growth, IBISWorld baseline",
+        "2022_to_2027": "3.8% forecast CAGR, IBISWorld baseline",
+        "2026": "about 3.8% forecast revenue growth under the IBISWorld-style trajectory"
+      },
+      "profit_margin": {
+        "2022": "14.3% average EBIT margin, IBISWorld baseline"
+      },
+      "employment": {
+        "2022": "341,309 workers, IBISWorld baseline",
+        "2027": "440,754 workers forecast, IBISWorld baseline"
+      },
+      "enterprises": {
+        "2022": "5,980 enterprises, IBISWorld baseline",
+        "2027": "8,302 enterprises forecast, IBISWorld baseline"
+      },
+      "app_ecosystem_context": {
+        "2025": "US consumers spent nearly $60 billion on mobile apps, Sensor Tower",
+        "2025_global": "Global in-app purchase revenue reached $167 billion, up 10.6% year over year, Sensor Tower",
+        "2026_app_store_supply": "Google Play had 2,328,694 apps and Apple App Store had 2,280,577 apps in May 2026, Statista citing 42matters"
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$161.7 billion revenue in 2022",
+      "growth": "2.7% revenue growth in 2022 and 7.2% annualized revenue growth from 2017 to 2022",
+      "profit": "$23.1 billion profit in 2022",
+      "profit_margin": "14.3% in 2022",
+      "employment": "341,309 workers in 2022",
+      "wages": "$66.9 billion in 2022",
+      "establishments": "7,365 establishments in 2022",
+      "enterprises": "5,980 enterprises in 2022",
+      "industry_gross_product": "$95.6 billion in 2022"
+    },
+    "how_it_makes_money": "Developers earn fees from project discovery, UI/UX design, native iOS and Android builds, cross-platform builds, backend integration, testing, app-store submission, analytics setup, security hardening, maintenance retainers, feature updates and migration work. Pricing is typically fixed-fee for defined builds, time-and-materials for complex products, and recurring retainers for support, compliance updates, cloud integration and feature roadmaps. App publisher revenue from ads, subscriptions, in-app purchases and digital goods is outside this industry definition unless it is paid to the developer as a service fee.",
+    "cost_structure": "Labor is the dominant cost because app development depends on engineers, product managers, designers, QA testers, security specialists and DevOps/cloud staff. The 2022 baseline reported $66.9 billion in wages and a 14.3% profit margin. Purchases are comparatively light, but cloud tooling, testing devices, software licenses, AI coding tools, app analytics, cybersecurity tools, insurance, sales costs and subcontracted offshore or specialist development are material. Competitive pressure from freelancers, low-code platforms and offshore firms limits pricing power for simple apps, while complex regulated apps can command higher margins.",
+    "major_players": [
+      "{'name': 'Accenture', 'position': 'large digital-transformation and app-development services provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'IBM Consulting', 'position': 'enterprise mobile, cloud and AI integration provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Deloitte Digital', 'position': 'enterprise app strategy, design and build services provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Tata Consultancy Services', 'position': 'large outsourced software and mobile development provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Infosys', 'position': 'large outsourced software and mobile development provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Wipro', 'position': 'large outsourced software and mobile development provider; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Appinventiv', 'position': 'mobile-app specialist cited in 2025 market coverage; no single company exceeded 1.0% share in the 2022 IBISWorld baseline'}",
+      "{'name': 'Independent developers and small studios', 'position': 'fragmented long tail of freelancers, boutique agencies and nonemployers'}"
+    ],
+    "current_dynamics": "In 2025 and 2026, clients are asking developers to add generative AI assistants, personalization, mobile payments, identity, security and analytics to existing apps. Growth is supported by high US app monetization: Sensor Tower reported nearly $60 billion in 2025 US consumer app spend, even as mature markets show slower download growth. Platform rules are also changing: US Apple and Google app-store payment and distribution policies are being reshaped by Epic-related litigation, creating compliance work and new go-to-market options for developers. At the same time, competition is intense because low-code tools, AI-assisted coding and offshore development reduce barriers for basic apps.",
+    "whats_growing": "AI-enabled productivity apps, AI assistants, mobile banking, healthcare and telehealth apps, retail loyalty and commerce apps, food delivery, sports betting, cross-platform rebuilds, privacy/security upgrades, external-payment implementation, analytics instrumentation, accessibility remediation and ongoing maintenance retainers are growing. In 2025, Sensor Tower said generative AI app downloads reached 3.8 billion globally and IAP revenue exceeded $5 billion, while time spent in generative AI apps reached 48 billion hours.",
+    "whats_shrinking": "Simple one-off brochure apps, low-complexity small-business apps, undifferentiated consumer launches, app projects dependent only on download volume, and basic native builds with no ongoing roadmap are weakening. Mature-market download growth is slow, user acquisition costs remain high for publishers, and clients increasingly prefer maintaining fewer, higher-quality apps instead of funding many lightly used apps.",
+    "recent_developments": [
+      "2025-05-02: Apple changed US App Store rules to allow apps to link users to external web payment options after an Epic Games court order.",
+      "2025-09-12: The Ninth Circuit upheld Android and Google Play injunction changes in Epic Games v. Google, affecting US app distribution and billing rules.",
+      "2026-01-22: Sensor Tower reported that 2025 global mobile downloads, IAP revenue and time spent reached record highs, with global IAP revenue of $167 billion.",
+      "2026-05-06: Statista, citing 42matters, reported 2,328,694 Google Play apps and 2,280,577 Apple App Store apps available in May 2026.",
+      "2026-07-22: Google Play began providing eligible app listings to third-party US Android app stores and opened related third-party store programs under its US policy update."
+    ],
+    "outlook": "The industry should keep expanding through 2026 and beyond, but growth is likely to be steadier than the pandemic-era surge. Using the 2022 IBISWorld forecast path, revenue reaches about $187.8 billion in 2026 and $194.7 billion in 2027. Demand will be strongest where apps are mission-critical to revenue or operations: finance, healthcare, retail, logistics, media, field work and enterprise productivity. The main risks are client budget tightening, intense price competition, app-store policy uncertainty, privacy regulation, cybersecurity liability and automation that compresses billable hours for routine coding. Developers with strong product strategy, AI integration, secure architecture, regulated-industry experience and maintenance relationships should outperform basic build shops.",
+    "themes": [
+      "AI-native mobile features",
+      "Mobile-first commerce",
+      "App-store payment disruption",
+      "Privacy and security by design",
+      "Cross-platform development",
+      "Maintenance over one-off launches",
+      "Low-code and AI-assisted coding pressure",
+      "Fragmented provider base",
+      "Healthcare and fintech digitization",
+      "Recurring product engineering retainers"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Smartphone App Developers in the US, last updated June 24, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/smartphone-app-developers.txt'}",
+      "{'name': 'Sensor Tower, 2026 State of Mobile, January 2026', 'url': 'https://sensortower.com/blog/state-of-mobile-2026?pubDate=20260122'}",
+      "{'name': 'Google Play Console Help, US developer policy update, 2025-2026', 'url': 'https://support.google.com/googleplay/android-developer/answer/15582165?hl=en'}",
+      "{'name': 'TechCrunch, Apple changes US App Store rules, May 2, 2025', 'url': 'https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments/'}",
+      "{'name': 'Statista, number of apps in leading app stores, May 2026', 'url': 'https://de.statista.com/statistik/daten/studie/208599/umfrage/anzahl-der-apps-in-den-top-app-stores/'}",
+      "{'name': 'IMARC Group, US Mobile App Development Market, 2026-2034', 'url': 'https://www.imarcgroup.com/us-mobile-app-development-market'}",
+      "{'name': 'Mordor Intelligence, United States Mobile Application Market, 2025-2030', 'url': 'https://www.mordorintelligence.com/industry-reports/united-states-mobile-application-market'}",
+      "{'name': 'Grand View Research Horizon, US Mobile Application Market Outlook, updated June 23, 2026', 'url': 'https://www.grandviewresearch.com/horizon/outlook/mobile-application-market/united-states'}"
+    ],
+    "one_sentence": "The industry remains a large, fragmented digital-services market: the 2022 IBISWorld baseline put US revenue at $161.7 billion with 2.7% 2022 growth, while an IBIS-style forecast implies about $180.9 billion in 2025 and $187.8 billion in 2026 at roughly 3.8% annual growth.",
+    "slug": "smartphone-app-developers"
+  },
+  {
+    "title": "Snack Food Production in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US snack producers remain a large, brand-led manufacturing industry, with 2025 retail softness giving way to 2026 demand recovery as value, bold flavor, protein, and better-for-you formats reshape growth.",
+    "overview": "The industry is mature but resilient: the 2022 IBISWorld baseline put 2021 industry revenue at $43.0 billion and forecast 2026 revenue of $45.9 billion at a 2021-2026 CAGR of 1.3%. Current 2025-2026 public data show a broader US snacking market of $148.6 billion in 2025, a US salty snack retail category of about $42 billion in 2025, and Q1 2026 snack food dollar sales of $19.7 billion, up 3.5% versus Q1 2025. Demand is supported by frequent snacking, convenience, at-home and on-the-go eating, and brand innovation, while growth is constrained by price sensitivity, sodium and health concerns, retailer private-label gains, and high input, packaging, labor, distribution, and promotional costs.",
+    "key_stats": {
+      "market_size": "2026: $45.9 billion US snack food production revenue forecast from the 2022 IBISWorld baseline; 2025: $42 billion US salty snack retail category; 2025: $148.6 billion broader US snacking market.",
+      "growth": "2021-2026: 1.3% CAGR forecast in the 2022 IBISWorld baseline; 2025: US salty snack retail sales decreased 0.5% versus 2024; 2026 Q1: US snack food dollar sales increased 3.5% versus 2025 Q1 and unit sales increased 0.8%.",
+      "profitability": "2021: industry profit margin was 15.8% in the 2022 IBISWorld baseline.",
+      "employment": "2021: 66,538 workers in the 2022 IBISWorld baseline.",
+      "establishments": "2021: 3,573 establishments in the 2022 IBISWorld baseline.",
+      "trade": "2021: exports were $1.4 billion and imports were $1.1 billion in the 2022 IBISWorld baseline; 2026 baseline forecast: exports $1.5 billion and imports $1.4 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021: $43.0 billion industry revenue in 2021 dollars, from the June 24, 2022 IBISWorld baseline.",
+      "growth": "2016-2021: 0.7% annualized revenue growth; 2021: 1.5% revenue growth; 2021-2026: 1.3% forecast CAGR.",
+      "profit": "2021: $6.8 billion profit and 15.8% profit margin.",
+      "products": "2021: nuts and seeds 32.6% of revenue, potato chips 24.5%, tortilla and corn chips 19.7%, other chip snacks 18.6%, peanut butter 4.6%.",
+      "structure": "2021: 3,455 enterprises, 3,573 establishments, 66,538 employees, and $3.3 billion wages."
+    },
+    "how_it_makes_money": "Manufacturers buy agricultural inputs such as potatoes, corn, nuts, seeds, wheat, oils, sugar, salt, flavorings, and packaging; process them into branded, private-label, or co-manufactured snacks; and sell through grocery wholesalers, supermarkets, mass merchants, club stores, convenience stores, dollar stores, foodservice distributors, and e-commerce. Large producers earn premium pricing from brands, shelf space, route-to-market scale, advertising, promotional programs, and product innovation, while smaller producers compete through specialty ingredients, local distribution, natural-channel placement, and differentiated flavors.",
+    "cost_structure": "Major 2025-2026 cost lines are raw ingredients, edible oils, packaging, labor, plant depreciation, energy, logistics, retailer trade promotion, slotting and merchandising, advertising, quality control, and regulatory compliance. The 2022 IBISWorld baseline showed 2021 wages of $3.3 billion and profit of $6.8 billion on $43.0 billion of revenue; it also identified corn, wheat, nuts, oils, and packaging-sensitive supply chains as key margin drivers. Automation and scale reduce unit labor costs, but 2025-2026 producers still face pressure from freight, retail promotions, health-driven reformulation, and ingredient volatility.",
+    "major_players": [
+      "PepsiCo / Frito-Lay: 2026 Circana retail data cited Frito-Lay at $6.4 billion in potato chips, $5.9 billion in tortilla/tostada chips, $3.4 billion in cheese snacks, and $2.2 billion in corn snacks for the 52 weeks ending May 17, 2026.",
+      "Mars / Kellanova: 2025 Mars completed its acquisition of Kellanova, adding Pringles, Cheez-It, Pop-Tarts, Rice Krispies Treats, RXBAR, and related snack brands to Mars Snacking.",
+      "Campbell's Snacks: 2025 Campbell reported total company net sales of $10.3 billion and operated snack brands including Snyder's of Hanover, Lance, Cape Cod, Kettle Brand, Late July, Snack Factory, Goldfish, and Pepperidge Farm.",
+      "Utz Brands: 2025 Utz reported the Utz brand generated more than $870 million in retail sales and the company represented 4.4% of total US salty snack retail sales as of December 28, 2025.",
+      "Hershey North America Salty Snacks: 2025 net sales were $1.271 billion, up 11.9% versus 2024, led by Dot's Homestyle Pretzels, SkinnyPop, Pirate's Booty, and LesserEvil.",
+      "Conagra Brands: 2025 Conagra cited a $148.6 billion US snacking market and participates with Orville Redenbacher's, DAVID Seeds, Angie's BOOMCHICKAPOP, Slim Jim, and other snack brands."
+    ],
+    "current_dynamics": "The 2025 market was mixed: salty snack retail sales were roughly flat to slightly negative as earlier price increases and value sensitivity weighed on units, but household snacking frequency remained high. In 2026, Q1 snack food sales returned to dollar and unit growth, supported by savory snacks, multipacks, convenience formats, bold flavors, and better-for-you ingredients. Consolidation is increasing the bargaining power of scaled snack platforms, while private label is gaining share in value-conscious retail channels. Health pressure remains meaningful: 2025 Circana research said 64.1% of consumers actively looked for snacks perceived as good for them, and FDA sodium targets continue to push reformulation.",
+    "whats_growing": "2025-2026 growth is strongest in better-for-you chips, avocado- and olive-oil snacks, high-protein and functional snacks, bold and spicy flavors, multipacks, variety packs, pretzels, cheese snacks, corn snacks, ready-to-eat popcorn, natural-channel brands, and premium niche brands that can justify price through ingredients, flavor, or occasion fit. 2026 Circana category data showed cheese snacks up 3.3% to $4.2 billion, corn snacks up 4.1% to $3.0 billion, pretzels up 2.6% to $2.9 billion, and apple chips up 19.2% for the 52 weeks ending May 17, 2026.",
+    "whats_shrinking": "Traditional center-aisle salty snacks with high sodium, undifferentiated flavors, weak brand investment, or post-inflation price gaps are under pressure. 2025 Circana data cited by Utz showed salty snack retail sales down 0.5% versus 2024, while 2026 category data showed potato chips broadly stagnant and private-label potato chips down 0.8% for the 52 weeks ending May 17, 2026. Pork rinds also fell 1.4% to $645.8 million in 2026 Circana data, and some legacy brands lost share to challenger and better-for-you products.",
+    "recent_developments": [
+      "2025-01-17: PepsiCo closed its $1.2 billion acquisition of Siete Foods, expanding into grain-free and better-for-you tortilla chips, potato chips, puffs, salsas, and related products.",
+      "2025-04-03: Circana reported 48.8% of US consumers snacked three or more times per day in 2025, up 2.7 percentage points versus 2024.",
+      "2025-08-27: Conagra released its Future of Snacking 2025 report, citing a $148.6 billion US snacking market and trends around bold flavor, better-for-you choices, and on-the-go formats.",
+      "2025-12-11: Mars completed its acquisition of Kellanova, combining Mars Snacking with Pringles, Cheez-It, RXBAR, Pop-Tarts, and other snack brands.",
+      "2026-Q1: SNAC International and Circana reported US snack food dollar sales of $19.7 billion, up 3.5% versus 2025 Q1, with unit sales up 0.8%.",
+      "2026-05-17: Circana category data cited by Snack Food & Wholesale Bakery showed potato chips at $11.7 billion, cheese snacks at $4.2 billion, corn snacks at $3.0 billion, and pretzels at $2.9 billion for the latest 52 weeks."
+    ],
+    "outlook": "The 2026 outlook is low-to-moderate growth rather than a boom. The baseline forecast of $45.9 billion in 2026 production revenue remains directionally consistent with public scanner data: 2025 was soft, but 2026 Q1 returned to positive dollar and unit growth. Producers with scale, strong brands, lower sodium and better-for-you reformulations, distinctive flavors, multipack economics, and efficient direct-store-delivery or wholesale networks should outperform. Margin risk remains tied to ingredient and packaging costs, freight, retailer promotion demands, wage pressure, and consumer resistance to further price increases.",
+    "themes": [
+      "2025-2026 value sensitivity after food inflation",
+      "2025-2026 better-for-you reformulation and simple ingredients",
+      "2025-2026 bold, spicy, nostalgic, and limited-time flavors",
+      "2025-2026 consolidation among global snack platforms",
+      "2025-2026 private-label gains in price-sensitive channels",
+      "2025-2026 multipack, variety-pack, and on-the-go occasions",
+      "2025-2026 sodium reduction and nutrition scrutiny",
+      "2025-2026 automation and scale advantages in manufacturing"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/snack-food-production-in-the-us.txt",
+      "https://www.circana.com/post/new-circana-snacking-research-reveals-how-health-flavor-and-innovation-are-redefining-america-s-cr",
+      "https://snacintl.org/snactrac/",
+      "https://www.conagrabrands.com/news-room/news-conagra-brands-unveils-future-of-snacking-2025-report-spotlighting-bold-flavors-better-for-you-choices-and-on-the-go-innovation-prn-122931",
+      "https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-completes-acquisition-of-siete-foods",
+      "https://www.mars.com/en-cz/news-and-stories/press-releases-statements/mars-completes-acquisition-of-kellanova",
+      "https://www.sec.gov/Archives/edgar/data/1739566/000162828026007757/utz-20251228.htm",
+      "https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/hsy-20251231.htm",
+      "https://www.snackandbakery.com/articles/116041-state-of-the-industry-2026-chips-deliver-on-textures-flavors",
+      "https://www.snackandbakery.com/articles/116102-state-of-the-industry-2026-puffed-snacks-continue-expanding",
+      "https://digitaledition.snackandbakery.com/july-2026/soi-pretzels/",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/sodium-reduction-food-supply"
+    ],
+    "one_sentence": "Snack Food Production in the US covers manufacturers of potato chips, tortilla and corn chips, pretzels, roasted and salted nuts, nut butters, popcorn, pork rinds, puffed snacks, and related savory snacks, excluding cookies, crackers, bakery goods, cereal, and granola bars.",
+    "slug": "snack-food-production-in-the-us"
+  },
+  {
+    "title": "Snowplow Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, seasonal US manufacturing niche tied to snowfall, municipal fleets, contractor replacement cycles and steel costs.",
+    "overview": "The US Snowplow Manufacturing industry is a mature, metal-intensive equipment market serving winter road safety and commercial snow-removal needs. Revenue is driven less by new category adoption than by replacement of an installed base of plows and spreaders, municipal fleet budgets, contractor access to credit, snowfall frequency and wear on equipment. The 2022 baseline report framed the industry as a roughly $0.9 billion business in 2021 dollars, while a 2025 paid-report abstract put 2023 revenue at $1.1 billion after a weak 2020 and rate-pressure period. Public-company data show a 2025 rebound: Douglas Dynamics' Work Truck Attachments sales rose from $256.0 million in 2024 to $295.7 million in 2025, helped by better snowfall and parts demand.",
+    "key_stats": {
+      "market_size": "$1.15 billion in 2025 estimated US manufacturer revenue",
+      "growth": "+4.0% to +5.0% in 2025 estimated year-over-year revenue growth",
+      "published_reference": "$1.1 billion in 2023 published industry revenue; +1.4% 2023 growth; -0.5% CAGR over 2018-2023",
+      "major_public_peer_indicator": "Douglas Dynamics Work Truck Attachments net sales: $295.7 million in 2025, up from $256.0 million in 2024",
+      "downstream_services_indicator": "US snowplowing services revenue: $27.9 billion in 2025",
+      "input_cost_indicator": "Steel mill products PPI: 361.439 in June 2026, up from 315.369 in January 2026",
+      "financing_indicator": "US bank prime loan rate: 6.75% on December 11, 2025 and 6.75% in June 2026 H.15 data",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$919.2 million in 2021 revenue, reported in 2021 dollars in the January 25, 2022 baseline",
+      "growth": "+8.9% in 2021; +3.1% CAGR over 2016-2021",
+      "forecast": "$1.0 billion by 2026 in 2021 dollars; +2.0% CAGR over 2021-2026",
+      "profit": "$85.0 million in 2021 profit; 9.2% profit margin",
+      "employment": "2,307 employees in 2021",
+      "enterprises": "41 enterprises in 2021",
+      "exports": "$154.2 million in 2021 exports",
+      "imports": "$271.2 million in 2021 imports",
+      "domestic_demand": "$1.036 billion in 2021 domestic demand"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from sales of heavy-duty plows, light-duty plows, municipal and utility-vehicle plows, salt and sand spreaders, replacement cutting edges, mounts, hydraulics, lighting, controls and other parts. Sales flow through dealers, distributors, truck-equipment upfitters, municipal procurement channels and direct fleet relationships. Parts and accessories provide recurring revenue when snowfall is heavy or when high interest rates encourage users to repair equipment instead of replacing it.",
+    "cost_structure": {
+      "materials_and_components": "Largest cost bucket in 2025, led by steel, hydraulic systems, lighting, electronics, fasteners and vehicle-mount hardware",
+      "labor": "Meaningful 2025 cost because fabrication, welding, assembly, powder coating and upfitting remain skilled manufacturing processes",
+      "freight_and_distribution": "Elevated 2025 cost exposure because plows and spreaders are bulky, seasonal and dealer-inventory dependent",
+      "warranty_and_service": "Important 2025 margin factor because winter-duty equipment faces corrosion, impact damage and hydraulic failures",
+      "profitability": "Douglas Dynamics 2025 gross margin was 26.6%; its Work Truck Attachments adjusted EBITDA margin was 19.0% in 2025"
+    },
+    "major_players": [
+      "{'name': 'Douglas Dynamics', 'brands': 'FISHER, WESTERN, SNOWEX, HENDERSON', 'position': 'Largest public pure-play indicator for North American snow and ice control equipment; 2025 Work Truck Attachments sales were $295.7 million'}",
+      "{'name': 'The Toro Company', 'brands': 'BOSS Snowplow', 'position': 'Large diversified equipment manufacturer with a meaningful contractor snow and ice equipment line'}",
+      "{'name': 'Aebi Schmidt Group / Meyer Products', 'brands': 'Meyer, Swenson, Monroe Truck Equipment', 'position': 'Established snow and ice control supplier; Meyer manufacturing transitioned to Monroe, Wisconsin in 2025'}",
+      "{'name': 'Buyers Products', 'brands': 'SnowDogg, SaltDogg, ScoopDogg', 'position': 'Private US work-truck equipment manufacturer with pickup, UTV, municipal plow and spreader lines'}",
+      "{'name': 'Hiniker Company', 'brands': 'Hiniker snowplows and spreaders', 'position': 'Private manufacturer serving contractor, municipal and agricultural-adjacent snow-removal markets'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is recovering from below-average snowfall in several core regions during 2023-2024, but demand remains uneven by geography. NOAA reported the 2024-2025 snow season was above average in parts of the mountainous West, central Plains, Gulf Coast, Southeast and Ohio Valley, while below average in much of the Great Basin, southern Rockies, northern Plains, Upper Midwest and parts of the Northeast. Early 2025-2026 snowfall was above average across much of the Midwest and Great Lakes, supporting parts and replacement demand. Municipal demand is healthier than contractor-financed demand because public construction and fleet replacement budgets remain active, while 2025-2026 borrowing costs still pressure small contractors.",
+    "whats_growing": "Parts and accessories, municipal spreaders, fleet upfits, stainless-steel and corrosion-resistant plows, expandable-wing and V-plow formats, UTV and compact-equipment plows, dealer service work, and digitally assisted procurement through cooperative purchasing channels are growing in 2025-2026. Douglas Dynamics reported 2025 record parts and accessories sales and higher municipal volumes.",
+    "whats_shrinking": "Low-end discretionary consumer purchases, replacement of lightly used plows in regions with weak 2023-2024 snowfall, dealer overstock risk after mild winters, and margin headroom for manufacturers exposed to rising 2026 steel prices are shrinking or under pressure. High 2025-2026 financing costs also stretch replacement cycles for small snow-removal contractors.",
+    "recent_developments": [
+      "2025-02: A February 2025 IBISWorld report listing said Snowplow Manufacturing revenue totaled $1.1 billion in 2023, with 2018-2023 CAGR of -0.5% and 2023 growth of +1.4%.",
+      "2025-02: Douglas Dynamics reported 2024 Work Truck Attachments net sales of $256.0 million, down from $291.7 million in 2023 after low snowfall lengthened replacement cycles.",
+      "2025-12: Meyer Products said manufacturing operations transitioned from East Cleveland, Ohio to Monroe, Wisconsin inside Monroe Truck Equipment operations.",
+      "2026-01: NOAA reported 2025 was the fourth-warmest US year on record, but early 2025-2026 snowfall was above average across much of the Midwest and Great Lakes.",
+      "2026-03: Douglas Dynamics reported 2025 Work Truck Attachments net sales of $295.7 million, up 15.5% from 2024, with record parts and accessories sales.",
+      "2026-07: BLS/FRED reported the steel mill products PPI at 361.439 for June 2026, up from 315.369 in January 2026, increasing material-cost pressure."
+    ],
+    "outlook": "The industry outlook for 2026 is modestly positive but volatile. Replacement demand should improve if 2025-2026 snowfall stays closer to normal in the Midwest, Great Lakes and Northeast, and municipal fleet demand should remain a stabilizer. However, 2026 steel inflation and a 6.75% prime rate in late 2025 and mid-2026 keep pressure on manufacturer margins and contractor equipment financing. A reasonable 2026 base case is low-single-digit revenue growth, with upside if winter storms are frequent in densely populated snowbelt markets and downside if another mild season leaves dealers with excess inventory.",
+    "themes": [
+      "Weather volatility and regional snowfall dispersion",
+      "Replacement-cycle management",
+      "Municipal fleet resilience",
+      "Steel and fabricated-metal inflation",
+      "Dealer inventory discipline",
+      "Parts and accessories recurring revenue",
+      "Contractor financing sensitivity",
+      "Lean manufacturing and plant consolidation",
+      "Corrosion resistance and product durability",
+      "Work-truck upfitting integration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Snowplow Manufacturing, IBISWorld, January 25, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/snowplow-manufacturing.txt', 'date': '2022-01-25'}",
+      "{'title': 'MarketResearch.com listing for IBISWorld Snowplow Manufacturing in the US', 'url': 'https://www.marketresearch.com/IBISWorld-v2487/Snowplow-Manufacturing-Research-39642974/', 'date': '2025-02'}",
+      "{'title': 'Douglas Dynamics 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1287213/000143774926005316/plow20251231_10k.htm', 'date': '2026-03'}",
+      "{'title': 'Douglas Dynamics Reports Strong Fourth Quarter and Full Year 2025 Results', 'url': 'https://ir.douglasdynamics.com/news-events/press-releases/detail/242/douglas-dynamics-reports-strong-fourth-quarter-and-full', 'date': '2026-03'}",
+      "{'title': 'NOAA NCEI Assessing the U.S. Temperature and Precipitation Analysis in 2025', 'url': 'https://www.ncei.noaa.gov/news/national-climate-202513', 'date': '2026-01-13'}",
+      "{'title': 'FRED Steel Mill Products PPI WPU1017', 'url': 'https://fred.stlouisfed.org/series/WPU1017', 'date': '2026-07-15'}",
+      "{'title': 'FRED Bank Prime Loan Rate PRIME', 'url': 'https://fred.stlouisfed.org/series/PRIME/', 'date': '2026-07-26'}",
+      "{'title': 'Meyer Products New Beginnings for Meyer', 'url': 'https://www.meyerproducts.com/footer-nav/news-blog/december-2025/new-beginnings-for-meyer', 'date': '2025-12-30'}",
+      "{'title': 'US Census Bureau Monthly Construction Spending, May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html', 'date': '2026-07-01'}"
+    ],
+    "one_sentence": "Snowplow manufacturers build vehicle-mounted plows, spreaders and related parts for contractors, municipalities, campuses, airports and work-truck upfitters, with 2025 demand rebounding as snowfall improved in core Midwest and Northeast markets.",
+    "slug": "snowplow-manufacturing"
+  },
+  {
+    "title": "Snowplowing Services",
+    "sector": "Business Services",
+    "one_liner": "A fragmented, weather-dependent service industry selling snow and ice clearance to commercial properties, institutions and households in cold-weather markets.",
+    "overview": "The U.S. Snowplowing Services industry is mature, local and highly fragmented. IBISWorld estimated 2025 industry revenue at $27.9 billion, with 108,000 businesses and 200,000 employees, and reported 3.1% annualized revenue growth from 2020 to 2025. Demand is concentrated among industrial sites, large corporate offices, retail properties, small businesses, residential customers and institutions that need parking lots, private roads, sidewalks and entrances kept safe. The industry is structurally tied to winter weather, but not simply to colder temperatures: a mild season reduces billable events, while a single heavy storm can lift revenue and strain crews. NOAA reported that 2025 was the fourth-warmest U.S. year on record and that 2024-25 snowfall was above average in some western, central, Gulf Coast, Southeast and Ohio Valley areas but below average across much of the northern Plains, Upper Midwest and parts of the Northeast. That mix reinforces the industry’s shift toward seasonal contracts, variance clauses, ice-watch services, anti-icing and route-optimization technology.",
+    "key_stats": {
+      "market_size": "$27.9 billion revenue in 2025",
+      "growth": "3.1% CAGR from 2020 to 2025",
+      "businesses": "108,000 businesses in 2025",
+      "employment": "200,000 employees in 2025",
+      "baseline_products": "2021 baseline mix: 49% parking lot and street plowing, 32% deicing and anti-icing, 16% sidewalk and doorway snow clearing, 3% other",
+      "macro_demand_indicator": "Private nonresidential construction spending was $63.553 billion in June 2026, not seasonally adjusted",
+      "weather_indicator": "2025 contiguous U.S. temperature averaged 54.6°F, 2.6°F above the 20th-century average, ranking fourth warmest in 131 years",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$20.8 billion in 2022, implied from the baseline file’s 2021 revenue of $20.466 billion and 2021-2027 projected CAGR of 1.45%",
+      "growth": "1.5% projected 2022 growth from the baseline IBISWorld outlook",
+      "context": "The baseline report expected revenue to reach $22.0 billion by 2026, before the newer 2025 IBISWorld public update placed revenue at $27.9 billion."
+    },
+    "how_it_makes_money": "Operators earn fees through seasonal contracts, per-push or per-event pricing, per-inch snowfall tiers, salt/deicer application charges, sidewalk and entrance-clearing labor, snow hauling and offsite disposal. Commercial accounts often pay for guaranteed service windows, ice monitoring, documentation and liability-reduction practices, while residential revenue is more likely to be route-based driveway and walkway service.",
+    "cost_structure": {
+      "labor": "High variable cost; SIMA cited BLS data showing private-industry compensation rose 3.5% in the 12 months ending June 2025, while snow operators faced a shrinking seasonal labor pool.",
+      "materials": "Salt, brine, calcium chloride, magnesium chloride, sand and fuel are storm-sensitive purchases; deicing material costs rise with storm frequency and supply tightness.",
+      "equipment": "Trucks, plows, loaders, skid steers, spreaders, snow blowers, telematics and maintenance are major capital and repair costs, with 2025 IBISWorld noting exposure to steel and aluminum tariffs for metal-intensive equipment.",
+      "insurance": "A growing pressure point; SIMA reported insurance represented 11% of total costs in recent foundation research, with average one-year premium increases of 6.1%.",
+      "profit": "The 2021 baseline estimated profit margin at 27.8%, but 2025-2026 margins are pressured by labor, fuel, equipment, salt and insurance inflation."
+    },
+    "major_players": [
+      "No company held a large enough 2024 market share for IBISWorld to list as a major player in its 2025 public industry page.",
+      "The industry is dominated by local and regional snow contractors, landscapers, property-maintenance firms and construction contractors that add plowing as winter work.",
+      "Large commercial accounts are often served through regional route networks and subcontractor pools rather than national branded operators."
+    ],
+    "current_dynamics": "The 2025-2026 operating environment is defined by uneven snowfall, warmer average conditions, higher client expectations and rising service costs. Commercial property demand is helped by business formation and nonresidential construction, but mild winters reduce event-based billings and make seasonal labor harder to retain. Contractors are using seasonal-variance pricing, trigger depths, liquid anti-icing, GPS proof-of-service, documentation, and customer communication to manage volatility and liability.",
+    "whats_growing": "Ice management, anti-icing, liquid brine applications, 24/7 ice-watch services, documentation-heavy commercial contracts, GPS/route software, larger regional subcontractor networks and professional certification/accreditation efforts are growing. Demand from commercial, healthcare, education, logistics, multifamily and retail properties remains resilient because slip-and-fall risk does not disappear in low-snow winters.",
+    "whats_shrinking": "Pure per-push residential driveways, undifferentiated commodity plowing, low-margin municipal subcontracting and small operators without insurance capacity are under pressure. Climate variability is also shrinking the reliability of traditional snow-day revenue in parts of the Northeast, Upper Midwest and other historically dependable markets.",
+    "recent_developments": [
+      "Apr. 2025: IBISWorld estimated U.S. Snowplowing Services revenue at $27.9 billion in 2025, with 3.1% CAGR from 2020 to 2025.",
+      "Oct. 7, 2025: SIMA reported rising labor costs and shrinking workforce availability as structural snow-operations challenges, citing 3.5% private-industry compensation growth for the 12 months ending June 2025.",
+      "Jan. 13, 2026: NOAA reported 2025 was the fourth-warmest U.S. year on record and said 2024-25 snowfall was regionally mixed, with deficits in much of the northern Plains, Upper Midwest and parts of the Northeast.",
+      "Feb. 6, 2026: USGS released Mineral Commodity Summaries 2026, the earliest federal 2025 mineral data source for inputs such as salt.",
+      "Jul. 16, 2026: NOAA CPC reported an El Niño Advisory and an 81% chance of a very strong event during October-December 2026.",
+      "Aug. 3, 2026: FRED/Census reported June 2026 private nonresidential construction spending at $63.553 billion, a demand-base indicator for commercial snow service accounts."
+    ],
+    "outlook": "Revenue should keep growing modestly through 2030, but with high year-to-year volatility. The strongest operators will be those that price for snowfall variance, retain trained crews, diversify into landscaping or property maintenance, and document service performance for insurers and property managers. El Niño conditions expected to intensify through late 2026 could shift winter precipitation patterns and create regional upside, but above-normal temperature tendencies in many NOAA outlook areas keep mild-winter risk elevated. Commercial properties will continue outsourcing snow and ice management because access, employee safety and liability control remain mandatory even when snowfall is inconsistent.",
+    "themes": [
+      "Weather volatility",
+      "Warmer winters",
+      "Commercial liability management",
+      "Labor scarcity",
+      "Insurance inflation",
+      "Deicing and anti-icing growth",
+      "Seasonal-variance contracts",
+      "Route optimization and GPS documentation",
+      "Fragmented local competition",
+      "Salt and equipment cost pressure"
+    ],
+    "data_year": "2026, using 2025 market data and 2026 climate, macro and input-cost updates available as of August 8, 2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/snowplowing-services.txt",
+      "https://www.ibisworld.com/united-states/industry/snowplowing-services/5400/",
+      "https://www.ncei.noaa.gov/news/national-climate-202513",
+      "https://www.ncei.noaa.gov/news/national-climate-202502",
+      "https://www.cpc.ncep.noaa.gov/products/predictions/long_range/lead14/fxus05.html",
+      "https://fred.stlouisfed.org/series/PNRESCON",
+      "https://www.census.gov/econ/bfs/index.html",
+      "https://resources.sima.org/snow-and-ice-resource-center/labor-costs-shrinking-workforce-challenges-snow-operations",
+      "https://resources.sima.org/snow-and-ice-resource-center/insurance-premiums-a-problem-to-solve",
+      "https://pubs.usgs.gov/publication/mcs2026"
+    ],
+    "one_sentence": "Snowplowing Services operators generate revenue from plowing, deicing, anti-icing, sidewalk clearing and snow hauling, with 2025 demand supported by a larger commercial property base but constrained by warmer winters, labor shortages, insurance costs and volatile snowfall patterns.",
+    "slug": "snowplowing-services"
+  },
+  {
+    "title": "Soap & Cleaning Compound Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, brand-driven US manufacturing industry selling essential soaps, detergents, cleaners, sanitizers, polishes and surfactants into household, institutional and industrial channels.",
+    "overview": "The industry manufactures and packages soaps, detergents, cleaning compounds, sanitizers, polishes, surface-active agents and textile or leather finishing agents; it excludes synthetic glycerin, industrial bleach and shampoo. Demand is resilient because cleaning products are repeat-purchase essentials for households, foodservice, lodging, healthcare, education and commercial facilities. The category is mature and competitive: large branded manufacturers use scale, retail relationships, advertising and formulation innovation, while smaller firms target natural, sustainable, local or specialty niches. 2025-2026 conditions point to flat-to-modest nominal growth rather than pandemic-era spikes, as elevated prices support revenue but consumers trade down, retailers reduce inventories and real output remains soft.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry sales: about $42.7B, derived from 2024 industry sales of $43.1B and a 2025 decline in broader NAICS 3256 sectoral output to $69.636B from $70.241B in 2024.",
+      "growth": "2025 estimated growth: -0.9% versus 2024, using BLS/FRED broader NAICS 3256 sectoral output as the current proxy.",
+      "producer_prices": "May 2026 soap and cleaning compound manufacturing PPI: 191.540, up from 188.829 in December 2025 and 185.700 in May 2025.",
+      "employment": "2022 baseline employment: 60,957 people.",
+      "establishments": "2022 baseline establishments: 5,050 units.",
+      "exports": "2022 baseline exports: $9.147B.",
+      "imports": "2022 baseline imports: $5.475B.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $51.039B in 2022 dollars.",
+      "growth": "2022 IBISWorld revenue growth: +4.1%.",
+      "profit": "2022 IBISWorld profit: $4.185B.",
+      "profit_margin": "2022 IBISWorld profit margin: 8.2%.",
+      "industry_gross_product": "2022 IBISWorld industry gross product: $9.397B.",
+      "domestic_demand": "2022 IBISWorld domestic demand: $47.367B.",
+      "wages": "2022 IBISWorld wages: $4.306B."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by producing branded and private-label cleaning products for retailers, wholesalers, commercial distributors, healthcare and hospitality buyers. Core revenue comes from household laundry detergents, dish detergents, surface cleaners, disinfectants, hand hygiene products, polishes, specialty sanitation goods and surfactants. Large firms monetize national brands and shelf placement, while institutional suppliers add value through dispensing equipment, service contracts, compliance support and direct sales relationships.",
+    "cost_structure": {
+      "materials": "2022-2026: petrochemical derivatives, surfactants, alkalis, fragrances, packaging resin, paperboard and logistics are the main variable costs; BLS PPI data show industry output prices still rising into May 2026.",
+      "wages": "2022 wages were $4.306B, equal to about 8.4% of 2022 IBISWorld revenue.",
+      "profit": "2022 EBIT profit margin was 8.2%; 2025-2026 margins are pressured by manufacturing, logistics and tariff costs but supported by productivity programs and pricing.",
+      "marketing_and_trade_spend": "2025-2026: large consumer brands rely on advertising, promotions, coupons and retail trade spending to defend share against private label.",
+      "compliance": "2025-2027: PFAS reporting, state chemical restrictions, disinfectant claims and product-safety documentation raise formulation, testing and recordkeeping costs."
+    },
+    "major_players": [
+      "Procter & Gamble",
+      "Colgate-Palmolive",
+      "Clorox",
+      "Ecolab",
+      "Church & Dwight",
+      "SC Johnson",
+      "Henkel North America",
+      "Diversey"
+    ],
+    "current_dynamics": "Current demand is split: household essentials remain stable, premium eco-friendly and convenience formats are growing selectively, but consumers remain price-sensitive after several years of inflation. Retailers are using private label and inventory discipline to pressure branded manufacturers. Commercial and institutional cleaning demand is healthier than 2020 but no longer in emergency-growth mode. P&G reported fiscal 2026 Fabric & Home Care net sales of $30.314B, up 2%, with flat organic volume; Clorox reported fiscal Q3 2026 Health and Wellness sales essentially flat while lowering fiscal 2026 organic sales expectations. Industry output prices continued to climb in 2026, but real production indicators for the broader soap, cleaning compound and toilet-preparation group weakened through Q1 2026.",
+    "whats_growing": [
+      "2025-2026: concentrated detergents, unit-dose formats and higher-performance formulations that justify premium pricing.",
+      "2025-2026: institutional hygiene, hand sanitizer and skin-hygiene platforms, highlighted by Clorox buying GOJO/Purell in 2026.",
+      "2025-2026: sustainable, refillable, biodegradable and lower-water formulations, especially among younger and premium consumers.",
+      "2025-2026: private-label and value-tier cleaners as consumers seek lower prices.",
+      "2025-2026: commercial dispensing systems, digital monitoring and service-led cleaning programs in foodservice, healthcare and lodging."
+    ],
+    "whats_shrinking": [
+      "2025-2026: pandemic-era disinfectant stockpiling and emergency sanitizer demand.",
+      "2025-2026: undifferentiated branded household cleaners exposed to retailer price pressure and private-label substitution.",
+      "2025-2026: PFAS-containing or high-risk chemical formulations as state and federal reporting and restriction regimes tighten.",
+      "2025-2026: real output in the broader NAICS 3256 category, with Federal Reserve/FRED industrial production at 81.3008 in Q1 2026 versus 89.3272 in Q1 2025.",
+      "2025-2026: volume-led growth at large consumer brands where pricing, mix and foreign exchange are doing more of the work than unit demand."
+    ],
+    "recent_developments": [
+      "2025-01-02: Kentley Insights reported 2024 US soap and cleaning compound manufacturing sales of $43.1B.",
+      "2026-01-22: Clorox announced a $2.25B cash acquisition of GOJO Industries, maker of Purell.",
+      "2026-04-01: Clorox completed the GOJO acquisition, expanding into skin hygiene and B2B health-hygiene channels.",
+      "2026-04-13: EPA finalized another modification to the TSCA PFAS reporting start period, pushing most reporting toward 2027 timing while revisions continue.",
+      "2026-05-01: BLS/FRED soap and cleaning compound manufacturing PPI reached 191.540, above 188.829 in December 2025.",
+      "2026-07-29: P&G reported fiscal 2026 Fabric & Home Care net sales of $30.314B, up 2%, with organic sales up only 1% companywide."
+    ],
+    "outlook": "The 2026-2028 outlook is for low single-digit nominal growth, with revenue helped by pricing, hygiene habits, commercial activity and product innovation but restrained by slow household formation, retailer bargaining power and trade-down behavior. Margins should improve only gradually if resin, chemical and freight costs stabilize; however, tariffs, PFAS compliance and reformulation costs remain downside risks. Branded leaders will keep using productivity savings, premium formats, concentrated products and acquisitions to defend share, while private label and niche sustainable brands take incremental volume.",
+    "themes": [
+      "Essential repeat-purchase demand",
+      "Mature category with low real growth",
+      "Private-label pressure",
+      "Premium and eco-friendly formulations",
+      "Institutional hygiene and hand care",
+      "Input-cost and tariff pressure",
+      "PFAS and chemical compliance",
+      "Retailer inventory discipline",
+      "Brand consolidation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/soap-and-cleaning-compound-manufacturing-in-the-us.txt",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Soap-Cleaning-Compound-Manufacturing-Research-39138568/",
+      "https://fred.stlouisfed.org/data/IPUEN3256T300000000",
+      "https://fred.stlouisfed.org/data/PCU3256132561",
+      "https://fred.stlouisfed.org/series/IPG3256SQ",
+      "https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/",
+      "https://us.pg.com/annualreport2025/",
+      "https://investors.thecloroxcompany.com/news/news-details/2026/Clorox-Announces-Acquisition-of-GOJO-Industries-Makers-of-Purell-Market-Leader-in-Skin-Health-and-Hygiene/",
+      "https://investors.thecloroxcompany.com/news/news-details/2026/Clorox-Completes-Acquisition-of-GOJO-Industries-Makers-of-Purell/default.aspx",
+      "https://investors.thecloroxcompany.com/news/news-details/2026/Clorox-Reports-Q3-Fiscal-Year-2026-Results-Updates-Outlook/default.aspx",
+      "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca/tsca-section-8a7-reporting-and-recordkeeping",
+      "https://www.census.gov/naics/?details=32561&input=32561&year=2017",
+      "https://www.sec.gov/Archives/edgar/data/313927/000119312526048139/chd-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/21665/000002166526000006/cl-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/31462/000110465926018357/ecl-20251231x10k.htm"
+    ],
+    "one_sentence": "US soap and cleaning compound manufacturers are seeing steady replacement demand but weaker volume growth, with 2025-2026 performance shaped by value-seeking consumers, private-label competition, commercial hygiene demand, input-cost inflation, PFAS compliance and consolidation around trusted hygiene brands.",
+    "slug": "soap-and-cleaning-compound-manufacturing-in-the-us"
+  }
+]

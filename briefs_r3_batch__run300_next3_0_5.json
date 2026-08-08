@@ -1,0 +1,326 @@
+[
+  {
+    "title": "Water Heater Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "US water-heater manufacturing is in a mature, replacement-led phase in 2025–2026, with modest demand growth and faster product shifts toward higher-efficiency gas and electric technologies.",
+    "overview": "The US market is small, concentrated, and cyclical. Residential replacements represent roughly 80% of water-heater demand and historically dominate demand, while new construction supports demand in only a partial secondary role. The sector is strongly affected by trade and input costs, with major players reporting pricing pressure from steel and tariff-related volatility. US policy is a major inflection point: standards and phase-in dates are reshaping product design, and commercial customers are showing forward purchasing behavior as the DOE commercial milestone approaches. Overall, industry growth is low, but mix and margin drivers are shifting toward efficient electric and condensing platforms.",
+    "key_stats": {
+      "market_size": "USD 6.40 billion in the US water heater market in 2026 (estimate); legacy industry-revenue proxy remains around USD 3.2 billion in 2026 under 2021 IBIS trajectory",
+      "growth": "legacy trajectory: ~0.4% annualized to 2026; commercial water-heater volumes indicated growth in 2025 and expected mid-single digits in 2026 by a major public US manufacturer",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "USD 3.13 billion (2022 proxy, derived from the baseline 2021 level of USD 3.117 billion and the legacy 0.57% annualized path)",
+      "growth": "0.57% implied annualized growth from 2021 to 2026 in the baseline trajectory"
+    },
+    "how_it_makes_money": "Revenue is primarily from replacement of installed water heaters in homes and small commercial buildings, sold through wholesale plumbing channels, retail hardware chains, and direct contractor channels; major product lines include storage tank heaters, instantaneous/tankless models, and commercial/boiler-integrated heat products. Sales are cyclical around replacement timing, housing construction, and equipment replacement cycles, with commercial demand more sensitive to code and efficiency requirements.",
+    "cost_structure": "Key cost drivers are steel and component materials, tariffs on imported subassemblies, freight and logistics cost volatility, energy-intensive manufacturing overhead, compliance engineering, and pricing-recovery risk in channels with mixed OEM and channel inventory exposure.",
+    "major_players": [
+      "A. O. Smith Corporation",
+      "Rheem Manufacturing",
+      "Bradford White",
+      "Rinnai",
+      "Navien",
+      "Lochinvar (A. O. Smith)"
+    ],
+    "current_dynamics": "Demand is stabilizing after earlier pent-up replacement demand, while the industrial structure is constrained by concentration and import competition; firms are balancing margin protection through pricing with new-product spending. US housing data in 2025 showed flat-to-soft replacement intensity in many markets, while manufacturers are preparing for rule-driven upgrades. The commercial segment is relatively better positioned by 2026 because standards change is expected to make certain higher-efficiency products more urgent.",
+    "whats_growing": [
+      "Commercial water-heater demand and buy-ahead demand tied to the upcoming commercial water-heater compliance regime (expected in the 2026 period)",
+      "Electrification-oriented replacement demand where electrical infrastructure and efficiency targets are favorable",
+      "Higher-efficiency tank and condensing product positioning by incumbents preparing for stricter standards"
+    ],
+    "whats_shrinking": [
+      "Residential flat-unit replacement volumes are flat-to-down in 2026 guidance while existing-asset replacement is expected to normalize",
+      "Low-cost imported non-distinct water-heater models face stronger margin pressure under tariff and compliance regimes",
+      "Housing-start-driven demand softness in new construction versus replacement demand in several 2025 periods"
+    ],
+    "recent_developments": [
+      "2024-05-06: DOE finalized amended consumer water-heater efficiency standards with compliance starting 2029 and more than half of new electric storage models expected to be heat-pump-based.",
+      "2025-03-20: DOE announced further delay of the Dec 2024 gas instantaneous-water-heater final-rule effective date to May 2025 in regulatory timeline updates.",
+      "2025-05-20: DOE published that the Dec 2024 final rule for gas-fired instantaneous water heaters was withdrawn, with related compliance status revised.",
+      "2025-12-28 (reported in Dec 2025 Census release): US 2025 housing starts estimated at 1,358,700, below 2024's annual level.",
+      "2026-01-12 (Census Jan 2026 release): housing starts in Jan 2026 were 1,487,000 SAAR.",
+      "2026-02-18 (Census Dec 2025 release): 2025 housing permits were 1,425,200 and starts were 1,358,700, showing a still-softing trend."
+    ],
+    "outlook": "Near-term growth is likely modest through 2026, with resilience concentrated in commercial upgrades, replacement cycles, and firms able to pass through costs. The larger upside is structural: policy-driven conversion to high-efficiency electric and condensing architectures may lift average selling price and system value, but only after short-term mix shifts and transition costs are absorbed.",
+    "themes": [
+      "Regulatory acceleration toward higher-efficiency standards (2026–2029 milestones)",
+      "Replacement demand remains the core engine despite housing slowdown",
+      "Cost pressure from tariffs, steel, and supply-chain localization",
+      "Commercial pre-buy behavior before enforcement-ready standards changes",
+      "Higher-efficiency and heat-pump adoption constrained by upfront cost and retrofit complexity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/water-heater-manufacturing.txt",
+      "https://www.energy.gov/articles/doe-finalizes-efficiency-standards-water-heaters-save-americans-over-7-billion-household",
+      "https://www.energy.gov/cmei/buildings/consumer-water-heaters",
+      "https://www.energy.gov/gc/articles/commercial-water-heater-enforcement-policy",
+      "https://www.sec.gov/Archives/edgar/data/91142/000009114226000008/aos-20251231.htm",
+      "https://www.eia.gov/todayinenergy/detail.php?form=MG0AV3&id=64344",
+      "https://www.census.gov/construction/nrc/pdf/newresconst_202512.pdf",
+      "https://www.census.gov/construction/nrc/pdf/newresconst_202601.pdf",
+      "https://www.census.gov/construction/nrc/pdf/newresconst_202605.pdf",
+      "https://rmi.org/resources/tracking-the-heat-pump-water-heater-market-in-the-united-states/"
+    ],
+    "one_sentence": "Industry revenue remains tied to home replacements, but tighter DOE standards, rising natural-gas-related costs, and commercial-rule timing are driving higher efficiency content and more volatility in 2026.",
+    "slug": "water-heater-manufacturing"
+  },
+  {
+    "title": "Water Supply & Irrigation Systems in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "The U.S. water supply and irrigation services market is a mature, regulation-heavy utility business growing slowly, with capital spending, rate-driven demand, and drought resilience creating the key upside.",
+    "overview": "The baseline IBIS snapshot shows a 2022 industry revenue base of USD 91.348 billion and a projected rise to USD 96.2 billion over five years, while recent U.S. policy and climate signals in 2025-2026 show why spending intensity remains high despite weak demand growth. Utilities are facing aging pipes, distribution reliability risks, PFAS and lead compliance pressure, and tighter water availability in western basins. At the same time, stronger conservation behavior and slower per-capita usage are limiting purely volume-driven growth, so operators increasingly depend on cost recovery through approved rates, grants, and financing tools.",
+    "key_stats": {
+      "market_size": {
+        "value": 94869,
+        "unit": "USD million",
+        "year": 2026,
+        "note": "Derived from IBIS 2022 baseline using projected 0.95% CAGR to 2027."
+      },
+      "growth": {
+        "value": 0.95,
+        "unit": "percent annualized CAGR",
+        "period": "2022-2027 (IBIS projection)"
+      },
+      "federal_water_infra_support": {
+        "value": 3040,
+        "unit": "USD million",
+        "year": 2025,
+        "note": "FY2026 EPA water infrastructure table includes total STAG-like support of USD 3.04B in enacted water infrastructure programs (EPA/IIJA context)."
+      },
+      "irrigation_farms_and_water": {
+        "farms": 212714,
+        "irrigated_acres": 53.1,
+        "unit2": "million acres",
+        "water_applied": {
+          "value": 81.0,
+          "unit": "million acre-feet",
+          "year": 2023
+        },
+        "year": 2024
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": {
+        "value": 91348,
+        "unit": "USD million",
+        "year": 2022
+      },
+      "growth": {
+        "five_year_avg_to_2022": 1.8,
+        "unit": "percent CAGR",
+        "note": "Revenue trend noted in IBIS baseline through 2022."
+      }
+    },
+    "how_it_makes_money": "Revenue is primarily from water sales to residential, commercial, and industrial users through public utility service operations, with additional income from service/operations contracts as private firms manage public systems. Rate increases approved by state and local utility commissions and PUCs remain the main mechanism to recover capital-intensive system upgrades and compliance spending.",
+    "cost_structure": "Key cost drivers are labor and field operations, electricity and treatment chemicals, pumping and distribution losses, pipe and asset replacement, debt servicing on long-life infrastructure, cyber/IT controls, and compliance with drinking-water quality and infrastructure security requirements.",
+    "major_players": [
+      "American Water Works Company",
+      "Essential Utilities",
+      "California Water Service Group",
+      "American States Water Company",
+      "Veolia Water Technologies",
+      "Xylem",
+      "Pentair",
+      "Suez"
+    ],
+    "current_dynamics": "Demand is constrained by conservation and economic efficiency, but infrastructure aging is forcing continuous reinvestment. In 2025, AWWA reported capital funding as the top sector challenge, while EPA funding and emergency lead-replacement programs remain central for 2025-26 planning. Western drought conditions through the 2025 water year (including 65.5% of the West in drought) increase urgency for source reliability planning and conservation-oriented operating changes, and irrigation stakeholders are adjusting both application technology and water-source mix.",
+    "whats_growing": [
+      "Replacement of aging lead or high-risk distribution assets, including lead service lines and safety-related upgrades.",
+      "Private operation and scale consolidation around larger regional water systems and management teams.",
+      "Use of grants and leveraged financing linked to modernization, cyber resilience, and source quality compliance.",
+      "Irrigation technology upgrades that improve uniformity and monitoring at farm and district levels.",
+      "Drought-contingency planning and local water resilience investments in the Western states."
+    ],
+    "whats_shrinking": [
+      "Volume-led revenue growth from new water demand, as efficiency programs and conservation reduce per-capita residential use.",
+      "Share of irrigation demand from public supply systems, which remains structurally small versus agriculture self-supplied systems.",
+      "Profit margin upside from simple growth playbooks; cost and compliance intensity remain high.",
+      "Small-system resilience in isolation; many very small systems face pricing and capex disadvantages without scale."
+    ],
+    "recent_developments": [
+      "2025-06-05: AWWA released its 2025 State of the Water Industry Report; capital funding was identified as the top challenge.",
+      "2025-09-03: Drought.gov reported 65.5% of the Western U.S. in drought and 14% in extreme/exceptions drought conditions.",
+      "2025-10-31: USDA NASS reported 2023 irrigation figures of 212,714 irrigating farms, 53.1 million irrigated acres, and 81.0 million acre-feet of water applied.",
+      "2025-11-25 (updated 2026-03-16): EPA announced USD 3.0 billion for lead service line replacement and USD 1.1 billion in reallocated federal funds, with updated lead line estimate at 4.0 million.",
+      "2026: FY2026 federal water program appropriations table shows continued EPA SRF support for water infrastructure, with FY2026 figures for CWSRF and DWSRF included in enacted totals."
+    ],
+    "outlook": "For 2025-2026 and beyond, the sector is likely to remain a low-growth, high-investment market: stable demand plus higher compliance complexity supports revenue, but expansion in physical volume remains limited. Operators with stronger balance sheets and regional scale are positioned to gain, while systems unable to fund timely replacement will face service and reliability risks.",
+    "themes": [
+      "Aging asset replacement cycle",
+      "Rate-led utility modernization",
+      "Water quality compliance (lead/PFAS)",
+      "Drought resilience and source diversification",
+      "Privatization and scale consolidation",
+      "Efficiency in irrigation systems and metering"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/water-supply-and-irrigation-systems-in-the-us.txt",
+      "https://www.epa.gov/dwsrf/epas-6th-drinking-water-infrastructure-needs-survey-and-assessment",
+      "https://www.everycrsreport.com/reports/IF13177.html",
+      "https://www.epa.gov/newsreleases/epa-announces-3-billion-new-funding-states-reduce-lead-drinking-water",
+      "https://www.fred.stlouisfed.org/series/REVEF2213ALLEST",
+      "https://www.awwa.org/AWWA-Articles/capital-funding-emerges-as-top-challenge-in-awwas-state-of-the-water-industry-report/",
+      "https://www.usgs.gov/publications/water-use-across-conterminous-united-states-water-years-2010-20",
+      "https://www.nass.usda.gov/Publications/Highlights/2024/Census22_HL_Irrigation_4.pdf",
+      "https://www.drought.gov/news/western-drought-issue-2025-09-03",
+      "https://www.nrcs.usda.gov/conservation-basics/water/western-water-framework",
+      "https://www.marketresearch.com/MarketLine-v3883/Water-Utilities-United-States-42552842/"
+    ],
+    "one_sentence": "The industry is stabilizing on a base of public utility scale infrastructure, with slow volume growth and rising investment needs for system replacement, contamination control, and drought resilience.",
+    "slug": "water-supply-and-irrigation-systems-in-the-us"
+  },
+  {
+    "title": "Water Well Drilling Services",
+    "sector": "Construction",
+    "one_liner": "Specialized contractors that drill, install, and rehabilitate water wells and associated water-supply distribution infrastructure.",
+    "overview": "This is a niche, labor- and equipment-intensive service industry supporting water supply infrastructure for homes, commercial buildings, and utility systems. The baseline profile emphasizes a three-part work mix: water-main/related supply infrastructure, building-related water services, and other non-building work, with utility and local-government-led infrastructure activity acting as the strongest cycle driver. As projects shift toward rehabilitation, contamination-response upgrades, and resilience retrofits, operators are increasingly competing for smaller specialized bids while maintaining field readiness for emergency replacements.",
+    "key_stats": {
+      "market_size": "US$5.0 billion (2025 estimate from the industry trajectory in baseline data)",
+      "growth": "~2.1% CAGR over the 2021-2025 period in the prior baseline outlook",
+      "notes": "Cyclical demand tied to public utility and local construction budgets; industry characterized by medium regulatory and project-sourcing pressure.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "~US$4.7 billion (estimated from US$4.513 billion in 2020 and 2025 trajectory in baseline text)",
+      "growth": "~+4.2% cumulative from 2020 to 2022 (estimated)",
+      "notes": "The provided baseline file gives explicit 2020 and 2025 outlook values; 2022 is estimated consistently from that trend."
+    },
+    "how_it_makes_money": "Revenue is earned per well-drilling and rehabilitation job: new well construction, pump installation, water line and related mains work, and maintenance/repair services. Baseline splits are utility-oriented: roughly 65% from water main and related infrastructure work, with residential/commercial building-related work a substantial second segment and smaller shares from other non-building work. Revenue mix has historically included both private projects (about 54.7% in the baseline) and public-sector projects (about 39.8%).",
+    "cost_structure": "Specialized field labor and rig utilization dominate direct costs; major inputs include drilling consumables, pipe and pumping components, mobilization, fuel, and local compliance/admin overhead; financing costs matter for equipment and contractor working capital cycles, especially when public funding approvals are delayed.",
+    "major_players": [
+      "AAA Well Drilling, Inc.",
+      "Advanced Well Drilling, LLC",
+      "Barco Well Service, LP",
+      "Bill's Well Drilling Co.",
+      "Bishop Well and Pump",
+      "Breland Well Drilling Co., Inc.",
+      "Merrill Drilling & Water Systems",
+      "Murray Drilling Company",
+      "Murray Drilling Company"
+    ],
+    "current_dynamics": "The near-term dynamic is replacement-driven demand from stressed local systems and municipal utilities, overlaid by tighter project certainty as subsidy structures tighten. The 2026 environment is still supportive where SRF/WIFIA-backed pipelines can close quickly, but operators face uneven monthly residential momentum and persistent funding-structure caution.",
+    "whats_growing": [
+      "Demand from replacement/rehab of drinking-water assets is increasing as regulatory and service-life pressure accumulates.",
+      "Private-sector support from small-system upgrades and development-linked water hookups remains a stabilizer.",
+      "2026 residential permits and starts data show pockets of recovery in spring-summer months versus 2025 softness."
+    ],
+    "whats_shrinking": [
+      "Single-figure margins are vulnerable to permit lags, permitting complexity, and replacement-cycle timing.",
+      "The temporary IIJA-style federal infusion has a visible edge; continuation risk pushes customers toward slower multi-year planning.",
+      "High inflation/financing sensitivity in project financing can defer utility-capex-heavy work in smaller municipalities."
+    ],
+    "recent_developments": [
+      "2026-03-26: AWWA reported drinking-water infrastructure needs of $2.1-$2.4 trillion through 2050 and a projected annual funding gap of about $56.6 billion versus $33.6 billion current spending.",
+      "2026-04-14: EPA published FY2026 Drinking/Water SRF allotment memo for IIJA and base-program funds; source notes Congressional decrease in earmarked C-D-CG flexibility and continued focus on PFAS/lead/nitrate/arsenic needs.",
+      "2026-05-14: Census finalized 2025 annual building permits with 1,431,616 new privately owned housing units authorized, 3.1% below 2024.",
+      "2026-06-17: Census reported June 2026 starts at 1,427,000 SAAR, above June 2025 (1,379,000).",
+      "2026-06-12: AWWA coalition urged sustained SRF/WIFIA support plus PFAS/lead and resilience investment in its letter to lawmakers."
+    ],
+    "outlook": "By 2027, water-well drilling should remain in a modest-growth lane: utility-grade repair and replacement work should stay supported by aging-system risk, while new build demand stays dependent on residential and municipal capital throughput. The strongest upside comes from backlog release on financed public utility projects; the strongest downside risk remains slower municipal approvals and financing constraints.",
+    "themes": [
+      "Aging infrastructure replacement cycle",
+      "Public vs private capital dependence",
+      "Regulatory compliance and emerging contaminants",
+      "Rural and small-system resilience needs",
+      "Cost and labor intensity in specialized construction"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/water-well-drilling-services.txt",
+      "https://www.awwa.org/AWWA-Articles/awwa-report-finds-rising-drinking-water-infrastructure-costs-and-other-needs-put-affordability-at-risk/",
+      "https://www.awwa.org/AWWA-Articles/awwa-calls-for-strong-federal-investigation-in-water-infrastructure/",
+      "https://www.awwa.org/resource/water-infrastructure-funding/",
+      "https://www.epa.gov/dwsrf/fiscal-year-2026-allotments-state-revolving-fund-provisions-infrastructure-investment-and",
+      "https://www.census.gov/construction/bps/pdf/annual_highlights.pdf",
+      "https://www.census.gov/construction/nrc/current/",
+      "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+      "https://www.wellwater.watersystemscouncil.org/list/ql/contractor-2"
+    ],
+    "one_sentence": "Demand in 2026 remains driven by housing growth and aging public water systems, but project volume is constrained by uneven public finance and stricter compliance requirements.",
+    "slug": "water-well-drilling-services"
+  },
+  {
+    "title": "Weather Forecasting Services",
+    "sector": "Technology & Digital",
+    "one_liner": "Private weather intelligence firms are expanding rapidly in 2026 as volatile U.S. weather raises the value of hyper-local, AI-ready forecasts for resilience and operations.",
+    "overview": "Weather forecasting services include private operators that produce short- to seasonal forecasts, risk indices, and operational decision support across aviation, logistics, agriculture, energy, insurance, construction, and public safety. Private firms are no longer competing only on headline weather bulletins; they now sell forecast products tailored to operational loss prevention and resource optimization. For policy and enterprise users, the market increasingly competes on latency, reliability, and integration depth with existing systems rather than forecast speed alone. This is a low-barrier-to-entry technology stack with rising execution advantage for firms that can scale compute, data quality, and domain-specific model deployment.",
+    "key_stats": {
+      "market_size": {
+        "us_ibis_private_services_2022": "USD 16.642 billion",
+        "global_private_market_2026": "USD 2.95 billion (Fortune Business Insights estimate) to USD 3.1 billion (Grand View Research estimate), methodology-dependent"
+      },
+      "growth": {
+        "ibis_us_services_2005_2022": "7.15% CAGR (historical)",
+        "ibis_us_services_2022_to_2028": "3.84% CAGR (projected)",
+        "global_private_services_2026_to_2028_2026_2034": "7.40% CAGR (Fortune Business Insights)",
+        "global_private_services_2026_to_2028_2026_2033": "7.0% CAGR (Grand View Research)"
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "USD 16.642 billion",
+      "growth": "2022 growth 1.3%; 2005-2022 CAGR 7.15%; five-year project to 2028: 3.84% CAGR"
+    },
+    "how_it_makes_money": "Revenue is primarily from annual enterprise subscriptions, API/API-like weather data access, enterprise consultation, aviation and utilities contracts, and premium decision-support products sold by sector (energy, transport, agriculture, public safety, insurance). Demand is increasingly tied to contractual service level agreements for reliability, alert quality, and integration with risk and scheduling systems.",
+    "cost_structure": "The cost base is weighted toward high-skill meteorological talent, AI model engineering and validation, compute/storage for model training and ensemble runs, cloud/API delivery, licensing of observational and remote-sensing data, and sales/support teams for mission-critical enterprise integrations.",
+    "major_players": [
+      "AccuWeather",
+      "The Weather Company",
+      "Tomorrow.io",
+      "DTN LLC",
+      "StormGeo",
+      "Climavision"
+    ],
+    "current_dynamics": "In 2025–2026, growth is driven by AI-native forecast integration, stronger demand from aviation/logistics/energy resilience planning, and tighter public-private workflows. NOAA’s own programs are explicitly testing AI in water and hydrologic forecasting through CRADAs, while private firms are accelerating their model and observation stacks through high-resolution training data partnerships.",
+    "whats_growing": "Commercial contracts around extreme-weather operations, aviation disruption avoidance, grid/outage management, and agriculture risk optimization are growing faster than mass consumer usage. AI-native capabilities are shifting value from raw forecast delivery toward actionable, sector-specific decision intelligence.",
+    "whats_shrinking": "Standalone commodity forecast products with little operational integration are losing share relative to embedded intelligence platforms. Firms that do not modernize latency, API depth, and decision workflows face stronger churn pressure from enterprise buyers.",
+    "recent_developments": [
+      "2026-06-25: NOAA’s Office of Water Prediction signed a CRADA with Upstream Tech to test AI-based water prediction workflows for flood and drought decision support.",
+      "2026-04-23: The Weather Company and MITRE announced a collaboration to apply high-resolution Weather 1K data to AI-based forecasting tools and pursue near-term 1-km systems.",
+      "2026-02-03: Tomorrow.io announced $175 million financing to expand its DeepSky AI-native weather satellite constellation.",
+      "2026-05-18: Tomorrow.io added $35 million, raising Series F to $210 million, to scale AI capabilities and space-based observation.",
+      "2026-07-09: NCEI noted 2026 June U.S. temperatures were in the warmest third, with 374 preliminary tornado reports and mixed regional precipitation extremes.",
+      "2025-01-13 (published 2026): NCEI reported 2025 as the fourth-warmest U.S. year in its annual analysis, reinforcing climate-risk demand for enterprise forecasting."
+    ],
+    "outlook": "The industry is positioned for moderate-but-steady growth through 2027+ with faster gains in enterprise resilience use cases than in generic media-oriented forecasting. Cost pressure will come from hiring and compute, but demand from climate-risk management and mission-critical operations should sustain premium pricing for high-quality, API-first, AI-enhanced services.",
+    "themes": [
+      "AI-native forecasting and foundation-model workflows",
+      "Public-private convergence on weather intelligence",
+      "Resilience-as-a-service for logistics, aviation, utilities, and insurers",
+      "Hyper-local precision replacing broad public-broadcast forecasting",
+      "Climate volatility increasing risk-management demand"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/weather-forecasting-services.txt",
+      "https://www.grandviewresearch.com/industry-analysis/weather-forecasting-services-market-report",
+      "https://www.fortunebusinessinsights.com/industry-reports/weather-forecasting-services-market-101365",
+      "https://crsreports.congress.gov/product/IF13024/",
+      "https://www.congress.gov/crs-product/IF12944",
+      "https://www.ncei.noaa.gov/news/national-climate-202606",
+      "https://www.ncei.noaa.gov/news/national-climate-202513",
+      "https://www.weathercompany.com/news/mitre-and-the-weather-company-collaborate-to-advance-global-weather-intelligence/",
+      "https://techpartnerships.noaa.gov/noaas-office-of-water-prediction-signs-agreement-with-upstream-tech-inc-to-evaluate-state-of-the-art-ai-in-water-prediction-forecasts/",
+      "https://www.prnewswire.com/news-releases/tomorrowio-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation-302677432.html",
+      "https://www.tomorrow.io/blog/tomorrow-io-expands-investment-from-pitango-and-harel-insurance-increasing-series-f-to-210m/"
+    ],
+    "one_sentence": "The U.S. weather forecasting services industry remains in expansion mode in 2025–2026 as companies combine NWS-derived data, AI models, and new satellite or sensor networks to monetize mission-critical decision intelligence.",
+    "slug": "weather-forecasting-services"
+  }
+]

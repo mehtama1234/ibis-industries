@@ -1,0 +1,371 @@
+[
+  {
+    "title": "Industrial Chocolate Production",
+    "sector": "Manufacturing",
+    "one_liner": "US industrial chocolate producers turn cocoa beans into cocoa powder, liquor, butter, syrup and bulk chocolate ingredients for confectionery, bakery, dairy and snack manufacturers.",
+    "overview": "The industry presses, grinds and processes cocoa beans into intermediate ingredients rather than finished retail candy. The 2021 IBISWorld baseline described a mature $1.9 billion US industry with high import penetration, high customer concentration and modest long-run growth tied to chocolate confectionery, bakery, dairy beverage and dessert demand. The 2025-2026 market is materially different from that baseline because the 2023/24 cocoa crop deficit and record cocoa prices pushed selling prices sharply higher, raised working-capital needs and reduced global grindings. US producers with cost-plus contracts and scale can pass through more of the input shock, while smaller processors face margin risk, financing strain and buyer pushback.",
+    "key_stats": {
+      "market_size": "2025 US industry revenue estimated at about $2.4 billion-$2.7 billion, up from the 2021 IBISWorld baseline of $1.933 billion, mainly because cocoa-linked pricing inflated dollar sales despite softer volumes.",
+      "growth": "2025 nominal revenue growth estimated in the high-single-digit to low-double-digit range; 2025 physical demand was weaker as high prices reduced chocolate volumes across food manufacturers.",
+      "profit_margin": "2025 industry margin estimated near 4%-6%, compared with the 2021 IBISWorld baseline margin of 5.2%, with larger cost-plus suppliers more protected than smaller operators.",
+      "establishments": "2021 IBISWorld baseline: 141 US establishments; old 2026 forecast: 155 establishments, but 2025-2026 financing and input-cost pressure likely slowed net entry.",
+      "employment": "2021 IBISWorld baseline: 4,796 employees; old 2026 forecast: 5,161 employees.",
+      "trade": "2021 IBISWorld baseline: $187 million exports and $1.071 billion imports; import exposure remains high in 2025-2026 for cocoa products and bulk chocolate preparations.",
+      "global_cocoa_balance": "ICCO May 2026 estimate for cocoa year 2024/25: 4.723 million tonnes world production, 4.628 million tonnes grindings and a 48,000-tonne surplus after the 2023/24 deficit of about 492,000 tonnes.",
+      "downstream_chocolate": "NCA 2026 State of Treating reported 2025 US chocolate confectionery sales of $28.4 billion, 51.7% of confectionery sales, with dollar sales helped by inflation but units and volume pressured.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue estimated at about $1.96 billion by applying the baseline IBISWorld 2021-2026 projected CAGR of 1.3% to 2021 revenue of $1.933 billion.",
+      "growth": "2022 baseline growth assumption: about 1.3% nominal/real-projected annual growth from the 2021 IBISWorld outlook, before the 2023-2025 cocoa price shock.",
+      "profit_margin": "2022 baseline margin implied near 5.1%-5.2%, consistent with the 2021 IBISWorld profit margin of 5.2% and old 2026 forecast of 5.0%.",
+      "products": "2021 baseline revenue mix: cocoa powder 42.8%, sweetened chocolate 34.2%, cocoa liquor 9.0%, cocoa butter 5.2%, unsweetened chocolate 4.9% and chocolate syrup 3.9%.",
+      "context": "The 2022 baseline assumed improving post-COVID downstream demand and moderately rising cocoa prices, not the severe 2024-2025 cocoa supply shock."
+    },
+    "how_it_makes_money": "Operators buy cocoa beans and related inputs, grind and press them into cocoa powder, cocoa liquor, cocoa butter, coatings, bulk sweetened or unsweetened chocolate, chips, blocks and syrups, then sell those ingredients in bulk to food manufacturers. Revenue depends on contracted volumes, pass-through pricing for cocoa beans, product mix, sustainable or organic premiums, technical formulation services and reliability of supply for large confectionery, bakery, dairy, snack and foodservice customers.",
+    "cost_structure": "Cocoa beans and semi-finished cocoa inputs are the dominant purchase cost and the main source of margin volatility. Wages were $226 million in the 2021 IBISWorld baseline, equal to roughly 11.7% of 2021 revenue. Other costs include sugar, dairy ingredients, vegetable fats, packaging, utilities, freight, plant maintenance, depreciation, quality control, food safety compliance, sustainability and traceability programs, hedging, financing and working capital. In 2025-2026, elevated cocoa prices increased inventory financing costs and made working-capital management a central operating issue.",
+    "major_players": [
+      "{'name': 'Cargill Cocoa & Chocolate', 'position': \"Large North American cocoa and chocolate ingredient supplier with cocoa powders, liquors, butters, coatings, fillings and bulk chocolate brands including Gerkens, Wilbur, Peter's, Merckens and Ambrosia.\"}",
+      "{'name': 'Barry Callebaut', 'position': 'Global chocolate and cocoa solutions leader with multiple US locations; reported 2024/25 group volume down 6.8% but sales revenue up 49.0% in local currencies because of cocoa-linked pricing.'}",
+      "{'name': 'Blommer Chocolate Company / Fuji Oil Group', 'position': 'Major US industrial chocolate and cocoa processor; Blommer states that by 2008 it ground 50% of US cocoa imports and became part of Fuji Oil in 2019.'}",
+      "{'name': 'ofi / Olam Food Ingredients', 'position': 'Global cocoa ingredient supplier with North American processing capabilities and cocoa powders, liquor, butter and beans under brands including deZaan and Huysman.'}",
+      "{'name': 'IRCA Group Americas', 'position': 'Specialty and industrial chocolate supplier that announced in 2025 that its St. Louis chocolate facility was operational for artisanal, industrial and specialty chocolate customers.'}"
+    ],
+    "current_dynamics": "The 2025-2026 industry is being pulled in two directions: revenue dollars are elevated because cocoa-linked prices surged, but volume demand is constrained because confectionery, bakery and dairy customers are reformulating, reducing SKUs, raising prices or shifting toward compounds and non-cocoa alternatives. The ICCO's May 2026 update showed the 2024/25 cocoa balance recovering to a small surplus, but grindings remained down 3.8% year over year, signaling weak processing demand under high input costs. Large suppliers are prioritizing higher-return contracts, hedging, traceable sourcing and working-capital discipline, while buyers are pushing for supply assurance and price stability.",
+    "whats_growing": "Growth is strongest in traceable and certified cocoa ingredients, dark chocolate and high-cocoa applications, premium bakery and dessert inclusions, vegan and dairy-free coatings, sugar-reduced formulations, compound coatings that reduce cocoa-butter exposure, customer co-development services, and sustainability-linked supply programs. Dollar revenue is also growing where contracts allow cocoa-cost pass-through.",
+    "whats_shrinking": "Physical cocoa grindings, price-sensitive bulk chocolate demand, lower-margin commodity cocoa volumes, small-batch processors without hedging capacity, discretionary chocolate launches, and conventional milk-chocolate products most exposed to consumer price resistance are shrinking or under pressure in 2025-2026. Some buyers are reducing pack sizes, simplifying SKUs or substituting coatings and fillings with less cocoa exposure.",
+    "recent_developments": [
+      "2025-02: IBISWorld published an updated Industrial Chocolate Production in the US report, signaling renewed market attention after cocoa prices reshaped the industry.",
+      "2025-02: IRCA Group Americas announced its St. Louis chocolate facility was operational for artisanal, industrial and specialty chocolate customers in the Americas.",
+      "2025-07: Cargill announced cocoa supply-chain investments using biomass boilers, solar power, ISO tanks and lower-emission logistics to reduce emissions and waste.",
+      "2025-11: Barry Callebaut reported FY2024/25 group volume down 6.8%, Global Cocoa volume down 12.8% and sales revenue up 49.0% in local currencies because of cocoa-linked pricing.",
+      "2026-05: ICCO revised cocoa year 2024/25 to a 48,000-tonne surplus, with world production up 8.3% but grindings down 3.8%.",
+      "2026-07: ofi reported distributing 2.6 million trees in 2025 cocoa sustainability programs in Ghana and Cote d'Ivoire, a 92% increase from 2024."
+    ],
+    "outlook": "Through 2026, US industrial chocolate production should remain revenue-supported but volume-constrained. If cocoa supply recovery continues, extreme price pressure may ease, but processors still face high working capital, cautious food-manufacturer ordering and consumer resistance to higher finished chocolate prices. The best-positioned operators will be large, vertically integrated or contract-protected suppliers that can hedge, finance inventory, guarantee traceability and offer reformulation support. Smaller operators can still grow in premium, organic, fair-trade, specialty and local-production niches, but the risk profile is higher than the old 2021 baseline suggested.",
+    "themes": [
+      "Cocoa price shock",
+      "Cost pass-through",
+      "Working-capital pressure",
+      "Sustainable and traceable sourcing",
+      "Premium and dark chocolate",
+      "Sugar-reduced and vegan formulations",
+      "Compound and non-cocoa alternatives",
+      "Import penetration",
+      "Customer concentration",
+      "Volume softness despite revenue inflation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file supplied by user', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-chocolate-production.txt'}",
+      "{'name': 'ICCO May 2026 Quarterly Bulletin of Cocoa Statistics', 'url': 'https://www.icco.org/may-2026-quarterly-bulletin-of-cocoa-statistics/'}",
+      "{'name': 'ICCO November 2025 Quarterly Bulletin of Cocoa Statistics', 'url': 'https://www.icco.org/november-2025-quarterly-bulletin-of-cocoa-statistics/'}",
+      "{'name': 'ICCO Statistics 2025', 'url': 'https://www.icco.org/statistics/statistics_2025/'}",
+      "{'name': 'Barry Callebaut FY2024/25 results', 'url': 'https://www.barry-callebaut.com/en-GB/about-us/media/news-stories/barry-callebaut-group-full-year-results-fiscal-year-2024-25'}",
+      "{'name': 'Cargill Cocoa & Chocolate North America', 'url': 'https://www.cargill.com/food-beverage/na/cocoa-chocolate'}",
+      "{'name': 'Cargill 2025 sustainable cocoa supply-chain announcement', 'url': 'https://www.cargill.com/2025/cargill-leads-in-sustainable-cocoa-supply-chains'}",
+      "{'name': 'NCA State of Treating 2026', 'url': 'https://candyusa.com/stateoftreating'}",
+      "{'name': 'USITC HTS Chapter 18 cocoa and chocolate tariff schedule', 'url': 'https://hts.usitc.gov/search?query=1806'}",
+      "{'name': 'Blommer Chocolate history', 'url': 'https://www.blommer.com/the-difference-history.php'}",
+      "{'name': 'ofi cocoa ingredients', 'url': 'https://www.ofi.com/en-us/cocoa'}",
+      "{'name': 'ofi July 2026 cocoa sustainability update', 'url': 'https://www.ofi.com/pt-br/news-and-events/press-release/ofi-distributes-2-6-million-trees-to-help-cocoa-farmers-transition-to-regenerative-agriculture'}",
+      "{'name': 'IRCA Group Americas 2025 US chocolate facility announcement', 'url': 'https://www.ircagroup.com/en/inside-irca-group/news/crafted-italy-produced-usa'}"
+    ],
+    "one_sentence": "Industrial Chocolate Production is a concentrated, commodity-driven manufacturing industry whose 2025 dollar revenue has been lifted by record cocoa prices even as customer volumes and processing margins have been pressured.",
+    "slug": "industrial-chocolate-production"
+  },
+  {
+    "title": "Industrial Designers in the US",
+    "sector": "Business Services",
+    "one_liner": "A small, fragmented design-services industry selling product-design, prototyping and design-consulting work to manufacturers of autos, electronics, medical devices, furniture and packaging.",
+    "overview": "Industrial design firms create specifications for mass-produced products, including material choices, mechanisms, shape, color, surface finish, usability, safety and production efficiency. The 2022 baseline described a mature, low-capital, highly competitive industry with low concentration, where product design generated 69.6% of 2022 revenue, graphic design 8.3%, model design and fabrication 7.8% and other industrial design services 14.3%. Current 2025-2026 conditions are mixed: the July 2025 IBISWorld update reported industry revenue at $4.9 billion in 2023 after a post-pandemic recovery, while 2026 manufacturing output has improved but remains uneven across durable categories. The strongest demand is coming from high-tech products, medical equipment, packaging redesign, sustainability work, automation-friendly product engineering and firms refreshing products for tariff-affected or reshored supply chains.",
+    "key_stats": {
+      "market_size": "2025 estimate: about $5.0 billion in US industry revenue, based on the July 2025 IBISWorld/ResearchAndMarkets 2023 revenue figure of $4.9 billion and low-single-digit post-2023 growth assumptions.",
+      "growth": "2025 estimate: low-single-digit annual growth; updated July 2025 IBISWorld/ResearchAndMarkets data reported a 2018-2023 CAGR of 5.7% and a 2023 decline of 1.1%.",
+      "employment": "2024: 30,600 US industrial designer jobs; BLS projected 2024-2034 employment growth of 3%.",
+      "wages": "2025: median wage for commercial and industrial designers was $83,910 annually, or $40.34 hourly.",
+      "profitability": "2022 baseline: profit margin was 12.8% of industry revenue.",
+      "establishments": "2022 baseline: 15,224 establishments and 15,088 enterprises.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $4.598 billion revenue in 2022 dollars.",
+      "growth": "2022: +5.1% annual revenue growth; 2017-2022 CAGR was 6.4%.",
+      "profit": "2022: $589 million profit; 12.8% profit margin.",
+      "employment": "2022: 29,536 workers.",
+      "wages": "2022: $549 million total wages.",
+      "product_mix": "2022: product design 69.6%, other industrial design services 14.3%, graphic design services 8.3%, model design and fabrication 7.8%."
+    },
+    "how_it_makes_money": "Firms earn project fees, retainers and consulting revenue from product design, industrial design consulting, user research, CAD and specification work, prototype/model design and fabrication, packaging-oriented graphic design, materials and manufacturability advice, and broader brand or customer-experience consulting around physical products.",
+    "cost_structure": "The industry is labor- and software-intensive rather than capital-intensive. Major costs are designer, engineer and project-manager compensation; subcontracted prototyping and fabrication; CAD, rendering, simulation and collaboration software; rent for studios and labs; insurance; sales and travel; and office equipment. In the 2022 baseline, profit was 12.8% of revenue and wages were $549 million against $4.598 billion of revenue.",
+    "major_players": [
+      "Jacobs Engineering Group Inc.",
+      "Berlin Packaging L.L.C.",
+      "Altair Engineering Inc.",
+      "Bureau Veritas S A",
+      "Specialist product-design studios and independent designers"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Business R&D remains a large structural tailwind: NCSES reported in September 2025 that US companies performed $722 billion of domestic R&D in 2023, including $394 billion in manufacturing and $568 billion for development work. Healthcare is another support, with CMS projecting 2025-2034 national health expenditure growth of 5.4% annually. Against that, design projects tied to discretionary durable goods, furniture and some consumer electronics remain sensitive to interest rates, tariff costs, inventory cycles and clients moving more design in-house. The June 2026 Federal Reserve G.17 release showed manufacturing output up at a 4.7% annual rate in Q2 2026, but June durable manufacturing slipped 0.1%, showing the uneven demand environment designers face.",
+    "whats_growing": "Medical-device and healthcare product design, high-tech and connected products, packaging and sustainability redesign, manufacturability consulting, CAD/simulation-led prototyping, human-factors work, and tariff/reshoring-related redesign of products and bills of materials.",
+    "whats_shrinking": "Standalone model fabrication, lower-end commodity product styling, furniture-linked design work exposed to import competition and weak housing turnover, and routine concept work that manufacturers can absorb with in-house teams or AI-assisted design tools.",
+    "recent_developments": [
+      "2025-07: IBISWorld/ResearchAndMarkets published a 2015-2030 US Industrial Designers report showing 2023 revenue of $4.9 billion and 2018-2023 CAGR of 5.7%.",
+      "2025-08: BLS updated its Industrial Designers outlook, reporting 2024 employment of 30,600 and projected 2024-2034 growth of 3%.",
+      "2025-09: NCSES reported US business R&D reached $722 billion in 2023, with manufacturing performing $394 billion and development work accounting for $568 billion.",
+      "2025-Q4: Census QSS data for NAICS 5414 specialized design services showed taxable-establishment revenue up 17.1% year over year after a 2025-Q1 decline of 4.2%.",
+      "2026-06: CMS released projections showing national health expenditures growing at a 5.4% average annual rate over 2025-2034, supporting medical-device design demand.",
+      "2026-07: Federal Reserve G.17 data showed manufacturing output rose at a 4.7% annual rate in 2026-Q2, but June 2026 durable manufacturing output fell 0.1%."
+    ],
+    "outlook": "The outlook is modestly positive through 2026-2030. Industrial designers should see continued demand from R&D-heavy manufacturers, medical devices, electronics, packaging and companies redesigning products around supply-chain resilience and manufacturability. Growth is unlikely to be smooth: client budgets remain exposed to rates, tariffs, durable-goods cycles and in-house design teams. Firms with human-factors, engineering-adjacent, prototyping, sustainability and AI-enabled workflow capabilities should outgrow styling-only studios.",
+    "themes": [
+      "AI rewiring of design workflows",
+      "R&D-led product differentiation",
+      "Healthcare and medical-device innovation",
+      "Tariffs, reshoring and design-for-manufacturing",
+      "Sustainability and materials redesign",
+      "Fragmented specialist-services market"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-designers-in-the-us.txt",
+      "https://www.researchandmarkets.com/report/united-states-industrial-design-market",
+      "https://www.onetonline.org/link/details/27-1021.00",
+      "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm",
+      "https://www.ncses.nsf.gov/pubs/nsf25353",
+      "https://alfred.stlouisfed.org/series?seid=REV5414TAXABL157QNSA",
+      "https://www.federalreserve.gov/RELEASES/g17/current/default.htm",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.census.gov/naics/?details=541612&input=541&year=2022"
+    ],
+    "one_sentence": "US industrial designers are benefiting from corporate R&D, medical-device innovation and higher-value product differentiation, but demand remains cyclical because clients delay outsourced design work when manufacturing, durable-goods demand or interest-sensitive investment weakens.",
+    "slug": "industrial-designers-in-the-us"
+  },
+  {
+    "title": "Industrial Equipment Rental & Leasing in the US",
+    "sector": "Business Services",
+    "one_liner": "Industrial equipment rental is a mature, capital-intensive service industry benefiting from customers’ shift away from equipment ownership amid high financing, maintenance and obsolescence costs.",
+    "overview": "The industry is tied to broad business investment but is most exposed to nonresidential construction, industrial production, healthcare demand and customers’ capital-budget discipline. The 2022 IBISWorld baseline put industry revenue at $35.2 billion after a pandemic-driven 2020 decline and a 2021-2022 rebound. Using that baseline’s 2022-2027 forecast path, industry revenue is estimated near $38.7 billion in 2026, while the wider US construction-and-industrial equipment plus general tool rental market is forecast by ARA at $83.5 billion in 2026, up 3.6%. Demand is strongest where large projects, manufacturing reshoring, data centers, infrastructure and specialty rental needs support utilization, while smaller local construction and rate-sensitive activity remain uneven.",
+    "key_stats": {
+      "market_size": "2026 estimated industry revenue: $38.7 billion, extrapolated from the 2022 IBISWorld baseline forecast path; broader US CIE plus general tool rental revenue forecast: $83.5 billion in 2026",
+      "growth": "2022-2027 forecast CAGR: 2.4% for this industry; broader US CIE plus general tool rental growth forecast: 3.6% in 2026",
+      "profit_margin": "2022 EBIT margin: 16.0%; 2027 baseline forecast margin: 16.4%",
+      "employment": "2022 employment: 100,339 workers; 2027 baseline forecast: 109,164 workers",
+      "enterprises": "2022 enterprises: 5,377; 2027 baseline forecast: 6,023",
+      "product_mix_2022": "General industrial equipment rental 25.9%, light construction equipment rental 27.7%, audiovisual equipment rental 11.7%, medical equipment rental 10.9%, industrial energy equipment and pumps rental 8.7%, theatrical and motion picture rental 6.3%, retail sales, delivery and repair 8.5%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$35.2 billion revenue in 2022, in 2022 dollars",
+      "growth": "3.6% revenue growth in 2022; 0.2% annualized revenue growth from 2017 to 2022",
+      "profit": "$5.6 billion profit in 2022; 16.0% profit margin",
+      "industry_gross_product": "$17.8 billion in 2022",
+      "establishments": "10,397 establishments in 2022",
+      "enterprises": "5,377 enterprises in 2022",
+      "employment": "100,339 people in 2022",
+      "wages": "$7.5 billion in total wages in 2022"
+    },
+    "how_it_makes_money": "Operators earn revenue from fixed-term rentals and leases of equipment, ancillary fees, delivery, maintenance, repair, re-rental, product sales and used fleet disposals. Core customers rent instead of buying to avoid upfront capital spending, financing costs, storage, maintenance, downtime risk and rapid technology obsolescence.",
+    "cost_structure": "The largest costs are fleet acquisition and depreciation, equipment maintenance and repair, transportation and delivery, wages for branch, sales, driver and technician labor, insurance, facilities, technology systems, interest expense and SG&A. Profitability depends on utilization, rental rates, fleet age, residual values on used equipment sales and purchasing discipline.",
+    "major_players": [
+      "United Rentals",
+      "Sunbelt Rentals",
+      "Herc Rentals",
+      "EquipmentShare",
+      "Home Depot Rental",
+      "Ahern Rentals / United Rentals legacy operations",
+      "Regional independent rental companies"
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions: mega-projects, data centers, infrastructure, manufacturing investment and specialty categories are supporting demand, while high interest rates, tariff uncertainty, soft local construction and elevated equipment costs are pressuring margins and smaller operators. Large national chains are using scale, digital fleet management, specialty verticals and acquisitions to increase share in a fragmented market.",
+    "whats_growing": "Specialty rentals, power and HVAC, pumps, trench safety, modular space, data-center and infrastructure project support, healthcare equipment leasing, connected-fleet platforms, national-account relationships and rental penetration among customers seeking financial flexibility.",
+    "whats_shrinking": "Rate-sensitive local construction demand, lower-utilization general fleet categories in softer regional markets, outright equipment ownership by contractors, smaller operators’ relative bargaining power and some entertainment/theatrical rental demand where production activity is volatile or offshore.",
+    "recent_developments": [
+      "2025-02-19: Herc and H&E announced a definitive merger agreement after H&E terminated its prior United Rentals agreement.",
+      "2025-06-02: Herc completed its H&E acquisition, creating a 613-location North American rental platform with $5.1 billion in pro forma 2024 revenue.",
+      "2026-05-19: ARA raised its 2026 US construction-and-industrial equipment plus general tool rental forecast to $83.5 billion, up 3.6%.",
+      "2026-07-09: EquipmentShare raised its 2026 rental segment revenue growth outlook midpoint to 33% and guided to $3.47 billion-$3.75 billion of 2026 rental segment revenue.",
+      "2026-07-22: United Rentals reported Q2 2026 rental revenue of $3.849 billion, up 12.7% year over year, and raised 2026 total revenue guidance to $17.5 billion-$17.8 billion."
+    ],
+    "outlook": "Through 2026-2028, demand should remain positive but uneven. Large project backlogs, infrastructure, data centers, manufacturing reshoring and healthcare equipment needs support revenue and utilization, while financing costs, inflation, tariffs and customer caution limit broad-based acceleration. Consolidation should continue as national chains pursue scale, specialty capabilities and purchasing leverage, while independent operators remain viable in local niches with strong service density.",
+    "themes": [
+      "Rental penetration over ownership",
+      "Mega-project demand",
+      "Specialty rental expansion",
+      "Fleet utilization discipline",
+      "Consolidation",
+      "Healthcare equipment obsolescence",
+      "Data-center and manufacturing construction",
+      "High interest rates and capital costs",
+      "Connected fleet technology",
+      "Fragmented local competition"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-equipment-rental-and-leasing-in-the-us.txt",
+      "https://www.forconstructionpros.com/rental/rental-business/press-release/22967194/american-rental-association-36-growth-expected-in-aras-q2-rental-economic-forecast",
+      "https://www.liftandaccess.com/article/ara-updates-2026-rental-forecast-for-equipment-industry",
+      "https://investors.unitedrentals.com/press-releases/press-releases-details/2026/United-Rentals-Announces-Record-Second-Quarter-Results-and-Raises-Full-Year-2026-Guidance/default.aspx",
+      "https://ir.sunbeltrentals.com/news-events/press-releases/detail/123/sunbelt-rentals-reports-fiscal-fourth-quarter-and-full-year-2026-results",
+      "https://ir.equipmentshare.com/news-releases/news-release-details/equipmentshare-raises-2026-financial-outlook-strong-customer",
+      "https://www.nasdaq.com/press-release/herc-holdings-completes-acquisition-he-equipment-services-2025-06-02",
+      "https://www.federalreserve.gov/RELEASES/g17/Current/",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://www.aha.org/costsofcaring"
+    ],
+    "one_sentence": "US industrial equipment rental and leasing companies rent or lease nonconsumer machinery, light construction equipment, medical devices, audiovisual gear, energy equipment, pumps and related assets to construction, manufacturing, healthcare, entertainment, agriculture and institutional customers.",
+    "slug": "industrial-equipment-rental-and-leasing-in-the-us"
+  },
+  {
+    "title": "Industrial Hemp Production",
+    "sector": "Agriculture",
+    "one_liner": "US industrial hemp production rebounded sharply in 2025 after a post-legalization bust, but farm economics remain split between high-value floral/cannabinoid hemp and lower-value fiber, grain and seed crops.",
+    "overview": "The industry moved from the 2018 Farm Bill legalization boom into a severe correction as CBD oversupply, falling biomass prices, testing requirements and weak processing infrastructure pushed many small growers out. Current USDA data show a recovery in farm-level value in 2025, driven mainly by floral hemp and protected production, while fiber acreage is expanding but still generates much lower value. The 2026 operating environment is dominated by regulatory uncertainty: federal law is scheduled to shift hemp from a delta-9 THC test toward a broader total-THC definition on November 12, 2026, while USDA has delayed DEA-lab enforcement because of testing-capacity constraints.",
+    "key_stats": {
+      "market_size": "2025 US utilized industrial hemp production value was $739.0 million.",
+      "growth": "2025 production value grew 64% from revised 2024 value of $449.6 million.",
+      "acreage": "2025 open-field planted area was 49,267 acres, up 9% from 2024; harvested area was 43,707 acres, up 34% from 2024.",
+      "open_field_value": "2025 open-field hemp value was $645.8 million, up 53% from 2024.",
+      "protected_value": "2025 hemp under protection value was $93.3 million, up 225% from 2024.",
+      "dominant_segment": "2025 open-field floral hemp value was $574.0 million, about 89% of open-field value.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 US total farm-level utilized hemp production value was $246.2 million.",
+      "growth": "2022 total farm-level value fell about 70% from 2021 value of about $824.1 million.",
+      "context": "The 2022 baseline reflected the collapse after the CBD-led hemp boom, with outdoor planted acres falling to 28,314 from 54,152 in 2021."
+    },
+    "how_it_makes_money": "Growers sell harvested hemp under contracts or spot-market arrangements to processors, extractors, food ingredient makers, nurseries, textile and fiber processors, construction-material manufacturers, personal-care brands and retailers. Revenue is earned from floral biomass for cannabinoids, clones and transplants, hemp seed and grain for food or oil, and stalk fiber or hurd for textiles, composites, animal bedding, bioplastics and hempcrete-style construction materials.",
+    "cost_structure": "Major costs are labor for planting, crop care, hand harvesting and drying; seed, clones and genetics; land rent or ownership costs; irrigation, fertilizer and pest management; drying, storage and transport; THC sampling and laboratory testing; crop destruction or remediation when lots test hot; insurance, licensing and compliance; and specialized harvesting/decortication relationships for fiber crops. The 2022 IBIS baseline identified wages as unusually high for the sector, equal to 69.7% of 2021 revenue, with 2021 EBIT margin at 6.3% and a 2026 projected margin of 8.1%.",
+    "major_players": [
+      "No national producer has a dominant share; the industry is fragmented across licensed farms and regional processors.",
+      "State and regional hemp programs in Kentucky, California, Texas, Colorado, Oregon, South Dakota, North Dakota and other producing states shape acreage and compliance.",
+      "Downstream processors, CBD extractors, seed-oil/food companies, textile decorticators and construction-material startups are key buyers rather than dominant farm operators."
+    ],
+    "current_dynamics": "The market has recovered in value but not in a smooth way. Floral hemp remains the profit pool because prices per pound are far above grain and fiber, yet it carries the greatest exposure to CBD and intoxicating-cannabinoid rules. Fiber has the largest 2025 harvested acreage among major open-field uses, but its 2025 value of $13.5 million shows the bottleneck: farms need local decortication, logistics and industrial buyers before acreage translates into strong revenue. Grain and seed rebounded from low bases in 2025, while protected floral production surged. Regulatory compliance remains central because growers face THC testing, possible remediation or destruction, and changing federal definitions.",
+    "whats_growing": "2025 growth was strongest in protected floral hemp, clones/transplants, grain and seed. Open-field grain production rose 112% in 2025, seed production rose 190%, and hemp under protection value rose 225%. Fiber acreage also increased, supported by interest in textiles, insulation, hempcrete, animal bedding, composites and bioplastics, even though fiber value declined in 2025 because prices and processing capacity lag acreage.",
+    "whats_shrinking": "Low-margin and poorly contracted acreage is under pressure. Open-field fiber value fell 13% in 2025 despite higher production, pointing to weak pricing and processing bottlenecks. Unregulated or synthetic hemp-derived intoxicant channels face a 2026 federal definition change that could reduce demand for some cannabinoid-focused biomass. Small growers without buyer contracts, drying capacity, compliant genetics or access to testing remain vulnerable.",
+    "recent_developments": [
+      "2025-04-17: USDA reported 2024 total utilized hemp production value at $445.3 million, up from $246.2 million in 2022 and $318.8 million in 2023.",
+      "2025-12-23: USDA delayed enforcement of DEA-registered laboratory testing for hemp compliance until Dec. 31, 2026 because of inadequate lab capacity.",
+      "2026-04-16: USDA reported 2025 industrial hemp value at $739.0 million, up 64% from revised 2024 value of $449.6 million.",
+      "2026-04-16: USDA reported 2025 open-field harvested hemp acreage at 43,707 acres, up 34% from 2024.",
+      "2026-05-28: CRS reported that P.L. 119-37’s revised hemp definition is scheduled to take effect on Nov. 12, 2026 and will use total THC rather than only delta-9 THC."
+    ],
+    "outlook": "The 2026 outlook is positive for contracted, compliance-ready growers and cautious for speculative cannabinoid acreage. Demand for hemp seed foods, plant protein, personal care ingredients, fiber, construction materials and biobased manufacturing should support gradual diversification away from CBD-only economics. However, the November 12, 2026 federal definition change could disrupt cannabinoid product demand and force USDA, states, processors and labs to adjust testing and product standards. The industry is likely to remain fragmented, volatile and contract-driven, with better economics for growers tied to processors, decortication capacity and brands that can absorb compliance costs.",
+    "themes": [
+      "Regulatory reset",
+      "CBD oversupply hangover",
+      "Floral hemp value concentration",
+      "Fiber processing bottleneck",
+      "Biobased materials opportunity",
+      "Contract farming over speculation",
+      "Testing and compliance costs",
+      "Fragmented grower base"
+    ],
+    "data_year": "2025 with 2026 regulatory updates",
+    "sources": [
+      "{'name': 'USDA NASS National Hemp Report, released Apr. 16, 2026', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795862/hempan26.txt'}",
+      "{'name': 'USDA NASS National Hemp Report, released Apr. 17, 2025', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/gf06h2430/ww72d7715/6t055d172/hempan25.txt'}",
+      "{'name': 'USDA NASS 2021 Hemp Acreage and Production Survey press release, Feb. 17, 2022', 'url': 'https://www.nass.usda.gov/Newsroom/archive/2022/02-17-2022.php'}",
+      "{'name': 'USDA AMS notice delaying DEA-registered hemp lab enforcement, Dec. 23, 2025', 'url': 'https://www.ams.usda.gov/content/usda-extends-enforcement-deadline-hemp-be-tested-dea-registered-laboratories-2'}",
+      "{'name': 'CRS In Focus IF13136, updated May 28, 2026', 'url': 'https://www.everycrsreport.com/reports/IF13136.html'}",
+      "{'name': 'FDA Regulation of Cannabis and Cannabis-Derived Products, Including CBD', 'url': 'https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd'}"
+    ],
+    "one_sentence": "Industrial Hemp Production covers farms growing Cannabis sativa with legal THC levels for floral biomass, CBD inputs, seed, grain, fiber, textiles, food, personal care, construction materials and other industrial uses.",
+    "slug": "industrial-hemp-production"
+  },
+  {
+    "title": "Industrial Laundry & Linen Supply in the US",
+    "sector": "Business Services",
+    "one_liner": "Recurring route-based laundry operators rent, clean, repair and replace uniforms, linens, mats, towels and specialty textiles for employers, healthcare providers, hotels and foodservice customers.",
+    "overview": "Operators supply laundered uniforms, gowns, scrubs, bed and table linens, towels, cleanroom apparel, treated mats, mops and shop towels on rental or contract service programs. The model is route-dense, recurring and capital intensive: providers buy textiles and garments, deliver clean inventory, collect soiled items, wash and finish them in industrial plants, repair or replace inventory, and bill customers under weekly or multi-year service contracts. Demand tracks employment and activity in healthcare, manufacturing, foodservice, hospitality, automotive, retail and government. Since the 2022 baseline, the industry has benefited from the normalization of travel and dining, greater hygiene expectations and outsourcing of non-core laundry work, but operators remain exposed to wage inflation, energy, water, textile replacement costs, route labor, customer churn and environmental compliance.",
+    "key_stats": {
+      "market_size": "2026 estimate: $24.0 billion in US industrial linen and uniform supply revenue, extrapolated from Kentley Insights' 2024 revenue of $22.4 billion and 3.7% five-year annual growth rate.",
+      "growth": "2025-2026 forecast growth: about +3.7%, based on Kentley Insights' 2024 industry revenue and five-year annual growth rate.",
+      "historical_anchor": "2024 revenue: $22.4 billion; 2024 five-year annual growth rate: 3.7%.",
+      "companies": "2024 companies: 854.",
+      "concentration": "2024 top-four company share: 57.2%.",
+      "labor_cost_pressure": "2024 BLS labor compensation for NAICS 81233: $8.64 billion, up from $8.02 billion in 2023 and $7.37 billion in 2022.",
+      "employment_signal": "2024 BLS employment index for NAICS 81233: 99.471, up from 96.979 in 2023 and 92.447 in 2022, with 2017=100.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 employer-firm revenue: $17.6 billion, combining Census/FRED Service Annual Survey revenue of $5.221 billion for linen supply and $12.405 billion for industrial launderers.",
+      "growth": "2022 revenue growth: +11.4% versus 2021, calculated from $17.626 billion in 2022 and $15.820 billion in 2021 for NAICS 812331 plus 812332.",
+      "ibis_baseline": "The 2022 IBISWorld baseline reported 2021 industry revenue of $15.9 billion, a 2021 recovery of +12.5%, 2021 profit margin of 9.6%, and a 2026 forecast of $18.6 billion at a 2021-2026 CAGR of 3.3%.",
+      "structure": "The 2022 baseline described a mature, moderately concentrated industry where the four largest firms generated 63.6% of 2021 revenue and where Cintas, Aramark and UniFirst together accounted for 61.7%."
+    },
+    "how_it_makes_money": "Revenue comes mainly from recurring rental and servicing contracts for uniforms, linens, mats, towels, restroom supplies, first-aid supplies, safety products and specialty garments. Customers pay weekly or periodic route-service fees tied to item counts, garment wearers, delivery frequency, replacements, loss charges, direct uniform sales and add-on facility services. Scale economies come from plant utilization, route density, purchasing leverage, automated sorting/washing/finishing and lower textile loss.",
+    "cost_structure": {
+      "labor": "2024 labor compensation was $8.64 billion for NAICS 81233, making wages, benefits, drivers, production staff, route sales and service labor a central cost line.",
+      "textiles_and_garments": "Operators carry high upfront and replacement costs for uniforms, linens, mats, towels, scrubs, protective apparel and customer-specific inventory.",
+      "plant_operations": "Water, wastewater treatment, natural gas, electricity, boilers, tunnel washers, dryers, finishing equipment, maintenance and depreciation drive plant-level costs.",
+      "chemicals_and_compliance": "Detergents, disinfectants, solvents, pH control, healthcare sanitation requirements, OSHA exposure rules, wastewater permits and environmental controls add recurring expense.",
+      "fleet_and_distribution": "Pickup and delivery fleets, fuel, insurance, maintenance, routing software and driver retention are critical because revenue depends on frequent local service.",
+      "selling_and_admin": "Customer service, contract administration, billing, CRM/ERP systems, sales compensation and national-account support matter more for large multi-location customers."
+    },
+    "major_players": [
+      "Cintas: FY2026 total revenue of $11.265 billion and FY2026 Uniform Rental & Facility Services revenue of $8.622 billion; agreed in March 2026 to acquire UniFirst for about $5.5 billion enterprise value.",
+      "Vestis: FY2025 revenue of about $2.7 billion, including FY2025 US segment revenue of $2.489 billion; spun out of Aramark on September 30, 2023 and serves more than 300,000 customer accounts across the US and Canada.",
+      "UniFirst: FY2025 consolidated revenue of $2.432 billion, with FY2025 Uniform & Facility Service Solutions revenue of $2.219 billion.",
+      "Alsco Uniforms: private uniform and linen services operator; acquired MacIntosh Services in February 2025 to expand in Pennsylvania and New Jersey.",
+      "ImageFIRST: national healthcare linen and laundry specialist; acquired Imperial Linen Services in June 2024 to expand in Texas healthcare and hospitality markets.",
+      "PureStar: hospitality laundry platform; acquired Cape Cod Commercial Linen Service in July 2026 to expand coastal New England hospitality coverage."
+    ],
+    "current_dynamics": "The 2025-2026 market is being reshaped by consolidation, larger route networks, customer demand for hygiene assurance and operators’ push to recover inflation through pricing and fees. Cintas’ 2026 agreement to acquire UniFirst would materially increase concentration if completed, while Vestis is working through post-spin operational transformation after FY2025 revenue pressure. Healthcare linen specialists and hospitality-focused platforms continue buying regional plants to add capacity and route density. Labor, energy, textile replacement and delivery costs remain the main margin constraints, so automation, RFID inventory tracking, route optimization and plant productivity are increasingly important.",
+    "whats_growing": "Healthcare linen programs, scrubs, gowns, specialty garment processing, cleanroom apparel, mat and restroom supply services, safety and first-aid cross-selling, outsourced laundry for multi-site employers, hotel linen volume in travel-heavy regions, RFID-enabled inventory control, route-density acquisitions and sustainability offerings that reduce disposable products are growing in 2025-2026.",
+    "whats_shrinking": "Small standalone operators without scale, low-margin commodity hospitality accounts, customers with high textile loss, purely transactional wash-only work, pandemic-era emergency sanitation spikes, and uniform demand tied to weaker or more casualized workplaces are shrinking or under pressure in 2025-2026.",
+    "recent_developments": [
+      "2024-06: ImageFIRST acquired Imperial Linen Services, expanding its Texas healthcare and hospitality linen footprint.",
+      "2025-02: Alsco Uniforms acquired MacIntosh Services to expand uniform and linen coverage in Pennsylvania and New Jersey.",
+      "2025-10: UniFirst reported FY2025 revenue of $2.432 billion, up 0.2% from FY2024 despite one fewer operating week.",
+      "2025-12: Vestis reported FY2025 revenue of about $2.7 billion and announced a strategic business transformation after US segment revenue declined 2.6%.",
+      "2026-03: Cintas and UniFirst signed a definitive $5.5 billion enterprise-value acquisition agreement.",
+      "2026-07: PureStar acquired Cape Cod Commercial Linen Service to expand hospitality laundry operations across coastal New England."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but not uniformly easy. Demand should rise with healthcare activity, lodging demand, foodservice employment, outsourcing and hygiene requirements, while recurring contracts give the industry a defensive base. Margin expansion depends on passing through wage, textile, fleet and utility inflation and on improving plant automation, route density and inventory control. Consolidation is likely to continue because large operators can buy textiles cheaper, run fuller plants, optimize routes and offer broader facility-service bundles. The largest risk is that heavy concentration, customer churn, regulatory review of major mergers, recession-sensitive hospitality volume, labor availability and water/energy constraints could slow growth or cap profitability.",
+    "themes": [
+      "Consolidation and route density",
+      "Healthcare outsourcing",
+      "Hospitality recovery",
+      "Recurring contracted revenue",
+      "Labor and wage inflation",
+      "Textile replacement costs",
+      "Automation and RFID tracking",
+      "Water, energy and sustainability compliance",
+      "Facility-services cross-selling",
+      "Customer churn management"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/industrial-laundry-and-linen-supply-in-the-us.txt",
+      "https://fred.stlouisfed.org/series/REVEF812331ALLEST",
+      "https://fred.stlouisfed.org/series/REVEF812332ALLEST",
+      "https://data.census.gov/table/ECNBASIC2022.EC2200BASIC?codeset=naics~812332&g=010XX00US",
+      "https://www.census.gov/naics/?details=81233&input=81233&year=2017",
+      "https://www.kentleyinsights.com/Industrial-Linen-and-Uniform-Supply-industry-market-research-report/",
+      "https://fred.stlouisfed.org/series/IPUUN81233L020000000",
+      "https://fred.stlouisfed.org/series/IPUUN81233W010000000",
+      "https://www.cintas.com/about/newsroom/details/news/2026/03/11/cintas-to-acquire-unifirst-in-5.5-billion-transaction-that-expands-service-capabilities-enhances-workday-solutions-and-advances-industry-innovation/",
+      "https://stockanalysis.com/stocks/ctas/financials/",
+      "https://investors.unifirst.com/news-releases/news-release-details/unifirst-announces-financial-results-fourth-quarter-and-full-13",
+      "https://ir.vestis.com/news-media/press-releases/detail/131/vestis-reports-fourth-quarter-and-full-year-2025-results-and-announces-strategic-business-transformation",
+      "https://alsco.com/news/alsco-uniforms-announces-acquisition-of-macintosh-services",
+      "https://www.globenewswire.com/news-release/2024/06/20/2901868/0/en/imagefirst-acquires-imperial-linen-services-strengthening-presence-in-texas-market.html",
+      "https://www.purestar.com/news/purestar-acquires-cape-cod-commercial-linen-service-expanding-hospitality-laundry-platform-across-coastal-new-england"
+    ],
+    "one_sentence": "The US industrial laundry and linen supply industry has moved from pandemic recovery into a consolidation-and-efficiency cycle, with 2026 demand supported by healthcare, hospitality travel, workplace hygiene, outsourced uniform programs and large operators’ route-density advantages.",
+    "slug": "industrial-laundry-and-linen-supply-in-the-us"
+  }
+]

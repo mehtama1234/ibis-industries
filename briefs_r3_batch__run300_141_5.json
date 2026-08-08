@@ -1,0 +1,463 @@
+[
+  {
+    "title": "Hat & Cap Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty hat and cap stores are a mature retail niche tied to sports fandom, streetwear, customization and discretionary apparel spending.",
+    "overview": "This industry consists of brick-and-mortar stores that primarily retail hats, caps and related headwear, excluding apparel, sporting goods and department stores where hats are only a secondary line. The baseline IBISWorld file put 2021 industry revenue at $2.513 billion and described the market as mature, fragmented and exposed to online substitution. Current 2025-2026 data point to healthier underlying headwear demand than the specialty-store channel itself: Grand View Research estimated the U.S. headwear market at nearly $7.8 billion in 2025, while retail remained the largest global headwear channel at 69.4% of 2025 revenue. Specialty stores therefore benefit from a growing category, but much of the incremental growth is captured by brand-owned DTC, marketplaces, sporting goods chains, fan-commerce platforms and mass retailers rather than independent hat shops.",
+    "key_stats": {
+      "market_size": "2025 estimated U.S. specialty Hat & Cap Stores revenue: about $2.6 billion, inferred from the 2021 IBISWorld baseline and post-pandemic retail/headwear growth indicators.",
+      "growth": "2025 estimated specialty-store revenue growth: low single digits, about 1.5%-2.5% year over year; 2026 outlook growth: about 1%-3% nominal, below the broader 2026 NRF retail forecast of 4.4%.",
+      "broader_headwear_market": "2025 U.S. headwear market: nearly $7.8 billion; 2025 U.S. share of North America headwear revenue: 81.0%.",
+      "caps_share": "2025 global headwear product mix: caps held 37.9% revenue share, the largest product type.",
+      "retail_channel_share": "2025 global headwear distribution: retail accounted for 69.4% of revenue; e-commerce was forecast to grow at a 7.2% CAGR from 2026 to 2033.",
+      "leading_chain_footprint": "2026 Lids U.S. footprint: 1,018 stores as of July 8, 2026; Fanatics says Lids operates over 2,000 locations across North America, Europe and Australia.",
+      "consumer_indicator": "July 2026 Conference Board Consumer Confidence Index: 90.8, down from 92.2 in June 2026.",
+      "apparel_retail_indicator": "May 2026 U.S. clothing and clothing accessories store sales: $29.211 billion, not seasonally adjusted.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $2.5 billion, using the baseline file's 2021 revenue of $2.513 billion and IBISWorld's very low 2021-2027 projected CAGR of 0.27%.",
+      "growth": "2022 estimated growth: about 0%-1% after the 2021 pandemic recovery period; baseline file projected 2021-2027 revenue CAGR of 0.27%.",
+      "establishments": "2022 estimated establishments: about 10,300, based on 2021 baseline establishments of 10,261 and projected 2021-2027 establishment CAGR of 0.50%.",
+      "profit_margin": "2022 estimated profit margin: recovering from 2021 baseline margin of 3.3% toward the pre-pandemic level; baseline file forecast 2026 margin of 6.1%.",
+      "product_mix_2021_baseline": "2021 baseline revenue mix: men's hats and caps 55.5%, women's hats and caps 24.0%, children's hats and caps 11.0%, other accessories/apparel 9.5%."
+    },
+    "how_it_makes_money": "Stores make money by buying finished headwear from wholesalers, licensors, brands and private-label suppliers, then marking up fitted caps, snapbacks, beanies, bucket hats, cowboy hats, fashion hats, licensed sports caps and related accessories. Revenue is concentrated in branded and licensed sports merchandise, especially MLB, NBA, NFL, NHL, college and event-driven drops. Higher-margin add-ons include embroidery, patches, customization, exclusive colorways, loyalty programs and impulse accessories such as bags, sunglasses and wallets.",
+    "cost_structure": "Purchases are the largest cost because stores resell finished headwear sourced through apparel wholesalers, brands and licensed-merchandise suppliers. Labor is meaningful because fitting, style advice, embroidery and store operations require floor staff, but the industry is still low-capital intensity. Rent and occupancy costs weigh heavily on mall-based and tourist-location operators. Marketing, payment processing, inventory shrink, freight and licensing-related costs also matter. In 2025-2026, import exposure increased cost volatility because many hats and caps are sourced from China and other apparel-producing countries; Federal Reserve research found Chinese imported retail goods were 8.5% higher year over year by December 2025 with tariff pass-through of about 30%.",
+    "major_players": [
+      "Lids / Hat World / Fanatics",
+      "New Era Cap",
+      "Pro Image Sports",
+      "Fanatics Commerce event and venue retail",
+      "Mitchell & Ness / Fanatics",
+      "Independent specialty hat shops and mall kiosks",
+      "Team, league and stadium stores"
+    ],
+    "current_dynamics": "The category is healthier than the narrow specialty-store channel. Headwear is gaining from athleisure, streetwear, sports fandom, outdoor activity, sun protection, limited drops and customization. However, the store channel faces a structural squeeze: Fanatics and Lids control a large licensed-sports retail ecosystem, New Era is strengthening direct brand retail, and consumers increasingly buy caps through marketplaces, team stores, brand sites, sporting goods chains and mass retailers. Inflation and tariffs have lifted ticket prices and inventory risk, while soft 2026 consumer confidence makes lower-income shoppers more selective. Stores with dense local team assortments, quick customization and event-driven merchandise have a clearer reason to exist than generic hat shops.",
+    "whats_growing": "Licensed sports caps, limited-edition drops, embroidery and patch customization, performance caps with moisture-wicking materials, sustainable/recycled fabrics, women's fashion headwear, pickleball/golf/outdoor headwear, tourist and event merchandise, and omnichannel stores that use local inventory for pickup or fast fulfillment.",
+    "whats_shrinking": "Undifferentiated mall hat shops, low-service stores carrying generic assortments, basic fashion hats without brand or team affiliation, full-price commodity caps vulnerable to Amazon and big-box price comparison, and independent operators without e-commerce, loyalty data or customization capabilities.",
+    "recent_developments": [
+      "Apr 2025: NRF/Consumer Edge highlighted 2025 apparel, accessories and footwear shifts toward digital strategies, value shopping and demographic-driven brand preferences.",
+      "Jul 2025: Spherical Insights estimated the 2024 U.S. headwear market at $7.9399 billion and forecast a 2025-2035 CAGR of about 6.70%.",
+      "Dec 4 2025: Fanatics was selected as official on-site retail licensee for the 2026 FIFA World Cup across 104 matches and fan festival events in 16 cities.",
+      "Mar 5 2026: Federal Reserve research found 2025 tariffs lifted Chinese imported retail goods prices 8.5% year over year by December 2025 with about 30% pass-through.",
+      "Apr 23 2026: New Era announced a North American flagship store in New York City's SoHo district, opening April 27, 2026, focused on licensed headwear, collaborations and customization.",
+      "Jul 8 2026: ScrapeHero counted 1,018 Lids stores in the United States, including 155 in California."
+    ],
+    "outlook": "The 2026-2030 outlook is modest for specialty Hat & Cap Stores despite strong broader headwear demand. The U.S. headwear market is forecast to grow far faster than legacy hat-store revenue because incremental sales are flowing to e-commerce, DTC brand shops, sporting goods chains and fan-commerce platforms. Specialty stores should still grow in nominal terms when they own a local sports niche, offer customization, or sit in high-traffic malls, airports, stadium districts and tourist corridors. Margins should improve versus the 2021 pandemic low if rent discipline and inventory turns hold, but import tariffs, markdown risk and online price transparency will cap upside. Consolidated players such as Lids/Fanatics are positioned better than independents because they combine physical stores, league rights, event retail and e-commerce data.",
+    "themes": [
+      "Sports fandom as fashion",
+      "Athleisure and streetwear normalization",
+      "Licensed merchandise concentration",
+      "Customization and embroidery",
+      "Omnichannel retail pressure",
+      "Tariff and import-cost volatility",
+      "Mall traffic dependence",
+      "Event-driven demand spikes",
+      "Premium and sustainable materials",
+      "E-commerce substitution"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/hat-and-cap-stores.txt",
+      "https://www.grandviewresearch.com/horizon/outlook/headwear-market/united-states",
+      "https://www.grandviewresearch.com/industry-analysis/headwear-market-report",
+      "https://www.sphericalinsights.com/reports/united-states-headwear-market",
+      "https://www.fanaticsinc.com/lids",
+      "https://www.scrapehero.com/location-reports/Lids-USA/",
+      "https://investor.fanatics.com/news/news-details/2025/Fanatics-to-Exclusively-Operate-FIFA-World-Cup-2026-Stadium-and-Fan-Festival-Retail-Experiences-2025-N3517G-gOY/default.aspx",
+      "https://www.prnewswire.com/news-releases/new-era-debuts-immersive-north-american-flagship-store-in-new-york-city-302751803.html",
+      "https://www.federalreserve.gov/econres/notes/feds-notes/the-slow-climb-how-tariffs-gradually-raised-retail-prices-in-2025-20260305.html",
+      "https://nrf.com/media-center/press-releases/nrf-forecasts-4-4-annual-retail-sales-growth-with-new-economic-model",
+      "https://www.conference-board.org/topics/consumer-confidence/index.cfm?os=vbkn42___",
+      "https://fred.stlouisfed.org/series/MRTSSM448USN"
+    ],
+    "one_sentence": "Hat & Cap Stores sell branded, licensed and fashion headwear through physical specialty locations, with demand supported by sports merchandise and athleisure but pressured by e-commerce, mass merchants and import-cost volatility.",
+    "slug": "hat-and-cap-stores"
+  },
+  {
+    "title": "Hay & Crop Farming in the US",
+    "sector": "Agriculture",
+    "one_liner": "A fragmented farm industry anchored by hay and forage demand, with sugarbeets, hops, maple, mint and other specialty crops adding smaller but higher-value revenue streams.",
+    "overview": "The industry includes farms primarily growing hay plus smaller groups producing sugarbeets, hops, mint, maple products and other miscellaneous crops. Hay remains the operational backbone because it is widely grown and tied to cattle, dairy and equine feed demand, but industry revenue is broader than hay alone because specialty crops and legally produced outdoor cannabis-type crops sit in the residual crop category used by the baseline report. The 2025 market is mature, fragmented and price-sensitive: USDA reported 2025 all-hay production of 123.031 million tons on 49.557 million harvested acres, while the 2025 all-hay value of production fell to $17.241 billion from $18.407 billion in 2024 as the average all-hay price fell to $160 per ton. Hops continued to shrink in acreage and production in 2025, while sugarbeets remained an important food-manufacturing input with 2025 production of 35.361 million tons.",
+    "key_stats": {
+      "market_size": {
+        "2025": "$35.2 billion estimated industry revenue"
+      },
+      "growth": {
+        "2025": "-0.6% estimated annual revenue growth",
+        "2021-2026": "0.8% baseline forecast CAGR"
+      },
+      "hay_production": {
+        "2025": "123.031 million tons"
+      },
+      "hay_value": {
+        "2025": "$17.241 billion"
+      },
+      "hay_harvested_area": {
+        "2025": "49.557 million acres"
+      },
+      "hay_price": {
+        "2025": "$160 per ton average all-hay price"
+      },
+      "sugarbeet_production": {
+        "2025": "35.361 million tons"
+      },
+      "hop_production": {
+        "2025": "83.143 million pounds"
+      },
+      "hop_value": {
+        "2025": "$447.475 million"
+      },
+      "establishments": {
+        "2026": "575,259 locations baseline forecast"
+      },
+      "employment": {
+        "2026": "613,433 workers baseline forecast"
+      },
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": {
+        "2022": "$34.6 billion estimated from baseline 2021 revenue and 2021-2026 forecast path"
+      },
+      "growth": {
+        "2022": "0.8% estimated baseline growth"
+      },
+      "baseline_reference": {
+        "2021": "$34.336 billion revenue; 11.2% profit margin; $2.098 billion wages; $2.971 billion exports; $1.403 billion imports"
+      },
+      "product_mix": {
+        "2021": "Hay 22.8%; sugar beets 4.0%; hops 1.9%; mint 0.3%; maple products 0.4%; other crops 66.8%; other 3.8%"
+      }
+    },
+    "how_it_makes_money": "Operators earn revenue by harvesting and selling hay and forage to cattle, dairy, equine and other livestock buyers; selling sugarbeets into sugar processors; selling hops to brewers and hop dealers; and selling smaller specialty crops such as mint, maple sap/products, herbs, spices and other miscellaneous crops to food, beverage and wholesale channels. Many farms also retain hay for integrated livestock operations, so cash revenue depends on the share sold commercially, local forage shortages, transportation economics and livestock feed substitution against corn and other feed grains.",
+    "cost_structure": {
+      "overview": "Costs are dominated by land, machinery, fertilizer, fuel, seed, irrigation, crop services, labor, insurance, repairs and financing; margins move with crop prices, yields, drought, diesel, fertilizer and interest rates.",
+      "profit": {
+        "2021": "11.2% baseline margin"
+      },
+      "wages": {
+        "2021": "$2.098 billion baseline wages, about 6.1% of revenue"
+      },
+      "farm_expenses_context": {
+        "2026": "USDA ERS forecast total US farm production expenses at $477.7 billion, up 1.0% nominally from 2025 but down 0.9% in real terms"
+      },
+      "labor_context": {
+        "2026": "USDA ERS forecast US cash labor expenses at $53.9 billion, up 2.2% from 2025"
+      },
+      "inputs_context": {
+        "2026": "USDA ERS forecast pesticide and fuel/oil expenses to decline from 2025, while electricity, property taxes and fees rise"
+      }
+    },
+    "major_players": [
+      "No major company has a material national share; the industry is highly fragmented across family farms and small farm enterprises.",
+      "Hay growers and mixed-crop farms selling into local livestock feed markets.",
+      "Sugarbeet grower cooperatives and contracted growers supplying beet sugar processors.",
+      "Hop growers concentrated in Washington, Idaho and Oregon, often selling through dealers or brewer contracts.",
+      "Organic hay and specialty forage producers serving organic dairy and beef supply chains."
+    ],
+    "current_dynamics": "In 2025, hay tonnage was steady to slightly higher but revenue declined because prices fell: USDA reported 2025 all-hay production of 123.031 million tons versus 122.462 million tons in 2024, while all-hay value declined to $17.241 billion from $18.407 billion. Livestock demand remains supportive, especially where drought limits pasture, but lower feed costs and softer crop prices have capped upside. Hops are under pressure from beer-volume weakness and prior oversupply, with 2025 harvested acreage down 7% and production down 5% from 2024. Sugarbeet output rose to 35.361 million tons in 2025, but final 2025 beet prices were not yet published in the February 2026 Crop Values report.",
+    "whats_growing": [
+      "2025 sugarbeet production grew to 35.361 million tons from 34.381 million tons in 2024.",
+      "2026 USDA ERS forecast hay cash receipts to increase $0.4 billion, or 5.5%, from 2025.",
+      "Organic and premium forage demand continues to benefit from organic dairy and beef production requirements.",
+      "Vertical integration in baling, storage, delivery and direct-to-livestock sales improves margins for some hay farms."
+    ],
+    "whats_shrinking": [
+      "2025 all-hay value of production fell to $17.241 billion from $18.407 billion in 2024.",
+      "2025 average all-hay price fell to $160 per ton from $166 per ton in 2024 and $208 per ton in 2023.",
+      "2025 hop harvested acreage fell to 41,654 acres from 44,793 acres in 2024.",
+      "2025 hop production fell to 83.143 million pounds from 87.072 million pounds in 2024.",
+      "2026 inflation-adjusted crop cash receipts are forecast by USDA ERS to decline 0.7% from 2025."
+    ],
+    "recent_developments": [
+      "2025-06-30: USDA NASS estimated 2025 corn planted acreage at 95.2 million acres, up 5% from 2024, affecting feed-crop competition and land-use decisions.",
+      "2025-12-19: USDA NASS National Hop Report showed 2025 US hop production at 83.143 million pounds, down 5% from 2024, with harvested acreage down 7%.",
+      "2026-01-12: USDA NASS Crop Production 2025 Summary reported all-hay production of 123.031 million tons on 49.557 million harvested acres.",
+      "2026-02-26: USDA NASS Crop Values 2025 Summary reported all-hay value of production at $17.241 billion and an average all-hay price of $160 per ton.",
+      "2026-05-19: USDA ERS forecast 2026 crop cash receipts at $240.8 billion, up 1.2% nominally from 2025 but down 0.7% after inflation."
+    ],
+    "outlook": "The 2026 outlook is modest rather than expansionary. Hay revenue should improve if cattle prices and localized forage needs support demand, and USDA ERS forecast 2026 hay receipts to rise 5.5% from 2025. However, broad crop receipts are forecast to fall in real terms in 2026, production expenses remain high, and specialty segments such as hops are still correcting from oversupply and weaker beer demand. Over the medium term, organic forage, direct delivery, drought-resilient production, storage capacity and specialty crop contracting are the clearest margin opportunities, while lower hay prices, weather volatility, water constraints, farm labor costs and financing costs remain the main risks.",
+    "themes": [
+      "Fragmented farm base",
+      "Livestock feed demand",
+      "Hay price normalization",
+      "Drought and weather volatility",
+      "Organic forage premiums",
+      "Sugarbeet processor contracts",
+      "Hop oversupply correction",
+      "Input cost pressure",
+      "Local transport economics",
+      "Low market concentration"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'name': 'Baseline file: Hay & Crop Farming in the US', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/hay-and-crop-farming-in-the-us.txt'}",
+      "{'name': 'USDA NASS Crop Production 2025 Summary, January 12 2026', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf'}",
+      "{'name': 'USDA NASS Crop Values 2025 Summary, February 26 2026', 'url': 'https://esmis.nal.usda.gov/sites/default/release-files/795791/cpvl0226.pdf'}",
+      "{'name': 'USDA ERS Farm Sector Income Forecast, updated May 19 2026', 'url': 'https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/farm-sector-income-forecast'}",
+      "{'name': 'USDA NASS National Hop Report, December 19 2025', 'url': 'https://esmis.nal.usda.gov/publication/national-hop-report'}",
+      "{'name': 'USDA NASS June 30 2025 Acreage news release', 'url': 'https://www.nass.usda.gov/Newsroom/archive/2025/06-30-2025.php'}",
+      "{'name': 'USDA ERS Sugar and Sweeteners Background, updated January 7 2025', 'url': 'https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/background'}"
+    ],
+    "one_sentence": "US hay and crop farms sell forage, sugarbeets, hops and miscellaneous specialty crops into livestock feed, food manufacturing, brewing and niche agricultural markets, with 2025 performance shaped by lower hay prices, stable hay tonnage, weaker hops acreage and softer crop receipts.",
+    "slug": "hay-and-crop-farming-in-the-us"
+  },
+  {
+    "title": "Hazardous Waste Collection",
+    "sector": "Energy & Environment",
+    "one_liner": "Specialized haulers collect, package, manifest and transfer regulated hazardous waste for industrial, commercial, healthcare, construction and government customers.",
+    "overview": "Operators in NAICS 562112 collect or haul hazardous waste within local markets and may operate hazardous waste transfer stations; the narrow industry excludes firms whose primary activity is hazardous waste treatment or disposal, although large competitors often own disposal, incineration, field services and recycling assets outside the strict collection code. Demand is sticky because generators must comply with RCRA, DOT transportation rules, state programs and customer audit requirements, but volumes fluctuate with manufacturing, utilities, refinery, chemical, construction and healthcare activity.",
+    "key_stats": {
+      "market_size": "2025: about $3.1 billion in US hazardous waste collection revenue, estimated for narrow NAICS 562112 from public 2021 Census/FRED revenue of $2.507 billion and public 2023 industry-report revenue of about $2.9 billion.",
+      "growth": "2025: low-single-digit estimated growth; public industry text reports 2018-2023 CAGR of 2.0% and a 2023 decline of 0.2%.",
+      "official_revenue_reference": "2021: $2.507 billion for hazardous waste collection establishments subject to federal income tax, employer firms, Census Service Annual Survey via FRED.",
+      "major_operator_context": "2025: Clean Harbors reported $6.031 billion total revenue and $5.146 billion Environmental Services third-party revenue; Republic Services reported $1.766 billion Environmental Solutions revenue.",
+      "fuel_cost_indicator": "2025: EIA reported US on-highway retail diesel averaging $3.66 per gallon and forecast $4.61 per gallon for 2026 in its July 2026 STEO.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $2.91 billion, derived from the public 2023 market size of about $2.90 billion and the reported 2023 decline of 0.2%.",
+      "growth": "2018-2023: 2.0% CAGR; 2023: -0.2% year over year, implying 2022 was slightly above 2023.",
+      "baseline_file_context": "The 2021 baseline file reported 2020 revenue of $3.646 billion in 2020 dollars and had forecast 2020-2025 revenue CAGR of 3.2% to $4.3 billion, but newer public market text points to a smaller 2023 narrow-code revenue base."
+    },
+    "how_it_makes_money": "Revenue comes from scheduled pickups, lab-pack and drum handling, bulk liquid and sludge hauling, container rental, profiling and labeling, manifest preparation, transfer-station handling, emergency spill response, industrial field services and pass-through disposal or treatment charges. Pricing is usually based on waste type, hazard class, container size, frequency, distance, documentation burden and downstream disposal method.",
+    "cost_structure": "Major costs are driver and technician wages, fuel, truck fleet depreciation and maintenance, insurance, safety training, PPE, permits, e-Manifest fees, transfer-station costs, subcontracted treatment or disposal, compliance systems and sales staff. The baseline file reported 2020 wages at 14.8% of revenue and 2020 profit margin at 6.3%; fuel remains volatile, with EIA reporting 2025 on-highway diesel at $3.66 per gallon and forecasting $4.61 for 2026.",
+    "major_players": [
+      "Clean Harbors: North America leader with 2025 total revenue of $6.031 billion and 2025 Environmental Services third-party revenue of $5.146 billion, spanning hazardous waste management, technical services, field services, emergency response and recycling.",
+      "Republic Services: expanded hazardous and environmental services through US Ecology; reported 2025 Environmental Solutions revenue of $1.766 billion and 21.1% adjusted EBITDA margin.",
+      "WM / Stericycle: WM completed its $7.2 billion Stericycle acquisition on November 4, 2024, adding regulated medical waste and compliance services to its environmental-solutions platform.",
+      "Veolia North America: offers hazardous waste, industrial cleaning, wastewater, solvent recovery and environmental services for industrial and municipal customers.",
+      "Heritage Environmental Services: privately held hazardous waste, lab-pack, field services, emergency response and byproduct management provider.",
+      "Tradebe Environmental Services: hazardous waste treatment, recovery, disposal and industrial services provider with US operations."
+    ],
+    "current_dynamics": "2025-2026 conditions are mixed but constructive: industrial volumes are not booming, but large operators are gaining share through pricing, network density and vertical integration. PFAS, medical waste, emergency response, technical services, incineration, landfill projects and environmental compliance are stronger than basic cyclical manufacturing pickup. Higher 2026 diesel forecasts pressure route economics, while e-Manifest modernization shifts administrative work from paper handling toward digital data quality and system integration.",
+    "whats_growing": "PFAS-related characterization and cleanup support, regulated medical waste after WM-Stericycle consolidation, emergency response and field services, utility and power-related project waste, lab-pack services, digital manifest workflows, vertically integrated collection-to-disposal offerings and large-account national contracts.",
+    "whats_shrinking": "Paper manifest handling, fragmented standalone haulers without disposal access, low-margin commodity hauling, one-off municipal household hazardous waste events as a share of professional revenue, and volumes tied to weak pockets of manufacturing or delayed commercial construction.",
+    "recent_developments": [
+      "2024-04: EPA finalized CERCLA hazardous-substance designations for PFOA and PFOS, increasing PFAS cleanup visibility and spill-reporting sensitivity.",
+      "2024-07: EPA finalized the e-Manifest Third Rule, adding export manifests and other manifest-related reports to the electronic system starting December 1, 2025.",
+      "2024-11: WM completed its $7.2 billion acquisition of Stericycle, consolidating regulated medical waste and compliance services.",
+      "2025-12: Clean Harbors reported record 2025 revenue of $6.031 billion, with Environmental Services growth led by technical services, PFAS services, landfill volumes and field services.",
+      "2026-03: EPA proposed moving hazardous waste manifests to a 100% electronic e-Manifest system.",
+      "2026-05: EPA withdrew one RCRA corrective-action proposal related to the hazardous waste definition while leaving the separate proposal to list nine PFAS as hazardous constituents active."
+    ],
+    "outlook": "The 2026-2027 outlook is steady growth rather than a volume surge. Compliance needs, PFAS work, healthcare waste, emergency response and utility/power construction support demand, while softer manufacturing, project timing and high diesel costs limit margin upside. Larger integrated firms should keep taking share because customers prefer providers that can profile, collect, manifest, transfer, treat and dispose of waste across multiple states.",
+    "themes": [
+      "Regulation-driven demand",
+      "PFAS and emerging contaminants",
+      "Vertical integration",
+      "Digital e-Manifest adoption",
+      "Healthcare and medical waste consolidation",
+      "Fuel and insurance cost pressure",
+      "Infrastructure and utility project exposure",
+      "Mature fragmented tail with scaled national leaders"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/hazardous-waste-collection.txt",
+      "https://fred.stlouisfed.org/series/REVEF562112TAXABL",
+      "https://alfred.stlouisfed.org/release?et=&ob=pv&od=desc&pageID=24&rd=&rid=289&soid=19&t=",
+      "https://www.researchandmarkets.com/report/united-states-hazardous-waste-collection-market",
+      "https://www.census.gov/naics/?details=56&input=56&year=2022",
+      "https://ir.cleanharbors.com/news-releases/news-release-details/clean-harbors-announces-fourth-quarter-and-full-year-2025",
+      "https://investor.republicservices.com/news-releases/news-release-details/republic-services-inc-reports-fourth-quarter-and-full-year-2025",
+      "https://investors.wm.com/news-releases/news-release-details/wm-completes-acquisition-stericycle",
+      "https://www.epa.gov/e-manifest",
+      "https://www.epa.gov/e-manifest/e-manifest-user-fees-and-payment-information",
+      "https://www.epa.gov/e-manifest/final-rule-integrating-e-manifest-exports-and-other-manifest-related-reports-pcb",
+      "https://www.epa.gov/hw/proposal-list-nine-and-polyfluoroalkyl-compounds-resource-conservation-and-recovery-act",
+      "https://www.epa.gov/hw/withdrawal-proposal-clarify-authority-address-releases-hazardous-waste-treatment-storage-and",
+      "https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-critical-rule-clean-pfas-contamination-protect",
+      "https://www.eia.gov/outlooks/steo/?os=f",
+      "https://www.construction.com/dodge-momentum-index-grows-7-in-december/"
+    ],
+    "one_sentence": "Hazardous waste collection is a mature but regulation-supported US environmental services niche where demand tracks industrial output, healthcare activity, infrastructure work, emergency response and compliance needs more than discretionary consumer spending.",
+    "slug": "hazardous-waste-collection"
+  },
+  {
+    "title": "Headphone Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small US manufacturing niche serving a much larger, import-heavy headphone and earbud market.",
+    "overview": "Headphone Manufacturing covers US production of headphones, earphones, earbuds, headsets and noise-canceling models used with phones, computers, audio systems, gaming equipment, classrooms, studios and industrial devices. The industry remains small relative to US consumer demand because high-volume wireless earbuds and low-price headsets are mostly sourced from overseas. Domestic producers compete by emphasizing audio quality, brand heritage, professional use cases, direct-to-consumer channels, shorter product runs and specialized designs rather than low-cost scale manufacturing.",
+    "key_stats": {
+      "market_size": "2025 US headphone manufacturing revenue is estimated at about $358.3 million, based on the 2022 baseline projection path from $346.7 million in 2021 to $361.5 million in 2026.",
+      "growth": "2021-2026 projected US manufacturing revenue CAGR was 0.8%; IBISWorld reported 2025 business-count growth of 4.5%.",
+      "businesses": "2025 US Headphone Manufacturing businesses: 46.",
+      "trade": "2024 US imports of HS 851830 headphones, earphones and microphone/speaker sets were $7.43 billion and 426.3 million items; 2024 US exports were $1.06 billion and 16.2 million items.",
+      "consumer_market": "2025 US headphone end-market estimates range from $15.86 billion to $18.90 billion, with 2026 estimates around $17.38 billion in one forecast.",
+      "wireless_earphones": "2025 US wireless earphone market: $12.2 billion; 2026 estimate: $13.6 billion implied by an 11.6% 2026-2035 CAGR.",
+      "koss_sales": "Koss reported fiscal 2025 net sales of $12.6 million, up 2.9% from fiscal 2024.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US headphone manufacturing revenue: about $349.5 million, extrapolated from the 2021 baseline of $346.7 million using the report's 2021-2026 projected CAGR of 0.8%.",
+      "growth": "2022 growth was expected to normalize near the 2021-2026 projected CAGR of 0.8% after pandemic-driven 2020-2021 demand spikes.",
+      "imports": "2021 baseline imports were $4.63 billion and represented 99.2% of domestic demand.",
+      "exports": "2021 baseline exports were $309.9 million and represented 89.4% of industry revenue.",
+      "profit_margin": "2021 baseline profit margin was 6.2%.",
+      "employment": "2021 baseline employment was 974 workers across 45 enterprises and 47 establishments."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, assembling and selling branded or private-label headphones, earbuds and headsets through distributors, online stores, national retailers, audio specialty dealers, education channels, OEM customers and international distributors. Higher-margin opportunities come from premium audio, noise cancellation, studio/professional products, education headsets, gaming, fitness-oriented earbuds, direct-to-consumer sales and replacement accessories.",
+    "cost_structure": "Costs are led by electronic components, drivers, microphones, batteries, Bluetooth chipsets, plastics, metals, packaging, freight, tariffs, compliance testing, warranty service, marketing and wages. The 2022 baseline projected wages at 24.6% of industry revenue in 2026 and profit margin at 6.2%. Koss's fiscal 2025 cost of goods sold was $7.9 million on $12.6 million of sales, implying a 37.8% gross margin, while SG&A was $6.5 million.",
+    "major_players": [
+      "Koss Corporation",
+      "Bose Corporation",
+      "Shure Incorporated",
+      "Grado Labs",
+      "Audeze / Sony Interactive Entertainment",
+      "Apple / Beats",
+      "Sony Electronics",
+      "Samsung / Harman JBL",
+      "Sennheiser Consumer Audio / Sonova"
+    ],
+    "current_dynamics": "The industry is shaped by a split between tiny domestic manufacturing revenue and a very large US consumer headphone market. Imports dominate unit supply, with 2024 US HS 851830 imports at $7.43 billion and early-2026 import data showing Vietnam as a leading source. Domestic manufacturers are less exposed to commodity low-end competition when they sell premium, pro-audio or specialized products, but they still face component costs, tariff uncertainty, fast model cycles and heavy marketing spend by Apple, Sony, Bose, Samsung and other global brands.",
+    "whats_growing": "True wireless earbuds, active noise cancellation, open-ear and fitness designs, spatial audio, AI-assisted voice pickup, hearing-health features, live translation, USB-C/lossless wired modes, gaming headsets, education headsets and DTC sales are growing. The 2025 US wireless earphone market was valued at $12.2 billion, and the 2025 US true wireless stereo earbuds market was reported at $9.4 billion.",
+    "whats_shrinking": "Basic wired earbuds, bundled smartphone earphones, undifferentiated low-end headsets and mass-market US assembly are shrinking or structurally weak. Price-sensitive demand is captured by imports, while consumer replacement cycles are pressured when lower- and middle-income electronics buyers pull back, as Circana noted for late 2025.",
+    "recent_developments": [
+      "2024-09: Apple launched AirPods 4, added ANC to an open-ear AirPods model, refreshed AirPods Max with USB-C and introduced hearing-health features for AirPods Pro 2.",
+      "2025-01: Circana forecast 2025 US consumer technology revenue growth of 1.6%, with computers, portable audio and TVs expected to contribute more than 70% of gains.",
+      "2025-05: Sony launched WH-1000XM6 headphones at $449.99 with a new processor, 12 microphones and upgraded noise cancellation.",
+      "2025-06: Bose announced QuietComfort Ultra Earbuds 2nd Gen at $299 with enhanced adaptive noise cancellation, AI voice pickup and wireless charging.",
+      "2025-09: Apple introduced AirPods Pro 3 at $249 with stronger ANC, heart-rate sensing, live translation and availability beginning September 19, 2025.",
+      "2026-01: Circana forecast US consumer technology sales of $112 billion in 2026, up 0.2%, after a projected 2.2% decline in second-half 2025 sales."
+    ],
+    "outlook": "The 2026 outlook is steady but competitive. US manufacturing revenue is likely to remain near the $360 million range unless reshoring, defense/audio specialty demand or tariff-driven sourcing changes materially expand domestic production. Growth will come more from premium mix, specialty applications and direct selling than from unit volume. The much larger US consumer market should continue expanding in wireless earbuds and ANC models, but domestic manufacturers must manage import competition, tariff volatility, consumer spending pressure and fast feature cycles led by global electronics brands.",
+    "themes": [
+      "Import dependence",
+      "Premiumization",
+      "Wireless earbuds",
+      "Active noise cancellation",
+      "Hearing health and fitness sensors",
+      "AI voice pickup and translation",
+      "Vietnam supply-chain shift",
+      "Direct-to-consumer sales",
+      "Tariff exposure",
+      "Specialty and professional audio"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/headphone-manufacturing.txt, last updated Feb. 13, 2022",
+      "IBISWorld, Headphone Manufacturing in the US - Number of Businesses, May 2025: https://www.ibisworld.com/united-states/number-of-businesses/headphone-manufacturing/4444/",
+      "Koss Corporation FY2025 Form 10-K, fiscal year ended June 30, 2025: https://www.sec.gov/Archives/edgar/data/56701/000005670125000044/koss-20250630x10k.htm",
+      "WITS / UN Comtrade, United States HS 851830 imports by country, 2024: https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2024/tradeflow/Imports/partner/ALL/product/851830",
+      "WITS / UN Comtrade, United States HS 851830 exports by country, 2024: https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2024/tradeflow/Exports/partner/ALL/product/851830",
+      "Circana, US consumer technology sales forecast, Jan. 7, 2025: https://www.circana.com/post/us-consumer-technology-sales-forecast-to-rebound-in-2025-with-1-8b-in-revenue-gains-reports-circan",
+      "Circana, US consumer technology sales forecast to reach $112 billion in 2026, Jan. 6, 2026: https://www.globenewswire.com/news-release/2026/01/06/3213802/0/en/US-Consumer-Technology-Sales-Forecast-to-Reach-112-Billion-in-2026-Reports-Circana.html",
+      "Global Market Insights, North America Wireless Earphone Market, April 2026: https://www.gminsights.com/industry-analysis/north-america-wireless-earphone-market",
+      "Market Data Forecast, U.S. Headphone Market, 2026: https://www.marketdataforecast.com/market-reports/united-states-hadphone-market",
+      "Apple Newsroom, AirPods 4 and AirPods Pro 2 hearing-health update, Sept. 9, 2024: https://www.apple.com/newsroom/2024/09/apple-introduces-airpods-4-and-a-hearing-health-experience-with-airpods-pro-2/",
+      "Apple Newsroom, AirPods Pro 3, Sept. 9, 2025: https://www.apple.com/newsroom/2025/09/introducing-airpods-pro-3-the-ultimate-audio-experience/",
+      "Sony Electronics, WH-1000XM6 announcement, May 15, 2025: https://sony.mediaroom.com/2025-05-15-Sony-Introduces-the-Best-Noise-Cancellation-with-the-WH-1000XM6-Headphones",
+      "Bose Pressroom, QuietComfort Ultra Earbuds 2nd Gen, June 12, 2025: https://www.bose.com/pressroom/bose-announces-the-quietcomfort-ultra-earbuds-2nd-gen"
+    ],
+    "one_sentence": "US headphone manufacturers focus on premium, professional, education, gaming and specialty listening products while mass-market earbuds and headsets are largely imported from Asian contract manufacturers.",
+    "slug": "headphone-manufacturing"
+  },
+  {
+    "title": "Health & Welfare Funds in the US",
+    "sector": "Finance & Insurance",
+    "one_liner": "Nonprofit benefit funds pool employer and worker contributions to provide union, employer and association members with health, life, disability and welfare benefits.",
+    "overview": "This industry consists of legal entities such as trusts, funds, plans and programs that provide medical, surgical, hospital, prescription drug, dental, vision, life, disability, vacation, training and other welfare benefits exclusively to sponsoring employers' workers, union members or association members. Funds are typically nonprofit vehicles overseen by trustees and financed mainly by employer contributions, worker contributions and investment income. The 2022 baseline showed a mature but large industry, with revenue of $236.6 billion and profit of $36.7 billion. By 2025, the industry's operating environment is defined less by new product formation than by medical-cost inflation, prescription-drug pressure, bargaining-table benefit demands, financial-market returns and regulatory reporting under ERISA/Form 5500.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $258.6 billion, derived from the 2022 IBISWorld baseline of $236.6 billion and its 2022-2027 revenue forecast path to $274.5 billion.",
+      "growth": "2022-2027 projected revenue CAGR: 3.0%; 2025 modeled annual growth: about 3.0%.",
+      "profit": "2022 baseline profit: $36.7 billion; 2022 profit margin: 15.5%.",
+      "establishments": "2022 baseline establishments: 1,114; 2027 baseline forecast enterprises: 1,317.",
+      "employment": "2022 baseline employment: 16,719 workers; 2022 baseline wages: $1.25 billion.",
+      "health_spending_context": "2024 US national health expenditures: $5.3 trillion, up 7.2%; 2024 private health insurance spending: $1.645 trillion, up 8.8%.",
+      "employer_premium_context": "2025 average employer-sponsored premiums: $9,325 for single coverage and $26,993 for family coverage; family premiums rose 6% in 2025.",
+      "union_context": "2025 union membership rate: 10.0%; 2025 union members: 14.7 million; 2025 union-represented workers: 16.5 million.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $236.6 billion.",
+      "growth": "2017-2022 revenue CAGR: 2.4%; 2022 annual revenue growth: 9.4%; 2022-2027 forecast CAGR: 3.0%.",
+      "profit": "2022 profit: $36.7 billion; 2022 profit margin: 15.5%.",
+      "industry_gross_product": "2022 industry gross product: $39.8 billion.",
+      "establishments": "2022 establishments: 1,114.",
+      "enterprises": "2022 enterprises: 1,114.",
+      "employment": "2022 employment: 16,719.",
+      "wages": "2022 total wages: $1.25 billion.",
+      "product_mix": "2022 baseline product mix: healthcare benefits 53.1%, life insurance coverage 9.8%, audiology benefits 10.6%, other welfare-related benefits 26.5%."
+    },
+    "how_it_makes_money": "Funds receive negotiated employer contributions, member or employee premium contributions, investment income, interest and dividends, and sometimes proceeds from sales of fund assets. Money is used to pay member benefits, insurance premiums or claims, third-party administrators, professional advisers, custodians and internal administrative staff, with surpluses retained as reserves rather than distributed to shareholders.",
+    "cost_structure": {
+      "largest_costs": "Member medical, prescription drug, dental, vision, life, disability and welfare benefit payments are the dominant use of revenue.",
+      "administration": "Claims processing, third-party administration, actuarial, legal, audit, trustee, recordkeeping, custody and investment-management fees are recurring overhead costs.",
+      "labor": "2022 baseline wages were $1.25 billion, small relative to 2022 revenue of $236.6 billion because most spending flows through to benefits and reserves.",
+      "reserves_and_margin": "2022 baseline profit/reserve margin was 15.5%, down from 16.7% in 2017 as benefit costs and pandemic-era volatility pressured operating results.",
+      "medical_cost_pressure": "2025 employer-sponsored family premiums rose 6% to $26,993, signaling continued pressure on fund contribution rates and claims budgets."
+    },
+    "major_players": [
+      "No dominant national operator; the industry is fragmented across union, employer and association benefit trusts.",
+      "1199SEIU Benefit and Pension Funds",
+      "SEIU 775 Benefits Group",
+      "IBEW/NECA health and welfare trust funds",
+      "Teamsters health and welfare trust funds",
+      "Large insurers and TPAs such as UnitedHealthcare, Elevance/Blue Cross Blue Shield, CVS/Aetna, Cigna and Humana are important competitors, administrators or network partners rather than classic nonprofit fund operators."
+    ],
+    "current_dynamics": "The industry is benefiting from rising employer health premiums and high overall health spending, but the demand base is not expanding quickly because union density remains low. In 2025, BLS reported a 10.0% union membership rate and 14.7 million union members, while KFF reported 154 million people under age 65 covered by employer-sponsored insurance. Funds with negotiated multiemployer or public-sector member bases have bargaining leverage and stable contribution flows, but they face claims inflation, prescription-drug cost pressure, aging membership, tighter plan administration requirements and competition from large commercial insurers with broader provider networks and scale. Investment income is also a meaningful swing factor because fund assets are invested in public equities and fixed income.",
+    "whats_growing": [
+      "Employer and employee premium contributions, driven by 2025 family premium growth of 6%.",
+      "Prescription-drug and specialty-drug spending, with CMS projecting retail prescription drug spending to grow 5.7% annually over 2025-2034.",
+      "Demand in heavily unionized 2025 industries such as utilities, transportation and warehousing, educational services, public safety and local government.",
+      "Use of third-party administrators, pharmacy benefit managers, network-management vendors and compliance support as funds manage complexity.",
+      "Interest income on fixed-income holdings relative to the ultra-low-rate 2020-2021 period."
+    ],
+    "whats_shrinking": [
+      "Relative union penetration in the private economy, with the 2025 private-sector union membership rate at only 5.9%.",
+      "Employer willingness to absorb all benefit inflation, as 2025 worker family-premium contributions averaged $6,850.",
+      "Comprehensive low-deductible benefit designs for cost-sensitive employers and smaller groups.",
+      "Fund competitiveness where large insurers can offer broader networks, deeper data tools and larger risk pools.",
+      "Coverage access for part-time workers, since only 27% of large firms offering health benefits offered benefits to part-time workers in 2025."
+    ],
+    "recent_developments": [
+      "2025-06: Research and Markets listed the June 2025 IBISWorld Health & Welfare Funds report, noting investment returns and union membership as key growth drivers but recent pressure from inflation, war-related uncertainty and recession fears.",
+      "2025-10-22: KFF reported 2025 employer-sponsored family premiums of $26,993, up 6%, with workers contributing $6,850 on average.",
+      "2026-02-18: BLS reported the 2025 union membership rate at 10.0%, with 14.7 million union members and 16.5 million union-represented workers.",
+      "2026-06-12: BLS reported March 2026 private-industry compensation costs of $46.60 per hour, including $14.01 in benefits and $3.41 in health insurance costs.",
+      "2026-06-24: CMS released 2025-2034 NHE projections showing average annual NHE growth of 5.4% and private health insurance spending growth of 5.0%."
+    ],
+    "outlook": "Revenue should continue growing through 2026 and 2027 as healthcare inflation raises required contributions and investment income remains important to fund performance. The baseline path implies 2026 revenue of about $266.5 billion and 2027 revenue of $274.5 billion. Upside comes from strong covered employment, public-sector and infrastructure-related union work, higher negotiated employer contributions and fixed-income yields. Downside comes from stagnant union density, employers shifting more cost to workers, part-time and contingent work, insurer consolidation, high prescription-drug utilization and regulatory changes affecting employment-based coverage. The industry's long-term profile remains mature: large, stable and necessary for covered members, but not structurally high-growth without a stronger union or employer-sponsored coverage base.",
+    "themes": [
+      "Medical-cost inflation",
+      "Union density and collective bargaining",
+      "Employer-sponsored insurance",
+      "Multiemployer benefit trusts",
+      "Prescription-drug and GLP-1 cost pressure",
+      "Investment-income volatility",
+      "ERISA compliance and Form 5500 reporting",
+      "Insurer and TPA consolidation",
+      "Public-sector benefit stability",
+      "Cost shifting to workers"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Health & Welfare Funds in the US, IBISWorld, last updated Feb. 27, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/health-and-welfare-funds-in-the-us.txt'}",
+      "{'name': 'Research and Markets, Health & Welfare Funds in the US - Industry Market Research Report, June 2025', 'url': 'https://www.researchandmarkets.com/report/health-and-welfare-funds'}",
+      "{'name': 'BLS, Union Members - 2025, released Feb. 18, 2026', 'url': 'https://www.bls.gov/news.release/union2.htm'}",
+      "{'name': 'KFF, 2025 Employer Health Benefits Survey, published Oct. 22, 2025', 'url': 'https://www.kff.org/health-costs/2025-employer-health-benefits-survey/'}",
+      "{'name': 'CMS, National Health Expenditure Fact Sheet, historical 2024 and projected 2025-2034 data', 'url': 'https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet'}",
+      "{'name': 'U.S. Department of Labor EBSA, Group Health Plans Form 5500 data page', 'url': 'https://www.dol.gov/agencies/ebsa/researchers/statistics/health-and-welfare-bulletins/group-health-plans'}",
+      "{'name': 'BLS, Employer Costs for Employee Compensation - March 2026', 'url': 'https://www.bls.gov/news.release/ecec.nr0.htm?page=1'}"
+    ],
+    "one_sentence": "Health and welfare funds remain a large, mature part of the employment-based benefits system, with revenue supported by rising medical premiums and investment income but constrained by flat union density, insurer competition and higher claims costs.",
+    "slug": "health-and-welfare-funds-in-the-us"
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "title": "Blow Molding Machinery Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed US machinery niche selling high-ticket systems to plastic bottle, packaging, medical-container and industrial-part producers.",
+    "overview": "This industry manufactures extrusion, injection and stretch blow molding machinery used to form hollow plastic products such as beverage bottles, pharmaceutical containers, household-product packaging, automotive ducts and industrial drums. The 2021 IBIS baseline described a very small domestic producer base, with 9 enterprises, 9 establishments, $316.9 million of revenue, $36.5 million of exports and $393.2 million of imports. The updated 2025-2026 picture is mixed: industrial-equipment investment is higher, North American plastics machinery shipments improved late in 2025, and blow-molding-machine imports rose sharply through September 2025, but US plastics product manufacturing utilization weakened and tariffs raised the landed cost of imported steel, aluminum and machinery.",
+    "key_stats": {
+      "market_size": "2026: $375.8 million US industry revenue, using the baseline 2021-2026 forecast.",
+      "growth": "2021-2026: +3.5% CAGR forecast; 2025 Q4 North American primary plastics machinery shipments were $327.0 million, +7.8% q/q and +7.0% y/y.",
+      "enterprises": "2021: 9 enterprises; 2026 baseline forecast: 9 enterprises.",
+      "employment": "2021: 1,037 workers; 2026 baseline forecast: 1,164 workers.",
+      "profit_margin": "2021: 7.0% EBIT margin; 2026 baseline forecast: 7.9%.",
+      "imports": "2021: $393.2 million imports, equal to 58.4% of domestic demand; 2024 US HS 847730 blow-molding-machine imports were $182.2 million and 728 units; 2025 blow-molding-machinery imports were +25.5% to $173.2 million through September.",
+      "exports": "2021: $36.5 million exports; 2026 baseline forecast: $43.7 million.",
+      "downstream_capacity": "2025 plastics product manufacturing capacity utilization averaged 73.4%, down from 75.0% in 2024; 2026 Q2 plastics and rubber products industrial capacity index was 126.6194, 2017=100.",
+      "industrial_equipment_investment": "2025 private fixed investment in industrial equipment was $340.831 billion; 2026 Q1 was $353.430 billion SAAR.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $328.0 million, inferred from 2021 revenue of $316.9 million grown at the baseline 2021-2026 CAGR of 3.5%.",
+      "growth": "2022: +3.5% implied baseline forecast growth from 2021.",
+      "profit_margin": "2022: improving from the 2021 baseline margin of 7.0% toward the 2026 forecast of 7.9%.",
+      "imports": "2022: high import penetration remained a core baseline risk after 2021 imports reached $393.2 million."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by designing, building and integrating blow molding systems, including extrusion blow molding machines for drums and industrial containers, injection blow molding machines for small medical and personal-care containers, and stretch blow molding machines for PET bottles and jars. Additional revenue comes from molds, controls, automation, installation, retrofits, spare parts, field service, rebuilds and process engineering support. Because machines are expensive, lumpy purchases, customer financing conditions and downstream plant-expansion plans drive order timing.",
+    "cost_structure": "The baseline cost base is machinery-heavy and supplier-sensitive. 2021 profit was $22.0 million, or 7.0% of revenue; 2021 wages were $73.0 million, or about 23.0% of revenue, reflecting skilled engineering, machining, assembly and service labor. Purchases include fabricated steel, aluminum, controls, hydraulics, compressors, drives, molds and outsourced components; 2025 Section 232 steel and aluminum tariffs rising to 50% increased pressure on metal-intensive inputs. Freight, installation, warranty support, R&D, software controls and sales engineering are meaningful overhead items, while aftermarket parts and service typically carry steadier margins than new-machine builds.",
+    "major_players": [
+      "Milacron",
+      "Krones Inc.",
+      "Graham Engineering Company",
+      "Wilmington Machinery",
+      "Sidel",
+      "Aoki Technical Laboratory"
+    ],
+    "current_dynamics": "The industry is benefiting from equipment replacement, automation and energy-efficiency upgrades, especially where processors want lower air consumption, servo drives, better controls and more in-house uptime. At the same time, US demand is uneven because plastics converters ran at only 73.4% capacity utilization on average in 2025, making some buyers cautious about adding capacity. Import competition remains central: 2025 plastics machinery imports reached $3.5 billion overall, and blow-molding-machinery imports rose 25.5% to $173.2 million through September 2025. Tariffs have raised costs and complicated procurement, but they also make US-built machines and North American component sourcing more strategically attractive for some buyers.",
+    "whats_growing": "Growing areas include rotary and accumulator-head blow molding systems for packaging and industrial containers, energy-efficient servo-hydraulic and electric platforms, controls and IIoT monitoring, retrofits for older machines, aftermarket parts, domestic component production and customized systems for medical, personal-care, food, beverage and specialty packaging lines. Packaging machinery demand is also supported by 2025-2027 investment in plant upgrades, automation and individually packaged formats.",
+    "whats_shrinking": "Shrinking or pressured areas include low-spec commodity bottle equipment, machinery tied to carbonated soft-drink volume, export opportunities for US-built machines, projects dependent on imported European or Asian systems with tariff exposure, and discretionary capacity additions by converters facing weak 2025 utilization. Used-machine substitution is less available than earlier cycles, but customers remain price-sensitive because imported alternatives are abundant.",
+    "recent_developments": [
+      "2025-02: Wilmington Machinery was sold to a local private investor, with founder Russ LaBelle stepping away after leading the company since 1972.",
+      "2025-03-31: Bain Capital completed a majority investment in Milacron, with Hillenbrand retaining a significant stake.",
+      "2025-06-04: US Section 232 tariffs on steel and aluminum rose to 50%, increasing cost pressure on metal-intensive machinery supply chains.",
+      "2025-Q3: US blow-molding-machinery imports rose 25.5% to $173.2 million through September 2025, according to PLASTICS commentary on trade data.",
+      "2025-Q4: North American primary plastics machinery shipments rose to $327.0 million, +7.8% q/q and +7.0% y/y.",
+      "2026-03-25: Wilmington Machinery said it was expanding capacity, adding CNC equipment and evaluating additional blow molding machinery offerings."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive. Baseline revenue reaches $375.8 million in 2026, implying 3.5% annualized growth from 2021, and 2025-2026 macro data show stronger industrial-equipment investment and improving plastics machinery shipment momentum. However, the upside is not broad-based: weak plastics conversion utilization, tariff uncertainty, high import penetration and customer sensitivity to financing costs keep order timing volatile. The best-positioned US manufacturers are those with differentiated engineering, North American sourcing, aftermarket service revenue and machines that reduce energy, air use, labor and downtime.",
+    "themes": [
+      "Automation as margin defense",
+      "Tariff reshoring tension",
+      "Import competition",
+      "Packaging sustainability and lightweighting",
+      "Energy-efficient machinery",
+      "Aftermarket service resilience",
+      "Mature niche with replacement demand"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/blow-molding-machinery-manufacturing.txt",
+      "https://www.plasticsmachinerymanufacturing.com/manufacturing/news/55364195/plastics-machinery-shipments-rose-in-q4-2025",
+      "https://www.plasticsindustry.org/blog/seven-charts-defining-the-us-plastics-industry-in-2025/",
+      "https://fred.stlouisfed.org/series/A680RC1Q027SBEA",
+      "https://fred.stlouisfed.org/series/CAPG326SQ",
+      "https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/",
+      "https://www.bis.gov/about-bis/bis-leadership-and-offices/SIES/section-232-investigations/section-232-steel-aluminum",
+      "https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2024/tradeflow/Imports/partner/ALL/product/847730",
+      "https://www.milacron.com/about/",
+      "https://wilmingtonmachinery.com/expansion/",
+      "https://wilmingtonmachinery.com/company/",
+      "https://www.pmmi.org/news/packaging-machinery-sales-projected-to-grow-to-new-highs-through-2027"
+    ],
+    "one_sentence": "Blow molding machinery manufacturing is a mature US capital-equipment industry whose 2026 revenue is still anchored near the baseline forecast of $375.8 million, with demand supported by packaging automation and equipment replacement but constrained by tariff volatility, imported machines and weaker plastics conversion utilization.",
+    "slug": "blow-molding-machinery-manufacturing"
+  },
+  {
+    "title": "Body Piercing Studios",
+    "sector": "Consumer Services",
+    "one_liner": "Small, hygiene-sensitive piercing studios are recovering from the COVID-era shock while branded ear-piercing chains and mall retailers reshape customer expectations around safety, jewelry curation and convenience.",
+    "overview": "Body piercing studios provide ear, facial and body piercing services and typically earn additional revenue from initial jewelry, upgraded implant-grade jewelry and aftercare products. The baseline IBISWorld file reported 2021 revenue of $516.2 million after a 35.4% revenue drop in 2020 and projected a recovery to $637.1 million by 2026. Current 2025-2026 evidence points to a market close to that recovery path: North America body piercing services were estimated at $677.9 million in 2025, and the United States likely represents most of that regional total. The industry is still dominated by independent studios and solo operators, but Rowan, Studs, Claire's, Ulta and other retail-adjacent operators are making ear piercing more branded, appointment-driven and jewelry-led.",
+    "key_stats": {
+      "market_size": "About $610 million in US piercing-studio service revenue in 2025, inferred from the 2025 North America body piercing service estimate of $677.9 million and the 2021 IBISWorld projection path to $637.1 million in 2026.",
+      "growth": "About 4%-7% annual growth in 2025-2026, with the 2021 IBISWorld baseline projecting 4.3% annualized revenue growth from 2021 to 2026 and a 2026 market of $637.1 million; global body piercing services were projected at a 6.85% CAGR for 2025-2032.",
+      "establishments": "The 2021 IBISWorld baseline reported 9,170 establishments in 2021 and projected 1.6% annualized establishment growth for 2021-2027.",
+      "profit_margin": "The 2021 IBISWorld baseline estimated 2021 profit margin at 7.6%; 2025-2026 margins are pressured by wages, rent, insurance, jewelry costs and sterilization compliance.",
+      "jewelry_market": "US body piercing jewelry was estimated at $381.33 million in 2025 by Deep Market Insights, with 6.72% CAGR projected for 2026-2034.",
+      "consumer_backdrop": "BEA reported June 2026 disposable personal income up 0.2% month over month and personal consumption expenditures up 0.3%, supporting but not guaranteeing discretionary service spending.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $538 million in 2022, estimated by applying the baseline report's 2021-2026 recovery path to 2021 revenue of $516.2 million.",
+      "growth": "About 4.3% in 2022 on the baseline projection path, following the 2021 rebound from the 2020 COVID contraction.",
+      "context": "The 2022 baseline year was still a reopening-recovery year, with operators rebuilding appointment volume after 2020 closures and 2021 capacity limits."
+    },
+    "how_it_makes_money": "Studios charge procedure fees for ear, nostril, septum, navel, nipple and other piercings; sell starter and upgraded jewelry; sell aftercare sprays and cleaning products; and generate repeat visits from jewelry changes, downsizing, troubleshooting and additional piercings. Higher-end studios lift average ticket through implant-grade titanium, gold, curated ear styling and appointment-based consultations.",
+    "cost_structure": "Major costs are piercer labor and owner compensation, rent for visible retail or studio space, jewelry inventory, needles and disposable supplies, sterilization equipment and autoclave maintenance, insurance, licensing, booking software and local marketing. Wages are the largest controllable operating cost in the baseline report, while 2025-2026 pressure is coming from rent, imported jewelry costs, compliance investments and higher customer expectations for sterile, clinically framed service.",
+    "major_players": [
+      "Independent tattoo and piercing studios",
+      "Rowan",
+      "Studs",
+      "Claire's and Icing",
+      "Banter by Piercing Pagoda",
+      "Iris Piercing Studios",
+      "Infinite Body Piercing"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions: professional studios benefit from consumers seeking safer technique, needles, implant-grade jewelry and curated styling, while mall and beauty retailers compete on convenience and entry-level ear piercing. Rowan's 100-store milestone and projected $150 million 2025 revenue run rate show that branded ear piercing can scale, but Claire's 2025 bankruptcy and planned store closures show that legacy mall traffic is weakening. Professional standards are also moving toward clearer sterilization practices, including point-of-use autoclave setups and better separation of clean and contaminated workflows.",
+    "whats_growing": "Curated ear projects, multiple-lobe and cartilage piercings, nostril and septum piercings, premium gold and titanium jewelry, appointment-based studios, nurse- or clinician-branded ear piercing, aftercare add-ons, and studios that market strongly through Instagram, TikTok and local search are growing in 2025-2026.",
+    "whats_shrinking": "Low-differentiation walk-in traffic, mall-dependent ear-piercing counters, piercing-gun positioning, inexpensive alloy jewelry, COVID-era mask-related service restrictions and undercapitalized solo shops without strong hygiene messaging are weaker than the broader market.",
+    "recent_developments": [
+      "2025-07-02: Association of Professional Piercers published its 2025 stance supporting point-of-use steam sterilization as a best practice for body piercing.",
+      "2025-08-06: Claire's filed for Chapter 11 bankruptcy protection for the second time since 2018, citing debt, weaker mall traffic, competition and macro pressures.",
+      "2025-08-07: Retail Dive reported Claire's was set to shutter 700 stores, including Walmart shop-in-shops and Icing stores, with tattoo parlors and other retailers taking piercing share.",
+      "2025-09-25: Modern Retail reported Rowan was eyeing former Claire's locations and approaching $100 million in 2025 sales.",
+      "2026-01-12: Revenue Brew reported Rowan had opened its 100th location and projected a $150 million 2025 revenue run rate.",
+      "2026-06-25: BEA reported June 2026 disposable personal income rose 0.2% month over month and personal consumption expenditures rose 0.3%."
+    ],
+    "outlook": "The industry should keep growing through 2026 as piercing remains a durable self-expression service and studios monetize jewelry upgrades, but growth will be uneven. Branded ear-piercing chains are likely to gain share in family and first-piercing occasions, while independent studios retain an advantage in advanced placements, trust, local reputation and premium jewelry. The main risks are weaker discretionary spending, rent and wage inflation, imported jewelry cost volatility, inconsistent local regulation and reputational damage from poor hygiene or aftercare outcomes.",
+    "themes": [
+      "Self-expression and adornment",
+      "Premium jewelry upgrades",
+      "Sterilization and safety standards",
+      "Fragmented independents versus branded chains",
+      "Mall decline and retail-channel disruption",
+      "Gen Z and Gen Alpha demand",
+      "Local licensing and health-department compliance"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'name': 'Baseline file: body-piercing-studios.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/body-piercing-studios.txt', 'used_for': '2021 revenue, profit margin, establishments, COVID impact and 2026 baseline projection.'}",
+      "{'name': 'PW Consulting / pmarketresearch body piercing service market, June 18 2026', 'url': 'https://pmarketresearch.com/it/body-piercing-service-market/', 'used_for': '2025 global service market estimate, 2025 North America estimate and 2025-2032 CAGR.'}",
+      "{'name': 'Deep Market Insights US Body Piercing Jewelry Market, 2026-2034 outlook', 'url': 'https://deepmarketinsights.com/vista/insights/body-piercing-jewelry-market/united-states', 'used_for': '2025 US body piercing jewelry market size and 2026-2034 CAGR.'}",
+      "{'name': 'Revenue Brew, Rowan retail revenue, Jan. 12 2026', 'url': 'https://www.revenuebrew.com/stories/2026/01/12/rowan-retail-revenue', 'used_for': 'Rowan 100-store milestone, 2025 revenue run-rate projection and branded ear-piercing dynamics.'}",
+      "{'name': \"Retail Dive, Claire's bankruptcy and closures, Aug. 7 2025\", 'url': 'https://www.retaildive.com/news/claires-closing-hundreds-stores-liquidation-bankruptcy/756994/', 'used_for': \"Claire's store closure plan, bankruptcy context, competition from tattoo parlors and retailers, tariff and mall-traffic pressure.\"}",
+      "{'name': 'Association of Professional Piercers 2025 stance on point-of-use steam sterilization', 'url': 'https://safepiercing.org/2025-app-stance-on-point-of-use-steam-sterilization/', 'used_for': '2025 sterilization best-practice context.'}",
+      "{'name': 'U.S. Bureau of Economic Analysis personal income page, June 2026 release', 'url': 'https://www.bea.gov/data/income-saving/personal-income', 'used_for': 'June 2026 disposable personal income and personal consumption expenditure backdrop.'}"
+    ],
+    "one_sentence": "The US body piercing studio industry remains fragmented and discretionary, with 2025 demand supported by self-expression trends, higher-value jewelry sales and branded ear-piercing concepts, while competition from retailers and pressure from rents, labor and sterilization standards cap margins.",
+    "slug": "body-piercing-studios"
+  },
+  {
+    "title": "Book, Magazine & Newspaper Wholesaling in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "A mature print-distribution middleman business squeezed by digital substitution, retail consolidation and low-margin logistics, with book channels holding up better than newspapers, magazines and mass-market paperbacks.",
+    "overview": "This industry corresponds to NAICS 424920, book, periodical and newspaper merchant wholesalers. The business remains necessary where physical inventory, returns handling, metadata, order consolidation, library processing, replenishment and national retail programs matter, but its addressable market has structurally narrowed as newspaper and magazine print volumes decline and publishers, retailers and digital platforms bypass traditional wholesale layers. In 2025-2026, book distribution is the healthier side of the category: 2024 US publishing revenue rose 4.1% to $32.5 billion, print still represented 50.5% of publisher revenue, and physical retail book revenue rose 3.3% to $6.2 billion. The weak side is legacy periodical and newspaper movement: 2022 US daily newspaper circulation was 20.9 million, down 8% for weekday and 10% for Sunday circulation from 2021, while 2025 magazine-distribution layoffs and 2025 mass-market paperback exits show continued pressure in high-volume, low-margin print formats.",
+    "key_stats": {
+      "market_size": "2025E: about $10.5 billion to $12.0 billion in US book, periodical and newspaper merchant-wholesale revenue; latest official Census AIES employer-firm table is 2023 and was released in 2026.",
+      "growth": "2025E: roughly -1% to +1% nominal revenue growth, with book-channel gains offset by newspaper, magazine and mass-market paperback declines.",
+      "official_data_lag": "2023: Census AIES is the latest official employer-firm revenue dataset available for NAICS 424920 as of 2026-08-08.",
+      "upstream_book_market": "2024: US publishing revenue was $32.5 billion, up 4.1% from 2023.",
+      "print_format_share": "2024: print formats were 50.5% of US publishing revenue.",
+      "physical_retail_books": "2024: publisher revenue through physical retail was $6.2 billion, up 3.3%.",
+      "newspaper_circulation": "2022: estimated US daily newspaper circulation was 20.9 million for weekday and Sunday, down 8% and 10% respectively from 2021.",
+      "nondurable_wholesale_context": "2025: NAICS 424 nondurable merchant wholesaler sectoral output was $3.396 trillion, up 3.3% from 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022E: about $11.0 billion to $12.5 billion in US book, magazine and newspaper wholesaling revenue, based on the pre-2023 Census/AIES industry baseline and subsequent public trend indicators.",
+      "growth": "2022E: low-single-digit nominal decline; newspaper circulation fell 8%-10% in 2022 and book demand normalized after the 2020-2021 pandemic reading surge.",
+      "industry_definition": "2022: NAICS 424920 establishments primarily merchant-wholesale distribute books, periodicals and newspapers.",
+      "newspaper_circulation": "2022: US daily newspaper circulation was 20.9 million, down 8% weekday and 10% Sunday from 2021.",
+      "newspaper_revenue_context": "2022: estimated newspaper advertising revenue was $9.8 billion and circulation revenue was $11.6 billion."
+    },
+    "how_it_makes_money": "Wholesalers earn revenue by buying books, magazines, newspapers and related printed materials at publisher or distributor discounts and reselling them to retailers, libraries, schools, newsstands, mass merchants, specialty stores and institutions. Additional income can come from fulfillment fees, returns processing, library processing, metadata services, replenishment programs, vendor-managed inventory, promotional placement, freight pass-throughs, print-on-demand coordination and publisher-services contracts.",
+    "cost_structure": {
+      "purchases": "2025E: merchandise purchases are the dominant cost, commonly around 65%-75% of revenue for merchant wholesalers.",
+      "labor": "2025E: warehouse, driver, sales, account-management, customer-service and systems labor typically represent around 8%-13% of revenue.",
+      "freight_and_fulfillment": "2025E: transportation, parcel, fuel, packaging, returns handling and distribution-center costs are elevated because books and periodicals are heavy, low-margin physical goods.",
+      "technology": "2025E: spending is shifting toward demand forecasting, EDI/API ordering, metadata tools, e-commerce integrations, inventory optimization and print-on-demand systems.",
+      "rent_and_facilities": "2025E: warehouse leases, utilities, equipment, insurance and safety compliance are material fixed costs.",
+      "profitability": "2025E: operating margins are thin and scale-sensitive; profitability depends on inventory turns, returns control, freight recovery, automation and retailer concentration."
+    },
+    "major_players": [
+      "Ingram Content Group",
+      "ReaderLink Distribution Services",
+      "Baker & Taylor / Baker & Taylor Publisher Services",
+      "Lakeside Book Company",
+      "Publishers Group West / Consortium / Two Rivers Distribution",
+      "Accelerate360",
+      "The News Group",
+      "Hudson News Distributors"
+    ],
+    "current_dynamics": "The 2025-2026 market is bifurcated. Large book distributors are investing in AI forecasting, print-on-demand, e-commerce tooling and library/institutional access, while legacy periodical and newspaper distributors face falling print frequency, smaller route density and plant closures. Retailer concentration gives mass merchants, Amazon, Barnes & Noble, libraries and large publishers more leverage over terms and service levels. Returns remain a central risk because unsold books and periodicals tie up working capital and create freight and pulping costs. The 2025 Baker & Taylor wind-down and subsequent sale of its publisher-services arm point to consolidation around scale players rather than broad-based growth.",
+    "whats_growing": [
+      "2024: US publishing revenue grew 4.1% to $32.5 billion.",
+      "2024: trade publishing revenue grew 4.4% to $21.2 billion.",
+      "2024: digital audio revenue grew 22.5% to $2.4 billion, raising demand for distributors with digital-adjacent services even as it bypasses physical wholesale.",
+      "2024: online retail publisher revenue was $12.0 billion, creating demand for drop-ship, metadata, POD and fulfillment integrations.",
+      "2024: physical retail book revenue grew 3.3% to $6.2 billion, supporting replenishment programs for bookstores and mass merchants.",
+      "2026: print-on-demand and AI-enabled inventory planning are expanding as distributors try to reduce overstocks and stockouts."
+    ],
+    "whats_shrinking": [
+      "2022: US daily newspaper circulation fell to 20.9 million, down 8% weekday and 10% Sunday from 2021.",
+      "2024: mass-market paperback unit sales fell 19.3% to about 21 million units at Circana BookScan-reporting retailers.",
+      "2025: ReaderLink confirmed it would stop distributing mass-market paperbacks at the end of 2025.",
+      "2025: Baker & Taylor prepared to wind down after a failed ReaderLink acquisition, signaling pressure in library wholesale economics.",
+      "2025: Accelerate360’s distribution arm announced plant closures and 324 job cuts tied to magazine-distribution restructuring.",
+      "2025E: magazine and newspaper route density continued to deteriorate as print frequency and single-copy sales declined."
+    ],
+    "recent_developments": [
+      "2025-02-24: ReaderLink said it would stop distributing mass-market paperbacks at the end of 2025; the format represented about 3% of 2024 BookScan retail units and ReaderLink handled an estimated 60%-70% of US mass-market paperback sales.",
+      "2025-02-26: Ingram Library Services expanded print and digital book access for academic and public libraries through a GOBI Library Solutions agreement.",
+      "2025-04-28: Accelerate360’s distribution arm announced a South Dakota plant closure and 324 job cuts, including 22 Missouri workers, highlighting magazine-distribution contraction.",
+      "2025-10-07: Baker & Taylor prepared to wind down by January 2026 after a failed ReaderLink acquisition, with about 520 layoffs reported in October 2025.",
+      "2025-11-24: Lakeside Book Company acquired Baker & Taylor Publisher Services, including print-on-demand operations in Ashland, Ohio.",
+      "2026-02-24: Ingram Content Group expanded its use of RELEX AI forecasting, capacity optimization, vendor-managed inventory and assortment planning across global operations."
+    ],
+    "outlook": "The industry’s 2026-2030 outlook is flat to mildly negative in nominal terms and weaker in real terms. Book distribution should remain viable where scale, breadth of title inventory, POD, metadata and retailer relationships matter, but wholesalers will need automation and better demand planning to protect margins. Newspaper and magazine wholesaling will keep shrinking as print runs, delivery frequency and single-copy sales decline. Consolidation is likely: large players with national distribution centers, library relationships, retailer programs and technology platforms gain share, while smaller route-based and periodical-focused operators exit or specialize.",
+    "themes": [
+      "Print-to-digital substitution",
+      "Distributor consolidation",
+      "Print-on-demand",
+      "AI demand forecasting",
+      "Retailer concentration",
+      "Library and institutional channels",
+      "Returns and inventory risk",
+      "Mass-market paperback decline",
+      "Magazine and newspaper route-density erosion",
+      "Physical books resilience"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'U.S. Census Bureau AIES42BASIC table for NAICS 424920, released 2026-02-26', 'url': 'https://data.census.gov/table/AIESBASICTIMESERIES.AIES42BASIC?codeset=naics~424920&g=010XX00US', 'date': '2026-02-26'}",
+      "{'title': 'U.S. Census Bureau NAICS 424920 definition', 'url': 'https://www.census.gov/naics/?details=42492&input=42492&year=2007', 'date': '2026-07-28'}",
+      "{'title': 'AAP 2024 StatShot Annual release', 'url': 'https://publishers.org/news/aap-statshot-annual-report-publishing-revenues-totaled-32-5-billion-for-calendar-year-2024/', 'date': '2025-08-26'}",
+      "{'title': 'Pew Research Center Newspapers Fact Sheet', 'url': 'https://www.pewresearch.org/journalism/fact-sheet/newspapers/', 'date': '2023-11-10'}",
+      "{'title': 'BLS/FRED NAICS 424 nondurable merchant wholesaler sectoral output', 'url': 'https://fred.stlouisfed.org/series/IPUGN424T300000000', 'date': '2026-06-03'}",
+      "{'title': 'ReaderLink mass-market paperback distribution exit report', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/97161-readerlink-will-stop-distributing-mass-market-paperbacks-at-the-end-of-2025.html', 'date': '2025-02-24'}",
+      "{'title': 'Ingram Library Services and GOBI agreement', 'url': 'https://www.ingramcontent.com/news/ingram-library-services-expands-access-to-libraries', 'date': '2025-02-26'}",
+      "{'title': 'Baker & Taylor wind-down report', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/98777-baker-taylor-prepares-plan-to-shut-down.html', 'date': '2025-10-07'}",
+      "{'title': 'Lakeside Book Company acquisition of Baker & Taylor Publisher Services', 'url': 'https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/99162-lakeside-book-company-buys-b-t-distribution-arm.html', 'date': '2025-11-24'}",
+      "{'title': 'Ingram Content Group RELEX AI supply-chain expansion', 'url': 'https://www.prnewswire.com/news-releases/ingram-content-group-to-advance-ai-driven-supply-chain-efficiency-with-relex-302695861.html', 'date': '2026-02-24'}",
+      "{'title': 'ReaderLink company profile and operating scale', 'url': 'https://www.readerlink.com/', 'date': '2026-08-08'}",
+      "{'title': 'News/Media Alliance 2025 market report announcement', 'url': 'https://www.newsmediaalliance.org/2025-market-report-announcement/', 'date': '2025-12-16'}"
+    ],
+    "one_sentence": "US book, magazine and newspaper wholesalers buy printed media from publishers and distributors, warehouse and route it to retailers, libraries, schools, newsstands and mass merchants, earning thin wholesale margins while demand shifts toward online retail, print-on-demand, digital audio, e-books and direct publisher channels.",
+    "slug": "book-magazine-and-newspaper-wholesaling-in-the-us"
+  },
+  {
+    "title": "Boxing Gyms & Clubs",
+    "sector": "Consumer Services",
+    "one_liner": "Boxing gyms are a niche boutique-fitness category built on recurring memberships, paid classes and private coaching, with growth tied to health-conscious consumers and constrained by cheaper gym and at-home workout substitutes.",
+    "overview": "Boxing gyms and clubs provide boxing instruction, group bag classes, sparring-oriented training, private coaching and related fitness services, excluding boxing event promotion. The industry remains highly fragmented, with many independent gyms alongside franchise systems such as TITLE Boxing Club, Rumble Boxing, Mayweather Boxing + Fitness, UFC Gym and 9Round. The 2021 IBISWorld baseline framed the industry as mature, low-concentration and discretionary, with 2021 revenue of $1.179 billion and a 2021-2026 forecast CAGR of 2.1%. Current 2025-2026 signals are constructive: HFA reported 81 million U.S. fitness-facility members in 2025, more than 100 million total facility users in 2025 and nearly 7 billion gym, club and studio visits in 2025, while SFIA reported 250 million Americans participating in at least one sport, fitness or leisure activity in 2025. Boxing-specific demand is supported by 8.9 million U.S. boxing or MMA participants in 2024 and USA Boxing reporting record recent membership growth through 2025, but pricing pressure persists as value gyms, digital fitness and broader boutique concepts compete for the same discretionary workout budget.",
+    "key_stats": {
+      "market_size": "2026: about $1.31 billion in U.S. industry revenue, inferred from the IBISWorld 2021 baseline of $1.179 billion and its 2021-2026 CAGR forecast of 2.1%.",
+      "growth": "2021-2026: +2.1% CAGR in industry revenue projected by the baseline; 2025: U.S. commercial fitness visits per location rose 4.2% year over year according to HFA.",
+      "establishments": "2026: 3,791 establishments projected in the baseline, up from 3,522 establishments in 2021.",
+      "profitability": "2026: profit projected at 11.4% of revenue in the baseline, versus 11.3% in 2021.",
+      "wages": "2026: wages projected at $438.4 million in the baseline, versus $399.3 million in 2021.",
+      "fitness_facility_membership": "2025: 81 million Americans were members of a gym, studio or other fitness facility, up 5.2% from 2024 according to HFA.",
+      "fitness_facility_usage": "2025: more than 100 million Americans used a fitness facility and made nearly 7 billion visits according to HFA.",
+      "boxing_participation": "2024: 8.9 million U.S. participants in boxing or MMA according to Statista.",
+      "usa_boxing_clubs": "2025: USA Boxing reported nearly 2,900 registered clubs in its January 2026 newsletter summary.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.20 billion, estimated by applying the baseline 2021-2026 CAGR forecast of 2.1% to 2021 revenue of $1.179 billion.",
+      "growth": "2022: about +2.1% estimated revenue growth on the IBISWorld 2021-2026 projection path.",
+      "context": "2022: early recovery year after the baseline reported a 13.0% revenue decline in 2020 and a 6.5% rebound in 2021."
+    },
+    "how_it_makes_money": {
+      "membership_fees": "2021: 63.4% of revenue from recurring memberships and class-access plans in the baseline.",
+      "personal_training": "2021: 19.3% of revenue from private boxing classes and personal training in the baseline.",
+      "other_services": "2021: 15.0% of revenue from food, beverages, rentals, event admissions, childcare, massage and miscellaneous services in the baseline.",
+      "merchandise": "2021: 2.3% of revenue from gloves, wraps, apparel and related merchandise in the baseline.",
+      "franchise_model": "2025: franchise brands monetize through initial franchise fees, royalties, required technology or training systems and vendor programs, with TITLE Boxing Club disclosing a 2025 estimated initial investment of $468,698 to $944,442."
+    },
+    "cost_structure": {
+      "labor": "2026: wages projected at $438.4 million; coaches, trainers, front-desk staff and managers remain the largest controllable service input.",
+      "rent_and_occupancy": "2026: occupancy remains a major fixed cost because boxing gyms need accessible retail or studio space, bag floors, locker areas and insurance-compliant training areas.",
+      "equipment_and_maintenance": "2026: operators incur recurring costs for bags, gloves, wraps, mats, rings, pads, cleaning, laundry and repairs.",
+      "marketing_and_sales": "2026: customer acquisition depends on local search, social media, trial classes, referral programs and January 2026 seasonal promotions.",
+      "insurance_and_compliance": "2026: combat-sport activities require liability coverage, waivers, trainer screening and, for competition-oriented gyms, USA Boxing club or member compliance."
+    },
+    "major_players": [
+      "TITLE Boxing Club",
+      "Rumble Boxing",
+      "Mayweather Boxing + Fitness",
+      "UFC Gym",
+      "9Round Fitness",
+      "Independent local boxing gyms and amateur boxing clubs"
+    ],
+    "current_dynamics": "The 2025-2026 market is benefiting from record facility-based fitness usage, renewed interest in active lifestyles and the social draw of coached group workouts. Boutique boxing studios are positioned between low-price gyms and premium wellness clubs: they can charge for energy, instruction and community, but they must prove value when consumers are price-sensitive. HFA’s 2025 traffic data showed budget and mid-priced gyms leading growth, while boutique and studio visits grew only 0.8% in the first half of 2025, signaling that boxing concepts need retention, private training and local brand strength to offset weaker acquisition in premium fitness. Competitive boxing clubs also benefit from USA Boxing’s 2025 record membership commentary and the LA28 Olympic runway, while fitness-boxing studios benefit from celebrity brands, franchising and hybrid strength-plus-boxing formats.",
+    "whats_growing": [
+      "2025: facility-based fitness participation reached record levels, with 81 million U.S. members and more than 100 million total users reported by HFA.",
+      "2025: affordable fitness formats gained share, pushing boxing operators to offer value tiers, intro packs and flexible memberships.",
+      "2025: USA Boxing reported record recent membership levels and nearly 2,900 registered clubs, supporting competitive and youth boxing ecosystems.",
+      "2026: franchise systems continue selling boxing and kickboxing concepts, with Rumble citing 100+ studios open and 385+ licensed global locations and 9Round citing 400+ locations in 17 countries.",
+      "2026: private coaching, youth programs, women-focused programming and strength-boxing hybrid classes are growing as higher-margin add-ons."
+    ],
+    "whats_shrinking": [
+      "2025: purely premium boutique growth is softer than budget-gym growth, with HFA reporting only 0.8% boutique and studio visit growth in the first half of 2025.",
+      "2026: undifferentiated independent gyms with weak coaching, old facilities or no digital booking face share loss to polished franchises and low-price chains.",
+      "2026: merchandise sales remain constrained by e-commerce competition and are a small revenue pool versus memberships and training.",
+      "2026: casual members who only want cardio have more substitutes from HIIT, Pilates, strength clubs, connected fitness and free video workouts."
+    ],
+    "recent_developments": [
+      "2025-01: 9Round announced expansion into Iraq, citing global demand for kickboxing fitness and plans for a Baghdad location in March 2025.",
+      "2025-08: HFA reported first-half 2025 U.S. commercial gym, studio and fitness-facility visits up 3.5% year over year, while boutique/studio visits rose 0.8%.",
+      "2025-11: USA Boxing announced 2026 membership-rate increases after record membership levels in the prior two years and higher event, insurance and staffing costs.",
+      "2026-01: USA Boxing’s January 2026 newsletter cited growth from about 38,000 members in 2017 to more than 67,000 members and nearly 2,900 registered clubs in 2025.",
+      "2026-03: SFIA reported 250 million Americans participated in at least one sport, fitness or leisure activity in 2025, with overall participation up 1.2% year over year.",
+      "2026-04: HFA reported 81 million U.S. fitness-facility members in 2025, up 5.2% from 2024, and nearly 7 billion facility visits in 2025."
+    ],
+    "outlook": "Through 2026, the industry should grow modestly rather than break out. The baseline projection of about $1.31 billion in 2026 remains reasonable because broad fitness demand is strong, boxing/MMA participation is sizable and competitive boxing has LA28-related tailwinds. Upside comes from higher private-training attach rates, youth programs, women-focused classes, hybrid strength-and-boxing formats and franchised studio expansion. Downside comes from rent and wage pressure, insurance costs, low-price gyms capturing budget-conscious consumers, and free or low-cost digital workout substitutes. Operators most likely to outperform in 2026 are those with dense class schedules, strong coach quality, disciplined local sales, recurring memberships, add-on coaching and credible community positioning.",
+    "themes": [
+      "Boutique fitness recovery",
+      "Recurring membership economics",
+      "Private coaching upsell",
+      "Women and youth participation",
+      "Combat-sport wellness crossover",
+      "Value-gym competition",
+      "Digital fitness substitution",
+      "LA28 Olympic halo",
+      "Franchise expansion",
+      "Insurance and labor cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/boxing-gyms-and-clubs.txt",
+      "https://www.healthandfitness.org/81-million-americans-were-members-of-a-fitness-facility-in-2025-new-hfa-report-finds/",
+      "https://www.healthandfitness.org/2025-fitness-industry-foot-traffic-trends-budget-gyms-booming-engagement-up-across-all-segments/",
+      "https://www.healthandfitnessbusiness.org/feb2026/research",
+      "https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/",
+      "https://www.statista.com/topics/10128/boxing/",
+      "https://www.usaboxing.org/news/2025/november/07/2026-usa-boxing-member-rate-adjustment-announcement",
+      "https://www.usaboxing.org/membership",
+      "https://manuals.plus/m/023a29c1c80d8ef4556be97cf01e80bf672f37976556909dc91d0da0a0b40e9d",
+      "https://www.titleboxingclub.com/franchise",
+      "https://www.rumbleboxinggym.com/franchise",
+      "https://mayweatherfranchise.com/",
+      "https://www.9round.com/fitness-franchises/about-us",
+      "https://fred.stlouisfed.org/series/DRLSRC1A027NBEA"
+    ],
+    "one_sentence": "The U.S. Boxing Gyms & Clubs industry is estimated at about $1.31 billion in 2026, recovering from the 2020 COVID shock as facility-based fitness participation reaches record 2025 levels and boxing/MMA participation remains a multi-million-person demand pool.",
+    "slug": "boxing-gyms-and-clubs"
+  },
+  {
+    "title": "Boxing Promoters",
+    "sector": "Media & Entertainment",
+    "one_liner": "US boxing promoters package live gates, media rights, sponsorships and fighter storylines into highly volatile combat-sports events.",
+    "overview": "Boxing promoters organize, finance, license, market and distribute professional boxing events, taking on event risk in exchange for shares of ticket sales, media-rights economics, sponsorships, hospitality and event-management fees. The 2022 IBISWorld baseline sized US industry revenue at $438.6 million after a 2020 pandemic shock and a 2021 live-event rebound. Using the baseline 2022-2027 projected CAGR of 3.4%, the modeled 2026 market size is about $501.6 million. The current market is being reshaped by streaming platforms, Netflix-scale event exposure, the expiration of Top Rank's ESPN exclusivity, and the 2025 creation of Zuffa Boxing by TKO, Sela and Saudi entertainment leadership.",
+    "key_stats": {
+      "market_size": "2026 estimated US revenue of $501.6 million, modeled from the 2022 IBISWorld baseline of $438.6 million and the 2022-2027 projected CAGR of 3.4%.",
+      "growth": "2026 estimated annual revenue growth of 3.4%, consistent with the 2022-2027 IBISWorld projected CAGR.",
+      "establishments": "2022 baseline establishments were 810; the 2027 baseline projection was 1,031 establishments.",
+      "employment": "2022 baseline employment was 2,687 workers; the 2027 baseline projection was 3,353 workers.",
+      "profit_margin": "2022 baseline profit margin was 7.7%.",
+      "media_signal": "2025 Canelo-Crawford on Netflix reached an estimated 41.4 million global Live+1 AMA viewers and a US Live+SD AMA of 20.3 million.",
+      "live_gate_signal": "2025 Canelo-Crawford generated an over $47 million gate at Allegiant Stadium with 70,482 attendees.",
+      "sports_betting_signal": "2025 US commercial sports betting revenue was $16.96 billion on $166.94 billion of handle, according to the American Gaming Association.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue was $438.6 million.",
+      "growth": "2022 revenue growth was estimated at 1.8%.",
+      "profit": "2022 profit was $34.0 million.",
+      "profit_margin": "2022 profit margin was 7.7%.",
+      "wages": "2022 wages were $85.1 million.",
+      "establishments": "2022 establishments totaled 810.",
+      "enterprises": "2022 enterprises totaled 776.",
+      "employment": "2022 employment totaled 2,687.",
+      "industry_gross_product": "2022 industry gross product was $127.0 million.",
+      "revenue_mix": "2022 revenue was 68.0% admissions, 19.6% broadcast and media rights, and 12.4% event and other management services."
+    },
+    "how_it_makes_money": [
+      "2022 baseline admissions revenue came from promoter shares of live gate ticket sales, including local marketing and premium event packages.",
+      "2022 baseline broadcast and media-rights revenue came from PPV, cable, streaming and network distribution economics after distribution fees.",
+      "2022 baseline event and other management revenue came from sponsorships, VIP packages, meet-and-greets, merchandise, closed-circuit bars and venue-related services.",
+      "2025-2026 growth channels include streaming-first cards, out-of-home commercial distribution, sports-betting engagement and internationally funded destination events."
+    ],
+    "cost_structure": {
+      "fighter_and_event_costs": "2026 costs remain dominated by fighter purses, venue rental, insurance, sanctioning, medical compliance, production, security and event operations; these rise sharply for premium cards.",
+      "marketing_and_distribution": "2026 marketing spend is shifting toward social video, influencer channels, platform promotion and owned fighter audiences, while traditional PPV and cable distribution fees remain relevant for certain cards.",
+      "labor": "2022 baseline wages were $85.1 million, equal to about 19.4% of 2022 revenue.",
+      "profit": "2022 baseline profit was $34.0 million, equal to a 7.7% margin, reflecting high event risk and uneven returns across local and national promoters.",
+      "capital_intensity": "2022 baseline characterized capital intensity as low because many promoters are small or nonemployer businesses that contract venues, production and services by event."
+    },
+    "major_players": [
+      "Top Rank Inc.",
+      "Golden Boy Promotions Inc.",
+      "Mayweather Promotions LLC",
+      "Premier Boxing Champions",
+      "Matchroom Boxing USA",
+      "Most Valuable Promotions",
+      "Zuffa Boxing"
+    ],
+    "current_dynamics": "The 2026 market is more platform-led and capital-intensive at the top end than the 2022 baseline. Netflix has proven that boxing can deliver mass live-streaming audiences, while Paramount+ secured Zuffa Boxing rights for the US, Canada and Latin America beginning in 2026. Top Rank's ESPN exclusivity ended in 2025, increasing rights-market uncertainty but also opening multi-platform distribution options. Saudi-backed Riyadh Season and Sela involvement are increasing prize money, venue ambition and global event packaging, while local promoters still depend on smaller live gates and regional fighter development.",
+    "whats_growing": [
+      "2025-2026 streaming distribution for marquee fights, including Netflix boxing events and Paramount+ Zuffa Boxing rights.",
+      "2025-2026 Saudi-backed event financing and cross-border promotion around Riyadh Season, Sela and TKO-linked cards.",
+      "2025-2026 women's boxing visibility after the 2024 Taylor-Serrano Netflix audience and continued undercard prominence.",
+      "2025-2026 sports-betting engagement as US legal sportsbook revenue reached $16.96 billion in 2025.",
+      "2025 grassroots participation signals, including USA Boxing reporting record membership growth and a 2025 National Championships cap of 1,000 registered boxers."
+    ],
+    "whats_shrinking": [
+      "2025 traditional exclusive cable-network boxing packages, illustrated by Top Rank's ESPN exclusivity ending in 2025.",
+      "2025-2026 reliance on classic PPV-only economics as subscription streaming platforms absorb more premium events.",
+      "2025-2026 bargaining power of mid-tier independent promoters when global capital, platforms and fighter-owned promotion companies compete for talent.",
+      "2025-2026 local-event margins where insurance, venue, security and compliance costs rise faster than small-gate revenue."
+    ],
+    "recent_developments": [
+      "2025-03: Saudi GEA, TKO and Sela announced a multi-year partnership to create a new global boxing promotion led operationally by TKO figures including Dana White and Nick Khan.",
+      "2025-04: Sports Business Journal reported Top Rank expected to split media rights after its ESPN agreement ended in 2025.",
+      "2025-09: Netflix said Canelo-Crawford generated 41.4 million global Live+1 AMA viewers and an over $47 million Allegiant Stadium gate.",
+      "2025-09: Paramount and TKO announced Paramount+ would become the exclusive Zuffa Boxing home in the US, Canada and Latin America beginning in January 2026 with 12 initial cards.",
+      "2025-11: USA Boxing said 2025 National Championships registration reached its 1,000-boxer capacity with 100 athletes on the waitlist.",
+      "2026-05: TKO announced a three-year, seven-event Arizona agreement including UFC, WWE, PBR and Zuffa Boxing events."
+    ],
+    "outlook": "Modeled from the 2022 IBISWorld baseline, US boxing promoter revenue reaches about $501.6 million in 2026 and about $519.0 million in 2027 if the 3.4% projected CAGR holds. Upside comes from streaming rights, Saudi-backed destination cards, sports-betting engagement, women's boxing, influencer-driven audiences and higher-value live gates. Downside comes from event volatility, fragmented title politics, fighter purse inflation, health and safety scrutiny, consumer fatigue with mismatches, and pressure on smaller promoters that lack media access or premium talent. By 2026, the strongest promoters are those that can combine fighter development, compelling matchmaking, digital distribution, sponsorship inventory and venue economics into repeatable event franchises.",
+    "themes": [
+      "Streaming replaces cable exclusivity",
+      "Saudi-backed capital changes bargaining power",
+      "Live gates still matter for promoter economics",
+      "Sports betting increases fan engagement",
+      "Influencer and fighter-owned promotion expands demand",
+      "Women's boxing gains commercial visibility",
+      "Small promoters face high event-risk volatility",
+      "Media rights fragmentation reshapes major players"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/boxing-promoters.txt",
+      "https://about.netflix.com/en/news/over-41-million-global-viewers-on-netflix-watch-terence-crawford-defeat",
+      "https://about.netflix.com/en/news/jake-paul-vs-mike-tyson-over-108-million-live-global-viewers",
+      "https://investor.tkogrp.com/news/news-details/2025/Paramount-Announces-Landmark-Media-Rights-Agreement-With-Zuffa-Boxing/default.aspx",
+      "https://www.spa.gov.sa/en/N2276063",
+      "https://www.sportsbusinessjournal.com/Articles/2025/04/15/top-rank-boxing-likely-to-split-media-rights/",
+      "https://www.usaboxing.org/news/2025/november/18/2025-usa-boxing-national-championships-athlete-registration-has-reached-capacity",
+      "https://www.usaboxing.org/news/2025/november/07/2026-usa-boxing-member-rate-adjustment-announcement",
+      "https://www.americangaming.org/commercial-gaming-revenue-hits-78-7-billion-in-2025-driving-record-18-1-billion-in-gaming-taxes-nationwide/",
+      "https://tkogrp.com/news/tko-and-arizona-sports-events-alliance-announce-landmark-agreement-to-bring-marquee-ufc-wwe-pbr-and-zuffa-boxing-events-to-arizona/"
+    ],
+    "one_sentence": "In 2026, US boxing promotion remains a small but visible live-entertainment industry, with growth tied to streaming distribution, Saudi-backed capital, sports betting engagement and the ability of promoters to stage nationally relevant matchups.",
+    "slug": "boxing-promoters"
+  }
+]

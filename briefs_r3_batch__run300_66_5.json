@@ -1,0 +1,421 @@
+[
+  {
+    "title": "Clothing Boutiques",
+    "sector": "Retail",
+    "one_liner": "Single-location apparel boutiques sell curated clothing, footwear and accessories to niche, local and higher-income shoppers while competing against chains, off-price retailers and online fashion platforms.",
+    "overview": "Clothing boutiques are small, single-establishment retailers that sell a limited, curated range of apparel, footwear and accessories, often with a local, designer, lifestyle or specialty positioning. The 2022 baseline placed industry revenue at $22.4 billion after a 7.7% rebound in 2022, but the industry had not regained pre-2020 levels. By 2025, broader US clothing and clothing-accessories store sales reached about $319.6 billion on a seasonally adjusted Census/FRED monthly-sum basis, up 5.8% from 2024, but boutique-only growth remained much slower because independents faced stronger online competition, higher labor and rent costs, and heavy promotional pressure.",
+    "key_stats": {
+      "market_size": "2025 estimated boutique revenue: $22.7 billion",
+      "growth": "2025 estimated boutique revenue growth: about 0.4% versus 2024; broader NAICS 448 store sales grew 5.8% in 2025 versus 2024",
+      "profit_margin": "2022 baseline profit margin: 5.3% of revenue; 2027 baseline outlook margin: 5.8%",
+      "establishments": "2022 baseline establishments: 158,931 single-location boutiques; 2027 baseline outlook: 159,466",
+      "broader_category_sales": "2025 US clothing and clothing-accessories store sales: $319.6 billion, based on summed Census/FRED seasonally adjusted monthly sales",
+      "recent_sales_momentum": "January-May 2026 broader clothing and clothing-accessories store sales were up 6.4% versus January-May 2025",
+      "ecommerce_share": "Q1 2026 US retail e-commerce sales: $326.7 billion, equal to 16.9% of total retail sales",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $22.4 billion",
+      "growth": "2022 revenue growth: 7.7%; 2017-2022 CAGR: -6.4%",
+      "profit": "2022 profit: $1.2 billion",
+      "profit_margin": "2022 profit margin: 5.3%",
+      "establishments": "2022 establishments: 158,931",
+      "employment": "2022 employment: 248,489",
+      "wages": "2022 wages: $3.7 billion",
+      "product_mix": "2022 revenue mix: women's clothing 32.8%, footwear 30.1%, accessories and other 14.6%, men's clothing 7.7%, children's clothing 5.0%"
+    },
+    "how_it_makes_money": "Boutiques earn revenue from retail markups on apparel, footwear, handbags, jewelry, accessories and limited seasonal collections. Sales are driven by product curation, local loyalty, styling advice, events, social-commerce marketing, tourist traffic and higher-income discretionary spending. Some operators added 2025 revenue through e-commerce storefronts, Instagram/TikTok selling, ship-from-store, private labels, alterations, trunk shows and appointment-based styling.",
+    "cost_structure": "The largest 2025 costs were merchandise purchases from brands, wholesalers and showrooms, followed by store labor, rent, payment fees, shrink, marketing, shipping, returns and utilities. Margins were constrained by 2025-2026 wage pressure, rent resets in attractive retail corridors, freight and tariff exposure on imported apparel, and markdowns needed to clear seasonal inventory. Smaller boutiques had less leverage than chains in payment processing, freight, vendor terms and inventory financing.",
+    "major_players": [
+      "No national company held a material 2022 boutique-industry share because the industry is defined around single-establishment stores",
+      "Independent women's apparel boutiques",
+      "Independent footwear boutiques",
+      "Independent accessories and lifestyle boutiques",
+      "Local designer and resort-town boutiques",
+      "Specialty children's and menswear boutiques"
+    ],
+    "current_dynamics": "In 2025-2026, physical clothing retail improved from the pandemic trough, but boutique economics remained uneven. Broader clothing and clothing-accessories store sales grew 5.8% in 2025, and January-May 2026 sales were 6.4% above the same 2025 period, signaling healthier store traffic and nominal spending. At the same time, Q1 2026 e-commerce reached 16.9% of total US retail sales, keeping pressure on boutiques that lack strong online discovery, fulfillment and customer-data tools. The end of China/Hong Kong de minimis treatment in 2025 raised landed-cost and compliance issues across apparel sourcing and also reduced one cost advantage for ultra-low-price cross-border rivals.",
+    "whats_growing": "Growing areas in 2025-2026 include omnichannel boutiques with shoppable social media, higher-touch styling, event dressing, resort and travel apparel, footwear, accessories, private-label capsules, local designer drops, resale-adjacent curation and experiential retail events. Value-conscious consumers still respond to promotions, but boutiques with differentiated merchandise and loyal local followings are better positioned than stores selling easily comparable basics.",
+    "whats_shrinking": "Shrinking areas include undifferentiated single-location stores without e-commerce, formal officewear tied to pre-2020 commute patterns, boutiques dependent on broad national brands available online at lower prices, and stores in high-rent corridors with weak foot traffic. Seasonal inventory risk and high return expectations also hurt small operators with limited working capital.",
+    "recent_developments": [
+      "2025-05-02: The US ended duty-free de minimis treatment for China and Hong Kong low-value shipments under $800, increasing import compliance and tariff exposure for apparel sellers.",
+      "2025-07-08: Census reported NAICS 448 clothing and accessories retail firms fell from 56,731 in 2017 to 52,909 in 2022, while establishments fell from 143,534 to 121,610.",
+      "2025-12-02: NRF reported a record 202.9 million Thanksgiving weekend shoppers in 2025, with 37% shopping at clothing stores and 51% buying clothing and accessories as gifts.",
+      "2026-03-18: NRF forecast 2026 US retail sales growth of 4.4% to $5.6 trillion, supported by resilient household spending.",
+      "2026-05-18: Census reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025 and equal to 16.9% of total retail sales.",
+      "2026-07-16: FRED/Census showed May 2026 clothing and clothing-accessories store sales of $27.952 billion seasonally adjusted."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive but not high-growth. Boutique revenue is likely to expand slowly in 2026 if consumer spending holds and in-store shopping continues to recover, but gains will trail broader apparel retail because e-commerce, off-price chains and large specialty retailers have scale advantages. Operators most likely to outperform through 2027 are those with distinctive assortments, disciplined inventory buys, active social selling, events, customereling tools and flexible fulfillment.",
+    "themes": [
+      "Fragmented independents",
+      "Omnichannel survival",
+      "Local curation versus scale retail",
+      "E-commerce pressure",
+      "Tariff and import-cost volatility",
+      "Promotional intensity",
+      "Higher-income discretionary spending",
+      "Experiential shopping",
+      "Inventory discipline"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file provided: /home/manishmehta/ui-projects/ibis-industries/txt_full/clothing-boutiques.txt",
+      "https://fred.stlouisfed.org/series/MRTSSM448USS",
+      "https://fred.stlouisfed.org/series/MRTSSM448USN",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTNSA/",
+      "https://www.census.gov/library/stories/2025/07/clothing-retail-jobs.html",
+      "https://www.help.cbp.gov/s/article/Article-1915?language=en_US",
+      "https://nrf.com/media-center/press-releases/nrf-forecasts-4-4-annual-retail-sales-growth-with-new-economic-model",
+      "https://nrf.com/media-center/press-releases/thanksgiving-holiday-weekend-draws-record-203-million-shoppers"
+    ],
+    "one_sentence": "The US Clothing Boutiques industry remained a fragmented, low-concentration retail niche in 2025, with revenue estimated at $22.7 billion after a slow post-pandemic recovery and continued pressure from e-commerce, discounting and import-cost volatility.",
+    "slug": "clothing-boutiques"
+  },
+  {
+    "title": "Coal & Ore Wholesaling in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "Coal and ore wholesalers sit between mines and heavy industrial buyers, but the market is structurally pressured by coal plant retirements, direct mine-to-customer sales and volatile commodity pricing.",
+    "overview": "Operators wholesale coal, coke, metal ores and selected nonmetallic minerals, excluding petroleum, construction sand and gravel, and precious stones. The industry’s largest historical revenue pool is thermal coal sold into electric power generation, with smaller but important exposure to metallurgical coal for steel and to ores used by refiners, manufacturers and other industrial customers. The baseline IBISWorld file showed 2021 revenue of $19.2 billion, 2021 profit of $519 million and a 2021 profit margin of 2.7%, with 287 establishments, 249 enterprises and 2,508 employees. Since then, the market has remained commodity-price sensitive rather than volume-growth driven: US coal production fell 11.3% in 2024 to 512.5 million short tons, rebounded modestly in the 2025 EIA forecast to 528 million short tons, and is forecast to slip to 511 million short tons in 2026. Utility coal consumption remains the central drag, with EIA’s July 2026 STEO forecasting total US coal consumption of 452 million short tons in 2025 and 412 million short tons in 2026.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: about $18.9 billion, using the 2021 IBISWorld baseline revenue of $19.2 billion and its 2021-2026 projection of roughly $18.8 billion, adjusted for the 2025 EIA coal-consumption rebound.",
+      "growth": "2025 estimated revenue growth: about +0.5% year over year; 2026 demand signal: negative, with EIA forecasting US coal consumption down 8.8% from 452 million short tons in 2025 to 412 million short tons in 2026.",
+      "profit_margin": "2021 baseline profit margin: 2.7%; 2026 margin pressure remains high because commodity resale spreads are narrow and logistics, inventory and credit risks are material.",
+      "establishments": "2021 baseline establishments: 287; 2026 direction: continued decline as mining companies and larger intermediaries internalize sales functions.",
+      "coal_volume_context": "2026 EIA forecast: US coal production of 511 million short tons and US coal consumption of 412 million short tons.",
+      "price_context": "2025 FRED/BLS PPI for metal and mineral merchant wholesalers: 149.335 in August 2025, index May 2019=100.",
+      "mineral_context": "2025 USGS nonfuel mineral production value: $112 billion, up 5.6% from 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $19.1 billion, based on the IBISWorld 2021 revenue baseline of $19.2 billion and its 2021-2026 forecast path toward $18.8 billion.",
+      "growth": "2022 baseline growth: about -0.5% under the IBISWorld forecast path; EIA later reported 2022 coal-fired generation declined 8% from 2021 and coal consumption fell from 545.7 million short tons in 2021 to 512.6 million short tons in 2022.",
+      "industry_position": "2022 was a post-2021 normalization year: coal remained useful during high natural gas prices, but capacity retirements and renewable/natural-gas substitution resumed pressure on wholesaler volumes."
+    },
+    "how_it_makes_money": "Wholesalers earn a spread by buying coal, coke, metal ores and nonmetallic minerals from mines, processors or affiliated producers and reselling them to utilities, steelmakers, nonferrous refiners, manufacturers and exporters. Revenue is tied to shipped tonnage, commodity benchmarks, delivered prices, contract terms, storage and blending services, and logistics coordination. Operators with stronger customer relationships, rail/barge access or affiliate mine supply can protect margins better than small regional brokers.",
+    "cost_structure": {
+      "purchases": "Largest cost, often more than four-fifths of sales in commodity wholesaling, because operators resell bulk coal and ores with thin gross margins.",
+      "freight_and_handling": "Major variable cost where wholesalers arrange rail, barge, truck, terminal, storage, blending or transloading services; exposure rises when mines or customers do not absorb transportation.",
+      "wages": "Low-to-moderate share of sales; 2021 baseline wages were $270 million on $19.2 billion of revenue because the model is volume- and inventory-heavy rather than labor-heavy.",
+      "rent_storage_and_equipment": "Meaningful for operators with yards, terminals, loaders, stockpiles or owned handling equipment.",
+      "depreciation_and_capital": "Moderate to high capital intensity for firms owning storage and loading assets; lower for pure brokers.",
+      "profit": "Thin and volatile; 2021 baseline EBIT profit was $519 million, equal to a 2.7% margin."
+    },
+    "major_players": [
+      "Pure Energy Coal LLC",
+      "Umicore USA Inc.",
+      "United Coal Company LLC",
+      "DTE Coal Services Inc.",
+      "Integrity Coal Sales Inc.",
+      "Robindale Energy Services Inc.",
+      "Oxbow Carbon & Minerals Holdings Inc.",
+      "Peabody Coalsales LLC",
+      "Sprague Operating Resources LLC",
+      "Wolverine Fuels LLC"
+    ],
+    "current_dynamics": "The industry’s coal side is shrinking in structural terms even when weather, gas prices or exports produce short-term lifts. EIA’s July 2026 STEO forecasts coal consumption at 452 million short tons in 2025 and 412 million short tons in 2026, while coal production moves from 528 million short tons in 2025 to 511 million short tons in 2026. Power plants entered summer 2026 with 126 million short tons of coal stocks at the end of May 2026, 6% above May 2025, limiting urgent restocking demand. The ore side is healthier: USGS reported 2025 US nonfuel mineral production value of $112 billion, up 5.6% from 2024, with copper, molybdenum, gold and silver contributing to regional production-value gains. The result is a split market: thermal coal distribution is contracting, while ore and specialty mineral channels benefit from metals demand, critical-mineral policy and industrial supply-chain security.",
+    "whats_growing": [
+      "2025 nonfuel mineral production value rose 5.6% to $112 billion, supporting ore and mineral wholesale activity.",
+      "2026 Q1 metallurgical coal exports reached 13.3 million short tons, slightly above 2025 Q4, supporting export-facing coal intermediaries.",
+      "2025-2026 critical-mineral and domestic sourcing policy attention supports demand for reliable ore, concentrate and mineral distribution relationships.",
+      "2026 solar and wind capacity growth in EIA forecasts indirectly shifts wholesalers toward non-coal mineral inputs tied to grid, battery and industrial supply chains."
+    ],
+    "whats_shrinking": [
+      "2026 EIA forecasts total US coal consumption falling from 452 million short tons in 2025 to 412 million short tons in 2026.",
+      "2026 EIA forecasts electric power sector coal consumption down 9%, or 38 million short tons, from 2025.",
+      "2024 final coal production fell 11.3% year over year to 512.5 million short tons, reducing physical distribution volume versus 2023.",
+      "Independent regional wholesalers continue losing share as miners, rail-linked suppliers and large intermediaries sell directly to utilities and industrial customers."
+    ],
+    "recent_developments": [
+      "2025-09-10: FRED/BLS reported the metal and mineral merchant wholesaler PPI at 149.335 for August 2025, down from 161.926 in April 2025.",
+      "2025-11-19: EIA’s Annual Coal Report finalized 2024 US coal production at 512.5 million short tons, down 11.3% from 2023.",
+      "2025-11-19: EIA reported 2024 US coal consumption of 410.9 million short tons, down 3.5% from 2023, with the electric power sector at 87.6% of consumption.",
+      "2026-02-06: USGS reported 2025 US nonfuel mineral production value of $112 billion, up 5.6% from 2024.",
+      "2026-07-01: EIA’s Q1 2026 Quarterly Coal Report showed US coal consumption of 105.0 million short tons, down 11.4% from Q1 2025.",
+      "2026-07-07: EIA’s July 2026 STEO forecast 2026 US coal consumption of 412 million short tons and 2026 coal production of 511 million short tons."
+    ],
+    "outlook": "The 2026-2027 outlook is slightly negative for total industry revenue and more negative for thermal-coal volumes. EIA forecasts US coal production declining from 528 million short tons in 2025 to 511 million short tons in 2026 and 492 million short tons in 2027, while coal consumption falls from 452 million short tons in 2025 to 412 million short tons in 2026 and 399 million short tons in 2027. That volume erosion should outweigh any benefit from short-term price volatility for coal-heavy wholesalers. Operators with ore, metallurgical coal, export logistics, blending, compliance documentation and critical-mineral supply-chain capabilities are better positioned than firms concentrated in utility thermal coal. Baseline revenue near $18.8-$19.0 billion in 2025-2026 is likely to drift lower unless metals and mineral resale activity offsets utility coal declines.",
+    "themes": [
+      "Coal-to-gas-and-renewables substitution",
+      "Utility coal inventory overhang",
+      "Metallurgical coal export resilience",
+      "Ore and critical-mineral supply-chain demand",
+      "Vertical integration by miners",
+      "Thin-margin commodity resale",
+      "Rail and barge logistics leverage",
+      "High revenue volatility"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/coal-and-ore-wholesaling-in-the-us.txt",
+      "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
+      "https://www.eia.gov/coal/production/quarterly/index.php",
+      "https://www.eia.gov/coal/annual/",
+      "https://www.usgs.gov/news/national-news-release/value-us-mineral-production-rose-last-year-driven-precious-metals-prices",
+      "https://fred.stlouisfed.org/series/PCU423500423500",
+      "https://www.naics.com/naics-code-description/?code=423520&v=2022",
+      "https://www.eia.gov/todayinenergy/detail.php?id=61022"
+    ],
+    "one_sentence": "The US Coal & Ore Wholesaling industry remains a mature, low-concentration distribution market whose 2025 revenue base is still near $19 billion, but 2026 demand indicators point lower as utility coal consumption retreats while nonfuel mineral demand stays supported by metals, critical-mineral and industrial supply-chain needs.",
+    "slug": "coal-and-ore-wholesaling-in-the-us"
+  },
+  {
+    "title": "Cocoa & Drinking Chocolate Production",
+    "sector": "Manufacturing",
+    "one_liner": "US cocoa and drinking chocolate producers are navigating a mature hot-cocoa category reshaped by extreme cocoa-cost volatility, price increases, and demand for lower-sugar and premium formats.",
+    "overview": "This mature US manufacturing industry processes cocoa, sugar, dairy ingredients, flavors, and other inputs into powdered cocoa and drinking chocolate products, excluding chocolate syrup and ready-to-drink chocolate milk. Baseline demand is seasonal and household-oriented, while bulk formats serve foodservice, vending, institutional, and private-label channels. The 2021 IBISWorld baseline put revenue at $938.5 million and projected 2026 revenue of about $1.0 billion in 2021 dollars, but the 2024-2026 cocoa price shock has changed the operating mix: producer revenue is being supported by higher selling prices, while volumes, margins, and promotional activity are pressured by elevated input costs and consumer price sensitivity.",
+    "key_stats": {
+      "market_size": "About $1.1 billion in 2026 US producer revenue, estimated on a nominal basis from the 2021 IBISWorld baseline and 2024-2026 cocoa-cost pass-through.",
+      "growth": "About 3% to 5% nominal revenue growth in 2026, with unit demand softer than dollar sales because 2025-2026 pricing is carrying much of the increase.",
+      "profit_margin": "About 12% to 16% EBIT margin in 2026, down from the 2021 baseline margin of 19.3% because cocoa, sugar, dairy, packaging, and tariff costs absorbed part of price realization.",
+      "establishments": "About 38 establishments in 2026, consistent with the baseline forecast for modest expansion from 33 establishments in 2021.",
+      "exports": "About $133.2 million in 2026 exports in the baseline forecast, equal to about 13.1% of industry revenue in 2026.",
+      "imports": "About $337.6 million in 2026 imports in the baseline forecast, equal to about 27.7% of domestic demand in 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $953.5 million in 2022, estimated in 2021 dollars by applying the baseline 2021-2026 CAGR of 1.6% to 2021 revenue of $938.5 million.",
+      "growth": "About 1.6% in 2022 under the baseline 2021-2026 forecast path.",
+      "profit_margin": "About 19% in 2022, broadly consistent with the 2021 baseline profit margin of 19.3% before the 2024-2026 cocoa price spike.",
+      "enterprises": "About 34 enterprises in 2022, estimated from the baseline forecast path from 33 enterprises in 2021 to 38 enterprises in 2026."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling branded and private-label powdered cocoa mixes, bulk sweetened hot chocolate, unsweetened cocoa powder, premium drinking chocolate, and foodservice packs to supermarkets, mass retailers, warehouse clubs, convenience stores, specialty food stores, distributors, and institutional buyers. Leading brands capture shelf space and pricing power through household recognition, seasonal merchandising, multipacks, and flavor extensions, while co-packers and private-label suppliers compete on scale, procurement, and retailer relationships.",
+    "cost_structure": {
+      "purchases": "About 52% to 58% of 2026 revenue, led by cocoa powder or beans, sugar, dairy ingredients, fats, flavors, packaging, and contract-manufacturing inputs.",
+      "wages": "About 8% to 10% of 2026 revenue, reflecting dry-blending, quality control, packaging, warehousing, and maintenance labor.",
+      "profit": "About 12% to 16% of 2026 revenue, pressured by high cocoa costs even as price realization supports sales dollars.",
+      "marketing_and_distribution": "About 8% to 12% of 2026 revenue, including retailer programs, seasonal displays, freight, warehousing, and broker fees.",
+      "depreciation_utilities_rent_other": "About 12% to 18% of 2026 revenue, including blending and packaging equipment, plant overhead, utilities, compliance, insurance, and administration."
+    },
+    "major_players": [
+      "Conagra Brands / Swiss Miss",
+      "Nestle USA / Nesquik and Carnation",
+      "The Hershey Company",
+      "Ghirardelli Chocolate Company",
+      "Barry Callebaut",
+      "Cargill Cocoa & Chocolate",
+      "Private-label and co-manufacturing suppliers"
+    ],
+    "current_dynamics": "The market is being pulled in opposite directions in 2026. Cocoa prices remain far above pre-2024 norms even after falling from 2025 peaks, so manufacturers are still reformulating, repricing, shrinking pack sizes, and tightening promotions. Dollar sales are more resilient than physical volume because retailers and brand owners have pushed through price increases. At the same time, lower-sugar, dark, organic, single-origin, fair-trade, and premium cocoa formats are gaining attention, while traditional sweetened mixes face pressure from health concerns, heavy-metal scrutiny, and price-sensitive consumers trading down to private label.",
+    "whats_growing": "Premium and specialty drinking chocolate, unsweetened cocoa powder, lower-sugar and no-sugar-added mixes, ethically sourced and certified cocoa claims, single-serve packets, e-commerce grocery, private label at value retailers, and foodservice formats that can support higher per-cup pricing are growing in 2025-2026.",
+    "whats_shrinking": "High-sugar legacy mixes, heavily promoted value-tier branded volume, discretionary pantry loading, and manufacturer margins are shrinking or under pressure in 2025-2026 as consumers react to price increases and producers absorb elevated cocoa costs.",
+    "recent_developments": [
+      "2024-12: Cocoa futures traded above $12,000 per tonne, creating a major cost shock for chocolate and cocoa-product manufacturers.",
+      "2025-07: J.P. Morgan reported Q2 2025 cocoa grindings fell 2.8% year over year in North America, showing demand destruction from high cocoa costs.",
+      "2025-08: J.P. Morgan said cocoa prices had fallen below $8,000 per tonne but expected structurally higher prices around $6,000 per tonne.",
+      "2025-09: ICCO reported August 2025 cocoa prices rallied on 2024/25 mid-crop quality concerns before retreating on softer demand and better 2025/26 crop expectations.",
+      "2026-04: The World Bank forecast cocoa prices would fall from about $7.80 per kilogram in 2025 to about $3.80 per kilogram in 2026 as supply recovered.",
+      "2026-07: The World Bank said cocoa averaged $4.35 per kilogram in June 2026, more than 50% below June 2025 but still exposed to weather risk."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive for revenue but mixed for profitability. Lower cocoa prices versus 2025 should gradually relieve cost pressure, yet prices remain elevated by historical standards and retailers may resist further list-price increases. Producers with strong brands, hedging programs, flexible pack architecture, and private-label contracts should fare best. Through 2026, growth is likely to come from price realization, premium mixes, health-positioned cocoa, and foodservice formats rather than broad-based volume expansion.",
+    "themes": [
+      "Cocoa price volatility",
+      "Seasonal household demand",
+      "Premiumization",
+      "Lower sugar and health positioning",
+      "Private-label competition",
+      "Ethical and traceable sourcing",
+      "Heavy-metal scrutiny",
+      "Foodservice and bulk-pack resilience",
+      "Margin compression",
+      "Pack-size and promotion management"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/cocoa-and-drinking-chocolate-production.txt",
+      "https://www.icco.org/cocoa-market-report-for-august-2025/",
+      "https://www.icco.org/statistics/statistics_2025/",
+      "https://www.jpmorgan.com/insights/global-research/commodities/cocoa-prices",
+      "https://blogs.worldbank.org/en/opendata/beverage-prices-retreat-as-supplies-recover",
+      "https://www.worldbank.org/en/research/commodity-markets",
+      "https://www.fas.usda.gov/data/commodities/chocolate-cocoa-products",
+      "https://www.euromonitor.com/other-hot-drinks-in-the-us/report",
+      "https://www.thehersheycompany.com/en_us/home/newsroom/press-release/2026-02-05-Hershey-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-Provides-2026-Outlook.html",
+      "https://www.conagrafoodservice.com/products/swiss-miss"
+    ],
+    "one_sentence": "The industry primarily makes powdered hot cocoa and drinking chocolate mixes for retail, foodservice, wholesalers, and specialty channels, with 2025-2026 performance driven more by cocoa input costs and price realization than by strong volume growth.",
+    "slug": "cocoa-and-drinking-chocolate-production"
+  },
+  {
+    "title": "Coffee Creamer Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, concentrated U.S. manufacturing niche is being pulled forward by at-home specialty coffee, refrigerated liquid creamers, cold foam formats and plant-based options, while milk, packaging and distribution costs keep margins tight.",
+    "overview": "Coffee Creamer Production covers dairy and nondairy coffee creamers in liquid and powdered form, excluding half-and-half, whipping cream, ice cream mix, milk substitutes, sour cream and cheese. The 2022 IBISWorld baseline put U.S. production revenue at $2.999 billion after a five-year decline, but the category has since benefited from resilient coffee consumption, stronger away-from-home traffic and a consumer shift toward flavored, refrigerated and cold-foam products. The broader U.S. creams and creamers retail category was near $7.0 billion in the 52 weeks ended January 26, 2025, while refrigerated coffee creamers alone generated about $5.2 billion. Manufacturing remains highly concentrated around Nestle and Danone, with Chobani, private label, Califia, nutPods, Land O'Lakes and other challengers competing through clean-label, dairy-free, high-protein, low-sugar and flavor-led launches.",
+    "key_stats": {
+      "market_size": "$3.16 billion estimated U.S. production revenue in 2026, based on the 2022 IBISWorld baseline of $2.999 billion and its 2022-2027 outlook of 1.1% CAGR to about $3.2 billion by 2027",
+      "growth": "1.1% projected production-revenue CAGR for 2022-2027; broader U.S. creams and creamers retail dollar sales grew 5.8% in the 52 weeks ended January 26, 2025",
+      "retail_category_size": "Nearly $7.0 billion in U.S. creams and creamers retail sales in the 52 weeks ended January 26, 2025",
+      "refrigerated_creamer_sales": "About $5.2 billion in U.S. refrigerated coffee creamer sales in the 52 weeks ended January 26, 2025, with 3.6% volume growth",
+      "plant_based_creamer": "Plant-based creamer grew 2% in both dollar and unit sales in 2025; 14% of U.S. households bought plant-based creamer in 2025",
+      "coffee_consumption": "66% of U.S. adults had coffee in the past day in the 2026 NCA Spring NCDT; 47% had specialty coffee in the past day in the 2026 NCA specialty report",
+      "input_cost": "USDA projected the 2026 all-milk price at $20.00 per cwt in July 2026; farm-level milk prices were 10.1% higher in June 2026 than in June 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$2.999 billion in 2022 U.S. industry revenue, in 2022 dollars",
+      "growth": "Revenue was expected to rise 2.3% in 2022 but decline at a 1.4% CAGR over 2017-2022; IBISWorld projected 1.1% CAGR growth over 2022-2027",
+      "profit": "$63 million in 2022 profit, equal to a 2.1% margin",
+      "establishments": "28 establishments in 2022",
+      "enterprises": "18 enterprises in 2022",
+      "employment": "2,975 employees in 2022",
+      "exports": "$305 million in 2022 exports",
+      "imports": "$101 million in 2022 imports",
+      "domestic_demand": "$2.795 billion in 2022 domestic demand",
+      "product_mix": "64.1% dairy-based creamers, 27.8% plant-based creamers and 8.1% other products in 2022"
+    },
+    "how_it_makes_money": "Producers buy milk, cream, vegetable oils, sugar, sweeteners, flavors, stabilizers, packaging and plant-based inputs, then manufacture branded, licensed, private-label and foodservice creamers sold through supermarkets, mass merchants, club stores, convenience stores, wholesalers, office distributors, coffee shops and foodservice channels. Revenue comes from high-volume refrigerated liquid creamers, shelf-stable and powdered products, premium plant-based lines, seasonal flavors, cold-foam formats and licensed brands such as Starbucks, Coffee mate, International Delight, Dunkin and dessert/candy collaborations.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket; includes dairy inputs, plant-based bases such as oat and almond, vegetable oils, sugar, flavors, stabilizers and packaging. Milk and dairy-fat volatility remains a key 2025-2026 margin risk.",
+      "wages": "Moderate cost; production, quality-control, warehouse and distribution labor remain important because large plants are automated but still require skilled operators and technicians.",
+      "depreciation": "Meaningful cost because refrigerated and aseptic processing, bottling, cold-chain handling and food-safety systems require capital-intensive plants.",
+      "distribution_and_logistics": "Important cost because liquid refrigerated creamers are bulky, perishable and dependent on reliable cold-chain delivery to retailers and foodservice buyers.",
+      "marketing_and_slotting": "High for branded leaders because growth depends on flavor launches, licensed collaborations, shelf placement and consumer awareness.",
+      "profit": "Low-to-modest; the 2022 baseline margin was 2.1%, and 2025-2026 profitability depends on whether producers can pass through dairy, sweetener, packaging, freight and promotion costs."
+    },
+    "major_players": [
+      "Nestle USA: Coffee mate, natural bliss and Starbucks creamers; opened a $675 million Glendale, Arizona beverage factory in January 2025 to expand creamer capacity.",
+      "Danone North America: International Delight, Silk, SToK and related beverage/creamer portfolio; opened a $65 million Jacksonville, Florida production-line expansion in June 2025.",
+      "Chobani: competes in refrigerated creamers with dairy and oat-based, clean-label positioning.",
+      "Land O'Lakes: participates through dairy creamers and half-and-half-adjacent refrigerated products.",
+      "Califia Farms: plant-based creamer challenger focused on almond, oat and barista-style products.",
+      "nutPods: plant-based and no-sugar creamer challenger in premium retail channels.",
+      "Private label and licensed brands: retailers and co-manufacturers compete on value, seasonal flavors and branded partnerships."
+    ],
+    "current_dynamics": "The industry is growing faster at retail than the older IBIS production baseline implied, but much of the upside is in premium refrigerated liquid creamers, cold foam and flavored products rather than powdered or commodity dairy creamer. Nestle and Danone have both added 2025 U.S. capacity after prior service and supply constraints. Consumer demand is supported by high coffee penetration, specialty coffee, cold coffee and at-home coffeehouse replication, while price sensitivity favors private label and value packs. Plant-based creamer has stabilized after a weaker 2024 and returned to modest 2025 growth, but conventional creamer also grew in 2025, showing that plant-based is additive in some occasions and substitutive in others.",
+    "whats_growing": [
+      "Refrigerated liquid creamers, which reached about $5.2 billion in U.S. retail sales in the 52 weeks ended January 26, 2025",
+      "Cold foam creamers, led by International Delight's 2024 launch and Coffee mate's January 2025 entry",
+      "At-home specialty coffee customization, supported by 66% past-day U.S. adult coffee consumption in 2026 and 47% past-day specialty coffee consumption in 2026",
+      "Plant-based creamers, which grew 2% in dollar and unit sales in 2025 after declining in 2024",
+      "Flavor-led and licensed products, including dessert, candy, seasonal and coffeehouse-style profiles",
+      "Domestic capacity investment by Nestle and Danone in 2025"
+    ],
+    "whats_shrinking": [
+      "Powdered and shelf-stable legacy creamers; shelf-stable creamers fell 1.6% in dollars and 2.0% in volume in the 52 weeks ended January 26, 2025",
+      "Share of traditional dairy-based creamers within the production mix, although the segment remains the largest by revenue",
+      "Smaller independent producers' bargaining power as scale, shelf access and promotional spending favor large brands and private label",
+      "Margins on undifferentiated products when milk, sweetener, packaging, freight or retailer-promotion costs rise",
+      "Export upside when a strong U.S. dollar or trade friction makes U.S.-made dairy-based products less competitive"
+    ],
+    "recent_developments": [
+      "2025-01-28: Nestle USA opened a $675 million Glendale, Arizona beverage factory and distribution center to produce Coffee mate, natural bliss and Starbucks creamers.",
+      "2025-01: Coffee mate Cold Foam became available at select U.S. retailers, with a 14 fl. oz. MSRP range of $4.68-$5.49.",
+      "2025-01-26: Circana's latest 52-week retail data showed U.S. refrigerated coffee creamers at about $5.2 billion in sales and 3.6% volume growth.",
+      "2025-06-17: Danone U.S. opened a $65 million Jacksonville, Florida production-line expansion supporting International Delight creamers and SToK Cold Brew Coffee.",
+      "2025: GFI/SPINS reported plant-based creamer grew 2% in dollar and unit sales and reached 14% household penetration.",
+      "2026-07-17: USDA projected the 2026 all-milk price at $20.00 per cwt and said higher milk supply should lower milk prices into 2027."
+    ],
+    "outlook": "Through 2027, production revenue is likely to grow slowly in the low single digits, while the broader retail category can grow faster because of mix shift into premium refrigerated, cold foam and flavored formats. Leaders with new domestic capacity should regain distribution and support more innovation, but the market remains mature and competitive. The main upside is at-home specialty coffee, younger consumers' preference for flavored and cold coffee, and plant-based/clean-label recovery. The main risks are elevated price sensitivity, retailer private-label pressure, dairy and sweetener volatility, packaging costs, tariffs affecting coffee and packaging inputs, and the need to keep refrigerated supply chains fully stocked.",
+    "themes": [
+      "At-home coffeehouse experience",
+      "Refrigerated liquid creamer growth",
+      "Cold foam innovation",
+      "Plant-based rebound",
+      "Flavor and licensed-brand competition",
+      "Private-label value pressure",
+      "Domestic manufacturing capacity expansion",
+      "Milk and packaging cost volatility",
+      "Mature concentrated industry",
+      "Clean-label and low-sugar reformulation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/coffee-creamer-production.txt",
+      "https://www.ncausa.org/newsroom/Specialty-Coffee-Consumption-Remains-at-Record-High",
+      "https://gfi.org/marketresearch/",
+      "https://www.foodnavigator.com/Article/2025/03/13/how-nestle-danone-milk-the-7bn-us-coffee-creamer-industry/",
+      "https://www.dairyreporter.com/Article/2025/03/13/how-nestle-danone-are-milking-the-7bn-us-coffee-creamer-category/",
+      "https://www.foodnavigator.com/Article/2025/08/10/exploring-trends-and-innovations-in-the-us-coffee-creamer-market/",
+      "https://www.nestleusa.com/media/pressreleases/new-beverage-factory-dc-az",
+      "https://www.nestleusa.com/media/pressreleases/coffee-mate-new-cold-foam",
+      "https://www.danonenorthamerica.com/newsroom/details/danone-announces-opening-of-new-65-million-production-line-in-jacksonville-florida.html.html.html.html",
+      "https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "https://ers.usda.gov/data-products/food-price-outlook/summary-findings"
+    ],
+    "one_sentence": "U.S. coffee creamer producers manufacture dairy and nondairy liquid, powdered and specialty creamers for grocery, foodservice, office and coffee-shop channels, with 2025-2026 growth increasingly tied to premium refrigerated formats and coffeehouse-style at-home use.",
+    "slug": "coffee-creamer-production"
+  },
+  {
+    "title": "Cold Sore Medication Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A small, mature US antiviral niche serving recurring HSV outbreaks through prescription generics and OTC cold-sore treatments.",
+    "overview": "This industry develops and manufactures OTC and prescription treatments for cold sores caused primarily by herpes simplex virus type 1. The market is mature and narrow, with demand tied to recurrent outbreaks, pharmacy access, insurance coverage, consumer health spending and cold/flu-season illness triggers. Oral prescription antivirals remain the largest revenue pool, while OTC docosanol and pain-relief products serve consumers seeking immediate retail access. Since 2022, the main change has not been a breakthrough cure but continued genericization, new topical generic approvals and broader health-spending growth.",
+    "key_stats": {
+      "market_size": "$308.2 million in 2026, estimated from the 2022 IBISWorld baseline projection in 2021 dollars",
+      "growth": "+2.4% CAGR from 2021 to 2026",
+      "profit_margin": "7.3% in 2021 baseline",
+      "employment": "1,582 workers in 2021 baseline; wages projected to reach $90.0 million in 2026",
+      "exports": "$128.7 million projected for 2026",
+      "imports": "$275.6 million projected for 2026",
+      "product_mix": "58.0% oral prescription medications, 29.4% OTC medications and generics, 12.6% topical prescription medications in the 2021 baseline",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$279.8 million in 2022, estimated by applying the baseline 2.4% 2021-2026 CAGR to 2021 revenue of $273.2 million",
+      "growth": "+2.4% in 2022, baseline projection",
+      "context": "Baseline report expected revenue to rise from $273.2 million in 2021 to $308.2 million in 2026 after the 2020 COVID-19 demand shock."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling prescription antiviral tablets and topical creams to wholesalers, pharmacies, drug stores and health channels, plus OTC branded and store-brand cold-sore products sold through retail shelves and ecommerce. Prescription products depend on payer coverage and pharmacy benefit design; OTC products depend more on brand recognition, price, package size and seasonal retail execution.",
+    "cost_structure": {
+      "wages": "$81.0 million in 2021, equal to about 29.6% of 2021 revenue; baseline wages were projected to reach $90.0 million in 2026 as R&D and technical labor needs rise.",
+      "profit": "$20.0 million in 2021, or a 7.3% margin, down from 9.0% in 2016 because of generic competition.",
+      "purchases": "Active pharmaceutical ingredients, excipients, tubes, pumps, cartons, labels and outsourced manufacturing inputs are the main purchase costs.",
+      "other_costs": "FDA compliance, quality systems, stability testing, pharmacovigilance, R&D, freight, retailer slotting, trade promotion and brand advertising are material operating costs."
+    },
+    "major_players": [
+      "Haleon US Holdings LLC - Abreva docosanol OTC cold-sore products",
+      "Teva Pharmaceuticals USA - generic acyclovir and antiviral portfolio",
+      "Viatris / Mylan Pharmaceuticals - generic valacyclovir tablets",
+      "Sun Pharmaceutical Industries / Taro - acyclovir cream 5% products",
+      "Cipla Limited - FDA-listed 2025 generic acyclovir cream 5% approval",
+      "Alembic Pharmaceuticals - FDA-listed 2023 generic acyclovir cream 5% approval",
+      "Novartis - originator of Famvir/famciclovir, now largely genericized"
+    ],
+    "current_dynamics": "Demand is steady rather than explosive because HSV infections are lifelong and outbreaks recur, but the category is exposed to price pressure. CMS reported 2024 prescription drug spending of $467.0 billion, up 7.9%, and projected retail prescription drug spending to grow 5.7% annually over 2025-2034, which supports prescription antiviral volumes. At the same time, FDA records show continued generic competition, including a 2025 Cipla acyclovir cream 5% approval, while OTC competitors focus on convenience, rapid pain relief and claims around shortened healing time. Insurance remains an important swing factor: Census reported 92.0% of people had health insurance for some or all of 2024, but public coverage fell as Medicaid coverage declined.",
+    "whats_growing": "Generic oral antivirals, topical generic acyclovir, retail OTC formats, HSA/FSA-eligible OTC purchases, ecommerce replenishment and products positioned around fast symptom relief are growing. Broader 2025-2034 prescription drug spending growth and an aging population also support recurring demand.",
+    "whats_shrinking": "Branded prescription share, premium pricing on off-patent antivirals and older topical prescription products are shrinking. Store brands and generics continue to compress margins, while shingles vaccination lowers some adjacent herpes-zoster treatment need over time.",
+    "recent_developments": [
+      "2024: CMS reported US prescription drug spending rose 7.9% to $467.0 billion.",
+      "2024: Census reported 92.0% of the US population, or 310 million people, had health insurance for some or all of the year.",
+      "2025-05-02: FDA listed Cipla Limited approval for generic acyclovir cream 5% referencing Zovirax.",
+      "2025-06-25: CDC NCHS highlighted NHANES-based HSV-1 and HSV-2 infection estimates in its Data Query System.",
+      "2025-11: DailyMed valacyclovir labels added major safety updates for contraindications and severe cutaneous adverse reactions.",
+      "2026: CMS projected retail prescription drug spending to grow 5.7% annually over 2025-2034."
+    ],
+    "outlook": "Revenue is expected to remain in low-single-digit growth, with 2026 market size near $308 million. Volume should be supported by recurring HSV outbreaks, aging demographics, high 2024 insurance coverage and rising prescription drug spending, but pricing will stay constrained by generic oral antivirals, new topical generic approvals and retailer pressure on OTC products. The best-positioned manufacturers will combine low-cost generic production, reliable supply, FDA compliance and selective brand investment in OTC products.",
+    "themes": [
+      "Mature antiviral niche",
+      "Generic price pressure",
+      "OTC brand differentiation",
+      "Aging population demand",
+      "Insurance-sensitive prescription access",
+      "FDA-regulated manufacturing",
+      "Pharmacy and drug-store channel dependence",
+      "Rising healthcare spend but margin compression"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/cold-sore-medication-manufacturing.txt",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.census.gov/library/publications/2025/demo/p60-288.html",
+      "https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
+      "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=764b0cf9-9207-404c-87a8-a1e0109af6cc",
+      "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=c39b38a7-dcdd-4c32-8f35-b565c4d3cec6&type=display",
+      "https://www.cdc.gov/nchs/dqs/topics/infectious-diseases.html",
+      "https://www.abreva.com/"
+    ],
+    "one_sentence": "US cold sore medication manufacturers make prescription and OTC products for herpes labialis, with 2026 revenue estimated near $308 million as aging demographics and prescription drug spending support demand while generics and private label cap pricing power.",
+    "slug": "cold-sore-medication-manufacturing"
+  }
+]

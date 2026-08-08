@@ -1,0 +1,427 @@
+[
+  {
+    "title": "Cell Phone Recycling",
+    "sector": "Energy & Environment",
+    "one_liner": "U.S. cell phone recycling is shifting from scrap recovery toward higher-value trade-in, refurbishment and certified resale.",
+    "overview": "Cell Phone Recycling covers U.S. operators that collect, sort, wipe, refurbish, resell, dismantle or recycle used cell phones and similar handheld devices. The 2022 IBIS baseline described a fast-growing but fragmented industry built around demanufacturing, asset recovery and resale. Current 2025-2026 data points to a larger circular-device market: trade-in payouts reached a record 2025 level, premium smartphones entering the secondary market are newer and more valuable, and tighter e-waste export rules are raising the value of compliant domestic processing.",
+    "key_stats": {
+      "market_size": "2025 U.S. cell phone recycling market: $3.2 billion",
+      "growth": "2025-2032 forecast CAGR: 6.7%",
+      "broader_market_context": "2024 U.S. electronic goods recycling market: $28.1 billion, up 6.2% in 2024",
+      "trade_in_value": "2025 U.S. mobile trade-in programs returned $6.4 billion to consumers, up 42% from 2024",
+      "device_age": "2025 average trade-in age: 3.80 years for iPhones and 3.96 years for Android devices",
+      "collection_example": "2025 ecoATM collected about 7.4 million to 7.5 million devices and surpassed 50 million lifetime devices collected",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $2.35 billion",
+      "growth": "2022 IBISWorld revenue growth: 1.7%; 2017-2022 CAGR: 9.3%",
+      "profit": "2022 IBISWorld profit: $212 million",
+      "profit_margin": "2022 IBISWorld profit margin: 9.0%",
+      "establishments": "2022 IBISWorld establishments: 691",
+      "enterprises": "2022 IBISWorld enterprises: 509",
+      "employment": "2022 IBISWorld employment: 6,639 workers",
+      "wages": "2022 IBISWorld wages: $621 million",
+      "product_mix": "2022 IBISWorld service mix: demanufacturing 45.5%, asset recovery 21.2%, shredding 18.2%, glass cleaning 2.0%, other activities 13.1%"
+    },
+    "how_it_makes_money": "Operators buy, receive or collect used phones, assess condition, erase data, refurbish working devices for resale, sell wholesale lots into the secondary device market, provide trade-in and upgrade processing for carriers and OEMs, and recover gold, silver, palladium, copper, cobalt and other materials from devices that cannot be economically reused.",
+    "cost_structure": {
+      "largest_costs": "2025-2026 cost pressure is concentrated in device acquisition payments, kiosk or logistics networks, labor for grading and refurbishment, data wiping, compliance, warranty reserves and downstream processing fees.",
+      "labor": "2022 IBISWorld wages were $621 million, equal to about 26.4% of 2022 revenue.",
+      "profitability": "2022 IBISWorld profit margin was 9.0%; margin support in 2025-2026 comes from higher-value premium devices, while margin pressure comes from competition for trade-in supply and compliance costs.",
+      "materials_value": "2006 USGS/EPA estimate: recycling 1.0 million cell phones can recover 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold and 33 pounds of palladium.",
+      "compliance": "2025 Basel e-waste amendments increased paperwork and consent requirements for cross-border e-waste and scrap movements."
+    },
+    "major_players": [
+      "ecoATM / Gazelle",
+      "Assurant / HYLA Mobile",
+      "Apple Trade In and recycling programs",
+      "Samsung Trade-In and Certified Re-Newed",
+      "Back Market",
+      "ERI",
+      "uSell",
+      "Call2Recycle partner network"
+    ],
+    "current_dynamics": "In 2025-2026, the industry is benefiting from record trade-in values, carrier and OEM promotions, AI-enabled smartphone upgrade cycles, and the rising resale value of premium phones. At the same time, longer ownership cycles mean fewer quick-turn devices, and 2026 smartphone supply constraints and higher component prices may slow unit replacement while supporting higher average resale prices. Regulation is also pushing operators toward certified domestic processing, chain-of-custody controls and battery-safe handling.",
+    "whats_growing": "Refurbished premium smartphones, carrier/OEM trade-in processing, automated kiosk collection, certified data-erasure services, lithium-ion battery handling, parts harvesting, and domestic or traceable downstream processing are growing in 2025-2026.",
+    "whats_shrinking": "Low-value scrap-only processing, informal export channels, older low-end phone resale, and unmanaged landfill disposal are shrinking as 2025 Basel rules, state e-waste laws and consumer trade-in incentives redirect devices into formal channels.",
+    "recent_developments": [
+      "2025-01-01: Basel Convention e-waste amendments took effect, subjecting hazardous and non-hazardous e-waste scrap shipments to prior informed consent requirements.",
+      "2025-04-22: Samsung added the Galaxy S24 series to its U.S. Certified Re-Newed lineup, extending premium-phone refurbishment supply.",
+      "2025-07-28: Canalys reported U.S. smartphone shipments grew 1% in Q2 2025, with Samsung up 38% and Apple down 11% year over year.",
+      "2025-12-04: Assurant reported Q3 2025 mobile trade-in value of $1.59 billion, up 46% year over year.",
+      "2026-02-10: ecoATM reported collecting about 7.4 million to 7.5 million devices in 2025 and passing 50 million lifetime devices collected.",
+      "2026-04-16: Apple reported 2025 recycled content of 30% across products shipped and promoted recycling through Daisy and Cora processing systems."
+    ],
+    "outlook": "The 2026 outlook is positive but more disciplined than the 2022 boom period. Market growth should continue as 2025-2032 forecasts point to a 6.7% CAGR, but volume growth depends on replacement cycles, carrier promotions and the availability of new smartphones. The best-positioned operators will control device supply, prove data security, sort devices for maximum reuse before recycling, and meet stricter 2025-2026 cross-border and battery-handling requirements.",
+    "themes": [
+      "Circular economy",
+      "Trade-in economics",
+      "Refurbished premium phones",
+      "E-waste regulation",
+      "Data security",
+      "Critical minerals recovery",
+      "Right to repair",
+      "Domestic processing",
+      "Battery safety",
+      "Carrier and OEM channel control"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/cell-phone-recycling.txt",
+      "https://www.psmarketresearch.com/market-analysis/us-cell-phone-recycling-market",
+      "https://www.ibisworld.com/united-states/market-size/electronic-goods-recycling/4510/",
+      "https://www.assurant.com/news-insights/news_releases/mobile-trade-in-and-upgrade-data-trends-annual",
+      "https://resource-recycling.com/e-scrap/2026/02/10/ecoatm-recycled-7-5m-phones-in-2025/",
+      "https://www.epa.gov/recycle/electronics-donation-and-recycling",
+      "https://www.epa.gov/electronics-batteries-management/regulations-electronics-stewardship",
+      "https://www.epa.gov/hwgenerators/new-international-requirements-electrical-and-electronic-waste",
+      "https://www.idc.com/promo/smartphone-market-share/?submit=Search",
+      "https://www.lightreading.com/smartphones-devices/us-smartphone-market-grows-1-in-q2-2025-as-made-in-india-shipments-surge-amid-tariff-risks-canalys",
+      "https://news.samsung.com/us/samsung-certified-renewed-now-includes-galaxy-s24-series",
+      "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/"
+    ],
+    "one_sentence": "The industry collects used phones through kiosks, mail-in programs, carriers, OEM take-back channels and IT asset disposition partners, then earns most of its value by refurbishing resalable devices and recovering metals from end-of-life units.",
+    "slug": "cell-phone-recycling"
+  },
+  {
+    "title": "Cell Phone Repair",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented repair-shop industry serving a nearly saturated smartphone base, with right-to-repair laws widening parts access while device durability and replacement offers cap growth.",
+    "overview": "Cell phone repair shops diagnose, maintain and repair smartphones and related mobile devices, with walk-in screen, battery, port, camera, sensor and board-level work making up the core service mix. The baseline IBISWorld file placed 2021 industry revenue at $3.973B and forecast a slow rebound to $4.2B by 2026, after COVID-era demand weakness. Current public data points to the same low-growth profile: IBISWorld's public market-size page reported $4.0B in 2024 revenue and 1.4% 2024 growth, while Pew reported 91% US adult smartphone ownership in 2025 and CTIA reported 579M US wireless connections in 2024. The industry is still highly fragmented, but the competitive center is shifting toward OEM-authorized and insurer-linked networks such as uBreakiFix by Asurion, Best Buy Geek Squad, Batteries Plus and carrier/insurance repair flows.",
+    "key_stats": {
+      "market_size": "2024: $4.0B US market size; 2025e: about $4.1B based on low-single-digit continuation from 2024 public IBISWorld data",
+      "growth": "2024: 1.4% market-size growth; 2019-2024 CAGR: 0.5% per IBISWorld public data; 2025e: roughly 1.0%-1.5% growth",
+      "smartphone_ownership": "2025: 91% of US adults owned a smartphone and 98% owned a cellphone, per Pew Research Center",
+      "wireless_connections": "2024: 579M US wireless connections and 259M 5G devices, per CTIA 2025 Annual Survey Highlights",
+      "service_mix_baseline": "2021: screen repair/replacement 54.7%, button/headphone/port repair 16.0%, battery repair/replacement 12.0%, camera/sensor repair 8.0%, other repairs 9.3%",
+      "industry_structure": "2021: 9,118 enterprises, 9,413 establishments and 26,896 employees in the baseline IBISWorld file",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022e: about $4.0B, interpolated from baseline 2021 revenue of $3.973B and IBISWorld's 2021-2027 projected CAGR of 1.11%",
+      "growth": "2022e: about 1.1% growth, using the baseline 2021-2027 projected CAGR",
+      "profit_margin": "2021 baseline: 6.4% EBIT margin; 2022e: near 6%-7% absent a material mix change",
+      "establishments": "2021 baseline: 9,413 establishments; 2022e: about 9,555 using the baseline 2021-2027 projected establishment CAGR of 1.51%"
+    },
+    "how_it_makes_money": "Repair shops earn labor and parts markup from out-of-warranty smartphone repairs, insured-damage jobs, OEM-authorized repairs, diagnostics, mail-in work and adjacent tablet/electronics repairs. The largest revenue pool is still cracked screens, followed by ports/buttons, batteries, cameras/sensors and miscellaneous internal or cosmetic repairs. Larger networks also monetize convenience through appointment booking, same-day repair, mobile vans, protection-plan referrals and warranties on completed repairs.",
+    "cost_structure": "The business is labor- and parts-intensive but not very capital-intensive. Major costs are technician wages, replacement screens/batteries/cameras/ports, rent for retail locations, franchise or platform fees, insurance, diagnostic tools, certification/training and marketing. 2021 baseline profit margin was 6.4%; 2025-2026 margins are pressured by wage inflation, OEM part costs and competition, but supported by higher-value flagship phones and growing access to genuine or used genuine parts.",
+    "major_players": [
+      "uBreakiFix by Asurion: 2026 public store locator shows 700+ US stores and authorized Samsung/Google repair plus Apple Independent Repair Provider positioning",
+      "Best Buy Geek Squad: 2025-2026 public service pages market same-day iPhone screen repair, Apple Authorized Service Provider status and Apple parts use",
+      "Batteries Plus: 2025-2026 public service pages market phone repair in 700+ stores, including Apple Independent Repair Provider and Samsung Independent Service Provider positioning where available",
+      "CPR Cell Phone Repair: franchise repair brand serving smartphones, tablets and electronics; relevant in local independent/franchise competition",
+      "Apple, Samsung and Google authorized channels: not repair-shop industry operators in the narrow sense, but they increasingly steer parts access, certification, pricing and customer flows"
+    ],
+    "current_dynamics": "Demand is stable because phones are essential and expensive, but growth is capped by high smartphone saturation, longer-lasting devices, water resistance, stronger glass, carrier trade-ins and monthly upgrade/protection plans. The main positive 2025-2026 shift is regulation: New York's electronics repair law is already in force, Oregon added a parts-pairing restriction for relevant devices, and Colorado's digital electronics right-to-repair law takes effect in 2026. These rules increase access to parts, tools and documentation, but they also raise the compliance stakes for shops that must disclose authorization status and parts sourcing.",
+    "whats_growing": "OEM-authorized repairs, insured repairs, same-day appointments, mobile repair vans, battery replacements on aging premium phones, back-glass and camera repairs, used genuine parts, repair documentation access under state laws, and service for Apple/Samsung/Google flagship devices are growing in 2025-2026.",
+    "whats_shrinking": "Low-end phone repairs, legacy 3G/4G device repair, headphone-jack work, purely cosmetic repairs that consumers defer, unaffiliated shops without certification or reliable parts access, and repairs where trade-in credits make replacement cheaper are shrinking in relative importance.",
+    "recent_developments": [
+      "2024-01-29: New York Attorney General said the Digital Fair Repair Act was in force, covering cell phones and other digital electronics sold after July 1, 2023.",
+      "2024-04-11: Apple announced that select iPhone repairs would support used genuine Apple parts beginning in fall 2024.",
+      "2024-05-28: Colorado approved HB24-1121, expanding right-to-repair rules to digital electronic equipment effective 2026-01-01.",
+      "2025-04-09: Apple made iPhone 16e self-service repair parts available in the US, including display, battery, camera, back-glass and speaker parts.",
+      "2025-09-08: CTIA reported 2024 US wireless connections reached 579M, including 259M 5G devices.",
+      "2026-01-01: Colorado's consumer right-to-repair law for digital electronic equipment took effect, including limits on parts-pairing practices for covered devices."
+    ],
+    "outlook": "The 2026 outlook is slow growth rather than breakout growth. A 2025-2026 market around $4.1B-$4.2B is consistent with public 2024 IBISWorld data and the baseline 2026 forecast, but the mix should keep changing toward certified, OEM-linked and insurance-linked repair flows. Right-to-repair laws improve independent access to repair resources, while premium phone prices and a large installed base keep repair economically relevant. Offsetting forces are stronger devices, easier financing, replacement/trade-in offers, and repair complexity around serialized parts and security-sensitive components.",
+    "themes": [
+      "Right to repair",
+      "Repair versus replace",
+      "OEM control of parts and diagnostics",
+      "Insurance and protection-plan channels",
+      "Smartphone saturation",
+      "Premium-device lifecycle extension",
+      "Fragmented local services consolidating around authorized networks"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/cell-phone-repair.txt",
+      "IBISWorld public market-size page, Cell Phone Repair in the US, last updated November 2024: https://www.ibisworld.com/united-states/market-size/cell-phone-repair/5802/",
+      "Pew Research Center Mobile Fact Sheet, published November 20, 2025: https://www.pewresearch.org/internet/fact-sheet/mobile/",
+      "CTIA 2025 Annual Survey Highlights, published September 8, 2025: https://www.ctia.org/news/2025-annual-survey-highlights",
+      "Apple Self Service Repair support page, accessed 2026: https://support.apple.com/self-service-repair",
+      "Apple Newsroom, used genuine parts repair expansion, April 11, 2024: https://www.apple.com/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/",
+      "New York Attorney General consumer alert on Digital Fair Repair Act, January 29, 2024: https://ag.ny.gov/press-release/2024/attorney-general-james-reminds-consumers-its-easier-ever-get-electronics",
+      "Colorado General Assembly HB24-1121, Consumer Right to Repair Digital Electronic Equipment: https://www.leg.colorado.gov/bills/hb24-1121",
+      "uBreakiFix by Asurion store locator and service pages, accessed 2026: https://www.ubreakifix.com/store-locator and https://www.ubreakifix.com/we-come-to-you",
+      "Batteries Plus service page, accessed 2026: https://www.batteriesplus.com/service",
+      "Best Buy cell phone services page, accessed 2026: https://www.bestbuy.com/site/services/cell-phone-services/pcmcat286500050002.c?id=pcmcat286500050002"
+    ],
+    "one_sentence": "US cell phone repair remains a roughly $4.0B-$4.1B market in 2024-2025, supported by 2025 smartphone ownership of 91% of US adults and 2024 wireless connections of 579M, but growth is modest because newer devices are tougher, trade-in plans are aggressive and OEM-authorized channels are capturing more repairs.",
+    "slug": "cell-phone-repair"
+  },
+  {
+    "title": "Cell Therapy",
+    "sector": "Healthcare",
+    "one_liner": "A fast-growing regenerative medicine market led by CAR-T oncology products, with 2025 U.S. sales momentum offset by high R&D, manufacturing, reimbursement and regulatory costs.",
+    "overview": "The U.S. cell therapy industry moved from an early commercial niche in 2021 into a broader, oncology-led therapeutic market by 2025, with CAR-T products, tumor-infiltrating lymphocyte therapy, engineered autologous cells, allogeneic platforms and tissue-engineered products expanding the FDA-approved roster. IBISWorld's 2021 baseline placed revenue at $3.0 billion in 2021 and forecast $3.5 billion by 2026; newer market estimates put the 2025 U.S. cell therapy market at $3.79 billion, while the FDA's 2026 approved cellular and gene therapy list shows a wider set of commercial cell products including Abecma, Amtagvi, Aucatzyl, Breyanzi, Carvykti, Kymriah, Tecartus, Tecelra, Tregzi, Yescarta, MACI, Provenge, Ryoncil and others.",
+    "key_stats": {
+      "market_size": "2025 U.S. cell therapy market: $3.79 billion; 2025 North America cell therapy market: $4.07 billion; 2026 global cell therapy market estimate: $12.22 billion.",
+      "growth": "2025 North America cell therapy market grew 34.8% from $3.02 billion in 2024 to $4.07 billion in 2025; 2026-2034 global cell therapy CAGR forecast: 33.14%.",
+      "pipeline": "Q2 2026 ARM data counted 1,712 ongoing global cell and gene therapy clinical trials, including 732 Phase I, 421 Phase I/II, 377 Phase II, 31 Phase II/III and 150 Phase III trials.",
+      "developers": "H1 2026 ARM snapshot counted 1,806 global cell and gene therapy developers, including 677 in North America.",
+      "investment": "H1 2026 ARM snapshot reported $9.4 billion in global cell and gene therapy investment, including $7.6 billion in North America.",
+      "commercial_products": "2026 FDA approved cellular and gene therapy product list included major commercial cell therapies such as Abecma, Amtagvi, Aucatzyl, Breyanzi, Carvykti, Kymriah, Tecartus, Tecelra, Tregzi and Yescarta.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 U.S. industry revenue estimate: about $3.1 billion, derived from IBISWorld's 2021 revenue of $3.0 billion and its 2021-2026 forecast CAGR of 3.1%.",
+      "growth": "2022 baseline growth assumption: 3.1% CAGR on IBISWorld's 2021-2026 forecast path; prior five-year 2016-2021 revenue CAGR was 16.0%.",
+      "profitability": "2021 IBISWorld baseline profit margin was -7.0%, reflecting high R&D and commercialization costs before broader product uptake.",
+      "establishments": "2021 IBISWorld baseline listed 561 establishments and projected 2021-2027 establishment CAGR of 7.57%.",
+      "employment": "2021 IBISWorld baseline listed 6,219 employees and forecast 8,538 employees by 2026."
+    },
+    "how_it_makes_money": "Companies make money from FDA-approved therapy sales to hospitals, cancer centers and specialty treatment networks; autologous product manufacturing and release; cell collection and processing services; tissue-engineered product sales; royalties, upfront payments and milestones from pharmaceutical partners; and, for precommercial firms, R&D collaborations, grants and licensing deals. Revenue is concentrated in high-priced, low-volume therapies, especially CAR-T products for blood cancers and newer cell therapies for melanoma, graft-versus-host disease, cartilage repair, wound care and rare diseases.",
+    "cost_structure": "The cost base is dominated by 2025-2026 R&D spending, clinical trials, GMP manufacturing, quality control, viral vector and reagent inputs, specialized labor, cryogenic logistics, regulatory compliance, pharmacovigilance and commercialization support. Autologous therapies remain costly because patient-specific manufacturing, vein-to-vein logistics, batch release testing and hospital coordination limit scale efficiencies. Margins improve after approval and volume growth, but many developers remain loss-making until a product reaches durable reimbursement and manufacturing utilization.",
+    "major_players": [
+      "Gilead Sciences / Kite Pharma",
+      "Bristol Myers Squibb / Juno / Celgene",
+      "Johnson & Johnson / Janssen Biotech / Legend Biotech",
+      "Novartis",
+      "Iovance Biotherapeutics",
+      "Autolus Therapeutics",
+      "Vertex Pharmaceuticals / CRISPR Therapeutics",
+      "Vericel",
+      "Organogenesis",
+      "Mesoblast",
+      "Orca Bio",
+      "Adaptimmune"
+    ],
+    "current_dynamics": "Commercial momentum in 2025-2026 is strongest in oncology, especially CAR-T products for lymphoma, leukemia and multiple myeloma, while autoimmune disease, diabetes, Parkinson's disease, kidney disease and cardiovascular programs are moving through earlier and mid-stage trials. The FDA's June 2025 removal of REMS requirements for six approved autologous CD19- and BCMA-directed CAR-T products reduced site certification and provider burden, supporting broader administration. At the same time, 2026 developers face uneven FDA decisions, high capital needs, manufacturing bottlenecks, payer scrutiny and pressure to prove durable outcomes in small patient populations.",
+    "whats_growing": "CAR-T multiple myeloma and lymphoma sales, hospital-based administration, in vivo and allogeneic cell therapy platforms, autoimmune CAR-T trials, diabetes islet cell programs, Parkinson's cell replacement programs, outsourced and automated manufacturing, and partnerships with large pharmaceutical companies are growing in 2025-2026.",
+    "whats_shrinking": "Lower-differentiation autologous platforms, underfunded preclinical pipelines, speculative programs without clear reimbursement pathways, and older commercial products facing competing CAR-T or next-generation alternatives are shrinking or consolidating. Some legacy CAR-T products also show pressure where newer products gain share; ARM reported Yescarta H1 2026 revenue down 14% versus H1 2025 while Carvykti and Breyanzi grew strongly.",
+    "recent_developments": [
+      "2025-02: AstraZeneca agreed to acquire EsoBiotec for a $425 million upfront payment and up to $575 million in milestones to expand in vivo cell therapy capabilities.",
+      "2025-06-27: FDA eliminated REMS requirements for Abecma, Breyanzi, Carvykti, Kymriah, Tecartus and Yescarta, reducing hospital certification burdens for major CAR-T therapies.",
+      "2026-H1: ARM reported $9.4 billion in global cell and gene therapy investment, with $7.6 billion in North America.",
+      "2026-Q2: ARM counted 1,712 ongoing global cell and gene therapy clinical trials and 1,806 developers across the cell and gene therapy sector.",
+      "2026-Q2: ARM reported Carvykti H1 2026 revenue of $1.2 billion, up 55% versus H1 2025, while Breyanzi reached $896 million, up 48%.",
+      "2026-Q2: ARM listed 2026 U.S. regulatory pipeline items including Anito-cel for multiple myeloma with a December 23, 2026 decision date and Tregzi for graft-versus-host disease as approved."
+    ],
+    "outlook": "The 2026 outlook is favorable but volatile. Revenue growth should outpace traditional biotechnology as approved CAR-T products expand earlier-line use and newer cell therapies enter rare disease, solid tumor and immune indications. Profitability will remain uneven because clinical trials, specialized labor and GMP capacity absorb capital before launch. The strongest operators will be those with reimbursed commercial products, scalable manufacturing, hospital access networks and pharma balance-sheet support; smaller developers will continue to rely on licensing, equity raises, acquisitions or narrowed pipelines.",
+    "themes": [
+      "CAR-T commercialization",
+      "Autologous manufacturing complexity",
+      "Allogeneic and in vivo platforms",
+      "Oncology concentration",
+      "Autoimmune expansion",
+      "Rare disease regulation",
+      "Hospital site access",
+      "Reimbursement pressure",
+      "Pharma partnerships and acquisitions",
+      "Clinical pipeline volatility"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Cell Therapy, last updated Oct. 29, 2021', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/cell-therapy.txt'}",
+      "{'title': 'FDA Approved Cellular and Gene Therapy Products, accessed Aug. 8, 2026', 'url': 'https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products'}",
+      "{'title': 'FDA Eliminates REMS for Autologous CAR T Cell Immunotherapies, Jun. 27, 2025', 'url': 'https://www.fda.gov/news-events/press-announcements/fda-eliminates-risk-evaluation-and-mitigation-strategies-rems-autologous-chimeric-antigen-receptor'}",
+      "{'title': 'Alliance for Regenerative Medicine Q2 2026 Sector Snapshot, Jul. 2026', 'url': 'https://alliancerm.org/wp-content/uploads/2026/07/ARM_Q2-2026-Sector-Snapshot.pdf'}",
+      "{'title': 'Alliance for Regenerative Medicine Q2 2026 CGT Sector Data, Jul. 2026', 'url': 'https://alliancerm.org/wp-content/uploads/2026/07/ARM-Q2-2026-CGT-Sector-Data_2.pdf'}",
+      "{'title': 'Alliance for Regenerative Medicine Q1 2025 Sector Snapshot, Apr. 2025', 'url': 'https://alliancerm.org/sector-snapshot-q1-2025/'}",
+      "{'title': 'Fortune Business Insights Cell Therapy Market, 2026 report page', 'url': 'https://www.fortunebusinessinsights.com/cell-therapy-market-114224'}"
+    ],
+    "one_sentence": "Cell therapy companies engineer, expand or modify living cells to treat cancer, genetic disease, tissue damage and immune disorders, earning revenue from approved therapies, hospital-administered treatments, licensing, partnerships and milestone-based commercialization deals.",
+    "slug": "cell-therapy"
+  },
+  {
+    "title": "Cementing Oil & Gas Well Services",
+    "sector": "Energy & Environment",
+    "one_liner": "US well cementing demand is being supported by record oil and gas output, but softer rig counts and oilfield-service pricing are limiting near-term upside.",
+    "overview": "Operators pump engineered cement slurries into the annulus between well casing and the borehole to stabilize wells, isolate formations and permanently seal depleted or unsafe wells. Demand is tied to drilling, completion, workover and abandonment activity, with shale basins such as the Permian, Haynesville, Eagle Ford and Appalachia driving most US opportunities. After the 2020 downturn, the market recovered alongside higher energy prices and record hydrocarbon production, but 2025-2026 activity is more mixed: operators are producing more with fewer rigs, which supports cementing volumes per well but restrains job counts and pricing power.",
+    "key_stats": {
+      "market_size": "2025: $3.2 billion US oil and gas well cementing services market",
+      "growth": "2022-2025: approximately 11.5% nominal CAGR, calculated from the 2022 IBISWorld baseline of $2.31 billion and the 2025 Blackridge market value of $3.2 billion",
+      "rig_count": "May 2026: 553 US rotary rigs in operation, including 417 oil rigs and 127 gas rigs",
+      "oil_production": "2025: US crude oil production averaged a record 13.6 million barrels per day, up 3% from 2024",
+      "natural_gas_production": "2025: US dry natural gas production reached a record 39 trillion cubic feet; marketed gas averaged 118.5 Bcf/d",
+      "prices": "2026: EIA July 2026 STEO forecast Brent crude at $82/bbl and Henry Hub natural gas at $3.67/MMBtu",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $2.31 billion revenue in 2022 dollars",
+      "growth": "2022: 4.6% revenue growth; 2017-2022 revenue declined at a 1.6% CAGR",
+      "profit": "2022: $189 million profit and 8.2% profit margin",
+      "enterprises": "2022: 831 enterprises",
+      "employment": "2022: 6,907 employees",
+      "outlook": "2022-2028: IBISWorld projected 2.1% revenue CAGR"
+    },
+    "how_it_makes_money": "Revenue comes from contracted well cementing jobs for exploration and production companies, including primary cementing during well construction, remedial squeeze cementing, casing equipment, slurry design, pumping crews, additives, job engineering and plug-and-abandonment services. Pricing is usually tied to basin activity, job complexity, materials, equipment availability and customer master service agreements.",
+    "cost_structure": {
+      "labor": "Specialized field crews, engineers, safety staff and dispatch personnel are a major cost because jobs require certified, on-call teams.",
+      "materials": "Cement, silica, retarders, accelerators, fluid-loss additives, spacers and specialty chemicals move with commodity and supply-chain costs.",
+      "equipment": "High-pressure pumps, bulk trucks, blenders, cementing units, maintenance, depreciation and fleet mobilization are capital-intensive.",
+      "fuel_and_logistics": "Diesel, trucking, basin yards and last-mile logistics are material costs, especially in remote shale plays.",
+      "insurance_and_compliance": "Well-control risk, environmental rules, safety systems and customer compliance requirements raise overhead."
+    },
+    "major_players": [
+      "Halliburton",
+      "SLB",
+      "Baker Hughes",
+      "Liberty Energy",
+      "Weatherford International",
+      "ProPetro Holding",
+      "Calfrac Well Services",
+      "Cudd Energy Services",
+      "Nine Energy Service",
+      "Patterson-UTI Energy"
+    ],
+    "current_dynamics": "The market is healthier than the 2020-2021 trough because oil and gas production is at record levels, but cementing providers face an efficiency-driven cycle rather than a broad drilling boom. EIA reported fewer Lower 48 rigs and 1% fewer wells drilled in 2025 even as crude output rose, showing that service demand is increasingly tied to high-spec shale wells and completions efficiency. Baker Hughes and EIA rig data show US rigs around the mid-500s in early-to-mid 2026, below year-earlier levels in several weekly comparisons. Large service companies are emphasizing technology, pricing discipline, integrated well construction and international growth, while US-focused completions providers report pressure from service and materials pricing.",
+    "whats_growing": [
+      "Primary cementing for long-lateral shale wells in the Permian, Haynesville and Appalachia",
+      "Gas-directed cementing linked to LNG export growth and higher 2025-2026 Henry Hub prices",
+      "Plug-and-abandonment and remedial cementing as older wells face integrity and methane-emissions scrutiny",
+      "Digital slurry design, real-time job monitoring and automated pumping systems",
+      "Premium cement blends for high-pressure, high-temperature and complex unconventional wells"
+    ],
+    "whats_shrinking": [
+      "Low-margin commodity cementing work where customers have bargaining power",
+      "Activity tied to marginal wells when WTI or Henry Hub prices weaken",
+      "Conventional vertical well cementing volumes in mature basins",
+      "Standalone small operators lacking scale, safety records or basin logistics density",
+      "Pricing power in basins where rig counts soften faster than completion intensity rises"
+    ],
+    "recent_developments": [
+      "2025-07: EIA data showed US crude output reached more than 13.6 million b/d, a new monthly record.",
+      "2025: US crude production averaged a record 13.6 million b/d, up 3% from 2024, despite fewer rigs and 1% fewer wells drilled.",
+      "2025: US marketed natural gas production averaged a record 118.5 Bcf/d, up 5.3 Bcf/d from 2024.",
+      "2025: Blackridge valued the US oil and gas well cementing services market at $3.2 billion.",
+      "2026-02: Baker Hughes reported the US rig count at 551, down 37 rigs from the prior year, with oil rigs down 72 and gas rigs up 32.",
+      "2026-07: EIA forecast 2026 US crude production at 13.8 million b/d and 2027 production at 14.0 million b/d."
+    ],
+    "outlook": "The 2026 outlook is stable to modestly positive. Record production, longer laterals, natural gas demand and abandonment work support cementing demand, while lower rig intensity, operator capital discipline and oil-price volatility cap growth. If EIA's 2026-2027 production forecasts hold, cementing volumes should benefit from continued shale development and gas infrastructure demand, but revenue growth will likely trail production growth because operators are extracting more output per rig and pressuring service costs.",
+    "themes": [
+      "Record US hydrocarbon production",
+      "Shale efficiency over rig-count growth",
+      "Well integrity and zonal isolation",
+      "Plug-and-abandonment demand",
+      "Natural gas and LNG-linked drilling",
+      "Oilfield-service pricing pressure",
+      "Consolidation among service providers",
+      "Technology-enabled cement design"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Cementing Oil & Gas Well Services, last updated Feb. 25, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/cementing-oil-and-gas-well-services.txt'}",
+      "{'name': 'Blackridge Research, United States Oil and Gas Well Cementing Services Market Report Q1 2026', 'url': 'https://www.blackridgeresearch.com/reports/united-states-us-oil-and-gas-well-cementing-services-market'}",
+      "{'name': 'EIA, U.S. crude oil production rose in 2025, setting new record, Mar. 31, 2026', 'url': 'https://www.eia.gov/todayinenergy/detail.php?id=67404'}",
+      "{'name': 'EIA, The United States set record energy production in 2025, again, May 11, 2026', 'url': 'https://www.eia.gov/todayinenergy/detail.php?id=67684'}",
+      "{'name': 'EIA, U.S. natural gas production reached a new record in 2025, Mar. 13, 2026', 'url': 'https://www.eia.gov/todayinenergy/detail.php?id=67345'}",
+      "{'name': 'EIA Short-Term Energy Outlook, July 7, 2026', 'url': 'https://www.eia.gov/outlooks/steo/'}",
+      "{'name': 'EIA, Crude Oil and Natural Gas Drilling Activity, release date Jun. 30, 2026', 'url': 'https://www.eia.gov/dnav/ng/NG_ENR_DRILL_S1_M.htm'}",
+      "{'name': 'Baker Hughes Rig Count press release, Feb. 13, 2026', 'url': 'https://rigcount.bakerhughes.com/news-releases/news-release-details/baker-hughes-rig-count-us-unchanged-551-canada-6-222/'}",
+      "{'name': 'Halliburton 2025 Form 10-K and Q4 2025 results', 'url': 'https://ir.halliburton.com/news-releases/news-release-details/halliburton-announces-fourth-quarter-2025-results'}",
+      "{'name': 'SLB 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/slb-20251231.htm'}",
+      "{'name': 'Liberty Energy 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1694028/000169402826000006/lbrt-20251231.htm'}"
+    ],
+    "one_sentence": "The Cementing Oil & Gas Well Services industry provides primary, remedial and plug-and-abandonment cementing services that secure casing, isolate producing zones and protect groundwater across oil and gas wells.",
+    "slug": "cementing-oil-and-gas-well-services"
+  },
+  {
+    "title": "Child Education & Developmental Center Franchises",
+    "sector": "Consumer Services",
+    "one_liner": "Education-focused child-care franchises sell preschool, day-care and enrichment programs to working families, with demand supported by dual-income households but constrained by affordability, staffing and licensing costs.",
+    "overview": "This industry consists of franchised child-care and early-education centers serving infants, toddlers, preschoolers and school-age children before or after school. Operators differentiate from home-based or informal care through branded curricula, standardized safety protocols, enrichment programs and licensed center environments. Demand is tied to the number of young children, parents' labor-force participation, household disposable income and child-care subsidies. The 2022 baseline showed a pandemic recovery, with revenue reaching $3.68 billion and projected to grow slowly through 2028. By 2025-2026, the operating environment is still favorable for premium chains with recognized brands, but expansion is limited by teacher shortages, high rents, insurance, state ratios and affordability pressure on households.",
+    "key_stats": {
+      "market_size": "2025: about $3.9-$4.0 billion for US child education and developmental center franchises, estimated from the 2022 baseline of $3.68 billion and the 2022-2028 projected CAGR of 1.67%, consistent with public franchise-market references around $4.0 billion.",
+      "growth": "2022-2025: about 1.7%-2.8% annualized depending on whether the 2022 baseline projection or rounded 2025 public market estimate is used; 2022-2028 baseline projection was 1.67% CAGR.",
+      "profit_margin": "2022: 14.5% EBIT margin in the baseline; 2025-2026 margins remain pressured by wages, insurance, rent and compliance costs despite tuition increases.",
+      "establishments": "2022: 3,432 franchise locations in the baseline; 2025: the sector remains led by several chains with hundreds of schools each.",
+      "employment": "2022: 78,613 employees in the baseline; 2025-2026 staffing remains the main capacity constraint.",
+      "broader_child_day_care_context": "2025: US Census quarterly services data showed broader child day-care services revenue still growing year over year, with Q4 2025 revenue of $17.69 billion versus Q4 2024 revenue of $16.01 billion.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $3.68 billion revenue in 2022 dollars.",
+      "growth": "2017-2022: 1.6% CAGR; 2022: 2.2% annual growth; 2022-2028 projected CAGR: 1.67%.",
+      "profit": "2022: $534 million EBIT, equal to a 14.5% margin.",
+      "industry_gross_product": "2022: $2.295 billion.",
+      "establishments": "2022: 3,432 locations.",
+      "enterprises": "2022: 2,754 enterprises.",
+      "employment": "2022: 78,613 employees.",
+      "wages": "2022: $1.673 billion total wages, about 45.5% of revenue."
+    },
+    "how_it_makes_money": {
+      "core_services": "2022: day-care services for infants, preschoolers and school-age children accounted for 79.2% of revenue.",
+      "instructional_programs": "2022: academic instructional programs accounted for 19.9% of revenue, including literacy, math, science, social-emotional and kindergarten-readiness curricula.",
+      "other_programs": "2022: other programs such as summer camps, enrichment, recreation and special activities accounted for 0.9% of revenue.",
+      "franchise_model": "2025-2026: franchisors earn initial franchise fees, royalties, marketing fund contributions, curriculum and technology fees, while franchisees earn tuition and program fees from families."
+    },
+    "cost_structure": {
+      "labor": "2022: wages were about 45.5% of revenue; 2025-2026 teacher hiring, retention bonuses and wage floors remain the largest cost pressure.",
+      "occupancy": "2025-2026: leases, utilities, maintenance and buildout costs are material because licensed centers need specialized classroom, kitchen, playground and safety infrastructure.",
+      "royalties_and_marketing": "2025-2026: franchisees typically pay ongoing royalties and brand advertising fees in addition to local marketing spend.",
+      "supplies_food_and_cleaning": "2025-2026: food, classroom materials, toys, curriculum supplies, sanitation products and safety equipment scale with enrollment.",
+      "insurance_and_compliance": "2025-2026: liability insurance, background checks, licensing, mandated ratios and training costs have increased the fixed-cost burden.",
+      "profit": "2022 baseline profit margin was 14.5%; 2025-2026 profitability depends on enrollment utilization, staff ratios and ability to raise tuition without losing families."
+    },
+    "major_players": [
+      "The Goddard School: 2025-2026 public franchise materials describe more than 650 schools across the United States.",
+      "Primrose Schools: 2025-2026 public franchise materials describe more than 500 schools, with expansion concentrated in affluent suburban markets.",
+      "Kiddie Academy: 2025-2026 public franchise materials describe more than 375 academies operating or in development.",
+      "The Learning Experience: 2025-2026 public franchise materials describe a national early-education franchise system with continued new-center development.",
+      "Celebree School: 2025-2026 public franchise materials describe a smaller but expanding early-childhood education franchise."
+    ],
+    "current_dynamics": "In 2025-2026, demand is supported by parents returning to stable work patterns and by the perceived value of school-readiness programs, but affordability is a binding constraint. Child Care Aware reported a 2024 national average annual child-care price of $13,128, making tuition increases difficult for many households. Operators are also absorbing higher compensation, insurance and real estate costs. Federal pandemic-era stabilization funds have ended, raising risk for weaker independent centers, while larger franchise systems benefit from brand recognition, operating playbooks, parent communication technology and franchisee capital. Demographics are mixed: 2025 provisional US fertility data showed the general fertility rate at 53.3 births per 1,000 women ages 15-44, limiting long-run volume growth for infant and toddler care.",
+    "whats_growing": [
+      "2025-2026: premium curriculum-led preschool and kindergarten-readiness programs.",
+      "2025-2026: franchised centers in high-income suburbs with dual-working-parent households.",
+      "2025-2026: parent apps, digital billing, classroom cameras or updates, and operational software.",
+      "2025-2026: employer-sponsored child-care benefits and backup-care partnerships.",
+      "2025-2026: state subsidy modernization and lower family copay rules under the Child Care and Development Fund."
+    ],
+    "whats_shrinking": [
+      "2025-2026: informal and undercapitalized providers unable to absorb wage, rent and insurance increases.",
+      "2025-2026: enrollment from price-sensitive households when tuition rises faster than wages.",
+      "2025-2026: infant-care capacity in markets where mandated ratios make classrooms hard to staff profitably.",
+      "2025-2026: long-run demand from births if low fertility persists."
+    ],
+    "recent_developments": [
+      "2024: HHS finalized Child Care and Development Fund rules limiting many family copayments to no more than 7% of income and encouraging more predictable provider payments.",
+      "2024: Child Care Aware reported the national average annual price of child care at $13,128, highlighting continued affordability pressure.",
+      "2025: Public franchise materials for The Goddard School described more than 650 US schools, reinforcing its position as the largest education-focused child-care franchise brand.",
+      "2025: US Census quarterly services data showed broader child day-care services Q4 2025 revenue at $17.69 billion, up from $16.01 billion in Q4 2024.",
+      "2026: CDC provisional birth data reported a 2025 US general fertility rate of 53.3 births per 1,000 women ages 15-44, a demographic headwind for infant and preschool enrollment."
+    ],
+    "outlook": "The 2026-2028 outlook is slow growth rather than breakout expansion. Revenue should rise as franchises add schools, lift tuition and sell more enrichment services, but volume growth is capped by affordability, staffing ratios and weaker birth trends. Larger franchisors are positioned to keep gaining share because they can standardize hiring, compliance, curriculum, parent communications and site selection. Policy is a swing factor: expanded subsidies, employer benefits or pre-K partnerships would support enrollment and utilization, while funding gaps would push more families toward relatives, informal care or reduced hours. The most attractive operators will be those with high occupancy, strong teacher retention, disciplined franchisee economics and markets where household income can support premium tuition.",
+    "themes": [
+      "Affordability pressure",
+      "Labor shortage",
+      "Premium early education",
+      "Franchise consolidation",
+      "Subsidy reform",
+      "Dual-income households",
+      "Declining fertility",
+      "Compliance and insurance inflation",
+      "Digital parent engagement"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBIS-style source file, Child Education & Developmental Center Franchises, last updated 2022-03-30', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/child-education-and-developmental-center-franchises.txt'}",
+      "{'name': 'Child Care Aware of America, Price Landscape 2024', 'url': 'https://www.childcareaware.org/price-landscape24/'}",
+      "{'name': 'US Census Bureau, Quarterly Services Survey, Child Day Care Services, 2025 quarterly revenue context', 'url': 'https://www.census.gov/services/qss/'}",
+      "{'name': 'US Department of Health and Human Services, 2024 Child Care and Development Fund final rule', 'url': 'https://www.acf.hhs.gov/occ/news/final-rule-improves-child-care-access-affordability-and-stability-families'}",
+      "{'name': 'CDC National Center for Health Statistics, 2025 provisional births and fertility data', 'url': 'https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm'}",
+      "{'name': 'The Goddard School franchise information', 'url': 'https://www.goddardschoolfranchise.com/'}",
+      "{'name': 'Primrose Schools franchise information', 'url': 'https://www.primroseschools.com/franchising/'}",
+      "{'name': 'Kiddie Academy franchise information', 'url': 'https://kiddieacademyfranchising.com/'}"
+    ],
+    "one_sentence": "The US child education and developmental center franchise industry has recovered from the 2020 pandemic shock and is around a 2025 market size of about $3.9-$4.0 billion, but growth is modest because tuition hikes, wage pressure and declining births offset strong demand for reliable, curriculum-based care.",
+    "slug": "child-education-and-developmental-center-franchises"
+  }
+]

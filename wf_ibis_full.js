@@ -1,7 +1,7 @@
 export const meta = {
   name: 'ibis-deep-current',
-  description: 'Deep 2025-2026 web-researched plain-English briefs for a batch of US IBIS industries (Haiku)',
-  phases: [{ title: 'Research', detail: 'one Haiku agent per industry: read 2022 baseline + web-research current' }],
+  description: 'Deep 2025-2026 web-researched plain-English briefs for a batch of US IBIS industries (model-agnostic workflow)',
+  phases: [{ title: 'Research', detail: 'one model-configured agent per industry: read 2022 baseline + web-research current' }],
 }
 
 // args = { items: [ { title, slug, file } ... ] }
@@ -57,7 +57,7 @@ Write in plain, everyday English: short sentences, no jargon, no clichés. Every
 
 phase('Research')
 const briefs = await parallel(items.map(it => () =>
-  agent(prompt(it), { label: `ibis:${it.slug}`, phase: 'Research', schema: SCHEMA, model: 'haiku' })
+  agent(prompt(it), { label: `ibis:${it.slug}`, phase: 'Research', schema: SCHEMA })
     .then(b => (b ? { ...b, slug: it.slug } : null))
 ))
 return briefs.filter(Boolean)

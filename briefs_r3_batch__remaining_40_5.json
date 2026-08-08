@@ -1,0 +1,386 @@
+[
+  {
+    "title": "Online Home Furnishing Sales",
+    "sector": "Retail",
+    "one_liner": "US online home furnishing sellers are growing modestly after the pandemic pull-forward, with demand now tied to housing turnover, digital merchandising, and price-sensitive discretionary spending.",
+    "overview": "This industry covers retailers that sell home furnishing goods through internet storefronts, including curtains, draperies, blinds, shades, decorative accessories, linens, lighting, kitchen and household goods, and adjacent decor categories. The 2021 IBISWorld baseline placed revenue at $11.0B after a pandemic-driven online shift, with a 2021-2026 projected CAGR of 2.2% to $12.3B. Current 2025-2026 evidence points to a normalized growth phase rather than another demand spike: US retail e-commerce sales rose 9.8% year over year in Q1 2026, but furniture and homeware represented an estimated 7.21% of US e-retail sales in 2025 and 7.26% in 2026, below the 2022 share of 8.54%.",
+    "key_stats": {
+      "market_size": "2026: $12.3B baseline revenue projection in 2021 dollars from the IBISWorld report; current nominal run-rate is likely higher after 2021-2026 inflation but public category data indicate modest real growth.",
+      "growth": "2021-2026: +2.2% projected CAGR in the IBISWorld baseline; 2026 current indicators show low-to-mid single-digit category recovery, with Wayfair US revenue up 5.8% in FY2025 and about 8.7% in Q2 2026.",
+      "ecommerce_context": "Q1 2026: US retail e-commerce sales were $326.7B, up 9.8% year over year, and represented 16.9% of total retail sales.",
+      "category_share": "2025: furniture and homeware were estimated at 7.21% of US retail e-commerce sales; 2026: estimated at 7.26%, down from 8.54% in 2022.",
+      "demand_indicator": "2025: real US personal consumption expenditures on furniture and furnishings were $256.168B chained 2017 dollars, up from $249.939B in 2024.",
+      "housing_indicator": "June 2026: privately owned housing starts were 1.427M SAAR, up 3.5% from June 2025, while permits were 1.367M SAAR, down 2.3% from June 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $11.3B in 2021 dollars, estimated by applying the IBISWorld 2021-2026 projected CAGR of 2.2% to 2021 revenue of $11.0B.",
+      "growth": "2022: about +2.2% baseline growth, reflecting the IBISWorld post-pandemic forecast path rather than the 2020-2021 surge.",
+      "context": "2022: demand was normalizing after 2020-2021 online migration, while inflation, reopening of stores and slowing housing activity began pressuring discretionary home purchases."
+    },
+    "how_it_makes_money": "Operators buy home furnishing merchandise from manufacturers, wholesalers, importers and private-label suppliers, then sell directly to consumers through websites, marketplaces, mobile apps and social commerce. Revenue comes from product markups, private-label margin, shipping or handling fees, design-service add-ons, warranties, marketplace seller services, financing/BNPL economics and repeat purchases driven by loyalty programs and personalization.",
+    "cost_structure": "The main 2026 cost buckets are merchandise cost, parcel and bulky-item freight, warehousing, returns, payment processing, digital advertising, customer service, technology, labor and sales-tax/tariff compliance. Wayfair is a useful public proxy: in FY2025, cost of goods sold was $8.692B on $12.457B revenue, gross profit was 30.2% of revenue, advertising was $1.425B, customer service and merchant fees were $471M, and selling/operations/technology/G&A was $1.776B. The IBISWorld baseline also shows a 2021 industry profit margin of 5.5% and a projected 2026 margin of 5.1%, reflecting price competition and fulfillment pressure.",
+    "major_players": [
+      "Wayfair",
+      "Amazon",
+      "IKEA US",
+      "Williams-Sonoma Inc.",
+      "Walmart",
+      "Target",
+      "Home Depot",
+      "Overstock/Bed Bath & Beyond",
+      "Etsy",
+      "Houzz"
+    ],
+    "current_dynamics": "The 2025-2026 market is being shaped by a split consumer: higher-income households are still buying premium decor and furnishings online, while lower- and middle-income shoppers remain promotion-sensitive. Online conversion depends on room visualization, mobile checkout, delivery reliability and return policies, but big-ticket and tactile categories still benefit from omnichannel showrooms. Housing turnover remains a swing factor: June 2026 starts improved year over year, but June 2026 permits were lower year over year, limiting near-term furnishing demand visibility. Tariffs and imported-goods costs are pressuring COGS and forcing retailers to adjust sourcing, pricing and promotional calendars.",
+    "whats_growing": "In 2025-2026, growth is strongest in mobile ordering, loyalty-driven repeat purchases, AI-assisted search and recommendations, AR/3D room visualization, value-oriented private labels, premium online destinations such as Perigold, sustainable and resale-oriented furnishings, and omnichannel formats that pair online selection with design help or local pickup. IKEA US reported FY2025 e-commerce sales of $1.9B and 457M online visits, showing that digital demand remains material even for store-led operators.",
+    "whats_shrinking": "Pandemic-era impulse demand, home-office furnishing spikes and purely online customer acquisition efficiency are shrinking compared with 2020-2021. Furniture and homeware's share of total US retail e-commerce fell from 8.54% in 2022 to an estimated 7.21% in 2025, showing faster growth in other e-commerce categories. Low-differentiation decor sellers face margin pressure from marketplace competition, paid-search costs, free-shipping expectations and high return rates.",
+    "recent_developments": [
+      "2025-02-20: IKEA US reported FY2024 total sales of $5.5B, e-commerce sales of $1.9B and a 5.6% increase in remote sales.",
+      "2025-08-04: Wayfair reported Q2 2025 net revenue of $3.3B, up 5.0% year over year, with US net revenue up 5.3%.",
+      "2026-02-17: IKEA US reported FY2025 total sales of $5.3B, e-commerce sales of $1.9B, 457M online visits and 10 new US stores planned for 2026.",
+      "2026-02-19: Wayfair reported FY2025 net revenue of $12.457B, up 5.1%, with US net revenue of $10.973B, up 5.8%.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7B, up 9.8% year over year and equal to 16.9% of total retail sales.",
+      "2026-08-04: Wayfair's Q2 2026 results showed about $3.52B in revenue and US revenue of about $3.1B, up roughly 8.7% year over year, signaling recovering US online home demand."
+    ],
+    "outlook": "The 2026-2028 outlook is cautiously positive. The industry should keep expanding as e-commerce penetration, mobile shopping and digital merchandising deepen, but growth is likely to remain slower than the 2020-2021 surge. Baseline revenue is projected at $12.3B in 2026 in 2021 dollars, and public 2026 indicators suggest category recovery is occurring but remains dependent on housing turnover, real income growth and retailers' ability to absorb or pass through tariff and freight costs. Winners will combine broad assortment, reliable delivery, easy returns, stronger first-party brands and omnichannel design support.",
+    "themes": [
+      "Post-pandemic normalization",
+      "Housing-linked demand",
+      "Mobile-first shopping",
+      "AI and visualization tools",
+      "Tariff and sourcing risk",
+      "Promotion-heavy competition",
+      "Omnichannel retail expansion",
+      "Private-label margin defense",
+      "Sustainable and resale furnishings"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-home-furnishing-sales.txt",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://fred.stlouisfed.org/series/DFFFRX1A020NBEA",
+      "https://www.statista.com/statistics/278896/us-furniture-and-home-furnishings-retail-e-commerce-sales-share/",
+      "https://investor.wayfair.com/news/news-details/2026/Wayfair-Announces-Fourth-Quarter-and-Full-Year-2025-Results-Reports-Further-Share-Capture-and-Strong-Profitability/default.aspx",
+      "https://investor.wayfair.com/news/news-details/2025/Wayfair-Announces-Second-Quarter-2025-Results-Reports-Highest-Revenue-Growth-and-Profitability-Since-2021/default.aspx",
+      "https://www.ikea.com/us/en/newsroom/corporate-news/ikea-u-s-releases-fy25-annual-summary-and-announces-four-new-stores-planned-for-2026-pubf0e047b0/",
+      "https://www.ikea.com/us/en/newsroom/corporate-news/ikea-u-s-annual-summary-fy24-pube44ea3b0/",
+      "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2026/Williams-Sonoma-Inc--announces-strong-fourth-quarter-and-fiscal-year-2025-results/default.aspx",
+      "https://www.newyorkfed.org/microeconomics/sce/household-spending"
+    ],
+    "one_sentence": "In 2026, the US Online Home Furnishing Sales industry is a roughly $12.3B baseline market that sells decor, textile furnishings, window coverings, lighting and related home goods online, supported by durable e-commerce adoption but constrained by weak housing activity, freight costs, tariffs and heavy price competition.",
+    "slug": "online-home-furnishing-sales"
+  },
+  {
+    "title": "Online Hotel Booking",
+    "sector": "Technology & Digital",
+    "one_liner": "Third-party hotel booking platforms remain a large but maturing U.S. digital travel channel, with 2025 growth increasingly dependent on hotel room volume, loyalty, B2B distribution and AI-assisted shopping.",
+    "overview": "This industry covers establishments that primarily provide hotel reservation and booking services through third-party online platforms, excluding hotel-owned direct-booking websites and brick-and-mortar travel agencies. The industry rebounded sharply after 2020 as domestic leisure demand, mobile booking and international travel recovery returned volume to online intermediaries. By 2025, the recovery phase had largely matured: U.S. hotel occupancy slipped to 62.3%, ADR rose only 0.9% to $160.54 and RevPAR fell 0.3% to $100.02, making share gains, conversion, loyalty and higher-margin add-ons more important than broad lodging-cycle recovery. The channel remains valuable because travelers use OTAs for comparison shopping, bundled trips, rewards and inventory breadth, but hotels continue to push direct booking and regulators are forcing clearer disclosure of total lodging prices.",
+    "key_stats": {
+      "market_size": "2025 U.S. OTA hotel gross bookings estimated at $63.2 billion, calculated as 63% of 2025 U.S. OTA gross bookings of $100.3 billion.",
+      "growth": "2025 U.S. OTA gross bookings grew 4% year over year to $100.3 billion; 2026 U.S. travel spending is forecast to grow 1% in real 2025 dollars.",
+      "hotel_channel_share": "2025 hotels represented 63% of U.S. OTA gross bookings.",
+      "lodging_backdrop": "2025 U.S. hotel occupancy was 62.3%, down 1.2% from 2024; ADR was $160.54, up 0.9%; RevPAR was $100.02, down 0.3%.",
+      "inbound_travel": "2025 international inbound visits to the United States declined 5.5% to 68.3 million and are forecast to grow 3.4% to 70.6 million in 2026.",
+      "expedia_scale": "Expedia Group reported 2025 gross bookings of $119.590 billion, 2025 revenue of $14.733 billion and 2025 lodging gross bookings of $87.265 billion globally.",
+      "booking_holdings_scale": "Booking Holdings reported 2025 gross bookings of $186.107 billion, 2025 revenue of $26.917 billion and 1.235 billion room nights booked globally.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 industry revenue estimated at $42.2 billion, implied by the May 2025 IBISWorld reseller description stating 2023 revenue of $47.1 billion after 11.6% growth in 2023.",
+      "growth": "2022 growth estimated at 98.3% versus the 2021 baseline revenue of $21.3 billion in the provided IBISWorld text, reflecting reopening-driven normalization after COVID-19 restrictions.",
+      "notes": "The provided 2021 baseline reported 2021 revenue of $21.3 billion and projected 2026 revenue of $34.2 billion, but the May 2025 IBISWorld reseller summary indicates the rebound exceeded that earlier forecast by 2023."
+    },
+    "how_it_makes_money": "Operators earn commissions and merchant margins on hotel reservations, agency fees from bookings where suppliers process the transaction, advertising and sponsored placement revenue, metasearch referral revenue, package margins, travel insurance and ancillary booking revenue from cars, flights, activities and vacation rentals. Large platforms also monetize B2B and white-label distribution by supplying lodging inventory to banks, airlines, loyalty programs and other partner channels.",
+    "cost_structure": "The largest cost is performance marketing, including paid search, app-install campaigns, affiliate traffic and brand advertising. Other major costs include personnel for engineering, product, sales and customer support; cloud, payments, fraud prevention and cybersecurity; call center and traveler-service operations; chargebacks and refunds; technology development; and general corporate costs. In 2025, Booking Holdings spent $8.186 billion on marketing and $3.403 billion on personnel, while Expedia reported adjusted cost of revenue of about 10.9% of Q1 2026 revenue.",
+    "major_players": [
+      "Booking Holdings: Booking.com, Priceline, KAYAK and Agoda form the largest global OTA group, with 2025 revenue of $26.917 billion and 2025 gross bookings of $186.107 billion.",
+      "Expedia Group: Expedia, Hotels.com, Vrbo, B2B distribution and advertising generated 2025 revenue of $14.733 billion and 2025 gross bookings of $119.590 billion.",
+      "Airbnb: primarily alternative accommodations rather than hotels, but a direct substitute for leisure lodging demand, with 2025 U.S. revenue of $4.814 billion.",
+      "Tripadvisor and trivago: metasearch and travel advertising platforms that influence hotel-shopping traffic and paid referrals.",
+      "Hopper: mobile-first OTA and fintech-style travel app competing in price-freeze, booking protection and app-based lodging discovery."
+    ],
+    "current_dynamics": "The market is no longer being lifted mainly by reopening. 2025 U.S. OTA gross bookings still grew 4%, but hotel performance softened and air is a weaker OTA growth engine because airlines retain more direct online demand. Platforms are responding by emphasizing hotel conversion, private-label B2B supply, loyalty ecosystems, app engagement, alternative accommodations and AI trip-planning features. Regulation has also become a live operating issue after the FTC’s 2025 fee rule required upfront disclosure of mandatory short-term lodging fees.",
+    "whats_growing": "B2B distribution, loyalty-led repeat booking, mobile app nights, advertising products, AI-assisted hotel search, bundled trips and alternative accommodations are growing. Expedia’s 2025 B2B revenue rose 26% to $4.823 billion, and Booking.com’s 2025 alternative-accommodation mix reached 36% of room nights.",
+    "whats_shrinking": "The post-pandemic demand surge, air-ticket contribution to OTA growth, hidden-fee pricing flexibility and low-end hotel pricing power are shrinking. U.S. hotel RevPAR declined 0.3% in 2025, international inbound visits fell 5.5% in 2025, and consumers facing higher travel costs are shifting toward shorter, regional and lower-cost trips in 2026.",
+    "recent_developments": [
+      "2025-05-12: The FTC’s Rule on Unfair or Deceptive Fees took effect for short-term lodging, requiring advertised prices to include known mandatory fees upfront.",
+      "2026-01-20: CoStar reported 2025 U.S. hotel occupancy of 62.3%, ADR of $160.54 and RevPAR of $100.02, with RevPAR down 0.3% from 2024.",
+      "2026-02-12: Expedia reported 2025 revenue of $14.733 billion, gross bookings of $119.590 billion and lodging gross bookings of $87.265 billion.",
+      "2026-05-07: U.S. Travel forecast 2026 total travel spending of $1.37 trillion in 2025 dollars, with real growth of 1%.",
+      "2026-07-23: Phocuswright reported 2025 U.S. OTA gross bookings of $100.3 billion, up 4%, and hotels at 63% of OTA gross bookings.",
+      "2026-07: The FTC announced a proposed $35 million Hopper settlement over allegedly deceptive travel fees and Price Freeze disclosures."
+    ],
+    "outlook": "The 2026 outlook is positive but slower than the 2021-2023 rebound. Domestic travel remains resilient, major 2026 events support inbound and group demand, and U.S. hotel RevPAR forecasts improved during 2026, but inflation, geopolitical disruption, direct hotel booking and tighter fee rules limit pricing opacity and easy volume growth. Platforms with strong loyalty, app traffic, B2B demand, hotel inventory depth and AI-powered comparison tools should gain share, while smaller intermediaries dependent on paid search and ambiguous pricing face margin and compliance pressure.",
+    "themes": [
+      "Maturing OTA growth",
+      "Hotel-heavy channel economics",
+      "AI travel search and booking",
+      "Loyalty and direct app engagement",
+      "B2B and white-label distribution",
+      "Fee transparency regulation",
+      "Competition from hotel direct channels",
+      "Alternative accommodation substitution"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-hotel-booking.txt",
+      "https://www.researchandmarkets.com/reports/5390125/online-hotel-booking-in-the-us-industry-market",
+      "https://www.phocuswire.com/news/online/ota-market-essentials-2026-phocuswright-research",
+      "https://www.costar.com/products/str-benchmark/resources/press-releases/us-hotels-report-first-full-year-occupancy-revpar",
+      "https://ir.expediagroup.com/news-and-events/news/news-details/2026/Expedia-Group-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm",
+      "https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025",
+      "https://search.ftc.gov/news-events/news/press-releases/2026/07/travel-app-hopper-pay-35-million-settle-ftc-allegations-it-charged-fees-without-consent-deceived",
+      "https://www.ustravel.org/research/travel-forecasts"
+    ],
+    "one_sentence": "In 2025, U.S. online travel agencies generated $100.3 billion in gross bookings, with hotels representing about 63%, implying roughly $63.2 billion in OTA hotel gross bookings, while slower U.S. hotel RevPAR and tougher fee-transparency rules narrowed the easy post-pandemic rebound.",
+    "slug": "online-hotel-booking"
+  },
+  {
+    "title": "Online Household Furniture Sales",
+    "sector": "Retail",
+    "one_liner": "Online household furniture sellers are benefiting from renewed e-commerce growth, but freight, tariffs, returns and weak housing turnover keep margins tight.",
+    "overview": "This industry includes pure-play furniture e-tailers, online marketplaces and omnichannel furniture retailers that sell household furniture online to US consumers; home decor is excluded. The 2021 IBISWorld baseline showed revenue of $55.6 billion and forecast revenue of $70.4 billion in 2026, implying slower post-pandemic growth after the 2020-2021 surge. Current 2025-2026 indicators show the category has moved from pandemic pull-forward and 2022-2024 weakness into a cautious recovery: US retail e-commerce sales rose 9.8% year over year in Q1 2026, Wayfair reported 2025 net revenue of $12.457 billion and its US revenue grew 8.7% year over year in Q2 2026, and ECDB estimated US furniture e-commerce revenue at $71.912 billion in 2025 with 5-10% 2025 growth and 10-15% 2026 growth forecast.",
+    "key_stats": {
+      "market_size": "$71.912 billion US furniture e-commerce revenue in 2025",
+      "growth": "5-10% US furniture e-commerce growth in 2025; 10-15% forecast growth for 2026",
+      "ecommerce_context": "$326.7 billion US retail e-commerce sales in Q1 2026, up 9.8% year over year",
+      "baseline_forecast": "$70.4 billion IBISWorld 2026 revenue forecast from the 2021 baseline",
+      "profitability": "Wayfair reported $17 million operating income on $12.457 billion net revenue in 2025, a 0.1% operating margin",
+      "penetration": "US furniture e-commerce online share estimated at 20-25% in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$58.3 billion in 2022, estimated from the 2021 IBISWorld baseline revenue of $55.6 billion and its 2021-2026 forecast CAGR of 4.8%",
+      "growth": "4.8% estimated 2022 growth, based on the IBISWorld 2021-2026 forecast CAGR",
+      "context": "The 2021 baseline reported 2021 revenue growth of 17.9% after 22.0% growth in 2020, followed by a slower 2021-2026 growth outlook."
+    },
+    "how_it_makes_money": "Operators buy household furniture from manufacturers, importers or wholesalers and sell it online through owned websites, marketplaces, mobile apps and omnichannel store platforms. Revenue comes from product markups, private-label lines, marketplace commissions, delivery and assembly fees, warranty and protection plans, financing programs, advertising or retail media, and loyalty memberships. Large retailers also use data-driven merchandising, paid search, SEO, email marketing and app personalization to improve conversion and basket size.",
+    "cost_structure": "The largest costs are furniture purchases and inbound freight, followed by parcel and last-mile delivery, warehousing, returns and damage allowances, payment processing, customer service, advertising, technology, wages and rent for showrooms or distribution space. Bulky goods make fulfillment structurally expensive, while promotional discounting, free-shipping expectations, high return costs and tariff exposure on imported wood and upholstered furniture compress margins.",
+    "major_players": [
+      "Wayfair",
+      "Amazon",
+      "IKEA US",
+      "Williams-Sonoma Inc. including Pottery Barn and West Elm",
+      "Ashley",
+      "Walmart",
+      "Target",
+      "Overstock / Bed Bath & Beyond"
+    ],
+    "current_dynamics": "Demand remains tied to housing turnover, remodeling, consumer confidence and discretionary income. The channel continues to gain from convenience, broader assortment and online visualization tools, but big-ticket purchases are still pressured by high mortgage rates, slower home sales and cautious middle-income consumers in 2025-2026. Operators are investing in faster delivery visibility, AI-assisted discovery, room planning, loyalty programs and omnichannel pickup or returns. Tariffs and de minimis changes in 2025 increased landed-cost uncertainty for import-heavy sellers, while established retailers are using supplier negotiations, inventory timing and sourcing diversification to protect price points.",
+    "whats_growing": "Higher-end and design-led purchases are improving faster than the mass market, shown by Wayfair's 2026 report that Perigold sales grew 35% in Q2 2026. Omnichannel models are also growing as retailers combine digital planning, local pickup, showrooms and delivery scheduling. AI-powered shopping, 3D visualization, remote design help, retail media, private-label furniture and value-focused financing offers are expanding. Outdoor, modular, small-space and home-office furniture remain attractive online because consumers can compare dimensions, reviews and delivery options before purchase.",
+    "whats_shrinking": "Pandemic-era growth rates, purely promotional customer acquisition and unprofitable free-delivery models are shrinking. Lower-income discretionary demand is weaker than premium demand in 2025-2026, and online-only sellers without delivery scale face higher acquisition and fulfillment costs. Imported low-value direct-to-consumer models lost part of their advantage after 2025 de minimis changes for China-origin shipments. Brick-and-mortar-only furniture selling continues to lose share to omnichannel and marketplace-led discovery, even where stores remain important for high-consideration purchases.",
+    "recent_developments": [
+      "2025-05-02: US de minimis treatment ended for China-origin low-value imports, raising duty and filing costs for cross-border e-commerce shipments.",
+      "2025-06-24: S&P Global reported US seaborne furniture imports fell 4.3% year over year in May 2025 after a 25.6% April 2025 increase as retailers managed tariff timing.",
+      "2025-11-28: Ashley launched a PayPal-enabled Perplexity shopping integration for conversational product discovery and checkout.",
+      "2026-02-17: IKEA US reported FY25 sales of $5.3 billion, including $1.9 billion from e-commerce, and said it planned 10 US store openings in 2026.",
+      "2026-05-18: The US Census Bureau reported Q1 2026 retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025.",
+      "2026-08-04: Wayfair reported Q2 2026 revenue of $3.52 billion, with US revenue up 8.7% year over year and Perigold sales up 35%."
+    ],
+    "outlook": "The industry outlook is moderately positive for 2026 as online penetration keeps rising and category demand begins to recover from the post-pandemic furniture downturn. Growth should remain below the 2020-2021 spike but above traditional furniture retail because consumers increasingly begin research, comparison and purchases online. Margin recovery depends on fewer markdowns, better inventory discipline, lower damage and return rates, and the ability to pass through or offset tariff-related cost increases. The strongest operators will pair digital merchandising with reliable bulky-item logistics, delivery transparency, financing and selective physical touchpoints.",
+    "themes": [
+      "E-commerce penetration",
+      "Bulky-item logistics",
+      "Tariff and import-cost risk",
+      "AI shopping and product discovery",
+      "Omnichannel showrooms and pickup",
+      "Premium resilience versus value pressure",
+      "Private label and supplier control",
+      "Returns and damage reduction"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Online Household Furniture Sales, last updated Nov. 3, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-household-furniture-sales.txt', 'date': '2021-11-03'}",
+      "{'title': 'US Census Bureau Quarterly Retail E-Commerce Sales, Q1 2026', 'url': 'https://www.census.gov/retail/eCommerce.html', 'date': '2026-05-18'}",
+      "{'title': 'ECDB Furniture Industry in the US sample data', 'url': 'https://ecdb.com/resources/sample-data/market/us/furniture', 'date': '2026'}",
+      "{'title': 'Wayfair Inc. 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1616707/000161670726000027/w-20251231.htm', 'date': '2026-03-03'}",
+      "{'title': 'Wayfair Q2 2026 coverage', 'url': 'https://www.barrons.com/articles/wayfair-earnings-stock-price-cc40ede4', 'date': '2026-08-05'}",
+      "{'title': 'Williams-Sonoma 2025 Form 10-K summary', 'url': 'https://ebs.publicnow.com/view/CC35C1E88DCA804F8A531788617A5AC27E93E3EA', 'date': '2026'}",
+      "{'title': 'IKEA US FY25 Annual Summary release', 'url': 'https://www.ikea.com/us/en/newsroom/corporate-news/ikea-u-s-releases-fy25-annual-summary-and-announces-four-new-stores-planned-for-2026-pubf0e047b0/', 'date': '2026-02-17'}",
+      "{'title': 'Ashley PayPal Perplexity AI shopping announcement', 'url': 'https://www.ashleyfurnitureindustriesllc.com/news/2025/ashley-partners-with-paypal-to-provide-ai-powered-shopping-experience/', 'date': '2025-11-28'}",
+      "{'title': 'US Customs and Border Protection de minimis China guidance', 'url': 'https://www.help.cbp.gov/s/article/Article-1915?language=en_US', 'date': '2026-02-27'}",
+      "{'title': 'S&P Global Market Intelligence furniture tariff analysis', 'url': 'https://www.spglobal.com/market-intelligence/en/news-insights/research/tariff-plans-furniture-firms', 'date': '2025-06-24'}"
+    ],
+    "one_sentence": "The US Online Household Furniture Sales industry sells sofas, beds, tables, chairs and other household furniture through websites and marketplaces, with demand shaped by consumer income, housing activity, digital shopping adoption and bulky-item fulfillment economics.",
+    "slug": "online-household-furniture-sales"
+  },
+  {
+    "title": "Online Industrial Supplies Sales",
+    "sector": "Retail",
+    "one_liner": "B2B e-commerce sellers of MRO, safety, packaging, tools and other industrial supplies are growing through digital procurement, large-account contracts and vendor-managed inventory, despite uneven manufacturing demand.",
+    "overview": "Online industrial supplies sales is a narrow B2B retail and distribution channel built around searchable catalogs, contract pricing, account controls, rapid fulfillment and integration with procurement systems. The 2021 IBISWorld baseline placed industry revenue at $15.9 billion and projected $18.8 billion by 2026, implying a 3.4% 2021-2026 CAGR. Current 2025-2026 evidence supports continued digital share gains: Amazon Business reported more than $35.0 billion in global annualized sales in 2025, Grainger reported $17.9 billion in 2025 revenue with strong growth in its digital Endless Assortment model, MSC said 63.8% of fiscal 2025 orders and sales were digital, and Fastenal said its Digital Footprint reached 62.4% of sales in December 2025. Demand remains tied to manufacturing and construction cycles, but e-commerce adoption, spend analytics, bulk pricing, next-day fulfillment and on-site inventory systems are structurally expanding the channel.",
+    "key_stats": {
+      "market_size": "$18.8 billion in 2026 estimated US industry revenue, based on the IBISWorld 2021-2026 outlook",
+      "growth": "3.4% CAGR from 2021 to 2026 in the IBISWorld baseline outlook",
+      "profit_margin": "4.5% industry EBIT margin in 2021 baseline; public digital distributors reported much higher company-level gross margins in 2025, including Grainger at 39.1%, MSC at 40.8%, Fastenal at 45.0% and Global Industrial at 35.5%",
+      "establishments": "1,352 operators projected for 2026 in the IBISWorld baseline outlook",
+      "employment": "25,216 employees projected for 2026 in the IBISWorld baseline outlook",
+      "demand_indicator": "Federal Reserve industrial production was 1.7% higher year over year in May 2026, while manufacturing capacity utilization was 75.7% in May 2026",
+      "digital_adoption": "MSC reported 63.8% of fiscal 2025 consolidated net sales through e-commerce platforms; Fastenal reported 62.4% of sales through its Digital Footprint in December 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$16.5 billion in 2022 estimated US industry revenue, calculated from the $15.9 billion 2021 baseline using the 3.4% 2021-2026 outlook CAGR",
+      "growth": "3.4% estimated 2022 growth rate, aligned with the IBISWorld 2021-2026 forecast CAGR",
+      "context": "2022 was an early post-pandemic recovery year in the baseline, with revenue supported by more services moving online and renewed private investment in industrial equipment and machinery."
+    },
+    "how_it_makes_money": "Operators earn revenue from online sales of MRO products, safety gear, fasteners, abrasives, tools, packaging, janitorial products, pumps, valves, material handling equipment and related consumables. Larger platforms add value through contract pricing, quantity discounts, private-label goods, procurement integrations, punchout catalogs, e-procurement APIs, vendor-managed inventory, industrial vending, replenishment services, shipping fees and value-added technical support.",
+    "cost_structure": {
+      "cost_of_goods_sold": "Largest cost item; public comparables reported 2025 COGS ratios of 60.9% at Grainger, 59.2% at MSC, 55.0% at Fastenal and 64.5% at Global Industrial.",
+      "labor_and_sga": "High spending on sales support, customer service, procurement integration, digital marketing, warehousing, IT and account management; 2025 SG&A was 25.2% of Grainger sales and 28.5% of Global Industrial sales.",
+      "fulfillment_and_logistics": "Meaningful cost center because customers value broad SKU availability, quick shipping, regional distribution, same-day or next-day delivery and low backorder rates.",
+      "technology": "Ongoing investment in site search, product data, pricing engines, procurement APIs, account controls, spend analytics, AI buying tools, vending systems and inventory automation.",
+      "margin_pressure": "2025 tariff-related inflation, freight costs, customer mix shift toward large accounts and price-cost timing pressured gross margins for several public distributors."
+    },
+    "major_players": [
+      "Amazon Business",
+      "W.W. Grainger / Grainger.com / Zoro",
+      "Fastenal",
+      "MSC Industrial Supply",
+      "Global Industrial",
+      "Uline",
+      "McMaster-Carr"
+    ],
+    "current_dynamics": "The channel is benefiting from procurement digitization even when industrial demand is mixed. Fastenal described 2025 manufacturing conditions as sluggish, with the ISM manufacturing PMI averaging 48.9 in 2025 and below 50 in 10 of 12 months, but still grew 2025 net sales 8.7% through share gains, large-account contracts and digital tools. By May 2026, Federal Reserve data showed total industrial production 1.7% above May 2025, suggesting a firmer demand backdrop. Tariffs and input-cost volatility are pushing buyers toward suppliers with transparent pricing, substitute products, inventory visibility and consolidated purchasing controls.",
+    "whats_growing": [
+      "E-procurement integrations, punchout catalogs, EDI and API ordering for large accounts",
+      "Vendor-managed inventory, industrial vending and on-site replenishment programs",
+      "Safety, facility maintenance, janitorial, packaging and recurring MRO consumables",
+      "Marketplace assortment breadth, long-tail SKUs and third-party seller participation",
+      "Spend analytics, approval workflows, guided buying and AI-assisted purchasing"
+    ],
+    "whats_shrinking": [
+      "Purely transactional small-customer sales where price comparison is intense",
+      "Phone, fax and branch-only ordering models for standard SKUs",
+      "Undifferentiated spot-buy distribution with limited fulfillment speed or product data",
+      "Margin on tariff-exposed imported products when price-cost timing lags",
+      "Smaller independent sellers without scale in inventory, freight, search visibility or procurement integrations"
+    ],
+    "recent_developments": [
+      "2025: Amazon Business said it drove more than $35.0 billion in annualized global sales and served more than 8.0 million organizations globally.",
+      "2025: Fastenal reported $8.2 billion in net sales, up 8.7%, and said its Digital Footprint reached 62.4% of sales in December 2025.",
+      "2025: MSC Industrial Supply reported that 63.8% of fiscal 2025 consolidated net sales came through e-commerce platforms, including website, vending and e-procurement channels.",
+      "2025: Global Industrial revenue rose 4.8% to $1.38 billion and gross margin improved to 35.5%.",
+      "2025: Grainger reported $17.9 billion in revenue; its Endless Assortment segment grew 15.6% on a daily organic constant-currency basis, while the company exited the UK market in Q4 2025.",
+      "2026: Federal Reserve data showed US industrial production 1.7% above May 2025 and manufacturing capacity utilization at 75.7% in May 2026."
+    ],
+    "outlook": "The industry should keep expanding through 2026 as B2B buyers move more replenishment, safety, MRO and packaging spend into controlled digital channels. The baseline points to $18.8 billion in 2026 revenue, and current company data show digital order shares above 60% at major industrial distributors. Growth will be strongest among platforms that combine broad assortment, private-label economics, next-day fulfillment, contract pricing, procurement-system integration and on-site inventory technology. Risks for 2026 include tariff volatility, sluggish small-customer activity, margin pressure from large-account mix and any slowdown in manufacturing, construction or warehousing investment.",
+    "themes": [
+      "B2B e-commerce adoption",
+      "MRO procurement digitization",
+      "Vendor-managed inventory",
+      "Industrial vending",
+      "Marketplace competition",
+      "Tariff and input-cost volatility",
+      "Large-account consolidation",
+      "Private label and long-tail assortment",
+      "Fulfillment speed",
+      "AI-assisted procurement"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-industrial-supplies-sales.txt",
+      "https://www.aboutamazon.com/news/company-news/what-is-amazon-business/",
+      "https://sell.amazon.com/programs/amazon-business",
+      "https://www.sec.gov/Archives/edgar/data/277135/000027713526000011/gww-20251231.htm",
+      "https://invest.grainger.com/investor-news/news-details/2026/GRAINGER-REPORTS-RESULTS-FOR-THE-FOURTH-QUARTER-AND-FULL-YEAR-2025/default.aspx",
+      "https://ebs.publicnow.com/view/C656AA5CE6AF8B76321B2C3F96CBC4BFA6C57156",
+      "https://fintel.io/doc/sec-msc-industrial-direct-co-inc-1003078-10k-2025-october-23-20384-5035",
+      "https://www.publicnow.com/view/09722B6581DD4F41951EF0FE7040C62DF6F06724",
+      "https://www.federalreserve.gov/RELEASES/g17/current/default.htm",
+      "https://data.census.gov/table/AIESBASICTIMESERIES.AIES42BASIC?codeset=naics~423840&g=010XX00US"
+    ],
+    "one_sentence": "The US Online Industrial Supplies Sales industry sells industrial, maintenance, repair, operating, safety, packaging and related supplies through websites, e-procurement integrations, marketplaces and automated replenishment systems to manufacturers, contractors, warehouses, utilities, government agencies and other businesses.",
+    "slug": "online-industrial-supplies-sales"
+  },
+  {
+    "title": "Online Insurance Brokers",
+    "sector": "Finance & Insurance",
+    "one_liner": "Digital brokers and marketplaces help consumers and businesses compare, quote and enroll in insurance policies online while earning commissions, referral fees and lead-generation revenue.",
+    "overview": "Online insurance brokers operate websites, marketplaces, call-center-assisted digital funnels and embedded quote tools that connect consumers or businesses with insurance carriers. The baseline IBISWorld brief defined the industry as independent online intermediaries earning commission and fee income from policies initiated and completed online, with 2021 revenue of $45.8 billion and a 2026 forecast of $54.4 billion. In 2025-2026, P&C carriers returned to customer acquisition after improved underwriting profitability, which helped lead-generation platforms, while Medicare Advantage and ACA marketplace brokers faced tighter carrier economics, consumer-protection scrutiny and lower ACA enrollment after enhanced premium tax credits expired.",
+    "key_stats": {
+      "market_size": "$54.4 billion in 2026, based on the baseline IBISWorld 2021-2026 forecast",
+      "growth": "3.5% CAGR from 2021 to 2026 in the baseline IBISWorld forecast",
+      "online_penetration": "33.9% of relevant insurance services conducted online in 2026 in the baseline IBISWorld forecast",
+      "aca_marketplace_volume": "24.2 million 2025 Marketplace plan selections reported by CMS as of January 15, 2025",
+      "aca_marketplace_change": "19.2 million effectuated ACA Marketplace enrollees in February 2026, down 13% from 22.1 million in 2025, according to KFF citing federal data",
+      "auto_shopping": "57% of US auto insurance customers shopped for a new policy in the prior year in the 2025 J.D. Power study",
+      "public_comps": "MediaAlpha revenue rose 28.8% to $1.11 billion in 2025; LendingTree insurance revenue rose 30% to $711.9 million in 2025; eHealth revenue rose 4% to $554.0 million in 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$47.4 billion in 2022, estimated from the baseline 2021 revenue of $45.8 billion and 3.5% 2021-2026 CAGR",
+      "growth": "4.2% average annual market-size growth from 2017 to 2022, cited in 2023 SEC filing from IBISWorld market-size data",
+      "profit_margin": "16.2% in 2021 baseline, forecast to decline to 14.8% in 2026",
+      "establishments": "116,449 establishments in 2021 baseline, with 5.33% projected annual growth from 2021 to 2027"
+    },
+    "how_it_makes_money": "Revenue comes mainly from carrier commissions on bound policies, renewal commissions, per-lead and per-referral fees, click/call transfers, advertising and sponsorship, technology licensing, and in some models revenue-share arrangements with licensed partners or supply publishers.",
+    "cost_structure": "The largest costs are paid search, paid social, direct mail, affiliate and partner traffic acquisition, call-center and licensed-agent compensation, technology and content teams, compliance, licensing, customer support, data security, hosting and general administration. Public-company data show the intensity: eHealth recorded $153.5 million of advertising costs in 2025, while MediaAlpha’s 2025 cost of revenue was 85.0% of revenue because it includes revenue-share and traffic-acquisition costs.",
+    "major_players": [
+      "eHealth",
+      "MediaAlpha",
+      "LendingTree / QuoteWizard",
+      "GoHealth",
+      "SelectQuote",
+      "Policygenius / Zinnia",
+      "HealthSherpa",
+      "EverQuote"
+    ],
+    "current_dynamics": "P&C-focused online brokers and lead marketplaces improved in 2025 as auto and homeowners carriers regained underwriting profitability and resumed acquisition spending. Health and Medicare brokers were more mixed: eHealth grew Medicare revenue in 2025, but GoHealth cut back Medicare Advantage activity as carriers prioritized retention and unit economics. ACA-focused brokers face a smaller 2026 enrollment base after enhanced tax credits expired and CMS tightened verification, unauthorized-enrollment and broker-compliance rules.",
+    "whats_growing": "P&C shopping, auto-insurance comparison, bundled auto-home leads, carrier private marketplaces, embedded insurance, AI-assisted traffic acquisition, web-broker direct enrollment, and compliance tooling for consent, identity and broker-of-record controls are growing in 2025-2026.",
+    "whats_shrinking": "Low-quality ACA lead arbitrage, unauthorized plan-switching models, Medicare Advantage volume built on weak retention economics, under-65 health acquisition tied to richer subsidies, and pure SEO funnels vulnerable to search and AI-answer displacement are shrinking or being repriced in 2025-2026.",
+    "recent_developments": [
+      "2025-01-17: CMS reported 24.2 million 2025 Marketplace plan selections as of January 15, 2025.",
+      "2025-04-29: J.D. Power reported that 57% of US auto insurance customers shopped for a new policy in the prior year.",
+      "2025-06-20: CMS finalized Marketplace integrity rules adding tougher income verification, SEP checks and broker/web-broker termination standards for plan year 2026.",
+      "2026-01-28: CMS said 2025 program-integrity actions removed subsidies for nearly 1.5 million people and cancelled about 250,000 unauthorized enrollments.",
+      "2026-03-31: GoHealth reported 2025 net revenue of $361.8 million, down 54.7%, citing an intentional Medicare Advantage pullback.",
+      "2026-06-29: KFF reported ACA Marketplace effectuated enrollment fell 13% from 22.1 million in 2025 to 19.2 million in February 2026."
+    ],
+    "outlook": "The industry should keep expanding through 2026 because insurance remains mandatory or strongly recurring and consumers continue to compare rates online, especially after steep home and auto premium increases. Growth is likely to be uneven: P&C marketplaces benefit from renewed carrier acquisition budgets, while health-focused brokers must absorb subsidy changes, stricter CMS oversight and carrier pressure for higher-quality, higher-retention enrollments. Margin pressure will persist because traffic acquisition, licensed-agent labor, compliance and technology investment remain expensive.",
+    "themes": [
+      "Digital insurance distribution",
+      "Carrier customer-acquisition cycles",
+      "ACA subsidy and enrollment sensitivity",
+      "Medicare Advantage compliance reset",
+      "P&C premium shopping",
+      "Lead quality and consent enforcement",
+      "Embedded insurance",
+      "AI-driven search and traffic acquisition"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-insurance-brokers.txt",
+      "https://www.marketresearch.com/search?categoryid=159&datepub=0&publisher=IBISWorld&qtype=2&query=tariff&sort=td",
+      "https://www.sec.gov/Archives/edgar/data/1333493/000133349326000010/ehth-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000049/max-20251231.htm",
+      "https://www.publicnow.com/view/654D136DE4DE2F9DF00311B4C548C8B170F1FC1B",
+      "https://www.cms.gov/newsroom/fact-sheets/marketplace-2025-open-enrollment-period-report-national-snapshot-2",
+      "https://www.cms.gov/newsroom/fact-sheets/2025-marketplace-integrity-and-affordability-final-rule",
+      "https://www.cms.gov/newsroom/fact-sheets/cms-actions-protect-consumers-strengthen-exchange-program-integrity",
+      "https://www.jdpower.com/business/press-releases/2025-us-insurance-shopping-study/",
+      "https://www.kff.org/quick-insights/aca-marketplace-enrollment-is-down-by-3-million-after-big-jump-in-premium-payments/",
+      "https://zinnia.com/en/news/zinnia-to-acquire-policygenius-a-leading-digital-insurance-marketplace"
+    ],
+    "one_sentence": "The US Online Insurance Brokers industry remains a growing but highly competitive digital distribution channel, supported by online shopping, high insurance premiums and carrier acquisition spending, while 2025-2026 healthcare subsidy, Medicare and marketplace-integrity rules are pressuring some health-focused brokers.",
+    "slug": "online-insurance-brokers"
+  }
+]

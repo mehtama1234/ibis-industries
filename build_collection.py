@@ -68,7 +68,7 @@ def page(i, s):
     </main>
     <aside class="rail"><div class="rail-h">By the numbers</div>{facts}</aside>
   </div>
-  <footer>{e(grp)}. {nextfoot}<br><br><a href="index.html">← back to all {len(order)}</a> · Grounded in our 2025–2026 US industry research. Research run on Haiku.</footer>
+  <footer>{e(grp)}. {nextfoot}<br><br><a href="index.html">← back to all {len(order)}</a> · Grounded in our 2025–2026 US industry research. Research uses the configured model.</footer>
 </div></body></html>'''
     open(f'{OUT}/{slug}.html','w').write(htmlp)
 
@@ -123,7 +123,7 @@ hub=f'''<!doctype html>
   <div class="big"><div class="lbl">The one idea</div><p>{e(cap.get("one_sentence", force["signature"]))}</p></div>
   <p style="text-align:center;margin:1.6em 0"><a href="patterns.html" style="display:inline-block;font-family:var(--mono);font-size:.8rem;color:var(--accent);border:1px solid var(--accent);border-radius:24px;padding:10px 22px;text-decoration:none">★ The patterns — what repeats across all {len(order)} &nbsp;→</a></p>
   {seccards}
-  <footer>A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Built from our 2025–2026 US industry research. Research run on Haiku.</footer>
+  <footer>A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Built from our 2025–2026 US industry research. Research uses the configured model.</footer>
 </div></body></html>'''
 open(f'{OUT}/index.html','w').write(hub)
 
@@ -161,7 +161,7 @@ pat=f'''<!doctype html>
   </div>
   <h2>The biggest tension</h2>
   <div class="big warn"><div class="lbl">The one to watch</div><p>{e(cap.get("worry",""))}</p></div>
-  <footer>Drawn from all {len(order)} pages. <a href="index.html">← back</a> · A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Research run on Haiku.</footer>
+  <footer>Drawn from all {len(order)} pages. <a href="index.html">← back</a> · A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Research uses the configured model.</footer>
 </div></body></html>'''
 open(f'{OUT}/patterns.html','w').write(pat)
 print(f"built collection '{force_slug}': {len([s for s in specs if writeups.get(s['slug'])])} pages + index + patterns -> {OUT}")

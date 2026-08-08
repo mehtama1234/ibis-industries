@@ -1,0 +1,461 @@
+[
+  {
+    "title": "Yeast & Bacteria for Food Production",
+    "sector": "Manufacturing",
+    "one_liner": "A mature but strategically important fermentation-input industry supplying bakeries, brewers, dairy processors, probiotic brands and animal nutrition producers.",
+    "overview": "This industry produces edible microorganisms used as process inputs and functional ingredients, including compressed baker's yeast, dry yeast, lactic acid bacteria, molds, probiotic cultures, yeast extracts and microbial derivatives for food, beverage and animal feed applications. The category is small relative to downstream food manufacturing, but it sits behind staple products such as bread, cheese, yogurt, beer, wine, fermented foods, supplements and silage inoculants. The US market remains mature and concentrated, with global fermentation specialists using North American plants, imports and specialized R&D to serve bakery, nutrition, health, biotechnology and feed customers.",
+    "key_stats": {
+      "market_size": "$836.8 million in 2026 revenue, baseline IBISWorld forecast in 2021 dollars",
+      "growth": "0.8% CAGR from 2021 to 2026 in the baseline forecast",
+      "baseline_revenue": "$805.3 million in 2021",
+      "profit_margin": "5.9% of revenue in 2021 and 6.0% forecast for 2026",
+      "imports": "$466.9 million of US HS 2102 active/inactive yeast and related microorganism imports in 2025, including $293.6 million active yeasts and $173.3 million inactive yeasts/dead single-cell microorganisms",
+      "exports": "$134.8 million of US HS 2102 active/inactive yeast exports in 2025, including $39.5 million active yeasts and $95.3 million inactive yeasts/dead single-cell microorganisms",
+      "establishments": "40 establishments in 2021, with the baseline forecasting a flat count through 2027",
+      "employment": "2,288 employees in 2021 and 2,354 forecast for 2026",
+      "product_mix_2021": "Compressed yeast 68.0%, bacteria/molds/other yeast products 24.6%, dry yeast 7.4%",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$811.3 million in 2022 estimated from the 2021 baseline forecast path",
+      "growth": "0.75% projected 2022 annual growth based on the 2021-2027 baseline CAGR",
+      "domestic_demand_context": "2021 domestic demand was $1.134 billion, with imports expected to meet 38.8% of US demand",
+      "imports_context": "2021 imports were $440.6 million; baseline forecast was $513.2 million by 2026",
+      "exports_context": "2021 exports were $111.7 million; baseline forecast was $130.2 million by 2026"
+    },
+    "how_it_makes_money": "Operators sell bulk and specialty microbial inputs to commercial bakeries, breweries, wineries, dairy and cheese makers, fermented-food producers, supplement manufacturers, pet-food and livestock-feed companies, and biotech customers. Revenue comes from commodity baker's yeast, liquid or compressed yeast supply contracts, dry yeast retail and foodservice channels, starter cultures, probiotic strains, yeast extracts, fermentation nutrients, silage inoculants, animal-health cultures and technical support around strain selection, dosage, shelf life and process performance.",
+    "cost_structure": "The largest costs are fermentable inputs such as molasses and other sugar substrates, utilities and energy for fermentation/drying, packaging, quality systems, freight, compliance and specialized labor. Wages were $105 million in 2021, equal to about 13.0% of 2021 revenue, reflecting scientists, fermentation technicians, QA staff and plant operators. Profit was 5.9% of 2021 revenue and forecast at 6.0% for 2026. Sugar is a key input: USDA's July 2026 outlook forecast FY 2026/27 US sugar use at 12.571 million short tons raw value and supply at 14.268 million STRV, while BLS/FRED showed the sugar and confectionery manufacturing PPI at 298.958 in June 2026, down from 307.394 in December 2025 but still high versus 2024 levels.",
+    "major_players": [
+      "Lallemand Inc.",
+      "Lesaffre Group, including Red Star Yeast and Biospringer",
+      "AB Mauri / Fleischmann's Yeast",
+      "Angel Yeast Co. Ltd.",
+      "Leiber GmbH",
+      "Oriental Yeast Co. Ltd."
+    ],
+    "current_dynamics": "The 2025-2026 market is being pulled in two directions. Core bakery and dairy demand remains stable because bread, cheese and yogurt are everyday foods, while culture-intensive niches such as probiotics, yeast extracts, fermented foods, clean-label savory ingredients and animal nutrition continue to expand. Beer is a drag: the Brewers Association reported US craft production fell 4.0% in 2025 to 22.034 million barrels and the overall beer category fell 5.7% by volume, reducing volume demand for brewing strains even as specialty brewers still buy differentiated yeast. Trade pressure remains high, with 2025 US import values for active and inactive yeasts/dead single-cell microorganisms far exceeding comparable export values. Capacity additions and acquisitions by global fermentation companies suggest demand is moving toward higher-value nutrition, health, feed and biotech applications rather than pure commodity baker's yeast.",
+    "whats_growing": [
+      "Probiotic cultures and live microbial ingredients for foods, beverages and supplements; Grand View Research estimated the US probiotics market at $25.276 billion in 2025 and $28.742 billion in 2026.",
+      "Yeast extracts and savory fermentation-derived ingredients for clean-label flavor, salt reduction and natural-origin formulations.",
+      "Animal nutrition cultures, including yeast derivatives, probiotics and silage inoculants for livestock, aquaculture, equine and companion animals.",
+      "Precision fermentation, strain engineering and fermentation nutrients serving food, feed, diagnostics and biotech customers.",
+      "Cheese and yogurt culture demand, supported by USDA's continuing monthly and annual dairy-product reporting and resilient fermented-dairy consumption."
+    ],
+    "whats_shrinking": [
+      "Craft brewing volume demand: US craft beer production declined 4.0% in 2025 after a 3.9% decline in 2024.",
+      "Commodity dry yeast linked to pandemic-era home baking has normalized from 2020-2021 spikes.",
+      "Traditional wheat-flour consumption is structurally soft; USDA ERS estimated 2025 per-capita wheat flour use at 126.6 pounds, well below early-2000s levels.",
+      "Small brewery openings and distributed craft beer channels are weaker, reducing new-customer formation for specialty brewing yeast.",
+      "Margin headroom is constrained where producers compete against imports or sell undifferentiated baker's yeast."
+    ],
+    "recent_developments": [
+      "2026-07: Codex Alimentarius adopted the first internationally recognized Codex standard for baker's yeast, creating a global framework for production, trade and oversight.",
+      "2026-04: Brewers Association reported 2025 US craft beer production fell 4.0% to 22.034 million barrels, while craft retail value fell 2.8% to $28.0 billion.",
+      "2026-04: USDA NASS released the latest Dairy Products Annual Summary, continuing annual coverage of cheese, yogurt and other culture-dependent dairy products.",
+      "2026-04: USDA ERS estimated 2025 US per-capita wheat flour use at 126.6 pounds, underscoring slow growth in core bakery end markets.",
+      "2025-06: Lesaffre completed acquisition of a 70% stake in Biorigin, forming a joint venture with Zilor to expand yeast-derived food and feed ingredient solutions.",
+      "2025: US HS 2102 imports of active and inactive yeasts/dead single-cell microorganisms totaled about $466.9 million, materially above $134.8 million of comparable exports."
+    ],
+    "outlook": "Revenue is likely to grow slowly through 2026, with the baseline forecast of $836.8 million implying a mature, low-single-digit trajectory rather than a breakout. The best opportunities are in higher-value cultures, strain-specific probiotics, yeast extracts, animal nutrition, fermentation nutrients and customer-specific technical services. Risks are concentrated in imports, energy and sugar-input volatility, weak beer volumes, and the limited growth profile of commodity bread. Operators with proprietary strains, food-safety documentation, US capacity, and application support should outperform producers exposed mainly to undifferentiated baker's yeast.",
+    "themes": [
+      "Fermentation as infrastructure",
+      "Probiotics and gut health",
+      "Clean-label savory ingredients",
+      "Animal nutrition and silage inoculants",
+      "Import competition",
+      "Craft beer reset",
+      "Stable bakery demand",
+      "Specialty strains and R&D",
+      "Sugar and energy cost exposure",
+      "Global consolidation"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/yeast-and-bacteria-for-food-production.txt",
+      "https://www.census.gov/naics/?details=311999&input=311999&year=2022",
+      "https://www.tradeint.com/resources/free-hs-code-tool/united-states/hs/2102100000/",
+      "https://www.usitc.gov/complete_2025_trade_statistics_now_available.htm",
+      "https://www.brewersassociation.org/association-news/a-year-of-correction-for-craft-beer-with-early-signals-of-recovery/",
+      "https://www.ers.usda.gov/topics/crops/wheat/wheat-sector-at-a-glance",
+      "https://esmis.nal.usda.gov/publication/dairy-products-annual-summary",
+      "https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/market-outlook",
+      "https://fred.stlouisfed.org/series/PCU31133113",
+      "https://www.lesaffre.com/press-room/lesaffre-and-zilor-enter-a-joint-venture/",
+      "https://www.lesaffre.com/press-room/lesaffre-strengthens-its-presence-in-the-united-states/",
+      "https://www.lallemand.com/about-us/where-we-operate/",
+      "https://www.grandviewresearch.com/horizon/outlook/probiotics-market/united-states",
+      "https://www.newswire.ca/news-releases/angel-yeast-s-initiative-advances-internationally-recognized-codex-standard-for-baker-s-yeast-810260800.html"
+    ],
+    "one_sentence": "US yeast and food-culture manufacturers generate roughly $0.84 billion in 2026 revenue, with steady bakery and dairy demand offset by weaker craft beer volumes and heavy import competition.",
+    "slug": "yeast-and-bacteria-for-food-production"
+  },
+  {
+    "title": "Yogurt Production",
+    "sector": "Food & Drink",
+    "one_liner": "U.S. yogurt production is a mature, brand-led dairy manufacturing industry where protein, Greek-style formats, drinkables and clean-label positioning are offsetting shelf saturation and private-label price pressure.",
+    "overview": "The industry manufactures refrigerated yogurt and yogurt drinks, excluding frozen yogurt. Demand is anchored in grocery, club, convenience and foodservice channels, with production economics shaped by raw milk procurement, refrigerated logistics, packaging, cultures, fruit/flavor systems and retailer slotting. The 2021 baseline described a $7.244 billion industry with 1.2% annualized 2016-2021 growth and a 2021-2026 forecast of 1.1% annualized growth to $7.7 billion. The current public IBISWorld update puts 2025 revenue higher at $8.1 billion but shows 2020-2025 growth at 0.0% CAGR, reflecting a mature category where gains come more from premium mix and innovation than from broad volume expansion. USDA/NASS reported U.S. plain and flavored yogurt production of 4.879 billion pounds in 2024, up 6.3% from 2023, suggesting physical output improved even as producer revenue remained constrained by price competition and product mix.",
+    "key_stats": {
+      "market_size": "2025: $8.1 billion U.S. yogurt production revenue",
+      "growth": "2020-2025: 0.0% CAGR; 2024 revenue change: -0.4%",
+      "production_volume": "2024: 4.879 billion lb of plain and flavored yogurt, up 6.3% from 2023",
+      "businesses": "2025: 94 U.S. yogurt production businesses",
+      "employment": "2025: 9,635 employees",
+      "profit_margin": "2024: 2.0% of revenue",
+      "retail_market_context": "2026: broader U.S. yogurt market estimated at $12.87 billion with 2026-2031 CAGR of 4.55% by Mordor Intelligence",
+      "dairy_input_context": "2026: USDA ERS forecast all-milk price of $20.70 per cwt",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $7.3 billion, extrapolated from the Dec. 2021 IBISWorld baseline forecast of 1.1% annualized 2021-2026 growth from $7.244 billion in 2021",
+      "growth": "2022: about 1.1% forecast annual revenue growth under the Dec. 2021 baseline",
+      "production_context": "2022: baseline period still reflected post-COVID grocery demand, rising dairy consumption and Greek-style yogurt normalization",
+      "profit_margin_context": "2021: profit margin was 2.0% of revenue in the baseline file"
+    },
+    "how_it_makes_money": "Producers buy milk and other dairy inputs, ferment and process yogurt into spoonable, Greek-style, drinkable, kids, organic, low-sugar, high-protein and value/private-label formats, then sell through supermarkets, mass merchants, club stores, dairy wholesalers, convenience stores, foodservice distributors and direct retail programs. Revenue growth comes from branded price premiums, protein claims, convenience packaging, multipacks, mix-ins, lactose-free formulations, drinkables and distribution gains, while volume is defended through private-label manufacturing and retailer partnerships.",
+    "cost_structure": "The largest cost is purchases, led by raw milk, cream, milk solids, cultures, fruit preparations, sweeteners, packaging and logistics. The 2021 baseline showed wages at 8.5% of revenue and profit at 2.0% of revenue; the 2024 IBISWorld public update again put profit at 2.0% of revenue. Costs are pressured by refrigerated transport, short shelf life, retailer promotion demands, food safety compliance, energy use, labor availability and dairy commodity swings. Scale matters because large plants spread fermentation, straining, filling, cold storage, quality control and marketing costs over national volumes.",
+    "major_players": [
+      "{'name': 'Danone North America / The Dannon Company', 'position': '2024: largest producer in the IBISWorld public table with $2.302 billion U.S. yogurt production revenue; 2025 brand-share sources put Danone around 26% of U.S. yogurt sales across Dannon, Oikos, Activia, Light + Fit and related brands'}",
+      "{'name': 'Lactalis USA / Midwest Yogurt', 'position': \"2025: acquired General Mills' U.S. yogurt business, including Yoplait, Go-Gurt, Oui, Mountain High and :ratio; the acquired business contributed about $1.2 billion to General Mills fiscal 2025 net sales\"}",
+      "{'name': 'Chobani', 'position': '2024: $852.0 million U.S. yogurt production revenue in the IBISWorld public table; 2025: announced a $1.2 billion Rome, New York dairy facility and a $500 million Idaho expansion'}",
+      "{'name': 'FAGE USA', 'position': '2025: premium Greek yogurt competitor with about 7% U.S. yogurt sales share in Evidnt-reported brand-share data'}",
+      "{'name': \"Siggi's / Lactalis portfolio\", 'position': '2025: skyr and clean-label yogurt brand with about 6% U.S. yogurt sales share in Evidnt-reported brand-share data'}"
+    ],
+    "current_dynamics": "The category is mature but not stagnant. Producer revenue is flat because retail shelves are crowded, private label is aggressive and plant-based alternatives compete for health-conscious shoppers. At the same time, 2024 USDA production increased 6.3%, high-protein products are pulling consumers back into dairy yogurt, and large brands are investing in capacity and acquisitions. The strongest operators are using scale, protein positioning, low sugar, lactose-free products, drinkables, mix-ins and multipacks to create premium occasions beyond breakfast. Refrigerated logistics and milk costs remain core margin risks, but USDA's 2026 lower all-milk price forecast eases some input pressure.",
+    "whats_growing": [
+      "2024-2025: high-protein Greek yogurt cups and drinks with 15g, 20g and 30g protein claims",
+      "2025: drinkable yogurt and on-the-go formats, with Mordor forecasting 2026-2031 drinkable growth above spoonable formats",
+      "2025: premium Greek, Icelandic-style skyr, clean-label, low-sugar and non-GMO positioning",
+      "2025: retailer and brand investment in mix-ins, indulgent snacks with better-for-you claims and multipack convenience",
+      "2025: capacity expansion by scaled producers, especially Chobani's New York and Idaho investments"
+    ],
+    "whats_shrinking": [
+      "2020-2025: overall producer revenue growth, with IBISWorld showing 0.0% CAGR and a 2024 revenue dip of 0.4%",
+      "2025: smaller undifferentiated brands squeezed by shelf crowding, retailer power and promotional spending",
+      "2025: conventional low-protein cup formats without strong flavor, price or nutrition differentiation",
+      "2025: legacy ownership structures, highlighted by General Mills exiting U.S. yogurt manufacturing through the Lactalis sale",
+      "2025: margin room for producers unable to pass through refrigerated logistics, labor and packaging costs"
+    ],
+    "recent_developments": [
+      "2024-01: FDA yogurt standard-of-identity compliance date took effect for products labeled on or after January 1, 2024.",
+      "2024-03: FDA announced enforcement discretion for qualified yogurt and type 2 diabetes risk-reduction claims.",
+      "2025-01: FDA issued a request for information on high-protein, Greek and Greek-style yogurt manufacturing and ingredients.",
+      "2025-04: Chobani announced a $1.2 billion Rome, New York dairy plant with over 1 billion lb of annual dairy product capacity.",
+      "2025-06: General Mills completed the sale of its U.S. yogurt business to Lactalis, transferring Yoplait, Go-Gurt, Oui, Mountain High, :ratio and two plants.",
+      "2026-06: USDA ERS lowered its 2026 all-milk price forecast to $20.70 per cwt as milk production forecasts rose."
+    ],
+    "outlook": "The 2026-2030 outlook is modestly positive for manufacturers but more competitive than the older 2021 baseline implied. IBISWorld's public 2025 page says the industry is projected to grow over the next five years after flat 2020-2025 performance. Growth should come from protein-led premiumization, Greek-style and strained formats, drinkables, low-sugar claims, digestive health, multipacks and foodservice/club-channel expansion. However, broad revenue growth will likely trail faster retail-market forecasts because producer pricing remains constrained by private label, retailer bargaining power, plant-based alternatives and mature household penetration. Chobani's 2025 capacity projects and Lactalis' 2025 Yoplait acquisition point to a scale race: winners will be large, efficient processors with brands strong enough to justify price premiums and enough innovation capacity to keep shelf space.",
+    "themes": [
+      "Mature category with premium pockets",
+      "High-protein dairy positioning",
+      "Greek-style and strained yogurt dominance",
+      "Drinkable and on-the-go formats",
+      "Private-label and retailer pressure",
+      "Dairy input cost volatility",
+      "Cold-chain and shelf-life complexity",
+      "Regulatory modernization",
+      "Capacity expansion and consolidation",
+      "Plant-based substitution pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "https://www.ibisworld.com/united-states/industry/yogurt-production/4275/",
+      "https://esmis.nal.usda.gov/publication/dairy-products-annual-summary/2025-04-25",
+      "https://ers.usda.gov/data-products/dairy-data",
+      "https://www.ers.usda.gov/topics/animal-products/dairy/market-outlook",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-amends-standard-identity-yogurt",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-qualified-health-claim-yogurt-and-reduced-risk-type-2-diabetes",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-request-information-high-protein-yogurt",
+      "https://investors.generalmills.com/press-releases/press-release-details/2025/General-Mills-Completes-Sale-of-U-S--Yogurt-Business-to-Lactalis/default.aspx",
+      "https://www.globenewswire.com/news-release/2025/06/30/3107658/0/en/successful-completion-of-lactalis-usa-acquisition-of-general-mills-u-s-yogurt-business.html",
+      "https://agriculture.ny.gov/news/governor-hochul-announces-chobani-make-nations-largest-investment-ever-natural-food-production",
+      "https://www.prnewswire.com/news-releases/chobani-expands-in-high-protein-greek-yogurt-category-with-new-line-of-20g-protein-yogurt-and-15g-20g-and-30g-protein-yogurt-drinks-302269045.html",
+      "https://evidnt.co/blog/u-s-yogurt-market-trends-2025-top-brands-growth-drivers-and-emerging-consumer-shifts/",
+      "https://www.mordorintelligence.it/industry-reports/united-states-yogurt-market"
+    ],
+    "one_sentence": "In 2025, U.S. yogurt producers generated about $8.1 billion in revenue, with 2020-2025 growth essentially flat as higher-value protein and Greek products balanced intense retail competition, plant-based substitution and volatile dairy input costs.",
+    "slug": "yogurt-production"
+  },
+  {
+    "title": "Zoos & Aquariums",
+    "sector": "Media & Entertainment",
+    "one_liner": "US zoos and aquariums are mature, mission-driven attractions where admissions, memberships, donations, grants, concessions and events support animal care, education and conservation.",
+    "overview": "Operators preserve and exhibit land and aquatic animal life for public display, education, research and conservation. The baseline IBIS file defines the narrower industry as zoos and aquariums, excluding arboreta, aviaries and botanical gardens when those are the primary activity. Most leading institutions are nonprofit or public entities, so earned revenue from tickets, memberships, food, retail, tours and events is blended with grants, municipal support, philanthropy and endowment income. Public 2025-2026 data show demand is stable but not effortless: domestic leisure travel remains positive, international inbound travel is still below 2019 levels, and large operators are leaning on pricing, memberships, in-park spending and capital projects rather than pure attendance growth.",
+    "key_stats": {
+      "market_size": "2025: about $2.6 billion for the narrower US zoos and aquariums industry based on the baseline IBISWorld forecast path; 2025: $6.4 billion for the broader aquariums, zoos and botanical gardens market reported by Kentley Insights.",
+      "growth": "2025: broader aquariums, zoos and botanical gardens revenue grew at a 5.1% five-year annual rate and 5.3% three-year annual rate, per Kentley Insights; 2026 US travel spending is forecast to grow 1.0% in inflation-adjusted 2025 dollars, supporting modest attraction demand.",
+      "accredited_facilities": "March 2026: AZA reported 254 accredited zoos, aquariums and related facilities in 12 countries, including 229 in the United States.",
+      "visitation": "2024: AZA-accredited zoos and aquariums served more than 209 million annual visitors worldwide; AZA says its facilities collectively draw more than 200 million visitors annually.",
+      "economic_impact": "2024: AZA-accredited zoos and aquariums generated $35 billion in economic impact and supported more than 254,000 full-time jobs.",
+      "conservation_spending": "2024: AZA-accredited facilities spent $341.1 million on field conservation and $40.7 million on AZA SAFE species programs.",
+      "industry_structure": "March 2026: AZA facility types included 138 zoos, 56 aquariums and 9 combined zoo-and-aquarium facilities; ownership mix was 56% nonprofit, 26% public and 18% for-profit.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $2.3 billion, inferred from the baseline IBISWorld 2020 revenue of $2.122 billion and its 2020-2026 projected CAGR of 3.57%.",
+      "growth": "2022: approximately +3.6% on the baseline forecast path after the 2020 COVID-19 decline.",
+      "establishments": "2022: approximately 436 establishments, inferred from the baseline 2020 count of 419 and projected 2020-2026 establishment CAGR of 2.04%.",
+      "employment": "2022: approximately 25,900 workers, inferred from the baseline 2020 employment of 24,420 and projected 2020-2026 employment CAGR of 2.90%.",
+      "baseline_note": "The baseline file was last updated in 2020, so 2022 values are forecast-path estimates rather than observed 2022 actuals."
+    },
+    "how_it_makes_money": {
+      "admissions": "2020 baseline: 33.7% of revenue from gate admission, including standard, nominal and pay-as-you-wish models.",
+      "donations_and_grants": "2020 baseline: 24.8% of revenue from private donations, grants and government support, especially important for nonprofit and public operators.",
+      "memberships": "2020 baseline: 5.9% of revenue from annual passes and memberships that encourage repeat visitation and predictable cash flow.",
+      "food_and_beverage": "2020 baseline: 5.9% of revenue from concessions, cafes, restaurants and catering tied to longer visits and events.",
+      "merchandise": "2020 baseline: 5.9% of revenue from gift shops, toys, apparel and conservation-themed retail.",
+      "tours": "2020 baseline: 4.1% of revenue from guided tours, behind-the-scenes access, animal encounters and other premium programs.",
+      "other": "2020 baseline: 19.7% from events, rentals, education programs, parking, sponsorships and ancillary services."
+    },
+    "cost_structure": "The largest recurring costs are animal care, specialized labor, veterinary services, food, habitat maintenance, utilities, insurance, marketing and guest operations. The baseline reported 2020 wages of $833 million against $2.122 billion of revenue, implying labor at about 39.3% of revenue. Costs are pressured by higher wages, energy and water use, life-support systems for aquariums, regulatory compliance, security, and capital-intensive habitat renovations. For-profit operators also face higher depreciation, marketing and debt-service burdens, while nonprofit and public institutions rely more heavily on fundraising and government appropriations to close operating gaps.",
+    "major_players": [
+      "San Diego Zoo Wildlife Alliance",
+      "Wildlife Conservation Society",
+      "Georgia Aquarium",
+      "Shedd Aquarium",
+      "Chicago Zoological Society / Brookfield Zoo",
+      "Columbus Zoo and Aquarium",
+      "United Parks & Resorts / SeaWorld parks",
+      "Monterey Bay Aquarium",
+      "National Aquarium",
+      "Saint Louis Zoo"
+    ],
+    "current_dynamics": "Demand is supported by family recreation, school visits, conservation education and domestic leisure travel, but operators are not seeing uniform attendance gains. 2026 travel forecasts point to low but positive real spending growth, with consumers favoring shorter and lower-cost trips. That helps regional attractions, but inflation keeps pressure on labor, utilities, construction, food and ticket affordability. Large institutions are investing in immersive habitats, animal welfare upgrades, wetlands and conservation exhibits, while smaller venues remain more exposed to local funding cycles and weather. Accreditation has become a competitive signal because fewer than 10% of USDA-licensed wildlife exhibitors meet AZA standards, and public scrutiny of animal welfare continues to shape exhibit decisions.",
+    "whats_growing": [
+      "2025-2026: memberships, season passes and recurring local visitation as households look for repeat-value family entertainment.",
+      "2025-2026: premium experiences such as behind-the-scenes tours, animal encounters, evening events and private rentals.",
+      "2025-2026: conservation, rescue, rehabilitation and climate-related programming, supported by AZA field conservation spending and SAFE programs.",
+      "2025-2026: habitat redesigns that replace older enclosures with larger, more naturalistic and welfare-centered spaces.",
+      "2026: domestic and regional leisure demand, with U.S. Travel forecasting domestic leisure spending of $909 billion in inflation-adjusted 2025 dollars."
+    ],
+    "whats_shrinking": [
+      "2025-2026: reliance on pure attendance growth, as pricing and in-park spending are doing more of the work at larger operators.",
+      "2025: international inbound visitation, which U.S. Travel says declined 5.5% by volume and remained below 2019 levels.",
+      "2025-2026: older cage-style or performance-led exhibit models that conflict with modern animal welfare expectations.",
+      "2025-2026: operating margin flexibility, as labor, utilities, maintenance, animal care and construction costs rise faster than many public funding streams.",
+      "2025-2026: weakly differentiated small exhibitors that lack accreditation, conservation credentials or capital for habitat upgrades."
+    ],
+    "recent_developments": [
+      "2025-02: United Parks & Resorts reported 2025 revenue of $1.663 billion, down 3.6% from 2024, with attendance down 1.8% to 21.2 million guests.",
+      "2025-09: AZA granted accreditation to 31 institutions after reviewing 32 applications at its September 2025 Annual Conference.",
+      "2025-09: AZA and the U.S. Fish and Wildlife Service announced roughly $6 million in ARPA-supported grants for eligible zoos, aquariums and related wildlife facilities.",
+      "2025: National Aquarium reported more than 1.1 million guests and 109,156 free or reduced-admission visitors, matching its 2024 access-program record.",
+      "2026-03: AZA reported 254 accredited zoos, aquariums and related facilities, including 229 in the United States.",
+      "2026-05: U.S. Travel forecast 2026 total travel spending of $1.37 trillion and domestic leisure travel spending of $909 billion in inflation-adjusted 2025 dollars."
+    ],
+    "outlook": "The 2026 outlook is modestly positive rather than high-growth. Regional family demand, memberships, school programs and domestic leisure travel should keep visits resilient, while international recovery, weather and household price sensitivity remain constraints. The strongest operators will combine accreditation, conservation credibility, capital campaigns, dynamic pricing, events and premium experiences. Margin risk remains meaningful because animal care and habitat investment are not discretionary in the same way that marketing or staffing can be trimmed. Over the next few years, the industry is likely to grow faster in revenue than attendance as operators raise prices, expand memberships and capture more food, retail and event spend per guest.",
+    "themes": [
+      "Domestic leisure resilience",
+      "Animal welfare and accreditation",
+      "Conservation as brand permission",
+      "Premium experiences and memberships",
+      "Public funding volatility",
+      "Habitat modernization",
+      "Inflation and labor pressure",
+      "Education and community access",
+      "International tourism gap",
+      "Nonprofit fundraising dependence"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/zoos-and-aquariums.txt",
+      "https://www.aza.org/zoo-and-aquarium-statistics",
+      "https://www.aza.org/accreditation",
+      "https://www.aza.org/aza-news-releases/posts/31-institutions-awarded-prestigious-aza-accreditation",
+      "https://www.ustravel.org/research/travel-forecasts",
+      "https://www.seaworldinvestors.com/news-releases/news-release-details/2026/United-Parks--Resorts-Inc--Reports-Fourth-Quarter-and-Fiscal-2025-Results/default.aspx",
+      "https://www.kentleyinsights.com/aquariums-zoos-and-botanical-gardens-industry-market-research-report/",
+      "https://aqua.org/about/reports-and-financials/mission-impact",
+      "https://www.census.gov/naics/?details=712&input=712&year=2022",
+      "https://www.aza.org/arpa-grants-selection-process"
+    ],
+    "one_sentence": "The industry has largely moved past the 2020 attendance shock, but 2025-2026 growth is being shaped by higher operating costs, uneven tourism, premium guest experiences, accreditation pressure and the need to fund larger, welfare-focused habitats.",
+    "slug": "zoos-and-aquariums"
+  },
+  {
+    "title": "e-Discovery Software Publishing in the US",
+    "sector": "Technology & Digital",
+    "one_liner": "US e-discovery software publishers sell cloud and AI tools that help legal, corporate and government teams preserve, collect, review and produce electronically stored information.",
+    "overview": "US e-discovery software publishing includes platforms for legal hold, collection, processing, early case assessment, review, analytics, production, investigations, FOIA and regulatory response. The baseline IBISWorld file estimated 2021 industry revenue at $1.925 billion and projected 2026 revenue of about $2.3 billion, while 2025-2026 public market sources point to a larger total US e-discovery ecosystem of about $5.68 billion in 2026 when services are included. Narrowing that broader figure to software-only implies a 2026 US software publishing market of roughly $2.4 billion, consistent with the older IBIS trajectory.",
+    "key_stats": {
+      "market_size": "2026: about $2.4 billion US e-discovery software publishing revenue, estimated from 2026 global eDiscovery software revenue of $8.64 billion, 2025 North America share of 39.41%, and 2026 US share of North America implied by $5.68 billion US versus $8.20 billion North America broader eDiscovery market",
+      "growth": "2026: about 8.6% global eDiscovery software CAGR outlook for 2026-2032; 2025-2030 broader US eDiscovery market CAGR cited at 9.3%",
+      "broader_us_market": "2026: $5.68 billion projected US eDiscovery market including software and services",
+      "cloud_mix": "2026: cloud deployment projected at 76.65% of the broader global eDiscovery market",
+      "profitability_indicator": "2025: CS Disco cost of revenue was 25% of revenue, implying 75% gross margin before sales, R&D, G&A and other operating expenses",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $2.0 billion, estimated from IBISWorld 2021 revenue of $1.925 billion and its 2021-2026 projected CAGR of 3.4%",
+      "growth": "2022: about 3.4% forecast annual growth implied by the IBISWorld 2021-2026 projection",
+      "profit_margin": "2021 baseline: 17.7% EBIT margin",
+      "establishments": "2021 baseline: 667 establishments",
+      "employment": "2021 baseline: 3,348 employees"
+    },
+    "how_it_makes_money": "Revenue comes from SaaS subscriptions, per-gigabyte hosting and processing fees, matter-based licenses, legal hold and collection modules, analytics and AI add-ons, government cloud deployments, support and maintenance, and adjacent professional services for implementation, managed review, investigations and regulatory response.",
+    "cost_structure": {
+      "cloud_hosting_and_infrastructure": "2025: a growing cost line; CS Disco cited higher cloud hosting costs as software usage increased",
+      "labor": "2021 baseline: wages were $560 million, reflecting the need for software engineers, data security staff, legal workflow specialists, sales teams and support staff",
+      "sales_and_marketing": "2025-2026: high customer acquisition costs remain common because enterprise legal departments, law firms and agencies require long sales cycles, security reviews and workflow migration",
+      "research_and_development": "2025-2026: elevated by generative AI, agentic AI, data connectors, mobile collection, privacy workflows and FedRAMP-grade security requirements",
+      "profit": "2021 baseline: 17.7% EBIT margin; 2025 public-company evidence shows strong software gross margins but many growth vendors still report operating losses after R&D and go-to-market spending"
+    },
+    "major_players": [
+      "Relativity",
+      "OpenText",
+      "Exterro",
+      "Reveal",
+      "CS Disco",
+      "Everlaw",
+      "Casepoint",
+      "Nuix",
+      "Consilio",
+      "KLDiscovery"
+    ],
+    "current_dynamics": "Demand is being pulled by larger ESI volumes, Slack and Teams messages, cloud documents, mobile devices, regulatory investigations, cybersecurity reviews and government records workflows. Growth is strongest for secure cloud platforms, AI-assisted review, early case assessment, legal hold automation and tools that reduce downstream hosting and managed-review costs. At the same time, federal civil filing volume can be lumpy: US district court civil case filings rose 4% to 303,563 in fiscal 2025, but for the 12 months ended March 31, 2025 civil filings fell 22% after prior MDL spikes unwound.",
+    "whats_growing": "Cloud-native review, AI-assisted document analysis, agentic fact investigation, automated legal hold, in-place preservation, mobile and collaboration-data collection, FedRAMP-authorized government platforms, privacy and breach-response workflows, and bundled per-gigabyte commercial models.",
+    "whats_shrinking": "Legacy on-premise deployments, standalone point tools without connectors, manual linear review, complex à-la-carte pricing for analytics features, and purely services-heavy discovery workflows where software can automate culling and review prioritization.",
+    "recent_developments": [
+      "2025-03: The ABA reported 73% of firms used cloud-based legal tools and 85% of litigators used electronic court filings in its 2024 Legal Technology Survey release.",
+      "2025-04: Thomson Reuters reported legal-sector GenAI usage nearly doubled from 14% in 2024 to 26% in 2025.",
+      "2025-04: Casepoint Government became FedRAMP High authorized, expanding secure SaaS e-discovery use for sensitive US government workloads.",
+      "2025-09: Thomson Reuters reported 80% of law firm respondents expected AI to fundamentally alter legal business over the next five years and 47% were already seeing at least one AI benefit.",
+      "2026-02: CS Disco reported 2025 revenue of $156.8 million, including $134.0 million in software revenue, and guided to 2026 total revenue of $167.0 million to $177.0 million.",
+      "2026-07: Relativity announced a strategic growth investment from Silver Lake to support expansion of its enterprise legal data platform."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but competitive. Software publishers should outgrow the older IBIS baseline as AI, cloud migration and regulatory data complexity expand the addressable market; however, buyers are pressing vendors for transparent pricing, defensible AI, security certifications and measurable cost reduction. The strongest vendors will combine review, collection, legal hold, information governance, privacy and investigation workflows in one secure platform.",
+    "themes": [
+      "AI-assisted review and agentic investigation",
+      "Cloud and secure government SaaS",
+      "Data volume growth across email, chat, mobile and cloud apps",
+      "Pricing pressure and per-gigabyte bundling",
+      "Information governance and defensible deletion",
+      "Cybersecurity, privacy and regulatory response",
+      "Consolidation among platform vendors"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/e-discovery-software-publishing-in-the-us.txt",
+      "https://www.fortunebusinessinsights.com/industry-reports/ediscovery-market-101503",
+      "https://www.grandviewresearch.com/industry-analysis/us-ediscovery-market-report",
+      "https://www.researchandmarkets.com/report/ediscovery-software",
+      "https://ir.csdisco.com/financials/quarterly-results/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1625641/000162564126000043/q4fy2025earningsrelease.htm",
+      "https://www.uscourts.gov/data-news/reports/statistical-reports/judicial-business-united-states-courts/judicial-business-2025",
+      "https://www.americanbar.org/news/abanews/aba-news-archives/2025/03/aba-releases-survey-tech-trends/",
+      "https://www.thomsonreuters.com/en/press-releases/2025/april/from-incubation-to-integration-generative-ai-adoption-nearly-doubles-as-professional-services-reach-crossroads",
+      "https://www.casepoint.com/press/casepoint-platform-achieves-fedramp-high-security-authorization-adds-dod-il4-designation/",
+      "https://relativity.com/news-events/press-release-relativity-announces-strategic-investment-from-silver-lake/",
+      "https://www.revealdata.com/news/logikcull-ipro-acquisition"
+    ],
+    "one_sentence": "The industry is moving from matter-by-matter document hosting toward subscription, usage-based and AI-assisted platforms as legal teams manage larger volumes of email, chat, mobile, cloud and collaboration data.",
+    "slug": "e-discovery-software-publishing-in-the-us"
+  },
+  {
+    "title": "e-Trading Software Developers",
+    "sector": "Technology & Digital",
+    "one_liner": "Developers and platform operators that power online securities, derivatives and multi-asset trading are benefiting from elevated retail engagement, options volume and AI-enabled investing tools.",
+    "overview": "This industry includes independent third-party software and platform operators that let retail and institutional investors access, execute, route, monitor and analyze securities trades online. The baseline industry grew rapidly through 2021 as online brokerage adoption, commission-free trading and pandemic-era retail participation lifted account openings and platform usage. In 2025-2026, demand remains strong because equity and options trading activity is elevated, major brokers are expanding 24-hour trading, crypto, futures, prediction markets, AI portfolio tools and private-market access, and institutional users continue to modernize execution, risk and order-management stacks. Growth is partly offset by intense price competition, in-house development by large financial institutions, regulatory implementation costs and pressure on pure commission models.",
+    "key_stats": {
+      "market_size": "$19.5 billion in 2026, based on the IBISWorld baseline forecast for the broader US e-Trading Software Developers industry",
+      "growth": "4.4% CAGR from 2021 to 2026 in the IBISWorld baseline forecast",
+      "narrow_us_online_trading_platform_market": "$3.41 billion in 2025 and $3.61 billion in 2026, with 5.92% CAGR forecast for 2026-2031 by Mordor Intelligence",
+      "profit_margin": "35.7% EBIT margin in 2026 in the IBISWorld baseline forecast",
+      "employment": "34,758 workers in 2026 in the IBISWorld baseline forecast",
+      "enterprises": "595 operators in 2026 in the IBISWorld baseline forecast",
+      "schwab_activity": "11.9 million daily average trades in 2Q 2026, up 57% year over year",
+      "ibkr_activity": "5.269 million DARTs in June 2026, up 53% year over year",
+      "us_options_volume": "15.2 billion listed options contracts in 2025, up 26% from 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$16.4 billion in 2022, estimated from the IBISWorld 2021 revenue base of $15.7 billion and its 2021-2026 CAGR forecast of 4.4%",
+      "growth": "4.4% estimated 2022 growth under the IBISWorld 2021-2026 forecast path",
+      "profit_margin": "about 36.6% in 2022, interpolated from the IBISWorld 2021 margin of 36.8% and 2026 forecast of 35.7%",
+      "context": "The 2022 baseline reflects post-pandemic normalization after 2020-2021 account-opening and trading spikes, while the structural shift to online and mobile trading remained intact."
+    },
+    "how_it_makes_money": [
+      "Platform licensing, SaaS subscriptions and enterprise implementation fees for brokers, RIAs, hedge funds, banks and trading desks",
+      "Retail brokerage platform revenue from net interest income, margin lending, securities lending, cash sweep economics and subscription products",
+      "Commission, transaction-fee and routing-related revenue, including options, futures, crypto and exchange-mandated payment streams where permitted",
+      "Market data, analytics, technical charting, signal generation, API access, premium account tiers and workflow automation tools",
+      "Customization, integration, compliance reporting, cybersecurity, hosting and support services for institutional clients"
+    ],
+    "cost_structure": {
+      "labor": "High-skilled engineers, product managers, quantitative developers, compliance specialists and customer support are the main cost base; the IBISWorld baseline forecast wages of $7.0 billion in 2026.",
+      "technology_infrastructure": "Cloud hosting, exchange connectivity, market-data feeds, low-latency architecture, cybersecurity, disaster recovery and observability costs scale with trading volume and uptime requirements.",
+      "execution_and_clearing": "Broker-operated platforms incur exchange, clearing, distribution and regulatory fees; Interactive Brokers reported execution, clearing and distribution fees equal to 7% of 2025 net revenues.",
+      "sales_and_marketing": "Retail-facing platforms spend heavily on customer acquisition, brand campaigns, promotions and active-trader events, especially as commission-free trading limits price differentiation.",
+      "regulatory_and_compliance": "Rule 605 reporting, Regulation NMS changes, best-execution controls, crypto/product approvals, audit trails and customer protection requirements add recurring compliance and systems costs.",
+      "profit": "Profitability is structurally high for scaled platforms; the IBISWorld baseline forecast industry EBIT margin is 35.7% in 2026, but margins vary sharply by scale and business mix."
+    },
+    "major_players": [
+      "Charles Schwab: the largest publicly reported US retail brokerage platform by client assets, with $13.08 trillion in client assets, 39.8 million active brokerage accounts and 11.9 million daily average trades in 2Q 2026.",
+      "Fidelity Investments: private diversified brokerage and asset-management platform with $19.9 trillion in assets under administration and 5.7 million daily average trades reported for Q2 2026.",
+      "Interactive Brokers: automated global electronic broker and active-trader platform with $6.205 billion in 2025 net revenues, 3.7 million 2025 DARTs and 5.185 million client accounts in June 2026.",
+      "Robinhood: mobile-first retail investing platform with $4.47 billion in 2025 net revenue, 27.0 million funded customers at year-end 2025 and 4.3 million Gold subscribers in Q1 2026.",
+      "Morgan Stanley E*TRADE: major online brokerage and workplace stock-plan platform embedded within Morgan Stanley's wealth-management franchise.",
+      "Specialist vendors and platforms: MetaQuotes, TradeStation, tastytrade, ETNA, Chetu and other vendors serving retail, broker-dealer and institutional trading workflows."
+    ],
+    "current_dynamics": "Trading software demand in 2025-2026 is being pulled by three forces: elevated equity and options activity, product expansion beyond basic stock trading, and regulatory/market-structure modernization. Major platforms are competing on active-trader tools, 24-hour access, futures, crypto, index options, AI portfolio insights and subscription tiers rather than only commission-free stock trades. Institutions continue to demand scalable order-management, execution-management, analytics and compliance systems, but large brokers and banks increasingly build internally when trading technology is strategically differentiating. Regulatory uncertainty around tick sizes, access fees, odd-lot data and Rule 605 reporting is raising near-term systems work while delaying some market-structure changes.",
+    "whats_growing": [
+      "Options and active-trader workflows: US listed options volume reached 15.2 billion contracts in 2025, up 26% from 2024.",
+      "AI-enabled portfolio analytics, trading alerts, personalization and customer support tools, including Schwab's Portfolio Insights launch in 2026.",
+      "Subscriptions and premium tiers, including Robinhood Gold, which reached 4.3 million subscribers in Q1 2026, up 36% year over year.",
+      "Margin lending, securities lending and cash sweep economics as client assets and leveraged trading activity rise.",
+      "24-hour trading, crypto access, futures, event contracts, prediction markets and multi-asset interfaces.",
+      "Cloud deployment, API connectivity and outsourced compliance reporting for smaller broker-dealers and fintech platforms."
+    ],
+    "whats_shrinking": [
+      "Per-trade equity commissions for basic US stock and ETF trades, because commission-free trading remains the retail standard in 2026.",
+      "Standalone desktop-only platforms that lack mobile, web, API and multi-asset functionality.",
+      "Simple technical-analysis tools without integrated data, execution, risk management or automation features.",
+      "Undifferentiated retail brokerage interfaces competing only on low price rather than breadth, trust, execution quality or product ecosystem.",
+      "Some external vendor opportunities at the largest financial institutions, where in-house trading technology development is increasing."
+    ],
+    "recent_developments": [
+      "2025-07-30: Robinhood reported Q2 2025 net revenue of $989 million, up 45% year over year, with options revenue of $265 million and total platform assets of $279 billion.",
+      "2025-10-31: The SEC granted temporary exemptive relief from certain Regulation NMS tick-size and access-fee compliance dates, delaying implementation pressure for trading systems.",
+      "2026-01-22: Cboe reported that 2025 US listed options volume reached a record 15.2 billion contracts, up 26% from 2024, with 0DTE SPX options averaging 2.3 million contracts daily.",
+      "2026-04-01: SEC staff issued Rule 605 FAQs ahead of the August 1, 2026 compliance date for expanded order-execution disclosure reporting.",
+      "2026-07-01: Interactive Brokers reported June 2026 DARTs of 5.269 million, up 53% year over year, and 5.185 million client accounts, up 34% year over year.",
+      "2026-07-21: Charles Schwab reported 2Q 2026 net revenue of $7.1 billion, up 21% year over year, and record daily average trades of 11.9 million, up 57% year over year."
+    ],
+    "outlook": "The industry should keep expanding through 2026 as investors demand faster, broader and more automated access to markets, while brokers monetize client assets through interest, margin, lending, subscriptions and premium trading tools. The IBIS-style 2026 market size is $19.5 billion, while narrower third-party online trading platform estimates place the US platform market at $3.41 billion in 2025 and $3.61 billion in 2026. Growth will likely remain positive but more competitive than the 2020-2021 spike: commission-free trading compresses direct trade fees, AI and cloud lower entry barriers, and market-structure regulation forces investment in reporting, routing and data systems. Scaled firms with large client balances, multi-asset capabilities, trusted brands and strong compliance infrastructure are best positioned.",
+    "themes": [
+      "Commission-free trading forces monetization through balances, subscriptions and adjacent products",
+      "AI portfolio insights and trading automation become mainstream platform features",
+      "Options, 0DTE contracts and active-trader tools drive engagement",
+      "Regulation NMS and Rule 605 changes increase compliance software demand",
+      "Mobile-first and 24-hour trading raise uptime, latency and risk-control expectations",
+      "Crypto, futures, prediction markets and private-market access expand the product surface",
+      "Large brokers internalize strategic trading technology while smaller firms outsource"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/e-trading-software-developers.txt",
+      "https://www.aboutschwab.com/annual-report",
+      "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/ibkr-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/hood-20251231.htm",
+      "https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-first-quarter-2026-results",
+      "https://www.cboe.com/insights/posts/the-state-of-the-options-industry-2025",
+      "https://www.mordorintelligence.com/industry-reports/united-states-online-trading-platform-market",
+      "https://www.grandviewresearch.com/horizon/outlook/online-trading-platform-market/united-states",
+      "https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-rule-605-regulation-nms",
+      "https://www.sec.gov/newsroom/speeches-statements/atkins-statement-minimum-pricing-increments-access-fee-caps-061126"
+    ],
+    "one_sentence": "The US e-trading software developer industry is an IBIS-style $19.5 billion market in 2026, anchored by online brokerage platforms, institutional execution tools, algorithmic trading systems and analytics software, with growth shifting from commission volume toward net interest, subscriptions, data, margin lending and integrated wealth workflows.",
+    "slug": "e-trading-software-developers"
+  }
+]

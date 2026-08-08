@@ -1,0 +1,403 @@
+[
+  {
+    "title": "Sports Coaching in the US",
+    "sector": "Consumer Services",
+    "one_liner": "A fragmented, youth-led coaching and sports-camp market is benefiting from post-pandemic participation recovery, higher parent spending and digital operating tools, while affordability and competition for teens’ time cap growth.",
+    "overview": "The industry sells structured instruction in athletic activities to individuals and groups, including youth camps, private lessons, club-team training, academies and sport-specific clinics. The 2022 IBIS baseline described a mature, low-concentration industry with low barriers to entry, 88.0%+ nonemployer establishments, 2022 revenue of $10.396 billion and 2022 growth of -0.3%. By 2025, IBIS-derived public reporting put US sports coaching revenue at $15.4 billion, reflecting recovery in in-person camps and instruction, higher parent willingness to pay for specialized training, and expansion of club and academy models. Demand is closely tied to youth sports participation, disposable income, college recruiting incentives, facility access and school/club calendars. The market remains labor intensive and local, but software platforms, livestreaming, online training content and athlete analytics are giving larger operators and scaled clubs better retention and pricing tools.",
+    "key_stats": {
+      "market_size": "2025: $15.4 billion US sports coaching revenue; 2026 projected: $15.5 billion",
+      "growth": "2025-2026 projected revenue growth: about 0.6%; 2021-2026 coaching business count CAGR: 4.9%",
+      "businesses": "2025: about 196,000 US sports coaching businesses",
+      "employment_context": "2024: 306,500 US coaches and scouts employed; 2024-2034 projected employment growth: 6%; 2024 median annual wage: $45,920",
+      "participation_context": "2024: 247.1 million Americans aged 6+ participated in at least one activity; 2024 active rate: 80%",
+      "youth_participation": "2024: 65% of youth ages 6-17 tried a team sport at least once; 2023: 55.4% of youth ages 6-17 played organized sports",
+      "high_school_participation": "2024-25: 8,266,244 high school sports participants, up 203,942 from 2023-24",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $10.396 billion revenue in 2022 dollars",
+      "growth": "2022: -0.3% annual revenue growth; 2003-2022 revenue CAGR: 3.82%; 2022-2028 projected CAGR: -0.16%",
+      "profit": "2022: $1.258 billion EBIT; 2022 profit margin: 12.1%",
+      "establishments": "2022: 163,538 establishments",
+      "enterprises": "2022: 159,674 enterprises",
+      "employment": "2022: 280,770 employees",
+      "wages": "2022: $3.457 billion total wages",
+      "sports_participation": "2022: 19.5% participation in sport on a typical day"
+    },
+    "how_it_makes_money": "Operators earn revenue from sports camps, private athletic instruction, academy tuition, group clinics, club-team training, recurring memberships, facility-based programs, seasonal camps, online coaching content, athlete assessments and add-on services such as nutrition, recruiting exposure, performance analytics and livestream/video tools. Premium pricing is strongest where coaches can demonstrate college-placement, elite-athlete, professional or specialized sport credentials.",
+    "cost_structure": {
+      "labor": "High; coaches, trainers, camp directors, administrators and seasonal staff are the core expense, with many part-time and seasonal workers.",
+      "facilities": "Meaningful fixed cost for owned or leased fields, courts, pools, gyms, dormitories or rented school/municipal facilities.",
+      "insurance_and_compliance": "Important due to youth safeguarding, injury risk, background checks, permits, waivers and liability coverage.",
+      "equipment_and_supplies": "Moderate; sport-specific equipment, uniforms, training aids, video/analytics devices and safety gear.",
+      "marketing_and_technology": "Rising; customer acquisition, registration software, scheduling tools, payment processing, livestreaming and digital training content are increasingly necessary.",
+      "profitability": "2022 baseline EBIT margin was 12.1%; margins vary widely, with elite private instruction and branded academies generally stronger than low-price recreational camps."
+    },
+    "major_players": [
+      "IMG Academy",
+      "Velocity Sports Performance",
+      "TeamSnap/MOJO Sports",
+      "LeagueApps",
+      "Stack Sports/PlayMetrics",
+      "Local independent coaches, clubs, academies and camps"
+    ],
+    "current_dynamics": "Demand is being pulled in two directions. Participation recovery is supporting volume: SFIA reported 247.1 million active Americans in 2024, Aspen/Project Play reported 65% of youth ages 6-17 tried team sports in 2024, and NFHS reported a record 8.266 million high school sports participants in 2024-25. At the same time, rising fees, travel-team costs and facility constraints are making affordability a binding issue, especially for lower-income families. Competitive college recruiting, NIL visibility and specialization keep premium instruction attractive, while casual and lower-commitment formats are growing because families want flexibility. Technology vendors are consolidating around registration, scheduling, payments, coaching content, video and facility management, making scaled clubs more professionally run and raising expectations for small operators.",
+    "whats_growing": [
+      "Youth sports academies, sport-specific clinics and recurring club programs tied to college recruiting pathways",
+      "Girls flag football, girls wrestling, boys volleyball, soccer, volleyball, track and other high-participation school sports",
+      "Hybrid coaching models that combine in-person training with video review, athlete monitoring, digital homework and app-based communication",
+      "Operating software for registration, scheduling, facility management, payments, livestreaming and coach education",
+      "Casual and entry-level team sport offerings that reduce commitment and cost barriers"
+    ],
+    "whats_shrinking": [
+      "Undifferentiated local camps that cannot justify price increases or secure reliable facilities",
+      "Teen regular participation in some segments; Aspen/SFIA reported 2024 regular participation for ages 13-17 continued to decline",
+      "Low-income access as youth sports costs rise faster than household budgets",
+      "Purely offline coaching operations with weak registration, communication and retention infrastructure",
+      "Tackle-football youth demand in some age groups as flag football expands"
+    ],
+    "recent_developments": [
+      "2025-02: SFIA reported 247.1 million active Americans in 2024 and an 80% activity rate for ages 6+.",
+      "2025-05: LeagueApps acquired RecTimes to add youth sports facility scheduling and operations tools.",
+      "2025-06: LeagueApps acquired soccer competition platform Mod11 after raising growth capital in 2024.",
+      "2025-06-23: NCAA Division I adopted House-settlement roster-limit changes effective July 1, 2025, altering recruiting and scholarship pathways.",
+      "2025-09-09: NFHS reported record 2024-25 high school sports participation of 8,266,244, up 203,942 from 2023-24.",
+      "2025-12: Aspen Institute State of Play 2025 reported youth sports had effectively recovered from COVID-era participation losses, while youth sports costs were up 46% since 2019."
+    ],
+    "outlook": "The 2026 outlook is modestly positive in revenue but uneven by format. IBIS-derived public reporting projects industry revenue rising from $15.4 billion in 2025 to $15.5 billion in 2026, implying about 0.6% growth. Volume should be helped by record high-school participation, casual youth sports growth, girls flag football expansion and continued parent spending on private instruction. Pricing power will concentrate among trusted brands, sport-specific specialists, academies with measurable outcomes and clubs with strong digital operations. Smaller independent coaches can still enter easily, but competition, facility scarcity, insurance costs and affordability pressure will limit margins. Longer term, the strongest operators will blend local coaching credibility with technology-enabled scheduling, video feedback, payments and retention while offering lower-cost pathways for families priced out of travel sports.",
+    "themes": [
+      "Post-pandemic participation recovery",
+      "Youth sports affordability gap",
+      "College recruiting and NIL influence",
+      "Girls sports expansion",
+      "Hybrid and video-enabled coaching",
+      "Sports-tech consolidation",
+      "Fragmented local competition",
+      "Facility access constraints"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sports-coaching-in-the-us.txt",
+      "https://joinstriveon.com/blog/sports-coaching-business",
+      "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+      "https://sfia.org/resources/sfias-topline-participation-report-shows-247-1-million-americans-were-active-in-2024/",
+      "https://projectplay.org/state-of-play-2025/introduction",
+      "https://aspen-institute-w9y5.squarespace.com/state-of-play-2025/participation-trends",
+      "https://www.nfhs.org/stories/participation-in-high-school-sports-hits-record-high-with-sizable-increase-in-2024-25",
+      "https://www.ncaa.org/story.aspx?file_date=6-23-2025&filename=media-center-di-board-of-directors-formally-adopts-changes-to-roster-limits",
+      "https://leagueapps.com/media-room/leagueapps-rectimes-acquisition-facility-management/",
+      "https://www.sportsbusinessjournal.com/Articles/2025/06/17/leagueapps-acquires-soccer-competition-platform-mod11/",
+      "https://www.teamsnap.com/mojo"
+    ],
+    "one_sentence": "Sports Coaching in the US covers private athletic instruction, sports academies and day or overnight sports camps, with 2025 revenue estimated at $15.4 billion and projected 2026 revenue of $15.5 billion as participation rebounds but price sensitivity rises.",
+    "slug": "sports-coaching-in-the-us"
+  },
+  {
+    "title": "Sports Franchises in the US",
+    "sector": "Media & Entertainment",
+    "one_liner": "US sports franchises are high-barrier entertainment assets monetizing live attendance, national media rights, sponsorships, premium venues and fast-rising franchise values.",
+    "overview": "Sports franchises in the US include professional and semiprofessional teams that stage live sporting events before paying audiences, including football, baseball, basketball, hockey, soccer and other team sports. IBISWorld's 2022 baseline put industry revenue at $43.353 billion, with 2022 revenue up 19.3% as fans returned to venues. By 2025, third-party industry data placed sports teams and clubs revenue at about $46.0 billion, while league-level indicators show stronger momentum in the largest properties: Two Circles reported 2025 sports IP revenue of $174.0 billion globally, with US properties accounting for 56%, and the NFL and NBA ranking first and second globally at $14.9 billion and $8.1 billion, respectively. The business remains structurally attractive because supply is capped by league membership, national media contracts are centrally negotiated in major leagues, and venue scarcity supports premium ticketing, suites, sponsorship inventory and mixed-use real estate economics.",
+    "key_stats": {
+      "market_size": "2025 US sports franchises and clubs revenue: $46.0 billion",
+      "growth": "2020-2025 revenue CAGR: 3.9%",
+      "profitability": "2022 IBISWorld profit margin: 7.4%; 2026 profit pressure remains tied to player salaries, venue costs and media transition costs",
+      "valuation_signal": "2025 Forbes top 50 sports teams were worth more than $353.0 billion in aggregate, up 22% from 2024",
+      "attendance_signal": "2025 MLB attendance reached 71,409,421; 2024-25 NHL attendance reached 23,014,458; 2024-25 NBA attendance exceeded 22.3 million; 2025 MLS attendance reached 11.2 million",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $43.353 billion",
+      "growth": "2017-2022 revenue CAGR: 2.1%; 2022 revenue growth: 19.3%",
+      "profit": "2022 profit: $3.208 billion; 2022 profit margin: 7.4%",
+      "wages": "2022 wages: $24.115 billion; 2022 average wage: $265,384",
+      "establishments": "2022 establishments: 1,174; 2022 enterprises: 1,086",
+      "revenue_mix": "2022 revenue mix: broadcasting and other media rights 39.9%, ticket sales 37.6%, advertising 16.3%, concessions 3.5%, licensing 1.8%, merchandise 0.9%"
+    },
+    "how_it_makes_money": "Teams earn revenue from national and local media rights, ticket sales, premium seating, sponsorship and advertising, naming rights, concessions, parking, merchandise, licensing, league revenue sharing, playoff games, sports-betting partnerships and venue-adjacent real estate or entertainment districts. The 2022 IBISWorld mix was led by media rights at 39.9% and tickets at 37.6%, but 2025-2026 growth is skewing toward national streaming rights, premium inventory, direct-to-consumer media products, sponsorship data packages and mixed-use developments around stadiums and arenas.",
+    "cost_structure": "Labor is the dominant cost: IBISWorld estimated 2022 wages at $24.115 billion, equal to about 55.6% of 2022 revenue. Other major expenses include player benefits, coaching and front-office payroll, venue operations, rent or stadium debt service, travel, insurance, security, game-day staffing, marketing, league assessments, technology, concessions procurement and revenue-sharing obligations. Costs are rising in 2025-2026 as media fragmentation requires more in-house content capacity, athletes seek larger revenue shares and new venues carry high capital and financing costs.",
+    "major_players": [
+      "National Football League teams, led financially by the Dallas Cowboys, Los Angeles Rams, New York Giants, New England Patriots and San Francisco 49ers in 2025 valuations",
+      "Major League Baseball teams, including the Los Angeles Dodgers, New York Yankees, Boston Red Sox, New York Mets and Chicago Cubs",
+      "National Basketball Association teams, including the Golden State Warriors, Los Angeles Lakers, New York Knicks, Boston Celtics and Los Angeles Clippers",
+      "National Hockey League teams, led in value by franchises such as the Toronto Maple Leafs, New York Rangers, Montreal Canadiens and Los Angeles Kings",
+      "Major League Soccer teams, including Inter Miami CF, LAFC, LA Galaxy, New York City FC and Atlanta United in 2026 valuation rankings",
+      "Fast-growing women's franchises, especially WNBA teams such as the New York Liberty, Indiana Fever and Golden State Valkyries"
+    ],
+    "current_dynamics": "The largest US franchises are benefiting from scarce-team economics and escalating rights fees, while smaller and regional teams face more uneven economics. In 2025, Forbes estimated the average NFL team value at $7.1 billion, up 25% from 2024, and the Dallas Cowboys at $13.0 billion. The NBA's 11-year media agreements with Disney, NBCUniversal and Amazon began with the 2025-26 season and are widely reported at about $76.0 billion, materially lifting expected league distributions. MLB reported record 2024 revenue of $12.1 billion and followed with 2025 attendance of 71.4 million. The RSN model remains a weak spot, pushing teams toward direct-to-consumer local streaming, over-the-air deals and league-operated media options. Institutional ownership is also becoming more important after the NFL's 2024 approval of private equity funds for passive stakes of up to 10% of a team.",
+    "whats_growing": "National media rights, streaming packages, premium seating, sponsorship data products, women's sports, MLS valuation upside, sports-betting partnerships, global fan monetization, mixed-use districts around venues and minority-stake transactions are growing. Women's sports are a standout: Forbes estimated 2025 average WNBA team value at $272.0 million, and Sports Business Journal reported 2025 WNBA paid attendance of 3.15 million, up 34% from 2024. MLS reported 2025 ticketing revenue at an all-time high and 11.2 million regular-season fans, while Forbes estimated 2026 average MLS club value at $731.0 million, up 6% from 2025.",
+    "whats_shrinking": "Traditional regional sports network economics, purely local cable reach, affordability for middle-income families, and low-premium general seating inventory are under pressure. Some teams with weaker records, older venues or smaller local media markets are seeing less pricing power than top franchises. Cost discipline is also worsening as player payrolls, collective bargaining obligations, travel, stadium financing and media production costs rise. MLB competitive-balance tensions are likely to intensify before the collective bargaining agreement expires in December 2026.",
+    "recent_developments": [
+      "2024-07-24: NBA announced 11-year media agreements with Disney, NBCUniversal and Amazon running from 2025-26 through 2035-36.",
+      "2024-08-27: NFL owners approved passive private-equity ownership of up to 10% of a team.",
+      "2025-04-18: NHL announced 2024-25 regular-season attendance of 23,014,458, its first season above 23.0 million.",
+      "2025-08-13: NBA approved the Boston Celtics sale at a $6.1 billion valuation, then the highest US pro sports franchise sale valuation.",
+      "2025-09-29: MLB announced 2025 attendance of 71,409,421, its third consecutive year of attendance growth.",
+      "2026-04-27: Sports Business Journal reported Two Circles data showing 2025 global sports IP revenue of $174.0 billion, with US properties at 56% of the total."
+    ],
+    "outlook": "The 2026-2030 outlook is positive but uneven. Revenue should grow faster for NFL, NBA, top MLB, top MLS and high-demand women's teams than for lower-profile regional operators. Media-rights step-ups, premium venue monetization, new sponsorship categories and expansion fees will support growth, while household affordability, possible MLB labor conflict in 2026, regional media disruption and rising player compensation constrain margins. A reasonable near-term base case is low-to-mid single-digit annual revenue growth from the 2025 market size, with valuations continuing to rise faster than operating income for scarce top-tier franchises.",
+    "themes": [
+      "Scarce franchise supply",
+      "Media-rights inflation",
+      "Streaming migration",
+      "Premium live experiences",
+      "Private equity and minority stakes",
+      "Women's sports monetization",
+      "Venue districts and real estate",
+      "Sports betting partnerships",
+      "Labor and salary pressure",
+      "Regional sports network disruption"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Sports Franchises in the US, July 29, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/sports-franchises-in-the-us.txt', 'year': 2022}",
+      "{'title': 'FRED, U.S. Census Bureau, Total Revenue for Sports Teams and Clubs, All Establishments, Employer Firms', 'url': 'https://fred.stlouisfed.org/series/REVEF711211ALLEST', 'year': 2024}",
+      "{'title': 'Kentley Insights, Sports Franchises and Clubs Market Research Report', 'url': 'https://www.kentleyinsights.com/sports-franchises-and-clubs-industry-market-research-report/', 'year': 2026}",
+      "{'title': 'Research and Markets, Sports Franchises in the US - Market Analysis Report 2015-2030', 'url': 'https://www.researchandmarkets.com/report/united-states-sports-franchises-market', 'year': 2025}",
+      "{'title': \"Forbes, The World's 50 Most Valuable Sports Teams 2025\", 'url': 'https://www.forbes.com/sites/brettknight/2025/12/18/the-worlds-50-most-valuable-sports-teams-2025/', 'year': 2025}",
+      "{'title': \"Forbes, The NFL's Most Valuable Teams 2025\", 'url': 'https://www.forbes.com/sites/justinteitelbaum/2025/08/28/the-nfls-most-valuable-teams-2025/', 'year': 2025}",
+      "{'title': 'NBA.com, NBA signs new 11-year media agreements', 'url': 'https://www.nba.com/news/nba-media-agreements-2024', 'year': 2024}",
+      "{'title': 'NFL.com, NFL owners vote to allow private equity funds to buy stakes in teams', 'url': 'https://www.nfl.com/news/nfl-owners-vote-to-allow-private-equity-funds-to-buy-stakes-in-teams', 'year': 2024}",
+      "{'title': 'NBA.com, NBA approves sale of Boston Celtics at record valuation', 'url': 'https://www.nba.com/news/nba-approves-sale-of-boston-celtics', 'year': 2025}",
+      "{'title': 'MLB.com, MLB attendance reaches 71.4 million', 'url': 'https://www.mlb.com/amp/press-release/press-release-mlb-attendance-reaches-71-4-million-three-straight-years-of-growth-for-first-time-since-2007.html', 'year': 2025}",
+      "{'title': 'NHL.com, NHL sets regular-season attendance record in 2024-25', 'url': 'https://www.nhl.com/news/nhl-sets-regular-season-attendance-record-in-2024-2025', 'year': 2025}",
+      "{'title': 'Sports Business Journal, Global sports IP revenues reached $174B in 2025', 'url': 'https://www.sportsbusinessjournal.com/Articles/2026/04/27/global-sports-ip-revenues-reached-174b-in-2025-led-by-us-leagues/', 'year': 2026}",
+      "{'title': \"MLSsoccer.com, Major League Soccer's 30th regular season brings unmatched fan engagement\", 'url': 'https://www.mlssoccer.com/news/major-league-soccer-s-30th-regular-season-brings-unmatched-fan-engagement', 'year': 2025}",
+      "{'title': 'Forbes, The Most Valuable MLS Teams 2026', 'url': 'https://www.forbes.com/sites/justinbirnbaum/2026/02/13/the-most-valuable-mls-teams-2026/', 'year': 2026}",
+      "{'title': \"Forbes, The WNBA's Most Valuable Teams 2025\", 'url': 'https://www.forbes.com/sites/brettknight/2025/06/06/the-wnbas-most-valuable-teams-2025/', 'year': 2025}",
+      "{'title': 'Sports Business Journal, Relocating high-demand games pushes WNBA to new attendance highs', 'url': 'https://www.sportsbusinessjournal.com/Articles/2025/09/12/relocating-high-demand-games-pushes-wnba-to-new-attendance-highs/', 'year': 2025}"
+    ],
+    "one_sentence": "The industry has moved beyond its 2022 pandemic rebound into a 2025-2026 cycle led by larger media-rights distributions, record or near-record attendance in major leagues, premium seating, streaming distribution and institutional capital entering team ownership.",
+    "slug": "sports-franchises-in-the-us"
+  },
+  {
+    "title": "Sports Medicine Practitioners",
+    "sector": "Healthcare",
+    "one_liner": "A fragmented, labor-heavy care market riding high sports participation, aging active adults, and rehabilitation demand while reimbursement and clinical staffing pressure margins.",
+    "overview": "The US Sports Medicine Practitioners industry remains a growth healthcare-services niche rather than a device market: its core revenue comes from clinical evaluation, injury treatment, rehabilitation, return-to-play programs, and preventive care for athletes and active consumers. IBISWorld's 2021 baseline placed revenue at $24.65 billion and projected the industry to reach about $27.5 billion by 2026, implying low-single-digit annual growth after the pandemic disruption. Current 2025-2026 conditions support that trajectory: SFIA reported that 250.0 million Americans age 6+ participated in at least one sport, fitness, or leisure activity in 2025, while Census reported that 92.0% of people had health insurance for some or all of 2024 and CMS reported 2024 physician and clinical services spending of $1.1097 trillion, up 8.1%. Demand is broadening beyond elite athletes toward youth sports, aging recreational athletes, orthopedics, outpatient rehabilitation, concussion protocols, minimally invasive care pathways, and employer/industrial injury prevention.",
+    "key_stats": {
+      "market_size": "$27.5 billion in 2026 estimated industry revenue, based on the 2021 IBISWorld forecast path",
+      "growth": "2.2% CAGR projected for 2021-2026 in the baseline; 2025-2026 demand indicators remain positive but margin-sensitive",
+      "profit_margin": "13.9% EBIT margin in 2021 baseline; 2025-2026 outpatient rehab comparables show lower public-company segment margins in some scaled networks",
+      "establishments": "126,164 establishments forecast for 2026 in the baseline",
+      "employment": "149,006 workers forecast for 2026 in the baseline",
+      "participation_driver": "250.0 million Americans age 6+ participated in at least one sport, fitness, or leisure activity in 2025",
+      "insurance_driver": "92.0% of people had health insurance for some or all of 2024; private coverage was 66.1% in 2024",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$25.2 billion estimated 2022 revenue, interpolated from the baseline's $24.65 billion 2021 revenue and 2.2% projected CAGR",
+      "growth": "2.2% estimated 2022 revenue growth on the baseline forecast path",
+      "profit_margin": "about 13.9% near-term baseline margin, with wage and pandemic recovery pressure",
+      "context": "2022 was an early post-pandemic normalization year as sports schedules, elective care, and outpatient rehabilitation volumes recovered."
+    },
+    "how_it_makes_money": "Revenue is generated from patient visits and care episodes: diagnosis and treatment of acute and overuse injuries, orthopedic sports-medicine consultations, rehabilitation and post-rehabilitation therapy, performance and injury-prevention programs, athletic training contracts, team or school medical coverage, imaging/lab referrals where integrated, and cash-pay services such as return-to-sport assessments, bracing, wellness, and concierge performance programs. Payers include commercial insurers, Medicare, Medicaid, workers' compensation, schools, colleges, professional teams, employers, and consumers paying deductibles or out-of-pocket charges.",
+    "cost_structure": {
+      "labor": "Largest cost bucket; physicians, physical therapists, athletic trainers, assistants, aides, front-office staff, billing, and compliance functions dominate operating expense. Baseline wages were $11.727 billion in 2021, equal to roughly 47.6% of 2021 revenue.",
+      "rent_and_facilities": "Clinic leases, treatment rooms, gym/rehab space, utilities, maintenance, and local market access costs are meaningful, especially for outpatient networks.",
+      "medical_supplies_and_equipment": "Braces, taping, injectables where applicable, rehab equipment, diagnostic tools, EMR systems, and sports-performance technology are recurring or replacement costs.",
+      "insurance_and_admin": "Malpractice insurance, credentialing, coding, billing, payer-contract management, prior authorization, and regulatory compliance are persistent overhead.",
+      "marketing_and_affiliations": "Team, school, club, and health-system partnerships can drive referrals but may require sponsorship, staffing, or discounted services.",
+      "profit": "Baseline EBIT margin was 13.9% in 2021; 2025-2026 margins depend heavily on payer mix, clinician utilization, wage inflation, visit volumes, and reimbursement updates."
+    },
+    "major_players": [
+      "Highly fragmented independent sports medicine and rehabilitation practices",
+      "Hospital-affiliated orthopedic and sports-medicine programs",
+      "Select Medical outpatient rehabilitation network",
+      "U.S. Physical Therapy",
+      "ATI Physical Therapy",
+      "Athletico Physical Therapy and Upstream Rehabilitation",
+      "Academic medical centers and branded orthopedic institutes such as HSS, Mayo Clinic, Cleveland Clinic, and Andrews Sports Medicine"
+    ],
+    "current_dynamics": "Demand is being pulled upward by record broad-based activity participation, youth and adult team sports, racquet-sport growth, aging consumers trying to stay active, and orthopedic innovation. At the same time, the business is constrained by clinician shortages, wage inflation, payer authorization friction, commercial reimbursement pressure, and Medicare fee-schedule complexity. The industry is still local and referral-driven, but scaled operators and health systems are using outpatient rehab networks, sports-team affiliations, digital engagement, and employer injury-prevention programs to consolidate demand. Device-market growth in arthroscopy, body reconstruction, support, recovery, and monitoring helps practitioners offer better treatment options, but it is not the same revenue pool as practitioner services.",
+    "whats_growing": "Youth and adult sports participation, team-sports recovery, pickleball and other racquet-sport injuries, preventive screening, concussion management, return-to-play protocols, outpatient rehabilitation, minimally invasive orthopedic pathways, post-surgical rehab, employer injury-prevention programs, and digitally supported home-exercise adherence are growing. SFIA's 2026 report showed participation reached 250.0 million Americans in 2025, and BLS projected athletic trainer employment to grow 11% from 2024 to 2034.",
+    "whats_shrinking": "Pandemic-era telehealth substitution is less central for hands-on rehab, casual post-Olympic participation momentum softened in the first half of 2025, and lower-frequency participation can weaken injury volume despite high headline participation. Reimbursement per visit is pressured when payer contracts lag wage inflation, authorization hurdles delay treatment, and public-program fee schedules constrain pricing. Smaller clinics without referral density, payer leverage, or enough clinicians face tougher competition from hospital systems and regional chains.",
+    "recent_developments": [
+      "2025-02: SFIA reported 247.1 million active Americans in 2024, with the active participation rate reaching 80.0% for the first time in its tracking history.",
+      "2025-08: SFIA's first-half 2025 update showed inactivity rising to 22.9%, roughly one million more inactive Americans, while pickleball participation still grew 14.7%.",
+      "2025-09: Census reported that 92.0% of people had health insurance for some or all of 2024, with private coverage at 66.1%.",
+      "2025-10: CMS finalized CY 2026 Physician Fee Schedule conversion factors up 3.77% for qualifying APM clinicians and 3.26% for nonqualifying clinicians, while adding a -2.5% efficiency adjustment to many non-time-based services.",
+      "2026-02: U.S. Physical Therapy reported 2025 revenue of $781 million and 780 owned or managed clinics at year-end 2025, plus early-2026 acquisitions in clinics and industrial injury prevention.",
+      "2026-03: SFIA's 2026 Topline Participation Report found 250.0 million Americans age 6+ participated in at least one sport, fitness, or leisure activity in 2025."
+    ],
+    "outlook": "The industry outlook is positive but not exuberant. A reasonable 2026 view is continued low-single-digit practitioner revenue growth toward the baseline's $27.5 billion estimate, with better volume than pricing in many markets. The strongest operators will be those with reliable referral streams, sports-team or school relationships, orthopedic integration, clinician recruiting capacity, authorization and billing discipline, and enough scale to absorb wage and compliance costs. Upside comes from record activity participation, aging active adults, ASC and minimally invasive orthopedic growth, and injury-prevention programs. Downside comes from insurance friction, uneven consumer affordability, clinician scarcity, and payer pressure on rehab and physician reimbursement.",
+    "themes": [
+      "The graying athlete",
+      "Youth sports as healthcare demand engine",
+      "Outpatient rehab consolidation",
+      "Payer pressure and authorization friction",
+      "Minimally invasive orthopedics",
+      "Return-to-play and prevention protocols",
+      "Clinical labor squeeze",
+      "Sports participation bifurcation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sports-medicine-practitioners.txt",
+      "https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/",
+      "https://sfia.org/resources/sfia-releases-first-edition-of-mid-year-participation-report-with-real-time-analysis/",
+      "https://www.census.gov/library/publications/2025/demo/p60-288.html",
+      "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet",
+      "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+      "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f",
+      "https://ebs.publicnow.com/view/B3D55168AC7C667F605392978E1AC999F63AC0B4",
+      "https://www.orthoworld.com/sports-medicine-market-size-and-share/"
+    ],
+    "one_sentence": "Sports medicine practitioners diagnose, treat, prevent, and rehabilitate injuries tied to sports, exercise, and recreation, with revenue supported by insured musculoskeletal care, school and club athletics, orthopedic referrals, and outpatient rehab demand.",
+    "slug": "sports-medicine-practitioners"
+  },
+  {
+    "title": "Sports Stadium Construction",
+    "sector": "Construction",
+    "one_liner": "A project-driven construction niche building and renovating stadiums, arenas and sports venues for teams, schools, universities and municipalities.",
+    "overview": "The industry constructs, renovates, alters and maintains stadiums, arenas and sports venues for football, baseball, soccer, basketball, hockey, tennis, college athletics, school sports and amateur tournaments. Demand is lumpy because a single NFL, MLB, MLS or major university project can add hundreds of millions or billions of dollars of work during construction, then disappear from revenue after completion. The baseline IBIS file estimated 2021 revenue at $12.334 billion and forecast 2026 revenue at $13.8 billion in 2021 dollars, but current 2025-2026 activity is being shaped by a heavy wave of renovations, World Cup readiness projects, new NFL stadiums and mixed-use sports districts. Public-private partnerships remain central because stadiums often combine team equity, public bonds, hotel or sales taxes, naming rights, premium seating, league financing and adjacent real estate value.",
+    "key_stats": {
+      "market_size": "2026: $13.8 billion estimated US Sports Stadium Construction revenue, based on the baseline IBIS forecast in 2021 dollars.",
+      "growth": "2021-2026: +2.3% CAGR forecast in the baseline file; 2026 activity is supported by more than $15.5 billion of scheduled US and Canada sports-facility completions reported by Sports Business Journal.",
+      "profit_margin": "2026: 3.5% baseline forecast EBIT margin, reflecting competitive bidding and high materials exposure.",
+      "employment": "2026: 21,138 workers forecast in the baseline file.",
+      "enterprises": "2026: 3,787 operators forecast in the baseline file.",
+      "demand_proxy": "April 2026: $45.912 billion SAAR for total US amusement and recreation construction spending in FRED/Census data.",
+      "completed_project_spending": "2025: $6.5 billion of sports-related construction completed, according to Sports Business Journal.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: approximately $12.6 billion, derived from the baseline file's 2021 revenue of $12.334 billion and 2021-2026 forecast CAGR of about 2.3%, in 2021 dollars.",
+      "growth": "2022: approximately +2.3% YoY implied by the baseline forecast path.",
+      "profit_margin": "2022: approximately 3.5% EBIT margin implied by the baseline's steady 2021-2026 margin outlook.",
+      "context": "2022 was an early recovery year after 2020-2021 COVID disruption, with demand tied to reopening sports franchises, school capital budgets and recovering state and local finances."
+    },
+    "how_it_makes_money": "Operators make money through general contracting, construction management, design-build packages, renovation contracts, maintenance and alteration work, specialty subcontracting and project-management services. Revenue is typically recognized over multi-year construction schedules and is funded by professional teams, universities, school districts, municipal authorities, state and local bonds, public-private partnerships, sponsorship-backed facility upgrades and private mixed-use development plans around venues.",
+    "cost_structure": "Major costs are subcontracted labor, steel, concrete, glass, electrical systems, seating, mechanical systems, roofing, turf or playing surfaces, scoreboards, security systems, insurance, bonding, equipment, design coordination and project overhead. The baseline file put 2021 profit at $432 million, or 3.5% of revenue, and forecast the 2026 margin to remain about 3.5%, indicating that bid competition and material-cost risk limit margin expansion even when project volume rises.",
+    "major_players": [
+      "Turner Construction",
+      "Gilbane Building Company",
+      "AECOM Hunt",
+      "Barton Malow",
+      "Manhattan Construction",
+      "Mortenson",
+      "Clark Construction",
+      "PCL Construction",
+      "McHugh Construction",
+      "Populous and HOK as influential stadium designers rather than pure contractors"
+    ],
+    "current_dynamics": "The 2025 market was renovation-heavy, while 2026 shows a larger completion wave led by NFL, MLS, MLB, college, arena and amateur sports projects. Contractors are benefiting from stadium owners pursuing premium seating, hospitality, club spaces, canopy and concourse upgrades, mixed-use districts, World Cup-readiness work and year-round event programming. At the same time, high interest rates, public scrutiny of taxpayer support, labor constraints and materials volatility make project financing and guaranteed maximum price negotiations more difficult.",
+    "whats_growing": "Large professional-stadium projects, major renovations, soccer-specific stadiums, women’s sports training facilities, youth and amateur tournament complexes, premium seating upgrades, hospitality clubs, mixed-use districts around venues, sustainability features, shade canopies, frictionless concessions, digital signage and event-ready arena modernization are growing in 2025-2026.",
+    "whats_shrinking": "Purely publicly funded stadium deals, small single-purpose venues, low-margin bid work without escalation protection, new projects lacking adjacent real estate economics, and older facilities without major tenant commitments are under pressure. The 2025 completion mix also showed fewer new major-league venue openings, with the largest projects concentrated in renovations.",
+    "recent_developments": [
+      "2025-02: Jacksonville Jaguars Stadium of the Future construction began, with grand opening planned for August 2028.",
+      "2025-12-22: Sports Business Journal reported $6.5 billion of sports-related construction completed in 2025, led by renovation projects.",
+      "2026-01-19: Sports Business Journal projected more than $15.5 billion of US and Canada sports-facility construction completions in 2026.",
+      "2026-03-25: The Tennessee Titans' $2.1 billion new enclosed stadium was reported on track for February 2027 completion.",
+      "2026-06-23: The Buffalo Bills opened the new $2.1 billion Highmark Stadium after a June 5, 2023 groundbreaking.",
+      "2026-07-15: ConstructConnect identified six major stadium projects to track in 2026, with many scheduled for 2028-2030 completion."
+    ],
+    "outlook": "The 2026 outlook is favorable but uneven. The baseline forecast points to $13.8 billion of 2026 industry revenue and about 2.3% annualized growth from 2021, while current project reporting indicates a near-term bulge in completions from major renovations, the new Highmark Stadium, Miami Freedom Park, World Cup-related upgrades and several college and amateur facilities. Beyond 2026, the pipeline remains strong around NFL replacements, soccer expansion, mixed-use districts and campus athletics, but public approvals, financing costs and voter scrutiny will decide which proposed projects actually reach construction.",
+    "themes": [
+      "Public-private partnerships",
+      "Renovation over replacement",
+      "NFL stadium replacement cycle",
+      "Soccer and MLS expansion",
+      "College athletics arms race",
+      "World Cup 2026 readiness",
+      "Premium seating and hospitality revenue",
+      "Mixed-use sports districts",
+      "Youth and amateur tournament tourism",
+      "Materials and labor cost pressure",
+      "Public funding scrutiny",
+      "Sustainability and all-weather venue design"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/sports-stadium-construction.txt",
+      "https://fred.stlouisfed.org/series/TLAMUSCONS",
+      "https://www.census.gov/construction/c30/at_a_glance.html",
+      "https://www.sportsbusinessjournal.com/Articles/2025/12/22/year-in-review-construction-spending/",
+      "https://www.sportsbusinessjournal.com/Articles/2026/01/19/spending-seen-on-sports-facilities-set-to-open-in-2026-reaches-155b/",
+      "https://www.sportsbusinessjournal.com/Articles/2026/01/19/grand-openings-a-sampling-of-new-and-renovated-sports-venue-projects-scheduled-for-completion-in-2026/",
+      "https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
+      "https://www.buffalobillsnewstadium.com/",
+      "https://www.tennesseetitans.com/new-stadium/info",
+      "https://www.nfl.com/news/titans-new-enclosed-stadium-on-track-february-2027-completion",
+      "https://www.jaguars.com/stadiumofthefuture/faqs",
+      "https://www.constructconnect.com/blog/the-top-6-stadium-construction-projects-to-track-in-2026"
+    ],
+    "one_sentence": "Sports Stadium Construction contractors earn revenue from large, irregular new-build and renovation contracts whose timing depends on franchise economics, public financing, school and university capital budgets, event-hosting ambitions and construction input costs.",
+    "slug": "sports-stadium-construction"
+  },
+  {
+    "title": "Steam & Air-Conditioning Supply in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "District steam, hot-water and chilled-water networks serve dense commercial districts, campuses, hospitals and multifamily buildings where central plants can beat building-by-building heating and cooling.",
+    "overview": "Operators generate and distribute steam, hot water, chilled water and related thermal energy through closed pipe networks serving downtown districts, campuses, hospitals, airports, multifamily towers and institutional complexes. The baseline IBIS file estimated 2021 revenue at $1.298 billion and projected 2021-2026 revenue growth of about 2.4% CAGR to $1.5 billion in 2026. Public 2025-2026 evidence is consistent with a modest-growth, infrastructure-heavy market: Con Edison alone reported 2025 steam revenue of $703 million, while private district energy operators such as Vicinity Energy and CenTrio are investing in electrification, thermal storage, concessions and refinancing to expand or decarbonize systems.",
+    "key_stats": {
+      "market_size": "2025 estimated US industry revenue: about $1.42 billion; 2026 estimated US industry revenue: about $1.46-$1.50 billion, based on the IBIS 2021 revenue baseline of $1.298 billion and its 2021-2026/2027 projected growth path.",
+      "growth": "2021-2026 projected revenue CAGR: about 2.4%; 2025 estimated year-over-year growth: about 2.3%; 2026 estimated year-over-year growth: about 2.3%.",
+      "profitability": "2021 IBIS profit margin: 12.5%; 2026 IBIS projected profit margin: 13.6%, assuming calmer natural gas costs and higher nonresidential demand.",
+      "employment": "2021 IBIS employment: 1,982 workers; 2026 IBIS projected employment: 2,202 workers.",
+      "establishments": "2021 IBIS establishments: 126; 2026 IBIS projected establishments: 144.",
+      "input_price": "EIA July 2026 STEO: Henry Hub natural gas averaged $3.53/MMBtu in 2025 and is forecast at $3.67/MMBtu in 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $1.33 billion, derived from the IBIS 2021 baseline of $1.298 billion and the projected 2021-2027 CAGR of 2.33%.",
+      "growth": "2022 estimated revenue growth: about 2.3% year over year.",
+      "context": "2022 demand was still recovering from pandemic-era commercial occupancy weakness, while residential and institutional loads, CHP use and high fuel-price sensitivity supported district energy economics."
+    },
+    "how_it_makes_money": "Revenue comes from long-term thermal energy service contracts, regulated or tariffed steam sales, chilled-water and hot-water delivery charges, capacity charges, metered consumption charges, operations-and-maintenance agreements, campus utility concessions, energy asset management and, where cogeneration is present, related power or resiliency services. Customers pay for reliability, avoided boiler/chiller ownership, space savings, compliance support and centralized maintenance.",
+    "cost_structure": "The industry is capital-intensive: central plants, boilers, chillers, cogeneration units, pumps, controls and underground mains require high fixed investment and ongoing depreciation. Major variable costs are natural gas, purchased electricity, purchased steam or power, water treatment, chemicals and maintenance. Labor is meaningful because systems need skilled operators, engineers and pipe-network crews; IBIS estimated 2021 wages at $218.8 million and projected 2026 wages at $243.8 million. Margins rise when utilization is high and fuel costs are pass-through or stable, and compress when gas, power, maintenance or property-tax costs rise faster than tariffs and contracts.",
+    "major_players": [
+      "Consolidated Edison Company of New York: reported 2025 steam operating revenue of $703 million, up from $578 million in 2024, and delivered 16,975 MMlb of steam to customers in 2025.",
+      "Vicinity Energy: 2026 company materials describe it as operating 19 district energy systems in 12 US cities and delivering carbon-free eSteam to Boston and Cambridge customers.",
+      "CenTrio: 2026 company materials cite 380+ customers or partners, 146+ million square feet served, and downtown or campus systems in markets including Chicago, Houston, Los Angeles, New Orleans, Portland, Seattle, Syracuse and Baton Rouge.",
+      "Cordia: private district energy platform serving urban, healthcare, education and commercial customers, with demand tied to outsourced campus utility operations and thermal infrastructure modernization.",
+      "Campus and municipal utility systems: universities, medical centers, airports and public authorities remain important competitors or partners when they own central plants directly rather than outsourcing service."
+    ],
+    "current_dynamics": "In 2025-2026, demand is being pulled in two directions. District energy benefits from electrification mandates, building performance standards, resilience planning, campus infrastructure outsourcing and the economics of serving dense buildings from central plants. At the same time, private nonresidential construction softened in 2026: Census reported May 2026 private nonresidential construction at a $738.7 billion seasonally adjusted annual rate, down 0.3% from April 2026, and total construction spending in the first five months of 2026 was 2.7% below the same period in 2025. Fuel costs remain a live issue: EIA’s July 2026 STEO forecast Henry Hub at $3.67/MMBtu in 2026 versus $3.53/MMBtu in 2025, but above-average inventories limited near-term price pressure.",
+    "whats_growing": "Electrified steam using industrial-scale electric boilers, large heat pumps and thermal storage; district cooling in hot, dense downtowns; public-private campus concessions; hospital and university resiliency projects; CHP and microgrid integration; building-owner demand for lower-carbon thermal supply; and utility-style infrastructure refinancing for long-duration growth capital.",
+    "whats_shrinking": "New office-driven load growth is weaker where hybrid work and high interest rates delay commercial projects. Some institutions are reducing dependence on third-party suppliers by building or modernizing their own central plants. Conventional fossil-only steam systems face rising policy and customer pressure as cities tighten building emissions rules. Margin upside shrinks when fuel and purchased power costs rise before contracts or tariffs reset.",
+    "recent_developments": [
+      "2025-12-31: Con Edison reported 2025 steam revenue of $703 million, up from $578 million in 2024, with 16,975 MMlb of steam delivered to customers.",
+      "2026-01: Con Edison forecast 2026/2027 design-weather steam peak demand of about 7.3 MMlb per hour and expected steam peak demand to decline about 0.9% annually over the next five years.",
+      "2026-05: US Census reported May 2026 private nonresidential construction at a $738.7 billion seasonally adjusted annual rate, 0.3% below April 2026.",
+      "2026-07-01: CenTrio completed a $485 million refinancing, including a $150 million delayed-draw term loan to support future growth investments.",
+      "2026-07: EIA forecast 2026 Henry Hub natural gas at $3.67/MMBtu and 2027 at $3.49/MMBtu, with inventories above the five-year average limiting price pressure."
+    ],
+    "outlook": "The 2026 outlook is moderate growth rather than breakout expansion. Revenue should remain near $1.46-$1.50 billion in 2026, with demand supported by existing contracted loads, district cooling, hospital and campus resilience, and decarbonization retrofits. Growth is strongest where operators can attach new buildings to existing networks or win long-term campus concessions. The main downside risks are soft office construction, expensive capital, customer self-supply, fuel-price swings and political uncertainty around building performance rules. Over 2026-2027, operators with electric boilers, heat pumps, thermal storage, CHP and pass-through fuel mechanisms should be better positioned than fossil-steam systems dependent on flat office loads.",
+    "themes": [
+      "District energy decarbonization",
+      "Building performance standards",
+      "Campus utility outsourcing",
+      "Thermal storage and electric boilers",
+      "CHP and microgrids",
+      "Urban resilience",
+      "Natural gas cost exposure",
+      "Soft office construction",
+      "Capital-intensive infrastructure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBIS file provided by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/steam-and-air-conditioning-supply-in-the-us.txt', 'date_used': '2026-08-08'}",
+      "{'name': 'US Census Bureau, Monthly Construction Spending, May 2026 release', 'url': 'https://www.census.gov/construction/c30/current/index.html', 'date_used': '2026-08-08'}",
+      "{'name': 'US Energy Information Administration, Short-Term Energy Outlook natural gas report, July 2026', 'url': 'https://www.eia.gov/outlooks/steo/report/natgas.php', 'date_used': '2026-08-08'}",
+      "{'name': 'US Department of Energy, Combined Heat and Power and District Energy', 'url': 'https://www.energy.gov/eere/iedo/combined-heat-and-power-chp-and-district-energy', 'date_used': '2026-08-08'}",
+      "{'name': 'Consolidated Edison 2025 Annual Report / SEC filing', 'url': 'https://www.sec.gov/Archives/edgar/data/1047862/000104786226000064/annualreport25_finalv2.htm', 'date_used': '2026-08-08'}",
+      "{'name': 'Vicinity Energy, company district energy and electric boiler pages', 'url': 'https://www.vicinityenergy.us/', 'date_used': '2026-08-08'}",
+      "{'name': 'CenTrio, company district energy systems overview', 'url': 'https://www.centrioenergy.com/', 'date_used': '2026-08-08'}",
+      "{'name': 'CenTrio refinancing announcement, July 1 2026', 'url': 'https://www.prnewswire.com/news-releases/centrio-successfully-completes-485-million-comprehensive-refinancing-to-support-long-term-growth-302816015.html', 'date_used': '2026-08-08'}"
+    ],
+    "one_sentence": "The US steam and air-conditioning supply industry is a small, capital-intensive district energy market whose 2025-2026 growth is supported by building electrification, campus outsourcing and resilience needs, but capped by soft office construction, customer internalization and fuel-cost volatility.",
+    "slug": "steam-and-air-conditioning-supply-in-the-us"
+  }
+]

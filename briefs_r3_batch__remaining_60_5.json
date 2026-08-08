@@ -1,0 +1,458 @@
+[
+  {
+    "title": "Online Plumbing & Electrical Supply Sales",
+    "sector": "Retail",
+    "one_liner": "Online sellers of plumbing and electrical supplies are still growing, but 2025-2026 demand is being split between weak housing and stronger nonresidential, infrastructure and contractor e-commerce adoption.",
+    "overview": "Online Plumbing & Electrical Supply Sales covers e-tailers and distributor digital channels selling plumbing and electrical products without counting traditional branch or store transactions. The 2022 IBISWorld baseline put US revenue at $18.769 billion, with 2017-2022 revenue CAGR of 4.5% and 2022 revenue growth of 0.3%. Using the 2022 baseline, the report's 2022-2028 projected CAGR of 3.45%, and 2025-2026 demand indicators, estimated 2025 US industry revenue is about $20.8 billion and estimated 2026 revenue is about $21.5 billion. Growth is being supported by US retail e-commerce sales of $326.740 billion in Q1 2026, up 9.8% from $297.701 billion in Q1 2025, but constrained by Census construction spending that was down 2.7% year over year in the first five months of 2026.",
+    "key_stats": {
+      "market_size": "2025 estimated US revenue: $20.8 billion; 2026 estimated US revenue: $21.5 billion",
+      "growth": "2025 estimated revenue growth: 3.5%; 2026 estimated revenue growth: 3.4%",
+      "profit_margin": "2022 baseline EBIT margin: 4.1% of revenue",
+      "establishments": "2022 baseline establishments: 2,009",
+      "employment": "2022 baseline employment: 23,092 workers",
+      "ecommerce_context": "US retail e-commerce sales were $326.740 billion in Q1 2026, up 9.8% from $297.701 billion in Q1 2025",
+      "construction_context": "US construction spending was $858.4 billion in the first five months of 2026, down 2.7% from $882.2 billion in the first five months of 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $18.769 billion",
+      "growth": "2017-2022 CAGR: 4.5%; 2022 annual growth: 0.3%; 2022-2028 projected CAGR: 3.45%",
+      "profit": "2022 profit: $770 million",
+      "profit_margin": "2022 profit margin: 4.1%",
+      "industry_gross_product": "2022 industry gross product: $2.647 billion",
+      "enterprises": "2022 enterprises: 1,056",
+      "establishments": "2022 establishments: 2,009",
+      "wages": "2022 wages: $1.758 billion"
+    },
+    "how_it_makes_money": "Operators make money by buying plumbing and electrical supplies from manufacturers, wholesalers and distributors, listing large assortments online, and earning gross margin on product sales to trade professionals, small businesses, facilities teams and DIY consumers. Revenue also comes from marketplace listings, private-label products, bulk contractor accounts, shipping and handling fees, replenishment programs, and value-added services such as technical support, job-site delivery, inventory tools and account-based purchasing portals.",
+    "cost_structure": {
+      "purchases": "2025-2026 largest cost category; product acquisition costs are exposed to copper, steel, aluminum, resin, brass and imported component prices",
+      "fulfillment": "2025-2026 major cost category; warehousing, parcel freight, LTL delivery, drop shipping, returns and job-site delivery are critical to service levels",
+      "labor": "2022 wages were $1.758 billion; 2025-2026 labor needs are concentrated in warehouse operations, customer service, inside sales, product data and digital merchandising",
+      "technology": "2025-2026 spending is rising for search, product content, pricing engines, ERP integration, mobile apps, customer portals and AI-assisted support",
+      "marketing": "2025-2026 paid search, marketplace fees and customer acquisition costs remain high because buyers comparison-shop on price and availability",
+      "profit": "2022 EBIT margin was 4.1%; 2025-2026 margins are pressured by price competition, freight costs, returns and tariff-driven input volatility"
+    },
+    "major_players": [
+      "Ferguson: 2025 fiscal net sales of $30.762 billion, including $29.269 billion in the USA; digital commerce is part of its branch, sales-center and system-to-system channel mix",
+      "The Home Depot: fiscal 2025 net sales of $164.683 billion; online sales were 15.9% of net sales and grew 8.7% from fiscal 2024, excluding HD Supply, SRS and GMS",
+      "W.W. Grainger and Zoro: Grainger reported Q1 2026 net sales of $4.74 billion, while Zoro surpassed $1.4 billion in 2025 annual revenue and sells about 13 million products online",
+      "Lowe's: fiscal 2025 rough plumbing was one of five categories with comparable sales growth, and online and Pro customers were cited as growth contributors",
+      "SupplyHouse: ECDB estimated 2025 online GMV of $183 million and 2026 growth of 0-5% for its largest US online store",
+      "Amazon Business and specialty e-tailers: large marketplace and long-tail competitors intensify 2025-2026 price transparency, search competition and fulfillment expectations"
+    ],
+    "current_dynamics": "In 2025-2026, the industry's demand mix is diverging. Residential repair and remodel demand is softer because high financing costs continue to weigh on housing turnover and large home projects, while nonresidential work, data centers, grid upgrades, water infrastructure and facilities maintenance are supporting higher-value electrical and plumbing demand. Contractor e-commerce adoption is now mainstream: a January 2026 Supply House Times summary of Distribution Strategy Group data said plumbing distributors with more than 10% e-commerce revenue rose from 28% in 2023 to 41% in 2025. The competitive bar is shifting from simply having a website to having real-time inventory, reliable delivery promises, trade-account pricing, punchout procurement, mobile ordering and accurate technical content.",
+    "whats_growing": [
+      "2025-2026 contractor and Pro digital accounts with repeat purchasing, account pricing and job-level order history",
+      "2025-2026 electrical wiring, conduit, switchgear-adjacent supplies and controls tied to electrification, data centers and power infrastructure",
+      "2025-2026 waterworks, PVF, valves, fittings and repair products tied to municipal, commercial and industrial maintenance",
+      "2025-2026 omnichannel fulfillment models that combine branch pickup, distribution-center shipping, job-site delivery and supplier drop ship",
+      "2025-2026 product data, AI search, visual search, guided configuration and ERP-integrated procurement workflows"
+    ],
+    "whats_shrinking": [
+      "2025-2026 purely transactional DIY demand for discretionary remodel projects, especially large-ticket residential projects tied to weak housing turnover",
+      "2025-2026 low-margin commodity items where marketplaces and paid search make pricing highly transparent",
+      "2025-2026 small standalone specialty websites without purchasing scale, fast fulfillment or strong technical content",
+      "2025-2026 margin room on copper-heavy, steel-heavy and imported products affected by tariffs and volatile producer prices",
+      "2025-2026 reliance on branch-only ordering among distributors as more trade buyers expect digital reordering and invoice access"
+    ],
+    "recent_developments": [
+      "2025-09-26: Ferguson filed its fiscal 2025 Form 10-K, reporting $30.762 billion in net sales and $29.269 billion in US net sales for the year ended July 31, 2025.",
+      "2026-01-23: Supply House Times reported plumbing distributors with more than 10% e-commerce revenue increased from 28% in 2023 to 41% in 2025.",
+      "2026-03-18: Home Depot's fiscal 2025 Form 10-K reported online sales at 15.9% of net sales and 8.7% online growth from fiscal 2024.",
+      "2026-04-06: US Section 232 tariff changes took effect for steel, aluminum and copper articles and derivatives, adding 2026 cost pressure to electrical and plumbing inputs.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.740 billion, up 9.8% from Q1 2025.",
+      "2026-07-01: Census reported construction spending of $858.4 billion for the first five months of 2026, down 2.7% from the same period in 2025."
+    ],
+    "outlook": "The 2026-2030 outlook is moderate growth rather than a pandemic-style surge. Estimated 2026 revenue of about $21.5 billion should expand as online penetration rises among contractors and distributors, but growth will depend on nonresidential construction, infrastructure work, repair demand and commodity-price pass-through more than on discretionary residential remodels. Firms with trade-account depth, accurate inventory, dependable fulfillment and digital procurement integrations should gain share; smaller e-tailers that compete mainly on paid search and price are likely to face margin compression and consolidation pressure.",
+    "themes": [
+      "Contractor e-commerce adoption",
+      "Omnichannel distributor competition",
+      "Digital procurement and punchout integration",
+      "Data-center and grid-related electrical demand",
+      "Water infrastructure and repair demand",
+      "Tariff and copper-cost volatility",
+      "Residential remodel softness",
+      "Price transparency and margin pressure",
+      "Private-label and assortment expansion",
+      "AI-assisted product search and technical support"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file provided by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-plumbing-and-electrical-supply-sales.txt', 'date': '2022-03-30', 'notes': 'Baseline 2022 revenue, growth, profit, establishments, employment, product mix and outlook.'}",
+      "{'name': 'U.S. Census Bureau via FRED, E-Commerce Retail Sales', 'url': 'https://fred.stlouisfed.org/series/ECOMSA', 'date': '2026-05-18', 'notes': 'Q1 2026 e-commerce sales of $326.740 billion and Q1 2025 sales of $297.701 billion.'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html', 'date': '2026-07-01', 'notes': 'Construction spending was $858.4 billion in the first five months of 2026, down 2.7% from 2025.'}",
+      "{'name': 'U.S. Census Bureau, New Residential Construction June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html', 'date': '2026-07-17', 'notes': 'June 2026 housing starts, permits and completions used for residential construction context.'}",
+      "{'name': 'The Home Depot fiscal 2025 Form 10-K', 'url': 'https://ebs.publicnow.com/view/0AE997BD10E9DC03F187E8529D23BE91362DE394', 'date': '2026-03-18', 'notes': 'Fiscal 2025 net sales of $164.683 billion; online sales 15.9% of net sales and up 8.7%.'}",
+      "{'name': 'Ferguson fiscal 2025 annual report and Form 10-K', 'url': 'https://www.corporate.ferguson.com/pressroom/news-releases/news-details/2025/Ferguson-Files-Form-10-K/default.aspx', 'date': '2025-09-29', 'notes': 'Fiscal 2025 net sales of $30.762 billion and market/channel context.'}",
+      "{'name': 'W.W. Grainger 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/277135/000027713526000011/gww-20251231.htm', 'date': '2026-02-20', 'notes': 'Grainger.com and Zoro product assortment and digital-channel disclosures.'}",
+      "{'name': 'Zoro, Zoro Turns 15', 'url': 'https://www.zoro.com/resourcehub/zoro-turns-15-evolving-as-a-digital-leader-in-industrial-supplies/', 'date': '2026-06-01', 'notes': 'Zoro surpassed $1.4 billion in 2025 annual revenue, with 13 million products and more than 4 million customers.'}",
+      "{'name': \"Lowe's fiscal 2025 Form 10-K\", 'url': 'https://ebs.publicnow.com/view/C23E0286C1BB441B3E0602C5CED64B7B1DFB11E2', 'date': '2026-03-23', 'notes': 'Fiscal 2025 rough plumbing comparable sales strength and online/Pro growth context.'}",
+      "{'name': 'Supply House Times, The state of e-commerce in plumbing distribution', 'url': 'https://www.supplyht.com/articles/keyword/4472-e-commerce', 'date': '2026-01-23', 'notes': 'Distribution Strategy Group data on 2023-2025 plumbing distributor e-commerce penetration.'}",
+      "{'name': 'U.S. Customs and Border Protection, Section 232 duties guidance', 'url': 'https://content.govdelivery.com/accounts/USDHSCBP/bulletins/4117593', 'date': '2026-04-03', 'notes': '2026 tariff guidance for aluminum, steel and copper articles and derivatives.'}",
+      "{'name': 'ECDB, SupplyHouse company and revenue', 'url': 'https://ecdb.com/resources/sample-data/retailer/supplyhouse', 'date': '2026', 'notes': 'Estimated 2025 SupplyHouse online GMV of $183 million and 2026 growth forecast of 0-5%.'}"
+    ],
+    "one_sentence": "The industry sells wiring, cables, controls, fixtures, pipes, valves and fittings through websites, marketplaces and digital distributor portals to contractors, facilities teams and DIY customers.",
+    "slug": "online-plumbing-and-electrical-supply-sales"
+  },
+  {
+    "title": "Online Recruitment Sites",
+    "sector": "Technology & Digital",
+    "one_liner": "Digital job boards and recruiting marketplaces connect employers with candidates, with AI matching and employer-paid listings replacing legacy classifieds and recruiter-led sourcing.",
+    "overview": "The U.S. online recruitment sites industry has shifted from simple job boards toward data-rich hiring marketplaces that combine job distribution, candidate search, employer branding, screening, analytics and AI-assisted matching. Demand is tied directly to employer hiring budgets and labor-market churn: job openings remained sizable at 7.359 million in June 2026, but the July 2026 payroll report showed a softer market with nonfarm employment down 23,000 and unemployment at 4.1%. That backdrop favors scaled platforms with strong traffic, pricing power and AI tools, while pressuring legacy boards and smaller generalist sites that rely on paid postings in cyclical hiring categories.",
+    "key_stats": {
+      "market_size": "About $11.1 billion in 2025 U.S. online recruitment revenue, implied from Technavio's March 2026 forecast that the U.S. market will add $4.7516 billion from 2025 to 2030 at a 7.4% CAGR.",
+      "growth": "7.4% CAGR forecast for 2025-2030; Technavio also cited 6.9% YoY growth for 2025-2026.",
+      "market_size_2026_estimate": "About $11.9 billion in 2026, derived from the 2025 implied base and 7.4% CAGR.",
+      "job_openings": "7.359 million U.S. job openings in June 2026, BLS JOLTS.",
+      "unemployment": "4.1% U.S. unemployment rate in July 2026, BLS Employment Situation.",
+      "leading_platform_metric": "Recruit Holdings' HR Technology segment, including Indeed and Glassdoor, reported U.S. revenue of $5.314 billion in FY2025 ended March 31, 2026, up 8.8% YoY.",
+      "public_peer_metric": "ZipRecruiter reported $448.952 million of 2025 revenue, down from $474.001 million in 2024; Q1 2026 revenue was $107.5 million, down 2% YoY.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $14.3 billion in 2022 revenue, derived from the baseline IBISWorld 2021 revenue of $13.111 billion and its 2021-2026 projected CAGR of 9.1%.",
+      "growth": "About +9.1% projected 2022 revenue growth under the baseline IBISWorld 2021-2026 outlook.",
+      "context": "The baseline file projected revenue rising to $20.3 billion by 2026, but current public market forecasts and company disclosures point to a weaker post-2022 hiring cycle and narrower current-market sizing."
+    },
+    "how_it_makes_money": [
+      "Employer-paid job postings and sponsored listings sold on a pay-per-click, pay-per-application, pay-per-post or subscription basis.",
+      "Resume database access, recruiter seats, candidate-search tools and outbound sourcing products sold to employers and staffing firms.",
+      "Recruitment advertising, employer branding pages, programmatic campaigns and display ads around job listings.",
+      "Premium job-seeker tools such as resume services, profile boosts, career content and application-priority features, though core job search remains free on most large platforms.",
+      "Enterprise integrations, analytics, assessments, interview scheduling and AI matching tools that raise customer retention and revenue per posting."
+    ],
+    "cost_structure": {
+      "largest_costs": "Sales and marketing, product engineering, data infrastructure, cloud hosting, customer support and general administration.",
+      "2026_public_peer_example": "ZipRecruiter Q1 2026 reported gross margin of 89%, sales and marketing at 51% of revenue, R&D at 24% and G&A at 15%.",
+      "baseline_profitability": "The baseline IBISWorld file reported 11.6% EBIT margin in 2021 and projected 11.0% in 2026 as competition increased.",
+      "operating_leverage": "Scaled platforms can produce high incremental margins because job inventory, resume databases and matching software have low direct delivery costs once traffic and data assets are established.",
+      "pressure_points": "Customer acquisition costs, search traffic volatility, AI infrastructure spend, privacy compliance, fraud controls and pricing competition from ATS vendors, staffing firms and social platforms."
+    },
+    "major_players": [
+      "Indeed and Glassdoor (Recruit Holdings)",
+      "LinkedIn (Microsoft)",
+      "ZipRecruiter",
+      "CareerBuilder and Monster brands (BOLD after 2025 asset sale)",
+      "DHI Group: Dice and ClearanceJobs",
+      "Handshake",
+      "Snagajob",
+      "iCIMS, Greenhouse, SmartRecruiters and Workable in adjacent recruiting-platform workflows"
+    ],
+    "current_dynamics": "The market is still growing, but the tone in 2025-2026 is less about pandemic rebound and more about share shift. Employer demand is subdued, especially among SMBs and tech hiring, while healthcare, cleared defense, hourly work and enterprise programmatic recruiting remain more resilient. Indeed and LinkedIn are using AI matching and large first-party networks to lift monetization, while ZipRecruiter is defending revenue with product improvements and employer tools. Legacy generalist job boards have been structurally weakened, highlighted by the 2025 CareerBuilder-Monster bankruptcy and asset sales.",
+    "whats_growing": [
+      "AI matching, recruiter agents and automated candidate ranking that reduce recruiter screening time in 2025-2026.",
+      "Programmatic recruitment advertising and performance-priced campaigns tied to applications or qualified candidates.",
+      "Mobile-first job search, hourly hiring marketplaces and conversational workflows that move job seekers directly into employer contact.",
+      "Employer branding pages, video, reviews and workplace content that help companies compete for scarce or specialized labor.",
+      "Niche vertical boards in resilient categories such as healthcare, security-cleared roles and skilled technical occupations."
+    ],
+    "whats_shrinking": [
+      "Legacy pay-to-post generalist job boards with weak traffic advantages and limited matching technology.",
+      "Tech-sector job-board revenue exposed to lower software hiring and weaker renewal rates, as shown by Dice revenue declining 17% in 2025.",
+      "Undifferentiated resume-database access as employers demand verified, ranked and engagement-ready candidates.",
+      "Recruitment spend by SMBs when openings slow and hiring managers delay backfills.",
+      "Manual sourcing workflows that AI assistants and automated campaign tools can compress."
+    ],
+    "recent_developments": [
+      "2025-06-24: CareerBuilder + Monster filed for Chapter 11 bankruptcy protection after the 2024 merger failed to offset hiring softness and AI-driven competition.",
+      "2025-07-31: CareerBuilder + Monster closed asset-sale transactions, with BOLD acquiring the job-board business and retaining the CareerBuilder and Monster brands.",
+      "2025-12-31: ZipRecruiter reported 2025 revenue of $448.952 million, down 5.3% from 2024 revenue of $474.001 million.",
+      "2026-05-15: Recruit Holdings reported FY2025 HR Technology U.S. revenue of $5.314 billion, up 8.8% YoY, and guided FY2026 U.S. HR Technology revenue to $6.035 billion.",
+      "2026-08-04: BLS reported June 2026 job openings of 7.359 million and a 4.4% openings rate.",
+      "2026-08-07: BLS reported July 2026 nonfarm payroll employment down 23,000 and unemployment at 4.1%."
+    ],
+    "outlook": "The 2026 outlook is moderate growth with high dispersion by platform. Market forecasts point to roughly high-single-digit U.S. growth through 2030, but near-term revenue will depend on whether hiring reaccelerates from the low-hire environment evident in 2026 BLS data. Scaled marketplaces should keep expanding monetization through AI, sponsored jobs, recruiter workflow tools and employer branding, while weaker legacy boards and small generalist sites face consolidation, traffic loss and pricing pressure. Regulation around AI in hiring, data privacy and job-posting transparency is likely to raise compliance costs but also favor platforms with stronger trust and verification systems.",
+    "themes": [
+      "AI matching and recruiter automation",
+      "Shift from job posts to performance-based hiring outcomes",
+      "Labor-market cyclicality and slower 2026 hiring",
+      "Consolidation of legacy job boards",
+      "Mobile and conversational job search",
+      "Employer branding and reviews as recruiting infrastructure",
+      "Niche vertical marketplaces",
+      "Privacy, verification and AI hiring compliance"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/online-recruitment-sites.txt",
+      "https://www.researchandmarkets.com/report/united-states-online-recruitment-market",
+      "https://www.technavio.com/report/online-recruitment-market-in-us-market-industry-analysis",
+      "https://recruit-holdings.com/en/ir/library/upload/Recruit_202603Q4_earnings_en.html",
+      "https://recruit-holdings.com/en/ir/library/upload/recruit_202603Q4_summary_en/",
+      "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000016/zip-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1617553/000161755326000030/q12026shareholderletter-.htm",
+      "https://www.bls.gov/jlt/",
+      "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "https://news.linkedin.com/2025/Q4FY25_Earnings_Highlights.",
+      "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "https://www.prnewswire.com/news-releases/careerbuilder--monster-closes-sale-transactions-with-bold-iron-corp-us-inc-and-partnerone-302519208.html"
+    ],
+    "one_sentence": "Online recruitment sites earn most revenue from employers through paid job postings, sponsored listings, resume-database access, subscriptions, recruitment advertising and talent-matching tools, while job seekers typically use core search and profile services for free.",
+    "slug": "online-recruitment-sites"
+  },
+  {
+    "title": "Online Residential Home Sale Listings",
+    "sector": "Real Estate",
+    "one_liner": "Online portals monetize the digital front door to U.S. homebuying by selling agents, brokers, builders and advertisers access to high-intent home shoppers.",
+    "overview": "Online residential home sale listing platforms sit between home shoppers, sellers, real estate agents, brokerages, builders, lenders and MLS data providers. The 2021 IBISWorld baseline described a fast-growing, high-margin industry lifted by pandemic-era housing demand, online showing tools and rising home values, with 2021 revenue of $1.89 billion and a 2021-2026 revenue outlook of 3.5% annualized growth to about $2.2 billion in 2026. The 2025-2026 market is larger and more strategically contested than that baseline implied because Zillow expanded agent software and new-construction monetization, Realtor.com/Move returned to revenue growth, CoStar funded Homes.com as a national challenger and Rocket acquired Redfin to combine search, brokerage and mortgage conversion. Demand is constrained by affordability: June 2026 existing-home sales ran at a 4.09 million seasonally adjusted annual rate, the median existing-home price was $440,600, and 30-year mortgage rates were in the mid-6% range in 2026. Even with slow transaction volumes, portals can grow by improving revenue per lead, selling premium agent products, integrating AI search and routing more users into mortgage, rental, new-home and software products.",
+    "key_stats": {
+      "market_size": "2025: estimated $2.6 billion in U.S. online residential home sale listings and closely related for-sale lead-generation revenue; 2026 run-rate estimated near $2.8 billion based on Zillow Residential revenue, Move/Realtor.com revenue and Homes.com monetization disclosures.",
+      "growth": "2025: estimated 8% year-over-year industry revenue growth; 2026: estimated high-single-digit to low-double-digit revenue growth despite slow home sales, led by higher revenue per lead, premium agent products and portal share gains.",
+      "zillow_residential_revenue": "2025: $1.704 billion, up 7% from 2024; Q1 2026: $450 million, up 8% year over year.",
+      "zillow_traffic": "2025: Zillow Group averaged 235 million monthly unique users; Q4 2025 apps and sites averaged 221 million monthly unique users and 2.1 billion visits.",
+      "realtor_move_revenue": "Fiscal 2025: Move revenue was $552 million, up 1%; fiscal Q3 2026: Move revenue was $148 million, up 10% year over year.",
+      "realtor_traffic": "Fiscal Q3 2026: Realtor.com averaged 66 million monthly unique users and 261 million monthly average visits by Comscore.",
+      "homes_com_scale": "2025: Homes.com Network reported 108 million average monthly unique visitors, more than 2.1 billion views and nearly $100 million of annual run-rate agent subscriber revenue.",
+      "housing_market_context": "June 2026: existing-home sales were 4.09 million SAAR, up 2.8% year over year; inventory was 1.56 million homes, equal to 4.6 months of supply; median existing-home price was $440,600, up 1.8% year over year.",
+      "mortgage_rate_context": "July 23, 2026: Freddie Mac reported a 6.58% average 30-year fixed mortgage rate; August 2026 reports showed rates around 6.69%-6.81%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $2.0 billion, inferred from the IBISWorld 2021 baseline revenue of $1.89 billion and its 2021-2026 projected 3.5% annualized growth path, in 2021 dollars.",
+      "growth": "2022: about 3.5% baseline projected growth, before accounting for the sharper 2022 mortgage-rate shock and housing transaction slowdown.",
+      "baseline_context": "2021 IBISWorld baseline reported $1.89 billion revenue, 39.7% estimated profit margin and a 2021-2026 forecast to $2.2 billion."
+    },
+    "how_it_makes_money": [
+      "2025: agent and broker advertising subscriptions that buy visibility, share of voice or lead access in local markets.",
+      "2025: pay-for-performance referral products where portals receive payment when a connected buyer or seller closes a transaction.",
+      "2025: premium listing media, new-construction marketplace placements, builder advertising and seller lead products.",
+      "2025: software sold to real estate professionals, including CRM, showing, follow-up and transaction workflow tools.",
+      "2026: mortgage, title, rentals and relocation adjacencies increasingly monetize traffic beyond the initial for-sale listing search."
+    ],
+    "cost_structure": {
+      "technology_and_product": "2025: major costs include cloud infrastructure, search, mapping, AI, mobile apps, data ingestion, cybersecurity and product engineering.",
+      "sales_and_marketing": "2025: large portals spend heavily on national brand campaigns, performance marketing and sales teams for agents, brokers and builders.",
+      "data_and_content": "2025: MLS feeds, listing-quality controls, photos, 3D tours, floor plans, valuation models and compliance workflows are recurring operating requirements.",
+      "labor": "2025: engineering, sales, customer support, brokerage relationships, moderation, data operations and executive overhead dominate payroll.",
+      "profitability": "2025: mature marketplace revenue can be high-margin, but national challenger campaigns, AI investment and acquisition integration can depress margins."
+    },
+    "major_players": [
+      "Zillow Group",
+      "Realtor.com / Move Inc.",
+      "Homes.com / CoStar Group",
+      "Redfin / Rocket Companies",
+      "Trulia / StreetEasy within Zillow Group",
+      "Regional MLS and brokerage-owned search portals"
+    ],
+    "current_dynamics": "The industry is no longer just a listing-search advertising market. Portals are competing to own more of the transaction funnel, from initial search to agent selection, mortgage prequalification, touring, offers, title and post-close servicing. Zillow remains the largest consumer portal and reported 2025 Residential revenue of $1.704 billion, while Realtor.com/Move grew 10% in fiscal Q2 and Q3 2026 after shifting toward premium lead products. CoStar is still investing behind Homes.com, reporting the Homes.com Network as the second-largest residential portal network in 2025 with 108 million average monthly unique visitors and nearly $100 million in annual run-rate agent subscriber revenue. Rocket's July 2025 acquisition of Redfin changed the competitive map by linking a major search and brokerage brand to the largest U.S. mortgage lender. Housing activity remains the limiting factor: NAR reported June 2026 existing-home sales of 4.09 million SAAR, while elevated mortgage rates kept many buyers and sellers cautious.",
+    "whats_growing": [
+      "2025: premium agent products that promise higher-intent leads and more measurable return on ad spend.",
+      "2025: new-construction marketplace revenue as builders use portals to reach buyers facing limited resale inventory.",
+      "2026: AI-powered search, valuation, lead qualification, agent productivity and personalized home recommendations.",
+      "2026: mortgage and financing integrations, including Redfin-Rocket preferred pricing and Zillow mortgage growth.",
+      "2026: portal partnerships with MLSs and brokerages that preserve listing attribution while improving consumer reach."
+    ],
+    "whats_shrinking": [
+      "2025: low-quality lead volume declined at some portals as traffic monetization shifted toward higher revenue per lead.",
+      "2025: transaction-sensitive advertising remains pressured by high mortgage rates and weak affordability.",
+      "2026: standalone search portals without mortgage, software, brokerage or MLS relationships face weaker differentiation.",
+      "2026: seller urgency is softening in some markets as price cuts and longer listing times return.",
+      "2026: pure display advertising is less central than performance-based agent products and transaction adjacencies."
+    ],
+    "recent_developments": [
+      "2025-03-10: Rocket Companies agreed to acquire Redfin in an all-stock deal valued at $1.75 billion of equity value and $2.4 billion enterprise value.",
+      "2025-07-01: Rocket completed the Redfin acquisition and launched Rocket Preferred Pricing for buyers using Redfin and Rocket Mortgage.",
+      "2025-08-05: News Corp reported fiscal 2025 Move revenue of $552 million, up 1%, with Realtor.com shifting toward premium lead products.",
+      "2026-02-10: Zillow reported 2025 revenue of $2.583 billion, up 16%, including Residential revenue of $1.704 billion, up 7%.",
+      "2026-02-24: CoStar reported the 2025 Homes.com Network reached 108 million average monthly unique visitors and nearly $100 million of annual run-rate agent subscriber revenue.",
+      "2026-07-09: NAR reported June 2026 existing-home sales at 4.09 million SAAR and a median existing-home price of $440,600."
+    ],
+    "outlook": "Revenue should keep growing through 2026 even if home sales remain muted because the largest platforms are increasing monetization per consumer visit and expanding into agent software, new homes, rentals and mortgage conversion. The downside risk is transaction volume: if mortgage rates stay near the high-6% range and affordability weakens, agent ad budgets and lead demand can tighten quickly. The most likely 2026 outcome is moderate revenue growth with share gains concentrated among Zillow, Realtor.com, Homes.com and Redfin/Rocket, while smaller portals compete through local data quality, brokerage relationships or specialized buyer segments.",
+    "themes": [
+      "Portal wars",
+      "Affordability squeeze",
+      "AI search and agent productivity",
+      "Lead quality over lead volume",
+      "Mortgage and search convergence",
+      "MLS data control",
+      "New-construction marketing",
+      "Revenue per transaction growth"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-residential-home-sale-listings.txt",
+      "https://zillowgroup.mediaroom.com/2026-02-10-Zillow-Group-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results",
+      "https://investors.zillowgroup.com/financials/quarterly-results/default.aspx",
+      "https://investors.newscorp.com/news-releases/news-release-details/news-corporation-reports-fourth-quarter-and-full-year-results-3",
+      "https://investors.newscorp.com/news-releases/news-release-details/news-corporation-reports-third-quarter-results-fiscal-2026",
+      "https://investors.costargroup.com/news-releases/news-release-details/costar-group-full-year-2025-revenue-increased-19-year-over-year",
+      "https://costargroup-prod.acquia.dshrp.com/press-room/2026/costar-group-q2-2026-results-mark-profitability-inflection-revenue-18-net-income",
+      "https://www.rocketcompanies.com/press-release/rocket-companies-to-acquire-redfin-accelerating-purchase-strategy/",
+      "https://www.prnewswire.com/news-releases/rocket-companies-completes-acquisition-of-redfin-302495405.html",
+      "https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-2-4-decrease-in-june",
+      "https://www.freddiemac.com/pmms",
+      "https://myhome.freddiemac.com/buying/mortgage-rates"
+    ],
+    "one_sentence": "The industry runs online marketplaces for residential homes for sale, with revenue tied to listing visibility, lead generation, agent software, new-construction marketing, advertising and adjacent transaction services.",
+    "slug": "online-residential-home-sale-listings"
+  },
+  {
+    "title": "Online Shoe Sales",
+    "sector": "Retail",
+    "one_liner": "Online shoe retailers sell footwear through websites, apps and marketplaces, with growth tied to mobile shopping, athletic/casual demand and fulfillment economics.",
+    "overview": "This industry covers the online retail sale of men's, women's and children's footwear to US consumers through retailer websites, brand direct-to-consumer channels, marketplaces and mobile apps. The 2020 baseline report defined the industry at $20.9 billion in 2020 revenue and forecast $28.6 billion by 2025, while current 2025-2026 public data show the broader retail e-commerce channel still expanding: US retail e-commerce reached $1.234 trillion in 2025, up 5.4% from 2024, and Q1 2026 e-commerce sales reached $326.7 billion, up 9.8% from Q1 2025. Footwear demand is supported by casualization, athletic and sneaker culture, wider comfort with buying sizes online, and richer returns/fit tools, but margins are pressured by free shipping, high returns, discounting, customer acquisition costs and tariff-driven import costs.",
+    "key_stats": {
+      "market_size": "$28.6 billion estimated US online shoe sales revenue in 2025, based on the baseline IBISWorld 2020 forecast; public 2024 estimates put US online footwear sales near $24.8 billion and 2025 US total personal spending on footwear at $121 billion.",
+      "growth": "6.5% estimated CAGR from 2020 to 2025 in the baseline forecast; broader US retail e-commerce grew 5.4% in 2025 and 9.8% year over year in Q1 2026.",
+      "ecommerce_share": "US retail e-commerce accounted for 16.4% of total retail sales in full-year 2025 and 16.9% in Q1 2026, Census reported.",
+      "total_footwear_spending": "$121 billion in total US personal spending on footwear in 2025, according to FDRA.",
+      "employment_context": "FDRA reported about 237,000 total US footwear workers in 2025 across the broader footwear industry.",
+      "baseline_profit_margin": "4.1% estimated industry EBIT margin in 2020 from the baseline report; current large footwear retailers and brands show gross margins near the low-40% range but heavy fulfillment, marketing and markdown costs.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "About $23.7 billion estimated 2022 US online shoe sales revenue, interpolated from the baseline report's $20.9 billion 2020 revenue and $28.6 billion 2025 forecast.",
+      "growth": "About 6.5% estimated 2022 annual growth, consistent with the baseline report's 2020-2025 forecast CAGR.",
+      "context": "The baseline report expected online shopping adoption, disposable income recovery, off-price sites and athletic footwear to carry growth after the 2020 pandemic surge."
+    },
+    "how_it_makes_money": "Operators buy footwear from manufacturers and wholesalers or sell owned/private-label inventory, then earn retail gross margin through online storefronts, marketplaces and apps. Revenue comes from full-price sales, promotions, marketplace commissions or seller fees, loyalty programs, advertising/retail media, shipping fees in some cases and resale transaction fees for sneaker marketplaces. The most valuable models combine proprietary demand generation, fast fulfillment, broad size availability, free or easy returns and strong brand/vendor relationships.",
+    "cost_structure": "Major costs are merchandise purchases, inbound freight, warehouse labor, last-mile delivery, payment processing, returns handling, markdowns, digital marketing, technology and customer service. The 2020 baseline put industry EBIT margin at 4.1%, reflecting intense competition and free-shipping norms. As 2025 public benchmarks, Nike reported fiscal 2025 gross margin of 42.7% and SG&A equal to 34.7% of revenue, while Designer Brands reported fiscal 2025 cost of sales equal to 56.4% of net sales and gross margin of 43.6%, illustrating the margin math faced by footwear retailers before fulfillment and operating expenses.",
+    "major_players": [
+      "Amazon/Zappos",
+      "Nike",
+      "Walmart",
+      "DICK'S Sporting Goods/Foot Locker",
+      "Designer Brands/DSW",
+      "Nordstrom",
+      "StockX",
+      "GOAT Group"
+    ],
+    "current_dynamics": "The industry is still growing, but the easy pandemic-era share gains have normalized. Broad e-commerce demand remains positive in 2025-2026, while footwear operators are dealing with value-conscious consumers, discounting, elevated return costs and tariff uncertainty. Nike's fiscal 2025 digital decline shows that even the strongest brands are rebalancing direct digital and wholesale channels, while DICK'S 2025 acquisition of Foot Locker creates a larger omnichannel athletic footwear platform. Marketplaces benefit from breadth and convenience, but specialty footwear retailers still win where fit, brand curation, launch access and loyalty matter.",
+    "whats_growing": "Athletic shoes, sneakers, comfort footwear, kids' back-to-school footwear, off-price/value channels, mobile shopping, marketplace discovery, loyalty-linked app sales, resale/limited-release sneaker platforms and AI-assisted sizing/product recommendations are growing. Broader retail e-commerce momentum also remains favorable, with Census reporting Q1 2026 US e-commerce sales up 9.8% year over year.",
+    "whats_shrinking": "Pure-play differentiation is shrinking as most major shoe retailers are omnichannel. Formal dress footwear remains weaker than athletic and casual categories, and margin room is shrinking where operators rely on blanket free shipping, heavy paid search/social ads, and frequent markdowns. Cross-border ultra-low-price footwear offers face pressure after 2025 changes to de minimis treatment for China-origin shipments.",
+    "recent_developments": [
+      "2025-04-02: FDRA warned that new tariff actions would raise footwear costs for US families and pressure retailers' pricing decisions.",
+      "2025-05-02: US restrictions ended duty-free de minimis treatment for China-origin low-value shipments, raising compliance and duty costs for some online sellers.",
+      "2025-06-26: Nike reported fiscal 2025 revenue of $46.3 billion, down 10%, and Nike Direct revenue of $18.8 billion, down 13%, including a 20% decline in Nike Brand Digital sales.",
+      "2025-09-08: DICK'S Sporting Goods completed its acquisition of Foot Locker, creating a larger global sport and sneaker retail platform with more than 3,200 stores plus e-commerce operations.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, up 9.8% from Q1 2025 and equal to 16.9% of total retail sales.",
+      "2026-07-17: FDRA's public industry dashboard showed 2025 US personal spending on footwear at $121 billion, about 237,000 footwear workers and 6 pairs imported per person."
+    ],
+    "outlook": "Online shoe sales should keep expanding through 2026, but likely at a steadier single-digit pace rather than the pandemic-era surge. The strongest operators will use stores as fulfillment, return and brand-experience nodes while improving digital fit guidance, personalization and inventory visibility. Margin performance will depend on tariff pass-through, return-rate reduction, vendor terms, markdown discipline and lower customer acquisition costs. Athletic, casual and value-oriented segments should outperform formal footwear, while consolidation among omnichannel retailers may raise competitive pressure on smaller online-only sellers.",
+    "themes": [
+      "Omnichannel retail",
+      "Athletic and casual footwear",
+      "Mobile commerce",
+      "Marketplace competition",
+      "Free shipping and returns pressure",
+      "Tariffs and de minimis changes",
+      "Sneaker resale and launch culture",
+      "Fit technology and personalization",
+      "Off-price and value shopping"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/online-shoe-sales.txt",
+      "https://www.census.gov/retail/eCommerce.html",
+      "https://fred.stlouisfed.org/series/ECOMPCTNSA/",
+      "https://fred.stlouisfed.org/series/ECOMSA/1000",
+      "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2025/NIKE-Inc--Reports-Fiscal-2025-Fourth-Quarter-and-Full-Year-Results/default.aspx",
+      "https://investors.dicks.com/news/news-details/2025/DICKS-Sporting-Goods-Completes-Acquisition-of-Foot-Locker/default.aspx",
+      "https://fdra.org/",
+      "https://www.help.cbp.gov/s/article/Article-1915?language=en_US",
+      "https://www.statista.com/topics/3481/fashion-e-commerce-in-the-united-states/"
+    ],
+    "one_sentence": "The US online shoe sales industry has grown from a pandemic-accelerated channel into a mature omnichannel battlefield where Amazon/Zappos, Nike, Walmart, DICK'S/Foot Locker, DSW and resale marketplaces compete on assortment, delivery speed, price and digital merchandising.",
+    "slug": "online-shoe-sales"
+  },
+  {
+    "title": "Online Small Electrical Appliance Sales",
+    "sector": "Retail",
+    "one_liner": "Online retailers sell compact household appliances through marketplaces, omnichannel retail sites and brand-direct stores, with growth now tied to e-commerce share gains, replacement demand and connected-product upgrades.",
+    "overview": "This industry covers US online sales of small electrical appliances to consumers, including kitchen appliances, floor-care devices, personal-care appliances and home-environment products. The 2020 IBISWorld baseline put industry revenue at $6.693 billion and projected an 8.3% 2020-2025 CAGR to nearly $10.0 billion in 2025. Current 2025-2026 indicators support continued expansion, though at a more normalized pace than the pandemic surge: US retail e-commerce sales rose 9.8% year over year in Q1 2026, online small-appliance purchases accounted for 39% of Q4 2025 category purchases in OpenBrand's panel, and large omnichannel retailers continued reporting double-digit digital gains. Competition remains intense because Amazon, Walmart and marketplace sellers compete heavily on price, fast fulfillment and advertising placement, while brands such as SharkNinja, Dyson, Breville, Hamilton Beach and Bissell use product innovation and direct-to-consumer channels to protect margins.",
+    "key_stats": {
+      "market_size": "2026E: $10.6 billion in US online small electrical appliance sales revenue",
+      "growth": "2026E: 6.1% annual revenue growth; 2021-2026E CAGR: about 9.6% from the 2020 pandemic-reset base",
+      "ecommerce_context": "2026 Q1: US retail e-commerce sales were $326.7 billion seasonally adjusted, up 9.8% from 2025 Q1 and equal to 16.9% of total retail sales",
+      "online_category_penetration": "2025 Q4: online accounted for 39% of small-appliance purchases in OpenBrand's tracked US category panel",
+      "category_size_context": "2025: US small kitchen appliances market estimated at $24.23 billion by Mordor Intelligence; online channel forecast CAGR through 2031: 6.05%",
+      "profitability": "2026E: typical industry operating margin remains low-to-mid single digit, around 4%-6%, because product costs, marketplace fees, shipping, returns and paid search absorb most gross profit",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022E: $7.8 billion, estimated from IBISWorld's 2020 revenue of $6.693 billion and its 2020-2025 forecast CAGR of 8.3%",
+      "growth": "2022E: 8.3% revenue growth, using the IBISWorld post-2020 forecast growth path",
+      "context": "2022 baseline reflects the normalization period after the 2020 e-commerce surge, before 2025-2026 tariff, smart-home and retail-media dynamics became more material"
+    },
+    "how_it_makes_money": "Operators earn revenue by selling small electrical appliances online at retail markups, collecting marketplace commissions from third-party sellers, monetizing private-label or exclusive SKUs, bundling warranties and protection plans, charging for expedited delivery or membership-linked fulfillment, and using retail-media placements to monetize appliance search traffic. Brand-direct sellers also capture higher gross margins by bypassing wholesale channels, but must fund customer acquisition, fulfillment and returns themselves.",
+    "cost_structure": {
+      "purchases": "2026E: merchandise purchases and inbound freight are the largest cost, typically 68%-74% of revenue for appliance e-retailers",
+      "fulfillment_and_shipping": "2026E: warehousing, pick-pack, outbound delivery and reverse logistics typically consume 8%-13% of revenue, with bulky vacuums and high-return premium appliances at the high end",
+      "marketing_and_marketplace_fees": "2026E: paid search, marketplace commissions, affiliate fees and retail-media spending typically consume 5%-10% of revenue",
+      "wages_and_technology": "2026E: payroll, customer service, site operations and technology platforms typically consume 4%-7% of revenue",
+      "profit": "2026E: operating profit is commonly 4%-6% of revenue, with Amazon-style price competition and promotional discounting limiting margin expansion"
+    },
+    "major_players": [
+      "{'name': 'Amazon', 'position': 'Largest online marketplace exposure; 2025 Amazon online stores net sales were $269.287 billion globally, and third-party seller services were $172.162 billion.'}",
+      "{'name': 'Walmart', 'position': 'Leading omnichannel competitor; Walmart US e-commerce grew 27% in fiscal 2026 Q4 and e-commerce reached 23% of overall mix.'}",
+      "{'name': 'The Home Depot', 'position': 'Important appliance and home-improvement omnichannel seller; fiscal 2025 online sales were 15.9% of net sales and grew 8.7% year over year.'}",
+      "{'name': \"Lowe's\", 'position': 'Major omnichannel home-improvement seller competing in small appliances, smart-home devices and home-environment products.'}",
+      "{'name': 'Target and Best Buy', 'position': 'Secondary omnichannel retailers with meaningful small-appliance assortment, promotions and pickup capabilities.'}",
+      "{'name': 'Brand-direct sellers', 'position': 'SharkNinja, Dyson, Breville, Bissell, Hamilton Beach, KitchenAid and others use DTC sites plus marketplace storefronts to control launches, pricing and data.'}"
+    ],
+    "current_dynamics": "The industry is expanding, but the source of growth has shifted from pandemic-era channel migration to execution: price visibility, marketplace rank, fast delivery, retail-media spend, product reviews and exclusive launches. Value demand is strong: OpenBrand reported in 2025 Q4 that products priced at $199 or less accounted for roughly three-quarters of small-appliance unit sales. Replacement demand is also important, with OpenBrand reporting 52% of 2025 Q4 purchases tied to an old product breaking. Tariffs and de minimis changes are pressuring import-heavy SKUs; CBP ended duty-free de minimis treatment for China-origin low-value shipments effective May 2, 2025, while Federal Reserve researchers found China-origin retail goods had an 8.5% year-over-year price increase by December 2025 and at least 30% tariff pass-through from April-December 2025.",
+    "whats_growing": [
+      "2025-2026: Air fryers, countertop cooking, coffee and espresso makers, robotic and cordless vacuums, air purifiers, fans and premium hair-care tools are growing faster than basic legacy appliances.",
+      "2025 Q4: Online purchasing remained material at 39% of tracked small-appliance purchases, supporting marketplace, pickup and fast-delivery models.",
+      "2026: Smart and connected appliances benefit from Matter 1.4/1.5 ecosystem upgrades and consumer interest in app-based controls, energy reporting and voice-assistant compatibility.",
+      "2026: Brand-direct and marketplace storefronts are gaining relevance as appliance brands use first-party data, launches and bundles to reduce dependence on wholesale shelves."
+    ],
+    "whats_shrinking": [
+      "2025-2026: Undifferentiated low-end appliances face margin pressure as consumers compare near-identical SKUs across Amazon, Walmart, Target and brand sites.",
+      "2025-2026: Store-only appliance sales are losing share to omnichannel and pure-play e-commerce, especially for products that can ship by parcel.",
+      "2025-2026: Import-dependent sellers using China-origin low-value parcel flows face higher costs after de minimis and tariff changes.",
+      "2026: Older non-connected appliance lines are losing shelf priority where retailers favor premium, multifunction, energy-efficient and review-rich products."
+    ],
+    "recent_developments": [
+      "2024-01-29: DOE finalized residential cooking-product efficiency standards, with compliance required for newly manufactured or imported covered models starting 2028-01-31.",
+      "2025-05-02: CBP ended duty-free de minimis treatment for China-origin low-value shipments, adding duties and filing requirements for many e-commerce imports.",
+      "2025-Q4: OpenBrand reported online accounted for 39% of tracked US small-appliance purchases, with Walmart and Amazon dominating the measured retailer panel.",
+      "2026-02-19: Walmart reported fiscal 2026 Q4 Walmart US e-commerce growth of 27% and e-commerce sales at 23% of overall mix.",
+      "2026-03-05: Federal Reserve researchers reported China-origin retail goods were up 8.5% year over year by December 2025, with at least 30% tariff pass-through from April-December 2025.",
+      "2026-08: SharkNinja reported 2026 Q2 net sales of $1.77 billion, up 22% year over year, and raised its 2026 sales-growth outlook to 16%-17%."
+    ],
+    "outlook": "Revenue should continue growing through 2030, but at a steadier mid-single to high-single-digit rate rather than the double-digit pandemic pace. A 2026E market of $10.6 billion can plausibly reach about $13.5-$14.5 billion by 2030 if online channel growth stays near 6% annually and category innovation supports premium pricing. Upside comes from smart-home interoperability, more premium cooking and floor-care launches, faster delivery and brand-direct conversion. Downside risks include tariff-driven price increases, slower discretionary spending, marketplace fee inflation, higher return costs and discounting that shifts revenue without improving profit.",
+    "themes": [
+      "Omnichannel retail",
+      "Marketplace concentration",
+      "Value-led replacement demand",
+      "Smart and connected appliances",
+      "Tariff and import-cost pressure",
+      "Retail media and paid search",
+      "Brand-direct commerce",
+      "Fast fulfillment and returns management"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file provided by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/online-small-electrical-appliance-sales.txt', 'used_for': '2020 revenue, 2020 growth, 2020-2025 forecast and industry definition'}",
+      "{'name': 'US Census Bureau Quarterly Retail E-Commerce Sales Report, Q1 2026', 'url': 'https://www.census.gov/retail/eCommerce.html', 'used_for': '2026 Q1 US e-commerce sales, growth and share of total retail'}",
+      "{'name': 'OpenBrand US Small Appliance Market Trends, Q4 2025', 'url': 'https://openbrand.com/newsroom/blog/us-small-appliance-industry-best-brands-retailers-market-share-industry-trends-infographic', 'used_for': '2025 Q4 online purchase share, retailer share, price bands, replacement demand and brand dynamics'}",
+      "{'name': 'Research and Markets / Mordor Intelligence US Small Kitchen Appliances Market, May 2025', 'url': 'https://www.researchandmarkets.com/report/united-states-small-kitchen-appliances-market', 'used_for': '2025 US small kitchen appliance market size and 2025-2030 CAGR context'}",
+      "{'name': 'Mordor Intelligence US Small Home Appliances Market, 2026 update', 'url': 'https://www.mordorintelligence.com/industry-reports/united-states-small-home-appliances-market', 'used_for': '2025 product/channel trends, online channel CAGR and category growth notes'}",
+      "{'name': 'Amazon 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm', 'used_for': '2025 Amazon online stores and third-party seller services revenue context'}",
+      "{'name': 'Walmart Q4 FY26 earnings release', 'url': 'https://corporate.walmart.com/news/2026/02/19/walmart-releases-q4-fy26-earnings', 'used_for': '2026 Walmart US e-commerce growth and e-commerce mix'}",
+      "{'name': 'Home Depot fiscal 2025 Form 10-K', 'url': 'https://ebs.publicnow.com/view/0AE997BD10E9DC03F187E8529D23BE91362DE394', 'used_for': '2025 online sales share and growth'}",
+      "{'name': 'US Customs and Border Protection de minimis China notice', 'url': 'https://www.help.cbp.gov/s/article/Article-1915?language=en_US', 'used_for': '2025 de minimis change affecting China-origin e-commerce imports'}",
+      "{'name': 'Federal Reserve FEDS Notes, March 5 2026', 'url': 'https://www.federalreserve.gov/econres/notes/feds-notes/the-slow-climb-how-tariffs-gradually-raised-retail-prices-in-2025-20260305.html', 'used_for': '2025 tariff pass-through and China-origin goods price pressure'}",
+      "{'name': 'US Department of Energy cooking-product efficiency standards', 'url': 'https://www.energy.gov/articles/doe-finalizes-cost-saving-efficiency-standards-new-cooking-products-based-recommendations', 'used_for': '2024 rule and 2028 compliance timing for covered cooking appliances'}",
+      "{'name': 'SharkNinja 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1957132/000195713226000015/sharkninja-20251231.htm', 'used_for': '2025 small-appliance brand revenue, product mix and US brand-position context'}"
+    ],
+    "one_sentence": "The US Online Small Electrical Appliance Sales industry is a roughly $10.6 billion 2026E market that continues to outgrow store-based appliance retail as consumers compare prices online for vacuums, air fryers, blenders, coffee makers, hair tools, fans and other compact powered household products.",
+    "slug": "online-small-electrical-appliance-sales"
+  }
+]

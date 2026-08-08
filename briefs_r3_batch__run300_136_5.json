@@ -1,0 +1,395 @@
+[
+  {
+    "title": "Hand Tool Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature U.S. fabricated-metal niche where pro-grade brands, retail channels and import competition matter more than fast volume growth.",
+    "overview": "The U.S. Hand Tool Manufacturing industry is a mature, import-exposed manufacturing category within NAICS 332216, covering saw blades and nonpowered hand and edge tools but excluding electric and hydraulic power tools. The baseline IBISWorld file estimated 2021 industry revenue at $7.9 billion and projected 2026 revenue at $7.7 billion, while a public April 2025 IBISWorld/Research and Markets synopsis reported 2023 revenue at $7.4 billion after a 7.1% 2023 decline and a 1.6% annualized decline over the prior five years. The core story in 2025-2026 is mixed: residential remodeling remains large, professional channels are stabilizing, and some industrial cutting-tool demand improved in 2025, but housing softness, tariffs, high metal costs and low-cost imports continue to pressure margins and domestic share.",
+    "key_stats": {
+      "market_size": "2026 baseline forecast: $7.7B U.S. industry revenue; latest public IBISWorld/Research and Markets point: $7.4B in 2023.",
+      "growth": "2023 revenue declined 7.1%; 2018-2023 revenue CAGR was -1.6%; baseline 2021-2026 forecast CAGR was -0.4%.",
+      "employment": "2026 baseline forecast: 29,181 employees, down from 29,595 in 2021.",
+      "establishments": "2023 Census/data.census.gov profile showed 775 employer establishments for NAICS 332216; baseline file showed 909 establishments in 2021.",
+      "imports": "2021 baseline imports were $5.0B and 2026 baseline imports were forecast at $4.8B; U.S. imports from China of HS 82 tools, implements and cutlery totaled $2.91B in 2025.",
+      "exports": "2021 baseline exports were $2.2B and 2026 baseline exports were forecast at $2.2B.",
+      "input_costs": "BLS/FRED steel mill products PPI was 361.439 in June 2026, up from 312.410 in December 2025.",
+      "demand_indicators": "Census reported May 2026 total construction spending at a $2.210T seasonally adjusted annual rate, 1.5% below May 2025; June 2026 housing starts were at a 1.427M seasonally adjusted annual rate, 3.5% above June 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: about $7.9B, derived from the baseline file’s 2021 revenue of $7.906B and its 2021-2027 projected CAGR of -0.35%.",
+      "growth": "2022 estimated growth: about -0.35% from 2021, using the baseline file’s projected 2021-2027 CAGR.",
+      "profit_margin": "2021 baseline profit margin: 2.3%; public April 2025 IBISWorld/Research and Markets synopsis reported 2023 profit margin at 3.3%.",
+      "context": "The 2022 baseline sits immediately after the 2021 steel-price revenue spike, before the public 2023 industry revenue decline to $7.4B."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by forging, machining, stamping, heat treating, coating, assembling and packaging mechanics’ hand service tools, edge tools, saw blades, dies, interchangeable cutting tools, measuring tools and specialty trade tools. Sales flow through tool and hardware wholesalers, industrial distributors, auto-repair and aerospace channels, home improvement retailers, hardware stores, farm and garden channels, e-commerce, private-label programs and some government or defense tool-kit procurement.",
+    "cost_structure": "The largest cost bucket is purchased materials and components, especially steel, iron, aluminum, plastics, fiberglass handles, cutting inserts, coatings and packaging. Wages are meaningful because forging, machining, finishing, quality control and toolmaking still require skilled labor, although automation lowers headcount intensity. Other costs include energy for heat treatment and forging, depreciation on presses/CNC/robotics, freight and warehousing, retailer/distributor allowances, warranty expense, compliance testing and brand marketing. Margin sensitivity is high because commodity steel prices, tariffs and imported finished tools can move faster than manufacturers can reprice through retail and distributor channels.",
+    "major_players": [
+      "Stanley Black & Decker",
+      "Snap-on",
+      "Apex Tool Group",
+      "Klein Tools",
+      "Techtronic Industries / Milwaukee Tool",
+      "Channellock",
+      "Ideal Industries",
+      "Wright Tool"
+    ],
+    "current_dynamics": "Demand is steadier than the 2020-2021 DIY surge but uneven. Homeowners locked into low mortgage rates are still spending on repair and remodeling, yet new residential and private construction are not delivering broad volume acceleration. Professional-grade channels are healthier than discretionary DIY, with Stanley Black & Decker reporting 2Q 2026 Tools & Outdoor organic growth in North America and U.S. retail/C&I volume strength after a weaker 2025. Domestic producers are still fighting import competition, particularly from China and Taiwan, while 2026 steel inflation and tariff volatility are keeping cost control, sourcing flexibility and pricing discipline central.",
+    "whats_growing": "Professional and trade-specific tools, electrician and utility tools, U.S.-made premium lines, jobsite storage, industrial cutting tools and replacement accessories are growing faster than generic consumer hand tools. Remodeling and repair spending remains a large demand pool, with JCHS projecting owner-occupied remodeling and repair spending to reach $524B in early 2026 before slowing. Cutting-tool shipments rose to $2.56B in full-year 2025, up 2.5% from 2024, helped by aerospace and automotive activity.",
+    "whats_shrinking": "Commodity-grade hand tools, smaller domestic producers without automation scale, and categories exposed to low-price imported substitutes remain under pressure. The 2023 public IBISWorld/Research and Markets synopsis showed industry revenue down 7.1% in 2023, and the baseline file projected enterprise and employment declines through 2026. Demand from housing-sensitive channels is also constrained by weak starts, high mortgage rates and cautious consumers.",
+    "recent_developments": [
+      "2025-04: Public IBISWorld/Research and Markets synopsis reported U.S. hand tool manufacturing revenue at $7.4B in 2023, down 7.1% in 2023 and down 1.6% annualized over 2018-2023.",
+      "2025-07: Stanley Black & Decker reported 2Q 2025 Tools & Outdoor net sales down 2%, with North America down 4% and tariff-related shipment disruption weighing on the segment.",
+      "2025-10: Harvard JCHS LIRA projected owner-occupied remodeling and repair spending to reach $524B in early 2026, with 2.4% year-over-year growth in early 2026 and 1.9% by 3Q 2026.",
+      "2026-02: AMT/USCTI reported 2025 U.S. cutting-tool shipments of $2.56B, up 2.5% from 2024, and December 2025 shipments of $215M, up 17.1% from December 2024.",
+      "2026-06: Apex Tool Group named Chris Keffer CEO, reinforcing a portfolio that includes Crescent, GearWrench, SATA, Weller, Cleco and APEX brands.",
+      "2026-07: Stanley Black & Decker reported 2Q 2026 Tools & Outdoor organic revenue up 3%, North America organic revenue up 4%, and adjusted segment margin up to 11.8%."
+    ],
+    "outlook": "The likely 2026-2030 path is low single-digit nominal growth with uneven real growth. Construction and remodeling should keep replacement demand alive, while industrial and aerospace-related cutting tools provide pockets of upside. The ceiling is import penetration, channel price pressure and mature product usage; the floor is the recurring need for repair, maintenance and trade work. Winners should be premium brands with professional loyalty, U.S.-made or tariff-resilient supply chains, strong retailer/distributor placement, and automation that offsets labor and metal-cost inflation.",
+    "themes": [
+      "Import pressure and reshoring tradeoffs",
+      "Steel and tariff volatility",
+      "Professional-grade premiumization",
+      "Remodeling over moving",
+      "Retail channel concentration",
+      "Automation in mature metalworking",
+      "Trade-specific product innovation",
+      "Private-label and e-commerce competition"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Hand Tool Manufacturing, IBISWorld, Jan. 11, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hand-tool-manufacturing.txt'}",
+      "{'name': 'Research and Markets / IBISWorld, Hand Tool Manufacturing in the US, April 2025 synopsis', 'url': 'https://www.researchandmarkets.com/reports/2311072/hand_tool_manufacturing_in_the_us_industry'}",
+      "{'name': 'U.S. Census Bureau, NAICS 332216 profile/search result and 2022 Economic Census tables', 'url': 'https://data.census.gov/all?codeset=naics~332216&g=010XX00US'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending, May 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'name': 'U.S. Census Bureau, New Residential Construction, June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'name': 'Harvard Joint Center for Housing Studies, LIRA, July 2026 and October 2025 releases', 'url': 'https://www.jchs.harvard.edu/research-areas/remodeling/lira'}",
+      "{'name': 'FRED/BLS, Producer Price Index: Steel Mill Products, June 2026', 'url': 'https://fred.stlouisfed.org/series/WPU1017'}",
+      "{'name': 'FRED/BLS, Import Price Index HS 82 tools and implements, June 2026', 'url': 'https://fred.stlouisfed.org/series/IP82'}",
+      "{'name': 'Stanley Black & Decker, 2Q 2026 results', 'url': 'https://ir.stanleyblackanddecker.com/news-events/press-releases/news-details/2026/Stanley-Black--Decker-Reports-Solid-2Q-2026-Results/default.aspx'}",
+      "{'name': 'Stanley Black & Decker, 2Q 2025 results', 'url': 'https://newsroom.stanleyblackanddecker.com/2025-07-29-Stanley-Black-Decker-Reports-2Q-2025-Results'}",
+      "{'name': 'AMT/USCTI, December 2025 U.S. cutting-tool shipments', 'url': 'https://www.amtonline.org/article/december-2025-us-cutting-tool-shipments-totaled-usd215m-up-17-1-from'}",
+      "{'name': 'Apex Tool Group, company profile and brands', 'url': 'https://www.apextoolgroup.com/about-us'}",
+      "{'name': 'Klein Tools, American manufacturing', 'url': 'https://www.kleintools.com/content/american-manufacturing'}",
+      "{'name': 'Trading Economics / UN Comtrade, U.S. imports from China of tools, implements and cutlery of base metal, 2025', 'url': 'https://tradingeconomics.com/united-states/imports/china/tools-implements-cutlery-base-metal'}"
+    ],
+    "one_sentence": "Hand tool manufacturers make nonpowered mechanics’ tools, edge tools, saw blades, measuring tools and interchangeable cutting tools for construction, repair, industrial, automotive, electrical and DIY users, with demand tied to remodeling, construction activity, trade flows and steel costs.",
+    "slug": "hand-tool-manufacturing"
+  },
+  {
+    "title": "Handbag, Luggage & Accessory Stores in the US",
+    "sector": "Retail",
+    "one_liner": "Specialty handbag, luggage and accessory stores are recovering with travel and premium leather-goods demand, but e-commerce, off-price retail and tariffs keep pressure on store traffic and margins.",
+    "overview": "This retail industry covers specialty stores primarily selling handbags, luggage, costume jewelry, hats, wallets, belts, neckwear and related accessories, excluding department stores, mass merchants and online-only sellers. The 2022 IBISWorld baseline reported 2021 revenue of $14.6 billion after an 18.4% 2020 pandemic drop and an 11.0% 2021 rebound. By 2025, revenue is estimated at about $16.1 billion using the baseline 2021-2026 recovery path, supported by revived travel and stronger premium leather-goods demand, but growth is uneven because online retail, resale, rental, off-price chains, tariff pass-through and selective brand distribution are reshaping where consumers buy accessories.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $16.1 billion, derived from the 2022 baseline forecast path from $14.6 billion in 2021 to $16.5 billion in 2026.",
+      "growth": "2021-2025 estimated CAGR: about 2.5%; 2026 baseline forecast revenue: $16.5 billion.",
+      "profit_margin": "2021 baseline EBIT margin: 9.3%; 2026 baseline forecast EBIT margin: 10.2%.",
+      "establishments": "2021 baseline establishments: 39,930; 2026 baseline forecast employment: 102,519 workers.",
+      "product_mix": "2021 baseline product mix: women's accessories 38.2%, luggage and leather goods 21.8%, costume and novelty jewelry 19.5%, men's accessories 18.0%, other clothing accessories 2.5%.",
+      "ecommerce_pressure": "Q1 2026 US retail e-commerce sales: $326.7 billion, 16.9% of total retail sales, up 9.8% year over year.",
+      "travel_driver": "2026 NTTO forecast: 70.5 million international visitors to the US, up 3.2% from 2025; 2025 estimate: 68.3 million visitors.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2021 revenue: $14.586 billion in 2021 dollars.",
+      "growth": "2016-2021 revenue CAGR: -0.1%; 2021 revenue growth: +11.0%; 2021-2026 forecast CAGR: +2.5% to $16.5 billion.",
+      "profit": "2021 profit: $1.357 billion; 2021 profit margin: 9.3%.",
+      "industry_gross_product": "2021 industry gross product: $3.391 billion.",
+      "establishments": "2021 establishments: 39,930.",
+      "enterprises": "2021 enterprises: 35,248.",
+      "employment": "2021 employment: 94,121.",
+      "wages": "2021 total wages: $1.824 billion."
+    },
+    "how_it_makes_money": "Stores make money by marking up handbags, luggage, wallets, belts, hats, costume jewelry and other accessories bought from brands, wholesalers or affiliated manufacturers. Revenue comes from full-price specialty-store sales, outlet and promotional sales, travel-season luggage purchases, premium leather-goods launches, gifting periods and in-store clienteling. Larger branded operators also use stores to support omnichannel pickup, returns and customer acquisition, although pure e-commerce revenue may be classified outside the store industry.",
+    "cost_structure": "The largest cost is merchandise purchases, followed by store labor, rent and occupancy, marketing, fulfillment and logistics, payment processing, shrink, depreciation and corporate overhead. Baseline wages were $1.824 billion in 2021, or about 12.5% of 2021 revenue. Gross margins can be high for premium leather goods, but profit is sensitive to markdowns, mall traffic, import duties, freight costs and inventory timing. In 2025-2026, tariffs and tariff refunds became a visible cost swing for accessories companies, while higher digital marketing and store-experience spending raised SG&A needs.",
+    "major_players": [
+      "Tapestry Inc. (Coach and Kate Spade)",
+      "Capri Holdings Ltd. (Michael Kors and Jimmy Choo)",
+      "Samsonite International S.A. (Samsonite and Tumi)",
+      "Vera Bradley Inc.",
+      "Away Travel",
+      "Fossil Group Inc.",
+      "Independent specialty accessory and luggage stores"
+    ],
+    "current_dynamics": "Demand is bifurcated in 2025-2026. Premium accessible luxury is outperforming when brands have strong handbag cycles and disciplined pricing, shown by Tapestry's 2025 and Q3 2026 Coach gains, while weaker brands and overdistributed labels remain under pressure, shown by Capri's 2025-2026 Michael Kors declines. Travel recovery supports luggage replacement, but inbound visitor expectations were reset lower in 2026 versus earlier 2025 forecasts, limiting some tourist-spending upside. Store operators also face a structural channel leak: Census reported Q1 2026 e-commerce at 16.9% of total retail sales, and online accessory purchases, resale platforms and off-price stores continue to compete with specialty stores.",
+    "whats_growing": "Premium and accessible luxury handbags, Coach-led leather goods, Gen Z customer acquisition, omnichannel specialty retail, experiential stores, travel-linked luggage replacement, durable carry-ons, resale-aware product positioning and selective distribution that reduces deep discounting are growing in 2025-2026.",
+    "whats_shrinking": "Undifferentiated mall accessory stores, weak fashion jewelry concepts, overdistributed logo-heavy handbags, lower-productivity stores, brands dependent on markdowns, and specialty-store sales lost to online marketplaces, off-price chains, resale and department-store competitors are shrinking or under pressure in 2025-2026.",
+    "recent_developments": [
+      "2025-08-14: Tapestry reported FY2025 revenue of $7.01 billion, up 5.1%, with Coach up 9.9% and Kate Spade down 10.3%.",
+      "2025-09-03: TSA said Labor Day 2025 checkpoint screenings reached nearly 10.4 million travelers, up about 3.3% from the 2024 holiday period.",
+      "2026-03-05: Federal Reserve researchers found 2025 tariff effects raised prices gradually, with China-origin goods up 8.5% year over year by December 2025 and at least 30% tariff pass-through from April 2025 to December 2025.",
+      "2026-05-07: Tapestry reported Q3 FY2026 revenue of $1.92 billion, up 21%, with North America up 20% and Coach handbag units up more than 20%.",
+      "2026-05-18: Census reported Q1 2026 US retail e-commerce sales of $326.7 billion, 16.9% of total retail sales and up 9.8% year over year.",
+      "2026-05-27: Capri reported FY2026 revenue of $3.474 billion, down 4.1%, with Michael Kors revenue down 4.7% and Jimmy Choo down 0.8%."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but uneven. The baseline forecast points to $16.5 billion of 2026 store revenue and a 10.2% profit margin, helped by travel, premium handbags and higher-income consumers. Upside comes from strong brand heat, the 2026 FIFA World Cup tourism lift and disciplined inventory. Downside comes from e-commerce share gains, weaker international visitation than earlier official 2025 projections, tariffs, freight disruption, consumer price sensitivity and resale/off-price competition. Winners are likely to be brands and retailers with distinctive product, controlled distribution, productive stores and strong omnichannel data.",
+    "themes": [
+      "Travel recovery",
+      "Accessible luxury",
+      "Premium handbags",
+      "E-commerce competition",
+      "Tariff and duty pressure",
+      "Selective distribution",
+      "Gen Z consumers",
+      "Resale and rental",
+      "Store experience",
+      "Omnichannel retail"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: Handbag, Luggage & Accessory Stores in the US, IBISWorld, last updated July 21, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/handbag-luggage-and-accessory-stores-in-the-us.txt'}",
+      "{'title': 'Tapestry FY2025 Annual Report / Form 10-K', 'url': 'https://ebs.publicnow.com/view/336477F0B2BBD4F65F805E96875095CA87EE7E98'}",
+      "{'title': 'Tapestry FY2026 Q3 results, May 7, 2026', 'url': 'https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2026-third-quarter-results-and'}",
+      "{'title': 'Capri Holdings FY2026 results, May 27, 2026', 'url': 'https://www.capriholdings.com/news/news-details/2026/Capri-Holdings-Limited-Announces-Fourth-Quarter-and-Full-Year-Fiscal-2026-Results/default.aspx'}",
+      "{'title': 'US Census Quarterly Retail E-Commerce Sales, Q1 2026', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'title': 'National Travel and Tourism Office 2026-2030 International Visitor Forecast', 'url': 'https://www.trade.gov/travel-and-tourism-forecasts'}",
+      "{'title': 'Federal Reserve FEDS Notes: The Slow Climb: How Tariffs Gradually Raised Retail Prices in 2025', 'url': 'https://www.federalreserve.gov/econres/notes/feds-notes/the-slow-climb-how-tariffs-gradually-raised-retail-prices-in-2025-20260305.html'}",
+      "{'title': 'TSA Labor Day 2025 screening press release', 'url': 'https://content.govdelivery.com/accounts/USDHSTSA/bulletins/3f0cd85'}"
+    ],
+    "one_sentence": "The industry sells discretionary fashion accessories and travel goods through specialty stores, with 2025 revenue estimated near $16.1 billion and growth tied to travel volumes, disposable income, premium handbag cycles and the ability of store-based retailers to defend against online and off-price channels.",
+    "slug": "handbag-luggage-and-accessory-stores-in-the-us"
+  },
+  {
+    "title": "Handyman Service Franchises",
+    "sector": "Consumer Services",
+    "one_liner": "Franchised handyman brands sell trusted, scheduled repair capacity into an aging US housing stock and a still-large home improvement market.",
+    "overview": "The industry remains fragmented but benefits from national-brand trust, lead generation, scheduling systems, repeat property-manager work and purchasing programs that independent operators often lack. The 2021 IBISWorld baseline put franchise revenue at $4.387B in 2021 and forecast $5.0B by 2026; 2026 industry commentary citing IBISWorld places the broader US handyman franchise market near $5.2B with roughly 4.1% annual growth. Demand is anchored by residential customers, especially homeowners who defer moving because of high mortgage rates and instead spend on repair, maintenance and smaller upgrades. The biggest constraint in 2025-2026 is not demand visibility but execution: technician hiring, wage inflation, insurance costs, local licensing boundaries and weaker discretionary remodeling growth.",
+    "key_stats": {
+      "market_size": "2026: about $5.2B US handyman-service franchise revenue, versus a 2021 baseline forecast of $5.0B by 2026",
+      "growth": "2026: about +4.1% annual growth according to 2026 industry commentary citing IBISWorld; JCHS projects owner-occupied renovation and repair spending growth slowing to +0.5% by Q2 2027",
+      "remodeling_spending": "2026: JCHS LIRA projected total homeowner improvement and repair spending at about $519B through mid-2027 after reaching a record range near $524B in early 2026",
+      "franchise_category_output": "2026: IFA/FRANdata projects franchised commercial and residential services output above $143.3B, up 3.2% year over year",
+      "labor_benchmark": "May 2025: BLS reported 1,529,700 general maintenance and repair workers with median pay of $23.84 per hour and mean annual pay of $53,780",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $4.5B, estimated from the baseline 2021 revenue of $4.387B and the baseline 2021-2027 projected CAGR of 2.76%",
+      "growth": "2022: about +2.8%, using the baseline projected CAGR",
+      "establishments": "2021 baseline: 1,595 establishments; 2026 baseline forecast: 1,795 establishments",
+      "employment": "2021 baseline: 19,926 workers; 2026 baseline forecast: 22,626 workers",
+      "profit_margin": "2021 baseline: 3.3% EBIT margin; 2026 baseline forecast: 5.6% EBIT margin"
+    },
+    "how_it_makes_money": "Franchisees earn job revenue from hourly labor, trip or service-call fees, project estimates, material markups, small remodeling packages, maintenance punch lists, commercial facility work and repeat property-manager accounts. Franchisors earn 2025-2026 revenue through upfront franchise fees, royalties commonly around 6%-7% of gross sales, brand-fund fees around 2%, technology fees, training fees and vendor rebate programs.",
+    "cost_structure": "The largest 2025-2026 cost is technician and dispatcher labor, followed by local marketing, vehicles and fuel, insurance, tools, software, franchise royalties, brand-fund contributions, payment processing and materials. Baseline 2021 wages were $1.208B on $4.387B of revenue, or about 27.5% of revenue; baseline 2021 EBIT profit was $145M, or 3.3% of revenue. In 2025-2026, margin pressure comes from skilled-labor scarcity, higher insurance premiums, parts and materials inflation, and customer price sensitivity on discretionary projects.",
+    "major_players": [
+      "{'name': 'Ace Handyman Services', 'position': \"Large handyman franchise platform under Ace Hardware; 2024 FDD commentary reported 369 franchised territories and 18 affiliated territories as of Dec. 31, 2024; Ace's 2025 annual report said Ace Handyman Services set sales and profit records with same-branch revenue up 15% in 2025.\"}",
+      "{'name': 'Mr. Handyman', 'position': 'Neighborly-owned national repair and maintenance brand; Entrepreneur listed 351 units and +10.0% unit growth in its 2026 franchise profile, while Neighborly reported Mr. Handyman ranked #289 in the 2026 Franchise 500.'}",
+      "{'name': 'Handyman Connection', 'position': 'Established handyman franchise; 2026 FDD data summarized by FranchiseDepth reported 65 outlets in 2025 and average 2025 gross sales per territory of $575,120 for the disclosed 27-US-franchisee cohort.'}",
+      "{'name': 'House Doctors', 'position': 'Premium Service Brands concept focused on residential and commercial handyman and small home-improvement work; the brand states it has over 50 locations nationwide in 2026.'}",
+      "{'name': 'The Patch Boys', 'position': 'BELFOR Franchise Group drywall and ceiling repair concept that overlaps with handyman demand by specializing in small repair jobs often avoided by larger contractors.'}"
+    ],
+    "current_dynamics": "In 2025-2026, repair and maintenance demand is supported by a record-old housing stock, low residential mobility, high mortgage rates and homeowners choosing smaller in-place upgrades instead of moving. At the same time, the broader remodeling cycle is losing momentum: JCHS projected renovation and repair spending growth to slow to 0.5% by Q2 2027 and spending to be about $519B through mid-2027. Franchise systems are still gaining share where they can promise insured technicians, transparent scheduling, warranties, online booking and national brand standards. Operators with strong recruiting and dispatch discipline are better positioned than technician-dependent single-truck independents.",
+    "whats_growing": [
+      "2026: Essential maintenance, replacement and safety repairs tied to a 44-year median housing-stock age in 2023 JCHS analysis.",
+      "2025-2026: Branded franchise systems with centralized lead generation, software, call centers and vendor purchasing programs.",
+      "2025: Ace Handyman Services same-branch revenue, up 15% in Ace Hardware's 2025 annual report.",
+      "2026: Commercial and residential service franchising, with IFA/FRANdata projecting 3.2% output growth and more than $143.3B in output.",
+      "2025-2026: Aging-in-place modifications, small repair bundles, punch-list work for real estate transactions and property-manager maintenance."
+    ],
+    "whats_shrinking": [
+      "2026-2027: Growth rate of owner-occupied remodeling and repair spending, with JCHS projecting only +0.5% year-over-year growth by Q2 2027.",
+      "2025-2026: Large discretionary remodel demand where financing costs, household uncertainty and weak home sales make customers postpone projects.",
+      "2025-2026: DIY-friendly tasks such as simple painting and minor cosmetic work, especially when households are cost constrained.",
+      "2025-2026: Margin cushion for operators that rely heavily on paid leads, subcontract labor or uninsured/underpriced bids."
+    ],
+    "recent_developments": [
+      "2025-03: JCHS reported US remodeling spending rose from $404B in 2019 to $611B in 2022 and was expected to remain above $600B through 2025.",
+      "2026-01: Neighborly said all 19 North American franchise brands, including Mr. Handyman, appeared on Entrepreneur's 2026 Franchise 500 for the second consecutive year.",
+      "2026-03: Wisconsin franchise filings showed Ace Handyman Services registered its 2026 FDD effective March 31, 2026, with an amendment registered June 5, 2026.",
+      "2026-04: IFA/FRANdata projected franchised commercial and residential services output above $143.3B in 2026, up 3.2% year over year.",
+      "2026-07: FranchiseDepth's 2026 FDD summary reported Handyman Connection at 65 total outlets in 2025, unchanged from 2024.",
+      "2026-07: JCHS projected home renovation and repair spending growth would slow to 0.5% by Q2 2027, with spending around $519B through mid-2027."
+    ],
+    "outlook": "The 2026-2027 outlook is positive but slower. Franchise brands should keep gaining relative share because customers value reliability, insurance, background checks, scheduling and warranties, while franchisees value call-center support, software and purchasing scale. Revenue growth is likely to be steadier in essential repair, replacement, safety, accessibility and property-management work than in discretionary upgrades. The main risks are technician shortages, higher wages, insurance and vehicle costs, local licensing limits on plumbing and electrical work, and a cooling remodeling cycle if housing turnover remains weak.",
+    "themes": [
+      "Aging housing stock",
+      "Do-it-for-me home maintenance",
+      "Franchise lead-generation advantage",
+      "Skilled labor shortage",
+      "Small-project contractor gap",
+      "Aging-in-place repairs",
+      "Property-manager recurring work",
+      "Cooling discretionary remodeling",
+      "Brand trust and insured technicians",
+      "Software-enabled dispatching"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'Baseline file: handyman-service-franchises.txt, IBISWorld extract last updated Mar. 30, 2021', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/handyman-service-franchises.txt'}",
+      "{'title': 'JCHS, Remodeling Spending Poised for Further Slowdown, July 23, 2026', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-spending-poised-further-slowdown'}",
+      "{'title': 'JCHS, Many Owners Cannot Afford to Maintain Aging Homes, July 16, 2026', 'url': 'https://www.jchs.harvard.edu/blog/many-owners-cannot-afford-maintain-aging-homes'}",
+      "{'title': 'JCHS, Remodeling Soars to New Heights, Mar. 20, 2025', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-soars-new-heights-industry-struggles-address-labor-shortages-and-urgent'}",
+      "{'title': 'IFA, Industry Spotlight: Home Services and Maintenance, Apr. 9, 2026', 'url': 'https://www.franchise.org/2026/04/industry-spotlight-home-services-and-maintenance-cleaning-sanitation-services/'}",
+      "{'title': 'IFA, Franchising Economic Outlook 2026', 'url': 'https://www.franchise.org/franchising-economic-outlook/'}",
+      "{'title': 'BLS, Occupational Employment and Wage Statistics, May 2025', 'url': 'https://www.bls.gov/news.release/ocwage.t01.htm'}",
+      "{'title': \"Neighborly, All 19 Neighborly Brands Earn Spots on Entrepreneur's 2026 Franchise 500, Mar. 10, 2026\", 'url': 'https://www.neighborlybrands.com/press-center/news/2026/all-19-neighborly-brands-earn-spots-on-entrepreneurs-2026/'}",
+      "{'title': 'Entrepreneur, Mr. Handyman Franchise Profile 2026', 'url': 'https://us.entrepreneur.com/franchises/directory/mr-handyman/284284'}",
+      "{'title': 'Ace Hardware, 2025 Annual Report Message to Shareholders', 'url': 'https://www.acehardware.com/2025-annualreport/message-to-shareholders'}",
+      "{'title': 'FranchiseDepth, Handyman Connection FDD Data 2026', 'url': 'https://franchisedepth.com/franchise/handyman-connection/'}",
+      "{'title': 'House Doctors, About the House Doctors Franchise', 'url': 'https://www.housedoctors.com/franchising/about-us/'}",
+      "{'title': 'CT Acquisitions, Handyman Business Franchise Opportunities in 2026', 'url': 'https://ctacquisitions.com/handyman-business-franchise-opportunities/'}"
+    ],
+    "one_sentence": "US handyman service franchises provide residential and light-commercial maintenance, repair, installation, painting, plumbing-adjacent, electrical-adjacent, flooring, deck, fence and small remodeling services through branded local franchisees.",
+    "slug": "handyman-service-franchises"
+  },
+  {
+    "title": "Hardware Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, import-exposed metal hardware industry supplying locks, hinges, handles and builders' hardware into construction, vehicles and transportation equipment.",
+    "overview": "This industry manufactures metal hardware such as locks, locksets, keys, hinges, handles, padlocks, door controls, cabinet hardware and related builders' hardware, excluding coin-operated and time locks. Demand is tied mainly to residential construction and repair/remodel activity, with additional exposure to autos, aircraft, transportation equipment and hardware retailers. The industry is mature and fragmented, with standardized products competing heavily on price against imports, while larger branded players defend margins through residential security brands, electronic locks, connected access systems and premium architectural hardware.",
+    "key_stats": {
+      "market_size": "2024 sectoral output was $9.521 billion for NAICS 33251 hardware manufacturing, down from $10.076 billion in 2023 and $10.283 billion in 2022.",
+      "growth": "2025 real output for NAICS 3325 hardware fell 7.1% year over year, while 2024 nominal sectoral output for NAICS 33251 fell 5.5% from 2023.",
+      "employment": "2025 employment for NAICS 3325 hardware was 22,600 workers.",
+      "product_mix_2021": "Builder's hardware was 49.0% of 2021 revenue, motor vehicle hardware 22.2%, miscellaneous hardware 15.7%, other transportation equipment 8.0% and furniture hardware 5.1%.",
+      "construction_signal": "2025 US housing starts were 1.36 million, down 0.6% from 2024; single-family starts were 943,000, down 6.9%. June 2026 starts were 1.427 million SAAR, up 3.5% from June 2025, but permits were 1.367 million SAAR, down 2.3% year over year.",
+      "cost_signal": "2025 unit labor costs for NAICS 3325 hardware rose 7.9% year over year; 2025 Section 232 steel and aluminum tariffs rose to 50% on June 4, 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 sectoral output was $10.283 billion for NAICS 33251 hardware manufacturing.",
+      "growth": "2022 sectoral output grew 8.5% from $9.476 billion in 2021.",
+      "baseline_context": "The February 2022 IBISWorld baseline estimated 2021 revenue at $9.233 billion, 2021 profit at $323 million and a 2021 profit margin of 3.5%, with revenue projected to edge down to $9.1 billion by 2026."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling metal hardware and security products to home builders, commercial contractors, cabinet and furniture makers, auto and transportation-equipment manufacturers, hardware stores, wholesalers and OEM channels. Higher-margin revenue comes from branded residential locksets, premium door and cabinet hardware, smart locks, access-control-adjacent products and specialized transportation hardware, while commodity hinges, handles and basic locks compete more directly with imports.",
+    "cost_structure": "The cost base is dominated by purchased steel, aluminum, brass, bronze, components, coatings and outsourced parts, making margins sensitive to metal prices, tariffs and supplier lead times. Labor, machining, stamping, casting, finishing, packaging, distribution, compliance and depreciation are meaningful but secondary to materials. The 2021 baseline profit margin was 3.5%, and 2025 BLS data show margin pressure from a 7.9% rise in unit labor costs for NAICS 3325 hardware.",
+    "major_players": [
+      "ASSA ABLOY AB / Opening Solutions Americas, including Kwikset, Baldwin, Weiser and National Hardware after the 2023 HHI acquisition",
+      "Allegion plc, including Schlage, Von Duprin, LCN, Steelcraft and 2025 acquisition Trimco",
+      "Fortune Brands Innovations, including Master Lock, Yale, August, Emtek and Schaub in the US and Canada after 2023 divestitures",
+      "dormakaba Holding AG",
+      "The Eastern Company / Eberhard Manufacturing",
+      "CompX International"
+    ],
+    "current_dynamics": "The 2025-2026 operating environment is mixed. Official BLS/FRED data show nominal sectoral output shrinking from 2022 through 2024 and real output declining again in 2025. Demand from single-family housing remained weak in 2025, but multifamily starts, nonresidential work, security upgrades and connected access products provide pockets of growth. Renewed 2025-2026 metal tariffs raise domestic input costs and may also reduce some import price gaps. Large players are consolidating brands and adding electronics, software and access-control capabilities, while smaller manufacturers remain exposed to material volatility and price-based import competition.",
+    "whats_growing": "Smart locks, electronic and connected access products, multifamily access systems, premium architectural door hardware, antimicrobial/easy-clean surfaces, replacement and retrofit demand, nonresidential accessories, and branded products sold through professional distribution and home-improvement channels.",
+    "whats_shrinking": "Commodity mechanical locks, basic keys and padlocks, low-differentiation hinges and handles, single-family new-build volume, labor-intensive domestic production of standardized hardware, and import-reliant products whose landed costs rise under 2025-2026 metals tariffs.",
+    "recent_developments": [
+      "2023-06-20: Spectrum Brands completed the $4.3 billion sale of its Hardware and Home Improvement business to ASSA ABLOY.",
+      "2025-02-18: NAHB reported 2025 housing starts of 1.36 million, down 0.6% from 2024, with single-family starts down 6.9%.",
+      "2025-06-04: US Section 232 steel and aluminum tariffs increased from 25% to 50%, raising input-cost risk for metal hardware producers.",
+      "2026-04-02: The White House expanded tariff calculation rules for steel, aluminum and copper products, including derivative articles, increasing cost uncertainty for metal-intensive manufacturers.",
+      "2026-06-24: BLS reported 2025 NAICS 3325 hardware employment at 22,600, real output down 7.1% and unit labor costs up 7.9% year over year.",
+      "2026-07-17: Census reported June 2026 housing starts at 1.427 million SAAR and permits at 1.367 million SAAR, a mixed signal for builders' hardware demand."
+    ],
+    "outlook": "The near-term outlook is cautious. Demand should stabilize if mortgage rates ease and nonresidential/multifamily work holds up, but the industry is unlikely to return quickly to its 2022 output level because real output fell in 2025 and commodity hardware remains vulnerable to imports and substitution. Margin recovery depends on the ability to pass through higher steel, aluminum and copper costs, improve factory productivity and shift mix toward branded smart, premium and specialty hardware. The best-positioned firms are larger brands with channel access, electronics capability and scale purchasing power; smaller commodity producers face continued consolidation pressure.",
+    "themes": [
+      "Metal tariff cost squeeze",
+      "Housing-cycle exposure",
+      "Import competition and reshoring tension",
+      "Smart locks and connected access",
+      "Premium brand consolidation",
+      "Multifamily and nonresidential retrofit demand",
+      "Mature commodity product categories",
+      "Labor productivity and unit-cost pressure"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local baseline file: hardware-manufacturing-in-the-us.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hardware-manufacturing-in-the-us.txt'}",
+      "{'name': 'FRED / BLS sectoral output for NAICS 33251 hardware manufacturing', 'url': 'https://fred.stlouisfed.org/series/IPUEN33251T300000000'}",
+      "{'name': 'BLS Productivity and Costs by Industry, Manufacturing and Mining Industries - 2025', 'url': 'https://www.bls.gov/news.release/prin.htm'}",
+      "{'name': 'US Census Bureau, Monthly New Residential Construction, June 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'name': 'NAHB, Overall Housing Starts Inch Lower in 2025', 'url': 'https://www.nahb.org/news-and-economics/press-releases/2026/02/overall-housing-starts-inch-lower-in-2025'}",
+      "{'name': 'White House, Adjusting Imports of Aluminum and Steel into the United States, June 3 2025', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/'}",
+      "{'name': 'White House, Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper into the United States, April 2 2026', 'url': 'https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/'}",
+      "{'name': 'Spectrum Brands, completion of Hardware and Home Improvement sale to ASSA ABLOY', 'url': 'https://investor.spectrumbrands.com/news-releases/news-release-details/spectrum-brands-completes-sale-hardware-and-home-improvement/'}",
+      "{'name': 'Allegion 2025 Annual Report and performance overview', 'url': 'https://www.allegion.com/corp/en/about/annual-report/performance.html'}",
+      "{'name': 'US Department of Justice settlement on ASSA ABLOY / Spectrum Brands HHI transaction', 'url': 'https://www.justice.gov/archives/opa/pr/justice-department-reaches-settlement-suit-block-assa-abloy-s-proposed-acquisition-spectrum'}"
+    ],
+    "one_sentence": "US hardware manufacturers entered 2026 with a smaller domestic output base than in 2022, pressured by weak single-family construction, lower real output, high import competition and renewed metal-tariff cost inflation, while smart locks, premium access hardware and multifamily/nonresidential demand remain the stronger niches.",
+    "slug": "hardware-manufacturing-in-the-us"
+  },
+  {
+    "title": "Hardware Store Franchises",
+    "sector": "Retail",
+    "one_liner": "Local franchised hardware stores are holding up on repair, maintenance and contractor replenishment demand, but growth is modest as high mortgage rates, soft housing turnover and big-box competition cap discretionary project spending.",
+    "overview": "Hardware store franchises retail hardware, tools, paint, plumbing, electrical, lawn and garden, and repair supplies through locally operated stores tied to a national brand or buying system. The model trades franchise fees and operating rules for brand recognition, wholesale purchasing scale, training, merchandising support and digital systems. Demand is tied to household repair and maintenance, DIY renovation, contractor replenishment, homeownership, mortgage rates and local housing age. The industry remains fragmented at the store level, but brand and supply-chain scale matter more in 2025-2026 as retailers invest in inventory visibility, click-and-collect, private label, pro accounts and faster replenishment.",
+    "key_stats": {
+      "market_size": "2025 estimated US hardware store franchise revenue: $7.8 billion",
+      "growth": "2025 estimated revenue growth: +2.0% to +3.0% year over year",
+      "broader_hardware_store_output": "2025 US hardware stores sectoral output: $43.560 billion, up 2.9% from 2024",
+      "profit_margin": "2025 estimated franchisee EBIT margin: about 3.5% to 4.0%",
+      "establishments": "2025 estimated franchised hardware store establishments: about 3,300 to 3,500",
+      "demand_indicator": "2026 owner-occupied remodeling and repair spending projected at about $519 billion through mid-2027, with growth slowing to 0.5% by 2027-Q2",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated US hardware store franchise revenue: $7.5 billion",
+      "growth": "2022 estimated revenue growth: about +1.0% year over year",
+      "source_context": "Baseline IBIS file reported 2021 revenue of $7.420 billion and projected 2021-2026 CAGR of 0.95%; 2022 is estimated from that baseline trend.",
+      "broader_hardware_store_output": "2022 US hardware stores sectoral output: $38.937 billion"
+    },
+    "how_it_makes_money": "Franchisees earn revenue from in-store and digitally initiated sales of hardware, fasteners, tools, paint, plumbing, electrical, lawn and garden, seasonal goods, repair parts and related project supplies. Some stores also add key cutting, screen repair, rental, delivery, contractor accounts, small commercial sales and local installation referrals. Franchisors and affiliated wholesalers make money through wholesale merchandise sales, membership or franchise fees, royalties, advertising funds, technology fees and service programs.",
+    "cost_structure": {
+      "purchases": "2025 largest cost: merchandise purchases, typically around 58% to 62% of franchisee revenue, with inflation, freight and vendor terms driving gross margin pressure.",
+      "wages": "2025 labor cost: typically around 14% to 17% of revenue because stores rely on knowledgeable sales help, receiving, checkout, order staging and local delivery.",
+      "rent_and_occupancy": "2025 occupancy, utilities and maintenance: typically around 6% to 9% of revenue, varying by store size and local real estate costs.",
+      "franchise_and_marketing_fees": "2025 franchise, advertising, technology and cooperative program fees: typically around 2% to 5% of revenue depending on banner and services used.",
+      "profit": "2025 operating profit: generally low-single-digit, about 3.5% to 4.0% of revenue for a typical franchisee."
+    },
+    "major_players": [
+      "Ace Hardware",
+      "Do it Best Group / True Value",
+      "Westlake Ace Hardware",
+      "Emery Jensen Distribution",
+      "Independent local hardware franchisees and dealer-owned stores"
+    ],
+    "current_dynamics": "The 2025-2026 market is stable but not fast growing. Repair, maintenance, storm preparation, aging housing stock and contractor replenishment are more resilient than big discretionary remodels. Broader US hardware store output reached $43.560 billion in 2025, up 2.9% from 2024, but remodeling indicators point to deceleration into 2027. Ace reported 2025 revenue of $10.043 billion, up 5.8%, opened 180 US stores and grew digital revenue 27%, showing that scale banners can grow even with flat same-store traffic. Do it Best’s 2024 acquisition of True Value and 2025 United Hardware merger increased consolidation among independent-hardware supply networks, giving local stores more purchasing and distribution leverage.",
+    "whats_growing": [
+      "2025-2026 click-and-collect and local delivery tied to store inventory",
+      "2025 lawn and garden, grilling, fertilizer, power tools and seasonal categories at scaled banners",
+      "2025-2026 repair, maintenance and emergency-preparedness purchases",
+      "2025-2026 pro and small-contractor accounts for fast replenishment",
+      "2025 private-label and exclusive brands that help protect margin"
+    ],
+    "whats_shrinking": [
+      "2025-2026 discretionary large DIY remodel projects as mortgage rates remain elevated",
+      "2025-2026 same-store transactions at mature hardware stores where ticket growth offsets lower footfall",
+      "2025-2026 standalone stores without strong inventory systems, e-commerce visibility or buying scale",
+      "2025-2026 lumber-heavy sales exposure at small hardware formats because home centers and lumberyards are stronger competitors"
+    ],
+    "recent_developments": [
+      "2024-10: True Value filed Chapter 11 and announced a sale agreement with Do it Best while independently owned True Value stores continued operating.",
+      "2024-11: Do it Best completed its acquisition of True Value, adding brand rights, inventory and paint manufacturing assets.",
+      "2025-06: BLS/FRED data showed 2025 US hardware stores sectoral output at $43.560 billion, up from $42.338 billion in 2024.",
+      "2025-09: Do it Best / True Value reported FY2025 consolidated revenue of $4.7 billion, up 6.1% from FY2024, according to trade reporting.",
+      "2026-02: Ace Hardware reported FY2025 revenue of $10.043 billion, up 5.8%, and 180 new domestic stores in 2025.",
+      "2026-07: Harvard JCHS LIRA projected renovation and repair spending growth slowing to 0.5% by 2027-Q2, with spending projected at $519 billion through mid-2027."
+    ],
+    "outlook": "Revenue should grow slowly in 2026 as repair and maintenance demand offsets weak housing turnover and softer discretionary remodeling. The best-positioned franchisees will use national buying power, local service, accurate inventory, pickup, delivery and pro-account programs to defend share against Home Depot, Lowe’s, Amazon, Walmart and specialty e-commerce sellers. Margin expansion will be difficult because wage, rent, freight, insurance and technology costs remain high, but private label, vendor rebates, disciplined assortments and higher-ticket project baskets can support profitability. Consolidation among independent hardware supply networks is likely to continue shaping store economics and banner options.",
+    "themes": [
+      "Aging housing stock supports recurring repair demand",
+      "High mortgage rates suppress home sales and discretionary remodels",
+      "Omnichannel inventory visibility is becoming table stakes",
+      "Buying-group scale matters more as costs stay elevated",
+      "Local expertise remains the core defense against big-box and e-commerce competitors",
+      "Consolidation among independent hardware networks is reshaping the channel"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file, Hardware Store Franchises, last updated Jan. 30, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/hardware-store-franchises.txt', 'data_used': '2021 revenue of $7.420 billion, 2021-2026 projected CAGR of 0.95%, product mix, cost structure and industry model.'}",
+      "{'name': 'FRED / U.S. Bureau of Labor Statistics, Sectoral Output for Retail Trade: Hardware Stores NAICS 44413', 'url': 'https://fred.stlouisfed.org/series/IPUHN44413T300000000', 'data_used': '2025 hardware store sectoral output of $43.560 billion; 2024 output of $42.338 billion; 2022 output of $38.937 billion.'}",
+      "{'name': 'Ace Hardware, 2025 Annual Report and FY2025 results', 'url': 'https://www.acehardware.com/c/40817', 'data_used': '2025 revenue of $10.0 billion, 180 new domestic stores, 27% acehardware.com revenue growth and more than 5,800 stores worldwide.'}",
+      "{'name': 'Ace Hardware, Message to Shareholders 2025 Annual Report', 'url': 'https://www.acehardware.com/2025-annualreport/message-to-shareholders', 'data_used': '2025 revenue of $10.043 billion, 5.8% revenue growth, $24.1 billion system-wide retail sales, $2.6 billion omnichannel revenue and store productivity commentary.'}",
+      "{'name': 'True Value Company, Do it Best acquisition completion release', 'url': 'https://truevaluecompany.com/do-it-best-successfully-completes-purchase-of-true-value', 'data_used': 'November 2024 completion of Do it Best acquisition of True Value and strategic implications for independent hardware retailers.'}",
+      "{'name': 'Do it Best, About Us', 'url': 'https://www.doitbest.com/global/about-us/', 'data_used': '2025 scale after True Value and United Hardware integrations: over 8,000 locations, nearly $6 billion annual sales and more than 12 US distribution centers.'}",
+      "{'name': 'Joint Center for Housing Studies of Harvard University, LIRA July 23, 2026', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-spending-poised-further-slowdown', 'data_used': '2026 remodeling outlook: growth slowing to 0.5% by 2027-Q2 and spending projected at $519 billion through mid-2027.'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending June 2026', 'url': 'https://www.census.gov/construction/c30/current/index.html', 'data_used': 'June 2026 construction spending indicators showing total construction down 3.2% year over year and private residential construction at a $877.1 billion annual rate.'}"
+    ],
+    "one_sentence": "In 2025, US hardware store franchise revenue is estimated at about $7.8 billion, with low-single-digit growth supported by aging-home repair needs, omnichannel pickup and national buying networks, while elevated 2026 mortgage rates and slowing remodeling growth limit upside.",
+    "slug": "hardware-store-franchises"
+  }
+]

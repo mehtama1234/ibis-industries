@@ -1,0 +1,391 @@
+[
+  {
+    "title": "Bare Printed Circuit Board Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. bare PCB manufacturers are a small, strategically important electronics supply base benefiting from defense, aerospace, AI data-center and reshoring demand, but still pressured by Asian scale, input costs and trade volatility.",
+    "overview": "The U.S. bare printed circuit board industry remains much smaller than Asia's PCB ecosystem, but its strategic value has risen because defense systems, medical devices, AI infrastructure, vehicles and industrial equipment require trusted circuit-board fabrication close to end users. The 2022 baseline described a mature, import-exposed industry with $4.834 billion in revenue, 0.1% 2022 growth, 4.5% profit margin, 416 establishments, 387 enterprises, 21,949 workers, $833 million in exports and $2.407 billion in imports, all in 2022 dollars. Current 2025-2026 conditions are stronger than that low-growth baseline: a May 2025 IBISWorld listing estimated U.S. industry revenue at $5.3 billion after a 2020-2025 CAGR decline of 0.5%, while Global Electronics Association data showed North American PCB shipments up 12.8% in 2025 and May 2026 year-to-date shipments up 12.8% with bookings up 28.6%. The industry is therefore shifting from broad consumer-electronics exposure toward higher-mix, lower-volume, high-reliability boards where U.S. producers can command better margins and qualify for secure supply-chain requirements.",
+    "key_stats": {
+      "market_size": "2025 U.S. industry revenue estimated at $5.3 billion; 2024 U.S. industry sales separately estimated at $4.7 billion by Kentley Insights.",
+      "growth": "2020-2025 U.S. industry revenue CAGR estimated at -0.5%; 2025 North American PCB shipments rose 12.8% year over year; May 2026 North American PCB year-to-date shipments rose 12.8% and bookings rose 28.6% year over year.",
+      "profitability": "2022 IBIS baseline profit margin was 4.5% of revenue, with margins pressured by copper, laminate, resin, labor and compliance costs.",
+      "trade": "2022 exports were $833 million, equal to 17.2% of revenue; 2022 imports were $2.407 billion, satisfying 37.6% of domestic demand.",
+      "employment": "2022 industry employment was 21,949 workers across 416 establishments and 387 enterprises.",
+      "demand_signal": "May 2026 North American PCB book-to-bill ratio was 1.60 under the Global Electronics Association's updated methodology, indicating orders exceeded shipments.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$4.834 billion in U.S. industry revenue in 2022 dollars.",
+      "growth": "2022 revenue growth was 0.1%; 2017-2022 revenue declined at an annualized 0.4%.",
+      "profit": "$218 million profit in 2022, equal to a 4.5% margin.",
+      "domestic_demand": "$6.408 billion in 2022 domestic demand.",
+      "exports": "$833 million in 2022 exports, equal to 17.2% of revenue.",
+      "imports": "$2.407 billion in 2022 imports, equal to 37.6% of domestic demand.",
+      "employment": "21,949 workers in 2022.",
+      "establishments": "416 establishments in 2022.",
+      "enterprises": "387 enterprises in 2022."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by fabricating bare PCBs to customer specifications: multilayer rigid boards, flexible boards, rigid-flex boards, HDI boards, RF/microwave boards, prototypes and high-reliability specialty boards. Customers typically pay for engineering support, quick-turn prototyping, tooling, qualification, production runs and added process requirements such as microvias, sequential lamination, controlled impedance, specialty materials, ITAR handling, aerospace quality systems and defense traceability. Higher-margin work is concentrated in complex, low-to-mid-volume applications where domestic qualification, fast design turns and reliability matter more than lowest unit cost.",
+    "cost_structure": {
+      "materials": "2022 baseline identified volatile commodity prices as a margin pressure; core inputs include copper foil, laminates, glass fiber, resins, specialty dielectrics, solder mask, process chemicals and precious-metal finishes.",
+      "labor": "2022 baseline wages were $1.287 billion; skilled process engineers, CAM technicians, plating operators, quality teams and compliance staff are critical cost centers.",
+      "capital_equipment": "Laser drilling, imaging, plating, lamination, clean rooms, wastewater treatment, inspection and automation equipment drive capital spending, especially for HDI, UHDI and defense-qualified work.",
+      "compliance_and_quality": "AS9100, ITAR, military specifications, cybersecurity, environmental controls, traceability, testing and audits raise fixed costs but support premium markets.",
+      "profit": "2022 baseline profit margin was 4.5%, with profitability limited by import competition, energy and chemical costs, scrap, yield loss and customer pricing pressure."
+    },
+    "major_players": [
+      "TTM Technologies",
+      "Summit Interconnect",
+      "Advanced Circuits",
+      "Calumet Electronics",
+      "GreenSource Fabrication",
+      "APCT"
+    ],
+    "current_dynamics": "Demand is bifurcated. Commodity boards remain exposed to lower-cost imports from Asia, while U.S. producers are gaining leverage in high-reliability, secure and quick-turn niches. Defense and aerospace remain the industry's anchor markets, and AI data-center investment is becoming a meaningful demand driver for high-layer-count, high-speed and advanced substrate-like PCB work. North American PCB indicators improved through 2025 and strengthened in May 2026, but the Global Electronics Association cautioned that May 2026 book-to-bill comparisons use an updated methodology. Tariff uncertainty, copper and laminate costs, and customer reluctance to pay domestic premiums continue to limit a broad-based manufacturing revival.",
+    "whats_growing": "HDI, UHDI, high-layer-count, RF/microwave, rigid-flex and high-reliability boards are growing fastest because defense electronics, satellites, missiles, drones, medical devices, power infrastructure and AI/data-center equipment require dense interconnects, signal integrity and trusted sourcing. Domestic advanced-packaging-adjacent work is also attracting investment as policy shifts from a chips-only view toward a silicon-to-systems supply chain.",
+    "whats_shrinking": "Lower-complexity, high-volume bare boards for consumer electronics and standardized industrial products continue to shrink domestically because Asian producers retain scale, labor-cost and supply-chain advantages. Small shops without advanced capabilities, quality certifications or quick-turn niches face consolidation or exit, consistent with the 2022 baseline forecast for declining enterprise counts.",
+    "recent_developments": [
+      "2025-03-03: GreenSource Fabrication said New Markets Tax Credit financing would support a 98,000-square-foot Charlestown, New Hampshire facility with ISO 6 and ISO 7 clean rooms for UHDI PCB production.",
+      "2025-05-23: H.R.3597, the Protecting Circuit Boards and Substrates Act, was introduced to create a 25% tax credit for U.S.-fabricated PCBs and integrated circuit substrates.",
+      "2025-05: A May 2025 IBISWorld listing estimated U.S. bare PCB manufacturing revenue at $5.3 billion after a 2020-2025 CAGR decline of 0.5%.",
+      "2026-02-02: Global Electronics Association reported December 2025 North American PCB shipments up 11.0% year over year, 2025 year-to-date shipments up 12.8%, and a 1.18 book-to-bill ratio.",
+      "2026-02: TTM Technologies reported FY 2025 revenue of $2.906 billion, with aerospace and defense at 44% and data center computing at 24% of net sales.",
+      "2026-06-30: Global Electronics Association reported May 2026 North American PCB shipments up 11.9% year over year, bookings up 102.8%, year-to-date bookings up 28.6%, and a 1.60 book-to-bill ratio under updated methodology."
+    ],
+    "outlook": "The 2026 outlook is cautiously positive for U.S. bare PCB manufacturers that serve advanced and trusted-supply markets. Baseline IBIS expectations in 2022 called for only 0.6% annualized revenue growth to 2027, but 2025-2026 North American shipment and booking data indicate stronger near-term demand, especially from AI infrastructure and defense electronics. Revenue growth should remain uneven because the U.S. market is capacity constrained in advanced boards and still loses commodity volume to imports. Companies with HDI/UHDI capability, defense qualifications, automation, quick-turn engineering and relationships with semiconductor packaging, aerospace, medical and data-center customers are best positioned. The main downside risks for 2026-2027 are tariff-driven input inflation, copper and laminate volatility, delays in federal support, customer inventory corrections and continuing offshore price pressure.",
+    "themes": [
+      "Reshoring and trusted electronics supply chains",
+      "Defense Production Act and industrial-base policy",
+      "AI data-center demand for high-speed boards",
+      "HDI, UHDI and advanced packaging convergence",
+      "Import competition from Asia",
+      "Tariff and copper-cost volatility",
+      "Aerospace, defense and medical reliability premiums",
+      "Consolidation among small PCB fabricators"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "Local baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/bare-printed-circuit-board-manufacturing.txt",
+      "https://www.researchandmarkets.com/report/united-states-bare-pcb-market",
+      "https://www.marketresearch.com/Kentley-Insights-v4035/Bare-Printed-Circuit-Board-Manufacturing-39008248/",
+      "https://www.electronics.org/news-release/north-american-pcb-market-gains-momentum-160-book-bill-ratio-may",
+      "https://www.electronics.org/news-release/north-american-pcb-bookings-surge-april-sales-continue-climb",
+      "https://www.publicnow.com/view/DB4FBE0E9364F682D009A784A75AA00482367685",
+      "https://www.congress.gov/bill/119th-congress/house-bill/3597/text",
+      "https://www.defense.gov/News/Releases/Release/article/3589418/dod-awards-399-million-to-strengthen-us-supply-chains-for-printed-circuit-boards/",
+      "https://www.defense.gov/News/Releases/Release/Article/3342032/defense-production-act-title-iii-presidential-determination-for-printed-circuit/",
+      "https://greensourcefab.com/general/greensources-new-charlestown-facility-gains-backing-from-community-development-entities.html",
+      "https://investors.ttm.com/"
+    ],
+    "one_sentence": "Bare printed circuit board manufacturers fabricate rigid, flexible, HDI and specialty boards without mounted components, selling them to electronics assemblers and OEMs in defense, aerospace, medical, industrial, automotive, communications and computing markets.",
+    "slug": "bare-printed-circuit-board-manufacturing"
+  },
+  {
+    "title": "Battery Store Franchises",
+    "sector": "Retail",
+    "one_liner": "Franchised battery stores are a mature specialty retail niche anchored by automotive replacement batteries, with growth coming from older vehicles, AGM and auxiliary batteries, commercial accounts, and modest franchise expansion.",
+    "overview": "The industry is a narrow franchised-store segment within the much larger U.S. automotive aftermarket and battery retail ecosystem. The 2021 baseline described a $3.4 billion industry, 87.0% automotive battery exposure and a forecast path to about $3.6 billion by 2026. Current 2025-2026 indicators support a low-growth but resilient profile: U.S. light vehicles averaged 12.8 years old in 2025, vehicles in operation reached 289 million in 2024 data, the light-duty aftermarket was projected at $435 billion in 2025, and North American automotive lead battery demand was forecast to grow 2.5% in 2025 and 2.8% in 2026. The main drag is that batteries are increasingly bought through auto-parts chains, mass merchants, marketplace sellers and omnichannel pickup models, so franchise stores must compete on selection, installation, recycling, diagnostics and commercial service rather than price alone.",
+    "key_stats": {
+      "market_size": "2025: about $3.6 billion estimated U.S. Battery Store Franchises revenue; 2026: about $3.6-$3.7 billion estimated, using the 2021 baseline forecast and current aftermarket growth indicators.",
+      "growth": "2025: low-single-digit estimated revenue growth; 2021-2026 baseline CAGR: +1.1%; North American automotive lead battery demand forecast: +2.5% in 2025 and +2.8% in 2026.",
+      "profit_margin": "2026: about 4.2% EBIT margin in the baseline forecast; Batteries Plus 2024 company-owned-store gross profit margin: 50.1% before store operating expenses.",
+      "establishments": "2026 baseline forecast: 1,639 franchised establishments; Batteries Plus reported more than 800 locations open and in development in 2025-2026; Interstate reports about 200 All Battery Center franchise battery stores.",
+      "automotive_exposure": "2021 baseline: automotive batteries represented 87.0% of industry revenue, including 47.2% truck and RV batteries and 39.8% car and motorcycle batteries.",
+      "demand_backdrop": "2025: average U.S. light vehicle age reached 12.8 years; 2024 vehicles in operation reached 289 million; 2025 U.S. light-duty automotive aftermarket projected at $435 billion.",
+      "ecommerce_pressure": "2026 Q1: U.S. retail e-commerce was 16.9% of total retail sales and grew 9.8% year over year, outpacing total retail sales growth of 3.9%.",
+      "major_brand_unit_economics": "Batteries Plus 2024 franchised same-store average net revenue was $935,755 across 494 franchised stores; top-quartile average was $1,608,969.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $3.48 billion estimated, derived from the 2021 baseline revenue of $3.44 billion and the baseline 2021-2026 forecast CAGR of about +1.1%.",
+      "growth": "2022: about +1.1% estimated baseline forecast growth after the 2021 rebound; 2021 baseline growth was +3.4% following the 2020 COVID decline.",
+      "profit_margin": "2022: about 4.0%-4.1% estimated EBIT margin, based on the 2021 baseline margin of 4.0% and 2026 forecast of 4.2%.",
+      "establishments": "2022: about 1,539 estimated franchised establishments, interpolated from 1,515 in 2021 and the baseline forecast of 1,639 in 2026."
+    },
+    "how_it_makes_money": "Revenue comes from retail and commercial sales of replacement batteries, battery testing and installation, recycling/core-charge handling, device and key-fob batteries, lighting, chargers, marine/RV/golf-cart/powersports batteries, and related repair or service work. Franchise economics depend on local traffic, installer trust, inventory breadth, attachment services and recurring B2B accounts with fleets, municipalities, schools, healthcare facilities, property managers, security firms and small businesses.",
+    "cost_structure": {
+      "cost_of_goods_sold": "2024 Batteries Plus company-owned-store benchmark: 49.9% of net revenue, reflecting the high purchase cost of batteries and related inventory.",
+      "labor": "2024 Batteries Plus company-owned-store benchmark: wages and compensation were 18.0% of net revenue; baseline industry wages were 10.3% of revenue in 2021, but store-level service models are more labor intensive.",
+      "occupancy_and_office": "2024 Batteries Plus company-owned-store benchmark: facilities and office were 7.8% of net revenue.",
+      "marketing_and_royalty": "2024 Batteries Plus company-owned-store benchmark: marketing was 5.0% and royalties were 5.0% of net revenue; Batteries Plus franchise materials list a 5.0% royalty and 1.0% brand fund for franchised stores.",
+      "selling_delivery_admin": "2024 Batteries Plus company-owned-store benchmark: selling expense 1.8%, delivery expense 0.3%, admin expense 1.3% of net revenue.",
+      "margin_sensitivity": "Margins are sensitive to lead, lithium and imported battery costs, tariff pass-through, inventory obsolescence, warranty claims, delivery expense and price competition from online and auto-parts retailers."
+    },
+    "major_players": [
+      "{'name': 'Batteries Plus', 'position': 'Largest visible specialty battery franchise brand in the segment; reported more than 800 locations open and in development in 2025-2026, 494 franchised same stores in its 2024 FDD metrics, 24 franchise deals covering 63 units in 2025, and 15 agreements covering 30 units in the first half of 2026.'}",
+      "{'name': 'Interstate Batteries / Interstate All Battery Center', 'position': 'Major battery brand and franchise-store competitor; Interstate reports a distributor network of about 300 wholesale warehouses, more than 150,000 repair businesses and parts stores worldwide, and about 200 All Battery Center franchise battery stores.'}",
+      "{'name': 'Independent and regional franchise operators', 'position': 'Smaller operators compete on local service, commercial relationships, battery recycling, specialty applications and installation convenience, but face scale disadvantages in inventory purchasing and omnichannel marketing.'}"
+    ],
+    "current_dynamics": "Demand is being supported by aging vehicles, high new- and used-car prices, larger vehicle parc, commercial replacement cycles, and AGM/EFB battery mix shift. Franchise stores are also benefiting from local service needs that pure e-commerce sellers struggle to match: testing, installation, heavy battery handling, same-day pickup and core recycling. At the same time, growth remains capped by auto-parts chains, big-box stores, online marketplaces and repair shops that sell batteries directly. Tariffs on imported auto parts that took effect in 2025 add cost volatility, while EV adoption changes the mix toward auxiliary 12V batteries, lithium products, charging accessories and fleet/commercial power services rather than eliminating near-term replacement demand.",
+    "whats_growing": [
+      "2025-2026: AGM, EFB and premium replacement batteries as newer vehicles carry higher electrical loads and start-stop systems enter replacement cycles.",
+      "2025-2026: Commercial accounts serving schools, hospitals, municipalities, security firms, property managers, fleets and other repeat buyers.",
+      "2025-2026: Omnichannel orders with in-store pickup, installation, diagnostics and recycling bundled into the transaction.",
+      "2025-2026: Marine, RV, golf-cart, powersports, mobility, UPS and specialty batteries as franchises diversify beyond passenger cars.",
+      "2026: Multi-unit franchise ownership, with Batteries Plus reporting 30 signed units and 12 openings in the first half of 2026."
+    ],
+    "whats_shrinking": [
+      "2025-2026: Pure walk-in commodity battery sales where shoppers can compare prices online and buy from marketplaces, auto-parts chains or mass merchants.",
+      "2025-2026: Low-margin household and appliance battery categories vulnerable to Amazon, Walmart, Costco and other general retailers.",
+      "2025-2026: Older flooded SLI mix as advanced lead-acid batteries gain share in newer vehicles.",
+      "2025-2026: Small single-store operators without strong commercial programs, digital ordering, installation capacity or purchasing scale.",
+      "2025-2026: EV-tax-credit-driven BEV momentum after the 2025 credit expiration, shifting near-term vehicle sales attention toward hybrids and conventional replacement demand."
+    ],
+    "recent_developments": [
+      "2025-05-03: U.S. 25% Section 232 tariffs on imported automobile parts went into effect, increasing cost uncertainty for auto-related parts and battery supply chains.",
+      "2025-05-21: S&P Global Mobility reported the average U.S. light vehicle age reached 12.8 years and vehicles in operation reached 289 million in 2024 data.",
+      "2025-06-12: Auto Care Association and MEMA projected the U.S. light-duty automotive aftermarket would reach $435 billion in 2025 and top $500 billion by 2028.",
+      "2025-09-22: Battery Council International and CRU reported North American automotive lead battery production grew 3.9% in 2024 and forecast demand growth of 2.5% in 2025 and 2.8% in 2026.",
+      "2025-12-12: Batteries Plus said it signed 24 franchise deals totaling 63 new units in 2025, opened 30 stores, and reached presence in all 50 U.S. states.",
+      "2026-07-21: Batteries Plus reported 15 franchise agreements covering 30 units and 12 new store openings in the first half of 2026."
+    ],
+    "outlook": "The 2026-2028 outlook is steady but not high-growth. Revenue should expand at low-single-digit rates as the aging vehicle fleet and 12V replacement cycles offset e-commerce and auto-parts-chain competition. Franchise operators with strong commercial programs, fast installation, recycling compliance, and premium AGM/EFB/lithium assortments should gain share. Margin improvement is likely to be modest because battery purchase costs, freight, tariffs, wages and local retail occupancy costs absorb much of the benefit from higher unit demand. EVs are a mix shift rather than an immediate demand shock: battery electric vehicles reduce some conventional starter-battery exposure over time, but hybrids, plug-ins and BEVs still use low-voltage auxiliary batteries and create adjacent opportunities in chargers, backup power and fleet support.",
+    "themes": [
+      "Aging vehicle fleet",
+      "Automotive aftermarket resilience",
+      "AGM and EFB mix shift",
+      "Commercial account growth",
+      "Omnichannel retail pressure",
+      "Battery recycling and core returns",
+      "Tariff and supply-chain cost volatility",
+      "EV and hybrid product transition",
+      "Multi-unit franchise expansion",
+      "Service-led differentiation"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld text file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/battery-store-franchises.txt'}",
+      "{'name': 'Batteries Plus franchise investment and 2025 FDD metrics', 'url': 'https://www.batteriesplusfranchise.com/franchise-opportunity/franchise-investment-costs/'}",
+      "{'name': 'Batteries Plus 2025 franchise expansion release', 'url': 'https://www.prnewswire.com/news-releases/batteries-plus-expands-into-all-50-states-wraps-2025-with-63-new-units-302640406.html'}",
+      "{'name': 'Batteries Plus 2026 first-half expansion release', 'url': 'https://www.prnewswire.com/news-releases/batteries-plus-at-full-charge-heading-into-the-second-half-of-2026-with-15-signed-agreements-for-30-new-units-302830799.html'}",
+      "{'name': 'Interstate Batteries company and store network information', 'url': 'https://www.interstatebatteries.com/'}",
+      "{'name': 'S&P Global Mobility 2025 U.S. vehicle age release', 'url': 'https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility'}",
+      "{'name': 'Auto Care Association and MEMA 2025 Joint Channel Forecast release', 'url': 'https://www.mema.org/news/us-light-vehicle-automotive-aftermarket-projected-reach-435-billion-2025'}",
+      "{'name': 'Battery Council International 2025 automotive lead battery market update', 'url': 'https://batterycouncil.org/news/lead-batteries-maintain-growth-trajectory-in-north-american-automotive-battery-market/'}",
+      "{'name': 'U.S. Census Bureau Q1 2026 Quarterly Retail E-Commerce Sales Report', 'url': 'https://www.census.gov/retail/eCommerce.html'}",
+      "{'name': 'U.S. Department of Commerce 2025 auto parts tariff offset process release', 'url': 'https://www.trade.gov/press-release/department-commerce-announces-new-auto-tariff-offset-process'}",
+      "{'name': 'NADA Market Beat and NADA Data 2025-2026 vehicle sales context', 'url': 'https://www.nada.org/nada/market-beat'}"
+    ],
+    "one_sentence": "Battery Store Franchises sell and service vehicle, household, device, industrial and specialty batteries through franchised retail outlets, with most demand tied to replacement batteries for cars, trucks, RVs, powersports equipment and local business fleets.",
+    "slug": "battery-store-franchises"
+  },
+  {
+    "title": "Bed & Mattress Stores",
+    "sector": "Retail",
+    "one_liner": "Specialty bed and mattress stores sell mattresses, bases, bedding and sleep accessories through showroom-led retail, now under heavy pressure from online sellers, weak housing turnover and consolidation.",
+    "overview": "Bed & Mattress Stores are specialty retailers focused on sleep equipment, including mattresses, box springs, adjustable bases, pillows, bedding and related accessories, while excluding general furniture, department-store and pure wholesale activity. The baseline IBISWorld file reported 2021 revenue of $12.9 billion and projected revenue of $14.3 billion by 2026, but current 2025-2026 indicators show softer near-term demand than that straight-line outlook: ISPA-reported U.S. wholesale mattress and stationary foundation value fell to $9.25 billion in 2025 from $9.9 billion in 2024, and industry commentary points to lower unit shipments, promotional pressure and retail bankruptcies. The channel remains important because many consumers still want to test mattresses in person, compare firmness and get delivery or financing, but sales are increasingly captured by omnichannel platforms, DTC brands, furniture chains and vertically integrated manufacturers.",
+    "key_stats": {
+      "market_size": "$14.3 billion estimated U.S. bed and mattress store revenue in 2026, based on the baseline 2021 IBISWorld forecast; current 2025-2026 public market data indicate downside risk from weak wholesale demand.",
+      "growth": "2.1% projected 2021-2026 CAGR in the baseline file; ISPA/BedTimes reported U.S. wholesale mattress value down 6.6% in 2025 from $9.9 billion in 2024 to $9.25 billion in 2025.",
+      "retail_proxy": "Furniture and home furnishings stores recorded $11.323 billion in seasonally adjusted U.S. sales in June 2026, per Census/FRED.",
+      "broader_mattress_market": "Mordor Intelligence estimated the U.S. mattress market at $18.11 billion in 2025 and $18.77 billion in 2026, a 3.62% CAGR outlook for 2026-2031.",
+      "largest_specialty_retailer": "Mattress Firm operated more than 2,200 brick-and-mortar locations when acquired by Tempur Sealy/Somnigroup on February 5, 2025.",
+      "manufacturer_wholesale_value": "U.S. mattresses and stationary foundations reached $9.25 billion in wholesale value in 2025, down from $9.9 billion in 2024.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$13.2 billion estimated 2022 revenue, extrapolated from the baseline file's $12.9 billion 2021 revenue and 2.1% 2021-2026 CAGR forecast.",
+      "growth": "2.1% estimated 2022 growth under the baseline 2021-2026 forecast.",
+      "profit_margin": "About 4.2% in 2021 in the baseline file, with margins expected to remain constrained by price competition and online sellers.",
+      "establishments": "12,364 establishments in 2021 in the baseline file, projected to keep expanding modestly through 2026."
+    },
+    "how_it_makes_money": "Stores make money by buying mattresses, foundations, bedding and accessories from manufacturers or affiliated suppliers and selling them at retail markups. Higher-margin revenue comes from queen and king mattresses, premium foam and hybrid models, adjustable bases, smart beds, pillows, protectors, bedding bundles, delivery, setup, haul-away and financing offers. Showroom associates drive conversion by matching customers to firmness, sleep position, health needs and budget, while omnichannel operators capture sales through websites, call centers and local delivery networks.",
+    "cost_structure": "The largest cost is merchandise purchases from mattress manufacturers and bedding suppliers, followed by wages for sales associates, delivery and warehouse labor, rent for showroom locations, advertising and promotional spending, freight and last-mile delivery, payment processing and financing costs. Gross margins can be high on premium mattresses and accessories, but operating profit is reduced by showroom occupancy, heavy holiday discounting, customer acquisition costs, returns, warranty support and the need to keep floor samples current after manufacturer line resets.",
+    "major_players": [
+      "Mattress Firm / Somnigroup International",
+      "Sleep Number",
+      "Mattress Warehouse",
+      "American Mattress",
+      "Bob's Discount Furniture",
+      "Ashley and other furniture-store bedding departments",
+      "Online and omnichannel competitors including Saatva, Casper, Purple, Nectar, Helix and Brooklyn Bedding"
+    ],
+    "current_dynamics": "The channel is being reshaped by consolidation and financial stress. Tempur Sealy completed its acquisition of Mattress Firm in February 2025, creating a vertically integrated manufacturer-retailer with the largest U.S. specialty mattress footprint. At the same time, U.S. mattress demand remained weak in 2025, housing turnover stayed depressed, and smaller regional retailers faced rent, inventory reset and financing pressure. Online and DTC brands keep setting shopper expectations around discounts, long trials, free delivery and easy comparison, forcing physical stores to emphasize expert selling, immediate trial, local service, adjustable bases and bundle economics.",
+    "whats_growing": "Premium hybrid, foam, cooling, adjustable-base and smart-bed products are growing faster than traditional low-end innerspring products. Omnichannel selling is growing as retailers use stores for testing and websites for conversion, retargeting and financing. Accessories such as pillows, protectors, sheets and foundations are increasingly important because they lift ticket size and can carry attractive margins. Value-oriented furniture chains and warehouse-style retailers are also gaining share from consumers seeking bundled bedroom purchases and lower price points.",
+    "whats_shrinking": "Traditional standalone specialty stores without scale are shrinking as traffic shifts online, housing moves remain weak and fixed rent costs bite. Low-differentiation innerspring mattresses are losing share to foam, hybrid and specialty models. Mall-based and over-stored footprints are under pressure, especially where stores depend on high-ticket discretionary purchases. Smaller regional chains with vendor concentration or expensive showroom resets are vulnerable to bankruptcy or asset sales.",
+    "recent_developments": [
+      "2025-02-05: Tempur Sealy completed its acquisition of Mattress Firm, the nation's largest mattress specialty retailer, and later renamed itself Somnigroup International.",
+      "2025-05-01: Somnigroup completed the divestiture of 73 Mattress Firm stores plus Sleep Outfitters' 103 specialty mattress locations to Mattress Warehouse.",
+      "2025-07-06: American Mattress filed Chapter 11 for 52 Illinois and Indiana stores after revenue fell to about $38 million in 2023 and 2024 from about $50 million previously.",
+      "2026-02-17: Somnigroup reported 2025 net sales of $7.4765 billion and disclosed Mattress Firm fourth-quarter 2025 net sales of $892.1 million.",
+      "2026-05-14: BedTimes reported ISPA's 2025 U.S. mattress and stationary foundation wholesale value at $9.25 billion, down from $9.9 billion in 2024.",
+      "2026-06-12: Sleep Number initiated a voluntary Chapter 11 sale process with Sleep Country Canada as stalking-horse bidder and continued operating more than 570 stores and online."
+    ],
+    "outlook": "The 2026 outlook is cautious. Replacement demand, sleep-health awareness, premium product innovation and household growth support a medium-term recovery, but near-term store revenue is restrained by weak existing-home sales, cautious discretionary spending, high financing costs, e-commerce price transparency and heavy promotions. The most resilient operators will be scaled omnichannel retailers with strong vendor terms, exclusive products, efficient delivery, data-driven marketing and attachment sales in bases and accessories. Smaller showroom chains are likely to keep rationalizing leases, closing marginal stores or selling to larger regional and national players.",
+    "themes": [
+      "Omnichannel retail",
+      "Industry consolidation",
+      "Weak housing turnover",
+      "Premiumization",
+      "Smart beds and adjustable bases",
+      "Promotional pricing pressure",
+      "DTC competition",
+      "Lease rationalization",
+      "Sleep health and wellness",
+      "Accessory attachment"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/bed-and-mattress-stores.txt",
+      "https://somnigroup.com/newsroom/news-details/2026/Somnigroup-International-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/1206264/000120626425000023/a20250205pressreleasemattr.htm",
+      "https://www.sec.gov/Archives/edgar/data/1206264/000120626425000116/sgi-20250331.htm",
+      "https://ir.sleepnumber.com/news/news-details/2026/Sleep-Number-Enters-Asset-Purchase-Agreement-to-Combine-with-Sleep-Country-Canada-Creating-an-Industry-Leader-in-North-America/default.aspx",
+      "https://bedtimesmagazine.com/2026/05/the-mattress-industry-trends-report-sharpens-the-industry-picture-for-2025/",
+      "https://www.mordorintelligence.com/industry-reports/united-states-mattress-market",
+      "https://fred.stlouisfed.org/series/RSFHFS/",
+      "https://www.census.gov/retail/sales.html",
+      "https://www.furnituretoday.com/financial/these-3-things-pushed-american-mattress-to-file-chapter-11-bankruptcy/",
+      "https://www.ftc.gov/legal-library/browse/cases-proceedings/231-0016-tempur-sealy-international-inc-mattress-firm-group-inc-matter"
+    ],
+    "one_sentence": "The U.S. bed and mattress store industry is a mature specialty retail channel where revenue is tied to replacement cycles, household formation, housing moves and consumers trading up to premium foam, hybrid, adjustable and smart sleep products.",
+    "slug": "bed-and-mattress-stores"
+  },
+  {
+    "title": "Billboard & Sign Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A fragmented, local-service manufacturing industry where digital LED signs are growing faster than traditional static signage.",
+    "overview": "The industry is mature and locally fragmented, with demand tied to out-of-home advertising, brick-and-mortar business formation, rebranding cycles and nonresidential construction. The 2022 IBIS baseline showed a rebound from the 2020 pandemic decline, while current public data show 2023 sectoral output above the 2022 level and 2025-2026 demand support from record out-of-home ad spending. The mix is shifting toward digital billboards, LED displays and programmable signage, but traditional signs remain important for storefronts, facilities, wayfinding, fleet branding and public-sector projects.",
+    "key_stats": {
+      "market_size": "2023 BLS sectoral output for NAICS 339950 Sign Manufacturing was $16.294B, up from $15.284B in 2022; 2025 industry revenue is best treated as roughly mid-$16B based on latest public output data and modest 2025 demand growth.",
+      "growth": "2023 sectoral output grew 6.6% year over year; IBISWorld reported 2025 billboard and sign manufacturing businesses at 6,006, up 1.0%; OAAA reported 2025 US out-of-home advertising revenue of $9.46B, up 3.6%.",
+      "businesses": "2025 IBISWorld public statistic: 6,006 businesses, up 1.0% in 2025 and up 1.4% CAGR from 2020 to 2025.",
+      "employer_establishments": "2023 Census County Business Patterns listed 5,895 employer establishments for NAICS 339950 Sign Manufacturing.",
+      "demand_proxy": "2025 OAAA: digital out-of-home grew 10.5% and accounted for 36.3% of total OOH revenue; billboards remained the majority of OOH spend.",
+      "construction_proxy": "June 2026 Census private nonresidential construction was $745.3B seasonally adjusted annual rate, up 0.1% from May 2026.",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $14.370B in 2022 dollars; BLS current-dollar sectoral output for NAICS 339950 was $15.284B in 2022.",
+      "growth": "2022 IBISWorld revenue growth: 2.6%; 2017-2022 IBISWorld CAGR: -1.0%; projected 2022-2027 IBISWorld CAGR: 0.6%.",
+      "profit": "2022 IBISWorld profit: $719M, equal to 5.0% margin.",
+      "wages": "2022 IBISWorld wages: $4.109B, equal to about 28.6% of 2022 revenue.",
+      "segments": "2022 IBISWorld product mix: traditional billboards and signs 43.7%, digital billboards and signs 41.9%, other 14.4%.",
+      "imports_exports": "2022 IBISWorld imports: $361M; exports: $104M; domestic demand: $14.627B."
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from custom fabricated signs, static billboard structures, electric and LED signs, digital billboard cabinets/screens, scoreboards, transit and facility displays, installation support, replacement panels, maintenance and service contracts. Smaller firms often sell design-to-installation packages to local businesses, while larger specialists supply outdoor-advertising operators, stadiums, campuses, public agencies and national brands.",
+    "cost_structure": "Materials are the largest variable cost, including aluminum, steel, plastics, vinyl, paints, electrical components, LED modules and control systems. Labor is structurally important because orders are customized and require design, fabrication, installation coordination and service skills; IBISWorld 2022 wages were $4.109B, or about 28.6% of revenue. Profit was modest at 5.0% of 2022 revenue. 2025 steel and aluminum tariffs increased input-cost risk for sign frames, cabinets and mounting structures, while LED and electronics costs remain exposed to global supply chains.",
+    "major_players": [
+      "The Jim Pattison Group / Pattison Sign Group - cited by IBISWorld public data as the largest business in the industry as of 2025, although the overall market remains low-concentration.",
+      "Daktronics - major US-based digital display, scoreboard and large-screen video manufacturer; FY2026 net sales were $838.7M, up 10.9%.",
+      "Watchfire Signs - major US LED sign and digital billboard supplier.",
+      "YESCO - large sign, lighting and outdoor media operator with manufacturing, installation and service capabilities.",
+      "Federal Heath - national sign manufacturing, program management and service provider.",
+      "Formetco - digital and static billboard equipment supplier to out-of-home operators."
+    ],
+    "current_dynamics": "Demand is being pulled in two directions. Out-of-home advertising is growing again, with 2025 OOH revenue at a record $9.46B and digital formats gaining share, which supports new digital billboard and display orders. At the same time, online advertising reached $294.6B in 2025 and keeps taking budget share, limiting growth for traditional static signage. Nonresidential construction is steady rather than booming in 2026, supporting replacement and tenant-improvement signage more than a broad volume surge. Input costs are a bigger swing factor after 2025 steel and aluminum tariff increases, especially for metal-intensive structures and imported components.",
+    "whats_growing": "Digital billboards, LED monument signs, programmable retail displays, scoreboards, wayfinding systems for healthcare and education, replacement and upgrade work for outdoor media operators, and service revenue tied to installed digital displays. Demand is also growing from technology, direct-to-consumer and performance-minded advertisers using OOH as part of omnichannel campaigns; OAAA reported technology and digital-first brands were 28% of the top 100 OOH advertisers in 2025.",
+    "whats_shrinking": "Static billboard replacement cycles are slower than digital upgrades, paper and paperboard display work is outside the core NAICS and pressured by digital channels, and low-complexity storefront signs face price competition from small local shops and imported components. Traditional media-budget leakage to online search, social, commerce media and digital video is the main structural ceiling on long-run billboard and sign manufacturing growth.",
+    "recent_developments": [
+      "2025-03-06: OAAA reported 2024 US OOH revenue above $9.1B, up 4.5%, with digital OOH up 7.5% and 34.0% of spend.",
+      "2025-06-04: US steel and aluminum tariffs increased from 25.0% to 50.0%, raising input-cost risk for metal sign structures and cabinets.",
+      "2026-04-16: IAB/PwC reported 2025 US internet advertising revenue of $294.6B, up 13.9%, reinforcing digital competition for ad budgets.",
+      "2026-04-28: OAAA reported 2025 US OOH revenue of $9.46B, up 3.6%, with digital OOH up 10.5% and 36.3% of OOH revenue.",
+      "2026-06-24: Daktronics reported FY2026 record net sales of $838.7M, up 10.9%, record orders of $860.8M and backlog of $356.2M.",
+      "2026-08-03: Census reported June 2026 private nonresidential construction at a $745.3B seasonally adjusted annual rate, up 0.1% from May 2026."
+    ],
+    "outlook": "The 2026-2030 outlook is for low-to-moderate revenue growth rather than breakout expansion. Digital signage should keep outgrowing the rest of the category as outdoor media owners monetize rotating, programmatic and data-enabled displays, while traditional signs remain replacement- and construction-driven. Margin upside depends on pricing discipline, LED/electronics procurement and service attach rates; margin pressure comes from steel, aluminum, labor and imported component costs. Local billboard regulation, brightness limits and permitting constraints remain a cap on unit growth, especially in dense urban markets.",
+    "themes": [
+      "Digital out-of-home conversion",
+      "LED display upgrades",
+      "Fragmented local manufacturing",
+      "Custom fabrication and installation",
+      "Nonresidential construction linkage",
+      "Tariff and metals-cost exposure",
+      "Online ad budget competition",
+      "Municipal billboard regulation",
+      "Service and maintenance attachment",
+      "Low import penetration"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Billboard & Sign Manufacturing in the US, last updated 2022-07-15', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/billboard-and-sign-manufacturing-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Bureau of Labor Statistics, Sectoral Output for Manufacturing: Sign Manufacturing (NAICS 339950), updated 2026-06-03', 'url': 'https://fred.stlouisfed.org/data/IPUEN339950T300000000'}",
+      "{'name': 'U.S. Census Bureau profile, NAICS 339950 Sign Manufacturing, 2023 County Business Patterns', 'url': 'https://data.census.gov/profile/339950_-_Sign_Manufacturing?codeset=naics~339950&g=010XX00US'}",
+      "{'name': 'IBISWorld public statistic, Billboard & Sign Manufacturing in the US number of businesses, last updated 2025-04', 'url': 'https://www.ibisworld.com/united-states/number-of-businesses/billboard-sign-manufacturing/902/'}",
+      "{'name': 'OAAA, Out of Home Advertising Revenue Surpasses $9 Billion, published 2025-03-06', 'url': 'https://oaaa.org/news/out-of-home-advertising-revenue-surpasses-9-billion-highest-revenue-volume-to-date/'}",
+      "{'name': 'OAAA, Apple, Verizon, Coca-Cola Lead OOH’s Top Advertisers, published 2026-04-28', 'url': 'https://oaaa.org/news/apple-verizon-coca-cola-lead-oohs-top-advertisers-as-brands-continue-to-increase-investment/'}",
+      "{'name': 'IAB/PwC Internet Advertising Revenue Report 2025 release, published 2026-04-16', 'url': 'https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary/'}",
+      "{'name': 'White House proclamation, Adjusting Imports of Aluminum and Steel into the United States, published 2025-06-03', 'url': 'https://www.whitehouse.gov/presidential-actions/2025/06/adjusting-imports-of-aluminum-and-steel-into-the-united-states/'}",
+      "{'name': 'U.S. Census Bureau, Monthly Construction Spending June 2026, published 2026-08-03', 'url': 'https://www.census.gov/construction/c30/current/index.html'}",
+      "{'name': 'Daktronics FY2026 results, published 2026-06-24', 'url': 'https://investor.daktronics.com/news-releases/news-release-details/daktronics-announces-fourth-quarter-and-full-fiscal-year-2026'}"
+    ],
+    "one_sentence": "US billboard and sign manufacturers produce custom storefront signs, billboards, scoreboards, digital displays and related structures for advertisers, retailers, public agencies and commercial construction projects.",
+    "slug": "billboard-and-sign-manufacturing-in-the-us"
+  },
+  {
+    "title": "Bleach Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "A mature, concentrated chemical manufacturing niche producing chlorine- and peroxide-based bleach for household, institutional and industrial cleaning uses.",
+    "overview": "The industry manufactures chemicals that whiten, remove color and disinfect, led by liquid chlorine bleach made from sodium hypochlorite, itself tied to chlorine and caustic soda supply. The 2021 IBISWorld baseline put revenue at $1.316 billion and projected modest growth to about $1.4 billion by 2026, implying a 2025 market near $1.36 billion in 2021 dollars. Demand is recurring rather than expansionary: households replenish bleach, retailers buy high-volume branded and private-label products, and institutional users buy germicidal bleach for janitorial, food-service, healthcare and facility sanitation. The post-COVID demand spike has normalized, but a higher hygiene baseline, emergency-preparedness use cases and large commercial cleaning markets keep volumes resilient.",
+    "key_stats": {
+      "market_size": "2025: about $1.36 billion, baseline-derived estimate in 2021 dollars; 2026 baseline projection: about $1.4 billion",
+      "growth": "2021-2026: +0.9% CAGR projected in the baseline; 2025 growth appears low-single-digit and volume-led rather than price-led",
+      "profit_margin": "2021: 13.6% EBIT margin in the baseline; 2025 margins pressured by raw materials, energy, freight and trade promotion",
+      "establishments": "2021: 35 establishments in the baseline; 2026 projection: 31 industry operators/enterprises due to consolidation and weak domestic expansion",
+      "product_mix": "2021: chlorine-based bleaches 89.1% of revenue, peroxide-based bleaches 9.8%, sulfur dioxide-based and other bleaches 1.1%",
+      "downstream_indicator": "2025: US janitorial services market estimated at $81.88 billion; 2026 expected at $84.00 billion",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: about $1.33 billion, estimated by applying the baseline 2021-2026 CAGR to 2021 revenue",
+      "growth": "2022: about +0.9%, baseline-derived annual growth assumption",
+      "context": "2022 was the first post-surge normalization year after 2020-2021 pandemic-driven bleach stockpiling, with demand shifting back toward routine household replenishment and commercial sanitation."
+    },
+    "how_it_makes_money": "Manufacturers sell household bleach, germicidal bleach, laundry bleach, institutional disinfectants and industrial bleaching agents through mass retailers, grocery and club stores, wholesalers, janitorial distributors, healthcare and food-service channels. Larger players earn premiums from brand recognition, retailer shelf placement, national distribution, professional-product certifications and scale purchasing of sodium hypochlorite, chlorine, caustic soda, resin packaging and freight.",
+    "cost_structure": "Key costs are 2025 raw materials such as sodium hypochlorite, chlorine, caustic soda, hydrogen peroxide and packaging resin; 2025 manufacturing costs such as energy, water, plant labor, compliance and quality control; 2025 logistics costs because bleach is heavy, water-based and lower value per pound; and 2025 selling costs such as trade promotion, retailer allowances and advertising. Cost risk increased into 2026 because FRED/BLS showed the sodium hydroxide PPI at 502.855 in June 2026, up from 448.001 in February 2026, while Clorox disclosed exposure to commodity, transportation and tariff costs in its 2025 filing.",
+    "major_players": [
+      "The Clorox Company: 2025 company net sales of $7.1 billion; 2025 cleaning products were 44% of consolidated sales; US Health and Wellness segment sales were $2.697 billion in fiscal 2025, up 9% from 2024",
+      "Olin Corporation: 2025 Chlor Alkali Products and Vinyls sales of $3.684 billion, up 1% from 2024; the segment includes bleach products and supplies upstream chlorine/caustic chemistry",
+      "KIK International: 2026 EPA List Q includes sodium hypochlorite bleach products registered to KIK, including Pure Bright Germicidal Ultra Bleach",
+      "Medline Industries: 2026 EPA List Q includes sodium hypochlorite bleach wipes and bleach solution products for healthcare and institutional settings",
+      "Reckitt Benckiser and Ecolab: 2026 EPA lists show competing disinfectant chemistries, including some bleach-adjacent products, that pressure traditional liquid bleach demand"
+    ],
+    "current_dynamics": "In 2025-2026, the market is steadier than during the pandemic spike but structurally defensive. Clorox reported 2025 Health and Wellness growth and a high cleaning-products mix, while also noting ERP-transition shipment timing, trade promotion, retailer concentration and raw-material exposure. Olin’s 2025 chlor-alkali results show a mixed supply backdrop: volumes improved but pricing and operating costs weighed on income. Commercial cleaning remains supportive, with the US janitorial services market estimated at $81.88 billion in 2025 and expected to reach $84.00 billion in 2026. At the same time, EPA’s 2026 List Q shows broad competition from quaternary ammonium, hydrogen peroxide, citric/lactic acid and hypochlorous-acid disinfectants, limiting bleach share gains.",
+    "whats_growing": "2025-2026 growth is strongest in professional and institutional bleach, germicidal bleach wipes, healthcare and food-service sanitation, emergency water-disinfection relevance, and commercial cleaning demand. Clorox’s 2025 Health and Wellness sales growth and the 2025-2026 janitorial services outlook indicate that professional sanitation is a better demand pocket than basic household laundry bleach.",
+    "whats_shrinking": "Traditional liquid household bleach faces slow volume growth as consumers shift toward wipes, sprays, scented cleaners, hydrogen peroxide products, citric/lactic acid disinfectants, hypochlorous acid solutions and other less caustic formats. Small regional manufacturers are also under pressure from concentrated retail buying, national brands, private-label price competition, freight costs and compliance burdens.",
+    "recent_developments": [
+      "2025-06-30: Clorox reported fiscal 2025 net sales of $7.104 billion and Health and Wellness segment sales of $2.697 billion, up 9% from fiscal 2024.",
+      "2025-06-30: Clorox disclosed cleaning products were 44% of 2025 consolidated sales, up from 43% in 2024 and 42% in 2023.",
+      "2025-06-30: Clorox said raw materials were generally available in fiscal 2025 but flagged 2026 commodity, transportation, tariff and supply risks.",
+      "2025-12-31: Olin reported 2025 Chlor Alkali Products and Vinyls sales of $3.684 billion, up 1% from 2024, while segment income fell to $181.1 million.",
+      "2026-03: Grand View Research estimated the 2025 US janitorial services market at $81.88 billion and forecast $84.00 billion in 2026.",
+      "2026-06: FRED/BLS reported the sodium hydroxide PPI at 502.855 in June 2026, signaling elevated caustic-soda input cost pressure."
+    ],
+    "outlook": "The 2026 outlook is stable but not high-growth. Industry revenue should remain near the baseline path of about $1.4 billion in 2026, supported by population growth, household formation, commercial cleaning, healthcare and food-service sanitation. The main upside is professional disinfectant demand and emergency-preparedness use of regular unscented bleach. The main downside is substitution into wipes, sprays, peroxide, citric/lactic acid and hypochlorous-acid disinfectants, plus margin pressure from caustic soda, chlorine, packaging resin, freight, retailer concentration and trade-promotion spending.",
+    "themes": [
+      "Mature staple demand",
+      "Post-pandemic sanitation reset",
+      "Professional cleaning resilience",
+      "Chlor-alkali input volatility",
+      "Retailer concentration",
+      "Bleach alternatives and gentler disinfectants",
+      "Regulatory and EPA-registration importance",
+      "Brand scale versus private label"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline file: bleach-manufacturing.txt', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/bleach-manufacturing.txt'}",
+      "{'name': 'Clorox FY2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/21076/000002107625000039/clx-20250630.htm'}",
+      "{'name': 'Clorox Q4 and FY2025 results', 'url': 'https://investors.thecloroxcompany.com/news/news-details/2025/Clorox-Reports-Q4-and-FY25-Results-Provides-FY26-Outlook/'}",
+      "{'name': 'Olin FY2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/74303/000007430326000027/oln-20251231.htm'}",
+      "{'name': 'FRED/BLS Sodium Hydroxide PPI', 'url': 'https://fred.stlouisfed.org/series/PCU3251803251804'}",
+      "{'name': 'EPA Disinfectants for Emerging Viral Pathogens List Q', 'url': 'https://www.epa.gov/pesticide-registration/disinfectants-emerging-viral-pathogens-evps-list-q'}",
+      "{'name': 'EPA Emergency Disinfection of Drinking Water', 'url': 'https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water'}",
+      "{'name': 'Grand View Research US Janitorial Services Market, 2026 report page', 'url': 'https://www.grandviewresearch.com/industry-analysis/us-janitorial-services-market-report'}"
+    ],
+    "one_sentence": "US bleach manufacturing remains a small but durable market, with 2025 demand supported by sanitation habits and commercial cleaning while growth is capped by private-label pressure, gentler disinfectant substitutes and volatile chlor-alkali input costs.",
+    "slug": "bleach-manufacturing"
+  }
+]

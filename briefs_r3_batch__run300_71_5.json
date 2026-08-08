@@ -1,0 +1,467 @@
+[
+  {
+    "title": "Comic Book Publishing",
+    "sector": "Media & Entertainment",
+    "one_liner": "US comic book publishing is a concentrated, IP-driven niche where graphic novels, manga, collector print editions and digital platforms offset pressure on periodicals and print advertising.",
+    "overview": "Comic book publishers create, edit, print and distribute comic books, graphic novels and related magazines through comic shops, bookstores, e-commerce and digital platforms. The 2022 baseline defined the industry around publishers such as Marvel, DC and independent graphic-novel houses, excluding online-only publishers and licensing revenue from movies or merchandise. By 2025, the industry remained anchored by major character libraries and print collectors, but demand was increasingly split across book-channel graphic novels, manga, children's imprints, superhero relaunches, digital subscriptions and vertical-scroll webcomics.",
+    "key_stats": {
+      "market_size": "$1.9 billion US industry revenue in 2025",
+      "growth": "-2.1% US industry revenue growth in 2025",
+      "recent_cagr": "6.9% CAGR for US industry revenue from 2020 to 2025",
+      "broader_consumer_sales": "$1.94 billion in US and Canada comics and graphic-novel consumer sales in 2024, up 4.0% from 2023",
+      "graphic_novel_units": "25.9 million US adult graphic-novel units sold in 2025, up 9.2% from 2024",
+      "direct_market_share": "DC Comics held 32.6% of Q4 2025 comic-store dollar sales, Marvel held 29.6%, and Image held 12.2% in ComicHub-tracked stores",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$1.215 billion US industry revenue in 2021, stated in 2021 dollars in the Jan. 31, 2022 baseline",
+      "growth": "2.4% revenue growth in 2021 and 2.6% CAGR from 2016 to 2021 in the 2022 baseline",
+      "profit": "$98 million EBIT in 2021, equal to an 8.1% margin in the 2022 baseline",
+      "product_mix": "Graphic novels were 65.2% of 2021 revenue, comic books 22.3%, and digital comics 12.5%"
+    },
+    "how_it_makes_money": "Publishers earn revenue by selling periodical comics, collected editions, graphic novels and digital editions to distributors, comic shops, bookstores, online retailers, libraries and consumers. Higher-priced graphic novels and trade paperbacks drove 65.2% of 2021 industry revenue, while direct-market periodicals still support weekly store traffic, variant-cover sales and collector demand. Digital comics and app-based subscriptions add lower-production-cost revenue, but online-only publishers are outside the IBIS industry scope.",
+    "cost_structure": "The 2022 baseline reported $98 million of 2021 EBIT on $1.215 billion of revenue, an 8.1% margin. Major costs include creator/editorial labor, printing, paper, freight, warehousing, distributor discounts, marketing and royalties. The baseline forecast wages rising to $363.6 million in 2026 and profit margin easing to 7.5% in 2026 as wages and paper prices outpaced revenue growth. In 2025, distributor disruption and tariff uncertainty added working-capital and inventory risk for publishers and retailers.",
+    "major_players": [
+      "Marvel Comics / Marvel Entertainment",
+      "DC Comics",
+      "Image Comics",
+      "Dark Horse Comics",
+      "IDW Publishing",
+      "BOOM! Studios",
+      "VIZ Media",
+      "Scholastic Graphix",
+      "Kodansha Comics",
+      "Dynamite Entertainment"
+    ],
+    "current_dynamics": "The 2025 market is mixed: IBISWorld shows US publishing revenue slipping 2.1% to $1.9 billion in 2025, while consumer-level comics and graphic-novel sales in the US and Canada rose 4.0% in 2024 to $1.94 billion. Comic shops improved in 2024 and superhero periodicals gained momentum in 2025, especially DC's Absolute line and Batman relaunches. Book-channel graphic novels were weaker in 2024 but improved in 2025 as manga and children's series recovered. Distribution remains unsettled after Diamond's 2025 bankruptcy and asset sale, pushing more publishers and retailers toward Penguin Random House, Lunar, Universal, Ad Populum and direct ordering relationships.",
+    "whats_growing": "Graphic novels, manga tied to anime adaptations, children's graphic novels, collected editions, premium/variant covers, horror graphic novels, bookstore and e-commerce sales, digital subscriptions, and vertical-scroll adaptations are growing in 2025. Adult graphic-novel units rose 9.2% in 2025 to 25.9 million units, and DC's Q4 2025 comic-store share rose to 32.6% from 26.9% in Q4 2024.",
+    "whats_shrinking": "Traditional print advertising in periodical comics, weaker mid-list single issues, legacy distributor dependence, and some book-channel manga demand from pandemic highs are shrinking. IBISWorld reported US industry revenue down 2.5% in 2024 and down 2.1% in 2025, while Circana-based reporting showed 2024 graphic-novel unit declines before the 2025 rebound.",
+    "recent_developments": [
+      "Jan. 14, 2025: Diamond Comic Distributors filed for Chapter 11 bankruptcy after losing major exclusive publisher distribution agreements.",
+      "May 16, 2025: Universal Distribution and Ad Populum completed the acquisition of Diamond and related assets, with Diamond UK excluded from the sale.",
+      "May 22, 2025: Penguin Random House said it would end its Diamond distribution arrangement effective June 25, 2025, moving US direct-market sales in-house.",
+      "Jul. 11, 2025: ICv2 estimated 2024 US and Canada comics and graphic-novel consumer sales at $1.94 billion, up 4.0% from 2023.",
+      "Sep. 24, 2025: WEBTOON and BOOM! Studios announced vertical-scroll editions of titles including Something Is Killing the Children, Wynd, Fence and Lumberjanes.",
+      "Jan. 21, 2026: ICv2 reported 2025 Circana BookScan rankings led by manga and children's graphic novels, with Jujutsu Kaisen prominent in adult charts."
+    ],
+    "outlook": "Through 2026, publishers should see demand supported by graphic novels, manga, children's comics, superhero relaunches and digital discovery, but revenue growth is likely to remain uneven because IBISWorld reported a 2025 revenue decline and the industry is still adjusting to post-Diamond distribution. Larger publishers with deep IP libraries, direct retailer relationships, bookstore scale and streaming/game tie-ins are best positioned. Smaller publishers face higher print, freight and cash-flow risk, but can benefit from creator-owned hits, licensed properties and platform partnerships.",
+    "themes": [
+      "Graphic novels over periodicals",
+      "Manga and anime flywheel",
+      "Children's comics and school/library demand",
+      "Superhero relaunches and collector variants",
+      "Distribution fragmentation after Diamond",
+      "Digital subscriptions and vertical-scroll formats",
+      "High publisher concentration",
+      "Print cost and freight pressure"
+    ],
+    "data_year": "2025",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/comic-book-publishing.txt",
+      "https://www.ibisworld.com/united-states/market-size/comic-book-publishing/5357/",
+      "https://www.researchandmarkets.com/report/united-states-comic-book-publishing-market",
+      "https://icv2.com/articles/markets/view/60012/comics-graphic-novel-sales-2024",
+      "https://www.comicsbeat.com/graphic-novel-sales-rose-9-2-in-2025/",
+      "https://icv2.com/articles/markets/view/61451/",
+      "https://www.diamondcomics.com/Article/281463-Universal-Distribution-LLC-and-Ad-Populum-Complete-Acquisition-of-Diamond-and-Related-Assets",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/97831-prh-cuts-ties-with-diamond-comics-distributors.html",
+      "https://icv2.com/articles/markets/view/61398/dc-had-1-comic-store-market-share-q4-2025",
+      "https://about.webtoon.com/press-release/202"
+    ],
+    "one_sentence": "In 2025, US comic book publishing generated about $1.9 billion in revenue, down 2.1% from 2024, while the broader North American consumer market for comics and graphic novels recovered in 2024 and graphic-novel units rebounded in 2025.",
+    "slug": "comic-book-publishing"
+  },
+  {
+    "title": "Commercial Oven Manufacturing",
+    "sector": "Manufacturing",
+    "one_liner": "U.S. commercial oven makers sell gas, electric, combination, convection, conveyor, rack and specialty ovens into restaurants, hotels, institutional kitchens and food manufacturers, with demand tied to foodservice capital spending and steel-heavy input costs.",
+    "overview": "The industry manufactures commercial ovens and stoves used to prepare food for retail sale or for food manufacturers. The baseline IBIS file put 2021 revenue at $4.08 billion and projected 2026 revenue at $4.6 billion, implying a roughly $4.5 billion 2025 U.S. manufacturing market if that path is carried forward. Demand comes mainly from restaurants, hotels, cafeterias, schools, hospitals, convenience stores, grocery foodservice and food processors replacing or expanding kitchen equipment. The market remains mature and moderately concentrated: large diversified foodservice equipment groups own many of the leading brands, while smaller specialists compete in pizza, bakery, combi, conveyor and high-speed ovens. Current 2025-2026 conditions are mixed: restaurant and foodservice sales are still expanding in nominal terms, but operators are cautious because traffic is uneven, financing is expensive, food and labor costs remain high, and steel/aluminum tariffs have lifted cost risk for metal-intensive equipment.",
+    "key_stats": {
+      "market_size": "Estimated $4.5 billion in 2025 U.S. commercial oven manufacturing revenue; baseline projection reaches $4.6 billion in 2026.",
+      "growth": "Baseline 2021-2026 CAGR of 2.2%; MAFSI-reported foodservice equipment sales grew 2.4% in 2025 Q4 and were forecast to grow 3.5% in 2026 Q1.",
+      "downstream_demand": "National Restaurant Association projected $1.55 trillion in U.S. restaurant and foodservice sales in 2026, with 1.3% real sales growth forecast at the start of 2026 and 0.8% real growth in a July 2026 update.",
+      "profit_margin": "Baseline profit margin was 6.6% in 2021 and projected at 7.1% in 2026.",
+      "employment": "Baseline employment was 11,045 workers in 2021 and projected at 12,327 workers in 2026.",
+      "trade_exposure": "Baseline imports were $3.135 billion in 2021 and projected at $3.4 billion in 2026; imports equaled 49.6% of 2021 domestic demand.",
+      "input_costs": "Steel mill products PPI averaged 298.426 in 2025 and reached 361.439 in June 2026, up from the 2025 average.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "Estimated $4.17 billion in 2022 U.S. revenue, derived from the baseline 2021 revenue of $4.08 billion and 2021-2026 projected CAGR of 2.2%.",
+      "growth": "Estimated 2.2% in 2022, matching the baseline 2021-2026 projected CAGR.",
+      "context": "Baseline file expected the 2022 market to normalize after the 2021 reopening rebound, with steel prices easing from the 2021 spike and demand recovering from restaurants and hotels."
+    },
+    "how_it_makes_money": {
+      "primary_revenue_streams": [
+        "Electric ovens represented 42.7% of 2021 baseline revenue, including electric steamers, combination ovens, steam kettles, electric fryers, convection ovens and breakfast equipment.",
+        "Gas ovens represented 42.4% of 2021 baseline revenue, including gas ranges, gas steamers, combination ovens, steam kettles, convection ovens and fryers.",
+        "Parts and accessories represented 14.9% of 2021 baseline revenue, driven by repair, maintenance and replacement cycles."
+      ],
+      "channels": "Manufacturers sell through dealer networks, foodservice equipment distributors, manufacturer representatives, direct enterprise chain accounts, institutional procurement, and export channels.",
+      "buyers": "Restaurants represented 55.6% of 2021 baseline demand, wholesalers 22.5%, and exports 21.9%."
+    },
+    "cost_structure": {
+      "materials": "Steel, stainless steel, castings, glass, insulation, burners, heating elements, controls, motors and electronics are the largest cost drivers; 2025-2026 steel and aluminum tariffs increase pricing risk for metal-intensive products.",
+      "labor": "Skilled assembly, fabrication, welding, engineering, service training and quality-control labor are important; baseline wages were $776 million in 2021 and projected to grow with employment through 2026.",
+      "profit": "Baseline industry profit was $269 million in 2021, or 6.6% of revenue, and was projected to reach a 7.1% margin in 2026 as demand steadied.",
+      "distribution_and_service": "Dealer margins, freight, warranty, parts availability, field service networks and demonstration kitchens are meaningful selling costs because restaurants and chains require installation support and uptime.",
+      "tariffs_and_trade": "Section 232 steel and aluminum tariffs increased to 50% in June 2025 and were further strengthened in 2026, affecting imported metals and some derivative products."
+    },
+    "major_players": [
+      "The Middleby Corporation",
+      "Illinois Tool Works Inc. Food Equipment segment, including Vulcan and Hobart-related food equipment brands",
+      "Ali Group and Welbilt, including Convotherm, Garland, Merrychef and Lincoln",
+      "Alto-Shaam Inc.",
+      "Duke Manufacturing",
+      "The Vollrath Company",
+      "RATIONAL AG",
+      "Unox",
+      "Electrolux Professional",
+      "Hoshizaki and related foodservice equipment brands"
+    ],
+    "current_dynamics": "2025-2026 demand is being pulled in two directions. Replacement cycles, chain remodels, convenience-store foodservice, institutional kitchens and energy-efficient equipment upgrades support orders. At the same time, restaurant traffic is uneven, independents are margin-constrained, and higher interest rates have made large kitchen buildouts harder to finance. Large buyers are favoring ovens that reduce labor, energy use, cook time and floor space, including combi ovens, ventless/high-speed platforms, programmable controls and IoT-enabled diagnostics. Manufacturers are also managing tariff-driven metal costs, long-cycle component sourcing and competition from imports.",
+    "whats_growing": [
+      "Electric and ENERGY STAR-certified convection and combination ovens, supported by 2026 ENERGY STAR data showing certified commercial ovens can be about 30% more energy efficient than standard models.",
+      "Programmable combi ovens, high-speed ovens and connected equipment that help chains standardize cook quality and reduce labor dependence in 2025-2026.",
+      "Aftermarket parts, service, maintenance and controls upgrades as operators extend equipment life while managing 2025-2026 capex budgets.",
+      "Institutional, school, healthcare, convenience-store and grocery foodservice demand where menu expansion and consistency matter more than discretionary dine-in traffic."
+    ],
+    "whats_shrinking": [
+      "Lower-efficiency conventional gas models are losing share where utility rebates, electrification policies and corporate sustainability targets influence 2025-2026 purchasing.",
+      "Discretionary new-kitchen projects for weak independent restaurants are under pressure in 2025-2026 because food, labor, rent and financing costs remain elevated.",
+      "Commodity ovens with little differentiation face import competition and margin compression, especially when buyers prioritize upfront price.",
+      "Project pipelines softened in 2025, with MAFSI SpecPath projects down 7.4% from 3,718 in 2024 to 3,444 in 2025 and Q4 projects down 13.4% year over year."
+    ],
+    "recent_developments": [
+      "2025-01: Technavio projected the global commercial cooking equipment market would add $4.8 billion from 2025 to 2029 at a CAGR above 6.2%.",
+      "2025-06: U.S. Section 232 steel and aluminum tariffs increased from 25% to 50%, raising cost risk for metal-intensive commercial kitchen equipment.",
+      "2025-Q4: MAFSI reported foodservice equipment sales rose 2.4% in 2025 Q4, ahead of its 1.7% forecast.",
+      "2026-02: National Restaurant Association projected 2026 U.S. restaurant and foodservice sales of $1.55 trillion and more than 100,000 added restaurant jobs.",
+      "2026-03: Ali Group completed the acquisition of BUNN, adding the coffee-equipment company to the Welbilt North American brand portfolio.",
+      "2026-07: FRED/BLS reported steel mill products PPI at 361.439 for June 2026, above the 2025 annual average of 298.426."
+    ],
+    "outlook": "The 2026 outlook is modestly positive but not broad-based. Baseline projections put industry revenue at $4.6 billion in 2026, up at a 2.2% CAGR from 2021, while channel data points to low-single-digit foodservice equipment growth entering 2026. Growth should come from replacement demand, chain standardization, energy-efficient ovens, combi/high-speed platforms, smart controls and institutional kitchens. The main risks are restaurant margin pressure, slower project starts, high financing costs, imports, and metal-price inflation from 2025-2026 steel/aluminum tariffs. Over the medium term, manufacturers with service networks, brand portfolios, energy-efficient products and chain-account relationships should outperform commodity producers.",
+    "themes": [
+      "Restaurant capex recovery but uneven traffic",
+      "Energy efficiency and electrification",
+      "Steel, aluminum and tariff exposure",
+      "Connected ovens and programmable cooking",
+      "Labor-saving kitchen automation",
+      "Aftermarket parts and service resilience",
+      "Import competition and brand consolidation",
+      "Institutional and convenience-store foodservice growth"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Baseline IBIS file provided by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/commercial-oven-manufacturing.txt'}",
+      "{'name': 'FRED/BLS Steel Mill Products PPI, updated July 2026', 'url': 'https://fred.stlouisfed.org/series/WPU1017/1000'}",
+      "{'name': 'BLS regional PPI metals table, 2025-2026 steel mill products data', 'url': 'https://www.bls.gov/regions/mid-atlantic/data/ProducerPriceIndexMetals_US_Table.htm'}",
+      "{'name': 'National Restaurant Association 2026 State of the Restaurant Industry', 'url': 'https://restaurant.org/research-and-media/research/research-reports/state-of-the-industry'}",
+      "{'name': 'National Restaurant Association February 2026 sales forecast release', 'url': 'https://restaurant.org/research-and-media/media/press-releases/persistent-cost-increases-and-enduring-demand-will-shape-the-restaurant-industry-in-2026/'}",
+      "{'name': 'National Restaurant Association July 2026 economic insight update', 'url': 'https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/restaurants-remain-resilient-despite-challenging-business-conditions/'}",
+      "{'name': 'MAFSI market forecast and business barometer overview', 'url': 'https://www.mafsi.org/market-forecast'}",
+      "{'name': 'FEDA report on MAFSI Q4 2025 foodservice equipment sales', 'url': 'https://www.feda.com/news/equipment-sales-rose-at-close-of-2025-but-mafsi-warns-outside-factors-could-cause-slowdown'}",
+      "{'name': 'Middleby 2025 fiscal-year results', 'url': 'https://middlebycorporation.gcs-web.com/news-releases/news-release-details/middleby-corporation-reports-fourth-quarter-and-fiscal-year'}",
+      "{'name': 'Illinois Tool Works 2025 annual report food equipment segment', 'url': 'https://financialfilings.com/filings/illinois-tool-works-inc/annual-report/2026/20210929/'}",
+      "{'name': 'Ali Group acquisition of Welbilt, July 2022', 'url': 'https://www.aligroup.com/news/ali-group-completes-acquisition-of-welbilt/'}",
+      "{'name': 'Welbilt/Ali Group BUNN acquisition, March 2026', 'url': 'https://www.welbilt.us/News/News/2026/March/Ali-Group-Completes-Acquisition-of-BUNN'}",
+      "{'name': 'ENERGY STAR commercial ovens efficiency data, updated July 2026', 'url': 'https://www.energystar.gov/products/commercial_ovens'}",
+      "{'name': 'White House fact sheet on June 2025 steel and aluminum tariff increase', 'url': 'https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-increases-section-232-tariffs-on-steel-and-aluminum/'}",
+      "{'name': 'Federal Register Proclamation 10947, June 2025', 'url': 'https://www.federalregister.gov/documents/full_text/html/2025/06/09/2025-10524.html'}"
+    ],
+    "one_sentence": "Commercial Oven Manufacturing is a mature U.S. equipment niche with estimated 2025 revenue near $4.5 billion, supported by restaurant sales growth and energy-efficient kitchen upgrades but pressured by tariffs, volatile steel prices, imports and uneven restaurant traffic.",
+    "slug": "commercial-oven-manufacturing"
+  },
+  {
+    "title": "Computer Rental",
+    "sector": "Business Services",
+    "one_liner": "A mature equipment-leasing niche that rents laptops, desktops, tablets and peripherals to businesses, events and credit-constrained consumers.",
+    "overview": "Computer rental operators rent or lease desktop computers, laptops, tablets, monitors, servers, printers and related peripherals on daily, weekly, monthly or rent-to-own terms. The 2022 baseline industry was a narrow computer-rental market with $1.534 billion of revenue and a 2.0% annual decline, while public 2025 data for the broader NAICS 53242 computer and printer leasing category show a $4.0 billion US market and 0.5% 2025 growth. The category is structurally mature because falling hardware prices, retail financing, cloud software and device ownership reduce the need to rent standard PCs, but demand persists when customers need fast deployment, preconfigured fleets, short event windows, credit access or refresh flexibility.",
+    "key_stats": {
+      "market_size": "2025: approximately $1.46 billion estimated for the narrow computer-rental-only legacy segment, inferred from the 2022 IBISWorld baseline and its projected 2022-2027 decline path; 2025: $4.0 billion for broader US Computer & Printer Leasing (NAICS 53242).",
+      "growth": "2025: 0.5% market-size growth for broader US Computer & Printer Leasing; 2022-2027: -0.8% projected CAGR in the baseline narrow Computer Rental report.",
+      "profit_margin": "2022: 14.4% baseline EBIT margin for narrow Computer Rental.",
+      "establishments": "2022: 250 establishments in the baseline Computer Rental industry.",
+      "enterprises": "2022: 145 enterprises in the baseline Computer Rental industry.",
+      "employment": "2022: 2,225 employees in the baseline Computer Rental industry.",
+      "wages": "2022: $318 million in wages in the baseline Computer Rental industry.",
+      "price_signal": "2026: BLS CPI for computers, peripherals and smart home assistants was down 0.8% year over year in June 2026, after several months of volatility.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $1.534 billion revenue.",
+      "growth": "2022: -2.0% annual revenue growth; 2017-2022 CAGR was -3.6%.",
+      "profit": "2022: $221 million profit.",
+      "profit_margin": "2022: 14.4%.",
+      "industry_gross_product": "2022: $785 million.",
+      "establishments": "2022: 250.",
+      "enterprises": "2022: 145.",
+      "employment": "2022: 2,225.",
+      "wages": "2022: $318 million.",
+      "outlook_at_baseline": "2022-2027 projected revenue CAGR: -0.8%, reaching roughly $1.5 billion in 2027."
+    },
+    "how_it_makes_money": [
+      "Short-term rentals for conferences, trade shows, exams, training classes, temporary offices and corporate projects.",
+      "Longer-term operating leases for laptops, desktops, workstations, servers, printers and peripherals.",
+      "Rent-to-own contracts for consumers and small businesses that want access to computers without upfront purchase or traditional credit.",
+      "Ancillary revenue from delivery, setup, imaging, software installation, technical support, device management, repairs, damage waivers and equipment disposition."
+    ],
+    "cost_structure": {
+      "largest_costs": [
+        "2025: equipment acquisition remains the central cost because operators must hold laptop, desktop, tablet and peripheral fleets before orders are booked.",
+        "2022: wages were $318 million, equal to about 20.7% of baseline revenue.",
+        "2022: profit was $221 million, equal to a 14.4% baseline margin.",
+        "2025: logistics, warehousing, imaging, technical support, repairs, write-offs and financing costs were material operating costs."
+      ],
+      "operating_logic": "Operators earn returns by maximizing fleet utilization, redeploying devices across customers, recovering residual value through resale, and charging premiums for speed, configuration, support and flexibility.",
+      "risk_costs": "Hardware obsolescence, damaged or missing equipment, falling residual values, cyber and data-wipe requirements, freight costs and interest expense can compress margins."
+    },
+    "major_players": [
+      "Upbound Group / Rent-A-Center: large lease-to-own operator offering electronics and computers among broader durable goods; 2025 10-K reports US Rent-A-Center and Acima lease-to-own operations.",
+      "Aaron's: major rent-to-own brand offering laptops and desktop computers; acquired by IQVentures on 2024-10-03 and delisted from NYSE.",
+      "RUSH Computer Rentals / Electro Rent: specialist business computer rental provider with laptops, desktops, tablets, servers, printers and workstations, backed by Electro Rent's broader rental platform.",
+      "Rentacomputer.com: national technology rental specialist with 2025 hybrid-work laptop rental packages and event/project rental offerings.",
+      "Technology Rental: US laptop, tablet and event-technology rental provider serving corporate events, exams, training and temporary deployments.",
+      "BCSR Business Computer System Rentals: long-running business computer rental provider serving staffing, training and event use cases."
+    ],
+    "current_dynamics": [
+      "2025: The broader Computer & Printer Leasing market returned to modest growth, but narrow computer rental remains pressured by cheap device ownership and retail financing.",
+      "2025: Hybrid work, temporary staffing, conferences, digital testing, training and pop-up offices are the healthiest demand pools because they favor short-term deployment over ownership.",
+      "2025: AI-PC refresh expectations are creating a replacement-cycle narrative, but high memory and component prices in 2026 can both support rentals and delay purchases.",
+      "2026: Device spending is still growing globally, but Gartner expects slower 2026 device growth as higher memory prices lift average selling prices.",
+      "2026: Operators with imaging, security, shipping, onsite support and fast nationwide fulfillment have stronger positioning than pure storefront rent-to-own providers."
+    ],
+    "whats_growing": [
+      "2025: bulk laptop rentals for corporate events, exams, training and hybrid work projects.",
+      "2025: managed rental bundles that include imaging, software loads, device protection, support and logistics.",
+      "2025: tablets, 2-in-1 devices, MacBooks, gaming laptops, VR-ready laptops and high-spec workstations for events and specialized workflows.",
+      "2026: AI-capable PCs as a refresh theme, with Gartner projecting AI PCs at 55% of worldwide PC shipments in 2026.",
+      "2026: rentals used to bridge procurement delays or preserve cash when device prices rise."
+    ],
+    "whats_shrinking": [
+      "2025: traditional consumer desktop and laptop rental where customers can buy low-cost devices outright or use retail financing.",
+      "2025: long-duration leases for commodity PCs with weak residual values.",
+      "2025: standalone storefront rental models without e-commerce, logistics, configuration or support differentiation.",
+      "2026: low-end device availability may tighten if memory cost pressure and component shortages persist."
+    ],
+    "recent_developments": [
+      "2024-10-03: IQVentures completed its acquisition of The Aaron's Company for about $504 million in enterprise value.",
+      "2025-03-11: Rentacomputer.com launched Flexible Hybrid Work Laptop Rental Packages for US businesses.",
+      "2025-07: IBISWorld listed US Computer & Printer Leasing market size at $4.0 billion for 2025, with 0.5% 2025 growth.",
+      "2025-08-28: Gartner projected AI PCs would represent 31% of worldwide PC shipments in 2025 and 55% in 2026.",
+      "2026-02-03: Gartner forecast worldwide device spending of $836.4 billion in 2026, up 6.1%, with growth slowed by memory-price pressure.",
+      "2026-07-14: BLS reported June 2026 CPI for computers, peripherals and smart home assistants down 0.8% year over year."
+    ],
+    "outlook": "The narrow US Computer Rental industry is likely to remain flat to slightly down through 2026 because the core substitution problem has not disappeared: many households and businesses can still buy inexpensive computers rather than rent them. The best operators should outperform by focusing on B2B short-term use cases, event technology, preconfigured fleets, security-compliant device handling and flexible refresh programs. AI-PC adoption and higher component prices may create temporary rental tailwinds, but they are unlikely to reverse long-term pressure on commodity computer rentals unless operators add managed services and logistics value around the hardware.",
+    "themes": [
+      "Legacy decline versus event-driven resilience",
+      "Hybrid work and temporary workforce deployments",
+      "AI-PC refresh cycle",
+      "Falling ownership costs and retail financing substitution",
+      "Fleet utilization and residual-value management",
+      "Rent-to-own access for credit-constrained consumers",
+      "Managed device logistics and security compliance"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "IBISWorld baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/computer-rental.txt, last updated 2022-04-25.",
+      "https://www.ibisworld.com/united-states/market-size/computer-printer-leasing/1381/",
+      "https://www.census.gov/naics/?details=532&input=532&year=2022",
+      "https://www.bls.gov/news.release/cpi.htm?lv=true",
+      "https://fred.stlouisfed.org/series/cusr0000seee01",
+      "https://www.gartner.com/en/newsroom/press-releases/2025-08-28-gartner-says-artificial-intelligence-pcs-will-represent-31-percent-of-worldwide-pc-market-by-the-end-of-2025",
+      "https://www.gartner.com/en/newsroom/press-releases/2026-02-03-gartner-forecasts-worldwide-it-spending-to-grow-10-point-8-percent-in-2026-totaling-6-point-15-trillion-dollars",
+      "https://www.sec.gov/Archives/edgar/data/1821393/000182139324000136/mergerclosingannouncement-.htm",
+      "https://www.sec.gov/Archives/edgar/data/933036/000093303626000008/upbd-20251231.htm",
+      "https://www.pr.com/press-release/932999",
+      "https://www.rushcomputer.com/about-us/",
+      "https://technologyrental.com/laptop-rental/",
+      "https://www.bcsrinc.com/",
+      "https://www.aarons.com/electronics/"
+    ],
+    "one_sentence": "US computer rental remains a small, fragmented legacy market as cheaper ownership keeps pressuring long-term demand, while hybrid work, events, exams, temporary staffing and AI-PC refresh cycles support pockets of short-term rental growth.",
+    "slug": "computer-rental"
+  },
+  {
+    "title": "Convention & Visitor Bureaus in the US",
+    "sector": "Business Services",
+    "one_liner": "Destination marketing organizations are rebounding with domestic travel and meetings demand, but inbound weakness and tighter public budgets are limiting upside.",
+    "overview": "Convention and visitor bureaus are local and regional destination marketing organizations that sell cities, counties and states to leisure travelers, meeting planners, event owners and tour operators. The industry recovered sharply after the 2020 travel collapse, but its 2025-2026 environment is uneven: domestic leisure and group travel remain supportive, large events are helping major markets, and digital marketing has become central, while international visitation is still below 2019 levels in real terms and local hotel-tax revenue is exposed to room-demand and rate cycles.",
+    "key_stats": {
+      "market_size": "2026 estimated $3.2 billion US industry revenue, based on the 2022 IBISWorld baseline of $2.897 billion and its 2022-2027 projected CAGR of 2.5%.",
+      "growth": "2022-2027 projected CAGR of 2.5%; 2026 US total travel spending forecast growth of 1.0% in inflation-adjusted 2025 dollars.",
+      "travel_spending": "2026 US total travel spending forecast at $1.37 trillion in inflation-adjusted 2025 dollars.",
+      "domestic_travel": "2026 domestic travel spending forecast at $1.20 trillion, equal to 87% of total US travel spending.",
+      "business_travel": "2026 business travel spending forecast at $319 billion, up 0.7% in real terms from 2025.",
+      "domestic_group_travel": "2026 domestic group travel forecast at $118 billion, up 1.4% in real terms.",
+      "international_visitation": "2026 inbound visits forecast at 70.6 million, up 3.4% from 2025 but still below the 2019 level of about 79 million visits.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue of $2.897 billion in 2022 dollars in the baseline IBISWorld file; Census/FRED employer-firm revenue was $2.717 billion in 2022.",
+      "growth": "2022 revenue increased 13.6% in the baseline file after a 24.7% decline in 2020.",
+      "profit": "2022 profit was $136 million, equal to a 4.7% margin.",
+      "establishments": "2022 establishments totaled 5,603 in the baseline file.",
+      "employment": "2022 employment totaled 15,035 workers in the baseline file.",
+      "product_mix": "2022 revenue mix was 51.8% visitor information and sightseeing tour services, 38.8% convention/conference/meeting planning, and 9.4% convention support, travel reservation and other services."
+    },
+    "how_it_makes_money": "CVBs earn money through hotel occupancy tax allocations, tourism improvement district assessments, city/state contracts, membership dues, sponsorships, cooperative advertising, event-services fees, visitor-center retail, tour commissions, reservation support and convention sales services. Many nonprofit bureaus do not charge visitors directly, because their mandate is to generate visitor spending and tax receipts for the destination.",
+    "cost_structure": "Major costs are staff compensation for sales, marketing, visitor services and convention support; media buying and digital advertising; bid incentives and event support; visitor-center rent and operations; technology, CRM and website platforms; research and data; printed guides and maps; travel to trade shows; and administrative overhead. Profit margins are structurally modest because many operators are nonprofit or quasi-public organizations that reinvest funds into promotion.",
+    "major_players": [
+      "Las Vegas Convention and Visitors Authority",
+      "Visit Orlando",
+      "NYC Tourism + Conventions",
+      "Choose Chicago",
+      "Atlanta Convention & Visitors Bureau",
+      "Visit Dallas"
+    ],
+    "current_dynamics": "The 2025-2026 operating climate favors destinations with strong domestic leisure bases, convention-center capacity and major-event calendars. Domestic demand is comparatively resilient, but travelers are trading down to shorter and regional trips as costs rise. Meeting planners are still sourcing in-person events, yet budget pressure and weaker confidence are making value, room rates, air access and measurable event impact more important. Public funding remains tied to hotel occupancy taxes and local budget politics, so bureau budgets can lag inflation even when visitor volumes improve.",
+    "whats_growing": "Domestic leisure travel, domestic group travel, sports and mega-event-related visitation, data-driven destination marketing, tourism improvement district funding, cooperative campaigns with hotels and attractions, and convention sales tied to large convention-center markets are growing in 2025-2026.",
+    "whats_shrinking": "International inbound travel underperformed in 2025, especially from Canada, and remains below 2019 levels in real terms. Walk-in visitor-center dependence, printed-map activity, routine travel-reservation support and undifferentiated destination promotion are shrinking as travelers use direct booking platforms, search, social media and AI-assisted planning tools.",
+    "recent_developments": [
+      "May 20, 2025: Cvent ranked Orlando, Las Vegas and Chicago as the top North American meeting destinations using more than $18 billion of 2024 global sourcing and RFP activity.",
+      "June 24, 2025: IPW 2025 in Chicago drew more than 5,000 delegates from 64 countries, supporting future inbound travel sales for US destinations.",
+      "February 10, 2026: Choose Chicago reported 2025 hotel room demand rose 2.3%, with 65 future citywide conventions and 2.8 million future room nights secured.",
+      "March 24, 2026: NYC Tourism + Conventions reported 65.0 million 2025 visitors, $55.6 billion in direct spending and 1,515 meetings and events booked.",
+      "May 7, 2026: Visit Orlando reported a record 76.7 million 2025 visitors and Orange County Convention Center attendance of 2.0 million across 187 events.",
+      "May 7, 2026: U.S. Travel forecast 2026 travel spending at $1.37 trillion and 2026 inbound visits at 70.6 million."
+    ],
+    "outlook": "The industry should expand modestly through 2026 as domestic group travel, leisure demand and major events support room nights and lodging-tax receipts. Growth is likely to trail the early post-pandemic rebound because international visitation is recovering unevenly, travel costs remain high, and local governments are scrutinizing DMO funding. Bureaus with strong convention pipelines, sports/event sales, measurable economic-impact reporting and modern digital marketing will outperform smaller organizations that rely mainly on passive visitor information services.",
+    "themes": [
+      "Domestic travel resilience",
+      "International inbound recovery risk",
+      "Meetings and conventions rebound",
+      "Hotel-tax funding dependence",
+      "Tourism improvement districts",
+      "Major-event-led destination marketing",
+      "Digital and data-driven promotion",
+      "Public accountability for DMO spending",
+      "Competition from online booking and AI travel planning"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'title': 'Baseline IBISWorld file: Convention & Visitor Bureaus in the US, last updated May 31, 2022', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/convention-and-visitor-bureaus-in-the-us.txt'}",
+      "{'title': 'U.S. Travel Association, U.S. Travel Forecast, Spring 2026', 'url': 'https://www.ustravel.org/research/travel-forecasts'}",
+      "{'title': 'U.S. Travel Association, 2025 travel forecast press release', 'url': 'https://www.ustravel.org/press/us-travel-forecast-2025-modest-growth-decline-international-visitors-threatens-economy-and'}",
+      "{'title': 'National Travel and Tourism Office, International Visitor Forecast 2026-2030', 'url': 'https://www.trade.gov/travel-and-tourism-forecasts'}",
+      "{'title': 'FRED, Census Bureau revenue for Convention and Visitors Bureaus, 2022', 'url': 'https://fred.stlouisfed.org/series/REVEF561591ALLEST'}",
+      "{'title': 'Cvent, 2025 Top Meeting Destinations', 'url': 'https://www.cvent.com/en/press-release/cvent-announces-top-meeting-destinations-and-top-meeting-hotels-worldwide-2025'}",
+      "{'title': 'Meeting Professionals International, Q2 2026 Meetings Outlook', 'url': 'https://www.mpi.org/read/meetings-outlook'}",
+      "{'title': 'NYC Tourism + Conventions, 2025 Annual Report press release', 'url': 'https://www.business.nyctourism.com/press-media/press-releases/NYC-Tourism-Annual-Report-March-2026'}",
+      "{'title': 'Visit Orlando, 2025 visitor volume and market indicators', 'url': 'https://www.visitorlando.org/about/resources/data-trends/'}",
+      "{'title': 'Choose Chicago, 2026 annual meeting and 2025 performance', 'url': 'https://www.choosechicago.com/press-media/press-releases/choose-chicago-announces-year-end-growth-and-shares-2026-outlook-at-annual-meeting/'}"
+    ],
+    "one_sentence": "US convention and visitor bureaus promote destinations, bid for meetings and conventions, support visitor information services, and rely heavily on lodging-tax-funded public support plus memberships, sponsorships and service fees.",
+    "slug": "convention-and-visitor-bureaus-in-the-us"
+  },
+  {
+    "title": "Costume & Team Uniform Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "A small, import-exposed cut-and-sew niche serving costumes, team uniforms, academic regalia, clerical vestments, and specialty leather/fur apparel.",
+    "overview": "This industry manufactures cut-and-sew specialty apparel including theatrical and holiday costumes, team sports uniforms, academic caps and gowns, clerical vestments, leather/fur apparel, and plastic or rubberized apparel. The domestic manufacturing base remains fragmented and niche-oriented because standardized costumes and teamwear are heavily imported, while US producers compete on shorter lead times, customization, licensed designs, school and institutional relationships, and higher-value fabrics or decoration. Based on the 2022 IBISWorld baseline path, industry revenue was roughly $1.00 billion in 2022 and is estimated near $1.08 billion in 2025, with 2026 around $1.10 billion if the original 2021-2026 recovery trajectory holds.",
+    "key_stats": {
+      "market_size": "2025 estimated revenue: $1.08 billion; 2026 projected revenue: $1.10 billion",
+      "growth": "2021-2026 projected CAGR: 2.4%; 2025 implied annual growth on baseline forecast path: 2.4%",
+      "profit_margin": "2026 projected EBIT margin: 7.0%",
+      "imports": "2021 imports: $3.6 billion; 2026 projected imports: $3.7 billion, equal to 80.1% of domestic demand",
+      "exports": "2021 exports: $156.4 million; 2026 projected exports: $178.9 million",
+      "employment": "2021 industry employment: 6,539 workers; 2026 projected employment: 6,999 workers",
+      "establishments": "2021 establishments: 452; 2026 projected enterprises: 484",
+      "sports_demand_indicator": "2024 US active participation reached 247.1 million people, and 20 of 24 team sports increased participation from 2023",
+      "halloween_demand_indicator": "2025 US Halloween spending expected at a record $13.1 billion, with 51% of shoppers planning to dress in costume",
+      "college_demand_indicator": "Fall 2024 total postsecondary enrollment rose 4.5%, undergraduate enrollment rose 4.7%, and graduate enrollment reached 3.2 million",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 estimated revenue: $1.00 billion, calculated from 2021 revenue of $979.8 million and IBISWorld's 2021-2026 forecast CAGR of 2.4%",
+      "growth": "2022 implied annual revenue growth: 2.4%",
+      "profit_margin": "2021 EBIT margin: 6.4%; 2026 projected EBIT margin: 7.0%",
+      "product_mix_2021": {
+        "theatrical_costumes": "39.5% of revenue",
+        "team_sports_uniforms": "26.7% of revenue",
+        "vestments_and_academic_gowns": "25.2% of revenue",
+        "leather_and_fur_apparel": "6.4% of revenue",
+        "plastic_and_rubber_apparel": "2.2% of revenue"
+      },
+      "imports": "2021 imports: $3.6 billion, 81.2% of domestic demand",
+      "exports": "2021 exports: $156.4 million, 16.0% of revenue"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue from wholesale and contract production of costumes, team uniforms, caps and gowns, vestments, leather/fur apparel, and other specialty cut-and-sew garments. Sales flow through team dealers, schools, colleges, graduation suppliers, party and seasonal retailers, costume shops, e-commerce channels, religious institutions, theater and dance customers, wholesalers, and decorators. Higher-margin work comes from custom decoration, sublimation, embroidery, licensed character designs, school-specific regalia, quick-turn small batches, and specialty materials.",
+    "cost_structure": "Purchases are the largest cost category because fabric, trims, synthetic fibers, leather, fur, dyes, packaging, and imported blanks dominate production economics. Labor is meaningful for cutting, sewing, quality control, decoration, pattern work, and short-run customization, and BLS reported 2025 apparel manufacturing sewing machine operator median wages of $17.37 per hour. Profit is thin-to-moderate in standardized products but stronger in custom, licensed, or institutional work; the 2026 baseline margin is 7.0%. Other costs include rent, utilities, freight, import duties, royalties for licensed costumes, design software, sublimation and embroidery equipment, insurance, and sales commissions.",
+    "major_players": [
+      "Rubies II / Ad Populum",
+      "Augusta Sportswear Brands / Founder Sport Group",
+      "Champro Sports",
+      "A4 Apparel",
+      "Jostens",
+      "Herff Jones",
+      "Oak Hall Cap & Gown",
+      "Small regional cut-and-sew, decoration, costume, vestment, and teamwear shops"
+    ],
+    "current_dynamics": "Demand is healthier than the 2020-2021 trough because in-person graduations, youth sports, school activities, theater, dance, and seasonal Halloween retail have normalized. 2025 Halloween spending set a record, and sports participation data released in 2025 showed broad team-sport momentum, supporting uniforms and related apparel. At the same time, domestic manufacturers face intense low-cost import competition, especially from Asian apparel supply chains, while 2025 China/Hong Kong tariff and de minimis changes raised landed-cost uncertainty for import-dependent sellers. Domestic producers are leaning into fast-turn customization, sublimation, lower minimums, school/team relationships, and premium fabrics rather than trying to compete with mass imported costumes on price alone.",
+    "whats_growing": [
+      "Custom sublimated team uniforms for youth, school, club, and recreational leagues",
+      "Fast-turn small-batch reorders with names, numbers, sponsor logos, and team stores",
+      "Graduation regalia tied to recovering 2024-2025 postsecondary enrollment",
+      "Halloween and pop-culture licensed costume demand after 2025 record seasonal spending",
+      "Performance fabrics, mechanical stretch, moisture-wicking polyester, recycled materials, and inclusive sizing",
+      "Domestic or nearshore production for rush orders and tariff-risk mitigation"
+    ],
+    "whats_shrinking": [
+      "Commodity cut-and-sew basics that can be sourced from lower-cost overseas factories",
+      "Domestic share of standardized Halloween costumes and simple team uniforms",
+      "Leather and fur apparel volumes as consumer tastes, price sensitivity, and animal-welfare concerns limit demand",
+      "Long-minimum-order production models that cannot serve small teams and quick reorders",
+      "Margins on import-reliant products exposed to tariffs, freight volatility, and higher apparel import prices"
+    ],
+    "recent_developments": [
+      "2024-01: Platinum Equity acquired Augusta Sportswear Brands and Founder Sport Group, combining major youth and recreational team-uniform suppliers.",
+      "2025-01: National Student Clearinghouse reported fall postsecondary enrollment up 4.5%, supporting cap-and-gown demand.",
+      "2025-02: SFIA reported 247.1 million active Americans in 2024 and gains across 20 of 24 team sports, improving teamwear demand signals.",
+      "2025-02: CBP guidance imposed additional 10.0% duties on China/Hong Kong imports and removed de minimis eligibility for covered shipments effective February 4, 2025.",
+      "2025-09: NRF projected record 2025 Halloween spending of $13.1 billion, with 51% of shoppers planning to dress in costume.",
+      "2026-06: BLS apparel manufacturing import price index rose to 116.9 in June 2026, up 2.1% from May 2026, signaling renewed import-cost pressure."
+    ],
+    "outlook": "The industry should remain a slow-growth, fragmented manufacturing niche through 2026. A reasonable 2026 revenue estimate is about $1.10 billion on the original IBISWorld forecast path, up from $979.8 million in 2021 and roughly $1.00 billion in 2022. Growth is most likely where domestic producers solve speed, fit, decoration, licensing, compliance, and institutional-service problems that importers handle poorly. Imports will remain the structural ceiling on growth, but tariff changes, higher apparel import prices, and demand for shorter lead times create selective opportunities for US cut-and-sew shops. Margin performance will depend on textile input costs, wage inflation, inventory discipline ahead of Halloween, and the ability to charge for customization rather than compete on blank garment price.",
+    "themes": [
+      "Fragmented domestic manufacturing",
+      "Import competition",
+      "Tariff and de minimis disruption",
+      "Youth sports participation",
+      "Halloween seasonality",
+      "Graduation regalia recovery",
+      "Customization and sublimation",
+      "Performance and recycled fabrics",
+      "Small-batch quick-turn production",
+      "Licensed pop-culture costumes"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/costume-and-team-uniform-manufacturing-in-the-us.txt",
+      "https://sfia.org/resources/sfias-topline-participation-report-shows-247-1-million-americans-were-active-in-2024/",
+      "https://nrf.com/research-insights/holiday-data-and-trends/halloween?os=app",
+      "https://www.studentclearinghouse.org/news/fall-postsecondary-enrollment-grows-4-5-rebounds-above-pre-covid-levels/",
+      "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/3d062f4",
+      "https://www.bls.gov/iag/tgs/iag315.htm",
+      "https://www-tx.ers.usda.gov/topics/crops/cotton-and-wool/market-outlook",
+      "https://fred.stlouisfed.org/series/WPU03",
+      "https://www.platinumequity.com/news/platinum-equity-acquires-augusta-sportswear-brands-and-founder-sport-group/",
+      "https://rubies.applicantpool.com/pages/who_we_are/",
+      "https://www.herffjones.com/about/"
+    ],
+    "one_sentence": "Costume & Team Uniform Manufacturing in the US is recovering slowly from pandemic disruption, with domestic demand helped by 2025 Halloween spending, 2024-2025 sports participation gains, and higher postsecondary enrollment, but pressured by import competition, tariff uncertainty, and rising textile/apparel input prices.",
+    "slug": "costume-and-team-uniform-manufacturing-in-the-us"
+  }
+]

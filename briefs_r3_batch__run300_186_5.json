@@ -1,0 +1,443 @@
+[
+  {
+    "title": "House Painting & Decorating Contractors",
+    "sector": "Construction",
+    "one_liner": "A fragmented residential painting trade tied to home maintenance, repaint cycles, remodeling, and new housing completions.",
+    "overview": "This industry covers contractors that paint, stain, apply coatings, hang or remove wall coverings, and prepare interior and exterior surfaces for houses, condos, apartments and similar residential properties. The 2021 IBISWorld baseline described a mature, low-concentration industry with low capital requirements, high local competition and demand split across maintenance, additions and alterations, and newly built homes. By 2025-2026, the market is no longer riding the 2020-2021 housing boom: repaint and repair work remains steadier than new-build work, but high mortgage rates and slow resale activity are limiting discretionary projects.",
+    "key_stats": {
+      "market_size": "2025: about $28.0 billion in US painting and wall covering contractor revenue, estimated from 2022 Census NAICS 238320 revenue of $26.3 billion and subsequent construction/remodeling indicators.",
+      "growth": "2025: about 2% nominal revenue growth, with price increases offsetting softer project volumes; Sherwin-Williams Paint Stores Group 2025 sales rose 3.2% to $13.6 billion while volumes declined low-single-digits.",
+      "employment": "2025: 225,190 US painters, construction and maintenance, across all industries, with a $55,420 annual mean wage.",
+      "establishments": "2023: 38,280 employer establishments in Census NAICS 238320 Painting and Wall Covering Contractors; the total contractor base is much larger when nonemployers are included.",
+      "labor_rate": "2025: painters, construction and maintenance averaged $26.64 per hour nationally.",
+      "remodeling_spending": "2026: owner-occupied home improvement and repair spending projected near $517-$518 billion, with growth slowing toward 1.6%-2.1% by late 2026.",
+      "housing_starts": "May 2026: privately owned housing starts ran at a 1.177 million seasonally adjusted annual rate, down 8.7% from May 2025.",
+      "input_prices": "June 2026: BLS/FRED architectural coatings PPI reached 532.247, up from 504.463 in June 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022: $26.3 billion in US NAICS 238320 Painting and Wall Covering Contractors receipts; the narrower IBIS residential house-painting baseline was about $20.6 billion in 2021 dollars around 2021-2022.",
+      "growth": "2022: baseline growth was roughly flat to low-single-digit after the 2021 post-pandemic rebound, consistent with IBISWorld's 2021-2026 forecast of 0.1% annualized revenue growth to $20.7 billion by 2026.",
+      "profit_margin": "2021: IBISWorld baseline profit margin was 6.5%-6.6% of revenue.",
+      "product_mix": "2021: maintenance and repair generated 49.1% of revenue, newly constructed homes 30.8%, and additions and alterations 20.1%.",
+      "establishments": "2021: IBISWorld baseline establishments were 234,498, including many nonemployer/local operators.",
+      "employment": "2021: IBISWorld baseline employment was 337,949 workers."
+    },
+    "how_it_makes_money": "Contractors price jobs through fixed bids or time-and-materials estimates covering surface preparation, labor, primer, paint, coatings, wallpaper, equipment, travel, cleanup and margin. Revenue comes from residential repainting, exterior maintenance, apartment turnover, new-home subcontracting, additions, alterations, specialty finishes, staining, wallpaper installation/removal and small repair-adjacent work such as patching cracks or preparing surfaces.",
+    "cost_structure": {
+      "labor": "2025: labor is the largest cost because most work is manual surface prep, masking, brush/roller/spray application and cleanup; BLS reported $26.64 hourly mean wages for construction and maintenance painters.",
+      "materials": "2026: paint, primer, stains, coatings, solvents, caulk, tape, drop cloths, abrasives and wall coverings are pressured by architectural coatings PPI of 532.247 in June 2026 versus 504.463 in June 2025.",
+      "subcontracting": "2025: common for small firms and franchise operators that sell, estimate and manage jobs while using crews or subcontractors for production.",
+      "vehicles_equipment": "2025: ladders, sprayers, scaffolding, lifts, vans/trucks, safety gear and small tools are necessary but capital intensity remains low compared with other construction trades.",
+      "marketing_admin": "2025: local search advertising, lead marketplaces, estimating software, insurance, licensing, workers compensation and franchise fees are material for scaled operators.",
+      "profit": "2021 baseline: EBIT margin was about 6.5%-6.6%; 2025-2026 margins depend on pricing discipline because labor and coating costs remain elevated."
+    },
+    "major_players": [
+      "{'name': 'Independent local contractors', 'position': '2025: dominant share collectively; the market remains highly fragmented with low barriers to entry and no national contractor with material market share.'}",
+      "{'name': 'CertaPro Painters', 'position': '2026: largest franchised residential and commercial painting company in North America, with more than 350 locally owned franchises in the United States and Canada.'}",
+      "{'name': 'Five Star Painting', 'position': '2026: national franchise brand with more than 260 locations across the United States and Canada.'}",
+      "{'name': 'Fresh Coat Painters', 'position': '2026: painting franchise system reporting about 180-plus locations, serving residential and commercial projects.'}"
+    ],
+    "current_dynamics": "The 2025-2026 market is being held up by repaint, repair, apartment turnover and stay-put remodeling, while new-home and pre-sale painting are weaker because affordability remains strained. Existing-home sales were only 4.09 million SAAR in June 2026, and the 30-year fixed mortgage rate was 6.58% on July 23, 2026, keeping many owners locked into current homes. That helps maintenance and refresh projects but reduces move-related painting. Contractors are also managing higher wages and coatings costs, pushing revenue growth to come more from price than volume.",
+    "whats_growing": [
+      "2025: professional residential repaint demand grew low-single-digits at Sherwin-Williams Paint Stores Group, even as overall volumes slipped.",
+      "2026: maintenance, repair and exterior repainting tied to aging housing stock are more resilient than discretionary redesign projects.",
+      "2026: franchise and branded local operators are gaining from digital lead generation, standardized estimating, customer reviews and warranty-backed service models.",
+      "2026: low-VOC, durable, washable and specialty coatings are growing as homeowners trade up for longer repaint cycles and easier maintenance."
+    ],
+    "whats_shrinking": [
+      "2026: new-home painting tied to starts is under pressure after May 2026 housing starts fell 8.7% year over year to a 1.177 million SAAR.",
+      "2026: discretionary whole-home decorative work is slowing as LIRA projects home improvement and repair growth to decelerate through mid-2027.",
+      "2025: DIY paint demand in North America remained soft according to Sherwin-Williams, reducing retail volume momentum even though contractor repaint was steadier.",
+      "2026: move-in and pre-sale repaint projects are constrained by slow existing-home turnover and elevated mortgage rates."
+    ],
+    "recent_developments": [
+      "2025-01-06: CertaPro highlighted 2025 franchise opportunities in markets including Los Angeles, Corpus Christi and Long Island, signaling continued branded expansion in a fragmented trade.",
+      "2025-12-31: Sherwin-Williams Paint Stores Group reported 2025 sales of $13.6 billion, up 3.2%, with residential repaint and commercial end markets up low-single-digits.",
+      "2026-05-15: BLS reported May 2025 construction and maintenance painters at 225,190 jobs, $26.64 hourly mean wage and $55,420 annual mean wage.",
+      "2026-06-16: Census reported May 2026 housing starts at 1.177 million SAAR, down 8.7% from May 2025, weakening new-construction painting demand.",
+      "2026-07-23: Harvard JCHS LIRA projected remodeling spending growth slowing to 0.5% by 2027-Q2, with spending near $519 billion through mid-2027.",
+      "2026-07-23: Freddie Mac reported the 30-year fixed mortgage rate at 6.58%, keeping housing affordability tight and supporting stay-put remodeling over move-related projects."
+    ],
+    "outlook": "The outlook is stable but low-growth. Through 2026, nominal revenue should stay positive because repainting is recurring maintenance, home equity remains a funding source, and contractors can pass through some labor and coating inflation. Real growth is weaker: housing starts and resale turnover are not providing the same lift as 2020-2021, and Harvard JCHS expects remodeling growth to slow toward 0.5% by 2027-Q2. Operators with strong estimating, crew availability, reviews, warranty processes and supplier pricing will outperform small firms that compete only on price.",
+    "themes": [
+      "Stay-put remodeling",
+      "Housing affordability pressure",
+      "Fragmented local competition",
+      "Labor availability and wage inflation",
+      "Paint and coating input inflation",
+      "Residential repaint resilience",
+      "Franchise brand expansion",
+      "Low-VOC and durable coatings",
+      "Digital lead generation",
+      "Weather and exterior-seasonality risk"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file supplied by user', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/house-painting-and-decorating-contractors.txt'}",
+      "{'name': 'U.S. Census Bureau NAICS 238320 profile', 'url': 'https://data.census.gov/profile/238320_-_Painting_and_wall_covering_contractors?codeset=naics~238320'}",
+      "{'name': 'U.S. Census Bureau New Residential Construction, May 2026', 'url': 'https://www.census.gov/construction/nrc/current/'}",
+      "{'name': 'Harvard Joint Center for Housing Studies LIRA, July 23 2026', 'url': 'https://www.jchs.harvard.edu/blog/remodeling-spending-poised-further-slowdown'}",
+      "{'name': 'Harvard Joint Center for Housing Studies LIRA, January 26 2026 revised April 15 2026', 'url': 'https://www.jchs.harvard.edu/press-releases/remodeling-growth-set-downshift-late-2026'}",
+      "{'name': 'BLS Occupational Employment and Wages, May 2025', 'url': 'https://www.bls.gov/news.release/ocwage.htm'}",
+      "{'name': 'BLS/FRED Architectural Coatings Producer Price Index', 'url': 'https://fred.stlouisfed.org/series/PCU3255103255101'}",
+      "{'name': 'Sherwin-Williams 2025 year-end results', 'url': 'https://investors.sherwin-williams.com/press-releases/press-release-details/2026/The-Sherwin-Williams-Company-Reports-2025-Year-End-and-Fourth-Quarter-Financial-Results/default.aspx'}",
+      "{'name': 'National Association of Realtors Existing-Home Sales, June 2026', 'url': 'https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-2-4-decrease-in-june'}",
+      "{'name': 'Freddie Mac mortgage rates, July 23 2026', 'url': 'https://myhome.freddiemac.com/buying/mortgage-rates'}",
+      "{'name': 'CertaPro Painters locations', 'url': 'https://certapro.com/locations/'}",
+      "{'name': 'Five Star Painting about', 'url': 'https://www.fivestarpainting.com/about-us/'}",
+      "{'name': 'Fresh Coat franchise information', 'url': 'https://freshcoatfranchise.com/'}"
+    ],
+    "one_sentence": "US house painting and decorating contractors earn most revenue from labor-intensive interior and exterior repainting, with 2025-2026 demand supported by large remodeling outlays but capped by weak home sales, elevated mortgage rates, softer housing starts, and rising paint and labor costs.",
+    "slug": "house-painting-and-decorating-contractors"
+  },
+  {
+    "title": "Household Furniture Manufacturing in the US",
+    "sector": "Manufacturing",
+    "one_liner": "US household furniture manufacturers remain pressured by imports, weak housing turnover and rising labor/input costs, while domestic upholstery, customization and tariff-protected niches offer the best pockets of resilience.",
+    "overview": "Household Furniture Manufacturing in the US covers upholstered furniture, non-upholstered wood household furniture, metal household furniture and institutional/public-use furniture made on a stock or custom basis. The industry is structurally mature to declining: domestic demand is large, but much of it is met by imported goods from Vietnam, China, Mexico and other low-cost production bases. In 2025, BEA recorded US consumer spending on furniture and furnishings at $293.895 billion, up from $281.899 billion in 2024, yet domestic manufacturing indicators moved down as high mortgage rates, limited existing-home turnover, retailer inventory caution and import competition weighed on factory volumes.",
+    "key_stats": {
+      "market_size": "2025 estimate: about $22.2 billion in US household furniture manufacturing revenue, using the 2022 IBISWorld baseline of $24.172 billion and BLS/FRED industry-output trends as a proxy",
+      "growth": "2025: about -6.8% output decline for the broader household and institutional furniture/kitchen cabinet manufacturing proxy; 2023 NAICS 33712 sectoral output was $23.822 billion versus $25.959 billion in 2022",
+      "consumer_demand": "2025 BEA furniture and furnishings PCE: $293.895 billion, up 4.3% from $281.899 billion in 2024",
+      "employment_proxy": "2025 BLS household and institutional furniture manufacturing employment index: 77.174, down from 79.710 in 2024 and 92.971 in 2022",
+      "imports": "2025 household furniture imports reported by Furniture Today: $22.7 billion, down 11% from 2024; Vietnam held 42% share at $9.5 billion and China fell to $3.6 billion",
+      "exports": "2025 household furniture exports reported by Furniture Today: $2.296 billion, up 1% from $2.272 billion in 2024",
+      "producer_prices": "June 2026 PPI for household and institutional furniture/kitchen cabinet manufacturing: 279.658, up from 268.529 in December 2025",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $24.172 billion",
+      "growth": "2022 IBISWorld annual revenue growth: 0.5%; 2017-2022 CAGR: -2.8%",
+      "profit": "2022 IBISWorld profit: $749 million; profit margin: 3.1%",
+      "employment": "2022 IBISWorld employment: 120,163 people",
+      "establishments": "2022 IBISWorld establishments: 4,038",
+      "imports": "2022 IBISWorld imports: $41.866 billion; import penetration: 66.2% of domestic demand",
+      "exports": "2022 IBISWorld exports: $2.824 billion",
+      "domestic_demand": "2022 IBISWorld domestic demand: $63.214 billion"
+    },
+    "how_it_makes_money": "Manufacturers earn revenue by selling finished furniture and components to furniture retailers, branded galleries, mass merchants, designers, institutions, ecommerce channels and direct-to-consumer customers. Domestic operators make money mainly on upholstered seating, motion furniture, custom or semi-custom products, higher-end wood furniture, institutional furniture and fast-turn regional production where lead time, quality control and customization offset higher US labor costs.",
+    "cost_structure": {
+      "purchases": "Largest cost bucket: lumber, plywood, engineered wood, foam, fabric, leather, metal hardware, packaging, imported components and freight; 2025-2026 tariffs and logistics volatility lifted landed costs for imported inputs and finished goods.",
+      "wages": "High relative to offshore competitors because domestic upholstery, cutting, sewing, finishing and assembly require skilled labor; BLS reported 2025 unit labor costs up for furniture-related manufacturing while output fell.",
+      "rent_utilities_depreciation": "Factory space, showrooms, warehouses, machinery, cutting/sewing equipment, finishing lines and distribution centers create fixed costs that hurt margins when volumes fall.",
+      "selling_distribution": "Retailer programs, delivery, dealer support, ecommerce fulfillment, warranty service and promotions are material costs, especially for vertically integrated brands.",
+      "profitability": "Baseline 2022 IBISWorld EBIT margin was 3.1%; 2025 public-company results show pressure from weak volume, restructuring charges, inventory write-downs and customer bankruptcies."
+    },
+    "major_players": [
+      "La-Z-Boy Incorporated",
+      "Ashley Furniture Industries",
+      "Ethan Allen Interiors",
+      "Bassett Furniture Industries",
+      "Hooker Furnishings",
+      "Flexsteel Industries",
+      "HNI Corporation"
+    ],
+    "current_dynamics": "The 2025-2026 market is not demand-free, but domestic manufacturers are capturing only part of the spend. Consumers are still buying furniture and furnishings, with 2025 BEA PCE up 4.3%, but home affordability and weak existing-home turnover reduce big furnishing cycles. Retailers remain cautious on inventory, and imported goods still set price benchmarks. Tariffs are changing sourcing economics: Vietnam has overtaken China as the leading US household furniture import source, China’s share has fallen sharply, and a 2025 Section 232 tariff regime on certain upholstered furniture, cabinets and vanities has raised landed-cost uncertainty. Domestic manufacturers with US/Mexico upholstery capacity, quick customization, branded retail control and low debt are better positioned than commodity wood/casegoods producers.",
+    "whats_growing": "Upholstered and motion furniture, custom/semi-custom seating, domestic quick-ship programs, direct-to-consumer branded retail, Vietnam/Mexico-linked sourcing, outdoor and lifestyle collections, and higher-end made-to-order products are the better growth areas. La-Z-Boy reported fiscal 2025 consolidated net sales of $2.109 billion, up 3% from fiscal 2024, helped by retail expansion, acquisitions, wholesale upholstery volume and Joybird growth.",
+    "whats_shrinking": "Commodity wood casegoods, low-price ready-to-assemble substitutes made domestically, smaller producers without channel control, China-sourced household furniture flows into the US, and factory employment are shrinking. Furniture Today reported 2025 US household furniture imports down 11% from 2024 and China-origin imports down 39% to $3.6 billion, while FRED/BLS showed the 2025 NAICS 33712 employment index down to 77.174 from 92.971 in 2022.",
+    "recent_developments": [
+      "2025-04: Hooker Furnishings reported fiscal 2025 net sales of $397.5 million, down 8.3%, citing weak demand, a depressed housing market and macro uncertainty.",
+      "2025-06: La-Z-Boy filed fiscal 2025 results showing consolidated net sales of $2.109 billion, up 3%, with 203 company-owned La-Z-Boy Furniture Galleries stores at year-end.",
+      "2025-09: The White House announced Section 232 tariffs affecting certain upholstered furniture, kitchen cabinets and vanities; a later 2025 action kept the 25% rate in place into 2026.",
+      "2026-03: Furniture Today reported 2025 US household furniture imports fell 11% to $22.7 billion, with Vietnam at 42% share and China down 39%.",
+      "2026-03: Furniture Today reported 2025 US household furniture exports rose 1% to $2.296 billion, with Canada holding a 60% share.",
+      "2026-06: BLS/FRED data showed the 2025 employment index for NAICS 33712 household and institutional furniture manufacturing fell to 77.174 from 79.710 in 2024."
+    ],
+    "outlook": "The 2026 outlook is cautious. Demand should improve if mortgage rates and home turnover normalize, but domestic production is likely to lag total consumer furniture spending because imports, retailer private labels and price-sensitive ecommerce remain powerful. Tariffs may create selective reshoring and nearshoring opportunities, especially for upholstered furniture and products where freight-to-value ratios favor North American production, but they also raise input costs and uncertainty. Expect modest-to-negative volume growth in 2026, better pricing power for differentiated brands, continued consolidation among smaller manufacturers and ongoing supply-chain diversification away from China toward Vietnam, Mexico and other sources.",
+    "themes": [
+      "Import competition and sourcing shift",
+      "Housing affordability drag",
+      "Tariff and trade-policy uncertainty",
+      "Domestic upholstery resilience",
+      "Retailer inventory discipline",
+      "Customization and quick-ship advantage",
+      "Labor cost pressure",
+      "Industry consolidation"
+    ],
+    "data_year": "2025-2026",
+    "sources": [
+      "{'name': 'Baseline IBISWorld report file, Household Furniture Manufacturing in the US, last updated Feb. 21, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/household-furniture-manufacturing-in-the-us.txt'}",
+      "{'name': 'FRED/BLS, Sectoral Output for Manufacturing: Household and Institutional Furniture Manufacturing (NAICS 33712), updated Jun. 3, 2026', 'url': 'https://fred.stlouisfed.org/series/IPUEN33712T300000000'}",
+      "{'name': 'FRED/BLS, Employment for Manufacturing: Household and Institutional Furniture Manufacturing (NAICS 33712), updated Jun. 3, 2026', 'url': 'https://fred.stlouisfed.org/series/IPUEN33712W010000000'}",
+      "{'name': 'BEA via FRED, Personal consumption expenditures: Furniture and furnishings, 2025 annual data, updated Apr. 9, 2026', 'url': 'https://fred.stlouisfed.org/series/DFFFRC1A027NBEA'}",
+      "{'name': 'US Census Bureau, Monthly New Residential Construction, June 2026 release dated Jul. 17, 2026', 'url': 'https://www.census.gov/construction/nrc/current/index.html'}",
+      "{'name': 'FRED/BLS, Producer Price Index by Industry: Household and Institutional Furniture and Kitchen Cabinet Manufacturing, 2026 data', 'url': 'https://fred.stlouisfed.org/data/PCU33713371'}",
+      "{'name': 'La-Z-Boy Incorporated Form 10-K for fiscal year ended Apr. 26, 2025', 'url': 'https://www.sec.gov/Archives/edgar/data/57131/000005713125000029/lzb-20250426.htm'}",
+      "{'name': 'Hooker Furnishings fiscal 2025 results, Apr. 17, 2025', 'url': 'https://investors.hookerfurniture.com/news-releases/news-release-details/hooker-furnishings-reports-improved-sales-fourth-quarter'}",
+      "{'name': 'Furniture Today, Shifting tides: Vietnam dominates U.S. imports as China recedes, Mar. 30, 2026', 'url': 'https://www.furnituretoday.com/research-and-analysis/shifting-tides-vietnam-dominates-u-s-imports-as-china-recedes/'}",
+      "{'name': 'Furniture Today, U.S. furniture exports saw slight rise in 2025, Mar. 30, 2026', 'url': 'https://www.furnituretoday.com/research-and-analysis/u-s-furniture-exports-saw-slight-rise-in-2025/'}",
+      "{'name': 'White House, timber/lumber derivative products tariff fact sheet, Dec. 31, 2025', 'url': 'https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-adjusts-imports-of-timber-lumber-and-their-derivative-products-into-the-united-states/'}"
+    ],
+    "one_sentence": "The industry makes residential and institutional furniture, but 2025 demand is being pulled in opposite directions by growing consumer spending on furniture and furnishings, shrinking domestic manufacturing output, lower furniture imports, and tariff-driven sourcing changes.",
+    "slug": "household-furniture-manufacturing-in-the-us"
+  },
+  {
+    "title": "Housing Developers in the US",
+    "sector": "Construction",
+    "one_liner": "US housing developers remain constrained by 2025-2026 affordability pressure, elevated mortgage rates and incentive-heavy selling, even as structural housing shortages keep long-term demand intact.",
+    "overview": "The industry includes developers and merchant builders that construct new homes on land they own or control, so revenue is tied to land availability, housing starts, mortgage credit, new-home sales prices and buyer confidence. The 2022 baseline showed a $231.0 billion industry after pandemic-era demand and low rates lifted housing starts, but the 2025-2026 market is weaker: mortgage rates remained in the mid-6% range, new-home inventory stayed elevated, and builders increasingly used price cuts, rate buydowns and concessions to maintain absorption. Large public builders are gaining share because they can finance land pipelines, offer mortgage incentives and shift product mix toward smaller or lower-priced homes.",
+    "key_stats": {
+      "market_size": "2025 estimated industry revenue: about $218.1 billion, based on the 2022 IBISWorld baseline forecast path from $231.0 billion in 2022 to $209.7 billion in 2027.",
+      "growth": "2025 estimated industry revenue growth: -1.9%; Census/FRED private residential construction spending averaged $923.1 billion SAAR in 2025, down 0.9% from $931.9 billion SAAR in 2024.",
+      "housing_starts": "June 2026 privately owned housing starts: 1.427 million SAAR, up 3.5% from June 2025; June 2026 single-family starts: 895,000 SAAR, down 0.2% from May 2026.",
+      "building_permits": "June 2026 privately owned permits: 1.367 million SAAR, down 2.3% from June 2025; June 2026 single-family permits: 871,000 SAAR.",
+      "new_home_sales": "June 2026 new single-family home sales: 628,000 SAAR, down 5.6% from June 2025.",
+      "new_home_inventory": "June 2026 new houses for sale: 485,000 units, equal to 9.3 months of supply at the current sales rate.",
+      "pricing": "June 2026 median new-house sales price: $398,300, down 2.7% from June 2025.",
+      "mortgage_rates": "Freddie Mac 30-year fixed mortgage rate: 6.48% on June 4, 2026 and 6.58% on July 23, 2026; the 2025 low was 6.15% on December 31, 2025.",
+      "builder_sentiment": "NAHB/Wells Fargo HMI: 34 in July 2026, with 37% of builders cutting prices and 63% using sales incentives.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 IBISWorld revenue: $231.0 billion in 2022 dollars.",
+      "growth": "2022 industry revenue change: -6.5%; 2017-2022 CAGR: +3.5%.",
+      "profit": "2022 IBISWorld profit: $9.7 billion; 2022 profit margin: 4.2%.",
+      "establishments": "2022 establishments: 64,982.",
+      "enterprises": "2022 enterprises: 64,221.",
+      "employment": "2022 employment: 180,218 workers.",
+      "wages": "2022 wages: $15.1 billion.",
+      "outlook_at_baseline": "2022 IBISWorld forecast: revenue declining at a 2022-2027 CAGR of -1.9% to $209.7 billion in 2027."
+    },
+    "how_it_makes_money": {
+      "home_sales": "Developers earn most revenue from selling completed or under-construction single-family homes, townhomes and planned-community homes to owner-occupiers.",
+      "land_and_lot_value": "Value is created by acquiring raw or partially improved land, obtaining entitlements, installing infrastructure and capturing the spread between developed-home selling prices and land, labor, material, financing and overhead costs.",
+      "ancillary_services": "Large builders add 2025-2026 revenue and margin through mortgage origination, title, insurance, escrow, design-center upgrades and sometimes rental-home or multifamily dispositions.",
+      "incentive_financing": "In 2025-2026, rate buydowns, closing-cost assistance and price concessions are used to convert traffic into signed contracts, reducing gross margin but supporting volume."
+    },
+    "cost_structure": {
+      "land_and_development": "2025-2026 land acquisition, option deposits, lot development, utilities, roads, permitting and impact fees are major upfront costs and determine gross-margin resilience.",
+      "construction_labor_and_materials": "2025-2026 vertical construction costs include lumber, concrete, windows, HVAC, roofing, subcontractor labor and site supervision; larger builders use scale purchasing to offset weaker pricing.",
+      "financing_and_carry": "2025-2026 interest expense, land-carry costs, inventory financing and construction loans matter more while absorption is slower and finished-home inventory is higher.",
+      "sales_and_incentives": "2025-2026 selling costs include broker commissions, model homes, advertising, price discounts, closing-cost concessions and mortgage-rate buydowns.",
+      "overhead": "2025-2026 overhead includes regional offices, design, architecture, engineering, legal, insurance, warranty reserves and corporate SG&A."
+    },
+    "major_players": [
+      "{'name': 'D.R. Horton', 'position': 'Largest US volume builder; fiscal 2025 consolidated revenue was $34.3 billion, with 84,863 homes closed and $31.4 billion of home sales revenue.'}",
+      "{'name': 'Lennar', 'position': 'Large national builder; fiscal 2025 total revenue was $34.2 billion, with 82,583 deliveries and 83,978 new orders.'}",
+      "{'name': 'PulteGroup', 'position': 'Large diversified public builder; 2025 home sale revenue was $16.7 billion and 2025 deliveries were 29,572 homes.'}",
+      "{'name': 'NVR', 'position': 'Asset-light option-focused builder; 2025 homebuilding revenue was $10.1 billion.'}",
+      "{'name': 'Toll Brothers', 'position': 'Luxury-focused builder; fiscal 2025 home sales revenue was $10.8 billion and deliveries were 11,292 homes.'}"
+    ],
+    "current_dynamics": "The 2025-2026 industry is volume-constrained rather than supply-short in the new-home channel: existing-home supply remains tight in many markets, but new-home builders are carrying elevated inventory and must use incentives to meet affordability. June 2026 new-home sales were 5.6% below June 2025, while the June 2026 median new-home price was 2.7% below June 2025, showing that builders are trading price for absorption. Public builders are better positioned than small private developers because they can self-finance land, buy down mortgage rates and adjust floor plans faster.",
+    "whats_growing": [
+      "2025-2026 entry-level and smaller-footprint homes as builders respond to affordability limits.",
+      "2025-2026 build-to-rent and investor-oriented communities where household formation supports rental demand, although some builders are becoming more selective.",
+      "2025-2026 large public builder share because balance sheets, mortgage affiliates and land-option programs are advantages in a high-rate market.",
+      "2025-2026 Sun Belt and lower-cost suburban/exurban communities where land availability allows lower price points, despite localized oversupply in parts of Texas and Florida.",
+      "2025-2026 sales incentives, rate buydowns and spec-home strategies designed to reduce completed inventory."
+    ],
+    "whats_shrinking": [
+      "2025-2026 unaffordable move-up demand because 30-year mortgage rates stayed around the mid-6% range.",
+      "2025-2026 gross margins for many builders as price cuts, rate buydowns and higher land costs dilute profitability.",
+      "2025-2026 small private developer activity where bank credit, land carry and slower absorption are harder to manage.",
+      "2025-2026 high-priced West and coastal demand where monthly payments remain stretched.",
+      "2025 single-family permits, which NAHB reported were down 6% year-to-date in July 2025."
+    ],
+    "recent_developments": [
+      "2025-07-17: NAHB reported the HMI at 33 for July 2025, with 38% of builders cutting prices and 62% using sales incentives.",
+      "2025-12-31: Freddie Mac reported the 30-year fixed mortgage rate at 6.15%, the lowest 2025 reading after starting 2025 near 7%.",
+      "2026-06-04: Freddie Mac reported the 30-year fixed mortgage rate at 6.48%, down from 6.85% one year earlier.",
+      "2026-07-17: Census reported June 2026 housing starts at 1.427 million SAAR, up 3.5% from June 2025, while permits fell 2.3% year over year.",
+      "2026-07-24: Census reported June 2026 new single-family home sales at 628,000 SAAR, down 5.6% from June 2025, with 9.3 months of supply.",
+      "2026-07-2026: NAHB reported July 2026 HMI at 34, with 37% of builders cutting prices and 63% using incentives."
+    ],
+    "outlook": "The 2026 outlook is cautious: demand should improve if mortgage rates move lower, but affordability, land costs, insurance, local fees and buyer confidence remain binding constraints. Industry revenue is likely to remain below the 2022 peak through 2026, with large builders outperforming smaller developers through scale purchasing, land-light option structures and mortgage incentives. Long-term demand is supported by household formation and years of underbuilding, but 2025-2026 profitability depends on disciplined starts, lower cycle times, smaller homes and careful land underwriting.",
+    "themes": [
+      "Affordability reset",
+      "Mortgage-rate sensitivity",
+      "Builder incentives and rate buydowns",
+      "Public-builder share gains",
+      "Land-light development models",
+      "Inventory discipline",
+      "Smaller homes and lower price points",
+      "Sun Belt divergence",
+      "Housing shortage versus payment shock",
+      "Margin compression"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/housing-developers-in-the-us.txt",
+      "https://www.census.gov/construction/nrc/current/index.html",
+      "https://www.census.gov/construction/nrs/current/index.html",
+      "https://www.census.gov/construction/c30/current/index.html",
+      "https://fred.stlouisfed.org/data/PRRESCONS",
+      "https://www.nahb.org/News-and-Economics/Housing-Economics/Indices/Housing-Market-Index",
+      "https://www.nahb.org/news-and-economics/press-releases/2025/07/builder-confidence-edges-up-in-july",
+      "https://www.freddiemac.com/pmms",
+      "https://www.freddiemac.com/pmms/archive?year=2025",
+      "https://newsroom.lennar.com/2025-12-16-Lennar-Reports-Fourth-Quarter-and-Fiscal-2025-Results",
+      "https://ebs.publicnow.com/view/D4262B7094A360E2CA06BAF51708468C2F0A5611",
+      "https://newsroom.pultegroup.com/pultegroup-reports-fourth-quarter-2025-financial-results/",
+      "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/794170/000079417026000037/tol-20260127.htm"
+    ],
+    "one_sentence": "Housing developers buy or control land, entitle and improve lots, build single-family and multifamily homes, and sell completed or near-completed units to households, investors and rental operators.",
+    "slug": "housing-developers-in-the-us"
+  },
+  {
+    "title": "How to Steal Money and (Almost) Get Away With It",
+    "sector": "Business Services",
+    "one_liner": "Employee embezzlement is pushing businesses toward tighter payment controls, forensic accounting, and AI-enabled fraud detection.",
+    "overview": "This brief treats the baseline article as a case study in occupational fraud: a trusted bookkeeper used ACH payments to pay a personal credit card, hid expenses by backdating entries, and nearly avoided detection because internal review was weak. In 2025-2026, the broader U.S. fraud detection and prevention market is being pulled forward by digital payments, BEC, check fraud, AI-enabled scams, and regulatory pressure, while traditional manual controls remain essential for small and midsize businesses.",
+    "key_stats": {
+      "market_size": "2025 U.S. fraud detection and prevention revenue was $11.308 billion; 2026 estimate was $12.911 billion.",
+      "growth": "2026-2033 U.S. fraud detection and prevention CAGR was forecast at 17.7%.",
+      "fraud_loss_context": "2025 FTC-reported U.S. fraud losses were about $16.0 billion, up about 25% from 2024.",
+      "internet_crime_context": "2025 FBI IC3 reported more than 1.0 million complaints and more than $20.0 billion in reported internet-crime losses.",
+      "payments_fraud_context": "2025 AFP survey year: 74% of organizations experienced business email compromise attempts or incidents, and 58% reported check fraud.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 global fraud detection and prevention market estimates ranged from $28.6 billion to $30.65 billion depending on publisher; 2022 U.S. consumer-reported fraud losses were nearly $8.8 billion.",
+      "growth": "2022-2029 global fraud detection and prevention CAGR was reported at 22.8% by Fortune Business Insights; 2023-2032 global CAGR was reported at 24.3% by Allied Market Research.",
+      "case_anchor": "2022 baseline framing: the source case describes a $340,000 insider embezzlement hidden through ACH credit-card payments, prior-year accounting entries, and weak retained-earnings review."
+    },
+    "how_it_makes_money": "Vendors and advisers earn 2025-2026 revenue from fraud analytics software, identity verification, payment monitoring, GRC tools, managed fraud operations, forensic accounting, internal-control reviews, employee hotlines, cyber-fraud investigations, recovery support, and recurring compliance or audit retainers.",
+    "cost_structure": "2025-2026 costs are concentrated in skilled labor for investigators, auditors, data scientists, compliance staff, and customer success; cloud infrastructure and data licensing for real-time analytics; insurance and legal support; sales to regulated enterprises; and continuing R&D for AI, behavioral analytics, identity verification, and payment-risk models.",
+    "major_players": [
+      "ACI Worldwide",
+      "FICO",
+      "Fiserv",
+      "Experian",
+      "LexisNexis Risk Solutions",
+      "NICE Actimize",
+      "SAS Institute",
+      "IBM",
+      "Oracle",
+      "SAP",
+      "TransUnion",
+      "Mastercard",
+      "Visa",
+      "Feedzai",
+      "Signifyd"
+    ],
+    "current_dynamics": "Fraud losses are rising faster than many organizations' control maturity. In 2025-2026, demand is strongest where payment volume, remote work, digital onboarding, and vendor-payment workflows create exploitable gaps. Small businesses still need basic segregation of duties, bank-statement review, monthly closes, and lock periods, while larger firms are buying real-time transaction monitoring, identity orchestration, and AI-based anomaly detection.",
+    "whats_growing": "2025-2026 growth is strongest in AI/ML fraud scoring, behavioral biometrics, digital identity verification, BEC defenses, vendor-payment validation, managed fraud operations, ACH and real-time-payment controls, cloud-based fraud analytics, and forensic reviews triggered by private-equity diligence or business sales.",
+    "whats_shrinking": "2025-2026 pressure is highest on manual-only reconciliation, paper-check dependence, rule-only fraud engines, annual-only accounting review, single-employee bookkeeping control, and fragmented point tools that cannot connect identity, device, payment, and ledger signals.",
+    "recent_developments": [
+      "2026-06: Grand View Research estimated 2025 U.S. fraud detection and prevention revenue at $11.308 billion and 2026 revenue at $12.911 billion.",
+      "2026-06: FTC said 2025 U.S. reported fraud losses reached about $16.0 billion, up about 25% from 2024, with imposter-scam losses at $3.5 billion.",
+      "2026-05: ACFE's 2026 occupational-fraud study covered 2,402 cases, more than $3.4 billion in losses, a $104,000 median loss, and a 12-month median duration.",
+      "2026-05: Nacha summarized AFP 2026 survey findings that 74% of organizations experienced BEC in 2025 and 58% reported check fraud.",
+      "2025-04: AFP reported 79% of surveyed organizations were victims of attempted or actual payments fraud in 2024, with BEC cited by 63%.",
+      "2025: FBI IC3 reported more than 1.0 million complaints and more than $20.0 billion in reported internet-crime losses."
+    ],
+    "outlook": "The 2026-2033 outlook is favorable because fraud exposure is structural: digital payments keep expanding, AI lowers the cost of impersonation, and regulators are demanding stronger controls. Buyers will keep spending on prevention, but adoption will split between large enterprises buying integrated platforms and SMBs adopting outsourced bookkeeping controls, monthly closes, approval workflows, and bank-feed monitoring. The main risk is that fraud budgets remain reactive, rising after losses rather than before them.",
+    "themes": [
+      "Insider theft",
+      "Payment fraud",
+      "Business email compromise",
+      "ACH controls",
+      "Check fraud",
+      "Forensic accounting",
+      "AI fraud detection",
+      "Digital identity",
+      "Segregation of duties",
+      "Monthly close discipline",
+      "Vendor impersonation",
+      "SMB control gaps"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "/home/manishmehta/ui-projects/ibis-industries/txt_full/how-to-steal-money-and-almost-get-away-with-it.txt",
+      "https://www.grandviewresearch.com/horizon/outlook/fraud-detection-and-prevention-market/united-states",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-data-show-people-reported-losing-3-point-5-billion-imposter-scams-2025",
+      "https://www.fbi.gov/file-repository/2025_ic3report.pdf/view",
+      "https://www.acfe.com/about-the-acfe/newsroom-for-media/press-releases/press-release-detail?s=report-to-the-",
+      "https://www.nacha.org/news/business-email-compromise-attempts-rose-sharply-2025-report-finds",
+      "https://www.afponline.org/about/learn-more/press-releases/Details/survey-79-percent-of-organizations-were-victims-of-attempted-or-actual-payments-fraud-activity-in-2024",
+      "https://www.ftc.gov/news-events/news/press-releases/2023/02/new-ftc-data-show-consumers-reported-losing-nearly-88-billion-scams-2022",
+      "https://www.globenewswire.com/news-release/2023/04/11/2644054/0/en/Fraud-Detection-and-Prevention-Market-Size-to-Reach-USD-129-17-Billion-by-2029-Exhibiting-a-CAGR-of-22-8.html",
+      "https://www.alliedmarketresearch.com/press-release/fraud-detection-and-prevention-market.html"
+    ],
+    "one_sentence": "The industry around insider-theft prevention makes money by helping companies detect payment fraud, close accounting-control gaps, monitor transactions, investigate losses, and recover funds before schemes become existential.",
+    "slug": "how-to-steal-money-and-almost-get-away-with-it"
+  },
+  {
+    "title": "Human Resources & Benefits Administration in the US",
+    "sector": "Business Services",
+    "one_liner": "Outsourced HR and benefits administrators help employers handle personnel records, benefits enrollment, compliance, payroll-adjacent workflows and back-office administration.",
+    "overview": "Operators provide day-to-day HR administration, employee benefits administration, regulatory compliance support, record keeping, billing and related office administration on a contract or fee basis. Demand is tied to the number of employing businesses, client headcount, corporate profit, employee benefits complexity and the willingness of small and midsize firms to outsource noncore HR work. The 2022 IBISWorld baseline put industry revenue at $87.322 billion after 2022 growth of 5.1%; applying the baseline 2022-2028 projected CAGR of 1.37% implies roughly $91.0 billion in 2025 revenue. Public HCM providers reported stronger 2025-2026 growth than that low-single-digit industry baseline, helped by pricing, client retention, PEO worksite employees, interest on client funds, and acquisitions, but a softer 2026 labor market limits per-employee transaction volume.",
+    "key_stats": {
+      "market_size": "Estimated 2025 revenue: about $91.0 billion, based on the 2022 IBISWorld revenue baseline of $87.322 billion and the 2022-2028 projected CAGR of 1.37%.",
+      "growth": "Estimated 2025 industry growth: about 1.4%, using the 2022-2028 IBISWorld projected CAGR of 1.37%.",
+      "employment": "BLS industry-productivity series for NAICS 561110 reported 652,000 jobs in 2025, up from 645,300 jobs in 2024.",
+      "profit_margin": "Estimated 2025 EBIT margin: about 10.4%, interpolated from IBISWorld's 2022 margin of 10.7% and 2027 outlook of 10.2%.",
+      "benefits_cost_signal": "KFF reported average 2025 employer-sponsored family health premiums of $26,993, up 6% from 2024, with workers contributing $6,850 on average.",
+      "labor_market_signal": "BLS reported a 2025 annual-average US unemployment rate of 4.3%; the June 2026 seasonally adjusted unemployment rate was 4.2%.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $87.322 billion.",
+      "growth": "2022 growth: 5.1%, following 2021 growth of 12.7% and a 2020 decline of 1.6%.",
+      "profit": "2022 profit: $9.343 billion.",
+      "profit_margin": "2022 profit margin: 10.7%, down from 12.9% in 2017.",
+      "establishments": "2022 establishments: 383,692.",
+      "enterprises": "2022 enterprises: 379,706.",
+      "employment": "2022 employment: 985,918 workers in the IBISWorld industry definition.",
+      "wages": "2022 wages: $51.422 billion.",
+      "product_mix": "2022 revenue mix: HR administration 55.756%, employee benefits administration 24.455%, regulatory compliance administration 9.363%, other services 10.426%."
+    },
+    "how_it_makes_money": "Revenue comes from recurring service fees, per-employee-per-month charges, implementation fees, benefits-enrollment and administration fees, compliance-advisory fees, recordkeeping fees, HR helpdesk and case-management services, and bundled HCM/PEO offerings. Larger providers also earn interest on client funds and may receive insurance agency commissions or zero-margin benefits pass-through revenue in PEO arrangements, although pure benefits administrators generally do not underwrite health insurance risk.",
+    "cost_structure": "The cost base is labor-heavy because service delivery, implementation, compliance support, client success and sales require skilled staff. Key 2025-2026 cost lines include wages and benefits for HR specialists and engineers, cloud hosting and cybersecurity, software development and AI investment, insurance and benefits pass-through costs for PEO models, sales and marketing, professional liability and compliance costs, occupancy, and depreciation/amortization from platform investment and acquisitions. Paychex disclosed that compensation-related expenses were about 55% of total expenses in fiscal 2025, while ADP disclosed $1.388 billion of research and development investment in fiscal 2025.",
+    "major_players": [
+      "ADP: fiscal 2025 total revenue was $20.5609 billion, up 7%; ADP served more than 1.1 million clients in fiscal 2025 and offers payroll, benefits administration, HR management, compliance, insurance and retirement services.",
+      "Paychex: fiscal 2025 total revenue was $5.5717 billion, up 6%; fiscal 2026 total revenue was $6.5120 billion after the Paycor acquisition.",
+      "TriNet: 2025 total revenue was $5.010 billion, with 2025 professional service revenue of $719 million and 2025 insurance service revenue of $4.224 billion.",
+      "Insperity: 2025 revenue was $6.812 billion, up 4%, with 310,089 average worksite employees paid in 2025.",
+      "Alight: a large benefits administration and payroll-adjacent provider focused on health, wealth, wellbeing and cloud HR services for enterprise employers."
+    ],
+    "current_dynamics": "Small and midsize employers remain the core demand engine because compliance, benefits enrollment, leave administration and employee recordkeeping are expensive to maintain internally. The market is shifting toward integrated SaaS platforms, AI-enabled service workflows and bundled payroll-HR-benefits systems. Health-plan inflation is making benefits administration more valuable but also more contentious for clients, while slower 2026 hiring reduces payroll counts and transaction volumes. Scale matters more in 2025-2026 as large vendors use acquisitions, data assets and integrated platforms to widen product suites and defend retention.",
+    "whats_growing": "Cloud HCM suites, self-service benefits enrollment, leave and absence management, compliance automation, AI-assisted HR service delivery, analytics, integrated payroll-benefits-retirement administration, and SMB outsourcing are growing. Employer health-benefit complexity is also increasing demand for plan communication, eligibility management, dependent verification and open-enrollment support in 2025.",
+    "whats_shrinking": "Standalone manual HR paperwork, narrow single-function administrators, paper-based enrollment, basic recordkeeping without software integration, and low-margin providers that cannot absorb wage, cybersecurity and compliance costs are losing share. In 2026, softer hiring and weaker labor-force participation reduce growth in per-employee transaction volume for payroll-adjacent and benefits-administration work.",
+    "recent_developments": [
+      "2024-10: ADP acquired WorkForce Software for workforce management capabilities including time, scheduling, absence management and employee communications.",
+      "2025-04: Paychex completed its acquisition of Paycor HCM at $22.50 per share, expanding upmarket HCM, payroll and talent software capabilities.",
+      "2025-06: Paychex reported fiscal 2025 revenue of $5.5717 billion, up 6%, and said Paycor contributed about 2% of fiscal 2025 revenue after closing.",
+      "2025-10: KFF reported 2025 average employer-sponsored family health premiums of $26,993, up 6% from 2024, raising benefits-cost pressure for employers.",
+      "2025-11: ADP launched ADP WorkForce Suite across Workforce Now, Lyric HCM and Global Payroll after its 2024 WorkForce Software acquisition.",
+      "2026-05: The US Department of Labor issued 2026 opinion letters on FLSA overtime exemptions, bonuses and compensable time, reinforcing demand for compliance support."
+    ],
+    "outlook": "Revenue should keep growing in 2026-2028, but likely at low-single-digit industry rates unless acquisitions and SaaS upsell lift reported vendor revenue above the underlying market. Demand is supported by continuing small-business formation, employer benefits complexity, multi-state labor rules and the shift from point solutions to integrated HCM platforms. Margin pressure is likely to persist because wages, software development, cybersecurity and benefits-related service costs are rising, and clients remain price sensitive. The best-positioned operators will combine automated HR workflows with credible compliance expertise and high-retention recurring contracts.",
+    "themes": [
+      "HR outsourcing becomes normal for small and midsize employers",
+      "Benefits inflation raises administrative complexity",
+      "Cloud HCM platforms absorb manual back-office work",
+      "AI and analytics become table stakes in HR service delivery",
+      "Compliance uncertainty supports advisory demand",
+      "Vendor consolidation favors scaled platforms"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'Local IBISWorld baseline file, Human Resources & Benefits Administration in the US, last updated 2022-06-29', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/human-resources-and-benefits-administration-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Census Bureau Service Annual Survey, Total Revenue for Office Administrative Services, 2022', 'url': 'https://fred.stlouisfed.org/series/REVEF5611ALLEST'}",
+      "{'name': 'FRED / BLS Industry Productivity, NAICS 561110 employment through 2025', 'url': 'https://fred.stlouisfed.org/data/IPUPN561110W200000000'}",
+      "{'name': 'BLS CPS Latest Numbers, 2025 annual average and June 2026 labor-force indicators', 'url': 'https://www.bls.gov/cps/latest-numbers.htm'}",
+      "{'name': 'KFF 2025 Employer Health Benefits Survey release, 2025 premiums', 'url': 'https://www.kff.org/series/employer-health-benefits-survey/'}",
+      "{'name': 'ADP fiscal 2025 Form 10-K, revenue, clients, HRO and R&D disclosures', 'url': 'https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/adp-20250630.htm'}",
+      "{'name': 'Paychex fiscal 2025 Form 10-K and Paycor acquisition disclosures', 'url': 'https://www.sec.gov/Archives/edgar/data/723531/000095017025095300/payx-20250531.htm'}",
+      "{'name': 'Paychex fiscal 2026 Form 10-K, revenue by service line', 'url': 'https://www.sec.gov/Archives/edgar/data/723531/000119312526307785/payx-20260531.htm'}",
+      "{'name': 'TriNet 2025 Form 10-K, 2025 revenue and insurance-cost pressure', 'url': 'https://www.sec.gov/Archives/edgar/data/937098/000093709826000010/tnet-20251231.htm'}",
+      "{'name': 'Insperity 2025 Form 10-K summary, 2025 revenue and worksite employees', 'url': 'https://ebs.publicnow.com/view/7CD234A306011CB32764E2270E9DCCA529C1B0D1'}",
+      "{'name': 'ADP WorkForce Software acquisition release, 2024-10-15', 'url': 'https://mediacenter.adp.com/2024-10-15-ADP-Acquires-WorkForce-Software'}",
+      "{'name': 'U.S. Department of Labor Wage and Hour Division opinion letters release, 2026-05-29', 'url': 'https://www.dol.gov/newsroom/releases/whd/whd20260529-0?lang=en'}"
+    ],
+    "one_sentence": "The industry is a mature business-services market whose 2025 revenue is estimated near $91.0 billion, supported by small-business outsourcing, complex benefits rules and cloud HCM platforms, while slower 2026 hiring and higher health-plan costs are pressuring transaction growth and margins.",
+    "slug": "human-resources-and-benefits-administration-in-the-us"
+  }
+]

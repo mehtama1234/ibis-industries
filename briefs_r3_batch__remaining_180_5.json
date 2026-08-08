@@ -1,0 +1,420 @@
+[
+  {
+    "title": "Urgent Care Centers",
+    "sector": "Healthcare",
+    "one_liner": "Walk-in clinics are expanding as a lower-cost, same-day alternative to emergency departments and overloaded primary care offices.",
+    "overview": "Urgent care centers sit between primary care and hospital emergency departments, treating non-life-threatening illnesses and injuries with extended hours, walk-in access, X-rays, lab testing and, increasingly, online scheduling and telehealth triage. The 2022 IBIS baseline showed a $45.9 billion U.S. industry after COVID-19 testing and vaccination lifted volumes, while current 2025-2026 sources show the physical footprint continuing to expand: UCA reported 15,274 U.S. urgent care centers and 185 million-plus annual urgent care visits, while Definitive Healthcare counted 11,877 active urgent care clinics in June 2025 under a narrower facility definition. Demand is supported by emergency-department overcrowding, physician access shortages, payer steering to lower-cost care sites, and consumer preference for evening and weekend care, but margins are pressured by clinician wages, payer mix, reimbursement rules and competition from primary care groups, retail clinics, virtual care and hybrid ER-urgent care sites.",
+    "key_stats": {
+      "market_size": "2024 U.S. urgent care market estimated at $46.7 billion by HIDA; Grand View Research separately estimated the U.S. urgent care centers market at $36.4 billion in 2025 under a narrower market definition.",
+      "growth": "HIDA projected $55.2 billion by 2030 from $46.7 billion in 2024, implying about 2.8% CAGR for 2024-2030; Grand View Research projected 9.8% CAGR for 2026-2033 from its 2025 base.",
+      "centers": "UCA reported 15,274 U.S. urgent care centers in 2026 data; Definitive Healthcare counted 11,877 active U.S. urgent care clinics as of June 2025.",
+      "visits": "UCA reported 185 million-plus annual urgent care patient visits and average daily visit volume of 33.96 patients per center in 2025.",
+      "baseline_profit_margin": "IBIS baseline reported 22.1% profit margin in 2022.",
+      "payer_mix": "IBIS baseline reported 2022 revenue mix of 52.9% private insurers, 24.3% government insurers, 8.7% patient out-of-pocket and 14.1% other patient care revenue.",
+      "access_pressure": "KFF reported 8,467 U.S. primary care HPSA designations and 92,285,375 people in designated HPSAs as of December 31, 2025.",
+      "ed_pressure": "CDC reported 155.4 million U.S. emergency department visits in 2022, the latest FastStats source cited in 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$45.9 billion revenue in 2022, in 2022 dollars, from the IBIS baseline file.",
+      "growth": "0.5% revenue growth in 2022 and 7.1% annualized revenue growth over 2017-2022 in the IBIS baseline file.",
+      "profit": "$10.1 billion profit and 22.1% profit margin in 2022.",
+      "establishments": "9,928 establishments in 2022.",
+      "enterprises": "5,927 enterprises in 2022.",
+      "employment": "215,435 employees in 2022.",
+      "wages": "$13.0 billion total wages in 2022.",
+      "products": "2022 revenue was 71.5% patient care services, 12.7% retail sales of healthcare products and equipment, and 15.8% other revenue."
+    },
+    "how_it_makes_money": "Centers bill commercial insurers, Medicare, Medicaid, workers compensation carriers, employers and self-pay patients for walk-in exams, minor injury and illness treatment, X-rays, lab tests, vaccinations, physicals, drug screens, occupational medicine, infection testing, telehealth visits and ancillary products. Higher-performing operators add employer services, online booking, in-network payer contracts, hospital referrals, occupational health and revenue-cycle systems that raise visit volume and collections per visit.",
+    "cost_structure": "The largest cost is clinical labor, including physicians, nurse practitioners, physician assistants, medical assistants, X-ray technicians and front-desk staff. Other major costs are medical supplies, vaccines and testing materials, diagnostic equipment, rent for retail-accessible sites, malpractice and business insurance, billing and collection expenses, EHR and scheduling software, marketing, accreditation, compliance and corporate overhead. The 2022 IBIS baseline profit margin was 22.1%, while Concentra reported FY2025 adjusted EBITDA margin of 20.0% in its occupational-health-heavy urgent care model.",
+    "major_players": [
+      "Concentra: occupational-health-heavy operator with 628 occupational health centers and 411 onsite health clinics at FY2025 year-end.",
+      "MedExpress / Optum / UnitedHealth Group: large urgent care chain under Optum, cited by 2026 chain datasets as one of the largest U.S. operators.",
+      "GoHealth Urgent Care: health-system partnership model and one of the largest U.S. urgent care brands by site count in 2026 chain datasets.",
+      "American Family Care: franchise-led urgent care operator that announced its 400th clinic on April 17, 2025.",
+      "CityMD / Summit Health / VillageMD / Walgreens: dense Northeast urgent care footprint with virtual care and occupational health services.",
+      "CareNow / HCA Healthcare: hospital-system-owned urgent care network expanding through acquisitions in Texas, the Carolinas and other markets.",
+      "NextCare, FastMed / Marathon Health, Patient First and regional hospital-affiliated systems: meaningful scaled and regional competitors."
+    ],
+    "current_dynamics": "The industry remains in growth mode but is maturing. Center counts and visits are rising, yet definitions differ across datasets because urgent care overlaps with occupational medicine, retail clinics, freestanding EDs and hospital outpatient sites. Payers still prefer urgent care for low-acuity cases because it is cheaper than the ED, and hospitals are using urgent care networks to capture referrals and manage access. At the same time, operators face higher clinician wages, denials and prior-authorization friction, seasonal respiratory swings, competition for high-traffic retail real estate and pressure to prove that hybrid ER-urgent care models do not confuse patients or inflate bills.",
+    "whats_growing": "Hospital-affiliated urgent care networks, employer and occupational medicine services, online reservations, telehealth triage, hybrid ER-urgent care models, X-ray and lab-enabled sites, suburban and fast-growing Sun Belt locations, urgent care partnerships with health systems, and de novo expansion by franchise and private-equity-backed groups.",
+    "whats_shrinking": "COVID-19 testing and vaccination windfalls, purely independent one-site operators' share of visible market growth, patient tolerance for long waits, standalone urgent care models without payer or health-system relationships, and low-acuity emergency-department use where insurers and providers successfully steer patients to lower-cost sites.",
+    "recent_developments": [
+      "Apr 17, 2025: American Family Care announced its 400th urgent care clinic and said it had opened 104 locations in the prior 24 months.",
+      "Jun 2025: HIDA estimated the U.S. urgent care market at $46.7 billion in 2024 and projected $55.2 billion by 2030.",
+      "Sep 2025: UCA reported 15,239 open urgent care centers and said 40% were hospital-owned or hospital-affiliated.",
+      "Jan 28, 2026: Concentra reported preliminary FY2025 revenue of $2.163 billion, up 13.9% from FY2024, with 628 occupational health centers at year-end.",
+      "Jun 2, 2026: HCA Healthcare announced the acquisition of 17 urgent care clinics across the Carolinas from Urgent Care Group, including the first HCA CareNow urgent care clinics in South Carolina.",
+      "Aug 2026: HCA Healthcare rebranded 40 Texas MedClinic locations as CareNow or HCA CareNow, expanding CareNow to more than 240 clinics across Texas and 10 other states."
+    ],
+    "outlook": "The 2026 outlook is positive but more operationally demanding than the COVID-era boom. Demand should keep rising as primary care access remains constrained, the population ages, and payers steer low-acuity care away from the ED. Growth will come from new sites, hospital affiliations, occupational health, digital scheduling and hybrid triage models rather than pandemic testing. Margin performance will depend on clinician productivity, reimbursement discipline, payer mix and the ability to keep visit times short while adding diagnostics and employer services.",
+    "themes": [
+      "Site-of-care shift from emergency departments to lower-cost outpatient settings",
+      "Primary care shortage and same-day access gaps",
+      "Hospital-system affiliation and consolidation",
+      "Occupational health and employer services diversification",
+      "Telehealth triage and online scheduling",
+      "Hybrid ER-urgent care models",
+      "Retail real estate and suburban expansion",
+      "Clinician wage and staffing pressure",
+      "Payer steering and reimbursement scrutiny"
+    ],
+    "data_year": "2026, with 2025 current operating data and 2022 IBIS baseline data",
+    "sources": [
+      "Baseline file: /home/manishmehta/ui-projects/ibis-industries/txt_full/urgent-care-centers.txt",
+      "Urgent Care Association urgent care data, 2026 crawl: https://urgentcareassociation.org/about/urgent-care-data/",
+      "UCA urgent care by the numbers, September 2025: https://thecheckin.urgentcareassociation.org/urgent-care-by-the-numbers/",
+      "Definitive Healthcare urgent care centers by state, June 2025: https://www.definitivehc.com/resources/healthcare-insights/us-urgent-care-centers-by-state",
+      "HIDA U.S. Urgent Care Centers Growth & Outlook, June 2025: https://www.hida.org/distribution/markets/urgent-care/growth-outlook.aspx",
+      "Grand View Research U.S. urgent care centers market, 2025 estimate and 2026-2033 forecast: https://www.grandviewresearch.com/industry-analysis/us-urgent-care-market",
+      "CDC FastStats Emergency Department Visits, 2022 data: https://www.cdc.gov/nchs/fastats/emergency-department.htm",
+      "KFF Primary Care HPSAs, December 31, 2025: https://www.kff.org/other-health/state-indicator/primary-care-health-professional-shortage-areas-hpsas/",
+      "Concentra FY2025 investor presentation filed 2026: https://www.sec.gov/Archives/edgar/data/2014596/000201459626000027/concentrainvestorpresent.htm",
+      "American Family Care 400th clinic announcement, April 17, 2025: https://www.prnewswire.com/news-releases/american-family-care-celebrates-opening-of-400th-urgent-care-clinic-302431508.html",
+      "HCA Healthcare Carolinas urgent care acquisition, June 2, 2026: https://www.tridenthealthsystem.com/about-us/newsroom/hca-healthcare-acquires-17-urgent-care-clinics-across-the-carolinas",
+      "HCA/Texas MedClinic rebrand report, August 2026: https://www.expressnews.com/business/article/texas-medclinic-hca-carenow-rebrand-22372056.php"
+    ],
+    "one_sentence": "U.S. urgent care centers provide unscheduled, non-emergency outpatient care, earning most revenue from insured patient visits, occupational health, diagnostics, vaccines, basic procedures and ancillary product sales.",
+    "slug": "urgent-care-centers"
+  },
+  {
+    "title": "Used Car Dealers in the US",
+    "sector": "Retail",
+    "one_liner": "Independent used car dealers sell pre-owned cars, SUVs, vans and light trucks, with financing, warranties and repair services adding higher-margin revenue.",
+    "overview": "Used car dealers retail pre-owned passenger vehicles and light trucks, generally excluding franchised new-car dealers that also sell used units. The business is mature and fragmented, with most revenue tied to vehicle resale and smaller but important contributions from parts, repair, warranties, financing and buy-here-pay-here programs. After the 2021-2023 pricing surge, 2024 output fell sharply, then recovered modestly in 2025 as total used-vehicle transactions improved. In 2026, dealers face a mixed market: used retail volumes remain large, but affordability, credit costs and inventory acquisition prices pressure unit velocity and margins.",
+    "key_stats": {
+      "market_size": "2025 BLS sectoral output for NAICS 441120 was $162.1 billion, up from $158.6 billion in 2024.",
+      "growth": "2025 sectoral output grew 2.2% year over year after a 12.1% decline in 2024.",
+      "unit_sales": "2025 total US used-vehicle sales were estimated at 38.6 million, up 1.3 million units from 2024; independent dealers sold 9.8 million units in 2025.",
+      "forecast_volume": "Cox Automotive's June 2026 forecast called for 38.4 million total used-vehicle sales in 2026, down 0.8% versus 2025, and 20.4 million used retail sales, down 0.5%.",
+      "pricing": "Average used listing price was $27,027 in June 2026, while used-vehicle inventory was 2.14 million units and days' supply was 47.",
+      "credit": "Average used auto loan rate was 11.43% in Q1 2026, versus 6.39% for new-car loans; Dealertrack's prime used auto loan rate was 12.4% in June 2026.",
+      "fleet_age": "Average US light-vehicle age rose to 12.8 years in 2025, supporting used demand and repair revenue.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "IBISWorld baseline revenue was $146.5 billion in 2022, in 2022 dollars.",
+      "growth": "IBISWorld baseline revenue growth was 6.0% in 2022 and 2.4% annualized from 2017 to 2022.",
+      "profit": "IBISWorld baseline profit was $4.1 billion in 2022, a 2.8% margin.",
+      "establishments": "IBISWorld baseline establishments were 145,369 in 2022, with 142,547 enterprises and 304,035 employees.",
+      "product_mix": "IBISWorld baseline 2022 revenue mix was 66.7% used vans, minivans, trucks and buses; 19.3% used cars; 9.6% parts and repair; and 4.4% financing and insurance."
+    },
+    "how_it_makes_money": "Dealers buy vehicles from auctions, wholesalers, lease returns, fleets, trade-ins and direct consumer purchases, recondition them, and earn gross margin on resale. Additional revenue comes from service and parts, extended warranties, finance reserve income, loan origination or loan-sale economics, and BHPH interest and fees for higher-risk borrowers.",
+    "cost_structure": {
+      "inventory": "Vehicle acquisition is the dominant 2025-2026 cost, with wholesale prices and auction supply setting gross margin before reconditioning.",
+      "reconditioning_and_transport": "Inspection, repairs, detailing, title work, logistics and lot-ready preparation remain material variable costs; CarMax highlighted reconditioning-cost reduction as a 2026 strategic priority.",
+      "labor": "IBISWorld baseline wages were $9.9 billion in 2022; BLS reported motor vehicle and parts dealer average hourly earnings of $33.68 in May 2026.",
+      "floorplan_and_credit": "High 2025-2026 rates raise inventory carrying costs and make consumer financing more expensive, especially for subprime-heavy stores.",
+      "selling_and_overhead": "Advertising, digital listings, rent or lot costs, compliance, insurance, charge-offs and SG&A absorb much of gross profit; CarMax's Q1 fiscal 2027 cost of sales was 89.3% of revenue."
+    },
+    "major_players": [
+      "CarMax",
+      "Carvana",
+      "America's Car-Mart",
+      "DriveTime",
+      "Independent buy-here-pay-here and local used-vehicle dealers"
+    ],
+    "current_dynamics": "The 2025-2026 market is not supply-starved like 2021, but affordable inventory remains difficult because late-model off-lease supply is still rebuilding and wholesale values have firmed. Dealers are balancing slower monthly payments, elevated used-loan APRs and consumer affordability against higher-priced wholesale inventory. Online retail and omnichannel workflows are now core competitive capabilities, while BHPH and subprime finance are regaining importance as prime affordability weakens.",
+    "whats_growing": [
+      "Independent dealer sales, which rose to 9.8 million vehicles in 2025 from 9.7 million in 2024.",
+      "Digital and omnichannel sales models, shown by CarMax reporting that digital capabilities supported 84% of Q1 fiscal 2027 retail unit sales.",
+      "Online pure-play scale, with Carvana selling 596,641 retail units in 2025, up 43% year over year, and 187,393 retail units in Q1 2026, up 40% year over year.",
+      "Subprime and BHPH relevance, with subprime borrowers making up 15.31% of Q4 2025 vehicle financing and BHPH/other taking 32.6% of independent dealer financing in the 2025 NIADA report.",
+      "Used EV volume, with Cox reporting 35,253 used EV sales in June 2026."
+    ],
+    "whats_shrinking": [
+      "2026 total used-vehicle sales are forecast at 38.4 million units, down 0.8% versus 2025.",
+      "2026 used retail sales are forecast at 20.4 million units, down 0.5% versus 2025.",
+      "Certified pre-owned volume is forecast at 2.6 million units in 2026, down 1.7% versus 2025.",
+      "Dealer margin cushion is shrinking where wholesale values rise faster than retail affordability.",
+      "Traditional low-information selling advantages are shrinking as pricing, history reports and fee disclosures become more transparent online."
+    ],
+    "recent_developments": [
+      "2025-05-21: S&P Global Mobility reported average US light-vehicle age rose to 12.8 years, keeping replacement and repair demand elevated.",
+      "2026-02-18: Carvana reported 596,641 retail units sold in 2025, up 43% year over year, and $20.322 billion of 2025 revenue.",
+      "2026-03-04: NIADA reported independent used dealers sold 9.8 million vehicles in 2025 and total used sales reached an estimated 38.6 million.",
+      "2026-06-17: CarMax reported Q1 fiscal 2027 net revenue of $8.0 billion and 230,293 retail used units, with comparable used unit sales down 0.8%.",
+      "2026-06-24: Cox Automotive forecast 2026 used sales of 38.4 million and used retail sales of 20.4 million, both slightly below 2025.",
+      "2026-07-09: Cox Automotive's Manheim index showed June 2026 wholesale used-vehicle prices up 2.1% year over year to 212.9."
+    ],
+    "outlook": "Revenue should remain broadly stable through 2026 because used vehicles remain necessary, new vehicles remain expensive and the US vehicle fleet is aging. Unit growth is likely limited by affordability and high APRs, so dealers with disciplined sourcing, fast turn, digital acquisition, reconditioning efficiency and financing capabilities should outperform. Margin risk is highest for dealers that buy inventory into rising wholesale prices but cannot pass costs through to payment-constrained buyers.",
+    "themes": [
+      "Affordability pressure",
+      "Wholesale price volatility",
+      "Digital retailing",
+      "Inventory sourcing",
+      "Subprime and BHPH finance",
+      "Aging vehicle fleet",
+      "Used EV adoption",
+      "Margin compression"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'name': 'IBISWorld baseline file', 'url': '/home/manishmehta/ui-projects/ibis-industries/txt_full/used-car-dealers-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Bureau of Labor Statistics sectoral output for NAICS 441120', 'url': 'https://fred.stlouisfed.org/series/IPUHN441120T300000000'}",
+      "{'name': 'NIADA Used Car Industry Report announcement, March 4 2026', 'url': 'https://niada.com/dashboard/niadas-ucir-shows-independent-used-sales-top-9-8-million-in-2025/'}",
+      "{'name': 'Cox Automotive 2026 forecasts, updated June 24 2026', 'url': 'https://www.coxautoinc.com/insights/2026-cox-automotive-forecasts-full-year/'}",
+      "{'name': 'Cox Automotive Auto Market Snapshot, updated August 5 2026', 'url': 'https://www.coxautoinc.com/market-snapshot/'}",
+      "{'name': 'Experian average auto loan interest rates, July 13 2026', 'url': 'https://www.experian.com/blogs/ask-experian/average-car-loan-interest-rates-by-credit-score/'}",
+      "{'name': 'S&P Global Mobility vehicle age release, May 21 2025', 'url': 'https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility'}",
+      "{'name': 'CarMax Q1 fiscal 2027 results, June 17 2026', 'url': 'https://investors.carmax.com/news-and-events/news/news-details/2026/CarMax-Reports-First-Quarter-Fiscal-2027-Results/'}",
+      "{'name': 'Carvana full-year 2025 results, February 18 2026', 'url': 'https://press.carvana.com/carvana-announce-record-fourth-quarter-and-full-year-2025-results/'}",
+      "{'name': 'Vehicle Remarketing / Cox Automotive Manheim index, July 9 2026', 'url': 'https://www.vehicleremarket.com/news/manheim-index-shows-used-vehicle-wholesale-prices-up-21-in-june'}"
+    ],
+    "one_sentence": "The industry normalized after the pandemic price spike, with 2025 output up modestly but 2026 demand constrained by high used-car loan rates, tight affordable inventory and rising wholesale costs.",
+    "slug": "used-car-dealers-in-the-us"
+  },
+  {
+    "title": "Used Car Parts Wholesaling in the US",
+    "sector": "Transport & Logistics",
+    "one_liner": "Used auto-parts wholesalers turn wrecked, donated and end-of-life vehicles into lower-cost replacement parts for repair shops, insurers, dealers, rebuilders and DIY buyers.",
+    "overview": "This industry consists mainly of auto recyclers and dismantlers that acquire damaged or end-of-life vehicles, remove usable parts, inventory them and sell them wholesale or directly into the automotive aftermarket. The 2022 IBISWorld baseline valued the dataset-defined market at $6.5 billion in revenue after 6.0% growth in 2022, with low concentration but rising consolidation. Current conditions are mixed: S&P Global Mobility reported the average US light vehicle age reached 12.8 years in 2025 and vehicles in operation reached 289 million, both favorable for replacement demand. CCC reported in 2025 that total-loss claim share was on pace to exceed the 2024 record, adding salvage supply, while Cox Automotive estimated 2025 US new-vehicle sales at 16.3 million, up 1.8% from 2024, which gradually refreshes the vehicle parc and can reduce near-term used-part intensity.",
+    "key_stats": {
+      "market_size": "$6.7 billion estimated 2025 dataset-aligned revenue, interpolated from the 2022 IBISWorld baseline of $6.5 billion and its 2027 forecast of $6.9 billion; broader 2026 NAICS used motor vehicle parts wholesaler profiles cite about $14.8 billion annual revenue.",
+      "growth": "1.1% forecast CAGR for 2022-2027 in the baseline; current 2025-2026 indicators point to low-single-digit growth rather than a breakout.",
+      "profit_margin": "5.5% EBIT margin in 2022 baseline, projected to reach 6.1% by 2027 baseline.",
+      "establishments": "2,905 establishments in 2022 baseline, projected at 2,984 in 2027 baseline.",
+      "employment": "24,246 employees in 2022 baseline, projected at 25,875 in 2027 baseline.",
+      "vehicle_age": "12.8 years average US light-vehicle age in 2025, a record high.",
+      "vehicles_in_operation": "289 million US vehicles in operation in 2025.",
+      "new_vehicle_sales": "16.3 million US new-vehicle sales in 2025, up 1.8% from 2024; Cox forecast 15.8 million in 2026, down 2.9% from 2025.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$6.5 billion revenue in 2022 dollars.",
+      "growth": "6.0% revenue growth in 2022; 1.0% annualized revenue growth over 2017-2022.",
+      "profit": "$358 million profit in 2022.",
+      "profit_margin": "5.5% in 2022.",
+      "enterprises": "2,698 enterprises in 2022.",
+      "establishments": "2,905 establishments in 2022.",
+      "employment": "24,246 employees in 2022.",
+      "wages": "$1.029 billion total wages in 2022.",
+      "outlook": "$6.9 billion projected 2027 revenue and 1.1% 2022-2027 CAGR."
+    },
+    "how_it_makes_money": "Operators buy or receive wrecked, salvaged, donated and end-of-life vehicles, dismantle them, test and grade usable components, and sell parts such as engines, transmissions, body panels, electronics and accessories to repair shops, body shops, insurers, dealers, remanufacturers, online marketplaces and end users. Secondary revenue can come from cores, scrap metal and catalytic-converter metals, though the dataset excludes companies primarily engaged in scrap, tires or remanufacturing.",
+    "cost_structure": "The largest costs are salvage-vehicle acquisition, yard labor, dismantling, warehousing, inventory systems, freight, environmental compliance and selling expenses. In the 2022 baseline, wages were $1.029 billion, equal to about 15.8% of revenue, and profit margin was 5.5%. As a public comparable, LKQ reported 2025 cost of goods sold at 61.4% of revenue and SG&A at 27.9% of revenue, showing how parts sourcing, logistics and sales infrastructure dominate economics at scale.",
+    "major_players": [
+      "LKQ Corporation",
+      "Schnitzer Steel Industries / Radius Recycling-related auto recycling operations",
+      "Pacific Avenue Capital Partners / LKQ Self Service assets acquired in 2025",
+      "Regional auto recyclers and dismantlers",
+      "Online salvage and used-parts marketplaces"
+    ],
+    "current_dynamics": "Demand is being pulled upward by the 2025 record 12.8-year average vehicle age, high vehicle prices, aging collision-claim mix and steady long-run VMT growth. Supply is helped by elevated total-loss frequency, but yards face volatility in auction prices for salvage vehicles, metal values and labor. Larger networks are using inventory data, interchange databases, e-commerce and insurer/shop relationships to gain share, while smaller yards remain exposed to local sourcing and working-capital swings.",
+    "whats_growing": "Insurance-backed recycled part usage, e-commerce parts sourcing, late-model collision parts from total-loss vehicles, specialty and hard-to-find components for older vehicles, inventory-management software, and demand from cost-sensitive repair channels are growing in 2025-2026.",
+    "whats_shrinking": "Pure walk-in salvage-yard models, low-value parts with high storage or shipping costs, some older passenger-car categories as cars decline relative to light trucks, and asset-heavy self-service formats are under pressure. LKQ's 2025 sale of its Self Service segment highlights the pressure on commodity-sensitive, yard-intensive models.",
+    "recent_developments": [
+      "2025-05: S&P Global Mobility reported US light vehicles reached a record average age of 12.8 years and vehicles in operation reached 289 million.",
+      "2025-09: FHWA's 2025 long-term forecast projected total US VMT growth of 0.6% annually from 2023 to 2053, supporting long-run wear-and-repair demand.",
+      "2025-09: LKQ completed the sale of its Self Service segment for a $410 million enterprise value, citing portfolio simplification and commodity-price exposure.",
+      "2025-12: Cox Automotive estimated 2025 US new-vehicle sales at 16.3 million, up 1.8% from 2024 and the best result since 2019.",
+      "2025-Q4: CCC reported 2025 total-loss claim share was poised to exceed the 2024 record by about 1 percentage point, with more than 72% of total-loss valuations on vehicles 7 years or older.",
+      "2026-06: Cox Automotive kept its 2026 US new-vehicle forecast at 15.8 million, down 2.9% from 2025, with first-half 2026 sales tracking 3.6% lower year over year."
+    ],
+    "outlook": "The outlook is stable but not fast-growing. Used parts should benefit from an older vehicle parc, repair affordability pressure and elevated total-loss supply, while stronger 2025 new-vehicle sales and improving OEM/aftermarket availability restrain demand. Scale advantages should keep consolidation moving: operators with national inventory visibility, insurer relationships, delivery density and disciplined salvage bidding are likely to outperform local yards. A reasonable dataset-aligned outlook is revenue near $6.9 billion by 2027, consistent with the baseline 1.1% 2022-2027 CAGR, with margins depending heavily on salvage acquisition costs, labor productivity and scrap-metal prices.",
+    "themes": [
+      "Aging vehicle fleet",
+      "Repair affordability",
+      "Salvage supply from total losses",
+      "Industry consolidation",
+      "Digital inventory and e-commerce",
+      "Insurer recycled-parts acceptance",
+      "Scrap and commodity-price volatility",
+      "EV and hybrid parts complexity"
+    ],
+    "data_year": "2026",
+    "sources": [
+      "{'title': 'IBISWorld baseline file: Used Car Parts Wholesaling in the US, last updated July 31, 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/used-car-parts-wholesaling-in-the-us.txt'}",
+      "{'title': 'S&P Global Mobility, U.S. Vehicle Age Rises Again to 12.8 Years in 2025', 'url': 'https://press.spglobal.com/2025-05-21-U-S-Vehicle-Age-Rises-Again-to-12-8-Years-in-2025%2C-According-to-S-P-Global-Mobility'}",
+      "{'title': 'FHWA, 2025 Forecasts of Vehicle Miles Traveled', 'url': 'https://www.fhwa.dot.gov/policyinformation/tables/vmt/vmt_forecast_sum.cfm'}",
+      "{'title': 'Cox Automotive, December 2025 U.S. Auto Sales Forecast', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-forecast-dec-2025-u-s-auto-sales-forecast/'}",
+      "{'title': 'Cox Automotive, June 2026 U.S. Auto Sales Forecast', 'url': 'https://www.coxautoinc.com/insights/cox-automotive-forecast-june-2026-u-s-auto-sales-forecast/'}",
+      "{'title': 'CCC Intelligent Solutions, Q4 2025 Crash Course: Auto Claims & Repair Trends', 'url': 'https://www.cccis.com/reports/crash-course-2025/q4'}",
+      "{'title': 'LKQ Corporation 2025 Form 10-K', 'url': 'https://www.sec.gov/Archives/edgar/data/1065696/000106569626000012/lkq-20251231.htm'}",
+      "{'title': 'Vertical IQ, Used Motor Vehicle Parts Wholesalers', 'url': 'https://verticaliq.com/product/used-motor-vehicle-parts-wholesalers/'}"
+    ],
+    "one_sentence": "In 2025-2026, the industry is supported by a record-old US vehicle fleet and high repair affordability pressure, but growth is capped by stronger new-vehicle sales, collision-claim mix shifts, scrap-price volatility and consolidation around scaled recyclers.",
+    "slug": "used-car-parts-wholesaling-in-the-us"
+  },
+  {
+    "title": "Used Goods Stores in the US",
+    "sector": "Retail",
+    "one_liner": "Thrift, resale and pawn retailers are benefiting from value-seeking shoppers and sustainability-driven resale demand, while online marketplaces and branded recommerce intensify competition.",
+    "overview": "Used goods stores collect, buy, sort and resell secondhand merchandise including clothing, footwear, accessories, furniture, homewares, entertainment goods, antiques, collectibles and pawned items. The 2022 IBISWorld baseline sized industry revenue at $25.0 billion after a pandemic recovery, and current Census/FRED monthly retail-sales data show used merchandise stores still operating at a roughly mid-$20-billion annual run-rate in 2026, with May 2026 sales of $2.262 billion. The broader secondhand apparel market is growing faster than conventional apparel retail, but much of the fastest growth is online and social-commerce driven, so physical operators are pushing better merchandising, e-commerce, donation capture and specialty formats.",
+    "key_stats": {
+      "market_size": "Approximately $26 billion-$27 billion in 2025 US used merchandise store retail sales, using Census/FRED monthly used merchandise store sales as the store-channel anchor; May 2026 sales were $2.262 billion.",
+      "growth": "Low-single-digit store-channel growth in 2025-2026, with stronger resale demand context: US secondhand apparel grew 14% in 2024 and the US secondhand apparel market grew nearly 4x faster than broader retail clothing in 2025.",
+      "latest_monthly_sales": "$2.262 billion in May 2026, not seasonally adjusted, for US used merchandise stores.",
+      "broader_resale_market": "US secondhand apparel is projected by ThredUp/GlobalData to reach $78.8 billion by 2030, growing about 7.3% annually from 2025 to 2030.",
+      "establishments_baseline": "88,672 establishments in 2022, per the IBISWorld baseline.",
+      "profit_margin_baseline": "5.6% EBIT margin in 2022, per the IBISWorld baseline.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "$25.0 billion in 2022 revenue, in 2022 dollars.",
+      "growth": "-1.2% in 2022, after a 3.5% annualized increase over 2017-2022.",
+      "profit": "$1.4 billion in 2022 profit.",
+      "profit_margin": "5.6% in 2022.",
+      "employment": "294,330 workers in 2022.",
+      "establishments": "88,672 establishments in 2022.",
+      "product_mix": "2022 revenue mix: clothing, footwear and accessories 49.4%; furniture, appliances and home furnishings 19.7%; antiques and collectibles 14.3%; entertainment, recreation and culture products 9.5%; other 7.1%."
+    },
+    "how_it_makes_money": "Operators earn revenue by selling donated goods, purchased secondhand inventory, pawned goods and consigned or buy-sell-trade merchandise through stores, outlet formats, auctions and increasingly online marketplaces. Nonprofits such as Goodwill and The Salvation Army use donated inventory and retail proceeds to fund workforce, rehabilitation and social-service programs, while for-profit chains such as Savers Value Village and Winmark franchise brands make money through store sales, wholesale recycling streams, franchise royalties and resale of higher-value apparel, children’s goods, sporting goods, instruments and home goods.",
+    "cost_structure": "The lowest-cost inventory comes from donations, but operators still incur collection, sorting, grading, processing, shrink, disposal and recycling costs. For-profit resale chains also buy merchandise from consumers or pay nonprofit supply partners. Major cost buckets are store labor, rent, utilities, transport, processing-center operations, payments for merchandise or donation supply, technology, marketing and corporate overhead. Savers Value Village’s fiscal 2025 cost structure illustrates the pressure points: cost of merchandise sold was 44.7% of sales, salaries/wages/benefits were 20.8%, SG&A was 22.3%, depreciation/amortization was 4.8%, and operating income was 7.4% of sales.",
+    "major_players": [
+      "Goodwill Industries International network",
+      "The Salvation Army thrift and Adult Rehabilitation Center stores",
+      "Savers Value Village",
+      "Winmark Corporation franchise brands: Plato's Closet, Once Upon A Child, Play It Again Sports, Style Encore and Music Go Round",
+      "Habitat for Humanity ReStore",
+      "Local independent thrift, antique, vintage, pawn and consignment stores"
+    ],
+    "current_dynamics": "Affordability is the main near-term demand driver as consumers trade down or search for value after several years of inflation. Younger shoppers also view thrift as a style, sustainability and social-media discovery channel rather than only a low-income necessity. Physical stores benefit from treasure-hunt browsing and local donation supply, but the best merchandise is increasingly routed to online auctions, specialty resale apps or branded recommerce programs. Competition is rising from eBay, Facebook Marketplace, Depop, Poshmark, Vinted, ThredUp, brand-run resale and off-price retailers. Store operators with strong sorting, pricing, local donation capture and online listing capabilities are widening the gap with small undifferentiated shops.",
+    "whats_growing": "Apparel, footwear and accessories are growing fastest, especially vintage, branded, designer, kids and occasion wear. Online auctions, social-commerce resale, AI-assisted discovery, trade-in credit, buy-sell-trade formats and curated thrift concepts are growing faster than traditional rack-based thrift. Nonprofit operators are also expanding donation centers, outlet/bin formats and e-commerce marketplaces to monetize scarce high-value goods.",
+    "whats_shrinking": "Traditional antique and collectibles demand is softer than apparel-led resale, and bulky furniture and appliance resale faces competition from low-cost new furniture, delivery friction and space constraints. Undifferentiated small thrift stores are pressured by labor costs, rent, inconsistent donation quality, higher sorting burden from fast-fashion waste and consumers shifting rare-item searches online.",
+    "recent_developments": [
+      "2025-03-19: ThredUp/GlobalData reported that the US secondhand apparel market grew 14% in 2024 and projected it would reach $74 billion by 2029.",
+      "2026-02-20: Savers Value Village reported fiscal 2025 net sales of $1.679 billion, up 9.2%, with US retail sales of $940.2 million, up 12.9%, and 367 stores at year-end.",
+      "2026-03-06: FRED/Census release tables showed US used merchandise store monthly retail sales data through December 2025, keeping the category in the mid-$20-billion annual range.",
+      "2026-04-02: ThredUp/GlobalData projected the US secondhand apparel market would reach $78.8 billion by 2030 and said 2025 US secondhand growth was nearly 4x broader retail clothing growth.",
+      "2026-07-16: FRED/Census reported May 2026 used merchandise store sales of $2.262 billion, not seasonally adjusted.",
+      "2026-2025: Winmark reported 1,378 resale franchise stores at December 27, 2025, including 526 Plato's Closet and 441 Once Upon A Child locations."
+    ],
+    "outlook": "The store-based industry should grow modestly through 2026-2030, with stronger unit economics for operators that specialize, curate inventory, capture donations efficiently and sell high-value goods online. Demand should remain resilient because resale offers both value and sustainability, but growth will be capped by online substitution, off-price retail, uneven donation quality and labor-intensive processing. Apparel resale, children’s goods, sporting goods and curated vintage should outperform, while general thrift, antiques and bulky home goods grow more slowly. Profitability will depend less on foot traffic alone and more on supply quality, pricing discipline, labor productivity and omnichannel monetization.",
+    "themes": [
+      "Value-seeking consumers",
+      "Circular economy and textile waste reduction",
+      "Gen Z and millennial thrift adoption",
+      "Online auctions and social-commerce resale",
+      "Donation supply quality as a constraint",
+      "Fragmented local competition",
+      "Nonprofit mission-funded retail",
+      "Buy-sell-trade specialization",
+      "AI-assisted resale discovery and pricing",
+      "Fast-fashion waste pressure"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'IBISWorld baseline file, Used Goods Stores in the US, May 31 2022', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/used-goods-stores-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Census Bureau, Retail Sales: Used Merchandise Stores (MRTSSM45330USN), updated July 16 2026', 'url': 'https://fred.stlouisfed.org/series/MRTSSM45330USN'}",
+      "{'name': 'U.S. Census Bureau, Monthly Retail Trade time series and release tables, 2026', 'url': 'https://www.census.gov/retail/index.html'}",
+      "{'name': 'ThredUp / GlobalData, 2025 Resale Report press release, March 19 2025', 'url': 'https://newsroom.thredup.com/news/thredup-13th-resale-report'}",
+      "{'name': 'ThredUp / GlobalData, 2026 Resale Report press release, April 2 2026', 'url': 'https://newsroom.thredup.com/news/thredup-14th-resale-report'}",
+      "{'name': 'Savers Value Village fiscal 2025 Form 10-K, filed February 2026', 'url': 'https://ebs.publicnow.com/view/B8ED1EAC136D20D926B6D5B42DCB7C4097454CDC'}",
+      "{'name': 'Winmark fiscal 2025 Form 10-K, filed 2026', 'url': 'https://ebs.publicnow.com/view/817E289760FA5FD3E1676738ACF9F62AC0646E91'}",
+      "{'name': 'Goodwill Industries International 2024 Annual Impact Report page, 2026', 'url': 'https://www.goodwill.org/annual-report/'}",
+      "{'name': 'The Salvation Army USA annual reports page, 2024 data', 'url': 'https://www.salvationarmyusa.org/about-us/annual-reports/'}"
+    ],
+    "one_sentence": "The US used goods store industry remains a fragmented retail category anchored by donated or bought-in secondhand merchandise, with 2025-2026 demand supported by affordability, Gen Z and millennial resale adoption, and omnichannel thrift discovery.",
+    "slug": "used-goods-stores-in-the-us"
+  },
+  {
+    "title": "Utilities in the US",
+    "sector": "Energy & Environment",
+    "one_liner": "US utilities are a regulated, capital-heavy essential-services sector whose revenue is rising again as electricity demand, grid spending and retail rates climb.",
+    "overview": "Utilities in the US covers NAICS 22 establishments that generate, transmit and distribute electricity; distribute natural gas; supply steam; and provide water and sewage services. The sector is mature and heavily regulated, but its growth profile has shifted since the 2021 IBIS baseline: electricity demand is no longer flat, grid reliability spending is accelerating, and power producers are balancing low-cost gas, fast-growing solar and wind, coal retirements, emissions pressure and large-load requests from data centers and manufacturing. Revenue remains dominated by electric transmission, distribution and generation, while natural gas distribution, water and sewage systems add stable local-monopoly cash flow.",
+    "key_stats": {
+      "market_size": "2025 revenue: $828.4 billion for NAICS 22 utilities, based on summed Census/FRED quarterly revenue for establishments subject to federal income tax.",
+      "growth": "2025 revenue growth: +11.0% versus 2024; Q1 2026 revenue was $244.3 billion, +13.0% versus Q1 2025.",
+      "q1_2026_revenue": "Q1 2026 revenue: $244.3 billion.",
+      "electricity_generation": "2025 US electricity generation: 4,430 billion kWh; EIA July 2026 STEO forecast: 4,502 billion kWh in 2026 and 4,636 billion kWh in 2027.",
+      "residential_power_price": "2025 residential electricity price: 17.3 cents/kWh; EIA forecast: 18.3 cents/kWh in 2026 and 18.7 cents/kWh in 2027.",
+      "employment": "July 2026 utilities employment: 608,100 workers, seasonally adjusted.",
+      "establishments": "Q4 2025 utilities establishments: 25,271 private, 8,317 local government, 65 state government and 192 federal government establishments.",
+      "generation_mix": "2025 utility-scale generation: about 58% fossil fuels, 18% nuclear, 24% renewables; natural gas supplied about 40% and coal about 17%.",
+      "capacity": "End-2025 US utility-scale capacity: 1,280,799 MW; EIA forecast solar capacity at 151 GW in 2025 and 183 GW in 2026, wind at 158 GW in 2025 and 170 GW in 2026.",
+      "businesses": "n/a",
+      "employees": "n/a",
+      "profit_margin": "n/a",
+      "concentration": "n/a"
+    },
+    "baseline_2022": {
+      "market_size": "2022 revenue: $755.5 billion for utilities, all establishments/employer firms, from Census/FRED Service Annual Survey.",
+      "growth": "2022 revenue growth: +17.5% versus 2021 revenue of $642.9 billion.",
+      "ibis_context": "The baseline IBIS file reported 2021 revenue of $638.4 billion and forecast 2026 revenue of $650.7 billion at 0.4% annualized growth from 2021 to 2026.",
+      "composition": "IBIS 2021 revenue mix: electric power transmission and distribution 49.0%, electric power generation 18.1%, and natural gas distribution, water, sewage and steam services 32.9%."
+    },
+    "how_it_makes_money": "Utilities earn revenue through regulated retail rates, wholesale power sales, transmission and distribution tariffs, gas distribution charges, water and wastewater user fees, connection charges, storm-recovery riders and approved returns on capital invested in rate base. Investor-owned utilities typically recover fuel, purchased power, depreciation, taxes, financing costs and a regulator-authorized return; public and municipal systems recover costs through local rates and bond-funded infrastructure programs.",
+    "cost_structure": {
+      "fuel_and_purchased_power": "A large variable cost for electric utilities; Duke Energy's 2025 electric utilities segment reported $8.1 billion of fuel used in electric generation and purchased power against $29.4 billion of operating revenue.",
+      "operations_and_maintenance": "Field crews, vegetation management, plant operations, cybersecurity, customer service and outage response are major recurring costs; storms can create large year-to-year swings.",
+      "labor": "Utilities remain high-wage and unionized: BLS reported July 2026 average hourly earnings of $56.34 and 2025 union representation of 18.8%.",
+      "depreciation_and_capital": "Grid hardening, transmission expansion, generation additions, meters, pipelines, water systems and environmental controls create heavy depreciation and interest expense.",
+      "taxes_and_regulatory": "Property taxes, franchise fees, compliance costs, FERC/state commission proceedings and environmental controls shape margins.",
+      "margin_profile": "Regulated utilities usually target stable allowed returns rather than high organic volume growth; IBIS estimated 2021 sector profit margin at 26.8%, while 2025 integrated-utility operating margins varied by company and jurisdiction."
+    },
+    "major_players": [
+      "NextEra Energy",
+      "Duke Energy",
+      "Southern Company",
+      "Exelon",
+      "Dominion Energy",
+      "American Electric Power",
+      "Sempra",
+      "Xcel Energy",
+      "Consolidated Edison",
+      "PG&E Corporation"
+    ],
+    "current_dynamics": "Demand is strengthening after a decade of modest growth. EIA reported 2025 electric-power generation increased 3% and tied that growth to hot summer weather, record summer peak demand, data centers and manufacturing. Revenue growth is being supported by rate cases, storm recovery, transmission investment and higher residential electricity prices, while lower 2026 natural gas prices are expected to ease some wholesale power costs. Regulators are focused on who pays for grid upgrades needed by large loads, especially data centers, and on speeding interconnection without shifting costs to households.",
+    "whats_growing": [
+      "Solar capacity: EIA forecast US solar capacity rising from 151 GW in 2025 to 183 GW in 2026.",
+      "Wind capacity: EIA forecast wind capacity rising from 158 GW in 2025 to 170 GW in 2026.",
+      "Electricity demand: EIA forecast generation rising from 4,430 billion kWh in 2025 to 4,502 billion kWh in 2026.",
+      "Residential electricity prices: EIA forecast 17.3 cents/kWh in 2025 rising to 18.3 cents/kWh in 2026.",
+      "Transmission and distribution investment tied to reliability, extreme weather resilience, electrification, data centers and manufacturing load."
+    ],
+    "whats_shrinking": [
+      "Coal consumption by the electric power sector: EIA forecast 2026 consumption down 9%, or 38 million short tons, from 2025.",
+      "Coal's long-term share of utility-scale generation: coal supplied about 17% in 2025 versus about 52% in 1990.",
+      "Natural gas-fired generation in 2025 fell 4%, or 64 TWh, according to EIA emissions analysis, even though gas remains the largest generation source.",
+      "Meter-reading labor intensity is shrinking as advanced metering infrastructure and remote monitoring spread.",
+      "Unregulated merchant exposure is shrinking among many large utilities as firms emphasize regulated rate-base growth."
+    ],
+    "recent_developments": [
+      "2025-04-11: FERC issued Order No. 1920-B, the second rehearing order for regional transmission planning and cost-allocation reforms.",
+      "2026-05-21: Census/FRED updated Q1 2026 utilities revenue to $244.3 billion, up 13.0% from Q1 2025.",
+      "2026-06-18: FERC issued show-cause orders to six regional grid operators on large-load integration, data centers and manufacturing demand.",
+      "2026-07-07: EIA's July 2026 STEO forecast US electricity generation of 4,502 billion kWh in 2026 and residential electricity prices of 18.3 cents/kWh.",
+      "2026-07: BLS reported preliminary July 2026 utilities employment of 608,100 workers and average hourly earnings of $56.34."
+    ],
+    "outlook": "The 2026 outlook is constructive but politically sensitive. Revenue should remain above the old IBIS 2026 forecast because 2025 revenue already reached $828.4 billion and Q1 2026 was up double digits year over year. Volume growth from data centers, manufacturing, cooling demand and electrification supports generation and grid spending, while regulated rate cases allow utilities to recover higher capital costs over time. The main constraints are affordability pressure, interest expense, permitting delays, interconnection queues, storm losses, wildfire risk and uncertainty over federal and state clean-energy policy. Coal is expected to decline again in 2026, while solar, storage, transmission and distribution modernization remain the clearest growth lanes.",
+    "themes": [
+      "Regulated rate-base growth",
+      "Data-center and manufacturing load",
+      "Grid modernization and transmission planning",
+      "Renewables plus natural gas balancing",
+      "Coal decline with short-term volatility",
+      "Affordability and rate-case scrutiny",
+      "Storm hardening and climate resilience",
+      "Water and wastewater infrastructure renewal",
+      "High capital intensity",
+      "Federal-state regulatory complexity"
+    ],
+    "data_year": 2026,
+    "sources": [
+      "{'name': 'Baseline file: Utilities in the US IBISWorld text extract, last updated Sep. 20, 2021', 'url': 'file:///home/manishmehta/ui-projects/ibis-industries/txt_full/utilities-in-the-us.txt'}",
+      "{'name': 'FRED / U.S. Census Bureau, Total Revenue for 22: Utilities, Establishments Subject to Federal Income Tax', 'url': 'https://fred.stlouisfed.org/data/REV22TAXABL144QNSA'}",
+      "{'name': 'FRED / U.S. Census Bureau, Total Revenue for Utilities, All Establishments, Employer Firms', 'url': 'https://fred.stlouisfed.org/series/REVEF22ALLEST'}",
+      "{'name': 'EIA Short-Term Energy Outlook, Electricity, Coal and Renewables, July 2026', 'url': 'https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php'}",
+      "{'name': 'EIA, Electricity generation, capacity, and sales in the United States, 2025 data', 'url': 'https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php'}",
+      "{'name': 'EIA, U.S. energy-related CO2 emissions, 2025', 'url': 'https://www.eia.gov/environment/emissions/carbon/'}",
+      "{'name': 'BLS, Utilities: NAICS 22 industry at a glance', 'url': 'https://www.bls.gov/iag/tgs/iag22.htm'}",
+      "{'name': 'FERC, Large-load show-cause orders fact sheet, June 18, 2026', 'url': 'https://www.ferc.gov/news-events/news/fact-sheet-ferc-takes-action-supercharge-americas-grid-efficiency-reliability-and'}",
+      "{'name': 'FERC, Transmission Planning and Cost Allocation Final Rule explainer', 'url': 'https://www.ferc.gov/explainer-transmission-planning-and-cost-allocation-final-rule'}",
+      "{'name': 'Duke Energy 2025 Form 10-K excerpt via PublicNow', 'url': 'https://www.publicnow.com/view/43572EF0F78331204478DDDB432F03BABA0120FD'}"
+    ],
+    "one_sentence": "The US utilities sector provides electric power, natural gas distribution, steam, water supply and sewage services, with 2025 revenue lifted by higher demand, rate-base investment, data-center load growth and elevated residential power prices.",
+    "slug": "utilities-in-the-us"
+  }
+]
