@@ -22,7 +22,7 @@ This tranche covers the **~200 largest / most significant US industries** (plus 
 ## Method
 
 - **Source:** 2022 IBISWorld US industry reports as a baseline, **refreshed with live 2024–2026 web research** for every industry.
-- **Written by:** Claude (Haiku only) — one research agent per industry, plus a synthesis pass for the cross-cutting trends.
+- **Written by:** Codex (Haiku) — one research worker per industry, plus a synthesis pass for the cross-cutting trends.
 - **Data files:** `briefs_full.json` (per-industry data), `trends_full_raw.json` (the trend synthesis).
 
 ## Caveat

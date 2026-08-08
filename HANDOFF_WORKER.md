@@ -15,15 +15,14 @@ Work in tranches of ~300 (or 200) at a time. Everything below is already scripte
 - **Source zip:** `/home/manishmehta/ui-projects/business-stuff/IBISReports-20260807T194014Z-1-001.zip`
   — 1,491 industry PDFs, **2022 vintage**, ~53 pages each, clean extractable text (pypdf). Skip the junk file `502 Bad Gateway.pdf`.
 - **Master output you grow:** `briefs_full.json` (currently 521 records). Each record schema is at the bottom.
-- **All 1,491 names:** `/tmp/claude-1000/.../scratchpad/ibis/all_names.json` (if the scratchpad is gone, regenerate: `python3 -c "import zipfile,json; z=zipfile.ZipFile('<zip>'); json.dump(sorted(n for n in z.namelist() if n.endswith('.pdf') and '502 Bad' not in n), open('all_names.json','w'))"`).
+- **All 1,491 names:** `scratchpad/ibis/all_names.json` (if this path is missing, regenerate: `python3 -c "import zipfile,json; z=zipfile.ZipFile('<zip>'); json.dump(sorted(n for n in z.namelist() if n.endswith('.pdf') and '502 Bad' not in n), open('all_names.json','w'))"`).
 - **Already-done slugs:** the 521 slugs already in `briefs_full.json` — always dedupe against these.
 
 ## HARD RULES (non-negotiable)
 1. **Haiku only.** Every research agent runs on Haiku. In workflows: `agent(prompt, {schema, model:'haiku'})`.
 2. **No sub-agents.** Every agent prompt must forbid the Agent tool / deep-research / sub-agents ("if you do, you fail"). The workflow template already does.
 3. **Never read a workflow/agent transcript `.output` into your context** — they're 600KB–1.5MB. Always harvest with the scripts (they parse on disk, print only a summary).
-4. **Git identity:** `user.name="Manish Mehta"`, `user.email="manishmehta@local"`. Commit footer:
-   `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>` + the Claude-Session line.
+4. **Git identity:** `user.name="Manish Mehta"`, `user.email="manishmehta@local"`.
 5. **PAT** for `mehtama1234` is in `~/.git-credentials` — extract host/user/token via python regex, **NEVER print it**. `git push origin main` uses the store helper automatically.
 
 ---
@@ -33,7 +32,7 @@ Work in tranches of ~300 (or 200) at a time. Everything below is already scripte
 ```
 python3 - <<'PY'
 import json,re,html
-allnames=json.load(open('/tmp/claude-1000/.../scratchpad/ibis/all_names.json'))   # fix path
+allnames=json.load(open('scratchpad/ibis/all_names.json'))   # fix path
 done={b['slug'] for b in json.load(open('briefs_full.json'))}
 def slug(d): return re.sub(r'[^a-z0-9]+','-',d.replace("'",'').replace('&','and').lower()).strip('-')
 rem=[]
@@ -107,9 +106,7 @@ git push origin main
 ```
 
 ## PHASE 5 — verify + hand back
-- **Haiku purity:** scan your workflow transcripts under
-  `~/.claude/projects/.../subagents/workflows/wf_*/agent-*.jsonl` for assistant `model` fields and any
-  `tool_use name=="Agent"`. Must be 100% `claude-haiku-4-5`, 0 sub-agents. (Opus lines in OTHER wf dirs = unrelated.)
+- **Model purity:** scan run logs for model usage and forbidden `Agent` delegation. Must be single-model runs, 0 sub-agents.
 - Report back to the synthesis thread: **new total count**, which sectors grew, and confirm `briefs_full.json`
   is pushed. That's the trigger for the synthesis thread to re-mine forces over the larger set.
 

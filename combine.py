@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Combine pilot (25) + full-run chunk briefs into one normalized briefs_full.json."""
-import json, os, html, glob
+import json, os, html
 ROOT=os.path.dirname(os.path.abspath(__file__))
 
 SECTORS={'Agriculture','Manufacturing','Construction','Retail','Food & Drink','Healthcare',
@@ -20,7 +20,7 @@ def strify(v):
     if isinstance(v,list): return "; ".join(str(i) for i in v)
     return v or ""
 def _guess(b):
-    t=(b.get('title','')+' '+b.get('one_liner','')).lower()
+    t=(str(b.get('title',''))+' '+str(b.get('one_liner',''))).lower()
     for kw,sec in [('bank','Finance & Insurance'),('insur','Finance & Insurance'),('loan','Finance & Insurance'),
         ('hospital','Healthcare'),('clinic','Healthcare'),('medical','Healthcare'),('health','Healthcare'),('dental','Healthcare'),
         ('store','Retail'),('restaurant','Food & Drink'),('production','Food & Drink'),('manufactur','Manufacturing'),
@@ -36,7 +36,8 @@ for rl in ('_run200.json','_run300.json'):
     if os.path.exists(p):
         for it in json.load(open(p)): canon[it['slug']]=it['title']
 sources=['briefs_deep.json','briefs_full_1.json','briefs_full_2.json','briefs_full_3.json','briefs_full_R.json',
-         'briefs_r2_1.json','briefs_r2_2.json','briefs_r2_3.json','briefs_r2_4.json','briefs_r2_5.json','briefs_r2_R.json']
+         'briefs_r2_1.json','briefs_r2_2.json','briefs_r2_3.json','briefs_r2_4.json','briefs_r2_5.json','briefs_r2_R.json',
+         'briefs_r3_1.json','briefs_r3_2.json','briefs_r3_3.json','briefs_r3_4.json','briefs_r3_5.json','briefs_r3_R.json']
 seen={}; order=[]
 for f in sources:
     p=f'{ROOT}/{f}'
@@ -64,7 +65,6 @@ for f in sources:
             sec=str(b.get('sector','')).split('/')[0].split(' - ')[0].strip()
             b['sector']= sec if sec in SECTORS else _guess(b)
         seen[s]=b; order.append(s)
-def _guess(b): return 'Business Services'
 
 out=[seen[s] for s in order]
 json.dump(out, open(f'{ROOT}/briefs_full.json','w'), ensure_ascii=False, indent=1)

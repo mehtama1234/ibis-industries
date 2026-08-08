@@ -188,7 +188,7 @@ footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:
   <div class="headline"><div class="l">The through-line across all 25, right now</div><p id="headline"></p></div>
   <div id="trends"></div>
  </section>
- <footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2024&ndash;2026 web research. Each brief and the trend synthesis written in plain English by Claude (Haiku). First tranche &mdash; the ~200 biggest of 1,491 industries. Figures carry their year; verify before relying on them.</footer>
+<footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2024&ndash;2026 web research. Each brief and the trend synthesis written in plain English by the Codex research worker (Haiku). First tranche &mdash; the ~200 biggest of 1,491 industries. Figures carry their year; verify before relying on them.</footer>
 </div>
 <div class="scrim" id="scrim"></div>
 <aside class="panel" id="panel" aria-label="Industry detail"><div class="inner" id="pinner"></div></aside>
