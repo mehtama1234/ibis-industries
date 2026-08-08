@@ -1,0 +1,355 @@
+[
+ {
+  "title": "Mining the metals",
+  "dek": "Precious metals and industrial base minerals are caught between record prices and the hard reality that you can't dig faster than geology and permits allow.",
+  "lede": "Global metal prices have shattered decades of norms. Gold hit $5,200 per ounce in 2026 and silver jumped 144% in 2025. For US miners, the money has never been better—but they can't spend it fast enough to keep up with the world's hunger for metals, and the supply crunch is becoming the hard ceiling.",
+  "what_changed": "Gold and silver ore mining in the US grew 12.0% in 2025 alone, lifting the sector to $15.3 billion in market size, a jump of $4.1 billion from 2022's $11.2 billion baseline. Gold prices surged 65% in 2025 and continued climbing to $5,200 an ounce in 2026—a 144% rally from 2022. The trigger was a perfect economic storm: tariff uncertainty, central bank gold accumulation, and ETF inflows all collided at once. Miners printed money. All-in sustaining costs climbed above $1,500 per ounce in 2025 due to fuel, labor, and equipment inflation, but miners still enjoyed $3,200-plus per ounce margins in 2026. The problem is that money can't solve the real bottleneck: labor. Mining leaders report that 71% of their firms face talent shortages, and 220,000 workers are expected to retire by 2029. A five-year shortage of 27,000 skilled workers looms, while demand for tech-forward roles—AI, IoT, drones—vastly outpaces supply. The gold industry is fractured and unstable. Newmont issued a formal notice of default against Barrick Gold in April 2026 over the Nevada Gold Mines joint venture, alleging resource piracy and systematic mismanagement. Barrick is now spinning off Nevada Gold Mines as a standalone IPO candidate for Q4 2026. Meanwhile, Coeur Mining announced a $7 billion all-stock acquisition of New Gold in early 2026, aiming to become a senior producer with a $20 billion market cap.\\n\\nCopper, nickel, lead, and zinc mining face an even starker paradox: prices are record-high but supply is contracting. Copper futures hit $6.58 per pound in May 2026—a 40.86% gain over the prior 12 months—yet a 500,000-tonne supply shortfall was forecast for 2026. The culprit is electrification demand colliding with permitting gridlock. Electric vehicles use 2.9 times more copper than gas cars, and renewable energy infrastructure requires vast quantities of metal wiring and components. US copper ore grades are declining, and major expansion projects like Resolution Copper remain years away from production (mid-2030s target). The market size for US copper, nickel, lead, and zinc mining sits at $13.8 billion in 2026, actually down 12.7% from 2022's $15.8 billion baseline, despite higher prices—a sign that production volumes are falling even as revenues hold because of tariff protection and pricing power. Tariff policy arrived late but hard. On August 1, 2025, the Trump administration imposed a 50% tariff on semi-refined copper imports under Section 232, designed to protect domestic smelting. A proposed 15-30% broad copper import tariff is looming for 2027. These tariffs are meant to keep domestic smelting alive, but they can't accelerate ore permitting or reverse ore-grade decline. The sector saw global mining M&A surge to $93.7 billion in 2025 on consolidation hunger, but US base metals consolidation remains modest. Lundin Mining's exit from US nickel underscores the challenge: in December 2025, Lundin sold the Eagle nickel-copper mine in Michigan—the only primary US nickel producer—to Talon Metals for $84 million. Rio Tinto's December 2025 first copper production at Johnson Camp using proprietary low-carbon Nuton technology signals that innovation can chip at the problem, but permitting timelines remain the binding constraint.\\n\\nWhat the commodity whiplash has made scarce is time and productive capacity. Miners have money to invest but can't build mines faster than environmental and permitting approvals allow. Labor is the second scarcity: skilled workers command premium wages, and the pipeline of new workers is drying up as older workers retire. What it has made cheap is indecision—the high prices and tariff uncertainty force every mining firm to make permanent bets on capacity now. What it has made risky is long-term contracts: copper demand is real, but if the EV boom cools or tariff policy reverses, miners holding excess capacity face years of losses. What it has made newly valuable is innovation in mine technology and labor efficiency: low-carbon smelting, AI-driven ore grade prediction, remote automation, and drone-based surveying all offer a way to squeeze more production out of fewer workers and less ore.\"",
+  "facts": [
+   {
+    "num": "$15.3B",
+    "txt": "US gold and silver ore mining market size in 2025, up from $11.2B in 2022 — a $4.1B jump in three years (12.0% growth in 2025 alone)"
+   },
+   {
+    "num": "$5,200/oz",
+    "txt": "Gold price in 2026, a 144% rally from 2022, driven by tariff uncertainty, central bank accumulation, and ETF inflows"
+   },
+   {
+    "num": "65%",
+    "txt": "Gold price surge in 2025 alone, with silver jumping 144% in the same year — largest annual gains in 40+ years"
+   },
+   {
+    "num": "$3,200+/oz",
+    "txt": "Miner margins in 2026 even as all-in sustaining costs climbed above $1,500/oz due to fuel, labor, and equipment inflation"
+   },
+   {
+    "num": "71%",
+    "txt": "Share of mining leaders reporting talent shortages; 220,000 workers expected to retire by 2029 with 27,000-worker shortage looming over five years"
+   },
+   {
+    "num": "500,000 tonnes",
+    "txt": "Forecast copper supply shortfall for 2026, as permitting stalls, ore grades decline, and major projects like Resolution Copper remain years from production (mid-2030s target)"
+   },
+   {
+    "num": "2.9x",
+    "txt": "More copper required per electric vehicle versus gas car, driving record demand as EV and renewable energy infrastructure accelerates"
+   },
+   {
+    "num": "40.86%",
+    "txt": "Copper futures gain over 12 months to May 2026 ($6.58/lb peak), despite US production volumes falling — tariff protection and pricing power holding revenue up"
+   },
+   {
+    "num": "$84M",
+    "txt": "Lundin Mining's December 2025 sale price for Eagle nickel mine to Talon Metals, marking Lundin's exit from US nickel production"
+   },
+   {
+    "num": "April 2026",
+    "txt": "Newmont formally defaults Barrick Gold over Nevada Gold Mines JV alleging 'resource piracy'; Barrick planning Q4 2026 spinoff of NGM as IPO candidate amid JV crisis"
+   }
+  ],
+  "evidence": [
+   "Gold ore mining: $15.3B market (2025), up from $11.2B (2022); gold surged $5,200/oz (2026) on central bank/ETF demand and tariff fears, 65% rise in 2025 alone",
+   "Copper/nickel/lead/zinc: $13.8B market (2026), down from $15.8B (2022); copper hit $6.58/lb (May 2026) but supply shortfall of 500,000 tonnes forecast; EVs use 2.9x more copper than gas cars",
+   "Labor crisis: 71% of mining leaders report talent shortages; 220,000 workers retiring by 2029; 27,000-worker shortage expected over five years; demand for AI/IoT/drone roles far outpacing supply",
+   "Tariff protection: 50% Section 232 tariff on semi-refined copper imports (August 1, 2025); proposed 15-30% broad copper tariff for 2027; designed to protect domestic smelting amid permitting delays",
+   "Joint venture crisis: Newmont defaults Barrick Gold (April 2026) over Nevada Gold Mines, alleging mismanagement; Barrick planning Q4 2026 spinoff; Coeur Mining acquiring New Gold ($7B, Jan-May 2026) to become 'senior producer'"
+  ],
+  "win": "Mining companies with precious metals exposure and large scale win hard in this environment. Gold miners printed $3,200-plus margins per ounce in 2026 even with inflation-driven costs. Consolidators like Coeur Mining, which acquired New Gold to reach senior producer status with a $20 billion market cap target, capture pricing power and labor efficiency gains. Tariff-protected US copper and nickel operators capture domestic pricing power, at least in the near term. Equipment suppliers and technology vendors focused on low-carbon mining, AI-driven ore prediction, and remote automation win as miners scramble to do more with fewer workers. Labor-intensive roles in mining—engineers, geologists, equipment operators—command premium wages.\"",
+  "lose": "Smaller, remote mining operations like Lundin's Eagle mine get squeezed out: Lundin sold for just $84 million in December 2025, unable to sustain smaller-scale nickel production. Fringe operations with high all-in costs and declining ore grades face margin pressure the moment prices cool. Downstream industrial users of copper, nickel, lead, and zinc—automotive parts suppliers, appliance makers, construction firms—face input cost inflation that tariffs only amplify. Emerging-market copper and nickel producers lose export volumes to tariff walls. Long-term mining workers planning retirement face a labor crunch that keeps wages high but jobs precarious once the commodity cycle turns.\"",
+  "worry": "The single biggest risk is permitting gridlock meeting speculative collapse. Miners are investing billions on the assumption that copper demand from EVs and renewables will stay at 2026 levels. But if EV adoption falters, tariff policy reverses, or a recession dampens electrification spending, they'll be left holding excess capacity with multi-year lead times to scale back. The Nevada Gold Mines joint venture crisis—Newmont's default notice and Barrick's planned spinoff—signals that even industry giants are fragile when commodity cycles turn. Miners are also trapped in a labor-cost spiral: they can't solve the worker shortage by offering higher wages indefinitely, because wage growth outpacing productivity gains erodes margins the moment prices fall. Tariff protection is temporary and conditional; once tariffs are unwound or EV demand cools, the supply glut will be sudden and devastating.\"",
+  "one_sentence": "Metal prices are at historic highs and miners are printing cash, but they can't dig faster than permits allow, can't hire workers who don't exist, and are betting everything on electrification demand that could evaporate overnight.",
+  "slug": "metals-mining",
+  "force": "commodity-whiplash",
+  "group": "A · Digging it up",
+  "nav_title": "Mining the metals",
+  "cap": false
+ },
+ {
+  "title": "Coal & the Managed Decline",
+  "dek": "Thermal coal is obsolete, but metallurgical coal's geopolitical whipsaw keeps miners trapped between zombie plants and tariff roulette.",
+  "lede": "US coal mining is smaller and grayer every year, but it still moves in violent bursts. A geopolitical spike can push metallurgical coal to $240 a ton in May, then crush it back to $128 by July. The industry forgot what it became: not a fuel supplier, but a bracket-game player betting on Asian infrastructure spending and American political will to keep coal plants running past their natural death.",
+  "what_changed": "Coal made electricity cheaper in 1950. By 2026, it is being made scarce in the grid by the same force that made renewables and natural gas cheap: the commodity market's brutal math. Thermal coal—the stuff that actually fuels power plants—has been systematically replaced. It fell to 19.8% of the US electricity mix by 2020 and keeps shrinking. In 2025, only 2.6 GW of coal capacity was retired, the lowest number in 15 years, but that was because the Trump administration forced delays on retirements that had been planned all along. Another 6.4 GW of coal plants are scheduled to close in 2026. The coal industry did not stop this. It cannot stop this. Thermal coal is not making a comeback.\\n\\nBut something else got valuable: metallurgical coal—the kind used for steelmaking, not electricity. It rides on infrastructure spending in India and Southeast Asia, and when geopolitical shock hits (an Iran conflict spiking tensions in May 2026, for example), coking coal shot up to $240 per ton. That looks like a win until you watch it fall back to $128 by July. That is not volatility; that is whipsaw. That is the difference between a quarter where the largest coal miners post earnings beats and a quarter where smaller operators announce losses. The problem is that margin has gotten razor-thin. The takeaway from producers: narrower than it was, riskier than it was, and entirely hostage to geopolitical shock and tariff moves by China. US coal exports fell 16 million short tons in 2025 after Beijing imposed retaliatory tariffs. That single policy move cut off one of the few remaining escape valves for US coal.\\n\\nProduction costs are rising across the board—equipment is wearing out, wages are creeping up, and smaller mines that made sense at $150 per ton do not make sense at $120. This squeeze went on for years. From 2023 to 2025, smaller miners were operating at losses or thin margins. They lasted until the mid-2026 price spike, but that relief was temporary. The industry now moves on a pendulum: a few months of high prices keep people employed, then the prices collapse and the marginal operators vanish. It is not a market in equilibrium. It is a market under managed decline.\\n\\nThe real winner in this setup is the largest producer that can survive multiple price cycles: Arch Resources and CONSOL Energy merged in January 2025, forming Core Natural Resources. Consolidation matters when margins are thin because it lets you close the smallest, least efficient mines during downturns and run only the most competitive ones. Smaller, regional producers have no such lever. They got trapped between a thermal coal market that is shrinking on purpose (utilities know coal plants are closing and are not investing in new ones) and a metallurgical coal market that spikes and crashes on geopolitical noise. The workforce has been hollowed out: 34,900 coal miners as of 2026, down from 38,000 in 2025, and down more than 50% since 2011. Every year, fewer people work in this industry, and fewer still have the skills to stay if prices hold.",
+  "facts": [
+   {
+    "num": "19.8%",
+    "txt": "Coal's share of US electricity mix by 2020, and declining; thermal coal is the commodity being systematically replaced."
+   },
+   {
+    "num": "2.6 GW",
+    "txt": "Coal capacity retired in 2025, the lowest in 15 years (2025), because Trump administration forced delays on planned retirements."
+   },
+   {
+    "num": "6.4 GW",
+    "txt": "Coal capacity scheduled for retirement in 2026 (2026)—the secular decline continues despite temporary price spikes."
+   },
+   {
+    "num": "$240/ton",
+    "txt": "Peak coking coal price in May 2026 after Iran conflict geopolitical spike; fell back to $128-130 by July 2026."
+   },
+   {
+    "num": "$138/MT",
+    "txt": "US thermal coal price in March 2025 before falling through the rest of 2025 as inventory built and demand softened (2025)."
+   },
+   {
+    "num": "34,900",
+    "txt": "Coal miners employed in 2026, down from 38,000 in 2025; more than 50% decline since 2011."
+   },
+   {
+    "num": "16 million short tons",
+    "txt": "Decline in US coal exports in 2025 after China imposed retaliatory tariffs, cutting off a key market (2025)."
+   },
+   {
+    "num": "712 companies",
+    "txt": "Coal mining businesses in US in 2026, down 4.6% CAGR 2021-2026; consolidation accelerating among those who survive (2026)."
+   }
+  ],
+  "evidence": [
+   "Energy generation: thermal coal fell from dominant fuel to 19.8% of US electricity mix by 2020 and continues shrinking despite 2.6 GW retirements in 2025 (lowest in 15 years).",
+   "Metallurgical coal exports: US coal exports fell 16 million short tons in 2025 after China imposed retaliatory tariffs, blocking the escape valve for marginal producers.",
+   "Geopolitical price whip: coking coal spiked to $240/ton in May 2026 after Iran conflict, then collapsed to $128-130/ton by July 2026, creating boom-bust cycles for smaller miners.",
+   "Workforce decline: coal mining employment fell to 34,900 in 2026 from 38,000 in 2025, continuing a 50%+ decline since 2011.",
+   "Consolidation: Arch Resources and CONSOL Energy merged in January 2025 to form Core Natural Resources, letting large players survive margin compression that smaller operators cannot weather."
+  ],
+  "win": "Large, low-cost operators—now consolidated into Core Natural Resources after the Arch-CONSOL merger—can survive price cycles that kill smaller miners. They have the scale to shut down marginal mines during downturns and still report earnings. They can also afford to run at thin margins for quarters at a time, playing the geopolitical lottery for metallurgical coal exports to Asia. They are not growing. They are not investing. They are surviving. That is the win.",
+  "lose": "Regional and smaller coal producers are trapped. Thermal coal demand is declining on purpose (utilities know coal plants are being retired and are not betting on new ones). Metallurgical coal is the only growth story, but it is entirely at the mercy of geopolitical shocks and tariffs. When coking coal collapses from $240 to $128 a ton in two months, marginal operations tip into losses. They cannot consolidate their way out like the large producers can. They cannot retrain their workforce fast enough. They close or get acquired at distress prices. The workforce—34,900 coal miners in 2026, down from 50% more a decade ago—has no industry left to grow back into.",
+  "worry": "The entire coal industry is now betting on geopolitical shocks staying loud and US policy staying friendly to coal. In May 2026, an Iran conflict spiked coking coal and kept the lights on for marginal producers. But geopolitics is random. The Trump administration delayed coal plant retirements in 2025, but only 2.6 GW (the lowest in 15 years)—not because demand came back, but because the White House could order the delay. That is not a business. That is a subsidy disguised as energy policy. If tariffs change, if geopolitics quiets, if China buys less metallurgical coal, the price collapses again and nobody has prepared for it. The managed decline is managed only as long as the government is willing to manage. The moment it stops, the industry does not have a second act.",
+  "one_sentence": "Coal miners now survive on geopolitical price spikes and government delays to retirements, not on the economics of coal itself.",
+  "slug": "coal-and-decline",
+  "force": "commodity-whiplash",
+  "group": "A · Digging it up",
+  "nav_title": "Coal & the managed decline",
+  "cap": false
+ },
+ {
+  "title": "Fuels & Petrochemicals",
+  "dek": "Wholesalers trapped between collapsed crude prices and razor-thin margins.",
+  "lede": "Gasoline and petroleum wholesale is a pass-through business: buy crude, sell refined products to retailers, keep a slice. But when crude prices whip around—from $113 a barrel in mid-2026 after Middle East tensions to an EIA-forecast $66 in the year ahead—wholesalers eat the gap because they price with a lag and have zero negotiating power. The industry is now in structural decline, squeezed by EVs and consolidating fast.",
+  "what_changed": "Crude oil volatility used to be absorbed by refinery networks and regional fuel chains. In 2025-2026, it has become the industry's throttle. Brent crude fell from $81 a barrel in 2024 to a forecast $66 in 2026, but geopolitical risk premiums pushed it to $90 in some windows and $113 in March 2026 when Middle East tensions spiked. Wholesalers cannot hold the risk. They buy crude, sell products to gas stations and retailers within days or weeks, and pass through the commodity move with a built-in lag—sometimes a week, sometimes longer. That lag is their death: crude falls, they are stuck holding product bought at yesterday's price. Margins in the whole wholesaling chain are 1.7% and have stayed stable, which means there is no room to absorb shocks. The industry is mature and shrinking. Gasoline wholesaling in the US was worth $798.6 billion in 2022 and fell to $791.9 billion in 2026, a decline masked by price but real in volume. Growth is negative: -2.8% in 2026 alone. The structural reason is clear: EVs and better fuel economy are eating gasoline demand. Yes, EV tax credits expired in September 2025 ($7,500 for new cars, $4,000 for used), which caused a 45% drop in EV sales that quarter and pushed people back to gas cars. But that is temporary. The long-term math is brutal. To survive, the industry is consolidating. Thirty-five deals closed in 2025, up 25% from 2024. The flagship move was Sunoco's acquisition of Parkland in October 2025 for $9.1 billion, creating the largest independent fuel distributor in the Americas. Parkland brought a refinery, extensive fuel logistics, and US convenience stores. That is not a bet on fuel; that is a bet on scale and the ability to absorb margin compression through volume and vertical integration. Private equity and mid-cap buyers are pushing consolidation because major oil majors systematically exited wholesaling decades ago to focus on higher-margin refining. Now regional distributors and smaller players fill geographic pockets but are outmatched on cost and reach. Arko Petroleum bought U.S. Petroleum Partners, a Great Lakes distributor, in 2026 for roughly $205 million—the kind of bolt-on that used to happen quietly but now signals an existential race to get bigger or die. The workforce is aging and stable. The industry had 49,499 employees in 2022 and is projected to grow just 1.0% annually, meaning consolidation is not adding jobs. Wholesalers are doing more with fewer people—automation at distribution centers, better logistics software, tighter inventory turns. For employees, that means wages hold but job growth stalls.",
+  "facts": [
+   {
+    "num": "$791.9B",
+    "txt": "US gasoline and petroleum wholesaling market size in 2026; fell from $798.6B in 2022.",
+    "warn": false
+   },
+   {
+    "num": "-2.8%",
+    "txt": "Market growth rate in 2026 alone, reflecting structural gasoline demand decline.",
+    "warn": true
+   },
+   {
+    "num": "1.7%",
+    "txt": "Average profit margin in petroleum wholesaling (2026), stable but razor-thin—zero buffer for commodity moves.",
+    "warn": true
+   },
+   {
+    "num": "$113/barrel",
+    "txt": "Brent crude spike in March 2026 following Middle East tensions; geopolitical risk premiums near $90/barrel mid-2026.",
+    "warn": true
+   },
+   {
+    "num": "$81→$66/barrel",
+    "txt": "Brent crude fell from 2024 to EIA forecast for 2026, a 19% decline that decimates wholesale volumes.",
+    "warn": false
+   },
+   {
+    "num": "35 deals",
+    "txt": "M&A transactions closed in 2025 in fuel wholesale, up 25% from 2024—consolidation accelerating.",
+    "warn": false
+   },
+   {
+    "num": "$9.1B",
+    "txt": "Sunoco's October 2025 acquisition of Parkland, creating the largest independent fuel distributor in the Americas.",
+    "warn": false
+   },
+   {
+    "num": "45% drop in EV sales Q4 2025",
+    "txt": "When EV tax credits expired in September 2025, quarter-over-quarter EV sales fell 45% YoY, temporarily supporting gasoline demand but masking structural displacement.",
+    "warn": false
+   }
+  ],
+  "evidence": [
+   "Gasoline & Petroleum Wholesaling: $791.9 billion market size (2026), -2.8% growth, 1.7% margin—the industry is hollowed out and consolidating.",
+   "Fuel wholesalers: Brent crude volatility from $81 (2024) to $66 (forecast 2026) to $113 (mid-2026 spike) forces daily pricing recalculations; pass-through lag leaves them absorbing losses.",
+   "Consolidation wave: 35 M&A deals in 2025 (up 25% from 2024); Sunoco paid $9.1 billion for Parkland in October 2025 to scale cost and absorb margin pressure.",
+   "EV tax-credit expiration: September 2025 credits ended, causing Q4 2025 EV sales to drop 45% YoY and extending gasoline demand but confirming structural decline into the 2030s.",
+   "Regional fuel distributors: Arko Petroleum bought U.S. Petroleum Partners (Great Lakes) for ~$205 million in 2026; small players consolidate or exit."
+  ],
+  "win": "Consolidated fuel distributors like Sunoco and Arko can spread margin loss over higher volume and absorb crude swings via vertical integration (owning refinery, storage, logistics). Private equity buyers and large independent operators are the only winners because they can finance the M&A and operate at scale. They pass through cost shock faster because they control more of the supply chain. Retailers who buy in bulk from consolidated suppliers pay less per gallon but lose negotiating power on terms.",
+  "lose": "Regional fuel distributors that stayed independent are squeezed to nothing: they buy at spot, sell at margin, and have no volume cushion when crude spikes. Small convenience store chains that buy direct are hit hardest because they pay retail prices for fuel and compete on convenience, not price. Employment growth is flat (1.0% annually) even as consolidation happens—wholesalers are replacing labor with logistics software and automation, so workers see wage stagnation, not raises. Drivers benefit short-term from falling crude but will pay more as consolidation hands market power to big distributors.",
+  "worry": "Geopolitical shocks can spike crude above $113 overnight, and wholesalers have zero buffer. A refinery outage, a port closure, or a sudden tariff on refined products could turn a 1.7% margin into a 2% loss across a distributor's entire portfolio before they can reprice. Consolidation means fewer, larger firms—if one major distributor falters under a shock, supply chains break and regional fuel shortages follow. The industry is also betting that EVs slow down, but Trump-era tax-credit expiration is a temporary reprieve; long-term demand is falling, and wholesalers are consolidating into a shrinking market.",
+  "one_sentence": "Fuel wholesalers are trapped between crude volatility and margin compression, consolidating into fewer, larger players that can absorb losses through scale and vertical integration.",
+  "slug": "the-fuels",
+  "force": "commodity-whiplash",
+  "group": "B · Drilling & refining",
+  "nav_title": "Fuels & petrochemicals",
+  "cap": false
+ },
+ {
+  "title": "The Farm Price Cycle",
+  "dek": "Weather, tariffs, and commodity crashes leave mid-size farms crushed while processors race to cut costs.",
+  "lede": "American farmers are caught between two forces they cannot control: global commodity prices that have crashed to six-year lows, and tariff shocks that keep erasing their biggest export markets overnight. The country still depends on extraction—food is the extraction—but nobody planned for the debt load when prices collapsed.",
+  "what_changed": "The wheat sector shows the clearest whiplash. In 2022, drought was distant news and prices spiked to $219 per ton after Ukraine. By early 2026, wheat prices crashed to $5.00 to $5.12 per bushel—a six-year low. Then came the weather blow: production fell 29 percent from 2025 to 2026 (from 1.402 billion to 990 million bushels), driven by the worst Plains drought since records began. Kansas yields collapsed to 37 bushels per acre, down from 51 the year before. But low prices never recovered; farm income collapsed instead, falling from $11.2 billion in 2024 to $9.5 billion by 2026. That is real money leaving the sector. Tariffs added insult. China imposed 44-49 percent tariffs on US sorghum and wheat in April 2025, and sorghum exports to China fell 97 percent by July. A November 2025 deal paused some tariffs, but volumes never came back.\n\nSoybean processing got hit differently—by abundance. The renewable diesel boom created nearly unlimited demand for soybean oil, and the industry responded with a 23 percent capacity expansion over three years, investing over $6 billion in new crush facilities. Four major plants came online in North Dakota, Kansas, and elsewhere in 2024-2025, and ADM announced upgrades to four more crush plants in August 2026 unlocking 700,000 metric tons of additional annual capacity. Crush volumes hit a record 2.54 billion bushels forecast for 2025-26. But flooding the market with soybean meal (the byproduct of oil extraction) destroyed margins. Crush margins fell from $2 to $3 per bushel in 2023 to $1.10 to $1.50 per bushel in 2025 and stayed compressed at $1.10 to $1.50 even in August 2026 despite record volumes. That is the whiplash: investment chasing a mandate, capacity flooding the market, and profits evaporating. Soybean prices themselves swung violently—up to $12.30 per bushel in early 2024, down to $9.55 in mid-August 2024, recovering to $10.30 by end-of-2025, then sitting around $11.60 in August 2026—but low enough that soybean farmers still cannot cover debt.\n\nThe debt bomb is the third force. Operating loans jumped 40 percent in Q4 2025 versus Q4 2024, and average loan sizes grew 30 percent. Interest expenses hit $33 billion in 2026, a structural strain. Chapter 12 farm bankruptcies rose 46 percent in 2025. Commodity prices—corn at $4.20-$4.62, soybeans at $10.71-$11.09—are too low to service debt without federal support. The sector has split: well-capitalized operators are racing into autonomous equipment, AI crop monitoring, and precision agriculture (agtech raised $7 billion in 2025), while mid-size family farms cannot amortize the capital cost and are being squeezed toward contract production with large processors. Consolidation is accelerating. Meat processors (Smithfield, JBS) are building new $1 billion facilities with automation. Independent ag dealerships face a 30 percent reduction. The margin compression is structural: the sector grew just 0.9 percent in 2026 forecast versus a 2021 baseline, and average industry margins fell from 3.6 percent to 3.6 percent as farm-gate margins collapsed under input costs.",
+  "facts": [
+   {
+    "num": "46%",
+    "txt": "Chapter 12 farm bankruptcies rose 46 percent in 2025 as debt stress accelerated across the sector."
+   },
+   {
+    "num": "29%",
+    "txt": "Wheat production fell 29 percent from 2025 to 2026, driven by the worst Plains drought since records began; Kansas yields dropped to 37 bu/acre from 51."
+   },
+   {
+    "num": "$5.12",
+    "txt": "Wheat prices crashed to $5.00-$5.12 per bushel in early 2026, a six-year low, down from the 2022 Ukraine-war spike of $219 per ton."
+   },
+   {
+    "num": "97%",
+    "txt": "Sorghum exports to China collapsed 97 percent by July 2025 after China imposed 44-49 percent tariffs in April 2025."
+   },
+   {
+    "num": "23%",
+    "txt": "Soybean processing capacity expanded 23 percent over three years through 2025-26, with $6 billion invested in new crush facilities; crush margins fell from $2-$3/bu in 2023 to $1.10-$1.50/bu in 2025."
+   },
+   {
+    "num": "40%",
+    "txt": "Operating loan originations jumped 40 percent in Q4 2025 versus Q4 2024; average loan sizes grew 30 percent as farm stress accelerated.",
+    "warn": true
+   },
+   {
+    "num": "$33 billion",
+    "txt": "Interest expenses are forecast to hit $33 billion in 2026 as debt service strains mid-size farms."
+   },
+   {
+    "num": "70%",
+    "txt": "Large multinationals (Tyson, JBS, Cargill, Smithfield) control approximately 70 percent of meat processing, and consolidation is accelerating as independent dealers face a 30 percent reduction."
+   }
+  ],
+  "evidence": [
+   "Wheat farming: Production crashed 29 percent from 1.402B bushels (2025) to 990M (2026); prices fell to 6-year low of $5.00-$5.12/bu in early 2026 (2026).",
+   "Soybean processing: Crush margins collapsed from $2-$3/bushel in 2023 to $1.10-$1.50/bushel in 2025 despite record 2.54 billion bushel volumes (2025-26).",
+   "Farm debt crisis: Chapter 12 bankruptcies rose 46 percent in 2025; operating loans jumped 40 percent Q4 2025 vs Q4 2024 (2025-26).",
+   "Tariff shock: China imposed 44-49 percent tariffs on sorghum and wheat in April 2025, collapsing sorghum exports to China 97 percent by July 2025 (2025).",
+   "Technology divide: Agtech raised $7 billion in 2025 and deal volume surged 19 percent, but mid-size farms cannot amortize capital costs (2025)."
+  ],
+  "win": "Large, well-capitalized operators are consolidating control. Meat processors (Smithfield, JBS, Cargill, Tyson) control 70 percent of processing and are building new $1 billion automation-heavy facilities. Mid-size farms that can afford automation and precision agriculture—autonomous equipment, AI crop monitoring, $7 billion in agtech investment in 2025—are pulling ahead. Contract production with these giants offers the stability that commodity markets no longer provide. Technology companies racing into agtech (25 deals in Q1 2025) are capturing the capital flight. Lenders are also winning in the near term: operating loan volumes are up 40 percent and growing, which means more fee income and more collateral, even if borrowers are riskier.",
+  "lose": "Mid-size family farms are crushed. They carry 30 percent larger operating loans than a year ago with interest expenses forecast to hit $33 billion in 2026. They cannot afford the $7 billion worth of agtech that large operators are buying. They cannot absorb a 46 percent jump in Chapter 12 bankruptcies that hit farms like them. Corn at $4.20-$4.62 and soybeans at $10.71-$11.09 do not cover debt service without federal subsidy. Tariff shocks wipe out export markets overnight (sorghum exports to China down 97 percent). Independent ag dealerships (facing 30 percent reduction) and small processors have margin floors that are falling through the floor as renewable diesel mandates flood the market with cheap meal and crush spreads compress from $2-$3 to $1.10-$1.50 per bushel. The sector is structurally splitting: growth is 0.9 percent forecast (2026), and smaller players are being moved to contract production for survival.",
+  "worry": "The debt trap is the single biggest risk. Farm debt stress is acute and accelerating with operating loans 30 percent larger than a year ago and interest expenses forecast to hit $33 billion in 2026. Commodity prices are too low to cover debt service: corn at $4.20-$4.62 and soybeans at $10.71-$11.09 leave no margin for error. If commodity prices stay flat or fall further—driven by global oversupply (wheat ending stocks at 6-year highs, soybean crush flooding the market with meal) or another tariff shock like the China sorghum collapse (down 97 percent in months)—the sector could see a cascade of bankruptcies that destroys family farms and consolidates the entire value chain into a handful of well-capitalized corporations. Federal subsidies, the traditional safety net, face congressional pressure for reductions, leaving debt-crushed mid-size farmers with no cushion.",
+  "one_sentence": "Farm debt exploded, commodity prices crashed, and tariffs erased export markets overnight, leaving mid-size farmers drowning in loan payments while mega-processors automate and consolidate.",
+  "slug": "the-farm-cycle",
+  "force": "commodity-whiplash",
+  "group": "C · Growing it",
+  "nav_title": "The farm price cycle",
+  "cap": false
+ },
+ {
+  "title": "Fertilizer & the Inputs",
+  "dek": "Commodity price spikes and geopolitical supply shocks are printing money for fertilizer makers while crushing the farmers and grain traders who depend on them.",
+  "lede": "Fertilizer and grain markets are moving in violent swings set by factors nobody in Iowa or Illinois can control: China's phosphate export restrictions, Iran's hold on the Strait of Hormuz, Russia's quota games, and Trump's tariff reversals. The result is a bifurcated supply chain where a handful of mega-producers capture outsized profits while the rest of the agricultural economy gets squeezed.",
+  "what_changed": "Fertilizer prices exploded in early 2026 because the world's supply got deliberately constricted. Urea jumped from $389 a ton in early 2025 to $450 a ton by early 2026. Diammonium phosphate—the phosphate-based fertilizer every corn and soybean farmer needs—jumped 36% in eight months to nearly $800 a ton. Anhydrous ammonia, the nitrogen feedstock for half of North America's crops, climbed almost $300 a ton between February and April 2026 alone. These weren't market fluctuations. They were the result of three governments playing supply games. China extended phosphate export restrictions through August 2026, directly choking off one of the world's critical inputs. Iran's conflict disrupted traffic through the Strait of Hormuz, taking 50% of traded sulfur offline and 36% of traded urea—the loss cascaded through nitrogen, ammonia, phosphate, and potash prices. Russia kept quota limits on outbound fertilizer, holding back supply when the world needed volume. Add Trump's April 2025 tariffs on nitrogen and phosphate shipments (10-15%) that lasted seven months before being lifted, and traders never knew what the rules were.\n\nWho made money? Fertilizer manufacturers printed cash. CF Industries pulled in $7.08 billion in revenue in 2025, up 22.8% year-over-year, with net earnings of $1.46 billion—and projected 84% earnings growth in 2026. Nutrien projected 26.5% earnings growth for 2026. The industry's overall market size grew to $42.2 billion in 2026, up 9.1% from the year before, with estimated margins sitting at around 6.9% (and likely higher during the price spike periods). The business count held relatively stable at 818 establishments and 598 enterprises, but consolidation via M&A was ongoing—the big three (CF, Nutrien, Mosaic) controlled the price signal. By March 2026, the DOJ opened a price-fixing investigation into all three, a tacit admission that commodity suppliers were capturing more value than competitive markets would allow.\n\nBut farmers and grain traders were not winning. The Corn, Wheat & Soybean Wholesaling market sat at $238.5 billion in 2026—that sounds big, except it was shrinking. The market declined 2.4% in 2025 alone, and the structural growth rate over five years was just 1.3% CAGR (2020-2025). Margins never exceeded 2.0-2.2% of revenue in any recent period, meaning a $238 billion industry was running on razors. Commodity prices in 2026 sat 15-37% below farmer breakeven costs: corn at $4.20 per bushel, soybeans at $10.30, wheat at $5.00. When input costs rose sharply and output prices fell, wholesalers couldn't pass losses upstream or downstream—they absorbed them. The business count dropped 0.4% annually since 2020, and while employment stayed flat around 55,000-58,000 workers (1.2% projected growth), the consolidation was real and not about efficiency—it was about survival.\n\nThe broader story is bifurcation. Bunge completed its $8.2 billion acquisition of Viterra in July 2025, creating the world's third-largest grain storage operator with 400 million bushels of capacity. But to get the deal approved, Bunge had to offload grain elevators—five went to small regional players, one went to Cargill in January 2026. That January move was telling: Cargill acquired P&H's GrainsConnect elevators in June 2026. The technology layer was also bifurcating. Bushel, a grain-logistics software platform, now powers 50%+ of US and Canadian grain facilities, and AI adoption is projected to reach 70% by 2026 in the sector—but those gains accrue almost entirely to the mega-operators who can afford the capital spend and integration complexity. Mid-market players lack the scale. China also shifted its buying behavior: when US tariffs hit 125% in April 2025, China pivoted to South American grain supplies, and US soybean exports fell 13% year-over-year in 2025-26. That bifurcation—US bloc versus China-anchored supplies—forced every wholesaler to choose sides or diversify partners in ways that squeezed their already-thin margins further.",
+  "facts": [
+   {
+    "num": "$42.2B",
+    "txt": "Fertilizer manufacturing market size in 2026, up 9.1% year-over-year from 2025, despite DOJ price-fixing investigation and farm profitability pressure."
+   },
+   {
+    "num": "$450/ton",
+    "txt": "Urea (nitrogen fertilizer) price in early 2026, up from $389/ton in early 2025—a 15.7% spike driven by China export restrictions, Iran conflict, and Russia quota limits."
+   },
+   {
+    "num": "+36%",
+    "txt": "Diammonium phosphate (phosphate fertilizer) price increase over eight months, reaching nearly $800/ton by early 2026—critical input with restricted Chinese supply."
+   },
+   {
+    "num": "$7.08B",
+    "txt": "CF Industries 2025 revenue, up 22.8% year-over-year, with net earnings of $1.46 billion; company projected 84% earnings growth for 2026 amid fertilizer price spikes."
+   },
+   {
+    "num": "$238.5B",
+    "txt": "Corn, Wheat & Soybean Wholesaling market size in 2026, but declining 2.4% in 2025 alone, with margins pinched at 2.0-2.2% EBIT as commodity prices sat 15-37% below farmer breakeven."
+   },
+   {
+    "num": "50% of traded sulfur + 36% of traded urea",
+    "txt": "Supply offline after Iran conflict disrupted Strait of Hormuz shipping in February–April 2026, cascading through nitrogen, ammonia, phosphate, and potash shortages globally."
+   },
+   {
+    "num": "$8.2B",
+    "txt": "Bunge's acquisition of Viterra completed July 2025, creating world's 3rd-largest grain storage operator with 400M bushel capacity; consolidation forced divestitures to six smaller competitors."
+   },
+   {
+    "num": "50%+ of US/Canadian grain facilities",
+    "txt": "Powered by Bushel grain-logistics software platform as of 2026, with AI adoption projected at 70%—but capital and integration barriers lock out mid-market players."
+   }
+  ],
+  "evidence": [
+   "Fertilizer Manufacturing: CF Industries 2025 revenue $7.08 billion (up 22.8% YoY) with $1.46 billion net earnings and projected 84% earnings growth for 2026.",
+   "Fertilizer Manufacturing: Urea prices climbed from $389/ton (early 2025) to $450/ton (early 2026); diammonium phosphate rose 36% in eight months to nearly $800/ton; anhydrous ammonia jumped ~$300/ton February-April 2026.",
+   "Grain Wholesaling: Corn, Wheat & Soybean Wholesaling market at $238.5 billion (2026) but declined 2.4% in 2025; margins pinched at 2.0-2.2% EBIT while commodity prices sat 15-37% below farmer breakeven.",
+   "Grain Wholesaling: US soybean exports fell 13% year-over-year in 2025-26 after China shifted buying to South America in response to April 2025 tariff escalation (125% reciprocal tariffs).",
+   "Consolidation & Supply Shocks: Bunge completed $8.2 billion Viterra merger (July 2025); Iran conflict took 50% of traded sulfur and 36% of traded urea offline (Feb-April 2026); DOJ opened price-fixing investigation into CF, Nutrien, Mosaic (March 2026)."
+  ],
+  "win": "Fertilizer manufacturers—especially the big three (CF Industries, Nutrien, Mosaic)—are riding commodity price spikes and supply constraints to record profits. CF Industries posted $1.46 billion in earnings in 2025 and expects 84% growth in 2026. Nutrien projects 26.5% earnings growth for 2026. The consolidation also favors mega-grain operators like Bunge and Cargill, who can absorb technology costs (Bushel software, AI adoption at 70%) and negotiate terms across global blocs (US suppliers, South American pivots, China-anchored alternatives). Small regional players who snap up Bunge's divested elevators get volume, but not pricing power.",
+  "lose": "Farmers and grain wholesalers are squeezed in the middle. The Corn, Wheat & Soybean Wholesaling market declined 2.4% in 2025 and runs on 2.0-2.2% margins while commodity prices sit 15-37% below farmer breakeven costs. A farmer selling corn at $4.20 per bushel can't cover seed, fertilizer, fuel, and labor when inputs are spiking. Wholesalers can't pass losses upstream to farmers (they'd go bankrupt) or downstream to processors (who have alternatives). The business count has dropped 0.4% annually since 2020. Mid-market grain dealers lack the scale to afford Bushel software or AI integration, locking them out of the efficiency gains their large competitors enjoy. China's tariff retaliation (125% peak, partial ease to 10% by May 2025) also killed demand: US soybean exports fell 13% year-over-year in 2025-26.",
+  "worry": "The biggest risk is sustained bifurcation of the agricultural economy into a small number of mega-operators and a shrinking base of mid-market players. Fertilizer makers are under DOJ antitrust scrutiny (price-fixing investigation opened March 2026), which could cap their windfall—but only if enforcement is swift and aggressive. The real worry is that geopolitical constraints on fertilizer supplies (China restrictions, Iran conflict, Russia quotas) become structural, not cyclical. If key nutrients stay expensive and volatile for years, farmers can't plan. Some will exit production, consolidate, or shift to crops that need fewer inputs. The supply bifurcation (US bloc versus China-anchored blocs) also threatens pricing stability: if wholesalers are forced to choose supply partners by tariff regime rather than cost, entire regional grain markets could fragment. A farmer in Illinois selling to a wholesaler locked into South American suppliers faces a different economy than one selling to a US-anchored mega-operator.",
+  "one_sentence": "Fertilizer makers are printing profits from constrained global supply while farmers and grain traders absorb losses because commodity prices have collapsed below breakeven costs.",
+  "slug": "fertilizer-and-inputs",
+  "force": "commodity-whiplash",
+  "group": "C · Growing it",
+  "nav_title": "Fertilizer & the inputs",
+  "cap": false
+ },
+ {
+  "title": "Commodity Whiplash",
+  "dek": "The extraction economy runs on violent price cycles set by geopolitics and weather — hedgers and consolidators win, small single-commodity players get buried.",
+  "lede": "Mining, drilling, and farming are no longer businesses of steady margins and patient capital. Geopolitical shocks, tariff whiplash, and supply disruptions from weather and conflict compress the extraction economy into feast-or-famine cycles that split winners from losers in real time. The US still runs on what it digs, pumps, and grows — but only the consolidated, diversified players with hedging tools and capital reserves can survive the swings.",
+  "what_changed": "The violent price swings in gold, fertilizer, and farm commodities have made three things newly scarce, cheap, and risky in the US extraction economy over the past 18 months. First, stable margins are gone. Gold ore mining saw prices surge 65% in 2025 and hit $5,200 per ounce in 2026—a 144% rally from 2022 lows—yet miners face all-in sustaining costs above $1,500/oz due to fuel, labor, and equipment inflation, squeezing profit margins despite headline prices. Fertilizer makers had a sharper whip: urea jumped from $389/ton in early 2025 to $450/ton by early 2026, while diammonium phosphate soared 36% in eight months to nearly $800/ton, and anhydrous ammonia spiked nearly $300/ton between February and April 2026. CF Industries' 2025 revenue jumped 22.8% to $7.08 billion with net earnings of $1.46 billion, and the company expects 84% earnings growth in 2026—but the DOJ opened a price-fixing investigation in March 2026, and those soaring prices are crushing farm profitability. Agribusiness commodity prices actually collapsed the other direction: corn trades at $4.20 to $4.62 per bushel and soybeans at $10.71 to $11.09 in 2026, insufficient for mid-size farmers to cover debt service.\n\nSecond, geopolitics and policy have become the binding constraint, not geology. The April 2025 US reciprocal tariff regime (10% baseline, 20% on EU, up to 32% on Asia) disrupted soybean and grain export flows overnight, forcing American exporters to lose market share to South America even as China committed to buying 25 million metric tons of US soybeans annually through 2028. Tariff uncertainty on nitrogen and phosphate was lifted after seven months, but it kept traders nervous and importers hedged. The Iran conflict disrupted Strait of Hormuz shipping in early 2026, taking 50% of traded sulfur and 36% of traded urea offline. China extended phosphate export restrictions through August 2026. Russia continues quota limits on outbound fertilizer. These shocks ripple through pricing in weeks, not quarters. Gold mining felt it too—trade policy became the single largest risk factor for the industry's investment decisions by mid-2025, as tariff uncertainty and stagflation fears reshaped where new capital goes.\n\nThird, consolidation and capital concentration are the survival strategy—and that's hollowing out the middle. In gold mining, the Nevada Gold Mines joint venture between Newmont and Barrick collapsed into a formal Notice of Default in April 2026, with Barrick spinning off NGM as an IPO candidate by Q4 2026. Meanwhile, Coeur Mining announced a $7 billion all-stock acquisition of New Gold in early 2026, transitioning to 'senior producer' status with a $20 billion market cap target. In agribusiness, large multinationals (Tyson, JBS, Cargill, Smithfield) already control 70% of meat processing and are building $1 billion-plus automated facilities. In farming itself, Chapter 12 bankruptcies rose 46% in 2025, operating loans are 30% larger than a year ago, and interest expenses are forecast to hit $33 billion in 2026. Mid-size family farms are being forced into contract production for stability or consolidation. Independent ag dealerships are disappearing (30% reduction expected). Meanwhile, agtech deal volume surged 19% in Q1 2025 (25 transactions), with precision agriculture deals leading—but large operations are racing into autonomous equipment, AI crop monitoring, and precision systems (agtech raised $7+ billion in 2025), while small farms cannot amortize the capital cost. The bifurcation is structural and accelerating.",
+  "facts": [
+   {
+    "num": "$5,200/oz",
+    "txt": "Gold prices surged past $5,200 per ounce in 2026, driven by tariff uncertainty, central bank accumulation, and ETF inflows—a 144% rally from 2022 baseline."
+   },
+   {
+    "num": "65% + 144%",
+    "txt": "Gold surged 65% in 2025 and silver rose 144% in 2025—the largest annual gains in 40+ years."
+   },
+   {
+    "num": "$7.08B → $1.46B",
+    "txt": "CF Industries posted 2025 revenue of $7.08 billion (up 22.8% year-over-year) with net earnings of $1.46 billion, expecting 84% earnings growth in 2026."
+   },
+   {
+    "num": "$450/ton, +36%",
+    "txt": "Urea jumped from $389/ton (early 2025) to $450/ton (early 2026); diammonium phosphate soared 36% in eight months to nearly $800/ton."
+   },
+   {
+    "num": "46% surge",
+    "txt": "Chapter 12 farm bankruptcies rose 46% in 2025; operating loans are 30% larger than a year ago; farm interest expenses forecast to hit $33 billion in 2026."
+   },
+   {
+    "num": "25M metric tons",
+    "txt": "November 2025: US-China bilateral trade deal commits China to buying 25 million metric tons of US soybeans annually in 2026-2028 after tariff disruptions."
+   },
+   {
+    "num": "12% growth",
+    "txt": "Gold and silver ore mining grew 12.0% in 2025, reaching $15.3 billion market size, but faces a 27,000 skilled worker shortage over the next five years."
+   },
+   {
+    "num": "$1,500+/oz",
+    "txt": "All-in sustaining costs for US gold mining climbed above $1,500/oz in 2025 due to fuel, labor, and equipment inflation."
+   }
+  ],
+  "evidence": [
+   "Gold ore mining in the US (Energy & Environment): Market size $15.3 billion in 2025, 12% growth, with gold prices at $5,200+/oz in 2026—a 144% rally from 2022—yet all-in sustaining costs above $1,500/oz squeeze margins despite headline prices.",
+   "Fertilizer manufacturing (Manufacturing): CF Industries 2025 revenue $7.08 billion, up 22.8% year-over-year, with 84% earnings growth expected in 2026; urea prices jumped from $389/ton to $450/ton, and anhydrous ammonia spiked nearly $300/ton between February and April 2026.",
+   "Agribusiness in the US (Agriculture): $2.9 trillion global agribusiness with 0.9% US domestic growth forecast; Chapter 12 bankruptcies rose 46% in 2025, operating loans 30% larger than a year ago, with farm interest expenses forecast to hit $33 billion in 2026.",
+   "Tariff shock (April 2025): US reciprocal tariff regime (10% baseline, 20% EU, up to 32% Asia) disrupted soybean and grain export flows; anhydrous ammonia tariffs kept traders hedged; China extended phosphate export restrictions through August 2026.",
+   "Gold mining consolidation (2026): Coeur Mining $7 billion acquisition of New Gold announced in early 2026; Nevada Gold Mines joint venture collapsed with formal Notice of Default from Newmont to Barrick; Barrick spinning off NGM as IPO candidate."
+  ],
+  "win": "The big winners are consolidated commodity producers with hedging tools and diversified portfolios. CF Industries and Nutrien printed money on fertilizer spikes—CF expects 84% earnings growth in 2026 off 22.8% revenue gains in 2025. Coeur Mining is buying New Gold to build a $20 billion market cap senior producer that can absorb price swings. Large agribusiness firms (Tyson, JBS, Cargill, Smithfield) controlling 70% of meat processing are building $1 billion automated facilities to lock in margins through efficiency, not gambling on commodity prices. Gold miners with low all-in costs and operational leverage to tariff realities—those with central bank demand hedges and ETF flows—are sitting on $3,200+ per ounce margins in 2026 even as costs surpass $1,500/oz.",
+  "lose": "Mid-size and single-commodity players are getting squeezed into extinction. Farm bankruptcies jumped 46% in 2025; Chapter 12 filings are accelerating as operating loans swell 30% larger and interest expenses balloon toward $33 billion in 2026. Commodity prices are hostile—corn at $4.20-$4.62/bushel and soybeans at $10.71-$11.09 in 2026 are too low for mid-size operators to cover debt without government help. Independent ag dealerships are vanishing (30% reduction expected). Family farms are forced into contract production or consolidation. In gold mining, joint ventures are collapsing (Newmont v. Barrick) as the small and mid-size players get absorbed. Agtech adoption is locked behind capital costs that only large operations can amortize—small farms fall further behind.",
+  "worry": "The single biggest risk is that geopolitical shocks and tariff policy have become the primary driver of profitability, not operational excellence. The April 2025 reciprocal tariff surge disrupted soybeans and grains overnight. The Iran conflict in early 2026 took 50% of traded sulfur and 36% of traded urea offline in weeks. China extended phosphate restrictions through August 2026. Russia continues quota limits. Trade policy, not mining geology or harvest yields, now sets the margin envelope—and policymakers have demonstrated they will use tariffs as a tool repeatedly with little warning. A consolidator hedged across geographies and commodities can absorb these shocks. A single-region gold miner or Midwest family farm cornered by tariff policy and debt cannot. If tariff uncertainty persists through 2027-2028, the rush to consolidation will accelerate, and mid-size players will face a binary choice: sell to a larger competitor or default.",
+  "one_sentence": "The US extraction economy is splitting into consolidated hedgers who absorb geopolitical whiplash and single-commodity players crushed by tariff uncertainty, commodity price volatility, and debt service they can no longer cover.",
+  "slug": "commodity-whiplash",
+  "force": "commodity-whiplash",
+  "group": "E · The big picture",
+  "nav_title": "Commodity whiplash",
+  "cap": true
+ }
+]

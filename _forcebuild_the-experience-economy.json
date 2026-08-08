@@ -1,0 +1,111 @@
+{
+ "force": {
+  "slug": "the-experience-economy",
+  "acc": "purple",
+  "lens": "Cultural",
+  "title": "The Experience Economy",
+  "signature": "People spend less on owning things and more on doing things \u2014 the money moves from the shelf to the ticket, the table, and the night out.",
+  "groups": {
+   "A \u00b7 Going out again": [
+    [
+     "nightlife",
+     "The night out",
+     "bars-and-nightclubs-in-the-us wine-bars karaoke-bars",
+     "Social venues sell the experience even as drinking itself declines."
+    ],
+    [
+     "play-and-compete",
+     "Play & compete",
+     "bowling-centers-in-the-us go-kart-racing-tracks paintball-fields pool-and-billiard-halls",
+     "Competitive-socializing venues turn an afternoon into a paid experience."
+    ]
+   ],
+   "B \u00b7 Days out & escapes": [
+    [
+     "theme-and-parks",
+     "Theme parks & thrills",
+     "amusement-parks-in-the-us water-parks ice-rinks",
+     "Big-ticket days out keep pricing power as families trade goods for memories."
+    ],
+    [
+     "culture-and-nature",
+     "Culture & nature",
+     "museums-in-the-us zoos-and-aquariums historic-sites-in-the-us",
+     "Cultural and nature attractions ride the shift to meaningful outings."
+    ]
+   ],
+   "C \u00b7 The premium night": [
+    [
+     "stay-and-celebrate",
+     "Staying & celebrating",
+     "boutique-hotels casino-hotels-in-the-us wedding-services-in-the-us",
+     "Boutique stays, casinos, and weddings sell the premium, once-in-a-while experience."
+    ],
+    [
+     "the-big-screen",
+     "The big screen fights back",
+     "movie-theaters-in-the-us concert-and-event-promotion-in-the-us",
+     "Theaters and live events survive by being an experience streaming can't copy."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-experience-economy",
+     "The experience economy",
+     "amusement-parks-in-the-us bars-and-nightclubs-in-the-us boutique-hotels movie-theaters-in-the-us",
+     "Capstone: spending shifts from stuff to experiences; venues and events win, commodity goods lose."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "nightlife",
+   "title": "The night out",
+   "group": "A \u00b7 Going out again",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__nightlife.txt",
+   "is_capstone": false,
+   "angle": "Social venues sell the experience even as drinking itself declines."
+  },
+  {
+   "slug": "play-and-compete",
+   "title": "Play & compete",
+   "group": "A \u00b7 Going out again",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__play-and-compete.txt",
+   "is_capstone": false,
+   "angle": "Competitive-socializing venues turn an afternoon into a paid experience."
+  },
+  {
+   "slug": "theme-and-parks",
+   "title": "Theme parks & thrills",
+   "group": "B \u00b7 Days out & escapes",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__theme-and-parks.txt",
+   "is_capstone": false,
+   "angle": "Big-ticket days out keep pricing power as families trade goods for memories."
+  },
+  {
+   "slug": "stay-and-celebrate",
+   "title": "Staying & celebrating",
+   "group": "C \u00b7 The premium night",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__stay-and-celebrate.txt",
+   "is_capstone": false,
+   "angle": "Boutique stays, casinos, and weddings sell the premium, once-in-a-while experience."
+  },
+  {
+   "slug": "the-big-screen",
+   "title": "The big screen fights back",
+   "group": "C \u00b7 The premium night",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__the-big-screen.txt",
+   "is_capstone": false,
+   "angle": "Theaters and live events survive by being an experience streaming can't copy."
+  },
+  {
+   "slug": "the-experience-economy",
+   "title": "The experience economy",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-experience-economy__the-experience-economy.txt",
+   "is_capstone": true,
+   "angle": "Capstone: spending shifts from stuff to experiences; venues and events win, commodity goods lose."
+  }
+ ]
+}

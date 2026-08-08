@@ -1,0 +1,111 @@
+{
+ "force": {
+  "slug": "the-immigration-squeeze",
+  "acc": "orange",
+  "lens": "Societal",
+  "title": "The Immigration Squeeze",
+  "signature": "Whole industries quietly run on immigrant labor \u2014 so immigration policy and border enforcement, not wages alone, now decide who can staff the work at all.",
+  "groups": {
+   "A \u00b7 Who grows and processes the food": [
+    [
+     "the-fields",
+     "The fields",
+     "agriculture-forestry-fishing-and-hunting-in-the-us fruit-and-nut-farming-in-the-us vegetable-farming-in-the-us",
+     "Farm work depends on immigrant labor; enforcement is an existential input risk."
+    ],
+    [
+     "the-plants",
+     "The processing plants",
+     "chicken-and-turkey-meat-production-in-the-us meat-beef-and-poultry-processing-in-the-us dairy-product-production-in-the-us",
+     "Meat and dairy plants run on the same labor pool \u2014 a hidden supply-chain fragility."
+    ]
+   ],
+   "B \u00b7 Who builds and cleans": [
+    [
+     "the-trades",
+     "The building trades",
+     "masonry-in-the-us roofing-contractors-in-the-us drywall-and-insulation-installers-in-the-us",
+     "Construction trades are heavily immigrant-staffed; policy tightens an already-short labor market."
+    ],
+    [
+     "the-service-labor",
+     "The service labor",
+     "janitorial-services-in-the-us landscaping-services-in-the-us maids-nannies-and-gardeners-in-the-us",
+     "Cleaning, landscaping, and domestic work face the same sourcing squeeze."
+    ]
+   ],
+   "C \u00b7 Who cares and who's detained": [
+    [
+     "care-labor",
+     "The care labor",
+     "home-care-providers-in-the-us nursing-care-facilities-in-the-us",
+     "Elder and health care lean on immigrant workers just as demand surges."
+    ],
+    [
+     "the-enforcement-complex",
+     "The enforcement complex",
+     "correctional-facilities-in-the-us background-check-services",
+     "Detention and vetting are the other, growing side of immigration policy."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "the-immigration-squeeze",
+     "The immigration squeeze",
+     "agriculture-forestry-fishing-and-hunting-in-the-us meat-beef-and-poultry-processing-in-the-us masonry-in-the-us home-care-providers-in-the-us",
+     "Capstone: labor availability is set by policy, not just pay; automated or higher-wage operators cope, labor-dependent ones don't."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "the-fields",
+   "title": "The fields",
+   "group": "A \u00b7 Who grows and processes the food",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__the-fields.txt",
+   "is_capstone": false,
+   "angle": "Farm work depends on immigrant labor; enforcement is an existential input risk."
+  },
+  {
+   "slug": "the-plants",
+   "title": "The processing plants",
+   "group": "A \u00b7 Who grows and processes the food",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__the-plants.txt",
+   "is_capstone": false,
+   "angle": "Meat and dairy plants run on the same labor pool \u2014 a hidden supply-chain fragility."
+  },
+  {
+   "slug": "the-trades",
+   "title": "The building trades",
+   "group": "B \u00b7 Who builds and cleans",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__the-trades.txt",
+   "is_capstone": false,
+   "angle": "Construction trades are heavily immigrant-staffed; policy tightens an already-short labor market."
+  },
+  {
+   "slug": "care-labor",
+   "title": "The care labor",
+   "group": "C \u00b7 Who cares and who's detained",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__care-labor.txt",
+   "is_capstone": false,
+   "angle": "Elder and health care lean on immigrant workers just as demand surges."
+  },
+  {
+   "slug": "the-enforcement-complex",
+   "title": "The enforcement complex",
+   "group": "C \u00b7 Who cares and who's detained",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__the-enforcement-complex.txt",
+   "is_capstone": false,
+   "angle": "Detention and vetting are the other, growing side of immigration policy."
+  },
+  {
+   "slug": "the-immigration-squeeze",
+   "title": "The immigration squeeze",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/the-immigration-squeeze__the-immigration-squeeze.txt",
+   "is_capstone": true,
+   "angle": "Capstone: labor availability is set by policy, not just pay; automated or higher-wage operators cope, labor-dependent ones don't."
+  }
+ ]
+}

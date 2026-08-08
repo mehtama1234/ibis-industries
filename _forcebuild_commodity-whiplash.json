@@ -1,0 +1,117 @@
+{
+ "force": {
+  "slug": "commodity-whiplash",
+  "acc": "gold",
+  "lens": "Economic",
+  "title": "Commodity Whiplash",
+  "signature": "Mining, drilling, and growing move on violent price cycles set by geopolitics and weather \u2014 the extraction economy the country forgot it still runs on.",
+  "groups": {
+   "A \u00b7 Digging it up": [
+    [
+     "metals-mining",
+     "Mining the metals",
+     "gold-and-silver-ore-mining-in-the-us copper-nickel-lead-and-zinc-mining-in-the-us iron-ore-mining-in-the-us",
+     "Metal miners live and die by global prices and the electrification demand wave."
+    ],
+    [
+     "the-quarry",
+     "Rock, sand & the quarry",
+     "stone-mining-in-the-us sand-and-gravel-mining-in-the-us mineral-and-phosphate-mining-in-the-us",
+     "Aggregates track construction demand and energy costs."
+    ],
+    [
+     "coal-and-decline",
+     "Coal & the managed decline",
+     "coal-mining-in-the-us",
+     "Coal rides a structural decline punctuated by data-center power spikes."
+    ]
+   ],
+   "B \u00b7 Drilling & refining": [
+    [
+     "oil-and-gas",
+     "Oil & gas extraction",
+     "oil-drilling-and-gas-extraction-in-the-us oil-and-gas-field-services-in-the-us petroleum-refining-in-the-us",
+     "Drillers and refiners swing on crude prices and policy whiplash."
+    ],
+    [
+     "the-fuels",
+     "Fuels & petrochemicals",
+     "ethanol-fuel-production-in-the-us petrochemical-manufacturing-in-the-us gasoline-and-petroleum-wholesaling-in-the-us",
+     "Fuel and petrochemical makers pass through \u2014 or eat \u2014 volatile input costs."
+    ]
+   ],
+   "C \u00b7 Growing it": [
+    [
+     "the-farm-cycle",
+     "The farm price cycle",
+     "agribusiness-in-the-us wheat-barley-and-sorghum-farming-in-the-us soybean-processing",
+     "Farmers and processors are whipsawed by commodity prices, tariffs, and weather."
+    ],
+    [
+     "fertilizer-and-inputs",
+     "Fertilizer & the inputs",
+     "fertilizer-manufacturing-in-the-us corn-wheat-and-soybean-wholesaling-in-the-us",
+     "Fertilizer and grain trading concentrate the commodity risk of the whole food chain."
+    ]
+   ],
+   "E \u00b7 The big picture": [
+    [
+     "commodity-whiplash",
+     "Commodity whiplash",
+     "gold-and-silver-ore-mining-in-the-us oil-drilling-and-gas-extraction-in-the-us agribusiness-in-the-us fertilizer-manufacturing-in-the-us",
+     "Capstone: the extraction economy runs on violent price cycles; hedgers and consolidators survive, small single-commodity players don't."
+    ]
+   ]
+  }
+ },
+ "specs": [
+  {
+   "slug": "metals-mining",
+   "title": "Mining the metals",
+   "group": "A \u00b7 Digging it up",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__metals-mining.txt",
+   "is_capstone": false,
+   "angle": "Metal miners live and die by global prices and the electrification demand wave."
+  },
+  {
+   "slug": "coal-and-decline",
+   "title": "Coal & the managed decline",
+   "group": "A \u00b7 Digging it up",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__coal-and-decline.txt",
+   "is_capstone": false,
+   "angle": "Coal rides a structural decline punctuated by data-center power spikes."
+  },
+  {
+   "slug": "the-fuels",
+   "title": "Fuels & petrochemicals",
+   "group": "B \u00b7 Drilling & refining",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__the-fuels.txt",
+   "is_capstone": false,
+   "angle": "Fuel and petrochemical makers pass through \u2014 or eat \u2014 volatile input costs."
+  },
+  {
+   "slug": "the-farm-cycle",
+   "title": "The farm price cycle",
+   "group": "C \u00b7 Growing it",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__the-farm-cycle.txt",
+   "is_capstone": false,
+   "angle": "Farmers and processors are whipsawed by commodity prices, tariffs, and weather."
+  },
+  {
+   "slug": "fertilizer-and-inputs",
+   "title": "Fertilizer & the inputs",
+   "group": "C \u00b7 Growing it",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__fertilizer-and-inputs.txt",
+   "is_capstone": false,
+   "angle": "Fertilizer and grain trading concentrate the commodity risk of the whole food chain."
+  },
+  {
+   "slug": "commodity-whiplash",
+   "title": "Commodity whiplash",
+   "group": "E \u00b7 The big picture",
+   "pack": "/home/manishmehta/ui-projects/ibis-industries/_packs/commodity-whiplash__commodity-whiplash.txt",
+   "is_capstone": true,
+   "angle": "Capstone: the extraction economy runs on violent price cycles; hedgers and consolidators survive, small single-commodity players don't."
+  }
+ ]
+}
