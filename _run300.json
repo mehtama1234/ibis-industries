@@ -228,12 +228,6 @@
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/body-piercing-studios.txt"
  },
  {
-  "title": "Book, Magazine & Newspaper Wholesaling in the US",
-  "slug": "book-magazine-and-newspaper-wholesaling-in-the-us",
-  "zippath": "IBISReports/Book, Magazine & Newspaper Wholesaling in the US.pdf",
-  "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/book-magazine-and-newspaper-wholesaling-in-the-us.txt"
- },
- {
   "title": "Boxing Gyms & Clubs",
   "slug": "boxing-gyms-and-clubs",
   "zippath": "IBISReports/Boxing Gyms & Clubs.pdf",
@@ -338,19 +332,19 @@
  {
   "title": "Children's Book Publishing",
   "slug": "childrens-book-publishing",
-  "zippath": "IBISReports/Children_s Book Publishing.pdf",
+  "zippath": "IBISReports/Children's Book Publishing.pdf",
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/childrens-book-publishing.txt"
  },
  {
   "title": "Children's Fitness Center Franchises",
   "slug": "childrens-fitness-center-franchises",
-  "zippath": "IBISReports/Children_s Fitness Center Franchises.pdf",
+  "zippath": "IBISReports/Children's Fitness Center Franchises.pdf",
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/childrens-fitness-center-franchises.txt"
  },
  {
   "title": "Children's Specialty Hospitals",
   "slug": "childrens-specialty-hospitals",
-  "zippath": "IBISReports/Children_s Specialty Hospitals.pdf",
+  "zippath": "IBISReports/Children's Specialty Hospitals.pdf",
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/childrens-specialty-hospitals.txt"
  },
  {
@@ -1040,7 +1034,7 @@
  {
   "title": "Homeowners' Associations in the US",
   "slug": "homeowners-associations-in-the-us",
-  "zippath": "IBISReports/Homeowners_ Associations in the US.pdf",
+  "zippath": "IBISReports/Homeowners' Associations in the US.pdf",
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/homeowners-associations-in-the-us.txt"
  },
  {
@@ -1798,5 +1792,11 @@
   "slug": "maternity-wear-stores",
   "zippath": "IBISReports/Maternity Wear Stores.pdf",
   "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/maternity-wear-stores.txt"
+ },
+ {
+  "title": "Mattress Manufacturing in the US",
+  "slug": "mattress-manufacturing-in-the-us",
+  "zippath": "IBISReports/Mattress Manufacturing in the US.pdf",
+  "file": "/home/manishmehta/ui-projects/ibis-industries/txt_full/mattress-manufacturing-in-the-us.txt"
  }
 ]
