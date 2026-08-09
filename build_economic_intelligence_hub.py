@@ -52,6 +52,10 @@ AMERICAN_CAPSTONE_LINK = (
     "The capstone narrative is the single end-to-end read on the US economy in 2025-2026: how demand, labor, culture, institutions, geography, AI, and scale fit together."
 )
 
+AMERICAN_OUTLOOK_LINK = (
+    "The master outlook reorganizes the same system into four top-level lenses: societal, cultural, consumer, and industrial change, with linked tensions, signals, and subtheme evidence."
+)
+
 AMERICAN_THEME_MEMOS_LINK = (
     "The memo layer translates the themes system into operator and investor decisions: where to hunt, what to avoid, what to do, and what to diligence."
 )
@@ -217,6 +221,11 @@ def main():
     <div class="meta">Narrative layer</div>
     <h3><a href="american-theme-briefs.html">American Theme Briefs</a></h3>
     <p>{e(AMERICAN_THEME_BRIEFS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Master synthesis</div>
+    <h3><a href="american-outlook-2025-2026.html">American Outlook 2025-2026</a></h3>
+    <p>{e(AMERICAN_OUTLOOK_LINK)}</p>
   </div>
   <div class="card">
     <div class="meta">Capstone narrative</div>
