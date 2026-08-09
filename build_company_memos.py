@@ -1,0 +1,297 @@
+#!/usr/bin/env python3
+"""Build applied company memos from the company intelligence layer."""
+
+from __future__ import annotations
+
+import html
+import json
+from collections import Counter, defaultdict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+COMPANIES_JSON = ROOT / "company_universe.json"
+THEMES_JSON = ROOT / "american_themes_taxonomy.json"
+OUT_JSON = ROOT / "company_memos.json"
+OUT_HTML = ROOT / "company-memos.html"
+PAGES_OUT = ROOT / "company-memos"
+
+
+STATUS_LABELS = {
+    "advantaged": "Advantaged",
+    "mixed": "Contested Middle",
+    "exposed": "Exposed",
+}
+
+
+SECTOR_ANGLES = {
+    "Agriculture": "The real question is whether this company has protection from raw commodity exposure through processing, distribution, biology, or trade positioning.",
+    "Business Services": "The test is whether the company sells repeatable workflow or specialized trust rather than just labor hours.",
+    "Construction": "The key issue is whether the company sits beside an unavoidable bottleneck in labor, power, permitting, or specialized scope.",
+    "Consumer Services": "The key issue is whether this business owns habit, convenience, or identity rather than generic discretionary demand.",
+    "Energy & Environment": "The key issue is whether the company benefits from electrification, infrastructure scarcity, or compliance burden rather than just commodity prices.",
+    "Finance & Insurance": "The key issue is whether the company owns rails, workflow, trust, or data instead of a shrinking undifferentiated spread.",
+    "Food & Drink": "The key issue is whether the company is aligned with health, premium, convenience, or distribution power rather than legacy volume assumptions.",
+    "Healthcare": "The key issue is whether the company can convert durable demand into economics despite reimbursement, staffing, and admin friction.",
+    "Manufacturing": "The key issue is whether the company has specified capability and the right position inside physical bottlenecks.",
+    "Media & Entertainment": "The key issue is whether the company owns scarcity, rights, or affiliation instead of generic attention supply.",
+    "Real Estate": "The key issue is whether the asset base aligns with current flows of housing, logistics, and power rather than old utilization assumptions.",
+    "Retail": "The key issue is whether the company owns value, premium, convenience, or channel control rather than being stranded in the middle.",
+    "Technology & Digital": "The key issue is whether the company owns workflow, infrastructure, or trust layers that remain necessary as AI diffuses.",
+    "Transport & Logistics": "The key issue is whether the company owns orchestration, density, or strategic throughput rather than exposed capacity alone.",
+}
+
+
+CSS = """
+:root{--bg:#0f141b;--panel:#171f29;--panel2:#1e2935;--line:#2a3644;--ink:#f1eadc;--muted:#a9b2be;--faint:#73808e;--gold:#d5ac57;--green:#78ca90;--red:#e07d6d;--amber:#d9a441;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1220px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel,.brief,.force{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3,.panel h3,.brief h3,.force h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p,.brief p,.force p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.memo{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.memo:first-of-type{margin-top:0;padding-top:0;border-top:none}.memo h3{font-size:1.28rem;margin:.2em 0 .35em}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.smallgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .35em;font-size:.96rem}.mini p{margin:0;color:var(--muted);font-size:.9rem}.status{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:.68rem;border:1px solid var(--line);border-radius:999px;padding:4px 8px}.status.adv{color:var(--green)}.status.mix{color:var(--amber)}.status.exp{color:var(--red)}@media(max-width:920px){.split{grid-template-columns:1fr}}
+"""
+
+
+def e(value: object) -> str:
+    return html.escape(str(value or ""), quote=True)
+
+
+def load_json(path: Path):
+    with path.open(encoding="utf-8") as handle:
+        return json.load(handle)
+
+
+def status_class(status: str) -> str:
+    return "adv" if status == "advantaged" else "exp" if status == "exposed" else "mix"
+
+
+def top_sector(company: dict) -> str | None:
+    sector_mix = company.get("sector_mix") or []
+    return sector_mix[0]["sector"] if sector_mix else None
+
+
+def build_theme_lookup(themes: list[dict]) -> tuple[dict[str, dict], dict[str, list[dict]]]:
+    theme_lookup = {theme["slug"]: theme for theme in themes}
+    force_to_themes: dict[str, list[dict]] = defaultdict(list)
+    for theme in themes:
+        for force in theme["forces"]:
+            force_to_themes[force["slug"]].append(theme)
+    return theme_lookup, force_to_themes
+
+
+def infer_related_themes(company: dict, force_to_themes: dict[str, list[dict]]) -> list[dict]:
+    counts = Counter()
+    theme_records: dict[str, dict] = {}
+    for force in company.get("dominant_forces", []):
+        for theme in force_to_themes.get(force["slug"], []):
+            counts[theme["slug"]] += 1
+            theme_records[theme["slug"]] = theme
+    ordered = [theme_records[slug] for slug, _ in counts.most_common(4)]
+    return ordered
+
+
+def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
+    sector = top_sector(company) or "Unknown"
+    related_themes = infer_related_themes(company, force_to_themes)
+    dominant_force_titles = [force["title"] for force in company.get("dominant_forces", [])[:3]]
+    force_text = ", ".join(dominant_force_titles) or "cross-force exposure"
+    primary_constraint = company.get("constraints", ["complexity"])[0]
+    record = {
+        "slug": company["slug"],
+        "title": company["title"],
+        "status": company["status"],
+        "status_label": STATUS_LABELS.get(company["status"], company["status"].title()),
+        "business_model_cluster_title": company["business_model_cluster_title"],
+        "business_truth": company["business_truth"],
+        "top_sector": sector,
+        "sector_angle": SECTOR_ANGLES.get(sector, "The key issue is whether the company sits on the right side of the sector's governing constraints."),
+        "mention_count": company["mention_count"],
+        "industry_count": company["industry_count"],
+        "best_owner_type": company["best_owner_type"],
+        "constraints": company["constraints"],
+        "top_themes": company.get("top_themes", [])[:6],
+        "dominant_forces": company.get("dominant_forces", [])[:3],
+        "related_themes": related_themes,
+        "linked_industries": company.get("industry_rows", [])[:6],
+        "sector_mix": company.get("sector_mix", [])[:4],
+        "likely_losers": company.get("likely_losers", []),
+        "operator_memo": (
+            f"{company['title']} needs to keep converting {company['business_model_cluster_title'].lower()} position "
+            f"into {company['best_owner_type']} economics while staying on the right side of {primary_constraint}."
+        ),
+        "investor_memo": (
+            f"The current read depends on whether {company['title']} can keep its advantage inside {force_text.lower()} "
+            f"rather than being dragged back toward the generic middle of its cluster."
+        ),
+        "diligence_questions": [
+            f"What would make {company['title']} lose its current edge in {company['business_model_cluster_title'].lower()} markets?",
+            f"Is {primary_constraint} a manageable operating issue here or the thing that caps returns?",
+            f"Does the company still own demand, workflow, trust, or distribution where it matters most?",
+            f"Are the dominant forces around {company['title']} structural enough to justify the current read?",
+        ],
+    }
+    return record
+
+
+def render_company_card(record: dict) -> str:
+    chips = "".join(f'<span class="chip">{e(theme["title"])}</span>' for theme in record["related_themes"][:3])
+    return f"""<article class="card">
+  <div class="meta">{e(record['top_sector'])}</div>
+  <h3><a href="company-memos/{e(record['slug'])}.html">{e(record['title'])}</a></h3>
+  <p>{e(record['investor_memo'])}</p>
+  <div class="chips">{chips}</div>
+</article>"""
+
+
+def theme_chip(theme: dict, prefix: str = "") -> str:
+    return f'<a class="chip" href="{e(prefix)}theme-briefs/{e(theme["slug"])}.html">{e(theme["title"])}</a>'
+
+
+def force_chip(force: dict, prefix: str = "") -> str:
+    return f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
+
+
+def company_page_chip(record: dict, prefix: str = "") -> str:
+    return f'<a class="chip" href="{e(prefix)}company-pages/{e(record["slug"])}.html">Company page</a>'
+
+
+def sector_chip(record: dict, prefix: str = "") -> str:
+    sector_slug = (
+        record["top_sector"].lower()
+        .replace("&", "and")
+        .replace(" ", "-")
+        .replace("/", "-")
+    )
+    return f'<a class="chip" href="{e(prefix)}sector-memos/{e(sector_slug)}.html">{e(record["top_sector"])} sector memo</a>'
+
+
+def linked_industry_cards(record: dict) -> str:
+    cards = []
+    for industry in record["linked_industries"]:
+        cards.append(
+            f"""<article class="brief">
+  <div class="meta">{e(industry.get('sector'))}</div>
+  <h3>{e(industry.get('title'))}</h3>
+  <p>{e(industry.get('one_sentence'))}</p>
+</article>"""
+        )
+    return "".join(cards)
+
+
+def render_memo(record: dict, prefix: str = "") -> str:
+    theme_chips = "".join(theme_chip(theme, prefix) for theme in record["related_themes"]) or '<span class="chip">no direct theme inference</span>'
+    force_chips = "".join(force_chip(force, prefix) for force in record["dominant_forces"])
+    top_theme_tags = "".join(f'<span class="chip">{e(item)}</span>' for item in record["top_themes"])
+    constraints = "".join(f'<span class="chip">{e(item)}</span>' for item in record["constraints"])
+    sector_mix = "".join(f"<li>{e(item['sector'])}: {item['count']} linked industries</li>" for item in record["sector_mix"])
+    likely_losers = "".join(f"<li>{e(item)}</li>" for item in record["likely_losers"]) or "<li>No explicit loser set surfaced</li>"
+    diligence = "".join(f"<li>{e(item)}</li>" for item in record["diligence_questions"])
+    return f"""<section class="memo">
+  <div class="meta">{e(record['top_sector'])} company memo</div>
+  <h3>{e(record['title'])}</h3>
+  <div class="status {status_class(record['status'])}">{e(record['status_label'])}</div>
+  <p><b>Investor memo:</b> {e(record['investor_memo'])}</p>
+  <p><b>Operator memo:</b> {e(record['operator_memo'])}</p>
+  <p>{e(record['sector_angle'])}</p>
+  <div class="chips">{company_page_chip(record, prefix)}{sector_chip(record, prefix)}{theme_chips}{force_chips}</div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Business position</div>
+      <p>{e(record['business_truth'])}</p>
+      <div class="chips">{constraints}{top_theme_tags}</div>
+    </div>
+    <div class="panel">
+      <div class="meta">Where it shows up</div>
+      <ul class="list">{sector_mix}</ul>
+      <p><b>{record['mention_count']}</b> corpus mentions across <b>{record['industry_count']}</b> linked industries.</p>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Diligence questions</div>
+      <ul class="list">{diligence}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">If the read breaks</div>
+      <ul class="list">{likely_losers}</ul>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="meta">Linked industries</div>
+    <div class="grid">{linked_industry_cards(record)}</div>
+  </div>
+</section>"""
+
+
+def build_hub(records: list[dict]) -> str:
+    cards = "\n".join(render_company_card(record) for record in records[:120])
+    sections = "".join(render_memo(record) for record in records[:40])
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Company Memos — US Industry Briefs</title><style>{CSS}</style></head>
+<body><div class="wrap">
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="company-scoreboard.html">Company scoreboard</a><a href="sector-memos.html">Sector memos</a></div>
+<div class="eyebrow">Company memos · US · 2025-2026</div>
+<h1>Company Memos</h1>
+<p class="sub">This is the company application layer. It takes the surfaced company universe and translates each important company into a memo tied back to sector logic, dominant themes, force exposure, and the current structural read.</p>
+<div class="kpis">
+  <div class="kpi"><div class="n">{len(records)}</div><div class="l">Company memos</div></div>
+  <div class="kpi"><div class="n">{sum(1 for record in records if record['status'] == 'advantaged')}</div><div class="l">Advantaged</div></div>
+  <div class="kpi"><div class="n">{sum(1 for record in records if record['status'] == 'exposed')}</div><div class="l">Exposed</div></div>
+</div>
+<div class="lead"><p>Use this layer when the question is not what a company is, but what its current structural position means. The memo format makes the read explicit: why the name screens well or poorly, what governs the economics, and what would break the thesis.</p></div>
+
+<section class="section">
+  <h2>Memo Index</h2>
+  <div class="grid">{cards}</div>
+</section>
+
+<section class="section">
+  <h2>Applied Read</h2>
+  {sections}
+</section>
+
+</div></body></html>"""
+
+
+def build_detail(record: dict) -> str:
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{e(record['title'])} Memo — US Industry Briefs</title><style>{CSS}</style></head>
+<body><div class="wrap">
+<div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../company-memos.html">Company memos</a><a href="../company-scoreboard.html">Company scoreboard</a></div>
+<div class="eyebrow">Company memo · US · 2025-2026</div>
+<h1>{e(record['title'])}</h1>
+<p class="sub">{e(record['business_truth'])}</p>
+<div class="kpis">
+  <div class="kpi"><div class="n">{record['mention_count']}</div><div class="l">Mentions</div></div>
+  <div class="kpi"><div class="n">{record['industry_count']}</div><div class="l">Industries</div></div>
+  <div class="kpi"><div class="n">{len(record['related_themes'])}</div><div class="l">Related themes</div></div>
+</div>
+<div class="lead"><p>{e(record['investor_memo'])}</p></div>
+<section class="section">
+  {render_memo(record, prefix="../")}
+</section>
+</div></body></html>"""
+
+
+def main() -> None:
+    companies = load_json(COMPANIES_JSON)
+    themes = load_json(THEMES_JSON)["themes"]
+    _, force_to_themes = build_theme_lookup(themes)
+    records = [build_record(company, force_to_themes) for company in companies if company.get("page")]
+    records.sort(key=lambda row: (-row["mention_count"], row["title"]))
+
+    PAGES_OUT.mkdir(exist_ok=True)
+
+    with OUT_JSON.open("w", encoding="utf-8") as handle:
+        json.dump(records, handle, ensure_ascii=False, indent=2)
+    with OUT_HTML.open("w", encoding="utf-8") as handle:
+        handle.write(build_hub(records))
+    for record in records:
+        with (PAGES_OUT / f"{record['slug']}.html").open("w", encoding="utf-8") as handle:
+            handle.write(build_detail(record))
+
+    print(f"wrote {OUT_JSON}")
+    print(f"wrote {OUT_HTML}")
+    print(f"wrote company memos to {PAGES_OUT}")
+    print(f"memos={len(records)}")
+
+
+if __name__ == "__main__":
+    main()

@@ -60,6 +60,10 @@ SECTOR_MEMOS_LINK = (
     "The sector memo layer maps the major sectors to dominant themes, force pressures, representative industries, and advantaged versus exposed setups."
 )
 
+COMPANY_MEMOS_LINK = (
+    "The company memo layer translates important names into explicit structural reads tied back to sector logic, dominant themes, force exposure, and break-risk questions."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -228,6 +232,11 @@ def main():
     <div class="meta">Sector layer</div>
     <h3><a href="sector-memos.html">Sector Memos</a></h3>
     <p>{e(SECTOR_MEMOS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Company layer</div>
+    <h3><a href="company-memos.html">Company Memos</a></h3>
+    <p>{e(COMPANY_MEMOS_LINK)}</p>
   </div>
 </section>
 

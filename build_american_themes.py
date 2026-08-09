@@ -1413,6 +1413,227 @@ def build_lookups():
     return force_lookup, crosscut_lookup, company_lookup, brief_lookup
 
 
+FORCE_FRAMES = {
+    "the-hollow-middle": {
+        "driver": "demand keeps separating into value-safe and premium-defensible positions",
+        "pressure": "undifferentiated middle-market offers lose both pricing room and emotional clarity",
+        "signal": "mix shifts toward either obvious value packs or visibly better premium tiers",
+    },
+    "the-channel-shift": {
+        "driver": "discovery, comparison, and fulfillment are being reorganized by digital channels",
+        "pressure": "operators that do not control demand or service convenience get commoditized faster",
+        "signal": "traffic, basket construction, and repeat behavior move toward low-friction channels",
+    },
+    "the-margin-vise": {
+        "driver": "input, labor, and service costs are staying elevated against selective customer willingness to pay",
+        "pressure": "categories with weak differentiation get forced into promotion or mix deterioration",
+        "signal": "operators lean harder on pricing architecture, pack-size changes, and cost takeout",
+    },
+    "the-health-reckoning": {
+        "driver": "health behavior is moving from niche preference to mainstream social filter",
+        "pressure": "legacy products and routines face reformulation pressure from wellness expectations",
+        "signal": "protein, low-sugar, sober-curious, and health-tracking language becomes more central",
+    },
+    "the-experience-economy": {
+        "driver": "status and discretionary spend are moving toward participation, memory, and live presence",
+        "pressure": "generic goods and generic venues struggle to justify spend against curated experiences",
+        "signal": "winners show stronger repeat visitation, programming leverage, and social shareability",
+    },
+    "the-graying-market": {
+        "driver": "older households are becoming a larger and more economically decisive cohort",
+        "pressure": "care intensity, mobility limits, and age-linked financial needs reshape category economics",
+        "signal": "demand tilts toward chronic care, assistance, protection, and age-adapted convenience",
+    },
+    "the-labor-squeeze": {
+        "driver": "scarce labor and wage pressure are forcing redesign in service and physical operations",
+        "pressure": "throughput and quality become harder to defend when skilled labor is the bottleneck",
+        "signal": "automation, scheduling discipline, retention tactics, and selective simplification accelerate",
+    },
+    "the-pricing-power-collapse": {
+        "driver": "buyers with payer leverage or concentrated purchasing power are capping monetization",
+        "pressure": "headline demand overstates actual return capture where reimbursement or procurement rules dominate",
+        "signal": "margin performance diverges more from volume growth in payer-shaped sectors",
+    },
+    "the-compliance-tax": {
+        "driver": "mandatory documentation, testing, privacy, and audit overhead keep thickening",
+        "pressure": "more value accrues to those who can operationalize rule complexity at scale",
+        "signal": "workflow software, certification, and managed compliance budgets keep deepening",
+    },
+    "the-fractional-worker": {
+        "driver": "employment is becoming more modular, rented, and task-specific",
+        "pressure": "traditional ladders, benefits, and firm-sponsored stability weaken at the edges first",
+        "signal": "advisory retainers, project staffing, and portable admin layers gain relevance",
+    },
+    "the-compute-super-cycle": {
+        "driver": "AI and compute demand are simultaneously compressing workflows and straining physical infrastructure",
+        "pressure": "capital, power, and data-center access become competitive variables rather than background inputs",
+        "signal": "automation budgets, inference demand, and power-ready site competition keep rising",
+    },
+    "atoms-strike-back": {
+        "driver": "physical supply chains, manufacturing capacity, and infrastructure have regained strategic value",
+        "pressure": "operators are re-exposed to land, freight, material, and plant constraints",
+        "signal": "domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation",
+    },
+    "commodity-whiplash": {
+        "driver": "volatile material and energy inputs are transmitting instability into downstream pricing",
+        "pressure": "thin-margin models are less able to absorb policy or commodity shocks cleanly",
+        "signal": "sourcing optionality and contract discipline become visibly more strategic",
+    },
+    "the-real-estate-reckoning": {
+        "driver": "the value of place is being repriced by rates, hybrid work, logistics, and compute demand",
+        "pressure": "commodity space loses relevance while utility-linked or flow-linked sites gain rent",
+        "signal": "adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points",
+    },
+    "the-great-consolidation": {
+        "driver": "ownership scale is increasingly rewarded in sectors burdened by complexity",
+        "pressure": "independent operators face rising disadvantages in procurement, software, and compliance",
+        "signal": "platform control, roll-ups, and centralized purchasing keep widening the gap",
+    },
+    "money-gets-unbundled": {
+        "driver": "financial products, risk management, and payment rails are fragmenting into specialized layers",
+        "pressure": "intermediaries without privileged data, trust, or embedded distribution lose ground",
+        "signal": "verification, underwriting precision, and workflow adjacency become stronger moats",
+    },
+}
+
+
+def lower_first(text: str) -> str:
+    if not text:
+        return ""
+    return text[0].lower() + text[1:]
+
+
+def join_titles(items: list[dict], fallback: str, limit: int = 3) -> str:
+    titles = [item.get("title", "") for item in items if item.get("title")]
+    if not titles:
+        return fallback
+    titles = titles[:limit]
+    if len(titles) == 1:
+        return titles[0]
+    if len(titles) == 2:
+        return f"{titles[0]} and {titles[1]}"
+    return f"{', '.join(titles[:-1])}, and {titles[-1]}"
+
+
+def join_strings(items: list[str], fallback: str, limit: int = 3) -> str:
+    values = [item for item in items if item]
+    if not values:
+        return fallback
+    values = values[:limit]
+    if len(values) == 1:
+        return values[0]
+    if len(values) == 2:
+        return f"{values[0]} and {values[1]}"
+    return f"{', '.join(values[:-1])}, and {values[-1]}"
+
+
+def sector_phrase(industries: list[dict]) -> str:
+    sectors = []
+    for item in industries:
+        sector = item.get("sector", "").strip()
+        if sector and sector not in sectors:
+            sectors.append(sector)
+    if not sectors:
+        return "multiple parts of the economy"
+    if len(sectors) == 1:
+        return sectors[0].lower()
+    if len(sectors) == 2:
+        return f"{sectors[0].lower()} and {sectors[1].lower()}"
+    return f"{', '.join(sector.lower() for sector in sectors[:2])}, and adjacent sectors"
+
+
+def build_subtheme_deep_read(theme: dict, subtheme: dict, industries: list[dict], companies: list[dict], forces: list[dict]) -> str:
+    micro_a = subtheme["microthemes"][0] if subtheme["microthemes"] else "category behavior"
+    micro_b = subtheme["microthemes"][1] if len(subtheme["microthemes"]) > 1 else micro_a
+    force_mix = join_strings([force["title"].lower() for force in forces[:2]], "multiple linked forces", limit=2)
+    sectors = sector_phrase(industries)
+    company_mix = join_titles(companies, "scaled operators", limit=3)
+    implication = lower_first(subtheme["operator_implications"][0].rstrip(".")) if subtheme["operator_implications"] else "execution discipline matters more"
+    return (
+        f"{micro_a.capitalize()} and {micro_b} are no longer isolated category quirks. "
+        f"They are showing up across {sectors}, where {force_mix} are changing the operating baseline. "
+        f"That pushes the category toward a world where {implication}. "
+        f"The pattern is already visible in example operators such as {company_mix}."
+    )
+
+
+def build_subtheme_drivers(subtheme: dict, forces: list[dict]) -> list[str]:
+    drivers = []
+    for item in subtheme["microthemes"][:2]:
+        drivers.append(f"Demand and behavior are reorganizing around {item}.")
+    for force in forces[:2]:
+        frame = FORCE_FRAMES.get(force["slug"])
+        if frame:
+            drivers.append(frame["driver"].capitalize() + ".")
+    return drivers[:4]
+
+
+def build_subtheme_pressure_points(subtheme: dict, industries: list[dict], forces: list[dict]) -> list[str]:
+    points = []
+    for item in industries[:2]:
+        sector = item.get("sector", "the category").lower()
+        one_sentence = str(item.get("one_sentence", "baseline customer expectations")).strip().rstrip(".")
+        points.append(f"{sector.capitalize()} operators have to absorb this shift in a market where {lower_first(one_sentence)}.")
+    for force in forces[:2]:
+        frame = FORCE_FRAMES.get(force["slug"])
+        if frame:
+            points.append(frame["pressure"].capitalize() + ".")
+    return points[:4]
+
+
+def build_subtheme_signals(subtheme: dict, industries: list[dict], companies: list[dict], forces: list[dict]) -> list[str]:
+    signals = []
+    for force in forces[:2]:
+        frame = FORCE_FRAMES.get(force["slug"])
+        if frame:
+            signals.append(frame["signal"].capitalize() + ".")
+    if companies:
+        advantaged = sum(1 for item in companies if item.get("status") == "advantaged")
+        exposed = sum(1 for item in companies if item.get("status") == "exposed")
+        signals.append(
+            f"Company mix is already separating, with {advantaged} advantaged examples and {exposed} exposed examples inside this subtheme set."
+        )
+    if industries:
+        signals.append(
+            f"Watch whether evidence industries such as {join_titles(industries, 'linked industries', limit=2)} start treating this as a planning assumption rather than a side case."
+        )
+    return signals[:4]
+
+
+def build_subtheme_consequences(subtheme: dict) -> list[str]:
+    items = []
+    for implication in subtheme["operator_implications"][:3]:
+        items.append(implication)
+    if subtheme["microthemes"]:
+        items.append(
+            f"The second-order read is that {subtheme['microthemes'][0]} stops being anecdotal and starts altering category structure."
+        )
+    return items[:4]
+
+
+def build_theme_tensions(theme: dict) -> list[str]:
+    first = theme["subthemes"][0]["title"] if theme["subthemes"] else theme["title"]
+    second = theme["subthemes"][1]["title"] if len(theme["subthemes"]) > 1 else theme["title"]
+    return [
+        f"The central tension inside {theme['title']} is that {lower_first(theme['thesis'].rstrip('.'))}, but the route to capturing that demand runs through the practical frictions surfaced by {first}.",
+        f"A second tension sits between household or institutional demand and the operating constraints surfaced by {second}.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable.",
+    ]
+
+
+def build_theme_signals(theme: dict) -> list[str]:
+    signals = []
+    seen = set()
+    for subtheme in theme["subthemes"]:
+        for signal in subtheme.get("signals_to_watch", [])[:1]:
+            if signal not in seen:
+                seen.add(signal)
+                signals.append(signal)
+            if len(signals) == 4:
+                return signals
+    return signals
+
+
 def build_theme_records():
     force_lookup, crosscut_lookup, company_lookup, brief_lookup = build_lookups()
     theme_records = []
@@ -1427,6 +1648,12 @@ def build_theme_records():
             microtheme_total += len(subtheme["microthemes"])
             industries = [brief_lookup[slug] for slug in subtheme["industries"] if slug in brief_lookup]
             companies = [company_lookup[slug] for slug in subtheme["companies"] if slug in company_lookup]
+            linked_forces = [force_lookup[slug] for slug in subtheme["forces"] if slug in force_lookup]
+            deep_read = build_subtheme_deep_read(theme, subtheme, industries, companies, linked_forces)
+            structural_drivers = build_subtheme_drivers(subtheme, linked_forces)
+            pressure_points = build_subtheme_pressure_points(subtheme, industries, linked_forces)
+            signals_to_watch = build_subtheme_signals(subtheme, industries, companies, linked_forces)
+            strategic_consequences = build_subtheme_consequences(subtheme)
             theme_industries.update(item["slug"] for item in industries)
             theme_companies.update(item["slug"] for item in companies)
             subtheme_records.append(
@@ -1434,9 +1661,14 @@ def build_theme_records():
                     "slug": subtheme["slug"],
                     "title": subtheme["title"],
                     "summary": subtheme["summary"],
+                    "deep_read": deep_read,
                     "microthemes": subtheme["microthemes"],
+                    "structural_drivers": structural_drivers,
+                    "pressure_points": pressure_points,
+                    "signals_to_watch": signals_to_watch,
+                    "strategic_consequences": strategic_consequences,
                     "operator_implications": subtheme["operator_implications"],
-                    "forces": [force_lookup[slug] for slug in subtheme["forces"] if slug in force_lookup],
+                    "forces": linked_forces,
                     "industries": [
                         {
                             "slug": item["slug"],
@@ -1475,8 +1707,11 @@ def build_theme_records():
                 "forces": [force_lookup[slug] for slug in theme["forces"] if slug in force_lookup],
                 "crosscuts": [crosscut_lookup[slug] for slug in theme["crosscuts"] if slug in crosscut_lookup],
                 "subthemes": subtheme_records,
+                "structural_tensions": build_theme_tensions({"title": theme["title"], "thesis": theme["thesis"], "subthemes": subtheme_records}),
+                "signals_to_watch": build_theme_signals({"subthemes": subtheme_records}),
                 "subtheme_count": len(subtheme_records),
                 "microtheme_count": microtheme_total,
+                "signal_count": sum(len(subtheme["signals_to_watch"]) for subtheme in subtheme_records),
                 "evidence_industry_count": len(theme_industries),
                 "example_company_count": len(theme_companies),
                 "company_status_counts": company_status_counts,
@@ -1512,6 +1747,7 @@ def theme_card(theme: dict) -> str:
   <div class="stats">
     <div class="stat"><div class="n">{theme['subtheme_count']}</div><div class="l">Subthemes</div></div>
     <div class="stat"><div class="n">{theme['microtheme_count']}</div><div class="l">Second-order themes</div></div>
+    <div class="stat"><div class="n">{theme['signal_count']}</div><div class="l">Signals</div></div>
     <div class="stat"><div class="n">{theme['evidence_industry_count']}</div><div class="l">Evidence industries</div></div>
     <div class="stat"><div class="n">{theme['example_company_count']}</div><div class="l">Example companies</div></div>
   </div>
@@ -1530,6 +1766,7 @@ def build_main_page(theme_records: list[dict]) -> str:
     crosscut_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in crosscuts)
     microtheme_count = sum(theme["microtheme_count"] for theme in theme_records)
     subtheme_count = sum(theme["subtheme_count"] for theme in theme_records)
+    signal_count = sum(theme["signal_count"] for theme in theme_records)
 
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -1543,9 +1780,10 @@ def build_main_page(theme_records: list[dict]) -> str:
   <div class="kpi"><div class="n">{len(theme_records)}</div><div class="l">Top-level themes</div></div>
   <div class="kpi"><div class="n">{subtheme_count}</div><div class="l">Subthemes</div></div>
   <div class="kpi"><div class="n">{microtheme_count}</div><div class="l">Second-order themes</div></div>
+  <div class="kpi"><div class="n">{signal_count}</div><div class="l">Signals</div></div>
   <div class="kpi"><div class="n">1491</div><div class="l">Industry base</div></div>
 </div>
-<div class="lead"><p>The big picture is not just that the economy is changing. It is that daily life, business structure, and institutional behavior are changing together: households are splitting into value and premium, health is becoming a social norm engine, care is aging into a labor bottleneck, AI is turning into both a power trade and a workflow trade, and scale owners keep taking more of the spread created by complexity.</p></div>
+<div class="lead"><p>The big picture is not just that the economy is changing. It is that daily life, business structure, and institutional behavior are changing together: households are splitting into value and premium, health is becoming a social norm engine, care is aging into a labor bottleneck, AI is turning into both a power trade and a workflow trade, and scale owners keep taking more of the spread created by complexity. This version adds a denser read inside each theme, with explicit drivers, pressure points, signals, and strategic consequences at the subtheme level.</p></div>
 
 <section class="section">
   <h2>How To Read It</h2>
@@ -1589,6 +1827,8 @@ def company_badge(status: str) -> str:
 
 def build_theme_page(theme: dict) -> str:
     questions = "".join(f"<li>{e(question)}</li>" for question in theme["questions"])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"])
+    watch_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     force_links = "".join(force_chip(force, prefix="../") for force in theme["forces"])
     crosscut_chips = "".join(f'<span class="chip">{e(item["title"])}</span>' for item in theme["crosscuts"])
     subtheme_blocks = []
@@ -1596,6 +1836,10 @@ def build_theme_page(theme: dict) -> str:
     for subtheme in theme["subthemes"]:
         microthemes = "".join(f'<span class="chip">{e(item)}</span>' for item in subtheme["microthemes"])
         force_chips = "".join(force_chip(force, prefix="../") for force in subtheme["forces"])
+        driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"])
+        pressure_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["pressure_points"])
+        signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"])
+        consequence_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["strategic_consequences"])
         industry_items = "".join(
             f"<li><b>{e(item['title'])}</b> <span class=\"meta\">{e(item['sector'])}</span><br>{e(item['one_sentence'])}</li>"
             for item in subtheme["industries"]
@@ -1617,8 +1861,32 @@ def build_theme_page(theme: dict) -> str:
   <div class="meta">{e(theme['title'])}</div>
   <h3>{e(subtheme['title'])}</h3>
   <p>{e(subtheme['summary'])}</p>
+  <div class="panel">
+    <div class="meta">Deeper read</div>
+    <p>{e(subtheme['deep_read'])}</p>
+  </div>
   <div class="chips">{microthemes}</div>
   <div class="chips">{force_chips}</div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Structural drivers</div>
+      <ul class="list">{driver_items}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Pressure points</div>
+      <ul class="list">{pressure_items}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Signals to watch</div>
+      <ul class="list">{signal_items}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Strategic consequences</div>
+      <ul class="list">{consequence_items}</ul>
+    </div>
+  </div>
   <div class="split">
     <div class="panel">
       <div class="meta">Evidence industries</div>
@@ -1647,6 +1915,7 @@ def build_theme_page(theme: dict) -> str:
 <div class="strip">
   <div class="kpi"><div class="n">{theme['subtheme_count']}</div><div class="l">Subthemes</div></div>
   <div class="kpi"><div class="n">{theme['microtheme_count']}</div><div class="l">Second-order themes</div></div>
+  <div class="kpi"><div class="n">{theme['signal_count']}</div><div class="l">Signals</div></div>
   <div class="kpi"><div class="n">{theme['evidence_industry_count']}</div><div class="l">Evidence industries</div></div>
   <div class="kpi"><div class="n">{theme['example_company_count']}</div><div class="l">Example companies</div></div>
 </div>
@@ -1659,10 +1928,18 @@ def build_theme_page(theme: dict) -> str:
       <ul class="q">{questions}</ul>
     </div>
     <div class="panel">
+      <div class="meta">Structural tensions</div>
+      <ul class="q">{tensions}</ul>
+    </div>
+    <div class="panel">
       <div class="meta">Linked forces</div>
       <div class="chips">{force_links}</div>
       <div class="meta" style="margin-top:14px">Crosscuts</div>
       <div class="chips">{crosscut_chips}</div>
+    </div>
+    <div class="panel">
+      <div class="meta">Signals to watch</div>
+      <ul class="q">{watch_signals}</ul>
     </div>
     <div class="panel">
       <div class="meta">Company mix</div>
@@ -1691,6 +1968,7 @@ def main() -> None:
             "theme_count": len(theme_records),
             "subtheme_count": sum(theme["subtheme_count"] for theme in theme_records),
             "microtheme_count": sum(theme["microtheme_count"] for theme in theme_records),
+            "signal_count": sum(theme["signal_count"] for theme in theme_records),
             "purpose": "Detailed societal, cultural, consumer, industrial, and institutional themes built on top of the industry, force, and company corpus.",
         },
         "themes": theme_records,
@@ -1711,7 +1989,8 @@ def main() -> None:
     print(
         f"themes={out['metadata']['theme_count']} "
         f"subthemes={out['metadata']['subtheme_count']} "
-        f"microthemes={out['metadata']['microtheme_count']}"
+        f"microthemes={out['metadata']['microtheme_count']} "
+        f"signals={out['metadata']['signal_count']}"
     )
 
 

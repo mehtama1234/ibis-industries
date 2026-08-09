@@ -269,7 +269,7 @@ MEMOS = {
 
 CSS = """
 :root{--bg:#0f141b;--panel:#171f29;--panel2:#1e2935;--line:#2a3644;--ink:#f1eadc;--muted:#a9b2be;--faint:#73808e;--gold:#d5ac57;--green:#78ca90;--red:#e07d6d;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1200px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3,.panel h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.memo{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.memo:first-of-type{margin-top:0;padding-top:0;border-top:none}.memo h3{font-size:1.28rem;margin:.2em 0 .35em}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.smallgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .35em;font-size:.96rem}.mini p{margin:0;color:var(--muted);font-size:.9rem}@media(max-width:920px){.split{grid-template-columns:1fr}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1200px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3,.panel h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.memo{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.memo:first-of-type{margin-top:0;padding-top:0;border-top:none}.memo h3{font-size:1.28rem;margin:.2em 0 .35em}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.smallgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .35em;font-size:.96rem}.mini p{margin:0;color:var(--muted);font-size:.9rem}.subcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:14px}.subcard{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:14px}.subcard h4{margin:.2em 0 .35em;font-size:1rem}.subcard p{margin:.35em 0 0;color:var(--muted);font-size:.95rem}@media(max-width:920px){.split{grid-template-columns:1fr}}
 """
 
 
@@ -317,17 +317,41 @@ def theme_taxonomy_chip(theme: dict, prefix: str = "") -> str:
     return f'<a class="chip" href="{e(prefix)}themes/{e(theme["slug"])}.html">{e(theme["title"])} taxonomy</a>'
 
 
+def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -> str:
+    forces = "".join(
+        f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
+        for force in subtheme["forces"]
+    )
+    return f"""<article class="subcard">
+  <div class="meta">Applied subtheme</div>
+  <h4><a href="{e(prefix)}themes/{e(theme['slug'])}.html#{e(subtheme['slug'])}">{e(subtheme['title'])}</a></h4>
+  <p>{e(subtheme['deep_read'])}</p>
+  <div class="chips">{forces}</div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Pressure points</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['pressure_points'][:3])}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Strategic consequences</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['strategic_consequences'][:3])}</ul>
+  </div>
+</article>"""
+
+
 def render_memo(theme: dict, prefix: str = "") -> str:
     best = "".join(f"<li>{e(item)}</li>" for item in theme["best_hunting_grounds"])
     avoid = "".join(f"<li>{e(item)}</li>" for item in theme["avoid_zones"])
     moves = "".join(f"<li>{e(item)}</li>" for item in theme["operator_moves"])
     questions = "".join(f"<li>{e(item)}</li>" for item in theme["investor_questions"])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"])
+    signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     force_chips = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
     )
     advantaged = "".join(company_link(company, prefix=prefix) for company in theme["advantaged_examples"]) or '<span class="chip">none surfaced</span>'
     exposed = "".join(company_link(company, prefix=prefix) for company in theme["exposed_examples"]) or '<span class="chip">none surfaced</span>'
+    subcards = "".join(render_subtheme_application(theme, subtheme, prefix=prefix) for subtheme in theme["subthemes"])
     return f"""<section class="memo">
   <div class="meta">{e(theme['lens'])} memo</div>
   <h3>{e(theme['title'])}</h3>
@@ -354,6 +378,16 @@ def render_memo(theme: dict, prefix: str = "") -> str:
       <ul class="list">{questions}</ul>
     </div>
   </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Structural tensions</div>
+      <ul class="list">{tensions}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Signals to watch</div>
+      <ul class="list">{signals}</ul>
+    </div>
+  </div>
   <div class="smallgrid">
     <div class="mini">
       <h4>Advantaged examples</h4>
@@ -363,6 +397,10 @@ def render_memo(theme: dict, prefix: str = "") -> str:
       <h4>Exposed examples</h4>
       <div class="chips">{exposed}</div>
     </div>
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Subtheme application map</div>
+    <div class="subcards">{subcards}</div>
   </div>
 </section>"""
 
@@ -391,6 +429,7 @@ def build_hub(records: list[dict]) -> str:
   <div class="kpi"><div class="n">{len(records)}</div><div class="l">Theme memos</div></div>
   <div class="kpi"><div class="n">{sum(len(theme['operator_moves']) for theme in records)}</div><div class="l">Operator moves</div></div>
   <div class="kpi"><div class="n">{sum(len(theme['investor_questions']) for theme in records)}</div><div class="l">Diligence questions</div></div>
+  <div class="kpi"><div class="n">{sum(theme['signal_count'] for theme in records)}</div><div class="l">Signals carried through</div></div>
 </div>
 <div class="lead"><p>Use this layer when the question shifts from what is happening to what to do with it. The memos assume the theme system is already true and translate it into actionable screening, diligence, and operating posture.</p></div>
 
@@ -419,6 +458,7 @@ def build_detail(theme: dict) -> str:
 <div class="kpis">
   <div class="kpi"><div class="n">{len(theme['operator_moves'])}</div><div class="l">Operator moves</div></div>
   <div class="kpi"><div class="n">{len(theme['investor_questions'])}</div><div class="l">Investor questions</div></div>
+  <div class="kpi"><div class="n">{theme['signal_count']}</div><div class="l">Signals</div></div>
   <div class="kpi"><div class="n">{theme['evidence_industry_count']}</div><div class="l">Evidence industries</div></div>
 </div>
 <div class="lead"><p>{e(theme['operator_angle'])}</p></div>

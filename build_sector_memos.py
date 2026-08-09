@@ -78,7 +78,7 @@ SECTOR_CONFIG = {
 
 CSS = """
 :root{--bg:#0f141b;--panel:#171f29;--panel2:#1e2935;--line:#2a3644;--ink:#f1eadc;--muted:#a9b2be;--faint:#73808e;--gold:#d5ac57;--green:#78ca90;--red:#e07d6d;--amber:#d9a441;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1220px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel,.brief{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3,.panel h3,.brief h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p,.brief p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.memo{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.memo:first-of-type{margin-top:0;padding-top:0;border-top:none}.memo h3{font-size:1.28rem;margin:.2em 0 .35em}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.smallgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .35em;font-size:.96rem}.mini p{margin:0;color:var(--muted);font-size:.9rem}.status{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:.68rem;border:1px solid var(--line);border-radius:999px;padding:4px 8px}.status.adv{color:var(--green)}.status.mix{color:var(--amber)}.status.exp{color:var(--red)}@media(max-width:920px){.split{grid-template-columns:1fr}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1220px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel,.brief{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3,.panel h3,.brief h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p,.brief p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.memo{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.memo:first-of-type{margin-top:0;padding-top:0;border-top:none}.memo h3{font-size:1.28rem;margin:.2em 0 .35em}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.smallgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .35em;font-size:.96rem}.mini p{margin:0;color:var(--muted);font-size:.9rem}.subcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:14px}.subcard{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:14px}.subcard h4{margin:.2em 0 .35em;font-size:1rem}.subcard p{margin:.35em 0 0;color:var(--muted);font-size:.95rem}.status{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:.68rem;border:1px solid var(--line);border-radius:999px;padding:4px 8px}.status.adv{color:var(--green)}.status.mix{color:var(--amber)}.status.exp{color:var(--red)}@media(max-width:920px){.split{grid-template-columns:1fr}}
 """
 
 
@@ -120,6 +120,9 @@ def build_sector_records() -> list[dict]:
             "industry_count": 0,
             "theme_counts": Counter(),
             "force_counts": Counter(),
+            "theme_objects": {},
+            "subtheme_records": [],
+            "subtheme_keys": set(),
             "example_industries": [],
             "advantaged": [],
             "mixed": [],
@@ -137,6 +140,29 @@ def build_sector_records() -> list[dict]:
                 sector = industry.get("sector")
                 if sector in sector_data:
                     sector_data[sector]["theme_counts"][theme["title"]] += 1
+                    sector_data[sector]["theme_objects"][theme["slug"]] = {
+                        "slug": theme["slug"],
+                        "title": theme["title"],
+                        "lens": theme["lens"],
+                        "structural_tensions": theme.get("structural_tensions", []),
+                        "signals_to_watch": theme.get("signals_to_watch", []),
+                    }
+                    subtheme_key = (theme["slug"], subtheme["slug"])
+                    if subtheme_key not in sector_data[sector]["subtheme_keys"]:
+                        sector_data[sector]["subtheme_keys"].add(subtheme_key)
+                        sector_data[sector]["subtheme_records"].append(
+                            {
+                                "theme_slug": theme["slug"],
+                                "theme_title": theme["title"],
+                                "slug": subtheme["slug"],
+                                "title": subtheme["title"],
+                                "deep_read": subtheme.get("deep_read", subtheme.get("summary", "")),
+                                "pressure_points": subtheme.get("pressure_points", []),
+                                "signals_to_watch": subtheme.get("signals_to_watch", []),
+                                "strategic_consequences": subtheme.get("strategic_consequences", []),
+                                "forces": subtheme["forces"],
+                            }
+                        )
                     for force in subtheme["forces"]:
                         sector_data[sector]["force_counts"][force["title"]] += 1
 
@@ -158,6 +184,24 @@ def build_sector_records() -> list[dict]:
         record["exposed"] = [c for c in sector_companies if c.get("status") == "exposed"][:6]
         record["dominant_themes"] = [name for name, _ in record["theme_counts"].most_common(4)]
         record["dominant_forces"] = [name for name, _ in record["force_counts"].most_common(4)]
+        ordered_theme_slugs = [
+            slug for slug, theme_obj in record["theme_objects"].items()
+            if theme_obj["title"] in record["dominant_themes"]
+        ]
+        record["dominant_theme_objects"] = sorted(
+            [record["theme_objects"][slug] for slug in ordered_theme_slugs],
+            key=lambda row: record["dominant_themes"].index(row["title"]) if row["title"] in record["dominant_themes"] else 99,
+        )[:3]
+        record["theme_tensions"] = []
+        record["theme_signals"] = []
+        for theme_obj in record["dominant_theme_objects"]:
+            for item in theme_obj["structural_tensions"][:2]:
+                if item not in record["theme_tensions"]:
+                    record["theme_tensions"].append(item)
+            for item in theme_obj["signals_to_watch"][:2]:
+                if item not in record["theme_signals"]:
+                    record["theme_signals"].append(item)
+        record["subtheme_map"] = record["subtheme_records"][:6]
         record["sector_thesis"] = build_sector_thesis(sector, record)
         record["diligence_questions"] = build_diligence_questions(sector, record)
         record["advantaged_setups"] = build_advantaged_setups(sector, record)
@@ -251,13 +295,40 @@ def brief_card(brief: dict) -> str:
 </article>"""
 
 
+def render_subtheme_application(subtheme: dict, prefix: str = "") -> str:
+    force_chips = "".join(
+        f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
+        for force in subtheme["forces"][:3]
+    )
+    pressure = "".join(f"<li>{e(item)}</li>" for item in subtheme["pressure_points"][:2])
+    signals = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:2])
+    consequences = "".join(f"<li>{e(item)}</li>" for item in subtheme["strategic_consequences"][:2])
+    return f"""<article class="subcard">
+  <div class="meta">{e(subtheme['theme_title'])}</div>
+  <h4><a href="{e(prefix)}themes/{e(subtheme['theme_slug'])}.html#{e(subtheme['slug'])}">{e(subtheme['title'])}</a></h4>
+  <p>{e(subtheme['deep_read'])}</p>
+  <div class="chips">{force_chips}</div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Pressure points</div>
+    <ul class="list">{pressure}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Signals and consequences</div>
+    <ul class="list">{signals}{consequences}</ul>
+  </div>
+</article>"""
+
+
 def render_sector(record: dict, prefix: str = "") -> str:
     themes = "".join(f'<span class="chip">{e(item)}</span>' for item in record["dominant_themes"])
     forces = "".join(f'<span class="chip">{e(item)}</span>' for item in record["dominant_forces"])
     questions = "".join(f"<li>{e(item)}</li>" for item in record["diligence_questions"])
     advantaged = "".join(f"<li>{e(item)}</li>" for item in record["advantaged_setups"])
     exposed = "".join(f"<li>{e(item)}</li>" for item in record["exposed_setups"])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in record["theme_tensions"][:4])
+    signals = "".join(f"<li>{e(item)}</li>" for item in record["theme_signals"][:4])
     industry_cards = "".join(brief_card(item) for item in record["example_industries"][:4])
+    subtheme_cards = "".join(render_subtheme_application(item, prefix=prefix) for item in record["subtheme_map"])
 
     def company_block(rows: list[dict], label: str, cls: str) -> str:
         chips = "".join(company_chip(row, prefix=prefix) for row in rows) or '<span class="chip">none surfaced</span>'
@@ -293,10 +364,24 @@ def render_sector(record: dict, prefix: str = "") -> str:
       <div class="grid">{industry_cards}</div>
     </div>
   </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Theme tensions crossing the sector</div>
+      <ul class="list">{tensions}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Signals to watch</div>
+      <ul class="list">{signals}</ul>
+    </div>
+  </div>
   <div class="smallgrid">
     {company_block(record['advantaged'], 'Advantaged names', 'adv')}
     {company_block(record['mixed'], 'Contested middle', 'mix')}
     {company_block(record['exposed'], 'Exposed names', 'exp')}
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Sector subtheme map</div>
+    <div class="subcards">{subtheme_cards}</div>
   </div>
 </section>"""
 
@@ -324,6 +409,7 @@ def build_hub(records: list[dict]) -> str:
   <div class="kpi"><div class="n">{len(records)}</div><div class="l">Major sectors</div></div>
   <div class="kpi"><div class="n">{sum(record['industry_count'] for record in records)}</div><div class="l">Mapped industries</div></div>
   <div class="kpi"><div class="n">{sum(len(record['diligence_questions']) for record in records)}</div><div class="l">Diligence questions</div></div>
+  <div class="kpi"><div class="n">{sum(len(record['theme_signals']) for record in records)}</div><div class="l">Signals surfaced</div></div>
 </div>
 <div class="lead"><p>Use this layer when the question is not just what a theme means, but what it means for an entire sector. The memos are designed to compress screening, diligence, and sector positioning into one read.</p></div>
 
@@ -353,6 +439,7 @@ def build_detail(record: dict) -> str:
   <div class="kpi"><div class="n">{record['industry_count']}</div><div class="l">Industries</div></div>
   <div class="kpi"><div class="n">{len(record['diligence_questions'])}</div><div class="l">Diligence questions</div></div>
   <div class="kpi"><div class="n">{len(record['dominant_themes'])}</div><div class="l">Dominant themes</div></div>
+  <div class="kpi"><div class="n">{len(record['subtheme_map'])}</div><div class="l">Mapped subthemes</div></div>
 </div>
 <div class="lead"><p>{e(record['operator_angle'])}</p></div>
 <section class="section">

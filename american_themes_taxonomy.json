@@ -4,6 +4,7 @@
     "theme_count": 10,
     "subtheme_count": 50,
     "microtheme_count": 200,
+    "signal_count": 193,
     "purpose": "Detailed societal, cultural, consumer, industrial, and institutional themes built on top of the industry, force, and company corpus."
   },
   "themes": [
@@ -72,11 +73,36 @@
           "slug": "value-machines",
           "title": "Value Machines Win the Weekly Basket",
           "summary": "Traffic concentrates around operators that make basic household shopping feel reliably cheaper, faster, and less cognitively expensive.",
+          "deep_read": "Bulk purchasing as household insurance and membership and loyalty as value signaling are no longer isolated category quirks. They are showing up across retail, where the hollow middle and the channel shift are changing the operating baseline. That pushes the category toward a world where winning formats remove search friction and visibly defend value. The pattern is already visible in example operators such as Walmart, Costco, and Kroger.",
           "microthemes": [
             "bulk purchasing as household insurance",
             "membership and loyalty as value signaling",
             "private label as margin plus trust",
             "trip consolidation into fewer higher-yield baskets"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around bulk purchasing as household insurance.",
+            "Demand and behavior are reorganizing around membership and loyalty as value signaling.",
+            "Demand keeps separating into value-safe and premium-defensible positions.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where the $107.2 billion US discount department stores industry is stabilizing after years of decline, driven by inflation-fueled consumer trade-down behavior and off-price players aggressively expanding, though tariffs and wage pressures are squeezing margins.",
+            "Retail operators have to absorb this shift in a market where warehouse clubs and supercenters sell groceries, fuel and general merchandise at low prices, using purchasing scale, large-format stores, memberships and store-based fulfillment to defend share against supermarkets, dollar stores and e-commerce rivals.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Discount Department Stores and Warehouse Clubs & Supercenters in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Winning formats remove search friction and visibly defend value.",
+            "Scale buying power matters more than merchant taste alone.",
+            "The basket has to feel prudent before it feels exciting.",
+            "The second-order read is that bulk purchasing as household insurance stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Winning formats remove search friction and visibly defend value.",
@@ -176,11 +202,36 @@
           "slug": "premium-refuges",
           "title": "Premium Refuges Still Hold Price",
           "summary": "Some categories still support premium spend, but only where status, trust, aesthetics, or specialized quality remain legible to the buyer.",
+          "deep_read": "Premium as self-permission rather than simple indulgence and quality signaling through brand, fit, and finish are no longer isolated category quirks. They are showing up across retail and food & drink, where the hollow middle and the margin vise are changing the operating baseline. That pushes the category toward a world where premium only works when the customer can articulate why the product is better. The pattern is already visible in example operators such as Ulta Beauty, Williams-Sonoma, and Lululemon.",
           "microthemes": [
             "premium as self-permission rather than simple indulgence",
             "quality signaling through brand, fit, and finish",
             "small luxuries surviving inside stretched budgets",
             "premium niches outperforming broad mid-tier assortments"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around premium as self-permission rather than simple indulgence.",
+            "Demand and behavior are reorganizing around quality signaling through brand, fit, and finish.",
+            "Demand keeps separating into value-safe and premium-defensible positions.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where the US brick-and-mortar jewelry stores industry contracted sharply in 2025-2026 (12.1% and 2.2% respectively) as tariffs, high gold prices, and e-commerce competition accelerated store closures, even as lab-grown diamonds and wealthy consumers sustained pockets of resilience.",
+            "Food & drink operators have to absorb this shift in a market where in 2026, the U.S. wine industry remains a major economic force but faces weaker domestic demand, climate volatility, and a sharp Canada export shock.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Jewelry Stores in the US and Wineries in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Premium only works when the customer can articulate why the product is better.",
+            "Operators need visible differentiation, not generic upscale positioning.",
+            "Mix quality matters more than raw volume growth.",
+            "The second-order read is that premium as self-permission rather than simple indulgence stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Premium only works when the customer can articulate why the product is better.",
@@ -274,11 +325,36 @@
           "slug": "mid-market-erosion",
           "title": "Mid-Market Erosion Becomes Structural",
           "summary": "Mid-tier stores and brands lose both emotional distinctiveness and economic room as shoppers compare prices instantly and reserve discretionary spend for categories that feel more necessary or more special.",
+          "deep_read": "Department-store logic losing the category anchor role and mid-tier apparel and home formats getting trapped in promotion are no longer isolated category quirks. They are showing up across retail, where the hollow middle and the channel shift are changing the operating baseline. That pushes the category toward a world where mid-tier operators need a hard pivot toward value, service, or curation. The pattern is already visible in example operators such as Target, Nordstrom, and GameStop.",
           "microthemes": [
             "department-store logic losing the category anchor role",
             "mid-tier apparel and home formats getting trapped in promotion",
             "brand sameness reducing willingness to pay",
             "channel fragmentation making mall-era positioning weaker"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around department-store logic losing the category anchor role.",
+            "Demand and behavior are reorganizing around mid-tier apparel and home formats getting trapped in promotion.",
+            "Demand keeps separating into value-safe and premium-defensible positions.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where the US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce.",
+            "Retail operators have to absorb this shift in a market where in 2026, Women's Clothing Stores in the US are rebuilding around sharper merchandising, loyalty, stores-as-showrooms and digital demand capture, but the core brick-and-mortar market is still structurally challenged by online substitution, value-seeking consumers and higher import costs.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Department Stores in the US and Women's Clothing Stores in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Mid-tier operators need a hard pivot toward value, service, or curation.",
+            "Promotion without distinctiveness becomes a slow margin bleed.",
+            "Generic assortment is increasingly nonviable.",
+            "The second-order read is that department-store logic losing the category anchor role stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Mid-tier operators need a hard pivot toward value, service, or curation.",
@@ -392,11 +468,36 @@
           "slug": "convenience-as-spend-logic",
           "title": "Convenience Becomes Its Own Pricing Layer",
           "summary": "Households will still pay for time savings, reduced hassle, and predictable fulfillment even when they resist broad-based price increases elsewhere.",
+          "deep_read": "Fast delivery as default expectation and subscription and replenishment models reducing decision fatigue are no longer isolated category quirks. They are showing up across retail, food & drink, and adjacent sectors, where the channel shift and the margin vise are changing the operating baseline. That pushes the category toward a world where convenience must be operationally real, not just a marketing claim. The pattern is already visible in example operators such as Amazon, DoorDash, and CVS Health.",
           "microthemes": [
             "fast delivery as default expectation",
             "subscription and replenishment models reducing decision fatigue",
             "pickup and omnichannel logistics as habit infrastructure",
             "convenience premiums surviving inside otherwise price-sensitive behavior"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around fast delivery as default expectation.",
+            "Demand and behavior are reorganizing around subscription and replenishment models reducing decision fatigue.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where e-commerce in the US remains fast-growing but increasingly consolidated, with Amazon's dominance setting punishing standards for rivals while regulatory pressure, tariffs, and shrinking margins force smaller sellers to automate or exit.",
+            "Food & drink operators have to absorb this shift in a market where the U.S. meal kit delivery services industry generated an estimated $15.2935 billion in 2025 revenue and is forecast at $17.4149 billion in 2026, with growth increasingly coming from flexible ordering, ready-to-heat meals and grocery-linked distribution rather than pure subscription boxes.",
+            "Operators that do not control demand or service convenience get commoditized faster.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as E-Commerce & Online Auctions in the US and Meal Kit Delivery Services start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Convenience must be operationally real, not just a marketing claim.",
+            "Fulfillment reliability becomes part of product quality.",
+            "Operators should price against time and friction, not just against substitutes.",
+            "The second-order read is that fast delivery as default expectation stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Convenience must be operationally real, not just a marketing claim.",
@@ -502,11 +603,36 @@
           "slug": "private-label-and-dupes",
           "title": "Private Label and Dupes Legitimize Trade-Down",
           "summary": "Consumers increasingly treat lower-priced alternatives as socially acceptable rather than embarrassing, which weakens the moat of many branded middle-market incumbents.",
+          "deep_read": "Private label moving from compromise to smart shopping and dupe culture spreading from beauty into broad retail behavior are no longer isolated category quirks. They are showing up across retail, where the hollow middle and the channel shift are changing the operating baseline. That pushes the category toward a world where brand owners need genuine product or distribution advantage to outrun imitation. The pattern is already visible in example operators such as Walmart, Target, and Ulta Beauty.",
           "microthemes": [
             "private label moving from compromise to smart shopping",
             "dupe culture spreading from beauty into broad retail behavior",
             "social media normalizing imitation over heritage loyalty",
             "retailers using store brands as both value signal and margin tool"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around private label moving from compromise to smart shopping.",
+            "Demand and behavior are reorganizing around dupe culture spreading from beauty into broad retail behavior.",
+            "Demand keeps separating into value-safe and premium-defensible positions.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where the brick-and-mortar health stores sector is stalled—market growth is slowing, major chains are in bankruptcy or being sold to private equity, and tariffs on vitamins and supplements are forcing difficult cost-pass-through decisions in 2025-2026.",
+            "Retail operators have to absorb this shift in a market where the US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Health Stores in the US and Department Stores in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Brand owners need genuine product or distribution advantage to outrun imitation.",
+            "Retailers can use own-brand lines to hold both traffic and gross margin.",
+            "The consumer no longer needs to hide the trade-down decision.",
+            "The second-order read is that private label moving from compromise to smart shopping stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Brand owners need genuine product or distribution advantage to outrun imitation.",
@@ -597,8 +723,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 14,
       "example_company_count": 16,
       "company_status_counts": {
@@ -671,11 +807,36 @@
           "slug": "glp1-appetite-reset",
           "title": "GLP-1 Resets Appetite and Portion Economics",
           "summary": "Reduced appetite and changing food routines ripple across snacks, fast food, weight management, and consumer packaged goods.",
+          "deep_read": "Smaller portion logic reaching mainstream households and traditional weight-loss services being rewritten by pharma are no longer isolated category quirks. They are showing up across consumer services, food & drink, and adjacent sectors, where the health reckoning and the margin vise are changing the operating baseline. That pushes the category toward a world where volume assumptions based on old appetite patterns are less reliable. The pattern is already visible in example operators such as Jenny Craig, McDonald's, and The Coca-Cola Company.",
           "microthemes": [
             "smaller portion logic reaching mainstream households",
             "traditional weight-loss services being rewritten by pharma",
             "calorie-dense impulse categories losing easy volume",
             "food brands rethinking satiety, protein, and nutrient density"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around smaller portion logic reaching mainstream households.",
+            "Demand and behavior are reorganizing around traditional weight-loss services being rewritten by pharma.",
+            "Health behavior is moving from niche preference to mainstream social filter.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where the US weight loss services industry has shifted from center-based coaching and branded diet plans toward hybrid behavioral, clinical and subscription models as GLP-1 medications pull demand away from legacy programs while expanding the addressable market for medically supervised weight management.",
+            "Food & drink operators have to absorb this shift in a market where a mature, fragmented $424B industry growing below 1% in 2026 as traffic deflates from consumer retrenchment and GLP-1 adoption, labor costs rise structurally (California $20/hour minimum now core cost floor), tariffs push food prices relentlessly higher, and chains make desperate bets on AI automation to replace payroll.",
+            "Legacy products and routines face reformulation pressure from wellness expectations.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Weight Loss Services in the US and Fast Food Restaurants in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Volume assumptions based on old appetite patterns are less reliable.",
+            "Protein, satiety, and better-for-you positioning become more strategic.",
+            "Pharma is now a consumer-sector force, not just a healthcare one.",
+            "The second-order read is that smaller portion logic reaching mainstream households stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Volume assumptions based on old appetite patterns are less reliable.",
@@ -781,11 +942,33 @@
           "slug": "sober-socializing",
           "title": "Sober Socializing Changes Nightlife and Beverage Mix",
           "summary": "Younger consumers are moderating alcohol more openly, which shifts venue economics and creates room for nonalcoholic, functional, and premium alternatives.",
+          "deep_read": "Drinking less without abandoning social ritual and venue formats adapting around lower alcohol intensity are no longer isolated category quirks. They are showing up across consumer services and food & drink, where the health reckoning are changing the operating baseline. That pushes the category toward a world where beverage programs need abstention-compatible margin drivers. The pattern is already visible in example operators such as Anheuser-Busch InBev, Panera Bread, and The Coca-Cola Company.",
           "microthemes": [
             "drinking less without abandoning social ritual",
             "venue formats adapting around lower alcohol intensity",
             "nonalcoholic options becoming mandatory, not token",
             "premium spirits losing some insulation against moderation"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around drinking less without abandoning social ritual.",
+            "Demand and behavior are reorganizing around venue formats adapting around lower alcohol intensity.",
+            "Health behavior is moving from niche preference to mainstream social filter."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where the bars and nightclubs industry is a mature, stagnating sector facing labor inflation, spirit tariffs, and shifting younger-consumer drinking patterns, with growth concentrated in upscale experiential venues and private-equity-led consolidation.",
+            "Food & drink operators have to absorb this shift in a market where the US beer industry is contracting sharply—production down 5.7% in 2025, craft breweries down to 9,344 in June 2026, and 481 closures in 2025—while large producers consolidate, shift to premium and non-alcoholic products, and face tariff-driven cost inflation as consumers increasingly choose alternative beverages.",
+            "Legacy products and routines face reformulation pressure from wellness expectations."
+          ],
+          "signals_to_watch": [
+            "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Bars & Nightclubs in the US and Breweries in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Beverage programs need abstention-compatible margin drivers.",
+            "Venues cannot assume alcohol is the default profit center forever.",
+            "Nonalcoholic menus should be built as products, not apologies.",
+            "The second-order read is that drinking less without abandoning social ritual stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Beverage programs need abstention-compatible margin drivers.",
@@ -883,11 +1066,36 @@
           "slug": "functional-consumption",
           "title": "Functional Consumption Beats Empty Indulgence",
           "summary": "Shoppers increasingly want food and drink to do something specific: energize, hydrate, recover, sharpen focus, or support long-term health.",
+          "deep_read": "Energy and hydration as daily performance categories and supplement-like branding migrating into mainstream beverages are no longer isolated category quirks. They are showing up across manufacturing, food & drink, and adjacent sectors, where the health reckoning and the hollow middle are changing the operating baseline. That pushes the category toward a world where function can justify premium pricing if the use case is legible. The pattern is already visible in example operators such as The Coca-Cola Company, Haleon, and Abbott Laboratories.",
           "microthemes": [
             "energy and hydration as daily performance categories",
             "supplement-like branding migrating into mainstream beverages",
             "protein and gut-health language broadening beyond athletes",
             "wellness framing becoming a permission structure for premium pricing"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around energy and hydration as daily performance categories.",
+            "Demand and behavior are reorganizing around supplement-like branding migrating into mainstream beverages.",
+            "Health behavior is moving from niche preference to mainstream social filter.",
+            "Demand keeps separating into value-safe and premium-defensible positions."
+          ],
+          "pressure_points": [
+            "Manufacturing operators have to absorb this shift in a market where the industry manufactures and markets caffeinated ready-to-drink beverages, shots and mixes, with 2025 demand supported by strong retail velocity, flavor innovation, expanded distribution and consumer substitution away from soda and some coffee occasions.",
+            "Food & drink operators have to absorb this shift in a market where a maturing $13.6 billion industry facing structural demand collapse—consumers no longer believe juice is healthy—while hit by tariffs, regulatory pressure on sugar, and Florida's decimated citrus harvest.",
+            "Legacy products and routines face reformulation pressure from wellness expectations.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity."
+          ],
+          "signals_to_watch": [
+            "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Energy Drink Production and Juice Production in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Function can justify premium pricing if the use case is legible.",
+            "Packaging and merchandising need to tell a utility story quickly.",
+            "Operators should design around rituals, not abstract wellness claims.",
+            "The second-order read is that energy and hydration as daily performance categories stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Function can justify premium pricing if the use case is legible.",
@@ -993,11 +1201,36 @@
           "slug": "beauty-fitness-health-merge",
           "title": "Beauty, Fitness, and Health Start to Merge",
           "summary": "The line between medical improvement, cosmetic improvement, and self-optimization keeps fading in both consumer spending and service delivery.",
+          "deep_read": "Appearance and health narratives converging and beauty spend reframed as maintenance rather than indulgence are no longer isolated category quirks. They are showing up across healthcare and consumer services, where the health reckoning and the graying market are changing the operating baseline. That pushes the category toward a world where the customer increasingly buys an identity project, not a single service. The pattern is already visible in example operators such as Ulta Beauty, Abbott Laboratories, and Lyra Health.",
           "microthemes": [
             "appearance and health narratives converging",
             "beauty spend reframed as maintenance rather than indulgence",
             "med-spa and wellness adjacencies expanding the service stack",
             "self-tracking habits feeding repeated purchases"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around appearance and health narratives converging.",
+            "Demand and behavior are reorganizing around beauty spend reframed as maintenance rather than indulgence.",
+            "Health behavior is moving from niche preference to mainstream social filter.",
+            "Older households are becoming a larger and more economically decisive cohort."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US dermatology industry—$8-9B in 2026, still 85% fragmented but consolidating around 35+ PE platforms—faces simultaneous opportunity and pressure: rising skin-cancer diagnoses and cosmetic demand push margins upward, while Medicare cuts and AI-assisted primary-care screening threaten volume and force survivors into larger groups.",
+            "Consumer services operators have to absorb this shift in a market where the US weight loss services industry has shifted from center-based coaching and branded diet plans toward hybrid behavioral, clinical and subscription models as GLP-1 medications pull demand away from legacy programs while expanding the addressable market for medically supervised weight management.",
+            "Legacy products and routines face reformulation pressure from wellness expectations.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics."
+          ],
+          "signals_to_watch": [
+            "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Company mix is already separating, with 2 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Dermatologists and Weight Loss Services in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "The customer increasingly buys an identity project, not a single service.",
+            "Recurring routines and memberships become more valuable than one-off visits.",
+            "Health-adjacent trust matters even in nominally cosmetic categories.",
+            "The second-order read is that appearance and health narratives converging stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "The customer increasingly buys an identity project, not a single service.",
@@ -1091,11 +1324,36 @@
           "slug": "reformulated-indulgence",
           "title": "Indulgence Survives by Being Reformulated",
           "summary": "Consumers still want treats and comfort, but the category increasingly has to defend itself through portion control, cleaner labels, or premium differentiation.",
+          "deep_read": "Smaller treats replacing unrestricted volume and clean-label framing softening category guilt are no longer isolated category quirks. They are showing up across food & drink, where the health reckoning and the margin vise are changing the operating baseline. That pushes the category toward a world where indulgence categories need either better ingredients, better story, or better scarcity. The pattern is already visible in example operators such as Kraft Heinz, The J.M. Smucker Co, and Unilever.",
           "microthemes": [
             "smaller treats replacing unrestricted volume",
             "clean-label framing softening category guilt",
             "premium indulgence surviving where cheap sugar weakens",
             "legacy brands forced into nutritional repositioning"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around smaller treats replacing unrestricted volume.",
+            "Demand and behavior are reorganizing around clean-label framing softening category guilt.",
+            "Health behavior is moving from niche preference to mainstream social filter.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Food & drink operators have to absorb this shift in a market where the US ice cream market is growing slowly (2.7% annually to 2031) as big manufacturers restructure via M&A, tariff pressures mount, and consumer spending shifts from bulk regular ice cream to premium, single-serve, and plant-based novelties.",
+            "Food & drink operators have to absorb this shift in a market where the US candy industry is shifting from high-sugar commodity production toward premiumized, functional, and texture-driven innovations, while facing unprecedented tariff-driven cost inflation and structural competition from chocolate and imported goods.",
+            "Legacy products and routines face reformulation pressure from wellness expectations.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 0 advantaged examples and 2 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Ice Cream Production in the US and Candy Production in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Indulgence categories need either better ingredients, better story, or better scarcity.",
+            "The old mass-volume snack model looks less secure.",
+            "Treats still sell, but the social justification around them has changed.",
+            "The second-order read is that smaller treats replacing unrestricted volume stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Indulgence categories need either better ingredients, better story, or better scarcity.",
@@ -1206,8 +1464,17 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Wellness Recodes Daily Life is that health behavior is no longer a niche vertical. It is becoming a general operating system for food, drink, beauty, self-presentation, and everyday social decisions, but the route to capturing that demand runs through the practical frictions surfaced by GLP-1 Resets Appetite and Portion Economics.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Sober Socializing Changes Nightlife and Beverage Mix.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Protein, low-sugar, sober-curious, and health-tracking language becomes more central."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 19,
       "evidence_industry_count": 16,
       "example_company_count": 14,
       "company_status_counts": {
@@ -1273,11 +1540,33 @@
           "slug": "memory-over-merchandise",
           "title": "Memory Beats Merchandise",
           "summary": "Households still spend discretionary dollars, but a larger share goes toward events, travel, leisure, and social participation instead of incremental objects.",
+          "deep_read": "Travel and events as post-purchase social proof and goods losing to moments in aspirational categories are no longer isolated category quirks. They are showing up across consumer services and transport & logistics, where the hollow middle are changing the operating baseline. That pushes the category toward a world where experience categories win when they generate stories worth retelling. The pattern is already visible in example operators such as Delta Air Lines Inc, Hyatt Hotels, and DraftKings.",
           "microthemes": [
             "travel and events as post-purchase social proof",
             "goods losing to moments in aspirational categories",
             "identity expressed through doing more than owning",
             "scarce calendar time becoming part of the value proposition"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around travel and events as post-purchase social proof.",
+            "Demand and behavior are reorganizing around goods losing to moments in aspirational categories.",
+            "Demand keeps separating into value-safe and premium-defensible positions."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where the industry is enjoying strong nominal growth driven by pent-up leisure demand and blockbuster new attractions, but real per-guest margins are being eroded by sticky labor costs, tariff-driven equipment expenses, and mounting pressure from consumers increasingly pricing-conscious about family vacations.",
+            "Consumer services operators have to absorb this shift in a market where the US campgrounds and RV parks industry has shifted from growth-through-expansion to profit-through-optimization as consolidation, constrained supply, and younger, higher-spending campers reshape a once-sleepy sector.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity."
+          ],
+          "signals_to_watch": [
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Amusement Parks in the US and Campgrounds & RV Parks in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Experience categories win when they generate stories worth retelling.",
+            "Scarcity, novelty, and social shareability matter to pricing power.",
+            "Goods businesses need stronger experiential hooks to compete for discretionary budgets.",
+            "The second-order read is that travel and events as post-purchase social proof stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Experience categories win when they generate stories worth retelling.",
@@ -1375,11 +1664,33 @@
           "slug": "venue-scarcity",
           "title": "Venue Scarcity Creates Durable Pricing Power",
           "summary": "Well-located, well-programmed physical venues gain leverage because digital life cannot fully substitute for live gathering, entertainment, or symbolic public presence.",
+          "deep_read": "Destination venues outperforming generic local capacity and event programming becoming as important as real estate itself are no longer isolated category quirks. They are showing up across consumer services and retail, where the real-estate reckoning are changing the operating baseline. That pushes the category toward a world where programming and curation can matter more than square footage alone. The pattern is already visible in example operators such as Hyatt Hotels, DraftKings, and McDonald's.",
           "microthemes": [
             "destination venues outperforming generic local capacity",
             "event programming becoming as important as real estate itself",
             "ticket, food, beverage, and sponsorship economics interlocking",
             "physical attendance retaining emotional premium over digital viewing"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around destination venues outperforming generic local capacity.",
+            "Demand and behavior are reorganizing around event programming becoming as important as real estate itself.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where the US casino hotels industry is in a mature holding pattern, balancing expensive labor and pricing power against a shifting customer base split between digital-native players and those who still value the physical resort experience.",
+            "Consumer services operators have to absorb this shift in a market where the bars and nightclubs industry is a mature, stagnating sector facing labor inflation, spirit tariffs, and shifting younger-consumer drinking patterns, with growth concentrated in upscale experiential venues and private-equity-led consolidation.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Casino Hotels in the US and Bars & Nightclubs in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Programming and curation can matter more than square footage alone.",
+            "Venue operators need reasons for repeat visitation, not only one-time traffic.",
+            "Real estate becomes stronger when culture keeps refreshing the demand loop.",
+            "The second-order read is that destination venues outperforming generic local capacity stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Programming and curation can matter more than square footage alone.",
@@ -1471,11 +1782,33 @@
           "slug": "active-aging-outdoors",
           "title": "Active Aging and Outdoor Identity Expand Leisure Demand",
           "summary": "Affluent and healthier older consumers are spending on travel, outdoors, recreation, and experience-heavy leisure rather than retreating from discretionary participation.",
+          "deep_read": "Retirees staying active longer and outdoor gear and travel tied to identity, not only utility are no longer isolated category quirks. They are showing up across consumer services and retail, where the graying market are changing the operating baseline. That pushes the category toward a world where aging does not only redirect spend into care; it also sustains leisure. The pattern is already visible in example operators such as Sportsman's Warehouse, DICK'S Sporting Goods, and Hyatt Hotels.",
           "microthemes": [
             "retirees staying active longer",
             "outdoor gear and travel tied to identity, not only utility",
             "RV, camping, and destination leisure broadening across age groups",
             "experience spend sustaining categories linked to longevity and mobility"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around retirees staying active longer.",
+            "Demand and behavior are reorganizing around outdoor gear and travel tied to identity, not only utility.",
+            "Older households are becoming a larger and more economically decisive cohort."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where the US campgrounds and RV parks industry has shifted from growth-through-expansion to profit-through-optimization as consolidation, constrained supply, and younger, higher-spending campers reshape a once-sleepy sector.",
+            "Retail operators have to absorb this shift in a market where the US Hiking & Outdoor Equipment Stores industry remains a mature, niche retail channel centered on apparel, footwear, camping gear and expertise-led service, with 2025 revenue estimated at about $7.35 billion after a 2022 baseline of $7.05 billion and low-single-digit annual growth.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics."
+          ],
+          "signals_to_watch": [
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Campgrounds & RV Parks in the US and Hiking & Outdoor Equipment Stores start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Aging does not only redirect spend into care; it also sustains leisure.",
+            "Durable outdoor and recreational brands can benefit from demographic tailwinds.",
+            "The winning offer combines vitality signaling with convenience and safety.",
+            "The second-order read is that retirees staying active longer stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Aging does not only redirect spend into care; it also sustains leisure.",
@@ -1573,11 +1906,36 @@
           "slug": "retail-as-stage",
           "title": "Retail Has to Become a Stage, Not Just a Shelf",
           "summary": "Physical commerce increasingly survives where the store acts as a discovery environment, service node, or brand theater rather than just a place to transact.",
+          "deep_read": "Showroom logic replacing inventory-heavy generalism and events, classes, and demos creating store relevance are no longer isolated category quirks. They are showing up across retail, where the channel shift and the hollow middle are changing the operating baseline. That pushes the category toward a world where physical retail should justify a trip, not merely host inventory. The pattern is already visible in example operators such as The Home Depot, Ulta Beauty, and DICK'S Sporting Goods.",
           "microthemes": [
             "showroom logic replacing inventory-heavy generalism",
             "events, classes, and demos creating store relevance",
             "pickup and service blending with experience functions",
             "brand theater becoming a defense against platform commoditization"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around showroom logic replacing inventory-heavy generalism.",
+            "Demand and behavior are reorganizing around events, classes, and demos creating store relevance.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels.",
+            "Demand keeps separating into value-safe and premium-defensible positions."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where consumer electronics retail in the US is a mature, consolidating industry where brick-and-mortar stores are losing share to e-commerce and manufacturers' direct sales, leaving only the largest, most agile players (mainly Best Buy) with sustainable paths forward.",
+            "Retail operators have to absorb this shift in a market where home Depot and Lowe's are hanging on in a frozen housing market by serving professional customers and investing in e-commerce, but Amazon is creeping in, tariffs are raising costs, and smaller competitors are vanishing.",
+            "Operators that do not control demand or service convenience get commoditized faster.",
+            "Undifferentiated middle-market offers lose both pricing room and emotional clarity."
+          ],
+          "signals_to_watch": [
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Consumer Electronics Stores in the US and Home Improvement Stores in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Physical retail should justify a trip, not merely host inventory.",
+            "Service and community are now part of the merchandising strategy.",
+            "Stores that feel interchangeable are easier to displace online.",
+            "The second-order read is that showroom logic replacing inventory-heavy generalism stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Physical retail should justify a trip, not merely host inventory.",
@@ -1677,11 +2035,33 @@
           "slug": "fandom-and-affiliation",
           "title": "Fandom and Affiliation Become Spend Infrastructure",
           "summary": "Consumers increasingly spend into identities built around teams, creators, hobbies, and communities, which creates pockets of unusual resilience and monetization depth.",
+          "deep_read": "Shared affiliation deepening willingness to spend and communities monetized across merchandise, events, and media are no longer isolated category quirks. They are showing up across retail and media & entertainment, where the channel shift are changing the operating baseline. That pushes the category toward a world where affiliation businesses need ongoing ritual and refresh, not just a one-time sale. The pattern is already visible in example operators such as DraftKings, GameStop, and Mattel.",
           "microthemes": [
             "shared affiliation deepening willingness to spend",
             "communities monetized across merchandise, events, and media",
             "hobby categories acting as durable identity ecosystems",
             "cultural attachment reducing pure price sensitivity"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around shared affiliation deepening willingness to spend.",
+            "Demand and behavior are reorganizing around communities monetized across merchandise, events, and media.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where the US sporting goods retail industry is consolidating rapidly (led by Dick's $2.5 billion Foot Locker acquisition), but is constrained by weakening consumer discretionary spending, tariff cost headwinds, and structural pressure from e-commerce and brand direct-to-consumer strategies.",
+            "Media & entertainment operators have to absorb this shift in a market where the U.S. video games industry generated about $60.8 billion in consumer spending in 2025, up 1.4% from 2024, with 2026 spending forecast near $62.8 billion as Nintendo Switch 2 momentum, subscriptions and major releases offset weaker legacy console cycles.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Sporting Goods Stores in the US and Video Games in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Affiliation businesses need ongoing ritual and refresh, not just a one-time sale.",
+            "Identity-rich categories can withstand generic commoditization longer.",
+            "Community design is increasingly an economic function.",
+            "The second-order read is that shared affiliation deepening willingness to spend stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Affiliation businesses need ongoing ritual and refresh, not just a one-time sale.",
@@ -1770,8 +2150,20 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Experience, Status, and Community is that more consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods, but the route to capturing that demand runs through the practical frictions surfaced by Memory Beats Merchandise.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Venue Scarcity Creates Durable Pricing Power.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+        "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+        "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 16,
       "evidence_industry_count": 12,
       "example_company_count": 14,
       "company_status_counts": {
@@ -1852,11 +2244,36 @@
           "slug": "home-first-aging",
           "title": "Home-First Aging Reorders the Care Stack",
           "summary": "Families and payers increasingly prefer keeping older adults at home, which shifts demand into home care, monitoring, delivery, and support services.",
+          "deep_read": "Institutional care delayed until later acuity and home settings absorbing more clinical and nonclinical tasks are no longer isolated category quirks. They are showing up across healthcare and transport & logistics, where the graying market and the labor squeeze are changing the operating baseline. That pushes the category toward a world where home-first care creates recurring demand but heavy coordination burden. The pattern is already visible in example operators such as Humana, CVS Health, and Abbott Laboratories.",
           "microthemes": [
             "institutional care delayed until later acuity",
             "home settings absorbing more clinical and nonclinical tasks",
             "family logistics becoming part of the care economy",
             "distributed care models increasing coordination complexity"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around institutional care delayed until later acuity.",
+            "Demand and behavior are reorganizing around home settings absorbing more clinical and nonclinical tasks.",
+            "Older households are becoming a larger and more economically decisive cohort.",
+            "Scarce labor and wage pressure are forcing redesign in service and physical operations."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US home care industry is growing due to an aging population preferring care at home, but faces existential margin compression from stacked payment cuts, severe workforce shortages at 75% annual turnover, and regulatory complexity that is driving consolidation into larger platforms.",
+            "Healthcare operators have to absorb this shift in a market where the US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics.",
+            "Throughput and quality become harder to defend when skilled labor is the bottleneck."
+          ],
+          "signals_to_watch": [
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Home Care Providers in the US and Health & Medical Insurance in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Home-first care creates recurring demand but heavy coordination burden.",
+            "Businesses that reduce family friction can capture real value.",
+            "Labor-light enablement layers may be more attractive than labor-heavy direct care.",
+            "The second-order read is that institutional care delayed until later acuity stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Home-first care creates recurring demand but heavy coordination burden.",
@@ -1962,11 +2379,36 @@
           "slug": "senior-housing-bottleneck",
           "title": "Senior Housing Demand Meets Staffing and Capacity Friction",
           "summary": "Senior living remains demand-rich, but beds, staffing, regulation, and wage pressure cap how smoothly the sector can absorb aging demand.",
+          "deep_read": "Care intensity increasing inside facilities and occupancy recovery colliding with staffing scarcity are no longer isolated category quirks. They are showing up across healthcare and real estate, where the graying market and the labor squeeze are changing the operating baseline. That pushes the category toward a world where care labor and occupancy quality matter more than simple unit count. The pattern is already visible in example operators such as Brookdale Senior Living, CBRE Group, and Humana.",
           "microthemes": [
             "care intensity increasing inside facilities",
             "occupancy recovery colliding with staffing scarcity",
             "institutional operators gaining share over independents",
             "real estate and operating economics separating more sharply"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around care intensity increasing inside facilities.",
+            "Demand and behavior are reorganizing around occupancy recovery colliding with staffing scarcity.",
+            "Older households are becoming a larger and more economically decisive cohort.",
+            "Scarce labor and wage pressure are forcing redesign in service and physical operations."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements.",
+            "Real estate operators have to absorb this shift in a market where apartment rents have stopped climbing and flat-lined after years of double-digit growth, exposing oversupply in the Sun Belt while rent-controlled markets squeeze landlords between frozen pricing and soaring costs, driving industry consolidation and bankruptcies.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics.",
+            "Throughput and quality become harder to defend when skilled labor is the bottleneck."
+          ],
+          "signals_to_watch": [
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Residential Senior Care Franchises and Apartment Rental in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Care labor and occupancy quality matter more than simple unit count.",
+            "Asset owners and operators may have diverging incentives.",
+            "Consolidation can help, but it does not remove staffing reality.",
+            "The second-order read is that care intensity increasing inside facilities stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Care labor and occupancy quality matter more than simple unit count.",
@@ -2080,11 +2522,36 @@
           "slug": "chronic-care-industrialization",
           "title": "Chronic Care Becomes an Industrial Service Chain",
           "summary": "Dialysis, cardio-metabolic care, orthopedic support, diagnostics, and outpatient specialties are scaling into highly managed recurring care systems.",
+          "deep_read": "Chronic disease producing recurring procedure and device demand and outpatient settings capturing more volume are no longer isolated category quirks. They are showing up across healthcare and manufacturing, where the graying market and the pricing-power collapse are changing the operating baseline. That pushes the category toward a world where these are process businesses as much as clinical ones. The pattern is already visible in example operators such as Zimmer Biomet, Abbott Laboratories, and Labcorp.",
           "microthemes": [
             "chronic disease producing recurring procedure and device demand",
             "outpatient settings capturing more volume",
             "care pathways standardized into repeatable operating models",
             "specialized devices and monitoring becoming embedded in long-term care"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around chronic disease producing recurring procedure and device demand.",
+            "Demand and behavior are reorganizing around outpatient settings capturing more volume.",
+            "Older households are becoming a larger and more economically decisive cohort.",
+            "Buyers with payer leverage or concentrated purchasing power are capping monetization."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US dialysis centers industry treated roughly 516,837 patients on dialysis in 2025, generated $36 billion in revenue with a 3.5% annual growth rate, and faced mounting wage pressures and regulatory reimbursement limits despite demographic tailwinds from an aging, diabetic population.",
+            "Manufacturing operators have to absorb this shift in a market where the industry is growing slowly but steadily in 2025, supported by aging demographics, outpatient orthopedic procedures and robotics-enabled implants, while import competition, hospital price pressure and 2025-2026 tariff uncertainty keep margins tight.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics.",
+            "Headline demand overstates actual return capture where reimbursement or procurement rules dominate."
+          ],
+          "signals_to_watch": [
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Margin performance diverges more from volume growth in payer-shaped sectors.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Dialysis Centers and Orthopedic Products Manufacturing start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "These are process businesses as much as clinical ones.",
+            "Scale in procurement, scheduling, and documentation becomes central.",
+            "The margin opportunity often sits beside, not inside, direct care labor.",
+            "The second-order read is that chronic disease producing recurring procedure and device demand stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "These are process businesses as much as clinical ones.",
@@ -2190,11 +2657,36 @@
           "slug": "payer-gated-aging",
           "title": "Payers Gatekeep the Aging Economy",
           "summary": "Medicare Advantage, insurers, and reimbursement schedules increasingly decide which aging-demand businesses can convert need into acceptable economics.",
+          "deep_read": "Public-private reimbursement rules steering provider behavior and utilization management becoming a margin determinant are no longer isolated category quirks. They are showing up across healthcare, where the pricing-power collapse and the compliance tax are changing the operating baseline. That pushes the category toward a world where demand alone is a weak indicator in payer-shaped sectors. The pattern is already visible in example operators such as Humana, CVS Health, and Chubb.",
           "microthemes": [
             "public-private reimbursement rules steering provider behavior",
             "utilization management becoming a margin determinant",
             "benefit design reshaping patient flow",
             "pricing power capped by payer concentration"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around public-private reimbursement rules steering provider behavior.",
+            "Demand and behavior are reorganizing around utilization management becoming a margin determinant.",
+            "Buyers with payer leverage or concentrated purchasing power are capping monetization.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat.",
+            "Healthcare operators have to absorb this shift in a market where hMO providers are a mature, consolidating sector where Medicare Advantage growth masks steep profitability declines, employer-market retreat, and emerging regulatory pressure on cost justification and network adequacy.",
+            "Headline demand overstates actual return capture where reimbursement or procurement rules dominate.",
+            "More value accrues to those who can operationalize rule complexity at scale."
+          ],
+          "signals_to_watch": [
+            "Margin performance diverges more from volume growth in payer-shaped sectors.",
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Health & Medical Insurance in the US and HMO Providers start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Demand alone is a weak indicator in payer-shaped sectors.",
+            "Administrative competence can matter as much as bedside competence.",
+            "Winning operators understand coding, reimbursement, and utilization controls deeply.",
+            "The second-order read is that public-private reimbursement rules steering provider behavior stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Demand alone is a weak indicator in payer-shaped sectors.",
@@ -2296,11 +2788,36 @@
           "slug": "longevity-finance",
           "title": "Longevity Turns Into a Financial Product Problem",
           "summary": "Living longer creates demand not only for care, but for insurance, annuities, wealth planning, estate logistics, and services that price extended life expectancy.",
+          "deep_read": "Retirement duration extending balance-sheet risk and care financing pushing households toward structured products are no longer isolated category quirks. They are showing up across finance & insurance, where the graying market and money gets unbundled are changing the operating baseline. That pushes the category toward a world where aging households need both care and financial orchestration. The pattern is already visible in example operators such as Prudential Financial, Marsh & McLennan Companies, and Aon PLC.",
           "microthemes": [
             "retirement duration extending balance-sheet risk",
             "care financing pushing households toward structured products",
             "inheritance and planning services expanding with age complexity",
             "insurers repricing risk around longevity and chronic disease"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around retirement duration extending balance-sheet risk.",
+            "Demand and behavior are reorganizing around care financing pushing households toward structured products.",
+            "Older households are becoming a larger and more economically decisive cohort.",
+            "Financial products, risk management, and payment rails are fragmenting into specialized layers."
+          ],
+          "pressure_points": [
+            "Finance & insurance operators have to absorb this shift in a market where a mature, well-capitalized $1.1 trillion industry growing at 0.6% in 2025 but contracting 1.4% in 2026 due to interest rate normalization, though annuity sales hit record $464 billion in 2025 on the back of four million annual retirees and rising consumer demand for guaranteed income.",
+            "Finance & insurance operators have to absorb this shift in a market where the US long-term care insurance industry is a $25.6 billion (2025) mature market dominated by Genworth and Prudential, struggling to balance aging-population demand against persistent affordability crises, regulatory tightening, and competition from public Medicaid programs.",
+            "Care intensity, mobility limits, and age-linked financial needs reshape category economics.",
+            "Intermediaries without privileged data, trust, or embedded distribution lose ground."
+          ],
+          "signals_to_watch": [
+            "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+            "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Life Insurance & Annuities in the US and Long Term Care Insurance start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Aging households need both care and financial orchestration.",
+            "Long-duration trust businesses can benefit if they manage underwriting discipline.",
+            "Advice, insurance, and care planning increasingly intersect.",
+            "The second-order read is that retirement duration extending balance-sheet risk stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Aging households need both care and financial orchestration.",
@@ -2403,8 +2920,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+        "Margin performance diverges more from volume growth in payer-shaped sectors."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 18,
       "example_company_count": 15,
       "company_status_counts": {
@@ -2477,11 +3004,36 @@
           "slug": "fractional-executive-layer",
           "title": "The Fractional Executive Layer Expands",
           "summary": "Smaller and mid-sized companies increasingly rent senior judgment instead of hiring full-time leaders across finance, marketing, HR, and strategy.",
+          "deep_read": "Leadership bought by project or part-time retainer and specialist expertise replacing generalist middle management are no longer isolated category quirks. They are showing up across business services, where the fractional worker and the margin vise are changing the operating baseline. That pushes the category toward a world where advisory businesses should package expertise into recurring, productized offers. The pattern is already visible in example operators such as Accenture, WPP plc, and ADP.",
           "microthemes": [
             "leadership bought by project or part-time retainer",
             "specialist expertise replacing generalist middle management",
             "SMBs gaining access to senior talent without full payroll commitment",
             "advisory services becoming more operational and embedded"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around leadership bought by project or part-time retainer.",
+            "Demand and behavior are reorganizing around specialist expertise replacing generalist middle management.",
+            "Employment is becoming more modular, rented, and task-specific.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Business services operators have to absorb this shift in a market where business coaching in 2025-2026 is shifting from a discretionary C-suite perk to a scaled, AI-augmented professional development tool for mid-market and small-business leaders, underpinned by measured ROI claims and driven by a fragmented but rapidly professionalizing workforce of 165,000+ coaches.",
+            "Business services operators have to absorb this shift in a market where the US consulting industry is growing but hollowing: AI is replacing junior work, federal spending is collapsing, and clients are demanding outcomes not hours.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Business Coaching in the US and Management Consulting in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Advisory businesses should package expertise into recurring, productized offers.",
+            "Clients increasingly buy outcomes, not hours alone.",
+            "Operational trust beats generic thought leadership.",
+            "The second-order read is that leadership bought by project or part-time retainer stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Advisory businesses should package expertise into recurring, productized offers.",
@@ -2587,11 +3139,36 @@
           "slug": "skills-and-credentials-market",
           "title": "Skills and Credentials Replace Slow Career Ladders",
           "summary": "Workers respond to thinner promotion pathways by buying targeted credentials, practical certificates, and short-cycle training linked to immediate labor-market value.",
+          "deep_read": "Micro-credentials as employability insurance and shorter training loops replacing long formal pathways are no longer isolated category quirks. They are showing up across technology & digital, business services, and adjacent sectors, where the fractional worker and the labor squeeze are changing the operating baseline. That pushes the category toward a world where training providers need clearer links to wage gain and employability. The pattern is already visible in example operators such as Kumon, ADP, and TriNet.",
           "microthemes": [
             "micro-credentials as employability insurance",
             "shorter training loops replacing long formal pathways",
             "worker self-funding of adaptability",
             "employers using credentials as screening shortcuts"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around micro-credentials as employability insurance.",
+            "Demand and behavior are reorganizing around shorter training loops replacing long formal pathways.",
+            "Employment is becoming more modular, rented, and task-specific.",
+            "Scarce labor and wage pressure are forcing redesign in service and physical operations."
+          ],
+          "pressure_points": [
+            "Technology & digital operators have to absorb this shift in a market where the US business certification and IT schools industry is bifurcating: high-margin enterprise and compliance-linked credentials (cloud, cybersecurity) are growing at 12-16% annually, while commodity bootcamps and general IT courses face bankruptcies and commoditization as AI and free learning platforms make basic skills training structurally uncompetitive.",
+            "Business services operators have to absorb this shift in a market where educational services in the US—spanning K-12, higher ed, and training—remains the largest in the sector, but enrollment is fleeing public schools for private/charter alternatives, while AI and online platforms squeeze margins and force consolidation among smaller players.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first.",
+            "Throughput and quality become harder to defend when skilled labor is the bottleneck."
+          ],
+          "signals_to_watch": [
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Business Certification & IT Schools in the US and Educational Services in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Training providers need clearer links to wage gain and employability.",
+            "Trades and technical certifications should be sold as economic mobility infrastructure.",
+            "Credential markets benefit when hiring remains fragmented and anxious.",
+            "The second-order read is that micro-credentials as employability insurance stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Training providers need clearer links to wage gain and employability.",
@@ -2697,11 +3274,36 @@
           "slug": "junior-rung-compression",
           "title": "The Junior Rung Gets Compressed",
           "summary": "Automation, offshoring, and selective hiring make it harder for new entrants to access training-rich early-career roles, especially in knowledge work.",
+          "deep_read": "Entry-level cognitive work replaced by software and workflows and fewer apprenticeship-style roles in white-collar sectors are no longer isolated category quirks. They are showing up across business services, finance & insurance, and adjacent sectors, where the fractional worker and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where firms may save cost now while weakening their long-term talent pipeline. The pattern is already visible in example operators such as EY, Infosys, and Wipro.",
           "microthemes": [
             "entry-level cognitive work replaced by software and workflows",
             "fewer apprenticeship-style roles in white-collar sectors",
             "career progression becoming less linear and less firm-sponsored",
             "credential inflation masking weaker true training investment"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around entry-level cognitive work replaced by software and workflows.",
+            "Demand and behavior are reorganizing around fewer apprenticeship-style roles in white-collar sectors.",
+            "Employment is becoming more modular, rented, and task-specific.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Business services operators have to absorb this shift in a market where the US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position.",
+            "Finance & insurance operators have to absorb this shift in a market where the US law firms industry posted record 2025 profits on rate hikes and regulatory activity, but underlying demand growth of only 1.9 percent and expenses up 9 percent are forcing consolidation and challenging the sustainability of premium pricing.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Accounting Services in the US and Law Firms in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Firms may save cost now while weakening their long-term talent pipeline.",
+            "Vendors selling workflow automation should expect labor substitution scrutiny.",
+            "Training design becomes a strategic question rather than an HR afterthought.",
+            "The second-order read is that entry-level cognitive work replaced by software and workflows stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Firms may save cost now while weakening their long-term talent pipeline.",
@@ -2801,11 +3403,36 @@
           "slug": "benefits-externalized",
           "title": "Benefits and Stability Shift Onto Workers",
           "summary": "As work fragments, healthcare, disability coverage, retirement savings, and schedule predictability become more individualized and more precarious.",
+          "deep_read": "Portable benefits still lagging real labor-market fragmentation and independent workers buying more risk coverage themselves are no longer isolated category quirks. They are showing up across healthcare, finance & insurance, and adjacent sectors, where the fractional worker and money gets unbundled are changing the operating baseline. That pushes the category toward a world where there is demand for administrative simplification around unstable work. The pattern is already visible in example operators such as Paychex, ADP, and TriNet.",
           "microthemes": [
             "portable benefits still lagging real labor-market fragmentation",
             "independent workers buying more risk coverage themselves",
             "irregular schedules increasing household planning stress",
             "insurers and payroll platforms monetizing the gap"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around portable benefits still lagging real labor-market fragmentation.",
+            "Demand and behavior are reorganizing around independent workers buying more risk coverage themselves.",
+            "Employment is becoming more modular, rented, and task-specific.",
+            "Financial products, risk management, and payment rails are fragmenting into specialized layers."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat.",
+            "Finance & insurance operators have to absorb this shift in a market where a mature industry that underwrites income protection against disability is slowly accelerating through technology and gig-economy products, but faces tightening claims costs and uneven profitability across occupations.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first.",
+            "Intermediaries without privileged data, trust, or embedded distribution lose ground."
+          ],
+          "signals_to_watch": [
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Health & Medical Insurance in the US and Disability Insurance start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "There is demand for administrative simplification around unstable work.",
+            "Platform businesses can capture value by packaging protection with flexibility.",
+            "The benefits gap is both a social problem and a recurring revenue opportunity.",
+            "The second-order read is that portable benefits still lagging real labor-market fragmentation stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "There is demand for administrative simplification around unstable work.",
@@ -2911,11 +3538,36 @@
           "slug": "automation-as-labor-arbitrage",
           "title": "Automation Becomes Labor Arbitrage",
           "summary": "Many automation decisions are no longer primarily about innovation theater. They are responses to unavailable labor, wage pressure, and the need for throughput consistency.",
+          "deep_read": "Robots and software filling labor gaps before they chase full transformation and automation prioritized where turnover is chronic are no longer isolated category quirks. They are showing up across manufacturing, retail, and adjacent sectors, where the labor squeeze and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where automation budgets should be framed against labor reliability, not only labor cost. The pattern is already visible in example operators such as Amazon, Sysco, and Microsoft.",
           "microthemes": [
             "robots and software filling labor gaps before they chase full transformation",
             "automation prioritized where turnover is chronic",
             "workflow compression valued for reliability as much as headcount reduction",
             "operators preferring selective mechanization over total redesign"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around robots and software filling labor gaps before they chase full transformation.",
+            "Demand and behavior are reorganizing around automation prioritized where turnover is chronic.",
+            "Scarce labor and wage pressure are forcing redesign in service and physical operations.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Manufacturing operators have to absorb this shift in a market where a $387.7B (2026) mature industry led by four consolidated firms, racing to automate away chronic labor shortages while navigating tariff shocks and China's lockout-and-opening cycle on exports.",
+            "Retail operators have to absorb this shift in a market where uS vending machine operators remain a large unattended retail channel, with 2025 BLS sectoral output of $11.027 billion, but low concentration, fewer operators, healthier product demand and micro-market substitution keep the core category structurally pressured.",
+            "Throughput and quality become harder to defend when skilled labor is the bottleneck.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Meat, Beef & Poultry Processing in the US and Vending Machine Operators in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Automation budgets should be framed against labor reliability, not only labor cost.",
+            "Partial automation can create better payback than ambitious full-stack reinvention.",
+            "The operator question is where labor is truly the binding constraint.",
+            "The second-order read is that robots and software filling labor gaps before they chase full transformation stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Automation budgets should be framed against labor reliability, not only labor cost.",
@@ -3018,8 +3670,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+        "Automation, scheduling discipline, retention tactics, and selective simplification accelerate."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 18,
       "example_company_count": 14,
       "company_status_counts": {
@@ -3103,11 +3765,33 @@
           "slug": "tariffed-inputs",
           "title": "Tariffed Inputs Flow Through the Whole Stack",
           "summary": "Trade barriers on metals, auto components, and imported goods ripple outward into manufacturing, retail, and construction pricing.",
+          "deep_read": "Materials inflation transmitted through downstream sectors and import dependency becoming a strategic vulnerability are no longer isolated category quirks. They are showing up across manufacturing and retail, where atoms strike back are changing the operating baseline. That pushes the category toward a world where procurement and sourcing discipline become strategic, not back-office. The pattern is already visible in example operators such as Cleveland-Cliffs Inc, Stellantis, and Whirlpool Corporation.",
           "microthemes": [
             "materials inflation transmitted through downstream sectors",
             "import dependency becoming a strategic vulnerability",
             "procurement capability growing in importance",
             "manufacturers and merchants repricing around policy volatility"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around materials inflation transmitted through downstream sectors.",
+            "Demand and behavior are reorganizing around import dependency becoming a strategic vulnerability.",
+            "Physical supply chains, manufacturing capacity, and infrastructure have regained strategic value."
+          ],
+          "pressure_points": [
+            "Manufacturing operators have to absorb this shift in a market where uS steel bounced from tariffs in 2025-2026 but faces structural headwinds: global oversupply, flat demand, and the permanent shift to lighter vehicles—making recovery unlikely despite short-term margin gains.",
+            "Manufacturing operators have to absorb this shift in a market where uS aluminum manufacturing is supply-constrained and price-booming in 2025-2026, with tariff protection and EV demand driving growth—but kept from expanding by an electricity crisis that makes smelting uncompetitive against AI data centers.",
+            "Operators are re-exposed to land, freight, material, and plant constraints."
+          ],
+          "signals_to_watch": [
+            "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Procurement and sourcing discipline become strategic, not back-office.",
+            "Thin-margin import models look structurally less attractive.",
+            "Domestic or nearshore optionality gains value even before full relocation.",
+            "The second-order read is that materials inflation transmitted through downstream sectors stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Procurement and sourcing discipline become strategic, not back-office.",
@@ -3205,11 +3889,36 @@
           "slug": "power-centric-geography",
           "title": "Power-Centric Geography Reorders Industrial Value",
           "summary": "Sites with access to power, transmission, cooling, and permissive land economics gain strategic value relative to places that merely looked attractive in the old logistics-only model.",
+          "deep_read": "Data-center demand changing land value maps and generation and transmission access determining site viability are no longer isolated category quirks. They are showing up across technology & digital, energy & environment, and adjacent sectors, where the compute super-cycle and the real-estate reckoning are changing the operating baseline. That pushes the category toward a world where power access should be treated as a first-order go-to-market variable. The pattern is already visible in example operators such as CoreWeave, NextEra Energy, and Kinder Morgan Inc.",
           "microthemes": [
             "data-center demand changing land value maps",
             "generation and transmission access determining site viability",
             "industrial geography shifting toward energy-rich corridors",
             "small users crowded by hyperscale infrastructure demand"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around data-center demand changing land value maps.",
+            "Demand and behavior are reorganizing around generation and transmission access determining site viability.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand."
+          ],
+          "pressure_points": [
+            "Technology & digital operators have to absorb this shift in a market where aI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+            "Energy & environment operators have to absorb this shift in a market where a constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Colocation Facilities and Electric Power Transmission in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Power access should be treated as a first-order go-to-market variable.",
+            "Asset owners near transmission and gas infrastructure gain optionality.",
+            "Land is no longer generic when compute or electrification demand is nearby.",
+            "The second-order read is that data-center demand changing land value maps stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Power access should be treated as a first-order go-to-market variable.",
@@ -3315,11 +4024,36 @@
           "slug": "electrical-and-cooling-trades",
           "title": "Electrical and Cooling Trades Become Picks and Shovels",
           "summary": "Electricians, HVAC contractors, turbine suppliers, and electrical-equipment manufacturers sit in the middle of multiple secular buildouts at once.",
+          "deep_read": "Ai infrastructure, building retrofits, and electrification sharing the same labor pool and cooling becoming central to industrial and digital buildout are no longer isolated category quirks. They are showing up across business services, construction, and adjacent sectors, where the compute super-cycle and the labor squeeze are changing the operating baseline. That pushes the category toward a world where trade bottlenecks can be more investable than the headline megaprojects they support. The pattern is already visible in example operators such as Eaton, Emerson Electric Co, and MasTec.",
           "microthemes": [
             "AI infrastructure, building retrofits, and electrification sharing the same labor pool",
             "cooling becoming central to industrial and digital buildout",
             "trade labor scarcity improving pricing leverage",
             "maintenance and retrofit work compounding alongside new construction"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around AI infrastructure, building retrofits, and electrification sharing the same labor pool.",
+            "Demand and behavior are reorganizing around cooling becoming central to industrial and digital buildout.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "Scarce labor and wage pressure are forcing redesign in service and physical operations."
+          ],
+          "pressure_points": [
+            "Business services operators have to absorb this shift in a market where the US electricians industry is being pulled between a dead residential market and explosive demand from AI/EV/grid infrastructure, creating labor shortages, wage pressure, and consolidation among the 269,000 small contractors.",
+            "Construction operators have to absorb this shift in a market where the US HVAC industry is a $159 billion mature market (2026) being reshaped by residential weakness, commercial surge, regulatory refrigerant shifts, heat pump electrification, and a severe technician labor shortage that is pushing wages up 8% annually.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "Throughput and quality become harder to defend when skilled labor is the bottleneck."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Electricians in the US and Heating & Air-Conditioning Contractors in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Trade bottlenecks can be more investable than the headline megaprojects they support.",
+            "Backlog quality and labor retention are crucial operating metrics.",
+            "Equipment suppliers with installed bases gain follow-on demand from service and replacement.",
+            "The second-order read is that AI infrastructure, building retrofits, and electrification sharing the same labor pool stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Trade bottlenecks can be more investable than the headline megaprojects they support.",
@@ -3425,11 +4159,36 @@
           "slug": "reshored-specification-manufacturing",
           "title": "Reshored Specification Manufacturing Gains Relevance",
           "summary": "Domestic and nearshore manufacturing regains appeal in categories where lead time, compliance, defense, or system integration matter more than lowest nominal cost.",
+          "deep_read": "Security and resilience overriding pure landed-cost logic and advanced manufacturing linked to national capability goals are no longer isolated category quirks. They are showing up across manufacturing and healthcare, where atoms strike back and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where specified domestic capability can support better customer stickiness. The pattern is already visible in example operators such as Honeywell International, Precision Castparts Corp, and Thermo Fisher Scientific.",
           "microthemes": [
             "security and resilience overriding pure landed-cost logic",
             "advanced manufacturing linked to national capability goals",
             "shorter supply chains valued in specified or regulated categories",
             "automation making domestic production more defensible"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around security and resilience overriding pure landed-cost logic.",
+            "Demand and behavior are reorganizing around advanced manufacturing linked to national capability goals.",
+            "Physical supply chains, manufacturing capacity, and infrastructure have regained strategic value.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Manufacturing operators have to absorb this shift in a market where uS computer manufacturing rebounds via server buildout but consumer PC demand collapses 13% in 2026 from component shortages and tariff uncertainty.",
+            "Manufacturing operators have to absorb this shift in a market where the industry is still growing, but 2025-2026 demand has shifted from broad hardware expansion toward installed-base utilization, materials consumption, services and production applications with clearer ROI.",
+            "Operators are re-exposed to land, freight, material, and plant constraints.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Computer Manufacturing in the US and 3D Printer Manufacturing start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Specified domestic capability can support better customer stickiness.",
+            "Manufacturers should lean into reliability and integration, not commodity volume alone.",
+            "Reshoring works best where complexity and trust matter.",
+            "The second-order read is that security and resilience overriding pure landed-cost logic stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Specified domestic capability can support better customer stickiness.",
@@ -3535,11 +4294,36 @@
           "slug": "freight-warehouse-repricing",
           "title": "Freight and Warehousing Are Being Repriced by Complexity",
           "summary": "Even where freight demand is uneven, logistics complexity, delivery expectations, and strategic inventory decisions keep transportation and warehousing economically central.",
+          "deep_read": "Inventory localization increasing node complexity and faster fulfillment increasing logistics intensity are no longer isolated category quirks. They are showing up across transport & logistics and real estate, where atoms strike back and the channel shift are changing the operating baseline. That pushes the category toward a world where the value sits in orchestration and network quality, not simply miles moved. The pattern is already visible in example operators such as XPO Logistics, Amazon, and Sysco.",
           "microthemes": [
             "inventory localization increasing node complexity",
             "faster fulfillment increasing logistics intensity",
             "trucking labor and fuel volatility still shaping margins",
             "warehouse assets gaining strategic value relative to older retail real estate"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around inventory localization increasing node complexity.",
+            "Demand and behavior are reorganizing around faster fulfillment increasing logistics intensity.",
+            "Physical supply chains, manufacturing capacity, and infrastructure have regained strategic value.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Transport & logistics operators have to absorb this shift in a market where the US truckload trucking sector is a mature, fragmented market experiencing a shakeout as bankruptcies and capacity exits outpace freight demand, creating selective rate firming but persistent profitability pressure on small carriers caught between record operating costs, driver shortages, and tariff headwinds.",
+            "Transport & logistics operators have to absorb this shift in a market where the US local trucking industry is consolidating around capacity scarcity after a historic wave of bankruptcies, with tariffs and regulation squeezing small operators while AI and e-commerce create asymmetric advantages for larger, digitized fleets.",
+            "Operators are re-exposed to land, freight, material, and plant constraints.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as General Freight Trucking (Truckload) and Local Freight Trucking in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "The value sits in orchestration and network quality, not simply miles moved.",
+            "Logistics real estate and physical throughput infrastructure remain strategic.",
+            "Asset-light models still need deep operational discipline to survive volatility.",
+            "The second-order read is that inventory localization increasing node complexity stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "The value sits in orchestration and network quality, not simply miles moved.",
@@ -3650,8 +4434,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Power-Centric Geography Reorders Industrial Value.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+        "Automation budgets, inference demand, and power-ready site competition keep rising."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 19,
       "evidence_industry_count": 20,
       "example_company_count": 19,
       "company_status_counts": {
@@ -3733,11 +4527,36 @@
           "slug": "rollups-in-essential-services",
           "title": "Roll-Ups Colonize Essential Services",
           "summary": "Healthcare, home services, consulting, and everyday operational categories keep moving from local ownership into regional and national platforms.",
+          "deep_read": "Fragmented local sectors becoming acquisition targets and back-office centralization improving unit economics are no longer isolated category quirks. They are showing up across healthcare and business services, where the great consolidation and the compliance tax are changing the operating baseline. That pushes the category toward a world where fragmented categories should be evaluated for acquisition-system quality, not just local share. The pattern is already visible in example operators such as Marsh & McLennan Companies, Stantec, and Clean Harbors.",
           "microthemes": [
             "fragmented local sectors becoming acquisition targets",
             "back-office centralization improving unit economics",
             "brand standardization replacing individual reputation",
             "exit markets rewarding scale more than independent durability"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around fragmented local sectors becoming acquisition targets.",
+            "Demand and behavior are reorganizing around back-office centralization improving unit economics.",
+            "Ownership scale is increasingly rewarded in sectors burdened by complexity.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US dental market, worth $196 billion in 2026, is consolidating rapidly as reimbursement stagnation and workforce shortages push independent practitioners into DSO networks while technology and aging populations provide modest growth.",
+            "Business services operators have to absorb this shift in a market where the US environmental consulting market is worth $27.4 billion (2025) and growing modestly at 1.6%, powered by stricter EPA rules and corporate climate targets, but held back by acute engineer shortages, tariff supply-chain headwinds, and consolidation among the Big Four firms.",
+            "Independent operators face rising disadvantages in procurement, software, and compliance.",
+            "More value accrues to those who can operationalize rule complexity at scale."
+          ],
+          "signals_to_watch": [
+            "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Dentists in the US and Environmental Consulting in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+            "Centralized admin and procurement are core sources of value capture.",
+            "Independents need a stronger moat than being merely local and competent.",
+            "The second-order read is that fragmented local sectors becoming acquisition targets stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
@@ -3843,11 +4662,36 @@
           "slug": "asset-owners-over-operators",
           "title": "Asset Owners Keep Gaining Relative Power",
           "summary": "The owner of land, rights, infrastructure, or financial rails often captures more durable economics than the visible operator working on top of those assets.",
+          "deep_read": "Ground ownership and lease control separating from operations and rights catalogs and infrastructure assets treated as yield-bearing instruments are no longer isolated category quirks. They are showing up across real estate, media & entertainment, and adjacent sectors, where the great consolidation and the real-estate reckoning are changing the operating baseline. That pushes the category toward a world where owning the constraint often beats operating on top of it. The pattern is already visible in example operators such as Prologis, CBRE Group, and Google.",
           "microthemes": [
             "ground ownership and lease control separating from operations",
             "rights catalogs and infrastructure assets treated as yield-bearing instruments",
             "operators renting critical assets from institutional owners",
             "cash-flow stability prized over entrepreneurial messiness"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around ground ownership and lease control separating from operations.",
+            "Demand and behavior are reorganizing around rights catalogs and infrastructure assets treated as yield-bearing instruments.",
+            "Ownership scale is increasingly rewarded in sectors burdened by complexity.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand."
+          ],
+          "pressure_points": [
+            "Real estate operators have to absorb this shift in a market where a steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck.",
+            "Real estate operators have to absorb this shift in a market where the US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures.",
+            "Independent operators face rising disadvantages in procurement, software, and compliance.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent."
+          ],
+          "signals_to_watch": [
+            "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Land Leasing in the US and Commercial Real Estate in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Owning the constraint often beats operating on top of it.",
+            "Investors should distinguish asset control from operating revenue noise.",
+            "The hidden landlord or rail owner may be the true power center in the value chain.",
+            "The second-order read is that ground ownership and lease control separating from operations stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Owning the constraint often beats operating on top of it.",
@@ -3953,11 +4797,36 @@
           "slug": "regional-intermediary-squeeze",
           "title": "Regional Intermediaries Get Squeezed",
           "summary": "Smaller banks, brokers, and mid-sized intermediaries face pressure from both scaled incumbents above and embedded or digital alternatives below.",
+          "deep_read": "Tech and compliance spend overwhelming smaller balance sheets and rate volatility exposing weak spread businesses are no longer isolated category quirks. They are showing up across finance & insurance, where money gets unbundled and the great consolidation are changing the operating baseline. That pushes the category toward a world where regional players need a niche or service quality that software cannot easily erase. The pattern is already visible in example operators such as Experian, Intuit, and S&P Global.",
           "microthemes": [
             "tech and compliance spend overwhelming smaller balance sheets",
             "rate volatility exposing weak spread businesses",
             "embedded digital experiences stealing customer relationships",
             "merger pressure rising as independence gets more expensive"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around tech and compliance spend overwhelming smaller balance sheets.",
+            "Demand and behavior are reorganizing around rate volatility exposing weak spread businesses.",
+            "Financial products, risk management, and payment rails are fragmenting into specialized layers.",
+            "Ownership scale is increasingly rewarded in sectors burdened by complexity."
+          ],
+          "pressure_points": [
+            "Finance & insurance operators have to absorb this shift in a market where commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees.",
+            "Finance & insurance operators have to absorb this shift in a market where the US credit union industry reached $149.3 billion in revenue in 2026 after sharp profitability gains in 2025, but faces eroding margins from rate cuts, intense fintech competition, and cybersecurity threats as consolidation accelerates.",
+            "Intermediaries without privileged data, trust, or embedded distribution lose ground.",
+            "Independent operators face rising disadvantages in procurement, software, and compliance."
+          ],
+          "signals_to_watch": [
+            "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+            "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Commercial Banking in the US and Credit Unions in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Regional players need a niche or service quality that software cannot easily erase.",
+            "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+            "The middleman without unique data or trust keeps losing ground.",
+            "The second-order read is that tech and compliance spend overwhelming smaller balance sheets stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Regional players need a niche or service quality that software cannot easily erase.",
@@ -4063,11 +4932,36 @@
           "slug": "franchise-and-platform-governance",
           "title": "Franchise and Platform Governance Matter More Than Local Hustle",
           "summary": "Local operators increasingly sit inside systems governed by franchisors, marketplaces, and scaled workflow owners that define the real economics.",
+          "deep_read": "Local ownership constrained by platform rules and brand systems taking more of the value stack are no longer isolated category quirks. They are showing up across food & drink, healthcare, and adjacent sectors, where the great consolidation and the channel shift are changing the operating baseline. That pushes the category toward a world where unit economics must be read alongside platform take rates and system control. The pattern is already visible in example operators such as McDonald's, Subway, and Amazon.",
           "microthemes": [
             "local ownership constrained by platform rules",
             "brand systems taking more of the value stack",
             "unit-level execution still matters but inside centralized terms",
             "operators trading autonomy for demand and tooling"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around local ownership constrained by platform rules.",
+            "Demand and behavior are reorganizing around brand systems taking more of the value stack.",
+            "Ownership scale is increasingly rewarded in sectors burdened by complexity.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Food & drink operators have to absorb this shift in a market where chain restaurants are caught between structural wage inflation, tariff pressures, and a consumer base choosing value-driven casual dining over premium sit-down experiences.",
+            "Healthcare operators have to absorb this shift in a market where residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements.",
+            "Independent operators face rising disadvantages in procurement, software, and compliance.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 1 advantaged examples and 3 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Chain Restaurants in the US and Residential Senior Care Franchises start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Unit economics must be read alongside platform take rates and system control.",
+            "The nominal operator may not be the real strategic decision-maker.",
+            "Franchise and marketplace governance quality is a first-order diligence issue.",
+            "The second-order read is that local ownership constrained by platform rules stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Unit economics must be read alongside platform take rates and system control.",
@@ -4173,11 +5067,36 @@
           "slug": "institutional-buying-power",
           "title": "Institutional Buying Power Widens the Gap",
           "summary": "Centralized purchasing, financing, and shared services let scaled operators absorb shocks that punish smaller competitors.",
+          "deep_read": "Procurement scale insulating against input volatility and shared overhead lowering per-unit compliance and software cost are no longer isolated category quirks. They are showing up across retail, manufacturing, and adjacent sectors, where the great consolidation and the margin vise are changing the operating baseline. That pushes the category toward a world where scale should be treated as an operating asset, not a descriptive label. The pattern is already visible in example operators such as Walmart, Costco, and Medline Industries.",
           "microthemes": [
             "procurement scale insulating against input volatility",
             "shared overhead lowering per-unit compliance and software cost",
             "access to cheaper capital improving resilience",
             "vendor negotiations shifting toward giant repeat buyers"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around procurement scale insulating against input volatility.",
+            "Demand and behavior are reorganizing around shared overhead lowering per-unit compliance and software cost.",
+            "Ownership scale is increasingly rewarded in sectors burdened by complexity.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Retail operators have to absorb this shift in a market where home Depot and Lowe's are hanging on in a frozen housing market by serving professional customers and investing in e-commerce, but Amazon is creeping in, tariffs are raising costs, and smaller competitors are vanishing.",
+            "Manufacturing operators have to absorb this shift in a market where a $387.7B (2026) mature industry led by four consolidated firms, racing to automate away chronic labor shortages while navigating tariff shocks and China's lockout-and-opening cycle on exports.",
+            "Independent operators face rising disadvantages in procurement, software, and compliance.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Home Improvement Stores in the US and Meat, Beef & Poultry Processing in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Scale should be treated as an operating asset, not a descriptive label.",
+            "Independent players need sharper specialization where buyers cannot fully commoditize them.",
+            "Cost shocks increasingly separate the scaled from the merely adequate.",
+            "The second-order read is that procurement scale insulating against input volatility stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Scale should be treated as an operating asset, not a descriptive label.",
@@ -4282,8 +5201,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 18,
       "example_company_count": 20,
       "company_status_counts": {
@@ -4365,11 +5294,36 @@
           "slug": "compliance-as-demand",
           "title": "Compliance Itself Becomes a Demand Engine",
           "summary": "Reporting, safety, environmental, quality, and documentation requirements create revenue pools that are only loosely tied to discretionary end-market growth.",
+          "deep_read": "Mandatory workflows sustaining demand through weak cycles and regulated sectors outsourcing rule complexity are no longer isolated category quirks. They are showing up across business services, where the compliance tax and the margin vise are changing the operating baseline. That pushes the category toward a world where compliance demand can be sticky even when customers dislike paying for it. The pattern is already visible in example operators such as Ecolab, Clean Harbors, and Stantec.",
           "microthemes": [
             "mandatory workflows sustaining demand through weak cycles",
             "regulated sectors outsourcing rule complexity",
             "documentation and auditability becoming product features",
             "software plus service bundles beating pure labor fulfillment"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around mandatory workflows sustaining demand through weak cycles.",
+            "Demand and behavior are reorganizing around regulated sectors outsourcing rule complexity.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Business services operators have to absorb this shift in a market where the US environmental consulting market is worth $27.4 billion (2025) and growing modestly at 1.6%, powered by stricter EPA rules and corporate climate targets, but held back by acute engineer shortages, tariff supply-chain headwinds, and consolidation among the Big Four firms.",
+            "Business services operators have to absorb this shift in a market where engineering services is a $386.7 billion mature market experiencing AI-driven consolidation and technology investment, but growth is constrained by labor shortages, tariff costs, and project financing pressure.",
+            "More value accrues to those who can operationalize rule complexity at scale.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Environmental Consulting in the US and Engineering Services in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Compliance demand can be sticky even when customers dislike paying for it.",
+            "Recurring embedded workflows deserve higher strategic value than episodic projects.",
+            "The key question is how much manual labor remains in delivery.",
+            "The second-order read is that mandatory workflows sustaining demand through weak cycles stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Compliance demand can be sticky even when customers dislike paying for it.",
@@ -4469,11 +5423,36 @@
           "slug": "identity-fraud-infrastructure",
           "title": "Identity, Fraud, and Trust Infrastructure Thickens",
           "summary": "Synthetic identity fraud, deepfakes, cyber risk, and financial scams are increasing the value of verification, scoring, monitoring, and risk infrastructure.",
+          "deep_read": "Identity systems becoming more continuous and layered and fraud defense shifting from after-the-fact recovery to prevention are no longer isolated category quirks. They are showing up across finance & insurance, where money gets unbundled and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where trust infrastructure benefits when fraud methods improve faster than institutions adapt. The pattern is already visible in example operators such as Experian, LexisNexis Risk Solutions, and S&P Global.",
           "microthemes": [
             "identity systems becoming more continuous and layered",
             "fraud defense shifting from after-the-fact recovery to prevention",
             "consumer trust mediated by invisible scoring and verification rails",
             "risk data turning into a toll-taking business model"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around identity systems becoming more continuous and layered.",
+            "Demand and behavior are reorganizing around fraud defense shifting from after-the-fact recovery to prevention.",
+            "Financial products, risk management, and payment rails are fragmenting into specialized layers.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Finance & insurance operators have to absorb this shift in a market where the $17.6 billion US credit bureaus and rating agencies industry is growing slowly (2.7% annually) as AI-powered alternative scoring disrupts traditional models, cybersecurity breaches erode consumer trust, and the SEC moves to overhaul rating-agency regulations.",
+            "Finance & insurance operators have to absorb this shift in a market where the US identity theft insurance industry is pivoting from simple restoration-cost coverage to AI-powered fraud prevention as synthetic identity schemes, regulatory tightening, and tariff-driven inflation reshape underwriting, margins, and competitive strategy.",
+            "Intermediaries without privileged data, trust, or embedded distribution lose ground.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Credit Bureaus & Rating Agencies in the US and Identity Theft Insurance start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Trust infrastructure benefits when fraud methods improve faster than institutions adapt.",
+            "Data depth and embedded distribution are stronger moats than raw feature counts.",
+            "Many businesses will pay for prevention long before they pay for elegance.",
+            "The second-order read is that identity systems becoming more continuous and layered stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Trust infrastructure benefits when fraud methods improve faster than institutions adapt.",
@@ -4581,11 +5560,36 @@
           "slug": "reimbursement-admin-layers",
           "title": "Reimbursement and Admin Layers Capture Value Around Care",
           "summary": "Healthcare generates large recurring administrative workloads around coding, claims, prior authorization, eligibility, and payment reconciliation.",
+          "deep_read": "Care delivery complexity spawning specialized admin infrastructure and billing and coding sophistication separating winners from losers are no longer isolated category quirks. They are showing up across healthcare, where the compliance tax and the pricing-power collapse are changing the operating baseline. That pushes the category toward a world where in healthcare, admin performance can decide whether demand is monetizable. The pattern is already visible in example operators such as CVS Health, Humana, and Labcorp.",
           "microthemes": [
             "care delivery complexity spawning specialized admin infrastructure",
             "billing and coding sophistication separating winners from losers",
             "administrative throughput becoming part of clinical competitiveness",
             "software-enabled outsourcing growing around payer-provider friction"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around care delivery complexity spawning specialized admin infrastructure.",
+            "Demand and behavior are reorganizing around billing and coding sophistication separating winners from losers.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening.",
+            "Buyers with payer leverage or concentrated purchasing power are capping monetization."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat.",
+            "Healthcare operators have to absorb this shift in a market where the $46.5 billion US ambulatory surgery center market is consolidating rapidly as hospitals and private equity acquire independents, while reimbursement growth lags labor cost inflation and new procedure opportunities fail to offset margin pressures.",
+            "More value accrues to those who can operationalize rule complexity at scale.",
+            "Headline demand overstates actual return capture where reimbursement or procurement rules dominate."
+          ],
+          "signals_to_watch": [
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Margin performance diverges more from volume growth in payer-shaped sectors.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Health & Medical Insurance in the US and Ambulatory Surgery Centers start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "In healthcare, admin performance can decide whether demand is monetizable.",
+            "Back-office friction is a real source of customer pain and therefore real value capture.",
+            "Operators should distinguish between labor-heavy services and scalable workflow rails.",
+            "The second-order read is that care delivery complexity spawning specialized admin infrastructure stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "In healthcare, admin performance can decide whether demand is monetizable.",
@@ -4693,11 +5697,36 @@
           "slug": "cyber-audit-overhead",
           "title": "Cyber and Audit Overhead Keep Expanding",
           "summary": "Cybersecurity, controls, and audit readiness are now ordinary operating requirements across finance, infrastructure, healthcare, and the mid-market.",
+          "deep_read": "Security spend shifting from optional to table stakes and insurance, compliance, and technology controls converging are no longer isolated category quirks. They are showing up across finance & insurance and technology & digital, where the compliance tax and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where security should be treated as operating infrastructure, not an IT accessory. The pattern is already visible in example operators such as Google, Microsoft, and Aon PLC.",
           "microthemes": [
             "security spend shifting from optional to table stakes",
             "insurance, compliance, and technology controls converging",
             "audit trails becoming part of vendor qualification",
             "regulatory scrutiny widening beyond the largest enterprises"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around security spend shifting from optional to table stakes.",
+            "Demand and behavior are reorganizing around insurance, compliance, and technology controls converging.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Finance & insurance operators have to absorb this shift in a market where commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees.",
+            "Finance & insurance operators have to absorb this shift in a market where the US credit union industry reached $149.3 billion in revenue in 2026 after sharp profitability gains in 2025, but faces eroding margins from rate cuts, intense fintech competition, and cybersecurity threats as consolidation accelerates.",
+            "More value accrues to those who can operationalize rule complexity at scale.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Commercial Banking in the US and Credit Unions in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Security should be treated as operating infrastructure, not an IT accessory.",
+            "Vendors that simplify evidence collection and control mapping can capture recurring budgets.",
+            "Auditability itself is part of enterprise product value now.",
+            "The second-order read is that security spend shifting from optional to table stakes stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Security should be treated as operating infrastructure, not an IT accessory.",
@@ -4797,11 +5826,36 @@
           "slug": "mandatory-testing-and-certification",
           "title": "Testing, Certification, and Standards Quietly Gain Power",
           "summary": "As products, environments, and labor become more regulated or specialized, testing and certification bodies take a larger hidden cut of the economy.",
+          "deep_read": "More sectors requiring formal validation before sale or deployment and quality assurance moving from back-end check to market-entry gate are no longer isolated category quirks. They are showing up across healthcare, manufacturing, and adjacent sectors, where the compliance tax and atoms strike back are changing the operating baseline. That pushes the category toward a world where gatekeeper positions around standards can be structurally attractive. The pattern is already visible in example operators such as Thermo Fisher Scientific, Labcorp, and 3M.",
           "microthemes": [
             "more sectors requiring formal validation before sale or deployment",
             "quality assurance moving from back-end check to market-entry gate",
             "certification acting as customer-trust transfer mechanism",
             "specialized labs and standards vendors benefiting from institutional complexity"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around more sectors requiring formal validation before sale or deployment.",
+            "Demand and behavior are reorganizing around quality assurance moving from back-end check to market-entry gate.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening.",
+            "Physical supply chains, manufacturing capacity, and infrastructure have regained strategic value."
+          ],
+          "pressure_points": [
+            "Healthcare operators have to absorb this shift in a market where the US medical device manufacturing industry faces tariff-driven cost pressures and supply chain restructuring, but is pivoting toward automation, nearshoring, and AI integration while consolidating around major players.",
+            "Manufacturing operators have to absorb this shift in a market where strong grid modernization and data-center investment drive an $81.4 billion market (2026, up 7.8%), but tariffs and material inflation squeeze profitability.",
+            "More value accrues to those who can operationalize rule complexity at scale.",
+            "Operators are re-exposed to land, freight, material, and plant constraints."
+          ],
+          "signals_to_watch": [
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Medical Device Manufacturing in the US and Electrical Equipment Manufacturing in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Gatekeeper positions around standards can be structurally attractive.",
+            "The customer often pays because they have to, not because they want to.",
+            "Certification businesses get stronger as product complexity rises.",
+            "The second-order read is that more sectors requiring formal validation before sale or deployment stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Gatekeeper positions around standards can be structurally attractive.",
@@ -4898,8 +5952,18 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Regulated Software and the Admin State is that a larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip, but the route to capturing that demand runs through the practical frictions surfaced by Compliance Itself Becomes a Demand Engine.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Identity, Fraud, and Trust Infrastructure Thickens.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Workflow software, certification, and managed compliance budgets keep deepening.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 15,
       "example_company_count": 17,
       "company_status_counts": {
@@ -4973,11 +6037,36 @@
           "slug": "office-obsolescence",
           "title": "Office Obsolescence Is a Structural Shift",
           "summary": "The office is no longer the default high-value urban container for work, which leaves many assets struggling for a new economic purpose.",
+          "deep_read": "Hybrid work reducing demand for commodity office space and capital markets forcing repricing through debt maturities are no longer isolated category quirks. They are showing up across real estate, business services, and adjacent sectors, where the real-estate reckoning and the fractional worker are changing the operating baseline. That pushes the category toward a world where office exposure should be segmented by asset quality and adaptability, not averaged. The pattern is already visible in example operators such as CBRE Group, Stantec, and DPR Construction.",
           "microthemes": [
             "hybrid work reducing demand for commodity office space",
             "capital markets forcing repricing through debt maturities",
             "service ecosystems around offices losing traffic density",
             "top-tier trophy assets diverging from the weak middle"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around hybrid work reducing demand for commodity office space.",
+            "Demand and behavior are reorganizing around capital markets forcing repricing through debt maturities.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand.",
+            "Employment is becoming more modular, rented, and task-specific."
+          ],
+          "pressure_points": [
+            "Real estate operators have to absorb this shift in a market where the US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures.",
+            "Business services operators have to absorb this shift in a market where the architecture industry is stalling, with market growth near zero, firm billings declining, and smaller practices squeezed while AI tools reshape workflows and PE-backed consolidation accelerates.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Commercial Real Estate in the US and Architects in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Office exposure should be segmented by asset quality and adaptability, not averaged.",
+            "Secondary service businesses around office density need fresh demand sources.",
+            "Debt structure matters almost as much as rent roll.",
+            "The second-order read is that hybrid work reducing demand for commodity office space stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Office exposure should be segmented by asset quality and adaptability, not averaged.",
@@ -5083,11 +6172,36 @@
           "slug": "adaptive-reuse",
           "title": "Adaptive Reuse Becomes a New Development Discipline",
           "summary": "Weak offices, malls, and older commercial assets create opportunity for conversion, repositioning, and selective redevelopment tied to housing or mixed-use demand.",
+          "deep_read": "Conversion economics replacing pure new-build economics and older assets assessed for code, utility, and zoning flexibility are no longer isolated category quirks. They are showing up across construction and business services, where the real-estate reckoning and the compliance tax are changing the operating baseline. That pushes the category toward a world where reuse work requires technical coordination and permitting fluency. The pattern is already visible in example operators such as DPR Construction, Granite Construction, and Stantec.",
           "microthemes": [
             "conversion economics replacing pure new-build economics",
             "older assets assessed for code, utility, and zoning flexibility",
             "reuse creating winners in remodeling and specialty construction",
             "local regulatory capacity shaping what actually pencils"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around conversion economics replacing pure new-build economics.",
+            "Demand and behavior are reorganizing around older assets assessed for code, utility, and zoning flexibility.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening."
+          ],
+          "pressure_points": [
+            "Construction operators have to absorb this shift in a market where the commercial building construction industry is split: AI-driven data centers are booming with 190% growth in 2025 starts while traditional office construction is at a 10-year low, caught between labor shortages, tariff-driven cost inflation, and elevated interest rates that crimp demand.",
+            "Construction operators have to absorb this shift in a market where remodeling contractors are squeezing out thin margins as material inflation and tariffs consume revenue gains, while offices slowly recover from pandemic vacancy but remain regionally uneven.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent.",
+            "More value accrues to those who can operationalize rule complexity at scale."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Commercial Building Construction in the US and Commercial Property Remodeling start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Reuse work requires technical coordination and permitting fluency.",
+            "Local regulation and utility constraints can make or break project viability.",
+            "Specialty contractors may benefit more than general market narratives imply.",
+            "The second-order read is that conversion economics replacing pure new-build economics stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Reuse work requires technical coordination and permitting fluency.",
@@ -5193,11 +6307,36 @@
           "slug": "housing-lock-in",
           "title": "Housing Lock-In Distorts Mobility and Spend",
           "summary": "High mortgage rates and limited affordable supply reduce household mobility, which affects renovation, rental demand, local services, and labor flexibility.",
+          "deep_read": "Owners staying put longer because replacement housing is too expensive and repair and remodel benefiting from frozen transaction volume are no longer isolated category quirks. They are showing up across construction, real estate, and adjacent sectors, where the real-estate reckoning and the margin vise are changing the operating baseline. That pushes the category toward a world where transaction-light housing environments can still support strong maintenance and retrofit demand. The pattern is already visible in example operators such as The Home Depot, Lowe's, and CBRE Group.",
           "microthemes": [
             "owners staying put longer because replacement housing is too expensive",
             "repair and remodel benefiting from frozen transaction volume",
             "renting staying elevated even when households would prefer to buy",
             "labor mobility reduced by housing mismatch"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around owners staying put longer because replacement housing is too expensive.",
+            "Demand and behavior are reorganizing around repair and remodel benefiting from frozen transaction volume.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand.",
+            "Input, labor, and service costs are staying elevated against selective customer willingness to pay."
+          ],
+          "pressure_points": [
+            "Construction operators have to absorb this shift in a market where the US home builders industry is trapped in a flat, high-friction equilibrium at $166-170 billion (2026) where tariff shocks, elevated rates, labor shortages, and margin compression are forcing consolidation and commoditization among smaller players while the top tier (D.R. Horton, Lennar, PulteGroup) capture scale and cash flow.",
+            "Real estate operators have to absorb this shift in a market where apartment rents have stopped climbing and flat-lined after years of double-digit growth, exposing oversupply in the Sun Belt while rent-controlled markets squeeze landlords between frozen pricing and soaring costs, driving industry consolidation and bankruptcies.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent.",
+            "Categories with weak differentiation get forced into promotion or mix deterioration."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Home Builders in the US and Apartment Rental in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Transaction-light housing environments can still support strong maintenance and retrofit demand.",
+            "Geographic labor matching gets harder when households cannot move cheaply.",
+            "Rental and repair ecosystems benefit from housing immobility.",
+            "The second-order read is that owners staying put longer because replacement housing is too expensive stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Transaction-light housing environments can still support strong maintenance and retrofit demand.",
@@ -5303,11 +6442,36 @@
           "slug": "logistics-land-and-utility-corridors",
           "title": "Logistics Land and Utility Corridors Gain Strategic Rent",
           "summary": "Warehouses, data-center sites, and utility-linked land capture more value because they sit next to the flows that the modern economy cannot avoid.",
+          "deep_read": "Warehousing retaining strategic relevance despite e-commerce normalization and utility adjacency increasing development value are no longer isolated category quirks. They are showing up across real estate, technology & digital, and adjacent sectors, where the real-estate reckoning and the compute super-cycle are changing the operating baseline. That pushes the category toward a world where not all land is equal; adjacency to power or throughput matters enormously. The pattern is already visible in example operators such as Prologis, CoreWeave, and Amazon.",
           "microthemes": [
             "warehousing retaining strategic relevance despite e-commerce normalization",
             "utility adjacency increasing development value",
             "industrial land scarcity creating quiet winners",
             "old retail land losing while logistics and data land gains"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around warehousing retaining strategic relevance despite e-commerce normalization.",
+            "Demand and behavior are reorganizing around utility adjacency increasing development value.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Real estate operators have to absorb this shift in a market where a steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck.",
+            "Real estate operators have to absorb this shift in a market where the US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Land Leasing in the US and Commercial Real Estate in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Not all land is equal; adjacency to power or throughput matters enormously.",
+            "Real estate diligence should be flow-based, not only cap-rate-based.",
+            "Local place can still be a hard moat in a digital economy.",
+            "The second-order read is that warehousing retaining strategic relevance despite e-commerce normalization stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Not all land is equal; adjacency to power or throughput matters enormously.",
@@ -5421,11 +6585,36 @@
           "slug": "local-service-density",
           "title": "Local Service Density Follows New Patterns of Presence",
           "summary": "Neighborhoods and corridors with stable residential activity gain relative importance as weekday downtown density weakens and local routine spend redistributes.",
+          "deep_read": "Suburban and neighborhood nodes capturing more everyday activity and service businesses re-optimizing around where people actually spend time are no longer isolated category quirks. They are showing up across consumer services, food & drink, and adjacent sectors, where the real-estate reckoning and the channel shift are changing the operating baseline. That pushes the category toward a world where micro-location strategy matters more when daily routines change. The pattern is already visible in example operators such as Starbucks, CVS Health, and Kroger.",
           "microthemes": [
             "suburban and neighborhood nodes capturing more everyday activity",
             "service businesses re-optimizing around where people actually spend time",
             "downtown foot traffic becoming less reliable as a default demand source",
             "place-based convenience still mattering despite digital substitution"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around suburban and neighborhood nodes capturing more everyday activity.",
+            "Demand and behavior are reorganizing around service businesses re-optimizing around where people actually spend time.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand.",
+            "Discovery, comparison, and fulfillment are being reorganized by digital channels."
+          ],
+          "pressure_points": [
+            "Consumer services operators have to absorb this shift in a market where pricing power is gone: commodity shocks and tariffs have crushed margins, bankruptcies hit independents, mega-deals consolidate the top (Keurig/JDE Peet's), while Starbucks staggers through a labor-heavy turnaround and QSRs poach coffee sales via convenience and automation.",
+            "Food & drink operators have to absorb this shift in a market where a mature, fragmented $424B industry growing below 1% in 2026 as traffic deflates from consumer retrenchment and GLP-1 adoption, labor costs rise structurally (California $20/hour minimum now core cost floor), tariffs push food prices relentlessly higher, and chains make desperate bets on AI automation to replace payroll.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent.",
+            "Operators that do not control demand or service convenience get commoditized faster."
+          ],
+          "signals_to_watch": [
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+            "Company mix is already separating, with 2 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Coffee & Snack Shops in the US and Fast Food Restaurants in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Micro-location strategy matters more when daily routines change.",
+            "Neighborhood convenience can be structurally stronger than central-business-district assumptions.",
+            "Service density should be mapped to lived presence, not historical traffic.",
+            "The second-order read is that suburban and neighborhood nodes capturing more everyday activity stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Micro-location strategy matters more when daily routines change.",
@@ -5522,8 +6711,17 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Space, Housing, and Local Friction is that where Americans live, commute, and locate activity is being reorganized by housing lock-in, office impairment, land scarcity near infrastructure, and the uneven value of local place, but the route to capturing that demand runs through the practical frictions surfaced by Office Obsolescence Is a Structural Shift.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Adaptive Reuse Becomes a New Development Discipline.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 20,
       "evidence_industry_count": 16,
       "example_company_count": 17,
       "company_status_counts": {
@@ -5607,11 +6805,36 @@
           "slug": "data-center-land-rush",
           "title": "The Data-Center Land Rush Creates New Scarcity",
           "summary": "AI demand turns power-ready land, colocation capacity, cooling systems, and permitting speed into strategic bottlenecks.",
+          "deep_read": "Power-ready land becoming a premium asset class and hyperscale and AI tenants pulling forward physical demand are no longer isolated category quirks. They are showing up across technology & digital, energy & environment, and adjacent sectors, where the compute super-cycle and the real-estate reckoning are changing the operating baseline. That pushes the category toward a world where the AI trade includes real estate, utilities, and heavy construction, not just software. The pattern is already visible in example operators such as CoreWeave, Google, and Microsoft.",
           "microthemes": [
             "power-ready land becoming a premium asset class",
             "hyperscale and AI tenants pulling forward physical demand",
             "cooling and water infrastructure becoming site constraints",
             "regional buildout concentrating around utility-friendly zones"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around power-ready land becoming a premium asset class.",
+            "Demand and behavior are reorganizing around hyperscale and AI tenants pulling forward physical demand.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "The value of place is being repriced by rates, hybrid work, logistics, and compute demand."
+          ],
+          "pressure_points": [
+            "Technology & digital operators have to absorb this shift in a market where aI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+            "Energy & environment operators have to absorb this shift in a market where a constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "Commodity space loses relevance while utility-linked or flow-linked sites gain rent."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Colocation Facilities and Electric Power Transmission in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "The AI trade includes real estate, utilities, and heavy construction, not just software.",
+            "Permitting speed and power contracts can be more decisive than raw model ambition.",
+            "Physical scarcity will shape who can scale inference economically.",
+            "The second-order read is that power-ready land becoming a premium asset class stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "The AI trade includes real estate, utilities, and heavy construction, not just software.",
@@ -5717,11 +6940,36 @@
           "slug": "workflow-compression",
           "title": "Workflow Compression Rewrites Knowledge Work",
           "summary": "AI tools increasingly collapse drafting, analysis, support, and administrative work into fewer steps, which changes staffing economics across white-collar sectors.",
+          "deep_read": "Junior and repeatable tasks being automated first and throughput expectations rising because tooling improves are no longer isolated category quirks. They are showing up across technology & digital and business services, where the compute super-cycle and the fractional worker are changing the operating baseline. That pushes the category toward a world where service firms need a deliberate view on which labor layers remain differentiated. The pattern is already visible in example operators such as Microsoft, Accenture, and Infosys.",
           "microthemes": [
             "junior and repeatable tasks being automated first",
             "throughput expectations rising because tooling improves",
             "buyers expecting more output for the same service budget",
             "human oversight shifting toward exception handling and judgment"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around junior and repeatable tasks being automated first.",
+            "Demand and behavior are reorganizing around throughput expectations rising because tooling improves.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "Employment is becoming more modular, rented, and task-specific."
+          ],
+          "pressure_points": [
+            "Technology & digital operators have to absorb this shift in a market where aI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors.",
+            "Business services operators have to absorb this shift in a market where the US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Business Analytics & Enterprise Software Publishing in the US and Accounting Services in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Service firms need a deliberate view on which labor layers remain differentiated.",
+            "Software vendors should position around throughput and auditability, not magic.",
+            "Productivity gains may compress fees before they expand margins.",
+            "The second-order read is that junior and repeatable tasks being automated first stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Service firms need a deliberate view on which labor layers remain differentiated.",
@@ -5821,11 +7069,36 @@
           "slug": "capital-concentration",
           "title": "AI Concentrates Capital and Strategic Power",
           "summary": "Training frontier models and operating at scale require enormous capital, compute access, and distribution, which favors a relatively small set of large platform or infrastructure players.",
+          "deep_read": "Frontier model economics rewarding extreme scale and platform distribution controlling customer access to AI usage are no longer isolated category quirks. They are showing up across technology & digital and finance & insurance, where the compute super-cycle and money gets unbundled are changing the operating baseline. That pushes the category toward a world where infrastructure ownership can matter more than app-level novelty. The pattern is already visible in example operators such as Microsoft, Google, and Amazon.",
           "microthemes": [
             "frontier model economics rewarding extreme scale",
             "platform distribution controlling customer access to AI usage",
             "smaller players depending on infrastructure leased from giants",
             "capital markets rewarding perceived infrastructure leverage"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around frontier model economics rewarding extreme scale.",
+            "Demand and behavior are reorganizing around platform distribution controlling customer access to AI usage.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "Financial products, risk management, and payment rails are fragmenting into specialized layers."
+          ],
+          "pressure_points": [
+            "Technology & digital operators have to absorb this shift in a market where aI automation, cloud encroachment, and consolidation are reshaping a slowing market where traditional hosting providers fight margin pressure while adapting to enterprise demands for security, privacy, and sustainability.",
+            "Technology & digital operators have to absorb this shift in a market where aI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "Intermediaries without privileged data, trust, or embedded distribution lose ground."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Internet Hosting Services and Business Analytics & Enterprise Software Publishing in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Infrastructure ownership can matter more than app-level novelty.",
+            "Dependent software businesses need to understand their exposure to upstream platform control.",
+            "The AI market is likely to be less democratic than the rhetoric implies.",
+            "The second-order read is that frontier model economics rewarding extreme scale stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Infrastructure ownership can matter more than app-level novelty.",
@@ -5931,11 +7204,33 @@
           "slug": "power-and-water-externalities",
           "title": "Power, Water, and Heat Become AI Externalities",
           "summary": "The compute boom pushes environmental and utility consequences into local politics, utility planning, and industrial cost structures far outside software.",
+          "deep_read": "Grid stress spilling into broader commercial and residential economics and cooling-water demand creating local permitting friction are no longer isolated category quirks. They are showing up across energy & environment, where the compute super-cycle are changing the operating baseline. That pushes the category toward a world where digital growth has real physical and political costs. The pattern is already visible in example operators such as NextEra Energy, Kinder Morgan Inc, and Baker Hughes.",
           "microthemes": [
             "grid stress spilling into broader commercial and residential economics",
             "cooling-water demand creating local permitting friction",
             "waste heat and energy efficiency becoming operational variables",
             "utility planning increasingly shaped by digital rather than household demand"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around grid stress spilling into broader commercial and residential economics.",
+            "Demand and behavior are reorganizing around cooling-water demand creating local permitting friction.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure."
+          ],
+          "pressure_points": [
+            "Energy & environment operators have to absorb this shift in a market where a constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels.",
+            "Energy & environment operators have to absorb this shift in a market where the US hydroelectric sector is caught between chronic western drought cutting output and aging infrastructure on one side, and resurgent private capital, government funding, and small-project innovation on the other—with climate volatility now the dominant operational risk.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Electric Power Transmission in the US and Hydroelectric Power in the US start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "Digital growth has real physical and political costs.",
+            "Utilities and infrastructure suppliers become indirect AI beneficiaries and constraints.",
+            "Local externalities will increasingly shape where compute gets built.",
+            "The second-order read is that grid stress spilling into broader commercial and residential economics stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "Digital growth has real physical and political costs.",
@@ -6033,11 +7328,36 @@
           "slug": "ai-inside-boring-industries",
           "title": "AI Seeps Into Boring Industries Through Workflows First",
           "summary": "The most durable AI adoption may come from embedding into routine workflows in finance, logistics, healthcare, and regulated admin rather than from flashy standalone consumer products.",
+          "deep_read": "Workflow integration beating general-purpose novelty and boring sectors adopting where ROI is legible are no longer isolated category quirks. They are showing up across finance & insurance, transport & logistics, and adjacent sectors, where the compute super-cycle and the compliance tax are changing the operating baseline. That pushes the category toward a world where the practical AI opportunity is often incremental but highly monetizable. The pattern is already visible in example operators such as Experian, Intuit, and Paychex.",
           "microthemes": [
             "workflow integration beating general-purpose novelty",
             "boring sectors adopting where ROI is legible",
             "documentation and search tasks absorbing early gains",
             "compliance-heavy sectors preferring controlled AI usage over open experimentation"
+          ],
+          "structural_drivers": [
+            "Demand and behavior are reorganizing around workflow integration beating general-purpose novelty.",
+            "Demand and behavior are reorganizing around boring sectors adopting where ROI is legible.",
+            "Ai and compute demand are simultaneously compressing workflows and straining physical infrastructure.",
+            "Mandatory documentation, testing, privacy, and audit overhead keep thickening."
+          ],
+          "pressure_points": [
+            "Finance & insurance operators have to absorb this shift in a market where the $17.6 billion US credit bureaus and rating agencies industry is growing slowly (2.7% annually) as AI-powered alternative scoring disrupts traditional models, cybersecurity breaches erode consumer trust, and the SEC moves to overhaul rating-agency regulations.",
+            "Transport & logistics operators have to absorb this shift in a market where the US truckload trucking sector is a mature, fragmented market experiencing a shakeout as bankruptcies and capacity exits outpace freight demand, creating selective rate firming but persistent profitability pressure on small carriers caught between record operating costs, driver shortages, and tariff headwinds.",
+            "Capital, power, and data-center access become competitive variables rather than background inputs.",
+            "More value accrues to those who can operationalize rule complexity at scale."
+          ],
+          "signals_to_watch": [
+            "Automation budgets, inference demand, and power-ready site competition keep rising.",
+            "Workflow software, certification, and managed compliance budgets keep deepening.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Watch whether evidence industries such as Credit Bureaus & Rating Agencies in the US and General Freight Trucking (Truckload) start treating this as a planning assumption rather than a side case."
+          ],
+          "strategic_consequences": [
+            "The practical AI opportunity is often incremental but highly monetizable.",
+            "Embedded workflow adoption should be measured by time saved and error reduced.",
+            "The biggest winners may be unglamorous software and admin layers.",
+            "The second-order read is that workflow integration beating general-purpose novelty stops being anecdotal and starts altering category structure."
           ],
           "operator_implications": [
             "The practical AI opportunity is often incremental but highly monetizable.",
@@ -6142,8 +7462,17 @@
           ]
         }
       ],
+      "structural_tensions": [
+        "The central tension inside Machine Intelligence and Compute Buildout is that aI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack, but the route to capturing that demand runs through the practical frictions surfaced by The Data-Center Land Rush Creates New Scarcity.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Workflow Compression Rewrites Knowledge Work.",
+        "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+      ],
+      "signals_to_watch": [
+        "Automation budgets, inference demand, and power-ready site competition keep rising."
+      ],
       "subtheme_count": 5,
       "microtheme_count": 20,
+      "signal_count": 19,
       "evidence_industry_count": 16,
       "example_company_count": 16,
       "company_status_counts": {

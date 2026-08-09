@@ -1261,7 +1261,7 @@ def build_company_page(company: dict[str, Any]) -> str:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(company['title'])} — Company Intelligence</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../company-universe.html">Company universe</a><a href="../company-clusters.html">Company clusters</a></div>
+<div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../company-universe.html">Company universe</a><a href="../company-clusters.html">Company clusters</a><a href="../company-memos.html">Company memos</a></div>
 <div class="eyebrow">Company intelligence · US · 2025–2026</div>
 <h1>{e(company['title'])}</h1>
 <p class="sub">{e(company['business_truth'])}</p>

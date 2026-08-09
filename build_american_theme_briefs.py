@@ -259,7 +259,7 @@ BRIEFS = {
 
 CSS = """
 :root{--bg:#0f141b;--panel:#171f29;--panel2:#1e2935;--line:#2a3644;--ink:#f1eadc;--muted:#a9b2be;--faint:#73808e;--gold:#d5ac57;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 80px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.card h3,.panel h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p{color:var(--muted);margin:.35em 0 0}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.split{display:grid;grid-template-columns:1.05fr .95fr;gap:14px}.theme{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.theme:first-of-type{margin-top:0;padding-top:0;border-top:none}.theme h3{font-size:1.3rem;margin:.2em 0 .35em}.theme p{color:var(--muted)}@media(max-width:900px){.split{grid-template-columns:1fr}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 80px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.4rem,5vw,4.2rem);line-height:1;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.05rem}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card,.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.card h3,.panel h3{margin:.2em 0 .35em;font-size:1.12rem}.card p,.panel p{color:var(--muted);margin:.35em 0 0}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.split{display:grid;grid-template-columns:1.05fr .95fr;gap:14px}.theme{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.theme:first-of-type{margin-top:0;padding-top:0;border-top:none}.theme h3{font-size:1.3rem;margin:.2em 0 .35em}.theme p{color:var(--muted)}.subthemes{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:14px}.subcard{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:14px}.subcard h4{margin:.2em 0 .35em;font-size:1rem}.subcard p{margin:.35em 0 0;color:var(--muted);font-size:.95rem}@media(max-width:900px){.split{grid-template-columns:1fr}}
 """
 
 
@@ -291,11 +291,32 @@ def build_theme_card(theme: dict) -> str:
 </article>"""
 
 
+def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str:
+    driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"][:3])
+    signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:3])
+    href = f'{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}'
+    return f"""<article class="subcard">
+  <div class="meta">Subtheme</div>
+  <h4><a href="{href}">{e(subtheme['title'])}</a></h4>
+  <p>{e(subtheme['deep_read'])}</p>
+  <div class="chips">{''.join(f'<span class="chip">{e(item)}</span>' for item in subtheme['microthemes'][:3])}</div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Drivers</div>
+    <ul class="list">{driver_items}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Signals</div>
+    <ul class="list">{signal_items}</ul>
+  </div>
+</article>"""
+
+
 def render_theme_section(theme: dict, prefix: str = "") -> str:
     long_read = "".join(f"<p>{e(paragraph)}</p>" for paragraph in theme["long_read"])
     structural = "".join(f"<li>{e(item)}</li>" for item in theme["structural_shifts"])
-    tensions = "".join(f"<li>{e(item)}</li>" for item in theme["tensions"])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in (theme["tensions"] + theme["structural_tensions"]))
     watchpoints = "".join(f"<li>{e(item)}</li>" for item in theme["watchpoints"])
+    theme_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     subtheme_links = "".join(
         f'<a class="chip" href="{e(prefix)}themes/{e(theme["slug"])}.html#{e(sub["slug"])}">{e(sub["title"])}</a>'
         for sub in theme["subthemes"]
@@ -304,6 +325,7 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
     )
+    subtheme_digests = "".join(render_subtheme_digest(theme, subtheme, prefix=prefix) for subtheme in theme["subthemes"])
     return f"""<section class="theme">
   <div class="meta">{e(theme['lens'])}</div>
   <h3>{e(theme['title'])}</h3>
@@ -319,11 +341,21 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
       <ul class="list">{tensions}</ul>
     </div>
   </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
+      <div class="meta">Theme-level signals</div>
+      <ul class="list">{theme_signals}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Watchpoints</div>
+      <ul class="list">{watchpoints}</ul>
+      <div class="chips">{force_links}</div>
+      <div class="chips">{subtheme_links}</div>
+    </div>
+  </div>
   <div class="panel" style="margin-top:14px">
-    <div class="meta">Watchpoints</div>
-    <ul class="list">{watchpoints}</ul>
-    <div class="chips">{force_links}</div>
-    <div class="chips">{subtheme_links}</div>
+    <div class="meta">Subtheme diagnosis</div>
+    <div class="subthemes">{subtheme_digests}</div>
   </div>
 </section>"""
 
@@ -343,6 +375,7 @@ def build_hub(theme_briefs: list[dict]) -> str:
   <div class="kpi"><div class="n">{len(theme_briefs)}</div><div class="l">Theme briefs</div></div>
   <div class="kpi"><div class="n">{sum(len(theme['subthemes']) for theme in theme_briefs)}</div><div class="l">Linked subthemes</div></div>
   <div class="kpi"><div class="n">{sum(len(theme['long_read']) for theme in theme_briefs)}</div><div class="l">Long-read blocks</div></div>
+  <div class="kpi"><div class="n">{sum(theme['signal_count'] for theme in theme_briefs)}</div><div class="l">Signals carried through</div></div>
 </div>
 <div class="lead"><p>Read this layer as the argument, not just the index. The economy in 2025-2026 is being reorganized through overlapping consumer, cultural, institutional, and industrial shifts. These briefs translate that structure into a legible story about how Americans live, spend, age, work, locate themselves, and operate businesses now.</p></div>
 
@@ -372,6 +405,7 @@ def build_detail_page(theme: dict) -> str:
 <div class="kpis">
   <div class="kpi"><div class="n">{len(theme['subthemes'])}</div><div class="l">Subthemes</div></div>
   <div class="kpi"><div class="n">{len(theme['long_read'])}</div><div class="l">Narrative blocks</div></div>
+  <div class="kpi"><div class="n">{theme['signal_count']}</div><div class="l">Signals</div></div>
   <div class="kpi"><div class="n">{theme['evidence_industry_count']}</div><div class="l">Evidence industries</div></div>
 </div>
 <div class="lead"><p>{e(theme['thesis'])}</p></div>
