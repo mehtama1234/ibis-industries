@@ -179,6 +179,7 @@ footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:
   <button class="tab" data-view="tr">Cross-cutting trends</button>
   <a class="linktab" href="operators.html">Operator playbooks</a>
   <a class="linktab" href="forces/index.html">Forces</a>
+  <a class="linktab" href="economic-intelligence.html">Economic intelligence</a>
  </div>
  <section id="view-ind">
   <div class="controls">

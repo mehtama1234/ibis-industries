@@ -1,0 +1,4020 @@
+{
+  "metadata": {
+    "generated_at": "2026-08-09",
+    "industry_brief_count": 1491,
+    "force_count": 14,
+    "operator_playbook_count": 8,
+    "purpose": "Canonical taxonomy for the economic-intelligence interpretation layer built on top of the completed industry corpus."
+  },
+  "working_thesis": "The US economy in 2025-2026 is being reorganized by overlapping pressures: labor scarcity, demographic aging, AI and compute buildout, consumer bifurcation, channel migration, politicized supply chains, compliance load, higher cost of capital, and consolidation.",
+  "domains": [
+    {
+      "slug": "industrial",
+      "title": "Industrial",
+      "description": "How the physical economy is being rebuilt through tariffs, capex, infrastructure, real-estate rotation, compliance burden, and margin pressure.",
+      "questions": [
+        "Where is capex flowing and what physical bottlenecks shape it?",
+        "Which industries are being repriced by tariffs, power, labor, or real-estate math?",
+        "Where does scale or asset ownership matter more than craftsmanship or fragmentation?"
+      ],
+      "forces": [
+        {
+          "slug": "atoms-strike-back",
+          "title": "Atoms Strike Back",
+          "repo_lens": "Industrial",
+          "signature": "Trade war and tariffs force reshoring, nearshoring, and inventory hoarding — physical supply chains get expensive and political, and whoever moves fastest to nearshore wins.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 22,
+          "groups": [
+            {
+              "label": "A · The auto reordering",
+              "subforces": [
+                {
+                  "slug": "auto-tariff-shock",
+                  "title": "The auto tariff shock",
+                  "angle": "2025 tariffs and the EV transition force the whole auto supply chain to reorder toward Mexico.",
+                  "evidence_slugs": [
+                    "auto-parts-manufacturing-in-the-us",
+                    "car-and-automobile-manufacturing-in-the-us",
+                    "automobile-engine-and-parts-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-ev-transition",
+                  "title": "The EV transition & legacy parts",
+                  "angle": "Electrification voids some parts and creates others; suppliers must pick a side.",
+                  "evidence_slugs": [
+                    "hybrid-and-electric-vehicle-manufacturing",
+                    "automobile-transmission-manufacturing-in-the-us",
+                    "automobile-steering-and-suspension-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Heavy materials & metals",
+              "subforces": [
+                {
+                  "slug": "metals-and-tariffs",
+                  "title": "Metals behind the tariff wall",
+                  "angle": "Steel and aluminum tariffs ripple into every downstream builder and maker.",
+                  "evidence_slugs": [
+                    "iron-and-steel-manufacturing-in-the-us",
+                    "aluminum-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "materials-of-everything",
+                  "title": "The materials of everything",
+                  "angle": "Basic materials get repriced by tariffs, energy, and reshoring.",
+                  "evidence_slugs": [
+                    "chemical-product-manufacturing-in-the-us",
+                    "cement-manufacturing-in-the-us",
+                    "glass-product-manufacturing-in-the-us",
+                    "rubber-product-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Reshoring the factory",
+              "subforces": [
+                {
+                  "slug": "reshoring-advanced",
+                  "title": "Reshoring advanced manufacturing",
+                  "angle": "Defense, reshoring mandates, and supply-chain security pull advanced manufacturing home.",
+                  "evidence_slugs": [
+                    "3d-printer-manufacturing",
+                    "computer-manufacturing-in-the-us",
+                    "electrical-equipment-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "appliances-and-goods",
+                  "title": "Appliances & durable goods",
+                  "angle": "Durable-goods makers weigh tariff costs against nearshoring and automation.",
+                  "evidence_slugs": [
+                    "major-household-appliance-manufacturing-in-the-us",
+                    "aircraft-engine-and-parts-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · Food & the retail edge",
+              "subforces": [
+                {
+                  "slug": "food-supply-exposure",
+                  "title": "Food's tariff exposure",
+                  "angle": "Food processing and ag ride commodity and trade-war volatility.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "coffee-production-in-the-us",
+                    "soybean-processing"
+                  ]
+                },
+                {
+                  "slug": "retail-import-shock",
+                  "title": "The retail import shock",
+                  "angle": "Import-heavy retail eats tariff costs or passes them to shoppers.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "furniture-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "atoms-strike-back",
+                  "title": "Atoms strike back",
+                  "angle": "Capstone: the physical supply chain got political; nearshoring and domestic makers win, thin-margin importers lose.",
+                  "evidence_slugs": [
+                    "auto-parts-manufacturing-in-the-us",
+                    "iron-and-steel-manufacturing-in-the-us",
+                    "3d-printer-manufacturing",
+                    "soybean-processing"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-great-consolidation",
+          "title": "The Great Consolidation",
+          "repo_lens": "Industrial",
+          "signature": "Capital rolls up fragmented Main Street — PE, franchises, REITs, and scale leaders absorb the independents, and financialization wins while owner-operators exit.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 22,
+          "groups": [
+            {
+              "label": "A · Rolling up healthcare",
+              "subforces": [
+                {
+                  "slug": "pe-in-medicine",
+                  "title": "Private equity in medicine",
+                  "angle": "PE rolls up practices and clinics, chasing scale and billing power.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "mental-health-and-substance-abuse-centers-in-the-us",
+                    "dialysis-centers"
+                  ]
+                },
+                {
+                  "slug": "device-and-pharma-scale",
+                  "title": "Scale in devices & generics",
+                  "angle": "Med-tech and generics consolidate to survive pricing pressure.",
+                  "evidence_slugs": [
+                    "medical-device-manufacturing-in-the-us",
+                    "generic-pharmaceutical-manufacturing-in-the-us",
+                    "orthopedic-products-manufacturing"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Franchising Main Street",
+              "subforces": [
+                {
+                  "slug": "franchise-rollups",
+                  "title": "The franchise roll-up",
+                  "angle": "Franchising and PE turn local services into scaled, financialized platforms.",
+                  "evidence_slugs": [
+                    "residential-senior-care-franchises",
+                    "chain-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "services-consolidation",
+                  "title": "Consolidating boring services",
+                  "angle": "Professional and boring-but-essential services get rolled into regional platforms.",
+                  "evidence_slugs": [
+                    "environmental-consulting-in-the-us",
+                    "engineering-services-in-the-us",
+                    "architects-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Scale in retail & food",
+              "subforces": [
+                {
+                  "slug": "retail-scale",
+                  "title": "Scale wins in retail",
+                  "angle": "A few big-box leaders capture the category; independents fold.",
+                  "evidence_slugs": [
+                    "home-improvement-stores-in-the-us",
+                    "auto-parts-stores-in-the-us",
+                    "sporting-goods-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "food-and-drink-scale",
+                  "title": "Scale in food & drink",
+                  "angle": "Distribution and production consolidate; craft and independents get bought or squeezed.",
+                  "evidence_slugs": [
+                    "breweries-in-the-us",
+                    "beer-wholesaling-in-the-us",
+                    "meat-beef-and-poultry-processing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · Capital owns the assets",
+              "subforces": [
+                {
+                  "slug": "reits-own-it",
+                  "title": "REITs own the ground",
+                  "angle": "Institutional capital owns the real assets and rents them back.",
+                  "evidence_slugs": [
+                    "commercial-real-estate-in-the-us",
+                    "apartment-rental-in-the-us",
+                    "land-leasing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "catalogs-as-assets",
+                  "title": "IP & catalogs as assets",
+                  "angle": "Rights and catalogs get financialized into yield-bearing assets.",
+                  "evidence_slugs": [
+                    "music-publishing-in-the-us",
+                    "cable-networks-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-great-consolidation",
+                  "title": "The great consolidation",
+                  "angle": "Capstone: capital rolls up the fragmented economy; scale and financialization win, independent owners exit.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "residential-senior-care-franchises",
+                    "home-improvement-stores-in-the-us",
+                    "commercial-real-estate-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-real-estate-reckoning",
+          "title": "The Real-Estate Reckoning",
+          "repo_lens": "Industrial",
+          "signature": "Hybrid work broke the office and higher rates broke the math — capital rotates from offices to logistics, data centers, and housing, and a debt wall forces the reckoning.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 16,
+          "groups": [
+            {
+              "label": "A · The office breaks",
+              "subforces": [
+                {
+                  "slug": "the-office-crisis",
+                  "title": "The office crisis",
+                  "angle": "Hybrid work and vacancies gut office values; a maturity wall forces losses.",
+                  "evidence_slugs": [
+                    "commercial-real-estate-in-the-us",
+                    "architects-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "adaptive-reuse",
+                  "title": "Adaptive reuse & conversion",
+                  "angle": "Dead offices and malls get converted — a remodeling and construction opportunity.",
+                  "evidence_slugs": [
+                    "commercial-property-remodeling",
+                    "commercial-building-construction-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Where capital rotates",
+              "subforces": [
+                {
+                  "slug": "housing-squeeze",
+                  "title": "The housing squeeze",
+                  "angle": "High rates freeze buying and pressure multifamily even as housing stays scarce.",
+                  "evidence_slugs": [
+                    "home-builders-in-the-us",
+                    "apartment-rental-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "logistics-and-data",
+                  "title": "Logistics & data centers",
+                  "angle": "Capital flows to warehouses and data centers — the assets with demand.",
+                  "evidence_slugs": [
+                    "colocation-facilities",
+                    "heavy-engineering-construction-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-land-play",
+                  "title": "Owning the land",
+                  "angle": "Land and ground-lease models become the quiet, durable real-estate bet.",
+                  "evidence_slugs": [
+                    "land-leasing-in-the-us",
+                    "campgrounds-and-rv-parks-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Hospitality & retail property",
+              "subforces": [
+                {
+                  "slug": "hospitality-property",
+                  "title": "Hotels as real estate",
+                  "angle": "Lodging bifurcates and gets financialized as an asset class.",
+                  "evidence_slugs": [
+                    "hotels-and-motels-in-the-us",
+                    "casino-hotels-in-the-us",
+                    "boutique-hotels"
+                  ]
+                },
+                {
+                  "slug": "retail-property",
+                  "title": "Retail's property fallout",
+                  "angle": "Store closures dump retail real estate onto the market for reuse.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "the-debt-wall",
+                  "title": "The commercial-debt wall",
+                  "angle": "A wave of maturing CRE loans refinancing at higher rates is the sector's tail risk.",
+                  "evidence_slugs": [
+                    "commercial-real-estate-in-the-us",
+                    "commercial-banking-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "construction-costs",
+                  "title": "Building costs bite",
+                  "angle": "Tariffs, labor, and rates raise the cost to build anything new.",
+                  "evidence_slugs": [
+                    "commercial-building-construction-in-the-us",
+                    "home-builders-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-real-estate-reckoning",
+                  "title": "The real-estate reckoning",
+                  "angle": "Capstone: work and rates broke the old real-estate math; logistics, data, and housing win, offices lose.",
+                  "evidence_slugs": [
+                    "commercial-real-estate-in-the-us",
+                    "apartment-rental-in-the-us",
+                    "colocation-facilities",
+                    "home-builders-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-compliance-tax",
+          "title": "The Compliance Tax",
+          "repo_lens": "Industrial",
+          "signature": "A patchwork of AI, privacy, climate, and cyber rules turns compliance into a rising cost — it favors scale, feeds the consultants, and prices out the small operator.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 19,
+          "groups": [
+            {
+              "label": "A · Finance under the rules",
+              "subforces": [
+                {
+                  "slug": "banking-compliance",
+                  "title": "The bank compliance load",
+                  "angle": "Capital, KYC, and consumer rules make compliance a moat for big banks.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "credit-card-issuing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "insurance-rules",
+                  "title": "Insurance & the regulators",
+                  "angle": "State-by-state rules and new risks make insurance a compliance-heavy, data-heavy game.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "cyber-liability-insurance",
+                    "workers-compensation-insurance"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Healthcare's paperwork",
+              "subforces": [
+                {
+                  "slug": "healthcare-admin",
+                  "title": "Healthcare's paperwork machine",
+                  "angle": "Regulation and reimbursement rules make admin a huge, growing cost center.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "medical-device-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "data-and-privacy",
+                  "title": "Data, privacy & cyber",
+                  "angle": "Privacy and cyber rules raise the cost of holding data — and create a security market.",
+                  "evidence_slugs": [
+                    "data-processing-and-hosting-services-in-the-us",
+                    "internet-service-providers-in-the-us",
+                    "internet-hosting-services"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The compliance-industrial complex",
+              "subforces": [
+                {
+                  "slug": "the-advisors",
+                  "title": "Who profits from the rules",
+                  "angle": "Lawyers, auditors, and accountants sell the compliance the rules require.",
+                  "evidence_slugs": [
+                    "law-firms-in-the-us",
+                    "audit-services",
+                    "accounting-services-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "environmental-rules",
+                  "title": "Environmental & climate rules",
+                  "angle": "Climate and environmental mandates create work and cost in equal measure.",
+                  "evidence_slugs": [
+                    "environmental-consulting-in-the-us",
+                    "waste-to-energy-plant-operation"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "small-operator-squeeze",
+                  "title": "The small-operator squeeze",
+                  "angle": "Compliance cost is fixed, so it hits small firms hardest and pushes consolidation.",
+                  "evidence_slugs": [
+                    "credit-repair-services",
+                    "business-certification-and-it-schools-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-ai-rules",
+                  "title": "Governing the algorithms",
+                  "angle": "New AI-governance rules land first on data, credit, and software.",
+                  "evidence_slugs": [
+                    "business-analytics-and-enterprise-software-publishing-in-the-us",
+                    "credit-bureaus-and-rating-agencies-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-compliance-tax",
+                  "title": "The compliance tax",
+                  "angle": "Capstone: rules multiply into a tax that favors scale and feeds advisors; small operators pay the most.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "hospitals-in-the-us",
+                    "law-firms-in-the-us",
+                    "data-processing-and-hosting-services-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-margin-vise",
+          "title": "The Margin Vise",
+          "repo_lens": "Economic",
+          "signature": "Labor, materials, energy, and tariffs rise faster than pricing power — margins compress, and only the automated, the premium, or the locked-in escape the squeeze.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 16,
+          "groups": [
+            {
+              "label": "A · Food gets squeezed",
+              "subforces": [
+                {
+                  "slug": "food-producers",
+                  "title": "The food-producer squeeze",
+                  "angle": "Commodity, labor, and energy costs outrun what packaged-food makers can charge.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "dairy-product-production-in-the-us",
+                    "meat-beef-and-poultry-processing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-sweet-squeeze",
+                  "title": "The sweet-goods squeeze",
+                  "angle": "Cocoa, sugar, and dairy inflation crush indulgent-category margins.",
+                  "evidence_slugs": [
+                    "candy-production-in-the-us",
+                    "ice-cream-production-in-the-us",
+                    "chocolate-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Serving food at a loss-leader price",
+              "subforces": [
+                {
+                  "slug": "restaurant-margins",
+                  "title": "The restaurant margin trap",
+                  "angle": "Wage and food inflation collide with price-sensitive diners.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us",
+                    "coffee-and-snack-shops-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "drinks-margins",
+                  "title": "The drinks squeeze",
+                  "angle": "Input costs and flat demand compress beverage margins.",
+                  "evidence_slugs": [
+                    "breweries-in-the-us",
+                    "beer-wholesaling-in-the-us",
+                    "juice-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Where the lock-in defends the margin",
+              "subforces": [
+                {
+                  "slug": "the-lock-in-defense",
+                  "title": "The lock-in defense",
+                  "angle": "Captive locations and bundles defend margin where switching is hard.",
+                  "evidence_slugs": [
+                    "cable-providers-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "utility-like-margins",
+                  "title": "Utility-like resilience",
+                  "angle": "Regulated, contracted, or essential businesses hold margin better.",
+                  "evidence_slugs": [
+                    "waste-to-energy-plant-operation",
+                    "natural-gas-distribution-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The escape routes",
+              "subforces": [
+                {
+                  "slug": "automate-the-cost",
+                  "title": "Automating the cost away",
+                  "angle": "Automation is the main lever left to protect margin from labor inflation.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "premium-as-shield",
+                  "title": "Premium as the shield",
+                  "angle": "Trading up to premium is the other way to keep pricing power.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "dairy-product-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-margin-vise",
+                  "title": "The margin vise",
+                  "angle": "Capstone: costs rise faster than prices; automate, premiumize, or lock customers in — or watch margin vanish.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "fast-food-restaurants-in-the-us",
+                    "cable-providers-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-pricing-power-collapse",
+          "title": "The Pricing-Power Collapse",
+          "repo_lens": "Economic",
+          "signature": "Medicare cuts and payer power strip pricing from providers and device makers — volume rises with aging, but the price per unit keeps falling, and only scale survives.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 17,
+          "groups": [
+            {
+              "label": "A · The providers get cut",
+              "subforces": [
+                {
+                  "slug": "medicare-cuts",
+                  "title": "Death by reimbursement cut",
+                  "angle": "Year after year, Medicare trims the rate while costs rise — a structural margin squeeze.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "ambulatory-surgery-centers",
+                    "diagnostic-imaging-centers"
+                  ]
+                },
+                {
+                  "slug": "the-specialist-squeeze",
+                  "title": "The specialist squeeze",
+                  "angle": "Specialists face flat reimbursement and rising costs, pushing them into groups.",
+                  "evidence_slugs": [
+                    "cardiologists",
+                    "dermatologists",
+                    "gynecologists-and-obstetricians"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The makers get squeezed",
+              "subforces": [
+                {
+                  "slug": "device-pricing",
+                  "title": "The device price grind",
+                  "angle": "Hospital consolidation and payers grind device prices down 1-2% a year.",
+                  "evidence_slugs": [
+                    "orthopedic-products-manufacturing",
+                    "dialysis-equipment-manufacturing",
+                    "medical-device-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "generic-deflation",
+                  "title": "Generic-drug deflation",
+                  "angle": "Relentless price erosion in generics rewards only the largest, lowest-cost makers.",
+                  "evidence_slugs": [
+                    "generic-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The payers hold the power",
+              "subforces": [
+                {
+                  "slug": "payer-power",
+                  "title": "Who holds the purse",
+                  "angle": "Insurers and Medicare Advantage set prices and squeeze everyone downstream.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "hmo-providers",
+                    "dental-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-independent-exodus",
+                  "title": "The independent-practice exodus",
+                  "angle": "Solo and small practices sell to systems and PE to survive the pricing squeeze.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "mental-health-and-substance-abuse-clinics-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "volume-vs-price",
+                  "title": "Volume up, price down",
+                  "angle": "Aging drives volume, but falling per-unit prices and wage costs eat the gains.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "home-care-providers-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "value-based-shift",
+                  "title": "The value-based bet",
+                  "angle": "Shifting to value-based, lower-cost sites of care is the industry's escape hatch.",
+                  "evidence_slugs": [
+                    "hmo-providers",
+                    "ambulatory-surgery-centers"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-pricing-power-collapse",
+                  "title": "The pricing-power collapse",
+                  "angle": "Capstone: reimbursement and payer power strip pricing from healthcare; volume grows but only scale survives.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "orthopedic-products-manufacturing",
+                    "generic-pharmaceutical-manufacturing-in-the-us",
+                    "health-and-medical-insurance-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "specialty-manufacturer",
+          "title": "The Specialty Manufacturer",
+          "lens": "Industrial Operators",
+          "thesis": "Small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "laboratory-casework-manufacturing",
+            "laboratory-fume-hoods-manufacturing",
+            "industrial-and-fluid-power-valve-manufacturing",
+            "industrial-and-commercial-fan-and-blower-manufacturing",
+            "commercial-oven-manufacturing",
+            "dental-clinical-instrument-manufacturing",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "cotton-personal-care-product-manufacturing",
+            "laminated-plastics-manufacturing-in-the-us",
+            "lighting-fixtures-manufacturing-in-the-us"
+          ],
+          "operator_questions": [
+            "Is demand driven by replacement, regulation, or specification rather than discretionary volume?",
+            "Can automation or procurement improve margin without new plant risk?",
+            "Are tariffs and input costs pass-throughable?"
+          ]
+        },
+        {
+          "slug": "distribution-middleman",
+          "title": "The Distribution Middleman",
+          "lens": "Wholesale & Distribution",
+          "thesis": "Distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "electrical-equipment-wholesaling-in-the-us",
+            "coal-and-ore-wholesaling-in-the-us",
+            "dairy-wholesaling-in-the-us",
+            "egg-and-poultry-wholesaling-in-the-us",
+            "janitorial-equipment-supply-wholesaling-in-the-us",
+            "jewelry-and-watch-wholesaling-in-the-us",
+            "laboratory-supply-wholesaling-in-the-us",
+            "industrial-machinery-and-equipment-wholesaling-in-the-us",
+            "industrial-supplies-wholesaling-in-the-us",
+            "footwear-wholesaling-in-the-us"
+          ],
+          "operator_questions": [
+            "Is the distributor providing credit, speed, expertise, or just taking a margin?",
+            "Can procurement scale improve gross margin?",
+            "Which customers can bypass the channel?"
+          ]
+        },
+        {
+          "slug": "regulated-admin-stack",
+          "title": "The Regulated Admin Stack",
+          "lens": "Compliance Infrastructure",
+          "thesis": "Complexity creates businesses: testing, claims, identity, forensic work, HR, and compliance software turn regulation into recurring demand.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "insurance-claims-processing-software",
+            "identity-management-software-in-the-us",
+            "identity-theft-protection-services",
+            "forensic-accounting-services",
+            "forensic-technology-services",
+            "dna-and-dna-forensic-laboratories",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "hr-and-payroll-software",
+            "it-security-consulting",
+            "education-consultants"
+          ],
+          "operator_questions": [
+            "Is the work mandatory, recurring, and hard to defer?",
+            "Can AI reduce fulfillment cost without increasing liability?",
+            "Are customers buying risk reduction or just a cheaper workflow?"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "consumer",
+      "title": "Consumer",
+      "description": "How households are reallocating spend across value, premium, health, convenience, channels, and experiences.",
+      "questions": [
+        "Where are consumers trading down, and where do they still pay up?",
+        "Which categories are being reshaped by health, convenience, or status signaling?",
+        "Which parts of consumer demand are cyclical versus structurally re-ranked?"
+      ],
+      "forces": [
+        {
+          "slug": "the-health-reckoning",
+          "title": "The Health Reckoning",
+          "repo_lens": "Cultural",
+          "signature": "GLP-1 drugs, the sober-curious wave, and the retreat from sugar are rewriting what people eat and drink — volume shrinks, and only the health-aligned or premium survive.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 18,
+          "groups": [
+            {
+              "label": "A · The drug that changed appetite",
+              "subforces": [
+                {
+                  "slug": "the-glp1-shockwave",
+                  "title": "The GLP-1 shockwave",
+                  "angle": "Weight-loss drugs cut appetite and are already reshaping food, drink, and weight-loss demand.",
+                  "evidence_slugs": [
+                    "weight-loss-services-in-the-us",
+                    "brand-name-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "snacking-under-siege",
+                  "title": "Snacking under siege",
+                  "angle": "Indulgent, calorie-dense categories face structural demand pressure as appetites shrink and scrutiny rises.",
+                  "evidence_slugs": [
+                    "candy-production-in-the-us",
+                    "ice-cream-production-in-the-us",
+                    "cookie-cracker-and-pasta-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The retreat from alcohol",
+              "subforces": [
+                {
+                  "slug": "sober-curious",
+                  "title": "The sober-curious wave",
+                  "angle": "Younger drinkers drink less; alcohol venues and makers face a structural, not cyclical, decline.",
+                  "evidence_slugs": [
+                    "wine-bars",
+                    "breweries-in-the-us",
+                    "bars-and-nightclubs-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "spirits-in-contraction",
+                  "title": "Spirits in contraction",
+                  "angle": "A boom-to-bust hangover: gluts, tariffs, and moderation hit premium spirits hard.",
+                  "evidence_slugs": [
+                    "whiskey-and-bourbon-distilleries",
+                    "distilleries-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The health-aligned winners",
+              "subforces": [
+                {
+                  "slug": "functional-drinks",
+                  "title": "Functional & better-for-you drinks",
+                  "angle": "Sugar-free, functional, and 'better-for-you' positioning is the only growth lane left in beverages.",
+                  "evidence_slugs": [
+                    "energy-drink-production",
+                    "juice-production-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-diet-rewires",
+                  "title": "When diet meets convenience",
+                  "angle": "Health-conscious, convenient eating reshuffles who wins in packaged and prepared food.",
+                  "evidence_slugs": [
+                    "meal-kit-delivery-services",
+                    "frozen-food-production-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "what-you-drink-now",
+                  "title": "What you drink now",
+                  "angle": "Coffee, milk alternatives, and snacks reposition around health and premium to hold volume.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "dairy-product-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "fast-food-reckoning",
+                  "title": "Fast food's reckoning",
+                  "angle": "Value and indulgence collide with health scrutiny and GLP-1; chains reformulate or lose share.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "regulation-and-warnings",
+                  "title": "Regulation & the warning label",
+                  "angle": "Health warnings, sugar rules, and scrutiny become a cost and a repositioning trigger.",
+                  "evidence_slugs": [
+                    "energy-drink-production",
+                    "candy-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-health-reckoning",
+                  "title": "The health reckoning",
+                  "angle": "Capstone: wellness and weight-loss drugs shrink volume across food and drink; health-aligned and premium win, vice loses.",
+                  "evidence_slugs": [
+                    "weight-loss-services-in-the-us",
+                    "wine-bars",
+                    "energy-drink-production",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-hollow-middle",
+          "title": "The Hollow Middle",
+          "repo_lens": "Cultural",
+          "signature": "The middle market collapses — shoppers split into premium and value, and anyone stuck selling undifferentiated mid-tier goods gets squeezed from both sides.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 23,
+          "groups": [
+            {
+              "label": "A · The stores splitting apart",
+              "subforces": [
+                {
+                  "slug": "department-stores-fall",
+                  "title": "The department store falls",
+                  "angle": "The mid-tier anchor of retail hollows out as shoppers go luxury or discount.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                },
+                {
+                  "slug": "value-wins",
+                  "title": "The value floor",
+                  "angle": "Trading down powers dollar, convenience, and value formats.",
+                  "evidence_slugs": [
+                    "dollar-and-variety-stores-in-the-us",
+                    "convenience-stores-in-the-us",
+                    "ethnic-supermarkets"
+                  ]
+                },
+                {
+                  "slug": "premium-holds",
+                  "title": "The premium ceiling",
+                  "angle": "Affluent shoppers keep spending on jewelry, beauty, and status goods.",
+                  "evidence_slugs": [
+                    "jewelry-stores-in-the-us",
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Apparel & footwear bifurcate",
+              "subforces": [
+                {
+                  "slug": "apparel-split",
+                  "title": "Apparel splits",
+                  "angle": "Fast-fashion and luxury grow; mid-price apparel chains close.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "mens-clothing-stores-in-the-us",
+                    "family-clothing-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "footwear-and-niche",
+                  "title": "Footwear & the niche",
+                  "angle": "Specialty and athletic footwear thrive; generic mid-tier shoe retail shrinks.",
+                  "evidence_slugs": [
+                    "athletic-shoe-stores",
+                    "shoe-stores-in-the-us",
+                    "lingerie-swimwear-and-bridal-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Eating & staying out",
+              "subforces": [
+                {
+                  "slug": "dining-bifurcation",
+                  "title": "Dining bifurcates",
+                  "angle": "Casual-dining middle empties as diners split between cheap fast food and premium experiences.",
+                  "evidence_slugs": [
+                    "chain-restaurants-in-the-us",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "hospitality-tiers",
+                  "title": "Hotels pick a lane",
+                  "angle": "Budget and luxury/experiential lodging grow; the mid-scale motel struggles.",
+                  "evidence_slugs": [
+                    "hotels-and-motels-in-the-us",
+                    "boutique-hotels",
+                    "extended-stay-hotels",
+                    "casino-hotels-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · Experience & status",
+              "subforces": [
+                {
+                  "slug": "experience-premium",
+                  "title": "Paying for the experience",
+                  "angle": "Consumers trade goods for experiences and premium live events.",
+                  "evidence_slugs": [
+                    "amusement-parks-in-the-us",
+                    "movie-theaters-in-the-us",
+                    "concert-and-event-promotion-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-dupe-economy",
+                  "title": "Value's revenge: the dupe",
+                  "angle": "Cheap 'dupes' and private label eat the mainstream middle of consumer goods.",
+                  "evidence_slugs": [
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us",
+                    "health-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-hollow-middle",
+                  "title": "The hollow middle",
+                  "angle": "Capstone: the middle market is hollowing out; luxury and value win, undifferentiated mid-tier loses.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "dollar-and-variety-stores-in-the-us",
+                    "jewelry-stores-in-the-us",
+                    "chain-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-channel-shift",
+          "title": "The Channel Shift",
+          "repo_lens": "Cultural",
+          "signature": "The store stopped being where you buy — e-commerce, marketplaces, and direct-to-consumer hollow out physical retail, and only omnichannel or the experiential niche survives.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 21,
+          "groups": [
+            {
+              "label": "A · The categories that went online first",
+              "subforces": [
+                {
+                  "slug": "electronics-online",
+                  "title": "Electronics go online",
+                  "angle": "Commodity electronics were the first to move online; specialty stores nearly vanished.",
+                  "evidence_slugs": [
+                    "consumer-electronics-stores-in-the-us",
+                    "computer-stores-in-the-us",
+                    "camera-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "media-and-hobby",
+                  "title": "Media & hobby retail",
+                  "angle": "Amazon and marketplaces gutted these categories; survivors go experiential and expert.",
+                  "evidence_slugs": [
+                    "book-stores-in-the-us",
+                    "art-supply-stores",
+                    "hardware-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "apparel-online",
+                  "title": "Apparel & the try-before-you-buy problem",
+                  "angle": "Clothing and shoes shift online despite fit friction; stores become showrooms.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "shoe-stores-in-the-us",
+                    "family-clothing-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The marketplace machine",
+              "subforces": [
+                {
+                  "slug": "the-marketplace",
+                  "title": "The marketplace eats the middle",
+                  "angle": "The platform takes a cut of everything and sets the terms of survival for sellers.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "dtc-brands",
+                  "title": "Direct-to-consumer brands",
+                  "angle": "Brands sell straight to shoppers, cutting the retailer out entirely.",
+                  "evidence_slugs": [
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us",
+                    "hiking-and-outdoor-equipment-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Who's holding on",
+              "subforces": [
+                {
+                  "slug": "omnichannel-or-die",
+                  "title": "Omnichannel or die",
+                  "angle": "Big-box survivors fuse online and store — ship-from-store, buy-online-pickup — or lose.",
+                  "evidence_slugs": [
+                    "home-improvement-stores-in-the-us",
+                    "sporting-goods-stores-in-the-us",
+                    "auto-parts-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-experiential-niche",
+                  "title": "The experiential survivor",
+                  "angle": "Expertise, immediacy, and experience are the moats physical retail has left.",
+                  "evidence_slugs": [
+                    "jewelry-stores-in-the-us",
+                    "health-stores-in-the-us",
+                    "convenience-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "tariffs-and-de-minimis",
+                  "title": "Tariffs & the de-minimis end",
+                  "angle": "Shein/Temu and the end of the de-minimis loophole reshape the price war online.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "furniture-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-store-closures",
+                  "title": "The closure wave",
+                  "angle": "Thousands of stores close a year; the real-estate and jobs fallout compounds.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-channel-shift",
+                  "title": "The channel shift",
+                  "angle": "Capstone: the point of sale moved online; platforms and omnichannel scale win, standalone mid-market stores lose.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us",
+                    "womens-clothing-stores-in-the-us",
+                    "home-improvement-stores-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-margin-vise",
+          "title": "The Margin Vise",
+          "repo_lens": "Economic",
+          "signature": "Labor, materials, energy, and tariffs rise faster than pricing power — margins compress, and only the automated, the premium, or the locked-in escape the squeeze.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 16,
+          "groups": [
+            {
+              "label": "A · Food gets squeezed",
+              "subforces": [
+                {
+                  "slug": "food-producers",
+                  "title": "The food-producer squeeze",
+                  "angle": "Commodity, labor, and energy costs outrun what packaged-food makers can charge.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "dairy-product-production-in-the-us",
+                    "meat-beef-and-poultry-processing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-sweet-squeeze",
+                  "title": "The sweet-goods squeeze",
+                  "angle": "Cocoa, sugar, and dairy inflation crush indulgent-category margins.",
+                  "evidence_slugs": [
+                    "candy-production-in-the-us",
+                    "ice-cream-production-in-the-us",
+                    "chocolate-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Serving food at a loss-leader price",
+              "subforces": [
+                {
+                  "slug": "restaurant-margins",
+                  "title": "The restaurant margin trap",
+                  "angle": "Wage and food inflation collide with price-sensitive diners.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us",
+                    "coffee-and-snack-shops-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "drinks-margins",
+                  "title": "The drinks squeeze",
+                  "angle": "Input costs and flat demand compress beverage margins.",
+                  "evidence_slugs": [
+                    "breweries-in-the-us",
+                    "beer-wholesaling-in-the-us",
+                    "juice-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Where the lock-in defends the margin",
+              "subforces": [
+                {
+                  "slug": "the-lock-in-defense",
+                  "title": "The lock-in defense",
+                  "angle": "Captive locations and bundles defend margin where switching is hard.",
+                  "evidence_slugs": [
+                    "cable-providers-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "utility-like-margins",
+                  "title": "Utility-like resilience",
+                  "angle": "Regulated, contracted, or essential businesses hold margin better.",
+                  "evidence_slugs": [
+                    "waste-to-energy-plant-operation",
+                    "natural-gas-distribution-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The escape routes",
+              "subforces": [
+                {
+                  "slug": "automate-the-cost",
+                  "title": "Automating the cost away",
+                  "angle": "Automation is the main lever left to protect margin from labor inflation.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "premium-as-shield",
+                  "title": "Premium as the shield",
+                  "angle": "Trading up to premium is the other way to keep pricing power.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "dairy-product-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-margin-vise",
+                  "title": "The margin vise",
+                  "angle": "Capstone: costs rise faster than prices; automate, premiumize, or lock customers in — or watch margin vanish.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "fast-food-restaurants-in-the-us",
+                    "cable-providers-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "experiential-venue",
+          "title": "The Experiential Venue",
+          "lens": "Consumer Experience",
+          "thesis": "Experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "arcade-food-and-entertainment-complexes-in-the-us",
+            "dance-studios",
+            "karaoke-bars",
+            "golf-driving-ranges-and-family-fun-centers-in-the-us",
+            "indoor-climbing-walls",
+            "indoor-sports-facilities-management",
+            "ice-rinks",
+            "boxing-gyms-and-clubs",
+            "convention-and-visitor-bureaus-in-the-us",
+            "cruise-and-travel-agency-franchises"
+          ],
+          "operator_questions": [
+            "Can utilization be smoothed across weekdays and seasons?",
+            "Does the concept have local scarcity or is it easy to copy?",
+            "Are labor, insurance, and rent rising faster than ticket yield?"
+          ]
+        },
+        {
+          "slug": "food-production-niche",
+          "title": "The Food Production Niche",
+          "lens": "Food & Beverage",
+          "thesis": "Niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "cocoa-and-drinking-chocolate-production",
+            "coffee-creamer-production",
+            "kombucha-production-in-the-us",
+            "hot-sauce-production",
+            "bbq-sauce-production",
+            "cider-production",
+            "doughnut-stores",
+            "dairy-farms-in-the-us",
+            "dairy-wholesaling-in-the-us",
+            "egg-and-poultry-wholesaling-in-the-us"
+          ],
+          "operator_questions": [
+            "Is this product riding health, premium, convenience, or indulgence?",
+            "Can input swings be hedged or passed through?",
+            "Does distribution create the moat or the squeeze?"
+          ]
+        },
+        {
+          "slug": "local-services-rollup",
+          "title": "The Local Services Rollup",
+          "lens": "Main Street Services",
+          "thesis": "Fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "hair-and-nail-salons-in-the-us",
+            "hair-salons",
+            "gym-and-fitness-franchises",
+            "gym-health-and-fitness-clubs-in-the-us",
+            "hvac-service-franchises",
+            "handyman-service-franchises",
+            "janitorial-services-in-the-us",
+            "dance-studios",
+            "health-and-wellness-spas",
+            "massage-franchises"
+          ],
+          "operator_questions": [
+            "Can dispatch, booking, marketing, and procurement be centralized without killing local demand?",
+            "Is labor scarce enough that recruiting and retention are the real moat?",
+            "Can price increases be passed through without churn?"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cultural_social",
+      "title": "Cultural & Social",
+      "description": "How identity, work, attention, status, and norms are changing behavior across labor, media, food, retail, and services.",
+      "questions": [
+        "How are work identity, expertise, and junior labor changing?",
+        "How is status moving between goods, experiences, and digital mediation?",
+        "Which social changes are becoming economic demand shifts rather than niche behaviors?"
+      ],
+      "forces": [
+        {
+          "slug": "the-fractional-worker",
+          "title": "The Fractional Worker",
+          "repo_lens": "Societal",
+          "signature": "Permanent jobs unbundle into gigs, fractional roles, and expert networks — the firm rents talent by the hour, and the platform in the middle takes the cut.",
+          "group_count": 4,
+          "subforce_count": 8,
+          "evidence_slug_count": 14,
+          "groups": [
+            {
+              "label": "A · Renting the expert",
+              "subforces": [
+                {
+                  "slug": "expert-on-demand",
+                  "title": "The expert, on demand",
+                  "angle": "Companies rent senior judgment by the call or the project instead of hiring it full-time.",
+                  "evidence_slugs": [
+                    "expert-networks",
+                    "management-consulting-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "fractional-leaders",
+                  "title": "Fractional leadership",
+                  "angle": "Fractional CFOs, CMOs, and coaches replace full-time executives at smaller firms.",
+                  "evidence_slugs": [
+                    "business-coaching-in-the-us",
+                    "executive-search-recruiters"
+                  ]
+                },
+                {
+                  "slug": "the-advice-business",
+                  "title": "Advice as a rented service",
+                  "angle": "Whole functions — HR, marketing, compliance — get rented from consultants instead of staffed.",
+                  "evidence_slugs": [
+                    "hr-consulting-in-the-us",
+                    "marketing-consultants",
+                    "environmental-consulting-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The platforms in the middle",
+              "subforces": [
+                {
+                  "slug": "staffing-platforms",
+                  "title": "Who places the talent",
+                  "angle": "Recruiters and brokers monetize the matching as work fragments.",
+                  "evidence_slugs": [
+                    "executive-search-recruiters",
+                    "freight-forwarding-brokerages-and-agencies-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-credential-market",
+                  "title": "Selling the credential",
+                  "angle": "Short-course and certification providers sell the fast credentials the gig market rewards.",
+                  "evidence_slugs": [
+                    "business-certification-and-it-schools-in-the-us",
+                    "educational-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The tensions",
+              "subforces": [
+                {
+                  "slug": "the-benefits-gap",
+                  "title": "The benefits gap",
+                  "angle": "Fractional work shifts benefits and stability onto the worker; insurers reprice the risk.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "disability-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-firm-thins",
+                  "title": "The firm gets thinner",
+                  "angle": "Professional firms lean on contractors and offshoring, thinning the permanent core.",
+                  "evidence_slugs": [
+                    "law-firms-in-the-us",
+                    "accounting-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-fractional-worker",
+                  "title": "The fractional worker",
+                  "angle": "Capstone: the unit of work shrinks from the job to the task; platforms and specialists win, stability loses.",
+                  "evidence_slugs": [
+                    "expert-networks",
+                    "management-consulting-in-the-us",
+                    "business-coaching-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-health-reckoning",
+          "title": "The Health Reckoning",
+          "repo_lens": "Cultural",
+          "signature": "GLP-1 drugs, the sober-curious wave, and the retreat from sugar are rewriting what people eat and drink — volume shrinks, and only the health-aligned or premium survive.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 18,
+          "groups": [
+            {
+              "label": "A · The drug that changed appetite",
+              "subforces": [
+                {
+                  "slug": "the-glp1-shockwave",
+                  "title": "The GLP-1 shockwave",
+                  "angle": "Weight-loss drugs cut appetite and are already reshaping food, drink, and weight-loss demand.",
+                  "evidence_slugs": [
+                    "weight-loss-services-in-the-us",
+                    "brand-name-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "snacking-under-siege",
+                  "title": "Snacking under siege",
+                  "angle": "Indulgent, calorie-dense categories face structural demand pressure as appetites shrink and scrutiny rises.",
+                  "evidence_slugs": [
+                    "candy-production-in-the-us",
+                    "ice-cream-production-in-the-us",
+                    "cookie-cracker-and-pasta-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The retreat from alcohol",
+              "subforces": [
+                {
+                  "slug": "sober-curious",
+                  "title": "The sober-curious wave",
+                  "angle": "Younger drinkers drink less; alcohol venues and makers face a structural, not cyclical, decline.",
+                  "evidence_slugs": [
+                    "wine-bars",
+                    "breweries-in-the-us",
+                    "bars-and-nightclubs-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "spirits-in-contraction",
+                  "title": "Spirits in contraction",
+                  "angle": "A boom-to-bust hangover: gluts, tariffs, and moderation hit premium spirits hard.",
+                  "evidence_slugs": [
+                    "whiskey-and-bourbon-distilleries",
+                    "distilleries-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The health-aligned winners",
+              "subforces": [
+                {
+                  "slug": "functional-drinks",
+                  "title": "Functional & better-for-you drinks",
+                  "angle": "Sugar-free, functional, and 'better-for-you' positioning is the only growth lane left in beverages.",
+                  "evidence_slugs": [
+                    "energy-drink-production",
+                    "juice-production-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-diet-rewires",
+                  "title": "When diet meets convenience",
+                  "angle": "Health-conscious, convenient eating reshuffles who wins in packaged and prepared food.",
+                  "evidence_slugs": [
+                    "meal-kit-delivery-services",
+                    "frozen-food-production-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "what-you-drink-now",
+                  "title": "What you drink now",
+                  "angle": "Coffee, milk alternatives, and snacks reposition around health and premium to hold volume.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "dairy-product-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "fast-food-reckoning",
+                  "title": "Fast food's reckoning",
+                  "angle": "Value and indulgence collide with health scrutiny and GLP-1; chains reformulate or lose share.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "regulation-and-warnings",
+                  "title": "Regulation & the warning label",
+                  "angle": "Health warnings, sugar rules, and scrutiny become a cost and a repositioning trigger.",
+                  "evidence_slugs": [
+                    "energy-drink-production",
+                    "candy-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-health-reckoning",
+                  "title": "The health reckoning",
+                  "angle": "Capstone: wellness and weight-loss drugs shrink volume across food and drink; health-aligned and premium win, vice loses.",
+                  "evidence_slugs": [
+                    "weight-loss-services-in-the-us",
+                    "wine-bars",
+                    "energy-drink-production",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-hollow-middle",
+          "title": "The Hollow Middle",
+          "repo_lens": "Cultural",
+          "signature": "The middle market collapses — shoppers split into premium and value, and anyone stuck selling undifferentiated mid-tier goods gets squeezed from both sides.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 23,
+          "groups": [
+            {
+              "label": "A · The stores splitting apart",
+              "subforces": [
+                {
+                  "slug": "department-stores-fall",
+                  "title": "The department store falls",
+                  "angle": "The mid-tier anchor of retail hollows out as shoppers go luxury or discount.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                },
+                {
+                  "slug": "value-wins",
+                  "title": "The value floor",
+                  "angle": "Trading down powers dollar, convenience, and value formats.",
+                  "evidence_slugs": [
+                    "dollar-and-variety-stores-in-the-us",
+                    "convenience-stores-in-the-us",
+                    "ethnic-supermarkets"
+                  ]
+                },
+                {
+                  "slug": "premium-holds",
+                  "title": "The premium ceiling",
+                  "angle": "Affluent shoppers keep spending on jewelry, beauty, and status goods.",
+                  "evidence_slugs": [
+                    "jewelry-stores-in-the-us",
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Apparel & footwear bifurcate",
+              "subforces": [
+                {
+                  "slug": "apparel-split",
+                  "title": "Apparel splits",
+                  "angle": "Fast-fashion and luxury grow; mid-price apparel chains close.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "mens-clothing-stores-in-the-us",
+                    "family-clothing-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "footwear-and-niche",
+                  "title": "Footwear & the niche",
+                  "angle": "Specialty and athletic footwear thrive; generic mid-tier shoe retail shrinks.",
+                  "evidence_slugs": [
+                    "athletic-shoe-stores",
+                    "shoe-stores-in-the-us",
+                    "lingerie-swimwear-and-bridal-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Eating & staying out",
+              "subforces": [
+                {
+                  "slug": "dining-bifurcation",
+                  "title": "Dining bifurcates",
+                  "angle": "Casual-dining middle empties as diners split between cheap fast food and premium experiences.",
+                  "evidence_slugs": [
+                    "chain-restaurants-in-the-us",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "hospitality-tiers",
+                  "title": "Hotels pick a lane",
+                  "angle": "Budget and luxury/experiential lodging grow; the mid-scale motel struggles.",
+                  "evidence_slugs": [
+                    "hotels-and-motels-in-the-us",
+                    "boutique-hotels",
+                    "extended-stay-hotels",
+                    "casino-hotels-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · Experience & status",
+              "subforces": [
+                {
+                  "slug": "experience-premium",
+                  "title": "Paying for the experience",
+                  "angle": "Consumers trade goods for experiences and premium live events.",
+                  "evidence_slugs": [
+                    "amusement-parks-in-the-us",
+                    "movie-theaters-in-the-us",
+                    "concert-and-event-promotion-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-dupe-economy",
+                  "title": "Value's revenge: the dupe",
+                  "angle": "Cheap 'dupes' and private label eat the mainstream middle of consumer goods.",
+                  "evidence_slugs": [
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us",
+                    "health-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-hollow-middle",
+                  "title": "The hollow middle",
+                  "angle": "Capstone: the middle market is hollowing out; luxury and value win, undifferentiated mid-tier loses.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "dollar-and-variety-stores-in-the-us",
+                    "jewelry-stores-in-the-us",
+                    "chain-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-channel-shift",
+          "title": "The Channel Shift",
+          "repo_lens": "Cultural",
+          "signature": "The store stopped being where you buy — e-commerce, marketplaces, and direct-to-consumer hollow out physical retail, and only omnichannel or the experiential niche survives.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 21,
+          "groups": [
+            {
+              "label": "A · The categories that went online first",
+              "subforces": [
+                {
+                  "slug": "electronics-online",
+                  "title": "Electronics go online",
+                  "angle": "Commodity electronics were the first to move online; specialty stores nearly vanished.",
+                  "evidence_slugs": [
+                    "consumer-electronics-stores-in-the-us",
+                    "computer-stores-in-the-us",
+                    "camera-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "media-and-hobby",
+                  "title": "Media & hobby retail",
+                  "angle": "Amazon and marketplaces gutted these categories; survivors go experiential and expert.",
+                  "evidence_slugs": [
+                    "book-stores-in-the-us",
+                    "art-supply-stores",
+                    "hardware-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "apparel-online",
+                  "title": "Apparel & the try-before-you-buy problem",
+                  "angle": "Clothing and shoes shift online despite fit friction; stores become showrooms.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "shoe-stores-in-the-us",
+                    "family-clothing-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The marketplace machine",
+              "subforces": [
+                {
+                  "slug": "the-marketplace",
+                  "title": "The marketplace eats the middle",
+                  "angle": "The platform takes a cut of everything and sets the terms of survival for sellers.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "dtc-brands",
+                  "title": "Direct-to-consumer brands",
+                  "angle": "Brands sell straight to shoppers, cutting the retailer out entirely.",
+                  "evidence_slugs": [
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us",
+                    "hiking-and-outdoor-equipment-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Who's holding on",
+              "subforces": [
+                {
+                  "slug": "omnichannel-or-die",
+                  "title": "Omnichannel or die",
+                  "angle": "Big-box survivors fuse online and store — ship-from-store, buy-online-pickup — or lose.",
+                  "evidence_slugs": [
+                    "home-improvement-stores-in-the-us",
+                    "sporting-goods-stores-in-the-us",
+                    "auto-parts-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-experiential-niche",
+                  "title": "The experiential survivor",
+                  "angle": "Expertise, immediacy, and experience are the moats physical retail has left.",
+                  "evidence_slugs": [
+                    "jewelry-stores-in-the-us",
+                    "health-stores-in-the-us",
+                    "convenience-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "tariffs-and-de-minimis",
+                  "title": "Tariffs & the de-minimis end",
+                  "angle": "Shein/Temu and the end of the de-minimis loophole reshape the price war online.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "furniture-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-store-closures",
+                  "title": "The closure wave",
+                  "angle": "Thousands of stores close a year; the real-estate and jobs fallout compounds.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-channel-shift",
+                  "title": "The channel shift",
+                  "angle": "Capstone: the point of sale moved online; platforms and omnichannel scale win, standalone mid-market stores lose.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us",
+                    "womens-clothing-stores-in-the-us",
+                    "home-improvement-stores-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "experiential-venue",
+          "title": "The Experiential Venue",
+          "lens": "Consumer Experience",
+          "thesis": "Experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "arcade-food-and-entertainment-complexes-in-the-us",
+            "dance-studios",
+            "karaoke-bars",
+            "golf-driving-ranges-and-family-fun-centers-in-the-us",
+            "indoor-climbing-walls",
+            "indoor-sports-facilities-management",
+            "ice-rinks",
+            "boxing-gyms-and-clubs",
+            "convention-and-visitor-bureaus-in-the-us",
+            "cruise-and-travel-agency-franchises"
+          ],
+          "operator_questions": [
+            "Can utilization be smoothed across weekdays and seasons?",
+            "Does the concept have local scarcity or is it easy to copy?",
+            "Are labor, insurance, and rent rising faster than ticket yield?"
+          ]
+        },
+        {
+          "slug": "local-services-rollup",
+          "title": "The Local Services Rollup",
+          "lens": "Main Street Services",
+          "thesis": "Fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "hair-and-nail-salons-in-the-us",
+            "hair-salons",
+            "gym-and-fitness-franchises",
+            "gym-health-and-fitness-clubs-in-the-us",
+            "hvac-service-franchises",
+            "handyman-service-franchises",
+            "janitorial-services-in-the-us",
+            "dance-studios",
+            "health-and-wellness-spas",
+            "massage-franchises"
+          ],
+          "operator_questions": [
+            "Can dispatch, booking, marketing, and procurement be centralized without killing local demand?",
+            "Is labor scarce enough that recruiting and retention are the real moat?",
+            "Can price increases be passed through without churn?"
+          ]
+        },
+        {
+          "slug": "health-services-operator",
+          "title": "The Health Services Operator",
+          "lens": "Healthcare Delivery",
+          "thesis": "Healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "elderly-and-disabled-services-in-the-us",
+            "eating-disorder-clinics",
+            "dna-and-dna-forensic-laboratories",
+            "laboratory-testing-services-in-the-us",
+            "hearing-aid-clinics",
+            "healthcare-staff-recruitment-agencies",
+            "healthcare-consultants",
+            "hospices-and-palliative-care-centers",
+            "in-home-senior-care-franchises",
+            "dental-equipment-dealers"
+          ],
+          "operator_questions": [
+            "Is payer mix improving or deteriorating?",
+            "Can clinician and caregiver labor be recruited reliably?",
+            "Does compliance complexity favor scale?"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "societal_institutional",
+      "title": "Societal & Institutional",
+      "description": "How demographics, regulation, public funding, care burden, institutional risk, and labor supply are reorganizing the economy.",
+      "questions": [
+        "Where do demographics create inevitable demand but constrained returns?",
+        "Where does regulation create drag, defensibility, or both?",
+        "Which sectors are really driven by reimbursement, staffing, or policy rather than pure market demand?"
+      ],
+      "forces": [
+        {
+          "slug": "the-graying-market",
+          "title": "The Graying Market",
+          "repo_lens": "Societal",
+          "signature": "The boomers hit their care years — demand floods into everything age-related, but reimbursement cuts and a caregiver shortage cap the upside.",
+          "group_count": 5,
+          "subforce_count": 12,
+          "evidence_slug_count": 25,
+          "groups": [
+            {
+              "label": "A · The body wears out",
+              "subforces": [
+                {
+                  "slug": "joint-repair",
+                  "title": "Joint repair & surgery",
+                  "angle": "Aging joints and eyes drive implant and outpatient-surgery volume; robotics is now standard of care but Medicare cuts squeeze the price.",
+                  "evidence_slugs": [
+                    "orthopedic-products-manufacturing",
+                    "ambulatory-surgery-centers",
+                    "eye-surgery-clinics"
+                  ]
+                },
+                {
+                  "slug": "the-senses-fade",
+                  "title": "When the senses fade",
+                  "angle": "Hearing and vision decline create steady demand; OTC hearing aids and retail optical reshape who captures it.",
+                  "evidence_slugs": [
+                    "hearing-aid-manufacturing",
+                    "contact-lens-manufacturing",
+                    "glasses-and-contact-lens-manufacturing-in-the-us",
+                    "eyeglasses-and-contact-lens-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "chronic-care",
+                  "title": "The chronic-disease machine",
+                  "angle": "Kidney and heart disease scale with age into recurring, consolidated, reimbursement-dependent care.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "dialysis-equipment-manufacturing",
+                    "cardiologists"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Care leaves the hospital",
+              "subforces": [
+                {
+                  "slug": "senior-housing",
+                  "title": "Senior housing at scale",
+                  "angle": "Boomer demand meets a bed shortage and a wage spiral; PE rolls up the fragment.",
+                  "evidence_slugs": [
+                    "residential-senior-care-franchises"
+                  ]
+                },
+                {
+                  "slug": "care-comes-home",
+                  "title": "Care comes home",
+                  "angle": "The money rewards keeping seniors out of facilities; home care booms but can't hire fast enough.",
+                  "evidence_slugs": [
+                    "home-care-providers-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-old-persons-specialists",
+                  "title": "The specialists of old age",
+                  "angle": "Age-skewed outpatient specialties ride the demographic wave while fighting reimbursement pressure.",
+                  "evidence_slugs": [
+                    "dermatologists",
+                    "allergists",
+                    "chiropractors-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The money side of aging",
+              "subforces": [
+                {
+                  "slug": "longevity-insurance",
+                  "title": "Insuring a longer life",
+                  "angle": "Living longer turns into an annuity and long-term-care market — the balance-sheet side of aging.",
+                  "evidence_slugs": [
+                    "long-term-care-insurance",
+                    "life-insurance-and-annuities-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-drug-that-rewrote-aging",
+                  "title": "The drug that rewrote aging",
+                  "angle": "GLP-1 drugs are the biggest force in aging health — remaking weight loss, cardio-metabolic care, and pharma.",
+                  "evidence_slugs": [
+                    "weight-loss-services-in-the-us",
+                    "brand-name-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "grey-leisure",
+                  "title": "Grey leisure & the active old",
+                  "angle": "Wealthy, active retirees spend on experiences and the outdoors — a real growth pocket.",
+                  "evidence_slugs": [
+                    "hiking-and-outdoor-equipment-stores",
+                    "amusement-parks-in-the-us",
+                    "campgrounds-and-rv-parks-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "who-pays",
+                  "title": "Who pays for all this",
+                  "angle": "Medicare Advantage and insurers hold the purse; benefit cuts and cost control cap every provider's pricing.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "hmo-providers",
+                    "dental-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-caregiver-shortage",
+                  "title": "The caregiver shortage",
+                  "angle": "The binding constraint isn't demand — it's the aides and nurses to serve it, and wages spiral.",
+                  "evidence_slugs": [
+                    "home-care-providers-in-the-us",
+                    "residential-senior-care-franchises"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-graying-market",
+                  "title": "The graying market",
+                  "angle": "Capstone: aging is a guaranteed demand wave, but labor and reimbursement decide who actually profits.",
+                  "evidence_slugs": [
+                    "orthopedic-products-manufacturing",
+                    "residential-senior-care-franchises",
+                    "long-term-care-insurance",
+                    "weight-loss-services-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-labor-squeeze",
+          "title": "The Labor Squeeze",
+          "repo_lens": "Societal",
+          "signature": "Workers got scarce — wages spiral, the trades can't fill the gap, and whoever can automate or pay up wins while everyone else eats the margin hit.",
+          "group_count": 5,
+          "subforce_count": 11,
+          "evidence_slug_count": 30,
+          "groups": [
+            {
+              "label": "A · The trades can't hire",
+              "subforces": [
+                {
+                  "slug": "skilled-trades",
+                  "title": "The skilled-trades gap",
+                  "angle": "An aging trades workforce and few new entrants push wages up faster than contractors can pass them on.",
+                  "evidence_slugs": [
+                    "electricians-in-the-us",
+                    "heating-and-air-conditioning-contractors-in-the-us",
+                    "roofing-contractors-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-builders",
+                  "title": "The people who build things",
+                  "angle": "Construction demand meets a structural worker shortage; robots and prefab are the reluctant answer.",
+                  "evidence_slugs": [
+                    "masonry-in-the-us",
+                    "carpenters-in-the-us",
+                    "concrete-contractors-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "infrastructure-hands",
+                  "title": "Hands for the infrastructure boom",
+                  "angle": "Federal money and mandates create work, but the workers to do it are the bottleneck.",
+                  "evidence_slugs": [
+                    "water-and-sewer-line-construction-in-the-us",
+                    "heavy-engineering-construction-in-the-us",
+                    "home-builders-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Care work runs short",
+              "subforces": [
+                {
+                  "slug": "the-care-crunch",
+                  "title": "The care-worker crunch",
+                  "angle": "Nurses and aides are the scarce input in a demographically guaranteed-demand sector.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "home-care-providers-in-the-us",
+                    "residential-senior-care-franchises"
+                  ]
+                },
+                {
+                  "slug": "clinical-labor",
+                  "title": "Clinical labor everywhere",
+                  "angle": "Clinician shortages ripple through every corner of outpatient care.",
+                  "evidence_slugs": [
+                    "mental-health-and-substance-abuse-clinics-in-the-us",
+                    "gynecologists-and-obstetricians",
+                    "ambulatory-surgery-centers"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Moving things & serving people",
+              "subforces": [
+                {
+                  "slug": "the-driver-shortage",
+                  "title": "The driver shortage",
+                  "angle": "Trucking's chronic driver churn collides with freight cycles; automation looms but isn't here yet.",
+                  "evidence_slugs": [
+                    "general-freight-trucking-truckload",
+                    "local-freight-trucking-in-the-us",
+                    "long-distance-refrigerated-trucking"
+                  ]
+                },
+                {
+                  "slug": "aviation-labor",
+                  "title": "Aviation's people problem",
+                  "angle": "Pilots, ground crew, and caterers are scarce and unionized; labor sets the cost floor.",
+                  "evidence_slugs": [
+                    "domestic-airlines-in-the-us",
+                    "airport-operations-in-the-us",
+                    "airline-catering-services"
+                  ]
+                },
+                {
+                  "slug": "hospitality-wages",
+                  "title": "The hospitality wage spiral",
+                  "angle": "Low-wage service work reprices upward; operators automate the counter or eat the margin.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us",
+                    "hotels-and-motels-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The responses",
+              "subforces": [
+                {
+                  "slug": "automate-or-die",
+                  "title": "Automate or eat the margin",
+                  "angle": "Where labor can be mechanized, it is; where it can't, margins compress.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "dairy-product-production-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-wage-passthrough",
+                  "title": "Passing the wages on",
+                  "angle": "Service businesses try to pass wage inflation to customers — until price resistance bites.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "bars-and-nightclubs-in-the-us",
+                    "breweries-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-labor-squeeze",
+                  "title": "The labor squeeze",
+                  "angle": "Capstone: labor is the new scarce resource; automation, wages, and consolidation are the three ways out.",
+                  "evidence_slugs": [
+                    "electricians-in-the-us",
+                    "home-care-providers-in-the-us",
+                    "general-freight-trucking-truckload",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-fractional-worker",
+          "title": "The Fractional Worker",
+          "repo_lens": "Societal",
+          "signature": "Permanent jobs unbundle into gigs, fractional roles, and expert networks — the firm rents talent by the hour, and the platform in the middle takes the cut.",
+          "group_count": 4,
+          "subforce_count": 8,
+          "evidence_slug_count": 14,
+          "groups": [
+            {
+              "label": "A · Renting the expert",
+              "subforces": [
+                {
+                  "slug": "expert-on-demand",
+                  "title": "The expert, on demand",
+                  "angle": "Companies rent senior judgment by the call or the project instead of hiring it full-time.",
+                  "evidence_slugs": [
+                    "expert-networks",
+                    "management-consulting-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "fractional-leaders",
+                  "title": "Fractional leadership",
+                  "angle": "Fractional CFOs, CMOs, and coaches replace full-time executives at smaller firms.",
+                  "evidence_slugs": [
+                    "business-coaching-in-the-us",
+                    "executive-search-recruiters"
+                  ]
+                },
+                {
+                  "slug": "the-advice-business",
+                  "title": "Advice as a rented service",
+                  "angle": "Whole functions — HR, marketing, compliance — get rented from consultants instead of staffed.",
+                  "evidence_slugs": [
+                    "hr-consulting-in-the-us",
+                    "marketing-consultants",
+                    "environmental-consulting-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The platforms in the middle",
+              "subforces": [
+                {
+                  "slug": "staffing-platforms",
+                  "title": "Who places the talent",
+                  "angle": "Recruiters and brokers monetize the matching as work fragments.",
+                  "evidence_slugs": [
+                    "executive-search-recruiters",
+                    "freight-forwarding-brokerages-and-agencies-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-credential-market",
+                  "title": "Selling the credential",
+                  "angle": "Short-course and certification providers sell the fast credentials the gig market rewards.",
+                  "evidence_slugs": [
+                    "business-certification-and-it-schools-in-the-us",
+                    "educational-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The tensions",
+              "subforces": [
+                {
+                  "slug": "the-benefits-gap",
+                  "title": "The benefits gap",
+                  "angle": "Fractional work shifts benefits and stability onto the worker; insurers reprice the risk.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "disability-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-firm-thins",
+                  "title": "The firm gets thinner",
+                  "angle": "Professional firms lean on contractors and offshoring, thinning the permanent core.",
+                  "evidence_slugs": [
+                    "law-firms-in-the-us",
+                    "accounting-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-fractional-worker",
+                  "title": "The fractional worker",
+                  "angle": "Capstone: the unit of work shrinks from the job to the task; platforms and specialists win, stability loses.",
+                  "evidence_slugs": [
+                    "expert-networks",
+                    "management-consulting-in-the-us",
+                    "business-coaching-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-compliance-tax",
+          "title": "The Compliance Tax",
+          "repo_lens": "Industrial",
+          "signature": "A patchwork of AI, privacy, climate, and cyber rules turns compliance into a rising cost — it favors scale, feeds the consultants, and prices out the small operator.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 19,
+          "groups": [
+            {
+              "label": "A · Finance under the rules",
+              "subforces": [
+                {
+                  "slug": "banking-compliance",
+                  "title": "The bank compliance load",
+                  "angle": "Capital, KYC, and consumer rules make compliance a moat for big banks.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "credit-card-issuing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "insurance-rules",
+                  "title": "Insurance & the regulators",
+                  "angle": "State-by-state rules and new risks make insurance a compliance-heavy, data-heavy game.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "cyber-liability-insurance",
+                    "workers-compensation-insurance"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Healthcare's paperwork",
+              "subforces": [
+                {
+                  "slug": "healthcare-admin",
+                  "title": "Healthcare's paperwork machine",
+                  "angle": "Regulation and reimbursement rules make admin a huge, growing cost center.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "medical-device-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "data-and-privacy",
+                  "title": "Data, privacy & cyber",
+                  "angle": "Privacy and cyber rules raise the cost of holding data — and create a security market.",
+                  "evidence_slugs": [
+                    "data-processing-and-hosting-services-in-the-us",
+                    "internet-service-providers-in-the-us",
+                    "internet-hosting-services"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The compliance-industrial complex",
+              "subforces": [
+                {
+                  "slug": "the-advisors",
+                  "title": "Who profits from the rules",
+                  "angle": "Lawyers, auditors, and accountants sell the compliance the rules require.",
+                  "evidence_slugs": [
+                    "law-firms-in-the-us",
+                    "audit-services",
+                    "accounting-services-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "environmental-rules",
+                  "title": "Environmental & climate rules",
+                  "angle": "Climate and environmental mandates create work and cost in equal measure.",
+                  "evidence_slugs": [
+                    "environmental-consulting-in-the-us",
+                    "waste-to-energy-plant-operation"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "small-operator-squeeze",
+                  "title": "The small-operator squeeze",
+                  "angle": "Compliance cost is fixed, so it hits small firms hardest and pushes consolidation.",
+                  "evidence_slugs": [
+                    "credit-repair-services",
+                    "business-certification-and-it-schools-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-ai-rules",
+                  "title": "Governing the algorithms",
+                  "angle": "New AI-governance rules land first on data, credit, and software.",
+                  "evidence_slugs": [
+                    "business-analytics-and-enterprise-software-publishing-in-the-us",
+                    "credit-bureaus-and-rating-agencies-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-compliance-tax",
+                  "title": "The compliance tax",
+                  "angle": "Capstone: rules multiply into a tax that favors scale and feeds advisors; small operators pay the most.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "hospitals-in-the-us",
+                    "law-firms-in-the-us",
+                    "data-processing-and-hosting-services-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-pricing-power-collapse",
+          "title": "The Pricing-Power Collapse",
+          "repo_lens": "Economic",
+          "signature": "Medicare cuts and payer power strip pricing from providers and device makers — volume rises with aging, but the price per unit keeps falling, and only scale survives.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 17,
+          "groups": [
+            {
+              "label": "A · The providers get cut",
+              "subforces": [
+                {
+                  "slug": "medicare-cuts",
+                  "title": "Death by reimbursement cut",
+                  "angle": "Year after year, Medicare trims the rate while costs rise — a structural margin squeeze.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "ambulatory-surgery-centers",
+                    "diagnostic-imaging-centers"
+                  ]
+                },
+                {
+                  "slug": "the-specialist-squeeze",
+                  "title": "The specialist squeeze",
+                  "angle": "Specialists face flat reimbursement and rising costs, pushing them into groups.",
+                  "evidence_slugs": [
+                    "cardiologists",
+                    "dermatologists",
+                    "gynecologists-and-obstetricians"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The makers get squeezed",
+              "subforces": [
+                {
+                  "slug": "device-pricing",
+                  "title": "The device price grind",
+                  "angle": "Hospital consolidation and payers grind device prices down 1-2% a year.",
+                  "evidence_slugs": [
+                    "orthopedic-products-manufacturing",
+                    "dialysis-equipment-manufacturing",
+                    "medical-device-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "generic-deflation",
+                  "title": "Generic-drug deflation",
+                  "angle": "Relentless price erosion in generics rewards only the largest, lowest-cost makers.",
+                  "evidence_slugs": [
+                    "generic-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The payers hold the power",
+              "subforces": [
+                {
+                  "slug": "payer-power",
+                  "title": "Who holds the purse",
+                  "angle": "Insurers and Medicare Advantage set prices and squeeze everyone downstream.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "hmo-providers",
+                    "dental-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-independent-exodus",
+                  "title": "The independent-practice exodus",
+                  "angle": "Solo and small practices sell to systems and PE to survive the pricing squeeze.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "mental-health-and-substance-abuse-clinics-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "volume-vs-price",
+                  "title": "Volume up, price down",
+                  "angle": "Aging drives volume, but falling per-unit prices and wage costs eat the gains.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "home-care-providers-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "value-based-shift",
+                  "title": "The value-based bet",
+                  "angle": "Shifting to value-based, lower-cost sites of care is the industry's escape hatch.",
+                  "evidence_slugs": [
+                    "hmo-providers",
+                    "ambulatory-surgery-centers"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-pricing-power-collapse",
+                  "title": "The pricing-power collapse",
+                  "angle": "Capstone: reimbursement and payer power strip pricing from healthcare; volume grows but only scale survives.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "orthopedic-products-manufacturing",
+                    "generic-pharmaceutical-manufacturing-in-the-us",
+                    "health-and-medical-insurance-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "care-and-family-infrastructure",
+          "title": "Care & Family Infrastructure",
+          "lens": "Societal Services",
+          "thesis": "Aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "elderly-and-disabled-services-in-the-us",
+            "early-childhood-learning-centers",
+            "child-education-and-developmental-center-franchises",
+            "family-counseling-and-crisis-intervention-services-in-the-us",
+            "family-planning-and-abortion-clinics-in-the-us",
+            "in-home-senior-care-franchises",
+            "hospices-and-palliative-care-centers",
+            "home-medical-equipment-rentals",
+            "health-and-welfare-funds-in-the-us",
+            "eating-disorder-clinics"
+          ],
+          "operator_questions": [
+            "Is demand demographic, cyclical, or policy-driven?",
+            "Where is the staffing bottleneck?",
+            "Does regulation protect scaled operators or punish them?"
+          ]
+        },
+        {
+          "slug": "health-services-operator",
+          "title": "The Health Services Operator",
+          "lens": "Healthcare Delivery",
+          "thesis": "Healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "elderly-and-disabled-services-in-the-us",
+            "eating-disorder-clinics",
+            "dna-and-dna-forensic-laboratories",
+            "laboratory-testing-services-in-the-us",
+            "hearing-aid-clinics",
+            "healthcare-staff-recruitment-agencies",
+            "healthcare-consultants",
+            "hospices-and-palliative-care-centers",
+            "in-home-senior-care-franchises",
+            "dental-equipment-dealers"
+          ],
+          "operator_questions": [
+            "Is payer mix improving or deteriorating?",
+            "Can clinician and caregiver labor be recruited reliably?",
+            "Does compliance complexity favor scale?"
+          ]
+        },
+        {
+          "slug": "regulated-admin-stack",
+          "title": "The Regulated Admin Stack",
+          "lens": "Compliance Infrastructure",
+          "thesis": "Complexity creates businesses: testing, claims, identity, forensic work, HR, and compliance software turn regulation into recurring demand.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "insurance-claims-processing-software",
+            "identity-management-software-in-the-us",
+            "identity-theft-protection-services",
+            "forensic-accounting-services",
+            "forensic-technology-services",
+            "dna-and-dna-forensic-laboratories",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "hr-and-payroll-software",
+            "it-security-consulting",
+            "education-consultants"
+          ],
+          "operator_questions": [
+            "Is the work mandatory, recurring, and hard to defer?",
+            "Can AI reduce fulfillment cost without increasing liability?",
+            "Are customers buying risk reduction or just a cheaper workflow?"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "technological",
+      "title": "Technological",
+      "description": "How AI, software, payments infrastructure, power demand, and data-center buildout are reshaping cost structures and winners.",
+      "questions": [
+        "Where does AI substitute labor versus increase demand for infrastructure?",
+        "Which businesses own the rails, the software layer, or the compliance workflows around digitization?",
+        "Where is compute demand spilling into power, construction, telecom, and cooling chains?"
+      ],
+      "forces": [
+        {
+          "slug": "the-compute-super-cycle",
+          "title": "The Compute Super-Cycle",
+          "repo_lens": "Technological",
+          "signature": "AI's hunger for power is reshaping the grid and everything plugged into it — whoever has electricity, land, and cooling near the data centers wins a once-in-a-generation buildout.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 19,
+          "groups": [
+            {
+              "label": "A · Where the machines live",
+              "subforces": [
+                {
+                  "slug": "the-data-center-rush",
+                  "title": "The data-center land rush",
+                  "angle": "AI compute demand turns land, power, and cooling into the scarce inputs of the decade.",
+                  "evidence_slugs": [
+                    "colocation-facilities",
+                    "data-processing-and-hosting-services-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-pipes",
+                  "title": "The pipes to the internet",
+                  "angle": "Connectivity and hosting ride the same demand surge underneath the AI boom.",
+                  "evidence_slugs": [
+                    "internet-service-providers-in-the-us",
+                    "internet-hosting-services"
+                  ]
+                },
+                {
+                  "slug": "the-software-layer",
+                  "title": "The software that runs on top",
+                  "angle": "Enterprise and data software monetize the compute build-out.",
+                  "evidence_slugs": [
+                    "business-analytics-and-enterprise-software-publishing-in-the-us",
+                    "database-storage-and-backup-software-publishing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The power scramble",
+              "subforces": [
+                {
+                  "slug": "generation-scramble",
+                  "title": "The generation scramble",
+                  "angle": "Data centers need firm power now; gas, solar, wind, and hydro all get pulled in.",
+                  "evidence_slugs": [
+                    "coal-and-natural-gas-power-in-the-us",
+                    "solar-power-in-the-us",
+                    "wind-power-in-the-us",
+                    "hydroelectric-power-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-grid-bottleneck",
+                  "title": "The grid bottleneck",
+                  "angle": "Transmission and gas delivery — not generation — become the real constraint.",
+                  "evidence_slugs": [
+                    "electric-power-transmission-in-the-us",
+                    "natural-gas-distribution-in-the-us",
+                    "gas-pipeline-transportation-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The physical trades of the buildout",
+              "subforces": [
+                {
+                  "slug": "the-electrical-trades",
+                  "title": "The electrical trades cash in",
+                  "angle": "Electricians, cooling contractors, and turbine makers are the picks-and-shovels of compute.",
+                  "evidence_slugs": [
+                    "electricians-in-the-us",
+                    "heating-and-air-conditioning-contractors-in-the-us",
+                    "engine-and-turbine-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-concrete-and-steel",
+                  "title": "Concrete, steel & the shell",
+                  "angle": "Data centers are also a construction-materials story — concrete, steel, and heavy build.",
+                  "evidence_slugs": [
+                    "commercial-building-construction-in-the-us",
+                    "cement-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "power-scarcity",
+                  "title": "When power gets scarce",
+                  "angle": "Whoever can't get power — homes, factories, small ISPs — pays more or waits.",
+                  "evidence_slugs": [
+                    "coal-and-natural-gas-power-in-the-us",
+                    "electric-power-transmission-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "waste-heat-and-water",
+                  "title": "Heat, water & the environment",
+                  "angle": "Cooling water and waste heat turn into constraints and opportunities.",
+                  "evidence_slugs": [
+                    "waste-to-energy-plant-operation",
+                    "hydroelectric-power-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-compute-super-cycle",
+                  "title": "The compute super-cycle",
+                  "angle": "Capstone: AI made electricity and land scarce again; the power-and-buildout chain is the trade of the decade.",
+                  "evidence_slugs": [
+                    "colocation-facilities",
+                    "coal-and-natural-gas-power-in-the-us",
+                    "electric-power-transmission-in-the-us",
+                    "electricians-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "money-gets-unbundled",
+          "title": "Money Gets Unbundled",
+          "repo_lens": "Technological",
+          "signature": "Banking leaves the banks — it's embedded in apps, cards, and platforms — and scale, data, and the rails win while regional players and middlemen get squeezed.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 16,
+          "groups": [
+            {
+              "label": "A · The core banks consolidate",
+              "subforces": [
+                {
+                  "slug": "banking-scale",
+                  "title": "The scale game in banking",
+                  "angle": "Deposits, tech, and compliance costs push banking toward a few giants.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "credit-unions-in-the-us",
+                    "industrial-banks-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-card-rails",
+                  "title": "The rails that tax every swipe",
+                  "angle": "Payment rails and card issuers take a cut of the whole economy's spending.",
+                  "evidence_slugs": [
+                    "credit-card-issuing-in-the-us",
+                    "credit-card-processing-and-money-transferring-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "wall-street-machine",
+                  "title": "The Wall Street machine",
+                  "angle": "Capital markets and custody scale and financialize behind the scenes.",
+                  "evidence_slugs": [
+                    "investment-banking-and-securities-dealing-in-the-us",
+                    "custody-asset-and-securities-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Credit leaves the bank",
+              "subforces": [
+                {
+                  "slug": "shadow-lending",
+                  "title": "Lending without a bank",
+                  "angle": "Non-bank and embedded lenders route credit around the traditional bank.",
+                  "evidence_slugs": [
+                    "loan-brokers-in-the-us",
+                    "invoice-factoring",
+                    "loan-administration-check-cashing-and-other-services-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-credit-graders",
+                  "title": "Who grades your credit",
+                  "angle": "Scoring and rating is its own toll-taking layer, now AI-driven.",
+                  "evidence_slugs": [
+                    "credit-bureaus-and-rating-agencies-in-the-us",
+                    "credit-repair-services",
+                    "credit-counselors-surveyors-and-appraisers-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Advice & the retail saver",
+              "subforces": [
+                {
+                  "slug": "advice-commoditized",
+                  "title": "Advice gets commoditized",
+                  "angle": "Passive funds and robo-advice compress fees; scale and trust win.",
+                  "evidence_slugs": [
+                    "portfolio-management-in-the-us",
+                    "financial-planning-and-advice-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-money-movers",
+                  "title": "Moving and holding the money",
+                  "angle": "Brokerage, custody, and the float are quiet, scaled, rate-sensitive businesses.",
+                  "evidence_slugs": [
+                    "commodity-dealing-and-brokerage-in-the-us",
+                    "custody-asset-and-securities-services-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "the-regional-squeeze",
+                  "title": "The regional-bank squeeze",
+                  "angle": "Rate whiplash, a CRE loan wall, and tech costs pressure smaller banks toward mergers.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "credit-unions-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "rate-sensitivity",
+                  "title": "Living and dying by the rate",
+                  "angle": "Fed rate moves reprice the whole lending stack — the swing factor for margins.",
+                  "evidence_slugs": [
+                    "invoice-factoring",
+                    "loan-brokers-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "money-gets-unbundled",
+                  "title": "Money gets unbundled",
+                  "angle": "Capstone: finance splinters out of banks into rails, apps, and platforms; scale and data win, middlemen lose.",
+                  "evidence_slugs": [
+                    "commercial-banking-in-the-us",
+                    "credit-card-processing-and-money-transferring-in-the-us",
+                    "portfolio-management-in-the-us",
+                    "loan-brokers-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "regulated-admin-stack",
+          "title": "The Regulated Admin Stack",
+          "lens": "Compliance Infrastructure",
+          "thesis": "Complexity creates businesses: testing, claims, identity, forensic work, HR, and compliance software turn regulation into recurring demand.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "insurance-claims-processing-software",
+            "identity-management-software-in-the-us",
+            "identity-theft-protection-services",
+            "forensic-accounting-services",
+            "forensic-technology-services",
+            "dna-and-dna-forensic-laboratories",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "hr-and-payroll-software",
+            "it-security-consulting",
+            "education-consultants"
+          ],
+          "operator_questions": [
+            "Is the work mandatory, recurring, and hard to defer?",
+            "Can AI reduce fulfillment cost without increasing liability?",
+            "Are customers buying risk reduction or just a cheaper workflow?"
+          ]
+        },
+        {
+          "slug": "distribution-middleman",
+          "title": "The Distribution Middleman",
+          "lens": "Wholesale & Distribution",
+          "thesis": "Distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "electrical-equipment-wholesaling-in-the-us",
+            "coal-and-ore-wholesaling-in-the-us",
+            "dairy-wholesaling-in-the-us",
+            "egg-and-poultry-wholesaling-in-the-us",
+            "janitorial-equipment-supply-wholesaling-in-the-us",
+            "jewelry-and-watch-wholesaling-in-the-us",
+            "laboratory-supply-wholesaling-in-the-us",
+            "industrial-machinery-and-equipment-wholesaling-in-the-us",
+            "industrial-supplies-wholesaling-in-the-us",
+            "footwear-wholesaling-in-the-us"
+          ],
+          "operator_questions": [
+            "Is the distributor providing credit, speed, expertise, or just taking a margin?",
+            "Can procurement scale improve gross margin?",
+            "Which customers can bypass the channel?"
+          ]
+        },
+        {
+          "slug": "specialty-manufacturer",
+          "title": "The Specialty Manufacturer",
+          "lens": "Industrial Operators",
+          "thesis": "Small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "laboratory-casework-manufacturing",
+            "laboratory-fume-hoods-manufacturing",
+            "industrial-and-fluid-power-valve-manufacturing",
+            "industrial-and-commercial-fan-and-blower-manufacturing",
+            "commercial-oven-manufacturing",
+            "dental-clinical-instrument-manufacturing",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "cotton-personal-care-product-manufacturing",
+            "laminated-plastics-manufacturing-in-the-us",
+            "lighting-fixtures-manufacturing-in-the-us"
+          ],
+          "operator_questions": [
+            "Is demand driven by replacement, regulation, or specification rather than discretionary volume?",
+            "Can automation or procurement improve margin without new plant risk?",
+            "Are tariffs and input costs pass-throughable?"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "operator_business_models",
+      "title": "Operator & Business-Model Lenses",
+      "description": "How the force map translates into practical business archetypes and recurring operator questions.",
+      "questions": [
+        "What actually drives margin durability in this business type?",
+        "Is the binding constraint labor, regulation, capital, demand, distribution, or procurement scale?",
+        "What kind of operator is advantaged by the current force environment?"
+      ],
+      "forces": [
+        {
+          "slug": "the-margin-vise",
+          "title": "The Margin Vise",
+          "repo_lens": "Economic",
+          "signature": "Labor, materials, energy, and tariffs rise faster than pricing power — margins compress, and only the automated, the premium, or the locked-in escape the squeeze.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 16,
+          "groups": [
+            {
+              "label": "A · Food gets squeezed",
+              "subforces": [
+                {
+                  "slug": "food-producers",
+                  "title": "The food-producer squeeze",
+                  "angle": "Commodity, labor, and energy costs outrun what packaged-food makers can charge.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "dairy-product-production-in-the-us",
+                    "meat-beef-and-poultry-processing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-sweet-squeeze",
+                  "title": "The sweet-goods squeeze",
+                  "angle": "Cocoa, sugar, and dairy inflation crush indulgent-category margins.",
+                  "evidence_slugs": [
+                    "candy-production-in-the-us",
+                    "ice-cream-production-in-the-us",
+                    "chocolate-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Serving food at a loss-leader price",
+              "subforces": [
+                {
+                  "slug": "restaurant-margins",
+                  "title": "The restaurant margin trap",
+                  "angle": "Wage and food inflation collide with price-sensitive diners.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us",
+                    "coffee-and-snack-shops-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "drinks-margins",
+                  "title": "The drinks squeeze",
+                  "angle": "Input costs and flat demand compress beverage margins.",
+                  "evidence_slugs": [
+                    "breweries-in-the-us",
+                    "beer-wholesaling-in-the-us",
+                    "juice-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Where the lock-in defends the margin",
+              "subforces": [
+                {
+                  "slug": "the-lock-in-defense",
+                  "title": "The lock-in defense",
+                  "angle": "Captive locations and bundles defend margin where switching is hard.",
+                  "evidence_slugs": [
+                    "cable-providers-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "utility-like-margins",
+                  "title": "Utility-like resilience",
+                  "angle": "Regulated, contracted, or essential businesses hold margin better.",
+                  "evidence_slugs": [
+                    "waste-to-energy-plant-operation",
+                    "natural-gas-distribution-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The escape routes",
+              "subforces": [
+                {
+                  "slug": "automate-the-cost",
+                  "title": "Automating the cost away",
+                  "angle": "Automation is the main lever left to protect margin from labor inflation.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "premium-as-shield",
+                  "title": "Premium as the shield",
+                  "angle": "Trading up to premium is the other way to keep pricing power.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "dairy-product-production-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-margin-vise",
+                  "title": "The margin vise",
+                  "angle": "Capstone: costs rise faster than prices; automate, premiumize, or lock customers in — or watch margin vanish.",
+                  "evidence_slugs": [
+                    "bread-production-in-the-us",
+                    "fast-food-restaurants-in-the-us",
+                    "cable-providers-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-great-consolidation",
+          "title": "The Great Consolidation",
+          "repo_lens": "Industrial",
+          "signature": "Capital rolls up fragmented Main Street — PE, franchises, REITs, and scale leaders absorb the independents, and financialization wins while owner-operators exit.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 22,
+          "groups": [
+            {
+              "label": "A · Rolling up healthcare",
+              "subforces": [
+                {
+                  "slug": "pe-in-medicine",
+                  "title": "Private equity in medicine",
+                  "angle": "PE rolls up practices and clinics, chasing scale and billing power.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "mental-health-and-substance-abuse-centers-in-the-us",
+                    "dialysis-centers"
+                  ]
+                },
+                {
+                  "slug": "device-and-pharma-scale",
+                  "title": "Scale in devices & generics",
+                  "angle": "Med-tech and generics consolidate to survive pricing pressure.",
+                  "evidence_slugs": [
+                    "medical-device-manufacturing-in-the-us",
+                    "generic-pharmaceutical-manufacturing-in-the-us",
+                    "orthopedic-products-manufacturing"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Franchising Main Street",
+              "subforces": [
+                {
+                  "slug": "franchise-rollups",
+                  "title": "The franchise roll-up",
+                  "angle": "Franchising and PE turn local services into scaled, financialized platforms.",
+                  "evidence_slugs": [
+                    "residential-senior-care-franchises",
+                    "chain-restaurants-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "services-consolidation",
+                  "title": "Consolidating boring services",
+                  "angle": "Professional and boring-but-essential services get rolled into regional platforms.",
+                  "evidence_slugs": [
+                    "environmental-consulting-in-the-us",
+                    "engineering-services-in-the-us",
+                    "architects-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Scale in retail & food",
+              "subforces": [
+                {
+                  "slug": "retail-scale",
+                  "title": "Scale wins in retail",
+                  "angle": "A few big-box leaders capture the category; independents fold.",
+                  "evidence_slugs": [
+                    "home-improvement-stores-in-the-us",
+                    "auto-parts-stores-in-the-us",
+                    "sporting-goods-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "food-and-drink-scale",
+                  "title": "Scale in food & drink",
+                  "angle": "Distribution and production consolidate; craft and independents get bought or squeezed.",
+                  "evidence_slugs": [
+                    "breweries-in-the-us",
+                    "beer-wholesaling-in-the-us",
+                    "meat-beef-and-poultry-processing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · Capital owns the assets",
+              "subforces": [
+                {
+                  "slug": "reits-own-it",
+                  "title": "REITs own the ground",
+                  "angle": "Institutional capital owns the real assets and rents them back.",
+                  "evidence_slugs": [
+                    "commercial-real-estate-in-the-us",
+                    "apartment-rental-in-the-us",
+                    "land-leasing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "catalogs-as-assets",
+                  "title": "IP & catalogs as assets",
+                  "angle": "Rights and catalogs get financialized into yield-bearing assets.",
+                  "evidence_slugs": [
+                    "music-publishing-in-the-us",
+                    "cable-networks-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-great-consolidation",
+                  "title": "The great consolidation",
+                  "angle": "Capstone: capital rolls up the fragmented economy; scale and financialization win, independent owners exit.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "residential-senior-care-franchises",
+                    "home-improvement-stores-in-the-us",
+                    "commercial-real-estate-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-labor-squeeze",
+          "title": "The Labor Squeeze",
+          "repo_lens": "Societal",
+          "signature": "Workers got scarce — wages spiral, the trades can't fill the gap, and whoever can automate or pay up wins while everyone else eats the margin hit.",
+          "group_count": 5,
+          "subforce_count": 11,
+          "evidence_slug_count": 30,
+          "groups": [
+            {
+              "label": "A · The trades can't hire",
+              "subforces": [
+                {
+                  "slug": "skilled-trades",
+                  "title": "The skilled-trades gap",
+                  "angle": "An aging trades workforce and few new entrants push wages up faster than contractors can pass them on.",
+                  "evidence_slugs": [
+                    "electricians-in-the-us",
+                    "heating-and-air-conditioning-contractors-in-the-us",
+                    "roofing-contractors-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-builders",
+                  "title": "The people who build things",
+                  "angle": "Construction demand meets a structural worker shortage; robots and prefab are the reluctant answer.",
+                  "evidence_slugs": [
+                    "masonry-in-the-us",
+                    "carpenters-in-the-us",
+                    "concrete-contractors-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "infrastructure-hands",
+                  "title": "Hands for the infrastructure boom",
+                  "angle": "Federal money and mandates create work, but the workers to do it are the bottleneck.",
+                  "evidence_slugs": [
+                    "water-and-sewer-line-construction-in-the-us",
+                    "heavy-engineering-construction-in-the-us",
+                    "home-builders-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · Care work runs short",
+              "subforces": [
+                {
+                  "slug": "the-care-crunch",
+                  "title": "The care-worker crunch",
+                  "angle": "Nurses and aides are the scarce input in a demographically guaranteed-demand sector.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "home-care-providers-in-the-us",
+                    "residential-senior-care-franchises"
+                  ]
+                },
+                {
+                  "slug": "clinical-labor",
+                  "title": "Clinical labor everywhere",
+                  "angle": "Clinician shortages ripple through every corner of outpatient care.",
+                  "evidence_slugs": [
+                    "mental-health-and-substance-abuse-clinics-in-the-us",
+                    "gynecologists-and-obstetricians",
+                    "ambulatory-surgery-centers"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Moving things & serving people",
+              "subforces": [
+                {
+                  "slug": "the-driver-shortage",
+                  "title": "The driver shortage",
+                  "angle": "Trucking's chronic driver churn collides with freight cycles; automation looms but isn't here yet.",
+                  "evidence_slugs": [
+                    "general-freight-trucking-truckload",
+                    "local-freight-trucking-in-the-us",
+                    "long-distance-refrigerated-trucking"
+                  ]
+                },
+                {
+                  "slug": "aviation-labor",
+                  "title": "Aviation's people problem",
+                  "angle": "Pilots, ground crew, and caterers are scarce and unionized; labor sets the cost floor.",
+                  "evidence_slugs": [
+                    "domestic-airlines-in-the-us",
+                    "airport-operations-in-the-us",
+                    "airline-catering-services"
+                  ]
+                },
+                {
+                  "slug": "hospitality-wages",
+                  "title": "The hospitality wage spiral",
+                  "angle": "Low-wage service work reprices upward; operators automate the counter or eat the margin.",
+                  "evidence_slugs": [
+                    "fast-food-restaurants-in-the-us",
+                    "chain-restaurants-in-the-us",
+                    "hotels-and-motels-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The responses",
+              "subforces": [
+                {
+                  "slug": "automate-or-die",
+                  "title": "Automate or eat the margin",
+                  "angle": "Where labor can be mechanized, it is; where it can't, margins compress.",
+                  "evidence_slugs": [
+                    "meat-beef-and-poultry-processing-in-the-us",
+                    "dairy-product-production-in-the-us",
+                    "vending-machine-operators-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-wage-passthrough",
+                  "title": "Passing the wages on",
+                  "angle": "Service businesses try to pass wage inflation to customers — until price resistance bites.",
+                  "evidence_slugs": [
+                    "coffee-and-snack-shops-in-the-us",
+                    "bars-and-nightclubs-in-the-us",
+                    "breweries-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-labor-squeeze",
+                  "title": "The labor squeeze",
+                  "angle": "Capstone: labor is the new scarce resource; automation, wages, and consolidation are the three ways out.",
+                  "evidence_slugs": [
+                    "electricians-in-the-us",
+                    "home-care-providers-in-the-us",
+                    "general-freight-trucking-truckload",
+                    "fast-food-restaurants-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-pricing-power-collapse",
+          "title": "The Pricing-Power Collapse",
+          "repo_lens": "Economic",
+          "signature": "Medicare cuts and payer power strip pricing from providers and device makers — volume rises with aging, but the price per unit keeps falling, and only scale survives.",
+          "group_count": 5,
+          "subforce_count": 9,
+          "evidence_slug_count": 17,
+          "groups": [
+            {
+              "label": "A · The providers get cut",
+              "subforces": [
+                {
+                  "slug": "medicare-cuts",
+                  "title": "Death by reimbursement cut",
+                  "angle": "Year after year, Medicare trims the rate while costs rise — a structural margin squeeze.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "ambulatory-surgery-centers",
+                    "diagnostic-imaging-centers"
+                  ]
+                },
+                {
+                  "slug": "the-specialist-squeeze",
+                  "title": "The specialist squeeze",
+                  "angle": "Specialists face flat reimbursement and rising costs, pushing them into groups.",
+                  "evidence_slugs": [
+                    "cardiologists",
+                    "dermatologists",
+                    "gynecologists-and-obstetricians"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The makers get squeezed",
+              "subforces": [
+                {
+                  "slug": "device-pricing",
+                  "title": "The device price grind",
+                  "angle": "Hospital consolidation and payers grind device prices down 1-2% a year.",
+                  "evidence_slugs": [
+                    "orthopedic-products-manufacturing",
+                    "dialysis-equipment-manufacturing",
+                    "medical-device-manufacturing-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "generic-deflation",
+                  "title": "Generic-drug deflation",
+                  "angle": "Relentless price erosion in generics rewards only the largest, lowest-cost makers.",
+                  "evidence_slugs": [
+                    "generic-pharmaceutical-manufacturing-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · The payers hold the power",
+              "subforces": [
+                {
+                  "slug": "payer-power",
+                  "title": "Who holds the purse",
+                  "angle": "Insurers and Medicare Advantage set prices and squeeze everyone downstream.",
+                  "evidence_slugs": [
+                    "health-and-medical-insurance-in-the-us",
+                    "hmo-providers",
+                    "dental-insurance"
+                  ]
+                },
+                {
+                  "slug": "the-independent-exodus",
+                  "title": "The independent-practice exodus",
+                  "angle": "Solo and small practices sell to systems and PE to survive the pricing squeeze.",
+                  "evidence_slugs": [
+                    "dentists-in-the-us",
+                    "mental-health-and-substance-abuse-clinics-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "volume-vs-price",
+                  "title": "Volume up, price down",
+                  "angle": "Aging drives volume, but falling per-unit prices and wage costs eat the gains.",
+                  "evidence_slugs": [
+                    "hospitals-in-the-us",
+                    "home-care-providers-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "value-based-shift",
+                  "title": "The value-based bet",
+                  "angle": "Shifting to value-based, lower-cost sites of care is the industry's escape hatch.",
+                  "evidence_slugs": [
+                    "hmo-providers",
+                    "ambulatory-surgery-centers"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-pricing-power-collapse",
+                  "title": "The pricing-power collapse",
+                  "angle": "Capstone: reimbursement and payer power strip pricing from healthcare; volume grows but only scale survives.",
+                  "evidence_slugs": [
+                    "dialysis-centers",
+                    "orthopedic-products-manufacturing",
+                    "generic-pharmaceutical-manufacturing-in-the-us",
+                    "health-and-medical-insurance-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "the-channel-shift",
+          "title": "The Channel Shift",
+          "repo_lens": "Cultural",
+          "signature": "The store stopped being where you buy — e-commerce, marketplaces, and direct-to-consumer hollow out physical retail, and only omnichannel or the experiential niche survives.",
+          "group_count": 5,
+          "subforce_count": 10,
+          "evidence_slug_count": 21,
+          "groups": [
+            {
+              "label": "A · The categories that went online first",
+              "subforces": [
+                {
+                  "slug": "electronics-online",
+                  "title": "Electronics go online",
+                  "angle": "Commodity electronics were the first to move online; specialty stores nearly vanished.",
+                  "evidence_slugs": [
+                    "consumer-electronics-stores-in-the-us",
+                    "computer-stores-in-the-us",
+                    "camera-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "media-and-hobby",
+                  "title": "Media & hobby retail",
+                  "angle": "Amazon and marketplaces gutted these categories; survivors go experiential and expert.",
+                  "evidence_slugs": [
+                    "book-stores-in-the-us",
+                    "art-supply-stores",
+                    "hardware-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "apparel-online",
+                  "title": "Apparel & the try-before-you-buy problem",
+                  "angle": "Clothing and shoes shift online despite fit friction; stores become showrooms.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "shoe-stores-in-the-us",
+                    "family-clothing-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "B · The marketplace machine",
+              "subforces": [
+                {
+                  "slug": "the-marketplace",
+                  "title": "The marketplace eats the middle",
+                  "angle": "The platform takes a cut of everything and sets the terms of survival for sellers.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "dtc-brands",
+                  "title": "Direct-to-consumer brands",
+                  "angle": "Brands sell straight to shoppers, cutting the retailer out entirely.",
+                  "evidence_slugs": [
+                    "beauty-cosmetics-and-fragrance-stores-in-the-us",
+                    "hiking-and-outdoor-equipment-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "C · Who's holding on",
+              "subforces": [
+                {
+                  "slug": "omnichannel-or-die",
+                  "title": "Omnichannel or die",
+                  "angle": "Big-box survivors fuse online and store — ship-from-store, buy-online-pickup — or lose.",
+                  "evidence_slugs": [
+                    "home-improvement-stores-in-the-us",
+                    "sporting-goods-stores-in-the-us",
+                    "auto-parts-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-experiential-niche",
+                  "title": "The experiential survivor",
+                  "angle": "Expertise, immediacy, and experience are the moats physical retail has left.",
+                  "evidence_slugs": [
+                    "jewelry-stores-in-the-us",
+                    "health-stores-in-the-us",
+                    "convenience-stores-in-the-us"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "D · The tensions",
+              "subforces": [
+                {
+                  "slug": "tariffs-and-de-minimis",
+                  "title": "Tariffs & the de-minimis end",
+                  "angle": "Shein/Temu and the end of the de-minimis loophole reshape the price war online.",
+                  "evidence_slugs": [
+                    "womens-clothing-stores-in-the-us",
+                    "furniture-stores-in-the-us"
+                  ]
+                },
+                {
+                  "slug": "the-store-closures",
+                  "title": "The closure wave",
+                  "angle": "Thousands of stores close a year; the real-estate and jobs fallout compounds.",
+                  "evidence_slugs": [
+                    "department-stores-in-the-us",
+                    "discount-department-stores"
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "E · The big picture",
+              "subforces": [
+                {
+                  "slug": "the-channel-shift",
+                  "title": "The channel shift",
+                  "angle": "Capstone: the point of sale moved online; platforms and omnichannel scale win, standalone mid-market stores lose.",
+                  "evidence_slugs": [
+                    "e-commerce-and-online-auctions-in-the-us",
+                    "womens-clothing-stores-in-the-us",
+                    "home-improvement-stores-in-the-us"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "operators": [
+        {
+          "slug": "local-services-rollup",
+          "title": "The Local Services Rollup",
+          "lens": "Main Street Services",
+          "thesis": "Fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "hair-and-nail-salons-in-the-us",
+            "hair-salons",
+            "gym-and-fitness-franchises",
+            "gym-health-and-fitness-clubs-in-the-us",
+            "hvac-service-franchises",
+            "handyman-service-franchises",
+            "janitorial-services-in-the-us",
+            "dance-studios",
+            "health-and-wellness-spas",
+            "massage-franchises"
+          ],
+          "operator_questions": [
+            "Can dispatch, booking, marketing, and procurement be centralized without killing local demand?",
+            "Is labor scarce enough that recruiting and retention are the real moat?",
+            "Can price increases be passed through without churn?"
+          ]
+        },
+        {
+          "slug": "specialty-manufacturer",
+          "title": "The Specialty Manufacturer",
+          "lens": "Industrial Operators",
+          "thesis": "Small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "laboratory-casework-manufacturing",
+            "laboratory-fume-hoods-manufacturing",
+            "industrial-and-fluid-power-valve-manufacturing",
+            "industrial-and-commercial-fan-and-blower-manufacturing",
+            "commercial-oven-manufacturing",
+            "dental-clinical-instrument-manufacturing",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "cotton-personal-care-product-manufacturing",
+            "laminated-plastics-manufacturing-in-the-us",
+            "lighting-fixtures-manufacturing-in-the-us"
+          ],
+          "operator_questions": [
+            "Is demand driven by replacement, regulation, or specification rather than discretionary volume?",
+            "Can automation or procurement improve margin without new plant risk?",
+            "Are tariffs and input costs pass-throughable?"
+          ]
+        },
+        {
+          "slug": "health-services-operator",
+          "title": "The Health Services Operator",
+          "lens": "Healthcare Delivery",
+          "thesis": "Healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "elderly-and-disabled-services-in-the-us",
+            "eating-disorder-clinics",
+            "dna-and-dna-forensic-laboratories",
+            "laboratory-testing-services-in-the-us",
+            "hearing-aid-clinics",
+            "healthcare-staff-recruitment-agencies",
+            "healthcare-consultants",
+            "hospices-and-palliative-care-centers",
+            "in-home-senior-care-franchises",
+            "dental-equipment-dealers"
+          ],
+          "operator_questions": [
+            "Is payer mix improving or deteriorating?",
+            "Can clinician and caregiver labor be recruited reliably?",
+            "Does compliance complexity favor scale?"
+          ]
+        },
+        {
+          "slug": "experiential-venue",
+          "title": "The Experiential Venue",
+          "lens": "Consumer Experience",
+          "thesis": "Experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "arcade-food-and-entertainment-complexes-in-the-us",
+            "dance-studios",
+            "karaoke-bars",
+            "golf-driving-ranges-and-family-fun-centers-in-the-us",
+            "indoor-climbing-walls",
+            "indoor-sports-facilities-management",
+            "ice-rinks",
+            "boxing-gyms-and-clubs",
+            "convention-and-visitor-bureaus-in-the-us",
+            "cruise-and-travel-agency-franchises"
+          ],
+          "operator_questions": [
+            "Can utilization be smoothed across weekdays and seasons?",
+            "Does the concept have local scarcity or is it easy to copy?",
+            "Are labor, insurance, and rent rising faster than ticket yield?"
+          ]
+        },
+        {
+          "slug": "food-production-niche",
+          "title": "The Food Production Niche",
+          "lens": "Food & Beverage",
+          "thesis": "Niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "cocoa-and-drinking-chocolate-production",
+            "coffee-creamer-production",
+            "kombucha-production-in-the-us",
+            "hot-sauce-production",
+            "bbq-sauce-production",
+            "cider-production",
+            "doughnut-stores",
+            "dairy-farms-in-the-us",
+            "dairy-wholesaling-in-the-us",
+            "egg-and-poultry-wholesaling-in-the-us"
+          ],
+          "operator_questions": [
+            "Is this product riding health, premium, convenience, or indulgence?",
+            "Can input swings be hedged or passed through?",
+            "Does distribution create the moat or the squeeze?"
+          ]
+        },
+        {
+          "slug": "regulated-admin-stack",
+          "title": "The Regulated Admin Stack",
+          "lens": "Compliance Infrastructure",
+          "thesis": "Complexity creates businesses: testing, claims, identity, forensic work, HR, and compliance software turn regulation into recurring demand.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "insurance-claims-processing-software",
+            "identity-management-software-in-the-us",
+            "identity-theft-protection-services",
+            "forensic-accounting-services",
+            "forensic-technology-services",
+            "dna-and-dna-forensic-laboratories",
+            "drug-and-alcohol-test-kit-manufacturing",
+            "hr-and-payroll-software",
+            "it-security-consulting",
+            "education-consultants"
+          ],
+          "operator_questions": [
+            "Is the work mandatory, recurring, and hard to defer?",
+            "Can AI reduce fulfillment cost without increasing liability?",
+            "Are customers buying risk reduction or just a cheaper workflow?"
+          ]
+        },
+        {
+          "slug": "distribution-middleman",
+          "title": "The Distribution Middleman",
+          "lens": "Wholesale & Distribution",
+          "thesis": "Distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "electrical-equipment-wholesaling-in-the-us",
+            "coal-and-ore-wholesaling-in-the-us",
+            "dairy-wholesaling-in-the-us",
+            "egg-and-poultry-wholesaling-in-the-us",
+            "janitorial-equipment-supply-wholesaling-in-the-us",
+            "jewelry-and-watch-wholesaling-in-the-us",
+            "laboratory-supply-wholesaling-in-the-us",
+            "industrial-machinery-and-equipment-wholesaling-in-the-us",
+            "industrial-supplies-wholesaling-in-the-us",
+            "footwear-wholesaling-in-the-us"
+          ],
+          "operator_questions": [
+            "Is the distributor providing credit, speed, expertise, or just taking a margin?",
+            "Can procurement scale improve gross margin?",
+            "Which customers can bypass the channel?"
+          ]
+        },
+        {
+          "slug": "care-and-family-infrastructure",
+          "title": "Care & Family Infrastructure",
+          "lens": "Societal Services",
+          "thesis": "Aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+          "industry_count": 10,
+          "industry_slugs": [
+            "elderly-and-disabled-services-in-the-us",
+            "early-childhood-learning-centers",
+            "child-education-and-developmental-center-franchises",
+            "family-counseling-and-crisis-intervention-services-in-the-us",
+            "family-planning-and-abortion-clinics-in-the-us",
+            "in-home-senior-care-franchises",
+            "hospices-and-palliative-care-centers",
+            "home-medical-equipment-rentals",
+            "health-and-welfare-funds-in-the-us",
+            "eating-disorder-clinics"
+          ],
+          "operator_questions": [
+            "Is demand demographic, cyclical, or policy-driven?",
+            "Where is the staffing bottleneck?",
+            "Does regulation protect scaled operators or punish them?"
+          ]
+        }
+      ]
+    }
+  ],
+  "crosscuts": [
+    {
+      "slug": "labor-scarcity",
+      "title": "Labor Scarcity",
+      "description": "Skilled trades, care work, logistics, and service labor remain binding constraints across otherwise unrelated industries.",
+      "force_slugs": [
+        "the-labor-squeeze",
+        "the-graying-market",
+        "the-fractional-worker"
+      ]
+    },
+    {
+      "slug": "consumer-bifurcation",
+      "title": "Consumer Bifurcation",
+      "description": "The middle market is hollowing out while value and premium positions both keep winning for different reasons.",
+      "force_slugs": [
+        "the-hollow-middle",
+        "the-channel-shift",
+        "the-margin-vise"
+      ]
+    },
+    {
+      "slug": "ai-and-automation",
+      "title": "AI and Automation",
+      "description": "AI is a labor story, an infrastructure story, and a software/compliance story at the same time.",
+      "force_slugs": [
+        "the-compute-super-cycle",
+        "money-gets-unbundled",
+        "the-fractional-worker"
+      ]
+    },
+    {
+      "slug": "demographic-aging",
+      "title": "Demographic Aging",
+      "description": "Aging creates reliable demand growth, but staffing, reimbursement, and care-delivery friction cap who captures the upside.",
+      "force_slugs": [
+        "the-graying-market",
+        "the-pricing-power-collapse",
+        "the-labor-squeeze"
+      ]
+    },
+    {
+      "slug": "capital-and-scale",
+      "title": "Capital and Scale",
+      "description": "Higher rates and heavier compliance reward scale players and financial owners while squeezing independents and mid-sized operators.",
+      "force_slugs": [
+        "the-great-consolidation",
+        "the-real-estate-reckoning",
+        "money-gets-unbundled",
+        "the-compliance-tax"
+      ]
+    }
+  ]
+}

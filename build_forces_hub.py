@@ -50,7 +50,7 @@ hub=f'''<!doctype html>
 </style></head>
 <body class="acc-blue">
 <div class="wrap">
-  <div class="top"><a href="../index.html">★ the {industry_count} industry briefs</a><a href="../../strategy-under-a-force/index.html">the 50 forces</a></div>
+  <div class="top"><a href="../index.html">★ the {industry_count} industry briefs</a><a href="../economic-intelligence.html">economic intelligence</a><a href="../../strategy-under-a-force/index.html">the 50 forces</a></div>
   <header class="hero">
     <div class="eyebrow">Forces from the data · US · 2025–2026</div>
     <h1>Forces from the Data</h1>

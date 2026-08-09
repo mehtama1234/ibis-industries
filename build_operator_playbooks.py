@@ -86,7 +86,7 @@ def build_page(record, briefs_by_slug):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(record['title'])} — Operator Playbooks</title><link rel="stylesheet" href="../operators.css"></head>
 <body><div class="wrap">
-<div class="top"><a href="../index.html">Industry briefs</a><a href="../operators.html">Operator playbooks</a><a href="../forces/index.html">Forces</a></div>
+<div class="top"><a href="../index.html">Industry briefs</a><a href="../operators.html">Operator playbooks</a><a href="../forces/index.html">Forces</a><a href="../economic-intelligence.html">Economic intelligence</a></div>
 <div class="eyebrow">{e(record['lens'])}</div><h1>{e(record['title'])}</h1>
 <p class="sub">{e(record['thesis'])}</p>
 <div class="split"><main>
@@ -113,7 +113,7 @@ def build_hub(records, industry_count):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Operator Playbooks — US Industry Briefs</title><link rel="stylesheet" href="operators.css"></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="economic-intelligence.html">Economic intelligence</a></div>
 <div class="eyebrow">Business archetypes from the data</div><h1>Operator Playbooks</h1>
 <p class="sub">The industry briefs show what is happening inside each market. These playbooks group those markets into business types: local services, specialty manufacturing, regulated admin, healthcare delivery, experience venues, food niches, and distributors. Built from {industry_count} researched industries.</p>
 <div class="grid">{cards}</div>
