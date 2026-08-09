@@ -222,6 +222,44 @@ def dedupe(values: list[str], limit: int | None = None) -> list[str]:
     return out
 
 
+def simplify_signal(text: str) -> str:
+    text = (text or "").strip()
+    prefix = "A practical timing marker is whether "
+    if text.startswith(prefix):
+        text = text[len(prefix):]
+    return text[:1].upper() + text[1:] if text else text
+
+
+def simplify_tension(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("The central tension inside ", "")
+    text = text.replace(
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by ",
+        "Another tension is ",
+    )
+    text = text.replace(
+        ", but the route to capturing that demand runs through the practical frictions surfaced by ",
+        ". The friction point is ",
+    )
+    return text
+
+
+def simplify_implication(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" implies that ", ": ")
+    text = text.replace("In diligence, ", "")
+    text = text.replace(" matters because ", ": ")
+    text = text.replace("Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.", "Back operators that make the behavior repeatable, not just well narrated.")
+    return text
+
+
+def simplify_second_order(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" pushes second-order effects beyond the immediate category, especially where ", ": this spreads into ")
+    text = text.replace(" increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.", ".")
+    return text
+
+
 def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
     tensions: list[str] = []
     signals: list[str] = []
@@ -273,11 +311,11 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
                 }
             )
     return {
-        "tensions": tensions[:4],
-        "signals": signals[:5],
-        "second_order_effects": second_order_effects[:4],
-        "operator_implications": operator_implications[:5],
-        "capital_implications": capital_implications[:5],
+        "tensions": dedupe([simplify_tension(item) for item in tensions], 4),
+        "signals": dedupe([simplify_signal(item) for item in signals], 5),
+        "second_order_effects": dedupe([simplify_second_order(item) for item in second_order_effects], 4),
+        "operator_implications": dedupe([simplify_implication(item) for item in operator_implications], 5),
+        "capital_implications": dedupe([simplify_implication(item) for item in capital_implications], 5),
         "top_sectors": sector_counts.most_common(5),
         "top_company_slugs": [slug for slug, _ in company_counts.most_common(6)],
         "subthemes": subthemes[:4],
@@ -297,11 +335,11 @@ def collect_group_evidence(
             company_titles.append(company["title"])
     return {
         "theme_titles": dedupe(theme_titles, 5),
-        "signals": dedupe(evidence["signals"], 3),
-        "tensions": dedupe(evidence["tensions"], 3),
-        "second_order_effects": dedupe(evidence["second_order_effects"], 2),
-        "operator_implications": dedupe(evidence["operator_implications"], 4),
-        "capital_implications": dedupe(evidence["capital_implications"], 4),
+        "signals": dedupe([simplify_signal(item) for item in evidence["signals"]], 3),
+        "tensions": dedupe([simplify_tension(item) for item in evidence["tensions"]], 3),
+        "second_order_effects": dedupe([simplify_second_order(item) for item in evidence["second_order_effects"]], 2),
+        "operator_implications": dedupe([simplify_implication(item) for item in evidence["operator_implications"]], 4),
+        "capital_implications": dedupe([simplify_implication(item) for item in evidence["capital_implications"]], 4),
         "top_sectors": evidence["top_sectors"][:4],
         "company_titles": dedupe(company_titles, 4),
     }
@@ -317,9 +355,9 @@ def render_national_consequences(theme_lookup: dict[str, dict], company_lookup: 
   <div class="meta">National consequence</div>
   <h3>{e(item['title'])}</h3>
   <p>{e(item['body'])}</p>
-  <p><b>Where it shows up:</b> {e(sector_line)}</p>
-  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
-  <p><b>Tensions:</b> {e(' | '.join(evidence['tensions']))}</p>
+  <p><b>Where this shows up:</b> {e(sector_line)}</p>
+  <p><b>What to watch:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Main tensions:</b> {e(' | '.join(evidence['tensions']))}</p>
   <p><b>Representative companies:</b> {e('; '.join(evidence['company_titles']))}</p>
   <div class="chips">{''.join(f'<span class="chip">{e(theme)}</span>' for theme in evidence['theme_titles'])}</div>
 </article>"""
@@ -341,9 +379,9 @@ def render_decision_agenda(theme_lookup: dict[str, dict], company_lookup: dict[s
   <h3>{e(item['title'])}</h3>
   <p>{e(item['summary'])}</p>
   <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in agenda)}</ul>
-  <p><b>Where it shows up:</b> {e('; '.join(sector for sector, _ in evidence['top_sectors']))}</p>
+  <p><b>Where this shows up:</b> {e('; '.join(sector for sector, _ in evidence['top_sectors']))}</p>
   <p><b>Theme anchors:</b> {e('; '.join(evidence['theme_titles']))}</p>
-  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>What to watch:</b> {e(' | '.join(evidence['signals']))}</p>
 </article>"""
         )
     return f"""<section class="section">
@@ -428,13 +466,13 @@ def main() -> None:
     </div>
   </div>
   <div class="card" style="margin-top:14px">
-    <div class="meta">Second-order effects</div>
+    <div class="meta">What this changes next</div>
     <h3>Where the consequences spread next</h3>
     <ul class="list">{second_order_effects}</ul>
   </div>
   <div class="split">
     <div class="card">
-      <div class="meta">Where it shows up</div>
+      <div class="meta">Where this shows up</div>
       <h3>Sector exposure</h3>
       <ul class="list">{sector_items}</ul>
     </div>
@@ -452,7 +490,7 @@ def main() -> None:
     </div>
     <div class="card">
       <div class="meta">Investor implications</div>
-      <h3>What to underwrite</h3>
+      <h3>What to back</h3>
       <ul class="list">{capital_implications}</ul>
     </div>
   </div>

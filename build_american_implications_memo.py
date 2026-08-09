@@ -58,6 +58,19 @@ def e(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
 
 
+def dedupe(values: list[str], limit: int | None = None) -> list[str]:
+    out: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        out.append(value)
+        if limit is not None and len(out) >= limit:
+            break
+    return out
+
+
 def main() -> None:
     rankings = json.loads(RANKINGS_JSON.read_text())
     themes = {item["slug"]: item for item in rankings["top_themes"]}
@@ -84,6 +97,9 @@ def main() -> None:
                 bottleneck_list.extend([row["title"] for row in bottlenecks[slug][:1]])
             if slug in exposed:
                 exposed_list.extend([row["title"] for row in exposed[slug][:1]])
+        signal_list = dedupe(signal_list, 4)
+        bottleneck_list = dedupe(bottleneck_list, 4)
+        exposed_list = dedupe(exposed_list, 4)
         accel_rows = []
         for slug in section["theme_slugs"]:
             accel_rows.extend(subthemes.get(slug, [])[:2])
@@ -123,8 +139,8 @@ def main() -> None:
 <div class="top"><a href="american-synthesis-hub.html">Synthesis hub</a><a href="index.html">Industry briefs</a><a href="american-rankings.html">Rankings</a><a href="american-executive-summary.html">Executive summary</a><a href="american-synthesis-playbook.html">Playbook</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-outlook-2025-2026.html">American outlook</a></div>
 <div class="eyebrow">Implications memo · US · 2025-2026</div>
 <h1>American Implications Memo</h1>
-<p class="sub">A polished long-form memo built from the ranked synthesis stack, focused on the societal, cultural, consumer, and industrial implications of the US economy.</p>
-<div class="lead"><p>The short version is that America is not short on demand. It is short on easy ways to capture demand without control, proof, cultural fit, or the right position inside a tightening physical and institutional stack.</p></div>
+<p class="sub">A longer plain-English memo on what the current US economy is doing to society, culture, consumers, and industry.</p>
+<div class="lead"><p>The short version is simple: America is not running out of demand. It is running out of easy ways to turn demand into profit without control, proof, cultural fit, or the right place in a tighter physical and institutional system.</p></div>
 {''.join(sections_html)}
 </div></body></html>"""
 

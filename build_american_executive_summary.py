@@ -59,8 +59,8 @@ def main() -> None:
 <div class="top"><a href="american-synthesis-hub.html">Synthesis hub</a><a href="index.html">Industry briefs</a><a href="american-rankings.html">Rankings</a><a href="american-outlook-2025-2026.html">American outlook</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-synthesis-playbook.html">Playbook</a><a href="american-implications-memo.html">Implications memo</a></div>
 <div class="eyebrow">Executive summary · US · 2025-2026</div>
 <h1>American Executive Summary</h1>
-<p class="sub">The shortest high-signal summary of the ranked synthesis stack: the themes that matter most, the subthemes accelerating fastest, the bottlenecks worth underwriting, and the business models most exposed.</p>
-<div class="lead"><p>The 2025-2026 US economy is being selected less by generic demand and more by who owns the rail, manages the proof burden, fits the new cultural permission structure, or controls the physical bottleneck underneath the visible market.</p></div>
+<p class="sub">A short plain-English read on the themes that matter most, the subthemes moving fastest, the bottlenecks worth backing, and the business models under the most pressure.</p>
+<div class="lead"><p>In 2025-2026, demand is still there. What changed is who can actually keep the margin. The winners usually control the customer relationship, handle the paperwork and proof burden, fit the new consumer mood, or own the physical constraint underneath the market.</p></div>
 
 <section class="section">
   <h2>Top Themes</h2>
@@ -89,18 +89,18 @@ def main() -> None:
       <div class="meta">Operators</div>
       <h3>What to do next</h3>
       <ul class="list">
-        <li>Choose the bottleneck or permission structure you actually own.</li>
-        <li>Cut exposure to generic middle layers that require demand to stay easy.</li>
-        <li>Translate macro changes into pricing, staffing, workflow, and channel choices quickly.</li>
+        <li>Be clear about the chokepoint, workflow, or customer trust layer you actually control.</li>
+        <li>Reduce exposure to generic middle positions that only work when demand stays easy.</li>
+        <li>Turn macro change into concrete pricing, staffing, workflow, and channel decisions fast.</li>
       </ul>
     </div>
     <div class="card">
       <div class="meta">Investors</div>
       <h3>What to underwrite</h3>
       <ul class="list">
-        <li>Own scarce rails, mandatory workflows, and physical choke points.</li>
-        <li>Prefer productized proof systems over manual service intensity.</li>
-        <li>Avoid stories where thematic demand exists but margin capture sits elsewhere.</li>
+        <li>Back scarce rails, mandatory workflows, and physical choke points.</li>
+        <li>Prefer repeatable proof systems over labor-heavy service models.</li>
+        <li>Avoid markets where demand is real but the profit pool sits somewhere else.</li>
       </ul>
     </div>
   </div>

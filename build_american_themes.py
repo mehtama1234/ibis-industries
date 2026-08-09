@@ -1745,7 +1745,7 @@ def build_subtheme_timing_markers(subtheme: dict, industries: list[dict], compan
     for force in forces[:2]:
         frame = FORCE_FRAMES.get(force["slug"])
         if frame:
-            items.append(f"A practical timing marker is whether {lower_first(frame['signal'].rstrip('.'))}.")
+            items.append(sentence_ready(frame["signal"].rstrip(".")) + ".")
     for microtheme in subtheme["microthemes"][:1]:
         items.append(f"Another marker is when {microtheme} starts appearing in mainstream operating plans instead of specialist commentary.")
     if industries:
@@ -1776,8 +1776,8 @@ def build_theme_tensions(theme: dict) -> list[str]:
     third = theme["subthemes"][2]["title"] if len(theme["subthemes"]) > 2 else second
     thesis = clean_text(theme["thesis"]).rstrip(".")
     return [
-        f"The central tension inside {theme['title']} is that {lower_first(thesis)}, but the route to capturing that demand runs through the practical frictions surfaced by {first}.",
-        f"A second tension sits between household or institutional demand and the operating constraints surfaced by {second}.",
+        f"{theme['title']} creates real demand, but the friction point runs through {first}.",
+        f"Another tension is that success depends on handling the operating burden exposed by {second}.",
         f"A third tension is that {third} may be directionally right while still punishing operators that lack the workflow, balance-sheet room, or cultural clarity to execute it.",
         "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable.",
     ][:4]
@@ -1869,7 +1869,7 @@ def build_theme_second_order_effects(theme: dict, subthemes: list[dict]) -> list
     for subtheme in subthemes[:3]:
         if subtheme["market_rewrites"]:
             effects.append(
-                f"{subtheme['title']} pushes second-order effects beyond the immediate category, especially where {lower_first(subtheme['market_rewrites'][0].rstrip('.'))}."
+                f"{subtheme['title']} spreads into adjacent categories where {lower_first(subtheme['market_rewrites'][0].rstrip('.'))}."
             )
     effects.append(
         "As these subthemes compound, the market starts rewarding operators built for the new regime and punishing those still organized around the old one."
@@ -1939,12 +1939,12 @@ def build_theme_industrial_read(theme: dict, subthemes: list[dict], forces: list
 
 def build_theme_capital_implications(theme: dict, subthemes: list[dict], companies: list[dict]) -> list[str]:
     items = [
-        "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms."
+        "Back operators that can turn the new behavior into a repeatable system, not just a story."
     ]
     for subtheme in subthemes[:2]:
         if subtheme["strategic_consequences"]:
             items.append(
-                f"In diligence, {subtheme['title']} matters because {lower_first(subtheme['strategic_consequences'][0].rstrip('.'))}."
+                f"{subtheme['title']}: {sentence_tail(subtheme['strategic_consequences'][0])}."
             )
     if companies:
         items.append(

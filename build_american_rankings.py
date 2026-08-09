@@ -126,6 +126,29 @@ def dedupe(values: list[str], limit: int | None = None) -> list[str]:
     return out
 
 
+def simplify_signal(text: str) -> str:
+    text = (text or "").strip()
+    prefixes = [
+        "A practical timing marker is whether ",
+    ]
+    for prefix in prefixes:
+        if text.startswith(prefix):
+            text = text[len(prefix):]
+    return text[:1].upper() + text[1:] if text else text
+
+
+def simplify_tension(text: str) -> str:
+    text = (text or "").strip()
+    replacements = [
+        ("The central tension inside ", ""),
+        ("A second tension sits between household or institutional demand and the operating constraints surfaced by ", "Another tension is "),
+        (", but the route to capturing that demand runs through the practical frictions surfaced by ", ". The friction point is "),
+    ]
+    for old, new in replacements:
+        text = text.replace(old, new)
+    return text
+
+
 def load_theme_lookup() -> dict[str, dict]:
     data = json.loads(THEMES_JSON.read_text())
     return {theme["slug"]: theme for theme in data["themes"]}
@@ -161,8 +184,8 @@ def score_theme(theme: dict) -> dict:
         "force_count": force_count,
         "crosscut_count": crosscut_count,
         "thesis": theme["thesis"],
-        "signals": theme.get("signals_to_watch", [])[:3],
-        "tensions": theme.get("structural_tensions", [])[:2],
+        "signals": dedupe([simplify_signal(item) for item in theme.get("signals_to_watch", [])], 3),
+        "tensions": dedupe([simplify_tension(item) for item in theme.get("structural_tensions", [])], 2),
     }
 
 
@@ -186,7 +209,7 @@ def score_subtheme(theme: dict, subtheme: dict) -> dict:
         "deep_read": subtheme.get("deep_read", ""),
         "sector_breadth": len(sectors),
         "company_breadth": len(companies),
-        "signals": subtheme.get("signals_to_watch", [])[:2],
+        "signals": dedupe([simplify_signal(item) for item in subtheme.get("signals_to_watch", [])], 2),
         "consequences": subtheme.get("strategic_consequences", [])[:2],
     }
 
@@ -264,6 +287,16 @@ def render_ranked_rows(rows: list[dict], body_fn) -> str:
     )
 
 
+def breadth_label(count: int) -> str:
+    if count >= 15:
+        return "very broad"
+    if count >= 8:
+        return "broad"
+    if count >= 4:
+        return "moderately broad"
+    return "narrower"
+
+
 def main() -> None:
     theme_lookup = load_theme_lookup()
     company_lookup = load_company_lookup()
@@ -283,9 +316,10 @@ def main() -> None:
             f'<div class="chips">' + "".join(f'<span class="chip">{e(item)}</span>' for item in row["signals"]) + '</div>'
         )
         right = (
-            f'<p><b>Why it ranks:</b> sector breadth {row["sector_breadth"]}, company breadth {row["company_breadth"]}, '
-            f'forces {row["force_count"]}, crosscuts {row["crosscut_count"]}.</p>'
-            f'<p><b>Tensions:</b> {e(" | ".join(row["tensions"]))}</p>'
+            f'<p><b>Why it ranks high:</b> This theme shows up across a {breadth_label(row["sector_breadth"])} set of sectors '
+            f'({row["sector_breadth"]}) and companies ({row["company_breadth"]}), with {row["force_count"]} major forces and '
+            f'{row["crosscut_count"]} cross-cutting links inside the taxonomy.</p>'
+            f'<p><b>Main tensions:</b> {e(" | ".join(row["tensions"]))}</p>'
         )
         return left, right
 
@@ -296,9 +330,9 @@ def main() -> None:
             f'<p>{e(row["summary"])}</p>'
         )
         right = (
-            f'<p><b>Why it ranks:</b> sector breadth {row["sector_breadth"]}, company breadth {row["company_breadth"]}.</p>'
-            f'<p><b>Signals:</b> {e(" | ".join(row["signals"]))}</p>'
-            f'<p><b>Strategic consequences:</b> {e(" | ".join(row["consequences"]))}</p>'
+            f'<p><b>Why it ranks high:</b> It already appears across {row["sector_breadth"]} sectors and {row["company_breadth"]} companies in the source set.</p>'
+            f'<p><b>What to watch:</b> {e(" | ".join(row["signals"]))}</p>'
+            f'<p><b>What it means:</b> {e(" | ".join(row["consequences"]))}</p>'
         )
         return left, right
 
@@ -317,7 +351,7 @@ def main() -> None:
             f'<h3>{e(row["title"])}</h3>'
             f'<p>{e("This model is structurally exposed if the theme keeps intensifying.")}</p>'
         )
-        right = f'<p><b>Theme anchor:</b> {e(row["theme_title"])}</p>'
+        right = f'<p><b>Why it is exposed:</b> This business model gets harder to defend if {e(row["theme_title"])} keeps strengthening.</p>'
         return left, right
 
     html_doc = f"""<!doctype html>
@@ -327,14 +361,14 @@ def main() -> None:
 <div class="top"><a href="index.html">Industry briefs</a><a href="american-outlook-2025-2026.html">American outlook</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-synthesis-playbook.html">Playbook</a><a href="american-theme-memos.html">Theme memos</a></div>
 <div class="eyebrow">Ranked synthesis · US · 2025-2026</div>
 <h1>American Rankings</h1>
-<p class="sub">A ranked layer on top of the synthesis stack: which themes, subthemes, bottlenecks, and exposed business models matter most in the current US economy.</p>
+<p class="sub">A priority map for the current US economy: which themes, subthemes, bottlenecks, and exposed business models matter most right now.</p>
 <div class="kpis">
   <div class="kpi"><div class="n">{len(rankings['top_themes'])}</div><div class="l">Themes ranked</div></div>
   <div class="kpi"><div class="n">{len(rankings['top_subthemes'])}</div><div class="l">Subthemes ranked</div></div>
   <div class="kpi"><div class="n">{len(rankings['top_bottlenecks'])}</div><div class="l">Bottlenecks</div></div>
   <div class="kpi"><div class="n">{len(rankings['top_exposed_models'])}</div><div class="l">Exposed models</div></div>
 </div>
-<div class="lead"><p>Read this layer as a priority map. The scores are not abstract truth claims. They are a disciplined way to rank breadth, recurrence, sector spread, company evidence, and decision relevance inside the 2025-2026 synthesis stack.</p></div>
+<div class="lead"><p>Read this as a ranking tool, not a claim of mathematical precision. The scores help sort for breadth, recurrence, sector spread, company evidence, and practical decision value inside the 2025-2026 synthesis stack.</p></div>
 
 <section class="section"><h2>Top Themes</h2><div class="table">{render_ranked_rows(top_themes, theme_body)}</div></section>
 <section class="section"><h2>Top Subthemes</h2><div class="table">{render_ranked_rows(top_subthemes, subtheme_body)}</div></section>

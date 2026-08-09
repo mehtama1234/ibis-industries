@@ -277,6 +277,52 @@ def e(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
 
 
+def simplify_signal(text: str) -> str:
+    text = (text or "").strip()
+    prefix = "A practical timing marker is whether "
+    if text.startswith(prefix):
+        text = text[len(prefix):]
+    return text[:1].upper() + text[1:] if text else text
+
+
+def simplify_tension(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("The central tension inside ", "")
+    text = text.replace(
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by ",
+        "Another tension is ",
+    )
+    text = text.replace(
+        ", but the route to capturing that demand runs through the practical frictions surfaced by ",
+        ". The friction point is ",
+    )
+    return text
+
+
+def simplify_implication(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" implies that ", ": ")
+    text = text.replace("In diligence, ", "")
+    text = text.replace(" matters because ", ": ")
+    text = text.replace("Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.", "Back operators that make the behavior repeatable, not just well narrated.")
+    return text
+
+
+def simplify_second_order(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" pushes second-order effects beyond the immediate category, especially where ", ": this spreads into ")
+    text = text.replace(" increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.", ".")
+    return text
+
+
+def simplify_timing_marker(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("A practical timing marker is whether ", "")
+    text = text.replace("Another marker is when ", "")
+    text = text.replace(" starts appearing in mainstream operating plans instead of specialist commentary.", ".")
+    return text[:1].upper() + text[1:] if text else text
+
+
 def load_themes() -> list[dict]:
     with THEMES_JSON.open(encoding="utf-8") as handle:
         return json.load(handle)["themes"]
@@ -345,7 +391,7 @@ def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Market rewrites</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['market_rewrites'][:2])}</ul>
+    <ul class="list">{''.join(f"<li>{e(simplify_second_order(item))}</li>" for item in subtheme['market_rewrites'][:2])}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Counterforces</div>
@@ -361,7 +407,7 @@ def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Timing markers</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['timing_markers'][:2])}</ul>
+    <ul class="list">{''.join(f"<li>{e(simplify_timing_marker(item))}</li>" for item in subtheme['timing_markers'][:2])}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Execution hazards</div>
@@ -375,16 +421,16 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     avoid = "".join(f"<li>{e(item)}</li>" for item in theme["avoid_zones"])
     moves = "".join(f"<li>{e(item)}</li>" for item in theme["operator_moves"])
     questions = "".join(f"<li>{e(item)}</li>" for item in theme["investor_questions"])
-    tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"])
-    signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
-    implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
+    tensions = "".join(f"<li>{e(simplify_tension(item))}</li>" for item in theme["structural_tensions"])
+    signals = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in theme["signals_to_watch"])
+    implications = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["strategic_implications"])
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
-    second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
+    second_order_effects = "".join(f"<li>{e(simplify_second_order(item))}</li>" for item in theme["second_order_effects"])
     societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
     cultural_read = "".join(f"<li>{e(item)}</li>" for item in theme["cultural_read"])
     consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
     industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
-    capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
+    capital_implications = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["capital_implications"])
     force_chips = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
@@ -443,7 +489,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Where it shows up</div>
+      <div class="meta">Where this shows up</div>
       <h3>Representative industries</h3>
       <div class="grid">{industry_cards}</div>
     </div>
@@ -459,7 +505,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
       <ul class="list">{moves}</ul>
     </div>
     <div class="panel">
-      <div class="meta">What to underwrite</div>
+      <div class="meta">What to back</div>
       <ul class="list">{capital_implications}</ul>
     </div>
   </div>
@@ -475,7 +521,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Strategic implications</div>
+      <div class="meta">What to do</div>
       <ul class="list">{implications}</ul>
     </div>
     <div class="panel">
@@ -508,7 +554,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     </div>
   </div>
   <div class="panel" style="margin-top:14px">
-    <div class="meta">Second-order effects</div>
+    <div class="meta">What this changes next</div>
     <ul class="list">{second_order_effects}</ul>
   </div>
   <div class="smallgrid">
@@ -545,21 +591,21 @@ def build_hub(records: list[dict]) -> str:
                     seen.add(title)
                     where_it_shows_up.append(title)
         where_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in where_it_shows_up[:4])
-        signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
-        tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"][:2])
-        second_order = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"][:2])
+        signals = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in theme["signals_to_watch"][:2])
+        tensions = "".join(f"<li>{e(simplify_tension(item))}</li>" for item in theme["structural_tensions"][:2])
+        second_order = "".join(f"<li>{e(simplify_second_order(item))}</li>" for item in theme["second_order_effects"][:2])
         cards.append(
             f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="theme-memos/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
   <p>{e(theme['operator_angle'])}</p>
-  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="meta" style="margin-top:14px">Where this shows up</div>
   <div class="chips">{where_chips}</div>
   <div class="meta" style="margin-top:14px">Signals</div>
   <ul class="list">{signals}</ul>
   <div class="meta" style="margin-top:14px">Tensions</div>
   <ul class="list">{tensions}</ul>
-  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <div class="meta" style="margin-top:14px">What this changes next</div>
   <ul class="list">{second_order}</ul>
   <div class="chips">{theme_brief_chip(theme)}</div>
 </article>"""

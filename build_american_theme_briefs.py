@@ -267,6 +267,44 @@ def e(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
 
 
+def simplify_signal(text: str) -> str:
+    text = (text or "").strip()
+    prefix = "A practical timing marker is whether "
+    if text.startswith(prefix):
+        text = text[len(prefix):]
+    return text[:1].upper() + text[1:] if text else text
+
+
+def simplify_tension(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("The central tension inside ", "")
+    text = text.replace(
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by ",
+        "Another tension is ",
+    )
+    text = text.replace(
+        ", but the route to capturing that demand runs through the practical frictions surfaced by ",
+        ". The friction point is ",
+    )
+    return text
+
+
+def simplify_implication(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" implies that ", ": ")
+    text = text.replace("In diligence, ", "")
+    text = text.replace(" matters because ", ": ")
+    text = text.replace("Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.", "Back operators that make the behavior repeatable, not just well narrated.")
+    return text
+
+
+def simplify_second_order(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" pushes second-order effects beyond the immediate category, especially where ", ": this spreads into ")
+    text = text.replace(" increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.", ".")
+    return text
+
+
 def load_theme_records() -> list[dict]:
     with THEMES_JSON.open(encoding="utf-8") as handle:
         data = json.load(handle)
@@ -297,20 +335,20 @@ def build_theme_card(theme: dict) -> str:
                 seen.add(title)
                 where_it_shows_up.append(title)
     where_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in where_it_shows_up[:4])
-    signal_items = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
-    action_items = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"][:2])
-    underwrite_items = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"][:2])
+    signal_items = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in theme["signals_to_watch"][:2])
+    action_items = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["strategic_implications"][:2])
+    underwrite_items = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["capital_implications"][:2])
     return f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="theme-briefs/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
   <p>{e(theme['hook'])}</p>
-  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="meta" style="margin-top:14px">Where this shows up</div>
   <div class="chips">{where_chips}</div>
   <div class="meta" style="margin-top:14px">Signals</div>
   <ul class="list">{signal_items}</ul>
   <div class="meta" style="margin-top:14px">What to do</div>
   <ul class="list">{action_items}</ul>
-  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <div class="meta" style="margin-top:14px">What to back</div>
   <ul class="list">{underwrite_items}</ul>
   <div class="chips">{chips}</div>
 </article>"""
@@ -318,12 +356,12 @@ def build_theme_card(theme: dict) -> str:
 
 def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str:
     driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"][:3])
-    signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:3])
-    rewrite_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["market_rewrites"][:2])
+    signal_items = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in subtheme["signals_to_watch"][:3])
+    rewrite_items = "".join(f"<li>{e(simplify_second_order(item))}</li>" for item in subtheme["market_rewrites"][:2])
     follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"][:2])
     behavioral_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["behavioral_expression"][:3])
     economic_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["economic_mechanics"][:3])
-    timing_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["timing_markers"][:2])
+    timing_items = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in subtheme["timing_markers"][:2])
     hazard_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["execution_hazards"][:2])
     href = f'{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}'
     return f"""<article class="subcard">
@@ -371,16 +409,16 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
     deep_read = f"<p>{e(theme['deep_read'])}</p>"
     structural = "".join(f"<li>{e(item)}</li>" for item in theme["structural_shifts"])
     mechanisms = "".join(f"<li>{e(item)}</li>" for item in theme["core_mechanisms"])
-    tensions = "".join(f"<li>{e(item)}</li>" for item in (theme["tensions"] + theme["structural_tensions"]))
-    implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
+    tensions = "".join(f"<li>{e(simplify_tension(item))}</li>" for item in (theme["tensions"] + theme["structural_tensions"]))
+    implications = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["strategic_implications"])
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
-    second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
+    second_order_effects = "".join(f"<li>{e(simplify_second_order(item))}</li>" for item in theme["second_order_effects"])
     societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
     consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
     industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
-    capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
+    capital_implications = "".join(f"<li>{e(simplify_implication(item))}</li>" for item in theme["capital_implications"])
     watchpoints = "".join(f"<li>{e(item)}</li>" for item in theme["watchpoints"])
-    theme_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
+    theme_signals = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in theme["signals_to_watch"])
     subtheme_links = "".join(
         f'<a class="chip" href="{e(prefix)}themes/{e(theme["slug"])}.html#{e(sub["slug"])}">{e(sub["title"])}</a>'
         for sub in theme["subthemes"]
@@ -415,13 +453,13 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
       <ul class="list">{tensions}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Strategic implications</div>
+      <div class="meta">What to do</div>
       <ul class="list">{implications}</ul>
     </div>
   </div>
   <div class="split" style="margin-top:14px">
     <div class="panel">
-      <div class="meta">Where it shows up</div>
+      <div class="meta">Where this shows up</div>
       <div class="chips">{subtheme_links}</div>
       <div class="chips">{force_links}</div>
     </div>
@@ -436,7 +474,7 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
       <ul class="list">{theme_signals}</ul>
     </div>
     <div class="panel">
-      <div class="meta">What to underwrite</div>
+      <div class="meta">What to back</div>
       <ul class="list">{capital_implications}</ul>
     </div>
   </div>
@@ -446,7 +484,7 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
       <ul class="list">{watchpoints}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Second-order effects</div>
+      <div class="meta">What this changes next</div>
       <ul class="list">{second_order_effects}</ul>
     </div>
   </div>

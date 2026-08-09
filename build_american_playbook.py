@@ -17,19 +17,20 @@ OUT = ROOT / "american-synthesis-playbook.html"
 PLAYBOOK = {
     "title": "American Synthesis Playbook",
     "subtitle": (
-        "A direct end-state read on the 2025-2026 US economy: what is happening, "
-        "why it matters, where it shows up, and what operators and investors should do."
+        "A direct read on the 2025-2026 US economy: what is happening, "
+        "why it matters, where it shows up, and what operators and investors should do next."
     ),
     "thesis": (
-        "The United States in 2025-2026 is not defined by one clean macro cycle. It is defined "
-        "by a harsher selection system. Households are more selective, culture is reclassifying "
-        "whole categories, institutions demand more coordination and proof, and the physical "
-        "economy is back in charge of many digital outcomes."
+        "The United States in 2025-2026 is not moving through one simple macro cycle. "
+        "It is moving through a tougher selection system. Households are more selective, "
+        "culture is changing what categories feel acceptable or desirable, institutions "
+        "demand more coordination and proof, and physical constraints now shape many outcomes "
+        "that once looked mostly digital."
     ),
     "national_calls": [
         {
             "title": "Demand still exists, but the right to earn margin is narrower",
-            "body": "Many categories still have spend, need, or traffic. What changed is the burden required to turn that demand into durable economics. Labor, compliance, capital, and channel pressure now decide who keeps the value.",
+            "body": "Many categories still have spend, need, or traffic. What changed is how hard it is to turn that demand into durable profit. Labor, compliance, capital, and channel pressure now decide who actually keeps the value.",
             "themes": [
                 "scale-financialization-and-the-owned-economy",
                 "regulated-software-and-admin-state",
@@ -38,7 +39,7 @@ PLAYBOOK = {
         },
         {
             "title": "The middle weakens while value, scarcity, and control strengthen",
-            "body": "The generic middle keeps eroding across consumer categories, regional intermediaries, and undifferentiated service stacks. The stronger positions are value machines, premium refuges, specified bottlenecks, and ownership of the rail beneath the experience.",
+            "body": "The generic middle keeps eroding across consumer categories, regional intermediaries, and undifferentiated service stacks. Stronger positions tend to be value leaders, premium refuges, clear bottlenecks, and the owners of the rail underneath the visible experience.",
             "themes": [
                 "barbelled-consumer-america",
                 "scale-financialization-and-the-owned-economy",
@@ -47,7 +48,7 @@ PLAYBOOK = {
         },
         {
             "title": "America is becoming more assisted and more administered",
-            "body": "Aging, fragmented work, thinner firms, reimbursement complexity, and trust infrastructure are all pushing more of the economy toward coordination-heavy systems. The growth is real, but the monetization often sits with the enabler rather than the visible frontline operator.",
+            "body": "Aging, fragmented work, thinner firms, reimbursement complexity, and trust infrastructure are pushing more of the economy into coordination-heavy systems. Growth is real, but the profit often sits with the enabler rather than the visible frontline operator.",
             "themes": [
                 "aging-care-and-the-assistance-economy",
                 "work-without-the-old-firm",
@@ -56,7 +57,7 @@ PLAYBOOK = {
         },
         {
             "title": "Cultural shifts are moving dollars before policy changes categories",
-            "body": "Wellness, moderation, identity-bearing experiences, and permission-to-premium behavior are already reallocating demand. The consumer often rewrites the category before regulators, investors, or management teams update their language.",
+            "body": "Wellness, moderation, identity-bearing experiences, and permission-to-premium behavior are already moving demand around. Consumers often redefine a category before regulators, investors, or management teams update the way they talk about it.",
             "themes": [
                 "wellness-recodes-daily-life",
                 "experience-status-and-community",
@@ -65,7 +66,7 @@ PLAYBOOK = {
         },
         {
             "title": "AI is a physical economy story as much as a software story",
-            "body": "Inference and automation demand flow upward into power, cooling, land, construction, equipment, permitting, and capital concentration. That means many of the best economics sit under the application layer rather than on the visible interface.",
+            "body": "Inference and automation demand pull attention upstream into power, cooling, land, construction, equipment, permitting, and concentrated capital. Many of the best economics sit below the application layer rather than on the visible interface.",
             "themes": [
                 "machine-intelligence-and-compute-buildout",
                 "physical-reindustrialization-and-infrastructure",
@@ -74,7 +75,7 @@ PLAYBOOK = {
         },
         {
             "title": "Operators and investors need a bottleneck map, not just a market map",
-            "body": "The recurring winners are not random. They are the businesses that either own the bottleneck, absorb the complexity, shape the customer permission structure, or become culturally and operationally indispensable inside a fragmented system.",
+            "body": "The recurring winners are not random. They are the businesses that own the bottleneck, absorb the complexity, shape customer permission, or become culturally and operationally hard to replace inside a fragmented system.",
             "themes": [
                 "regulated-software-and-admin-state",
                 "scale-financialization-and-the-owned-economy",
@@ -123,7 +124,7 @@ PLAYBOOK = {
         },
     ],
     "closing": [
-        "The practical lesson is simple: the United States is still full of demand, but much less full of easy economics.",
+        "The practical lesson is simple: the United States still has a lot of demand, but far fewer easy profit pools.",
         "The better operating and investing posture is to look for control, proof, bottlenecks, permission structures, and category legitimacy rather than broad exposure alone.",
         "That is the synthesis claim this repo now supports across the full 1,491-industry corpus.",
     ],
@@ -153,6 +154,44 @@ def dedupe(values: list[str], limit: int | None = None) -> list[str]:
     return out
 
 
+def simplify_signal(text: str) -> str:
+    text = (text or "").strip()
+    prefix = "A practical timing marker is whether "
+    if text.startswith(prefix):
+        text = text[len(prefix):]
+    return text[:1].upper() + text[1:] if text else text
+
+
+def simplify_tension(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("The central tension inside ", "")
+    text = text.replace(
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by ",
+        "Another tension is ",
+    )
+    text = text.replace(
+        ", but the route to capturing that demand runs through the practical frictions surfaced by ",
+        ". The friction point is ",
+    )
+    return text
+
+
+def simplify_implication(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" implies that ", ": ")
+    text = text.replace("In diligence, ", "")
+    text = text.replace(" matters because ", ": ")
+    text = text.replace("Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.", "Back operators that make the behavior operational and repeatable, not just well narrated.")
+    return text
+
+
+def simplify_second_order(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace(" pushes second-order effects beyond the immediate category, especially where evidence industries such as ", ": this spills into ")
+    text = text.replace(" increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.", ".")
+    return text
+
+
 def load_theme_lookup() -> dict[str, dict]:
     data = json.loads(THEMES_JSON.read_text())
     return {theme["slug"]: theme for theme in data["themes"]}
@@ -177,11 +216,11 @@ def collect_group_evidence(
     for slug in linked_themes:
         theme = theme_lookup[slug]
         theme_titles.append(theme["title"])
-        signals.extend(theme.get("signals_to_watch", [])[:2])
-        tensions.extend(theme.get("structural_tensions", [])[:2])
-        operator_implications.extend(theme.get("strategic_implications", [])[:2])
-        capital_implications.extend(theme.get("capital_implications", [])[:2])
-        second_order_effects.extend(theme.get("second_order_effects", [])[:1])
+        signals.extend(simplify_signal(item) for item in theme.get("signals_to_watch", [])[:2])
+        tensions.extend(simplify_tension(item) for item in theme.get("structural_tensions", [])[:2])
+        operator_implications.extend(simplify_implication(item) for item in theme.get("strategic_implications", [])[:2])
+        capital_implications.extend(simplify_implication(item) for item in theme.get("capital_implications", [])[:2])
+        second_order_effects.extend(simplify_second_order(item) for item in theme.get("second_order_effects", [])[:1])
         for subtheme in theme.get("subthemes", [])[:2]:
             for industry in subtheme.get("industries", []):
                 sector = industry.get("sector")
@@ -212,9 +251,9 @@ def build_national_cards(theme_lookup: dict[str, dict], company_lookup: dict[str
   <div class="meta">National call</div>
   <h3>{e(item['title'])}</h3>
   <p>{e(item['body'])}</p>
-  <p><b>Where it shows up:</b> {e('; '.join(f'{sector} ({count})' for sector, count in evidence['top_sectors']))}</p>
-  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
-  <p><b>Tensions:</b> {e(' | '.join(evidence['tensions']))}</p>
+  <p><b>Where this shows up:</b> {e('; '.join(f'{sector} ({count})' for sector, count in evidence['top_sectors']))}</p>
+  <p><b>What to watch:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Main tension:</b> {e(' | '.join(evidence['tensions']))}</p>
   <p><b>Representative companies:</b> {e('; '.join(evidence['companies']))}</p>
   <div class="chips">{''.join(f'<span class="chip">{e(theme)}</span>' for theme in evidence['theme_titles'])}</div>
 </article>"""
@@ -230,13 +269,13 @@ def build_lens_cards(theme_lookup: dict[str, dict], company_lookup: dict[str, di
             f"""<article class="card">
   <div class="meta">{e(item['title'])} lens</div>
   <h3>{e(item['summary'])}</h3>
-  <p><b>Where it shows up:</b> {e('; '.join(f'{sector} ({count})' for sector, count in evidence['top_sectors']))}</p>
-  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Where this shows up:</b> {e('; '.join(f'{sector} ({count})' for sector, count in evidence['top_sectors']))}</p>
+  <p><b>What to watch:</b> {e(' | '.join(evidence['signals']))}</p>
   <div class="meta" style="margin-top:14px">What to do</div>
   <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in evidence['operator_implications'][:3])}</ul>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in evidence['capital_implications'][:3])}</ul>
-  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <div class="meta" style="margin-top:14px">What this changes next</div>
   <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in evidence['second_order_effects'])}</ul>
 </article>"""
         )
