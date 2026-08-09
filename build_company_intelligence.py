@@ -17,6 +17,7 @@ BRIEFS_BY_SLUG = {brief["slug"]: brief for brief in BRIEFS}
 LENSES = json.load(open(os.path.join(ROOT, "business_lenses.json"), encoding="utf-8"))
 FORCE_TRANSLATIONS = json.load(open(os.path.join(ROOT, "force_operator_translations.json"), encoding="utf-8"))
 TAXONOMY = json.load(open(os.path.join(ROOT, "economic_intelligence_taxonomy.json"), encoding="utf-8"))
+AMERICAN_THEMES = json.load(open(os.path.join(ROOT, "american_themes_taxonomy.json"), encoding="utf-8"))["themes"]
 
 UNIVERSE_JSON = os.path.join(ROOT, "company_universe.json")
 UNIVERSE_HTML = os.path.join(ROOT, "company-universe.html")
@@ -30,6 +31,21 @@ PAGES_DIR = os.path.join(ROOT, "company-pages")
 
 FORCES_BY_SLUG = {force["slug"]: force for force in FORCE_TRANSLATIONS}
 LENSES_BY_SLUG = {lens["slug"]: lens for lens in LENSES}
+THEMES_BY_SLUG = {theme["slug"]: theme for theme in AMERICAN_THEMES}
+
+POSITIVE_THEME_SLUGS = {
+    "machine-intelligence-and-compute-buildout",
+    "physical-reindustrialization-and-infrastructure",
+    "regulated-software-and-admin-state",
+    "scale-financialization-and-the-owned-economy",
+    "aging-care-and-the-assistance-economy",
+}
+
+NEGATIVE_THEME_SLUGS = {
+    "barbelled-consumer-america",
+    "work-without-the-old-firm",
+    "space-housing-and-local-friction",
+}
 
 CORP_SUFFIXES = {
     "inc",
@@ -650,6 +666,87 @@ def status_label(status: str) -> str:
     }[status]
 
 
+def classify_theme_lens(lens: str) -> list[str]:
+    text = (lens or "").lower()
+    buckets = []
+    if "societal" in text or "social" in text or "institutional" in text or "labor" in text:
+        buckets.append("societal")
+    if "cultural" in text:
+        buckets.append("cultural")
+    if "consumer" in text:
+        buckets.append("consumer")
+    if "industrial" in text or "technological" in text:
+        buckets.append("industrial")
+    return buckets or ["industrial"]
+
+
+def build_force_theme_map() -> dict[str, list[dict[str, Any]]]:
+    mapping: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for theme in AMERICAN_THEMES:
+        for force in theme.get("forces", []):
+            mapping[force["slug"]].append(theme)
+    return mapping
+
+
+def dedupe_themes(themes: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    out = []
+    seen = set()
+    for theme in themes:
+        if theme["slug"] in seen:
+            continue
+        seen.add(theme["slug"])
+        out.append(theme)
+    return out
+
+
+FORCE_THEME_MAP = build_force_theme_map()
+
+
+def collect_company_themes(
+    industries: list[str],
+    theme_counts: Counter[str],
+    sector_mix: list[tuple[str, int]],
+    force_scores: Counter[str],
+) -> list[dict[str, Any]]:
+    candidate_themes = []
+    for force_slug, _score in force_scores.most_common(5):
+        candidate_themes.extend(FORCE_THEME_MAP.get(force_slug, []))
+    themes = dedupe_themes(candidate_themes)
+    record_theme_terms = {item.lower() for item in theme_counts}
+    sector_count_map = {sector.lower(): count for sector, count in sector_mix}
+    scored = []
+    for theme in themes:
+        overlap = sum(force_scores.get(force["slug"], 0) for force in theme.get("forces", []))
+        subtheme_hits = 0
+        sector_hits = 0
+        for subtheme in theme.get("subthemes", []):
+            title = subtheme.get("title", "").lower()
+            microthemes = [item.lower() for item in subtheme.get("microthemes", [])]
+            for term in record_theme_terms:
+                if term and (term in title or any(term in item for item in microthemes)):
+                    subtheme_hits += 1
+            for industry in subtheme.get("industries", []):
+                sector = industry.get("sector", "").lower()
+                if sector:
+                    sector_hits += sector_count_map.get(sector, 0)
+        scored.append((overlap, subtheme_hits, sector_hits, theme.get("signal_count", 0), theme))
+    scored.sort(key=lambda item: (item[0], item[1], item[2], item[3]), reverse=True)
+    return [item[4] for item in scored[:5]]
+
+
+def build_theme_scorecard(themes: list[dict[str, Any]]) -> dict[str, int]:
+    scorecard = {}
+    for index, theme in enumerate(themes):
+        base = max(1, 3 - index)
+        if theme["slug"] in POSITIVE_THEME_SLUGS:
+            scorecard[theme["slug"]] = base
+        elif theme["slug"] in NEGATIVE_THEME_SLUGS:
+            scorecard[theme["slug"]] = -base
+        else:
+            scorecard[theme["slug"]] = 0
+    return scorecard
+
+
 def build_company_records() -> list[dict[str, Any]]:
     raw_companies: dict[str, dict[str, Any]] = {}
     for brief in BRIEFS:
@@ -848,6 +945,12 @@ def build_company_records() -> list[dict[str, Any]]:
             for force_slug in dominant_lens.get("primary_force_slugs", []):
                 force_scores[force_slug] += 2
 
+        dominant_theme_objects = collect_company_themes(industries, company["theme_counts"], sector_mix, force_scores)
+        theme_scorecard = build_theme_scorecard(dominant_theme_objects)
+        positive_theme_score = sum(value for value in theme_scorecard.values() if value > 0)
+        negative_theme_score = sum(-value for value in theme_scorecard.values() if value < 0)
+        theme_tailwind_score = max(-2, min(2, positive_theme_score - negative_theme_score))
+
         positive_score = sum(force_scores[slug] for slug in POSITIVE_FORCE_SLUGS if slug in force_scores)
         negative_score = sum(force_scores[slug] for slug in NEGATIVE_FORCE_SLUGS if slug in force_scores)
         structural_bonus = 1 if dominant_lens and dominant_lens["best_owner_type"] in FAVORABLE_OWNER_TYPES else 0
@@ -862,7 +965,15 @@ def build_company_records() -> list[dict[str, Any]]:
                     cluster_force_bonus += min(2, value)
                 if force_slug in cluster_force_config["negative"]:
                     cluster_force_bonus -= min(2, value)
-        rating_score = positive_score - negative_score + structural_bonus + scale_bonus + cluster_bias + cluster_force_bonus
+        rating_score = (
+            positive_score
+            - negative_score
+            + structural_bonus
+            + scale_bonus
+            + cluster_bias
+            + cluster_force_bonus
+            + theme_tailwind_score
+        )
         status = company_status(rating_score)
 
         dominant_force_records = []
@@ -930,6 +1041,22 @@ def build_company_records() -> list[dict[str, Any]]:
                 "sector_count": len(company["sector_counts"]),
                 "sector_mix": [{"sector": sector, "count": count} for sector, count in sector_mix[:4]],
                 "top_themes": [theme for theme, _count in company["theme_counts"].most_common(6)],
+                "dominant_theme_objects": [
+                    {
+                        "slug": theme["slug"],
+                        "title": theme["title"],
+                        "lens": theme["lens"],
+                        "score": theme_scorecard.get(theme["slug"], 0),
+                        "subthemes": [
+                            {
+                                "slug": subtheme["slug"],
+                                "title": subtheme["title"],
+                            }
+                            for subtheme in theme.get("subthemes", [])[:3]
+                        ],
+                    }
+                    for theme in dominant_theme_objects
+                ],
                 "business_model_cluster_slug": cluster_slug,
                 "business_model_cluster_title": lens_title,
                 "business_truth": business_truth,
@@ -939,6 +1066,8 @@ def build_company_records() -> list[dict[str, Any]]:
                 "likely_losers": likely_losers,
                 "dominant_forces": dominant_force_records,
                 "force_scorecard": dict(force_scores.most_common()),
+                "theme_scorecard": theme_scorecard,
+                "theme_tailwind_score": theme_tailwind_score,
                 "rating_score": rating_score,
                 "status": status,
                 "industry_rows": industry_rows,
