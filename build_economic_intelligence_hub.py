@@ -7,6 +7,8 @@ import html
 import json
 import os
 
+from build_sector_memos import build_sector_records
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "economic-intelligence.html")
 
@@ -138,8 +140,29 @@ NARRATIVE_BLOCKS = [
 
 CSS = """
 :root{--bg:#0e1218;--panel:#151b23;--panel2:#1b2531;--line:#27313f;--line2:#1f2935;--ink:#efe8da;--muted:#a5afbc;--faint:#6f7a89;--gold:#d3ab55;--green:#71c58b;--blue:#77a7dc;--red:#df806e;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,40px) 72px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:34px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.3rem,5vw,4.1rem);line-height:1;margin:.18em 0 .22em;max-width:11ch}h2{font-size:1.5rem;margin:0 0 .45em}.sub{max-width:850px;color:var(--muted);font-size:1.07rem}.strip{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0 0}.kpi{background:var(--panel);border:1px solid var(--line2);border-radius:10px;padding:10px 14px;min-width:120px}.kpi .n{font-family:var(--mono);font-size:1.34rem;font-weight:700}.kpi .l{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin-top:1px}.lead{background:var(--panel);border:1px solid var(--line2);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;color:var(--ink);font-size:1.06rem}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line2)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:14px}.card,.story,.force{background:var(--panel);border:1px solid var(--line2);border-radius:10px;padding:18px}.card h3,.story h3,.force h3{margin:0 0 .35em;font-size:1.12rem}.card p,.story p,.force p{margin:.35em 0 0;color:var(--muted)}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.qs,.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 9px}.force .count{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-top:.7em}.split{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(280px,.95fr);gap:18px}.stack>*+*{margin-top:12px}@media(max-width:880px){.split{grid-template-columns:1fr}}footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line2);color:var(--faint);font-family:var(--mono);font-size:.72rem}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,40px) 72px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:34px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.3rem,5vw,4.1rem);line-height:1;margin:.18em 0 .22em;max-width:11ch}h2{font-size:1.5rem;margin:0 0 .45em}.sub{max-width:850px;color:var(--muted);font-size:1.07rem}.strip{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0 0}.kpi{background:var(--panel);border:1px solid var(--line2);border-radius:10px;padding:10px 14px;min-width:120px}.kpi .n{font-family:var(--mono);font-size:1.34rem;font-weight:700}.kpi .l{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);margin-top:1px}.lead{background:var(--panel);border:1px solid var(--line2);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;color:var(--ink);font-size:1.06rem}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line2)}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:14px}.card,.story,.force{background:var(--panel);border:1px solid var(--line2);border-radius:10px;padding:18px}.card h3,.story h3,.force h3{margin:0 0 .35em;font-size:1.12rem}.card p,.story p,.force p{margin:.35em 0 0;color:var(--muted)}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.qs,.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 9px}.force .count{font-family:var(--mono);font-size:.72rem;color:var(--faint);margin-top:.7em}.split{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(280px,.95fr);gap:18px}.stack>*+*{margin-top:12px}.list{padding-left:18px;color:var(--muted);margin:.45em 0 0}.list li{margin:.38em 0}@media(max-width:880px){.split{grid-template-columns:1fr}}footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line2);color:var(--faint);font-family:var(--mono);font-size:.72rem}
 """
+
+
+def load_theme_records():
+    with open(os.path.join(ROOT, "american_themes_taxonomy.json"), encoding="utf-8") as handle:
+        return json.load(handle)["themes"]
+
+
+def load_company_memos():
+    with open(os.path.join(ROOT, "company_memos.json"), encoding="utf-8") as handle:
+        return json.load(handle)
+
+
+def unique_ordered(values):
+    seen = set()
+    ordered = []
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        ordered.append(value)
+    return ordered
 
 
 def build_domain_card(domain):
@@ -171,8 +194,26 @@ def build_operator_card(operator):
 </article>"""
 
 
+def build_synthesis_card(item):
+    sector_chips = "".join(f'<span class="chip">{e(sector)}</span>' for sector in item["sectors"])
+    company_chips = "".join(f'<span class="chip">{e(company)}</span>' for company in item["companies"])
+    use_items = "".join(f"<li>{e(line)}</li>" for line in item["use_cases"])
+    return f"""<article class="card">
+  <div class="meta">{e(item['label'])}</div>
+  <h3><a href="{e(item['href'])}">{e(item['title'])}</a></h3>
+  <p>{e(item['body'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{sector_chips}{company_chips}</div>
+  <div class="meta" style="margin-top:14px">What to do with it</div>
+  <ul class="list">{use_items}</ul>
+</article>"""
+
+
 def main():
     taxonomy = json.load(open(os.path.join(ROOT, "economic_intelligence_taxonomy.json"), encoding="utf-8"))
+    themes = load_theme_records()
+    sector_records = build_sector_records()
+    company_memos = load_company_memos()
     domains = taxonomy["domains"]
     forces = [force for domain in domains for force in domain["forces"]]
     unique_forces = {f["slug"]: f for f in forces}
@@ -186,6 +227,86 @@ def main():
         for block in NARRATIVE_BLOCKS
     )
     crosscuts = "".join(f'<span class="chip">{e(c["title"])}</span>' for c in taxonomy["crosscuts"])
+    sector_records.sort(key=lambda row: (-row["industry_count"], row["sector"]))
+    company_memos.sort(key=lambda row: (-row.get("mention_count", 0), -row.get("industry_count", 0), row["title"]))
+    dominant_sectors = [row["sector"] for row in sector_records]
+    dominant_companies = [row["title"] for row in company_memos]
+    theme_companies = unique_ordered(
+        company["title"]
+        for theme in themes[:4]
+        for company in company_memos
+        if company.get("top_theme") == theme["title"]
+    )
+    sector_outlook_companies = unique_ordered(
+        row["title"]
+        for row in company_memos
+        if row.get("top_sector") in set(dominant_sectors[:4])
+    )
+    synthesis_cards = [
+        {
+            "label": "Master synthesis",
+            "title": "American Outlook 2025-2026",
+            "href": "american-outlook-2025-2026.html",
+            "body": AMERICAN_OUTLOOK_LINK,
+            "sectors": dominant_sectors[:4],
+            "companies": dominant_companies[:4],
+            "use_cases": [
+                "Use this when you need the macro read across societal, cultural, consumer, and industrial change.",
+                "Start here before drilling into sectors, themes, or named companies.",
+            ],
+        },
+        {
+            "label": "Capstone narrative",
+            "title": "The US Economy in 2025-2026",
+            "href": "american-economy-2025-2026.html",
+            "body": AMERICAN_CAPSTONE_LINK,
+            "sectors": unique_ordered(dominant_sectors[:2] + dominant_sectors[4:6]),
+            "companies": unique_ordered(dominant_companies[:2] + dominant_companies[4:6]),
+            "use_cases": [
+                "Use this when you want the full argument, not just a taxonomy or memo pack.",
+                "Best for connecting labor, culture, demand, geography, and industrial bottlenecks in one read.",
+            ],
+        },
+        {
+            "label": "Theme layer",
+            "title": "American Theme Memos",
+            "href": "american-theme-memos.html",
+            "body": AMERICAN_THEME_MEMOS_LINK,
+            "sectors": unique_ordered(
+                dominant_sectors[0:1] + dominant_sectors[3:4] + dominant_sectors[7:9]
+            ),
+            "companies": theme_companies[:4] or dominant_companies[6:10],
+            "use_cases": [
+                "Use this when you know the theme you care about and need operator and investor posture fast.",
+                "This is the best bridge between macro interpretation and actionable diligence questions.",
+            ],
+        },
+        {
+            "label": "Sector layer",
+            "title": "Sector Outlooks",
+            "href": "sector-outlooks.html",
+            "body": SECTOR_OUTLOOKS_LINK,
+            "sectors": dominant_sectors[:4],
+            "companies": sector_outlook_companies[:4],
+            "use_cases": [
+                "Use this when the question is which sectors express the broader American story most clearly.",
+                "Read this before comparing industry cases inside a sector.",
+            ],
+        },
+        {
+            "label": "Company layer",
+            "title": "Company Memos",
+            "href": "company-memos.html",
+            "body": COMPANY_MEMOS_LINK,
+            "sectors": unique_ordered(row["top_sector"] for row in company_memos[:6]),
+            "companies": [row["title"] for row in company_memos[:6]],
+            "use_cases": [
+                "Use this when you need named evidence tied back to themes, forces, and break-risk questions.",
+                "Best for moving from sector logic into company-level judgment.",
+            ],
+        },
+    ]
+    synthesis_cards_html = "\n".join(build_synthesis_card(item) for item in synthesis_cards)
 
     html_doc = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -224,6 +345,11 @@ def main():
 <section class="section">
   <h2>Forces</h2>
   <div class="grid">{force_cards}</div>
+</section>
+
+<section class="section">
+  <h2>Flagship Synthesis</h2>
+  <div class="grid">{synthesis_cards_html}</div>
 </section>
 
 <section class="section">
