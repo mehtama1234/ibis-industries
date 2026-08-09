@@ -1535,7 +1535,7 @@ def build_main_page(theme_records: list[dict]) -> str:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>American Themes — US Industry Briefs</title><style>{MAIN_CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="subthemes.html">Force subthemes</a><a href="company-universe.html">Company universe</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="subthemes.html">Force subthemes</a><a href="company-universe.html">Company universe</a><a href="american-theme-memos.html">Theme memos</a></div>
 <div class="eyebrow">American themes · US · 2025-2026</div>
 <h1>American Themes</h1>
 <p class="sub">This is the detailed themes layer the repo was missing: broad societal, cultural, consumer, industrial, and institutional themes, each broken into deep subthemes and second-order patterns, with links back to forces, industries, and named companies.</p>

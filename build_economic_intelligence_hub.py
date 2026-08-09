@@ -52,6 +52,10 @@ AMERICAN_CAPSTONE_LINK = (
     "The capstone narrative is the single end-to-end read on the US economy in 2025-2026: how demand, labor, culture, institutions, geography, AI, and scale fit together."
 )
 
+AMERICAN_THEME_MEMOS_LINK = (
+    "The memo layer translates the themes system into operator and investor decisions: where to hunt, what to avoid, what to do, and what to diligence."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -210,6 +214,11 @@ def main():
     <div class="meta">Capstone narrative</div>
     <h3><a href="american-economy-2025-2026.html">The US Economy in 2025-2026</a></h3>
     <p>{e(AMERICAN_CAPSTONE_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Applied layer</div>
+    <h3><a href="american-theme-memos.html">American Theme Memos</a></h3>
+    <p>{e(AMERICAN_THEME_MEMOS_LINK)}</p>
   </div>
 </section>
 
