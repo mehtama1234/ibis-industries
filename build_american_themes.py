@@ -2074,7 +2074,23 @@ def force_chip(force: dict, prefix: str = "") -> str:
 
 
 def theme_card(theme: dict) -> str:
+    sectors = []
+    companies = []
+    for subtheme in theme["subthemes"]:
+        for item in subtheme.get("industries", []):
+            sector = item.get("sector")
+            if sector and sector not in sectors:
+                sectors.append(sector)
+        for item in subtheme.get("companies", []):
+            title = item.get("title")
+            if title and title not in companies:
+                companies.append(title)
     force_links = "".join(force_chip(force) for force in theme["forces"])
+    sector_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in sectors[:4])
+    company_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in companies[:4])
+    signal_items = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
+    strategic_items = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"][:2])
+    capital_items = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"][:2])
     return f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="themes/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
@@ -2086,6 +2102,14 @@ def theme_card(theme: dict) -> str:
     <div class="stat"><div class="n">{theme['evidence_industry_count']}</div><div class="l">Evidence industries</div></div>
     <div class="stat"><div class="n">{theme['example_company_count']}</div><div class="l">Example companies</div></div>
   </div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{sector_chips}{company_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="qlist">{signal_items}</ul>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <ul class="qlist">{strategic_items}</ul>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <ul class="qlist">{capital_items}</ul>
   <div class="chips">{force_links}</div>
 </article>"""
 

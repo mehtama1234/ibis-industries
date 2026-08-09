@@ -275,6 +275,13 @@ def render_memo(record: dict, prefix: str = "") -> str:
     sector_mix = "".join(f"<li>{e(item['sector'])}: {item['count']} linked industries</li>" for item in record["sector_mix"])
     likely_losers = "".join(f"<li>{e(item)}</li>" for item in record["likely_losers"]) or "<li>No explicit loser set surfaced</li>"
     diligence = "".join(f"<li>{e(item)}</li>" for item in record["diligence_questions"])
+    signal_items = "".join(
+        f"<li>{e(item)}</li>" for item in (
+            [f"Dominant forces: {', '.join(force['title'] for force in record['dominant_forces'])}."]
+            + [f"Primary constraints: {', '.join(record['constraints'][:3])}."]
+            + [f"Linked theme pressure: {', '.join(theme['title'] for theme in record['related_themes'][:3])}."]
+        )
+    )
     theme_scorecard = "".join(
         f'<span class="chip">{e(slug.replace("-", " "))}: {score}</span>'
         for slug, score in sorted(record["theme_scorecard"].items(), key=lambda item: (-abs(item[1]), item[0]))[:5]
@@ -305,12 +312,16 @@ def render_memo(record: dict, prefix: str = "") -> str:
     <div class="meta">Theme scorecard</div>
     <div class="chips">{theme_scorecard}</div>
   </div>
+  <div class="panel">
+    <div class="meta">Signals</div>
+    <ul class="list">{signal_items}</ul>
+  </div>
   <div class="grid">
     {lens_sections}
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Diligence questions</div>
+      <div class="meta">What to underwrite</div>
       <ul class="list">{diligence}</ul>
     </div>
     <div class="panel">

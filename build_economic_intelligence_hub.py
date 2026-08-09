@@ -198,14 +198,20 @@ def build_synthesis_card(item):
     sector_chips = "".join(f'<span class="chip">{e(sector)}</span>' for sector in item["sectors"])
     company_chips = "".join(f'<span class="chip">{e(company)}</span>' for company in item["companies"])
     use_items = "".join(f"<li>{e(line)}</li>" for line in item["use_cases"])
+    signal_items = "".join(f"<li>{e(line)}</li>" for line in item["signals"])
+    underwrite_items = "".join(f"<li>{e(line)}</li>" for line in item["underwrite"])
     return f"""<article class="card">
   <div class="meta">{e(item['label'])}</div>
   <h3><a href="{e(item['href'])}">{e(item['title'])}</a></h3>
   <p>{e(item['body'])}</p>
   <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{sector_chips}{company_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="list">{signal_items}</ul>
   <div class="meta" style="margin-top:14px">What to do with it</div>
   <ul class="list">{use_items}</ul>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <ul class="list">{underwrite_items}</ul>
 </article>"""
 
 
@@ -254,6 +260,14 @@ def main():
                 "Use this when you need the macro read across societal, cultural, consumer, and industrial change.",
                 "Start here before drilling into sectors, themes, or named companies.",
             ],
+            "signals": [
+                "The same demand story keeps resolving differently across societal, cultural, consumer, and industrial lenses.",
+                "Recurring tensions, signals, and subtheme evidence appear across otherwise unrelated sectors.",
+            ],
+            "underwrite": [
+                "Which macro lens actually governs the market you are evaluating right now?",
+                "Whether the apparent growth story still survives labor, capital, compliance, or infrastructure constraints.",
+            ],
         },
         {
             "label": "Capstone narrative",
@@ -265,6 +279,14 @@ def main():
             "use_cases": [
                 "Use this when you want the full argument, not just a taxonomy or memo pack.",
                 "Best for connecting labor, culture, demand, geography, and industrial bottlenecks in one read.",
+            ],
+            "signals": [
+                "Labor scarcity, consumer bifurcation, AI buildout, and geographic unevenness are interacting rather than moving separately.",
+                "The durable winners are the operators that can convert demand into profit despite rising structural friction.",
+            ],
+            "underwrite": [
+                "Whether the operating model is built for a high-friction economy rather than a low-rate, low-complexity one.",
+                "Where margin, demand, and location logic reinforce each other instead of fighting each other.",
             ],
         },
         {
@@ -280,6 +302,14 @@ def main():
                 "Use this when you know the theme you care about and need operator and investor posture fast.",
                 "This is the best bridge between macro interpretation and actionable diligence questions.",
             ],
+            "signals": [
+                "Each major theme now carries explicit where-it-shows-up evidence, signals to watch, and second-order effects.",
+                "Theme-level pressures are legible enough to support operator posture and investor filtering.",
+            ],
+            "underwrite": [
+                "Which theme is structural versus cyclical in the industry you care about.",
+                "Whether the operator posture is aligned with the real tension inside the theme, not just the headline description.",
+            ],
         },
         {
             "label": "Sector layer",
@@ -292,6 +322,14 @@ def main():
                 "Use this when the question is which sectors express the broader American story most clearly.",
                 "Read this before comparing industry cases inside a sector.",
             ],
+            "signals": [
+                "The same macro forces cluster differently by sector, making some sectors clear expression vehicles for the broader story.",
+                "Sector-level advantage depends on how each domain absorbs labor, capital, and consumer pressure.",
+            ],
+            "underwrite": [
+                "Which sectors have real structural tailwinds versus sectors merely benefiting from temporary nominal growth.",
+                "Where the sector structure still leaves room for subscale winners and where scale is becoming mandatory.",
+            ],
         },
         {
             "label": "Company layer",
@@ -303,6 +341,14 @@ def main():
             "use_cases": [
                 "Use this when you need named evidence tied back to themes, forces, and break-risk questions.",
                 "Best for moving from sector logic into company-level judgment.",
+            ],
+            "signals": [
+                "Repeated company mentions now resolve into explicit structural reads rather than scattered name checks.",
+                "Company-level judgment gets stronger when sector logic, theme exposure, and break-risk all line up.",
+            ],
+            "underwrite": [
+                "What would actually break the current advantage of the named operator.",
+                "Whether the company is benefiting from structural fit or just riding a favorable moment in the cycle.",
             ],
         },
     ]
