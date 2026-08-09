@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 import json, html, re, os
+from collections import Counter
+
+from build_american_outlook import OUTLOOK
 ROOT=os.path.dirname(os.path.abspath(__file__))
 briefs=json.load(open(f'{ROOT}/briefs_full.json'))
 trends=json.load(open(f'{ROOT}/trends_full_raw.json'))
+american_themes=json.load(open(f'{ROOT}/american_themes_taxonomy.json'))
+economic_intelligence=json.load(open(f'{ROOT}/economic_intelligence_taxonomy.json'))
 
 SECTOR_ORDER=["Technology & Digital","Manufacturing","Healthcare","Finance & Insurance","Retail",
  "Food & Drink","Media & Entertainment","Energy & Environment","Agriculture","Construction",
@@ -58,10 +63,119 @@ for tr in trends['trends']:
 clean_trends.sort(key=lambda x:-len(x['slugs']))
 
 sectors_present=[s for s in SECTOR_ORDER if any(b['sector']==s for b in briefs)]
-DATA=json.dumps({"industries":briefs,"trends":clean_trends,"headline":trends.get('headline',''),
- "sectors":sectors_present,"sectorColor":SECTOR_COLOR}, ensure_ascii=False)
+theme_lookup={theme['slug']: theme for theme in american_themes['themes']}
+headline=(
+    "Across the full 1,491-industry corpus in 2025-2026, labor scarcity, demographic aging, "
+    "consumer bifurcation, AI buildout, compliance load, channel migration, and consolidation "
+    "keep repricing who captures demand, who gets squeezed, and which operators can actually turn "
+    "growth into durable economics."
+)
 
-PAGE = """<title>US Industry Briefs — 2025-2026 pilot</title>
+def unique_ordered(values):
+    seen=set(); out=[]
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value); out.append(value)
+    return out
+
+def collect_lens_evidence(linked_themes):
+    sector_counts=Counter()
+    companies=[]
+    subthemes=[]
+    operator_moves=[]
+    investor_moves=[]
+    for slug in linked_themes:
+        theme=theme_lookup[slug]
+        operator_moves.extend(theme.get('strategic_implications', []))
+        investor_moves.extend(theme.get('capital_implications', []))
+        for subtheme in theme.get('subthemes', []):
+            subthemes.append(subtheme['title'])
+            for industry in subtheme.get('industries', []):
+                if industry.get('sector'):
+                    sector_counts[industry['sector']] += 1
+            for company in subtheme.get('companies', []):
+                companies.append(company.get('title'))
+    return {
+        'sectors': [sector for sector, _ in sector_counts.most_common(4)],
+        'companies': unique_ordered(companies)[:4],
+        'subthemes': unique_ordered(subthemes)[:4],
+        'operator_moves': unique_ordered(operator_moves)[:2],
+        'investor_moves': unique_ordered(investor_moves)[:2],
+    }
+
+overview_cards=[
+    {
+        "label":"Master synthesis",
+        "title":"American Outlook 2025-2026",
+        "href":"american-outlook-2025-2026.html",
+        "body":"The cleanest top-level read on societal, cultural, consumer, and industrial change across the full corpus.",
+        "use_cases":[
+            "Start here for the four-lens read on America.",
+            "Use it before drilling into themes, sectors, or company evidence.",
+        ],
+    },
+    {
+        "label":"Capstone narrative",
+        "title":"The US Economy in 2025-2026",
+        "href":"american-economy-2025-2026.html",
+        "body":"The full end-to-end argument tying labor, demand, institutions, geography, AI, and physical buildout together.",
+        "use_cases":[
+            "Use this when you want the full narrative, not just the map.",
+            "Best for understanding how the major pressures fit together systemically.",
+        ],
+    },
+    {
+        "label":"Economic intelligence",
+        "title":"Economic Intelligence",
+        "href":"economic-intelligence.html",
+        "body":"The surfaced force map linking recurring pressures, domains, operator questions, and flagship synthesis artifacts.",
+        "use_cases":[
+            "Use this when you need the force system behind the industry corpus.",
+            "Best for moving from repeated industry patterns into operating logic.",
+        ],
+    },
+    {
+        "label":"Theme memos",
+        "title":"American Theme Memos",
+        "href":"american-theme-memos.html",
+        "body":"The decision layer translating the major themes into what to do, what to avoid, and what to underwrite.",
+        "use_cases":[
+            "Use this when you need strategic and capital implications fast.",
+            "Best bridge from macro interpretation to diligence and action.",
+        ],
+    },
+]
+
+lens_cards=[]
+for section in OUTLOOK["sections"]:
+    evidence=collect_lens_evidence(section["linked_themes"])
+    lens_cards.append({
+        "label":section["label"],
+        "title":section["title"],
+        "summary":section["summary"],
+        "href":f"american-outlook-2025-2026.html#{section['slug']}",
+        "themes":[theme_lookup[slug]["title"] for slug in section["linked_themes"]],
+        "subthemes":evidence["subthemes"],
+        "sectors":evidence["sectors"],
+        "companies":evidence["companies"],
+        "operator_moves":evidence["operator_moves"],
+        "investor_moves":evidence["investor_moves"],
+    })
+
+DATA=json.dumps({
+ "industries":briefs,
+ "trends":clean_trends,
+ "headline":headline,
+ "sectors":sectors_present,
+ "sectorColor":SECTOR_COLOR,
+ "workingThesis":economic_intelligence.get('working_thesis',''),
+ "crosscuts":[c['title'] for c in economic_intelligence.get('crosscuts', [])[:6]],
+ "overviewCards":overview_cards,
+ "lensCards":lens_cards,
+}, ensure_ascii=False)
+
+PAGE = """<title>US Industry Briefs — 2025-2026</title>
 <style>
 :root{
   --ink:#0e1218; --panel:#151b23; --panel2:#1b2531; --line:#27313f; --line2:#1e2733;
@@ -110,6 +224,24 @@ h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.025em;line-he
 .headline{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--brass);border-radius:0 12px 12px 0;padding:18px 22px;margin:22px 0}
 .headline .l{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--brass);margin-bottom:6px}
 .headline p{font-size:1.16rem;font-weight:500}
+.section{margin-top:26px;padding-top:14px;border-top:1px solid var(--line2)}
+.split{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr);gap:14px}
+.stack>*+*{margin-top:12px}
+.story{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px 20px}
+.story h3{font-size:1.15rem;margin:0 0 .35em}
+.story p{color:var(--muted)}
+.overview-grid,.lens-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.overview-card,.lens-card{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px}
+.eyeline{font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--brass)}
+.overview-card h3,.lens-card h3{font-size:1.08rem;margin:.22em 0 .35em}
+.overview-card p,.lens-card p{color:var(--muted)}
+.list{padding-left:18px;color:var(--muted);margin:.5em 0 0}
+.list li{margin:.32em 0}
+.railcard{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px}
+.railcard h3{font-size:1rem;margin:0 0 .4em}
+.railcard p{color:var(--muted)}
+.microchips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.microchip{font-family:var(--mono);font-size:.68rem;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 9px}
 .trend{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:19px 22px;margin:13px 0;border-left:3px solid var(--brass)}
 .trend .kind{font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--brass)}
 .trend .cnt{float:right;font-family:var(--mono);font-size:.72rem;color:var(--faint)}
@@ -164,36 +296,71 @@ details.src{margin-top:18px} details.src summary{font-family:var(--mono);font-si
 details.src ul{list-style:none;margin-top:8px} details.src li{font-size:.8rem;color:var(--muted);padding:2px 0}
 footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:var(--faint);font-family:var(--mono);font-size:.72rem;line-height:1.8}
 .hidden{display:none!important}
+@media(max-width:880px){.split{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 
 <div class="wrap">
  <header class="top">
-  <div class="eyebrow">Plain-English business intelligence &middot; US &middot; 2025&ndash;2026</div>
+ <div class="eyebrow">Plain-English business intelligence &middot; US &middot; 2025&ndash;2026</div>
   <h1>US Industry Briefs</h1>
-  <p class="lede">Every US industry distilled to one page: the <b>latest 2025&ndash;2026 data and dynamics</b> &mdash; how it makes money, what's disrupting it now, who wins, who's squeezed &mdash; researched live from the web, with the 2022 IBISWorld figure kept as a baseline. Now covering <b>this growing tranche of the 1,491-report library</b>, with each batch expanding the industry map and the cross-industry force synthesis.</p>
+  <p class="lede">The completed <b>1,491-industry US corpus</b>, refreshed to 2025&ndash;2026 and organized into a usable interpretation system: searchable industry briefs, cross-industry trends, force maps, American themes, sector/company evidence, and action-oriented synthesis.</p>
   <div class="strip" id="strip"></div>
  </header>
  <div class="tabs">
-  <button class="tab on" data-view="ind">Industries</button>
+  <button class="tab on" data-view="ov">Overview</button>
+  <button class="tab" data-view="ind">Industries</button>
   <button class="tab" data-view="tr">Cross-cutting trends</button>
   <a class="linktab" href="operators.html">Operator playbooks</a>
   <a class="linktab" href="forces/index.html">Forces</a>
   <a class="linktab" href="economic-intelligence.html">Economic intelligence</a>
  </div>
- <section id="view-ind">
+ <section id="view-ov">
+  <div class="headline"><div class="l">Working thesis across all 1,491</div><p id="working-thesis"></p></div>
+  <div class="section">
+   <h2>Start Here</h2>
+   <div class="overview-grid" id="overview-cards"></div>
+  </div>
+  <div class="section">
+   <h2>The Four Macro Lenses</h2>
+   <div class="lens-grid" id="lens-cards"></div>
+  </div>
+  <div class="section">
+   <div class="split">
+    <div class="stack">
+     <article class="story">
+      <div class="eyeline">Why this matters</div>
+      <h3>The corpus now has an interpretation layer</h3>
+      <p>The point is no longer just to browse industries one by one. The point is to read the American economy as a system, see which pressures repeat, and move from pattern recognition to decisions.</p>
+     </article>
+     <article class="story">
+      <div class="eyeline">What keeps repeating</div>
+      <h3>The same constraints are showing up everywhere</h3>
+      <p>Labor scarcity, demographic aging, consumer bifurcation, AI buildout, compliance load, channel migration, and consolidation keep reappearing across sectors because they are not isolated stories. They are the operating conditions of the 2025&ndash;2026 economy.</p>
+     </article>
+    </div>
+    <aside class="railcard">
+     <div class="eyeline">Crosscuts</div>
+     <h3>Repeat pressures</h3>
+     <p>These are the recurring forces cutting across the corpus and linking industry detail back to the macro read.</p>
+     <div class="microchips" id="crosscuts"></div>
+    </aside>
+   </div>
+  </div>
+ </section>
+ <section id="view-ind" class="hidden">
   <div class="controls">
    <input id="q" type="text" placeholder="Search industries, sectors, or forces&hellip;" autocomplete="off">
    <div class="chips" id="filters"></div>
   </div>
   <div id="results"></div>
-  <p class="nores hidden" id="nores">No industries match.</p>
+ <p class="nores hidden" id="nores">No industries match.</p>
  </section>
  <section id="view-tr" class="hidden">
-  <div class="headline"><div class="l">The through-line across all 25, right now</div><p id="headline"></p></div>
+  <div class="headline"><div class="l">The through-line across all 1,491, right now</div><p id="headline"></p></div>
   <div id="trends"></div>
  </section>
-<footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2024&ndash;2026 web research. Each brief, operator playbook, and force synthesis is generated from the current researched corpus and grows toward the 1,491-report library. Figures carry their year; verify before relying on them.</footer>
+<footer>Source: 2022 IBISWorld reports as baseline, refreshed with live 2025&ndash;2026 web research. This landing surface now sits on top of the completed 1,491-industry corpus and its synthesis layers. Figures carry their year; verify before relying on them.</footer>
 </div>
 <div class="scrim" id="scrim"></div>
 <aside class="panel" id="panel" aria-label="Industry detail"><div class="inner" id="pinner"></div></aside>
@@ -206,8 +373,33 @@ const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;',
 const gcls=g=>String(g||'').replace(/^[~]/,'').trim().startsWith('-')?'down':'up';
 document.getElementById('strip').innerHTML=[
  [D.industries.length,'Industries'],[D.sectors.length,'Sectors'],
- [D.trends.length,'Current trends'],['1,491','Full library']
+ [D.trends.length,'Current trends'],[D.lensCards.length,'Macro lenses']
 ].map(([n,l])=>`<div class="kpi"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
+document.getElementById('working-thesis').textContent=D.workingThesis;
+document.getElementById('crosscuts').innerHTML=D.crosscuts.map(item=>`<span class="microchip">${esc(item)}</span>`).join('');
+document.getElementById('overview-cards').innerHTML=D.overviewCards.map(card=>`
+ <article class="overview-card">
+  <div class="eyeline">${esc(card.label)}</div>
+  <h3><a href="${esc(card.href)}">${esc(card.title)}</a></h3>
+  <p>${esc(card.body)}</p>
+  <ul class="list">${card.use_cases.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+ </article>`).join('');
+document.getElementById('lens-cards').innerHTML=D.lensCards.map(card=>`
+ <article class="lens-card">
+  <div class="eyeline">${esc(card.label)} lens</div>
+  <h3><a href="${esc(card.href)}">${esc(card.title)}</a></h3>
+  <p>${esc(card.summary)}</p>
+  <div class="eyeline" style="margin-top:14px">Themes</div>
+  <div class="microchips">${card.themes.map(item=>`<span class="microchip">${esc(item)}</span>`).join('')}</div>
+  <div class="eyeline" style="margin-top:14px">Subthemes</div>
+  <div class="microchips">${card.subthemes.map(item=>`<span class="microchip">${esc(item)}</span>`).join('')}</div>
+  <div class="eyeline" style="margin-top:14px">Where it shows up</div>
+  <div class="microchips">${card.sectors.concat(card.companies).map(item=>`<span class="microchip">${esc(item)}</span>`).join('')}</div>
+  <div class="eyeline" style="margin-top:14px">What to do</div>
+  <ul class="list">${card.operator_moves.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">What to underwrite</div>
+  <ul class="list">${card.investor_moves.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
+ </article>`).join('');
 const filters=document.getElementById('filters');
 filters.innerHTML=`<span class="chip on" data-f="all">All</span>`+D.sectors.map(s=>
  `<span class="chip" data-f="${esc(s)}"><span class="cdot" style="background:${SC[s]}"></span>${esc(s)}</span>`).join('');
@@ -286,6 +478,7 @@ document.getElementById('trends').addEventListener('click',e=>{const h=e.target.
 document.querySelector('.tabs').addEventListener('click',e=>{const t=e.target.closest('.tab');if(!t)return;
  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));t.classList.add('on');
  const v=t.dataset.view;
+ document.getElementById('view-ov').classList.toggle('hidden',v!=='ov');
  document.getElementById('view-ind').classList.toggle('hidden',v!=='ind');
  document.getElementById('view-tr').classList.toggle('hidden',v!=='tr');});
 renderResults('','all');
