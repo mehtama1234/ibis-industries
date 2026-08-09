@@ -343,6 +343,22 @@ def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -
     <div class="meta">Counterforces</div>
     <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['counterforces'][:2])}</ul>
   </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Behavioral expression</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['behavioral_expression'][:3])}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Economic mechanics</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['economic_mechanics'][:3])}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Timing markers</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['timing_markers'][:2])}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Execution hazards</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['execution_hazards'][:2])}</ul>
+  </div>
 </article>"""
 
 
@@ -356,6 +372,10 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
     second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
+    societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
+    consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
+    industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
+    capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
     force_chips = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
@@ -411,6 +431,26 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     <div class="panel">
       <div class="meta">Stakeholder map</div>
       <ul class="list">{stakeholder_map}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Societal read</div>
+      <ul class="list">{societal_read}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Consumer read</div>
+      <ul class="list">{consumer_read}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Industrial read</div>
+      <ul class="list">{industrial_read}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Capital implications</div>
+      <ul class="list">{capital_implications}</ul>
     </div>
   </div>
   <div class="panel" style="margin-top:14px">

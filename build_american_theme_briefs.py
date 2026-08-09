@@ -296,6 +296,10 @@ def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str
     signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:3])
     rewrite_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["market_rewrites"][:2])
     follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"][:2])
+    behavioral_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["behavioral_expression"][:3])
+    economic_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["economic_mechanics"][:3])
+    timing_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["timing_markers"][:2])
+    hazard_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["execution_hazards"][:2])
     href = f'{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}'
     return f"""<article class="subcard">
   <div class="meta">Subtheme</div>
@@ -318,6 +322,22 @@ def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str
     <div class="meta">Follow-on effects</div>
     <ul class="list">{follow_on_items}</ul>
   </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Behavioral expression</div>
+    <ul class="list">{behavioral_items}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Economic mechanics</div>
+    <ul class="list">{economic_items}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Timing markers</div>
+    <ul class="list">{timing_items}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Execution hazards</div>
+    <ul class="list">{hazard_items}</ul>
+  </div>
 </article>"""
 
 
@@ -330,6 +350,10 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
     implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
     second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
+    societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
+    consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
+    industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
+    capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
     watchpoints = "".join(f"<li>{e(item)}</li>" for item in theme["watchpoints"])
     theme_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     subtheme_links = "".join(
@@ -390,6 +414,26 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
     <div class="panel">
       <div class="meta">Second-order effects</div>
       <ul class="list">{second_order_effects}</ul>
+    </div>
+  </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
+      <div class="meta">Societal read</div>
+      <ul class="list">{societal_read}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Consumer read</div>
+      <ul class="list">{consumer_read}</ul>
+    </div>
+  </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
+      <div class="meta">Industrial read</div>
+      <ul class="list">{industrial_read}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Capital implications</div>
+      <ul class="list">{capital_implications}</ul>
     </div>
   </div>
   <div class="panel" style="margin-top:14px">
