@@ -26,6 +26,11 @@ TRANSLATION_LINK = (
     "margin logic, demand logic, binding constraints, advantaged owner types, and concrete moves."
 )
 
+BUSINESS_LENSES_LINK = (
+    "The business-lens layer applies the force map to concrete archetypes: local service platforms, specified manufacturers, "
+    "reimbursement-managed care operators, regulated workflow infrastructure, distributors, and other recurring business types."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -155,10 +160,17 @@ def main():
 
 <section class="section">
   <h2>Decision Layer</h2>
+  <div class="grid">
   <div class="card">
     <div class="meta">Force to operator</div>
     <h3><a href="force-operator-translations.html">Force-to-Operator Translations</a></h3>
     <p>{e(TRANSLATION_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Business archetypes</div>
+    <h3><a href="business-lenses.html">Business Lenses</a></h3>
+    <p>{e(BUSINESS_LENSES_LINK)}</p>
+  </div>
   </div>
 </section>
 

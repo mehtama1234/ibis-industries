@@ -1,0 +1,665 @@
+[
+  {
+    "slug": "local-services-platform",
+    "title": "Local Services Platform",
+    "playbook_slug": "local-services-rollup",
+    "playbook_title": "The Local Services Rollup",
+    "core_offer": "Multi-site neighborhood services with centralized scheduling, marketing, pricing, and labor systems.",
+    "economic_role": "service operator",
+    "primary_customer": "Households and small local commercial buyers",
+    "value_chain_position": "Last-mile local service delivery with centralized demand capture and operations",
+    "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "primary_industry_slug": "hair-and-nail-salons-in-the-us",
+    "adjacent_industry_slugs": [
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises"
+    ],
+    "sectors": [
+      "Consumer Services",
+      "Business Services"
+    ],
+    "themes": [
+      "Fragmented local competition",
+      "Aging housing stock",
+      "fragmented local competition",
+      "premiumization of color and nail services",
+      "salon suites and independent professionals"
+    ],
+    "primary_force_slugs": [
+      "the-labor-squeeze",
+      "the-fractional-worker",
+      "the-hollow-middle"
+    ],
+    "secondary_force_slugs": [
+      "the-channel-shift",
+      "the-great-consolidation",
+      "the-margin-vise"
+    ],
+    "demand_type": "non-discretionary + convenience-driven",
+    "binding_constraints": [
+      "labor",
+      "pricing power",
+      "utilization"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_this_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "franchise operator"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-fractional-worker",
+        "title": "The Fractional Worker",
+        "demand_logic": "Firms are buying narrower slices of expertise and execution, creating demand for fractional leadership, expert networks, recruiters, and project-based support.",
+        "margin_logic": "Margins improve for trusted matching layers, specialist networks, and high-signal experts; generic labor providers face commoditization."
+      },
+      {
+        "slug": "the-hollow-middle",
+        "title": "The Hollow Middle",
+        "demand_logic": "Consumers split between value and premium, leaving undifferentiated mid-market formats without a clear reason to win.",
+        "margin_logic": "Margins hold at the ends of the barbell; the middle competes on discounting, promotional intensity, and fading relevance."
+      },
+      {
+        "slug": "the-channel-shift",
+        "title": "The Channel Shift",
+        "demand_logic": "Demand is increasingly discovered, compared, and fulfilled through platforms, marketplaces, omnichannel systems, or experience-led physical venues.",
+        "margin_logic": "Platform owners and omnichannel scale players capture economics; single-channel physical sellers lose traffic and gross margin."
+      },
+      {
+        "slug": "the-great-consolidation",
+        "title": "The Great Consolidation",
+        "demand_logic": "Demand is stable enough, but the winning structure is scale: buyers and operators that can centralize finance, labor, compliance, and distribution absorb the fragmented tail.",
+        "margin_logic": "Platform economics improve through shared overhead and purchasing power; independent operators lose margin as complexity rises."
+      },
+      {
+        "slug": "the-margin-vise",
+        "title": "The Margin Vise",
+        "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
+        "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
+      }
+    ]
+  },
+  {
+    "slug": "specified-product-manufacturer",
+    "title": "Specified Product Manufacturer",
+    "playbook_slug": "specialty-manufacturer",
+    "playbook_title": "The Specialty Manufacturer",
+    "core_offer": "Narrow industrial products that sit inside technical, regulated, or specified procurement flows.",
+    "economic_role": "manufacturer",
+    "primary_customer": "Contractors, labs, OEMs, distributors, and institutional buyers",
+    "value_chain_position": "Upstream product supplier inside specified and replacement-driven demand chains",
+    "business_truth": "This is a manufacturer business that wins when small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "primary_industry_slug": "laboratory-casework-manufacturing",
+    "adjacent_industry_slugs": [
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing"
+    ],
+    "sectors": [
+      "Manufacturing"
+    ],
+    "themes": [
+      "Import competition",
+      "Lab construction normalization",
+      "R&D funding sensitivity",
+      "Healthcare and biopharma demand",
+      "University and government labs"
+    ],
+    "primary_force_slugs": [
+      "the-labor-squeeze",
+      "the-compute-super-cycle",
+      "atoms-strike-back"
+    ],
+    "secondary_force_slugs": [],
+    "demand_type": "mission-critical / non-discretionary",
+    "binding_constraints": [
+      "labor",
+      "capital / rates",
+      "utilization"
+    ],
+    "best_owner_type": "specialist/niche expert",
+    "why_this_owner_type": "The business works when product know-how, specification status, and operational discipline matter more than broad brand marketing.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-compute-super-cycle",
+        "title": "The Compute Super-Cycle",
+        "demand_logic": "AI creates direct demand for compute, storage, hosting, power, cooling, and supporting industrial trades and materials.",
+        "margin_logic": "Ownership of scarce infrastructure and enabling trades improves economics; businesses downstream of power scarcity face rising costs and delays."
+      },
+      {
+        "slug": "atoms-strike-back",
+        "title": "Atoms Strike Back",
+        "demand_logic": "Demand follows physical security, domestic production mandates, reshoring, and tariff-induced supply-chain rewiring rather than pure end-market growth.",
+        "margin_logic": "Margins improve for domestic suppliers with specification, proximity, or procurement leverage; they compress for import-reliant sellers and downstream price takers."
+      }
+    ]
+  },
+  {
+    "slug": "reimbursement-managed-care-operator",
+    "title": "Reimbursement-Managed Care Operator",
+    "playbook_slug": "health-services-operator",
+    "playbook_title": "The Health Services Operator",
+    "core_offer": "Clinical or quasi-clinical services where reimbursement, staffing, compliance, and referral flow determine the economics.",
+    "economic_role": "service operator",
+    "primary_customer": "Patients, payers, referral sources, and care coordinators",
+    "value_chain_position": "Direct care delivery inside payer and referral systems",
+    "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+    "primary_industry_slug": "elderly-and-disabled-services-in-the-us",
+    "adjacent_industry_slugs": [
+      "eating-disorder-clinics",
+      "dna-and-dna-forensic-laboratories",
+      "laboratory-testing-services-in-the-us",
+      "hearing-aid-clinics"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Business Services"
+    ],
+    "themes": [
+      "Aging population",
+      "Aging in place",
+      "Private-pay affordability",
+      "Medicaid HCBS",
+      "Direct care workforce shortage"
+    ],
+    "primary_force_slugs": [
+      "the-graying-market",
+      "the-great-consolidation",
+      "the-compliance-tax"
+    ],
+    "secondary_force_slugs": [
+      "the-pricing-power-collapse"
+    ],
+    "demand_type": "reimbursement-driven",
+    "binding_constraints": [
+      "labor",
+      "compliance / regulation",
+      "reimbursement"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_this_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "specialist/niche expert"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-graying-market",
+        "title": "The Graying Market",
+        "demand_logic": "Demographic aging creates steady demand in care delivery, chronic disease, senior living, home support, and longevity finance.",
+        "margin_logic": "Demand is durable, but labor scarcity and reimbursement rules decide whether that demand becomes attractive economics."
+      },
+      {
+        "slug": "the-great-consolidation",
+        "title": "The Great Consolidation",
+        "demand_logic": "Demand is stable enough, but the winning structure is scale: buyers and operators that can centralize finance, labor, compliance, and distribution absorb the fragmented tail.",
+        "margin_logic": "Platform economics improve through shared overhead and purchasing power; independent operators lose margin as complexity rises."
+      },
+      {
+        "slug": "the-compliance-tax",
+        "title": "The Compliance Tax",
+        "demand_logic": "Demand is created by mandatory workflows: reporting, documentation, testing, claims, privacy, security, and regulated admin tasks that customers cannot fully defer.",
+        "margin_logic": "Margins improve when compliance work is software-enabled, recurring, and embedded; they erode when delivery stays manual and bespoke."
+      },
+      {
+        "slug": "the-pricing-power-collapse",
+        "title": "The Pricing-Power Collapse",
+        "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
+        "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
+      }
+    ]
+  },
+  {
+    "slug": "utilization-managed-experience-venue",
+    "title": "Utilization-Managed Experience Venue",
+    "playbook_slug": "experiential-venue",
+    "playbook_title": "The Experiential Venue",
+    "core_offer": "A venue where the experience itself is the product and economics depend on utilization, group bookings, and local scarcity.",
+    "economic_role": "service operator",
+    "primary_customer": "Consumers, families, corporate groups, and event buyers",
+    "value_chain_position": "Consumer-facing destination format combining space, programming, and optional food/drink",
+    "business_truth": "This is a service operator business that wins when experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+    "primary_industry_slug": "arcade-food-and-entertainment-complexes-in-the-us",
+    "adjacent_industry_slugs": [
+      "dance-studios",
+      "karaoke-bars",
+      "golf-driving-ranges-and-family-fun-centers-in-the-us",
+      "indoor-climbing-walls"
+    ],
+    "sectors": [
+      "Consumer Services",
+      "Media & Entertainment",
+      "Food & Drink"
+    ],
+    "themes": [
+      "Fragmented local competition",
+      "Experiential leisure",
+      "Eatertainment",
+      "Family entertainment centers",
+      "Adult arcade bars"
+    ],
+    "primary_force_slugs": [
+      "the-health-reckoning",
+      "the-hollow-middle",
+      "the-channel-shift"
+    ],
+    "secondary_force_slugs": [
+      "the-real-estate-reckoning"
+    ],
+    "demand_type": "premium/status-driven + experience-driven",
+    "binding_constraints": [
+      "channel access",
+      "consumer preference-driven demand",
+      "utilization"
+    ],
+    "best_owner_type": "franchise operator",
+    "why_this_owner_type": "The business wins when a repeatable concept, utilization discipline, and local operating playbook can be scaled without losing venue quality.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-health-reckoning",
+        "title": "The Health Reckoning",
+        "demand_logic": "Demand shifts from pure indulgence toward health-aligned, lower-calorie, sober-curious, convenient, and functional consumption patterns.",
+        "margin_logic": "Premium or health-aligned products can hold margin; legacy vice or sugary volume stories face shrinkage and discounting pressure."
+      },
+      {
+        "slug": "the-hollow-middle",
+        "title": "The Hollow Middle",
+        "demand_logic": "Consumers split between value and premium, leaving undifferentiated mid-market formats without a clear reason to win.",
+        "margin_logic": "Margins hold at the ends of the barbell; the middle competes on discounting, promotional intensity, and fading relevance."
+      },
+      {
+        "slug": "the-channel-shift",
+        "title": "The Channel Shift",
+        "demand_logic": "Demand is increasingly discovered, compared, and fulfilled through platforms, marketplaces, omnichannel systems, or experience-led physical venues.",
+        "margin_logic": "Platform owners and omnichannel scale players capture economics; single-channel physical sellers lose traffic and gross margin."
+      },
+      {
+        "slug": "the-real-estate-reckoning",
+        "title": "The Real-Estate Reckoning",
+        "demand_logic": "Demand is rotating away from weak office formats toward logistics, data-linked assets, adaptive reuse, land, and selective housing formats.",
+        "margin_logic": "Owners on the right side of utilization and asset repositioning can capture upside; static owners and rate-sensitive landlords get squeezed."
+      }
+    ]
+  },
+  {
+    "slug": "niche-food-brand-producer",
+    "title": "Niche Food Brand Producer",
+    "playbook_slug": "food-production-niche",
+    "playbook_title": "The Food Production Niche",
+    "core_offer": "A focused food or beverage producer balancing taste, health, premium positioning, and channel power.",
+    "economic_role": "manufacturer",
+    "primary_customer": "Retailers, wholesalers, foodservice buyers, and consumers via branded channels",
+    "value_chain_position": "Branded or niche producer upstream of retail and distribution intermediaries",
+    "business_truth": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+    "primary_industry_slug": "cocoa-and-drinking-chocolate-production",
+    "adjacent_industry_slugs": [
+      "coffee-creamer-production",
+      "kombucha-production-in-the-us",
+      "hot-sauce-production",
+      "bbq-sauce-production"
+    ],
+    "sectors": [
+      "Food & Drink",
+      "Manufacturing",
+      "Agriculture"
+    ],
+    "themes": [
+      "Premiumization",
+      "Flavor innovation",
+      "Fluid milk decline",
+      "Cold-chain logistics",
+      "Cocoa price volatility"
+    ],
+    "primary_force_slugs": [
+      "the-health-reckoning",
+      "the-hollow-middle",
+      "the-margin-vise"
+    ],
+    "secondary_force_slugs": [],
+    "demand_type": "consumer preference-driven",
+    "binding_constraints": [
+      "consumer preference-driven demand",
+      "procurement / inputs",
+      "channel access"
+    ],
+    "best_owner_type": "specialist/niche expert",
+    "why_this_owner_type": "This works when brand, formulation, and mix discipline matter enough to offset retailer leverage and volatile inputs.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "franchise operator"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-health-reckoning",
+        "title": "The Health Reckoning",
+        "demand_logic": "Demand shifts from pure indulgence toward health-aligned, lower-calorie, sober-curious, convenient, and functional consumption patterns.",
+        "margin_logic": "Premium or health-aligned products can hold margin; legacy vice or sugary volume stories face shrinkage and discounting pressure."
+      },
+      {
+        "slug": "the-hollow-middle",
+        "title": "The Hollow Middle",
+        "demand_logic": "Consumers split between value and premium, leaving undifferentiated mid-market formats without a clear reason to win.",
+        "margin_logic": "Margins hold at the ends of the barbell; the middle competes on discounting, promotional intensity, and fading relevance."
+      },
+      {
+        "slug": "the-margin-vise",
+        "title": "The Margin Vise",
+        "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
+        "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
+      }
+    ]
+  },
+  {
+    "slug": "regulated-workflow-infrastructure",
+    "title": "Regulated Workflow Infrastructure",
+    "playbook_slug": "regulated-admin-stack",
+    "playbook_title": "The Regulated Admin Stack",
+    "core_offer": "Software or service layers that convert mandatory administrative complexity into recurring revenue.",
+    "economic_role": "claims/admin/compliance layer",
+    "primary_customer": "Insurers, employers, healthcare operators, regulated enterprises, and public-sector buyers",
+    "value_chain_position": "Workflow, identity, testing, and claims infrastructure inside mandatory systems",
+    "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+    "primary_industry_slug": "insurance-claims-processing-software",
+    "adjacent_industry_slugs": [
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services"
+    ],
+    "sectors": [
+      "Technology & Digital",
+      "Business Services",
+      "Finance & Insurance"
+    ],
+    "themes": [
+      "Cloud migration",
+      "AI claims guidance",
+      "FNOL automation",
+      "Fraud detection",
+      "Adjuster productivity"
+    ],
+    "primary_force_slugs": [
+      "the-fractional-worker",
+      "the-compute-super-cycle",
+      "money-gets-unbundled"
+    ],
+    "secondary_force_slugs": [
+      "the-compliance-tax",
+      "the-pricing-power-collapse"
+    ],
+    "demand_type": "policy-driven + mission-critical / non-discretionary",
+    "binding_constraints": [
+      "labor",
+      "compliance / regulation",
+      "customer acquisition cost"
+    ],
+    "best_owner_type": "software-led consolidator",
+    "why_this_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-fractional-worker",
+        "title": "The Fractional Worker",
+        "demand_logic": "Firms are buying narrower slices of expertise and execution, creating demand for fractional leadership, expert networks, recruiters, and project-based support.",
+        "margin_logic": "Margins improve for trusted matching layers, specialist networks, and high-signal experts; generic labor providers face commoditization."
+      },
+      {
+        "slug": "the-compute-super-cycle",
+        "title": "The Compute Super-Cycle",
+        "demand_logic": "AI creates direct demand for compute, storage, hosting, power, cooling, and supporting industrial trades and materials.",
+        "margin_logic": "Ownership of scarce infrastructure and enabling trades improves economics; businesses downstream of power scarcity face rising costs and delays."
+      },
+      {
+        "slug": "money-gets-unbundled",
+        "title": "Money Gets Unbundled",
+        "demand_logic": "Financial services demand is moving from branch-centric institutions toward rails, embedded workflows, platforms, and data-rich intermediaries.",
+        "margin_logic": "Scale, data, and recurring transaction flow preserve economics; undifferentiated middlemen and smaller institutions lose spread and relevance."
+      },
+      {
+        "slug": "the-compliance-tax",
+        "title": "The Compliance Tax",
+        "demand_logic": "Demand is created by mandatory workflows: reporting, documentation, testing, claims, privacy, security, and regulated admin tasks that customers cannot fully defer.",
+        "margin_logic": "Margins improve when compliance work is software-enabled, recurring, and embedded; they erode when delivery stays manual and bespoke."
+      },
+      {
+        "slug": "the-pricing-power-collapse",
+        "title": "The Pricing-Power Collapse",
+        "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
+        "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
+      }
+    ]
+  },
+  {
+    "slug": "inventory-and-credit-distributor",
+    "title": "Inventory and Credit Distributor",
+    "playbook_slug": "distribution-middleman",
+    "playbook_title": "The Distribution Middleman",
+    "core_offer": "A distributor that survives because it provides inventory availability, technical know-how, credit, and local fulfillment speed.",
+    "economic_role": "distributor",
+    "primary_customer": "Contractors, institutions, retailers, and small operators who need availability and working-capital relief",
+    "value_chain_position": "Middle layer between producers and fragmented end buyers",
+    "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+    "primary_industry_slug": "electrical-equipment-wholesaling-in-the-us",
+    "adjacent_industry_slugs": [
+      "coal-and-ore-wholesaling-in-the-us",
+      "dairy-wholesaling-in-the-us",
+      "egg-and-poultry-wholesaling-in-the-us",
+      "janitorial-equipment-supply-wholesaling-in-the-us"
+    ],
+    "sectors": [
+      "Business Services",
+      "Food & Drink",
+      "Retail"
+    ],
+    "themes": [
+      "Distributor consolidation",
+      "Cold-chain logistics",
+      "Electrification",
+      "Data centers and AI infrastructure",
+      "Grid modernization"
+    ],
+    "primary_force_slugs": [
+      "the-channel-shift",
+      "the-compute-super-cycle",
+      "money-gets-unbundled"
+    ],
+    "secondary_force_slugs": [
+      "atoms-strike-back",
+      "the-great-consolidation",
+      "the-margin-vise"
+    ],
+    "demand_type": "mission-critical / non-discretionary",
+    "binding_constraints": [
+      "capital / rates",
+      "channel access",
+      "labor"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_this_owner_type": "Scale matters because working capital, procurement, and service reliability make the middleman hard to remove.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-channel-shift",
+        "title": "The Channel Shift",
+        "demand_logic": "Demand is increasingly discovered, compared, and fulfilled through platforms, marketplaces, omnichannel systems, or experience-led physical venues.",
+        "margin_logic": "Platform owners and omnichannel scale players capture economics; single-channel physical sellers lose traffic and gross margin."
+      },
+      {
+        "slug": "the-compute-super-cycle",
+        "title": "The Compute Super-Cycle",
+        "demand_logic": "AI creates direct demand for compute, storage, hosting, power, cooling, and supporting industrial trades and materials.",
+        "margin_logic": "Ownership of scarce infrastructure and enabling trades improves economics; businesses downstream of power scarcity face rising costs and delays."
+      },
+      {
+        "slug": "money-gets-unbundled",
+        "title": "Money Gets Unbundled",
+        "demand_logic": "Financial services demand is moving from branch-centric institutions toward rails, embedded workflows, platforms, and data-rich intermediaries.",
+        "margin_logic": "Scale, data, and recurring transaction flow preserve economics; undifferentiated middlemen and smaller institutions lose spread and relevance."
+      },
+      {
+        "slug": "atoms-strike-back",
+        "title": "Atoms Strike Back",
+        "demand_logic": "Demand follows physical security, domestic production mandates, reshoring, and tariff-induced supply-chain rewiring rather than pure end-market growth.",
+        "margin_logic": "Margins improve for domestic suppliers with specification, proximity, or procurement leverage; they compress for import-reliant sellers and downstream price takers."
+      },
+      {
+        "slug": "the-great-consolidation",
+        "title": "The Great Consolidation",
+        "demand_logic": "Demand is stable enough, but the winning structure is scale: buyers and operators that can centralize finance, labor, compliance, and distribution absorb the fragmented tail.",
+        "margin_logic": "Platform economics improve through shared overhead and purchasing power; independent operators lose margin as complexity rises."
+      },
+      {
+        "slug": "the-margin-vise",
+        "title": "The Margin Vise",
+        "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
+        "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
+      }
+    ]
+  },
+  {
+    "slug": "care-and-family-demand-platform",
+    "title": "Care and Family Demand Platform",
+    "playbook_slug": "care-and-family-infrastructure",
+    "playbook_title": "Care & Family Infrastructure",
+    "core_offer": "Services tied to aging, caregiving, child development, family support, and health-complexity spillover.",
+    "economic_role": "service operator",
+    "primary_customer": "Families, seniors, caregivers, payers, and public/private support systems",
+    "value_chain_position": "Direct support layer sitting between households and institutional care systems",
+    "business_truth": "This is a service operator business that wins when aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "primary_industry_slug": "elderly-and-disabled-services-in-the-us",
+    "adjacent_industry_slugs": [
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Consumer Services",
+      "Finance & Insurance"
+    ],
+    "themes": [
+      "Aging population",
+      "Aging in place",
+      "Private-pay affordability",
+      "Franchise consolidation",
+      "Workforce shortages"
+    ],
+    "primary_force_slugs": [
+      "the-graying-market",
+      "the-labor-squeeze",
+      "the-real-estate-reckoning"
+    ],
+    "secondary_force_slugs": [
+      "the-pricing-power-collapse"
+    ],
+    "demand_type": "demographic",
+    "binding_constraints": [
+      "labor",
+      "reimbursement",
+      "compliance / regulation"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_this_owner_type": "Demographic demand is durable, but staffing, regulation, and service coordination favor scaled operators with strong labor systems.",
+    "advantaged_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "specialist/niche expert"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-graying-market",
+        "title": "The Graying Market",
+        "demand_logic": "Demographic aging creates steady demand in care delivery, chronic disease, senior living, home support, and longevity finance.",
+        "margin_logic": "Demand is durable, but labor scarcity and reimbursement rules decide whether that demand becomes attractive economics."
+      },
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-real-estate-reckoning",
+        "title": "The Real-Estate Reckoning",
+        "demand_logic": "Demand is rotating away from weak office formats toward logistics, data-linked assets, adaptive reuse, land, and selective housing formats.",
+        "margin_logic": "Owners on the right side of utilization and asset repositioning can capture upside; static owners and rate-sensitive landlords get squeezed."
+      },
+      {
+        "slug": "the-pricing-power-collapse",
+        "title": "The Pricing-Power Collapse",
+        "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
+        "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
+      }
+    ]
+  }
+]
