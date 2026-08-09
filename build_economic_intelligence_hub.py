@@ -44,6 +44,10 @@ AMERICAN_THEMES_LINK = (
     "The American themes layer turns the force map into a broader read on societal, cultural, consumer, industrial, and institutional change, with detailed subthemes and second-order patterns."
 )
 
+AMERICAN_THEME_BRIEFS_LINK = (
+    "The theme briefs layer adds the long-form interpretation: what each major theme actually means, what tensions define it, and what signals matter next."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -192,6 +196,11 @@ def main():
     <div class="meta">Interpretation layer</div>
     <h3><a href="american-themes.html">American Themes</a></h3>
     <p>{e(AMERICAN_THEMES_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Narrative layer</div>
+    <h3><a href="american-theme-briefs.html">American Theme Briefs</a></h3>
+    <p>{e(AMERICAN_THEME_BRIEFS_LINK)}</p>
   </div>
 </section>
 

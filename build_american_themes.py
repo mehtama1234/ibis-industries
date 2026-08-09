@@ -1567,6 +1567,14 @@ def build_main_page(theme_records: list[dict]) -> str:
   <div class="grid">{cards}</div>
 </section>
 
+<section class="section">
+  <div class="card">
+    <div class="meta">Narrative layer</div>
+    <h3><a href="american-theme-briefs.html">American Theme Briefs</a></h3>
+    <p>This is the written synthesis layer above the taxonomy: a long-form read on what each theme means, what tensions define it, and what signals matter next.</p>
+  </div>
+</section>
+
 </div></body></html>"""
 
 
@@ -1605,7 +1613,7 @@ def build_theme_page(theme: dict) -> str:
             )
         operator_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["operator_implications"])
         subtheme_blocks.append(
-            f"""<section class="subtheme">
+            f"""<section class="subtheme" id="{e(subtheme['slug'])}">
   <div class="meta">{e(theme['title'])}</div>
   <h3>{e(subtheme['title'])}</h3>
   <p>{e(subtheme['summary'])}</p>
