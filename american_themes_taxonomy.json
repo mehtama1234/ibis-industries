@@ -95,7 +95,7 @@
           "signals_to_watch": [
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
             "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Discount Department Stores and Warehouse Clubs & Supercenters in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -200,7 +200,7 @@
             {
               "slug": "walmart",
               "title": "Walmart",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -273,7 +273,7 @@
           "signals_to_watch": [
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
             "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
-            "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Jewelry Stores in the US and Wineries in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -372,7 +372,7 @@
             {
               "slug": "ulta-beauty",
               "title": "Ulta Beauty",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Local Services Platform",
               "top_themes": [
                 "E-commerce cannibalization",
@@ -445,7 +445,7 @@
           "signals_to_watch": [
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
             "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
-            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Department Stores in the US and Women's Clothing Stores in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -564,7 +564,7 @@
             {
               "slug": "target",
               "title": "Target",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -588,7 +588,7 @@
             {
               "slug": "gamestop",
               "title": "GameStop",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "e-commerce-displacement",
@@ -821,7 +821,7 @@
           "signals_to_watch": [
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
             "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
-            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Health Stores in the US and Department Stores in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -920,7 +920,7 @@
             {
               "slug": "walmart",
               "title": "Walmart",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -932,7 +932,7 @@
             {
               "slug": "target",
               "title": "Target",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -944,7 +944,7 @@
             {
               "slug": "ulta-beauty",
               "title": "Ulta Beauty",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Local Services Platform",
               "top_themes": [
                 "E-commerce cannibalization",
@@ -1000,6 +1000,12 @@
         "Premium Refuges Still Hold Price shows the social expression of the theme because some categories still support premium spend, but only where status, trust, aesthetics, or specialized quality remain legible to the buyer.",
         "The social footprint is already visible across retail, food & drink, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Barbelled Consumer America is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Value Machines Win the Weekly Basket matters culturally because bulk purchasing as household insurance is turning from a fringe behavior into an intelligible mainstream script.",
+        "Premium Refuges Still Hold Price matters culturally because premium as self-permission rather than simple indulgence is turning from a fringe behavior into an intelligible mainstream script.",
+        "Mid-Market Erosion Becomes Structural matters culturally because department-store logic losing the category anchor role is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Value Machines Win the Weekly Basket, especially as bulk purchasing as household insurance becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Premium Refuges Still Hold Price, especially as premium as self-permission rather than simple indulgence becomes easier to justify and repeat.",
@@ -1033,9 +1039,9 @@
       "evidence_industry_count": 14,
       "example_company_count": 16,
       "company_status_counts": {
-        "advantaged": 6,
-        "mixed": 10,
-        "exposed": 0
+        "advantaged": 3,
+        "mixed": 12,
+        "exposed": 1
       }
     },
     {
@@ -1305,7 +1311,7 @@
           ],
           "signals_to_watch": [
             "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
-            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Bars & Nightclubs in the US and Breweries in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -1441,7 +1447,7 @@
             {
               "slug": "draftkings",
               "title": "DraftKings",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Gaming and Betting Platform",
               "top_themes": [
                 "State-by-state legalization",
@@ -1478,7 +1484,7 @@
           "signals_to_watch": [
             "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
-            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Energy Drink Production and Juice Production in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -1601,7 +1607,7 @@
             {
               "slug": "haleon",
               "title": "Haleon",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Industrial Scale Manufacturer",
               "top_themes": [
                 "Therapeutic oral care over cosmetic-only positioning",
@@ -1761,7 +1767,7 @@
             {
               "slug": "ulta-beauty",
               "title": "Ulta Beauty",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Local Services Platform",
               "top_themes": [
                 "E-commerce cannibalization",
@@ -1785,7 +1791,7 @@
             {
               "slug": "lyra-health",
               "title": "Lyra Health",
-              "status": "exposed",
+              "status": "mixed",
               "cluster": "Healthcare Product and Distribution Platform",
               "top_themes": [
                 "Workforce Crisis",
@@ -1834,7 +1840,7 @@
           "signals_to_watch": [
             "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
             "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
-            "Company mix is already separating, with 0 advantaged examples and 2 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 3 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Ice Cream Production in the US and Candy Production in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -1965,7 +1971,7 @@
             {
               "slug": "the-j-m-smucker",
               "title": "The J.M. Smucker Co",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Scaled Consumer Brand Platform",
               "top_themes": [
                 "Premiumization-and-humanization — pet parents treating pets as family members driving 30%+ willingness-to-pay premium for natural, organic, functional nutrition.",
@@ -2033,6 +2039,12 @@
         "Sober Socializing Changes Nightlife and Beverage Mix shows the social expression of the theme because younger consumers are moderating alcohol more openly, which shifts venue economics and creates room for nonalcoholic, functional, and premium alternatives.",
         "The social footprint is already visible across consumer services, food & drink, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Wellness Recodes Daily Life is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "GLP-1 Resets Appetite and Portion Economics matters culturally because smaller portion logic reaching mainstream households is turning from a fringe behavior into an intelligible mainstream script.",
+        "Sober Socializing Changes Nightlife and Beverage Mix matters culturally because drinking less without abandoning social ritual is turning from a fringe behavior into an intelligible mainstream script.",
+        "Functional Consumption Beats Empty Indulgence matters culturally because energy and hydration as daily performance categories is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through GLP-1 Resets Appetite and Portion Economics, especially as smaller portion logic reaching mainstream households becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Sober Socializing Changes Nightlife and Beverage Mix, especially as drinking less without abandoning social ritual becomes easier to justify and repeat.",
@@ -2065,9 +2077,9 @@
       "evidence_industry_count": 16,
       "example_company_count": 14,
       "company_status_counts": {
-        "advantaged": 3,
-        "mixed": 7,
-        "exposed": 4
+        "advantaged": 5,
+        "mixed": 4,
+        "exposed": 5
       }
     },
     {
@@ -2146,7 +2158,7 @@
           ],
           "signals_to_watch": [
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
-            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Amusement Parks in the US and Campgrounds & RV Parks in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -2270,7 +2282,7 @@
             {
               "slug": "draftkings",
               "title": "DraftKings",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Gaming and Betting Platform",
               "top_themes": [
                 "State-by-state legalization",
@@ -2422,7 +2434,7 @@
             {
               "slug": "draftkings",
               "title": "DraftKings",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Gaming and Betting Platform",
               "top_themes": [
                 "State-by-state legalization",
@@ -2446,7 +2458,7 @@
             {
               "slug": "dick-s-sporting-goods",
               "title": "DICK'S Sporting Goods",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -2480,7 +2492,7 @@
           ],
           "signals_to_watch": [
             "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
-            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Campgrounds & RV Parks in the US and Hiking & Outdoor Equipment Stores start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -2592,7 +2604,7 @@
             {
               "slug": "dick-s-sporting-goods",
               "title": "DICK'S Sporting Goods",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -2653,7 +2665,7 @@
           "signals_to_watch": [
             "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
             "Mix shifts toward either obvious value packs or visibly better premium tiers.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Consumer Electronics Stores in the US and Home Improvement Stores in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -2770,7 +2782,7 @@
             {
               "slug": "ulta-beauty",
               "title": "Ulta Beauty",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Local Services Platform",
               "top_themes": [
                 "E-commerce cannibalization",
@@ -2782,7 +2794,7 @@
             {
               "slug": "dick-s-sporting-goods",
               "title": "DICK'S Sporting Goods",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -2922,7 +2934,7 @@
             {
               "slug": "draftkings",
               "title": "DraftKings",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Gaming and Betting Platform",
               "top_themes": [
                 "State-by-state legalization",
@@ -2934,7 +2946,7 @@
             {
               "slug": "gamestop",
               "title": "GameStop",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "e-commerce-displacement",
@@ -3001,6 +3013,12 @@
         "Venue Scarcity Creates Durable Pricing Power shows the social expression of the theme because well-located, well-programmed physical venues gain leverage because digital life cannot fully substitute for live gathering, entertainment, or symbolic public presence.",
         "The social footprint is already visible across consumer services, transport & logistics, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Experience, Status, and Community is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Memory Beats Merchandise matters culturally because travel and events as post-purchase social proof is turning from a fringe behavior into an intelligible mainstream script.",
+        "Venue Scarcity Creates Durable Pricing Power matters culturally because destination venues outperforming generic local capacity is turning from a fringe behavior into an intelligible mainstream script.",
+        "Active Aging and Outdoor Identity Expand Leisure Demand matters culturally because retirees staying active longer is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Memory Beats Merchandise, especially as travel and events as post-purchase social proof becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Venue Scarcity Creates Durable Pricing Power, especially as destination venues outperforming generic local capacity becomes easier to justify and repeat.",
@@ -3036,9 +3054,9 @@
       "evidence_industry_count": 12,
       "example_company_count": 14,
       "company_status_counts": {
-        "advantaged": 5,
+        "advantaged": 4,
         "mixed": 7,
-        "exposed": 2
+        "exposed": 3
       }
     },
     {
@@ -3875,7 +3893,7 @@
           "signals_to_watch": [
             "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
             "Verification, underwriting precision, and workflow adjacency become stronger moats.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Life Insurance & Annuities in the US and Long Term Care Insurance start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -3998,7 +4016,7 @@
             {
               "slug": "marsh-and-mclennan",
               "title": "Marsh & McLennan Companies",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "Consolidation wave",
@@ -4066,6 +4084,12 @@
         "Senior Housing Demand Meets Staffing and Capacity Friction shows the social expression of the theme because senior living remains demand-rich, but beds, staffing, regulation, and wage pressure cap how smoothly the sector can absorb aging demand.",
         "The social footprint is already visible across healthcare, transport & logistics, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Aging, Care, and the Assistance Economy is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Home-First Aging Reorders the Care Stack matters culturally because institutional care delayed until later acuity is turning from a fringe behavior into an intelligible mainstream script.",
+        "Senior Housing Demand Meets Staffing and Capacity Friction matters culturally because care intensity increasing inside facilities is turning from a fringe behavior into an intelligible mainstream script.",
+        "Chronic Care Becomes an Industrial Service Chain matters culturally because chronic disease producing recurring procedure and device demand is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Home-First Aging Reorders the Care Stack, especially as institutional care delayed until later acuity becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Senior Housing Demand Meets Staffing and Capacity Friction, especially as care intensity increasing inside facilities becomes easier to justify and repeat.",
@@ -4099,8 +4123,8 @@
       "evidence_industry_count": 18,
       "example_company_count": 15,
       "company_status_counts": {
-        "advantaged": 11,
-        "mixed": 4,
+        "advantaged": 12,
+        "mixed": 3,
         "exposed": 0
       }
     },
@@ -4190,7 +4214,7 @@
           "signals_to_watch": [
             "Advisory retainers, project staffing, and portable admin layers gain relevance.",
             "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
-            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Business Coaching in the US and Management Consulting in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -4337,7 +4361,7 @@
             {
               "slug": "trinet",
               "title": "TriNet",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "SMB HR outsourcing",
@@ -4374,7 +4398,7 @@
           "signals_to_watch": [
             "Advisory retainers, project staffing, and portable admin layers gain relevance.",
             "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
-            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Business Certification & IT Schools in the US and Educational Services in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -4509,7 +4533,7 @@
             {
               "slug": "trinet",
               "title": "TriNet",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "SMB HR outsourcing",
@@ -4558,7 +4582,7 @@
           "signals_to_watch": [
             "Advisory retainers, project staffing, and portable admin layers gain relevance.",
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Accounting Services in the US and Law Firms in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -4675,7 +4699,7 @@
             {
               "slug": "infosys",
               "title": "Infosys",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "Labor-shortage crisis",
@@ -4736,7 +4760,7 @@
           "signals_to_watch": [
             "Advisory retainers, project staffing, and portable admin layers gain relevance.",
             "Verification, underwriting precision, and workflow adjacency become stronger moats.",
-            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Health & Medical Insurance in the US and Disability Insurance start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -4847,7 +4871,7 @@
             {
               "slug": "paychex",
               "title": "Paychex",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "AI-driven workforce transformation (readiness, upskilling, change management)",
@@ -4871,7 +4895,7 @@
             {
               "slug": "trinet",
               "title": "TriNet",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "SMB HR outsourcing",
@@ -5111,6 +5135,12 @@
         "Skills and Credentials Replace Slow Career Ladders shows the social expression of the theme because workers respond to thinner promotion pathways by buying targeted credentials, practical certificates, and short-cycle training linked to immediate labor-market value.",
         "The social footprint is already visible across business services, technology & digital, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Work Without the Old Firm is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "The Fractional Executive Layer Expands matters culturally because leadership bought by project or part-time retainer is turning from a fringe behavior into an intelligible mainstream script.",
+        "Skills and Credentials Replace Slow Career Ladders matters culturally because micro-credentials as employability insurance is turning from a fringe behavior into an intelligible mainstream script.",
+        "The Junior Rung Gets Compressed matters culturally because entry-level cognitive work replaced by software and workflows is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through The Fractional Executive Layer Expands, especially as leadership bought by project or part-time retainer becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Skills and Credentials Replace Slow Career Ladders, especially as micro-credentials as employability insurance becomes easier to justify and repeat.",
@@ -5144,8 +5174,8 @@
       "evidence_industry_count": 18,
       "example_company_count": 14,
       "company_status_counts": {
-        "advantaged": 7,
-        "mixed": 7,
+        "advantaged": 10,
+        "mixed": 4,
         "exposed": 0
       }
     },
@@ -5243,7 +5273,7 @@
           ],
           "signals_to_watch": [
             "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
-            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -5379,7 +5409,7 @@
             {
               "slug": "walmart",
               "title": "Walmart",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -5600,7 +5630,7 @@
           "signals_to_watch": [
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
             "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
-            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Electricians in the US and Heating & Air-Conditioning Contractors in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -5735,7 +5765,7 @@
             {
               "slug": "mastec",
               "title": "MasTec",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Industrial Project Operator",
               "top_themes": [
                 "Margin squeeze – profit pressure from tariffs, labor, fuel despite revenue growth",
@@ -5784,7 +5814,7 @@
           "signals_to_watch": [
             "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
-            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Computer Manufacturing in the US and 3D Printer Manufacturing start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -5895,7 +5925,7 @@
             {
               "slug": "honeywell-international",
               "title": "Honeywell International",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Industrial Scale Manufacturer",
               "top_themes": [
                 "Import competition",
@@ -6167,6 +6197,12 @@
         "Power-Centric Geography Reorders Industrial Value shows the social expression of the theme because sites with access to power, transmission, cooling, and permissive land economics gain strategic value relative to places that merely looked attractive in the old logistics-only model.",
         "The social footprint is already visible across manufacturing, retail, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Physical Reindustrialization and Infrastructure is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Tariffed Inputs Flow Through the Whole Stack matters culturally because materials inflation transmitted through downstream sectors is turning from a fringe behavior into an intelligible mainstream script.",
+        "Power-Centric Geography Reorders Industrial Value matters culturally because data-center demand changing land value maps is turning from a fringe behavior into an intelligible mainstream script.",
+        "Electrical and Cooling Trades Become Picks and Shovels matters culturally because AI infrastructure, building retrofits, and electrification sharing the same labor pool is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Tariffed Inputs Flow Through the Whole Stack, especially as materials inflation transmitted through downstream sectors becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Power-Centric Geography Reorders Industrial Value, especially as data-center demand changing land value maps becomes easier to justify and repeat.",
@@ -6200,8 +6236,8 @@
       "evidence_industry_count": 20,
       "example_company_count": 19,
       "company_status_counts": {
-        "advantaged": 10,
-        "mixed": 9,
+        "advantaged": 11,
+        "mixed": 8,
         "exposed": 0
       }
     },
@@ -6300,7 +6336,7 @@
           "signals_to_watch": [
             "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
             "Workflow software, certification, and managed compliance budgets keep deepening.",
-            "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Dentists in the US and Environmental Consulting in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -6411,7 +6447,7 @@
             {
               "slug": "marsh-and-mclennan",
               "title": "Marsh & McLennan Companies",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "Consolidation wave",
@@ -6447,7 +6483,7 @@
             {
               "slug": "massage-envy",
               "title": "Massage Envy",
-              "status": "exposed",
+              "status": "mixed",
               "cluster": "Hospitality and Experience Platform",
               "top_themes": [
                 "self-care as routine spending",
@@ -6668,7 +6704,7 @@
           "signals_to_watch": [
             "Verification, underwriting precision, and workflow adjacency become stronger moats.",
             "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Commercial Banking in the US and Credit Unions in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -6791,7 +6827,7 @@
             {
               "slug": "intuit",
               "title": "Intuit",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "AI and automation as a service-level differentiator for accuracy, onboarding, and exception handling.",
@@ -7149,7 +7185,7 @@
             {
               "slug": "walmart",
               "title": "Walmart",
-              "status": "advantaged",
+              "status": "mixed",
               "cluster": "Omnichannel Scale Retailer",
               "top_themes": [
                 "Omnichannel fulfillment",
@@ -7173,7 +7209,7 @@
             {
               "slug": "medline-industries",
               "title": "Medline Industries",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Industrial Scale Manufacturer",
               "top_themes": [
                 "Aging population",
@@ -7229,6 +7265,12 @@
         "Asset Owners Keep Gaining Relative Power shows the social expression of the theme because the owner of land, rights, infrastructure, or financial rails often captures more durable economics than the visible operator working on top of those assets.",
         "The social footprint is already visible across healthcare, business services, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Scale, Financialization, and the Owned Economy is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Roll-Ups Colonize Essential Services matters culturally because fragmented local sectors becoming acquisition targets is turning from a fringe behavior into an intelligible mainstream script.",
+        "Asset Owners Keep Gaining Relative Power matters culturally because ground ownership and lease control separating from operations is turning from a fringe behavior into an intelligible mainstream script.",
+        "Regional Intermediaries Get Squeezed matters culturally because tech and compliance spend overwhelming smaller balance sheets is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Roll-Ups Colonize Essential Services, especially as fragmented local sectors becoming acquisition targets becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Asset Owners Keep Gaining Relative Power, especially as ground ownership and lease control separating from operations becomes easier to justify and repeat.",
@@ -7262,9 +7304,9 @@
       "evidence_industry_count": 18,
       "example_company_count": 20,
       "company_status_counts": {
-        "advantaged": 10,
-        "mixed": 6,
-        "exposed": 4
+        "advantaged": 12,
+        "mixed": 5,
+        "exposed": 3
       }
     },
     {
@@ -8275,6 +8317,12 @@
         "Identity, Fraud, and Trust Infrastructure Thickens shows the social expression of the theme because synthetic identity fraud, deepfakes, cyber risk, and financial scams are increasing the value of verification, scoring, monitoring, and risk infrastructure.",
         "The social footprint is already visible across business services, finance & insurance, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Regulated Software and the Admin State is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Compliance Itself Becomes a Demand Engine matters culturally because mandatory workflows sustaining demand through weak cycles is turning from a fringe behavior into an intelligible mainstream script.",
+        "Identity, Fraud, and Trust Infrastructure Thickens matters culturally because identity systems becoming more continuous and layered is turning from a fringe behavior into an intelligible mainstream script.",
+        "Reimbursement and Admin Layers Capture Value Around Care matters culturally because care delivery complexity spawning specialized admin infrastructure is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Compliance Itself Becomes a Demand Engine, especially as mandatory workflows sustaining demand through weak cycles becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Identity, Fraud, and Trust Infrastructure Thickens, especially as identity systems becoming more continuous and layered becomes easier to justify and repeat.",
@@ -8584,7 +8632,7 @@
           "signals_to_watch": [
             "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
             "Workflow software, certification, and managed compliance budgets keep deepening.",
-            "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Commercial Building Construction in the US and Commercial Property Remodeling start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -8731,7 +8779,7 @@
             {
               "slug": "pcl-construction",
               "title": "PCL Construction",
-              "status": "mixed",
+              "status": "exposed",
               "cluster": "Industrial Project Operator",
               "top_themes": [
                 "Federal-aid formula stability",
@@ -9329,6 +9377,12 @@
         "Adaptive Reuse Becomes a New Development Discipline shows the social expression of the theme because weak offices, malls, and older commercial assets create opportunity for conversion, repositioning, and selective redevelopment tied to housing or mixed-use demand.",
         "The social footprint is already visible across real estate, business services, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Space, Housing, and Local Friction is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "Office Obsolescence Is a Structural Shift matters culturally because hybrid work reducing demand for commodity office space is turning from a fringe behavior into an intelligible mainstream script.",
+        "Adaptive Reuse Becomes a New Development Discipline matters culturally because conversion economics replacing pure new-build economics is turning from a fringe behavior into an intelligible mainstream script.",
+        "Housing Lock-In Distorts Mobility and Spend matters culturally because owners staying put longer because replacement housing is too expensive is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through Office Obsolescence Is a Structural Shift, especially as hybrid work reducing demand for commodity office space becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Adaptive Reuse Becomes a New Development Discipline, especially as conversion economics replacing pure new-build economics becomes easier to justify and repeat.",
@@ -9362,8 +9416,8 @@
       "example_company_count": 17,
       "company_status_counts": {
         "advantaged": 9,
-        "mixed": 7,
-        "exposed": 1
+        "mixed": 6,
+        "exposed": 2
       }
     },
     {
@@ -9647,7 +9701,7 @@
           "signals_to_watch": [
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
             "Advisory retainers, project staffing, and portable admin layers gain relevance.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Business Analytics & Enterprise Software Publishing in the US and Accounting Services in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -9776,7 +9830,7 @@
             {
               "slug": "infosys",
               "title": "Infosys",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "Labor-shortage crisis",
@@ -10006,7 +10060,7 @@
           ],
           "signals_to_watch": [
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
-            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Electric Power Transmission in the US and Hydroelectric Power in the US start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -10130,7 +10184,7 @@
             {
               "slug": "baker-hughes",
               "title": "Baker Hughes",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Energy and Environmental Infrastructure",
               "top_themes": [
                 "Natural gas and LNG-linked drilling",
@@ -10179,7 +10233,7 @@
           "signals_to_watch": [
             "Automation budgets, inference demand, and power-ready site competition keep rising.",
             "Workflow software, certification, and managed compliance budgets keep deepening.",
-            "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+            "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set.",
             "Watch whether evidence industries such as Credit Bureaus & Rating Agencies in the US and General Freight Trucking (Truckload) start treating this as a planning assumption rather than a side case."
           ],
           "strategic_consequences": [
@@ -10304,7 +10358,7 @@
             {
               "slug": "intuit",
               "title": "Intuit",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "AI and automation as a service-level differentiator for accuracy, onboarding, and exception handling.",
@@ -10316,7 +10370,7 @@
             {
               "slug": "paychex",
               "title": "Paychex",
-              "status": "mixed",
+              "status": "advantaged",
               "cluster": "Expert Services Platform",
               "top_themes": [
                 "AI-driven workforce transformation (readiness, upskilling, change management)",
@@ -10372,6 +10426,12 @@
         "Workflow Compression Rewrites Knowledge Work shows the social expression of the theme because AI tools increasingly collapse drafting, analysis, support, and administrative work into fewer steps, which changes staffing economics across white-collar sectors.",
         "The social footprint is already visible across technology & digital, energy & environment, and adjacent sectors, where operating formats are being redesigned around the new default behavior."
       ],
+      "cultural_read": [
+        "Machine Intelligence and Compute Buildout is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do.",
+        "The Data-Center Land Rush Creates New Scarcity matters culturally because power-ready land becoming a premium asset class is turning from a fringe behavior into an intelligible mainstream script.",
+        "Workflow Compression Rewrites Knowledge Work matters culturally because junior and repeatable tasks being automated first is turning from a fringe behavior into an intelligible mainstream script.",
+        "AI Concentrates Capital and Strategic Power matters culturally because frontier model economics rewarding extreme scale is turning from a fringe behavior into an intelligible mainstream script."
+      ],
       "consumer_read": [
         "Consumer behavior is being recoded through The Data-Center Land Rush Creates New Scarcity, especially as power-ready land becoming a premium asset class becomes easier to justify and repeat.",
         "Consumer behavior is being recoded through Workflow Compression Rewrites Knowledge Work, especially as junior and repeatable tasks being automated first becomes easier to justify and repeat.",
@@ -10404,8 +10464,8 @@
       "evidence_industry_count": 16,
       "example_company_count": 16,
       "company_status_counts": {
-        "advantaged": 10,
-        "mixed": 6,
+        "advantaged": 14,
+        "mixed": 2,
         "exposed": 0
       }
     }

@@ -373,6 +373,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
     second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
     societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
+    cultural_read = "".join(f"<li>{e(item)}</li>" for item in theme["cultural_read"])
     consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
     industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
     capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
@@ -439,11 +440,15 @@ def render_memo(theme: dict, prefix: str = "") -> str:
       <ul class="list">{societal_read}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Consumer read</div>
-      <ul class="list">{consumer_read}</ul>
+      <div class="meta">Cultural read</div>
+      <ul class="list">{cultural_read}</ul>
     </div>
   </div>
   <div class="split">
+    <div class="panel">
+      <div class="meta">Consumer read</div>
+      <ul class="list">{consumer_read}</ul>
+    </div>
     <div class="panel">
       <div class="meta">Industrial read</div>
       <ul class="list">{industrial_read}</ul>

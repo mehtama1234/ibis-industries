@@ -1878,6 +1878,22 @@ def build_theme_societal_read(theme: dict, subthemes: list[dict], industries: li
     return items[:4]
 
 
+def build_theme_cultural_read(theme: dict, subthemes: list[dict], companies: list[dict]) -> list[str]:
+    items = [
+        f"{theme['title']} is also a cultural reclassification story, where legitimacy, aspiration, identity, and social permission change faster than formal market categories do."
+    ]
+    for subtheme in subthemes[:3]:
+        if subtheme["microthemes"]:
+            items.append(
+                f"{subtheme['title']} matters culturally because {subtheme['microthemes'][0]} is turning from a fringe behavior into an intelligible mainstream script."
+            )
+    if companies:
+        items.append(
+            f"The cultural signal is already visible in operators such as {join_titles(companies, 'named companies', limit=3)}, which are functioning as proof that the behavior now carries real social legitimacy."
+        )
+    return items[:4]
+
+
 def build_theme_consumer_read(theme: dict, subthemes: list[dict]) -> list[str]:
     items = []
     for subtheme in subthemes[:3]:
@@ -2022,6 +2038,7 @@ def build_theme_records():
                 "stakeholder_map": build_theme_stakeholder_map(theme, theme_industry_records, theme_company_records),
                 "second_order_effects": build_theme_second_order_effects(theme, subtheme_records),
                 "societal_read": build_theme_societal_read(theme, subtheme_records, theme_industry_records),
+                "cultural_read": build_theme_cultural_read(theme, subtheme_records, theme_company_records),
                 "consumer_read": build_theme_consumer_read(theme, subtheme_records),
                 "industrial_read": build_theme_industrial_read(theme, subtheme_records, [force_lookup[slug] for slug in theme["forces"] if slug in force_lookup]),
                 "capital_implications": build_theme_capital_implications(theme, subtheme_records, theme_company_records),
@@ -2150,6 +2167,7 @@ def build_theme_page(theme: dict) -> str:
     stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
     second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
     societal_read = "".join(f"<li>{e(item)}</li>" for item in theme["societal_read"])
+    cultural_read = "".join(f"<li>{e(item)}</li>" for item in theme["cultural_read"])
     consumer_read = "".join(f"<li>{e(item)}</li>" for item in theme["consumer_read"])
     industrial_read = "".join(f"<li>{e(item)}</li>" for item in theme["industrial_read"])
     capital_implications = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"])
@@ -2341,6 +2359,10 @@ def build_theme_page(theme: dict) -> str:
     <div class="panel">
       <div class="meta">Societal read</div>
       <ul class="q">{societal_read}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Cultural read</div>
+      <ul class="q">{cultural_read}</ul>
     </div>
     <div class="panel">
       <div class="meta">Consumer read</div>
