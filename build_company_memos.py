@@ -74,7 +74,32 @@ def build_theme_lookup(themes: list[dict]) -> tuple[dict[str, dict], dict[str, l
     return theme_lookup, force_to_themes
 
 
+def classify_theme_lens(lens: str) -> list[str]:
+    text = (lens or "").lower()
+    buckets = []
+    if "societal" in text or "social" in text or "institutional" in text or "labor" in text:
+        buckets.append("societal")
+    if "cultural" in text:
+        buckets.append("cultural")
+    if "consumer" in text:
+        buckets.append("consumer")
+    if "industrial" in text or "technological" in text:
+        buckets.append("industrial")
+    return buckets or ["industrial"]
+
+
 def infer_related_themes(company: dict, force_to_themes: dict[str, list[dict]]) -> list[dict]:
+    if company.get("dominant_theme_objects"):
+        return [
+            {
+                "slug": item["slug"],
+                "title": item["title"],
+                "lens": item.get("lens", ""),
+                "subthemes": item.get("subthemes", []),
+                "score": item.get("score", 0),
+            }
+            for item in company["dominant_theme_objects"][:5]
+        ]
     counts = Counter()
     theme_records: dict[str, dict] = {}
     for force in company.get("dominant_forces", []):
@@ -85,9 +110,41 @@ def infer_related_themes(company: dict, force_to_themes: dict[str, list[dict]]) 
     return ordered
 
 
+def build_lens_cards(related_themes: list[dict]) -> list[dict]:
+    bucket_map: dict[str, dict] = {
+        "societal": {"key": "societal", "label": "Societal", "themes": [], "theme_titles": [], "subthemes": []},
+        "cultural": {"key": "cultural", "label": "Cultural", "themes": [], "theme_titles": [], "subthemes": []},
+        "consumer": {"key": "consumer", "label": "Consumer", "themes": [], "theme_titles": [], "subthemes": []},
+        "industrial": {"key": "industrial", "label": "Industrial", "themes": [], "theme_titles": [], "subthemes": []},
+    }
+    for theme in related_themes:
+        for bucket in classify_theme_lens(theme.get("lens", "")):
+            bucket_map[bucket]["themes"].append(theme)
+            bucket_map[bucket]["theme_titles"].append(theme["title"])
+            for subtheme in theme.get("subthemes", [])[:3]:
+                slug = subtheme.get("slug")
+                if slug and not any(existing.get("slug") == slug for existing in bucket_map[bucket]["subthemes"]):
+                    bucket_map[bucket]["subthemes"].append(subtheme)
+    return [bucket_map[key] for key in ("societal", "cultural", "consumer", "industrial") if bucket_map[key]["themes"]]
+
+
+def build_lens_summary(record: dict, bucket: str, theme_titles: list[str]) -> str:
+    names = ", ".join(theme_titles[:3])
+    title = record["title"]
+    cluster = record["business_model_cluster_title"].lower()
+    if bucket == "societal":
+        return f"{title} should be read socially through {names}, where labor formation, institutional burden, demographic strain, and coordination complexity determine how {cluster} economics actually scale."
+    if bucket == "cultural":
+        return f"{title} also sits inside a cultural reclassification through {names}, where trust, legitimacy, identity, participation, and wellness norms reshape how the company is chosen and valued."
+    if bucket == "consumer":
+        return f"{title} faces sharper demand selection through {names}, where buyers are more explicit about value, convenience, health, service confidence, and permission to spend."
+    return f"{title} is being repriced industrially through {names}, where bottlenecks, compliance, infrastructure, procurement, and system ownership increasingly govern the margin pool around {cluster} economics."
+
+
 def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
     sector = top_sector(company) or "Unknown"
     related_themes = infer_related_themes(company, force_to_themes)
+    lens_cards = build_lens_cards(related_themes)
     dominant_force_titles = [force["title"] for force in company.get("dominant_forces", [])[:3]]
     force_text = ", ".join(dominant_force_titles) or "cross-force exposure"
     primary_constraint = company.get("constraints", ["complexity"])[0]
@@ -107,6 +164,22 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
         "top_themes": company.get("top_themes", [])[:6],
         "dominant_forces": company.get("dominant_forces", [])[:3],
         "related_themes": related_themes,
+        "theme_tailwind_score": company.get("theme_tailwind_score", 0),
+        "theme_scorecard": company.get("theme_scorecard", {}),
+        "lens_cards": [
+            {
+                **lens,
+                "summary": build_lens_summary(
+                    {
+                        "title": company["title"],
+                        "business_model_cluster_title": company["business_model_cluster_title"],
+                    },
+                    lens["key"],
+                    lens["theme_titles"],
+                ),
+            }
+            for lens in lens_cards
+        ],
         "linked_industries": company.get("industry_rows", [])[:6],
         "sector_mix": company.get("sector_mix", [])[:4],
         "likely_losers": company.get("likely_losers", []),
@@ -130,11 +203,13 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
 
 def render_company_card(record: dict) -> str:
     chips = "".join(f'<span class="chip">{e(theme["title"])}</span>' for theme in record["related_themes"][:3])
+    lens_chips = "".join(f'<span class="chip">{e(lens["label"])}</span>' for lens in record["lens_cards"][:4])
     return f"""<article class="card">
   <div class="meta">{e(record['top_sector'])}</div>
   <h3><a href="company-memos/{e(record['slug'])}.html">{e(record['title'])}</a></h3>
   <p>{e(record['investor_memo'])}</p>
   <div class="chips">{chips}</div>
+  <div class="chips">{lens_chips}</div>
 </article>"""
 
 
@@ -173,14 +248,38 @@ def linked_industry_cards(record: dict) -> str:
     return "".join(cards)
 
 
+def render_lens_section(lens: dict, prefix: str = "") -> str:
+    theme_chips = "".join(theme_chip(theme, prefix) for theme in lens["themes"][:4]) or '<span class="chip">no linked themes</span>'
+    subtheme_chips = "".join(
+        f'<a class="chip" href="{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}">{e(subtheme["title"])}</a>'
+        for theme in lens["themes"]
+        for subtheme in theme.get("subthemes", [])[:2]
+    )
+    if not subtheme_chips:
+        subtheme_chips = '<span class="chip">no surfaced subthemes</span>'
+    return f"""<article class="panel">
+  <div class="meta">{e(lens['label'])} lens</div>
+  <h3>{e(lens['label'])} Read</h3>
+  <p>{e(lens['summary'])}</p>
+  <div class="chips">{theme_chips}</div>
+  <div class="chips">{subtheme_chips}</div>
+</article>"""
+
+
 def render_memo(record: dict, prefix: str = "") -> str:
     theme_chips = "".join(theme_chip(theme, prefix) for theme in record["related_themes"]) or '<span class="chip">no direct theme inference</span>'
     force_chips = "".join(force_chip(force, prefix) for force in record["dominant_forces"])
     top_theme_tags = "".join(f'<span class="chip">{e(item)}</span>' for item in record["top_themes"])
     constraints = "".join(f'<span class="chip">{e(item)}</span>' for item in record["constraints"])
+    lens_chips = "".join(f'<span class="chip">{e(lens["label"])}</span>' for lens in record["lens_cards"])
     sector_mix = "".join(f"<li>{e(item['sector'])}: {item['count']} linked industries</li>" for item in record["sector_mix"])
     likely_losers = "".join(f"<li>{e(item)}</li>" for item in record["likely_losers"]) or "<li>No explicit loser set surfaced</li>"
     diligence = "".join(f"<li>{e(item)}</li>" for item in record["diligence_questions"])
+    theme_scorecard = "".join(
+        f'<span class="chip">{e(slug.replace("-", " "))}: {score}</span>'
+        for slug, score in sorted(record["theme_scorecard"].items(), key=lambda item: (-abs(item[1]), item[0]))[:5]
+    ) or '<span class="chip">no explicit theme scorecard</span>'
+    lens_sections = "".join(render_lens_section(lens, prefix=prefix) for lens in record["lens_cards"])
     return f"""<section class="memo">
   <div class="meta">{e(record['top_sector'])} company memo</div>
   <h3>{e(record['title'])}</h3>
@@ -189,6 +288,7 @@ def render_memo(record: dict, prefix: str = "") -> str:
   <p><b>Operator memo:</b> {e(record['operator_memo'])}</p>
   <p>{e(record['sector_angle'])}</p>
   <div class="chips">{company_page_chip(record, prefix)}{sector_chip(record, prefix)}{theme_chips}{force_chips}</div>
+  <div class="chips">{lens_chips}<span class="chip">theme tailwind {record['theme_tailwind_score']}</span></div>
   <div class="split">
     <div class="panel">
       <div class="meta">Business position</div>
@@ -200,6 +300,13 @@ def render_memo(record: dict, prefix: str = "") -> str:
       <ul class="list">{sector_mix}</ul>
       <p><b>{record['mention_count']}</b> corpus mentions across <b>{record['industry_count']}</b> linked industries.</p>
     </div>
+  </div>
+  <div class="panel">
+    <div class="meta">Theme scorecard</div>
+    <div class="chips">{theme_scorecard}</div>
+  </div>
+  <div class="grid">
+    {lens_sections}
   </div>
   <div class="split">
     <div class="panel">
@@ -233,6 +340,7 @@ def build_hub(records: list[dict]) -> str:
   <div class="kpi"><div class="n">{len(records)}</div><div class="l">Company memos</div></div>
   <div class="kpi"><div class="n">{sum(1 for record in records if record['status'] == 'advantaged')}</div><div class="l">Advantaged</div></div>
   <div class="kpi"><div class="n">{sum(1 for record in records if record['status'] == 'exposed')}</div><div class="l">Exposed</div></div>
+  <div class="kpi"><div class="n">{sum(len(record['lens_cards']) for record in records)}</div><div class="l">Lens reads</div></div>
 </div>
 <div class="lead"><p>Use this layer when the question is not what a company is, but what its current structural position means. The memo format makes the read explicit: why the name screens well or poorly, what governs the economics, and what would break the thesis.</p></div>
 
@@ -262,6 +370,7 @@ def build_detail(record: dict) -> str:
   <div class="kpi"><div class="n">{record['mention_count']}</div><div class="l">Mentions</div></div>
   <div class="kpi"><div class="n">{record['industry_count']}</div><div class="l">Industries</div></div>
   <div class="kpi"><div class="n">{len(record['related_themes'])}</div><div class="l">Related themes</div></div>
+  <div class="kpi"><div class="n">{len(record['lens_cards'])}</div><div class="l">Lens reads</div></div>
 </div>
 <div class="lead"><p>{e(record['investor_memo'])}</p></div>
 <section class="section">
