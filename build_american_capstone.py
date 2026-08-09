@@ -213,6 +213,7 @@ def build_chip(theme_lookup: dict[str, dict], slug: str) -> str:
 def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
     tensions: list[str] = []
     signals: list[str] = []
+    second_order_effects: list[str] = []
     operator_implications: list[str] = []
     capital_implications: list[str] = []
     subthemes: list[dict] = []
@@ -228,6 +229,9 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
         for item in theme.get("signals_to_watch", [])[:3]:
             if item not in signals:
                 signals.append(item)
+        for item in theme.get("second_order_effects", [])[:2]:
+            if item not in second_order_effects:
+                second_order_effects.append(item)
         for item in theme.get("strategic_implications", [])[:3]:
             if item not in operator_implications:
                 operator_implications.append(item)
@@ -260,6 +264,7 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
     return {
         "tensions": tensions[:4],
         "signals": signals[:5],
+        "second_order_effects": second_order_effects[:4],
         "operator_implications": operator_implications[:5],
         "capital_implications": capital_implications[:5],
         "top_sectors": sector_counts.most_common(5),
@@ -281,6 +286,9 @@ def main() -> None:
         evidence = collect_section_evidence(theme_lookup, section["linked_themes"])
         tensions = "".join(f"<li>{e(item)}</li>" for item in evidence["tensions"])
         signals = "".join(f"<li>{e(item)}</li>" for item in evidence["signals"])
+        second_order_effects = "".join(
+            f"<li>{e(item)}</li>" for item in evidence["second_order_effects"]
+        )
         operator_implications = "".join(
             f"<li>{e(item)}</li>" for item in evidence["operator_implications"]
         )
@@ -324,7 +332,7 @@ def main() -> None:
   {body}
   <div class="grid" style="margin-top:14px">
     <div class="card">
-      <div class="meta">System tensions</div>
+      <div class="meta">Tensions</div>
       <h3>What makes this section hard</h3>
       <ul class="list">{tensions}</ul>
     </div>
@@ -333,6 +341,11 @@ def main() -> None:
       <h3>What to watch next</h3>
       <ul class="list">{signals}</ul>
     </div>
+  </div>
+  <div class="card" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <h3>Where the consequences spread next</h3>
+    <ul class="list">{second_order_effects}</ul>
   </div>
   <div class="split">
     <div class="card">

@@ -199,6 +199,8 @@ def build_synthesis_card(item):
     company_chips = "".join(f'<span class="chip">{e(company)}</span>' for company in item["companies"])
     use_items = "".join(f"<li>{e(line)}</li>" for line in item["use_cases"])
     signal_items = "".join(f"<li>{e(line)}</li>" for line in item["signals"])
+    tension_items = "".join(f"<li>{e(line)}</li>" for line in item["tensions"])
+    second_order_items = "".join(f"<li>{e(line)}</li>" for line in item["second_order_effects"])
     underwrite_items = "".join(f"<li>{e(line)}</li>" for line in item["underwrite"])
     return f"""<article class="card">
   <div class="meta">{e(item['label'])}</div>
@@ -206,8 +208,12 @@ def build_synthesis_card(item):
   <p>{e(item['body'])}</p>
   <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{sector_chips}{company_chips}</div>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list">{tension_items}</ul>
   <div class="meta" style="margin-top:14px">Signals</div>
   <ul class="list">{signal_items}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{second_order_items}</ul>
   <div class="meta" style="margin-top:14px">What to do with it</div>
   <ul class="list">{use_items}</ul>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
@@ -264,6 +270,14 @@ def main():
                 "The same demand story keeps resolving differently across societal, cultural, consumer, and industrial lenses.",
                 "Recurring tensions, signals, and subtheme evidence appear across otherwise unrelated sectors.",
             ],
+            "tensions": [
+                "Macro growth can still be real even while labor, capital, compliance, and infrastructure keep narrowing who captures the margin.",
+                "The visible demand story and the actual governing constraint are often not the same thing.",
+            ],
+            "second_order_effects": [
+                "This lens tends to push readers toward sectors and companies where multiple macro systems intersect rather than where only one headline trend is visible.",
+                "It also changes what counts as evidence: recurring subtheme overlap matters more than isolated sector anecdotes.",
+            ],
             "underwrite": [
                 "Which macro lens actually governs the market you are evaluating right now?",
                 "Whether the apparent growth story still survives labor, capital, compliance, or infrastructure constraints.",
@@ -283,6 +297,14 @@ def main():
             "signals": [
                 "Labor scarcity, consumer bifurcation, AI buildout, and geographic unevenness are interacting rather than moving separately.",
                 "The durable winners are the operators that can convert demand into profit despite rising structural friction.",
+            ],
+            "tensions": [
+                "Demand can remain solid while the right to earn margin gets narrower across much of the economy.",
+                "The same technological and cultural shifts that create growth also deepen concentration and operating fragility.",
+            ],
+            "second_order_effects": [
+                "Sectors that once looked loosely connected now move together because they share labor, infrastructure, administrative, or cultural constraints.",
+                "Seemingly soft societal changes increasingly propagate into hard asset, staffing, and pricing outcomes.",
             ],
             "underwrite": [
                 "Whether the operating model is built for a high-friction economy rather than a low-rate, low-complexity one.",
@@ -306,6 +328,14 @@ def main():
                 "Each major theme now carries explicit where-it-shows-up evidence, signals to watch, and second-order effects.",
                 "Theme-level pressures are legible enough to support operator posture and investor filtering.",
             ],
+            "tensions": [
+                "Headline themes are only useful if they also expose the practical frictions inside them.",
+                "The same theme can look attractive at the narrative level while still being difficult to capture operationally.",
+            ],
+            "second_order_effects": [
+                "Theme work becomes most useful when it changes sector and company judgment, not when it stays at essay level.",
+                "Repeated subthemes often show up first as weak signals in adjacent categories before becoming obvious in the core category.",
+            ],
             "underwrite": [
                 "Which theme is structural versus cyclical in the industry you care about.",
                 "Whether the operator posture is aligned with the real tension inside the theme, not just the headline description.",
@@ -326,6 +356,14 @@ def main():
                 "The same macro forces cluster differently by sector, making some sectors clear expression vehicles for the broader story.",
                 "Sector-level advantage depends on how each domain absorbs labor, capital, and consumer pressure.",
             ],
+            "tensions": [
+                "Sectors can have tailwinds and still be poor places to own subscale or badly positioned operators.",
+                "Nominal growth and structural attractiveness are often diverging at the sector level.",
+            ],
+            "second_order_effects": [
+                "Sector work tends to reveal where macro themes are turning into concentrated owner advantage rather than broad sector uplift.",
+                "It also sharpens which sectors become evidence hubs for the wider American story.",
+            ],
             "underwrite": [
                 "Which sectors have real structural tailwinds versus sectors merely benefiting from temporary nominal growth.",
                 "Where the sector structure still leaves room for subscale winners and where scale is becoming mandatory.",
@@ -345,6 +383,14 @@ def main():
             "signals": [
                 "Repeated company mentions now resolve into explicit structural reads rather than scattered name checks.",
                 "Company-level judgment gets stronger when sector logic, theme exposure, and break-risk all line up.",
+            ],
+            "tensions": [
+                "A strong brand or large footprint is not enough if the company sits on the wrong side of the current constraint stack.",
+                "Named evidence is useful only when it is tied back to cluster logic and force exposure rather than anecdotal recognition.",
+            ],
+            "second_order_effects": [
+                "Company work turns theme and sector synthesis into investable or avoidable names.",
+                "It also reveals when apparent leaders are actually concentrated expressions of a broader system advantage.",
             ],
             "underwrite": [
                 "What would actually break the current advantage of the named operator.",
