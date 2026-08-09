@@ -146,6 +146,8 @@ def build_sector_records() -> list[dict]:
                         "lens": theme["lens"],
                         "structural_tensions": theme.get("structural_tensions", []),
                         "signals_to_watch": theme.get("signals_to_watch", []),
+                        "strategic_implications": theme.get("strategic_implications", []),
+                        "capital_implications": theme.get("capital_implications", []),
                     }
                     subtheme_key = (theme["slug"], subtheme["slug"])
                     if subtheme_key not in sector_data[sector]["subtheme_keys"]:
