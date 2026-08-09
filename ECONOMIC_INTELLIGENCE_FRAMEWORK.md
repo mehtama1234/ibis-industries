@@ -220,31 +220,32 @@ The repo already contains:
 - `20` force hubs in `forces/`
 - `8` operator playbooks in `operator_playbooks.json`
 - `1491` industry briefs in `briefs_full.json`
+- a built `economic_intelligence_taxonomy.json` and surfaced `economic-intelligence.html`
+- a built `american_themes_taxonomy.json` with detailed themes, subthemes, and signals
+- built American outlook, capstone, sector, and company synthesis artifacts
 
-What is missing is the connective written layer:
+What remains is not the absence of a connective layer. It is the need to keep tightening and auditing the connective layer that now exists:
 
-- one canonical taxonomy tying all forces together
-- explicit industrial/consumer/cultural/social/societal framing
-- subtheme naming that is consistent across pages
-- a narrative about the US economy in `2025-2026`
-- a bridge from force pages to eventual company/business writeups
+- align every surfaced page to the same full-corpus framing
+- keep trend/theme/sector/company language consistent across artifacts
+- continue improving actionability for operators and investors
+- keep the top-level hub pages as strong as the downstream analytical layers
 
 ## Next Writing Outputs
 
-The next artifacts should be produced in this order:
+The next writing outputs are no longer blank-slate builds. They are iterative strengthening passes on the existing system:
 
-1. `Master taxonomy`
-   - a machine-readable and human-readable map of top-level domains, forces, and subthemes
+1. `Top-level surface refinement`
+   - keep the main hub, landing page, and cross-cutting trends layer aligned with the strongest downstream synthesis
 
-2. `Big-picture narrative`
-   - a written essay on what is changing in the US economy in `2025-2026`
-   - structured by the taxonomy above
+2. `Theme and subtheme deepening`
+   - sharpen second-order effects, tensions, and signals where the source system is still thinner than the best pages
 
-3. `Force-to-operator translation`
-   - for each major force: who wins, who gets squeezed, what operators should do
+3. `Sector and company interpretation`
+   - keep linking macro themes back to sectors, industries, and named operators with clearer implications
 
-4. `Sector and company lens templates`
-   - standard structure for applying the force map to a specific sector or business
+4. `Audit and consistency`
+   - remove stale tranche-era framing and keep terminology, counts, and positioning consistent across the repo
 
 ## Standard Questions This System Should Answer
 

@@ -1,10 +1,15 @@
 # US Industry Briefs (2025–2026)
 
-Plain-English intelligence on the largest and most-watched US industries — the latest data and current dynamics, not stale numbers.
+Plain-English economic intelligence built on a completed 1,491-industry US corpus, refreshed to current 2025-2026 conditions.
 
 **Live page:** open `index.html` (self-contained; no build step, no dependencies).
 
 ## What this is
+
+The repo now has two connected layers:
+
+- a full industry evidence layer across all `1,491` US IBIS industries
+- a synthesis layer that turns those briefs into forces, themes, trend groupings, sector/company evidence, and operator/investor guidance
 
 Each industry is distilled to one page:
 
@@ -13,17 +18,22 @@ Each industry is distilled to one page:
 - **Recent developments** — dated 2023–2026 events
 - **How it makes money, cost structure, major players, what's growing / shrinking, outlook, and sources**
 
-Plus a **cross-cutting trends** view: the societal, cultural, technological, industrial, and economic forces that recur across many industries at once, each linked to the industries it touches.
+On top of that, the repo now includes:
+
+- a **cross-cutting trends** layer with tensions, signals, second-order effects, representative sectors, and company evidence
+- an **economic intelligence** hub linking forces, domains, and flagship synthesis artifacts
+- an **American themes** system across societal, cultural, consumer, industrial, and institutional change
+- **sector outlooks**, **company memos**, and **decision surfaces** that translate the macro read into operator and investor action
 
 ## Coverage
 
-This tranche covers the **~200 largest / most significant US industries** (plus a 25-industry methodology pilot) — the first slice of a 1,491-report library. Sectors span Finance & Insurance, Healthcare, Retail, Manufacturing, Business Services, Food & Drink, Transport & Logistics, Media & Entertainment, Technology & Digital, Construction, Energy & Environment, Consumer Services, Agriculture, and Real Estate.
+Coverage is now the full `1,491`-industry US library. Sectors span Finance & Insurance, Healthcare, Retail, Manufacturing, Business Services, Food & Drink, Transport & Logistics, Media & Entertainment, Technology & Digital, Construction, Energy & Environment, Consumer Services, Agriculture, and Real Estate.
 
 ## Method
 
-- **Source:** 2022 IBISWorld US industry reports as a baseline, **refreshed with live 2024–2026 web research** for every industry.
-- **Written by:** Codex (self-run, environment-configured model) — one end-to-end pass per batch, with trend synthesis generated in the same pipeline from the refreshed briefs.
-- **Data files:** `briefs_full.json` (per-industry data), `trends_full_raw.json` (the trend synthesis).
+- **Source:** 2022 IBISWorld US industry reports as a baseline, then **refreshed with live 2025–2026 web research** across the full corpus.
+- **Written by:** Codex (self-run, environment-configured model) across the base briefs and the synthesis layers above them.
+- **Core data files:** `briefs_full.json` (per-industry data), `trends_full_raw.json` (cross-cutting trend synthesis), `american_themes_taxonomy.json` (theme/subtheme system), `company_memos.json` (representative company layer), and `economic_intelligence_taxonomy.json` (force/domain map).
 
 ## Caveat
 
