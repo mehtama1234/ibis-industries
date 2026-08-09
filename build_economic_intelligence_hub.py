@@ -48,6 +48,10 @@ AMERICAN_THEME_BRIEFS_LINK = (
     "The theme briefs layer adds the long-form interpretation: what each major theme actually means, what tensions define it, and what signals matter next."
 )
 
+AMERICAN_CAPSTONE_LINK = (
+    "The capstone narrative is the single end-to-end read on the US economy in 2025-2026: how demand, labor, culture, institutions, geography, AI, and scale fit together."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -201,6 +205,11 @@ def main():
     <div class="meta">Narrative layer</div>
     <h3><a href="american-theme-briefs.html">American Theme Briefs</a></h3>
     <p>{e(AMERICAN_THEME_BRIEFS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Capstone narrative</div>
+    <h3><a href="american-economy-2025-2026.html">The US Economy in 2025-2026</a></h3>
+    <p>{e(AMERICAN_CAPSTONE_LINK)}</p>
   </div>
 </section>
 
