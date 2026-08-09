@@ -177,7 +177,7 @@ def build_hub(records: list[dict]) -> str:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sector Cases — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="business-lenses.html">Business lenses</a><a href="force-operator-translations.html">Force-to-operator</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="business-lenses.html">Business lenses</a><a href="force-operator-translations.html">Force-to-operator</a><a href="sector-memos.html">Sector memos</a></div>
 <div class="eyebrow">Applied cases · US · 2025–2026</div>
 <h1>Sector Cases</h1>
 <p class="sub">These are concrete sector/business-style applications of the lens framework. Each case starts with a representative industry, then reads it through the business-lens and force map instead of treating it as an isolated sector summary.</p>

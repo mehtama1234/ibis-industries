@@ -383,7 +383,7 @@ def build_hub(records: list[dict]) -> str:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>American Theme Memos — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-theme-briefs.html">Theme briefs</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-theme-briefs.html">Theme briefs</a><a href="sector-memos.html">Sector memos</a></div>
 <div class="eyebrow">Applied memos · US · 2025-2026</div>
 <h1>American Theme Memos</h1>
 <p class="sub">This is the applied layer. It turns the themes system into operator and investor memos: where to hunt, what to avoid, what to do, and what to ask before underwriting a category or business.</p>

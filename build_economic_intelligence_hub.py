@@ -56,6 +56,10 @@ AMERICAN_THEME_MEMOS_LINK = (
     "The memo layer translates the themes system into operator and investor decisions: where to hunt, what to avoid, what to do, and what to diligence."
 )
 
+SECTOR_MEMOS_LINK = (
+    "The sector memo layer maps the major sectors to dominant themes, force pressures, representative industries, and advantaged versus exposed setups."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -219,6 +223,11 @@ def main():
     <div class="meta">Applied layer</div>
     <h3><a href="american-theme-memos.html">American Theme Memos</a></h3>
     <p>{e(AMERICAN_THEME_MEMOS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Sector layer</div>
+    <h3><a href="sector-memos.html">Sector Memos</a></h3>
+    <p>{e(SECTOR_MEMOS_LINK)}</p>
   </div>
 </section>
 
