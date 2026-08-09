@@ -36,6 +36,10 @@ SECTOR_CASES_LINK = (
     "the governing forces, and the owner/operator logic that follows."
 )
 
+SUBTHEMES_LINK = (
+    "The subtheme layer breaks each major force into its recurring underlying patterns, with angles and evidence footprints, so the map is readable below the headline level."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -156,6 +160,15 @@ def main():
 <section class="section">
   <h2>Forces</h2>
   <div class="grid">{force_cards}</div>
+</section>
+
+<section class="section">
+  <h2>Subthemes</h2>
+  <div class="card">
+    <div class="meta">Inside the forces</div>
+    <h3><a href="subthemes.html">Subtheme Index</a></h3>
+    <p>{e(SUBTHEMES_LINK)}</p>
+  </div>
 </section>
 
 <section class="section">
