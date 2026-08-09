@@ -16,6 +16,14 @@
       "gym-health-and-fitness-clubs-in-the-us",
       "hvac-service-franchises"
     ],
+    "evidence_industry_slugs": [
+      "hair-and-nail-salons-in-the-us",
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises",
+      "handyman-service-franchises"
+    ],
     "sectors": [
       "Consumer Services",
       "Business Services"
@@ -110,6 +118,14 @@
       "industrial-and-commercial-fan-and-blower-manufacturing",
       "commercial-oven-manufacturing"
     ],
+    "evidence_industry_slugs": [
+      "laboratory-casework-manufacturing",
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing",
+      "dental-clinical-instrument-manufacturing"
+    ],
     "sectors": [
       "Manufacturing"
     ],
@@ -180,6 +196,14 @@
       "dna-and-dna-forensic-laboratories",
       "laboratory-testing-services-in-the-us",
       "hearing-aid-clinics"
+    ],
+    "evidence_industry_slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "eating-disorder-clinics",
+      "dna-and-dna-forensic-laboratories",
+      "laboratory-testing-services-in-the-us",
+      "hearing-aid-clinics",
+      "healthcare-staff-recruitment-agencies"
     ],
     "sectors": [
       "Healthcare",
@@ -260,6 +284,14 @@
       "karaoke-bars",
       "golf-driving-ranges-and-family-fun-centers-in-the-us",
       "indoor-climbing-walls"
+    ],
+    "evidence_industry_slugs": [
+      "arcade-food-and-entertainment-complexes-in-the-us",
+      "dance-studios",
+      "karaoke-bars",
+      "golf-driving-ranges-and-family-fun-centers-in-the-us",
+      "indoor-climbing-walls",
+      "indoor-sports-facilities-management"
     ],
     "sectors": [
       "Consumer Services",
@@ -342,6 +374,14 @@
       "hot-sauce-production",
       "bbq-sauce-production"
     ],
+    "evidence_industry_slugs": [
+      "cocoa-and-drinking-chocolate-production",
+      "coffee-creamer-production",
+      "kombucha-production-in-the-us",
+      "hot-sauce-production",
+      "bbq-sauce-production",
+      "cider-production"
+    ],
     "sectors": [
       "Food & Drink",
       "Manufacturing",
@@ -414,6 +454,14 @@
       "identity-theft-protection-services",
       "forensic-accounting-services",
       "forensic-technology-services"
+    ],
+    "evidence_industry_slugs": [
+      "insurance-claims-processing-software",
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services",
+      "dna-and-dna-forensic-laboratories"
     ],
     "sectors": [
       "Technology & Digital",
@@ -502,6 +550,14 @@
       "dairy-wholesaling-in-the-us",
       "egg-and-poultry-wholesaling-in-the-us",
       "janitorial-equipment-supply-wholesaling-in-the-us"
+    ],
+    "evidence_industry_slugs": [
+      "electrical-equipment-wholesaling-in-the-us",
+      "coal-and-ore-wholesaling-in-the-us",
+      "dairy-wholesaling-in-the-us",
+      "egg-and-poultry-wholesaling-in-the-us",
+      "janitorial-equipment-supply-wholesaling-in-the-us",
+      "jewelry-and-watch-wholesaling-in-the-us"
     ],
     "sectors": [
       "Business Services",
@@ -597,6 +653,14 @@
       "child-education-and-developmental-center-franchises",
       "family-counseling-and-crisis-intervention-services-in-the-us",
       "family-planning-and-abortion-clinics-in-the-us"
+    ],
+    "evidence_industry_slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us",
+      "in-home-senior-care-franchises"
     ],
     "sectors": [
       "Healthcare",

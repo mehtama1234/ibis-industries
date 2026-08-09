@@ -11,6 +11,7 @@ from collections import Counter
 ROOT = os.path.dirname(os.path.abspath(__file__))
 JSON_OUT = os.path.join(ROOT, "business_lenses.json")
 HTML_OUT = os.path.join(ROOT, "business-lenses.html")
+PAGES_OUT = os.path.join(ROOT, "business-lenses")
 
 
 def e(value):
@@ -19,6 +20,8 @@ def e(value):
 
 PLAYBOOKS = json.load(open(os.path.join(ROOT, "operator_playbooks.json"), encoding="utf-8"))
 FORCE_TRANSLATIONS = json.load(open(os.path.join(ROOT, "force_operator_translations.json"), encoding="utf-8"))
+BRIEFS = json.load(open(os.path.join(ROOT, "briefs_full.json"), encoding="utf-8"))
+BRIEFS_BY_SLUG = {b["slug"]: b for b in BRIEFS}
 
 FORCES_BY_PLAYBOOK: dict[str, list[dict]] = {}
 for force in FORCE_TRANSLATIONS:
@@ -124,6 +127,12 @@ CSS = """
 """
 
 
+PAGE_CSS = """
+:root{--bg:#101318;--panel:#171d24;--panel2:#1d2630;--line:#2a3440;--ink:#f0eadc;--muted:#a9b2bd;--faint:#74808d;--gold:#d4ad55;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,40px) 72px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:34px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1;margin:.18em 0 .22em}.sub{max-width:860px;color:var(--muted);font-size:1.07rem}.split{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:18px;margin-top:26px}.panel,.brief{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.panel h2,.brief h2{margin:0 0 .45em;font-size:1.18rem}.panel p,.brief p{color:var(--muted);margin:.4em 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.4em 0}.stack>*+*{margin-top:12px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}.brief h3{margin:.15em 0;font-size:1.04rem}.brief .stats{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.brief .stats span{font-family:var(--mono);font-size:.72rem;background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.section{margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}@media(max-width:900px){.split{grid-template-columns:1fr}}footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--faint);font-family:var(--mono);font-size:.72rem}
+"""
+
+
 def top_themes(playbook: dict) -> list[str]:
     return [theme for theme, _n in playbook.get("common_themes", [])[:5]]
 
@@ -158,6 +167,7 @@ def build_records():
                 ),
                 "primary_industry_slug": playbook["industries"][0]["slug"],
                 "adjacent_industry_slugs": [x["slug"] for x in playbook["industries"][1:5]],
+                "evidence_industry_slugs": [x["slug"] for x in playbook["industries"][:6]],
                 "sectors": top_sectors(playbook),
                 "themes": top_themes(playbook),
                 "primary_force_slugs": [f["slug"] for f in linked_forces[:3]],
@@ -186,6 +196,105 @@ def build_records():
     return records
 
 
+def brief_card(brief: dict) -> str:
+    themes = "".join(f'<span class="chip">{e(t)}</span>' for t in brief.get("themes", [])[:4])
+    stats = "".join(
+        f"<span>{e(brief.get('key_stats', {}).get(key) or 'n/a')}</span>"
+        for key in ("market_size", "growth", "profit_margin")
+    )
+    return f"""<article class="brief">
+  <div class="meta">{e(brief.get('sector'))}</div>
+  <h3>{e(brief.get('title'))}</h3>
+  <p>{e(brief.get('one_sentence') or brief.get('one_liner'))}</p>
+  <div class="stats">{stats}</div>
+  <div class="chips">{themes}</div>
+</article>"""
+
+
+def build_detail_page(record: dict) -> str:
+    primary = BRIEFS_BY_SLUG[record["primary_industry_slug"]]
+    adjacent = [BRIEFS_BY_SLUG[s] for s in record["adjacent_industry_slugs"] if s in BRIEFS_BY_SLUG]
+    evidence = [BRIEFS_BY_SLUG[s] for s in record["evidence_industry_slugs"] if s in BRIEFS_BY_SLUG]
+    linked_force_cards = []
+    for force in record["linked_forces"]:
+        linked_force_cards.append(
+            f"""<div class="panel">
+  <div class="meta">Force</div>
+  <h2>{e(force['title'])}</h2>
+  <p><b>Demand logic:</b> {e(force['demand_logic'])}</p>
+  <p><b>Margin logic:</b> {e(force['margin_logic'])}</p>
+</div>"""
+        )
+    adjacent_cards = "\n".join(brief_card(b) for b in adjacent)
+    evidence_cards = "\n".join(brief_card(b) for b in evidence)
+    moves = "".join(f"<li>{e(m)}</li>" for m in record["advantaged_moves"])
+    likely_losers = "".join(f'<span class="chip">{e(x)}</span>' for x in record["likely_losers"])
+    sectors = "".join(f'<span class="chip">{e(s)}</span>' for s in record["sectors"])
+    themes = "".join(f'<span class="chip">{e(t)}</span>' for t in record["themes"])
+    constraints = "".join(f'<span class="chip">{e(c)}</span>' for c in record["binding_constraints"])
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{e(record['title'])} — Business Lens</title><style>{PAGE_CSS}</style></head>
+<body><div class="wrap">
+<div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../force-operator-translations.html">Force-to-operator</a><a href="../business-lenses.html">Business lenses</a></div>
+<div class="eyebrow">Business lens · US · 2025–2026</div>
+<h1>{e(record['title'])}</h1>
+<p class="sub">{e(record['business_truth'])}</p>
+<div class="split">
+  <main class="stack">
+    <div class="panel">
+      <div class="meta">Business truth</div>
+      <h2>What this business really is</h2>
+      <p>{e(record['core_offer'])}</p>
+      <p><b>Primary customer:</b> {e(record['primary_customer'])}</p>
+      <p><b>Value-chain position:</b> {e(record['value_chain_position'])}</p>
+      <div class="chips">{sectors}</div>
+      <div class="chips">{themes}</div>
+    </div>
+    <div class="panel">
+      <div class="meta">Representative industry</div>
+      <h2>{e(primary['title'])}</h2>
+      <p>{e(primary.get('one_sentence') or primary.get('one_liner'))}</p>
+      <div class="chips">{''.join(f'<span class="chip">{e(t)}</span>' for t in primary.get('themes', [])[:5])}</div>
+    </div>
+    <div class="section">
+      <h2>Linked Forces</h2>
+      <div class="stack">{''.join(linked_force_cards)}</div>
+    </div>
+    <div class="section">
+      <h2>Evidence Industries</h2>
+      <div class="grid">{evidence_cards}</div>
+    </div>
+    <div class="section">
+      <h2>Adjacent Industry Reads</h2>
+      <div class="grid">{adjacent_cards}</div>
+    </div>
+  </main>
+  <aside class="stack">
+    <div class="panel">
+      <div class="meta">Demand and ownership</div>
+      <h2>Operating stance</h2>
+      <p><b>Demand type:</b> {e(record['demand_type'])}</p>
+      <p><b>Best owner type:</b> {e(record['best_owner_type'])}</p>
+      <p>{e(record['why_this_owner_type'])}</p>
+      <div class="chips">{constraints}</div>
+    </div>
+    <div class="panel">
+      <div class="meta">What to do</div>
+      <h2>Advantaged moves</h2>
+      <ul class="list">{moves}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Who gets squeezed</div>
+      <h2>Likely losers</h2>
+      <div class="chips">{likely_losers}</div>
+    </div>
+  </aside>
+</div>
+<footer>Built from the operator playbooks, force translations, and representative industries in the 1,491-industry corpus.</footer>
+</div></body></html>"""
+
+
 def build_html(records):
     cards = []
     for r in records:
@@ -197,7 +306,7 @@ def build_html(records):
         cards.append(
             f"""<article class="card">
   <div class="meta">{e(r['economic_role'])}</div>
-  <h3>{e(r['title'])}</h3>
+  <h3><a href="business-lenses/{e(r['slug'])}.html">{e(r['title'])}</a></h3>
   <p>{e(r['business_truth'])}</p>
   <p><b>Demand type:</b> {e(r['demand_type'])}</p>
   <p><b>Best owner type:</b> {e(r['best_owner_type'])}</p>
@@ -224,10 +333,14 @@ def build_html(records):
 
 def main():
     records = build_records()
+    os.makedirs(PAGES_OUT, exist_ok=True)
     with open(JSON_OUT, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
     with open(HTML_OUT, "w", encoding="utf-8") as f:
         f.write(build_html(records))
+    for record in records:
+        with open(os.path.join(PAGES_OUT, f"{record['slug']}.html"), "w", encoding="utf-8") as f:
+            f.write(build_detail_page(record))
     print(f"wrote {JSON_OUT}")
     print(f"wrote {HTML_OUT}")
     print(f"records={len(records)}")
