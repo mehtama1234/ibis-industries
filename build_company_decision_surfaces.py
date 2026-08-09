@@ -63,6 +63,30 @@ def render_sector_chips(company: dict) -> str:
     return "".join(f'<span class="chip">{e(item["sector"])}</span>' for item in company.get("sector_mix", [])[:4])
 
 
+def render_sector_lines(company: dict) -> str:
+    items = [
+        f"{item['sector']}: {item['count']} linked industries"
+        for item in company.get("sector_mix", [])[:4]
+    ] or ["No sector concentration surfaced yet."]
+    return "".join(f"<li>{e(item)}</li>" for item in items)
+
+
+def render_signal_lines(company: dict) -> str:
+    items = [force["title"] for force in company.get("dominant_forces", [])[:3]]
+    items += [f"Primary constraints: {', '.join(company.get('constraints', [])[:3])}."]
+    return "".join(f"<li>{e(item)}</li>" for item in items if item)
+
+
+def render_underwrite_lines(company: dict) -> str:
+    items = [
+        f"Can {company['title']} keep converting {company.get('business_model_cluster_title', '').lower()} position into {company.get('best_owner_type', 'advantaged owner')} economics?",
+        f"Do {', '.join(company.get('constraints', [])[:3])} remain manageable rather than thesis-breaking constraints?",
+    ]
+    if company.get("likely_losers"):
+        items.append(f"If the read breaks, it likely starts looking more like {company['likely_losers'][0]}.")
+    return "".join(f"<li>{e(item)}</li>" for item in items if item)
+
+
 def render_company_card(company: dict, cluster_outlook: dict | None) -> str:
     lens_chips = ""
     cluster_themes = ""
@@ -78,9 +102,17 @@ def render_company_card(company: dict, cluster_outlook: dict | None) -> str:
   <div class="chips">{render_force_chips(company)}</div>
   <div class="chips">{render_theme_chips(company)}</div>
   <div class="chips">{render_constraint_chips(company)}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{render_sector_chips(company)}</div>
+  <ul class="list">{render_sector_lines(company)}</ul>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="list">{render_signal_lines(company)}</ul>
   <div class="chips">{lens_chips}</div>
   <div class="chips">{cluster_themes}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(company.get('why_owner_type', ''))}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <ul class="list">{render_underwrite_lines(company)}</ul>
 </article>"""
 
 
@@ -130,6 +162,7 @@ def build_scoreboard_page(scoreboard: dict, cluster_outlooks: dict[str, dict]) -
             f"""<section class="section">
   <h2>{e(title)}</h2>
   <p class="sub">{e(body)}</p>
+  <div class="lead"><p>{e('Use this section to separate structural fit from simple brand familiarity. The names here matter because they sit in, or outside, the right bottlenecks, channels, and owner types for the current regime.')}</p></div>
   <div class="grid">{''.join(cards)}</div>
 </section>"""
         )
@@ -177,19 +210,21 @@ def build_comparisons_page(comparisons: list[dict], cluster_outlooks: dict[str, 
   <div class="meta">{section['company_count']} companies</div>
   <h3>{e(section['cluster_title'])}</h3>
   <p>{e(section.get('cluster_thesis') or 'This comparison groups the recurrent names inside one operating cluster and separates the apparent leaders, pressures, and contested middle.')}</p>
-  <div class="chips">{lens_chips}</div>
-  <div class="chips">{force_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{lens_chips}{force_chips}{constraint_chips}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{sector_chips}</div>
+  <div class="meta" style="margin-top:14px">Recurring themes</div>
   <div class="chips">{constraint_chips}</div>
   <div class="chips">{theme_chips}</div>
   <div class="chips">{term_chips}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Operator angle</div>
+      <div class="meta">What to do</div>
       <p>{e(section.get('operator_angle', ''))}</p>
     </div>
     <div class="panel">
-      <div class="meta">Investor angle</div>
+      <div class="meta">What to underwrite</div>
       <p>{e(section.get('investor_angle', ''))}</p>
     </div>
   </div>
