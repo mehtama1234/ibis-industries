@@ -56,6 +56,10 @@ AMERICAN_OUTLOOK_LINK = (
     "The master outlook reorganizes the same system into four top-level lenses: societal, cultural, consumer, and industrial change, with linked tensions, signals, and subtheme evidence."
 )
 
+AMERICAN_OUTLOOK_MEMOS_LINK = (
+    "The outlook memo pack is the applied macro layer above the essays: four board-style memos for societal, cultural, consumer, and industrial change."
+)
+
 AMERICAN_THEME_MEMOS_LINK = (
     "The memo layer translates the themes system into operator and investor decisions: where to hunt, what to avoid, what to do, and what to diligence."
 )
@@ -226,6 +230,11 @@ def main():
     <div class="meta">Master synthesis</div>
     <h3><a href="american-outlook-2025-2026.html">American Outlook 2025-2026</a></h3>
     <p>{e(AMERICAN_OUTLOOK_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Applied macro layer</div>
+    <h3><a href="american-outlook-memos.html">American Outlook Memos</a></h3>
+    <p>{e(AMERICAN_OUTLOOK_MEMOS_LINK)}</p>
   </div>
   <div class="card">
     <div class="meta">Capstone narrative</div>
