@@ -40,6 +40,10 @@ SUBTHEMES_LINK = (
     "The subtheme layer breaks each major force into its recurring underlying patterns, with angles and evidence footprints, so the map is readable below the headline level."
 )
 
+AMERICAN_THEMES_LINK = (
+    "The American themes layer turns the force map into a broader read on societal, cultural, consumer, industrial, and institutional change, with detailed subthemes and second-order patterns."
+)
+
 BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
@@ -147,7 +151,7 @@ def main():
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Economic Intelligence — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="operators.html">Operator playbooks</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="operators.html">Operator playbooks</a><a href="american-themes.html">American themes</a></div>
 <div class="eyebrow">Economic intelligence · US · 2025–2026</div>
 <h1>Economic Intelligence</h1>
 <p class="sub">{e(INTRO)}</p>
@@ -180,6 +184,15 @@ def main():
 <section class="section">
   <h2>Forces</h2>
   <div class="grid">{force_cards}</div>
+</section>
+
+<section class="section">
+  <h2>Themes</h2>
+  <div class="card">
+    <div class="meta">Interpretation layer</div>
+    <h3><a href="american-themes.html">American Themes</a></h3>
+    <p>{e(AMERICAN_THEMES_LINK)}</p>
+  </div>
 </section>
 
 <section class="section">
