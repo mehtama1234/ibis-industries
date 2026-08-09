@@ -1,0 +1,1594 @@
+[
+  {
+    "theme_slug": "barbelled-consumer-america",
+    "theme_title": "Barbelled Consumer America",
+    "lens": "Consumer",
+    "sectors": [
+      {
+        "sector": "Retail",
+        "industry_count": 12,
+        "subthemes": [
+          "Convenience Becomes Its Own Pricing Layer",
+          "Mid-Market Erosion Becomes Structural",
+          "Premium Refuges Still Hold Price",
+          "Private Label and Dupes Legitimize Trade-Down",
+          "Value Machines Win the Weekly Basket"
+        ],
+        "industries": [
+          {
+            "slug": "discount-department-stores",
+            "title": "Discount Department Stores",
+            "one_sentence": "The $107.2 billion US discount department stores industry is stabilizing after years of decline, driven by inflation-fueled consumer trade-down behavior and off-price players aggressively expanding, though tariffs and wage pressures are squeezing margins"
+          },
+          {
+            "slug": "warehouse-clubs-and-supercenters-in-the-us",
+            "title": "Warehouse Clubs & Supercenters in the US",
+            "one_sentence": "Warehouse clubs and supercenters sell groceries, fuel and general merchandise at low prices, using purchasing scale, large-format stores, memberships and store-based fulfillment to defend share against supermarkets, dollar stores and e-commerce rivals"
+          },
+          {
+            "slug": "auto-parts-stores-in-the-us",
+            "title": "Auto Parts Stores in the US",
+            "one_sentence": "The $77 billion US auto parts stores industry (2026) faces slowing growth (1.6% in 2026) as electric vehicles require fewer traditional repairs, e-commerce takes online sales, and tariffs on imported parts raise costs"
+          },
+          {
+            "slug": "jewelry-stores-in-the-us",
+            "title": "Jewelry Stores in the US",
+            "one_sentence": "The US brick-and-mortar jewelry stores industry contracted sharply in 2025-2026 (12.1% and 2.2% respectively) as tariffs, high gold prices, and e-commerce competition accelerated store closures, even as lab-grown diamonds and wealthy consumers sustained pockets of resilience"
+          },
+          {
+            "slug": "department-stores-in-the-us",
+            "title": "Department Stores in the US",
+            "one_sentence": "The US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce"
+          },
+          {
+            "slug": "womens-clothing-stores-in-the-us",
+            "title": "Women's Clothing Stores in the US",
+            "one_sentence": "In 2026, Women's Clothing Stores in the US are rebuilding around sharper merchandising, loyalty, stores-as-showrooms and digital demand capture, but the core brick-and-mortar market is still structurally challenged by online substitution, value-seeking consumers and higher import costs"
+          },
+          {
+            "slug": "furniture-stores-in-the-us",
+            "title": "Furniture Stores in the US",
+            "one_sentence": "The US furniture retail market is contracting in physical showroom footprint as online channels (28% of sales, growing 5\u201310% annually) and tariff pressures squeeze traditional operators, while housing-market weakness and consumer retrenchment trigger waves of bankruptcies and strategic repositioning toward DTC, sustainability, and omnichannel logistics"
+          },
+          {
+            "slug": "consumer-electronics-stores-in-the-us",
+            "title": "Consumer Electronics Stores in the US",
+            "one_sentence": "Consumer electronics retail in the US is a mature, consolidating industry where brick-and-mortar stores are losing share to e-commerce and manufacturers' direct sales, leaving only the largest, most agile players (mainly Best Buy) with sustainable paths forward"
+          },
+          {
+            "slug": "e-commerce-and-online-auctions-in-the-us",
+            "title": "E-Commerce & Online Auctions in the US",
+            "one_sentence": "E-commerce in the US remains fast-growing but increasingly consolidated, with Amazon's dominance setting punishing standards for rivals while regulatory pressure, tariffs, and shrinking margins force smaller sellers to automate or exit"
+          },
+          {
+            "slug": "pharmacies-and-drug-stores-in-the-us",
+            "title": "Pharmacies & Drug Stores in the US",
+            "one_sentence": "This is a mature but resilient retail-health sector where large chains expand care services while independent pharmacies absorb most closure-related pressure"
+          },
+          {
+            "slug": "health-stores-in-the-us",
+            "title": "Health Stores in the US",
+            "one_sentence": "The brick-and-mortar health stores sector is stalled\u2014market growth is slowing, major chains are in bankruptcy or being sold to private equity, and tariffs on vitamins and supplements are forcing difficult cost-pass-through decisions in 2025-2026"
+          },
+          {
+            "slug": "department-stores-in-the-us",
+            "title": "Department Stores in the US",
+            "one_sentence": "The US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce"
+          }
+        ]
+      },
+      {
+        "sector": "Food & Drink",
+        "industry_count": 2,
+        "subthemes": [
+          "Convenience Becomes Its Own Pricing Layer",
+          "Premium Refuges Still Hold Price"
+        ],
+        "industries": [
+          {
+            "slug": "wineries-in-the-us",
+            "title": "Wineries in the US",
+            "one_sentence": "In 2026, the U.S. wine industry remains a major economic force but faces weaker domestic demand, climate volatility, and a sharp Canada export shock"
+          },
+          {
+            "slug": "meal-kit-delivery-services",
+            "title": "Meal Kit Delivery Services",
+            "one_sentence": "The U.S. meal kit delivery services industry generated an estimated $15.2935 billion in 2025 revenue and is forecast at $17.4149 billion in 2026, with growth increasingly coming from flexible ordering, ready-to-heat meals and grocery-linked distribution rather than pure subscription boxes"
+          }
+        ]
+      },
+      {
+        "sector": "Consumer Services",
+        "industry_count": 1,
+        "subthemes": [
+          "Convenience Becomes Its Own Pricing Layer"
+        ],
+        "industries": [
+          {
+            "slug": "coffee-and-snack-shops-in-the-us",
+            "title": "Coffee & Snack Shops in the US",
+            "one_sentence": "Pricing power is gone: commodity shocks and tariffs have crushed margins, bankruptcies hit independents, mega-deals consolidate the top (Keurig/JDE Peet's), while Starbucks staggers through a labor-heavy turnaround and QSRs poach coffee sales via convenience and automation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "wellness-recodes-daily-life",
+    "theme_title": "Wellness Recodes Daily Life",
+    "lens": "Cultural / Consumer",
+    "sectors": [
+      {
+        "sector": "Food & Drink",
+        "industry_count": 10,
+        "subthemes": [
+          "Functional Consumption Beats Empty Indulgence",
+          "GLP-1 Resets Appetite and Portion Economics",
+          "Indulgence Survives by Being Reformulated",
+          "Sober Socializing Changes Nightlife and Beverage Mix"
+        ],
+        "industries": [
+          {
+            "slug": "fast-food-restaurants-in-the-us",
+            "title": "Fast Food Restaurants in the US",
+            "one_sentence": "A mature, fragmented $424B industry growing below 1% in 2026 as traffic deflates from consumer retrenchment and GLP-1 adoption, labor costs rise structurally (California $20/hour minimum now core cost floor), tariffs push food prices relentlessly higher, and chains make desperate bets on AI automation to replace payroll"
+          },
+          {
+            "slug": "candy-production-in-the-us",
+            "title": "Candy Production in the US",
+            "one_sentence": "The US candy industry is shifting from high-sugar commodity production toward premiumized, functional, and texture-driven innovations, while facing unprecedented tariff-driven cost inflation and structural competition from chocolate and imported goods"
+          },
+          {
+            "slug": "breweries-in-the-us",
+            "title": "Breweries in the US",
+            "one_sentence": "The US beer industry is contracting sharply\u2014production down 5.7% in 2025, craft breweries down to 9,344 in June 2026, and 481 closures in 2025\u2014while large producers consolidate, shift to premium and non-alcoholic products, and face tariff-driven cost inflation as consumers increasingly choose alternative beverages"
+          },
+          {
+            "slug": "distilleries-in-the-us",
+            "title": "Distilleries in the US",
+            "one_sentence": "After two decades of premiumization-driven growth, the US distilleries industry is in sharp contraction due to bourbon overcapacity, export tariffs, and the July 2026 bankruptcy of RNDC, the second-largest spirits distributor. Spirits ready-to-drink (RTD) cocktails: +16.4% in 2025, reaching $3.8 billion in sales. Spirit-based RTDs projected to grow 20.5% annually through 2033, capturing younger consumers and convenience-seekers. Super-premium whiskey segments also remain resilient despite overall volume declines, as drinkers shift to quality-over-quantity smaller formats (375-700mL bottles). Craft distillery count rose 11.5% to 3,069 by 2024, though profitability remains under pressure. Total spirits sales: -2.2% in 2025. Bourbon whiskey specifically fell 4.9% by volume and 5.1% by revenue in the 12 months ending July 2025, with major brands down 7-8% (Bulleit -7%, Wild Turkey -8%). Flavored gin collapsed 37% between 2021-2023, as consumers returned to classic London Dry styles. Whiskey exports declined 3.8% to $2.37 billion in 2025 due to tariffs. Traditional on-premise channels (bars, restaurants) continue to lose share to off-premise retail. [\"Brown-Forman (Jack Daniels, Woodford Reserve; down 12% workforce, CEO transitioning 2026)\", \"Diageo (Guinness, Johnnie Walker parent)\", \"Sazerac (Buffalo Trace, Pappy Van Winkle)\", \"Pernod Ricard (Absolut, Jameson; failed $30B merger with Brown-Forman, 2026)\", \"Treasury Wine Estates (divestment from spirits)\", \"Bacardi (acquired full Teeling Irish Whiskey, 2026)\", \"Gallo (acquired Four Roses Bourbon for up to $775M, 2026)\", \"Siren Spirits Group (new women-owned collective pooling distribution)\", \"Middle West Spirits (acquired Old Elk via craft consolidation)\"]"
+          },
+          {
+            "slug": "wine-bars",
+            "title": "Wine Bars",
+            "one_sentence": "The U.S. wine bar industry recovered from 2020 closures into an estimated $2.3 billion 2026 market, but operators now face a tougher wine-demand backdrop, elevated labor and occupancy costs, and a consumer shift toward value, sparkling whites, low/no-alcohol options and experience-led occasions"
+          },
+          {
+            "slug": "juice-production-in-the-us",
+            "title": "Juice Production in the US",
+            "one_sentence": "A maturing $13.6 billion industry facing structural demand collapse\u2014consumers no longer believe juice is healthy\u2014while hit by tariffs, regulatory pressure on sugar, and Florida's decimated citrus harvest"
+          },
+          {
+            "slug": "ice-cream-production-in-the-us",
+            "title": "Ice Cream Production in the US",
+            "one_sentence": "The US ice cream market is growing slowly (2.7% annually to 2031) as big manufacturers restructure via M&A, tariff pressures mount, and consumer spending shifts from bulk regular ice cream to premium, single-serve, and plant-based novelties"
+          },
+          {
+            "slug": "candy-production-in-the-us",
+            "title": "Candy Production in the US",
+            "one_sentence": "The US candy industry is shifting from high-sugar commodity production toward premiumized, functional, and texture-driven innovations, while facing unprecedented tariff-driven cost inflation and structural competition from chocolate and imported goods"
+          },
+          {
+            "slug": "dairy-product-production-in-the-us",
+            "title": "Dairy Product Production in the US",
+            "one_sentence": "Rising production and falling prices are forcing farm consolidation and bankruptcies while labor shortages, tariffs, and plant-based competition threaten traditional commodity producers"
+          },
+          {
+            "slug": "chain-restaurants-in-the-us",
+            "title": "Chain Restaurants in the US",
+            "one_sentence": "Chain restaurants are caught between structural wage inflation, tariff pressures, and a consumer base choosing value-driven casual dining over premium sit-down experiences"
+          }
+        ]
+      },
+      {
+        "sector": "Consumer Services",
+        "industry_count": 4,
+        "subthemes": [
+          "Beauty, Fitness, and Health Start to Merge",
+          "Functional Consumption Beats Empty Indulgence",
+          "GLP-1 Resets Appetite and Portion Economics",
+          "Sober Socializing Changes Nightlife and Beverage Mix"
+        ],
+        "industries": [
+          {
+            "slug": "weight-loss-services-in-the-us",
+            "title": "Weight Loss Services in the US",
+            "one_sentence": "The US weight loss services industry has shifted from center-based coaching and branded diet plans toward hybrid behavioral, clinical and subscription models as GLP-1 medications pull demand away from legacy programs while expanding the addressable market for medically supervised weight management"
+          },
+          {
+            "slug": "bars-and-nightclubs-in-the-us",
+            "title": "Bars & Nightclubs in the US",
+            "one_sentence": "The bars and nightclubs industry is a mature, stagnating sector facing labor inflation, spirit tariffs, and shifting younger-consumer drinking patterns, with growth concentrated in upscale experiential venues and private-equity-led consolidation"
+          },
+          {
+            "slug": "coffee-and-snack-shops-in-the-us",
+            "title": "Coffee & Snack Shops in the US",
+            "one_sentence": "Pricing power is gone: commodity shocks and tariffs have crushed margins, bankruptcies hit independents, mega-deals consolidate the top (Keurig/JDE Peet's), while Starbucks staggers through a labor-heavy turnaround and QSRs poach coffee sales via convenience and automation"
+          },
+          {
+            "slug": "weight-loss-services-in-the-us",
+            "title": "Weight Loss Services in the US",
+            "one_sentence": "The US weight loss services industry has shifted from center-based coaching and branded diet plans toward hybrid behavioral, clinical and subscription models as GLP-1 medications pull demand away from legacy programs while expanding the addressable market for medically supervised weight management"
+          }
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "industry_count": 2,
+        "subthemes": [
+          "Functional Consumption Beats Empty Indulgence",
+          "GLP-1 Resets Appetite and Portion Economics"
+        ],
+        "industries": [
+          {
+            "slug": "cookie-cracker-and-pasta-production-in-the-us",
+            "title": "Cookie, Cracker & Pasta Production in the US",
+            "one_sentence": "A stable, maturing industry pivoting to health-conscious products faces margin squeeze from tariffs, labor costs, and commodity inflation while major players consolidate to compete across premium and value tiers"
+          },
+          {
+            "slug": "energy-drink-production",
+            "title": "Energy Drink Production",
+            "one_sentence": "The industry manufactures and markets caffeinated ready-to-drink beverages, shots and mixes, with 2025 demand supported by strong retail velocity, flavor innovation, expanded distribution and consumer substitution away from soda and some coffee occasions"
+          }
+        ]
+      },
+      {
+        "sector": "Healthcare",
+        "industry_count": 1,
+        "subthemes": [
+          "Beauty, Fitness, and Health Start to Merge"
+        ],
+        "industries": [
+          {
+            "slug": "dermatologists",
+            "title": "Dermatologists",
+            "one_sentence": "The US dermatology industry\u2014$8-9B in 2026, still 85% fragmented but consolidating around 35+ PE platforms\u2014faces simultaneous opportunity and pressure: rising skin-cancer diagnoses and cosmetic demand push margins upward, while Medicare cuts and AI-assisted primary-care screening threaten volume and force survivors into larger groups"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 1,
+        "subthemes": [
+          "Functional Consumption Beats Empty Indulgence"
+        ],
+        "industries": [
+          {
+            "slug": "health-stores-in-the-us",
+            "title": "Health Stores in the US",
+            "one_sentence": "The brick-and-mortar health stores sector is stalled\u2014market growth is slowing, major chains are in bankruptcy or being sold to private equity, and tariffs on vitamins and supplements are forcing difficult cost-pass-through decisions in 2025-2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "experience-status-and-community",
+    "theme_title": "Experience, Status, and Community",
+    "lens": "Cultural / Social",
+    "sectors": [
+      {
+        "sector": "Consumer Services",
+        "industry_count": 7,
+        "subthemes": [
+          "Active Aging and Outdoor Identity Expand Leisure Demand",
+          "Memory Beats Merchandise",
+          "Venue Scarcity Creates Durable Pricing Power"
+        ],
+        "industries": [
+          {
+            "slug": "amusement-parks-in-the-us",
+            "title": "Amusement Parks in the US",
+            "one_sentence": "The industry is enjoying strong nominal growth driven by pent-up leisure demand and blockbuster new attractions, but real per-guest margins are being eroded by sticky labor costs, tariff-driven equipment expenses, and mounting pressure from consumers increasingly pricing-conscious about family vacations"
+          },
+          {
+            "slug": "campgrounds-and-rv-parks-in-the-us",
+            "title": "Campgrounds & RV Parks in the US",
+            "one_sentence": "The US campgrounds and RV parks industry has shifted from growth-through-expansion to profit-through-optimization as consolidation, constrained supply, and younger, higher-spending campers reshape a once-sleepy sector"
+          },
+          {
+            "slug": "hotels-and-motels-in-the-us",
+            "title": "Hotels & Motels in the US",
+            "one_sentence": "The US hotel industry is a mature, labor-constrained market bifurcating into high-margin luxury and extended-stay growth versus low-margin economy decline, disrupted by AI workflow automation and haunted by Sonder's spectacular failure"
+          },
+          {
+            "slug": "casino-hotels-in-the-us",
+            "title": "Casino Hotels in the US",
+            "one_sentence": "The US casino hotels industry is in a mature holding pattern, balancing expensive labor and pricing power against a shifting customer base split between digital-native players and those who still value the physical resort experience"
+          },
+          {
+            "slug": "bars-and-nightclubs-in-the-us",
+            "title": "Bars & Nightclubs in the US",
+            "one_sentence": "The bars and nightclubs industry is a mature, stagnating sector facing labor inflation, spirit tariffs, and shifting younger-consumer drinking patterns, with growth concentrated in upscale experiential venues and private-equity-led consolidation"
+          },
+          {
+            "slug": "campgrounds-and-rv-parks-in-the-us",
+            "title": "Campgrounds & RV Parks in the US",
+            "one_sentence": "The US campgrounds and RV parks industry has shifted from growth-through-expansion to profit-through-optimization as consolidation, constrained supply, and younger, higher-spending campers reshape a once-sleepy sector"
+          },
+          {
+            "slug": "amusement-parks-in-the-us",
+            "title": "Amusement Parks in the US",
+            "one_sentence": "The industry is enjoying strong nominal growth driven by pent-up leisure demand and blockbuster new attractions, but real per-guest margins are being eroded by sticky labor costs, tariff-driven equipment expenses, and mounting pressure from consumers increasingly pricing-conscious about family vacations"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 7,
+        "subthemes": [
+          "Active Aging and Outdoor Identity Expand Leisure Demand",
+          "Fandom and Affiliation Become Spend Infrastructure",
+          "Retail Has to Become a Stage, Not Just a Shelf",
+          "Venue Scarcity Creates Durable Pricing Power"
+        ],
+        "industries": [
+          {
+            "slug": "sporting-goods-stores-in-the-us",
+            "title": "Sporting Goods Stores in the US",
+            "one_sentence": "The US sporting goods retail industry is consolidating rapidly (led by Dick's $2.5 billion Foot Locker acquisition), but is constrained by weakening consumer discretionary spending, tariff cost headwinds, and structural pressure from e-commerce and brand direct-to-consumer strategies"
+          },
+          {
+            "slug": "hiking-and-outdoor-equipment-stores",
+            "title": "Hiking & Outdoor Equipment Stores",
+            "one_sentence": "The US Hiking & Outdoor Equipment Stores industry remains a mature, niche retail channel centered on apparel, footwear, camping gear and expertise-led service, with 2025 revenue estimated at about $7.35 billion after a 2022 baseline of $7.05 billion and low-single-digit annual growth"
+          },
+          {
+            "slug": "sporting-goods-stores-in-the-us",
+            "title": "Sporting Goods Stores in the US",
+            "one_sentence": "The US sporting goods retail industry is consolidating rapidly (led by Dick's $2.5 billion Foot Locker acquisition), but is constrained by weakening consumer discretionary spending, tariff cost headwinds, and structural pressure from e-commerce and brand direct-to-consumer strategies"
+          },
+          {
+            "slug": "consumer-electronics-stores-in-the-us",
+            "title": "Consumer Electronics Stores in the US",
+            "one_sentence": "Consumer electronics retail in the US is a mature, consolidating industry where brick-and-mortar stores are losing share to e-commerce and manufacturers' direct sales, leaving only the largest, most agile players (mainly Best Buy) with sustainable paths forward"
+          },
+          {
+            "slug": "home-improvement-stores-in-the-us",
+            "title": "Home Improvement Stores in the US",
+            "one_sentence": "Home Depot and Lowe's are hanging on in a frozen housing market by serving professional customers and investing in e-commerce, but Amazon is creeping in, tariffs are raising costs, and smaller competitors are vanishing"
+          },
+          {
+            "slug": "sporting-goods-stores-in-the-us",
+            "title": "Sporting Goods Stores in the US",
+            "one_sentence": "The US sporting goods retail industry is consolidating rapidly (led by Dick's $2.5 billion Foot Locker acquisition), but is constrained by weakening consumer discretionary spending, tariff cost headwinds, and structural pressure from e-commerce and brand direct-to-consumer strategies"
+          },
+          {
+            "slug": "sporting-goods-stores-in-the-us",
+            "title": "Sporting Goods Stores in the US",
+            "one_sentence": "The US sporting goods retail industry is consolidating rapidly (led by Dick's $2.5 billion Foot Locker acquisition), but is constrained by weakening consumer discretionary spending, tariff cost headwinds, and structural pressure from e-commerce and brand direct-to-consumer strategies"
+          }
+        ]
+      },
+      {
+        "sector": "Media & Entertainment",
+        "industry_count": 2,
+        "subthemes": [
+          "Fandom and Affiliation Become Spend Infrastructure"
+        ],
+        "industries": [
+          {
+            "slug": "video-games-in-the-us",
+            "title": "Video Games in the US",
+            "one_sentence": "The U.S. video games industry generated about $60.8 billion in consumer spending in 2025, up 1.4% from 2024, with 2026 spending forecast near $62.8 billion as Nintendo Switch 2 momentum, subscriptions and major releases offset weaker legacy console cycles"
+          },
+          {
+            "slug": "music-publishing-in-the-us",
+            "title": "Music Publishing in the US",
+            "one_sentence": "Streaming accounts for 58% of music publishing revenue in 2025, mechanical royalty rates hit record highs in 2026, and the industry is consolidating into four major players while independent publishers gain direct-licensing alternatives"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 1,
+        "subthemes": [
+          "Memory Beats Merchandise"
+        ],
+        "industries": [
+          {
+            "slug": "domestic-airlines-in-the-us",
+            "title": "Domestic Airlines in the US",
+            "one_sentence": "The industry's ability to raise fares and profit margins is being undermined by a combination of fuel-price shocks, pilot shortages, and labor cost inflation, even as consolidation gives the four largest carriers unprecedented pricing power"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "aging-care-and-the-assistance-economy",
+    "theme_title": "Aging, Care, and the Assistance Economy",
+    "lens": "Societal / Institutional",
+    "sectors": [
+      {
+        "sector": "Healthcare",
+        "industry_count": 12,
+        "subthemes": [
+          "Chronic Care Becomes an Industrial Service Chain",
+          "Home-First Aging Reorders the Care Stack",
+          "Payers Gatekeep the Aging Economy",
+          "Senior Housing Demand Meets Staffing and Capacity Friction"
+        ],
+        "industries": [
+          {
+            "slug": "home-care-providers-in-the-us",
+            "title": "Home Care Providers in the US",
+            "one_sentence": "The US home care industry is growing due to an aging population preferring care at home, but faces existential margin compression from stacked payment cuts, severe workforce shortages at 75% annual turnover, and regulatory complexity that is driving consolidation into larger platforms"
+          },
+          {
+            "slug": "health-and-medical-insurance-in-the-us",
+            "title": "Health & Medical Insurance in the US",
+            "one_sentence": "The US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat"
+          },
+          {
+            "slug": "medical-device-manufacturing-in-the-us",
+            "title": "Medical Device Manufacturing in the US",
+            "one_sentence": "The US medical device manufacturing industry faces tariff-driven cost pressures and supply chain restructuring, but is pivoting toward automation, nearshoring, and AI integration while consolidating around major players"
+          },
+          {
+            "slug": "residential-senior-care-franchises",
+            "title": "Residential Senior Care Franchises",
+            "one_sentence": "Residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements"
+          },
+          {
+            "slug": "nursing-care-facilities-in-the-us",
+            "title": "Nursing Care Facilities in the US",
+            "one_sentence": "The industry is supported by an aging population and stable Medicare/Medicaid utilization while closures, staffing strain, and tighter oversight keep profitability uneven"
+          },
+          {
+            "slug": "dialysis-centers",
+            "title": "Dialysis Centers",
+            "one_sentence": "The US dialysis centers industry treated roughly 516,837 patients on dialysis in 2025, generated $36 billion in revenue with a 3.5% annual growth rate, and faced mounting wage pressures and regulatory reimbursement limits despite demographic tailwinds from an aging, diabetic population"
+          },
+          {
+            "slug": "ambulatory-surgery-centers",
+            "title": "Ambulatory Surgery Centers",
+            "one_sentence": "The $46.5 billion US ambulatory surgery center market is consolidating rapidly as hospitals and private equity acquire independents, while reimbursement growth lags labor cost inflation and new procedure opportunities fail to offset margin pressures"
+          },
+          {
+            "slug": "cardiologists",
+            "title": "Cardiologists",
+            "one_sentence": "The US cardiologists industry\u2014worth $67.2 billion in 2025 with 2.5% CAGR\u2014is collapsing private practice, absorbing private equity deals, grappling with severe workforce shortages and reimbursement cuts, while AI and remote monitoring transform clinical workflows"
+          },
+          {
+            "slug": "health-and-medical-insurance-in-the-us",
+            "title": "Health & Medical Insurance in the US",
+            "one_sentence": "The US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat"
+          },
+          {
+            "slug": "hmo-providers",
+            "title": "HMO Providers",
+            "one_sentence": "HMO providers are a mature, consolidating sector where Medicare Advantage growth masks steep profitability declines, employer-market retreat, and emerging regulatory pressure on cost justification and network adequacy"
+          },
+          {
+            "slug": "dental-insurance",
+            "title": "Dental Insurance",
+            "one_sentence": "The US dental insurance industry is in structural decline\u2014enrollment falling, plan maximums eroding, dentist networks collapsing, and regulatory crackdowns forcing transparency\u2014while tech-enabled alternatives and DSO consolidation further erode traditional carriers' power"
+          },
+          {
+            "slug": "home-care-providers-in-the-us",
+            "title": "Home Care Providers in the US",
+            "one_sentence": "The US home care industry is growing due to an aging population preferring care at home, but faces existential margin compression from stacked payment cuts, severe workforce shortages at 75% annual turnover, and regulatory complexity that is driving consolidation into larger platforms"
+          }
+        ]
+      },
+      {
+        "sector": "Finance & Insurance",
+        "industry_count": 4,
+        "subthemes": [
+          "Longevity Turns Into a Financial Product Problem"
+        ],
+        "industries": [
+          {
+            "slug": "life-insurance-and-annuities-in-the-us",
+            "title": "Life Insurance & Annuities in the US",
+            "one_sentence": "A mature, well-capitalized $1.1 trillion industry growing at 0.6% in 2025 but contracting 1.4% in 2026 due to interest rate normalization, though annuity sales hit record $464 billion in 2025 on the back of four million annual retirees and rising consumer demand for guaranteed income"
+          },
+          {
+            "slug": "long-term-care-insurance",
+            "title": "Long Term Care Insurance",
+            "one_sentence": "The US long-term care insurance industry is a $25.6 billion (2025) mature market dominated by Genworth and Prudential, struggling to balance aging-population demand against persistent affordability crises, regulatory tightening, and competition from public Medicaid programs"
+          },
+          {
+            "slug": "portfolio-management-in-the-us",
+            "title": "Portfolio Management in the US",
+            "one_sentence": "The industry remains large and profitable in 2025-2026, but growth is increasingly captured by low-cost index, ETF, model-portfolio, private-market and wealth-platform providers rather than traditional active mutual fund managers"
+          },
+          {
+            "slug": "financial-planning-and-advice-in-the-us",
+            "title": "Financial Planning & Advice in the US",
+            "one_sentence": "A fragmented industry facing historic M&A activity, technology-driven competition, and generational shifts in how clients expect to interact with advisors"
+          }
+        ]
+      },
+      {
+        "sector": "Real Estate",
+        "industry_count": 2,
+        "subthemes": [
+          "Senior Housing Demand Meets Staffing and Capacity Friction"
+        ],
+        "industries": [
+          {
+            "slug": "apartment-rental-in-the-us",
+            "title": "Apartment Rental in the US",
+            "one_sentence": "Apartment rents have stopped climbing and flat-lined after years of double-digit growth, exposing oversupply in the Sun Belt while rent-controlled markets squeeze landlords between frozen pricing and soaring costs, driving industry consolidation and bankruptcies"
+          },
+          {
+            "slug": "commercial-real-estate-in-the-us",
+            "title": "Commercial Real Estate in the US",
+            "one_sentence": "The US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures"
+          }
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "industry_count": 1,
+        "subthemes": [
+          "Chronic Care Becomes an Industrial Service Chain"
+        ],
+        "industries": [
+          {
+            "slug": "orthopedic-products-manufacturing",
+            "title": "Orthopedic Products Manufacturing",
+            "one_sentence": "The industry is growing slowly but steadily in 2025, supported by aging demographics, outpatient orthopedic procedures and robotics-enabled implants, while import competition, hospital price pressure and 2025-2026 tariff uncertainty keep margins tight"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 1,
+        "subthemes": [
+          "Home-First Aging Reorders the Care Stack"
+        ],
+        "industries": [
+          {
+            "slug": "couriers-and-local-delivery-services-in-the-us",
+            "title": "Couriers & Local Delivery Services in the US",
+            "one_sentence": "The industry is fragmenting from a UPS-FedEx duopoly into a multi-tier market where Amazon Logistics, retailer private networks, and gig platforms collectively erode traditional carrier dominance while automation and regulation reshape competitive economics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "work-without-the-old-firm",
+    "theme_title": "Work Without the Old Firm",
+    "lens": "Social / Labor",
+    "sectors": [
+      {
+        "sector": "Business Services",
+        "industry_count": 9,
+        "subthemes": [
+          "Benefits and Stability Shift Onto Workers",
+          "Skills and Credentials Replace Slow Career Ladders",
+          "The Fractional Executive Layer Expands",
+          "The Junior Rung Gets Compressed"
+        ],
+        "industries": [
+          {
+            "slug": "business-coaching-in-the-us",
+            "title": "Business Coaching in the US",
+            "one_sentence": "Business coaching in 2025-2026 is shifting from a discretionary C-suite perk to a scaled, AI-augmented professional development tool for mid-market and small-business leaders, underpinned by measured ROI claims and driven by a fragmented but rapidly professionalizing workforce of 165,000+ coaches"
+          },
+          {
+            "slug": "management-consulting-in-the-us",
+            "title": "Management Consulting in the US",
+            "one_sentence": "The US consulting industry is growing but hollowing: AI is replacing junior work, federal spending is collapsing, and clients are demanding outcomes not hours"
+          },
+          {
+            "slug": "marketing-consultants",
+            "title": "Marketing Consultants",
+            "one_sentence": "Consultants are caught between clients who are automating their own work and regulators who are forcing consulting projects to take longer and cost more, while price competition erodes margins and AI eliminates junior jobs"
+          },
+          {
+            "slug": "hr-consulting-in-the-us",
+            "title": "HR Consulting in the US",
+            "one_sentence": "A $39.4 billion mature advisory market growing 1.4% in 2026, under pressure from AI disruption, software consolidation, and regulatory complexity, with margins compressed by competition and talent costs"
+          },
+          {
+            "slug": "educational-services-in-the-us",
+            "title": "Educational Services in the US",
+            "one_sentence": "Educational services in the US\u2014spanning K-12, higher ed, and training\u2014remains the largest in the sector, but enrollment is fleeing public schools for private/charter alternatives, while AI and online platforms squeeze margins and force consolidation among smaller players"
+          },
+          {
+            "slug": "electricians-in-the-us",
+            "title": "Electricians in the US",
+            "one_sentence": "The US electricians industry is being pulled between a dead residential market and explosive demand from AI/EV/grid infrastructure, creating labor shortages, wage pressure, and consolidation among the 269,000 small contractors"
+          },
+          {
+            "slug": "accounting-services-in-the-us",
+            "title": "Accounting Services in the US",
+            "one_sentence": "The US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position"
+          },
+          {
+            "slug": "payroll-and-bookkeeping-services-in-the-us",
+            "title": "Payroll & Bookkeeping Services in the US",
+            "one_sentence": "Demand is still growing, but 2025-2026 results show competition on platform depth, compliance reliability, and pricing as the market shifts toward integrated AI-driven payroll-finance stacks"
+          },
+          {
+            "slug": "professional-employer-organizations-in-the-us",
+            "title": "Professional Employer Organizations in the US",
+            "one_sentence": "Professional employer organizations are growing as SMBs outsource payroll, benefits, tax administration and multistate compliance, but margins remain exposed to benefit-cost inflation, workers' compensation claims, payroll-tax processing rules and competition from payroll/HCM platforms"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 3,
+        "subthemes": [
+          "Automation Becomes Labor Arbitrage",
+          "Skills and Credentials Replace Slow Career Ladders",
+          "The Junior Rung Gets Compressed"
+        ],
+        "industries": [
+          {
+            "slug": "business-certification-and-it-schools-in-the-us",
+            "title": "Business Certification & IT Schools in the US",
+            "one_sentence": "The US business certification and IT schools industry is bifurcating: high-margin enterprise and compliance-linked credentials (cloud, cybersecurity) are growing at 12-16% annually, while commodity bootcamps and general IT courses face bankruptcies and commoditization as AI and free learning platforms make basic skills training structurally uncompetitive"
+          },
+          {
+            "slug": "business-analytics-and-enterprise-software-publishing-in-the-us",
+            "title": "Business Analytics & Enterprise Software Publishing in the US",
+            "one_sentence": "AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors"
+          },
+          {
+            "slug": "business-analytics-and-enterprise-software-publishing-in-the-us",
+            "title": "Business Analytics & Enterprise Software Publishing in the US",
+            "one_sentence": "AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors"
+          }
+        ]
+      },
+      {
+        "sector": "Finance & Insurance",
+        "industry_count": 2,
+        "subthemes": [
+          "Benefits and Stability Shift Onto Workers",
+          "The Junior Rung Gets Compressed"
+        ],
+        "industries": [
+          {
+            "slug": "law-firms-in-the-us",
+            "title": "Law Firms in the US",
+            "one_sentence": "The US law firms industry posted record 2025 profits on rate hikes and regulatory activity, but underlying demand growth of only 1.9 percent and expenses up 9 percent are forcing consolidation and challenging the sustainability of premium pricing"
+          },
+          {
+            "slug": "disability-insurance",
+            "title": "Disability Insurance",
+            "one_sentence": "A mature industry that underwrites income protection against disability is slowly accelerating through technology and gig-economy products, but faces tightening claims costs and uneven profitability across occupations"
+          }
+        ]
+      },
+      {
+        "sector": "Construction",
+        "industry_count": 1,
+        "subthemes": [
+          "Skills and Credentials Replace Slow Career Ladders"
+        ],
+        "industries": [
+          {
+            "slug": "heating-and-air-conditioning-contractors-in-the-us",
+            "title": "Heating & Air-Conditioning Contractors in the US",
+            "one_sentence": "The US HVAC industry is a $159 billion mature market (2026) being reshaped by residential weakness, commercial surge, regulatory refrigerant shifts, heat pump electrification, and a severe technician labor shortage that is pushing wages up 8% annually"
+          }
+        ]
+      },
+      {
+        "sector": "Healthcare",
+        "industry_count": 1,
+        "subthemes": [
+          "Benefits and Stability Shift Onto Workers"
+        ],
+        "industries": [
+          {
+            "slug": "health-and-medical-insurance-in-the-us",
+            "title": "Health & Medical Insurance in the US",
+            "one_sentence": "The US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat"
+          }
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "industry_count": 1,
+        "subthemes": [
+          "Automation Becomes Labor Arbitrage"
+        ],
+        "industries": [
+          {
+            "slug": "meat-beef-and-poultry-processing-in-the-us",
+            "title": "Meat, Beef & Poultry Processing in the US",
+            "one_sentence": "A $387.7B (2026) mature industry led by four consolidated firms, racing to automate away chronic labor shortages while navigating tariff shocks and China's lockout-and-opening cycle on exports"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 1,
+        "subthemes": [
+          "Automation Becomes Labor Arbitrage"
+        ],
+        "industries": [
+          {
+            "slug": "vending-machine-operators-in-the-us",
+            "title": "Vending Machine Operators in the US",
+            "one_sentence": "US vending machine operators remain a large unattended retail channel, with 2025 BLS sectoral output of $11.027 billion, but low concentration, fewer operators, healthier product demand and micro-market substitution keep the core category structurally pressured"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 1,
+        "subthemes": [
+          "Automation Becomes Labor Arbitrage"
+        ],
+        "industries": [
+          {
+            "slug": "general-freight-trucking-truckload",
+            "title": "General Freight Trucking (Truckload)",
+            "one_sentence": "The US truckload trucking sector is a mature, fragmented market experiencing a shakeout as bankruptcies and capacity exits outpace freight demand, creating selective rate firming but persistent profitability pressure on small carriers caught between record operating costs, driver shortages, and tariff headwinds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "physical-reindustrialization-and-infrastructure",
+    "theme_title": "Physical Reindustrialization and Infrastructure",
+    "lens": "Industrial",
+    "sectors": [
+      {
+        "sector": "Manufacturing",
+        "industry_count": 8,
+        "subthemes": [
+          "Electrical and Cooling Trades Become Picks and Shovels",
+          "Reshored Specification Manufacturing Gains Relevance",
+          "Tariffed Inputs Flow Through the Whole Stack"
+        ],
+        "industries": [
+          {
+            "slug": "iron-and-steel-manufacturing-in-the-us",
+            "title": "Iron & Steel Manufacturing in the US",
+            "one_sentence": "US steel bounced from tariffs in 2025-2026 but faces structural headwinds: global oversupply, flat demand, and the permanent shift to lighter vehicles\u2014making recovery unlikely despite short-term margin gains"
+          },
+          {
+            "slug": "aluminum-manufacturing-in-the-us",
+            "title": "Aluminum Manufacturing in the US",
+            "one_sentence": "US aluminum manufacturing is supply-constrained and price-booming in 2025-2026, with tariff protection and EV demand driving growth\u2014but kept from expanding by an electricity crisis that makes smelting uncompetitive against AI data centers"
+          },
+          {
+            "slug": "auto-parts-manufacturing-in-the-us",
+            "title": "Auto Parts Manufacturing in the US",
+            "one_sentence": "US auto parts manufacturing is recovering slowly from pandemic-era disruption, but 2025-2026 demand is being reshaped by resilient light-vehicle sales, record vehicle age, tariff policy, USMCA compliance pressure and uneven EV/hybrid investment"
+          },
+          {
+            "slug": "engine-and-turbine-manufacturing-in-the-us",
+            "title": "Engine & Turbine Manufacturing in the US",
+            "one_sentence": "The US engine and turbine manufacturing industry generates $55 billion in 2026 with 1.6% annual growth, but tariff-driven input costs, stretched supplier capacity, and aggressive EPA emissions deadlines are reshaping competitive advantage toward domestic firms that can absorb higher costs and retool fast"
+          },
+          {
+            "slug": "electrical-equipment-manufacturing-in-the-us",
+            "title": "Electrical Equipment Manufacturing in the US",
+            "one_sentence": "Strong grid modernization and data-center investment drive an $81.4 billion market (2026, up 7.8%), but tariffs and material inflation squeeze profitability"
+          },
+          {
+            "slug": "computer-manufacturing-in-the-us",
+            "title": "Computer Manufacturing in the US",
+            "one_sentence": "US computer manufacturing rebounds via server buildout but consumer PC demand collapses 13% in 2026 from component shortages and tariff uncertainty"
+          },
+          {
+            "slug": "3d-printer-manufacturing",
+            "title": "3D Printer Manufacturing",
+            "one_sentence": "The industry is still growing, but 2025-2026 demand has shifted from broad hardware expansion toward installed-base utilization, materials consumption, services and production applications with clearer ROI"
+          },
+          {
+            "slug": "aircraft-engine-and-parts-manufacturing-in-the-us",
+            "title": "Aircraft, Engine & Parts Manufacturing in the US",
+            "one_sentence": "The industry is booming on defense budgets and commercial demand, but production bottlenecks in engines, materials, and skilled labor are the new constraint"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 3,
+        "subthemes": [
+          "Freight and Warehousing Are Being Repriced by Complexity"
+        ],
+        "industries": [
+          {
+            "slug": "general-freight-trucking-truckload",
+            "title": "General Freight Trucking (Truckload)",
+            "one_sentence": "The US truckload trucking sector is a mature, fragmented market experiencing a shakeout as bankruptcies and capacity exits outpace freight demand, creating selective rate firming but persistent profitability pressure on small carriers caught between record operating costs, driver shortages, and tariff headwinds"
+          },
+          {
+            "slug": "local-freight-trucking-in-the-us",
+            "title": "Local Freight Trucking in the US",
+            "one_sentence": "The US local trucking industry is consolidating around capacity scarcity after a historic wave of bankruptcies, with tariffs and regulation squeezing small operators while AI and e-commerce create asymmetric advantages for larger, digitized fleets"
+          },
+          {
+            "slug": "couriers-and-local-delivery-services-in-the-us",
+            "title": "Couriers & Local Delivery Services in the US",
+            "one_sentence": "The industry is fragmenting from a UPS-FedEx duopoly into a multi-tier market where Amazon Logistics, retailer private networks, and gig platforms collectively erode traditional carrier dominance while automation and regulation reshape competitive economics"
+          }
+        ]
+      },
+      {
+        "sector": "Energy & Environment",
+        "industry_count": 2,
+        "subthemes": [
+          "Power-Centric Geography Reorders Industrial Value"
+        ],
+        "industries": [
+          {
+            "slug": "electric-power-transmission-in-the-us",
+            "title": "Electric Power Transmission in the US",
+            "one_sentence": "A constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels"
+          },
+          {
+            "slug": "natural-gas-distribution-in-the-us",
+            "title": "Natural Gas Distribution in the US",
+            "one_sentence": "US natural gas distribution is experiencing demand surges from data centers and LNG exports while regulators push decarbonization, creating a structural mismatch between the utility business model and climate policy"
+          }
+        ]
+      },
+      {
+        "sector": "Real Estate",
+        "industry_count": 2,
+        "subthemes": [
+          "Freight and Warehousing Are Being Repriced by Complexity",
+          "Power-Centric Geography Reorders Industrial Value"
+        ],
+        "industries": [
+          {
+            "slug": "land-leasing-in-the-us",
+            "title": "Land Leasing in the US",
+            "one_sentence": "A steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck"
+          },
+          {
+            "slug": "commercial-real-estate-in-the-us",
+            "title": "Commercial Real Estate in the US",
+            "one_sentence": "The US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures"
+          }
+        ]
+      },
+      {
+        "sector": "Business Services",
+        "industry_count": 1,
+        "subthemes": [
+          "Electrical and Cooling Trades Become Picks and Shovels"
+        ],
+        "industries": [
+          {
+            "slug": "electricians-in-the-us",
+            "title": "Electricians in the US",
+            "one_sentence": "The US electricians industry is being pulled between a dead residential market and explosive demand from AI/EV/grid infrastructure, creating labor shortages, wage pressure, and consolidation among the 269,000 small contractors"
+          }
+        ]
+      },
+      {
+        "sector": "Construction",
+        "industry_count": 1,
+        "subthemes": [
+          "Electrical and Cooling Trades Become Picks and Shovels"
+        ],
+        "industries": [
+          {
+            "slug": "heating-and-air-conditioning-contractors-in-the-us",
+            "title": "Heating & Air-Conditioning Contractors in the US",
+            "one_sentence": "The US HVAC industry is a $159 billion mature market (2026) being reshaped by residential weakness, commercial surge, regulatory refrigerant shifts, heat pump electrification, and a severe technician labor shortage that is pushing wages up 8% annually"
+          }
+        ]
+      },
+      {
+        "sector": "Healthcare",
+        "industry_count": 1,
+        "subthemes": [
+          "Reshored Specification Manufacturing Gains Relevance"
+        ],
+        "industries": [
+          {
+            "slug": "medical-device-manufacturing-in-the-us",
+            "title": "Medical Device Manufacturing in the US",
+            "one_sentence": "The US medical device manufacturing industry faces tariff-driven cost pressures and supply chain restructuring, but is pivoting toward automation, nearshoring, and AI integration while consolidating around major players"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 1,
+        "subthemes": [
+          "Tariffed Inputs Flow Through the Whole Stack"
+        ],
+        "industries": [
+          {
+            "slug": "furniture-stores-in-the-us",
+            "title": "Furniture Stores in the US",
+            "one_sentence": "The US furniture retail market is contracting in physical showroom footprint as online channels (28% of sales, growing 5\u201310% annually) and tariff pressures squeeze traditional operators, while housing-market weakness and consumer retrenchment trigger waves of bankruptcies and strategic repositioning toward DTC, sustainability, and omnichannel logistics"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 1,
+        "subthemes": [
+          "Power-Centric Geography Reorders Industrial Value"
+        ],
+        "industries": [
+          {
+            "slug": "colocation-facilities",
+            "title": "Colocation Facilities",
+            "one_sentence": "AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "scale-financialization-and-the-owned-economy",
+    "theme_title": "Scale, Financialization, and the Owned Economy",
+    "lens": "Industrial / Institutional",
+    "sectors": [
+      {
+        "sector": "Finance & Insurance",
+        "industry_count": 4,
+        "subthemes": [
+          "Regional Intermediaries Get Squeezed"
+        ],
+        "industries": [
+          {
+            "slug": "commercial-banking-in-the-us",
+            "title": "Commercial Banking in the US",
+            "one_sentence": "Commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees"
+          },
+          {
+            "slug": "credit-unions-in-the-us",
+            "title": "Credit Unions in the US",
+            "one_sentence": "The US credit union industry reached $149.3 billion in revenue in 2026 after sharp profitability gains in 2025, but faces eroding margins from rate cuts, intense fintech competition, and cybersecurity threats as consolidation accelerates"
+          },
+          {
+            "slug": "loan-brokers-in-the-us",
+            "title": "Loan Brokers in the US",
+            "one_sentence": "Loan brokers are a shrinking middleman trapped between online lenders, direct bank lending, stalled housing demand, and AI automation\u2014despite modest 2025-2026 profitability gains, the industry declined 1.9% in 2026 after collapsing 17.1% since 2021"
+          },
+          {
+            "slug": "portfolio-management-in-the-us",
+            "title": "Portfolio Management in the US",
+            "one_sentence": "The industry remains large and profitable in 2025-2026, but growth is increasingly captured by low-cost index, ETF, model-portfolio, private-market and wealth-platform providers rather than traditional active mutual fund managers"
+          }
+        ]
+      },
+      {
+        "sector": "Healthcare",
+        "industry_count": 4,
+        "subthemes": [
+          "Franchise and Platform Governance Matter More Than Local Hustle",
+          "Institutional Buying Power Widens the Gap",
+          "Roll-Ups Colonize Essential Services"
+        ],
+        "industries": [
+          {
+            "slug": "dentists-in-the-us",
+            "title": "Dentists in the US",
+            "one_sentence": "The US dental market, worth $196 billion in 2026, is consolidating rapidly as reimbursement stagnation and workforce shortages push independent practitioners into DSO networks while technology and aging populations provide modest growth"
+          },
+          {
+            "slug": "residential-senior-care-franchises",
+            "title": "Residential Senior Care Franchises",
+            "one_sentence": "Residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements"
+          },
+          {
+            "slug": "residential-senior-care-franchises",
+            "title": "Residential Senior Care Franchises",
+            "one_sentence": "Residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements"
+          },
+          {
+            "slug": "medical-device-manufacturing-in-the-us",
+            "title": "Medical Device Manufacturing in the US",
+            "one_sentence": "The US medical device manufacturing industry faces tariff-driven cost pressures and supply chain restructuring, but is pivoting toward automation, nearshoring, and AI integration while consolidating around major players"
+          }
+        ]
+      },
+      {
+        "sector": "Business Services",
+        "industry_count": 2,
+        "subthemes": [
+          "Roll-Ups Colonize Essential Services"
+        ],
+        "industries": [
+          {
+            "slug": "environmental-consulting-in-the-us",
+            "title": "Environmental Consulting in the US",
+            "one_sentence": "The US environmental consulting market is worth $27.4 billion (2025) and growing modestly at 1.6%, powered by stricter EPA rules and corporate climate targets, but held back by acute engineer shortages, tariff supply-chain headwinds, and consolidation among the Big Four firms"
+          },
+          {
+            "slug": "engineering-services-in-the-us",
+            "title": "Engineering Services in the US",
+            "one_sentence": "Engineering services is a $386.7 billion mature market experiencing AI-driven consolidation and technology investment, but growth is constrained by labor shortages, tariff costs, and project financing pressure"
+          }
+        ]
+      },
+      {
+        "sector": "Real Estate",
+        "industry_count": 2,
+        "subthemes": [
+          "Asset Owners Keep Gaining Relative Power"
+        ],
+        "industries": [
+          {
+            "slug": "land-leasing-in-the-us",
+            "title": "Land Leasing in the US",
+            "one_sentence": "A steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck"
+          },
+          {
+            "slug": "commercial-real-estate-in-the-us",
+            "title": "Commercial Real Estate in the US",
+            "one_sentence": "The US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 2,
+        "subthemes": [
+          "Franchise and Platform Governance Matter More Than Local Hustle",
+          "Institutional Buying Power Widens the Gap"
+        ],
+        "industries": [
+          {
+            "slug": "e-commerce-and-online-auctions-in-the-us",
+            "title": "E-Commerce & Online Auctions in the US",
+            "one_sentence": "E-commerce in the US remains fast-growing but increasingly consolidated, with Amazon's dominance setting punishing standards for rivals while regulatory pressure, tariffs, and shrinking margins force smaller sellers to automate or exit"
+          },
+          {
+            "slug": "home-improvement-stores-in-the-us",
+            "title": "Home Improvement Stores in the US",
+            "one_sentence": "Home Depot and Lowe's are hanging on in a frozen housing market by serving professional customers and investing in e-commerce, but Amazon is creeping in, tariffs are raising costs, and smaller competitors are vanishing"
+          }
+        ]
+      },
+      {
+        "sector": "Consumer Services",
+        "industry_count": 1,
+        "subthemes": [
+          "Franchise and Platform Governance Matter More Than Local Hustle"
+        ],
+        "industries": [
+          {
+            "slug": "hotels-and-motels-in-the-us",
+            "title": "Hotels & Motels in the US",
+            "one_sentence": "The US hotel industry is a mature, labor-constrained market bifurcating into high-margin luxury and extended-stay growth versus low-margin economy decline, disrupted by AI workflow automation and haunted by Sonder's spectacular failure"
+          }
+        ]
+      },
+      {
+        "sector": "Food & Drink",
+        "industry_count": 1,
+        "subthemes": [
+          "Franchise and Platform Governance Matter More Than Local Hustle"
+        ],
+        "industries": [
+          {
+            "slug": "chain-restaurants-in-the-us",
+            "title": "Chain Restaurants in the US",
+            "one_sentence": "Chain restaurants are caught between structural wage inflation, tariff pressures, and a consumer base choosing value-driven casual dining over premium sit-down experiences"
+          }
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "industry_count": 1,
+        "subthemes": [
+          "Institutional Buying Power Widens the Gap"
+        ],
+        "industries": [
+          {
+            "slug": "meat-beef-and-poultry-processing-in-the-us",
+            "title": "Meat, Beef & Poultry Processing in the US",
+            "one_sentence": "A $387.7B (2026) mature industry led by four consolidated firms, racing to automate away chronic labor shortages while navigating tariff shocks and China's lockout-and-opening cycle on exports"
+          }
+        ]
+      },
+      {
+        "sector": "Media & Entertainment",
+        "industry_count": 1,
+        "subthemes": [
+          "Asset Owners Keep Gaining Relative Power"
+        ],
+        "industries": [
+          {
+            "slug": "music-publishing-in-the-us",
+            "title": "Music Publishing in the US",
+            "one_sentence": "Streaming accounts for 58% of music publishing revenue in 2025, mechanical royalty rates hit record highs in 2026, and the industry is consolidating into four major players while independent publishers gain direct-licensing alternatives"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 1,
+        "subthemes": [
+          "Asset Owners Keep Gaining Relative Power"
+        ],
+        "industries": [
+          {
+            "slug": "colocation-facilities",
+            "title": "Colocation Facilities",
+            "one_sentence": "AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "regulated-software-and-admin-state",
+    "theme_title": "Regulated Software and the Admin State",
+    "lens": "Institutional / Technological",
+    "sectors": [
+      {
+        "sector": "Finance & Insurance",
+        "industry_count": 5,
+        "subthemes": [
+          "Cyber and Audit Overhead Keep Expanding",
+          "Identity, Fraud, and Trust Infrastructure Thickens"
+        ],
+        "industries": [
+          {
+            "slug": "credit-bureaus-and-rating-agencies-in-the-us",
+            "title": "Credit Bureaus & Rating Agencies in the US",
+            "one_sentence": "The $17.6 billion US credit bureaus and rating agencies industry is growing slowly (2.7% annually) as AI-powered alternative scoring disrupts traditional models, cybersecurity breaches erode consumer trust, and the SEC moves to overhaul rating-agency regulations"
+          },
+          {
+            "slug": "identity-theft-insurance",
+            "title": "Identity Theft Insurance",
+            "one_sentence": "The US identity theft insurance industry is pivoting from simple restoration-cost coverage to AI-powered fraud prevention as synthetic identity schemes, regulatory tightening, and tariff-driven inflation reshape underwriting, margins, and competitive strategy"
+          },
+          {
+            "slug": "credit-card-processing-and-money-transferring-in-the-us",
+            "title": "Credit Card Processing & Money Transferring in the US",
+            "one_sentence": "The US credit card processing and money transferring industry is a $87-208 billion market in 2025-2026 (depending on scope), growing at 11-20% annually, but profitability is under siege from regulatory fragmentation, merchant fee revolt, real-time payment cannibalization, and consolidation pressure that is reshaping the competitive hierarchy around mega-deals like the rumored $53 billion Stripe-PayPal merger"
+          },
+          {
+            "slug": "commercial-banking-in-the-us",
+            "title": "Commercial Banking in the US",
+            "one_sentence": "Commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees"
+          },
+          {
+            "slug": "credit-unions-in-the-us",
+            "title": "Credit Unions in the US",
+            "one_sentence": "The US credit union industry reached $149.3 billion in revenue in 2026 after sharp profitability gains in 2025, but faces eroding margins from rate cuts, intense fintech competition, and cybersecurity threats as consolidation accelerates"
+          }
+        ]
+      },
+      {
+        "sector": "Healthcare",
+        "industry_count": 4,
+        "subthemes": [
+          "Reimbursement and Admin Layers Capture Value Around Care",
+          "Testing, Certification, and Standards Quietly Gain Power"
+        ],
+        "industries": [
+          {
+            "slug": "health-and-medical-insurance-in-the-us",
+            "title": "Health & Medical Insurance in the US",
+            "one_sentence": "The US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat"
+          },
+          {
+            "slug": "ambulatory-surgery-centers",
+            "title": "Ambulatory Surgery Centers",
+            "one_sentence": "The $46.5 billion US ambulatory surgery center market is consolidating rapidly as hospitals and private equity acquire independents, while reimbursement growth lags labor cost inflation and new procedure opportunities fail to offset margin pressures"
+          },
+          {
+            "slug": "mental-health-and-substance-abuse-clinics-in-the-us",
+            "title": "Mental Health & Substance Abuse Clinics in the US",
+            "one_sentence": "The US mental health and substance abuse clinics industry is a $42 billion (2026) outpatient-focused market growing at 4.8% CAGR but hampered by a severe psychiatrist and counselor shortage, regulatory whipsaw, insurance reimbursement cuts, and competition from digital-first and integrated platforms"
+          },
+          {
+            "slug": "medical-device-manufacturing-in-the-us",
+            "title": "Medical Device Manufacturing in the US",
+            "one_sentence": "The US medical device manufacturing industry faces tariff-driven cost pressures and supply chain restructuring, but is pivoting toward automation, nearshoring, and AI integration while consolidating around major players"
+          }
+        ]
+      },
+      {
+        "sector": "Business Services",
+        "industry_count": 3,
+        "subthemes": [
+          "Compliance Itself Becomes a Demand Engine"
+        ],
+        "industries": [
+          {
+            "slug": "environmental-consulting-in-the-us",
+            "title": "Environmental Consulting in the US",
+            "one_sentence": "The US environmental consulting market is worth $27.4 billion (2025) and growing modestly at 1.6%, powered by stricter EPA rules and corporate climate targets, but held back by acute engineer shortages, tariff supply-chain headwinds, and consolidation among the Big Four firms"
+          },
+          {
+            "slug": "engineering-services-in-the-us",
+            "title": "Engineering Services in the US",
+            "one_sentence": "Engineering services is a $386.7 billion mature market experiencing AI-driven consolidation and technology investment, but growth is constrained by labor shortages, tariff costs, and project financing pressure"
+          },
+          {
+            "slug": "hr-consulting-in-the-us",
+            "title": "HR Consulting in the US",
+            "one_sentence": "A $39.4 billion mature advisory market growing 1.4% in 2026, under pressure from AI disruption, software consolidation, and regulatory complexity, with margins compressed by competition and talent costs"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 2,
+        "subthemes": [
+          "Cyber and Audit Overhead Keep Expanding",
+          "Testing, Certification, and Standards Quietly Gain Power"
+        ],
+        "industries": [
+          {
+            "slug": "internet-hosting-services",
+            "title": "Internet Hosting Services",
+            "one_sentence": "AI automation, cloud encroachment, and consolidation are reshaping a slowing market where traditional hosting providers fight margin pressure while adapting to enterprise demands for security, privacy, and sustainability"
+          },
+          {
+            "slug": "business-certification-and-it-schools-in-the-us",
+            "title": "Business Certification & IT Schools in the US",
+            "one_sentence": "The US business certification and IT schools industry is bifurcating: high-margin enterprise and compliance-linked credentials (cloud, cybersecurity) are growing at 12-16% annually, while commodity bootcamps and general IT courses face bankruptcies and commoditization as AI and free learning platforms make basic skills training structurally uncompetitive"
+          }
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "industry_count": 1,
+        "subthemes": [
+          "Testing, Certification, and Standards Quietly Gain Power"
+        ],
+        "industries": [
+          {
+            "slug": "electrical-equipment-manufacturing-in-the-us",
+            "title": "Electrical Equipment Manufacturing in the US",
+            "one_sentence": "Strong grid modernization and data-center investment drive an $81.4 billion market (2026, up 7.8%), but tariffs and material inflation squeeze profitability"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "space-housing-and-local-friction",
+    "theme_title": "Space, Housing, and Local Friction",
+    "lens": "Societal / Industrial",
+    "sectors": [
+      {
+        "sector": "Construction",
+        "industry_count": 5,
+        "subthemes": [
+          "Adaptive Reuse Becomes a New Development Discipline",
+          "Housing Lock-In Distorts Mobility and Spend",
+          "Office Obsolescence Is a Structural Shift"
+        ],
+        "industries": [
+          {
+            "slug": "commercial-property-remodeling",
+            "title": "Commercial Property Remodeling",
+            "one_sentence": "Remodeling contractors are squeezing out thin margins as material inflation and tariffs consume revenue gains, while offices slowly recover from pandemic vacancy but remain regionally uneven"
+          },
+          {
+            "slug": "commercial-building-construction-in-the-us",
+            "title": "Commercial Building Construction in the US",
+            "one_sentence": "The commercial building construction industry is split: AI-driven data centers are booming with 190% growth in 2025 starts while traditional office construction is at a 10-year low, caught between labor shortages, tariff-driven cost inflation, and elevated interest rates that crimp demand"
+          },
+          {
+            "slug": "commercial-property-remodeling",
+            "title": "Commercial Property Remodeling",
+            "one_sentence": "Remodeling contractors are squeezing out thin margins as material inflation and tariffs consume revenue gains, while offices slowly recover from pandemic vacancy but remain regionally uneven"
+          },
+          {
+            "slug": "home-builders-in-the-us",
+            "title": "Home Builders in the US",
+            "one_sentence": "The US home builders industry is trapped in a flat, high-friction equilibrium at $166-170 billion (2026) where tariff shocks, elevated rates, labor shortages, and margin compression are forcing consolidation and commoditization among smaller players while the top tier (D.R. Horton, Lennar, PulteGroup) capture scale and cash flow"
+          },
+          {
+            "slug": "roofing-contractors-in-the-us",
+            "title": "Roofing Contractors in the US",
+            "one_sentence": "Roofing contractors face a squeeze: tariffs pushing costs up 15-25%, labor shortage driving wage inflation, demand tilting toward repairs on aging homes, and weak new-construction activity leaving little room for volume growth"
+          }
+        ]
+      },
+      {
+        "sector": "Business Services",
+        "industry_count": 4,
+        "subthemes": [
+          "Adaptive Reuse Becomes a New Development Discipline",
+          "Office Obsolescence Is a Structural Shift"
+        ],
+        "industries": [
+          {
+            "slug": "architects-in-the-us",
+            "title": "Architects in the US",
+            "one_sentence": "The architecture industry is stalling, with market growth near zero, firm billings declining, and smaller practices squeezed while AI tools reshape workflows and PE-backed consolidation accelerates"
+          },
+          {
+            "slug": "janitorial-services-in-the-us",
+            "title": "Janitorial Services in the US",
+            "one_sentence": "Janitorial Services in the US covers commercial, industrial, institutional and residential cleaning of building interiors, transportation equipment interiors and windows, with 2026 demand supported by outsourced facility care, healthcare and education work, return-to-office activity and higher standards for cleanliness"
+          },
+          {
+            "slug": "architects-in-the-us",
+            "title": "Architects in the US",
+            "one_sentence": "The architecture industry is stalling, with market growth near zero, firm billings declining, and smaller practices squeezed while AI tools reshape workflows and PE-backed consolidation accelerates"
+          },
+          {
+            "slug": "engineering-services-in-the-us",
+            "title": "Engineering Services in the US",
+            "one_sentence": "Engineering services is a $386.7 billion mature market experiencing AI-driven consolidation and technology investment, but growth is constrained by labor shortages, tariff costs, and project financing pressure"
+          }
+        ]
+      },
+      {
+        "sector": "Real Estate",
+        "industry_count": 4,
+        "subthemes": [
+          "Housing Lock-In Distorts Mobility and Spend",
+          "Logistics Land and Utility Corridors Gain Strategic Rent",
+          "Office Obsolescence Is a Structural Shift"
+        ],
+        "industries": [
+          {
+            "slug": "commercial-real-estate-in-the-us",
+            "title": "Commercial Real Estate in the US",
+            "one_sentence": "The US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures"
+          },
+          {
+            "slug": "apartment-rental-in-the-us",
+            "title": "Apartment Rental in the US",
+            "one_sentence": "Apartment rents have stopped climbing and flat-lined after years of double-digit growth, exposing oversupply in the Sun Belt while rent-controlled markets squeeze landlords between frozen pricing and soaring costs, driving industry consolidation and bankruptcies"
+          },
+          {
+            "slug": "land-leasing-in-the-us",
+            "title": "Land Leasing in the US",
+            "one_sentence": "A steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck"
+          },
+          {
+            "slug": "commercial-real-estate-in-the-us",
+            "title": "Commercial Real Estate in the US",
+            "one_sentence": "The US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures"
+          }
+        ]
+      },
+      {
+        "sector": "Retail",
+        "industry_count": 2,
+        "subthemes": [
+          "Housing Lock-In Distorts Mobility and Spend",
+          "Local Service Density Follows New Patterns of Presence"
+        ],
+        "industries": [
+          {
+            "slug": "home-improvement-stores-in-the-us",
+            "title": "Home Improvement Stores in the US",
+            "one_sentence": "Home Depot and Lowe's are hanging on in a frozen housing market by serving professional customers and investing in e-commerce, but Amazon is creeping in, tariffs are raising costs, and smaller competitors are vanishing"
+          },
+          {
+            "slug": "pharmacies-and-drug-stores-in-the-us",
+            "title": "Pharmacies & Drug Stores in the US",
+            "one_sentence": "This is a mature but resilient retail-health sector where large chains expand care services while independent pharmacies absorb most closure-related pressure"
+          }
+        ]
+      },
+      {
+        "sector": "Consumer Services",
+        "industry_count": 1,
+        "subthemes": [
+          "Local Service Density Follows New Patterns of Presence"
+        ],
+        "industries": [
+          {
+            "slug": "coffee-and-snack-shops-in-the-us",
+            "title": "Coffee & Snack Shops in the US",
+            "one_sentence": "Pricing power is gone: commodity shocks and tariffs have crushed margins, bankruptcies hit independents, mega-deals consolidate the top (Keurig/JDE Peet's), while Starbucks staggers through a labor-heavy turnaround and QSRs poach coffee sales via convenience and automation"
+          }
+        ]
+      },
+      {
+        "sector": "Food & Drink",
+        "industry_count": 1,
+        "subthemes": [
+          "Local Service Density Follows New Patterns of Presence"
+        ],
+        "industries": [
+          {
+            "slug": "fast-food-restaurants-in-the-us",
+            "title": "Fast Food Restaurants in the US",
+            "one_sentence": "A mature, fragmented $424B industry growing below 1% in 2026 as traffic deflates from consumer retrenchment and GLP-1 adoption, labor costs rise structurally (California $20/hour minimum now core cost floor), tariffs push food prices relentlessly higher, and chains make desperate bets on AI automation to replace payroll"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 1,
+        "subthemes": [
+          "Logistics Land and Utility Corridors Gain Strategic Rent"
+        ],
+        "industries": [
+          {
+            "slug": "colocation-facilities",
+            "title": "Colocation Facilities",
+            "one_sentence": "AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 1,
+        "subthemes": [
+          "Logistics Land and Utility Corridors Gain Strategic Rent"
+        ],
+        "industries": [
+          {
+            "slug": "couriers-and-local-delivery-services-in-the-us",
+            "title": "Couriers & Local Delivery Services in the US",
+            "one_sentence": "The industry is fragmenting from a UPS-FedEx duopoly into a multi-tier market where Amazon Logistics, retailer private networks, and gig platforms collectively erode traditional carrier dominance while automation and regulation reshape competitive economics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme_slug": "machine-intelligence-and-compute-buildout",
+    "theme_title": "Machine Intelligence and Compute Buildout",
+    "lens": "Technological / Industrial",
+    "sectors": [
+      {
+        "sector": "Energy & Environment",
+        "industry_count": 5,
+        "subthemes": [
+          "Power, Water, and Heat Become AI Externalities",
+          "The Data-Center Land Rush Creates New Scarcity"
+        ],
+        "industries": [
+          {
+            "slug": "electric-power-transmission-in-the-us",
+            "title": "Electric Power Transmission in the US",
+            "one_sentence": "A constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels"
+          },
+          {
+            "slug": "electric-power-transmission-in-the-us",
+            "title": "Electric Power Transmission in the US",
+            "one_sentence": "A constrained transmission grid chasing unprecedented electricity demand from AI infrastructure and renewables is forcing utilities into the largest capital spending and consolidation wave in decades while pushing rates and profit margins to record levels"
+          },
+          {
+            "slug": "hydroelectric-power-in-the-us",
+            "title": "Hydroelectric Power in the US",
+            "one_sentence": "The US hydroelectric sector is caught between chronic western drought cutting output and aging infrastructure on one side, and resurgent private capital, government funding, and small-project innovation on the other\u2014with climate volatility now the dominant operational risk"
+          },
+          {
+            "slug": "waste-to-energy-plant-operation",
+            "title": "Waste-to-Energy Plant Operation",
+            "one_sentence": "Waste-to-energy plant operators run high-capital, heavily regulated combustion facilities that reduce landfill volumes and produce baseload electricity, but the US market remains mature, politically contested and exposed to weaker waste-throughput trends, lower renewable-credit support and rising compliance costs"
+          },
+          {
+            "slug": "natural-gas-distribution-in-the-us",
+            "title": "Natural Gas Distribution in the US",
+            "one_sentence": "US natural gas distribution is experiencing demand surges from data centers and LNG exports while regulators push decarbonization, creating a structural mismatch between the utility business model and climate policy"
+          }
+        ]
+      },
+      {
+        "sector": "Technology & Digital",
+        "industry_count": 5,
+        "subthemes": [
+          "AI Concentrates Capital and Strategic Power",
+          "The Data-Center Land Rush Creates New Scarcity",
+          "Workflow Compression Rewrites Knowledge Work"
+        ],
+        "industries": [
+          {
+            "slug": "colocation-facilities",
+            "title": "Colocation Facilities",
+            "one_sentence": "AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats"
+          },
+          {
+            "slug": "business-analytics-and-enterprise-software-publishing-in-the-us",
+            "title": "Business Analytics & Enterprise Software Publishing in the US",
+            "one_sentence": "AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors"
+          },
+          {
+            "slug": "internet-hosting-services",
+            "title": "Internet Hosting Services",
+            "one_sentence": "AI automation, cloud encroachment, and consolidation are reshaping a slowing market where traditional hosting providers fight margin pressure while adapting to enterprise demands for security, privacy, and sustainability"
+          },
+          {
+            "slug": "business-analytics-and-enterprise-software-publishing-in-the-us",
+            "title": "Business Analytics & Enterprise Software Publishing in the US",
+            "one_sentence": "AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors"
+          },
+          {
+            "slug": "database-storage-and-backup-software-publishing-in-the-us",
+            "title": "Database, Storage & Backup Software Publishing in the US",
+            "one_sentence": "Cloud and AI have commoditized commodity databases while specialist vendors capture 40+ percent growth rates, traditional licensing collapses, and regulatory complexity drives up customer acquisition costs"
+          }
+        ]
+      },
+      {
+        "sector": "Business Services",
+        "industry_count": 3,
+        "subthemes": [
+          "AI Seeps Into Boring Industries Through Workflows First",
+          "Workflow Compression Rewrites Knowledge Work"
+        ],
+        "industries": [
+          {
+            "slug": "accounting-services-in-the-us",
+            "title": "Accounting Services in the US",
+            "one_sentence": "The US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position"
+          },
+          {
+            "slug": "management-consulting-in-the-us",
+            "title": "Management Consulting in the US",
+            "one_sentence": "The US consulting industry is growing but hollowing: AI is replacing junior work, federal spending is collapsing, and clients are demanding outcomes not hours"
+          },
+          {
+            "slug": "payroll-and-bookkeeping-services-in-the-us",
+            "title": "Payroll & Bookkeeping Services in the US",
+            "one_sentence": "Demand is still growing, but 2025-2026 results show competition on platform depth, compliance reliability, and pricing as the market shifts toward integrated AI-driven payroll-finance stacks"
+          }
+        ]
+      },
+      {
+        "sector": "Finance & Insurance",
+        "industry_count": 2,
+        "subthemes": [
+          "AI Concentrates Capital and Strategic Power",
+          "AI Seeps Into Boring Industries Through Workflows First"
+        ],
+        "industries": [
+          {
+            "slug": "commercial-banking-in-the-us",
+            "title": "Commercial Banking in the US",
+            "one_sentence": "Commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees"
+          },
+          {
+            "slug": "credit-bureaus-and-rating-agencies-in-the-us",
+            "title": "Credit Bureaus & Rating Agencies in the US",
+            "one_sentence": "The $17.6 billion US credit bureaus and rating agencies industry is growing slowly (2.7% annually) as AI-powered alternative scoring disrupts traditional models, cybersecurity breaches erode consumer trust, and the SEC moves to overhaul rating-agency regulations"
+          }
+        ]
+      },
+      {
+        "sector": "Construction",
+        "industry_count": 1,
+        "subthemes": [
+          "The Data-Center Land Rush Creates New Scarcity"
+        ],
+        "industries": [
+          {
+            "slug": "commercial-building-construction-in-the-us",
+            "title": "Commercial Building Construction in the US",
+            "one_sentence": "The commercial building construction industry is split: AI-driven data centers are booming with 190% growth in 2025 starts while traditional office construction is at a 10-year low, caught between labor shortages, tariff-driven cost inflation, and elevated interest rates that crimp demand"
+          }
+        ]
+      },
+      {
+        "sector": "Real Estate",
+        "industry_count": 1,
+        "subthemes": [
+          "The Data-Center Land Rush Creates New Scarcity"
+        ],
+        "industries": [
+          {
+            "slug": "land-leasing-in-the-us",
+            "title": "Land Leasing in the US",
+            "one_sentence": "A steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck"
+          }
+        ]
+      },
+      {
+        "sector": "Transport & Logistics",
+        "industry_count": 1,
+        "subthemes": [
+          "AI Seeps Into Boring Industries Through Workflows First"
+        ],
+        "industries": [
+          {
+            "slug": "general-freight-trucking-truckload",
+            "title": "General Freight Trucking (Truckload)",
+            "one_sentence": "The US truckload trucking sector is a mature, fragmented market experiencing a shakeout as bankruptcies and capacity exits outpace freight demand, creating selective rate firming but persistent profitability pressure on small carriers caught between record operating costs, driver shortages, and tariff headwinds"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -124,6 +124,41 @@ def collect_lens_evidence(linked_themes):
 
 overview_cards=[
     {
+        "label":"Synthesis hub",
+        "title":"American Synthesis Hub",
+        "href":"american-synthesis-hub.html",
+        "body":"The dedicated front door for the ranked stack, summary surfaces, playbook, memo, and downstream evidence pages.",
+        "where_it_shows_up":[
+            "Executive summary and rankings entry",
+            "Macro narrative, playbook, and derivative briefings",
+            "Theme, sector, and company drill-down paths",
+        ],
+        "signals":[
+            "The synthesis stack is now coherent enough to deserve its own landing surface.",
+            "The ranked and narrative layers can now be navigated from one place.",
+        ],
+        "what_to_do":[
+            "Start here when you want the whole synthesis stack organized in one view.",
+            "Use it as the main front door for briefing and presentation workflows.",
+        ],
+        "what_to_underwrite":[
+            "The highest-ranked bottlenecks, rails, and decision surfaces in the stack.",
+            "The themes and models that remain strongest after prioritization rather than broad enumeration.",
+        ],
+        "tensions":[
+            "A broad stack is only useful if the entry point makes the hierarchy legible.",
+            "The landing page has to orient without collapsing the structure underneath.",
+        ],
+        "second_order":[
+            "The ranked stack becomes much easier to reuse in presentations and derivative outputs.",
+            "The synthesis work is easier to onboard for new readers once the hub exists.",
+        ],
+        "use_cases":[
+            "Use it before rankings, summary, or memo reading.",
+            "Best top-level entry point for the full synthesis stack.",
+        ],
+    },
+    {
         "label":"Master synthesis",
         "title":"American Outlook 2025-2026",
         "href":"american-outlook-2025-2026.html",
@@ -261,6 +296,111 @@ overview_cards=[
         "use_cases":[
             "Use this when you need strategic and capital implications fast.",
             "Best bridge from macro interpretation to diligence and action.",
+        ],
+    },
+    {
+        "label":"Ranked synthesis",
+        "title":"American Rankings",
+        "href":"american-rankings.html",
+        "body":"The priority map for the synthesis stack: ranked themes, subthemes, bottlenecks, and exposed business models.",
+        "where_it_shows_up":[
+            "Theme prioritization and subtheme acceleration",
+            "Bottleneck underwriting and exposed-model screening",
+            "Executive summary and memo construction",
+        ],
+        "signals":[
+            "The strongest themes can now be ranked by breadth, recurrence, sector spread, and company evidence.",
+            "The synthesis stack has enough structure to score bottlenecks and exposed models directly.",
+        ],
+        "what_to_do":[
+            "Use it to decide what matters most before writing a memo or building a diligence list.",
+            "Use it as the shortest path from broad synthesis to prioritized judgment.",
+        ],
+        "what_to_underwrite":[
+            "The highest-ranked bottlenecks and rails rather than broad category stories.",
+            "The business models least dependent on the generic middle staying healthy.",
+        ],
+        "tensions":[
+            "Not every vivid theme deserves equal practical weight.",
+            "A popular narrative can still rank below a quieter but more durable bottleneck.",
+        ],
+        "second_order":[
+            "Ranked themes sharpen the operator and investor agenda by forcing prioritization.",
+            "The stack becomes easier to present once the top calls and top exposures are explicit.",
+        ],
+        "use_cases":[
+            "Start here when you want the ordered version of the synthesis stack.",
+            "Use it before the executive summary or implications memo.",
+        ],
+    },
+    {
+        "label":"Executive summary",
+        "title":"American Executive Summary",
+        "href":"american-executive-summary.html",
+        "body":"The one-page summary surface for the ranked US economy stack.",
+        "where_it_shows_up":[
+            "Top themes and fastest-accelerating subthemes",
+            "Most investable bottlenecks and exposed models",
+            "Operator and investor takeaways",
+        ],
+        "signals":[
+            "The macro synthesis can now be reduced to a short decision-grade summary without losing the spine of the argument.",
+            "Priority themes, bottlenecks, and risks are visible in one page.",
+        ],
+        "what_to_do":[
+            "Use it as the briefing page before deeper reading.",
+            "Use it when the audience needs high signal with minimal navigation overhead.",
+        ],
+        "what_to_underwrite":[
+            "The assets, workflows, and choke points that sit at the top of the ranked stack.",
+            "The categories that survive once demand is filtered through control, proof, and cultural permission.",
+        ],
+        "tensions":[
+            "The summary has to stay concise without flattening the structure underneath.",
+            "The biggest theme is not always the cleanest immediate investment setup.",
+        ],
+        "second_order":[
+            "A cleaner entry surface makes the whole synthesis stack more reusable.",
+            "The ranking layer becomes easier to communicate to non-specialist readers.",
+        ],
+        "use_cases":[
+            "Use it for the shortest possible orientation to the stack.",
+            "Read it before the long-form implications memo.",
+        ],
+    },
+    {
+        "label":"Implications memo",
+        "title":"American Implications Memo",
+        "href":"american-implications-memo.html",
+        "body":"A polished long-form memo focused on the societal, cultural, consumer, and industrial implications of the ranked stack.",
+        "where_it_shows_up":[
+            "Societal and institutional reorganization",
+            "Cultural permission shifts and consumer ranking behavior",
+            "Industrial bottlenecks and physical constraint systems",
+        ],
+        "signals":[
+            "The ranked themes can now support a coherent long-form narrative rather than only a taxonomy or playbook.",
+            "Societal, cultural, consumer, and industrial sections can be written off the same scored spine.",
+        ],
+        "what_to_do":[
+            "Use it when you need the polished essay version of the stack.",
+            "Use it as the narrative wrapper around rankings, playbook, and capstone.",
+        ],
+        "what_to_underwrite":[
+            "The intersection of control, proof, and bottlenecks across the four lenses.",
+            "Business models that get stronger as the US economy becomes more selective and more managed.",
+        ],
+        "tensions":[
+            "A clean memo still has to preserve the complexity of the underlying structure.",
+            "The same social change can create demand in one layer and pressure in another.",
+        ],
+        "second_order":[
+            "The synthesis layer now supports both decision surfaces and polished narrative surfaces.",
+            "The stack becomes easier to reuse in presentations, briefs, and derivative memos.",
+        ],
+        "use_cases":[
+            "Use it after the executive summary when you want the full written interpretation.",
+            "Best for communicating the implications of the ranked stack to a broader audience.",
         ],
     },
 ]

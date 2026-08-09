@@ -397,6 +397,34 @@ def main():
                 "Whether the company is benefiting from structural fit or just riding a favorable moment in the cycle.",
             ],
         },
+        {
+            "label": "Ranked synthesis",
+            "title": "American Rankings",
+            "href": "american-rankings.html",
+            "body": "The ordered version of the synthesis stack: ranked themes, subthemes, bottlenecks, and exposed business models.",
+            "sectors": unique_ordered(dominant_sectors[:4]),
+            "companies": dominant_companies[:4],
+            "use_cases": [
+                "Use this when you need the priority map rather than the full narrative.",
+                "Best for moving from broad synthesis to an ordered list of what matters most.",
+            ],
+            "signals": [
+                "The stack is now rich enough to score the major themes and subthemes rather than only describe them.",
+                "Bottleneck underwriting and exposed-model filtering can now ride on a shared ranked layer.",
+            ],
+            "tensions": [
+                "The loudest narrative is not always the highest-priority structural theme.",
+                "A vivid category story can still rank below a quieter but more durable choke point.",
+            ],
+            "second_order_effects": [
+                "Once the ranked stack exists, executive summary and memo surfaces become easier to build without flattening judgment.",
+                "The synthesis layer becomes more reusable across briefings and derivative writeups.",
+            ],
+            "underwrite": [
+                "Which themes deserve the most attention right now rather than equal airtime.",
+                "Which bottlenecks and exposed models actually sit at the top of the stack.",
+            ],
+        },
     ]
     synthesis_cards_html = "\n".join(build_synthesis_card(item) for item in synthesis_cards)
 
@@ -404,7 +432,7 @@ def main():
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Economic Intelligence — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="operators.html">Operator playbooks</a><a href="american-themes.html">American themes</a></div>
+<div class="top"><a href="american-synthesis-hub.html">Synthesis hub</a><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="operators.html">Operator playbooks</a><a href="american-themes.html">American themes</a></div>
 <div class="eyebrow">Economic intelligence · US · 2025–2026</div>
 <h1>Economic Intelligence</h1>
 <p class="sub">{e(INTRO)}</p>

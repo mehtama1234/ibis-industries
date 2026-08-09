@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "scale-financialization-and-the-owned-economy",
+    "title": "Scale, Financialization, and the Owned Economy",
+    "lens": "Industrial / Institutional",
+    "score": 139,
+    "sector_breadth": 10,
+    "company_breadth": 20,
+    "force_count": 4,
+    "crosscut_count": 2,
+    "thesis": "More of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access",
+    "signals": [
+      "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+      "Workflow software, certification, and managed compliance budgets keep deepening.",
+      "A practical timing marker is whether platform control, roll-ups, and centralized purchasing keep widening the gap."
+    ],
+    "tensions": [
+      "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power."
+    ]
+  },
+  {
+    "slug": "physical-reindustrialization-and-infrastructure",
+    "title": "Physical Reindustrialization and Infrastructure",
+    "lens": "Industrial",
+    "score": 132,
+    "sector_breadth": 9,
+    "company_breadth": 19,
+    "force_count": 3,
+    "crosscut_count": 3,
+    "thesis": "The physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible",
+    "signals": [
+      "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+      "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+      "A practical timing marker is whether domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation."
+    ],
+    "tensions": [
+      "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Power-Centric Geography Reorders Industrial Value."
+    ]
+  },
+  {
+    "slug": "space-housing-and-local-friction",
+    "title": "Space, Housing, and Local Friction",
+    "lens": "Societal / Industrial",
+    "score": 123,
+    "sector_breadth": 8,
+    "company_breadth": 17,
+    "force_count": 3,
+    "crosscut_count": 2,
+    "thesis": "Where Americans live, commute, and locate activity is being reorganized by housing lock-in, office impairment, land scarcity near infrastructure, and the uneven value of local place",
+    "signals": [
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+      "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+      "A practical timing marker is whether adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+    ],
+    "tensions": [
+      "The central tension inside Space, Housing, and Local Friction is that where Americans live, commute, and locate activity is being reorganized by housing lock-in, office impairment, land scarcity near infrastructure, and the uneven value of local place, but the route to capturing that demand runs through the practical frictions surfaced by Office Obsolescence Is a Structural Shift.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Adaptive Reuse Becomes a New Development Discipline."
+    ]
+  },
+  {
+    "slug": "machine-intelligence-and-compute-buildout",
+    "title": "Machine Intelligence and Compute Buildout",
+    "lens": "Technological / Industrial",
+    "score": 118,
+    "sector_breadth": 7,
+    "company_breadth": 16,
+    "force_count": 3,
+    "crosscut_count": 3,
+    "thesis": "AI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack",
+    "signals": [
+      "Automation budgets, inference demand, and power-ready site competition keep rising.",
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+      "A practical timing marker is whether automation budgets, inference demand, and power-ready site competition keep rising."
+    ],
+    "tensions": [
+      "The central tension inside Machine Intelligence and Compute Buildout is that AI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack, but the route to capturing that demand runs through the practical frictions surfaced by The Data-Center Land Rush Creates New Scarcity.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Workflow Compression Rewrites Knowledge Work."
+    ]
+  },
+  {
+    "slug": "work-without-the-old-firm",
+    "title": "Work Without the Old Firm",
+    "lens": "Social / Labor",
+    "score": 117,
+    "sector_breadth": 8,
+    "company_breadth": 14,
+    "force_count": 3,
+    "crosscut_count": 2,
+    "thesis": "The traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity",
+    "signals": [
+      "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+      "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+      "A practical timing marker is whether advisory retainers, project staffing, and portable admin layers gain relevance."
+    ],
+    "tensions": [
+      "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders."
+    ]
+  },
+  {
+    "slug": "regulated-software-and-admin-state",
+    "title": "Regulated Software and the Admin State",
+    "lens": "Institutional / Technological",
+    "score": 113,
+    "sector_breadth": 5,
+    "company_breadth": 17,
+    "force_count": 4,
+    "crosscut_count": 2,
+    "thesis": "A larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip",
+    "signals": [
+      "Workflow software, certification, and managed compliance budgets keep deepening.",
+      "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+      "A practical timing marker is whether workflow software, certification, and managed compliance budgets keep deepening."
+    ],
+    "tensions": [
+      "The central tension inside Regulated Software and the Admin State is that a larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip, but the route to capturing that demand runs through the practical frictions surfaced by Compliance Itself Becomes a Demand Engine.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Identity, Fraud, and Trust Infrastructure Thickens."
+    ]
+  },
+  {
+    "slug": "aging-care-and-the-assistance-economy",
+    "title": "Aging, Care, and the Assistance Economy",
+    "lens": "Societal / Institutional",
+    "score": 109,
+    "sector_breadth": 5,
+    "company_breadth": 15,
+    "force_count": 4,
+    "crosscut_count": 2,
+    "thesis": "An older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand",
+    "signals": [
+      "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+      "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+      "A practical timing marker is whether demand tilts toward chronic care, assistance, protection, and age-adapted convenience."
+    ],
+    "tensions": [
+      "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction."
+    ]
+  },
+  {
+    "slug": "wellness-recodes-daily-life",
+    "title": "Wellness Recodes Daily Life",
+    "lens": "Cultural / Consumer",
+    "score": 105,
+    "sector_breadth": 5,
+    "company_breadth": 14,
+    "force_count": 3,
+    "crosscut_count": 2,
+    "thesis": "Health behavior is no longer a niche vertical. It is becoming a general operating system for food, drink, beauty, self-presentation, and everyday social decisions",
+    "signals": [
+      "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+      "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+      "A practical timing marker is whether protein, low-sugar, sober-curious, and health-tracking language becomes more central."
+    ],
+    "tensions": [
+      "The central tension inside Wellness Recodes Daily Life is that health behavior is no longer a niche vertical. It is becoming a general operating system for food, drink, beauty, self-presentation, and everyday social decisions, but the route to capturing that demand runs through the practical frictions surfaced by GLP-1 Resets Appetite and Portion Economics.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Sober Socializing Changes Nightlife and Beverage Mix."
+    ]
+  },
+  {
+    "slug": "barbelled-consumer-america",
+    "title": "Barbelled Consumer America",
+    "lens": "Consumer",
+    "score": 101,
+    "sector_breadth": 3,
+    "company_breadth": 16,
+    "force_count": 3,
+    "crosscut_count": 2,
+    "thesis": "The old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides",
+    "signals": [
+      "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+      "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+      "A practical timing marker is whether mix shifts toward either obvious value packs or visibly better premium tiers."
+    ],
+    "tensions": [
+      "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price."
+    ]
+  },
+  {
+    "slug": "experience-status-and-community",
+    "title": "Experience, Status, and Community",
+    "lens": "Cultural / Social",
+    "score": 99,
+    "sector_breadth": 4,
+    "company_breadth": 14,
+    "force_count": 2,
+    "crosscut_count": 2,
+    "thesis": "More consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods",
+    "signals": [
+      "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+      "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+      "A practical timing marker is whether mix shifts toward either obvious value packs or visibly better premium tiers."
+    ],
+    "tensions": [
+      "The central tension inside Experience, Status, and Community is that more consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods, but the route to capturing that demand runs through the practical frictions surfaced by Memory Beats Merchandise.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Venue Scarcity Creates Durable Pricing Power."
+    ]
+  }
+]

@@ -466,7 +466,7 @@ def main() -> None:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(OUTLOOK['title'])} — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-synthesis-playbook.html">Playbook</a></div>
+<div class="top"><a href="american-synthesis-hub.html">Synthesis hub</a><a href="index.html">Industry briefs</a><a href="american-rankings.html">Rankings</a><a href="american-executive-summary.html">Executive summary</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-synthesis-playbook.html">Playbook</a></div>
 <div class="eyebrow">Master synthesis · US · 2025-2026</div>
 <h1>{e(OUTLOOK['title'])}</h1>
 <p class="sub">{e(OUTLOOK['subtitle'])}</p>
