@@ -1501,7 +1501,7 @@ FORCE_FRAMES = {
 def lower_first(text: str) -> str:
     if not text:
         return ""
-    if len(text) >= 2 and text[:2].isupper():
+    if len(text) >= 2 and text[0].isupper() and text[1].isupper():
         return text
     return text[0].lower() + text[1:]
 

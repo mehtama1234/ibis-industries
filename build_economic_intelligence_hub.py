@@ -80,6 +80,10 @@ BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
 
+BUSINESS_OUTLOOKS_LINK = (
+    "The business outlook layer re-reads the recurring business archetypes through the same four top-level lenses used in the American outlook: societal, cultural, consumer, and industrial change."
+)
+
 COMPANY_UNIVERSE_LINK = (
     "The company universe aggregates named operators from the full corpus and maps them back into the business-model and force system, so repeated company mentions become a usable intelligence surface."
 )
@@ -303,6 +307,11 @@ def main():
     <div class="meta">Business profiles</div>
     <h3><a href="business-profiles.html">Business Profiles</a></h3>
     <p>{e(BUSINESS_PROFILES_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Business outlook layer</div>
+    <h3><a href="business-outlooks.html">Business Outlooks</a></h3>
+    <p>{e(BUSINESS_OUTLOOKS_LINK)}</p>
   </div>
   <div class="card">
     <div class="meta">Company universe</div>
