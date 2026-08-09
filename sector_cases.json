@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "hair-and-nail-salons-case",
+    "title": "Hair & Nail Salons as a Local Services Platform",
+    "lens_slug": "local-services-platform",
+    "lens_title": "Local Services Platform",
+    "industry_slug": "hair-and-nail-salons-in-the-us",
+    "industry_title": "Hair & Nail Salons in the US",
+    "case_for": "A fragmented local-services category where labor, booking, pricing, and retention systems determine whether scale helps or just adds overhead.",
+    "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "one_sentence": "US hair and nail salons generated an estimated $90.9 billion in 2025 revenue and are projected to reach about $92.5 billion in 2026, with growth supported by service-price inflation, premium hair color and nail services, and high self-employment despite tight labor and occupancy costs.",
+    "sector": "Consumer Services",
+    "market_size": "2025: $90.9 billion estimated US hair and nail salon revenue; 2026: $92.5 billion projected revenue",
+    "growth": "2026: about 1.8% projected revenue growth from 2025; 2020-2026: about 2.2% CAGR implied by IBISWorld-cited public summaries",
+    "themes": [
+      "fragmented local competition",
+      "premiumization of color and nail services",
+      "salon suites and independent professionals",
+      "digital booking and loyalty",
+      "service-price inflation",
+      "labor and worker-classification scrutiny"
+    ],
+    "primary_forces": [
+      "the-labor-squeeze",
+      "the-fractional-worker",
+      "the-hollow-middle"
+    ],
+    "constraints": [
+      "labor",
+      "pricing power",
+      "utilization"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
+    "evidence_slugs": [
+      "hair-and-nail-salons-in-the-us",
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises",
+      "handyman-service-franchises"
+    ],
+    "adjacent_slugs": [
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises"
+    ]
+  },
+  {
+    "slug": "laboratory-casework-case",
+    "title": "Laboratory Casework as a Specified Product Manufacturer",
+    "lens_slug": "specified-product-manufacturer",
+    "lens_title": "Specified Product Manufacturer",
+    "industry_slug": "laboratory-casework-manufacturing",
+    "industry_title": "Laboratory Casework Manufacturing",
+    "case_for": "A narrow industrial niche where specification status, lab-construction cycles, and import-sensitive inputs matter more than broad consumer demand.",
+    "business_truth": "This is a manufacturer business that wins when small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "one_sentence": "The industry is a small, project-driven manufacturing niche tied to lab construction, R&D budgets, healthcare research, university funding and import-sensitive steel, wood, laminate, resin and installation costs.",
+    "sector": "Manufacturing",
+    "market_size": "2026 estimated U.S. revenue of about $2.3 billion, based on the 2021 IBIS baseline projection for Laboratory Casework Manufacturing.",
+    "growth": "2021-2026 estimated CAGR of about 4.2%, based on the 2021 IBIS baseline outlook from $1.885 billion in 2021 to about $2.3 billion in 2026.",
+    "themes": [
+      "Lab construction normalization",
+      "R&D funding sensitivity",
+      "Healthcare and biopharma demand",
+      "University and government labs",
+      "Import competition",
+      "Steel and aluminum tariff pressure"
+    ],
+    "primary_forces": [
+      "the-labor-squeeze",
+      "the-compute-super-cycle",
+      "atoms-strike-back"
+    ],
+    "constraints": [
+      "labor",
+      "capital / rates",
+      "utilization"
+    ],
+    "best_owner_type": "specialist/niche expert",
+    "why_owner_type": "The business works when product know-how, specification status, and operational discipline matter more than broad brand marketing.",
+    "evidence_slugs": [
+      "laboratory-casework-manufacturing",
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing",
+      "dental-clinical-instrument-manufacturing"
+    ],
+    "adjacent_slugs": [
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing"
+    ]
+  },
+  {
+    "slug": "elderly-disabled-services-case",
+    "title": "Elderly & Disabled Services as a Care Demand Platform",
+    "lens_slug": "care-and-family-demand-platform",
+    "lens_title": "Care and Family Demand Platform",
+    "industry_slug": "elderly-and-disabled-services-in-the-us",
+    "industry_title": "Elderly & Disabled Services in the US",
+    "case_for": "A demographically advantaged care category where staffing, reimbursement, and service coordination cap who can actually convert demand into returns.",
+    "business_truth": "This is a service operator business that wins when aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "one_sentence": "Elderly and disabled services providers deliver nonmedical home aide, adult day, companionship, transportation and community support services for older adults and people with disabilities, with demand increasingly tied to Medicaid HCBS policy and the preference to age in place.",
+    "sector": "Healthcare",
+    "market_size": "$80.1 billion in 2025",
+    "growth": "3.4% in 2025",
+    "themes": [
+      "Aging population",
+      "Aging in place",
+      "Medicaid HCBS",
+      "Direct care workforce shortage",
+      "Low-margin labor model",
+      "State reimbursement risk"
+    ],
+    "primary_forces": [
+      "the-graying-market",
+      "the-labor-squeeze",
+      "the-real-estate-reckoning"
+    ],
+    "constraints": [
+      "labor",
+      "reimbursement",
+      "compliance / regulation"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_owner_type": "Demographic demand is durable, but staffing, regulation, and service coordination favor scaled operators with strong labor systems.",
+    "evidence_slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us",
+      "in-home-senior-care-franchises"
+    ],
+    "adjacent_slugs": [
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us"
+    ]
+  },
+  {
+    "slug": "claims-software-case",
+    "title": "Insurance Claims Processing Software as Regulated Workflow Infrastructure",
+    "lens_slug": "regulated-workflow-infrastructure",
+    "lens_title": "Regulated Workflow Infrastructure",
+    "industry_slug": "insurance-claims-processing-software",
+    "industry_title": "Insurance Claims Processing Software",
+    "case_for": "A recurring software/admin layer where mandatory workflow, AI-assisted claims automation, and fraud/compliance pressure create durable infrastructure demand.",
+    "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+    "one_sentence": "The US insurance claims processing software industry is a growth market as P&C, health, life, disability and workers' compensation insurers replace legacy claims systems with cloud platforms, AI-assisted triage, FNOL automation, fraud analytics and connected payment workflows.",
+    "sector": "Finance & Insurance",
+    "market_size": "2026: $17.4 billion estimated US revenue for the IBIS-style claims and policy software category; narrower US claims processing software trackers cite 2024: $3.5 billion and 2026: $1.47 billion for claims-management-only definitions.",
+    "growth": "2026: 3.1% five-year CAGR for the IBIS-style US category from 2021-2026; narrower current claims-management trackers cite 2025-2034 US/global CAGRs of about 8.9% to 12.8%.",
+    "themes": [
+      "Cloud migration",
+      "AI claims guidance",
+      "FNOL automation",
+      "Fraud detection",
+      "Adjuster productivity",
+      "Catastrophe response"
+    ],
+    "primary_forces": [
+      "the-fractional-worker",
+      "the-compute-super-cycle",
+      "money-gets-unbundled"
+    ],
+    "constraints": [
+      "labor",
+      "compliance / regulation",
+      "customer acquisition cost"
+    ],
+    "best_owner_type": "software-led consolidator",
+    "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
+    "evidence_slugs": [
+      "insurance-claims-processing-software",
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services",
+      "dna-and-dna-forensic-laboratories"
+    ],
+    "adjacent_slugs": [
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services"
+    ]
+  }
+]

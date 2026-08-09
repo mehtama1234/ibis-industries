@@ -31,6 +31,11 @@ BUSINESS_LENSES_LINK = (
     "reimbursement-managed care operators, regulated workflow infrastructure, distributors, and other recurring business types."
 )
 
+SECTOR_CASES_LINK = (
+    "Applied sector cases show how the framework gets used on real industries: a representative market, the linked business lens, "
+    "the governing forces, and the owner/operator logic that follows."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -170,6 +175,11 @@ def main():
     <div class="meta">Business archetypes</div>
     <h3><a href="business-lenses.html">Business Lenses</a></h3>
     <p>{e(BUSINESS_LENSES_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Applied cases</div>
+    <h3><a href="sector-cases.html">Sector Cases</a></h3>
+    <p>{e(SECTOR_CASES_LINK)}</p>
   </div>
   </div>
 </section>
