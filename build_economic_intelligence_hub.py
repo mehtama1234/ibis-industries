@@ -68,6 +68,10 @@ SECTOR_MEMOS_LINK = (
     "The sector memo layer maps the major sectors to dominant themes, force pressures, representative industries, and advantaged versus exposed setups."
 )
 
+SECTOR_OUTLOOKS_LINK = (
+    "The sector outlook layer re-reads each major sector through the same four top-level lenses used in the American outlook: societal, cultural, consumer, and industrial change."
+)
+
 COMPANY_MEMOS_LINK = (
     "The company memo layer translates important names into explicit structural reads tied back to sector logic, dominant themes, force exposure, and break-risk questions."
 )
@@ -250,6 +254,11 @@ def main():
     <div class="meta">Sector layer</div>
     <h3><a href="sector-memos.html">Sector Memos</a></h3>
     <p>{e(SECTOR_MEMOS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Sector outlook layer</div>
+    <h3><a href="sector-outlooks.html">Sector Outlooks</a></h3>
+    <p>{e(SECTOR_OUTLOOKS_LINK)}</p>
   </div>
   <div class="card">
     <div class="meta">Company layer</div>
