@@ -191,6 +191,15 @@ def build_records():
                     }
                     for f in linked_forces
                 ],
+                "tension_items": [
+                    f"This lens gets squeezed when {item} becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+                    for item in [x for x, _n in constraint_counter.most_common(3)]
+                ],
+                "second_order_items": [
+                    f"{BRIEFS_BY_SLUG[x['slug']]['title']} shows how this model spills into adjacent markets once the same operator logic starts repeating."
+                    for x in playbook["industries"][1:4]
+                    if x["slug"] in BRIEFS_BY_SLUG
+                ],
             }
         )
     return records
@@ -228,6 +237,8 @@ def build_detail_page(record: dict) -> str:
     adjacent_cards = "\n".join(brief_card(b) for b in adjacent)
     evidence_cards = "\n".join(brief_card(b) for b in evidence)
     moves = "".join(f"<li>{e(m)}</li>" for m in record["advantaged_moves"])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in record["tension_items"])
+    second_order = "".join(f"<li>{e(item)}</li>" for item in record["second_order_items"])
     likely_losers = "".join(f'<span class="chip">{e(x)}</span>' for x in record["likely_losers"])
     sectors = "".join(f'<span class="chip">{e(s)}</span>' for s in record["sectors"])
     themes = "".join(f'<span class="chip">{e(t)}</span>' for t in record["themes"])
@@ -285,6 +296,16 @@ def build_detail_page(record: dict) -> str:
       <ul class="list">{moves}</ul>
     </div>
     <div class="panel">
+      <div class="meta">Tensions</div>
+      <h2>What breaks the read</h2>
+      <ul class="list">{tensions}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Second-order effects</div>
+      <h2>Where it spills next</h2>
+      <ul class="list">{second_order}</ul>
+    </div>
+    <div class="panel">
       <div class="meta">Who gets squeezed</div>
       <h2>Likely losers</h2>
       <div class="chips">{likely_losers}</div>
@@ -303,6 +324,8 @@ def build_html(records):
         theme_chips = "".join(f'<span class="chip">{e(t)}</span>' for t in r["themes"])
         constraint_chips = "".join(f'<span class="chip">{e(c)}</span>' for c in r["binding_constraints"])
         moves = "".join(f"<li>{e(m)}</li>" for m in r["advantaged_moves"])
+        tensions = "".join(f"<li>{e(item)}</li>" for item in r["tension_items"][:2])
+        second_order = "".join(f"<li>{e(item)}</li>" for item in r["second_order_items"][:2])
         cards.append(
             f"""<article class="card">
   <div class="meta">{e(r['economic_role'])}</div>
@@ -319,6 +342,10 @@ def build_html(records):
   <p>{e(r['why_this_owner_type'])}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <ul class="list">{moves}</ul>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list">{tensions}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{second_order}</ul>
 </article>"""
         )
     return f"""<!doctype html>

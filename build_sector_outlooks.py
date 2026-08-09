@@ -69,6 +69,7 @@ def build_sector_outlook_records() -> list[dict]:
                 "theme_titles": [],
                 "tensions": [],
                 "signals": [],
+                "second_order": [],
                 "subthemes": [],
                 "operator_implications": [],
                 "capital_implications": [],
@@ -84,6 +85,9 @@ def build_sector_outlook_records() -> list[dict]:
                 for item in theme.get("signals_to_watch", [])[:2]:
                     if item not in bucket_map[bucket]["signals"]:
                         bucket_map[bucket]["signals"].append(item)
+                for item in theme.get("second_order_effects", [])[:2]:
+                    if item not in bucket_map[bucket]["second_order"]:
+                        bucket_map[bucket]["second_order"].append(item)
                 for item in theme.get("strategic_implications", [])[:3]:
                     if item not in bucket_map[bucket]["operator_implications"]:
                         bucket_map[bucket]["operator_implications"].append(item)
@@ -139,6 +143,7 @@ def render_lens(lens: dict, prefix: str = "") -> str:
     theme_chips = "".join(f'<span class="chip">{e(title)}</span>' for title in lens["theme_titles"][:4])
     tension_items = "".join(f"<li>{e(item)}</li>" for item in lens["tensions"][:3])
     signal_items = "".join(f"<li>{e(item)}</li>" for item in lens["signals"][:3])
+    second_order_items = "".join(f"<li>{e(item)}</li>" for item in lens["second_order"][:3])
     operator_items = "".join(f"<li>{e(item)}</li>" for item in lens["operator_implications"][:3])
     capital_items = "".join(f"<li>{e(item)}</li>" for item in lens["capital_implications"][:3])
     subtheme_chips = "".join(render_subtheme_chip(prefix, item) for item in lens["subthemes"][:5]) or '<span class="chip">no surfaced subthemes</span>'
@@ -149,7 +154,7 @@ def render_lens(lens: dict, prefix: str = "") -> str:
   <div class="chips">{theme_chips}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Core tensions</div>
+      <div class="meta">Tensions</div>
       <ul class="list">{tension_items}</ul>
     </div>
     <div class="panel">
@@ -159,13 +164,17 @@ def render_lens(lens: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Operator implications</div>
+      <div class="meta">What to do</div>
       <ul class="list">{operator_items}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Investor implications</div>
+      <div class="meta">What to underwrite</div>
       <ul class="list">{capital_items}</ul>
     </div>
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{second_order_items}</ul>
   </div>
   <div class="panel" style="margin-top:14px">
     <div class="meta">Linked subthemes</div>
@@ -217,6 +226,18 @@ def build_hub(records: list[dict]) -> str:
   <div class="meta">{e(record['sector'])}</div>
   <h3><a href="sector-outlooks/{e(record['slug'])}.html">{e(record['sector'])}</a></h3>
   <p>{e(record['sector_thesis'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(item["title"])}</span>' for item in record['example_industries'][:2])}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="list">{''.join(f'<li>{e(item)}</li>' for item in record['theme_signals'][:2])}</ul>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <ul class="list"><li>{e(record['operator_angle'])}</li></ul>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <ul class="list"><li>{e(record['investor_angle'])}</li></ul>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list">{''.join(f'<li>{e(item)}</li>' for item in record['theme_tensions'][:2])}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{''.join(f'<li>{e((item.get("strategic_consequences") or [""])[0])}</li>' for item in record['subtheme_map'][:2])}</ul>
   <div class="chips">{''.join(f'<span class="chip">{e(lens["label"])}</span>' for lens in record['lens_cards'])}</div>
 </article>"""
         for record in records

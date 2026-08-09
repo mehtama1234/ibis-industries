@@ -1773,25 +1773,39 @@ def build_subtheme_execution_hazards(subtheme: dict, forces: list[dict]) -> list
 def build_theme_tensions(theme: dict) -> list[str]:
     first = theme["subthemes"][0]["title"] if theme["subthemes"] else theme["title"]
     second = theme["subthemes"][1]["title"] if len(theme["subthemes"]) > 1 else theme["title"]
+    third = theme["subthemes"][2]["title"] if len(theme["subthemes"]) > 2 else second
     thesis = clean_text(theme["thesis"]).rstrip(".")
     return [
         f"The central tension inside {theme['title']} is that {lower_first(thesis)}, but the route to capturing that demand runs through the practical frictions surfaced by {first}.",
         f"A second tension sits between household or institutional demand and the operating constraints surfaced by {second}.",
+        f"A third tension is that {third} may be directionally right while still punishing operators that lack the workflow, balance-sheet room, or cultural clarity to execute it.",
         "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable.",
-    ]
+    ][:4]
 
 
 def build_theme_signals(theme: dict) -> list[str]:
     signals = []
     seen = set()
     for subtheme in theme["subthemes"]:
-        for signal in subtheme.get("signals_to_watch", [])[:1]:
+        for signal in subtheme.get("signals_to_watch", [])[:2]:
             if signal not in seen:
                 seen.add(signal)
                 signals.append(signal)
-            if len(signals) == 4:
+            if len(signals) == 6:
                 return signals
-    return signals
+        for timing in subtheme.get("timing_markers", [])[:1]:
+            if timing not in seen:
+                seen.add(timing)
+                signals.append(timing)
+            if len(signals) == 6:
+                return signals
+        for pressure in subtheme.get("pressure_points", [])[:1]:
+            if pressure not in seen:
+                seen.add(pressure)
+                signals.append(pressure)
+            if len(signals) == 6:
+                return signals
+    return signals[:6]
 
 
 def build_theme_deep_read(theme: dict, subthemes: list[dict], forces: list[dict], industries: list[dict], companies: list[dict]) -> str:
@@ -2091,6 +2105,8 @@ def theme_card(theme: dict) -> str:
     signal_items = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
     strategic_items = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"][:2])
     capital_items = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"][:2])
+    tension_items = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"][:2])
+    second_order_items = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"][:2])
     return f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="themes/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
@@ -2110,6 +2126,10 @@ def theme_card(theme: dict) -> str:
   <ul class="qlist">{strategic_items}</ul>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <ul class="qlist">{capital_items}</ul>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="qlist">{tension_items}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="qlist">{second_order_items}</ul>
   <div class="chips">{force_links}</div>
 </article>"""
 

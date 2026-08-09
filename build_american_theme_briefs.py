@@ -283,10 +283,35 @@ def build_theme_brief(theme: dict) -> dict:
 
 def build_theme_card(theme: dict) -> str:
     chips = "".join(f'<span class="chip">{e(item["title"])}</span>' for item in theme["crosscuts"])
+    where_it_shows_up = []
+    seen = set()
+    for subtheme in theme["subthemes"]:
+        for industry in subtheme["industries"]:
+            title = industry.get("title")
+            if title and title not in seen:
+                seen.add(title)
+                where_it_shows_up.append(title)
+        for company in subtheme["companies"]:
+            title = company.get("title")
+            if title and title not in seen:
+                seen.add(title)
+                where_it_shows_up.append(title)
+    where_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in where_it_shows_up[:4])
+    signal_items = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
+    action_items = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"][:2])
+    underwrite_items = "".join(f"<li>{e(item)}</li>" for item in theme["capital_implications"][:2])
     return f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="theme-briefs/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
   <p>{e(theme['hook'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{where_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="list">{signal_items}</ul>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <ul class="list">{action_items}</ul>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <ul class="list">{underwrite_items}</ul>
   <div class="chips">{chips}</div>
 </article>"""
 
@@ -396,20 +421,29 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
   </div>
   <div class="split" style="margin-top:14px">
     <div class="panel">
-      <div class="meta">Theme-level signals</div>
-      <ul class="list">{theme_signals}</ul>
+      <div class="meta">Where it shows up</div>
+      <div class="chips">{subtheme_links}</div>
+      <div class="chips">{force_links}</div>
     </div>
     <div class="panel">
-      <div class="meta">Watchpoints</div>
-      <ul class="list">{watchpoints}</ul>
-      <div class="chips">{force_links}</div>
-      <div class="chips">{subtheme_links}</div>
+      <div class="meta">What to do</div>
+      <ul class="list">{implications}</ul>
     </div>
   </div>
   <div class="split" style="margin-top:14px">
     <div class="panel">
-      <div class="meta">Stakeholder map</div>
-      <ul class="list">{stakeholder_map}</ul>
+      <div class="meta">Signals</div>
+      <ul class="list">{theme_signals}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">What to underwrite</div>
+      <ul class="list">{capital_implications}</ul>
+    </div>
+  </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
+      <div class="meta">Watchpoints</div>
+      <ul class="list">{watchpoints}</ul>
     </div>
     <div class="panel">
       <div class="meta">Second-order effects</div>
@@ -418,22 +452,22 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
   </div>
   <div class="split" style="margin-top:14px">
     <div class="panel">
-      <div class="meta">Societal read</div>
-      <ul class="list">{societal_read}</ul>
+      <div class="meta">Stakeholder map</div>
+      <ul class="list">{stakeholder_map}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Consumer read</div>
-      <ul class="list">{consumer_read}</ul>
+      <div class="meta">Societal read</div>
+      <ul class="list">{societal_read}</ul>
     </div>
   </div>
   <div class="split" style="margin-top:14px">
     <div class="panel">
-      <div class="meta">Industrial read</div>
-      <ul class="list">{industrial_read}</ul>
+      <div class="meta">Consumer read</div>
+      <ul class="list">{consumer_read}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Capital implications</div>
-      <ul class="list">{capital_implications}</ul>
+      <div class="meta">Industrial read</div>
+      <ul class="list">{industrial_read}</ul>
     </div>
   </div>
   <div class="panel" style="margin-top:14px">

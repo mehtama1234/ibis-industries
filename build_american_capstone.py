@@ -188,6 +188,84 @@ CSS = """
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.63}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.5rem,5vw,4.4rem);line-height:.98;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.4rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.06rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:16px;border-top:1px solid var(--line)}.essay{margin-top:18px}.essay h3{font-size:1.36rem;margin:.1em 0 .45em}.essay p{color:var(--muted);margin:.6em 0 0}.summary{font-size:1rem;color:var(--ink)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3{margin:.2em 0 .35em;font-size:1.1rem}.card p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.close{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;margin-top:16px}.close p{color:var(--muted);margin:.55em 0 0}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .3em;font-size:.97rem}.mini p{margin:0;color:var(--muted);font-size:.92rem}.badge{display:inline-block;margin-top:8px;font-family:var(--mono);font-size:.66rem;border:1px solid var(--line);border-radius:999px;padding:3px 8px;color:var(--muted)}@media(max-width:900px){.split{grid-template-columns:1fr}}
 """
 
+LENS_SECTIONS = [
+    {
+        "slug": "consumer",
+        "title": "Consumer lens",
+        "summary": "Consumer demand still exists, but it is being ranked through value, convenience, health, and symbolic spend rather than broad middle-market loyalty.",
+        "match_terms": ["Consumer"],
+    },
+    {
+        "slug": "cultural-social",
+        "title": "Cultural and social lens",
+        "summary": "Social meaning is now showing up as demand logic: wellness, status, experience, and work identity are changing what households consider normal, prudent, or worth paying for.",
+        "match_terms": ["Cultural", "Social"],
+    },
+    {
+        "slug": "societal-institutional",
+        "title": "Societal and institutional lens",
+        "summary": "Aging, compliance, reimbursement, and fragmented work are shifting value toward the systems that help families and firms survive a denser administrative state.",
+        "match_terms": ["Societal", "Institutional", "Labor"],
+    },
+    {
+        "slug": "industrial-physical",
+        "title": "Industrial and physical lens",
+        "summary": "AI, reindustrialization, logistics, utilities, and specified production are making power, land, trade labor, and domestic capability first-order economic constraints again.",
+        "match_terms": ["Industrial", "Technological"],
+    },
+]
+
+PRESSURE_MATRIX = [
+    {
+        "title": "Who benefits",
+        "summary": "The advantaged positions are the ones sitting on top of recurring constraints rather than merely participating in demand.",
+        "theme_slugs": [
+            "scale-financialization-and-the-owned-economy",
+            "regulated-software-and-admin-state",
+            "machine-intelligence-and-compute-buildout",
+            "physical-reindustrialization-and-infrastructure",
+        ],
+        "label": "Benefit set",
+        "implication_key": "operator_implications",
+    },
+    {
+        "title": "Who gets pressured",
+        "summary": "The exposed positions are the ones trapped in undifferentiated middle layers, labor-heavy throughput, or systems they do not control.",
+        "theme_slugs": [
+            "barbelled-consumer-america",
+            "work-without-the-old-firm",
+            "space-housing-and-local-friction",
+            "aging-care-and-the-assistance-economy",
+        ],
+        "label": "Pressure set",
+        "implication_key": "tensions",
+    },
+    {
+        "title": "What operators should do",
+        "summary": "Management teams need explicit choices about which bottleneck, workflow, or customer permission structure they actually own.",
+        "theme_slugs": [
+            "regulated-software-and-admin-state",
+            "barbelled-consumer-america",
+            "physical-reindustrialization-and-infrastructure",
+            "experience-status-and-community",
+        ],
+        "label": "Operator agenda",
+        "implication_key": "operator_implications",
+    },
+    {
+        "title": "What investors should underwrite",
+        "summary": "The better underwriting posture is to back the owner of the scarce layer, the trusted workflow, or the culturally durable demand loop.",
+        "theme_slugs": [
+            "scale-financialization-and-the-owned-economy",
+            "machine-intelligence-and-compute-buildout",
+            "aging-care-and-the-assistance-economy",
+            "wellness-recodes-daily-life",
+        ],
+        "label": "Investor agenda",
+        "implication_key": "capital_implications",
+    },
+]
+
 
 def e(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
@@ -208,6 +286,19 @@ def load_company_lookup() -> dict[str, dict]:
 def build_chip(theme_lookup: dict[str, dict], slug: str) -> str:
     theme = theme_lookup[slug]
     return f'<a class="chip" href="theme-briefs/{e(slug)}.html">{e(theme["title"])}</a>'
+
+
+def dedupe(values: list[str], limit: int | None = None) -> list[str]:
+    out: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        out.append(value)
+        if limit is not None and len(out) >= limit:
+            break
+    return out
 
 
 def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
@@ -271,6 +362,91 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
         "top_company_slugs": [slug for slug, _ in company_counts.most_common(6)],
         "subthemes": subthemes[:4],
     }
+
+
+def theme_matches_lens(theme: dict, match_terms: list[str]) -> bool:
+    lens = theme.get("lens", "")
+    return any(term in lens for term in match_terms)
+
+
+def collect_group_evidence(
+    theme_lookup: dict[str, dict], linked_themes: list[str], company_lookup: dict[str, dict]
+) -> dict[str, list]:
+    evidence = collect_section_evidence(theme_lookup, linked_themes)
+    theme_titles = [theme_lookup[slug]["title"] for slug in linked_themes if slug in theme_lookup]
+    subtheme_titles = [item["title"] for item in evidence["subthemes"]]
+    company_titles = []
+    for slug in evidence["top_company_slugs"]:
+        company = company_lookup.get(slug)
+        if company:
+            company_titles.append(company["title"])
+    return {
+        "theme_titles": dedupe(theme_titles, 4),
+        "subtheme_titles": dedupe(subtheme_titles, 4),
+        "signals": dedupe(evidence["signals"], 3),
+        "tensions": dedupe(evidence["tensions"], 2),
+        "operator_implications": dedupe(evidence["operator_implications"], 3),
+        "capital_implications": dedupe(evidence["capital_implications"], 3),
+        "second_order_effects": dedupe(evidence["second_order_effects"], 2),
+        "top_sectors": evidence["top_sectors"][:4],
+        "company_titles": dedupe(company_titles, 4),
+    }
+
+
+def render_lens_section(theme_lookup: dict[str, dict], company_lookup: dict[str, dict]) -> str:
+    cards = []
+    for lens in LENS_SECTIONS:
+        theme_slugs = [
+            theme["slug"]
+            for theme in theme_lookup.values()
+            if theme_matches_lens(theme, lens["match_terms"])
+        ]
+        evidence = collect_group_evidence(theme_lookup, theme_slugs, company_lookup)
+        sector_line = ", ".join(
+            f"{sector} ({count})" for sector, count in evidence["top_sectors"]
+        )
+        cards.append(
+            f"""<article class="card">
+  <div class="meta">{e(lens['title'])}</div>
+  <h3>{e(lens['summary'])}</h3>
+  <p><b>Major themes:</b> {e('; '.join(evidence['theme_titles']))}</p>
+  <p><b>Subthemes in motion:</b> {e('; '.join(evidence['subtheme_titles']))}</p>
+  <p><b>Where it shows up:</b> {e(sector_line)}</p>
+  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Tensions:</b> {e(' | '.join(evidence['tensions']))}</p>
+  <p><b>Representative companies:</b> {e('; '.join(evidence['company_titles']))}</p>
+  <div class="chips">
+    {''.join(f'<span class="chip">{e(item)}</span>' for item in evidence['operator_implications'])}
+  </div>
+</article>"""
+        )
+    return f"""<section class="section">
+  <h2>Four-Lens Read</h2>
+  <div class="grid">{''.join(cards)}</div>
+</section>"""
+
+
+def render_pressure_matrix(theme_lookup: dict[str, dict], company_lookup: dict[str, dict]) -> str:
+    cards = []
+    for item in PRESSURE_MATRIX:
+        evidence = collect_group_evidence(theme_lookup, item["theme_slugs"], company_lookup)
+        implication_list = evidence[item["implication_key"]]
+        cards.append(
+            f"""<article class="card">
+  <div class="meta">{e(item['label'])}</div>
+  <h3>{e(item['title'])}</h3>
+  <p>{e(item['summary'])}</p>
+  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Where it shows up:</b> {e('; '.join(sector for sector, _ in evidence['top_sectors']))}</p>
+  <p><b>Theme anchors:</b> {e('; '.join(evidence['theme_titles']))}</p>
+  <p><b>Named evidence:</b> {e('; '.join(evidence['company_titles']))}</p>
+  <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in implication_list)}</ul>
+</article>"""
+        )
+    return f"""<section class="section">
+  <h2>System Consequences</h2>
+  <div class="grid">{''.join(cards)}</div>
+</section>"""
 
 
 def main() -> None:
@@ -390,7 +566,7 @@ def main() -> None:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(CAPSTONE['title'])} — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-theme-briefs.html">Theme briefs</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-theme-briefs.html">Theme briefs</a><a href="american-synthesis-playbook.html">Playbook</a></div>
 <div class="eyebrow">Capstone narrative · US · 2025-2026</div>
 <h1>{e(CAPSTONE['title'])}</h1>
 <p class="sub">{e(CAPSTONE['subtitle'])}</p>
@@ -409,10 +585,14 @@ def main() -> None:
   <div class="grid">{''.join(cards)}</div>
 </section>
 
+{render_lens_section(theme_lookup, company_lookup)}
+
 <section class="section">
   <h2>The Argument</h2>
   {''.join(sections)}
 </section>
+
+{render_pressure_matrix(theme_lookup, company_lookup)}
 
 <section class="section">
   <h2>Closing Read</h2>

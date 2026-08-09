@@ -256,13 +256,20 @@ def build_html(records):
   <p>{e(r['signature'])}</p>
   <p><b>Demand logic:</b> {e(r['demand_logic'])}</p>
   <p><b>Margin logic:</b> {e(r['margin_logic'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{linked}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
   <div class="chips">{constraints}</div>
   <p><b>Advantaged operator types</b></p>
   <div class="chips">{winners}</div>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <div class="chips">{winners}</div>
   <p><b>Exposed operator types</b></p>
   <div class="chips">{losers}</div>
-  <p><b>Linked playbooks</b></p>
-  <div class="chips">{linked}</div>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list"><li>{e('This force becomes most dangerous when ' + ', '.join(r['binding_constraints'][:2]) + ' stop looking operational and start determining category structure.')}</li></ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list"><li>{e('Once this force intensifies, adjacent operator models and ownership structures usually start repricing before the headline category fully does.')}</li></ul>
   <p><b>What to do</b></p>
   <ul class="list">{moves}</ul>
 </article>"""

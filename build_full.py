@@ -94,10 +94,16 @@ def collect_lens_evidence(linked_themes):
     subthemes=[]
     operator_moves=[]
     investor_moves=[]
+    signals=[]
+    tensions=[]
+    second_order=[]
     for slug in linked_themes:
         theme=theme_lookup[slug]
         operator_moves.extend(theme.get('strategic_implications', []))
         investor_moves.extend(theme.get('capital_implications', []))
+        signals.extend(theme.get('signals_to_watch', []))
+        tensions.extend(theme.get('structural_tensions', []))
+        second_order.extend(theme.get('second_order_effects', []))
         for subtheme in theme.get('subthemes', []):
             subthemes.append(subtheme['title'])
             for industry in subtheme.get('industries', []):
@@ -111,6 +117,9 @@ def collect_lens_evidence(linked_themes):
         'subthemes': unique_ordered(subthemes)[:4],
         'operator_moves': unique_ordered(operator_moves)[:2],
         'investor_moves': unique_ordered(investor_moves)[:2],
+        'signals': unique_ordered(signals)[:2],
+        'tensions': unique_ordered(tensions)[:2],
+        'second_order': unique_ordered(second_order)[:2],
     }
 
 overview_cards=[
@@ -119,6 +128,31 @@ overview_cards=[
         "title":"American Outlook 2025-2026",
         "href":"american-outlook-2025-2026.html",
         "body":"The cleanest top-level read on societal, cultural, consumer, and industrial change across the full corpus.",
+        "where_it_shows_up":[
+            "Household budgets and consumption mix",
+            "Labor formation, hiring, and retention",
+            "Power, housing, and physical buildout bottlenecks",
+        ],
+        "signals":[
+            "Consumer demand keeps splitting between value-safe and premium-defensible positions.",
+            "Capital and labor keep concentrating around constrained, high-importance systems.",
+        ],
+        "what_to_do":[
+            "Use it to frame decisions before narrowing into themes, sectors, or companies.",
+            "Treat it as the quickest way to orient around the current US macro stack.",
+        ],
+        "what_to_underwrite":[
+            "Businesses aligned with recurring bottlenecks, not generic growth narratives.",
+            "Operators that can turn constraint management into pricing power or workflow control.",
+        ],
+        "tensions":[
+            "Demand can still grow while margins, labor, and capital intensity get worse.",
+            "The economic winners are not always in the obvious headline categories.",
+        ],
+        "second_order":[
+            "Operational complexity becomes a selection mechanism, not just a cost line.",
+            "Sector outcomes increasingly depend on adjacent systems like power, logistics, or regulation.",
+        ],
         "use_cases":[
             "Start here for the four-lens read on America.",
             "Use it before drilling into themes, sectors, or company evidence.",
@@ -129,6 +163,31 @@ overview_cards=[
         "title":"The US Economy in 2025-2026",
         "href":"american-economy-2025-2026.html",
         "body":"The full end-to-end argument tying labor, demand, institutions, geography, AI, and physical buildout together.",
+        "where_it_shows_up":[
+            "Households, institutions, and regional growth corridors",
+            "AI infrastructure, logistics, and construction demand",
+            "Consumer, healthcare, and financial operating models",
+        ],
+        "signals":[
+            "AI demand increasingly behaves like a power and infrastructure story, not only a software story.",
+            "Aging, labor scarcity, and admin burden keep showing up together across unrelated sectors.",
+        ],
+        "what_to_do":[
+            "Use it when you need the whole-system explanation rather than a single theme slice.",
+            "Read it before writing a broad investment or operating thesis on the US economy.",
+        ],
+        "what_to_underwrite":[
+            "Assets and operators sitting on the advantaged side of labor, land, power, and workflow constraints.",
+            "Business models that benefit when institutional complexity keeps rising.",
+        ],
+        "tensions":[
+            "Digital productivity gains coexist with rising physical bottlenecks.",
+            "Nominal growth can obscure worsening competitive separation underneath.",
+        ],
+        "second_order":[
+            "Capital flows toward picks-and-shovels layers rather than only consumer-facing winners.",
+            "Regional and sector divergence becomes more durable because bottlenecks are local and physical.",
+        ],
         "use_cases":[
             "Use this when you want the full narrative, not just the map.",
             "Best for understanding how the major pressures fit together systemically.",
@@ -139,6 +198,31 @@ overview_cards=[
         "title":"Economic Intelligence",
         "href":"economic-intelligence.html",
         "body":"The surfaced force map linking recurring pressures, domains, operator questions, and flagship synthesis artifacts.",
+        "where_it_shows_up":[
+            "Cross-industry recurring forces",
+            "Sector comparisons and operator workflows",
+            "Theme, outlook, and memo navigation",
+        ],
+        "signals":[
+            "The same force clusters keep repeating across sectors, not just inside isolated industries.",
+            "Operator questions converge around constraint management rather than generic market share.",
+        ],
+        "what_to_do":[
+            "Use it to move from industry detail into force logic and recurring pressure patterns.",
+            "Read it when comparing why very different sectors are behaving similarly.",
+        ],
+        "what_to_underwrite":[
+            "Platforms, tools, and owners that monetize mandatory complexity.",
+            "Businesses positioned where repeated force overlap creates durable leverage.",
+        ],
+        "tensions":[
+            "Macro narratives can look clean while the force stack underneath stays messy and uneven.",
+            "A category can have strong demand and still be structurally exposed to the wrong force mix.",
+        ],
+        "second_order":[
+            "Force overlap becomes a practical diligence shortcut across sectors and companies.",
+            "Operating playbooks start converging even where end markets remain different.",
+        ],
         "use_cases":[
             "Use this when you need the force system behind the industry corpus.",
             "Best for moving from repeated industry patterns into operating logic.",
@@ -149,6 +233,31 @@ overview_cards=[
         "title":"American Theme Memos",
         "href":"american-theme-memos.html",
         "body":"The decision layer translating the major themes into what to do, what to avoid, and what to underwrite.",
+        "where_it_shows_up":[
+            "Theme-level operating posture",
+            "Investor diligence framing",
+            "Representative industries and named companies",
+        ],
+        "signals":[
+            "Theme evidence is strong enough to support operator and investor translation, not just taxonomy.",
+            "The same macro pressures now map cleanly into hunt zones, avoid zones, and underwriting questions.",
+        ],
+        "what_to_do":[
+            "Use it when you need the shortest path from macro read to operator action.",
+            "Use it to screen where to hunt, what to avoid, and what diligence to run next.",
+        ],
+        "what_to_underwrite":[
+            "Category leaders that convert structural themes into practical economics.",
+            "Businesses whose advantages deepen as the theme becomes more normal rather than more novel.",
+        ],
+        "tensions":[
+            "A theme can be right directionally while still punishing weak operators inside it.",
+            "The best narrative categories are not always the best underwriting categories.",
+        ],
+        "second_order":[
+            "Theme intensity changes hiring, procurement, service, and capital allocation before it changes headlines.",
+            "Company-level separation becomes easier to explain once the macro theme is operationalized.",
+        ],
         "use_cases":[
             "Use this when you need strategic and capital implications fast.",
             "Best bridge from macro interpretation to diligence and action.",
@@ -170,7 +279,37 @@ for section in OUTLOOK["sections"]:
         "companies":evidence["companies"],
         "operator_moves":evidence["operator_moves"],
         "investor_moves":evidence["investor_moves"],
+        "signals":evidence["signals"],
+        "tensions":evidence["tensions"],
+        "second_order":evidence["second_order"],
     })
+
+landing_summary={
+    "where_it_shows_up":[
+        "Consumer demand, healthcare delivery, financial intermediation, and regional growth corridors.",
+        "Power-heavy AI infrastructure, logistics networks, housing markets, and industrial buildout.",
+    ],
+    "signals":[
+        "Value versus premium demand splitting keeps showing up across sectors instead of fading.",
+        "Labor, regulation, and power constraints increasingly govern margins more than simple volume growth.",
+    ],
+    "what_to_do":[
+        "Start with the macro stack before judging any sector or company in isolation.",
+        "Use recurring constraints as a filter for strategy, diligence, pricing, staffing, and capital allocation.",
+    ],
+    "what_to_underwrite":[
+        "Assets and operators on the advantaged side of labor, power, land, compliance, and workflow bottlenecks.",
+        "Business models that convert complexity into repeat revenue, pricing power, or strategic control.",
+    ],
+    "tensions":[
+        "Nominal growth can coexist with weaker economics when the wrong constraint becomes binding.",
+        "The most obvious headline winners are not always the businesses capturing the durable margin pool.",
+    ],
+    "second_order":[
+        "Operational complexity becomes a selection mechanism that separates scalable operators from the generic middle.",
+        "Adjacent systems like logistics, power, permitting, and reimbursement increasingly determine sector outcomes.",
+    ],
+}
 
 company_by_overlap={}
 for trend in clean_trends:
@@ -260,6 +399,7 @@ DATA=json.dumps({
  "sectorColor":SECTOR_COLOR,
  "workingThesis":economic_intelligence.get('working_thesis',''),
  "crosscuts":[c['title'] for c in economic_intelligence.get('crosscuts', [])[:6]],
+ "landingSummary":landing_summary,
  "overviewCards":overview_cards,
  "lensCards":lens_cards,
  "trendEvidence":company_by_overlap,
@@ -320,11 +460,11 @@ h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.025em;line-he
 .story{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px 20px}
 .story h3{font-size:1.15rem;margin:0 0 .35em}
 .story p{color:var(--muted)}
-.overview-grid,.lens-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
-.overview-card,.lens-card{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px}
+.overview-grid,.lens-grid,.summary-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.overview-card,.lens-card,.summary-card{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px}
 .eyeline{font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--brass)}
-.overview-card h3,.lens-card h3{font-size:1.08rem;margin:.22em 0 .35em}
-.overview-card p,.lens-card p{color:var(--muted)}
+.overview-card h3,.lens-card h3,.summary-card h3{font-size:1.08rem;margin:.22em 0 .35em}
+.overview-card p,.lens-card p,.summary-card p{color:var(--muted)}
 .list{padding-left:18px;color:var(--muted);margin:.5em 0 0}
 .list li{margin:.32em 0}
 .railcard{background:var(--panel);border:1px solid var(--line2);border-radius:13px;padding:18px}
@@ -428,6 +568,35 @@ footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line2);color:
    <div class="lens-grid" id="lens-cards"></div>
   </div>
   <div class="section">
+   <h2>Decision Surface</h2>
+   <div class="summary-grid">
+    <article class="summary-card">
+     <div class="eyeline">Where it shows up</div>
+     <ul class="list" id="landing-where"></ul>
+    </article>
+    <article class="summary-card">
+     <div class="eyeline">Signals</div>
+     <ul class="list" id="landing-signals"></ul>
+    </article>
+    <article class="summary-card">
+     <div class="eyeline">What to do</div>
+     <ul class="list" id="landing-do"></ul>
+    </article>
+    <article class="summary-card">
+     <div class="eyeline">What to underwrite</div>
+     <ul class="list" id="landing-underwrite"></ul>
+    </article>
+    <article class="summary-card">
+     <div class="eyeline">Tensions</div>
+     <ul class="list" id="landing-tensions"></ul>
+    </article>
+    <article class="summary-card">
+     <div class="eyeline">Second-order effects</div>
+     <ul class="list" id="landing-second-order"></ul>
+    </article>
+   </div>
+  </div>
+  <div class="section">
    <div class="split">
     <div class="stack">
      <article class="story">
@@ -479,11 +648,29 @@ document.getElementById('strip').innerHTML=[
 ].map(([n,l])=>`<div class="kpi"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
 document.getElementById('working-thesis').textContent=D.workingThesis;
 document.getElementById('crosscuts').innerHTML=D.crosscuts.map(item=>`<span class="microchip">${esc(item)}</span>`).join('');
+document.getElementById('landing-where').innerHTML=D.landingSummary.where_it_shows_up.map(item=>`<li>${esc(item)}</li>`).join('');
+document.getElementById('landing-signals').innerHTML=D.landingSummary.signals.map(item=>`<li>${esc(item)}</li>`).join('');
+document.getElementById('landing-do').innerHTML=D.landingSummary.what_to_do.map(item=>`<li>${esc(item)}</li>`).join('');
+document.getElementById('landing-underwrite').innerHTML=D.landingSummary.what_to_underwrite.map(item=>`<li>${esc(item)}</li>`).join('');
+document.getElementById('landing-tensions').innerHTML=D.landingSummary.tensions.map(item=>`<li>${esc(item)}</li>`).join('');
+document.getElementById('landing-second-order').innerHTML=D.landingSummary.second_order.map(item=>`<li>${esc(item)}</li>`).join('');
 document.getElementById('overview-cards').innerHTML=D.overviewCards.map(card=>`
  <article class="overview-card">
   <div class="eyeline">${esc(card.label)}</div>
   <h3><a href="${esc(card.href)}">${esc(card.title)}</a></h3>
   <p>${esc(card.body)}</p>
+  <div class="eyeline" style="margin-top:14px">Where it shows up</div>
+  <ul class="list">${card.where_it_shows_up.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Signals</div>
+  <ul class="list">${card.signals.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">What to do</div>
+  <ul class="list">${card.what_to_do.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">What to underwrite</div>
+  <ul class="list">${card.what_to_underwrite.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Tensions</div>
+  <ul class="list">${card.tensions.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">${card.second_order.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
   <ul class="list">${card.use_cases.map(line=>`<li>${esc(line)}</li>`).join('')}</ul>
  </article>`).join('');
 document.getElementById('lens-cards').innerHTML=D.lensCards.map(card=>`
@@ -501,6 +688,12 @@ document.getElementById('lens-cards').innerHTML=D.lensCards.map(card=>`
   <ul class="list">${card.operator_moves.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
   <div class="eyeline" style="margin-top:14px">What to underwrite</div>
   <ul class="list">${card.investor_moves.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Signals</div>
+  <ul class="list">${card.signals.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Tensions</div>
+  <ul class="list">${card.tensions.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
+  <div class="eyeline" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">${card.second_order.map(item=>`<li>${esc(item)}</li>`).join('')}</ul>
  </article>`).join('');
 const filters=document.getElementById('filters');
 filters.innerHTML=`<span class="chip on" data-f="all">All</span>`+D.sectors.map(s=>

@@ -465,11 +465,11 @@ def render_memo(theme: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Structural tensions</div>
+      <div class="meta">Tensions</div>
       <ul class="list">{tensions}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Signals to watch</div>
+      <div class="meta">Signals</div>
       <ul class="list">{signals}</ul>
     </div>
   </div>
@@ -531,11 +531,36 @@ def render_memo(theme: dict, prefix: str = "") -> str:
 def build_hub(records: list[dict]) -> str:
     cards = []
     for theme in records:
+        seen = set()
+        where_it_shows_up = []
+        for subtheme in theme["subthemes"]:
+            for industry in subtheme["industries"]:
+                title = industry.get("title")
+                if title and title not in seen:
+                    seen.add(title)
+                    where_it_shows_up.append(title)
+            for company in subtheme["companies"]:
+                title = company.get("title")
+                if title and title not in seen:
+                    seen.add(title)
+                    where_it_shows_up.append(title)
+        where_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in where_it_shows_up[:4])
+        signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"][:2])
+        tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"][:2])
+        second_order = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"][:2])
         cards.append(
             f"""<article class="card">
   <div class="meta">{e(theme['lens'])}</div>
   <h3><a href="theme-memos/{e(theme['slug'])}.html">{e(theme['title'])}</a></h3>
   <p>{e(theme['operator_angle'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{where_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <ul class="list">{signals}</ul>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list">{tensions}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{second_order}</ul>
   <div class="chips">{theme_brief_chip(theme)}</div>
 </article>"""
         )

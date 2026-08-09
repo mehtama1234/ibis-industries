@@ -1111,9 +1111,12 @@ def build_cluster_records(companies: list[dict[str, Any]]) -> list[dict[str, Any
             for member in sorted(members, key=lambda row: (-row["mention_count"], row["title"]))[:8]
         ]
         force_counts = Counter()
+        constraint_counts = Counter()
         for member in members:
             for force in member["dominant_forces"]:
                 force_counts[force["title"]] += 1
+            for constraint in member.get("constraints", []):
+                constraint_counts[constraint] += 1
         records.append(
             {
                 "slug": slug,
@@ -1125,6 +1128,7 @@ def build_cluster_records(companies: list[dict[str, Any]]) -> list[dict[str, Any
                 "mixed_count": status_counts["mixed"],
                 "exposed_count": status_counts["exposed"],
                 "top_forces": [title for title, _count in force_counts.most_common(4)],
+                "top_constraints": [title for title, _count in constraint_counts.most_common(4)],
                 "top_companies": top_companies,
             }
         )
@@ -1149,6 +1153,10 @@ def build_universe_page(companies: list[dict[str, Any]]) -> str:
   <p>{e(company['why_owner_type'])}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <p class="small">{e('The key question is whether ' + company['title'] + ' can stay on the right side of ' + ', '.join(company['constraints'][:3]) + ' while preserving its ' + company['business_model_cluster_title'].lower() + ' position.')}</p>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <p class="small">{e(company['title'] + ' has to preserve its current edge while ' + ', '.join(company['constraints'][:2]) + ' keep tightening around the cluster.')}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <p class="small">{e('If this read holds, adjacent sectors like ' + ', '.join(item['sector'] for item in company['sector_mix'][:2]) + ' will likely reprice around the same workflow and owner-type logic.')}</p>
 </article>"""
         for company in top_companies
     )
@@ -1217,6 +1225,10 @@ def build_clusters_page(clusters: list[dict[str, Any]]) -> str:
   <p>{e('This cluster usually rewards ' + cluster['best_owner_type'] + ' behavior rather than generic participation in the category.')}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <p class="small">{e('The real question is whether the apparent leaders in ' + cluster['title'] + ' still own the right bottleneck, workflow, or bargaining position once force pressure intensifies.')}</p>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <p class="small">{e('This cluster gets stressed when ' + ', '.join(cluster.get('top_constraints', [])[:2]) + ' stop looking manageable and start defining the economics.')}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <p class="small">{e('If the cluster thesis is right, the spillover shows up in adjacent company behavior, not just in the headline leaders.')}</p>
 </article>"""
         for cluster in clusters
     )

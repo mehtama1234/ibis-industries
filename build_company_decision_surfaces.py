@@ -87,6 +87,23 @@ def render_underwrite_lines(company: dict) -> str:
     return "".join(f"<li>{e(item)}</li>" for item in items if item)
 
 
+def render_tension_lines(company: dict) -> str:
+    items = [
+        f"{company['title']} has to preserve its current edge while {', '.join(company.get('constraints', [])[:2])} keep tightening.",
+        f"The cluster read breaks if {company['title']} drifts back toward a generic middle position inside {company.get('business_model_cluster_title', '').lower()} markets.",
+    ]
+    return "".join(f"<li>{e(item)}</li>" for item in items if item)
+
+
+def render_second_order_lines(company: dict) -> str:
+    sectors = [item["sector"] for item in company.get("sector_mix", [])[:2]]
+    items = [
+        f"If this read holds, adjacent sectors like {', '.join(sectors) if sectors else 'linked markets'} will increasingly organize around the same owner-type logic.",
+        f"Changes in {', '.join(force['title'] for force in company.get('dominant_forces', [])[:2]) or 'the dominant force mix'} should alter capital intensity and competitive separation before they show up as simple growth changes.",
+    ]
+    return "".join(f"<li>{e(item)}</li>" for item in items if item)
+
+
 def render_company_card(company: dict, cluster_outlook: dict | None) -> str:
     lens_chips = ""
     cluster_themes = ""
@@ -113,6 +130,10 @@ def render_company_card(company: dict, cluster_outlook: dict | None) -> str:
   <p>{e(company.get('why_owner_type', ''))}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <ul class="list">{render_underwrite_lines(company)}</ul>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <ul class="list">{render_tension_lines(company)}</ul>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{render_second_order_lines(company)}</ul>
 </article>"""
 
 
@@ -226,6 +247,16 @@ def build_comparisons_page(comparisons: list[dict], cluster_outlooks: dict[str, 
     <div class="panel">
       <div class="meta">What to underwrite</div>
       <p>{e(section.get('investor_angle', ''))}</p>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Tensions</div>
+      <p>{e('The central tension is whether the apparent leaders in ' + section['cluster_title'] + ' still hold the right bottleneck once pressure intensifies.')}</p>
+    </div>
+    <div class="panel">
+      <div class="meta">Second-order effects</div>
+      <p>{e('If the cluster thesis is right, adjacent company behavior should reprice around the same force, labor, channel, and owner-type logic.')}</p>
     </div>
   </div>
   <div class="stack" style="margin-top:14px">

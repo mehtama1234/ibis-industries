@@ -45,6 +45,7 @@ def playbook_record(pb, briefs_by_slug):
     for b in briefs:
         for d in (b.get("recent_developments") or [])[:2]:
             developments.append({"industry": b["title"], "development": d})
+    top_constraints = [theme for theme, _n in themes.most_common(3)]
     return {
         **pb,
         "industries": [
@@ -63,6 +64,14 @@ def playbook_record(pb, briefs_by_slug):
         "sector_mix": sectors.most_common(),
         "common_themes": themes.most_common(10),
         "recent_developments": developments[:12],
+        "tension_items": [
+            f"This playbook gets harder when {item.lower()} stops being a theme label and becomes the binding economic reality."
+            for item in top_constraints[:3]
+        ],
+        "second_order_items": [
+            f"{item['industry']}: {item['development']}"
+            for item in developments[:3]
+        ],
     }
 
 
@@ -85,6 +94,8 @@ def build_page(record, briefs_by_slug):
         f"<li>{e('Does ' + q[0].lower() + q[1:])}</li>" if q else ""
         for q in record["operator_questions"][:3]
     )
+    tensions = "".join(f"<li>{e(item)}</li>" for item in record["tension_items"][:3])
+    second_order = "".join(f"<li>{e(item)}</li>" for item in record["second_order_items"][:3])
     devs = "".join(
         f'<div class="dev"><b>{e(d["industry"])}</b><br>{e(d["development"])}</div>'
         for d in record["recent_developments"][:8]
@@ -103,8 +114,12 @@ def build_page(record, briefs_by_slug):
 <div class="panel"><h2>How To Read It</h2><ul class="qs">{questions}</ul></div>
 <div class="panel"><h2>Sector Mix</h2><div class="themes">{sector_mix}</div></div>
 <div class="panel"><h2>Repeated Themes</h2><div class="themes">{common}</div></div>
+<div class="panel"><h2>Where it shows up</h2><div class="themes">{sector_mix}</div></div>
 <div class="panel"><h2>Signals</h2><ul class="qs">{signal_items}</ul></div>
+<div class="panel"><h2>What to do</h2><ul class="qs">{questions}</ul></div>
 <div class="panel"><h2>What to underwrite</h2><ul class="qs">{underwrite_items}</ul></div>
+<div class="panel"><h2>Tensions</h2><ul class="qs">{tensions}</ul></div>
+<div class="panel"><h2>Second-order effects</h2><ul class="qs">{second_order}</ul></div>
 <div class="panel"><h2>Recent Signals</h2>{devs}</div>
 </aside></div>
 <footer>Built from the current researched industry corpus. Each playbook is a sector-area/operator view over specific industry briefs.</footer>
@@ -124,6 +139,10 @@ def build_hub(records, industry_count):
   <p>{e(r['operator_questions'][0])}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <p>{e(r['operator_questions'][1] if len(r['operator_questions']) > 1 else r['operator_questions'][0])}</p>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <p>{e(r['tension_items'][0] if r['tension_items'] else 'Theme pressure is becoming operational rather than descriptive.')}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <p>{e(r['second_order_items'][0] if r['second_order_items'] else 'Recent developments keep spilling into adjacent operating decisions.')}</p>
 </a>"""
         for r in records
     )

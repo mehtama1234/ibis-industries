@@ -14,6 +14,11 @@
       "The Margin Vise",
       "The Compliance Tax"
     ],
+    "top_constraints": [
+      "procurement / inputs",
+      "capex cycle",
+      "utilization"
+    ],
     "top_companies": [
       {
         "slug": "3m",
@@ -79,6 +84,11 @@
       "The Great Consolidation",
       "The Compliance Tax",
       "The Channel Shift"
+    ],
+    "top_constraints": [
+      "talent concentration",
+      "utilization",
+      "client concentration"
     ],
     "top_companies": [
       {
@@ -146,6 +156,11 @@
       "The Great Consolidation",
       "The Margin Vise"
     ],
+    "top_constraints": [
+      "channel access",
+      "pricing power",
+      "fulfillment intensity"
+    ],
     "top_companies": [
       {
         "slug": "amazon",
@@ -211,6 +226,11 @@
       "The Great Consolidation",
       "The Compliance Tax",
       "The Graying Market"
+    ],
+    "top_constraints": [
+      "compliance / regulation",
+      "pricing power",
+      "channel access"
     ],
     "top_companies": [
       {
@@ -278,6 +298,11 @@
       "The Great Consolidation",
       "Money Gets Unbundled"
     ],
+    "top_constraints": [
+      "regulatory approval",
+      "claims cost inflation",
+      "pricing power"
+    ],
     "top_companies": [
       {
         "slug": "allstate",
@@ -343,6 +368,11 @@
       "The Compliance Tax",
       "The Great Consolidation",
       "The Channel Shift"
+    ],
+    "top_constraints": [
+      "compute / infrastructure",
+      "compliance / regulation",
+      "platform relevance"
     ],
     "top_companies": [
       {
@@ -410,6 +440,11 @@
       "The Real-Estate Reckoning",
       "The Compliance Tax"
     ],
+    "top_constraints": [
+      "labor",
+      "capital / rates",
+      "execution risk"
+    ],
     "top_companies": [
       {
         "slug": "turner-construction",
@@ -475,6 +510,11 @@
       "The Great Consolidation",
       "The Compliance Tax",
       "The Margin Vise"
+    ],
+    "top_constraints": [
+      "labor",
+      "utilization",
+      "fuel and operating cost"
     ],
     "top_companies": [
       {
@@ -542,6 +582,11 @@
       "The Compliance Tax",
       "The Hollow Middle"
     ],
+    "top_constraints": [
+      "procurement / inputs",
+      "consumer preference-driven demand",
+      "retailer leverage"
+    ],
     "top_companies": [
       {
         "slug": "pepsico",
@@ -607,6 +652,11 @@
       "The Great Consolidation",
       "The Compliance Tax",
       "The Margin Vise"
+    ],
+    "top_constraints": [
+      "audience retention",
+      "content cost",
+      "distribution leverage"
     ],
     "top_companies": [
       {
@@ -674,6 +724,11 @@
       "The Compliance Tax",
       "The Margin Vise"
     ],
+    "top_constraints": [
+      "regulation",
+      "capital intensity",
+      "field execution"
+    ],
     "top_companies": [
       {
         "slug": "halliburton",
@@ -739,6 +794,11 @@
       "The Great Consolidation",
       "The Graying Market",
       "The Channel Shift"
+    ],
+    "top_constraints": [
+      "labor",
+      "utilization",
+      "local demand density"
     ],
     "top_companies": [
       {
@@ -806,6 +866,11 @@
       "The Great Consolidation",
       "The Real-Estate Reckoning"
     ],
+    "top_constraints": [
+      "occupancy / utilization",
+      "labor",
+      "consumer bifurcation"
+    ],
     "top_companies": [
       {
         "slug": "airbnb",
@@ -871,6 +936,11 @@
       "The Great Consolidation",
       "The Health Reckoning",
       "The Compute Super-Cycle"
+    ],
+    "top_constraints": [
+      "procurement / inputs",
+      "consumer preference-driven demand",
+      "channel access"
     ],
     "top_companies": [
       {
@@ -938,6 +1008,11 @@
       "The Great Consolidation",
       "The Channel Shift"
     ],
+    "top_constraints": [
+      "utilization",
+      "rate sensitivity",
+      "labor"
+    ],
     "top_companies": [
       {
         "slug": "cbre",
@@ -1003,6 +1078,11 @@
       "The Great Consolidation",
       "The Margin Vise",
       "The Compliance Tax"
+    ],
+    "top_constraints": [
+      "channel access",
+      "inventory turns",
+      "customer acquisition cost"
     ],
     "top_companies": [
       {
@@ -1070,6 +1150,11 @@
       "The Channel Shift",
       "The Hollow Middle"
     ],
+    "top_constraints": [
+      "talent concentration",
+      "client concentration",
+      "workflow standardization"
+    ],
     "top_companies": [
       {
         "slug": "bentley-systems",
@@ -1135,6 +1220,11 @@
       "The Graying Market",
       "The Compliance Tax",
       "The Hollow Middle"
+    ],
+    "top_constraints": [
+      "capex cycle",
+      "utilization",
+      "procurement / inputs"
     ],
     "top_companies": [
       {
@@ -1202,6 +1292,11 @@
       "Money Gets Unbundled",
       "The Compliance Tax"
     ],
+    "top_constraints": [
+      "labor",
+      "compliance / regulation",
+      "customer acquisition cost"
+    ],
     "top_companies": [
       {
         "slug": "thermo-fisher-scientific",
@@ -1267,6 +1362,11 @@
       "The Labor Squeeze",
       "Atoms Strike Back"
     ],
+    "top_constraints": [
+      "labor",
+      "capital / rates",
+      "utilization"
+    ],
     "top_companies": [
       {
         "slug": "parker-hannifin",
@@ -1331,6 +1431,11 @@
       "The Margin Vise",
       "The Hollow Middle",
       "The Health Reckoning"
+    ],
+    "top_constraints": [
+      "consumer preference-driven demand",
+      "procurement / inputs",
+      "channel access"
     ],
     "top_companies": [
       {
@@ -1398,6 +1503,11 @@
       "Money Gets Unbundled",
       "Atoms Strike Back"
     ],
+    "top_constraints": [
+      "capital / rates",
+      "channel access",
+      "labor"
+    ],
     "top_companies": [
       {
         "slug": "tyson-foods",
@@ -1464,6 +1574,11 @@
       "The Fractional Worker",
       "The Channel Shift"
     ],
+    "top_constraints": [
+      "labor",
+      "pricing power",
+      "utilization"
+    ],
     "top_companies": [
       {
         "slug": "ulta-beauty",
@@ -1528,6 +1643,11 @@
       "The Hollow Middle",
       "The Health Reckoning",
       "The Channel Shift"
+    ],
+    "top_constraints": [
+      "channel access",
+      "consumer preference-driven demand",
+      "utilization"
     ],
     "top_companies": [
       {
@@ -1594,6 +1714,11 @@
       "The Compliance Tax",
       "The Great Consolidation"
     ],
+    "top_constraints": [
+      "labor",
+      "compliance / regulation",
+      "reimbursement"
+    ],
     "top_companies": [
       {
         "slug": "quest-diagnostics",
@@ -1658,6 +1783,11 @@
       "The Labor Squeeze",
       "The Real-Estate Reckoning",
       "The Graying Market"
+    ],
+    "top_constraints": [
+      "labor",
+      "reimbursement",
+      "compliance / regulation"
     ],
     "top_companies": [
       {
@@ -1725,6 +1855,11 @@
       "The Channel Shift",
       "The Pricing-Power Collapse"
     ],
+    "top_constraints": [
+      "customer acquisition cost",
+      "seasonality",
+      "fulfillment quality"
+    ],
     "top_companies": [
       {
         "slug": "shutterfly",
@@ -1790,6 +1925,11 @@
       "The Pricing-Power Collapse",
       "The Channel Shift",
       "Atoms Strike Back"
+    ],
+    "top_constraints": [
+      "inventory intensity",
+      "pricing power",
+      "service reliability"
     ],
     "top_companies": [
       {
@@ -1857,6 +1997,11 @@
       "The Channel Shift",
       "The Compute Super-Cycle"
     ],
+    "top_constraints": [
+      "regulatory access",
+      "customer acquisition cost",
+      "hold / take rate"
+    ],
     "top_companies": [
       {
         "slug": "draftkings",
@@ -1920,6 +2065,11 @@
     "top_forces": [
       "The Great Consolidation"
     ],
+    "top_constraints": [
+      "platform relevance",
+      "compute / infrastructure",
+      "customer acquisition cost"
+    ],
     "top_companies": [
       {
         "slug": "spacex-starlink",
@@ -1972,6 +2122,11 @@
       "The Channel Shift",
       "The Great Consolidation",
       "The Compute Super-Cycle"
+    ],
+    "top_constraints": [
+      "customer acquisition cost",
+      "outcomes credibility",
+      "utilization"
     ],
     "top_companies": [
       {

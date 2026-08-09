@@ -126,6 +126,7 @@ def build_lens_cards(record: dict, themes: list[dict]) -> list[dict]:
             "theme_titles": [],
             "tensions": [],
             "signals": [],
+            "second_order": [],
             "subthemes": [],
         }
 
@@ -139,6 +140,9 @@ def build_lens_cards(record: dict, themes: list[dict]) -> list[dict]:
             for item in theme.get("signals_to_watch", [])[:2]:
                 if item not in bucket_map[bucket]["signals"]:
                     bucket_map[bucket]["signals"].append(item)
+            for item in theme.get("second_order_effects", [])[:2]:
+                if item not in bucket_map[bucket]["second_order"]:
+                    bucket_map[bucket]["second_order"].append(item)
             for subtheme in theme.get("subthemes", [])[:2]:
                 if not any(existing["slug"] == subtheme["slug"] for existing in bucket_map[bucket]["subthemes"]):
                     bucket_map[bucket]["subthemes"].append(
@@ -197,6 +201,7 @@ def render_lens(lens: dict, prefix: str = "") -> str:
     theme_chips = "".join(f'<span class="chip">{e(title)}</span>' for title in lens["theme_titles"][:4])
     tensions = "".join(f"<li>{e(item)}</li>" for item in lens["tensions"][:3])
     signals = "".join(f"<li>{e(item)}</li>" for item in lens["signals"][:3])
+    second_order = "".join(f"<li>{e(item)}</li>" for item in lens["second_order"][:3])
     subthemes = "".join(render_subtheme_chip(prefix, item) for item in lens["subthemes"][:5]) or '<span class="chip">no surfaced subthemes</span>'
     return f"""<article class="lens">
   <div class="meta">{e(lens['label'])} lens</div>
@@ -212,6 +217,10 @@ def render_lens(lens: dict, prefix: str = "") -> str:
       <div class="meta">Signals</div>
       <ul class="list">{signals}</ul>
     </div>
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{second_order}</ul>
   </div>
   <div class="panel" style="margin-top:14px">
     <div class="meta">Linked subthemes</div>
@@ -244,6 +253,10 @@ def render_record(record: dict, prefix: str = "") -> str:
       <p>{e(record['investor_angle'])}</p>
     </div>
   </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{''.join(f'<li>{e(item)}</li>' for lens in record['lens_cards'] for item in lens['second_order'][:1])}</ul>
+  </div>
   <div class="grid" style="margin-top:14px">{lenses}</div>
 </section>"""
 
@@ -262,6 +275,8 @@ def build_hub(records: list[dict]) -> str:
   <p>{e(record['operator_angle'])}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <p>{e(record['investor_angle'])}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <ul class="list">{''.join(f'<li>{e(item)}</li>' for lens in record['lens_cards'][:2] for item in lens['second_order'][:1])}</ul>
 </article>"""
         for record in records
     )

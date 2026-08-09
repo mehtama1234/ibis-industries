@@ -114,6 +114,27 @@ def build_page(record: dict) -> str:
     adjacent = [BRIEFS_BY_SLUG[s] for s in record["adjacent_slugs"] if s in BRIEFS_BY_SLUG][:4]
     themes = "".join(f'<span class="chip">{e(t)}</span>' for t in record["themes"])
     constraints = "".join(f'<span class="chip">{e(c)}</span>' for c in record["constraints"])
+    where_it_shows_up = "".join(
+        f"<li>{e(item['title'])} <span class=\"meta\">{e(item.get('sector',''))}</span></li>"
+        for item in evidence[:4]
+    )
+    signals = "".join(f"<li>{e(item)}</li>" for item in record["constraints"][:3])
+    what_to_do = "".join(
+        f"<li>{e('Design the operating model around ' + item + ' rather than treating it as a side constraint.')}</li>"
+        for item in record["constraints"][:3]
+    )
+    what_to_underwrite = "".join(
+        f"<li>{e('Underwrite whether ' + item + ' is manageable or thesis-breaking in this category.')}</li>"
+        for item in record["constraints"][:3]
+    )
+    tensions = "".join(
+        f"<li>{e('This case gets harder when ' + item + ' stops looking manageable and starts defining the economics.')}</li>"
+        for item in record["constraints"][:3]
+    )
+    second_order = "".join(
+        f"<li>{e(item['title'])}: {e(item.get('one_sentence') or item.get('one_liner'))}</li>"
+        for item in adjacent[:3]
+    )
     evidence_cards = "\n".join(brief_card(b) for b in evidence)
     adjacent_cards = "\n".join(brief_card(b) for b in adjacent)
     return f"""<!doctype html>
@@ -139,6 +160,36 @@ def build_page(record: dict) -> str:
       <p>{e(record['business_truth'])}</p>
       <p>{e(record['why_owner_type'])}</p>
       <div class="chips">{constraints}</div>
+    </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">Where it shows up</div>
+        <ul class="list">{where_it_shows_up}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">Signals</div>
+        <ul class="list">{signals}</ul>
+      </div>
+    </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">What to do</div>
+        <ul class="list">{what_to_do}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">What to underwrite</div>
+        <ul class="list">{what_to_underwrite}</ul>
+      </div>
+    </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">Tensions</div>
+        <ul class="list">{tensions}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">Second-order effects</div>
+        <ul class="list">{second_order}</ul>
+      </div>
     </div>
     <div class="section">
       <h2>Evidence industries</h2>
@@ -170,6 +221,18 @@ def build_hub(records: list[dict]) -> str:
   <h3><a href="sector-cases/{e(r['slug'])}.html">{e(r['title'])}</a></h3>
   <p>{e(r['case_for'])}</p>
   <div class="stats"><span>{e(r['industry_title'])}</span><span>{e(r['best_owner_type'])}</span></div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(BRIEFS_BY_SLUG[s]["title"])}</span>' for s in r["evidence_slugs"][:2] if s in BRIEFS_BY_SLUG)}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(item)}</span>' for item in r["constraints"][:2])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(r['why_owner_type'])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p>{e('Whether ' + ', '.join(r['constraints'][:2]) + ' is manageable or thesis-breaking.')}</p>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <p>{e('This case gets harder when ' + ', '.join(r['constraints'][:2]) + ' stop looking operational and start determining the economics.')}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <p>{e('Adjacent industries start repricing around the same owner-type and constraint logic once this case becomes the template.')}</p>
 </article>"""
         for r in records
     )

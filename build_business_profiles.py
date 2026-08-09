@@ -252,6 +252,10 @@ def build_hub(records: list[dict]) -> str:
   <p>{e(r['why_owner_type'])}</p>
   <div class="meta" style="margin-top:14px">What to underwrite</div>
   <p>{e('Whether ' + ', '.join(r['constraints'][:2]) + ' is manageable or thesis-breaking.')}</p>
+  <div class="meta" style="margin-top:14px">Tensions</div>
+  <p>{e('This profile weakens when ' + ', '.join(r['constraints'][:2]) + ' stops looking manageable and starts defining the economics.')}</p>
+  <div class="meta" style="margin-top:14px">Second-order effects</div>
+  <p>{e('Adjacent evidence industries start repricing around the same operating logic once this business model becomes the local template.')}</p>
 </article>"""
         for r in records
     )

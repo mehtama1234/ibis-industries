@@ -148,6 +148,60 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
     dominant_force_titles = [force["title"] for force in company.get("dominant_forces", [])[:3]]
     force_text = ", ".join(dominant_force_titles) or "cross-force exposure"
     primary_constraint = company.get("constraints", ["complexity"])[0]
+    top_lens_labels = [lens["label"] for lens in lens_cards[:2]]
+    top_theme_titles = [theme["title"] for theme in related_themes[:3]]
+    top_subthemes = []
+    for theme in related_themes:
+        for subtheme in theme.get("subthemes", [])[:2]:
+            title = subtheme.get("title")
+            if title and title not in top_subthemes:
+                top_subthemes.append(title)
+    signal_items = [
+        f"Dominant forces: {', '.join(force['title'] for force in company['dominant_forces'])}."
+        if company.get("dominant_forces")
+        else "Dominant forces are diffuse rather than concentrated in one obvious regime.",
+        f"Primary constraints: {', '.join(company['constraints'][:3])}."
+        if company.get("constraints")
+        else "Primary constraints are spread across execution rather than one single bottleneck.",
+        f"Linked theme pressure: {', '.join(top_theme_titles)}."
+        if top_theme_titles
+        else "Linked theme pressure remains mixed rather than concentrated in one explicit theme set.",
+    ]
+    action_items = [
+        f"Operate around {primary_constraint} as the binding constraint, not a secondary cleanup item.",
+        f"Use {company['business_model_cluster_title'].lower()} position to protect demand, workflow, or distribution before chasing adjacent expansion.",
+        (
+            f"Translate {', '.join(top_lens_labels).lower()} signals into pricing, service, and capital-allocation decisions now."
+            if top_lens_labels
+            else "Translate the current force mix into pricing, service, and capital-allocation decisions now."
+        ),
+    ]
+    tension_items = [
+        f"{company['title']} has to preserve {company['best_owner_type']} economics while still absorbing pressure from {primary_constraint}.",
+        (
+            f"The main structural tension is whether {company['title']} stays on the advantaged side of {', '.join(top_theme_titles[:2])} without drifting back toward a generic middle position."
+            if top_theme_titles
+            else f"The main structural tension is whether {company['title']} keeps a differentiated position or gets pulled back toward a generic middle."
+        ),
+        (
+            f"If the read deteriorates, the business starts looking more like {', '.join(company['likely_losers'][:2])}."
+            if company.get("likely_losers")
+            else f"If the read deteriorates, the business starts losing the practical advantages that currently defend returns."
+        ),
+    ]
+    second_order_items = [
+        (
+            f"If {', '.join(top_subthemes[:2])} keep intensifying, procurement, labor, pricing, and channel choices around {company['title']} will tighten further."
+            if top_subthemes
+            else f"If the linked themes keep intensifying, procurement, labor, pricing, and channel choices around {company['title']} will tighten further."
+        ),
+        (
+            f"Because {company['title']} shows up across {sector} and {company['sector_mix'][1]['sector'] if len(company.get('sector_mix', [])) > 1 else sector}, shifts here can spill across multiple adjacent operating surfaces."
+            if company.get("sector_mix")
+            else f"Because {company['title']} touches multiple operating surfaces, shifts here can spill into adjacent categories faster than the headline sector suggests."
+        ),
+        f"Changes in {force_text.lower()} will likely alter capital intensity and competitive separation before they show up as simple revenue changes.",
+    ]
     record = {
         "slug": company["slug"],
         "title": company["title"],
@@ -191,6 +245,10 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
             f"The current read depends on whether {company['title']} can keep its advantage inside {force_text.lower()} "
             f"rather than being dragged back toward the generic middle of its cluster."
         ),
+        "signal_items": signal_items,
+        "action_items": action_items,
+        "tension_items": tension_items,
+        "second_order_items": second_order_items,
         "diligence_questions": [
             f"What would make {company['title']} lose its current edge in {company['business_model_cluster_title'].lower()} markets?",
             f"Is {primary_constraint} a manageable operating issue here or the thing that caps returns?",
@@ -275,13 +333,10 @@ def render_memo(record: dict, prefix: str = "") -> str:
     sector_mix = "".join(f"<li>{e(item['sector'])}: {item['count']} linked industries</li>" for item in record["sector_mix"])
     likely_losers = "".join(f"<li>{e(item)}</li>" for item in record["likely_losers"]) or "<li>No explicit loser set surfaced</li>"
     diligence = "".join(f"<li>{e(item)}</li>" for item in record["diligence_questions"])
-    signal_items = "".join(
-        f"<li>{e(item)}</li>" for item in (
-            [f"Dominant forces: {', '.join(force['title'] for force in record['dominant_forces'])}."]
-            + [f"Primary constraints: {', '.join(record['constraints'][:3])}."]
-            + [f"Linked theme pressure: {', '.join(theme['title'] for theme in record['related_themes'][:3])}."]
-        )
-    )
+    signal_items = "".join(f"<li>{e(item)}</li>" for item in record["signal_items"])
+    action_items = "".join(f"<li>{e(item)}</li>" for item in record["action_items"])
+    tension_items = "".join(f"<li>{e(item)}</li>" for item in record["tension_items"])
+    second_order_items = "".join(f"<li>{e(item)}</li>" for item in record["second_order_items"])
     theme_scorecard = "".join(
         f'<span class="chip">{e(slug.replace("-", " "))}: {score}</span>'
         for slug, score in sorted(record["theme_scorecard"].items(), key=lambda item: (-abs(item[1]), item[0]))[:5]
@@ -316,6 +371,16 @@ def render_memo(record: dict, prefix: str = "") -> str:
     <div class="meta">Signals</div>
     <ul class="list">{signal_items}</ul>
   </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">What to do</div>
+      <ul class="list">{action_items}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Tensions</div>
+      <ul class="list">{tension_items}</ul>
+    </div>
+  </div>
   <div class="grid">
     {lens_sections}
   </div>
@@ -328,6 +393,10 @@ def render_memo(record: dict, prefix: str = "") -> str:
       <div class="meta">If the read breaks</div>
       <ul class="list">{likely_losers}</ul>
     </div>
+  </div>
+  <div class="panel">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{second_order_items}</ul>
   </div>
   <div class="panel">
     <div class="meta">Linked industries</div>

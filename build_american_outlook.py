@@ -118,6 +118,75 @@ CSS = """
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.62}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.5rem,5vw,4.3rem);line-height:.98;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.45rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.06rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:16px;border-top:1px solid var(--line)}.essay{margin-top:18px}.essay h3{font-size:1.36rem;margin:.1em 0 .45em}.essay p{color:var(--muted);margin:.6em 0 0}.summary{font-size:1rem;color:var(--ink)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3{margin:.2em 0 .35em;font-size:1.1rem}.card p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.close{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;margin-top:16px}.close p{color:var(--muted);margin:.55em 0 0}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .3em;font-size:.97rem}.mini p{margin:0;color:var(--muted);font-size:.92rem}.badge{display:inline-block;margin-top:8px;font-family:var(--mono);font-size:.66rem;border:1px solid var(--line);border-radius:999px;padding:3px 8px;color:var(--muted)}@media(max-width:900px){.split{grid-template-columns:1fr}}
 """
 
+NATIONAL_CONSEQUENCES = [
+    {
+        "title": "The middle gets weaker while the rails get stronger",
+        "body": "The country is getting harsher on undifferentiated middle layers. Middle-market consumer offers, regional intermediaries, labor-heavy service stacks, and generic office or retail footprints keep losing bargaining power. At the same time, the rails around them get stronger: power access, logistics land, compliance software, asset ownership, trusted distribution, payer fluency, and scaled workflow systems.",
+        "themes": [
+            "barbelled-consumer-america",
+            "scale-financialization-and-the-owned-economy",
+            "regulated-software-and-admin-state",
+            "space-housing-and-local-friction",
+        ],
+    },
+    {
+        "title": "Households need more help while institutions demand more proof",
+        "body": "Aging, health behavior, thinner firms, and fragmented work all increase the need for assistance, but not in a soft charitable sense. They create demand for systems that verify, coordinate, schedule, reimburse, monitor, and document. That pushes more of the economy toward proof-heavy workflows rather than intuition-heavy ones.",
+        "themes": [
+            "aging-care-and-the-assistance-economy",
+            "work-without-the-old-firm",
+            "wellness-recodes-daily-life",
+            "regulated-software-and-admin-state",
+        ],
+    },
+    {
+        "title": "Technology is concentrating value while distributing consequences",
+        "body": "AI and workflow software look digital at the interface, but their consequences spread outward into labor design, capital concentration, construction demand, energy systems, and geography. The gains do not stay in software. They spill into physical bottlenecks and ownership structures, which is why so much value capture sits below the application layer.",
+        "themes": [
+            "machine-intelligence-and-compute-buildout",
+            "physical-reindustrialization-and-infrastructure",
+            "work-without-the-old-firm",
+            "scale-financialization-and-the-owned-economy",
+        ],
+    },
+    {
+        "title": "Culture is reallocating demand before policy catches up",
+        "body": "Wellness, moderation, experience, and permission-to-premium are already reallocating dollars across food, beverage, leisure, retail, and services. This shift often arrives before formal policy or category labels change, which means operators that wait for regulatory confirmation usually arrive late. The customer has already rewritten the category by then.",
+        "themes": [
+            "wellness-recodes-daily-life",
+            "experience-status-and-community",
+            "barbelled-consumer-america",
+        ],
+    },
+]
+
+DECISION_AGENDA = [
+    {
+        "title": "What operators should do",
+        "kind": "operator",
+        "summary": "Running the business now requires choosing where you are structurally advantaged rather than assuming demand alone will save the model.",
+        "themes": [
+            "barbelled-consumer-america",
+            "regulated-software-and-admin-state",
+            "physical-reindustrialization-and-infrastructure",
+            "experience-status-and-community",
+            "aging-care-and-the-assistance-economy",
+        ],
+    },
+    {
+        "title": "What investors should underwrite",
+        "kind": "capital",
+        "summary": "The best underwriting setups sit where recurring constraints create repeatable economics, not where a category merely sounds important.",
+        "themes": [
+            "scale-financialization-and-the-owned-economy",
+            "machine-intelligence-and-compute-buildout",
+            "regulated-software-and-admin-state",
+            "aging-care-and-the-assistance-economy",
+            "wellness-recodes-daily-life",
+        ],
+    },
+]
+
 
 def e(value: object) -> str:
     return html.escape(str(value or ""), quote=True)
@@ -138,6 +207,19 @@ def load_company_lookup() -> dict[str, dict]:
 def theme_brief_chip(theme_lookup: dict[str, dict], slug: str) -> str:
     theme = theme_lookup[slug]
     return f'<a class="chip" href="theme-briefs/{e(slug)}.html">{e(theme["title"])}</a>'
+
+
+def dedupe(values: list[str], limit: int | None = None) -> list[str]:
+    out: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        if not value or value in seen:
+            continue
+        seen.add(value)
+        out.append(value)
+        if limit is not None and len(out) >= limit:
+            break
+    return out
 
 
 def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
@@ -200,6 +282,74 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
         "top_company_slugs": [slug for slug, _ in company_counts.most_common(6)],
         "subthemes": subthemes[:4],
     }
+
+
+def collect_group_evidence(
+    theme_lookup: dict[str, dict], linked_themes: list[str], company_lookup: dict[str, dict]
+) -> dict[str, list]:
+    valid_slugs = [slug for slug in linked_themes if slug in theme_lookup]
+    evidence = collect_section_evidence(theme_lookup, valid_slugs)
+    theme_titles = [theme_lookup[slug]["title"] for slug in valid_slugs]
+    company_titles = []
+    for slug in evidence["top_company_slugs"]:
+        company = company_lookup.get(slug)
+        if company:
+            company_titles.append(company["title"])
+    return {
+        "theme_titles": dedupe(theme_titles, 5),
+        "signals": dedupe(evidence["signals"], 3),
+        "tensions": dedupe(evidence["tensions"], 3),
+        "second_order_effects": dedupe(evidence["second_order_effects"], 2),
+        "operator_implications": dedupe(evidence["operator_implications"], 4),
+        "capital_implications": dedupe(evidence["capital_implications"], 4),
+        "top_sectors": evidence["top_sectors"][:4],
+        "company_titles": dedupe(company_titles, 4),
+    }
+
+
+def render_national_consequences(theme_lookup: dict[str, dict], company_lookup: dict[str, dict]) -> str:
+    cards = []
+    for item in NATIONAL_CONSEQUENCES:
+        evidence = collect_group_evidence(theme_lookup, item["themes"], company_lookup)
+        sector_line = "; ".join(f"{sector} ({count})" for sector, count in evidence["top_sectors"])
+        cards.append(
+            f"""<article class="card">
+  <div class="meta">National consequence</div>
+  <h3>{e(item['title'])}</h3>
+  <p>{e(item['body'])}</p>
+  <p><b>Where it shows up:</b> {e(sector_line)}</p>
+  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+  <p><b>Tensions:</b> {e(' | '.join(evidence['tensions']))}</p>
+  <p><b>Representative companies:</b> {e('; '.join(evidence['company_titles']))}</p>
+  <div class="chips">{''.join(f'<span class="chip">{e(theme)}</span>' for theme in evidence['theme_titles'])}</div>
+</article>"""
+        )
+    return f"""<section class="section">
+  <h2>National Consequences</h2>
+  <div class="grid">{''.join(cards)}</div>
+</section>"""
+
+
+def render_decision_agenda(theme_lookup: dict[str, dict], company_lookup: dict[str, dict]) -> str:
+    cards = []
+    for item in DECISION_AGENDA:
+        evidence = collect_group_evidence(theme_lookup, item["themes"], company_lookup)
+        agenda = evidence["operator_implications"] if item["kind"] == "operator" else evidence["capital_implications"]
+        cards.append(
+            f"""<article class="card">
+  <div class="meta">Decision agenda</div>
+  <h3>{e(item['title'])}</h3>
+  <p>{e(item['summary'])}</p>
+  <ul class="list">{''.join(f'<li>{e(text)}</li>' for text in agenda)}</ul>
+  <p><b>Where it shows up:</b> {e('; '.join(sector for sector, _ in evidence['top_sectors']))}</p>
+  <p><b>Theme anchors:</b> {e('; '.join(evidence['theme_titles']))}</p>
+  <p><b>Signals:</b> {e(' | '.join(evidence['signals']))}</p>
+</article>"""
+        )
+    return f"""<section class="section">
+  <h2>Decision Agenda</h2>
+  <div class="grid">{''.join(cards)}</div>
+</section>"""
 
 
 def main() -> None:
@@ -316,7 +466,7 @@ def main() -> None:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(OUTLOOK['title'])} — US Industry Briefs</title><style>{CSS}</style></head>
 <body><div class="wrap">
-<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-economy-2025-2026.html">Capstone</a></div>
+<div class="top"><a href="index.html">Industry briefs</a><a href="economic-intelligence.html">Economic intelligence</a><a href="american-themes.html">American themes</a><a href="american-economy-2025-2026.html">Capstone</a><a href="american-synthesis-playbook.html">Playbook</a></div>
 <div class="eyebrow">Master synthesis · US · 2025-2026</div>
 <h1>{e(OUTLOOK['title'])}</h1>
 <p class="sub">{e(OUTLOOK['subtitle'])}</p>
@@ -333,10 +483,14 @@ def main() -> None:
   <div class="grid">{''.join(cards)}</div>
 </section>
 
+{render_national_consequences(theme_lookup, company_lookup)}
+
 <section class="section">
   <h2>The Read</h2>
   {''.join(sections)}
 </section>
+
+{render_decision_agenda(theme_lookup, company_lookup)}
 
 <section class="section">
   <h2>Closing Read</h2>

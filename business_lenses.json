@@ -99,6 +99,16 @@
         "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
         "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when pricing power becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when utilization becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Hair Salons shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Gym & Fitness Franchises shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Gym, Health & Fitness Clubs in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -178,6 +188,16 @@
         "demand_logic": "Demand follows physical security, domestic production mandates, reshoring, and tariff-induced supply-chain rewiring rather than pure end-market growth.",
         "margin_logic": "Margins improve for domestic suppliers with specification, proximity, or procurement leverage; they compress for import-reliant sellers and downstream price takers."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when capital / rates becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when utilization becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Laboratory Fume Hoods Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Industrial & Fluid Power Valve Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Industrial & Commercial Fan & Blower Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -266,6 +286,16 @@
         "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
         "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when compliance / regulation becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when reimbursement becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Eating Disorder Clinics shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "DNA & DNA Forensic Laboratories shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Laboratory Testing Services in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -355,6 +385,16 @@
         "demand_logic": "Demand is rotating away from weak office formats toward logistics, data-linked assets, adaptive reuse, land, and selective housing formats.",
         "margin_logic": "Owners on the right side of utilization and asset repositioning can capture upside; static owners and rate-sensitive landlords get squeezed."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when channel access becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when consumer preference-driven demand becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when utilization becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Dance Studios shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Karaoke Bars shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Golf Driving Ranges & Family Fun Centers in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -436,6 +476,16 @@
         "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
         "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when consumer preference-driven demand becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when procurement / inputs becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when channel access becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Coffee Creamer Production shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Kombucha Production in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Hot Sauce Production shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -532,6 +582,16 @@
         "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
         "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when compliance / regulation becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when customer acquisition cost becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Identity Management Software in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Identity Theft Protection Services shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Forensic Accounting Services shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -635,6 +695,16 @@
         "demand_logic": "Demand may still exist, but customers resist price increases and often downgrade mix, forcing operators to defend profitability through efficiency, mix, or positioning.",
         "margin_logic": "Premium positioning, automation, and lock-in preserve margin; commodity formats and labor-heavy businesses without pricing power get squeezed."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when capital / rates becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when channel access becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Coal & Ore Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Dairy Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Egg & Poultry Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   },
   {
@@ -724,6 +794,16 @@
         "demand_logic": "Volume often rises because aging, utilization, or need rises, but reimbursement or payer control prevents operators from fully monetizing that demand.",
         "margin_logic": "Only scaled providers, specialists with referral power, or operators with superior workflow discipline defend returns."
       }
+    ],
+    "tension_items": [
+      "This lens gets squeezed when labor becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when reimbursement becomes the dominant constraint without enough scale, workflow, or pricing leverage.",
+      "This lens gets squeezed when compliance / regulation becomes the dominant constraint without enough scale, workflow, or pricing leverage."
+    ],
+    "second_order_items": [
+      "Early Childhood Learning Centers shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Child Education & Developmental Center Franchises shows how this model spills into adjacent markets once the same operator logic starts repeating.",
+      "Family Counseling & Crisis Intervention Services in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
     ]
   }
 ]
