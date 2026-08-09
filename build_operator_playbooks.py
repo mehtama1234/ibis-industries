@@ -77,6 +77,14 @@ def build_page(record, briefs_by_slug):
     sector_mix = "".join(f'<span class="chip">{e(sec)}: {n}</span>' for sec, n in record["sector_mix"])
     common = "".join(f'<span class="chip">{e(t)}: {n}</span>' for t, n in record["common_themes"][:8])
     questions = "".join(f"<li>{e(q)}</li>" for q in record["operator_questions"])
+    signal_items = "".join(
+        f"<li>{e(d['industry'])}: {e(d['development'])}</li>"
+        for d in record["recent_developments"][:4]
+    )
+    underwrite_items = "".join(
+        f"<li>{e('Does ' + q[0].lower() + q[1:])}</li>" if q else ""
+        for q in record["operator_questions"][:3]
+    )
     devs = "".join(
         f'<div class="dev"><b>{e(d["industry"])}</b><br>{e(d["development"])}</div>'
         for d in record["recent_developments"][:8]
@@ -95,6 +103,8 @@ def build_page(record, briefs_by_slug):
 <div class="panel"><h2>How To Read It</h2><ul class="qs">{questions}</ul></div>
 <div class="panel"><h2>Sector Mix</h2><div class="themes">{sector_mix}</div></div>
 <div class="panel"><h2>Repeated Themes</h2><div class="themes">{common}</div></div>
+<div class="panel"><h2>Signals</h2><ul class="qs">{signal_items}</ul></div>
+<div class="panel"><h2>What to underwrite</h2><ul class="qs">{underwrite_items}</ul></div>
 <div class="panel"><h2>Recent Signals</h2>{devs}</div>
 </aside></div>
 <footer>Built from the current researched industry corpus. Each playbook is a sector-area/operator view over specific industry briefs.</footer>
@@ -106,6 +116,14 @@ def build_hub(records, industry_count):
         f"""<a class="card" href="operators/{e(r['slug'])}.html">
   <div class="lens">{e(r['lens'])}</div><h2>{e(r['title'])}</h2>
   <p>{e(r['thesis'])}</p><div class="count">{len(r['industries'])} evidence industries</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="themes">{''.join(f'<span>{e(sec)}</span>' for sec, _n in r['sector_mix'][:3])}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="themes">{''.join(f'<span>{e(t)}</span>' for t, _n in r['common_themes'][:3])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(r['operator_questions'][0])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p>{e(r['operator_questions'][1] if len(r['operator_questions']) > 1 else r['operator_questions'][0])}</p>
 </a>"""
         for r in records
     )
@@ -116,6 +134,7 @@ def build_hub(records, industry_count):
 <div class="top"><a href="index.html">Industry briefs</a><a href="forces/index.html">Forces</a><a href="economic-intelligence.html">Economic intelligence</a></div>
 <div class="eyebrow">Business archetypes from the data</div><h1>Operator Playbooks</h1>
 <p class="sub">The industry briefs show what is happening inside each market. These playbooks group those markets into business types: local services, specialty manufacturing, regulated admin, healthcare delivery, experience venues, food niches, and distributors. Built from {industry_count} researched industries.</p>
+<div class="panel"><p>Use this hub to move from business archetype to evidence industries, repeated signals, and the concrete operator or underwriting questions that recur across the corpus.</p></div>
 <div class="grid">{cards}</div>
 <footer>Use these as operator lenses: what makes the business work, what pressures margins, and which forces matter.</footer>
 </div></body></html>"""

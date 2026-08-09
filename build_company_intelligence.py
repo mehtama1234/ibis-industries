@@ -1141,6 +1141,14 @@ def build_universe_page(companies: list[dict[str, Any]]) -> str:
   <p>{e(company['business_truth'])}</p>
   <div class="status {e(company['status'])}">{e(status_label(company['status']))}</div>
   <div class="stats"><span>{company['mention_count']} corpus mentions</span><span>{company['industry_count']} industries</span><span>{e(company['best_owner_type'])}</span></div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(item["sector"])}</span>' for item in company['sector_mix'][:4])}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(force["title"])}</span>' for force in company['dominant_forces'][:3])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(company['why_owner_type'])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p class="small">{e('The key question is whether ' + company['title'] + ' can stay on the right side of ' + ', '.join(company['constraints'][:3]) + ' while preserving its ' + company['business_model_cluster_title'].lower() + ' position.')}</p>
 </article>"""
         for company in top_companies
     )
@@ -1170,6 +1178,10 @@ def build_universe_page(companies: list[dict[str, Any]]) -> str:
   <div class="kpi"><div class="n">{len({company['business_model_cluster_slug'] for company in companies if company['business_model_cluster_slug']})}</div><div class="l">Mapped clusters</div></div>
   <div class="kpi"><div class="n">{sum(company['mention_count'] for company in companies)}</div><div class="l">Player mentions</div></div>
 </div>
+<div class="panel" style="margin-top:24px">
+  <div class="meta">How to use it</div>
+  <p>This page is the named-operator entry point into the synthesis system. Use it to see which companies recur most, where they show up, which force mix governs them, and what kind of operator or investor question the corpus is really asking about them.</p>
+</div>
 
 <section class="section">
   <h2>Most Recurrent Operators</h2>
@@ -1197,7 +1209,14 @@ def build_clusters_page(clusters: list[dict[str, Any]]) -> str:
   <h3>{e(cluster['title'])}</h3>
   <p>{e(cluster['thesis'])}</p>
   <div class="stats"><span>{cluster['company_count']} companies</span><span>{cluster['advantaged_count']} advantaged</span><span>{cluster['exposed_count']} exposed</span></div>
+  <div class="meta" style="margin-top:14px">Signals</div>
   <div class="chips">{''.join(f'<span class="chip">{e(force)}</span>' for force in cluster['top_forces'])}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(item["title"])}</span>' for item in cluster['top_companies'][:4])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e('This cluster usually rewards ' + cluster['best_owner_type'] + ' behavior rather than generic participation in the category.')}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p class="small">{e('The real question is whether the apparent leaders in ' + cluster['title'] + ' still own the right bottleneck, workflow, or bargaining position once force pressure intensifies.')}</p>
 </article>"""
         for cluster in clusters
     )
@@ -1209,6 +1228,10 @@ def build_clusters_page(clusters: list[dict[str, Any]]) -> str:
 <div class="eyebrow">Company clusters · US · 2025–2026</div>
 <h1>Company Clusters</h1>
 <p class="sub">These are the dominant business-model groupings implied by the company universe. They are not stock screens. They are operating clusters: what sort of business this is, what force set governs it, and which owner type tends to win.</p>
+<div class="panel" style="margin-top:24px">
+  <div class="meta">How to use it</div>
+  <p>Use this page to move from named companies to recurring business-model logic. The point is to see which clusters are structurally advantaged, which force signals repeat inside them, and what investors or operators should actually underwrite before backing a name in the cluster.</p>
+</div>
 <section class="section"><div class="grid">{cards}</div></section>
 <footer>Clustered from the extracted company universe and the existing business-lens taxonomy.</footer>
 </div></body></html>"""
