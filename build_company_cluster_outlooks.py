@@ -309,7 +309,7 @@ def render_lens(lens: dict, prefix: str = "") -> str:
   <div class="chips">{theme_chips}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Core tensions</div>
+      <div class="meta">Tensions</div>
       <ul class="list">{tensions}</ul>
     </div>
     <div class="panel">
@@ -330,6 +330,10 @@ def render_record(record: dict, prefix: str = "") -> str:
     constraint_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["dominant_constraints"][:6])
     theme_term_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["recurring_theme_terms"][:6])
     force_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["top_forces"][:5])
+    second_order_effects = "".join(
+        f"<li>{e(item['title'])}: {e(item.get('one_sentence', ''))}</li>"
+        for item in record["evidence_industries"][:4]
+    )
     company_cards = []
     for company in record["top_companies"][:8]:
         linked = render_company_chip(company, prefix=prefix)
@@ -349,23 +353,25 @@ def render_record(record: dict, prefix: str = "") -> str:
   <h3>{e(record['title'])}</h3>
   <p>{e(record['outlook_thesis'])}</p>
   <div class="chips"><span class="chip">{e(record['best_owner_type'])}</span><span class="chip">{record['company_count']} companies</span></div>
-  <div class="chips">{force_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{force_chips}{constraint_chips}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{sector_chips}</div>
-  <div class="chips">{constraint_chips}</div>
+  <div class="chips">{theme_term_chips}</div>
   <div class="chips">{theme_term_chips}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Operator angle</div>
+      <div class="meta">What to do</div>
       <p>{e(record['operator_angle'])}</p>
     </div>
     <div class="panel">
-      <div class="meta">Investor angle</div>
+      <div class="meta">What to underwrite</div>
       <p>{e(record['investor_angle'])}</p>
     </div>
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Cluster thesis</div>
+      <div class="meta">Tensions</div>
       <p>{e(record['thesis'])}</p>
     </div>
     <div class="panel">
@@ -386,6 +392,10 @@ def render_record(record: dict, prefix: str = "") -> str:
       <div class="meta">Evidence industries</div>
       <ul class="list">{industries}</ul>
     </div>
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{second_order_effects}</ul>
   </div>
   <div class="grid" style="margin-top:14px">{lenses}</div>
 </section>"""

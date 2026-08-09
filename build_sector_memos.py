@@ -329,6 +329,14 @@ def render_sector(record: dict, prefix: str = "") -> str:
     exposed = "".join(f"<li>{e(item)}</li>" for item in record["exposed_setups"])
     tensions = "".join(f"<li>{e(item)}</li>" for item in record["theme_tensions"][:4])
     signals = "".join(f"<li>{e(item)}</li>" for item in record["theme_signals"][:4])
+    where_it_shows_up = "".join(
+        f"<li>{e(item['title'])} <span class=\"meta\">{e(item.get('sector', ''))}</span></li>"
+        for item in record["example_industries"][:4]
+    )
+    second_order_effects = "".join(
+        f"<li>{e(item['title'])}: {e((item.get('strategic_consequences') or [''])[0])}</li>"
+        for item in record["subtheme_map"][:4]
+    )
     industry_cards = "".join(brief_card(item) for item in record["example_industries"][:4])
     subtheme_cards = "".join(render_subtheme_application(item, prefix=prefix) for item in record["subtheme_map"])
 
@@ -348,18 +356,18 @@ def render_sector(record: dict, prefix: str = "") -> str:
   <div class="chips">{themes}{forces}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Advantaged setups</div>
+      <div class="meta">What to do</div>
       <ul class="list">{advantaged}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Exposed setups</div>
-      <ul class="list">{exposed}</ul>
+      <div class="meta">What to underwrite</div>
+      <ul class="list">{questions}</ul>
     </div>
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Diligence questions</div>
-      <ul class="list">{questions}</ul>
+      <div class="meta">Where it shows up</div>
+      <ul class="list">{where_it_shows_up}</ul>
     </div>
     <div class="panel">
       <div class="meta">Representative industries</div>
@@ -368,12 +376,22 @@ def render_sector(record: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Theme tensions crossing the sector</div>
+      <div class="meta">Tensions</div>
       <ul class="list">{tensions}</ul>
     </div>
     <div class="panel">
-      <div class="meta">Signals to watch</div>
+      <div class="meta">Signals</div>
       <ul class="list">{signals}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Second-order effects</div>
+      <ul class="list">{second_order_effects}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Exposed setups</div>
+      <ul class="list">{exposed}</ul>
     </div>
   </div>
   <div class="smallgrid">
