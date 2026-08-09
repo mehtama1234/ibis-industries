@@ -92,6 +92,10 @@ COMPANY_CLUSTERS_LINK = (
     "Company clusters group recurring operators by business model and force exposure, turning scattered mentions into comparative reads on who is structurally advantaged, mixed, or exposed."
 )
 
+COMPANY_CLUSTER_OUTLOOKS_LINK = (
+    "The company-cluster outlook layer re-reads recurring operator archetypes through societal, cultural, consumer, and industrial change, tying the company universe back to themes and subthemes."
+)
+
 COMPANY_SCOREBOARD_LINK = (
     "The company scoreboard is the explicit judgment layer: which recurring operators look structurally advantaged, which look exposed, and which sit in the large contested middle."
 )
@@ -322,6 +326,11 @@ def main():
     <div class="meta">Company clusters</div>
     <h3><a href="company-clusters.html">Company Clusters</a></h3>
     <p>{e(COMPANY_CLUSTERS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Cluster outlook layer</div>
+    <h3><a href="company-cluster-outlooks.html">Company Cluster Outlooks</a></h3>
+    <p>{e(COMPANY_CLUSTER_OUTLOOKS_LINK)}</p>
   </div>
   <div class="card">
     <div class="meta">Company scoreboard</div>
