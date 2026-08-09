@@ -294,6 +294,8 @@ def build_theme_card(theme: dict) -> str:
 def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str:
     driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"][:3])
     signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:3])
+    rewrite_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["market_rewrites"][:2])
+    follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"][:2])
     href = f'{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}'
     return f"""<article class="subcard">
   <div class="meta">Subtheme</div>
@@ -308,13 +310,26 @@ def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str
     <div class="meta">Signals</div>
     <ul class="list">{signal_items}</ul>
   </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Market rewrite</div>
+    <ul class="list">{rewrite_items}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Follow-on effects</div>
+    <ul class="list">{follow_on_items}</ul>
+  </div>
 </article>"""
 
 
 def render_theme_section(theme: dict, prefix: str = "") -> str:
     long_read = "".join(f"<p>{e(paragraph)}</p>" for paragraph in theme["long_read"])
+    deep_read = f"<p>{e(theme['deep_read'])}</p>"
     structural = "".join(f"<li>{e(item)}</li>" for item in theme["structural_shifts"])
+    mechanisms = "".join(f"<li>{e(item)}</li>" for item in theme["core_mechanisms"])
     tensions = "".join(f"<li>{e(item)}</li>" for item in (theme["tensions"] + theme["structural_tensions"]))
+    implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
+    stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
+    second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
     watchpoints = "".join(f"<li>{e(item)}</li>" for item in theme["watchpoints"])
     theme_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     subtheme_links = "".join(
@@ -331,14 +346,28 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
   <h3>{e(theme['title'])}</h3>
   <p><b>{e(theme['hook'])}</b></p>
   {long_read}
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Deep theme read</div>
+    {deep_read}
+  </div>
   <div class="split">
     <div class="panel">
       <div class="meta">Structural shifts</div>
       <ul class="list">{structural}</ul>
     </div>
     <div class="panel">
+      <div class="meta">Core mechanisms</div>
+      <ul class="list">{mechanisms}</ul>
+    </div>
+  </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
       <div class="meta">Tensions</div>
       <ul class="list">{tensions}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Strategic implications</div>
+      <ul class="list">{implications}</ul>
     </div>
   </div>
   <div class="split" style="margin-top:14px">
@@ -351,6 +380,16 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
       <ul class="list">{watchpoints}</ul>
       <div class="chips">{force_links}</div>
       <div class="chips">{subtheme_links}</div>
+    </div>
+  </div>
+  <div class="split" style="margin-top:14px">
+    <div class="panel">
+      <div class="meta">Stakeholder map</div>
+      <ul class="list">{stakeholder_map}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Second-order effects</div>
+      <ul class="list">{second_order_effects}</ul>
     </div>
   </div>
   <div class="panel" style="margin-top:14px">

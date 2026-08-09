@@ -335,6 +335,14 @@ def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -
     <div class="meta">Strategic consequences</div>
     <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['strategic_consequences'][:3])}</ul>
   </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Market rewrites</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['market_rewrites'][:2])}</ul>
+  </div>
+  <div class="panel" style="margin-top:12px;padding:12px">
+    <div class="meta">Counterforces</div>
+    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['counterforces'][:2])}</ul>
+  </div>
 </article>"""
 
 
@@ -345,6 +353,9 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     questions = "".join(f"<li>{e(item)}</li>" for item in theme["investor_questions"])
     tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"])
     signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
+    implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
+    stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
+    second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
     force_chips = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
@@ -357,6 +368,10 @@ def render_memo(theme: dict, prefix: str = "") -> str:
   <h3>{e(theme['title'])}</h3>
   <p><b>Operator angle:</b> {e(theme['operator_angle'])}</p>
   <p><b>Investor angle:</b> {e(theme['investor_angle'])}</p>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Deep theme read</div>
+    <p>{e(theme['deep_read'])}</p>
+  </div>
   <div class="chips">{theme_brief_chip(theme, prefix)}{theme_taxonomy_chip(theme, prefix)}{force_chips}</div>
   <div class="split">
     <div class="panel">
@@ -387,6 +402,20 @@ def render_memo(theme: dict, prefix: str = "") -> str:
       <div class="meta">Signals to watch</div>
       <ul class="list">{signals}</ul>
     </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Strategic implications</div>
+      <ul class="list">{implications}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Stakeholder map</div>
+      <ul class="list">{stakeholder_map}</ul>
+    </div>
+  </div>
+  <div class="panel" style="margin-top:14px">
+    <div class="meta">Second-order effects</div>
+    <ul class="list">{second_order_effects}</ul>
   </div>
   <div class="smallgrid">
     <div class="mini">

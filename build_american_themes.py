@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import os
+import re
 from pathlib import Path
 
 from forces_config import FORCES
@@ -1503,6 +1504,32 @@ def lower_first(text: str) -> str:
     return text[0].lower() + text[1:]
 
 
+def clean_text(text: str) -> str:
+    value = str(text or "")
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = html.unescape(value)
+    value = re.sub(r"\s+", " ", value).strip()
+    value = value.replace("uS ", "US ").replace("aI ", "AI ")
+    value = re.sub(r"(?<![A-Za-z])us\b", "US", value, flags=re.IGNORECASE)
+    value = re.sub(r"(?<![A-Za-z])ai\b", "AI", value, flags=re.IGNORECASE)
+    value = re.sub(r"(?<![A-Za-z])u\.s\.\b", "U.S.", value, flags=re.IGNORECASE)
+    return value
+
+
+def sentence_ready(text: str) -> str:
+    value = clean_text(text).rstrip(".")
+    if not value:
+        return ""
+    return value[0].upper() + value[1:]
+
+
+def sentence_tail(text: str) -> str:
+    value = clean_text(text).rstrip(".")
+    if not value:
+        return ""
+    return lower_first(value)
+
+
 def join_titles(items: list[dict], fallback: str, limit: int = 3) -> str:
     titles = [item.get("title", "") for item in items if item.get("title")]
     if not titles:
@@ -1527,6 +1554,19 @@ def join_strings(items: list[str], fallback: str, limit: int = 3) -> str:
     return f"{', '.join(values[:-1])}, and {values[-1]}"
 
 
+def force_phrase(forces: list[dict], limit: int = 3) -> tuple[str, str]:
+    labels = []
+    for force in forces[:limit]:
+        title = clean_text(force.get("title", "")).strip().lower()
+        if title:
+            labels.append(title)
+    if not labels:
+        return "multiple linked forces", "are"
+    phrase = join_strings(labels, "multiple linked forces", limit=limit)
+    verb = "is" if len(labels) == 1 else "are"
+    return phrase, verb
+
+
 def sector_phrase(industries: list[dict]) -> str:
     sectors = []
     for item in industries:
@@ -1545,13 +1585,13 @@ def sector_phrase(industries: list[dict]) -> str:
 def build_subtheme_deep_read(theme: dict, subtheme: dict, industries: list[dict], companies: list[dict], forces: list[dict]) -> str:
     micro_a = subtheme["microthemes"][0] if subtheme["microthemes"] else "category behavior"
     micro_b = subtheme["microthemes"][1] if len(subtheme["microthemes"]) > 1 else micro_a
-    force_mix = join_strings([force["title"].lower() for force in forces[:2]], "multiple linked forces", limit=2)
+    force_mix, force_verb = force_phrase(forces, limit=2)
     sectors = sector_phrase(industries)
     company_mix = join_titles(companies, "scaled operators", limit=3)
     implication = lower_first(subtheme["operator_implications"][0].rstrip(".")) if subtheme["operator_implications"] else "execution discipline matters more"
     return (
         f"{micro_a.capitalize()} and {micro_b} are no longer isolated category quirks. "
-        f"They are showing up across {sectors}, where {force_mix} are changing the operating baseline. "
+        f"They are showing up across {sectors}, where {force_mix} {force_verb} changing the operating baseline. "
         f"That pushes the category toward a world where {implication}. "
         f"The pattern is already visible in example operators such as {company_mix}."
     )
@@ -1564,7 +1604,7 @@ def build_subtheme_drivers(subtheme: dict, forces: list[dict]) -> list[str]:
     for force in forces[:2]:
         frame = FORCE_FRAMES.get(force["slug"])
         if frame:
-            drivers.append(frame["driver"].capitalize() + ".")
+            drivers.append(sentence_ready(frame["driver"]) + ".")
     return drivers[:4]
 
 
@@ -1572,12 +1612,12 @@ def build_subtheme_pressure_points(subtheme: dict, industries: list[dict], force
     points = []
     for item in industries[:2]:
         sector = item.get("sector", "the category").lower()
-        one_sentence = str(item.get("one_sentence", "baseline customer expectations")).strip().rstrip(".")
-        points.append(f"{sector.capitalize()} operators have to absorb this shift in a market where {lower_first(one_sentence)}.")
+        one_sentence = sentence_tail(item.get("one_sentence", "baseline customer expectations"))
+        points.append(f"{sector.capitalize()} operators have to absorb this shift in a market where {one_sentence}.")
     for force in forces[:2]:
         frame = FORCE_FRAMES.get(force["slug"])
         if frame:
-            points.append(frame["pressure"].capitalize() + ".")
+            points.append(sentence_ready(frame["pressure"]) + ".")
     return points[:4]
 
 
@@ -1586,7 +1626,7 @@ def build_subtheme_signals(subtheme: dict, industries: list[dict], companies: li
     for force in forces[:2]:
         frame = FORCE_FRAMES.get(force["slug"])
         if frame:
-            signals.append(frame["signal"].capitalize() + ".")
+            signals.append(sentence_ready(frame["signal"]) + ".")
     if companies:
         advantaged = sum(1 for item in companies if item.get("status") == "advantaged")
         exposed = sum(1 for item in companies if item.get("status") == "exposed")
@@ -1611,11 +1651,67 @@ def build_subtheme_consequences(subtheme: dict) -> list[str]:
     return items[:4]
 
 
+def build_subtheme_market_rewrites(subtheme: dict, industries: list[dict], companies: list[dict]) -> list[str]:
+    rewrites = []
+    if industries:
+        rewrites.append(
+            f"Evidence industries such as {join_titles(industries, 'linked industries', limit=3)} increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+        )
+    if companies:
+        rewrites.append(
+            f"Named companies such as {join_titles(companies, 'example operators', limit=3)} show that this is no longer a niche edge case but a live separator in competitive positioning."
+        )
+    for item in subtheme["microthemes"][:2]:
+        rewrites.append(f"Category economics get rewritten as {item} moves from localized behavior into default customer or operator expectation.")
+    return rewrites[:4]
+
+
+def build_subtheme_stakeholders(subtheme: dict, industries: list[dict], companies: list[dict]) -> list[str]:
+    stakeholders = []
+    if industries:
+        sectors = sector_phrase(industries)
+        stakeholders.append(f"Frontline operators in {sectors} feel the change first because they have to translate it into pricing, staffing, assortment, or service design.")
+    if companies:
+        stakeholders.append(
+            f"Scaled operators such as {join_titles(companies, 'named companies', limit=2)} can often operationalize the shift faster than smaller rivals because they have more room to test, absorb, and signal the new behavior."
+        )
+    for implication in subtheme["operator_implications"][:2]:
+        stakeholders.append(f"Management teams are being pushed toward a clearer posture: {lower_first(implication.rstrip('.'))}.")
+    return stakeholders[:4]
+
+
+def build_subtheme_counterforces(subtheme: dict, forces: list[dict]) -> list[str]:
+    counterforces = []
+    for force in forces[:2]:
+        frame = FORCE_FRAMES.get(force["slug"])
+        if frame:
+            counterforces.append(
+                f"This subtheme still faces resistance because {lower_first(frame['pressure'].rstrip('.'))}."
+            )
+    if subtheme["microthemes"]:
+        counterforces.append(
+            f"The pattern is directionally strong, but adoption can remain uneven when {subtheme['microthemes'][-1]} is still category-specific rather than universal."
+        )
+    return counterforces[:4]
+
+
+def build_subtheme_follow_on_effects(subtheme: dict, industries: list[dict]) -> list[str]:
+    effects = []
+    for item in industries[:2]:
+        title = item.get("title", "linked industries")
+        one_sentence = sentence_tail(item.get("one_sentence", "category structure changes"))
+        effects.append(f"In {title}, this tends to show up as a second-order consequence where {one_sentence}.")
+    for implication in subtheme["operator_implications"][:2]:
+        effects.append(f"Over time this creates a broader market consequence: {lower_first(implication.rstrip('.'))}.")
+    return effects[:4]
+
+
 def build_theme_tensions(theme: dict) -> list[str]:
     first = theme["subthemes"][0]["title"] if theme["subthemes"] else theme["title"]
     second = theme["subthemes"][1]["title"] if len(theme["subthemes"]) > 1 else theme["title"]
+    thesis = clean_text(theme["thesis"]).rstrip(".")
     return [
-        f"The central tension inside {theme['title']} is that {lower_first(theme['thesis'].rstrip('.'))}, but the route to capturing that demand runs through the practical frictions surfaced by {first}.",
+        f"The central tension inside {theme['title']} is that {lower_first(thesis)}, but the route to capturing that demand runs through the practical frictions surfaced by {first}.",
         f"A second tension sits between household or institutional demand and the operating constraints surfaced by {second}.",
         "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable.",
     ]
@@ -1634,6 +1730,75 @@ def build_theme_signals(theme: dict) -> list[str]:
     return signals
 
 
+def build_theme_deep_read(theme: dict, subthemes: list[dict], forces: list[dict], industries: list[dict], companies: list[dict]) -> str:
+    first = subthemes[0]["title"] if subthemes else theme["title"]
+    second = subthemes[1]["title"] if len(subthemes) > 1 else first
+    force_mix, force_verb = force_phrase(forces, limit=3)
+    sectors = sector_phrase(industries)
+    company_mix = join_titles(companies, "scaled operators", limit=3)
+    return (
+        f"{theme['title']} is not one isolated trend. It is a system-level pattern showing up across {sectors}, where {force_mix} {force_verb} reinforcing one another. "
+        f"The practical expression runs through subthemes such as {first} and {second}, which show how the same macro pressure gets translated into behavior, operating choices, and market structure. "
+        f"The pattern is already legible in named companies such as {company_mix}, but the bigger point is that this theme now behaves like a planning assumption rather than a niche thesis."
+    )
+
+
+def build_theme_core_mechanisms(theme: dict, subthemes: list[dict], forces: list[dict]) -> list[str]:
+    mechanisms = []
+    for force in forces[:3]:
+        frame = FORCE_FRAMES.get(force["slug"])
+        if frame:
+            mechanisms.append(sentence_ready(frame["driver"]) + ".")
+    for subtheme in subthemes[:2]:
+        mechanisms.append(f"{subtheme['title']} translates the macro shift into a repeatable operating pattern rather than a one-off anecdote.")
+    return mechanisms[:5]
+
+
+def build_theme_implications(theme: dict, subthemes: list[dict]) -> list[str]:
+    implications = []
+    for subtheme in subthemes[:3]:
+        if subtheme["strategic_consequences"]:
+            implications.append(
+                f"{subtheme['title']} implies that {lower_first(subtheme['strategic_consequences'][0].rstrip('.'))}."
+            )
+    implications.append(
+        "The common winner profile is the operator that can make the new behavior easier to understand, easier to repeat, and easier to monetize than peers can."
+    )
+    return implications[:4]
+
+
+def build_theme_stakeholder_map(theme: dict, industries: list[dict], companies: list[dict]) -> list[str]:
+    stakeholder_map = []
+    stakeholder_map.append(
+        f"Households, workers, and local operators feel {theme['title']} as a daily-life change before public narratives fully catch up."
+    )
+    if industries:
+        stakeholder_map.append(
+            f"Evidence industries spanning {sector_phrase(industries)} show that the adjustment burden is distributed across frontline service, distribution, and institutional categories."
+        )
+    if companies:
+        stakeholder_map.append(
+            f"Large operators such as {join_titles(companies, 'named companies', limit=3)} often capture the upside faster because they have more control over pricing, process, and customer communication."
+        )
+    stakeholder_map.append(
+        "Investors and executives should read this theme as a structure question first: who absorbs the friction, who routinizes the new behavior, and who owns the bottleneck."
+    )
+    return stakeholder_map[:4]
+
+
+def build_theme_second_order_effects(theme: dict, subthemes: list[dict]) -> list[str]:
+    effects = []
+    for subtheme in subthemes[:3]:
+        if subtheme["market_rewrites"]:
+            effects.append(
+                f"{subtheme['title']} pushes second-order effects beyond the immediate category, especially where {lower_first(subtheme['market_rewrites'][0].rstrip('.'))}."
+            )
+    effects.append(
+        "As these subthemes compound, the market starts rewarding operators built for the new regime and punishing those still organized around the old one."
+    )
+    return effects[:4]
+
+
 def build_theme_records():
     force_lookup, crosscut_lookup, company_lookup, brief_lookup = build_lookups()
     theme_records = []
@@ -1643,6 +1808,8 @@ def build_theme_records():
         theme_industries = set()
         theme_companies = set()
         microtheme_total = 0
+        theme_industry_records = []
+        theme_company_records = []
 
         for subtheme in theme["subthemes"]:
             microtheme_total += len(subtheme["microthemes"])
@@ -1654,8 +1821,14 @@ def build_theme_records():
             pressure_points = build_subtheme_pressure_points(subtheme, industries, linked_forces)
             signals_to_watch = build_subtheme_signals(subtheme, industries, companies, linked_forces)
             strategic_consequences = build_subtheme_consequences(subtheme)
+            market_rewrites = build_subtheme_market_rewrites(subtheme, industries, companies)
+            stakeholder_map = build_subtheme_stakeholders(subtheme, industries, companies)
+            counterforces = build_subtheme_counterforces(subtheme, linked_forces)
+            follow_on_effects = build_subtheme_follow_on_effects(subtheme, industries)
             theme_industries.update(item["slug"] for item in industries)
             theme_companies.update(item["slug"] for item in companies)
+            theme_industry_records.extend(industries)
+            theme_company_records.extend(companies)
             subtheme_records.append(
                 {
                     "slug": subtheme["slug"],
@@ -1667,6 +1840,10 @@ def build_theme_records():
                     "pressure_points": pressure_points,
                     "signals_to_watch": signals_to_watch,
                     "strategic_consequences": strategic_consequences,
+                    "market_rewrites": market_rewrites,
+                    "stakeholder_map": stakeholder_map,
+                    "counterforces": counterforces,
+                    "follow_on_effects": follow_on_effects,
                     "operator_implications": subtheme["operator_implications"],
                     "forces": linked_forces,
                     "industries": [
@@ -1674,7 +1851,7 @@ def build_theme_records():
                             "slug": item["slug"],
                             "title": item["title"],
                             "sector": item.get("sector", ""),
-                            "one_sentence": item.get("one_sentence", ""),
+                            "one_sentence": sentence_ready(item.get("one_sentence", "")),
                         }
                         for item in industries
                     ],
@@ -1701,13 +1878,18 @@ def build_theme_records():
                 "slug": theme["slug"],
                 "title": theme["title"],
                 "lens": theme["lens"],
-                "thesis": theme["thesis"],
-                "why_now": theme["why_now"],
+                "thesis": sentence_ready(theme["thesis"]),
+                "why_now": sentence_ready(theme["why_now"]),
                 "questions": theme["questions"],
                 "forces": [force_lookup[slug] for slug in theme["forces"] if slug in force_lookup],
                 "crosscuts": [crosscut_lookup[slug] for slug in theme["crosscuts"] if slug in crosscut_lookup],
                 "subthemes": subtheme_records,
-                "structural_tensions": build_theme_tensions({"title": theme["title"], "thesis": theme["thesis"], "subthemes": subtheme_records}),
+                "deep_read": build_theme_deep_read(theme, subtheme_records, [force_lookup[slug] for slug in theme["forces"] if slug in force_lookup], theme_industry_records, theme_company_records),
+                "core_mechanisms": build_theme_core_mechanisms(theme, subtheme_records, [force_lookup[slug] for slug in theme["forces"] if slug in force_lookup]),
+                "strategic_implications": build_theme_implications(theme, subtheme_records),
+                "stakeholder_map": build_theme_stakeholder_map(theme, theme_industry_records, theme_company_records),
+                "second_order_effects": build_theme_second_order_effects(theme, subtheme_records),
+                "structural_tensions": build_theme_tensions({"title": theme["title"], "thesis": sentence_ready(theme["thesis"]), "subthemes": subtheme_records}),
                 "signals_to_watch": build_theme_signals({"subthemes": subtheme_records}),
                 "subtheme_count": len(subtheme_records),
                 "microtheme_count": microtheme_total,
@@ -1827,6 +2009,10 @@ def company_badge(status: str) -> str:
 
 def build_theme_page(theme: dict) -> str:
     questions = "".join(f"<li>{e(question)}</li>" for question in theme["questions"])
+    core_mechanisms = "".join(f"<li>{e(item)}</li>" for item in theme["core_mechanisms"])
+    strategic_implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
+    stakeholder_map = "".join(f"<li>{e(item)}</li>" for item in theme["stakeholder_map"])
+    second_order_effects = "".join(f"<li>{e(item)}</li>" for item in theme["second_order_effects"])
     tensions = "".join(f"<li>{e(item)}</li>" for item in theme["structural_tensions"])
     watch_signals = "".join(f"<li>{e(item)}</li>" for item in theme["signals_to_watch"])
     force_links = "".join(force_chip(force, prefix="../") for force in theme["forces"])
@@ -1840,6 +2026,10 @@ def build_theme_page(theme: dict) -> str:
         pressure_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["pressure_points"])
         signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"])
         consequence_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["strategic_consequences"])
+        rewrite_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["market_rewrites"])
+        stakeholder_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["stakeholder_map"])
+        counterforce_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["counterforces"])
+        follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"])
         industry_items = "".join(
             f"<li><b>{e(item['title'])}</b> <span class=\"meta\">{e(item['sector'])}</span><br>{e(item['one_sentence'])}</li>"
             for item in subtheme["industries"]
@@ -1889,6 +2079,26 @@ def build_theme_page(theme: dict) -> str:
   </div>
   <div class="split">
     <div class="panel">
+      <div class="meta">Market rewrites</div>
+      <ul class="list">{rewrite_items}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Stakeholder map</div>
+      <ul class="list">{stakeholder_items}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Counterforces</div>
+      <ul class="list">{counterforce_items}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Follow-on effects</div>
+      <ul class="list">{follow_on_items}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="panel">
       <div class="meta">Evidence industries</div>
       <ul class="list">{industry_items}</ul>
     </div>
@@ -1922,10 +2132,21 @@ def build_theme_page(theme: dict) -> str:
 <div class="lead"><p>{e(theme['thesis'])}</p></div>
 
 <section class="section">
+  <div class="panel">
+    <div class="meta">Deep read</div>
+    <p>{e(theme['deep_read'])}</p>
+  </div>
+</section>
+
+<section class="section">
   <div class="grid">
     <div class="panel">
       <div class="meta">Questions</div>
       <ul class="q">{questions}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Core mechanisms</div>
+      <ul class="q">{core_mechanisms}</ul>
     </div>
     <div class="panel">
       <div class="meta">Structural tensions</div>
@@ -1940,6 +2161,18 @@ def build_theme_page(theme: dict) -> str:
     <div class="panel">
       <div class="meta">Signals to watch</div>
       <ul class="q">{watch_signals}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Strategic implications</div>
+      <ul class="q">{strategic_implications}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Stakeholder map</div>
+      <ul class="q">{stakeholder_map}</ul>
+    </div>
+    <div class="panel">
+      <div class="meta">Second-order effects</div>
+      <ul class="q">{second_order_effects}</ul>
     </div>
     <div class="panel">
       <div class="meta">Company mix</div>
