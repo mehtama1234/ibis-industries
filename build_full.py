@@ -8,6 +8,7 @@ briefs=json.load(open(f'{ROOT}/briefs_full.json'))
 trends=json.load(open(f'{ROOT}/trends_full_raw.json'))
 american_themes=json.load(open(f'{ROOT}/american_themes_taxonomy.json'))
 economic_intelligence=json.load(open(f'{ROOT}/economic_intelligence_taxonomy.json'))
+company_memos=json.load(open(f'{ROOT}/company_memos.json'))
 
 SECTOR_ORDER=["Technology & Digital","Manufacturing","Healthcare","Finance & Insurance","Retail",
  "Food & Drink","Media & Entertainment","Energy & Environment","Agriculture","Construction",
@@ -78,6 +79,13 @@ def unique_ordered(values):
             continue
         seen.add(value); out.append(value)
     return out
+
+def trim_sentence(text, limit=180):
+    text=' '.join(str(text or '').split())
+    if len(text) <= limit:
+        return text
+    clipped=text[:limit].rsplit(' ', 1)[0].rstrip(' ,;:')
+    return clipped + '...'
 
 def collect_lens_evidence(linked_themes):
     sector_counts=Counter()
@@ -163,6 +171,71 @@ for section in OUTLOOK["sections"]:
         "investor_moves":evidence["investor_moves"],
     })
 
+company_by_overlap={}
+for trend in clean_trends:
+    trend_slugs=set(trend['slugs'])
+    sector_counts=Counter()
+    theme_counts=Counter()
+    company_matches=[]
+    constraint_counts=Counter()
+    owner_counts=Counter()
+    loser_counts=Counter()
+    diligence=[]
+    for slug in trend['slugs']:
+        brief=next(b for b in briefs if b['slug']==slug)
+        sector_counts[brief['sector']] += 1
+        for theme in brief.get('themes', []):
+            theme_counts[theme] += 1
+    for company in company_memos:
+        overlap=[item for item in company.get('linked_industries', []) if item.get('slug') in trend_slugs]
+        if not overlap:
+            continue
+        company_matches.append((len(overlap), company))
+        for constraint in company.get('constraints', []):
+            constraint_counts[constraint] += 1
+        if company.get('best_owner_type'):
+            owner_counts[company['best_owner_type']] += 1
+        for loser in company.get('likely_losers', []):
+            loser_counts[loser] += 1
+        for question in company.get('diligence_questions', []):
+            if question not in diligence:
+                diligence.append(question)
+    company_matches.sort(key=lambda item: (-item[0], -item[1].get('mention_count', 0), item[1]['title']))
+    top_companies=[company for _, company in company_matches[:4]]
+    top_constraints=[name for name, _ in constraint_counts.most_common(3)]
+    top_owners=[name for name, _ in owner_counts.most_common(2)]
+    top_losers=[name for name, _ in loser_counts.most_common(2)]
+    operator_lines=[]
+    if top_constraints and top_owners:
+        operator_lines.append(
+            f"Operate for {top_constraints[0]} and {top_constraints[1] if len(top_constraints) > 1 else top_constraints[0]}; the current winners skew toward {top_owners[0]} structures."
+        )
+    elif top_constraints:
+        operator_lines.append(
+            f"Operate for {top_constraints[0]}; this trend keeps punishing businesses that treat it as a secondary issue."
+        )
+    if top_losers:
+        operator_lines.append(
+            f"Avoid setups that look like {top_losers[0]}{f' or {top_losers[1]}' if len(top_losers) > 1 else ''} where margin room and strategic flexibility are already thin."
+        )
+    if not operator_lines:
+        operator_lines.append("Use this trend as a filter for where operating complexity is rising faster than generic demand growth.")
+    investor_lines=unique_ordered(diligence)[:2]
+    if not investor_lines and top_constraints:
+        investor_lines.append(f"How durable is the company's advantage if {top_constraints[0]} becomes the binding constraint?")
+    company_by_overlap[trend['name']]={
+        'sectors':[sector for sector, _ in sector_counts.most_common(4)],
+        'themes':[theme for theme, _ in theme_counts.most_common(4)],
+        'companies':[{
+            'title':company['title'],
+            'slug':company['slug'],
+            'sector':company.get('top_sector', 'Unknown'),
+            'memo':trim_sentence(company.get('operator_memo') or company.get('investor_memo') or ''),
+        } for company in top_companies],
+        'operator_lines':operator_lines[:2],
+        'investor_lines':investor_lines[:2],
+    }
+
 DATA=json.dumps({
  "industries":briefs,
  "trends":clean_trends,
@@ -173,6 +246,7 @@ DATA=json.dumps({
  "crosscuts":[c['title'] for c in economic_intelligence.get('crosscuts', [])[:6]],
  "overviewCards":overview_cards,
  "lensCards":lens_cards,
+ "trendEvidence":company_by_overlap,
 }, ensure_ascii=False)
 
 PAGE = """<title>US Industry Briefs — 2025-2026</title>
@@ -251,6 +325,16 @@ h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.025em;line-he
 .wl div{font-size:.9rem;color:var(--muted)} .wl b{font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.06em;display:block;margin-bottom:2px}
 .wl .win b{color:var(--up)} .wl .lose b{color:var(--down)}
 @media(max-width:560px){.wl{grid-template-columns:1fr}}
+.trendgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:13px 0}
+.trendbox{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.trendbox h4{font-family:var(--mono);font-size:.66rem;text-transform:uppercase;letter-spacing:.08em;color:var(--brass);margin:0 0 7px}
+.trendbox ul{padding-left:18px;color:var(--muted);margin:0}
+.trendbox li{margin:.32em 0}
+.trendmini{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;margin:12px 0}
+.trendcompany{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px}
+.trendcompany .meta{font-size:.63rem}
+.trendcompany h4{font-size:.92rem;margin:.22em 0 .32em}
+.trendcompany p{font-size:.84rem;color:var(--muted);margin:0}
 .hits{display:flex;flex-wrap:wrap;gap:6px}
 .hit{font-size:.76rem;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:7px;padding:4px 9px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
 .hit:hover{color:var(--paper);border-color:var(--faint)}
@@ -468,10 +552,24 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDetail();});
 document.getElementById('results').addEventListener('click',e=>{const c=e.target.closest('.card');if(c)openDetail(c.dataset.slug);});
 document.getElementById('headline').textContent=D.headline;
 document.getElementById('trends').innerHTML=D.trends.map(tr=>{
+ const ev=D.trendEvidence[tr.name]||{sectors:[],themes:[],companies:[],operator_lines:[],investor_lines:[]};
  const hits=tr.slugs.map(s=>`<span class="hit" data-slug="${s}"><span class="cdot" style="background:${SC[bySlug[s].sector]}"></span>${esc(bySlug[s].title)}</span>`).join('');
+ const exposure=ev.sectors.concat(ev.themes).map(item=>`<span class="microchip">${esc(item)}</span>`).join('');
+ const companies=ev.companies.map(company=>`<article class="trendcompany">
+   <div class="meta">${esc(company.sector)}</div>
+   <h4><a href="company-memos/${esc(company.slug)}.html">${esc(company.title)}</a></h4>
+   <p>${esc(company.memo)}</p>
+  </article>`).join('');
  return `<div class="trend"><span class="cnt">${tr.slugs.length} industries</span><span class="kind">${esc(tr.kind)}</span>
   <h3>${esc(tr.name)}</h3><p>${esc(tr.what_it_is)}</p>
   <div class="wl"><div class="win"><b>Who wins</b>${esc(tr.who_wins)}</div><div class="lose"><b>Who's squeezed</b>${esc(tr.who_loses)}</div></div>
+  <div class="eyeline" style="margin-top:10px">Where it shows up</div>
+  <div class="microchips">${exposure}</div>
+  <div class="trendmini">${companies}</div>
+  <div class="trendgrid">
+   <div class="trendbox"><h4>What to do</h4><ul>${ev.operator_lines.map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
+   <div class="trendbox"><h4>What to underwrite</h4><ul>${ev.investor_lines.map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
+  </div>
   <div class="hits">${hits}</div></div>`;
 }).join('');
 document.getElementById('trends').addEventListener('click',e=>{const h=e.target.closest('.hit');if(h)openDetail(h.dataset.slug);});
