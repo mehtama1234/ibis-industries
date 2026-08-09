@@ -21,6 +21,11 @@ INTRO = (
     "reading industries one at a time and start reading the economy as a system."
 )
 
+TRANSLATION_LINK = (
+    "The next layer down is practical: force-to-operator translations that turn each major force into "
+    "margin logic, demand logic, binding constraints, advantaged owner types, and concrete moves."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -146,6 +151,15 @@ def main():
 <section class="section">
   <h2>Operator Lenses</h2>
   <div class="grid">{operator_cards}</div>
+</section>
+
+<section class="section">
+  <h2>Decision Layer</h2>
+  <div class="card">
+    <div class="meta">Force to operator</div>
+    <h3><a href="force-operator-translations.html">Force-to-Operator Translations</a></h3>
+    <p>{e(TRANSLATION_LINK)}</p>
+  </div>
 </section>
 
 <footer>Built from the completed 1,491-industry corpus and the generated force/operator taxonomy. This page is the surfaced interpretation layer linking briefs, forces, and operator playbooks.</footer>
