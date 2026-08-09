@@ -5,10 +5,12 @@ from __future__ import annotations
 
 import html
 import json
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 THEMES_JSON = ROOT / "american_themes_taxonomy.json"
+COMPANY_MEMOS_JSON = ROOT / "company_memos.json"
 OUT = ROOT / "american-economy-2025-2026.html"
 
 
@@ -183,7 +185,7 @@ CAPSTONE = {
 
 CSS = """
 :root{--bg:#0f141b;--panel:#171f29;--panel2:#1e2935;--line:#2a3644;--ink:#f1eadc;--muted:#a9b2be;--faint:#73808e;--gold:#d5ac57;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.63}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.5rem,5vw,4.4rem);line-height:.98;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.4rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.06rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:16px;border-top:1px solid var(--line)}.essay{margin-top:18px}.essay h3{font-size:1.36rem;margin:.1em 0 .45em}.essay p{color:var(--muted);margin:.6em 0 0}.summary{font-size:1rem;color:var(--ink)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3{margin:.2em 0 .35em;font-size:1.1rem}.card p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.close{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;margin-top:16px}.close p{color:var(--muted);margin:.55em 0 0}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.63}.wrap{max-width:1180px;margin:0 auto;padding:30px clamp(16px,4vw,42px) 84px}a{color:var(--gold);text-decoration:none}.top{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;margin-bottom:30px}.eyebrow{font-family:var(--mono);font-size:.72rem;color:var(--gold);letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(2.5rem,5vw,4.4rem);line-height:.98;margin:.18em 0 .22em;max-width:12ch}h2{font-size:1.4rem;margin:0 0 .45em}.sub{max-width:920px;color:var(--muted);font-size:1.06rem}.lead{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:18px 22px;margin:26px 0}.lead p{margin:0;font-size:1.06rem}.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:132px}.kpi .n{font-family:var(--mono);font-size:1.32rem;font-weight:700}.kpi .l{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:2px}.section{margin-top:30px;padding-top:16px;border-top:1px solid var(--line)}.essay{margin-top:18px}.essay h3{font-size:1.36rem;margin:.1em 0 .45em}.essay p{color:var(--muted);margin:.6em 0 0}.summary{font-size:1rem;color:var(--ink)}.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px}.chip{font-family:var(--mono);font-size:.68rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 8px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px}.card h3{margin:.2em 0 .35em;font-size:1.1rem}.card p{color:var(--muted);margin:.35em 0 0}.meta{font-family:var(--mono);font-size:.68rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase}.close{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;margin-top:16px}.close p{color:var(--muted);margin:.55em 0 0}.split{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}.list{padding-left:18px;color:var(--muted)}.list li{margin:.42em 0}.mini{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:12px}.mini h4{margin:0 0 .3em;font-size:.97rem}.mini p{margin:0;color:var(--muted);font-size:.92rem}.badge{display:inline-block;margin-top:8px;font-family:var(--mono);font-size:.66rem;border:1px solid var(--line);border-radius:999px;padding:3px 8px;color:var(--muted)}@media(max-width:900px){.split{grid-template-columns:1fr}}
 """
 
 
@@ -197,6 +199,12 @@ def load_theme_lookup() -> dict[str, dict]:
     return {theme["slug"]: theme for theme in data["themes"]}
 
 
+def load_company_lookup() -> dict[str, dict]:
+    with COMPANY_MEMOS_JSON.open(encoding="utf-8") as handle:
+        data = json.load(handle)
+    return {company["slug"]: company for company in data}
+
+
 def build_chip(theme_lookup: dict[str, dict], slug: str) -> str:
     theme = theme_lookup[slug]
     return f'<a class="chip" href="theme-briefs/{e(slug)}.html">{e(theme["title"])}</a>'
@@ -205,8 +213,12 @@ def build_chip(theme_lookup: dict[str, dict], slug: str) -> str:
 def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
     tensions: list[str] = []
     signals: list[str] = []
+    operator_implications: list[str] = []
+    capital_implications: list[str] = []
     subthemes: list[dict] = []
     seen_subthemes: set[tuple[str, str]] = set()
+    sector_counts: Counter[str] = Counter()
+    company_counts: Counter[str] = Counter()
 
     for slug in linked_themes:
         theme = theme_lookup[slug]
@@ -216,11 +228,24 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
         for item in theme.get("signals_to_watch", [])[:3]:
             if item not in signals:
                 signals.append(item)
+        for item in theme.get("strategic_implications", [])[:3]:
+            if item not in operator_implications:
+                operator_implications.append(item)
+        for item in theme.get("capital_implications", [])[:3]:
+            if item not in capital_implications:
+                capital_implications.append(item)
         for subtheme in theme.get("subthemes", [])[:3]:
             key = (theme["slug"], subtheme["slug"])
             if key in seen_subthemes:
                 continue
             seen_subthemes.add(key)
+            for industry in subtheme.get("industries", []):
+                sector = industry.get("sector")
+                if sector:
+                    sector_counts[sector] += 1
+            for company in subtheme.get("companies", []):
+                if company.get("slug"):
+                    company_counts[company["slug"]] += 1
             subthemes.append(
                 {
                     "theme_slug": theme["slug"],
@@ -235,12 +260,17 @@ def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[
     return {
         "tensions": tensions[:4],
         "signals": signals[:5],
+        "operator_implications": operator_implications[:5],
+        "capital_implications": capital_implications[:5],
+        "top_sectors": sector_counts.most_common(5),
+        "top_company_slugs": [slug for slug, _ in company_counts.most_common(6)],
         "subthemes": subthemes[:4],
     }
 
 
 def main() -> None:
     theme_lookup = load_theme_lookup()
+    company_lookup = load_company_lookup()
     sections = []
     cards = []
     total_subthemes = sum(theme["subtheme_count"] for theme in theme_lookup.values())
@@ -251,6 +281,29 @@ def main() -> None:
         evidence = collect_section_evidence(theme_lookup, section["linked_themes"])
         tensions = "".join(f"<li>{e(item)}</li>" for item in evidence["tensions"])
         signals = "".join(f"<li>{e(item)}</li>" for item in evidence["signals"])
+        operator_implications = "".join(
+            f"<li>{e(item)}</li>" for item in evidence["operator_implications"]
+        )
+        capital_implications = "".join(
+            f"<li>{e(item)}</li>" for item in evidence["capital_implications"]
+        )
+        sector_items = "".join(
+            f"<li>{e(sector)} <span class=\"badge\">{count} evidence links</span></li>"
+            for sector, count in evidence["top_sectors"]
+        )
+        company_cards = []
+        for slug in evidence["top_company_slugs"]:
+            company = company_lookup.get(slug)
+            if not company:
+                continue
+            company_cards.append(
+                f"""<article class="mini">
+  <div class="meta">{e(company.get('top_sector', 'Unknown'))}</div>
+  <h4><a href="company-memos/{e(slug)}.html">{e(company['title'])}</a></h4>
+  <p>{e(company.get('investor_memo', ''))}</p>
+  <span class="badge">{e(company.get('status_label', company.get('status', 'mixed')))}</span>
+</article>"""
+            )
         subtheme_cards = "".join(
             f"""<article class="card">
   <div class="meta">{e(item['theme_title'])} subtheme</div>
@@ -273,12 +326,36 @@ def main() -> None:
     <div class="card">
       <div class="meta">System tensions</div>
       <h3>What makes this section hard</h3>
-      <ul>{tensions}</ul>
+      <ul class="list">{tensions}</ul>
     </div>
     <div class="card">
       <div class="meta">Signals</div>
       <h3>What to watch next</h3>
-      <ul>{signals}</ul>
+      <ul class="list">{signals}</ul>
+    </div>
+  </div>
+  <div class="split">
+    <div class="card">
+      <div class="meta">Where it shows up</div>
+      <h3>Sector exposure</h3>
+      <ul class="list">{sector_items}</ul>
+    </div>
+    <div class="card">
+      <div class="meta">Representative companies</div>
+      <h3>Named evidence</h3>
+      <div class="grid">{''.join(company_cards)}</div>
+    </div>
+  </div>
+  <div class="split">
+    <div class="card">
+      <div class="meta">Operator implications</div>
+      <h3>What to do</h3>
+      <ul class="list">{operator_implications}</ul>
+    </div>
+    <div class="card">
+      <div class="meta">Investor implications</div>
+      <h3>What to underwrite</h3>
+      <ul class="list">{capital_implications}</ul>
     </div>
   </div>
   <div class="grid" style="margin-top:14px">{subtheme_cards}</div>
