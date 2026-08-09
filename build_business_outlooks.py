@@ -205,7 +205,7 @@ def render_lens(lens: dict, prefix: str = "") -> str:
   <div class="chips">{theme_chips}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Core tensions</div>
+      <div class="meta">Tensions</div>
       <ul class="list">{tensions}</ul>
     </div>
     <div class="panel">
@@ -224,20 +224,23 @@ def render_record(record: dict, prefix: str = "") -> str:
     lenses = "".join(render_lens(lens, prefix=prefix) for lens in record["lens_cards"])
     forces = "".join(f'<span class="chip">{e(force["title"])}</span>' for force in record.get("linked_forces", [])[:4])
     constraints = "".join(f'<span class="chip">{e(item)}</span>' for item in record.get("binding_constraints", [])[:4])
+    sectors = "".join(f'<span class="chip">{e(item)}</span>' for item in record.get("sectors", [])[:4])
     return f"""<section class="outlook">
   <div class="meta">{e(record['economic_role'])} outlook</div>
   <h3>{e(record['title'])}</h3>
   <p>{e(record['outlook_thesis'])}</p>
   <div class="chips"><span class="chip">{e(record['demand_type'])}</span><span class="chip">{e(record['best_owner_type'])}</span></div>
-  <div class="chips">{forces}</div>
-  <div class="chips">{constraints}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{sectors}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{forces}{constraints}</div>
   <div class="split">
     <div class="panel">
-      <div class="meta">Operator angle</div>
+      <div class="meta">What to do</div>
       <p>{e(record['operator_angle'])}</p>
     </div>
     <div class="panel">
-      <div class="meta">Investor angle</div>
+      <div class="meta">What to underwrite</div>
       <p>{e(record['investor_angle'])}</p>
     </div>
   </div>
@@ -251,7 +254,14 @@ def build_hub(records: list[dict]) -> str:
   <div class="meta">{e(record['economic_role'])}</div>
   <h3><a href="business-outlooks/{e(record['slug'])}.html">{e(record['title'])}</a></h3>
   <p>{e(record['outlook_thesis'])}</p>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(item)}</span>' for item in record['sectors'][:4])}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
   <div class="chips">{''.join(f'<span class="chip">{e(lens["label"])}</span>' for lens in record['lens_cards'])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(record['operator_angle'])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p>{e(record['investor_angle'])}</p>
 </article>"""
         for record in records
     )

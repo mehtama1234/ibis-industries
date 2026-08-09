@@ -310,11 +310,14 @@ def build_html(records):
   <p>{e(r['business_truth'])}</p>
   <p><b>Demand type:</b> {e(r['demand_type'])}</p>
   <p><b>Best owner type:</b> {e(r['best_owner_type'])}</p>
-  <p>{e(r['why_this_owner_type'])}</p>
-  <div class="chips">{sector_chips}</div>
-  <div class="chips">{theme_chips}</div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{sector_chips}{theme_chips}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
   <div class="chips">{force_chips}</div>
   <div class="chips">{constraint_chips}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(r['why_this_owner_type'])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
   <ul class="list">{moves}</ul>
 </article>"""
         )
@@ -326,6 +329,7 @@ def build_html(records):
 <div class="eyebrow">Business lenses · US · 2025–2026</div>
 <h1>Business Lenses</h1>
 <p class="sub">These are reusable business archetypes built from the operator playbooks, the force taxonomy, and the company/business lens template. They show how to turn industry and force context into a repeatable business read.</p>
+<div class="section"><div class="card"><p>Use this page to move from category language to archetype logic: where the model shows up, which forces signal opportunity or pressure, what operator stance tends to work, and what investors should actually underwrite inside the model.</p></div></div>
 <section class="section"><div class="grid">{''.join(cards)}</div></section>
 <footer>Built from operator playbooks, force-to-operator translations, and the company/business lens template. Use these as starting points for company and sector writeups.</footer>
 </div></body></html>"""
