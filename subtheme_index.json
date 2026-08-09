@@ -5,6 +5,29 @@
     "lens": "Societal",
     "signature": "The boomers hit their care years — demand floods into everything age-related, but reimbursement cuts and a caregiver shortage cap the upside.",
     "subtheme_count": 12,
+    "related_themes": [
+      "Aging, Care, and the Assistance Economy"
+    ],
+    "signals": [
+      "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+      "Margin performance diverges more from volume growth in payer-shaped sectors."
+    ],
+    "structural_tensions": [
+      "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Home-First Aging Reorders the Care Stack pushes second-order effects beyond the immediate category, especially where evidence industries such as Home Care Providers in the US, Health & Medical Insurance in the US, and Medical Device Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Senior Housing Demand Meets Staffing and Capacity Friction pushes second-order effects beyond the immediate category, especially where evidence industries such as Residential Senior Care Franchises, Apartment Rental in the US, and Commercial Real Estate in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Chronic Care Becomes an Industrial Service Chain pushes second-order effects beyond the immediate category, especially where evidence industries such as Dialysis Centers, Orthopedic Products Manufacturing, and Ambulatory Surgery Centers increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Home-First Aging Reorders the Care Stack matters because home-first care creates recurring demand but heavy coordination burden.",
+      "In diligence, Senior Housing Demand Meets Staffing and Capacity Friction matters because care labor and occupancy quality matter more than simple unit count.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Humana, CVS Health, and Abbott Laboratories are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The body wears out",
@@ -18,6 +41,9 @@
               "orthopedic-products-manufacturing",
               "ambulatory-surgery-centers",
               "eye-surgery-clinics"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain"
             ]
           },
           {
@@ -30,7 +56,8 @@
               "contact-lens-manufacturing",
               "glasses-and-contact-lens-manufacturing-in-the-us",
               "eyeglasses-and-contact-lens-stores-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "chronic-care",
@@ -41,8 +68,43 @@
               "dialysis-centers",
               "dialysis-equipment-manufacturing",
               "cardiologists"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare",
+          "Manufacturing",
+          "Retail"
+        ],
+        "example_industries": [
+          "Orthopedic Products Manufacturing",
+          "Ambulatory Surgery Centers",
+          "Eye Surgery Clinics",
+          "Hearing Aid Manufacturing"
+        ],
+        "example_companies": [
+          "Zimmer Biomet",
+          "Abbott Laboratories",
+          "Labcorp",
+          "Cleveland Clinic"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Margin performance diverges more from volume growth in payer-shaped sectors.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "These are process businesses as much as clinical ones.",
+          "Scale in procurement, scheduling, and documentation becomes central.",
+          "The margin opportunity often sits beside, not inside, direct care labor."
+        ],
+        "what_to_underwrite": [
+          "These are process businesses as much as clinical ones.",
+          "Scale in procurement, scheduling, and documentation becomes central.",
+          "The margin opportunity often sits beside, not inside, direct care labor."
         ]
       },
       {
@@ -55,6 +117,9 @@
             "evidence_slug_count": 1,
             "evidence_slugs": [
               "residential-senior-care-franchises"
+            ],
+            "related_theme_subthemes": [
+              "Senior Housing Demand Meets Staffing and Capacity Friction"
             ]
           },
           {
@@ -64,6 +129,10 @@
             "evidence_slug_count": 1,
             "evidence_slugs": [
               "home-care-providers-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy"
             ]
           },
           {
@@ -75,8 +144,39 @@
               "dermatologists",
               "allergists",
               "chiropractors-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Residential Senior Care Franchises",
+          "Home Care Providers in the US",
+          "Dermatologists",
+          "Allergists"
+        ],
+        "example_companies": [
+          "Brookdale Senior Living",
+          "CBRE Group",
+          "Humana",
+          "Prologis"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Care labor and occupancy quality matter more than simple unit count.",
+          "Asset owners and operators may have diverging incentives.",
+          "Consolidation can help, but it does not remove staffing reality."
+        ],
+        "what_to_underwrite": [
+          "Care labor and occupancy quality matter more than simple unit count.",
+          "Asset owners and operators may have diverging incentives.",
+          "Consolidation can help, but it does not remove staffing reality."
         ]
       },
       {
@@ -90,6 +190,9 @@
             "evidence_slugs": [
               "long-term-care-insurance",
               "life-insurance-and-annuities-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Longevity Turns Into a Financial Product Problem"
             ]
           },
           {
@@ -100,7 +203,8 @@
             "evidence_slugs": [
               "weight-loss-services-in-the-us",
               "brand-name-pharmaceutical-manufacturing-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "grey-leisure",
@@ -111,8 +215,42 @@
               "hiking-and-outdoor-equipment-stores",
               "amusement-parks-in-the-us",
               "campgrounds-and-rv-parks-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Consumer Services",
+          "Finance & Insurance",
+          "Healthcare",
+          "Retail"
+        ],
+        "example_industries": [
+          "Long Term Care Insurance",
+          "Life Insurance & Annuities in the US",
+          "Weight Loss Services in the US",
+          "Brand Name Pharmaceutical Manufacturing in the US"
+        ],
+        "example_companies": [
+          "Prudential Financial",
+          "Marsh & McLennan Companies",
+          "Aon PLC",
+          "State Farm"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Aging households need both care and financial orchestration.",
+          "Long-duration trust businesses can benefit if they manage underwriting discipline.",
+          "Advice, insurance, and care planning increasingly intersect."
+        ],
+        "what_to_underwrite": [
+          "Aging households need both care and financial orchestration.",
+          "Long-duration trust businesses can benefit if they manage underwriting discipline.",
+          "Advice, insurance, and care planning increasingly intersect."
         ]
       },
       {
@@ -127,6 +265,10 @@
               "health-and-medical-insurance-in-the-us",
               "hmo-providers",
               "dental-insurance"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy"
             ]
           },
           {
@@ -137,8 +279,43 @@
             "evidence_slugs": [
               "home-care-providers-in-the-us",
               "residential-senior-care-franchises"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Senior Housing Demand Meets Staffing and Capacity Friction",
+              "Payers Gatekeep the Aging Economy"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Health & Medical Insurance in the US",
+          "HMO Providers",
+          "Dental Insurance",
+          "Home Care Providers in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -154,8 +331,46 @@
               "residential-senior-care-franchises",
               "long-term-care-insurance",
               "weight-loss-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Senior Housing Demand Meets Staffing and Capacity Friction",
+              "Chronic Care Becomes an Industrial Service Chain",
+              "Longevity Turns Into a Financial Product Problem"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing",
+          "Healthcare",
+          "Finance & Insurance",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Orthopedic Products Manufacturing",
+          "Residential Senior Care Franchises",
+          "Long Term Care Insurance",
+          "Weight Loss Services in the US"
+        ],
+        "example_companies": [
+          "Brookdale Senior Living",
+          "CBRE Group",
+          "Humana",
+          "Prologis"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Care labor and occupancy quality matter more than simple unit count.",
+          "Asset owners and operators may have diverging incentives.",
+          "Consolidation can help, but it does not remove staffing reality."
+        ],
+        "what_to_underwrite": [
+          "Care labor and occupancy quality matter more than simple unit count.",
+          "Asset owners and operators may have diverging incentives.",
+          "Consolidation can help, but it does not remove staffing reality."
         ]
       }
     ]
@@ -166,6 +381,33 @@
     "lens": "Societal",
     "signature": "Workers got scarce — wages spiral, the trades can't fill the gap, and whoever can automate or pay up wins while everyone else eats the margin hit.",
     "subtheme_count": 11,
+    "related_themes": [
+      "Aging, Care, and the Assistance Economy",
+      "Work Without the Old Firm",
+      "Physical Reindustrialization and Infrastructure"
+    ],
+    "signals": [
+      "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+      "Margin performance diverges more from volume growth in payer-shaped sectors.",
+      "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+      "Automation, scheduling discipline, retention tactics, and selective simplification accelerate."
+    ],
+    "structural_tensions": [
+      "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Home-First Aging Reorders the Care Stack pushes second-order effects beyond the immediate category, especially where evidence industries such as Home Care Providers in the US, Health & Medical Insurance in the US, and Medical Device Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Senior Housing Demand Meets Staffing and Capacity Friction pushes second-order effects beyond the immediate category, especially where evidence industries such as Residential Senior Care Franchises, Apartment Rental in the US, and Commercial Real Estate in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Chronic Care Becomes an Industrial Service Chain pushes second-order effects beyond the immediate category, especially where evidence industries such as Dialysis Centers, Orthopedic Products Manufacturing, and Ambulatory Surgery Centers increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Home-First Aging Reorders the Care Stack matters because home-first care creates recurring demand but heavy coordination burden.",
+      "In diligence, Senior Housing Demand Meets Staffing and Capacity Friction matters because care labor and occupancy quality matter more than simple unit count.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Humana, CVS Health, and Abbott Laboratories are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The trades can't hire",
@@ -179,6 +421,10 @@
               "electricians-in-the-us",
               "heating-and-air-conditioning-contractors-in-the-us",
               "roofing-contractors-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Skills and Credentials Replace Slow Career Ladders",
+              "Electrical and Cooling Trades Become Picks and Shovels"
             ]
           },
           {
@@ -190,7 +436,8 @@
               "masonry-in-the-us",
               "carpenters-in-the-us",
               "concrete-contractors-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "infrastructure-hands",
@@ -201,8 +448,40 @@
               "water-and-sewer-line-construction-in-the-us",
               "heavy-engineering-construction-in-the-us",
               "home-builders-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Construction",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Electricians in the US",
+          "Heating & Air-Conditioning Contractors in the US",
+          "Roofing Contractors in the US",
+          "Masonry in the US"
+        ],
+        "example_companies": [
+          "Kumon",
+          "ADP",
+          "TriNet",
+          "Microsoft"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
+        ],
+        "what_to_underwrite": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
         ]
       },
       {
@@ -217,6 +496,11 @@
               "hospitals-in-the-us",
               "home-care-providers-in-the-us",
               "residential-senior-care-franchises"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Senior Housing Demand Meets Staffing and Capacity Friction",
+              "Payers Gatekeep the Aging Economy"
             ]
           },
           {
@@ -228,8 +512,41 @@
               "mental-health-and-substance-abuse-clinics-in-the-us",
               "gynecologists-and-obstetricians",
               "ambulatory-surgery-centers"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Hospitals in the US",
+          "Home Care Providers in the US",
+          "Residential Senior Care Franchises",
+          "Mental Health & Substance Abuse Clinics in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -244,6 +561,10 @@
               "general-freight-trucking-truckload",
               "local-freight-trucking-in-the-us",
               "long-distance-refrigerated-trucking"
+            ],
+            "related_theme_subthemes": [
+              "Automation Becomes Labor Arbitrage",
+              "Freight and Warehousing Are Being Repriced by Complexity"
             ]
           },
           {
@@ -255,7 +576,8 @@
               "domestic-airlines-in-the-us",
               "airport-operations-in-the-us",
               "airline-catering-services"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "hospitality-wages",
@@ -266,8 +588,41 @@
               "fast-food-restaurants-in-the-us",
               "chain-restaurants-in-the-us",
               "hotels-and-motels-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Transport & Logistics",
+          "Food & Drink",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "General Freight Trucking (Truckload)",
+          "Local Freight Trucking in the US",
+          "Long-Distance Refrigerated Trucking",
+          "Domestic Airlines in the US"
+        ],
+        "example_companies": [
+          "Amazon",
+          "Sysco",
+          "Microsoft",
+          "Cargill"
+        ],
+        "signals": [
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Automation budgets should be framed against labor reliability, not only labor cost.",
+          "Partial automation can create better payback than ambitious full-stack reinvention.",
+          "The operator question is where labor is truly the binding constraint."
+        ],
+        "what_to_underwrite": [
+          "Automation budgets should be framed against labor reliability, not only labor cost.",
+          "Partial automation can create better payback than ambitious full-stack reinvention.",
+          "The operator question is where labor is truly the binding constraint."
         ]
       },
       {
@@ -282,6 +637,9 @@
               "meat-beef-and-poultry-processing-in-the-us",
               "dairy-product-production-in-the-us",
               "vending-machine-operators-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Automation Becomes Labor Arbitrage"
             ]
           },
           {
@@ -293,8 +651,42 @@
               "coffee-and-snack-shops-in-the-us",
               "bars-and-nightclubs-in-the-us",
               "breweries-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services",
+          "Manufacturing",
+          "Retail"
+        ],
+        "example_industries": [
+          "Meat, Beef & Poultry Processing in the US",
+          "Dairy Product Production in the US",
+          "Vending Machine Operators in the US",
+          "Coffee & Snack Shops in the US"
+        ],
+        "example_companies": [
+          "Amazon",
+          "Sysco",
+          "Microsoft",
+          "Cargill"
+        ],
+        "signals": [
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Automation budgets should be framed against labor reliability, not only labor cost.",
+          "Partial automation can create better payback than ambitious full-stack reinvention.",
+          "The operator question is where labor is truly the binding constraint."
+        ],
+        "what_to_underwrite": [
+          "Automation budgets should be framed against labor reliability, not only labor cost.",
+          "Partial automation can create better payback than ambitious full-stack reinvention.",
+          "The operator question is where labor is truly the binding constraint."
         ]
       },
       {
@@ -310,8 +702,46 @@
               "home-care-providers-in-the-us",
               "general-freight-trucking-truckload",
               "fast-food-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy",
+              "Skills and Credentials Replace Slow Career Ladders"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services",
+          "Healthcare",
+          "Transport & Logistics",
+          "Food & Drink"
+        ],
+        "example_industries": [
+          "Electricians in the US",
+          "Home Care Providers in the US",
+          "General Freight Trucking (Truckload)",
+          "Fast Food Restaurants in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       }
     ]
@@ -322,6 +752,31 @@
     "lens": "Societal",
     "signature": "Permanent jobs unbundle into gigs, fractional roles, and expert networks — the firm rents talent by the hour, and the platform in the middle takes the cut.",
     "subtheme_count": 8,
+    "related_themes": [
+      "Work Without the Old Firm",
+      "Machine Intelligence and Compute Buildout"
+    ],
+    "signals": [
+      "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+      "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+      "Automation budgets, inference demand, and power-ready site competition keep rising."
+    ],
+    "structural_tensions": [
+      "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "The Fractional Executive Layer Expands pushes second-order effects beyond the immediate category, especially where evidence industries such as Business Coaching in the US, Management Consulting in the US, and Marketing Consultants increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Skills and Credentials Replace Slow Career Ladders pushes second-order effects beyond the immediate category, especially where evidence industries such as Business Certification & IT Schools in the US, Educational Services in the US, and Electricians in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "The Junior Rung Gets Compressed pushes second-order effects beyond the immediate category, especially where evidence industries such as Accounting Services in the US, Law Firms in the US, and Business Analytics & Enterprise Software Publishing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, The Fractional Executive Layer Expands matters because advisory businesses should package expertise into recurring, productized offers.",
+      "In diligence, Skills and Credentials Replace Slow Career Ladders matters because training providers need clearer links to wage gain and employability.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Accenture, WPP plc, and ADP are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · Renting the expert",
@@ -334,6 +789,10 @@
             "evidence_slugs": [
               "expert-networks",
               "management-consulting-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "The Fractional Executive Layer Expands",
+              "Workflow Compression Rewrites Knowledge Work"
             ]
           },
           {
@@ -344,6 +803,9 @@
             "evidence_slugs": [
               "business-coaching-in-the-us",
               "executive-search-recruiters"
+            ],
+            "related_theme_subthemes": [
+              "The Fractional Executive Layer Expands"
             ]
           },
           {
@@ -355,8 +817,41 @@
               "hr-consulting-in-the-us",
               "marketing-consultants",
               "environmental-consulting-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "The Fractional Executive Layer Expands"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services"
+        ],
+        "example_industries": [
+          "Expert Networks",
+          "Management Consulting in the US",
+          "Business Coaching in the US",
+          "Executive Search Recruiters"
+        ],
+        "example_companies": [
+          "Accenture",
+          "WPP plc",
+          "ADP",
+          "TriNet"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Advisory businesses should package expertise into recurring, productized offers.",
+          "Clients increasingly buy outcomes, not hours alone.",
+          "Operational trust beats generic thought leadership."
+        ],
+        "what_to_underwrite": [
+          "Advisory businesses should package expertise into recurring, productized offers.",
+          "Clients increasingly buy outcomes, not hours alone.",
+          "Operational trust beats generic thought leadership."
         ]
       },
       {
@@ -370,7 +865,8 @@
             "evidence_slugs": [
               "executive-search-recruiters",
               "freight-forwarding-brokerages-and-agencies-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "the-credential-market",
@@ -380,8 +876,42 @@
             "evidence_slugs": [
               "business-certification-and-it-schools-in-the-us",
               "educational-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Skills and Credentials Replace Slow Career Ladders"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services",
+          "Technology & Digital"
+        ],
+        "example_industries": [
+          "Executive Search Recruiters",
+          "Freight Forwarding Brokerages & Agencies in the US",
+          "Business Certification & IT Schools in the US",
+          "Educational Services in the US"
+        ],
+        "example_companies": [
+          "Kumon",
+          "ADP",
+          "TriNet",
+          "Microsoft"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
+        ],
+        "what_to_underwrite": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
         ]
       },
       {
@@ -395,6 +925,9 @@
             "evidence_slugs": [
               "health-and-medical-insurance-in-the-us",
               "disability-insurance"
+            ],
+            "related_theme_subthemes": [
+              "Benefits and Stability Shift Onto Workers"
             ]
           },
           {
@@ -405,8 +938,44 @@
             "evidence_slugs": [
               "law-firms-in-the-us",
               "accounting-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "The Junior Rung Gets Compressed",
+              "Workflow Compression Rewrites Knowledge Work"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance",
+          "Healthcare",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Health & Medical Insurance in the US",
+          "Disability Insurance",
+          "Law Firms in the US",
+          "Accounting Services in the US"
+        ],
+        "example_companies": [
+          "Paychex",
+          "ADP",
+          "TriNet",
+          "Aon PLC"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "There is demand for administrative simplification around unstable work.",
+          "Platform businesses can capture value by packaging protection with flexibility.",
+          "The benefits gap is both a social problem and a recurring revenue opportunity."
+        ],
+        "what_to_underwrite": [
+          "There is demand for administrative simplification around unstable work.",
+          "Platform businesses can capture value by packaging protection with flexibility.",
+          "The benefits gap is both a social problem and a recurring revenue opportunity."
         ]
       },
       {
@@ -421,8 +990,41 @@
               "expert-networks",
               "management-consulting-in-the-us",
               "business-coaching-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "The Fractional Executive Layer Expands",
+              "Workflow Compression Rewrites Knowledge Work"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services"
+        ],
+        "example_industries": [
+          "Expert Networks",
+          "Management Consulting in the US",
+          "Business Coaching in the US"
+        ],
+        "example_companies": [
+          "Accenture",
+          "WPP plc",
+          "ADP",
+          "TriNet"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Advisory businesses should package expertise into recurring, productized offers.",
+          "Clients increasingly buy outcomes, not hours alone.",
+          "Operational trust beats generic thought leadership."
+        ],
+        "what_to_underwrite": [
+          "Advisory businesses should package expertise into recurring, productized offers.",
+          "Clients increasingly buy outcomes, not hours alone.",
+          "Operational trust beats generic thought leadership."
         ]
       }
     ]
@@ -433,6 +1035,28 @@
     "lens": "Cultural",
     "signature": "GLP-1 drugs, the sober-curious wave, and the retreat from sugar are rewriting what people eat and drink — volume shrinks, and only the health-aligned or premium survive.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Wellness Recodes Daily Life"
+    ],
+    "signals": [
+      "Protein, low-sugar, sober-curious, and health-tracking language becomes more central."
+    ],
+    "structural_tensions": [
+      "The central tension inside Wellness Recodes Daily Life is that health behavior is no longer a niche vertical. It is becoming a general operating system for food, drink, beauty, self-presentation, and everyday social decisions, but the route to capturing that demand runs through the practical frictions surfaced by GLP-1 Resets Appetite and Portion Economics.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Sober Socializing Changes Nightlife and Beverage Mix.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "GLP-1 Resets Appetite and Portion Economics pushes second-order effects beyond the immediate category, especially where evidence industries such as Weight Loss Services in the US, Fast Food Restaurants in the US, and Candy Production in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Sober Socializing Changes Nightlife and Beverage Mix pushes second-order effects beyond the immediate category, especially where evidence industries such as Bars & Nightclubs in the US, Breweries in the US, and Distilleries in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Functional Consumption Beats Empty Indulgence pushes second-order effects beyond the immediate category, especially where evidence industries such as Energy Drink Production, Juice Production in the US, and Health Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, GLP-1 Resets Appetite and Portion Economics matters because volume assumptions based on old appetite patterns are less reliable.",
+      "In diligence, Sober Socializing Changes Nightlife and Beverage Mix matters because beverage programs need abstention-compatible margin drivers.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Jenny Craig, McDonald's, and The Coca-Cola Company are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The drug that changed appetite",
@@ -445,6 +1069,10 @@
             "evidence_slugs": [
               "weight-loss-services-in-the-us",
               "brand-name-pharmaceutical-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Beauty, Fitness, and Health Start to Merge"
             ]
           },
           {
@@ -456,8 +1084,45 @@
               "candy-production-in-the-us",
               "ice-cream-production-in-the-us",
               "cookie-cracker-and-pasta-production-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Indulgence Survives by Being Reformulated"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services",
+          "Healthcare",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Weight Loss Services in the US",
+          "Brand Name Pharmaceutical Manufacturing in the US",
+          "Candy Production in the US",
+          "Ice Cream Production in the US"
+        ],
+        "example_companies": [
+          "Jenny Craig",
+          "McDonald's",
+          "The Coca-Cola Company",
+          "Kraft Heinz"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
+        ],
+        "what_to_underwrite": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
         ]
       },
       {
@@ -472,6 +1137,9 @@
               "wine-bars",
               "breweries-in-the-us",
               "bars-and-nightclubs-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Sober Socializing Changes Nightlife and Beverage Mix"
             ]
           },
           {
@@ -482,8 +1150,42 @@
             "evidence_slugs": [
               "whiskey-and-bourbon-distilleries",
               "distilleries-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Sober Socializing Changes Nightlife and Beverage Mix"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Wine Bars",
+          "Breweries in the US",
+          "Bars & Nightclubs in the US",
+          "Whiskey & Bourbon Distilleries"
+        ],
+        "example_companies": [
+          "Anheuser-Busch InBev",
+          "Panera Bread",
+          "The Coca-Cola Company",
+          "DraftKings"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Bars & Nightclubs in the US and Breweries in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Beverage programs need abstention-compatible margin drivers.",
+          "Venues cannot assume alcohol is the default profit center forever.",
+          "Nonalcoholic menus should be built as products, not apologies."
+        ],
+        "what_to_underwrite": [
+          "Beverage programs need abstention-compatible margin drivers.",
+          "Venues cannot assume alcohol is the default profit center forever.",
+          "Nonalcoholic menus should be built as products, not apologies."
         ]
       },
       {
@@ -497,6 +1199,9 @@
             "evidence_slugs": [
               "energy-drink-production",
               "juice-production-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Functional Consumption Beats Empty Indulgence"
             ]
           },
           {
@@ -507,7 +1212,8 @@
             "evidence_slugs": [
               "meal-kit-delivery-services",
               "frozen-food-production-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "what-you-drink-now",
@@ -517,8 +1223,44 @@
             "evidence_slugs": [
               "coffee-and-snack-shops-in-the-us",
               "dairy-product-production-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Functional Consumption Beats Empty Indulgence",
+              "Indulgence Survives by Being Reformulated"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Manufacturing",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Energy Drink Production",
+          "Juice Production in the US",
+          "Meal Kit Delivery Services",
+          "Frozen Food Production in the US"
+        ],
+        "example_companies": [
+          "The Coca-Cola Company",
+          "Haleon",
+          "Abbott Laboratories",
+          "CVS Health"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Function can justify premium pricing if the use case is legible.",
+          "Packaging and merchandising need to tell a utility story quickly.",
+          "Operators should design around rituals, not abstract wellness claims."
+        ],
+        "what_to_underwrite": [
+          "Function can justify premium pricing if the use case is legible.",
+          "Packaging and merchandising need to tell a utility story quickly.",
+          "Operators should design around rituals, not abstract wellness claims."
         ]
       },
       {
@@ -532,6 +1274,10 @@
             "evidence_slugs": [
               "fast-food-restaurants-in-the-us",
               "chain-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Indulgence Survives by Being Reformulated"
             ]
           },
           {
@@ -542,8 +1288,44 @@
             "evidence_slugs": [
               "energy-drink-production",
               "candy-production-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Functional Consumption Beats Empty Indulgence",
+              "Indulgence Survives by Being Reformulated"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Fast Food Restaurants in the US",
+          "Chain Restaurants in the US",
+          "Energy Drink Production",
+          "Candy Production in the US"
+        ],
+        "example_companies": [
+          "Jenny Craig",
+          "McDonald's",
+          "The Coca-Cola Company",
+          "Kraft Heinz"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
+        ],
+        "what_to_underwrite": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
         ]
       },
       {
@@ -559,8 +1341,45 @@
               "wine-bars",
               "energy-drink-production",
               "fast-food-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Sober Socializing Changes Nightlife and Beverage Mix",
+              "Functional Consumption Beats Empty Indulgence"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Weight Loss Services in the US",
+          "Wine Bars",
+          "Energy Drink Production",
+          "Fast Food Restaurants in the US"
+        ],
+        "example_companies": [
+          "Jenny Craig",
+          "McDonald's",
+          "The Coca-Cola Company",
+          "Kraft Heinz"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
+        ],
+        "what_to_underwrite": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
         ]
       }
     ]
@@ -571,6 +1390,33 @@
     "lens": "Cultural",
     "signature": "The middle market collapses — shoppers split into premium and value, and anyone stuck selling undifferentiated mid-tier goods gets squeezed from both sides.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Barbelled Consumer America",
+      "Wellness Recodes Daily Life",
+      "Experience, Status, and Community"
+    ],
+    "signals": [
+      "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+      "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+      "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+    ],
+    "structural_tensions": [
+      "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Value Machines Win the Weekly Basket pushes second-order effects beyond the immediate category, especially where evidence industries such as Discount Department Stores, Warehouse Clubs & Supercenters in the US, and Auto Parts Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Premium Refuges Still Hold Price pushes second-order effects beyond the immediate category, especially where evidence industries such as Jewelry Stores in the US and Wineries in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Mid-Market Erosion Becomes Structural pushes second-order effects beyond the immediate category, especially where evidence industries such as Department Stores in the US, Women's Clothing Stores in the US, and Furniture Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+      "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Walmart, Costco, and Kroger are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The stores splitting apart",
@@ -583,6 +1429,11 @@
             "evidence_slugs": [
               "department-stores-in-the-us",
               "discount-department-stores"
+            ],
+            "related_theme_subthemes": [
+              "Value Machines Win the Weekly Basket",
+              "Mid-Market Erosion Becomes Structural",
+              "Private Label and Dupes Legitimize Trade-Down"
             ]
           },
           {
@@ -594,7 +1445,8 @@
               "dollar-and-variety-stores-in-the-us",
               "convenience-stores-in-the-us",
               "ethnic-supermarkets"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "premium-holds",
@@ -604,8 +1456,41 @@
             "evidence_slugs": [
               "jewelry-stores-in-the-us",
               "beauty-cosmetics-and-fragrance-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Premium Refuges Still Hold Price"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "Department Stores in the US",
+          "Discount Department Stores",
+          "Dollar & Variety Stores in the US",
+          "Convenience Stores in the US"
+        ],
+        "example_companies": [
+          "Walmart",
+          "Costco",
+          "Kroger",
+          "Amazon"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Winning formats remove search friction and visibly defend value.",
+          "Scale buying power matters more than merchant taste alone.",
+          "The basket has to feel prudent before it feels exciting."
+        ],
+        "what_to_underwrite": [
+          "Winning formats remove search friction and visibly defend value.",
+          "Scale buying power matters more than merchant taste alone.",
+          "The basket has to feel prudent before it feels exciting."
         ]
       },
       {
@@ -620,6 +1505,9 @@
               "womens-clothing-stores-in-the-us",
               "mens-clothing-stores-in-the-us",
               "family-clothing-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Mid-Market Erosion Becomes Structural"
             ]
           },
           {
@@ -631,8 +1519,39 @@
               "athletic-shoe-stores",
               "shoe-stores-in-the-us",
               "lingerie-swimwear-and-bridal-stores-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "Women's Clothing Stores in the US",
+          "Men's Clothing Stores in the US",
+          "Family Clothing Stores in the US",
+          "Athletic Shoe Stores"
+        ],
+        "example_companies": [
+          "Target",
+          "Nordstrom",
+          "GameStop",
+          "Under Armour"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
+        ],
+        "what_to_underwrite": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
         ]
       },
       {
@@ -646,6 +1565,10 @@
             "evidence_slugs": [
               "chain-restaurants-in-the-us",
               "fast-food-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "GLP-1 Resets Appetite and Portion Economics",
+              "Indulgence Survives by Being Reformulated"
             ]
           },
           {
@@ -658,8 +1581,44 @@
               "boutique-hotels",
               "extended-stay-hotels",
               "casino-hotels-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Memory Beats Merchandise",
+              "Venue Scarcity Creates Durable Pricing Power"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services",
+          "Retail"
+        ],
+        "example_industries": [
+          "Chain Restaurants in the US",
+          "Fast Food Restaurants in the US",
+          "Hotels & Motels in the US",
+          "Boutique Hotels"
+        ],
+        "example_companies": [
+          "Jenny Craig",
+          "McDonald's",
+          "The Coca-Cola Company",
+          "Kraft Heinz"
+        ],
+        "signals": [
+          "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 1 advantaged examples and 2 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
+        ],
+        "what_to_underwrite": [
+          "Volume assumptions based on old appetite patterns are less reliable.",
+          "Protein, satiety, and better-for-you positioning become more strategic.",
+          "Pharma is now a consumer-sector force, not just a healthcare one."
         ]
       },
       {
@@ -674,6 +1633,10 @@
               "amusement-parks-in-the-us",
               "movie-theaters-in-the-us",
               "concert-and-event-promotion-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Memory Beats Merchandise",
+              "Active Aging and Outdoor Identity Expand Leisure Demand"
             ]
           },
           {
@@ -684,8 +1647,44 @@
             "evidence_slugs": [
               "beauty-cosmetics-and-fragrance-stores-in-the-us",
               "health-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Private Label and Dupes Legitimize Trade-Down",
+              "Functional Consumption Beats Empty Indulgence"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Media & Entertainment",
+          "Retail",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Amusement Parks in the US",
+          "Movie Theaters in the US",
+          "Concert & Event Promotion in the US",
+          "Beauty, Cosmetics & Fragrance Stores in the US"
+        ],
+        "example_companies": [
+          "Delta Air Lines Inc",
+          "Hyatt Hotels",
+          "DraftKings",
+          "Williams-Sonoma"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Company mix is already separating, with 1 advantaged examples and 1 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Amusement Parks in the US and Campgrounds & RV Parks in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Experience categories win when they generate stories worth retelling.",
+          "Scarcity, novelty, and social shareability matter to pricing power.",
+          "Goods businesses need stronger experiential hooks to compete for discretionary budgets."
+        ],
+        "what_to_underwrite": [
+          "Experience categories win when they generate stories worth retelling.",
+          "Scarcity, novelty, and social shareability matter to pricing power.",
+          "Goods businesses need stronger experiential hooks to compete for discretionary budgets."
         ]
       },
       {
@@ -701,8 +1700,44 @@
               "dollar-and-variety-stores-in-the-us",
               "jewelry-stores-in-the-us",
               "chain-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Premium Refuges Still Hold Price",
+              "Mid-Market Erosion Becomes Structural",
+              "Private Label and Dupes Legitimize Trade-Down"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail",
+          "Food & Drink"
+        ],
+        "example_industries": [
+          "Department Stores in the US",
+          "Dollar & Variety Stores in the US",
+          "Jewelry Stores in the US",
+          "Chain Restaurants in the US"
+        ],
+        "example_companies": [
+          "Ulta Beauty",
+          "Williams-Sonoma",
+          "Lululemon",
+          "Tiffany & Co"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 0 advantaged examples and 1 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Premium only works when the customer can articulate why the product is better.",
+          "Operators need visible differentiation, not generic upscale positioning.",
+          "Mix quality matters more than raw volume growth."
+        ],
+        "what_to_underwrite": [
+          "Premium only works when the customer can articulate why the product is better.",
+          "Operators need visible differentiation, not generic upscale positioning.",
+          "Mix quality matters more than raw volume growth."
         ]
       }
     ]
@@ -713,6 +1748,33 @@
     "lens": "Cultural",
     "signature": "The store stopped being where you buy — e-commerce, marketplaces, and direct-to-consumer hollow out physical retail, and only omnichannel or the experiential niche survives.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Barbelled Consumer America",
+      "Wellness Recodes Daily Life",
+      "Experience, Status, and Community"
+    ],
+    "signals": [
+      "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+      "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+      "Protein, low-sugar, sober-curious, and health-tracking language becomes more central.",
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+    ],
+    "structural_tensions": [
+      "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Value Machines Win the Weekly Basket pushes second-order effects beyond the immediate category, especially where evidence industries such as Discount Department Stores, Warehouse Clubs & Supercenters in the US, and Auto Parts Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Premium Refuges Still Hold Price pushes second-order effects beyond the immediate category, especially where evidence industries such as Jewelry Stores in the US and Wineries in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Mid-Market Erosion Becomes Structural pushes second-order effects beyond the immediate category, especially where evidence industries such as Department Stores in the US, Women's Clothing Stores in the US, and Furniture Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+      "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Walmart, Costco, and Kroger are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The categories that went online first",
@@ -726,6 +1788,10 @@
               "consumer-electronics-stores-in-the-us",
               "computer-stores-in-the-us",
               "camera-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Mid-Market Erosion Becomes Structural",
+              "Retail Has to Become a Stage, Not Just a Shelf"
             ]
           },
           {
@@ -737,7 +1803,8 @@
               "book-stores-in-the-us",
               "art-supply-stores",
               "hardware-stores-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "apparel-online",
@@ -748,8 +1815,41 @@
               "womens-clothing-stores-in-the-us",
               "shoe-stores-in-the-us",
               "family-clothing-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Mid-Market Erosion Becomes Structural"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "Consumer Electronics Stores in the US",
+          "Computer Stores in the US",
+          "Camera Stores in the US",
+          "Book Stores in the US"
+        ],
+        "example_companies": [
+          "Target",
+          "Nordstrom",
+          "GameStop",
+          "Under Armour"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
+        ],
+        "what_to_underwrite": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
         ]
       },
       {
@@ -762,6 +1862,9 @@
             "evidence_slug_count": 1,
             "evidence_slugs": [
               "e-commerce-and-online-auctions-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Convenience Becomes Its Own Pricing Layer"
             ]
           },
           {
@@ -772,8 +1875,40 @@
             "evidence_slugs": [
               "beauty-cosmetics-and-fragrance-stores-in-the-us",
               "hiking-and-outdoor-equipment-stores"
+            ],
+            "related_theme_subthemes": [
+              "Active Aging and Outdoor Identity Expand Leisure Demand"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "E-Commerce & Online Auctions in the US",
+          "Beauty, Cosmetics & Fragrance Stores in the US",
+          "Hiking & Outdoor Equipment Stores"
+        ],
+        "example_companies": [
+          "Amazon",
+          "DoorDash",
+          "CVS Health",
+          "Panera Bread"
+        ],
+        "signals": [
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
+        ],
+        "what_to_underwrite": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
         ]
       },
       {
@@ -788,6 +1923,11 @@
               "home-improvement-stores-in-the-us",
               "sporting-goods-stores-in-the-us",
               "auto-parts-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Value Machines Win the Weekly Basket",
+              "Venue Scarcity Creates Durable Pricing Power",
+              "Active Aging and Outdoor Identity Expand Leisure Demand"
             ]
           },
           {
@@ -799,8 +1939,43 @@
               "jewelry-stores-in-the-us",
               "health-stores-in-the-us",
               "convenience-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Premium Refuges Still Hold Price",
+              "Private Label and Dupes Legitimize Trade-Down",
+              "Functional Consumption Beats Empty Indulgence"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "Home Improvement Stores in the US",
+          "Sporting Goods Stores in the US",
+          "Auto Parts Stores in the US",
+          "Jewelry Stores in the US"
+        ],
+        "example_companies": [
+          "Walmart",
+          "Costco",
+          "Kroger",
+          "Amazon"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Winning formats remove search friction and visibly defend value.",
+          "Scale buying power matters more than merchant taste alone.",
+          "The basket has to feel prudent before it feels exciting."
+        ],
+        "what_to_underwrite": [
+          "Winning formats remove search friction and visibly defend value.",
+          "Scale buying power matters more than merchant taste alone.",
+          "The basket has to feel prudent before it feels exciting."
         ]
       },
       {
@@ -814,6 +1989,9 @@
             "evidence_slugs": [
               "womens-clothing-stores-in-the-us",
               "furniture-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Mid-Market Erosion Becomes Structural"
             ]
           },
           {
@@ -824,8 +2002,43 @@
             "evidence_slugs": [
               "department-stores-in-the-us",
               "discount-department-stores"
+            ],
+            "related_theme_subthemes": [
+              "Value Machines Win the Weekly Basket",
+              "Mid-Market Erosion Becomes Structural",
+              "Private Label and Dupes Legitimize Trade-Down"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "Women's Clothing Stores in the US",
+          "Furniture Stores in the US",
+          "Department Stores in the US",
+          "Discount Department Stores"
+        ],
+        "example_companies": [
+          "Target",
+          "Nordstrom",
+          "GameStop",
+          "Under Armour"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
+        ],
+        "what_to_underwrite": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
         ]
       },
       {
@@ -840,8 +2053,42 @@
               "e-commerce-and-online-auctions-in-the-us",
               "womens-clothing-stores-in-the-us",
               "home-improvement-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Mid-Market Erosion Becomes Structural",
+              "Convenience Becomes Its Own Pricing Layer",
+              "Retail Has to Become a Stage, Not Just a Shelf"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail"
+        ],
+        "example_industries": [
+          "E-Commerce & Online Auctions in the US",
+          "Women's Clothing Stores in the US",
+          "Home Improvement Stores in the US"
+        ],
+        "example_companies": [
+          "Target",
+          "Nordstrom",
+          "GameStop",
+          "Under Armour"
+        ],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 0 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
+        ],
+        "what_to_underwrite": [
+          "Mid-tier operators need a hard pivot toward value, service, or curation.",
+          "Promotion without distinctiveness becomes a slow margin bleed.",
+          "Generic assortment is increasingly nonviable."
         ]
       }
     ]
@@ -852,6 +2099,35 @@
     "lens": "Technological",
     "signature": "AI's hunger for power is reshaping the grid and everything plugged into it — whoever has electricity, land, and cooling near the data centers wins a once-in-a-generation buildout.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Work Without the Old Firm",
+      "Physical Reindustrialization and Infrastructure",
+      "Regulated Software and the Admin State",
+      "Space, Housing, and Local Friction",
+      "Machine Intelligence and Compute Buildout"
+    ],
+    "signals": [
+      "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+      "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+      "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+      "Automation budgets, inference demand, and power-ready site competition keep rising."
+    ],
+    "structural_tensions": [
+      "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "The Fractional Executive Layer Expands pushes second-order effects beyond the immediate category, especially where evidence industries such as Business Coaching in the US, Management Consulting in the US, and Marketing Consultants increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Skills and Credentials Replace Slow Career Ladders pushes second-order effects beyond the immediate category, especially where evidence industries such as Business Certification & IT Schools in the US, Educational Services in the US, and Electricians in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "The Junior Rung Gets Compressed pushes second-order effects beyond the immediate category, especially where evidence industries such as Accounting Services in the US, Law Firms in the US, and Business Analytics & Enterprise Software Publishing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, The Fractional Executive Layer Expands matters because advisory businesses should package expertise into recurring, productized offers.",
+      "In diligence, Skills and Credentials Replace Slow Career Ladders matters because training providers need clearer links to wage gain and employability.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Accenture, WPP plc, and ADP are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · Where the machines live",
@@ -864,6 +2140,11 @@
             "evidence_slugs": [
               "colocation-facilities",
               "data-processing-and-hosting-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Power-Centric Geography Reorders Industrial Value",
+              "Logistics Land and Utility Corridors Gain Strategic Rent",
+              "The Data-Center Land Rush Creates New Scarcity"
             ]
           },
           {
@@ -874,6 +2155,10 @@
             "evidence_slugs": [
               "internet-service-providers-in-the-us",
               "internet-hosting-services"
+            ],
+            "related_theme_subthemes": [
+              "Cyber and Audit Overhead Keep Expanding",
+              "AI Concentrates Capital and Strategic Power"
             ]
           },
           {
@@ -884,8 +2169,43 @@
             "evidence_slugs": [
               "business-analytics-and-enterprise-software-publishing-in-the-us",
               "database-storage-and-backup-software-publishing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "The Junior Rung Gets Compressed",
+              "Automation Becomes Labor Arbitrage",
+              "Workflow Compression Rewrites Knowledge Work"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Technology & Digital"
+        ],
+        "example_industries": [
+          "Colocation Facilities",
+          "Data Processing & Hosting Services in the US",
+          "Internet Service Providers in the US",
+          "Internet Hosting Services"
+        ],
+        "example_companies": [
+          "CoreWeave",
+          "NextEra Energy",
+          "Kinder Morgan Inc",
+          "Prologis"
+        ],
+        "signals": [
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Power access should be treated as a first-order go-to-market variable.",
+          "Asset owners near transmission and gas infrastructure gain optionality.",
+          "Land is no longer generic when compute or electrification demand is nearby."
+        ],
+        "what_to_underwrite": [
+          "Power access should be treated as a first-order go-to-market variable.",
+          "Asset owners near transmission and gas infrastructure gain optionality.",
+          "Land is no longer generic when compute or electrification demand is nearby."
         ]
       },
       {
@@ -901,6 +2221,9 @@
               "solar-power-in-the-us",
               "wind-power-in-the-us",
               "hydroelectric-power-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Power, Water, and Heat Become AI Externalities"
             ]
           },
           {
@@ -912,8 +2235,44 @@
               "electric-power-transmission-in-the-us",
               "natural-gas-distribution-in-the-us",
               "gas-pipeline-transportation-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Power-Centric Geography Reorders Industrial Value",
+              "The Data-Center Land Rush Creates New Scarcity",
+              "Power, Water, and Heat Become AI Externalities"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Energy & Environment",
+          "Transport & Logistics"
+        ],
+        "example_industries": [
+          "Coal & Natural Gas Power in the US",
+          "Solar Power in the US",
+          "Wind Power in the US",
+          "Hydroelectric Power in the US"
+        ],
+        "example_companies": [
+          "NextEra Energy",
+          "Kinder Morgan Inc",
+          "Baker Hughes",
+          "Eaton"
+        ],
+        "signals": [
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Electric Power Transmission in the US and Hydroelectric Power in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Digital growth has real physical and political costs.",
+          "Utilities and infrastructure suppliers become indirect AI beneficiaries and constraints.",
+          "Local externalities will increasingly shape where compute gets built."
+        ],
+        "what_to_underwrite": [
+          "Digital growth has real physical and political costs.",
+          "Utilities and infrastructure suppliers become indirect AI beneficiaries and constraints.",
+          "Local externalities will increasingly shape where compute gets built."
         ]
       },
       {
@@ -928,6 +2287,10 @@
               "electricians-in-the-us",
               "heating-and-air-conditioning-contractors-in-the-us",
               "engine-and-turbine-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Skills and Credentials Replace Slow Career Ladders",
+              "Electrical and Cooling Trades Become Picks and Shovels"
             ]
           },
           {
@@ -938,8 +2301,44 @@
             "evidence_slugs": [
               "commercial-building-construction-in-the-us",
               "cement-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Adaptive Reuse Becomes a New Development Discipline",
+              "The Data-Center Land Rush Creates New Scarcity"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Construction",
+          "Manufacturing",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Electricians in the US",
+          "Heating & Air-Conditioning Contractors in the US",
+          "Engine & Turbine Manufacturing in the US",
+          "Commercial Building Construction in the US"
+        ],
+        "example_companies": [
+          "Kumon",
+          "ADP",
+          "TriNet",
+          "Microsoft"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
+        ],
+        "what_to_underwrite": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
         ]
       },
       {
@@ -953,6 +2352,11 @@
             "evidence_slugs": [
               "coal-and-natural-gas-power-in-the-us",
               "electric-power-transmission-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Power-Centric Geography Reorders Industrial Value",
+              "The Data-Center Land Rush Creates New Scarcity",
+              "Power, Water, and Heat Become AI Externalities"
             ]
           },
           {
@@ -963,8 +2367,41 @@
             "evidence_slugs": [
               "waste-to-energy-plant-operation",
               "hydroelectric-power-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Power, Water, and Heat Become AI Externalities"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Energy & Environment"
+        ],
+        "example_industries": [
+          "Coal & Natural Gas Power in the US",
+          "Electric Power Transmission in the US",
+          "Waste-to-Energy Plant Operation",
+          "Hydroelectric Power in the US"
+        ],
+        "example_companies": [
+          "CoreWeave",
+          "NextEra Energy",
+          "Kinder Morgan Inc",
+          "Prologis"
+        ],
+        "signals": [
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Power access should be treated as a first-order go-to-market variable.",
+          "Asset owners near transmission and gas infrastructure gain optionality.",
+          "Land is no longer generic when compute or electrification demand is nearby."
+        ],
+        "what_to_underwrite": [
+          "Power access should be treated as a first-order go-to-market variable.",
+          "Asset owners near transmission and gas infrastructure gain optionality.",
+          "Land is no longer generic when compute or electrification demand is nearby."
         ]
       },
       {
@@ -980,8 +2417,45 @@
               "coal-and-natural-gas-power-in-the-us",
               "electric-power-transmission-in-the-us",
               "electricians-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Skills and Credentials Replace Slow Career Ladders",
+              "Power-Centric Geography Reorders Industrial Value",
+              "Electrical and Cooling Trades Become Picks and Shovels"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Energy & Environment",
+          "Technology & Digital",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Colocation Facilities",
+          "Coal & Natural Gas Power in the US",
+          "Electric Power Transmission in the US",
+          "Electricians in the US"
+        ],
+        "example_companies": [
+          "Kumon",
+          "ADP",
+          "TriNet",
+          "Microsoft"
+        ],
+        "signals": [
+          "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
+        ],
+        "what_to_underwrite": [
+          "Training providers need clearer links to wage gain and employability.",
+          "Trades and technical certifications should be sold as economic mobility infrastructure.",
+          "Credential markets benefit when hiring remains fragmented and anxious."
         ]
       }
     ]
@@ -992,6 +2466,33 @@
     "lens": "Technological",
     "signature": "Banking leaves the banks — it's embedded in apps, cards, and platforms — and scale, data, and the rails win while regional players and middlemen get squeezed.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Scale, Financialization, and the Owned Economy",
+      "Regulated Software and the Admin State",
+      "Machine Intelligence and Compute Buildout"
+    ],
+    "signals": [
+      "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+      "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+      "Workflow software, certification, and managed compliance budgets keep deepening.",
+      "Automation budgets, inference demand, and power-ready site competition keep rising."
+    ],
+    "structural_tensions": [
+      "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Roll-Ups Colonize Essential Services pushes second-order effects beyond the immediate category, especially where evidence industries such as Dentists in the US, Environmental Consulting in the US, and Engineering Services in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Asset Owners Keep Gaining Relative Power pushes second-order effects beyond the immediate category, especially where evidence industries such as Land Leasing in the US, Commercial Real Estate in the US, and Music Publishing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Regional Intermediaries Get Squeezed pushes second-order effects beyond the immediate category, especially where evidence industries such as Commercial Banking in the US, Credit Unions in the US, and Loan Brokers in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Roll-Ups Colonize Essential Services matters because fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+      "In diligence, Asset Owners Keep Gaining Relative Power matters because owning the constraint often beats operating on top of it.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Marsh & McLennan Companies, Stantec, and Clean Harbors are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The core banks consolidate",
@@ -1005,6 +2506,11 @@
               "commercial-banking-in-the-us",
               "credit-unions-in-the-us",
               "industrial-banks-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed",
+              "Cyber and Audit Overhead Keep Expanding",
+              "AI Concentrates Capital and Strategic Power"
             ]
           },
           {
@@ -1015,6 +2521,9 @@
             "evidence_slugs": [
               "credit-card-issuing-in-the-us",
               "credit-card-processing-and-money-transferring-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Identity, Fraud, and Trust Infrastructure Thickens"
             ]
           },
           {
@@ -1025,8 +2534,39 @@
             "evidence_slugs": [
               "investment-banking-and-securities-dealing-in-the-us",
               "custody-asset-and-securities-services-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Commercial Banking in the US",
+          "Credit Unions in the US",
+          "Industrial Banks in the US",
+          "Credit Card Issuing in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       },
       {
@@ -1041,6 +2581,9 @@
               "loan-brokers-in-the-us",
               "invoice-factoring",
               "loan-administration-check-cashing-and-other-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed"
             ]
           },
           {
@@ -1052,8 +2595,43 @@
               "credit-bureaus-and-rating-agencies-in-the-us",
               "credit-repair-services",
               "credit-counselors-surveyors-and-appraisers-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Identity, Fraud, and Trust Infrastructure Thickens",
+              "AI Seeps Into Boring Industries Through Workflows First"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Loan Brokers in the US",
+          "Invoice Factoring",
+          "Loan Administration, Check Cashing & Other Services in the US",
+          "Credit Bureaus & Rating Agencies in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       },
       {
@@ -1067,6 +2645,9 @@
             "evidence_slugs": [
               "portfolio-management-in-the-us",
               "financial-planning-and-advice-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed"
             ]
           },
           {
@@ -1077,8 +2658,39 @@
             "evidence_slugs": [
               "commodity-dealing-and-brokerage-in-the-us",
               "custody-asset-and-securities-services-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Portfolio Management in the US",
+          "Financial Planning & Advice in the US",
+          "Commodity Dealing and Brokerage in the US",
+          "Custody, Asset & Securities Services in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       },
       {
@@ -1092,6 +2704,11 @@
             "evidence_slugs": [
               "commercial-banking-in-the-us",
               "credit-unions-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed",
+              "Cyber and Audit Overhead Keep Expanding",
+              "AI Concentrates Capital and Strategic Power"
             ]
           },
           {
@@ -1102,8 +2719,41 @@
             "evidence_slugs": [
               "invoice-factoring",
               "loan-brokers-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Commercial Banking in the US",
+          "Credit Unions in the US",
+          "Invoice Factoring",
+          "Loan Brokers in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       },
       {
@@ -1119,8 +2769,43 @@
               "credit-card-processing-and-money-transferring-in-the-us",
               "portfolio-management-in-the-us",
               "loan-brokers-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed",
+              "Identity, Fraud, and Trust Infrastructure Thickens",
+              "Cyber and Audit Overhead Keep Expanding"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Commercial Banking in the US",
+          "Credit Card Processing & Money Transferring in the US",
+          "Portfolio Management in the US",
+          "Loan Brokers in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       }
     ]
@@ -1131,6 +2816,31 @@
     "lens": "Industrial",
     "signature": "Trade war and tariffs force reshoring, nearshoring, and inventory hoarding — physical supply chains get expensive and political, and whoever moves fastest to nearshore wins.",
     "subtheme_count": 9,
+    "related_themes": [
+      "Physical Reindustrialization and Infrastructure",
+      "Space, Housing, and Local Friction"
+    ],
+    "signals": [
+      "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+      "Automation budgets, inference demand, and power-ready site competition keep rising.",
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+    ],
+    "structural_tensions": [
+      "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Power-Centric Geography Reorders Industrial Value.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Tariffed Inputs Flow Through the Whole Stack pushes second-order effects beyond the immediate category, especially where evidence industries such as Iron & Steel Manufacturing in the US, Aluminum Manufacturing in the US, and Auto Parts Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Power-Centric Geography Reorders Industrial Value pushes second-order effects beyond the immediate category, especially where evidence industries such as Colocation Facilities, Electric Power Transmission in the US, and Natural Gas Distribution in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Electrical and Cooling Trades Become Picks and Shovels pushes second-order effects beyond the immediate category, especially where evidence industries such as Electricians in the US, Heating & Air-Conditioning Contractors in the US, and Engine & Turbine Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Tariffed Inputs Flow Through the Whole Stack matters because procurement and sourcing discipline become strategic, not back-office.",
+      "In diligence, Power-Centric Geography Reorders Industrial Value matters because power access should be treated as a first-order go-to-market variable.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Cleveland-Cliffs Inc, Stellantis, and Whirlpool Corporation are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The auto reordering",
@@ -1144,6 +2854,9 @@
               "auto-parts-manufacturing-in-the-us",
               "car-and-automobile-manufacturing-in-the-us",
               "automobile-engine-and-parts-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Tariffed Inputs Flow Through the Whole Stack"
             ]
           },
           {
@@ -1155,8 +2868,39 @@
               "hybrid-and-electric-vehicle-manufacturing",
               "automobile-transmission-manufacturing-in-the-us",
               "automobile-steering-and-suspension-manufacturing-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Auto Parts Manufacturing in the US",
+          "Car & Automobile Manufacturing in the US",
+          "Automobile Engine & Parts Manufacturing in the US",
+          "Hybrid & Electric Vehicle Manufacturing"
+        ],
+        "example_companies": [
+          "Cleveland-Cliffs Inc",
+          "Stellantis",
+          "Whirlpool Corporation",
+          "Walmart"
+        ],
+        "signals": [
+          "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+          "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
+        ],
+        "what_to_underwrite": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
         ]
       },
       {
@@ -1170,6 +2914,9 @@
             "evidence_slugs": [
               "iron-and-steel-manufacturing-in-the-us",
               "aluminum-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Tariffed Inputs Flow Through the Whole Stack"
             ]
           },
           {
@@ -1182,8 +2929,39 @@
               "cement-manufacturing-in-the-us",
               "glass-product-manufacturing-in-the-us",
               "rubber-product-manufacturing-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Iron & Steel Manufacturing in the US",
+          "Aluminum Manufacturing in the US",
+          "Chemical Product Manufacturing in the US",
+          "Cement Manufacturing in the US"
+        ],
+        "example_companies": [
+          "Cleveland-Cliffs Inc",
+          "Stellantis",
+          "Whirlpool Corporation",
+          "Walmart"
+        ],
+        "signals": [
+          "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+          "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
+        ],
+        "what_to_underwrite": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
         ]
       },
       {
@@ -1198,6 +2976,10 @@
               "3d-printer-manufacturing",
               "computer-manufacturing-in-the-us",
               "electrical-equipment-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Electrical and Cooling Trades Become Picks and Shovels",
+              "Reshored Specification Manufacturing Gains Relevance"
             ]
           },
           {
@@ -1208,8 +2990,41 @@
             "evidence_slugs": [
               "major-household-appliance-manufacturing-in-the-us",
               "aircraft-engine-and-parts-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Reshored Specification Manufacturing Gains Relevance"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "3D Printer Manufacturing",
+          "Computer Manufacturing in the US",
+          "Electrical Equipment Manufacturing in the US",
+          "Major Household Appliance Manufacturing in the US"
+        ],
+        "example_companies": [
+          "Eaton",
+          "Emerson Electric Co",
+          "MasTec",
+          "Honeywell"
+        ],
+        "signals": [
+          "Automation budgets, inference demand, and power-ready site competition keep rising.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Trade bottlenecks can be more investable than the headline megaprojects they support.",
+          "Backlog quality and labor retention are crucial operating metrics.",
+          "Equipment suppliers with installed bases gain follow-on demand from service and replacement."
+        ],
+        "what_to_underwrite": [
+          "Trade bottlenecks can be more investable than the headline megaprojects they support.",
+          "Backlog quality and labor retention are crucial operating metrics.",
+          "Equipment suppliers with installed bases gain follow-on demand from service and replacement."
         ]
       },
       {
@@ -1224,7 +3039,8 @@
               "meat-beef-and-poultry-processing-in-the-us",
               "coffee-production-in-the-us",
               "soybean-processing"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "retail-import-shock",
@@ -1234,8 +3050,42 @@
             "evidence_slugs": [
               "womens-clothing-stores-in-the-us",
               "furniture-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Tariffed Inputs Flow Through the Whole Stack"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing",
+          "Retail"
+        ],
+        "example_industries": [
+          "Meat, Beef & Poultry Processing in the US",
+          "Coffee Production in the US",
+          "Soybean Processing",
+          "Women's Clothing Stores in the US"
+        ],
+        "example_companies": [
+          "Cleveland-Cliffs Inc",
+          "Stellantis",
+          "Whirlpool Corporation",
+          "Walmart"
+        ],
+        "signals": [
+          "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+          "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
+        ],
+        "what_to_underwrite": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
         ]
       },
       {
@@ -1251,8 +3101,42 @@
               "iron-and-steel-manufacturing-in-the-us",
               "3d-printer-manufacturing",
               "soybean-processing"
+            ],
+            "related_theme_subthemes": [
+              "Tariffed Inputs Flow Through the Whole Stack",
+              "Reshored Specification Manufacturing Gains Relevance"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Auto Parts Manufacturing in the US",
+          "Iron & Steel Manufacturing in the US",
+          "3D Printer Manufacturing",
+          "Soybean Processing"
+        ],
+        "example_companies": [
+          "Cleveland-Cliffs Inc",
+          "Stellantis",
+          "Whirlpool Corporation",
+          "Walmart"
+        ],
+        "signals": [
+          "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+          "Company mix is already separating, with 1 advantaged examples and 0 exposed examples inside this subtheme set.",
+          "Watch whether evidence industries such as Iron & Steel Manufacturing in the US and Aluminum Manufacturing in the US start treating this as a planning assumption rather than a side case."
+        ],
+        "what_to_do": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
+        ],
+        "what_to_underwrite": [
+          "Procurement and sourcing discipline become strategic, not back-office.",
+          "Thin-margin import models look structurally less attractive.",
+          "Domestic or nearshore optionality gains value even before full relocation."
         ]
       }
     ]
@@ -1263,6 +3147,29 @@
     "lens": "Industrial",
     "signature": "Capital rolls up fragmented Main Street — PE, franchises, REITs, and scale leaders absorb the independents, and financialization wins while owner-operators exit.",
     "subtheme_count": 9,
+    "related_themes": [
+      "Scale, Financialization, and the Owned Economy"
+    ],
+    "signals": [
+      "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+      "Verification, underwriting precision, and workflow adjacency become stronger moats."
+    ],
+    "structural_tensions": [
+      "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Roll-Ups Colonize Essential Services pushes second-order effects beyond the immediate category, especially where evidence industries such as Dentists in the US, Environmental Consulting in the US, and Engineering Services in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Asset Owners Keep Gaining Relative Power pushes second-order effects beyond the immediate category, especially where evidence industries such as Land Leasing in the US, Commercial Real Estate in the US, and Music Publishing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Regional Intermediaries Get Squeezed pushes second-order effects beyond the immediate category, especially where evidence industries such as Commercial Banking in the US, Credit Unions in the US, and Loan Brokers in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Roll-Ups Colonize Essential Services matters because fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+      "In diligence, Asset Owners Keep Gaining Relative Power matters because owning the constraint often beats operating on top of it.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Marsh & McLennan Companies, Stantec, and Clean Harbors are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · Rolling up healthcare",
@@ -1276,6 +3183,9 @@
               "dentists-in-the-us",
               "mental-health-and-substance-abuse-centers-in-the-us",
               "dialysis-centers"
+            ],
+            "related_theme_subthemes": [
+              "Roll-Ups Colonize Essential Services"
             ]
           },
           {
@@ -1287,8 +3197,42 @@
               "medical-device-manufacturing-in-the-us",
               "generic-pharmaceutical-manufacturing-in-the-us",
               "orthopedic-products-manufacturing"
+            ],
+            "related_theme_subthemes": [
+              "Institutional Buying Power Widens the Gap"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Dentists in the US",
+          "Mental Health & Substance Abuse Centers in the US",
+          "Dialysis Centers",
+          "Medical Device Manufacturing in the US"
+        ],
+        "example_companies": [
+          "Marsh & McLennan Companies",
+          "Stantec",
+          "Clean Harbors",
+          "Massage Envy"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Workflow software, certification, and managed compliance budgets keep deepening.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
+        ],
+        "what_to_underwrite": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
         ]
       },
       {
@@ -1302,6 +3246,10 @@
             "evidence_slugs": [
               "residential-senior-care-franchises",
               "chain-restaurants-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Roll-Ups Colonize Essential Services",
+              "Franchise and Platform Governance Matter More Than Local Hustle"
             ]
           },
           {
@@ -1313,8 +3261,43 @@
               "environmental-consulting-in-the-us",
               "engineering-services-in-the-us",
               "architects-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Roll-Ups Colonize Essential Services"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services",
+          "Healthcare",
+          "Food & Drink"
+        ],
+        "example_industries": [
+          "Residential Senior Care Franchises",
+          "Chain Restaurants in the US",
+          "Environmental Consulting in the US",
+          "Engineering Services in the US"
+        ],
+        "example_companies": [
+          "Marsh & McLennan Companies",
+          "Stantec",
+          "Clean Harbors",
+          "Massage Envy"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Workflow software, certification, and managed compliance budgets keep deepening.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
+        ],
+        "what_to_underwrite": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
         ]
       },
       {
@@ -1329,6 +3312,9 @@
               "home-improvement-stores-in-the-us",
               "auto-parts-stores-in-the-us",
               "sporting-goods-stores-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Institutional Buying Power Widens the Gap"
             ]
           },
           {
@@ -1340,8 +3326,44 @@
               "breweries-in-the-us",
               "beer-wholesaling-in-the-us",
               "meat-beef-and-poultry-processing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Institutional Buying Power Widens the Gap"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Retail",
+          "Food & Drink",
+          "Business Services",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Home Improvement Stores in the US",
+          "Auto Parts Stores in the US",
+          "Sporting Goods Stores in the US",
+          "Breweries in the US"
+        ],
+        "example_companies": [
+          "Walmart",
+          "Costco",
+          "Medline Industries",
+          "Sysco"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Scale should be treated as an operating asset, not a descriptive label.",
+          "Independent players need sharper specialization where buyers cannot fully commoditize them.",
+          "Cost shocks increasingly separate the scaled from the merely adequate."
+        ],
+        "what_to_underwrite": [
+          "Scale should be treated as an operating asset, not a descriptive label.",
+          "Independent players need sharper specialization where buyers cannot fully commoditize them.",
+          "Cost shocks increasingly separate the scaled from the merely adequate."
         ]
       },
       {
@@ -1356,6 +3378,9 @@
               "commercial-real-estate-in-the-us",
               "apartment-rental-in-the-us",
               "land-leasing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power"
             ]
           },
           {
@@ -1366,8 +3391,42 @@
             "evidence_slugs": [
               "music-publishing-in-the-us",
               "cable-networks-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Real Estate",
+          "Media & Entertainment"
+        ],
+        "example_industries": [
+          "Commercial Real Estate in the US",
+          "Apartment Rental in the US",
+          "Land Leasing in the US",
+          "Music Publishing in the US"
+        ],
+        "example_companies": [
+          "Prologis",
+          "CBRE Group",
+          "Google",
+          "AT&T"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
+        ],
+        "what_to_underwrite": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
         ]
       },
       {
@@ -1383,8 +3442,45 @@
               "residential-senior-care-franchises",
               "home-improvement-stores-in-the-us",
               "commercial-real-estate-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Roll-Ups Colonize Essential Services",
+              "Asset Owners Keep Gaining Relative Power",
+              "Franchise and Platform Governance Matter More Than Local Hustle"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare",
+          "Retail",
+          "Real Estate"
+        ],
+        "example_industries": [
+          "Dentists in the US",
+          "Residential Senior Care Franchises",
+          "Home Improvement Stores in the US",
+          "Commercial Real Estate in the US"
+        ],
+        "example_companies": [
+          "Marsh & McLennan Companies",
+          "Stantec",
+          "Clean Harbors",
+          "Massage Envy"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Workflow software, certification, and managed compliance budgets keep deepening.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
+        ],
+        "what_to_underwrite": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
         ]
       }
     ]
@@ -1395,6 +3491,31 @@
     "lens": "Industrial",
     "signature": "Hybrid work broke the office and higher rates broke the math — capital rotates from offices to logistics, data centers, and housing, and a debt wall forces the reckoning.",
     "subtheme_count": 10,
+    "related_themes": [
+      "Scale, Financialization, and the Owned Economy",
+      "Space, Housing, and Local Friction"
+    ],
+    "signals": [
+      "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+      "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+      "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+    ],
+    "structural_tensions": [
+      "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Roll-Ups Colonize Essential Services pushes second-order effects beyond the immediate category, especially where evidence industries such as Dentists in the US, Environmental Consulting in the US, and Engineering Services in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Asset Owners Keep Gaining Relative Power pushes second-order effects beyond the immediate category, especially where evidence industries such as Land Leasing in the US, Commercial Real Estate in the US, and Music Publishing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Regional Intermediaries Get Squeezed pushes second-order effects beyond the immediate category, especially where evidence industries such as Commercial Banking in the US, Credit Unions in the US, and Loan Brokers in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Roll-Ups Colonize Essential Services matters because fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+      "In diligence, Asset Owners Keep Gaining Relative Power matters because owning the constraint often beats operating on top of it.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Marsh & McLennan Companies, Stantec, and Clean Harbors are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The office breaks",
@@ -1407,6 +3528,11 @@
             "evidence_slugs": [
               "commercial-real-estate-in-the-us",
               "architects-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power",
+              "Office Obsolescence Is a Structural Shift",
+              "Adaptive Reuse Becomes a New Development Discipline"
             ]
           },
           {
@@ -1417,8 +3543,44 @@
             "evidence_slugs": [
               "commercial-property-remodeling",
               "commercial-building-construction-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Office Obsolescence Is a Structural Shift",
+              "Adaptive Reuse Becomes a New Development Discipline"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Construction",
+          "Real Estate",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Commercial Real Estate in the US",
+          "Architects in the US",
+          "Commercial Property Remodeling",
+          "Commercial Building Construction in the US"
+        ],
+        "example_companies": [
+          "Prologis",
+          "CBRE Group",
+          "Google",
+          "AT&T"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
+        ],
+        "what_to_underwrite": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
         ]
       },
       {
@@ -1432,6 +3594,9 @@
             "evidence_slugs": [
               "home-builders-in-the-us",
               "apartment-rental-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Housing Lock-In Distorts Mobility and Spend"
             ]
           },
           {
@@ -1442,6 +3607,10 @@
             "evidence_slugs": [
               "colocation-facilities",
               "heavy-engineering-construction-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power",
+              "Logistics Land and Utility Corridors Gain Strategic Rent"
             ]
           },
           {
@@ -1452,8 +3621,45 @@
             "evidence_slugs": [
               "land-leasing-in-the-us",
               "campgrounds-and-rv-parks-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power",
+              "Logistics Land and Utility Corridors Gain Strategic Rent"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Construction",
+          "Real Estate",
+          "Technology & Digital",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Home Builders in the US",
+          "Apartment Rental in the US",
+          "Colocation Facilities",
+          "Heavy Engineering Construction in the US"
+        ],
+        "example_companies": [
+          "The Home Depot",
+          "Lowe's",
+          "CBRE Group",
+          "Floor & Decor"
+        ],
+        "signals": [
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Transaction-light housing environments can still support strong maintenance and retrofit demand.",
+          "Geographic labor matching gets harder when households cannot move cheaply.",
+          "Rental and repair ecosystems benefit from housing immobility."
+        ],
+        "what_to_underwrite": [
+          "Transaction-light housing environments can still support strong maintenance and retrofit demand.",
+          "Geographic labor matching gets harder when households cannot move cheaply.",
+          "Rental and repair ecosystems benefit from housing immobility."
         ]
       },
       {
@@ -1468,6 +3674,9 @@
               "hotels-and-motels-in-the-us",
               "casino-hotels-in-the-us",
               "boutique-hotels"
+            ],
+            "related_theme_subthemes": [
+              "Franchise and Platform Governance Matter More Than Local Hustle"
             ]
           },
           {
@@ -1478,8 +3687,40 @@
             "evidence_slugs": [
               "department-stores-in-the-us",
               "discount-department-stores"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Retail",
+          "Consumer Services"
+        ],
+        "example_industries": [
+          "Hotels & Motels in the US",
+          "Casino Hotels in the US",
+          "Boutique Hotels",
+          "Department Stores in the US"
+        ],
+        "example_companies": [
+          "McDonald's",
+          "Subway",
+          "Amazon",
+          "Hyatt Hotels"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Company mix is already separating, with 1 advantaged examples and 3 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Unit economics must be read alongside platform take rates and system control.",
+          "The nominal operator may not be the real strategic decision-maker.",
+          "Franchise and marketplace governance quality is a first-order diligence issue."
+        ],
+        "what_to_underwrite": [
+          "Unit economics must be read alongside platform take rates and system control.",
+          "The nominal operator may not be the real strategic decision-maker.",
+          "Franchise and marketplace governance quality is a first-order diligence issue."
         ]
       },
       {
@@ -1493,6 +3734,11 @@
             "evidence_slugs": [
               "commercial-real-estate-in-the-us",
               "commercial-banking-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power",
+              "Regional Intermediaries Get Squeezed",
+              "Office Obsolescence Is a Structural Shift"
             ]
           },
           {
@@ -1503,8 +3749,44 @@
             "evidence_slugs": [
               "commercial-building-construction-in-the-us",
               "home-builders-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Adaptive Reuse Becomes a New Development Discipline",
+              "Housing Lock-In Distorts Mobility and Spend"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Construction",
+          "Real Estate",
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Commercial Real Estate in the US",
+          "Commercial Banking in the US",
+          "Commercial Building Construction in the US",
+          "Home Builders in the US"
+        ],
+        "example_companies": [
+          "Prologis",
+          "CBRE Group",
+          "Google",
+          "AT&T"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
+        ],
+        "what_to_underwrite": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
         ]
       },
       {
@@ -1520,8 +3802,45 @@
               "apartment-rental-in-the-us",
               "colocation-facilities",
               "home-builders-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Asset Owners Keep Gaining Relative Power",
+              "Office Obsolescence Is a Structural Shift",
+              "Housing Lock-In Distorts Mobility and Spend"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Real Estate",
+          "Technology & Digital",
+          "Construction"
+        ],
+        "example_industries": [
+          "Commercial Real Estate in the US",
+          "Apartment Rental in the US",
+          "Colocation Facilities",
+          "Home Builders in the US"
+        ],
+        "example_companies": [
+          "Prologis",
+          "CBRE Group",
+          "Google",
+          "AT&T"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
+        ],
+        "what_to_underwrite": [
+          "Owning the constraint often beats operating on top of it.",
+          "Investors should distinguish asset control from operating revenue noise.",
+          "The hidden landlord or rail owner may be the true power center in the value chain."
         ]
       }
     ]
@@ -1532,6 +3851,33 @@
     "lens": "Industrial",
     "signature": "A patchwork of AI, privacy, climate, and cyber rules turns compliance into a rising cost — it favors scale, feeds the consultants, and prices out the small operator.",
     "subtheme_count": 9,
+    "related_themes": [
+      "Aging, Care, and the Assistance Economy",
+      "Scale, Financialization, and the Owned Economy",
+      "Regulated Software and the Admin State"
+    ],
+    "signals": [
+      "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+      "Margin performance diverges more from volume growth in payer-shaped sectors.",
+      "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+      "Verification, underwriting precision, and workflow adjacency become stronger moats."
+    ],
+    "structural_tensions": [
+      "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Home-First Aging Reorders the Care Stack pushes second-order effects beyond the immediate category, especially where evidence industries such as Home Care Providers in the US, Health & Medical Insurance in the US, and Medical Device Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Senior Housing Demand Meets Staffing and Capacity Friction pushes second-order effects beyond the immediate category, especially where evidence industries such as Residential Senior Care Franchises, Apartment Rental in the US, and Commercial Real Estate in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Chronic Care Becomes an Industrial Service Chain pushes second-order effects beyond the immediate category, especially where evidence industries such as Dialysis Centers, Orthopedic Products Manufacturing, and Ambulatory Surgery Centers increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Home-First Aging Reorders the Care Stack matters because home-first care creates recurring demand but heavy coordination burden.",
+      "In diligence, Senior Housing Demand Meets Staffing and Capacity Friction matters because care labor and occupancy quality matter more than simple unit count.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Humana, CVS Health, and Abbott Laboratories are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · Finance under the rules",
@@ -1544,6 +3890,10 @@
             "evidence_slugs": [
               "commercial-banking-in-the-us",
               "credit-card-issuing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed",
+              "Cyber and Audit Overhead Keep Expanding"
             ]
           },
           {
@@ -1555,8 +3905,44 @@
               "health-and-medical-insurance-in-the-us",
               "cyber-liability-insurance",
               "workers-compensation-insurance"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy",
+              "Reimbursement and Admin Layers Capture Value Around Care"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance",
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Commercial Banking in the US",
+          "Credit Card Issuing in the US",
+          "Health & Medical Insurance in the US",
+          "Cyber Liability Insurance"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       },
       {
@@ -1570,6 +3956,11 @@
             "evidence_slugs": [
               "hospitals-in-the-us",
               "medical-device-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Institutional Buying Power Widens the Gap",
+              "Testing, Certification, and Standards Quietly Gain Power"
             ]
           },
           {
@@ -1581,8 +3972,42 @@
               "data-processing-and-hosting-services-in-the-us",
               "internet-service-providers-in-the-us",
               "internet-hosting-services"
+            ],
+            "related_theme_subthemes": [
+              "Cyber and Audit Overhead Keep Expanding"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Technology & Digital",
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Hospitals in the US",
+          "Medical Device Manufacturing in the US",
+          "Data Processing & Hosting Services in the US",
+          "Internet Service Providers in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -1597,7 +4022,8 @@
               "law-firms-in-the-us",
               "audit-services",
               "accounting-services-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "environmental-rules",
@@ -1607,8 +4033,44 @@
             "evidence_slugs": [
               "environmental-consulting-in-the-us",
               "waste-to-energy-plant-operation"
+            ],
+            "related_theme_subthemes": [
+              "Roll-Ups Colonize Essential Services",
+              "Compliance Itself Becomes a Demand Engine"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Business Services",
+          "Finance & Insurance",
+          "Energy & Environment"
+        ],
+        "example_industries": [
+          "Law Firms in the US",
+          "Audit Services",
+          "Accounting Services in the US",
+          "Environmental Consulting in the US"
+        ],
+        "example_companies": [
+          "Marsh & McLennan Companies",
+          "Stantec",
+          "Clean Harbors",
+          "Massage Envy"
+        ],
+        "signals": [
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Workflow software, certification, and managed compliance budgets keep deepening.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
+        ],
+        "what_to_underwrite": [
+          "Fragmented categories should be evaluated for acquisition-system quality, not just local share.",
+          "Centralized admin and procurement are core sources of value capture.",
+          "Independents need a stronger moat than being merely local and competent."
         ]
       },
       {
@@ -1622,6 +4084,9 @@
             "evidence_slugs": [
               "credit-repair-services",
               "business-certification-and-it-schools-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Testing, Certification, and Standards Quietly Gain Power"
             ]
           },
           {
@@ -1632,8 +4097,43 @@
             "evidence_slugs": [
               "business-analytics-and-enterprise-software-publishing-in-the-us",
               "credit-bureaus-and-rating-agencies-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Identity, Fraud, and Trust Infrastructure Thickens"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Technology & Digital",
+          "Business Services",
+          "Finance & Insurance"
+        ],
+        "example_industries": [
+          "Credit Repair Services",
+          "Business Certification & IT Schools in the US",
+          "Business Analytics & Enterprise Software Publishing in the US",
+          "Credit Bureaus & Rating Agencies in the US"
+        ],
+        "example_companies": [
+          "Thermo Fisher Scientific",
+          "Labcorp",
+          "3M",
+          "MSA Safety"
+        ],
+        "signals": [
+          "Workflow software, certification, and managed compliance budgets keep deepening.",
+          "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Gatekeeper positions around standards can be structurally attractive.",
+          "The customer often pays because they have to, not because they want to.",
+          "Certification businesses get stronger as product complexity rises."
+        ],
+        "what_to_underwrite": [
+          "Gatekeeper positions around standards can be structurally attractive.",
+          "The customer often pays because they have to, not because they want to.",
+          "Certification businesses get stronger as product complexity rises."
         ]
       },
       {
@@ -1649,8 +4149,44 @@
               "hospitals-in-the-us",
               "law-firms-in-the-us",
               "data-processing-and-hosting-services-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Regional Intermediaries Get Squeezed",
+              "Cyber and Audit Overhead Keep Expanding"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Finance & Insurance",
+          "Healthcare",
+          "Technology & Digital"
+        ],
+        "example_industries": [
+          "Commercial Banking in the US",
+          "Hospitals in the US",
+          "Law Firms in the US",
+          "Data Processing & Hosting Services in the US"
+        ],
+        "example_companies": [
+          "Experian",
+          "Intuit",
+          "S&P Global",
+          "Prudential Financial"
+        ],
+        "signals": [
+          "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+          "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
+        ],
+        "what_to_underwrite": [
+          "Regional players need a niche or service quality that software cannot easily erase.",
+          "Balance-sheet businesses should be judged on tech burden as well as credit quality.",
+          "The middleman without unique data or trust keeps losing ground."
         ]
       }
     ]
@@ -1661,6 +4197,29 @@
     "lens": "Economic",
     "signature": "Labor, materials, energy, and tariffs rise faster than pricing power — margins compress, and only the automated, the premium, or the locked-in escape the squeeze.",
     "subtheme_count": 9,
+    "related_themes": [
+      "Barbelled Consumer America"
+    ],
+    "signals": [
+      "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+      "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+    ],
+    "structural_tensions": [
+      "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Value Machines Win the Weekly Basket pushes second-order effects beyond the immediate category, especially where evidence industries such as Discount Department Stores, Warehouse Clubs & Supercenters in the US, and Auto Parts Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Premium Refuges Still Hold Price pushes second-order effects beyond the immediate category, especially where evidence industries such as Jewelry Stores in the US and Wineries in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Mid-Market Erosion Becomes Structural pushes second-order effects beyond the immediate category, especially where evidence industries such as Department Stores in the US, Women's Clothing Stores in the US, and Furniture Stores in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+      "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Walmart, Costco, and Kroger are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · Food gets squeezed",
@@ -1674,7 +4233,8 @@
               "bread-production-in-the-us",
               "dairy-product-production-in-the-us",
               "meat-beef-and-poultry-processing-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "the-sweet-squeeze",
@@ -1685,8 +4245,34 @@
               "candy-production-in-the-us",
               "ice-cream-production-in-the-us",
               "chocolate-production-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Bread Production in the US",
+          "Dairy Product Production in the US",
+          "Meat, Beef & Poultry Processing in the US",
+          "Candy Production in the US"
+        ],
+        "example_companies": [],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+        ],
+        "what_to_do": [
+          "Value Machines Win the Weekly Basket implies that winning formats remove search friction and visibly defend value.",
+          "Premium Refuges Still Hold Price implies that premium only works when the customer can articulate why the product is better.",
+          "Mid-Market Erosion Becomes Structural implies that mid-tier operators need a hard pivot toward value, service, or curation."
+        ],
+        "what_to_underwrite": [
+          "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+          "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+          "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better."
         ]
       },
       {
@@ -1701,6 +4287,9 @@
               "fast-food-restaurants-in-the-us",
               "chain-restaurants-in-the-us",
               "coffee-and-snack-shops-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Convenience Becomes Its Own Pricing Layer"
             ]
           },
           {
@@ -1712,8 +4301,41 @@
               "breweries-in-the-us",
               "beer-wholesaling-in-the-us",
               "juice-production-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Food & Drink",
+          "Consumer Services",
+          "Business Services"
+        ],
+        "example_industries": [
+          "Fast Food Restaurants in the US",
+          "Chain Restaurants in the US",
+          "Coffee & Snack Shops in the US",
+          "Breweries in the US"
+        ],
+        "example_companies": [
+          "Amazon",
+          "DoorDash",
+          "CVS Health",
+          "Panera Bread"
+        ],
+        "signals": [
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
+        ],
+        "what_to_underwrite": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
         ]
       },
       {
@@ -1727,7 +4349,8 @@
             "evidence_slugs": [
               "cable-providers-in-the-us",
               "vending-machine-operators-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "utility-like-margins",
@@ -1737,8 +4360,35 @@
             "evidence_slugs": [
               "waste-to-energy-plant-operation",
               "natural-gas-distribution-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Energy & Environment",
+          "Media & Entertainment",
+          "Retail"
+        ],
+        "example_industries": [
+          "Cable Providers in the US",
+          "Vending Machine Operators in the US",
+          "Waste-to-Energy Plant Operation",
+          "Natural Gas Distribution in the US"
+        ],
+        "example_companies": [],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+        ],
+        "what_to_do": [
+          "Value Machines Win the Weekly Basket implies that winning formats remove search friction and visibly defend value.",
+          "Premium Refuges Still Hold Price implies that premium only works when the customer can articulate why the product is better.",
+          "Mid-Market Erosion Becomes Structural implies that mid-tier operators need a hard pivot toward value, service, or curation."
+        ],
+        "what_to_underwrite": [
+          "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+          "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+          "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better."
         ]
       },
       {
@@ -1752,7 +4402,8 @@
             "evidence_slugs": [
               "meat-beef-and-poultry-processing-in-the-us",
               "vending-machine-operators-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           },
           {
             "slug": "premium-as-shield",
@@ -1762,8 +4413,44 @@
             "evidence_slugs": [
               "coffee-and-snack-shops-in-the-us",
               "dairy-product-production-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Convenience Becomes Its Own Pricing Layer"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing",
+          "Retail",
+          "Consumer Services",
+          "Food & Drink"
+        ],
+        "example_industries": [
+          "Meat, Beef & Poultry Processing in the US",
+          "Vending Machine Operators in the US",
+          "Coffee & Snack Shops in the US",
+          "Dairy Product Production in the US"
+        ],
+        "example_companies": [
+          "Amazon",
+          "DoorDash",
+          "CVS Health",
+          "Panera Bread"
+        ],
+        "signals": [
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+          "Operators lean harder on pricing architecture, pack-size changes, and cost takeout.",
+          "Company mix is already separating, with 2 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
+        ],
+        "what_to_underwrite": [
+          "Convenience must be operationally real, not just a marketing claim.",
+          "Fulfillment reliability becomes part of product quality.",
+          "Operators should price against time and friction, not just against substitutes."
         ]
       },
       {
@@ -1778,8 +4465,34 @@
               "bread-production-in-the-us",
               "fast-food-restaurants-in-the-us",
               "cable-providers-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Manufacturing",
+          "Food & Drink",
+          "Media & Entertainment"
+        ],
+        "example_industries": [
+          "Bread Production in the US",
+          "Fast Food Restaurants in the US",
+          "Cable Providers in the US"
+        ],
+        "example_companies": [],
+        "signals": [
+          "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+          "Traffic, basket construction, and repeat behavior move toward low-friction channels."
+        ],
+        "what_to_do": [
+          "Value Machines Win the Weekly Basket implies that winning formats remove search friction and visibly defend value.",
+          "Premium Refuges Still Hold Price implies that premium only works when the customer can articulate why the product is better.",
+          "Mid-Market Erosion Becomes Structural implies that mid-tier operators need a hard pivot toward value, service, or curation."
+        ],
+        "what_to_underwrite": [
+          "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+          "In diligence, Value Machines Win the Weekly Basket matters because winning formats remove search friction and visibly defend value.",
+          "In diligence, Premium Refuges Still Hold Price matters because premium only works when the customer can articulate why the product is better."
         ]
       }
     ]
@@ -1790,6 +4503,32 @@
     "lens": "Economic",
     "signature": "Medicare cuts and payer power strip pricing from providers and device makers — volume rises with aging, but the price per unit keeps falling, and only scale survives.",
     "subtheme_count": 9,
+    "related_themes": [
+      "Aging, Care, and the Assistance Economy",
+      "Regulated Software and the Admin State"
+    ],
+    "signals": [
+      "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+      "Margin performance diverges more from volume growth in payer-shaped sectors.",
+      "Workflow software, certification, and managed compliance budgets keep deepening.",
+      "Verification, underwriting precision, and workflow adjacency become stronger moats."
+    ],
+    "structural_tensions": [
+      "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+      "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+      "The durable winners are usually the operators that can make the new behavior legible, routinized, and economically repeatable."
+    ],
+    "second_order_effects": [
+      "Home-First Aging Reorders the Care Stack pushes second-order effects beyond the immediate category, especially where evidence industries such as Home Care Providers in the US, Health & Medical Insurance in the US, and Medical Device Manufacturing in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Senior Housing Demand Meets Staffing and Capacity Friction pushes second-order effects beyond the immediate category, especially where evidence industries such as Residential Senior Care Franchises, Apartment Rental in the US, and Commercial Real Estate in the US increasingly have to budget, merchandise, or position around this pattern as a baseline assumption.",
+      "Chronic Care Becomes an Industrial Service Chain pushes second-order effects beyond the immediate category, especially where evidence industries such as Dialysis Centers, Orthopedic Products Manufacturing, and Ambulatory Surgery Centers increasingly have to budget, merchandise, or position around this pattern as a baseline assumption."
+    ],
+    "what_to_underwrite": [
+      "Capital should underwrite the operators that can routinize the new behavior, not those merely describing it in narrative terms.",
+      "In diligence, Home-First Aging Reorders the Care Stack matters because home-first care creates recurring demand but heavy coordination burden.",
+      "In diligence, Senior Housing Demand Meets Staffing and Capacity Friction matters because care labor and occupancy quality matter more than simple unit count.",
+      "The company evidence matters less as stock-picking trivia than as proof that operators such as Humana, CVS Health, and Abbott Laboratories are already revealing the winner profile."
+    ],
     "groups": [
       {
         "label": "A · The providers get cut",
@@ -1803,6 +4542,10 @@
               "dialysis-centers",
               "ambulatory-surgery-centers",
               "diagnostic-imaging-centers"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain",
+              "Reimbursement and Admin Layers Capture Value Around Care"
             ]
           },
           {
@@ -1814,8 +4557,41 @@
               "cardiologists",
               "dermatologists",
               "gynecologists-and-obstetricians"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Dialysis Centers",
+          "Ambulatory Surgery Centers",
+          "Diagnostic Imaging Centers",
+          "Cardiologists"
+        ],
+        "example_companies": [
+          "Zimmer Biomet",
+          "Abbott Laboratories",
+          "Labcorp",
+          "Cleveland Clinic"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Margin performance diverges more from volume growth in payer-shaped sectors.",
+          "Company mix is already separating, with 3 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "These are process businesses as much as clinical ones.",
+          "Scale in procurement, scheduling, and documentation becomes central.",
+          "The margin opportunity often sits beside, not inside, direct care labor."
+        ],
+        "what_to_underwrite": [
+          "These are process businesses as much as clinical ones.",
+          "Scale in procurement, scheduling, and documentation becomes central.",
+          "The margin opportunity often sits beside, not inside, direct care labor."
         ]
       },
       {
@@ -1830,6 +4606,11 @@
               "orthopedic-products-manufacturing",
               "dialysis-equipment-manufacturing",
               "medical-device-manufacturing-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Chronic Care Becomes an Industrial Service Chain",
+              "Testing, Certification, and Standards Quietly Gain Power"
             ]
           },
           {
@@ -1839,8 +4620,40 @@
             "evidence_slug_count": 1,
             "evidence_slugs": [
               "generic-pharmaceutical-manufacturing-in-the-us"
-            ]
+            ],
+            "related_theme_subthemes": []
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Orthopedic Products Manufacturing",
+          "Dialysis Equipment Manufacturing",
+          "Medical Device Manufacturing in the US",
+          "Generic Pharmaceutical Manufacturing in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -1855,6 +4668,11 @@
               "health-and-medical-insurance-in-the-us",
               "hmo-providers",
               "dental-insurance"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy",
+              "Reimbursement and Admin Layers Capture Value Around Care"
             ]
           },
           {
@@ -1865,8 +4683,41 @@
             "evidence_slugs": [
               "dentists-in-the-us",
               "mental-health-and-substance-abuse-clinics-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Reimbursement and Admin Layers Capture Value Around Care"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Health & Medical Insurance in the US",
+          "HMO Providers",
+          "Dental Insurance",
+          "Dentists in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -1880,6 +4731,10 @@
             "evidence_slugs": [
               "hospitals-in-the-us",
               "home-care-providers-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Payers Gatekeep the Aging Economy"
             ]
           },
           {
@@ -1890,8 +4745,43 @@
             "evidence_slugs": [
               "hmo-providers",
               "ambulatory-surgery-centers"
+            ],
+            "related_theme_subthemes": [
+              "Chronic Care Becomes an Industrial Service Chain",
+              "Payers Gatekeep the Aging Economy",
+              "Reimbursement and Admin Layers Capture Value Around Care"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare"
+        ],
+        "example_industries": [
+          "Hospitals in the US",
+          "Home Care Providers in the US",
+          "HMO Providers",
+          "Ambulatory Surgery Centers"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       },
       {
@@ -1907,8 +4797,44 @@
               "orthopedic-products-manufacturing",
               "generic-pharmaceutical-manufacturing-in-the-us",
               "health-and-medical-insurance-in-the-us"
+            ],
+            "related_theme_subthemes": [
+              "Home-First Aging Reorders the Care Stack",
+              "Chronic Care Becomes an Industrial Service Chain",
+              "Payers Gatekeep the Aging Economy"
             ]
           }
+        ],
+        "where_it_shows_up": [
+          "Healthcare",
+          "Manufacturing"
+        ],
+        "example_industries": [
+          "Dialysis Centers",
+          "Orthopedic Products Manufacturing",
+          "Generic Pharmaceutical Manufacturing in the US",
+          "Health & Medical Insurance in the US"
+        ],
+        "example_companies": [
+          "Humana",
+          "CVS Health",
+          "Abbott Laboratories",
+          "Amazon"
+        ],
+        "signals": [
+          "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+          "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+          "Company mix is already separating, with 4 advantaged examples and 0 exposed examples inside this subtheme set."
+        ],
+        "what_to_do": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
+        ],
+        "what_to_underwrite": [
+          "Home-first care creates recurring demand but heavy coordination burden.",
+          "Businesses that reduce family friction can capture real value.",
+          "Labor-light enablement layers may be more attractive than labor-heavy direct care."
         ]
       }
     ]
