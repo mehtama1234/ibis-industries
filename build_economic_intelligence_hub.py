@@ -44,6 +44,22 @@ BUSINESS_PROFILES_LINK = (
     "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
 )
 
+COMPANY_UNIVERSE_LINK = (
+    "The company universe aggregates named operators from the full corpus and maps them back into the business-model and force system, so repeated company mentions become a usable intelligence surface."
+)
+
+COMPANY_CLUSTERS_LINK = (
+    "Company clusters group recurring operators by business model and force exposure, turning scattered mentions into comparative reads on who is structurally advantaged, mixed, or exposed."
+)
+
+COMPANY_SCOREBOARD_LINK = (
+    "The company scoreboard is the explicit judgment layer: which recurring operators look structurally advantaged, which look exposed, and which sit in the large contested middle."
+)
+
+COMPANY_COMPARISONS_LINK = (
+    "The comparison layer shows the biggest names inside each business-model cluster and separates the apparent winners, losers, and contested middle within each cluster."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -202,6 +218,26 @@ def main():
     <div class="meta">Business profiles</div>
     <h3><a href="business-profiles.html">Business Profiles</a></h3>
     <p>{e(BUSINESS_PROFILES_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Company universe</div>
+    <h3><a href="company-universe.html">Company Universe</a></h3>
+    <p>{e(COMPANY_UNIVERSE_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Company clusters</div>
+    <h3><a href="company-clusters.html">Company Clusters</a></h3>
+    <p>{e(COMPANY_CLUSTERS_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Company scoreboard</div>
+    <h3><a href="company-scoreboard.html">Company Scoreboard</a></h3>
+    <p>{e(COMPANY_SCOREBOARD_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Company comparisons</div>
+    <h3><a href="company-comparisons.html">Company Comparisons</a></h3>
+    <p>{e(COMPANY_COMPARISONS_LINK)}</p>
   </div>
   </div>
 </section>

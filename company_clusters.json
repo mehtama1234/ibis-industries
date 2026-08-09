@@ -1,0 +1,2009 @@
+[
+  {
+    "slug": "industrial-scale-manufacturer",
+    "title": "Industrial Scale Manufacturer",
+    "thesis": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+    "best_owner_type": "scaled industrial platform",
+    "company_count": 1745,
+    "advantaged_count": 30,
+    "mixed_count": 1714,
+    "exposed_count": 1,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Margin Vise",
+      "The Compliance Tax"
+    ],
+    "top_companies": [
+      {
+        "slug": "3m",
+        "title": "3M",
+        "mention_count": 15,
+        "status": "mixed"
+      },
+      {
+        "slug": "cargill",
+        "title": "Cargill",
+        "mention_count": 10,
+        "status": "mixed"
+      },
+      {
+        "slug": "medline-industries",
+        "title": "Medline Industries",
+        "mention_count": 10,
+        "status": "mixed"
+      },
+      {
+        "slug": "procter-and-gamble",
+        "title": "Procter & Gamble",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "samsung",
+        "title": "Samsung",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "basf",
+        "title": "BASF",
+        "mention_count": 8,
+        "status": "mixed"
+      },
+      {
+        "slug": "caterpillar",
+        "title": "Caterpillar Inc",
+        "mention_count": 8,
+        "status": "mixed"
+      },
+      {
+        "slug": "honeywell-international",
+        "title": "Honeywell International",
+        "mention_count": 8,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "expert-services-platform",
+    "title": "Expert Services Platform",
+    "thesis": "This is an expert-services platform that wins when scarce talent, compliance-heavy delivery, and enterprise trust push buyers toward scaled firms rather than loose independent providers.",
+    "best_owner_type": "scaled expert network",
+    "company_count": 629,
+    "advantaged_count": 8,
+    "mixed_count": 621,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "accenture",
+        "title": "Accenture",
+        "mention_count": 13,
+        "status": "advantaged"
+      },
+      {
+        "slug": "adp",
+        "title": "ADP",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "waste-management",
+        "title": "Waste Management",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "alorica",
+        "title": "Alorica",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bain-and",
+        "title": "Bain & Company",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "boston-consulting",
+        "title": "Boston Consulting Group",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "dsv",
+        "title": "DSV",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "fastenal",
+        "title": "Fastenal",
+        "mention_count": 4,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "omnichannel-scale-retailer",
+    "title": "Omnichannel Scale Retailer",
+    "thesis": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+    "best_owner_type": "scaled platform operator",
+    "company_count": 593,
+    "advantaged_count": 265,
+    "mixed_count": 323,
+    "exposed_count": 5,
+    "top_forces": [
+      "The Channel Shift",
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Margin Vise"
+    ],
+    "top_companies": [
+      {
+        "slug": "amazon",
+        "title": "Amazon",
+        "mention_count": 58,
+        "status": "advantaged"
+      },
+      {
+        "slug": "walmart",
+        "title": "Walmart",
+        "mention_count": 53,
+        "status": "advantaged"
+      },
+      {
+        "slug": "target",
+        "title": "Target",
+        "mention_count": 33,
+        "status": "advantaged"
+      },
+      {
+        "slug": "the-home-depot",
+        "title": "The Home Depot",
+        "mention_count": 19,
+        "status": "advantaged"
+      },
+      {
+        "slug": "lowe-s",
+        "title": "Lowe's",
+        "mention_count": 17,
+        "status": "advantaged"
+      },
+      {
+        "slug": "apple",
+        "title": "Apple",
+        "mention_count": 12,
+        "status": "advantaged"
+      },
+      {
+        "slug": "nike",
+        "title": "Nike",
+        "mention_count": 10,
+        "status": "advantaged"
+      },
+      {
+        "slug": "best-buy",
+        "title": "Best Buy",
+        "mention_count": 9,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "healthcare-product-and-distribution-platform",
+    "title": "Healthcare Product and Distribution Platform",
+    "thesis": "This is a healthcare supply platform that wins when regulatory know-how, distribution reach, procurement leverage, and clinical product breadth sit between care delivery and manufacturers.",
+    "best_owner_type": "scaled healthcare intermediary",
+    "company_count": 566,
+    "advantaged_count": 166,
+    "mixed_count": 386,
+    "exposed_count": 14,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Graying Market"
+    ],
+    "top_companies": [
+      {
+        "slug": "cardinal-health",
+        "title": "Cardinal Health",
+        "mention_count": 12,
+        "status": "advantaged"
+      },
+      {
+        "slug": "johnson-and-johnson",
+        "title": "Johnson & Johnson",
+        "mention_count": 10,
+        "status": "advantaged"
+      },
+      {
+        "slug": "abbott",
+        "title": "Abbott Laboratories",
+        "mention_count": 8,
+        "status": "advantaged"
+      },
+      {
+        "slug": "cvs-health",
+        "title": "CVS Health",
+        "mention_count": 8,
+        "status": "advantaged"
+      },
+      {
+        "slug": "alcon",
+        "title": "Alcon",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "iqvia",
+        "title": "IQVIA Holdings Inc",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "kaiser-permanente",
+        "title": "Kaiser Permanente",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "novartis",
+        "title": "Novartis",
+        "mention_count": 5,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "insurance-risk-platform",
+    "title": "Insurance Risk Platform",
+    "thesis": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+    "best_owner_type": "scaled risk manager",
+    "company_count": 432,
+    "advantaged_count": 345,
+    "mixed_count": 87,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Compliance Tax",
+      "The Great Consolidation",
+      "Money Gets Unbundled"
+    ],
+    "top_companies": [
+      {
+        "slug": "allstate",
+        "title": "Allstate",
+        "mention_count": 8,
+        "status": "advantaged"
+      },
+      {
+        "slug": "jpmorgan-chase",
+        "title": "JPMorgan Chase",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bank-of-america",
+        "title": "Bank of America",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "chubb",
+        "title": "Chubb",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "citigroup",
+        "title": "Citigroup",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "morgan-stanley",
+        "title": "Morgan Stanley",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "travelers",
+        "title": "Travelers",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "berkshire-hathaway",
+        "title": "Berkshire Hathaway",
+        "mention_count": 5,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "software-and-network-platform",
+    "title": "Software and Network Platform",
+    "thesis": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+    "best_owner_type": "software-led consolidator",
+    "company_count": 347,
+    "advantaged_count": 251,
+    "mixed_count": 96,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Compliance Tax",
+      "The Great Consolidation",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "ibm",
+        "title": "IBM",
+        "mention_count": 12,
+        "status": "advantaged"
+      },
+      {
+        "slug": "at-and-t",
+        "title": "AT&T",
+        "mention_count": 9,
+        "status": "advantaged"
+      },
+      {
+        "slug": "microsoft",
+        "title": "Microsoft",
+        "mention_count": 9,
+        "status": "advantaged"
+      },
+      {
+        "slug": "alphabet",
+        "title": "Google",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "verizon",
+        "title": "Verizon",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "adobe",
+        "title": "Adobe",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "meta",
+        "title": "Meta",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "trimble",
+        "title": "Trimble",
+        "mention_count": 6,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "industrial-project-operator",
+    "title": "Industrial Project Operator",
+    "thesis": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+    "best_owner_type": "scaled project platform",
+    "company_count": 340,
+    "advantaged_count": 2,
+    "mixed_count": 328,
+    "exposed_count": 10,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Real-Estate Reckoning",
+      "The Compliance Tax"
+    ],
+    "top_companies": [
+      {
+        "slug": "turner-construction",
+        "title": "Turner Construction",
+        "mention_count": 15,
+        "status": "mixed"
+      },
+      {
+        "slug": "aecom",
+        "title": "AECOM",
+        "mention_count": 12,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bechtel",
+        "title": "Bechtel",
+        "mention_count": 11,
+        "status": "mixed"
+      },
+      {
+        "slug": "united-rentals",
+        "title": "United Rentals",
+        "mention_count": 10,
+        "status": "mixed"
+      },
+      {
+        "slug": "kiewit",
+        "title": "Kiewit Corporation",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "vulcan-materials",
+        "title": "Vulcan Materials",
+        "mention_count": 7,
+        "status": "mixed"
+      },
+      {
+        "slug": "martin-marietta-materials",
+        "title": "Martin Marietta Materials",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "fluor",
+        "title": "Fluor",
+        "mention_count": 5,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "transport-and-logistics-network",
+    "title": "Transport and Logistics Network",
+    "thesis": "This is a network logistics business that wins when route density, labor coordination, fleet utilization, and customer integration create operating leverage across a physical network.",
+    "best_owner_type": "scaled network operator",
+    "company_count": 338,
+    "advantaged_count": 61,
+    "mixed_count": 273,
+    "exposed_count": 4,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Margin Vise"
+    ],
+    "top_companies": [
+      {
+        "slug": "xpo-logistics",
+        "title": "XPO Logistics",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "schneider-national",
+        "title": "Schneider National",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "j-b-hunt-transport-services",
+        "title": "J.B. Hunt Transport Services",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "knight-swift-transportation",
+        "title": "Knight-Swift Transportation",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "bnsf-railway",
+        "title": "BNSF Railway",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "fedex",
+        "title": "FedEx",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "kinder-morgan",
+        "title": "Kinder Morgan Inc",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "ryder-system",
+        "title": "Ryder System",
+        "mention_count": 4,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "scaled-consumer-brand-platform",
+    "title": "Scaled Consumer Brand Platform",
+    "thesis": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+    "best_owner_type": "scaled brand portfolio",
+    "company_count": 320,
+    "advantaged_count": 4,
+    "mixed_count": 301,
+    "exposed_count": 15,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Hollow Middle"
+    ],
+    "top_companies": [
+      {
+        "slug": "pepsico",
+        "title": "PepsiCo",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "bayer",
+        "title": "Bayer",
+        "mention_count": 7,
+        "status": "mixed"
+      },
+      {
+        "slug": "agco",
+        "title": "AGCO Corporation",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "john-deere",
+        "title": "John Deere",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "the-coca-cola",
+        "title": "The Coca-Cola Company",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "smithfield-foods",
+        "title": "Smithfield Foods",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "hormel-foods",
+        "title": "Hormel Foods",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "corteva",
+        "title": "Corteva",
+        "mention_count": 3,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "media-rights-and-audience-platform",
+    "title": "Media Rights and Audience Platform",
+    "thesis": "This is a media and audience platform that wins when rights, franchises, distribution, and monetizable attention compound across multiple formats.",
+    "best_owner_type": "scaled IP and distribution owner",
+    "company_count": 301,
+    "advantaged_count": 17,
+    "mixed_count": 284,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Margin Vise"
+    ],
+    "top_companies": [
+      {
+        "slug": "the-walt-disney",
+        "title": "The Walt Disney Company",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bloomberg",
+        "title": "Bloomberg",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "netflix",
+        "title": "Netflix",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "warner-bros-discovery",
+        "title": "Warner Bros. Discovery",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "amc-entertainment",
+        "title": "AMC Entertainment",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "apple-books",
+        "title": "Apple Books",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "dentsu",
+        "title": "Dentsu",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "harpercollins",
+        "title": "HarperCollins",
+        "mention_count": 3,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "energy-and-environmental-infrastructure",
+    "title": "Energy and Environmental Infrastructure",
+    "thesis": "This is an infrastructure operator that wins when regulated assets, field-service density, and mission-critical environmental or energy systems create durable demand.",
+    "best_owner_type": "scaled infrastructure operator",
+    "company_count": 239,
+    "advantaged_count": 6,
+    "mixed_count": 231,
+    "exposed_count": 2,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Compliance Tax",
+      "The Margin Vise"
+    ],
+    "top_companies": [
+      {
+        "slug": "halliburton",
+        "title": "Halliburton",
+        "mention_count": 7,
+        "status": "mixed"
+      },
+      {
+        "slug": "republic-services",
+        "title": "Republic Services",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "baker-hughes",
+        "title": "Baker Hughes",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "clean-harbors",
+        "title": "Clean Harbors",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "nextera-energy",
+        "title": "NextEra Energy",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "dominion-energy",
+        "title": "Dominion Energy",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "duke-energy",
+        "title": "Duke Energy",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "exxon-mobil",
+        "title": "Exxon Mobil",
+        "mention_count": 5,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "local-services-and-leisure-platform",
+    "title": "Local Services and Leisure Platform",
+    "thesis": "This is a local services and leisure platform that wins when recurring local demand, route density, bookings, and brand trust convert fragmented activity into repeatable utilization.",
+    "best_owner_type": "scaled local operator",
+    "company_count": 234,
+    "advantaged_count": 5,
+    "mixed_count": 229,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Graying Market",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "chem-dry",
+        "title": "Chem-Dry Inc",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "churchill-downs",
+        "title": "Churchill Downs",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "cubesmart",
+        "title": "CubeSmart",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "darden-restaurants",
+        "title": "Darden Restaurants",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "duolingo",
+        "title": "Duolingo",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "european-wax-center",
+        "title": "European Wax Center",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "harley-davidson",
+        "title": "Harley-Davidson",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "maid-brigade",
+        "title": "Maid Brigade",
+        "mention_count": 2,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "hospitality-and-experience-platform",
+    "title": "Hospitality and Experience Platform",
+    "thesis": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+    "best_owner_type": "asset-light scale operator",
+    "company_count": 222,
+    "advantaged_count": 0,
+    "mixed_count": 109,
+    "exposed_count": 113,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Labor Squeeze",
+      "The Great Consolidation",
+      "The Real-Estate Reckoning"
+    ],
+    "top_companies": [
+      {
+        "slug": "airbnb",
+        "title": "Airbnb",
+        "mention_count": 6,
+        "status": "exposed"
+      },
+      {
+        "slug": "marriott-international",
+        "title": "Marriott International",
+        "mention_count": 6,
+        "status": "exposed"
+      },
+      {
+        "slug": "hilton-worldwide",
+        "title": "Hilton Worldwide",
+        "mention_count": 5,
+        "status": "exposed"
+      },
+      {
+        "slug": "caesars-entertainment",
+        "title": "Caesars Entertainment",
+        "mention_count": 4,
+        "status": "exposed"
+      },
+      {
+        "slug": "expedia",
+        "title": "Expedia Group",
+        "mention_count": 4,
+        "status": "exposed"
+      },
+      {
+        "slug": "booking",
+        "title": "Booking Holdings",
+        "mention_count": 3,
+        "status": "exposed"
+      },
+      {
+        "slug": "carriage-services",
+        "title": "Carriage Services",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "hand-and-stone-massage-and-facial-spa",
+        "title": "Hand & Stone Massage and Facial Spa",
+        "mention_count": 3,
+        "status": "exposed"
+      }
+    ]
+  },
+  {
+    "slug": "branded-food-scale-operator",
+    "title": "Branded Food Scale Operator",
+    "thesis": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+    "best_owner_type": "scaled brand portfolio",
+    "company_count": 217,
+    "advantaged_count": 0,
+    "mixed_count": 111,
+    "exposed_count": 106,
+    "top_forces": [
+      "The Margin Vise",
+      "The Great Consolidation",
+      "The Health Reckoning",
+      "The Compute Super-Cycle"
+    ],
+    "top_companies": [
+      {
+        "slug": "general-mills",
+        "title": "General Mills",
+        "mention_count": 14,
+        "status": "exposed"
+      },
+      {
+        "slug": "archer-daniels-midland",
+        "title": "Archer Daniels Midland",
+        "mention_count": 8,
+        "status": "mixed"
+      },
+      {
+        "slug": "conagra-brands",
+        "title": "Conagra Brands",
+        "mention_count": 8,
+        "status": "mixed"
+      },
+      {
+        "slug": "jbs-usa",
+        "title": "JBS USA Holdings",
+        "mention_count": 6,
+        "status": "mixed"
+      },
+      {
+        "slug": "kraft-heinz",
+        "title": "Kraft Heinz",
+        "mention_count": 6,
+        "status": "exposed"
+      },
+      {
+        "slug": "campbell-soup",
+        "title": "Campbell Soup Company",
+        "mention_count": 5,
+        "status": "mixed"
+      },
+      {
+        "slug": "keurig-dr-pepper",
+        "title": "Keurig Dr Pepper",
+        "mention_count": 5,
+        "status": "exposed"
+      },
+      {
+        "slug": "mcdonald-s",
+        "title": "McDonald's",
+        "mention_count": 5,
+        "status": "exposed"
+      }
+    ]
+  },
+  {
+    "slug": "real-estate-and-facilities-platform",
+    "title": "Real Estate and Facilities Platform",
+    "thesis": "This is a property and facilities platform that wins when asset access, tenant/workflow relationships, and recurring service layers turn real-estate complexity into durable fee streams.",
+    "best_owner_type": "scaled property-services operator",
+    "company_count": 118,
+    "advantaged_count": 4,
+    "mixed_count": 114,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Real-Estate Reckoning",
+      "The Great Consolidation",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "cbre",
+        "title": "CBRE Group",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "cushman-and-wakefield",
+        "title": "Cushman & Wakefield",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "prologis",
+        "title": "Prologis",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "public-storage",
+        "title": "Public Storage",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "clayton-homes",
+        "title": "Clayton Homes",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "compass",
+        "title": "Compass",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "extra-space-storage",
+        "title": "Extra Space Storage",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "greystar-real-estate-partners",
+        "title": "Greystar Real Estate Partners",
+        "mention_count": 3,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "specialty-retail-platform",
+    "title": "Specialty Retail Platform",
+    "thesis": "This is a specialty retail platform that wins when merchandising, niche demand capture, and channel control matter more than pure scale alone.",
+    "best_owner_type": "scaled specialty merchant",
+    "company_count": 116,
+    "advantaged_count": 4,
+    "mixed_count": 112,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Margin Vise",
+      "The Compliance Tax"
+    ],
+    "top_companies": [
+      {
+        "slug": "amway",
+        "title": "Amway Corp",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "cresco-labs",
+        "title": "Cresco Labs",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "curaleaf",
+        "title": "Curaleaf Holdings",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "driven-brands",
+        "title": "Driven Brands",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "gildan-activewear",
+        "title": "Gildan Activewear",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "juul-labs",
+        "title": "JUUL Labs Inc",
+        "mention_count": 2,
+        "status": "advantaged"
+      },
+      {
+        "slug": "mister-car-wash",
+        "title": "Mister Car Wash",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "monro",
+        "title": "Monro",
+        "mention_count": 2,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "workflow-and-advisory-services-platform",
+    "title": "Workflow and Advisory Services Platform",
+    "thesis": "This is a workflow and advisory services platform that wins when expertise, process discipline, and recurring client workflow embed the operator inside a business or institutional system.",
+    "best_owner_type": "scaled services platform",
+    "company_count": 70,
+    "advantaged_count": 0,
+    "mixed_count": 70,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Graying Market",
+      "The Channel Shift",
+      "The Hollow Middle"
+    ],
+    "top_companies": [
+      {
+        "slug": "bentley-systems",
+        "title": "Bentley Systems",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "esri",
+        "title": "Esri",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "the-salvation-army",
+        "title": "The Salvation Army",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "2024",
+        "title": "2024",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "aci-worldwide",
+        "title": "ACI Worldwide",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "all-faiths-food-bank",
+        "title": "All Faiths Food Bank",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "american-association-of-electronic-reporters-and-transcribers",
+        "title": "American Association of Electronic Reporters and Transcribers",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "american-association-of-nurse-midwives",
+        "title": "American Association of Nurse-Midwives",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "industrial-technology-platform",
+    "title": "Industrial Technology Platform",
+    "thesis": "This is an industrial technology platform that wins when engineering breadth, installed base, aftermarket pull-through, and specification status compound across many end markets.",
+    "best_owner_type": "scaled industrial platform",
+    "company_count": 62,
+    "advantaged_count": 0,
+    "mixed_count": 60,
+    "exposed_count": 2,
+    "top_forces": [
+      "The Margin Vise",
+      "The Graying Market",
+      "The Compliance Tax",
+      "The Hollow Middle"
+    ],
+    "top_companies": [
+      {
+        "slug": "unilever",
+        "title": "Unilever",
+        "mention_count": 9,
+        "status": "mixed"
+      },
+      {
+        "slug": "rayonier-advanced-materials",
+        "title": "Rayonier Advanced Materials",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "abbott-nutrition",
+        "title": "Abbott Nutrition",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "alden-shoe",
+        "title": "Alden Shoe Company",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "alembic-pharmaceuticals",
+        "title": "Alembic Pharmaceuticals",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "allen-edmonds-caleres",
+        "title": "Allen Edmonds / Caleres Inc",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "altec-industries",
+        "title": "Altec Industries",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "amphastar-pharmaceuticals",
+        "title": "Amphastar Pharmaceuticals",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "regulated-workflow-infrastructure",
+    "title": "Regulated Workflow Infrastructure",
+    "thesis": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+    "best_owner_type": "software-led consolidator",
+    "company_count": 49,
+    "advantaged_count": 49,
+    "mixed_count": 0,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Fractional Worker",
+      "Money Gets Unbundled",
+      "The Compliance Tax"
+    ],
+    "top_companies": [
+      {
+        "slug": "thermo-fisher-scientific",
+        "title": "Thermo Fisher Scientific",
+        "mention_count": 10,
+        "status": "advantaged"
+      },
+      {
+        "slug": "deloitte",
+        "title": "Deloitte",
+        "mention_count": 9,
+        "status": "advantaged"
+      },
+      {
+        "slug": "kpmg",
+        "title": "KPMG",
+        "mention_count": 8,
+        "status": "advantaged"
+      },
+      {
+        "slug": "oracle",
+        "title": "Oracle",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "pwc",
+        "title": "PwC",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "ey",
+        "title": "EY",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "salesforce",
+        "title": "Salesforce",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "experian",
+        "title": "Experian",
+        "mention_count": 5,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "specified-product-manufacturer",
+    "title": "Specified Product Manufacturer",
+    "thesis": "This is a manufacturer business that wins when small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "best_owner_type": "specialist/niche expert",
+    "company_count": 44,
+    "advantaged_count": 9,
+    "mixed_count": 35,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Labor Squeeze",
+      "Atoms Strike Back"
+    ],
+    "top_companies": [
+      {
+        "slug": "parker-hannifin",
+        "title": "Parker Hannifin",
+        "mention_count": 8,
+        "status": "mixed"
+      },
+      {
+        "slug": "eaton",
+        "title": "Eaton",
+        "mention_count": 6,
+        "status": "advantaged"
+      },
+      {
+        "slug": "emerson-electric",
+        "title": "Emerson Electric Co",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "flowserve",
+        "title": "Flowserve Corporation",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "electrolux-professional",
+        "title": "Electrolux Professional",
+        "mention_count": 3,
+        "status": "advantaged"
+      },
+      {
+        "slug": "alto-shaam",
+        "title": "Alto-Shaam Inc",
+        "mention_count": 2,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bosch-rexroth",
+        "title": "Bosch Rexroth",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "crane",
+        "title": "Crane Company",
+        "mention_count": 2,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "niche-food-brand-producer",
+    "title": "Niche Food Brand Producer",
+    "thesis": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+    "best_owner_type": "specialist/niche expert",
+    "company_count": 39,
+    "advantaged_count": 0,
+    "mixed_count": 0,
+    "exposed_count": 39,
+    "top_forces": [
+      "The Margin Vise",
+      "The Hollow Middle",
+      "The Health Reckoning"
+    ],
+    "top_companies": [
+      {
+        "slug": "mccormick-and",
+        "title": "McCormick & Company",
+        "mention_count": 4,
+        "status": "exposed"
+      },
+      {
+        "slug": "barry-callebaut",
+        "title": "Barry Callebaut",
+        "mention_count": 3,
+        "status": "exposed"
+      },
+      {
+        "slug": "the-kraft-heinz",
+        "title": "The Kraft Heinz Company",
+        "mention_count": 3,
+        "status": "exposed"
+      },
+      {
+        "slug": "califia-farms",
+        "title": "Califia Farms",
+        "mention_count": 2,
+        "status": "exposed"
+      },
+      {
+        "slug": "cargill-cocoa-and-chocolate",
+        "title": "Cargill Cocoa & Chocolate",
+        "mention_count": 2,
+        "status": "exposed"
+      },
+      {
+        "slug": "chobani",
+        "title": "Chobani",
+        "mention_count": 2,
+        "status": "exposed"
+      },
+      {
+        "slug": "danone-north-america",
+        "title": "Danone North America",
+        "mention_count": 2,
+        "status": "exposed"
+      },
+      {
+        "slug": "land-o-lakes",
+        "title": "Land O'Lakes",
+        "mention_count": 2,
+        "status": "exposed"
+      }
+    ]
+  },
+  {
+    "slug": "inventory-and-credit-distributor",
+    "title": "Inventory and Credit Distributor",
+    "thesis": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+    "best_owner_type": "scaled regional platform",
+    "company_count": 34,
+    "advantaged_count": 34,
+    "mixed_count": 0,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Channel Shift",
+      "The Compute Super-Cycle",
+      "Money Gets Unbundled",
+      "Atoms Strike Back"
+    ],
+    "top_companies": [
+      {
+        "slug": "tyson-foods",
+        "title": "Tyson Foods",
+        "mention_count": 13,
+        "status": "advantaged"
+      },
+      {
+        "slug": "sysco",
+        "title": "Sysco",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "w-w-grainger",
+        "title": "W.W. Grainger",
+        "mention_count": 7,
+        "status": "advantaged"
+      },
+      {
+        "slug": "global-industrial",
+        "title": "Global Industrial",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "veritiv",
+        "title": "Veritiv Corporation",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "uline",
+        "title": "Uline",
+        "mention_count": 3,
+        "status": "advantaged"
+      },
+      {
+        "slug": "cal-maine-foods",
+        "title": "Cal-Maine Foods",
+        "mention_count": 2,
+        "status": "advantaged"
+      },
+      {
+        "slug": "aramsco",
+        "title": "Aramsco",
+        "mention_count": 1,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "local-services-platform",
+    "title": "Local Services Platform",
+    "thesis": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "best_owner_type": "scaled regional platform",
+    "company_count": 31,
+    "advantaged_count": 0,
+    "mixed_count": 17,
+    "exposed_count": 14,
+    "top_forces": [
+      "The Hollow Middle",
+      "The Labor Squeeze",
+      "The Fractional Worker",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "ulta-beauty",
+        "title": "Ulta Beauty",
+        "mention_count": 4,
+        "status": "mixed"
+      },
+      {
+        "slug": "anytime-fitness",
+        "title": "Anytime Fitness",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "great-clips",
+        "title": "Great Clips",
+        "mention_count": 3,
+        "status": "exposed"
+      },
+      {
+        "slug": "planet-fitness",
+        "title": "Planet Fitness",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "24-hour-fitness",
+        "title": "24 Hour Fitness",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "club-pilates",
+        "title": "Club Pilates",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "crunch-fitness",
+        "title": "Crunch Fitness",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "pure-barre",
+        "title": "Pure Barre",
+        "mention_count": 2,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "utilization-managed-experience-venue",
+    "title": "Utilization-Managed Experience Venue",
+    "thesis": "This is a service operator business that wins when experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+    "best_owner_type": "franchise operator",
+    "company_count": 31,
+    "advantaged_count": 0,
+    "mixed_count": 20,
+    "exposed_count": 11,
+    "top_forces": [
+      "The Hollow Middle",
+      "The Health Reckoning",
+      "The Channel Shift"
+    ],
+    "top_companies": [
+      {
+        "slug": "dave-and-buster-s-main-event",
+        "title": "Dave & Buster's / Main Event",
+        "mention_count": 2,
+        "status": "exposed"
+      },
+      {
+        "slug": "andretti-indoor-karting-and-games",
+        "title": "Andretti Indoor Karting & Games",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "arthur-murray-international",
+        "title": "Arthur Murray International",
+        "mention_count": 1,
+        "status": "exposed"
+      },
+      {
+        "slug": "asian-style-private-room-karaoke-concepts",
+        "title": "Asian-style private-room karaoke concepts",
+        "mention_count": 1,
+        "status": "exposed"
+      },
+      {
+        "slug": "bars-and-restaurants-that-host-weekly-karaoke-nights-as-indirect-competitors",
+        "title": "Bars and restaurants that host weekly karaoke nights as indirect competitors",
+        "mention_count": 1,
+        "status": "exposed"
+      },
+      {
+        "slug": "bouldering-project",
+        "title": "Bouldering Project",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "bowlero-owned-and-independent-local-family-entertainment-operators",
+        "title": "Bowlero-owned and independent local family entertainment operators",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "brooklyn-boulders",
+        "title": "Brooklyn Boulders",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "reimbursement-managed-care-operator",
+    "title": "Reimbursement-Managed Care Operator",
+    "thesis": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+    "best_owner_type": "scaled regional platform",
+    "company_count": 29,
+    "advantaged_count": 29,
+    "mixed_count": 0,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Graying Market",
+      "The Compliance Tax",
+      "The Great Consolidation"
+    ],
+    "top_companies": [
+      {
+        "slug": "quest-diagnostics",
+        "title": "Quest Diagnostics",
+        "mention_count": 5,
+        "status": "advantaged"
+      },
+      {
+        "slug": "bureau-veritas",
+        "title": "Bureau Veritas",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "intertek",
+        "title": "Intertek",
+        "mention_count": 4,
+        "status": "advantaged"
+      },
+      {
+        "slug": "eurofins-scientific",
+        "title": "Eurofins Scientific",
+        "mention_count": 3,
+        "status": "advantaged"
+      },
+      {
+        "slug": "labcorp",
+        "title": "Labcorp",
+        "mention_count": 3,
+        "status": "advantaged"
+      },
+      {
+        "slug": "sgs",
+        "title": "SGS",
+        "mention_count": 3,
+        "status": "advantaged"
+      },
+      {
+        "slug": "mistras",
+        "title": "MISTRAS Group",
+        "mention_count": 2,
+        "status": "advantaged"
+      },
+      {
+        "slug": "23andme-research-institute-ttam-research-institute",
+        "title": "23andMe Research Institute / TTAM Research Institute",
+        "mention_count": 1,
+        "status": "advantaged"
+      }
+    ]
+  },
+  {
+    "slug": "care-and-family-demand-platform",
+    "title": "Care and Family Demand Platform",
+    "thesis": "This is a service operator business that wins when aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "best_owner_type": "scaled regional platform",
+    "company_count": 21,
+    "advantaged_count": 0,
+    "mixed_count": 21,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Labor Squeeze",
+      "The Real-Estate Reckoning",
+      "The Graying Market"
+    ],
+    "top_companies": [
+      {
+        "slug": "bright-horizons-family-solutions",
+        "title": "Bright Horizons Family Solutions",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "primrose-schools",
+        "title": "Primrose Schools",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "kindercare-learning",
+        "title": "KinderCare Learning Companies",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "learning-care",
+        "title": "Learning Care Group",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "the-goddard-school",
+        "title": "The Goddard School",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "boys-town-family-and-crisis-services",
+        "title": "Boys Town family and crisis services",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "catholic-charities-usa-member-agencies",
+        "title": "Catholic Charities USA member agencies",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "celebree-school",
+        "title": "Celebree School",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "event-and-gifting-commerce-platform",
+    "title": "Event and Gifting Commerce Platform",
+    "thesis": "This is a life-event and gifting commerce platform that wins when discovery, personalization, vendor aggregation, and fulfillment convert episodic demand into a recurring customer-acquisition engine.",
+    "best_owner_type": "scaled demand aggregator",
+    "company_count": 18,
+    "advantaged_count": 9,
+    "mixed_count": 9,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compute Super-Cycle",
+      "The Great Consolidation",
+      "The Channel Shift",
+      "The Pricing-Power Collapse"
+    ],
+    "top_companies": [
+      {
+        "slug": "shutterfly",
+        "title": "Shutterfly",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "artifact-uprising",
+        "title": "Artifact Uprising",
+        "mention_count": 1,
+        "status": "advantaged"
+      },
+      {
+        "slug": "avanti-press",
+        "title": "Avanti Press",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "bill-doran",
+        "title": "Bill Doran Company",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "cvs-photo",
+        "title": "CVS Photo",
+        "mention_count": 1,
+        "status": "advantaged"
+      },
+      {
+        "slug": "costco-photo-via-shutterfly",
+        "title": "Costco Photo via Shutterfly",
+        "mention_count": 1,
+        "status": "advantaged"
+      },
+      {
+        "slug": "designer-greetings",
+        "title": "Designer Greetings",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "floral-supply-syndicate",
+        "title": "Floral Supply Syndicate",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "industrial-distribution-platform",
+    "title": "Industrial Distribution Platform",
+    "thesis": "This is an industrial distribution platform that wins when inventory, branch density, credit, and technical fulfillment make the middle layer hard to remove.",
+    "best_owner_type": "scaled distributor",
+    "company_count": 12,
+    "advantaged_count": 0,
+    "mixed_count": 12,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Margin Vise",
+      "The Pricing-Power Collapse",
+      "The Channel Shift",
+      "Atoms Strike Back"
+    ],
+    "top_companies": [
+      {
+        "slug": "amerisourcebergen",
+        "title": "AmerisourceBergen",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "ase",
+        "title": "Ase",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "examinetics",
+        "title": "Examinetics",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "faire-wholesale",
+        "title": "Faire Wholesale",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "gordon-food-service",
+        "title": "Gordon Food Service",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "insurance-auto-auctions",
+        "title": "Insurance Auto Auctions",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "national-safety-council",
+        "title": "National Safety Council",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "occucare-international",
+        "title": "Occucare International",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "gaming-and-betting-platform",
+    "title": "Gaming and Betting Platform",
+    "thesis": "This is a digital wagering platform that wins when state access, product engagement, and data-driven customer economics compound across mobile betting and related gaming formats.",
+    "best_owner_type": "scaled licensed platform",
+    "company_count": 10,
+    "advantaged_count": 1,
+    "mixed_count": 9,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Compliance Tax",
+      "The Labor Squeeze",
+      "The Channel Shift",
+      "The Compute Super-Cycle"
+    ],
+    "top_companies": [
+      {
+        "slug": "draftkings",
+        "title": "DraftKings",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "fanduel-flutter-entertainment",
+        "title": "FanDuel / Flutter Entertainment",
+        "mention_count": 2,
+        "status": "advantaged"
+      },
+      {
+        "slug": "betmgm",
+        "title": "BetMGM",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "caesars-sportsbook",
+        "title": "Caesars Sportsbook",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "fanatics-sportsbook",
+        "title": "Fanatics Sportsbook",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "fantasypros-and-rotowire",
+        "title": "FantasyPros and RotoWire",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "prizepicks",
+        "title": "PrizePicks",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "underdog-fantasy",
+        "title": "Underdog Fantasy",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "digital-platform-and-software-network",
+    "title": "Digital Platform and Software Network",
+    "thesis": "This is a digital platform or software network that wins when distribution, data, workflow depth, and ecosystem position compound faster than point-solution competition.",
+    "best_owner_type": "scaled software/network operator",
+    "company_count": 6,
+    "advantaged_count": 0,
+    "mixed_count": 6,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Great Consolidation"
+    ],
+    "top_companies": [
+      {
+        "slug": "spacex-starlink",
+        "title": "SpaceX Starlink",
+        "mention_count": 2,
+        "status": "mixed"
+      },
+      {
+        "slug": "ast-spacemobile",
+        "title": "AST SpaceMobile",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "amazon-leo",
+        "title": "Amazon Leo",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "charter-altice-and-regional-ilec-operators",
+        "title": "Charter/Altice and regional ILEC operators",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "echostar-hughes-network-systems",
+        "title": "EchoStar / Hughes Network Systems",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "wispa",
+        "title": "WISPA",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  },
+  {
+    "slug": "education-and-tutoring-platform",
+    "title": "Education and Tutoring Platform",
+    "thesis": "This is a learning-support platform that wins when trusted curriculum, local or digital distribution, and measurable outcomes turn fragmented tutoring demand into repeatable enrollment.",
+    "best_owner_type": "scaled education network",
+    "company_count": 5,
+    "advantaged_count": 0,
+    "mixed_count": 5,
+    "exposed_count": 0,
+    "top_forces": [
+      "The Channel Shift",
+      "The Great Consolidation",
+      "The Compute Super-Cycle"
+    ],
+    "top_companies": [
+      {
+        "slug": "kumon",
+        "title": "Kumon",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "sylvan-learning",
+        "title": "Sylvan Learning",
+        "mention_count": 3,
+        "status": "mixed"
+      },
+      {
+        "slug": "c2-education",
+        "title": "C2 Education",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "kumon-north-america",
+        "title": "Kumon North America",
+        "mention_count": 1,
+        "status": "mixed"
+      },
+      {
+        "slug": "tutor-doctor",
+        "title": "Tutor Doctor",
+        "mention_count": 1,
+        "status": "mixed"
+      }
+    ]
+  }
+]
