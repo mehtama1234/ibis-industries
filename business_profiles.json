@@ -27,6 +27,15 @@
       "pricing power",
       "utilization"
     ],
+    "operator_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "franchise operator"
+    ],
     "evidence_slugs": [
       "hair-and-nail-salons-in-the-us",
       "hair-salons",
@@ -89,6 +98,15 @@
       "labor",
       "capital / rates",
       "utilization"
+    ],
+    "operator_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
     ],
     "evidence_slugs": [
       "laboratory-casework-manufacturing",
@@ -153,6 +171,15 @@
       "reimbursement",
       "compliance / regulation"
     ],
+    "operator_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "specialist/niche expert"
+    ],
     "evidence_slugs": [
       "elderly-and-disabled-services-in-the-us",
       "early-childhood-learning-centers",
@@ -215,6 +242,15 @@
       "labor",
       "compliance / regulation",
       "customer acquisition cost"
+    ],
+    "operator_moves": [
+      "Use the linked force map as an operating dashboard, not just a research lens.",
+      "Design the business around the real constraint rather than the nominal category label.",
+      "Exploit scale only where it materially improves labor, compliance, channel, or procurement outcomes."
+    ],
+    "likely_losers": [
+      "local owner-operator",
+      "marketplace/intermediary"
     ],
     "evidence_slugs": [
       "insurance-claims-processing-software",

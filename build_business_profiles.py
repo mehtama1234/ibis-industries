@@ -98,6 +98,8 @@ def build_records():
                 "best_owner_type": lens["best_owner_type"],
                 "why_owner_type": lens["why_this_owner_type"],
                 "constraints": lens["binding_constraints"],
+                "operator_moves": lens["advantaged_moves"],
+                "likely_losers": lens["likely_losers"],
                 "evidence_slugs": lens["evidence_industry_slugs"],
                 "adjacent_slugs": lens["adjacent_industry_slugs"],
                 "linked_forces": [
@@ -118,6 +120,25 @@ def build_page(record: dict) -> str:
     industry = BRIEFS_BY_SLUG[record["industry_slug"]]
     evidence = [BRIEFS_BY_SLUG[s] for s in record["evidence_slugs"] if s in BRIEFS_BY_SLUG][:5]
     adjacent = [BRIEFS_BY_SLUG[s] for s in record["adjacent_slugs"] if s in BRIEFS_BY_SLUG][:4]
+    where_it_shows_up = "".join(
+        f"<li>{e(item['title'])} <span class=\"meta\">{e(item.get('sector', ''))}</span></li>"
+        for item in evidence[:4]
+    )
+    signal_items = "".join(f"<li>{e(f['title'])}</li>" for f in record["linked_forces"][:3])
+    tension_items = "".join(
+        f"<li>{e('This model gets squeezed when ' + constraint + ' becomes the dominant constraint without enough scale or workflow leverage.')}</li>"
+        for constraint in record["constraints"][:3]
+    )
+    second_order_items = "".join(
+        f"<li>{e(item['title'])}: {e(item.get('one_sentence') or item.get('one_liner'))}</li>"
+        for item in adjacent[:3]
+    )
+    operator_moves = "".join(f"<li>{e(item)}</li>" for item in record["operator_moves"][:3])
+    underwrite_items = "".join(
+        f"<li>{e('Can this model hold margin if ' + constraint + ' stays binding?')}</li>"
+        for constraint in record["constraints"][:3]
+    )
+    likely_loser_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["likely_losers"]) or '<span class="chip">none surfaced</span>'
     force_panels = "".join(
         f"""<div class="panel">
   <div class="meta">Force</div>
@@ -149,6 +170,36 @@ def build_page(record: dict) -> str:
       <div class="stats"><span>{e(record['market_size'])}</span><span>{e(record['growth'])}</span></div>
       <div class="chips">{themes}</div>
     </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">Where it shows up</div>
+        <ul class="list">{where_it_shows_up}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">Signals</div>
+        <ul class="list">{signal_items}</ul>
+      </div>
+    </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">What to do</div>
+        <ul class="list">{operator_moves}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">What to underwrite</div>
+        <ul class="list">{underwrite_items}</ul>
+      </div>
+    </div>
+    <div class="split">
+      <div class="panel">
+        <div class="meta">Tensions</div>
+        <ul class="list">{tension_items}</ul>
+      </div>
+      <div class="panel">
+        <div class="meta">Second-order effects</div>
+        <ul class="list">{second_order_items}</ul>
+      </div>
+    </div>
     <div class="section">
       <h2>Governing forces</h2>
       <div class="stack">{force_panels}</div>
@@ -171,6 +222,11 @@ def build_page(record: dict) -> str:
       <div class="chips">{constraints}</div>
     </div>
     <div class="panel">
+      <div class="meta">Who gets squeezed</div>
+      <h2>Likely losers</h2>
+      <div class="chips">{likely_loser_chips}</div>
+    </div>
+    <div class="panel">
       <div class="meta">Representative industry</div>
       <h2>{e(record['industry_title'])}</h2>
       <p>{e(industry.get('overview',''))[:420]}...</p>
@@ -188,6 +244,14 @@ def build_hub(records: list[dict]) -> str:
   <h3><a href="business-profiles/{e(r['slug'])}.html">{e(r['title'])}</a></h3>
   <p>{e(r['core_take'])}</p>
   <div class="stats"><span>{e(r['industry_title'])}</span><span>{e(r['best_owner_type'])}</span></div>
+  <div class="meta" style="margin-top:14px">Where it shows up</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(BRIEFS_BY_SLUG[s]["title"])}</span>' for s in r["evidence_slugs"][:2] if s in BRIEFS_BY_SLUG)}</div>
+  <div class="meta" style="margin-top:14px">Signals</div>
+  <div class="chips">{''.join(f'<span class="chip">{e(f["title"])}</span>' for f in r["linked_forces"][:2])}</div>
+  <div class="meta" style="margin-top:14px">What to do</div>
+  <p>{e(r['why_owner_type'])}</p>
+  <div class="meta" style="margin-top:14px">What to underwrite</div>
+  <p>{e('Whether ' + ', '.join(r['constraints'][:2]) + ' is manageable or thesis-breaking.')}</p>
 </article>"""
         for r in records
     )
@@ -199,6 +263,7 @@ def build_hub(records: list[dict]) -> str:
 <div class="eyebrow">Business profiles · US · 2025–2026</div>
 <h1>Business Profiles</h1>
 <p class="sub">These are company-style business model profiles built from representative industries and the lens system. They are not generic sector summaries; they are reads on how a business actually works, what governs its economics, and what kind of owner wins.</p>
+<section class="section"><div class="card"><p>Use this layer when you want a compact example of how the archetype logic cashes out in a concrete business model: what signals matter, where the model shows up, what operators should do, and what investors should underwrite.</p></div></section>
 <section class="section"><div class="grid">{cards}</div></section>
 <footer>Built from the representative business lens layer and industry evidence.</footer>
 </div></body></html>"""
