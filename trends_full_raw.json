@@ -1,675 +1,2562 @@
 {
- "trends": [
-  {
-   "name": "AI adoption and labor displacement",
-   "kind": "Technological",
-   "what_it_is": "AI tools are automating routine cognitive and physical work across every sector—from accounting to medical diagnostics to creative services. Winners deploy AI fast and retain workers in higher-value roles; losers face talent exodus and margin collapse.",
-   "industries": [
-    "Web Design Services",
-    "Website Creation Software Developers",
-    "Video Post-production Services",
-    "US Credit Repair Services Industry",
-    "US Claims Adjusting Industry",
-    "US Accounting Services Industry",
-    "US Business Analytics & Enterprise Software Publishing",
-    "US Database, Storage & Backup Software Publishing Industry",
-    "IT Consulting in the US",
-    "US Data Processing and Hosting Services",
-    "US Diagnostic Imaging Centers Industry",
-    "US Eye Surgery Clinics Industry",
-    "US Dermatologists Industry",
-    "US Cardiologists Industry",
-    "US Medical Device Manufacturing Industry",
-    "US Dialysis Centers Industry",
-    "US Generic Pharmaceutical Manufacturing Industry",
-    "US Mental Health & Substance Abuse Clinics Industry",
-    "US Dental Insurance",
-    "US Homeowners' Insurance Industry",
-    "US Commercial Auto Insurance",
-    "US Cyber Liability Insurance Industry",
-    "US Claims Adjusting Industry",
-    "US Insurance Brokers & Agencies",
-    "US Credit Bureaus & Rating Agencies Industry",
-    "US Law Firms Industry",
-    "US Management Consulting Industry",
-    "US Electronic & Computer Repair Services Industry",
-    "US Data Recovery Services Industry",
-    "US Engineering Services Industry Brief",
-    "US Architects Industry",
-    "HR Consulting in the US",
-    "US Environmental Consulting Industry",
-    "US Audit Services Industry",
-    "US Marketing Consultants Industry Brief",
-    "Business Coaching in the US",
-    "US Expert Networks Industry",
-    "US Business Certification & IT Schools Industry",
-    "US Advertising Agencies",
-    "US Book Publishing",
-    "US Newspaper Publishing",
-    "US Colleges & Universities",
-    "Weight Loss Services in the US",
-    "US Health & Medical Insurance Industry",
-    "US Dialysis Equipment Manufacturing"
-   ],
-   "who_wins": "Firms that invest in AI for productivity and retrain workers for higher-value work stay profitable; firms that deploy it only to cut headcount face skill collapse.",
-   "who_loses": "Routine service providers (data entry, junior consulting, basic diagnostics) and firms that can't afford AI tooling lose pricing power and talent."
-  },
-  {
-   "name": "Tariff-driven cost shock and supply chain upheaval",
-   "kind": "Economic",
-   "what_it_is": "Tariffs (25-54% on China imports, USMCA reciprocal duties) are raising input costs across manufacturing, retail, and trade. Companies are scrambling to nearshore to Mexico, Vietnam, or India while trying to pass costs through to consumers. Margins are getting squeezed.",
-   "industries": [
-    "Auto Parts Manufacturing in the US",
-    "3D Printer Manufacturing",
-    "Orthopedic Products Manufacturing",
-    "Women's Clothing Stores in the US",
-    "US Glasses & Contact Lens Manufacturing",
-    "US Medical Device Manufacturing Industry",
-    "Medical Instrument & Supply Manufacturing in the US",
-    "US Hearing Aid Manufacturing",
-    "US Beer, Wine & Liquor Stores Industry Brief",
-    "Dollar & Variety Stores in the US",
-    "US Ethnic Supermarkets",
-    "Health Stores in the US",
-    "US Auto Parts Stores Industry",
-    "US Home Improvement Stores Industry",
-    "US Computer Stores Industry",
-    "US Consumer Electronics Stores Industry",
-    "US Furniture Stores Industry",
-    "US Jewelry Stores Industry",
-    "US Family Clothing Stores Industry",
-    "Men's Clothing Stores in the US",
-    "US Children's & Infants' Clothing Stores",
-    "US Lingerie, Swimwear & Bridal Stores Industry Brief",
-    "US Beauty, Cosmetics & Fragrance Retail Industry",
-    "US Eyeglasses & Contact Lens Stores",
-    "US Bookstores: The Great Revival",
-    "US Sporting Goods Stores Industry",
-    "US Athletic Shoe Stores Industry",
-    "US Hardware Stores Industry",
-    "Shoe Stores in the US",
-    "US Camera Stores",
-    "US Art Supply Stores Industry",
-    "US Fast Food Restaurants Industry",
-    "US Chain Restaurants",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "US Distilleries Industry",
-    "US Bread Production",
-    "US Meat, Beef & Poultry Processing",
-    "US Dairy Product Production",
-    "US Candy Production Industry",
-    "US Ice Cream Production Industry",
-    "US Coffee Production Industry",
-    "US Chocolate Production",
-    "US Cookie, Cracker & Pasta Production Industry",
-    "US Cereal Production Industry",
-    "US Juice Production",
-    "US Frozen Food Production Industry",
-    "US Car & Automobile Manufacturing",
-    "US Automobile Engine & Parts Manufacturing",
-    "US Hybrid & Electric Vehicle Manufacturing",
-    "US Automobile Steering & Suspension Manufacturing",
-    "US Automobile Transmission Manufacturing",
-    "US Aircraft, Engine & Parts Manufacturing",
-    "US Iron & Steel Manufacturing",
-    "US Chemical Product Manufacturing Industry",
-    "US Cement Manufacturing",
-    "US Electrical Equipment Manufacturing",
-    "US Major Household Appliance Manufacturing",
-    "US Glass Product Manufacturing",
-    "US Rubber Product Manufacturing",
-    "US Colocation Facilities Industry",
-    "US Commercial Building Construction",
-    "Heavy Engineering Construction in the US",
-    "US Home Builders Industry Brief",
-    "US Electricians Industry",
-    "US Roofing Contractors Industry",
-    "US Concrete Contractors Industry",
-    "US Masonry Industry",
-    "US Carpenters Industry Brief",
-    "US General Freight Trucking",
-    "US Local Freight Trucking Industry",
-    "US Long-Distance Refrigerated Trucking Industry",
-    "US Commercial Property Remodeling Industry Brief",
-    "US Heating & Air-Conditioning Contractors",
-    "US Environmental Consulting Industry",
-    "US Glasses & Contact Lens Manufacturing",
-    "US Hearing Aid Manufacturing",
-    "US Health & Medical Insurance Industry",
-    "US Airline Catering Services Industry"
-   ],
-   "who_wins": "Nearshore-reliant manufacturers (Mexico-based assembly) and value brands that lock in tariff-resistant price elasticity; companies with hedged supply chains survive.",
-   "who_loses": "Importers with thin margins (retail, food, components), companies unable to pass through costs, and small suppliers lacking negotiating power."
-  },
-  {
-   "name": "Consolidation and scale-driven shakeout",
-   "kind": "Industrial",
-   "what_it_is": "Across sectors, consolidation is accelerating. Larger, well-capitalized firms are buying or squeezing out independents and mid-market players. Small operators can't afford tech, can't absorb cost inflation, and face churn. Winners have scale; losers exit or get absorbed.",
-   "industries": [
-    "Web Design Services",
-    "Auto Parts Manufacturing in the US",
-    "Orthopedic Products Manufacturing",
-    "Residential Senior Care Franchises",
-    "Energy Drink Production",
-    "Whiskey & Bourbon Distilleries",
-    "Soybean Processing",
-    "Dentists in the US",
-    "US Generic Pharmaceutical Manufacturing Industry",
-    "US Mental Health & Substance Abuse Centers Industry",
-    "US Mental Health & Substance Abuse Clinics Industry",
-    "US Medical Device Manufacturing Industry",
-    "US Dialysis Centers Industry",
-    "US Dialysis Equipment Manufacturing",
-    "US Hearing Aid Manufacturing",
-    "US Contact Lens Manufacturing",
-    "US Glasses & Contact Lens Manufacturing",
-    "US Eye Surgery Clinics Industry",
-    "US Cardiologists Industry",
-    "US Chiropractors Industry",
-    "US Dermatologists Industry",
-    "US Department Stores Industry",
-    "US Discount Department Stores Industry Brief",
-    "US Convenience Stores in 2025-2026",
-    "US Ethnic Supermarkets",
-    "Health Stores in the US",
-    "US Auto Parts Stores Industry",
-    "US Home Improvement Stores Industry",
-    "US Consumer Electronics Stores Industry",
-    "US Furniture Stores Industry",
-    "US Jewelry Stores Industry",
-    "US Family Clothing Stores Industry",
-    "Men's Clothing Stores in the US",
-    "US Children's & Infants' Clothing Stores",
-    "US Sporting Goods Stores Industry",
-    "US Athletic Shoe Stores Industry",
-    "Shoe Stores in the US",
-    "US Camera Stores",
-    "Cable Providers in the US",
-    "US General Freight Trucking",
-    "US Less-Than-Truckload (LTL) Freight",
-    "US Local Freight Trucking Industry",
-    "Local Specialized Freight Trucking in the US",
-    "US Dump Truck Services Industry",
-    "US Long-Distance Refrigerated Trucking Industry",
-    "US Beer Wholesaling Industry",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "US Chain Restaurants",
-    "US Fast Food Restaurants Industry",
-    "US Distilleries Industry",
-    "US Bread Production",
-    "US Meat, Beef & Poultry Processing",
-    "US Dairy Product Production",
-    "US Ice Cream Production Industry",
-    "US Cookie, Cracker & Pasta Production Industry",
-    "US Cereal Production Industry",
-    "US Juice Production",
-    "US Frozen Food Production Industry",
-    "US Car & Automobile Manufacturing",
-    "US Iron & Steel Manufacturing",
-    "US Aluminum Manufacturing",
-    "US Cement Manufacturing",
-    "US Computer Manufacturing in the US",
-    "US Engine & Turbine Manufacturing",
-    "US Commercial Building Construction",
-    "Heavy Engineering Construction in the US",
-    "US Home Builders Industry Brief",
-    "US Electricians Industry",
-    "US Roofing Contractors Industry",
-    "US Concrete Contractors Industry",
-    "US Masonry Industry",
-    "US Carpenters Industry Brief",
-    "US Commercial Real Estate in 2025-2026",
-    "US Apartment Rental Market",
-    "US Hotels & Motels Industry Brief",
-    "Extended Stay Hotels Industry",
-    "US Boutique Hotels Industry",
-    "US Casino Hotels Industry",
-    "Portfolio Management in the US",
-    "US Credit Card Issuing",
-    "Commercial Banking in the US",
-    "Credit Unions in the US",
-    "US Investment Banking & Securities Dealing",
-    "US Financial Planning & Advice Industry",
-    "US Custody, Asset & Securities Services",
-    "US Advertising Agencies",
-    "US Cable Networks Industry",
-    "US Music Publishing Industry",
-    "Concert & Event Promotion in the US",
-    "US Live Performance Theaters Industry",
-    "US Book Publishing",
-    "US Business Valuation Firms",
-    "US Law Firms Industry",
-    "US Management Consulting Industry",
-    "US Engineering Services Industry Brief",
-    "US Architects Industry",
-    "US Environmental Consulting Industry",
-    "US Audit Services Industry",
-    "US Business Certification & IT Schools Industry",
-    "US Charter Schools Industry",
-    "US Colleges & Universities",
-    "Community Colleges in the US"
-   ],
-   "who_wins": "Scale leaders (top 3-4 firms per sector) consolidating via M&A and capturing pricing power; large PE platforms rolling up fragmented services.",
-   "who_loses": "Independent and mid-market operators lack capital to invest in tech and talent; many sell or exit; margin compression accelerates their decline."
-  },
-  {
-   "name": "Reimbursement pressure and pricing power collapse",
-   "kind": "Economic",
-   "what_it_is": "Across healthcare, Medicare cuts are eroding margins; insurance companies and hospital systems are squeezing suppliers and service providers. Wage inflation outpaces reimbursement growth, forcing closures and consolidation.",
-   "industries": [
-    "Weight Loss Services in the US",
-    "Orthopedic Products Manufacturing",
-    "Dentists in the US",
-    "US Generic Pharmaceutical Manufacturing Industry",
-    "US Mental Health & Substance Abuse Clinics Industry",
-    "US Dialysis Centers Industry",
-    "US Dialysis Equipment Manufacturing",
-    "US Diagnostic Imaging Centers Industry",
-    "US Eye Surgery Clinics Industry",
-    "US Acupuncturists Industry",
-    "US Allergists Industry",
-    "US Cardiologists Industry",
-    "US Chiropractors Industry",
-    "US Dermatologists Industry",
-    "US Gynecologists & Obstetricians",
-    "US Dental Insurance",
-    "Hospitals in the US",
-    "US Ambulatory Surgery Centers",
-    "US Home Care Providers Industry",
-    "US HMO Providers Industry",
-    "US Health & Medical Insurance Industry",
-    "US Homeowners' Insurance Industry"
-   ],
-   "who_wins": "Large integrated healthcare systems and insurers with scale and data; companies bundling services and shifting to value-based care.",
-   "who_loses": "Solo practitioners, small medical practices, and independent clinics; specialists without volume; any provider reliant on a single payer."
-  },
-  {
-   "name": "Labor shortage and wage spiral",
-   "kind": "Industrial",
-   "what_it_is": "Across construction, healthcare, transportation, and hospitality, critical worker shortages are driving wages up 5-25% annually. Automation is a partial fix but raises capex barriers. Smaller operators can't compete on wages and exit.",
-   "industries": [
-    "Water & Sewer Line Construction in the US",
-    "US Electricians Industry",
-    "US Heating & Air-Conditioning Contractors",
-    "US Roofing Contractors Industry",
-    "US Concrete Contractors Industry",
-    "US Masonry Industry",
-    "US Carpenters Industry Brief",
-    "US Dialysis Centers Industry",
-    "US General Freight Trucking",
-    "US Less-Than-Truckload (LTL) Freight",
-    "US Local Freight Trucking Industry",
-    "US Long-Distance Refrigerated Trucking Industry",
-    "US Dump Truck Services Industry",
-    "US Domestic Airlines Industry",
-    "US International Airlines Industry",
-    "US Airport Operations Industry",
-    "Heavy Engineering Construction in the US",
-    "US Home Builders Industry Brief",
-    "Hospitals in the US",
-    "US Mental Health & Substance Abuse Clinics Industry",
-    "US Fertility Clinics Industry",
-    "US Gynecologists & Obstetricians",
-    "US Ambulatory Surgery Centers",
-    "US Home Care Providers Industry",
-    "US Chain Restaurants",
-    "US Fast Food Restaurants Industry",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "US Airline Catering Services Industry",
-    "US Dairy Product Production",
-    "US Meat, Beef & Poultry Processing",
-    "US Hotels & Motels Industry Brief",
-    "Extended Stay Hotels Industry",
-    "US Boutique Hotels Industry",
-    "US Casino Hotels Industry",
-    "US Commercial Property Remodeling Industry",
-    "US Engineering Services Industry Brief",
-    "US Environmental Consulting Industry",
-    "US Accountants Industry Brief",
-    "Amusement Parks in the US",
-    "US Business Certification & IT Schools Industry"
-   ],
-   "who_wins": "High-wage operators and automation-ready firms that offer upskilling paths; companies bundling benefits and culture.",
-   "who_loses": "Low-wage hospitality, construction, and retail; small independent operators can't match wages; rural regions lose talent to urban centers."
-  },
-  {
-   "name": "Energy demand surge from AI and data centers",
-   "kind": "Technological",
-   "what_it_is": "Data center buildout for AI is creating a structural surge in electricity demand, grid bottlenecks, and opportunities for power-adjacent industries. Companies with energy access thrive; those without face cost and availability headwinds.",
-   "industries": [
-    "US Coal & Natural Gas Power Generation",
-    "US Electric Power Transmission Industry",
-    "US Gas Pipeline Transportation Industry",
-    "US Hydroelectric Power Industry",
-    "US Solar Power Industry",
-    "US Wind Power Industry",
-    "US Natural Gas Distribution Industry",
-    "US Colocation Facilities Industry",
-    "US Data Processing and Hosting Services",
-    "US Internet Service Providers",
-    "US Electricians Industry",
-    "US Heating & Air-Conditioning Contractors",
-    "US Engine & Turbine Manufacturing",
-    "US Cement Manufacturing"
-   ],
-   "who_wins": "Utilities, transmission operators, and power generators with scale and grid access; colocation and data-center operators in power-rich regions.",
-   "who_loses": "Energy-intensive manufacturing in power-scarce regions; small ISPs unable to attract server tenants; regions with grid constraints."
-  },
-  {
-   "name": "Real estate bifurcation and office crisis",
-   "kind": "Industrial",
-   "what_it_is": "Office real estate is in structural decline as hybrid work sticks. Data centers and logistics booming; multifamily under pressure from oversupply and affordability crisis. Residential and retail parcels shifting to conversion and adaptive reuse.",
-   "industries": [
-    "US Commercial Real Estate in 2025-2026",
-    "US Apartment Rental Market",
-    "US Hotels & Motels Industry Brief",
-    "Land Leasing in the US",
-    "Extended Stay Hotels Industry",
-    "US Boutique Hotels Industry",
-    "US Commercial Building Construction",
-    "US Home Builders Industry Brief",
-    "US Commercial Property Remodeling Industry",
-    "US Department Stores Industry",
-    "US Architects Industry"
-   ],
-   "who_wins": "Developers investing in logistics, multifamily, and adaptive reuse; owners of prime office parcels in major metros converting to residential.",
-   "who_loses": "Legacy office landlords and tenants; retail real estate; suburban office parks; small commercial landlords."
-  },
-  {
-   "name": "Channel shift: e-commerce and direct-to-consumer displacement of physical retail",
-   "kind": "Technological",
-   "what_it_is": "E-commerce and direct-to-consumer brands are pulling sales from physical retail, especially mid-market brick-and-mortar. Standalone stores are closing; survivors integrate omnichannel or go niche and experiential.",
-   "industries": [
-    "Women's Clothing Stores in the US",
-    "Hiking & Outdoor Equipment Stores",
-    "US Department Stores Industry",
-    "US Discount Department Stores Industry Brief",
-    "US E-Commerce & Online Auctions Industry Brief",
-    "US Convenience Stores in 2025-2026",
-    "US Beer, Wine & Liquor Stores Industry Brief",
-    "Dollar & Variety Stores in the US",
-    "US Ethnic Supermarkets",
-    "Health Stores in the US",
-    "US Auto Parts Stores Industry",
-    "US Home Improvement Stores Industry",
-    "US Computer Stores Industry",
-    "US Consumer Electronics Stores Industry",
-    "US Furniture Stores Industry",
-    "US Jewelry Stores Industry",
-    "US Family Clothing Stores Industry",
-    "Men's Clothing Stores in the US",
-    "US Children's & Infants' Clothing Stores",
-    "US Lingerie, Swimwear & Bridal Stores Industry Brief",
-    "US Beauty, Cosmetics & Fragrance Retail Industry",
-    "US Eyeglasses & Contact Lens Stores",
-    "US Bookstores: The Great Revival",
-    "US Sporting Goods Stores Industry",
-    "US Athletic Shoe Stores Industry",
-    "US Hardware Stores Industry",
-    "Shoe Stores in the US",
-    "US Camera Stores",
-    "US Art Supply Stores Industry"
-   ],
-   "who_wins": "Omnichannel retailers with integrated inventory and logistics; niche experiential stores (bookstores, outdoor gear); direct-to-consumer brands.",
-   "who_loses": "Standalone mid-market retailers without digital presence; full-price mall-based stores; category specialists without vertical integration."
-  },
-  {
-   "name": "Demographic dividend: aging population driving demand in healthcare and senior living",
-   "kind": "Societal",
-   "what_it_is": "Baby boomers are entering peak care years (65+). This is boosting demand for orthopedic procedures, hearing aids, senior housing, long-term care, and age-related treatments. Margins are under pressure but volume is strong.",
-   "industries": [
-    "Weight Loss Services in the US",
-    "Orthopedic Products Manufacturing",
-    "Residential Senior Care Franchises",
-    "US Hearing Aid Manufacturing",
-    "US Contact Lens Manufacturing",
-    "US Glasses & Contact Lens Manufacturing",
-    "US Acupuncturists Industry",
-    "US Allergists Industry",
-    "US Cardiologists Industry",
-    "US Dermatologists Industry",
-    "US Fertility Clinics Industry",
-    "US Eye Surgery Clinics Industry",
-    "US Dialysis Centers Industry",
-    "US Dialysis Equipment Manufacturing",
-    "Hiking & Outdoor Equipment Stores",
-    "Amusement Parks in the US",
-    "Land Leasing in the US",
-    "US Long-Term Care Insurance Industry",
-    "Life Insurance & Annuities in the US",
-    "US Home Care Providers Industry"
-   ],
-   "who_wins": "Large integrated senior-care platforms; companies bundling multiple touch points (clinics, pharmacies, home care); organized care networks.",
-   "who_loses": "Small independent practitioners and providers; companies serving younger demographics."
-  },
-  {
-   "name": "Margin compression from inflation and input costs",
-   "kind": "Economic",
-   "what_it_is": "Across food, manufacturing, and retail, input costs (labor, materials, energy, tariffs) are rising faster than pricing power allows. Margins are shrinking; companies are cutting costs through automation and reducing choice.",
-   "industries": [
-    "Cable Providers in the US",
-    "Energy Drink Production",
-    "Whiskey & Bourbon Distilleries",
-    "Soybean Processing",
-    "Waste-to-Energy Plant Operation",
-    "Water & Sewer Line Construction in the US",
-    "Vending Machine Operators in the US",
-    "US Fast Food Restaurants Industry",
-    "US Chain Restaurants",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "US Bread Production",
-    "US Meat, Beef & Poultry Processing",
-    "US Dairy Product Production",
-    "US Candy Production Industry",
-    "US Ice Cream Production Industry",
-    "US Beer Wholesaling Industry",
-    "US Coffee Production Industry",
-    "US Chocolate Production",
-    "US Cookie, Cracker & Pasta Production Industry",
-    "US Frozen Food Production Industry",
-    "US Wine Bars",
-    "US Juice Production",
-    "US Airline Catering Services Industry"
-   ],
-   "who_wins": "Premium/luxury brands holding pricing; automation-first operators; companies with lock-in relationships and scale.",
-   "who_loses": "Value and mid-market brands; franchise owners; small independent food producers."
-  },
-  {
-   "name": "Consolidation and scale in media, publishing, and entertainment",
-   "kind": "Industrial",
-   "what_it_is": "Streaming is consolidating into a few mega-platforms; content costs are rising; traditional media (cable, print) is declining. Consolidation is happening across music publishing, book houses, and ad agencies.",
-   "industries": [
-    "Cable Providers in the US",
-    "Video Post-production Services",
-    "US Cable Networks Industry",
-    "US Movie Theaters Industry",
-    "US Music Publishing Industry",
-    "US Book Publishing",
-    "Magazine & Periodical Publishing in the US",
-    "US Newspaper Publishing",
-    "Concert & Event Promotion in the US",
-    "US Live Performance Theaters Industry",
-    "US Advertising Agencies",
-    "Internet Publishing and Broadcasting in the US"
-   ],
-   "who_wins": "Mega-streamers (Netflix, Disney+); catalog owners treated as assets; premium niche publishers and creators with direct audiences.",
-   "who_loses": "Traditional TV networks; ad-dependent publishers; mid-market creative shops; theater and live-event operators in weak markets."
-  },
-  {
-   "name": "Health consciousness and dietary shift away from sugar and alcohol",
-   "kind": "Cultural",
-   "what_it_is": "GLP-1 weight-loss drugs, health awareness (especially among Gen Z), and regulatory scrutiny are cutting demand for sugary, alcoholic, and calorie-dense foods. Premiumization (organic, functional, low-alcohol) is rising but volumes are shrinking.",
-   "industries": [
-    "Weight Loss Services in the US",
-    "Energy Drink Production",
-    "Whiskey & Bourbon Distilleries",
-    "Wine Bars",
-    "US Fast Food Restaurants Industry",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "US Distilleries Industry",
-    "US Candy Production Industry",
-    "US Ice Cream Production Industry",
-    "US Juice Production",
-    "US Frozen Food Production Industry"
-   ],
-   "who_wins": "Functional and low-calorie food makers; premium spirits and wine; better-for-you snacks and beverages.",
-   "who_loses": "Traditional sugary food and beverage makers (soda, energy drinks, cheap spirits); mass-market ice cream and candy."
-  },
-  {
-   "name": "Regulatory fragmentation and compliance cost explosion",
-   "kind": "Industrial",
-   "what_it_is": "AI governance (SEC, FTC, NAIC), climate disclosure, cybersecurity (state-level), tariff rules, accessibility (ADA), and data privacy (GDPR, CPRA, CCPA) are creating a patchwork of regulations. Compliance costs are rising; smaller firms can't absorb them.",
-   "industries": [
-    "Web Design Services",
-    "US Credit Repair Services Industry",
-    "US Credit Counselors, Surveyors & Appraisers Industry",
-    "Commercial Banking in the US",
-    "US Health & Medical Insurance Industry",
-    "US Dental Insurance",
-    "US Cyber Liability Insurance Industry",
-    "US Credit Bureaus & Rating Agencies Industry",
-    "Hospitals in the US",
-    "US Medical Device Manufacturing Industry",
-    "IT Consulting in the US",
-    "US Data Processing and Hosting Services",
-    "US Internet Service Providers",
-    "US Internet Hosting Services Industry",
-    "US Accounting Services Industry",
-    "US Law Firms Industry",
-    "HR Consulting in the US",
-    "US Environmental Consulting Industry",
-    "US Audit Services Industry",
-    "US Business Certification & IT Schools Industry"
-   ],
-   "who_wins": "Large firms with dedicated compliance and legal teams; specialist consultants; consulting firms and law firms advising on regulation.",
-   "who_loses": "Small independent operators; mid-market firms without scale; single-jurisdiction service providers."
-  },
-  {
-   "name": "Fintech and embedded finance disrupting traditional banking and payments",
-   "kind": "Technological",
-   "what_it_is": "Direct-to-consumer lending, embedded finance (payments in apps), BNPL, and stablecoins are bypassing traditional banking rails. Banks are consolidating and modernizing; small regional players are exiting.",
-   "industries": [
-    "Commercial Banking in the US",
-    "Credit Unions in the US",
-    "US Investment Banking & Securities Dealing",
-    "US Credit Card Issuing",
-    "US Credit Card Processing & Money Transferring Industry",
-    "US Agricultural Banks",
-    "Industrial Banks in the US",
-    "Invoice Factoring",
-    "US Loan Brokers Industry",
-    "US Financial Planning & Advice Industry"
-   ],
-   "who_wins": "Large diversified banks; fintech platforms and embedded-finance providers; alternative-credit startups and marketplaces.",
-   "who_loses": "Regional and community banks; single-product banking services; traditional credit brokers."
-  },
-  {
-   "name": "Premiumization and bifurcation: affluent vs. value consumers diverging",
-   "kind": "Cultural",
-   "what_it_is": "Affluent consumers are spending on premium, experiential, and luxury goods; middle-class consumers are trading down to value/discount brands. Middle market is hollowed out. Niches (premium coffee, luxury fashion) thrive; mass-market mid-tier collapses.",
-   "industries": [
-    "Women's Clothing Stores in the US",
-    "US Department Stores Industry",
-    "US Discount Department Stores Industry Brief",
-    "US Luxury retail",
-    "US Jewelry Stores Industry",
-    "US Beauty, Cosmetics & Fragrance Retail Industry",
-    "US Eyeglasses & Contact Lens Stores",
-    "US Fast Food Restaurants Industry",
-    "US Chain Restaurants",
-    "US Coffee & Snack Shops Industry",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "Wine Bars",
-    "US Distilleries Industry",
-    "US Candy Production Industry",
-    "US Ice Cream Production Industry",
-    "US Hotels & Motels Industry Brief",
-    "Extended Stay Hotels Industry",
-    "US Boutique Hotels Industry",
-    "US Casino Hotels Industry",
-    "US Movie Theaters Industry",
-    "Amusement Parks in the US"
-   ],
-   "who_wins": "Ultra-luxury brands and discount/value chains (Walmart, Costco); experiential and premium-positioning brands; niche premium food/beverage.",
-   "who_loses": "Mass-market mid-tier retail and hospitality; mainstream casual dining; mid-price department stores."
-  },
-  {
-   "name": "Supply chain shortages and geopolitical volatility",
-   "kind": "Industrial",
-   "what_it_is": "Semiconductor shortages, shipping delays, geopolitical trade wars (US-China, US-EU), and climate disruptions (water scarcity, crop failures) are causing boom-bust cycles in supply. Companies are hedging via nearshoring and inventory building.",
-   "industries": [
-    "Auto Parts Manufacturing in the US",
-    "3D Printer Manufacturing",
-    "US Automobile Engine & Parts Manufacturing",
-    "US Automobile Steering & Suspension Manufacturing",
-    "US Aircraft, Engine & Parts Manufacturing",
-    "US Iron & Steel Manufacturing",
-    "US Aluminum Manufacturing",
-    "US Chemical Product Manufacturing Industry",
-    "US Cement Manufacturing",
-    "US Computer Manufacturing in the US",
-    "US Electrical Equipment Manufacturing",
-    "US Major Household Appliance Manufacturing",
-    "US Glass Product Manufacturing",
-    "Wheat, Barley & Sorghum Farming in the US",
-    "US Coffee Production Industry",
-    "US Juice Production"
-   ],
-   "who_wins": "Nearshore manufacturers and companies with vertical integration; large players with hedging and inventory capacity.",
-   "who_loses": "Small suppliers dependent on single geographies; just-in-time manufacturers without buffers."
-  },
-  {
-   "name": "Gig economy and fractional work blurring permanent employment",
-   "kind": "Societal",
-   "what_it_is": "Contractors, fractional roles, and gig platforms are normalizing across consulting, executive search, and creative services. Permanent employment is declining; benefits and stability are eroding. Workers are diversifying income sources.",
-   "industries": [
-    "US Executive Search Recruiters Industry",
-    "Business Coaching in the US",
-    "US Expert Networks Industry",
-    "US Marketing Consultants Industry Brief",
-    "US Management Consulting Industry",
-    "HR Consulting in the US"
-   ],
-   "who_wins": "Platforms connecting gig workers and fractional roles; consulting firms pivoting to advisory and interim placements; niche specialists.",
-   "who_loses": "Permanent corporate staffing models; job security in traditional roles; benefits-dependent workers."
-  },
-  {
-   "name": "Alternative ownership: PE, REIT, and institutional capital reshaping industries",
-   "kind": "Economic",
-   "what_it_is": "Private equity is rolling up fragmented service industries (dental, health, fitness, restaurants). REITs are consolidating real estate. Sovereign wealth and institutional investors are buying real assets (catalogs, infrastructure, land). This favors scale and operational discipline but squeezes margins and cuts independent ownership.",
-   "industries": [
-    "Residential Senior Care Franchises",
-    "US Mental Health & Substance Abuse Centers Industry",
-    "US Mental Health & Substance Abuse Clinics Industry",
-    "Dentists in the US",
-    "US Chain Restaurants",
-    "US Breweries Industry",
-    "Bars & Nightclubs in the US",
-    "US Hotels & Motels Industry Brief",
-    "Extended Stay Hotels Industry",
-    "US Boutique Hotels Industry",
-    "US Casino Hotels Industry",
-    "US Commercial Real Estate in 2025-2026",
-    "US Apartment Rental Market",
-    "Land Leasing in the US",
-    "US Music Publishing Industry",
-    "US Management Consulting Industry",
-    "US Engineering Services Industry Brief",
-    "US Architects Industry"
-   ],
-   "who_wins": "PE-backed platforms consolidating fragmented sectors; REITs and institutional investors; large integrated operators.",
-   "who_loses": "Independent owner-operators; single-location businesses; small multi-unit operators without scale."
-  }
- ],
- "headline": "Across 221 industries in 2025-2026, AI, tariffs, labor shortages, consolidation, and demographic aging are reshaping every sector—with scale leaders and automated players winning, small independents struggling to exit, and margins compressed nearly everywhere."
+  "headline": "Across the full 1,491-industry corpus in 2025-2026, labor scarcity, demographic aging, consumer bifurcation, AI buildout, compliance load, channel migration, and consolidation keep repricing who captures demand, who gets squeezed, and which operators can actually turn growth into durable economics.",
+  "trends": [
+    {
+      "name": "AI adoption and labor displacement",
+      "kind": "Technological",
+      "what_it_is": "AI tools are automating routine cognitive and physical work across every sector—from accounting to medical diagnostics to creative services. Winners deploy AI fast and retain workers in higher-value roles; losers face talent exodus and margin collapse.",
+      "industries": [
+        "Web Design Services",
+        "Website Creation Software Developers",
+        "Video Post-production Services",
+        "US Credit Repair Services Industry",
+        "US Claims Adjusting Industry",
+        "US Accounting Services Industry",
+        "US Business Analytics & Enterprise Software Publishing",
+        "US Database, Storage & Backup Software Publishing Industry",
+        "IT Consulting in the US",
+        "US Data Processing and Hosting Services",
+        "US Diagnostic Imaging Centers Industry",
+        "US Eye Surgery Clinics Industry",
+        "US Dermatologists Industry",
+        "US Cardiologists Industry",
+        "US Medical Device Manufacturing Industry",
+        "US Dialysis Centers Industry",
+        "US Generic Pharmaceutical Manufacturing Industry",
+        "US Mental Health & Substance Abuse Clinics Industry",
+        "US Dental Insurance",
+        "US Homeowners' Insurance Industry",
+        "US Commercial Auto Insurance",
+        "US Cyber Liability Insurance Industry",
+        "US Claims Adjusting Industry",
+        "US Insurance Brokers & Agencies",
+        "US Credit Bureaus & Rating Agencies Industry",
+        "US Law Firms Industry",
+        "US Management Consulting Industry",
+        "US Electronic & Computer Repair Services Industry",
+        "US Data Recovery Services Industry",
+        "US Engineering Services Industry Brief",
+        "US Architects Industry",
+        "HR Consulting in the US",
+        "US Environmental Consulting Industry",
+        "US Audit Services Industry",
+        "US Marketing Consultants Industry Brief",
+        "Business Coaching in the US",
+        "US Expert Networks Industry",
+        "US Business Certification & IT Schools Industry",
+        "US Advertising Agencies",
+        "US Book Publishing",
+        "US Newspaper Publishing",
+        "US Colleges & Universities",
+        "Weight Loss Services in the US",
+        "US Health & Medical Insurance Industry",
+        "US Dialysis Equipment Manufacturing"
+      ],
+      "who_wins": "Firms that invest in AI for productivity and retrain workers for higher-value work stay profitable; firms that deploy it only to cut headcount face skill collapse.",
+      "who_loses": "Routine service providers (data entry, junior consulting, basic diagnostics) and firms that can't afford AI tooling lose pricing power and talent.",
+      "slugs": [
+        "web-design-services",
+        "website-creation-software-developers",
+        "postal-service-in-the-us",
+        "credit-repair-services",
+        "claims-adjusting",
+        "accounting-services-in-the-us",
+        "business-analytics-and-enterprise-software-publishing-in-the-us",
+        "database-storage-and-backup-software-publishing-in-the-us",
+        "it-consulting-in-the-us",
+        "data-processing-and-hosting-services-in-the-us",
+        "diagnostic-imaging-centers",
+        "eye-surgery-clinics",
+        "dermatologists",
+        "cardiologists",
+        "medical-device-manufacturing-in-the-us",
+        "dialysis-centers",
+        "generic-pharmaceutical-manufacturing-in-the-us",
+        "mental-health-and-substance-abuse-clinics-in-the-us",
+        "dental-insurance",
+        "homeowners-insurance",
+        "automobile-insurance",
+        "cyber-liability-insurance",
+        "insurance-brokers-and-agencies-in-the-us",
+        "credit-bureaus-and-rating-agencies-in-the-us",
+        "law-firms-in-the-us",
+        "management-consulting-in-the-us",
+        "computer-stores-in-the-us",
+        "data-recovery-services",
+        "engineering-services-in-the-us",
+        "architects-in-the-us",
+        "hr-consulting-in-the-us",
+        "environmental-consulting-in-the-us",
+        "audit-services",
+        "marketing-consultants",
+        "business-coaching-in-the-us",
+        "expert-networks",
+        "business-certification-and-it-schools-in-the-us",
+        "advertising-agencies-in-the-us",
+        "book-stores-in-the-us",
+        "newspaper-publishing-in-the-us",
+        "colleges-and-universities-in-the-us",
+        "weight-loss-services-in-the-us",
+        "health-and-medical-insurance-in-the-us",
+        "dialysis-equipment-manufacturing"
+      ],
+      "linked_theme_slugs": [
+        "machine-intelligence-and-compute-buildout",
+        "work-without-the-old-firm",
+        "regulated-software-and-admin-state"
+      ],
+      "linked_theme_titles": [
+        "Machine Intelligence and Compute Buildout",
+        "Work Without the Old Firm",
+        "Regulated Software and the Admin State"
+      ],
+      "top_sectors": [
+        "Business Services",
+        "Healthcare",
+        "Technology & Digital",
+        "Finance & Insurance"
+      ],
+      "recurring_brief_themes": [
+        "Margin Compression",
+        "AI-assisted creation",
+        "No-code competition",
+        "E-commerce enablement",
+        "WordPress dominance with share pressure"
+      ],
+      "subthemes": [
+        "The Data-Center Land Rush Creates New Scarcity",
+        "Workflow Compression Rewrites Knowledge Work",
+        "AI Concentrates Capital and Strategic Power",
+        "The Fractional Executive Layer Expands",
+        "Skills and Credentials Replace Slow Career Ladders"
+      ],
+      "structural_tensions": [
+        "The central tension inside Machine Intelligence and Compute Buildout is that AI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack, but the route to capturing that demand runs through the practical frictions surfaced by The Data-Center Land Rush Creates New Scarcity.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Workflow Compression Rewrites Knowledge Work.",
+        "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands."
+      ],
+      "signals_to_watch": [
+        "Automation budgets, inference demand, and power-ready site competition keep rising.",
+        "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+        "Automation, scheduling discipline, retention tactics, and selective simplification accelerate."
+      ],
+      "second_order_effects": [
+        "In Colocation Facilities, this tends to show up as a second-order consequence where AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+        "In Business Analytics & Enterprise Software Publishing in the US, this tends to show up as a second-order consequence where AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors.",
+        "In Internet Hosting Services, this tends to show up as a second-order consequence where AI automation, cloud encroachment, and consolidation are reshaping a slowing market where traditional hosting providers fight margin pressure while adapting to enterprise demands for security, privacy, and sustainability."
+      ],
+      "representative_companies": [
+        {
+          "slug": "accenture",
+          "title": "Accenture",
+          "sector": "Business Services",
+          "memo": "Accenture needs to keep converting expert services platform position into scaled expert network economics while staying on the right side of talent concentration."
+        },
+        {
+          "slug": "ibm",
+          "title": "IBM",
+          "sector": "Technology & Digital",
+          "memo": "IBM needs to keep converting software and network platform position into software-led consolidator economics while staying on the right side of compute / infrastructure."
+        },
+        {
+          "slug": "abbott",
+          "title": "Abbott Laboratories",
+          "sector": "Healthcare",
+          "memo": "Abbott Laboratories needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "oracle",
+          "title": "Oracle",
+          "sector": "Technology & Digital",
+          "memo": "Oracle needs to keep converting regulated workflow infrastructure position into software-led consolidator economics while staying on the right side of labor."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for compliance / regulation and pricing power, and they more often look like software-led consolidator structures than fragmented independents.",
+        "This trend keeps squeezing subscale carrier and single-line supplier because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Tariff-driven cost shock and supply chain upheaval",
+      "kind": "Economic",
+      "what_it_is": "Tariffs (25-54% on China imports, USMCA reciprocal duties) are raising input costs across manufacturing, retail, and trade. Companies are scrambling to nearshore to Mexico, Vietnam, or India while trying to pass costs through to consumers. Margins are getting squeezed.",
+      "industries": [
+        "Auto Parts Manufacturing in the US",
+        "3D Printer Manufacturing",
+        "Orthopedic Products Manufacturing",
+        "Women's Clothing Stores in the US",
+        "US Glasses & Contact Lens Manufacturing",
+        "US Medical Device Manufacturing Industry",
+        "Medical Instrument & Supply Manufacturing in the US",
+        "US Hearing Aid Manufacturing",
+        "US Beer, Wine & Liquor Stores Industry Brief",
+        "Dollar & Variety Stores in the US",
+        "US Ethnic Supermarkets",
+        "Health Stores in the US",
+        "US Auto Parts Stores Industry",
+        "US Home Improvement Stores Industry",
+        "US Computer Stores Industry",
+        "US Consumer Electronics Stores Industry",
+        "US Furniture Stores Industry",
+        "US Jewelry Stores Industry",
+        "US Family Clothing Stores Industry",
+        "Men's Clothing Stores in the US",
+        "US Children's & Infants' Clothing Stores",
+        "US Lingerie, Swimwear & Bridal Stores Industry Brief",
+        "US Beauty, Cosmetics & Fragrance Retail Industry",
+        "US Eyeglasses & Contact Lens Stores",
+        "US Bookstores: The Great Revival",
+        "US Sporting Goods Stores Industry",
+        "US Athletic Shoe Stores Industry",
+        "US Hardware Stores Industry",
+        "Shoe Stores in the US",
+        "US Camera Stores",
+        "US Art Supply Stores Industry",
+        "US Fast Food Restaurants Industry",
+        "US Chain Restaurants",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "US Distilleries Industry",
+        "US Bread Production",
+        "US Meat, Beef & Poultry Processing",
+        "US Dairy Product Production",
+        "US Candy Production Industry",
+        "US Ice Cream Production Industry",
+        "US Coffee Production Industry",
+        "US Chocolate Production",
+        "US Cookie, Cracker & Pasta Production Industry",
+        "US Cereal Production Industry",
+        "US Juice Production",
+        "US Frozen Food Production Industry",
+        "US Car & Automobile Manufacturing",
+        "US Automobile Engine & Parts Manufacturing",
+        "US Hybrid & Electric Vehicle Manufacturing",
+        "US Automobile Steering & Suspension Manufacturing",
+        "US Automobile Transmission Manufacturing",
+        "US Aircraft, Engine & Parts Manufacturing",
+        "US Iron & Steel Manufacturing",
+        "US Chemical Product Manufacturing Industry",
+        "US Cement Manufacturing",
+        "US Electrical Equipment Manufacturing",
+        "US Major Household Appliance Manufacturing",
+        "US Glass Product Manufacturing",
+        "US Rubber Product Manufacturing",
+        "US Colocation Facilities Industry",
+        "US Commercial Building Construction",
+        "Heavy Engineering Construction in the US",
+        "US Home Builders Industry Brief",
+        "US Electricians Industry",
+        "US Roofing Contractors Industry",
+        "US Concrete Contractors Industry",
+        "US Masonry Industry",
+        "US Carpenters Industry Brief",
+        "US General Freight Trucking",
+        "US Local Freight Trucking Industry",
+        "US Long-Distance Refrigerated Trucking Industry",
+        "US Commercial Property Remodeling Industry Brief",
+        "US Heating & Air-Conditioning Contractors",
+        "US Environmental Consulting Industry",
+        "US Glasses & Contact Lens Manufacturing",
+        "US Hearing Aid Manufacturing",
+        "US Health & Medical Insurance Industry",
+        "US Airline Catering Services Industry"
+      ],
+      "who_wins": "Nearshore-reliant manufacturers (Mexico-based assembly) and value brands that lock in tariff-resistant price elasticity; companies with hedged supply chains survive.",
+      "who_loses": "Importers with thin margins (retail, food, components), companies unable to pass through costs, and small suppliers lacking negotiating power.",
+      "slugs": [
+        "auto-parts-stores-in-the-us",
+        "3d-printer-manufacturing",
+        "orthopedic-products-manufacturing",
+        "womens-clothing-stores-in-the-us",
+        "contact-lens-manufacturing",
+        "medical-device-manufacturing-in-the-us",
+        "medical-instrument-and-supply-manufacturing-in-the-us",
+        "hearing-aid-manufacturing",
+        "beer-wine-and-liquor-stores-in-the-us",
+        "dollar-and-variety-stores-in-the-us",
+        "ethnic-supermarkets",
+        "health-stores-in-the-us",
+        "home-improvement-stores-in-the-us",
+        "computer-stores-in-the-us",
+        "consumer-electronics-stores-in-the-us",
+        "furniture-stores-in-the-us",
+        "jewelry-stores-in-the-us",
+        "family-clothing-stores-in-the-us",
+        "mens-clothing-stores-in-the-us",
+        "childrens-and-infants-clothing-stores-in-the-us",
+        "lingerie-swimwear-and-bridal-stores-in-the-us",
+        "beauty-cosmetics-and-fragrance-stores-in-the-us",
+        "book-stores-in-the-us",
+        "sporting-goods-stores-in-the-us",
+        "athletic-shoe-stores",
+        "hardware-stores-in-the-us",
+        "shoe-stores-in-the-us",
+        "camera-stores-in-the-us",
+        "art-supply-stores",
+        "fast-food-restaurants-in-the-us",
+        "chain-restaurants-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "distilleries-in-the-us",
+        "bread-production-in-the-us",
+        "meat-beef-and-poultry-processing-in-the-us",
+        "dairy-product-production-in-the-us",
+        "candy-production-in-the-us",
+        "ice-cream-production-in-the-us",
+        "coffee-production-in-the-us",
+        "chocolate-production-in-the-us",
+        "cookie-cracker-and-pasta-production-in-the-us",
+        "cereal-production-in-the-us",
+        "juice-production-in-the-us",
+        "frozen-food-production-in-the-us",
+        "car-and-automobile-manufacturing-in-the-us",
+        "hybrid-and-electric-vehicle-manufacturing",
+        "automobile-steering-and-suspension-manufacturing-in-the-us",
+        "automobile-transmission-manufacturing-in-the-us",
+        "aircraft-engine-and-parts-manufacturing-in-the-us",
+        "iron-and-steel-manufacturing-in-the-us",
+        "chemical-product-manufacturing-in-the-us",
+        "cement-manufacturing-in-the-us",
+        "electrical-equipment-manufacturing-in-the-us",
+        "major-household-appliance-manufacturing-in-the-us",
+        "glass-product-manufacturing-in-the-us",
+        "rubber-product-manufacturing-in-the-us",
+        "colocation-facilities",
+        "commercial-building-construction-in-the-us",
+        "heavy-engineering-construction-in-the-us",
+        "home-builders-in-the-us",
+        "electricians-in-the-us",
+        "roofing-contractors-in-the-us",
+        "concrete-contractors-in-the-us",
+        "masonry-in-the-us",
+        "carpenters-in-the-us",
+        "general-freight-trucking-truckload",
+        "local-freight-trucking-in-the-us",
+        "long-distance-refrigerated-trucking",
+        "commercial-property-remodeling",
+        "heating-and-air-conditioning-contractors-in-the-us",
+        "environmental-consulting-in-the-us",
+        "health-and-medical-insurance-in-the-us",
+        "airline-catering-services"
+      ],
+      "linked_theme_slugs": [
+        "physical-reindustrialization-and-infrastructure",
+        "scale-financialization-and-the-owned-economy"
+      ],
+      "linked_theme_titles": [
+        "Physical Reindustrialization and Infrastructure",
+        "Scale, Financialization, and the Owned Economy"
+      ],
+      "top_sectors": [
+        "Retail",
+        "Manufacturing",
+        "Food & Drink",
+        "Construction"
+      ],
+      "recurring_brief_themes": [
+        "E-commerce cannibalization",
+        "Margin compression",
+        "e-commerce-displacement",
+        "Tariff-driven cost shock",
+        "Tariff-driven cost inflation"
+      ],
+      "subthemes": [
+        "Tariffed Inputs Flow Through the Whole Stack",
+        "Power-Centric Geography Reorders Industrial Value",
+        "Electrical and Cooling Trades Become Picks and Shovels",
+        "Roll-Ups Colonize Essential Services",
+        "Asset Owners Keep Gaining Relative Power"
+      ],
+      "structural_tensions": [
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Power-Centric Geography Reorders Industrial Value.",
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services."
+      ],
+      "signals_to_watch": [
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+        "Automation budgets, inference demand, and power-ready site competition keep rising.",
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap."
+      ],
+      "second_order_effects": [
+        "In Iron & Steel Manufacturing in the US, this tends to show up as a second-order consequence where US steel bounced from tariffs in 2025-2026 but faces structural headwinds: global oversupply, flat demand, and the permanent shift to lighter vehicles—making recovery unlikely despite short-term margin gains.",
+        "In Colocation Facilities, this tends to show up as a second-order consequence where AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+        "In Electricians in the US, this tends to show up as a second-order consequence where the US electricians industry is being pulled between a dead residential market and explosive demand from AI/EV/grid infrastructure, creating labor shortages, wage pressure, and consolidation among the 269,000 small contractors."
+      ],
+      "representative_companies": [
+        {
+          "slug": "amazon",
+          "title": "Amazon",
+          "sector": "Retail",
+          "memo": "Amazon needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "target",
+          "title": "Target",
+          "sector": "Retail",
+          "memo": "Target needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "walmart",
+          "title": "Walmart",
+          "sector": "Retail",
+          "memo": "Walmart needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "the-home-depot",
+          "title": "The Home Depot",
+          "sector": "Retail",
+          "memo": "The Home Depot needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for procurement / inputs and utilization, and they more often look like scaled industrial platform structures than fragmented independents.",
+        "This trend keeps squeezing import-reliant assembler and subscale producer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Consolidation and scale-driven shakeout",
+      "kind": "Industrial",
+      "what_it_is": "Across sectors, consolidation is accelerating. Larger, well-capitalized firms are buying or squeezing out independents and mid-market players. Small operators can't afford tech, can't absorb cost inflation, and face churn. Winners have scale; losers exit or get absorbed.",
+      "industries": [
+        "Web Design Services",
+        "Auto Parts Manufacturing in the US",
+        "Orthopedic Products Manufacturing",
+        "Residential Senior Care Franchises",
+        "Energy Drink Production",
+        "Whiskey & Bourbon Distilleries",
+        "Soybean Processing",
+        "Dentists in the US",
+        "US Generic Pharmaceutical Manufacturing Industry",
+        "US Mental Health & Substance Abuse Centers Industry",
+        "US Mental Health & Substance Abuse Clinics Industry",
+        "US Medical Device Manufacturing Industry",
+        "US Dialysis Centers Industry",
+        "US Dialysis Equipment Manufacturing",
+        "US Hearing Aid Manufacturing",
+        "US Contact Lens Manufacturing",
+        "US Glasses & Contact Lens Manufacturing",
+        "US Eye Surgery Clinics Industry",
+        "US Cardiologists Industry",
+        "US Chiropractors Industry",
+        "US Dermatologists Industry",
+        "US Department Stores Industry",
+        "US Discount Department Stores Industry Brief",
+        "US Convenience Stores in 2025-2026",
+        "US Ethnic Supermarkets",
+        "Health Stores in the US",
+        "US Auto Parts Stores Industry",
+        "US Home Improvement Stores Industry",
+        "US Consumer Electronics Stores Industry",
+        "US Furniture Stores Industry",
+        "US Jewelry Stores Industry",
+        "US Family Clothing Stores Industry",
+        "Men's Clothing Stores in the US",
+        "US Children's & Infants' Clothing Stores",
+        "US Sporting Goods Stores Industry",
+        "US Athletic Shoe Stores Industry",
+        "Shoe Stores in the US",
+        "US Camera Stores",
+        "Cable Providers in the US",
+        "US General Freight Trucking",
+        "US Less-Than-Truckload (LTL) Freight",
+        "US Local Freight Trucking Industry",
+        "Local Specialized Freight Trucking in the US",
+        "US Dump Truck Services Industry",
+        "US Long-Distance Refrigerated Trucking Industry",
+        "US Beer Wholesaling Industry",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "US Chain Restaurants",
+        "US Fast Food Restaurants Industry",
+        "US Distilleries Industry",
+        "US Bread Production",
+        "US Meat, Beef & Poultry Processing",
+        "US Dairy Product Production",
+        "US Ice Cream Production Industry",
+        "US Cookie, Cracker & Pasta Production Industry",
+        "US Cereal Production Industry",
+        "US Juice Production",
+        "US Frozen Food Production Industry",
+        "US Car & Automobile Manufacturing",
+        "US Iron & Steel Manufacturing",
+        "US Aluminum Manufacturing",
+        "US Cement Manufacturing",
+        "US Computer Manufacturing in the US",
+        "US Engine & Turbine Manufacturing",
+        "US Commercial Building Construction",
+        "Heavy Engineering Construction in the US",
+        "US Home Builders Industry Brief",
+        "US Electricians Industry",
+        "US Roofing Contractors Industry",
+        "US Concrete Contractors Industry",
+        "US Masonry Industry",
+        "US Carpenters Industry Brief",
+        "US Commercial Real Estate in 2025-2026",
+        "US Apartment Rental Market",
+        "US Hotels & Motels Industry Brief",
+        "Extended Stay Hotels Industry",
+        "US Boutique Hotels Industry",
+        "US Casino Hotels Industry",
+        "Portfolio Management in the US",
+        "US Credit Card Issuing",
+        "Commercial Banking in the US",
+        "Credit Unions in the US",
+        "US Investment Banking & Securities Dealing",
+        "US Financial Planning & Advice Industry",
+        "US Custody, Asset & Securities Services",
+        "US Advertising Agencies",
+        "US Cable Networks Industry",
+        "US Music Publishing Industry",
+        "Concert & Event Promotion in the US",
+        "US Live Performance Theaters Industry",
+        "US Book Publishing",
+        "US Business Valuation Firms",
+        "US Law Firms Industry",
+        "US Management Consulting Industry",
+        "US Engineering Services Industry Brief",
+        "US Architects Industry",
+        "US Environmental Consulting Industry",
+        "US Audit Services Industry",
+        "US Business Certification & IT Schools Industry",
+        "US Charter Schools Industry",
+        "US Colleges & Universities",
+        "Community Colleges in the US"
+      ],
+      "who_wins": "Scale leaders (top 3-4 firms per sector) consolidating via M&A and capturing pricing power; large PE platforms rolling up fragmented services.",
+      "who_loses": "Independent and mid-market operators lack capital to invest in tech and talent; many sell or exit; margin compression accelerates their decline.",
+      "slugs": [
+        "web-design-services",
+        "auto-parts-stores-in-the-us",
+        "orthopedic-products-manufacturing",
+        "residential-senior-care-franchises",
+        "energy-drink-production",
+        "distilleries-in-the-us",
+        "soybean-processing",
+        "dentists-in-the-us",
+        "generic-pharmaceutical-manufacturing-in-the-us",
+        "mental-health-and-substance-abuse-centers-in-the-us",
+        "mental-health-and-substance-abuse-clinics-in-the-us",
+        "medical-device-manufacturing-in-the-us",
+        "dialysis-centers",
+        "dialysis-equipment-manufacturing",
+        "hearing-aid-manufacturing",
+        "contact-lens-manufacturing",
+        "eye-surgery-clinics",
+        "cardiologists",
+        "chiropractors-in-the-us",
+        "dermatologists",
+        "department-stores-in-the-us",
+        "convenience-stores-in-the-us",
+        "ethnic-supermarkets",
+        "health-stores-in-the-us",
+        "home-improvement-stores-in-the-us",
+        "consumer-electronics-stores-in-the-us",
+        "furniture-stores-in-the-us",
+        "jewelry-stores-in-the-us",
+        "family-clothing-stores-in-the-us",
+        "mens-clothing-stores-in-the-us",
+        "childrens-and-infants-clothing-stores-in-the-us",
+        "sporting-goods-stores-in-the-us",
+        "athletic-shoe-stores",
+        "shoe-stores-in-the-us",
+        "camera-stores-in-the-us",
+        "cable-providers-in-the-us",
+        "general-freight-trucking-truckload",
+        "general-freight-trucking-less-than-truckload",
+        "local-freight-trucking-in-the-us",
+        "dump-truck-services",
+        "long-distance-refrigerated-trucking",
+        "beer-wholesaling-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "chain-restaurants-in-the-us",
+        "fast-food-restaurants-in-the-us",
+        "bread-production-in-the-us",
+        "meat-beef-and-poultry-processing-in-the-us",
+        "dairy-product-production-in-the-us",
+        "ice-cream-production-in-the-us",
+        "cookie-cracker-and-pasta-production-in-the-us",
+        "cereal-production-in-the-us",
+        "juice-production-in-the-us",
+        "frozen-food-production-in-the-us",
+        "car-and-automobile-manufacturing-in-the-us",
+        "iron-and-steel-manufacturing-in-the-us",
+        "aluminum-manufacturing-in-the-us",
+        "cement-manufacturing-in-the-us",
+        "computer-stores-in-the-us",
+        "engine-and-turbine-manufacturing-in-the-us",
+        "commercial-building-construction-in-the-us",
+        "heavy-engineering-construction-in-the-us",
+        "home-builders-in-the-us",
+        "electricians-in-the-us",
+        "roofing-contractors-in-the-us",
+        "concrete-contractors-in-the-us",
+        "masonry-in-the-us",
+        "carpenters-in-the-us",
+        "commercial-real-estate-in-the-us",
+        "apartment-rental-in-the-us",
+        "hotels-and-motels-in-the-us",
+        "extended-stay-hotels",
+        "boutique-hotels",
+        "casino-hotels-in-the-us",
+        "portfolio-management-in-the-us",
+        "credit-card-issuing-in-the-us",
+        "commercial-banking-in-the-us",
+        "credit-unions-in-the-us",
+        "investment-banking-and-securities-dealing-in-the-us",
+        "financial-planning-and-advice-in-the-us",
+        "custody-asset-and-securities-services-in-the-us",
+        "advertising-agencies-in-the-us",
+        "cable-networks-in-the-us",
+        "music-publishing-in-the-us",
+        "concert-and-event-promotion-in-the-us",
+        "live-performance-theaters",
+        "book-stores-in-the-us",
+        "business-valuation-firms",
+        "law-firms-in-the-us",
+        "management-consulting-in-the-us",
+        "engineering-services-in-the-us",
+        "architects-in-the-us",
+        "environmental-consulting-in-the-us",
+        "audit-services",
+        "business-certification-and-it-schools-in-the-us",
+        "charter-schools",
+        "colleges-and-universities-in-the-us",
+        "community-colleges-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "scale-financialization-and-the-owned-economy",
+        "barbelled-consumer-america",
+        "regulated-software-and-admin-state"
+      ],
+      "linked_theme_titles": [
+        "Scale, Financialization, and the Owned Economy",
+        "Barbelled Consumer America",
+        "Regulated Software and the Admin State"
+      ],
+      "top_sectors": [
+        "Retail",
+        "Healthcare",
+        "Manufacturing",
+        "Business Services"
+      ],
+      "recurring_brief_themes": [
+        "Margin compression",
+        "E-commerce cannibalization",
+        "Aging population",
+        "Tariff-driven margin compression",
+        "e-commerce-displacement"
+      ],
+      "subthemes": [
+        "Roll-Ups Colonize Essential Services",
+        "Asset Owners Keep Gaining Relative Power",
+        "Regional Intermediaries Get Squeezed",
+        "Value Machines Win the Weekly Basket",
+        "Premium Refuges Still Hold Price"
+      ],
+      "structural_tensions": [
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+        "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket."
+      ],
+      "signals_to_watch": [
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+        "Mix shifts toward either obvious value packs or visibly better premium tiers."
+      ],
+      "second_order_effects": [
+        "In Dentists in the US, this tends to show up as a second-order consequence where the US dental market, worth $196 billion in 2026, is consolidating rapidly as reimbursement stagnation and workforce shortages push independent practitioners into DSO networks while technology and aging populations provide modest growth.",
+        "In Land Leasing in the US, this tends to show up as a second-order consequence where a steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck.",
+        "In Commercial Banking in the US, this tends to show up as a second-order consequence where commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees."
+      ],
+      "representative_companies": [
+        {
+          "slug": "amazon",
+          "title": "Amazon",
+          "sector": "Retail",
+          "memo": "Amazon needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "target",
+          "title": "Target",
+          "sector": "Retail",
+          "memo": "Target needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "general-mills",
+          "title": "General Mills",
+          "sector": "Food & Drink",
+          "memo": "General Mills needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "bechtel",
+          "title": "Bechtel",
+          "sector": "Construction",
+          "memo": "Bechtel needs to keep converting industrial project operator position into scaled project platform economics while staying on the right side of labor."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for channel access and pricing power, and they more often look like scaled platform operator structures than fragmented independents.",
+        "This trend keeps squeezing single-channel merchant and mid-market retailer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Reimbursement pressure and pricing power collapse",
+      "kind": "Economic",
+      "what_it_is": "Across healthcare, Medicare cuts are eroding margins; insurance companies and hospital systems are squeezing suppliers and service providers. Wage inflation outpaces reimbursement growth, forcing closures and consolidation.",
+      "industries": [
+        "Weight Loss Services in the US",
+        "Orthopedic Products Manufacturing",
+        "Dentists in the US",
+        "US Generic Pharmaceutical Manufacturing Industry",
+        "US Mental Health & Substance Abuse Clinics Industry",
+        "US Dialysis Centers Industry",
+        "US Dialysis Equipment Manufacturing",
+        "US Diagnostic Imaging Centers Industry",
+        "US Eye Surgery Clinics Industry",
+        "US Acupuncturists Industry",
+        "US Allergists Industry",
+        "US Cardiologists Industry",
+        "US Chiropractors Industry",
+        "US Dermatologists Industry",
+        "US Gynecologists & Obstetricians",
+        "US Dental Insurance",
+        "Hospitals in the US",
+        "US Ambulatory Surgery Centers",
+        "US Home Care Providers Industry",
+        "US HMO Providers Industry",
+        "US Health & Medical Insurance Industry",
+        "US Homeowners' Insurance Industry"
+      ],
+      "who_wins": "Large integrated healthcare systems and insurers with scale and data; companies bundling services and shifting to value-based care.",
+      "who_loses": "Solo practitioners, small medical practices, and independent clinics; specialists without volume; any provider reliant on a single payer.",
+      "slugs": [
+        "weight-loss-services-in-the-us",
+        "orthopedic-products-manufacturing",
+        "dentists-in-the-us",
+        "generic-pharmaceutical-manufacturing-in-the-us",
+        "mental-health-and-substance-abuse-clinics-in-the-us",
+        "dialysis-centers",
+        "dialysis-equipment-manufacturing",
+        "diagnostic-imaging-centers",
+        "eye-surgery-clinics",
+        "acupuncturists",
+        "allergists",
+        "cardiologists",
+        "chiropractors-in-the-us",
+        "dermatologists",
+        "gynecologists-and-obstetricians",
+        "dental-insurance",
+        "hospitals-in-the-us",
+        "ambulatory-surgery-centers",
+        "home-care-providers-in-the-us",
+        "hmo-providers",
+        "health-and-medical-insurance-in-the-us",
+        "homeowners-insurance"
+      ],
+      "linked_theme_slugs": [
+        "aging-care-and-the-assistance-economy",
+        "regulated-software-and-admin-state"
+      ],
+      "linked_theme_titles": [
+        "Aging, Care, and the Assistance Economy",
+        "Regulated Software and the Admin State"
+      ],
+      "top_sectors": [
+        "Healthcare",
+        "Consumer Services",
+        "Manufacturing",
+        "Finance & Insurance"
+      ],
+      "recurring_brief_themes": [
+        "Margin Compression",
+        "Reimbursement Pressure",
+        "GLP-1 disruption",
+        "Clinical weight management",
+        "Digital subscriptions"
+      ],
+      "subthemes": [
+        "Home-First Aging Reorders the Care Stack",
+        "Senior Housing Demand Meets Staffing and Capacity Friction",
+        "Chronic Care Becomes an Industrial Service Chain",
+        "Compliance Itself Becomes a Demand Engine",
+        "Identity, Fraud, and Trust Infrastructure Thickens"
+      ],
+      "structural_tensions": [
+        "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction.",
+        "The central tension inside Regulated Software and the Admin State is that a larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip, but the route to capturing that demand runs through the practical frictions surfaced by Compliance Itself Becomes a Demand Engine."
+      ],
+      "signals_to_watch": [
+        "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+        "Margin performance diverges more from volume growth in payer-shaped sectors.",
+        "Workflow software, certification, and managed compliance budgets keep deepening."
+      ],
+      "second_order_effects": [
+        "In Home Care Providers in the US, this tends to show up as a second-order consequence where the US home care industry is growing due to an aging population preferring care at home, but faces existential margin compression from stacked payment cuts, severe workforce shortages at 75% annual turnover, and regulatory complexity that is driving consolidation into larger platforms.",
+        "In Residential Senior Care Franchises, this tends to show up as a second-order consequence where residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements.",
+        "In Dialysis Centers, this tends to show up as a second-order consequence where the US dialysis centers industry treated roughly 516,837 patients on dialysis in 2025, generated $36 billion in revenue with a 3.5% annual growth rate, and faced mounting wage pressures and regulatory reimbursement limits despite demographic tailwinds from an aging, diabetic population."
+      ],
+      "representative_companies": [
+        {
+          "slug": "humana",
+          "title": "Humana",
+          "sector": "Healthcare",
+          "memo": "Humana needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "abbott",
+          "title": "Abbott Laboratories",
+          "sector": "Healthcare",
+          "memo": "Abbott Laboratories needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "kaiser-permanente",
+          "title": "Kaiser Permanente",
+          "sector": "Healthcare",
+          "memo": "Kaiser Permanente needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "cleveland-clinic",
+          "title": "Cleveland Clinic",
+          "sector": "Healthcare",
+          "memo": "Cleveland Clinic needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for pricing power and channel access, and they more often look like scaled healthcare intermediary structures than fragmented independents.",
+        "This trend keeps squeezing single-line supplier and independent distributor because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Labor shortage and wage spiral",
+      "kind": "Industrial",
+      "what_it_is": "Across construction, healthcare, transportation, and hospitality, critical worker shortages are driving wages up 5-25% annually. Automation is a partial fix but raises capex barriers. Smaller operators can't compete on wages and exit.",
+      "industries": [
+        "Water & Sewer Line Construction in the US",
+        "US Electricians Industry",
+        "US Heating & Air-Conditioning Contractors",
+        "US Roofing Contractors Industry",
+        "US Concrete Contractors Industry",
+        "US Masonry Industry",
+        "US Carpenters Industry Brief",
+        "US Dialysis Centers Industry",
+        "US General Freight Trucking",
+        "US Less-Than-Truckload (LTL) Freight",
+        "US Local Freight Trucking Industry",
+        "US Long-Distance Refrigerated Trucking Industry",
+        "US Dump Truck Services Industry",
+        "US Domestic Airlines Industry",
+        "US International Airlines Industry",
+        "US Airport Operations Industry",
+        "Heavy Engineering Construction in the US",
+        "US Home Builders Industry Brief",
+        "Hospitals in the US",
+        "US Mental Health & Substance Abuse Clinics Industry",
+        "US Fertility Clinics Industry",
+        "US Gynecologists & Obstetricians",
+        "US Ambulatory Surgery Centers",
+        "US Home Care Providers Industry",
+        "US Chain Restaurants",
+        "US Fast Food Restaurants Industry",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "US Airline Catering Services Industry",
+        "US Dairy Product Production",
+        "US Meat, Beef & Poultry Processing",
+        "US Hotels & Motels Industry Brief",
+        "Extended Stay Hotels Industry",
+        "US Boutique Hotels Industry",
+        "US Casino Hotels Industry",
+        "US Commercial Property Remodeling Industry",
+        "US Engineering Services Industry Brief",
+        "US Environmental Consulting Industry",
+        "US Accountants Industry Brief",
+        "Amusement Parks in the US",
+        "US Business Certification & IT Schools Industry"
+      ],
+      "who_wins": "High-wage operators and automation-ready firms that offer upskilling paths; companies bundling benefits and culture.",
+      "who_loses": "Low-wage hospitality, construction, and retail; small independent operators can't match wages; rural regions lose talent to urban centers.",
+      "slugs": [
+        "construction-in-the-us",
+        "electricians-in-the-us",
+        "heating-and-air-conditioning-contractors-in-the-us",
+        "roofing-contractors-in-the-us",
+        "concrete-contractors-in-the-us",
+        "masonry-in-the-us",
+        "carpenters-in-the-us",
+        "dialysis-centers",
+        "general-freight-trucking-truckload",
+        "general-freight-trucking-less-than-truckload",
+        "local-freight-trucking-in-the-us",
+        "long-distance-refrigerated-trucking",
+        "dump-truck-services",
+        "domestic-airlines-in-the-us",
+        "international-airlines-in-the-us",
+        "airport-operations-in-the-us",
+        "heavy-engineering-construction-in-the-us",
+        "home-builders-in-the-us",
+        "hospitals-in-the-us",
+        "mental-health-and-substance-abuse-clinics-in-the-us",
+        "fertility-clinics",
+        "gynecologists-and-obstetricians",
+        "ambulatory-surgery-centers",
+        "home-care-providers-in-the-us",
+        "chain-restaurants-in-the-us",
+        "fast-food-restaurants-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "airline-catering-services",
+        "dairy-product-production-in-the-us",
+        "meat-beef-and-poultry-processing-in-the-us",
+        "hotels-and-motels-in-the-us",
+        "extended-stay-hotels",
+        "boutique-hotels",
+        "casino-hotels-in-the-us",
+        "commercial-property-remodeling",
+        "engineering-services-in-the-us",
+        "environmental-consulting-in-the-us",
+        "amusement-parks-in-the-us",
+        "business-certification-and-it-schools-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "work-without-the-old-firm",
+        "aging-care-and-the-assistance-economy",
+        "physical-reindustrialization-and-infrastructure"
+      ],
+      "linked_theme_titles": [
+        "Work Without the Old Firm",
+        "Aging, Care, and the Assistance Economy",
+        "Physical Reindustrialization and Infrastructure"
+      ],
+      "top_sectors": [
+        "Construction",
+        "Transport & Logistics",
+        "Healthcare",
+        "Food & Drink"
+      ],
+      "recurring_brief_themes": [
+        "Tariff-driven cost inflation",
+        "Margin compression",
+        "Reimbursement Pressure",
+        "AI-infrastructure boom",
+        "labor-shortage persistence"
+      ],
+      "subthemes": [
+        "The Fractional Executive Layer Expands",
+        "Skills and Credentials Replace Slow Career Ladders",
+        "The Junior Rung Gets Compressed",
+        "Home-First Aging Reorders the Care Stack",
+        "Senior Housing Demand Meets Staffing and Capacity Friction"
+      ],
+      "structural_tensions": [
+        "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders.",
+        "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack."
+      ],
+      "signals_to_watch": [
+        "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+        "Automation, scheduling discipline, retention tactics, and selective simplification accelerate.",
+        "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience."
+      ],
+      "second_order_effects": [
+        "In Business Coaching in the US, this tends to show up as a second-order consequence where business coaching in 2025-2026 is shifting from a discretionary C-suite perk to a scaled, AI-augmented professional development tool for mid-market and small-business leaders, underpinned by measured ROI claims and driven by a fragmented but rapidly professionalizing workforce of 165,000+ coaches.",
+        "In Business Certification & IT Schools in the US, this tends to show up as a second-order consequence where the US business certification and IT schools industry is bifurcating: high-margin enterprise and compliance-linked credentials (cloud, cybersecurity) are growing at 12-16% annually, while commodity bootcamps and general IT courses face bankruptcies and commoditization as AI and free learning platforms make basic skills training structurally uncompetitive.",
+        "In Accounting Services in the US, this tends to show up as a second-order consequence where the US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position."
+      ],
+      "representative_companies": [
+        {
+          "slug": "marriott-international",
+          "title": "Marriott International",
+          "sector": "Consumer Services",
+          "memo": "Marriott International needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "schneider-national",
+          "title": "Schneider National",
+          "sector": "Transport & Logistics",
+          "memo": "Schneider National needs to keep converting transport and logistics network position into scaled network operator economics while staying on the right side of labor."
+        },
+        {
+          "slug": "hilton-worldwide",
+          "title": "Hilton Worldwide",
+          "sector": "Consumer Services",
+          "memo": "Hilton Worldwide needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "turner-construction",
+          "title": "Turner Construction",
+          "sector": "Construction",
+          "memo": "Turner Construction needs to keep converting industrial project operator position into scaled project platform economics while staying on the right side of labor."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for labor and capital / rates, and they more often look like scaled project platform structures than fragmented independents.",
+        "This trend keeps squeezing small contractor and under-capitalized bidder because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make The Home Depot lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Energy demand surge from AI and data centers",
+      "kind": "Technological",
+      "what_it_is": "Data center buildout for AI is creating a structural surge in electricity demand, grid bottlenecks, and opportunities for power-adjacent industries. Companies with energy access thrive; those without face cost and availability headwinds.",
+      "industries": [
+        "US Coal & Natural Gas Power Generation",
+        "US Electric Power Transmission Industry",
+        "US Gas Pipeline Transportation Industry",
+        "US Hydroelectric Power Industry",
+        "US Solar Power Industry",
+        "US Wind Power Industry",
+        "US Natural Gas Distribution Industry",
+        "US Colocation Facilities Industry",
+        "US Data Processing and Hosting Services",
+        "US Internet Service Providers",
+        "US Electricians Industry",
+        "US Heating & Air-Conditioning Contractors",
+        "US Engine & Turbine Manufacturing",
+        "US Cement Manufacturing"
+      ],
+      "who_wins": "Utilities, transmission operators, and power generators with scale and grid access; colocation and data-center operators in power-rich regions.",
+      "who_loses": "Energy-intensive manufacturing in power-scarce regions; small ISPs unable to attract server tenants; regions with grid constraints.",
+      "slugs": [
+        "coal-and-natural-gas-power-in-the-us",
+        "electric-power-transmission-in-the-us",
+        "gas-pipeline-transportation-in-the-us",
+        "hydroelectric-power-in-the-us",
+        "solar-power-in-the-us",
+        "wind-power-in-the-us",
+        "natural-gas-distribution-in-the-us",
+        "colocation-facilities",
+        "data-processing-and-hosting-services-in-the-us",
+        "internet-service-providers-in-the-us",
+        "electricians-in-the-us",
+        "heating-and-air-conditioning-contractors-in-the-us",
+        "engine-and-turbine-manufacturing-in-the-us",
+        "cement-manufacturing-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "machine-intelligence-and-compute-buildout",
+        "physical-reindustrialization-and-infrastructure"
+      ],
+      "linked_theme_titles": [
+        "Machine Intelligence and Compute Buildout",
+        "Physical Reindustrialization and Infrastructure"
+      ],
+      "top_sectors": [
+        "Energy & Environment",
+        "Technology & Digital",
+        "Manufacturing",
+        "Transport & Logistics"
+      ],
+      "recurring_brief_themes": [
+        "AI-driven energy demand boom",
+        "Fuel cost volatility and pass-through",
+        "Coal-to-gas migration via retirements and conversions",
+        "Renewable energy acceleration",
+        "Tariff and regulatory uncertainty"
+      ],
+      "subthemes": [
+        "The Data-Center Land Rush Creates New Scarcity",
+        "Workflow Compression Rewrites Knowledge Work",
+        "AI Concentrates Capital and Strategic Power",
+        "Tariffed Inputs Flow Through the Whole Stack",
+        "Power-Centric Geography Reorders Industrial Value"
+      ],
+      "structural_tensions": [
+        "The central tension inside Machine Intelligence and Compute Buildout is that AI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack, but the route to capturing that demand runs through the practical frictions surfaced by The Data-Center Land Rush Creates New Scarcity.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Workflow Compression Rewrites Knowledge Work.",
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack."
+      ],
+      "signals_to_watch": [
+        "Automation budgets, inference demand, and power-ready site competition keep rising.",
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation."
+      ],
+      "second_order_effects": [
+        "In Colocation Facilities, this tends to show up as a second-order consequence where AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+        "In Business Analytics & Enterprise Software Publishing in the US, this tends to show up as a second-order consequence where AI agents are destroying the software industry's traditional value propositions while forcing massive consolidation and pricing model shifts, making 2026 a year of existential reckoning for mid-market vendors.",
+        "In Internet Hosting Services, this tends to show up as a second-order consequence where AI automation, cloud encroachment, and consolidation are reshaping a slowing market where traditional hosting providers fight margin pressure while adapting to enterprise demands for security, privacy, and sustainability."
+      ],
+      "representative_companies": [
+        {
+          "slug": "nextera-energy",
+          "title": "NextEra Energy",
+          "sector": "Energy & Environment",
+          "memo": "NextEra Energy needs to keep converting energy and environmental infrastructure position into scaled infrastructure operator economics while staying on the right side of regulation."
+        },
+        {
+          "slug": "duke-energy",
+          "title": "Duke Energy",
+          "sector": "Energy & Environment",
+          "memo": "Duke Energy needs to keep converting energy and environmental infrastructure position into scaled infrastructure operator economics while staying on the right side of regulation."
+        },
+        {
+          "slug": "dominion-energy",
+          "title": "Dominion Energy",
+          "sector": "Energy & Environment",
+          "memo": "Dominion Energy needs to keep converting energy and environmental infrastructure position into scaled infrastructure operator economics while staying on the right side of regulation."
+        },
+        {
+          "slug": "equinix",
+          "title": "Equinix",
+          "sector": "Technology & Digital",
+          "memo": "Equinix needs to keep converting software and network platform position into software-led consolidator economics while staying on the right side of compute / infrastructure."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for compliance / regulation and compute / infrastructure, and they more often look like software-led consolidator structures than fragmented independents.",
+        "This trend keeps squeezing point-solution vendor and subscale network because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make AT&T lose its current edge in software and network platform markets?",
+        "Is compute / infrastructure a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Real estate bifurcation and office crisis",
+      "kind": "Industrial",
+      "what_it_is": "Office real estate is in structural decline as hybrid work sticks. Data centers and logistics booming; multifamily under pressure from oversupply and affordability crisis. Residential and retail parcels shifting to conversion and adaptive reuse.",
+      "industries": [
+        "US Commercial Real Estate in 2025-2026",
+        "US Apartment Rental Market",
+        "US Hotels & Motels Industry Brief",
+        "Land Leasing in the US",
+        "Extended Stay Hotels Industry",
+        "US Boutique Hotels Industry",
+        "US Commercial Building Construction",
+        "US Home Builders Industry Brief",
+        "US Commercial Property Remodeling Industry",
+        "US Department Stores Industry",
+        "US Architects Industry"
+      ],
+      "who_wins": "Developers investing in logistics, multifamily, and adaptive reuse; owners of prime office parcels in major metros converting to residential.",
+      "who_loses": "Legacy office landlords and tenants; retail real estate; suburban office parks; small commercial landlords.",
+      "slugs": [
+        "commercial-real-estate-in-the-us",
+        "apartment-rental-in-the-us",
+        "hotels-and-motels-in-the-us",
+        "land-leasing-in-the-us",
+        "extended-stay-hotels",
+        "boutique-hotels",
+        "commercial-building-construction-in-the-us",
+        "home-builders-in-the-us",
+        "commercial-property-remodeling",
+        "department-stores-in-the-us",
+        "architects-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "space-housing-and-local-friction",
+        "physical-reindustrialization-and-infrastructure"
+      ],
+      "linked_theme_titles": [
+        "Space, Housing, and Local Friction",
+        "Physical Reindustrialization and Infrastructure"
+      ],
+      "top_sectors": [
+        "Real Estate",
+        "Retail",
+        "Construction",
+        "Consumer Services"
+      ],
+      "recurring_brief_themes": [
+        "Office structural crisis and repurposing",
+        "Multifamily strength amid housing shortage",
+        "E-commerce and industrial logistics boom",
+        "Refinancing cliff and lender forbearance",
+        "AI-driven underwriting and automation"
+      ],
+      "subthemes": [
+        "Office Obsolescence Is a Structural Shift",
+        "Adaptive Reuse Becomes a New Development Discipline",
+        "Housing Lock-In Distorts Mobility and Spend",
+        "Tariffed Inputs Flow Through the Whole Stack",
+        "Power-Centric Geography Reorders Industrial Value"
+      ],
+      "structural_tensions": [
+        "The central tension inside Space, Housing, and Local Friction is that where Americans live, commute, and locate activity is being reorganized by housing lock-in, office impairment, land scarcity near infrastructure, and the uneven value of local place, but the route to capturing that demand runs through the practical frictions surfaced by Office Obsolescence Is a Structural Shift.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Adaptive Reuse Becomes a New Development Discipline.",
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack."
+      ],
+      "signals_to_watch": [
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+        "Automation budgets, inference demand, and power-ready site competition keep rising."
+      ],
+      "second_order_effects": [
+        "In Commercial Real Estate in the US, this tends to show up as a second-order consequence where the US commercial real estate sector is experiencing a marked but uneven recovery in 2025-2026, driven by industrial and multifamily strength while office properties face ongoing distress and adaptation pressures.",
+        "In Commercial Building Construction in the US, this tends to show up as a second-order consequence where the commercial building construction industry is split: AI-driven data centers are booming with 190% growth in 2025 starts while traditional office construction is at a 10-year low, caught between labor shortages, tariff-driven cost inflation, and elevated interest rates that crimp demand.",
+        "In Home Builders in the US, this tends to show up as a second-order consequence where the US home builders industry is trapped in a flat, high-friction equilibrium at $166-170 billion (2026) where tariff shocks, elevated rates, labor shortages, and margin compression are forcing consolidation and commoditization among smaller players while the top tier (D.R. Horton, Lennar, PulteGroup) capture scale and cash flow."
+      ],
+      "representative_companies": [
+        {
+          "slug": "marriott-international",
+          "title": "Marriott International",
+          "sector": "Consumer Services",
+          "memo": "Marriott International needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "hilton-worldwide",
+          "title": "Hilton Worldwide",
+          "sector": "Consumer Services",
+          "memo": "Hilton Worldwide needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "turner-construction",
+          "title": "Turner Construction",
+          "sector": "Construction",
+          "memo": "Turner Construction needs to keep converting industrial project operator position into scaled project platform economics while staying on the right side of labor."
+        },
+        {
+          "slug": "airbnb",
+          "title": "Airbnb",
+          "sector": "Consumer Services",
+          "memo": "Airbnb needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for labor and capital / rates, and they more often look like scaled project platform structures than fragmented independents.",
+        "This trend keeps squeezing small contractor and under-capitalized bidder because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Turner Construction lose its current edge in industrial project operator markets?",
+        "Is labor a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Channel shift: e-commerce and direct-to-consumer displacement of physical retail",
+      "kind": "Technological",
+      "what_it_is": "E-commerce and direct-to-consumer brands are pulling sales from physical retail, especially mid-market brick-and-mortar. Standalone stores are closing; survivors integrate omnichannel or go niche and experiential.",
+      "industries": [
+        "Women's Clothing Stores in the US",
+        "Hiking & Outdoor Equipment Stores",
+        "US Department Stores Industry",
+        "US Discount Department Stores Industry Brief",
+        "US E-Commerce & Online Auctions Industry Brief",
+        "US Convenience Stores in 2025-2026",
+        "US Beer, Wine & Liquor Stores Industry Brief",
+        "Dollar & Variety Stores in the US",
+        "US Ethnic Supermarkets",
+        "Health Stores in the US",
+        "US Auto Parts Stores Industry",
+        "US Home Improvement Stores Industry",
+        "US Computer Stores Industry",
+        "US Consumer Electronics Stores Industry",
+        "US Furniture Stores Industry",
+        "US Jewelry Stores Industry",
+        "US Family Clothing Stores Industry",
+        "Men's Clothing Stores in the US",
+        "US Children's & Infants' Clothing Stores",
+        "US Lingerie, Swimwear & Bridal Stores Industry Brief",
+        "US Beauty, Cosmetics & Fragrance Retail Industry",
+        "US Eyeglasses & Contact Lens Stores",
+        "US Bookstores: The Great Revival",
+        "US Sporting Goods Stores Industry",
+        "US Athletic Shoe Stores Industry",
+        "US Hardware Stores Industry",
+        "Shoe Stores in the US",
+        "US Camera Stores",
+        "US Art Supply Stores Industry"
+      ],
+      "who_wins": "Omnichannel retailers with integrated inventory and logistics; niche experiential stores (bookstores, outdoor gear); direct-to-consumer brands.",
+      "who_loses": "Standalone mid-market retailers without digital presence; full-price mall-based stores; category specialists without vertical integration.",
+      "slugs": [
+        "womens-clothing-stores-in-the-us",
+        "hiking-and-outdoor-equipment-stores",
+        "department-stores-in-the-us",
+        "e-commerce-and-online-auctions-in-the-us",
+        "convenience-stores-in-the-us",
+        "beer-wine-and-liquor-stores-in-the-us",
+        "dollar-and-variety-stores-in-the-us",
+        "ethnic-supermarkets",
+        "health-stores-in-the-us",
+        "auto-parts-stores-in-the-us",
+        "home-improvement-stores-in-the-us",
+        "computer-stores-in-the-us",
+        "consumer-electronics-stores-in-the-us",
+        "furniture-stores-in-the-us",
+        "jewelry-stores-in-the-us",
+        "family-clothing-stores-in-the-us",
+        "mens-clothing-stores-in-the-us",
+        "childrens-and-infants-clothing-stores-in-the-us",
+        "lingerie-swimwear-and-bridal-stores-in-the-us",
+        "beauty-cosmetics-and-fragrance-stores-in-the-us",
+        "contact-lens-manufacturing",
+        "book-stores-in-the-us",
+        "sporting-goods-stores-in-the-us",
+        "athletic-shoe-stores",
+        "hardware-stores-in-the-us",
+        "shoe-stores-in-the-us",
+        "camera-stores-in-the-us",
+        "art-supply-stores"
+      ],
+      "linked_theme_slugs": [
+        "barbelled-consumer-america",
+        "experience-status-and-community",
+        "scale-financialization-and-the-owned-economy"
+      ],
+      "linked_theme_titles": [
+        "Barbelled Consumer America",
+        "Experience, Status, and Community",
+        "Scale, Financialization, and the Owned Economy"
+      ],
+      "top_sectors": [
+        "Retail",
+        "Healthcare"
+      ],
+      "recurring_brief_themes": [
+        "E-commerce cannibalization",
+        "Tariff-driven margin compression",
+        "e-commerce-displacement",
+        "Omnichannel retail replaces pure store traffic",
+        "Premium and niche brands outperform undifferentiated mall chains"
+      ],
+      "subthemes": [
+        "Value Machines Win the Weekly Basket",
+        "Premium Refuges Still Hold Price",
+        "Mid-Market Erosion Becomes Structural",
+        "Memory Beats Merchandise",
+        "Venue Scarcity Creates Durable Pricing Power"
+      ],
+      "structural_tensions": [
+        "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+        "The central tension inside Experience, Status, and Community is that more consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods, but the route to capturing that demand runs through the practical frictions surfaced by Memory Beats Merchandise."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+      ],
+      "second_order_effects": [
+        "In Discount Department Stores, this tends to show up as a second-order consequence where the $107.2 billion US discount department stores industry is stabilizing after years of decline, driven by inflation-fueled consumer trade-down behavior and off-price players aggressively expanding, though tariffs and wage pressures are squeezing margins.",
+        "In Jewelry Stores in the US, this tends to show up as a second-order consequence where the US brick-and-mortar jewelry stores industry contracted sharply in 2025-2026 (12.1% and 2.2% respectively) as tariffs, high gold prices, and e-commerce competition accelerated store closures, even as lab-grown diamonds and wealthy consumers sustained pockets of resilience.",
+        "In Department Stores in the US, this tends to show up as a second-order consequence where the US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce."
+      ],
+      "representative_companies": [
+        {
+          "slug": "amazon",
+          "title": "Amazon",
+          "sector": "Retail",
+          "memo": "Amazon needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "target",
+          "title": "Target",
+          "sector": "Retail",
+          "memo": "Target needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "walmart",
+          "title": "Walmart",
+          "sector": "Retail",
+          "memo": "Walmart needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "nike",
+          "title": "Nike",
+          "sector": "Retail",
+          "memo": "Nike needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for pricing power and channel access, and they more often look like scaled platform operator structures than fragmented independents.",
+        "This trend keeps squeezing single-channel merchant and mid-market retailer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Demographic dividend: aging population driving demand in healthcare and senior living",
+      "kind": "Societal",
+      "what_it_is": "Baby boomers are entering peak care years (65+). This is boosting demand for orthopedic procedures, hearing aids, senior housing, long-term care, and age-related treatments. Margins are under pressure but volume is strong.",
+      "industries": [
+        "Weight Loss Services in the US",
+        "Orthopedic Products Manufacturing",
+        "Residential Senior Care Franchises",
+        "US Hearing Aid Manufacturing",
+        "US Contact Lens Manufacturing",
+        "US Glasses & Contact Lens Manufacturing",
+        "US Acupuncturists Industry",
+        "US Allergists Industry",
+        "US Cardiologists Industry",
+        "US Dermatologists Industry",
+        "US Fertility Clinics Industry",
+        "US Eye Surgery Clinics Industry",
+        "US Dialysis Centers Industry",
+        "US Dialysis Equipment Manufacturing",
+        "Hiking & Outdoor Equipment Stores",
+        "Amusement Parks in the US",
+        "Land Leasing in the US",
+        "US Long-Term Care Insurance Industry",
+        "Life Insurance & Annuities in the US",
+        "US Home Care Providers Industry"
+      ],
+      "who_wins": "Large integrated senior-care platforms; companies bundling multiple touch points (clinics, pharmacies, home care); organized care networks.",
+      "who_loses": "Small independent practitioners and providers; companies serving younger demographics.",
+      "slugs": [
+        "weight-loss-services-in-the-us",
+        "orthopedic-products-manufacturing",
+        "residential-senior-care-franchises",
+        "hearing-aid-manufacturing",
+        "contact-lens-manufacturing",
+        "acupuncturists",
+        "allergists",
+        "cardiologists",
+        "dermatologists",
+        "fertility-clinics",
+        "eye-surgery-clinics",
+        "dialysis-centers",
+        "dialysis-equipment-manufacturing",
+        "hiking-and-outdoor-equipment-stores",
+        "amusement-parks-in-the-us",
+        "land-leasing-in-the-us",
+        "long-term-care-insurance",
+        "life-insurance-and-annuities-in-the-us",
+        "home-care-providers-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "aging-care-and-the-assistance-economy"
+      ],
+      "linked_theme_titles": [
+        "Aging, Care, and the Assistance Economy"
+      ],
+      "top_sectors": [
+        "Healthcare",
+        "Consumer Services",
+        "Finance & Insurance",
+        "Manufacturing"
+      ],
+      "recurring_brief_themes": [
+        "Aging population",
+        "GLP-1 disruption",
+        "Clinical weight management",
+        "Digital subscriptions",
+        "Telehealth access"
+      ],
+      "subthemes": [
+        "Home-First Aging Reorders the Care Stack",
+        "Senior Housing Demand Meets Staffing and Capacity Friction",
+        "Chronic Care Becomes an Industrial Service Chain"
+      ],
+      "structural_tensions": [
+        "The central tension inside Aging, Care, and the Assistance Economy is that an older America is creating durable demand across care, insurance, home services, devices, and finance, but labor shortages and payer control determine who actually captures that demand, but the route to capturing that demand runs through the practical frictions surfaced by Home-First Aging Reorders the Care Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Senior Housing Demand Meets Staffing and Capacity Friction."
+      ],
+      "signals_to_watch": [
+        "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience.",
+        "Margin performance diverges more from volume growth in payer-shaped sectors."
+      ],
+      "second_order_effects": [
+        "In Home Care Providers in the US, this tends to show up as a second-order consequence where the US home care industry is growing due to an aging population preferring care at home, but faces existential margin compression from stacked payment cuts, severe workforce shortages at 75% annual turnover, and regulatory complexity that is driving consolidation into larger platforms.",
+        "In Residential Senior Care Franchises, this tends to show up as a second-order consequence where residential senior care franchises operate small assisted-living homes, memory-care homes and continuing-care settings that generate revenue from private-pay resident fees, entrance fees and limited Medicare or Medicaid reimbursements.",
+        "In Dialysis Centers, this tends to show up as a second-order consequence where the US dialysis centers industry treated roughly 516,837 patients on dialysis in 2025, generated $36 billion in revenue with a 3.5% annual growth rate, and faced mounting wage pressures and regulatory reimbursement limits despite demographic tailwinds from an aging, diabetic population."
+      ],
+      "representative_companies": [
+        {
+          "slug": "alcon",
+          "title": "Alcon",
+          "sector": "Healthcare",
+          "memo": "Alcon needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "johnson-and-johnson",
+          "title": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "memo": "Johnson & Johnson needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "the-walt-disney",
+          "title": "The Walt Disney Company",
+          "sector": "Media & Entertainment",
+          "memo": "The Walt Disney Company needs to keep converting media rights and audience platform position into scaled IP and distribution owner economics while staying on the right side of audience retention."
+        },
+        {
+          "slug": "stryker",
+          "title": "Stryker",
+          "sector": "Manufacturing",
+          "memo": "Stryker needs to keep converting industrial scale manufacturer position into scaled industrial platform economics while staying on the right side of procurement / inputs."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for pricing power and compliance / regulation, and they more often look like scaled healthcare intermediary structures than fragmented independents.",
+        "This trend keeps squeezing single-line supplier and independent distributor because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Johnson & Johnson lose its current edge in healthcare product and distribution platform markets?",
+        "Is compliance / regulation a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Margin compression from inflation and input costs",
+      "kind": "Economic",
+      "what_it_is": "Across food, manufacturing, and retail, input costs (labor, materials, energy, tariffs) are rising faster than pricing power allows. Margins are shrinking; companies are cutting costs through automation and reducing choice.",
+      "industries": [
+        "Cable Providers in the US",
+        "Energy Drink Production",
+        "Whiskey & Bourbon Distilleries",
+        "Soybean Processing",
+        "Waste-to-Energy Plant Operation",
+        "Water & Sewer Line Construction in the US",
+        "Vending Machine Operators in the US",
+        "US Fast Food Restaurants Industry",
+        "US Chain Restaurants",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "US Bread Production",
+        "US Meat, Beef & Poultry Processing",
+        "US Dairy Product Production",
+        "US Candy Production Industry",
+        "US Ice Cream Production Industry",
+        "US Beer Wholesaling Industry",
+        "US Coffee Production Industry",
+        "US Chocolate Production",
+        "US Cookie, Cracker & Pasta Production Industry",
+        "US Frozen Food Production Industry",
+        "US Wine Bars",
+        "US Juice Production",
+        "US Airline Catering Services Industry"
+      ],
+      "who_wins": "Premium/luxury brands holding pricing; automation-first operators; companies with lock-in relationships and scale.",
+      "who_loses": "Value and mid-market brands; franchise owners; small independent food producers.",
+      "slugs": [
+        "cable-providers-in-the-us",
+        "energy-drink-production",
+        "distilleries-in-the-us",
+        "soybean-processing",
+        "waste-to-energy-plant-operation",
+        "construction-in-the-us",
+        "vending-machine-operators-in-the-us",
+        "fast-food-restaurants-in-the-us",
+        "chain-restaurants-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "bread-production-in-the-us",
+        "meat-beef-and-poultry-processing-in-the-us",
+        "dairy-product-production-in-the-us",
+        "candy-production-in-the-us",
+        "ice-cream-production-in-the-us",
+        "beer-wholesaling-in-the-us",
+        "coffee-production-in-the-us",
+        "chocolate-production-in-the-us",
+        "cookie-cracker-and-pasta-production-in-the-us",
+        "frozen-food-production-in-the-us",
+        "wineries-in-the-us",
+        "juice-production-in-the-us",
+        "airline-catering-services"
+      ],
+      "linked_theme_slugs": [
+        "barbelled-consumer-america",
+        "physical-reindustrialization-and-infrastructure",
+        "scale-financialization-and-the-owned-economy"
+      ],
+      "linked_theme_titles": [
+        "Barbelled Consumer America",
+        "Physical Reindustrialization and Infrastructure",
+        "Scale, Financialization, and the Owned Economy"
+      ],
+      "top_sectors": [
+        "Food & Drink",
+        "Manufacturing",
+        "Consumer Services",
+        "Media & Entertainment"
+      ],
+      "recurring_brief_themes": [
+        "Tariff-driven cost inflation",
+        "Cord cutting",
+        "Streaming substitution",
+        "Programming-cost inflation",
+        "Broadband-first bundles"
+      ],
+      "subthemes": [
+        "Value Machines Win the Weekly Basket",
+        "Premium Refuges Still Hold Price",
+        "Mid-Market Erosion Becomes Structural",
+        "Tariffed Inputs Flow Through the Whole Stack",
+        "Power-Centric Geography Reorders Industrial Value"
+      ],
+      "structural_tensions": [
+        "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation."
+      ],
+      "second_order_effects": [
+        "In Discount Department Stores, this tends to show up as a second-order consequence where the $107.2 billion US discount department stores industry is stabilizing after years of decline, driven by inflation-fueled consumer trade-down behavior and off-price players aggressively expanding, though tariffs and wage pressures are squeezing margins.",
+        "In Jewelry Stores in the US, this tends to show up as a second-order consequence where the US brick-and-mortar jewelry stores industry contracted sharply in 2025-2026 (12.1% and 2.2% respectively) as tariffs, high gold prices, and e-commerce competition accelerated store closures, even as lab-grown diamonds and wealthy consumers sustained pockets of resilience.",
+        "In Department Stores in the US, this tends to show up as a second-order consequence where the US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce."
+      ],
+      "representative_companies": [
+        {
+          "slug": "starbucks",
+          "title": "Starbucks",
+          "sector": "Food & Drink",
+          "memo": "Starbucks needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "general-mills",
+          "title": "General Mills",
+          "sector": "Food & Drink",
+          "memo": "General Mills needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "tyson-foods",
+          "title": "Tyson Foods",
+          "sector": "Agriculture",
+          "memo": "Tyson Foods needs to keep converting inventory and credit distributor position into scaled regional platform economics while staying on the right side of capital / rates."
+        },
+        {
+          "slug": "nestl",
+          "title": "Nestlé",
+          "sector": "Manufacturing",
+          "memo": "Nestlé needs to keep converting industrial scale manufacturer position into scaled industrial platform economics while staying on the right side of procurement / inputs."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for procurement / inputs and channel access, and they more often look like scaled brand portfolio structures than fragmented independents.",
+        "This trend keeps squeezing single-product brand and commodity processor because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make General Mills lose its current edge in branded food scale operator markets?",
+        "Is procurement / inputs a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Consolidation and scale in media, publishing, and entertainment",
+      "kind": "Industrial",
+      "what_it_is": "Streaming is consolidating into a few mega-platforms; content costs are rising; traditional media (cable, print) is declining. Consolidation is happening across music publishing, book houses, and ad agencies.",
+      "industries": [
+        "Cable Providers in the US",
+        "Video Post-production Services",
+        "US Cable Networks Industry",
+        "US Movie Theaters Industry",
+        "US Music Publishing Industry",
+        "US Book Publishing",
+        "Magazine & Periodical Publishing in the US",
+        "US Newspaper Publishing",
+        "Concert & Event Promotion in the US",
+        "US Live Performance Theaters Industry",
+        "US Advertising Agencies",
+        "Internet Publishing and Broadcasting in the US"
+      ],
+      "who_wins": "Mega-streamers (Netflix, Disney+); catalog owners treated as assets; premium niche publishers and creators with direct audiences.",
+      "who_loses": "Traditional TV networks; ad-dependent publishers; mid-market creative shops; theater and live-event operators in weak markets.",
+      "slugs": [
+        "cable-providers-in-the-us",
+        "postal-service-in-the-us",
+        "cable-networks-in-the-us",
+        "movie-theaters-in-the-us",
+        "music-publishing-in-the-us",
+        "book-stores-in-the-us",
+        "magazine-and-periodical-publishing-in-the-us",
+        "newspaper-publishing-in-the-us",
+        "concert-and-event-promotion-in-the-us",
+        "live-performance-theaters",
+        "advertising-agencies-in-the-us",
+        "internet-service-providers-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "experience-status-and-community",
+        "scale-financialization-and-the-owned-economy"
+      ],
+      "linked_theme_titles": [
+        "Experience, Status, and Community",
+        "Scale, Financialization, and the Owned Economy"
+      ],
+      "top_sectors": [
+        "Media & Entertainment",
+        "Transport & Logistics",
+        "Retail",
+        "Technology & Digital"
+      ],
+      "recurring_brief_themes": [
+        "Cord cutting",
+        "Streaming substitution",
+        "Programming-cost inflation",
+        "Broadband-first bundles",
+        "Mobile convergence"
+      ],
+      "subthemes": [
+        "Memory Beats Merchandise",
+        "Venue Scarcity Creates Durable Pricing Power",
+        "Active Aging and Outdoor Identity Expand Leisure Demand",
+        "Roll-Ups Colonize Essential Services",
+        "Asset Owners Keep Gaining Relative Power"
+      ],
+      "structural_tensions": [
+        "The central tension inside Experience, Status, and Community is that more consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods, but the route to capturing that demand runs through the practical frictions surfaced by Memory Beats Merchandise.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Venue Scarcity Creates Durable Pricing Power.",
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points.",
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap."
+      ],
+      "second_order_effects": [
+        "In Amusement Parks in the US, this tends to show up as a second-order consequence where the industry is enjoying strong nominal growth driven by pent-up leisure demand and blockbuster new attractions, but real per-guest margins are being eroded by sticky labor costs, tariff-driven equipment expenses, and mounting pressure from consumers increasingly pricing-conscious about family vacations.",
+        "In Casino Hotels in the US, this tends to show up as a second-order consequence where the US casino hotels industry is in a mature holding pattern, balancing expensive labor and pricing power against a shifting customer base split between digital-native players and those who still value the physical resort experience.",
+        "In Campgrounds & RV Parks in the US, this tends to show up as a second-order consequence where the US campgrounds and RV parks industry has shifted from growth-through-expansion to profit-through-optimization as consolidation, constrained supply, and younger, higher-spending campers reshape a once-sleepy sector."
+      ],
+      "representative_companies": [
+        {
+          "slug": "the-walt-disney",
+          "title": "The Walt Disney Company",
+          "sector": "Media & Entertainment",
+          "memo": "The Walt Disney Company needs to keep converting media rights and audience platform position into scaled IP and distribution owner economics while staying on the right side of audience retention."
+        },
+        {
+          "slug": "bloomberg",
+          "title": "Bloomberg",
+          "sector": "Media & Entertainment",
+          "memo": "Bloomberg needs to keep converting media rights and audience platform position into scaled IP and distribution owner economics while staying on the right side of audience retention."
+        },
+        {
+          "slug": "at-and-t",
+          "title": "AT&T",
+          "sector": "Technology & Digital",
+          "memo": "AT&T needs to keep converting software and network platform position into software-led consolidator economics while staying on the right side of compute / infrastructure."
+        },
+        {
+          "slug": "verizon",
+          "title": "Verizon",
+          "sector": "Technology & Digital",
+          "memo": "Verizon needs to keep converting software and network platform position into software-led consolidator economics while staying on the right side of compute / infrastructure."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for compute / infrastructure and compliance / regulation, and they more often look like software-led consolidator structures than fragmented independents.",
+        "This trend keeps squeezing point-solution vendor and subscale network because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make AT&T lose its current edge in software and network platform markets?",
+        "Is compute / infrastructure a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Health consciousness and dietary shift away from sugar and alcohol",
+      "kind": "Cultural",
+      "what_it_is": "GLP-1 weight-loss drugs, health awareness (especially among Gen Z), and regulatory scrutiny are cutting demand for sugary, alcoholic, and calorie-dense foods. Premiumization (organic, functional, low-alcohol) is rising but volumes are shrinking.",
+      "industries": [
+        "Weight Loss Services in the US",
+        "Energy Drink Production",
+        "Whiskey & Bourbon Distilleries",
+        "Wine Bars",
+        "US Fast Food Restaurants Industry",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "US Distilleries Industry",
+        "US Candy Production Industry",
+        "US Ice Cream Production Industry",
+        "US Juice Production",
+        "US Frozen Food Production Industry"
+      ],
+      "who_wins": "Functional and low-calorie food makers; premium spirits and wine; better-for-you snacks and beverages.",
+      "who_loses": "Traditional sugary food and beverage makers (soda, energy drinks, cheap spirits); mass-market ice cream and candy.",
+      "slugs": [
+        "weight-loss-services-in-the-us",
+        "energy-drink-production",
+        "distilleries-in-the-us",
+        "wineries-in-the-us",
+        "fast-food-restaurants-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "candy-production-in-the-us",
+        "ice-cream-production-in-the-us",
+        "juice-production-in-the-us",
+        "frozen-food-production-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "wellness-recodes-daily-life"
+      ],
+      "linked_theme_titles": [
+        "Wellness Recodes Daily Life"
+      ],
+      "top_sectors": [
+        "Food & Drink",
+        "Consumer Services",
+        "Manufacturing"
+      ],
+      "recurring_brief_themes": [
+        "GLP-1 disruption",
+        "Clinical weight management",
+        "Digital subscriptions",
+        "Telehealth access",
+        "Behavioral coaching"
+      ],
+      "subthemes": [
+        "GLP-1 Resets Appetite and Portion Economics",
+        "Sober Socializing Changes Nightlife and Beverage Mix",
+        "Functional Consumption Beats Empty Indulgence"
+      ],
+      "structural_tensions": [
+        "The central tension inside Wellness Recodes Daily Life is that health behavior is no longer a niche vertical. It is becoming a general operating system for food, drink, beauty, self-presentation, and everyday social decisions, but the route to capturing that demand runs through the practical frictions surfaced by GLP-1 Resets Appetite and Portion Economics.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Sober Socializing Changes Nightlife and Beverage Mix."
+      ],
+      "signals_to_watch": [
+        "Protein, low-sugar, sober-curious, and health-tracking language becomes more central."
+      ],
+      "second_order_effects": [
+        "In Weight Loss Services in the US, this tends to show up as a second-order consequence where the US weight loss services industry has shifted from center-based coaching and branded diet plans toward hybrid behavioral, clinical and subscription models as GLP-1 medications pull demand away from legacy programs while expanding the addressable market for medically supervised weight management.",
+        "In Bars & Nightclubs in the US, this tends to show up as a second-order consequence where the bars and nightclubs industry is a mature, stagnating sector facing labor inflation, spirit tariffs, and shifting younger-consumer drinking patterns, with growth concentrated in upscale experiential venues and private-equity-led consolidation.",
+        "In Energy Drink Production, this tends to show up as a second-order consequence where the industry manufactures and markets caffeinated ready-to-drink beverages, shots and mixes, with 2025 demand supported by strong retail velocity, flavor innovation, expanded distribution and consumer substitution away from soda and some coffee occasions."
+      ],
+      "representative_companies": [
+        {
+          "slug": "mcdonald-s",
+          "title": "McDonald's",
+          "sector": "Food & Drink",
+          "memo": "McDonald's needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "starbucks",
+          "title": "Starbucks",
+          "sector": "Food & Drink",
+          "memo": "Starbucks needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "tyson-foods",
+          "title": "Tyson Foods",
+          "sector": "Agriculture",
+          "memo": "Tyson Foods needs to keep converting inventory and credit distributor position into scaled regional platform economics while staying on the right side of capital / rates."
+        },
+        {
+          "slug": "unilever",
+          "title": "Unilever",
+          "sector": "Manufacturing",
+          "memo": "Unilever needs to keep converting industrial technology platform position into scaled industrial platform economics while staying on the right side of capex cycle."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for procurement / inputs and channel access, and they more often look like scaled brand portfolio structures than fragmented independents.",
+        "This trend keeps squeezing single-product brand and commodity processor because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Tyson Foods lose its current edge in inventory and credit distributor markets?",
+        "Is capital / rates a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Regulatory fragmentation and compliance cost explosion",
+      "kind": "Industrial",
+      "what_it_is": "AI governance (SEC, FTC, NAIC), climate disclosure, cybersecurity (state-level), tariff rules, accessibility (ADA), and data privacy (GDPR, CPRA, CCPA) are creating a patchwork of regulations. Compliance costs are rising; smaller firms can't absorb them.",
+      "industries": [
+        "Web Design Services",
+        "US Credit Repair Services Industry",
+        "US Credit Counselors, Surveyors & Appraisers Industry",
+        "Commercial Banking in the US",
+        "US Health & Medical Insurance Industry",
+        "US Dental Insurance",
+        "US Cyber Liability Insurance Industry",
+        "US Credit Bureaus & Rating Agencies Industry",
+        "Hospitals in the US",
+        "US Medical Device Manufacturing Industry",
+        "IT Consulting in the US",
+        "US Data Processing and Hosting Services",
+        "US Internet Service Providers",
+        "US Internet Hosting Services Industry",
+        "US Accounting Services Industry",
+        "US Law Firms Industry",
+        "HR Consulting in the US",
+        "US Environmental Consulting Industry",
+        "US Audit Services Industry",
+        "US Business Certification & IT Schools Industry"
+      ],
+      "who_wins": "Large firms with dedicated compliance and legal teams; specialist consultants; consulting firms and law firms advising on regulation.",
+      "who_loses": "Small independent operators; mid-market firms without scale; single-jurisdiction service providers.",
+      "slugs": [
+        "web-design-services",
+        "credit-repair-services",
+        "credit-counselors-surveyors-and-appraisers-in-the-us",
+        "commercial-banking-in-the-us",
+        "health-and-medical-insurance-in-the-us",
+        "dental-insurance",
+        "cyber-liability-insurance",
+        "credit-bureaus-and-rating-agencies-in-the-us",
+        "hospitals-in-the-us",
+        "medical-device-manufacturing-in-the-us",
+        "it-consulting-in-the-us",
+        "data-processing-and-hosting-services-in-the-us",
+        "internet-service-providers-in-the-us",
+        "accounting-services-in-the-us",
+        "law-firms-in-the-us",
+        "hr-consulting-in-the-us",
+        "environmental-consulting-in-the-us",
+        "audit-services",
+        "business-certification-and-it-schools-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "regulated-software-and-admin-state"
+      ],
+      "linked_theme_titles": [
+        "Regulated Software and the Admin State"
+      ],
+      "top_sectors": [
+        "Business Services",
+        "Technology & Digital",
+        "Finance & Insurance",
+        "Healthcare"
+      ],
+      "recurring_brief_themes": [
+        "AI-assisted creation",
+        "No-code competition",
+        "E-commerce enablement",
+        "WordPress dominance with share pressure",
+        "Mobile-first UX"
+      ],
+      "subthemes": [
+        "Compliance Itself Becomes a Demand Engine",
+        "Identity, Fraud, and Trust Infrastructure Thickens",
+        "Reimbursement and Admin Layers Capture Value Around Care"
+      ],
+      "structural_tensions": [
+        "The central tension inside Regulated Software and the Admin State is that a larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip, but the route to capturing that demand runs through the practical frictions surfaced by Compliance Itself Becomes a Demand Engine.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Identity, Fraud, and Trust Infrastructure Thickens."
+      ],
+      "signals_to_watch": [
+        "Workflow software, certification, and managed compliance budgets keep deepening.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats."
+      ],
+      "second_order_effects": [
+        "In Environmental Consulting in the US, this tends to show up as a second-order consequence where the US environmental consulting market is worth $27.4 billion (2025) and growing modestly at 1.6%, powered by stricter EPA rules and corporate climate targets, but held back by acute engineer shortages, tariff supply-chain headwinds, and consolidation among the Big Four firms.",
+        "In Credit Bureaus & Rating Agencies in the US, this tends to show up as a second-order consequence where the $17.6 billion US credit bureaus and rating agencies industry is growing slowly (2.7% annually) as AI-powered alternative scoring disrupts traditional models, cybersecurity breaches erode consumer trust, and the SEC moves to overhaul rating-agency regulations.",
+        "In Health & Medical Insurance in the US, this tends to show up as a second-order consequence where the US health insurance market has hit a pivot point in 2025-2026: insurers are regaining pricing power through massive premium hikes, but that power comes with mounting pressure from government cuts to subsidies, Medicaid shrinkage, and new tech entrants challenging their traditional moat."
+      ],
+      "representative_companies": [
+        {
+          "slug": "accenture",
+          "title": "Accenture",
+          "sector": "Business Services",
+          "memo": "Accenture needs to keep converting expert services platform position into scaled expert network economics while staying on the right side of talent concentration."
+        },
+        {
+          "slug": "pwc",
+          "title": "PwC",
+          "sector": "Business Services",
+          "memo": "PwC needs to keep converting regulated workflow infrastructure position into software-led consolidator economics while staying on the right side of labor."
+        },
+        {
+          "slug": "humana",
+          "title": "Humana",
+          "sector": "Healthcare",
+          "memo": "Humana needs to keep converting healthcare product and distribution platform position into scaled healthcare intermediary economics while staying on the right side of compliance / regulation."
+        },
+        {
+          "slug": "amazon",
+          "title": "Amazon",
+          "sector": "Retail",
+          "memo": "Amazon needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for compliance / regulation and pricing power, and they more often look like software-led consolidator structures than fragmented independents.",
+        "This trend keeps squeezing single-line supplier and independent distributor because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Fintech and embedded finance disrupting traditional banking and payments",
+      "kind": "Technological",
+      "what_it_is": "Direct-to-consumer lending, embedded finance (payments in apps), BNPL, and stablecoins are bypassing traditional banking rails. Banks are consolidating and modernizing; small regional players are exiting.",
+      "industries": [
+        "Commercial Banking in the US",
+        "Credit Unions in the US",
+        "US Investment Banking & Securities Dealing",
+        "US Credit Card Issuing",
+        "US Credit Card Processing & Money Transferring Industry",
+        "US Agricultural Banks",
+        "Industrial Banks in the US",
+        "Invoice Factoring",
+        "US Loan Brokers Industry",
+        "US Financial Planning & Advice Industry"
+      ],
+      "who_wins": "Large diversified banks; fintech platforms and embedded-finance providers; alternative-credit startups and marketplaces.",
+      "who_loses": "Regional and community banks; single-product banking services; traditional credit brokers.",
+      "slugs": [
+        "commercial-banking-in-the-us",
+        "credit-unions-in-the-us",
+        "investment-banking-and-securities-dealing-in-the-us",
+        "credit-card-issuing-in-the-us",
+        "credit-card-processing-and-money-transferring-in-the-us",
+        "agricultural-banks",
+        "industrial-banks-in-the-us",
+        "invoice-factoring",
+        "loan-brokers-in-the-us",
+        "financial-planning-and-advice-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "scale-financialization-and-the-owned-economy",
+        "regulated-software-and-admin-state"
+      ],
+      "linked_theme_titles": [
+        "Scale, Financialization, and the Owned Economy",
+        "Regulated Software and the Admin State"
+      ],
+      "top_sectors": [
+        "Finance & Insurance"
+      ],
+      "recurring_brief_themes": [
+        "Higher-for-longer rate sensitivity",
+        "Deposit competition and funding mix",
+        "Commercial real estate credit risk",
+        "Large-bank scale advantages",
+        "Regional bank consolidation"
+      ],
+      "subthemes": [
+        "Roll-Ups Colonize Essential Services",
+        "Asset Owners Keep Gaining Relative Power",
+        "Regional Intermediaries Get Squeezed",
+        "Compliance Itself Becomes a Demand Engine",
+        "Identity, Fraud, and Trust Infrastructure Thickens"
+      ],
+      "structural_tensions": [
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+        "The central tension inside Regulated Software and the Admin State is that a larger share of economic value now comes from managing mandatory complexity: compliance, identity, reimbursement, audit trails, fraud control, privacy, testing, and other workflows customers cannot simply skip, but the route to capturing that demand runs through the practical frictions surfaced by Compliance Itself Becomes a Demand Engine."
+      ],
+      "signals_to_watch": [
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+        "Workflow software, certification, and managed compliance budgets keep deepening."
+      ],
+      "second_order_effects": [
+        "In Dentists in the US, this tends to show up as a second-order consequence where the US dental market, worth $196 billion in 2026, is consolidating rapidly as reimbursement stagnation and workforce shortages push independent practitioners into DSO networks while technology and aging populations provide modest growth.",
+        "In Land Leasing in the US, this tends to show up as a second-order consequence where a steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck.",
+        "In Commercial Banking in the US, this tends to show up as a second-order consequence where commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees."
+      ],
+      "representative_companies": [
+        {
+          "slug": "jpmorgan-chase",
+          "title": "JPMorgan Chase",
+          "sector": "Finance & Insurance",
+          "memo": "JPMorgan Chase needs to keep converting insurance risk platform position into scaled risk manager economics while staying on the right side of regulatory approval."
+        },
+        {
+          "slug": "bank-of-america",
+          "title": "Bank of America",
+          "sector": "Finance & Insurance",
+          "memo": "Bank of America needs to keep converting insurance risk platform position into scaled risk manager economics while staying on the right side of regulatory approval."
+        },
+        {
+          "slug": "citigroup",
+          "title": "Citigroup",
+          "sector": "Finance & Insurance",
+          "memo": "Citigroup needs to keep converting insurance risk platform position into scaled risk manager economics while staying on the right side of regulatory approval."
+        },
+        {
+          "slug": "morgan-stanley",
+          "title": "Morgan Stanley",
+          "sector": "Finance & Insurance",
+          "memo": "Morgan Stanley needs to keep converting insurance risk platform position into scaled risk manager economics while staying on the right side of regulatory approval."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for regulatory approval and claims cost inflation, and they more often look like scaled risk manager structures than fragmented independents.",
+        "This trend keeps squeezing subscale carrier and rate-constrained niche writer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make JPMorgan Chase lose its current edge in insurance risk platform markets?",
+        "Is regulatory approval a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Premiumization and bifurcation: affluent vs. value consumers diverging",
+      "kind": "Cultural",
+      "what_it_is": "Affluent consumers are spending on premium, experiential, and luxury goods; middle-class consumers are trading down to value/discount brands. Middle market is hollowed out. Niches (premium coffee, luxury fashion) thrive; mass-market mid-tier collapses.",
+      "industries": [
+        "Women's Clothing Stores in the US",
+        "US Department Stores Industry",
+        "US Discount Department Stores Industry Brief",
+        "US Luxury retail",
+        "US Jewelry Stores Industry",
+        "US Beauty, Cosmetics & Fragrance Retail Industry",
+        "US Eyeglasses & Contact Lens Stores",
+        "US Fast Food Restaurants Industry",
+        "US Chain Restaurants",
+        "US Coffee & Snack Shops Industry",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "Wine Bars",
+        "US Distilleries Industry",
+        "US Candy Production Industry",
+        "US Ice Cream Production Industry",
+        "US Hotels & Motels Industry Brief",
+        "Extended Stay Hotels Industry",
+        "US Boutique Hotels Industry",
+        "US Casino Hotels Industry",
+        "US Movie Theaters Industry",
+        "Amusement Parks in the US"
+      ],
+      "who_wins": "Ultra-luxury brands and discount/value chains (Walmart, Costco); experiential and premium-positioning brands; niche premium food/beverage.",
+      "who_loses": "Mass-market mid-tier retail and hospitality; mainstream casual dining; mid-price department stores.",
+      "slugs": [
+        "womens-clothing-stores-in-the-us",
+        "department-stores-in-the-us",
+        "jewelry-stores-in-the-us",
+        "beauty-cosmetics-and-fragrance-stores-in-the-us",
+        "contact-lens-manufacturing",
+        "fast-food-restaurants-in-the-us",
+        "chain-restaurants-in-the-us",
+        "coffee-and-snack-shops-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "wineries-in-the-us",
+        "distilleries-in-the-us",
+        "candy-production-in-the-us",
+        "ice-cream-production-in-the-us",
+        "hotels-and-motels-in-the-us",
+        "extended-stay-hotels",
+        "boutique-hotels",
+        "casino-hotels-in-the-us",
+        "movie-theaters-in-the-us",
+        "amusement-parks-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "barbelled-consumer-america",
+        "experience-status-and-community"
+      ],
+      "linked_theme_titles": [
+        "Barbelled Consumer America",
+        "Experience, Status, and Community"
+      ],
+      "top_sectors": [
+        "Food & Drink",
+        "Retail",
+        "Consumer Services",
+        "Healthcare"
+      ],
+      "recurring_brief_themes": [
+        "Omnichannel retail replaces pure store traffic",
+        "Premium and niche brands outperform undifferentiated mall chains",
+        "Tariffs and de minimis changes reshape landed costs",
+        "Store fleets get smaller but more productive",
+        "Off-price and value channels pressure margins"
+      ],
+      "subthemes": [
+        "Value Machines Win the Weekly Basket",
+        "Premium Refuges Still Hold Price",
+        "Mid-Market Erosion Becomes Structural",
+        "Memory Beats Merchandise",
+        "Venue Scarcity Creates Durable Pricing Power"
+      ],
+      "structural_tensions": [
+        "The central tension inside Barbelled Consumer America is that the old middle of American consumption keeps losing coherence. Households polarize between ruthless value-seeking and selective premium spend, while undifferentiated mid-market operators get squeezed from both sides, but the route to capturing that demand runs through the practical frictions surfaced by Value Machines Win the Weekly Basket.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Premium Refuges Still Hold Price.",
+        "The central tension inside Experience, Status, and Community is that more consumer status is being expressed through participation, memory, aesthetics, and curation rather than through ownership of broad mid-tier goods, but the route to capturing that demand runs through the practical frictions surfaced by Memory Beats Merchandise."
+      ],
+      "signals_to_watch": [
+        "Mix shifts toward either obvious value packs or visibly better premium tiers.",
+        "Traffic, basket construction, and repeat behavior move toward low-friction channels.",
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+      ],
+      "second_order_effects": [
+        "In Discount Department Stores, this tends to show up as a second-order consequence where the $107.2 billion US discount department stores industry is stabilizing after years of decline, driven by inflation-fueled consumer trade-down behavior and off-price players aggressively expanding, though tariffs and wage pressures are squeezing margins.",
+        "In Jewelry Stores in the US, this tends to show up as a second-order consequence where the US brick-and-mortar jewelry stores industry contracted sharply in 2025-2026 (12.1% and 2.2% respectively) as tariffs, high gold prices, and e-commerce competition accelerated store closures, even as lab-grown diamonds and wealthy consumers sustained pockets of resilience.",
+        "In Department Stores in the US, this tends to show up as a second-order consequence where the US department store industry faces structural decline as Saks Global files for bankruptcy, Macy's closes 150 stores, tariff rates hit 35% on apparel, and consumers shift spending to value channels and e-commerce."
+      ],
+      "representative_companies": [
+        {
+          "slug": "marriott-international",
+          "title": "Marriott International",
+          "sector": "Consumer Services",
+          "memo": "Marriott International needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "hilton-worldwide",
+          "title": "Hilton Worldwide",
+          "sector": "Consumer Services",
+          "memo": "Hilton Worldwide needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "airbnb",
+          "title": "Airbnb",
+          "sector": "Consumer Services",
+          "memo": "Airbnb needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "mcdonald-s",
+          "title": "McDonald's",
+          "sector": "Food & Drink",
+          "memo": "McDonald's needs to keep converting branded food scale operator position into scaled brand portfolio economics while staying on the right side of procurement / inputs."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for channel access and pricing power, and they more often look like asset-light scale operator structures than fragmented independents.",
+        "This trend keeps squeezing single-asset owner and mid-market undifferentiated venue because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Unilever lose its current edge in industrial technology platform markets?",
+        "Is capex cycle a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Supply chain shortages and geopolitical volatility",
+      "kind": "Industrial",
+      "what_it_is": "Semiconductor shortages, shipping delays, geopolitical trade wars (US-China, US-EU), and climate disruptions (water scarcity, crop failures) are causing boom-bust cycles in supply. Companies are hedging via nearshoring and inventory building.",
+      "industries": [
+        "Auto Parts Manufacturing in the US",
+        "3D Printer Manufacturing",
+        "US Automobile Engine & Parts Manufacturing",
+        "US Automobile Steering & Suspension Manufacturing",
+        "US Aircraft, Engine & Parts Manufacturing",
+        "US Iron & Steel Manufacturing",
+        "US Aluminum Manufacturing",
+        "US Chemical Product Manufacturing Industry",
+        "US Cement Manufacturing",
+        "US Computer Manufacturing in the US",
+        "US Electrical Equipment Manufacturing",
+        "US Major Household Appliance Manufacturing",
+        "US Glass Product Manufacturing",
+        "Wheat, Barley & Sorghum Farming in the US",
+        "US Coffee Production Industry",
+        "US Juice Production"
+      ],
+      "who_wins": "Nearshore manufacturers and companies with vertical integration; large players with hedging and inventory capacity.",
+      "who_loses": "Small suppliers dependent on single geographies; just-in-time manufacturers without buffers.",
+      "slugs": [
+        "auto-parts-stores-in-the-us",
+        "3d-printer-manufacturing",
+        "automobile-steering-and-suspension-manufacturing-in-the-us",
+        "aircraft-engine-and-parts-manufacturing-in-the-us",
+        "iron-and-steel-manufacturing-in-the-us",
+        "aluminum-manufacturing-in-the-us",
+        "chemical-product-manufacturing-in-the-us",
+        "cement-manufacturing-in-the-us",
+        "computer-stores-in-the-us",
+        "electrical-equipment-manufacturing-in-the-us",
+        "major-household-appliance-manufacturing-in-the-us",
+        "glass-product-manufacturing-in-the-us",
+        "wheat-barley-and-sorghum-farming-in-the-us",
+        "coffee-production-in-the-us",
+        "juice-production-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "physical-reindustrialization-and-infrastructure",
+        "machine-intelligence-and-compute-buildout"
+      ],
+      "linked_theme_titles": [
+        "Physical Reindustrialization and Infrastructure",
+        "Machine Intelligence and Compute Buildout"
+      ],
+      "top_sectors": [
+        "Manufacturing",
+        "Retail",
+        "Agriculture",
+        "Food & Drink"
+      ],
+      "recurring_brief_themes": [
+        "Electrification pressures",
+        "E-commerce cannibalization",
+        "Tariff volatility and import costs",
+        "Fleet aging as mixed signal",
+        "Consolidation and scale advantages"
+      ],
+      "subthemes": [
+        "Tariffed Inputs Flow Through the Whole Stack",
+        "Power-Centric Geography Reorders Industrial Value",
+        "Electrical and Cooling Trades Become Picks and Shovels",
+        "The Data-Center Land Rush Creates New Scarcity",
+        "Workflow Compression Rewrites Knowledge Work"
+      ],
+      "structural_tensions": [
+        "The central tension inside Physical Reindustrialization and Infrastructure is that the physical economy has become strategic again. Tariffs, reshoring, power demand, logistics, and infrastructure needs are repricing materials, locations, and the trades that make modern buildout possible, but the route to capturing that demand runs through the practical frictions surfaced by Tariffed Inputs Flow Through the Whole Stack.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Power-Centric Geography Reorders Industrial Value.",
+        "The central tension inside Machine Intelligence and Compute Buildout is that AI is not just a software feature cycle. It is simultaneously a workflow-compression story, a compute and power infrastructure story, and a market concentration story around who can afford the stack, but the route to capturing that demand runs through the practical frictions surfaced by The Data-Center Land Rush Creates New Scarcity."
+      ],
+      "signals_to_watch": [
+        "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation.",
+        "Automation budgets, inference demand, and power-ready site competition keep rising."
+      ],
+      "second_order_effects": [
+        "In Iron & Steel Manufacturing in the US, this tends to show up as a second-order consequence where US steel bounced from tariffs in 2025-2026 but faces structural headwinds: global oversupply, flat demand, and the permanent shift to lighter vehicles—making recovery unlikely despite short-term margin gains.",
+        "In Colocation Facilities, this tends to show up as a second-order consequence where AI infrastructure demand has turned the colocation industry from a physical space problem into a power-grid problem, making electricity access and regulatory tariffs the new competitive moats.",
+        "In Electricians in the US, this tends to show up as a second-order consequence where the US electricians industry is being pulled between a dead residential market and explosive demand from AI/EV/grid infrastructure, creating labor shortages, wage pressure, and consolidation among the 269,000 small contractors."
+      ],
+      "representative_companies": [
+        {
+          "slug": "amazon",
+          "title": "Amazon",
+          "sector": "Retail",
+          "memo": "Amazon needs to keep converting omnichannel scale retailer position into scaled platform operator economics while staying on the right side of channel access."
+        },
+        {
+          "slug": "samsung",
+          "title": "Samsung",
+          "sector": "Manufacturing",
+          "memo": "Samsung needs to keep converting industrial scale manufacturer position into scaled industrial platform economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "basf",
+          "title": "BASF",
+          "sector": "Manufacturing",
+          "memo": "BASF needs to keep converting industrial scale manufacturer position into scaled industrial platform economics while staying on the right side of procurement / inputs."
+        },
+        {
+          "slug": "nestl",
+          "title": "Nestlé",
+          "sector": "Manufacturing",
+          "memo": "Nestlé needs to keep converting industrial scale manufacturer position into scaled industrial platform economics while staying on the right side of procurement / inputs."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for procurement / inputs and utilization, and they more often look like scaled industrial platform structures than fragmented independents.",
+        "This trend keeps squeezing import-reliant assembler and subscale producer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Amazon lose its current edge in omnichannel scale retailer markets?",
+        "Is channel access a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Gig economy and fractional work blurring permanent employment",
+      "kind": "Societal",
+      "what_it_is": "Contractors, fractional roles, and gig platforms are normalizing across consulting, executive search, and creative services. Permanent employment is declining; benefits and stability are eroding. Workers are diversifying income sources.",
+      "industries": [
+        "US Executive Search Recruiters Industry",
+        "Business Coaching in the US",
+        "US Expert Networks Industry",
+        "US Marketing Consultants Industry Brief",
+        "US Management Consulting Industry",
+        "HR Consulting in the US"
+      ],
+      "who_wins": "Platforms connecting gig workers and fractional roles; consulting firms pivoting to advisory and interim placements; niche specialists.",
+      "who_loses": "Permanent corporate staffing models; job security in traditional roles; benefits-dependent workers.",
+      "slugs": [
+        "executive-search-recruiters",
+        "business-coaching-in-the-us",
+        "expert-networks",
+        "marketing-consultants",
+        "management-consulting-in-the-us",
+        "hr-consulting-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "work-without-the-old-firm"
+      ],
+      "linked_theme_titles": [
+        "Work Without the Old Firm"
+      ],
+      "top_sectors": [
+        "Business Services"
+      ],
+      "recurring_brief_themes": [
+        "Macroeconomic-sensitivity (rising rates crushed 2022-2024 hiring demand)",
+        "CEO-succession-boom (turnover accelerating, external hiring rising)",
+        "AI-powered-search-transforming-workflow (speed vs depth tension)",
+        "Boutique-specialization-gaining-share (vs large generalists)",
+        "Margin-pressure-driving-service-diversification (coaching, advisory, consulting)"
+      ],
+      "subthemes": [
+        "The Fractional Executive Layer Expands",
+        "Skills and Credentials Replace Slow Career Ladders",
+        "The Junior Rung Gets Compressed"
+      ],
+      "structural_tensions": [
+        "The central tension inside Work Without the Old Firm is that the traditional firm is thinning. Expertise is rented more often, junior pathways are weaker, benefits are externalized, and automation is increasingly used to defend margins against labor scarcity, but the route to capturing that demand runs through the practical frictions surfaced by The Fractional Executive Layer Expands.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Skills and Credentials Replace Slow Career Ladders."
+      ],
+      "signals_to_watch": [
+        "Advisory retainers, project staffing, and portable admin layers gain relevance.",
+        "Automation, scheduling discipline, retention tactics, and selective simplification accelerate."
+      ],
+      "second_order_effects": [
+        "In Business Coaching in the US, this tends to show up as a second-order consequence where business coaching in 2025-2026 is shifting from a discretionary C-suite perk to a scaled, AI-augmented professional development tool for mid-market and small-business leaders, underpinned by measured ROI claims and driven by a fragmented but rapidly professionalizing workforce of 165,000+ coaches.",
+        "In Business Certification & IT Schools in the US, this tends to show up as a second-order consequence where the US business certification and IT schools industry is bifurcating: high-margin enterprise and compliance-linked credentials (cloud, cybersecurity) are growing at 12-16% annually, while commodity bootcamps and general IT courses face bankruptcies and commoditization as AI and free learning platforms make basic skills training structurally uncompetitive.",
+        "In Accounting Services in the US, this tends to show up as a second-order consequence where the US accounting services market is in structural transition, with AI automation and labor scarcity fragmenting the middle market and accelerating consolidation by private equity, while the Big Four use technology and service expansion to hold and grow their dominant position."
+      ],
+      "representative_companies": [
+        {
+          "slug": "accenture",
+          "title": "Accenture",
+          "sector": "Business Services",
+          "memo": "Accenture needs to keep converting expert services platform position into scaled expert network economics while staying on the right side of talent concentration."
+        },
+        {
+          "slug": "ibm",
+          "title": "IBM",
+          "sector": "Technology & Digital",
+          "memo": "IBM needs to keep converting software and network platform position into software-led consolidator economics while staying on the right side of compute / infrastructure."
+        },
+        {
+          "slug": "deloitte",
+          "title": "Deloitte",
+          "sector": "Business Services",
+          "memo": "Deloitte needs to keep converting regulated workflow infrastructure position into software-led consolidator economics while staying on the right side of labor."
+        },
+        {
+          "slug": "kpmg",
+          "title": "KPMG",
+          "sector": "Business Services",
+          "memo": "KPMG needs to keep converting regulated workflow infrastructure position into software-led consolidator economics while staying on the right side of labor."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for talent concentration and utilization, and they more often look like scaled expert network structures than fragmented independents.",
+        "This trend keeps squeezing solo practitioner and commodity outsourcer because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Accenture lose its current edge in expert services platform markets?",
+        "Is talent concentration a manageable operating issue here or the thing that caps returns?"
+      ]
+    },
+    {
+      "name": "Alternative ownership: PE, REIT, and institutional capital reshaping industries",
+      "kind": "Economic",
+      "what_it_is": "Private equity is rolling up fragmented service industries (dental, health, fitness, restaurants). REITs are consolidating real estate. Sovereign wealth and institutional investors are buying real assets (catalogs, infrastructure, land). This favors scale and operational discipline but squeezes margins and cuts independent ownership.",
+      "industries": [
+        "Residential Senior Care Franchises",
+        "US Mental Health & Substance Abuse Centers Industry",
+        "US Mental Health & Substance Abuse Clinics Industry",
+        "Dentists in the US",
+        "US Chain Restaurants",
+        "US Breweries Industry",
+        "Bars & Nightclubs in the US",
+        "US Hotels & Motels Industry Brief",
+        "Extended Stay Hotels Industry",
+        "US Boutique Hotels Industry",
+        "US Casino Hotels Industry",
+        "US Commercial Real Estate in 2025-2026",
+        "US Apartment Rental Market",
+        "Land Leasing in the US",
+        "US Music Publishing Industry",
+        "US Management Consulting Industry",
+        "US Engineering Services Industry Brief",
+        "US Architects Industry"
+      ],
+      "who_wins": "PE-backed platforms consolidating fragmented sectors; REITs and institutional investors; large integrated operators.",
+      "who_loses": "Independent owner-operators; single-location businesses; small multi-unit operators without scale.",
+      "slugs": [
+        "residential-senior-care-franchises",
+        "mental-health-and-substance-abuse-centers-in-the-us",
+        "mental-health-and-substance-abuse-clinics-in-the-us",
+        "dentists-in-the-us",
+        "chain-restaurants-in-the-us",
+        "breweries-in-the-us",
+        "bars-and-nightclubs-in-the-us",
+        "hotels-and-motels-in-the-us",
+        "extended-stay-hotels",
+        "boutique-hotels",
+        "casino-hotels-in-the-us",
+        "commercial-real-estate-in-the-us",
+        "apartment-rental-in-the-us",
+        "land-leasing-in-the-us",
+        "music-publishing-in-the-us",
+        "management-consulting-in-the-us",
+        "engineering-services-in-the-us",
+        "architects-in-the-us"
+      ],
+      "linked_theme_slugs": [
+        "scale-financialization-and-the-owned-economy",
+        "space-housing-and-local-friction",
+        "aging-care-and-the-assistance-economy"
+      ],
+      "linked_theme_titles": [
+        "Scale, Financialization, and the Owned Economy",
+        "Space, Housing, and Local Friction",
+        "Aging, Care, and the Assistance Economy"
+      ],
+      "top_sectors": [
+        "Healthcare",
+        "Consumer Services",
+        "Real Estate",
+        "Business Services"
+      ],
+      "recurring_brief_themes": [
+        "Aging population",
+        "Memory care demand",
+        "Private-pay affordability",
+        "Labor shortage",
+        "Small-home assisted living"
+      ],
+      "subthemes": [
+        "Roll-Ups Colonize Essential Services",
+        "Asset Owners Keep Gaining Relative Power",
+        "Regional Intermediaries Get Squeezed",
+        "Office Obsolescence Is a Structural Shift",
+        "Adaptive Reuse Becomes a New Development Discipline"
+      ],
+      "structural_tensions": [
+        "The central tension inside Scale, Financialization, and the Owned Economy is that more of the economy is being shaped by scale owners, roll-up logic, institutional asset holders, and platform economics that centralize purchasing power, compliance, and capital access, but the route to capturing that demand runs through the practical frictions surfaced by Roll-Ups Colonize Essential Services.",
+        "A second tension sits between household or institutional demand and the operating constraints surfaced by Asset Owners Keep Gaining Relative Power.",
+        "The central tension inside Space, Housing, and Local Friction is that where Americans live, commute, and locate activity is being reorganized by housing lock-in, office impairment, land scarcity near infrastructure, and the uneven value of local place, but the route to capturing that demand runs through the practical frictions surfaced by Office Obsolescence Is a Structural Shift."
+      ],
+      "signals_to_watch": [
+        "Platform control, roll-ups, and centralized purchasing keep widening the gap.",
+        "Verification, underwriting precision, and workflow adjacency become stronger moats.",
+        "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points."
+      ],
+      "second_order_effects": [
+        "In Dentists in the US, this tends to show up as a second-order consequence where the US dental market, worth $196 billion in 2026, is consolidating rapidly as reimbursement stagnation and workforce shortages push independent practitioners into DSO networks while technology and aging populations provide modest growth.",
+        "In Land Leasing in the US, this tends to show up as a second-order consequence where a steady, consolidating landlord business serving price-constrained renters, now accelerating because housing is unaffordable and supply is stuck.",
+        "In Commercial Banking in the US, this tends to show up as a second-order consequence where commercial Banking in the US consists of FDIC-insured and federally supervised banks that gather deposits, extend consumer and business credit, hold securities, process payments and earn revenue from net interest income plus service, trading, wealth, card and advisory fees."
+      ],
+      "representative_companies": [
+        {
+          "slug": "marriott-international",
+          "title": "Marriott International",
+          "sector": "Consumer Services",
+          "memo": "Marriott International needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "hilton-worldwide",
+          "title": "Hilton Worldwide",
+          "sector": "Consumer Services",
+          "memo": "Hilton Worldwide needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        },
+        {
+          "slug": "accenture",
+          "title": "Accenture",
+          "sector": "Business Services",
+          "memo": "Accenture needs to keep converting expert services platform position into scaled expert network economics while staying on the right side of talent concentration."
+        },
+        {
+          "slug": "airbnb",
+          "title": "Airbnb",
+          "sector": "Consumer Services",
+          "memo": "Airbnb needs to keep converting hospitality and experience platform position into asset-light scale operator economics while staying on the right side of occupancy / utilization."
+        }
+      ],
+      "operator_implications": [
+        "The current winners usually solve for labor and utilization, and they more often look like software-led consolidator structures than fragmented independents.",
+        "This trend keeps squeezing local owner-operator and marketplace/intermediary because they have the least room to absorb the new constraint stack."
+      ],
+      "investor_implications": [
+        "What would make Accenture lose its current edge in expert services platform markets?",
+        "Is talent concentration a manageable operating issue here or the thing that caps returns?"
+      ]
+    }
+  ]
 }

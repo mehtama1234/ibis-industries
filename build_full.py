@@ -56,10 +56,11 @@ def match_slug(name):
     return best if bestscore>=0.5 else None
 clean_trends=[]
 for tr in trends['trends']:
-    slugs=[]
-    for n in tr.get('industries',[]):
-        s=match_slug(n)
-        if s and s not in slugs: slugs.append(s)
+    slugs=list(tr.get('slugs', []))
+    if not slugs:
+        for n in tr.get('industries',[]):
+            s=match_slug(n)
+            if s and s not in slugs: slugs.append(s)
     if len(slugs)>=2: clean_trends.append({**tr,"slugs":slugs})
 clean_trends.sort(key=lambda x:-len(x['slugs']))
 
@@ -173,6 +174,18 @@ for section in OUTLOOK["sections"]:
 
 company_by_overlap={}
 for trend in clean_trends:
+    if trend.get('top_sectors') and trend.get('representative_companies'):
+        company_by_overlap[trend['name']] = {
+            'sectors': trend.get('top_sectors', []),
+            'themes': trend.get('recurring_brief_themes', []),
+            'companies': trend.get('representative_companies', []),
+            'operator_lines': trend.get('operator_implications', []),
+            'investor_lines': trend.get('investor_implications', []),
+            'tensions': trend.get('structural_tensions', []),
+            'signals': trend.get('signals_to_watch', []),
+            'second_order': trend.get('second_order_effects', []),
+        }
+        continue
     trend_slugs=set(trend['slugs'])
     sector_counts=Counter()
     theme_counts=Counter()
@@ -234,6 +247,9 @@ for trend in clean_trends:
         } for company in top_companies],
         'operator_lines':operator_lines[:2],
         'investor_lines':investor_lines[:2],
+        'tensions': [],
+        'signals': [],
+        'second_order': [],
     }
 
 DATA=json.dumps({
@@ -335,6 +351,8 @@ h1{font-size:clamp(2rem,5vw,3rem);font-weight:800;letter-spacing:-.025em;line-he
 .trendcompany .meta{font-size:.63rem}
 .trendcompany h4{font-size:.92rem;margin:.22em 0 .32em}
 .trendcompany p{font-size:.84rem;color:var(--muted);margin:0}
+.trenddeep{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin:12px 0}
+@media(max-width:900px){.trenddeep{grid-template-columns:1fr}}
 .hits{display:flex;flex-wrap:wrap;gap:6px}
 .hit{font-size:.76rem;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:7px;padding:4px 9px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
 .hit:hover{color:var(--paper);border-color:var(--faint)}
@@ -566,6 +584,11 @@ document.getElementById('trends').innerHTML=D.trends.map(tr=>{
   <div class="eyeline" style="margin-top:10px">Where it shows up</div>
   <div class="microchips">${exposure}</div>
   <div class="trendmini">${companies}</div>
+  <div class="trenddeep">
+   <div class="trendbox"><h4>Tensions</h4><ul>${(ev.tensions||[]).map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
+   <div class="trendbox"><h4>Signals</h4><ul>${(ev.signals||[]).map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
+   <div class="trendbox"><h4>Second-order effects</h4><ul>${(ev.second_order||[]).map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
+  </div>
   <div class="trendgrid">
    <div class="trendbox"><h4>What to do</h4><ul>${ev.operator_lines.map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
    <div class="trendbox"><h4>What to underwrite</h4><ul>${ev.investor_lines.map(item=>`<li>${esc(item)}</li>`).join('')}</ul></div>
