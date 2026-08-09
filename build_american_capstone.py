@@ -202,19 +202,86 @@ def build_chip(theme_lookup: dict[str, dict], slug: str) -> str:
     return f'<a class="chip" href="theme-briefs/{e(slug)}.html">{e(theme["title"])}</a>'
 
 
+def collect_section_evidence(theme_lookup: dict[str, dict], linked_themes: list[str]) -> dict[str, list]:
+    tensions: list[str] = []
+    signals: list[str] = []
+    subthemes: list[dict] = []
+    seen_subthemes: set[tuple[str, str]] = set()
+
+    for slug in linked_themes:
+        theme = theme_lookup[slug]
+        for item in theme.get("structural_tensions", [])[:2]:
+            if item not in tensions:
+                tensions.append(item)
+        for item in theme.get("signals_to_watch", [])[:3]:
+            if item not in signals:
+                signals.append(item)
+        for subtheme in theme.get("subthemes", [])[:3]:
+            key = (theme["slug"], subtheme["slug"])
+            if key in seen_subthemes:
+                continue
+            seen_subthemes.add(key)
+            subthemes.append(
+                {
+                    "theme_slug": theme["slug"],
+                    "theme_title": theme["title"],
+                    "slug": subtheme["slug"],
+                    "title": subtheme["title"],
+                    "deep_read": subtheme.get("deep_read", subtheme.get("summary", "")),
+                    "signals_to_watch": subtheme.get("signals_to_watch", []),
+                    "strategic_consequences": subtheme.get("strategic_consequences", []),
+                }
+            )
+    return {
+        "tensions": tensions[:4],
+        "signals": signals[:5],
+        "subthemes": subthemes[:4],
+    }
+
+
 def main() -> None:
     theme_lookup = load_theme_lookup()
     sections = []
     cards = []
+    total_subthemes = sum(theme["subtheme_count"] for theme in theme_lookup.values())
+    total_signals = sum(theme["signal_count"] for theme in theme_lookup.values())
     for section in CAPSTONE["sections"]:
         chips = "".join(build_chip(theme_lookup, slug) for slug in section["linked_themes"])
         body = "".join(f"<p>{e(paragraph)}</p>" for paragraph in section["body"])
+        evidence = collect_section_evidence(theme_lookup, section["linked_themes"])
+        tensions = "".join(f"<li>{e(item)}</li>" for item in evidence["tensions"])
+        signals = "".join(f"<li>{e(item)}</li>" for item in evidence["signals"])
+        subtheme_cards = "".join(
+            f"""<article class="card">
+  <div class="meta">{e(item['theme_title'])} subtheme</div>
+  <h3><a href="themes/{e(item['theme_slug'])}.html#{e(item['slug'])}">{e(item['title'])}</a></h3>
+  <p>{e(item['deep_read'])}</p>
+  <div class="chips">
+    {''.join(f'<span class="chip">{e(signal)}</span>' for signal in item['signals_to_watch'][:2])}
+  </div>
+  <p><b>Strategic consequence:</b> {e(item['strategic_consequences'][0]) if item['strategic_consequences'] else ''}</p>
+</article>"""
+            for item in evidence["subthemes"]
+        )
         sections.append(
             f"""<section class="essay" id="{e(section['slug'])}">
   <div class="meta">Capstone synthesis</div>
   <h3>{e(section['title'])}</h3>
   <p class="summary">{e(section['summary'])}</p>
   {body}
+  <div class="grid" style="margin-top:14px">
+    <div class="card">
+      <div class="meta">System tensions</div>
+      <h3>What makes this section hard</h3>
+      <ul>{tensions}</ul>
+    </div>
+    <div class="card">
+      <div class="meta">Signals</div>
+      <h3>What to watch next</h3>
+      <ul>{signals}</ul>
+    </div>
+  </div>
+  <div class="grid" style="margin-top:14px">{subtheme_cards}</div>
   <div class="chips">{chips}</div>
 </section>"""
         )
@@ -241,6 +308,8 @@ def main() -> None:
   <div class="kpi"><div class="n">1491</div><div class="l">Industry briefs</div></div>
   <div class="kpi"><div class="n">14</div><div class="l">Forces</div></div>
   <div class="kpi"><div class="n">10</div><div class="l">Themes</div></div>
+  <div class="kpi"><div class="n">{total_subthemes}</div><div class="l">Subthemes</div></div>
+  <div class="kpi"><div class="n">{total_signals}</div><div class="l">Signals</div></div>
   <div class="kpi"><div class="n">8</div><div class="l">Capstone sections</div></div>
 </div>
 <div class="lead"><p>{e(CAPSTONE['thesis'])}</p></div>
