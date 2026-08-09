@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "salon-chain-profile",
+    "title": "Multi-Unit Salon Chain",
+    "lens_slug": "local-services-platform",
+    "lens_title": "Local Services Platform",
+    "industry_slug": "hair-and-nail-salons-in-the-us",
+    "industry_title": "Hair & Nail Salons in the US",
+    "core_take": "A salon chain is not mainly a beauty brand. It is a labor scheduling, retention, and local demand-capture business dressed as a beauty service brand.",
+    "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "sector": "Consumer Services",
+    "one_sentence": "US hair and nail salons generated an estimated $90.9 billion in 2025 revenue and are projected to reach about $92.5 billion in 2026, with growth supported by service-price inflation, premium hair color and nail services, and high self-employment despite tight labor and occupancy costs.",
+    "market_size": "2025: $90.9 billion estimated US hair and nail salon revenue; 2026: $92.5 billion projected revenue",
+    "growth": "2026: about 1.8% projected revenue growth from 2025; 2020-2026: about 2.2% CAGR implied by IBISWorld-cited public summaries",
+    "themes": [
+      "fragmented local competition",
+      "premiumization of color and nail services",
+      "salon suites and independent professionals",
+      "digital booking and loyalty",
+      "service-price inflation",
+      "labor and worker-classification scrutiny"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
+    "constraints": [
+      "labor",
+      "pricing power",
+      "utilization"
+    ],
+    "evidence_slugs": [
+      "hair-and-nail-salons-in-the-us",
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises",
+      "handyman-service-franchises"
+    ],
+    "adjacent_slugs": [
+      "hair-salons",
+      "gym-and-fitness-franchises",
+      "gym-health-and-fitness-clubs-in-the-us",
+      "hvac-service-franchises"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-fractional-worker",
+        "title": "The Fractional Worker",
+        "demand_logic": "Firms are buying narrower slices of expertise and execution, creating demand for fractional leadership, expert networks, recruiters, and project-based support.",
+        "margin_logic": "Margins improve for trusted matching layers, specialist networks, and high-signal experts; generic labor providers face commoditization."
+      },
+      {
+        "slug": "the-hollow-middle",
+        "title": "The Hollow Middle",
+        "demand_logic": "Consumers split between value and premium, leaving undifferentiated mid-market formats without a clear reason to win.",
+        "margin_logic": "Margins hold at the ends of the barbell; the middle competes on discounting, promotional intensity, and fading relevance."
+      }
+    ]
+  },
+  {
+    "slug": "lab-casework-manufacturer-profile",
+    "title": "Laboratory Casework Manufacturer",
+    "lens_slug": "specified-product-manufacturer",
+    "lens_title": "Specified Product Manufacturer",
+    "industry_slug": "laboratory-casework-manufacturing",
+    "industry_title": "Laboratory Casework Manufacturing",
+    "core_take": "A laboratory casework company is really a specification and project execution business whose economics depend on lab construction cycles, material inputs, and the ability to stay embedded in technical procurement flows.",
+    "business_truth": "This is a manufacturer business that wins when small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "sector": "Manufacturing",
+    "one_sentence": "The industry is a small, project-driven manufacturing niche tied to lab construction, R&D budgets, healthcare research, university funding and import-sensitive steel, wood, laminate, resin and installation costs.",
+    "market_size": "2026 estimated U.S. revenue of about $2.3 billion, based on the 2021 IBIS baseline projection for Laboratory Casework Manufacturing.",
+    "growth": "2021-2026 estimated CAGR of about 4.2%, based on the 2021 IBIS baseline outlook from $1.885 billion in 2021 to about $2.3 billion in 2026.",
+    "themes": [
+      "Lab construction normalization",
+      "R&D funding sensitivity",
+      "Healthcare and biopharma demand",
+      "University and government labs",
+      "Import competition",
+      "Steel and aluminum tariff pressure"
+    ],
+    "best_owner_type": "specialist/niche expert",
+    "why_owner_type": "The business works when product know-how, specification status, and operational discipline matter more than broad brand marketing.",
+    "constraints": [
+      "labor",
+      "capital / rates",
+      "utilization"
+    ],
+    "evidence_slugs": [
+      "laboratory-casework-manufacturing",
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing",
+      "dental-clinical-instrument-manufacturing"
+    ],
+    "adjacent_slugs": [
+      "laboratory-fume-hoods-manufacturing",
+      "industrial-and-fluid-power-valve-manufacturing",
+      "industrial-and-commercial-fan-and-blower-manufacturing",
+      "commercial-oven-manufacturing"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-compute-super-cycle",
+        "title": "The Compute Super-Cycle",
+        "demand_logic": "AI creates direct demand for compute, storage, hosting, power, cooling, and supporting industrial trades and materials.",
+        "margin_logic": "Ownership of scarce infrastructure and enabling trades improves economics; businesses downstream of power scarcity face rising costs and delays."
+      },
+      {
+        "slug": "atoms-strike-back",
+        "title": "Atoms Strike Back",
+        "demand_logic": "Demand follows physical security, domestic production mandates, reshoring, and tariff-induced supply-chain rewiring rather than pure end-market growth.",
+        "margin_logic": "Margins improve for domestic suppliers with specification, proximity, or procurement leverage; they compress for import-reliant sellers and downstream price takers."
+      }
+    ]
+  },
+  {
+    "slug": "home-care-platform-profile",
+    "title": "Nonmedical Home Care Platform",
+    "lens_slug": "care-and-family-demand-platform",
+    "lens_title": "Care and Family Demand Platform",
+    "industry_slug": "elderly-and-disabled-services-in-the-us",
+    "industry_title": "Elderly & Disabled Services in the US",
+    "core_take": "A home care platform is a demographic-demand business with institution-like constraints: staffing, reimbursement exposure, and coordination complexity matter more than topline demand alone.",
+    "business_truth": "This is a service operator business that wins when aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "sector": "Healthcare",
+    "one_sentence": "Elderly and disabled services providers deliver nonmedical home aide, adult day, companionship, transportation and community support services for older adults and people with disabilities, with demand increasingly tied to Medicaid HCBS policy and the preference to age in place.",
+    "market_size": "$80.1 billion in 2025",
+    "growth": "3.4% in 2025",
+    "themes": [
+      "Aging population",
+      "Aging in place",
+      "Medicaid HCBS",
+      "Direct care workforce shortage",
+      "Low-margin labor model",
+      "State reimbursement risk"
+    ],
+    "best_owner_type": "scaled regional platform",
+    "why_owner_type": "Demographic demand is durable, but staffing, regulation, and service coordination favor scaled operators with strong labor systems.",
+    "constraints": [
+      "labor",
+      "reimbursement",
+      "compliance / regulation"
+    ],
+    "evidence_slugs": [
+      "elderly-and-disabled-services-in-the-us",
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us",
+      "in-home-senior-care-franchises"
+    ],
+    "adjacent_slugs": [
+      "early-childhood-learning-centers",
+      "child-education-and-developmental-center-franchises",
+      "family-counseling-and-crisis-intervention-services-in-the-us",
+      "family-planning-and-abortion-clinics-in-the-us"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-graying-market",
+        "title": "The Graying Market",
+        "demand_logic": "Demographic aging creates steady demand in care delivery, chronic disease, senior living, home support, and longevity finance.",
+        "margin_logic": "Demand is durable, but labor scarcity and reimbursement rules decide whether that demand becomes attractive economics."
+      },
+      {
+        "slug": "the-labor-squeeze",
+        "title": "The Labor Squeeze",
+        "demand_logic": "Demand remains present across trades, care, logistics, and service sectors, but the missing input is labor rather than customers.",
+        "margin_logic": "Wage inflation compresses margins unless operators automate, reprice, or structurally improve utilization."
+      },
+      {
+        "slug": "the-real-estate-reckoning",
+        "title": "The Real-Estate Reckoning",
+        "demand_logic": "Demand is rotating away from weak office formats toward logistics, data-linked assets, adaptive reuse, land, and selective housing formats.",
+        "margin_logic": "Owners on the right side of utilization and asset repositioning can capture upside; static owners and rate-sensitive landlords get squeezed."
+      }
+    ]
+  },
+  {
+    "slug": "claims-software-vendor-profile",
+    "title": "Claims Workflow Software Vendor",
+    "lens_slug": "regulated-workflow-infrastructure",
+    "lens_title": "Regulated Workflow Infrastructure",
+    "industry_slug": "insurance-claims-processing-software",
+    "industry_title": "Insurance Claims Processing Software",
+    "core_take": "A claims software vendor is a recurring workflow infrastructure business whose moat comes from embeddedness, compliance relevance, and automation inside mandatory insurer processes.",
+    "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+    "sector": "Finance & Insurance",
+    "one_sentence": "The US insurance claims processing software industry is a growth market as P&C, health, life, disability and workers' compensation insurers replace legacy claims systems with cloud platforms, AI-assisted triage, FNOL automation, fraud analytics and connected payment workflows.",
+    "market_size": "2026: $17.4 billion estimated US revenue for the IBIS-style claims and policy software category; narrower US claims processing software trackers cite 2024: $3.5 billion and 2026: $1.47 billion for claims-management-only definitions.",
+    "growth": "2026: 3.1% five-year CAGR for the IBIS-style US category from 2021-2026; narrower current claims-management trackers cite 2025-2034 US/global CAGRs of about 8.9% to 12.8%.",
+    "themes": [
+      "Cloud migration",
+      "AI claims guidance",
+      "FNOL automation",
+      "Fraud detection",
+      "Adjuster productivity",
+      "Catastrophe response"
+    ],
+    "best_owner_type": "software-led consolidator",
+    "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
+    "constraints": [
+      "labor",
+      "compliance / regulation",
+      "customer acquisition cost"
+    ],
+    "evidence_slugs": [
+      "insurance-claims-processing-software",
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services",
+      "dna-and-dna-forensic-laboratories"
+    ],
+    "adjacent_slugs": [
+      "identity-management-software-in-the-us",
+      "identity-theft-protection-services",
+      "forensic-accounting-services",
+      "forensic-technology-services"
+    ],
+    "linked_forces": [
+      {
+        "slug": "the-fractional-worker",
+        "title": "The Fractional Worker",
+        "demand_logic": "Firms are buying narrower slices of expertise and execution, creating demand for fractional leadership, expert networks, recruiters, and project-based support.",
+        "margin_logic": "Margins improve for trusted matching layers, specialist networks, and high-signal experts; generic labor providers face commoditization."
+      },
+      {
+        "slug": "the-compute-super-cycle",
+        "title": "The Compute Super-Cycle",
+        "demand_logic": "AI creates direct demand for compute, storage, hosting, power, cooling, and supporting industrial trades and materials.",
+        "margin_logic": "Ownership of scarce infrastructure and enabling trades improves economics; businesses downstream of power scarcity face rising costs and delays."
+      },
+      {
+        "slug": "money-gets-unbundled",
+        "title": "Money Gets Unbundled",
+        "demand_logic": "Financial services demand is moving from branch-centric institutions toward rails, embedded workflows, platforms, and data-rich intermediaries.",
+        "margin_logic": "Scale, data, and recurring transaction flow preserve economics; undifferentiated middlemen and smaller institutions lose spread and relevance."
+      }
+    ]
+  }
+]

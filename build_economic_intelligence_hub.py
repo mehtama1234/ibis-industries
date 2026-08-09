@@ -40,6 +40,10 @@ SUBTHEMES_LINK = (
     "The subtheme layer breaks each major force into its recurring underlying patterns, with angles and evidence footprints, so the map is readable below the headline level."
 )
 
+BUSINESS_PROFILES_LINK = (
+    "Business profiles are company-style reads of representative business types: not just what sector they sit in, but what actually drives demand, margins, ownership logic, and risk."
+)
+
 
 NARRATIVE_BLOCKS = [
     {
@@ -193,6 +197,11 @@ def main():
     <div class="meta">Applied cases</div>
     <h3><a href="sector-cases.html">Sector Cases</a></h3>
     <p>{e(SECTOR_CASES_LINK)}</p>
+  </div>
+  <div class="card">
+    <div class="meta">Business profiles</div>
+    <h3><a href="business-profiles.html">Business Profiles</a></h3>
+    <p>{e(BUSINESS_PROFILES_LINK)}</p>
   </div>
   </div>
 </section>
