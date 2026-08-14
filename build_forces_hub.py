@@ -50,15 +50,15 @@ hub=f'''<!doctype html>
 </style></head>
 <body class="acc-blue">
 <div class="wrap">
-  <div class="top"><a href="../index.html">★ the {industry_count} industry briefs</a><a href="../economic-intelligence.html">economic intelligence</a><a href="../../strategy-under-a-force/index.html">the 50 forces</a></div>
+  <div class="top"><a href="../index.html">★ the {industry_count} industry briefs</a><a href="../economic-intelligence.html">economic intelligence</a><a href="../american-themes.html">American themes</a></div>
   <header class="hero">
     <div class="eyebrow">Forces from the data · US · 2025–2026</div>
     <h1>Forces from the Data</h1>
     <div class="sub">We read {industry_count} US industries side by side and asked one question: what forces keep showing up? These are the {total} that do — each built out into its own collection, with the real numbers as proof.</div>
   </header>
-  <div class="big"><div class="lbl">The method</div><p>This is the companion to the <a href="../../strategy-under-a-force/index.html">Strategy Under a Force</a> series — but grounded in hard 2025–2026 industry data instead of headlines. Every claim traces back to a specific industry we researched. {totalpages} write-ups across {total} forces and five lenses.</p></div>
+  <div class="big"><div class="lbl">The method</div><p>These forces are read straight from hard 2025–2026 industry data, not headlines. Every claim traces back to a specific industry we researched. {totalpages} write-ups across {total} forces and five lenses.</p></div>
   {sections}
-  <footer>Built from our 2025–2026 US industry research (the <a href="../index.html">{industry_count} industry briefs</a>). A data-grounded companion to <a href="../../strategy-under-a-force/index.html">Strategy Under a Force</a>. Research uses the configured model.</footer>
+  <footer>Built from our 2025–2026 US industry research (the <a href="../index.html">{industry_count} industry briefs</a>).</footer>
 </div></body></html>'''
 open(f'{ROOT}/forces/index.html','w').write(hub)
 print(f"built forces hub: {total} forces / {totalpages} write-ups across {len(bylens)} lenses")

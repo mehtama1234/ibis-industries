@@ -31,7 +31,7 @@ def page(i, s):
     topnav=f'<a href="index.html">← all {len(order)}</a><a href="patterns.html">the patterns</a>'
     if prev: topnav+=f'<a href="{prev}.html">← {e(navtitle[prev])}</a>'
     if nxt: topnav+=f'<a href="{nxt}.html">{e(navtitle[nxt])} →</a>'
-    topnav+='<a href="../../index.html">★ industry briefs</a><a href="../../../strategy-under-a-force/index.html">the 50 forces</a>'
+    topnav+='<a href="../../index.html">★ industry briefs</a><a href="../../economic-intelligence.html">economic intelligence</a>'
     facts="".join(
       f'<div class="fact"><div class="num{" warn" if f.get("warn") else ""}">{e(f.get("num",""))}</div>'
       f'<div class="txt">{e(f.get("txt",""))}</div></div>\n' for f in (w.get('facts') or []))
@@ -112,7 +112,7 @@ hub=f'''<!doctype html>
 </style></head>
 <body class="acc-{ACC}">
 <div class="wrap">
-  <div class="top"><a href="../../index.html">★ the industry briefs</a><a href="../../../strategy-under-a-force/index.html">the 50 forces</a><a href="patterns.html">the patterns →</a></div>
+  <div class="top"><a href="../../index.html">★ the industry briefs</a><a href="../../economic-intelligence.html">economic intelligence</a><a href="patterns.html">the patterns →</a></div>
   <header class="hero">
     <div class="eyebrow">A force from the data · {e(force["lens"])} · 2025–2026</div>
     <h1>{e(force["title"])}</h1>
@@ -123,7 +123,7 @@ hub=f'''<!doctype html>
   <div class="big"><div class="lbl">The one idea</div><p>{e(cap.get("one_sentence", force["signature"]))}</p></div>
   <p style="text-align:center;margin:1.6em 0"><a href="patterns.html" style="display:inline-block;font-family:var(--mono);font-size:.8rem;color:var(--accent);border:1px solid var(--accent);border-radius:24px;padding:10px 22px;text-decoration:none">★ The patterns — what repeats across all {len(order)} &nbsp;→</a></p>
   {seccards}
-  <footer>A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Built from our 2025–2026 US industry research. Research uses the configured model.</footer>
+  <footer>Built from our 2025–2026 US industry research (the <a href="../../index.html">industry briefs</a>).</footer>
 </div></body></html>'''
 open(f'{OUT}/index.html','w').write(hub)
 
@@ -147,7 +147,7 @@ pat=f'''<!doctype html>
 </style></head>
 <body class="acc-{ACC}">
 <div class="wrap">
-  <div class="top"><a href="index.html">← all {len(order)}</a><a href="../../index.html">★ industry briefs</a><a href="../../../strategy-under-a-force/index.html">the 50 forces</a></div>
+  <div class="top"><a href="index.html">← all {len(order)}</a><a href="../../index.html">★ industry briefs</a><a href="../../economic-intelligence.html">economic intelligence</a></div>
   <header class="hero"><div class="eyebrow">The synthesis · what repeats across all {len(order)}</div>
   <h1>The patterns</h1>
   <div class="sub">{e(force["signature"])}</div></header>
@@ -161,7 +161,7 @@ pat=f'''<!doctype html>
   </div>
   <h2>The biggest tension</h2>
   <div class="big warn"><div class="lbl">The one to watch</div><p>{e(cap.get("worry",""))}</p></div>
-  <footer>Drawn from all {len(order)} pages. <a href="index.html">← back</a> · A data-grounded companion to the <a href="../../../strategy-under-a-force/index.html">Strategy Under a Force</a> series. Research uses the configured model.</footer>
+  <footer>Drawn from all {len(order)} pages. <a href="index.html">← back</a> · Built from our 2025–2026 US industry research.</footer>
 </div></body></html>'''
 open(f'{OUT}/patterns.html','w').write(pat)
 print(f"built collection '{force_slug}': {len([s for s in specs if writeups.get(s['slug'])])} pages + index + patterns -> {OUT}")

@@ -128,7 +128,10 @@ def render_subtheme_chip(prefix: str, subtheme: dict) -> str:
 
 
 def company_chip(company: dict, prefix: str = "") -> str:
-    return f'<a class="chip" href="{e(prefix)}company-pages/{e(company["slug"])}.html">{e(company["title"])}</a>'
+    href = f"{e(prefix)}company-pages/{e(company['slug'])}.html"
+    if (ROOT / "company-pages" / f"{company['slug']}.html").exists():
+        return f'<a class="chip" href="{href}">{e(company["title"])}</a>'
+    return f'<span class="chip">{e(company["title"])}</span>'
 
 
 def brief_card(brief: dict) -> str:
