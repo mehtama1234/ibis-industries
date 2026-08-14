@@ -14,6 +14,7 @@ THEMES_JSON = ROOT / "american_themes_taxonomy.json"
 COMPANIES_JSON = ROOT / "company_universe.json"
 OUT = ROOT / "sector-memos.html"
 PAGES_OUT = ROOT / "sector-memos"
+SECTOR_PROSE_JSON = ROOT / "sector_prose.json"  # authored sector prose, keyed by sector slug
 
 
 SECTOR_CONFIG = {
@@ -109,6 +110,7 @@ def build_sector_records() -> list[dict]:
     briefs = load_json(BRIEFS_JSON)
     themes = load_json(THEMES_JSON)["themes"]
     companies = load_json(COMPANIES_JSON)
+    sector_prose = load_json(SECTOR_PROSE_JSON) if SECTOR_PROSE_JSON.exists() else {}
 
     sector_data: dict[str, dict] = {}
     for sector, cfg in SECTOR_CONFIG.items():
@@ -208,6 +210,19 @@ def build_sector_records() -> list[dict]:
         record["diligence_questions"] = build_diligence_questions(sector, record)
         record["advantaged_setups"] = build_advantaged_setups(sector, record)
         record["exposed_setups"] = build_exposed_setups(sector, record)
+        record["sector_takeaway"] = ""
+        prose = sector_prose.get(record["slug"])
+        if prose:
+            if prose.get("outlook"):
+                record["sector_thesis"] = prose["outlook"]
+            if prose.get("takeaway"):
+                record["sector_takeaway"] = prose["takeaway"]
+            if prose.get("advantaged"):
+                record["advantaged_setups"] = prose["advantaged"]
+            if prose.get("exposed"):
+                record["exposed_setups"] = prose["exposed"]
+            if prose.get("diligence"):
+                record["diligence_questions"] = prose["diligence"]
 
     return list(sector_data.values())
 

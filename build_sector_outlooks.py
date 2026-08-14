@@ -208,12 +208,12 @@ def render_sector(record: dict, prefix: str = "") -> str:
   </div>
   <div class="split">
     <div class="panel">
-      <div class="meta">What to do</div>
-      <ul class="list"><li>{e(record['operator_angle'])}</li></ul>
+      <div class="meta">Who's advantaged</div>
+      <ul class="list">{"".join(f"<li>{e(item)}</li>" for item in record.get('advantaged_setups', []))}</ul>
     </div>
     <div class="panel">
-      <div class="meta">What to underwrite</div>
-      <ul class="list"><li>{e(record['investor_angle'])}</li></ul>
+      <div class="meta">Who's exposed</div>
+      <ul class="list">{"".join(f"<li>{e(item)}</li>" for item in record.get('exposed_setups', []))}</ul>
     </div>
   </div>
   <div class="grid" style="margin-top:14px">{lenses}</div>
@@ -279,13 +279,12 @@ def build_detail(record: dict) -> str:
 <div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../sector-outlooks.html">Sector outlooks</a><a href="../sector-memos.html">Sector memos</a></div>
 <div class="eyebrow">{e(record['sector'])} outlook · US · 2025-2026</div>
 <h1>{e(record['sector'])}</h1>
-<p class="sub">{e(record['sector_thesis'])}</p>
+<p class="sub">{e(record.get('sector_takeaway') or record['sector_thesis'])}</p>
 <div class="kpis">
   <div class="kpi"><div class="n">{record['industry_count']}</div><div class="l">Industries</div></div>
   <div class="kpi"><div class="n">{record['lens_count']}</div><div class="l">Lens reads</div></div>
   <div class="kpi"><div class="n">{len(record['subtheme_map'])}</div><div class="l">Mapped subthemes</div></div>
 </div>
-<div class="lead"><p>{e(record['operator_angle'])}</p></div>
 <section class="section">
   {render_sector(record, prefix="../")}
 </section>

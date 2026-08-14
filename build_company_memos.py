@@ -14,6 +14,7 @@ THEMES_JSON = ROOT / "american_themes_taxonomy.json"
 OUT_JSON = ROOT / "company_memos.json"
 OUT_HTML = ROOT / "company-memos.html"
 PAGES_OUT = ROOT / "company-memos"
+PROSE_JSON = ROOT / "company_memos_prose.json"  # human-quality authored prose, keyed by slug
 
 
 STATUS_LABELS = {
@@ -262,10 +263,12 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
 def render_company_card(record: dict) -> str:
     chips = "".join(f'<span class="chip">{e(theme["title"])}</span>' for theme in record["related_themes"][:3])
     lens_chips = "".join(f'<span class="chip">{e(lens["label"])}</span>' for lens in record["lens_cards"][:4])
+    prose = record.get("prose")
+    snippet = prose["headline"] if prose else record["investor_memo"]
     return f"""<article class="card">
   <div class="meta">{e(record['top_sector'])}</div>
   <h3><a href="company-memos/{e(record['slug'])}.html">{e(record['title'])}</a></h3>
-  <p>{e(record['investor_memo'])}</p>
+  <p>{e(snippet)}</p>
   <div class="chips">{chips}</div>
   <div class="chips">{lens_chips}</div>
 </article>"""
@@ -325,6 +328,47 @@ def render_lens_section(lens: dict, prefix: str = "") -> str:
 
 
 def render_memo(record: dict, prefix: str = "") -> str:
+    prose = record.get("prose")
+    if prose:
+        p_theme_chips = "".join(theme_chip(theme, prefix) for theme in record["related_themes"])
+        p_force_chips = "".join(force_chip(force, prefix) for force in record["dominant_forces"])
+        p_constraints = "".join(f'<span class="chip">{e(item)}</span>' for item in record["constraints"])
+        p_sector_mix = "".join(f"<li>{e(item['sector'])}: {item['count']} linked industries</li>" for item in record["sector_mix"])
+        return f"""<section class="memo">
+  <div class="meta">{e(record['top_sector'])} company memo</div>
+  <h3>{e(record['title'])}</h3>
+  <div class="status {status_class(record['status'])}">{e(record['status_label'])}</div>
+  <div class="panel">
+    <div class="meta">What's happening</div>
+    <p>{e(prose['whats_happening'])}</p>
+  </div>
+  <div class="split">
+    <div class="panel"><div class="meta">The investor question</div><p>{e(prose['investor_take'])}</p></div>
+    <div class="panel"><div class="meta">The operator playbook</div><p>{e(prose['operator_take'])}</p></div>
+  </div>
+  <div class="panel">
+    <div class="meta">The core tension</div>
+    <p>{e(prose['the_tension'])}</p>
+  </div>
+  <div class="lead"><p><b>Bottom line:</b> {e(prose['bottom_line'])}</p></div>
+  <div class="chips">{company_page_chip(record, prefix)}{sector_chip(record, prefix)}{p_theme_chips}{p_force_chips}</div>
+  <div class="split">
+    <div class="panel">
+      <div class="meta">Business position</div>
+      <p>{e(record['business_truth'])}</p>
+      <div class="chips">{p_constraints}</div>
+    </div>
+    <div class="panel">
+      <div class="meta">Where it shows up</div>
+      <ul class="list">{p_sector_mix}</ul>
+      <p><b>{record['mention_count']}</b> corpus mentions across <b>{record['industry_count']}</b> linked industries.</p>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="meta">Linked industries</div>
+    <div class="grid">{linked_industry_cards(record)}</div>
+  </div>
+</section>"""
     theme_chips = "".join(theme_chip(theme, prefix) for theme in record["related_themes"]) or '<span class="chip">no direct theme inference</span>'
     force_chips = "".join(force_chip(force, prefix) for force in record["dominant_forces"])
     top_theme_tags = "".join(f'<span class="chip">{e(item)}</span>' for item in record["top_themes"])
@@ -438,6 +482,9 @@ def build_hub(records: list[dict]) -> str:
 
 
 def build_detail(record: dict) -> str:
+    prose = record.get("prose")
+    sub = prose["headline"] if prose else record["business_truth"]
+    lead_html = "" if prose else f'<div class="lead"><p>{e(record["investor_memo"])}</p></div>'
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(record['title'])} Memo — US Industry Briefs</title><style>{CSS}</style></head>
@@ -445,14 +492,14 @@ def build_detail(record: dict) -> str:
 <div class="top"><a href="../index.html">Industry briefs</a><a href="../economic-intelligence.html">Economic intelligence</a><a href="../company-memos.html">Company memos</a><a href="../company-scoreboard.html">Company scoreboard</a></div>
 <div class="eyebrow">Company memo · US · 2025-2026</div>
 <h1>{e(record['title'])}</h1>
-<p class="sub">{e(record['business_truth'])}</p>
+<p class="sub">{e(sub)}</p>
 <div class="kpis">
   <div class="kpi"><div class="n">{record['mention_count']}</div><div class="l">Mentions</div></div>
   <div class="kpi"><div class="n">{record['industry_count']}</div><div class="l">Industries</div></div>
   <div class="kpi"><div class="n">{len(record['related_themes'])}</div><div class="l">Related themes</div></div>
   <div class="kpi"><div class="n">{len(record['lens_cards'])}</div><div class="l">Lens reads</div></div>
 </div>
-<div class="lead"><p>{e(record['investor_memo'])}</p></div>
+{lead_html}
 <section class="section">
   {render_memo(record, prefix="../")}
 </section>
@@ -465,6 +512,14 @@ def main() -> None:
     _, force_to_themes = build_theme_lookup(themes)
     records = [build_record(company, force_to_themes) for company in companies if company.get("page")]
     records.sort(key=lambda row: (-row["mention_count"], row["title"]))
+
+    prose_map = load_json(PROSE_JSON) if PROSE_JSON.exists() else {}
+    matched = 0
+    for record in records:
+        record["prose"] = prose_map.get(record["slug"])
+        if record["prose"]:
+            matched += 1
+    print(f"authored prose matched for {matched}/{len(records)} memos")
 
     PAGES_OUT.mkdir(exist_ok=True)
 

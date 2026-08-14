@@ -1956,6 +1956,8 @@ def build_theme_capital_implications(theme: dict, subthemes: list[dict], compani
 def build_theme_records():
     force_lookup, crosscut_lookup, company_lookup, brief_lookup = build_lookups()
     theme_records = []
+    prose_path = ROOT / "american_themes_prose.json"
+    theme_prose = load_json(prose_path) if prose_path.exists() else {}
 
     for theme in THEMES:
         subtheme_records = []
@@ -2066,6 +2068,21 @@ def build_theme_records():
                 "company_status_counts": company_status_counts,
             }
         )
+
+        prose = theme_prose.get(theme["slug"])
+        if prose:
+            for key in (
+                "deep_read",
+                "core_mechanisms",
+                "structural_tensions",
+                "societal_read",
+                "cultural_read",
+                "consumer_read",
+                "industrial_read",
+                "capital_implications",
+            ):
+                if prose.get(key):
+                    theme_records[-1][key] = prose[key]
 
     return theme_records
 

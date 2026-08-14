@@ -1,0 +1,268 @@
+{
+ "agriculture": {
+  "outlook": "US agriculture is caught between structural collapse and margin divergence. The cattle herd hit a 75-year low, reshaping beef supply and creating wild price swings, while corn prices have crashed to $4.15/bushel after record 2025 production, leaving most grain farmers with $180 per-acre losses. Vertical integration by major processors is accelerating, squeezing wholesalers and independent operators. Beekeeping is imploding—55.6% annual colony losses from varroa viruses—yet pollination fees spike 15% because California almonds have no alternative. Meanwhile, tariffs add $200+ million annually to nursery and floriculture supply chains, collapsing traditional wholesale margins across flower, nursery, and produce distribution.",
+  "takeaway": "Agriculture splits sharply: consolidators and those selling commodities (pollination, precision livestock tech) gain ground, while traditional middlemen and commodity grain farmers face sustained losses.",
+  "advantaged": [
+   "Vertical integrators and major processors (Tyson, JBS, Smithfield) capturing beef supply chain consolidation",
+   "Precision livestock and beekeeping automation tech ($7.94B market, 8.8% CAGR to $12.13B by 2030)",
+   "Direct-to-consumer models and alternative sales channels bypassing wholesale"
+  ],
+  "exposed": [
+   "Independent cattle wholesalers vanishing as processors control sourcing",
+   "Grain farmers facing $180/acre losses on corn at $4.15/bushel",
+   "Traditional flower and nursery stock wholesaling midmen losing tariff-cost race"
+  ],
+  "diligence": [
+   "Is this producer price-locked or riding commodity spot prices, and what's the lock duration?",
+   "For wholesalers, how exposed are margins to processor vertical integration and direct sourcing?",
+   "What tariff scenarios are embedded in working capital and 2027 growth forecasts?"
+  ]
+ },
+ "business-services": {
+  "outlook": "Business services is bifurcating between obsolescence and resilience. Copier wholesaling is in freefall (−9.8% in 2025), squeezed by digitalization, remote work, OEM direct-to-client shift, and tariff headwinds. Traditional office-equipment distribution has no future. Janitorial services, logistics consulting, and credit repair grow in absolute dollars, but document preparation stalls (AI transcription now 95%+ accurate) and private detective work softens despite post-pandemic recovery. Consolidation is relentless: small operators close or merge. The winning positions are highly specialized—recycling automation ($27.7B at 6-7% CAGR), managed print services inside OEM ecosystems, and fragmented labor-intensive services (maids, cleaners) where scale and brand matter.",
+  "takeaway": "Wholesaling and undifferentiated services face structural erasure; specialized tech services and regulated compliance operations grow, but indie operators lose share to consolidators.",
+  "advantaged": [
+   "AI-powered electronic goods recycling and material recovery (6-7% annual growth, $27.7B market)",
+   "Managed print services within OEM ecosystems (9.3% growth to $53.51B, 40% cloud-based by 2026)",
+   "Highly specialized labor services (janitorial, building cleaning) where multiunit operators can enforce standards"
+  ],
+  "exposed": [
+   "Copier and office equipment wholesalers declining −9.8% as OEMs bypass channels",
+   "Small independent document-preparation shops losing to AI transcription (95%+ accuracy)",
+   "Solo contractors in cleaning and building services being undercut by consolidated multiunit operators"
+  ],
+  "diligence": [
+   "For wholesalers, what portion of margin comes from products vs. services, and how fast is that ratio shifting?",
+   "For labor services, is the business defensible at the multiunit operator scale, or just a commodity margin play?",
+   "How dependent are margins on tariff stability for imported equipment or inputs?"
+  ]
+ },
+ "construction": {
+  "outlook": "Construction is a tale of two economies. Data-center buildout exploded 190% in 2025 starts, driven by AI compute demand, while traditional office construction hit a 10-year low. Residential builders are trapped in a $166–170B flat equilibrium, squeezed by tariff shocks, elevated rates, labor scarcity, and margin compression that is consolidating the industry around top-tier players (D.R. Horton, Lennar, PulteGroup). Remodeling and repair work (painting, insulation retrofit, plumbing supplies) stay stronger than new construction, but materials inflation and labor costs cut both ways. Infrastructure spending supports tunnel, transit, and bridge work, though volatility remains high. The bifurcation is brutal: scale players capture cash flow; smaller operators commoditize.",
+  "takeaway": "Scale players win in residential and data centers; smaller builders and specialty contractors face margin compression unless sheltered by infrastructure spending or geography.",
+  "advantaged": [
+   "Top-tier home builders (D.R. Horton, Lennar, PulteGroup) capturing share through consolidation and cash-flow strength",
+   "Data-center construction (190% start growth in 2025) benefiting from AI infrastructure buildout",
+   "Retrofit, remodeling, and repair specialists (insulation, painting, plumbing) serving repair cycle over new construction"
+  ],
+  "exposed": [
+   "Mid-sized home builders facing margin compression from tariffs, rates, and labor scarcity",
+   "Specialty trades (painting, exterior cleaning) losing pricing power to rising labor and customer acquisition costs",
+   "Municipal and commercial projects delayed by cost uncertainty and elevated financing"
+  ],
+  "diligence": [
+   "What percentage of backlog is locked-price vs. cost-plus, and what tariff escalation clauses exist?",
+   "For specialty trades, are you consolidating or defending a geographic/niche moat, or just riding margin erosion?",
+   "How much project cash flow depends on municipal funding cycles vs. private capital?"
+  ]
+ },
+ "consumer-services": {
+  "outlook": "Consumer services are splitting by discretion and defensibility. Golf is reversing a 20-year decline, attracting under-35 players and women, yet operators are margin-squeezed between pricing power constraints and rising labor-maintenance costs. Tutoring and driving schools gain on learning-loss and driver-safety demand but face digital price competition. For-profit universities struggle against falling enrollment (−2% in fall 2025) and federal earnings rules. The real resilience is in essentials—maids, nannies, and gardeners serving high-income households; childcare franchises growing despite tuition hikes and declining births. Funeral services are flat and consolidating (three national players), losing volume to cremation (63%+ in 2025). Most discretionary services are exposed to consumer retrenchment and can only defend margins through scale or specialization.",
+  "takeaway": "Essentials and high-income services (childcare, household help) hold up; discretionary recreation and education face revenue pressure unless reaching underserved demographics or building moats.",
+  "advantaged": [
+   "Household help (maids, nannies, gardeners) serving high-income families insulated from consumer retrenchment",
+   "Childcare franchises with strong curriculum positioning despite birth decline and tuition pressure",
+   "Golf operators accessing under-35 women demographics and institutional capital despite margin constraints"
+  ],
+  "exposed": [
+   "For-profit universities facing −2% enrollment decline and federal earnings-accountability rules",
+   "Tutoring franchises competing with low-cost digital alternatives and uneven test-prep demand",
+   "Funeral and cemetery services losing traditional burial volume to cremation trends (63%+)"
+  ],
+  "diligence": [
+   "For discretionary services, what percentage of customer base is trading down, and what's the stickiness of price increases?",
+   "For education franchises, how exposed are enrollments to demographic decline and federal rule changes?",
+   "Can golf operators actually defend margins against labor and maintenance cost inflation, or is growth illusory?"
+  ]
+ },
+ "energy-and-environment": {
+  "outlook": "Energy is consolidating around production and infrastructure while small players get wedged. Record 2025 US hydrocarbon output (crude, gas) supported oil field services, but rig counts softened and producer capital discipline constrained revenue. Coal is in terminal decline as utilities flee thermal generation for cheaper gas and renewables; coal wholesalers face lower 2026 demand despite $19B revenue base. Precious-metal mining is booming on gold prices ($5,200+/oz in 2026) and central-bank demand, but production growth is hobbled by labor shortages, aging infrastructure, and tariff-driven costs. Waste and recycling operators earn reliable tipping fees, but lower waste throughput and regulatory complexity pressure margins. The winners are those with long-life infrastructure (geothermal, waste), locked government contracts, or commodity upside (gold, critical minerals).",
+  "takeaway": "Oil and gas field services win on US energy output; coal is terminal; mining and waste operate on commodity and regulatory tailwinds, not growth.",
+  "advantaged": [
+   "Oil and gas field services (drilling, completion, workover) tied to record US hydrocarbon output",
+   "Precious-metal mining profiting from gold price ($5,200+/oz) and central-bank/ETF demand",
+   "Waste-disposal and landfill operators earning recurring tipping fees and serving municipal demand"
+  ],
+  "exposed": [
+   "Coal wholesalers and miners declining as thermal generation yields to gas and renewables",
+   "Oil field services exposed to volatile rig counts and producer capital discipline",
+   "Smaller mineral explorers lacking capital for advanced geothermal or mining project risk"
+  ],
+  "diligence": [
+   "For oil services, what's your rig utilization sensitivity and are margins locked or spot-priced?",
+   "For coal, what's the realistic shrinkage rate and export-tariff exposure?",
+   "For mining, how dependent are you on labor availability and tariff stability for equipment and inputs?"
+  ]
+ },
+ "finance-and-insurance": {
+  "outlook": "Finance and insurance show deep bifurcation. Auto financing is in crisis—affordability collapse, record subprime delinquencies, and EV lease depreciation are shrinking the market as payment shocks and credit stress ripple through lenders. Prime borrowers (720+ FICO) remain resilient, but subprime is brutal. Credit card processing and money transfer is booming (+11-20% annually, $87-208B market), driven by merchant volume and payment digitalization, but profitability is besieged by regulatory fragmentation, merchant fee revolt, and consolidation pressure (Stripe-PayPal rumors). Property and casualty insurance just returned to strong profitability after weak 2022-2023, but homeowner catastrophe and commercial casualty loss severity remain pressure points. Custody and asset services expand at 3.7% on digitization and alternatives, though fee pressure is intense. Debt collection is harvesting value from record consumer debt and retreating regulation.",
+  "takeaway": "Auto finance is imploding; payment processors and insurance underwriting gain; niche finance services win on scale or specialization, not volume.",
+  "advantaged": [
+   "Prime auto financing (FICO 720+) and used-car lending staying resilient as lenders segment credit",
+   "Credit card processing and payments infrastructure (11-20% annual growth) on merchant volume and digital shift",
+   "Property and casualty insurers returning to profitability after rate hardening and investment income recovery"
+  ],
+  "exposed": [
+   "Subprime auto lending facing record delinquencies and tariff-driven price shocks",
+   "EV lease programs bleeding value from depreciation and early lease terminations",
+   "Online mortgage and insurance brokers squeezed between shrinking affordability and automated disintermediation"
+  ],
+  "diligence": [
+   "For auto finance, what's the FICO distribution of your portfolio and delinquency curve vs. 2025 baselines?",
+   "For processors, what portion of margin is under assault from regulatory fragmentation or merchant consolidation?",
+   "For insurance, how is your underwriting discipline holding up as competition returns and rate discipline softens?"
+  ]
+ },
+ "food-and-drink": {
+  "outlook": "Food and drink is contracting under multiple pressures: spirits are in sharp contraction (−2.2% total sales, bourbon −4.9% volume) after two decades of premiumization, hit by overcapacity, tariffs, and the 2026 bankruptcy of RNDC (second-largest distributor). Beer production dropped 5.7% in 2025; craft breweries fell to 9,344 in June 2026 with 481 closures; consumers are shifting to premium and non-alcoholic. Fast food is a mature $424B industry growing below 1% as consumer traffic deflates from GLP-1 adoption and retrenchment, while labor costs (California $20/hour minimum now standard) and tariff-driven food inflation relentlessly compress margins. Independent food trucks face saturation, rising costs, and fragmented local regulation. The only bright spots are convenience (spirits RTDs up 16.4%, smoothie bowls growing), premium positioning, and efficiency plays (automation, waste reduction). The industry is consolidating toward scale players with automation and brands; indies are commoditizing.",
+  "takeaway": "Alcohol and casual dining are in volume collapse; survival requires scale, premium positioning, or operational automation—independents are margin-squeezed.",
+  "advantaged": [
+   "Large restaurant chains and breweries with scale to absorb labor cost inflation and automation investment",
+   "Premium and alternative-beverage segments (spirits RTDs +16.4%, non-alcoholic beer) capturing volume shift",
+   "Franchised concepts with brand power and operational standards (fast food, ice cream, bagel chains) over independents"
+  ],
+  "exposed": [
+   "Craft distilleries and small bourbon brands facing tariffs, distribution channel closures, and overcapacity",
+   "Independent food trucks and casual kitchens caught in saturation, labor inflation, and regulatory fragmentation",
+   "Fast-food franchisees facing GLP-1-driven traffic deflation and California $20/hour labor cost floor"
+  ],
+  "diligence": [
+   "For beverage brands, what's your tariff exposure and distributor concentration risk post-RNDC bankruptcy?",
+   "For restaurant operators, what percentage of menu costs are locked or exposed to commodity and tariff shocks?",
+   "Are your labor economics sustainable at current pricing, or does margin recovery require automation or unit closures?"
+  ]
+ },
+ "healthcare": {
+  "outlook": "Healthcare bifurcates sharply: high-acuity inpatient and specialty care are consolidating around scale and automation, while primary and outpatient operators compete in a fragmented margin squeeze. Telehealth erodes geography-protected practices, private equity reshapes ownership, and labor scarcity forces wage inflation across clinics and hospitals. The rehab and mental-health sectors face existential pressure—Medicaid disenrollments evaporate patient volume, overdose rates plateau, and digital alternatives commoditize simpler cases, leaving only integrated networks and PE-backed consolidators standing.",
+  "takeaway": "Scale and specialization win; fragmented practitioners lose to consolidation and digital substitutes.",
+  "advantaged": [
+   "Large health systems and PE platforms with capital to acquire fragmentary clinics and automate diagnostics",
+   "Specialists in high-acuity procedures and advanced laser/AI technology that primary care cannot match",
+   "Institutional and long-term-care pharmacies capturing recurring revenue from occupancy and Part D coverage"
+  ],
+  "exposed": [
+   "Independent rehab clinics caught between Medicaid cliff drops and PE buyout pressures",
+   "Small mental-health practices undercut by digital-first platforms and workforce shortages",
+   "Standalone ambulance operators crushed by reimbursement rates 23-69% below cost"
+  ],
+  "diligence": [
+   "Is this business consolidating (acquired/being acquired) and by which PE sponsor or health system?",
+   "What mix of payers does this provider depend on—how exposed to Medicaid cliffs or Medicare rate cuts?",
+   "Can this practice automation (diagnostics, admin, telehealth) or is it entirely labor-dependent?"
+  ]
+ },
+ "manufacturing": {
+  "outlook": "US manufacturing is caught between tariff and reshoring winds pushing costs up and strategic nearshoring flows pushing production away. Legacy capital-intensive sectors (brakes, glass, brick) face secular decline as substitutes and EVs reduce demand, while tariff-vulnerable importers scramble to find domestic alternatives or give up. Niche high-tech equipment (air purification, diagnostics, RFID systems) and defense-tied armored vehicles grow steadily, but small players suffocate under tariff passes-through and labor costs.",
+  "takeaway": "Tariff-shielded niches and defense suppliers survive; undifferentiated legacy manufacturers exit.",
+  "advantaged": [
+   "Defense-tier and strategic manufacturing with government pricing power and tariff protection (armored vehicles, specialized electronics)",
+   "High-margin niche equipment manufacturers selling differentiated capabilities into regulation-driven demand (activated carbon for PFAS rules, air purification for facility codes)",
+   "Capital-intensive players with scale to absorb tariff costs and reshoring capex (large machinery, specialty refractories)"
+  ],
+  "exposed": [
+   "Standardized commodity manufacturers with low switching costs bleeding to tariff-sensitive imports and Mexican competitors",
+   "Legacy segments shrinking via substitution (brake friction systems losing share to regenerative braking in EVs, print machinery declining with newspaper/magazine death)",
+   "Small regional manufacturers unable to absorb 50%+ tariff increases or geographic shifts"
+  ],
+  "diligence": [
+   "What percent of COGS is tariff-exposed and where is final assembly? What's the reshoring/nearshore timeline?",
+   "Is this product a substitution target (like friction brakes vs. regenerative braking) and what's the installed-base replacement runway?",
+   "Does this manufacturer have tariff-relief status, defense contracts, or other non-price moats?"
+  ]
+ },
+ "media-and-entertainment": {
+  "outlook": "Media fragments into profitable niches and unprofitable giants. Live performance and sports-centered venues grow because experience and community still command premium spend, while passive filmed entertainment compresses into streaming bundles and ad-supported tiers. Print withers except greeting cards and niche publishing. Independent music and creators thrive on direct distribution, but radio and cinema limp toward structural decline unless they escape being commodity feedstock for platforms.",
+  "takeaway": "Live, community, and direct-to-fan models win; passive consumption and print lose.",
+  "advantaged": [
+   "Broadway and live-performance venues capturing premium pricing from tourism recovery and limited supply",
+   "Streaming platforms leveraging sports rights, FAST channels, and advertising to diversify away from pure subscription churn",
+   "Independent music labels and creators using digital distribution and multiple revenue streams (sync, merchandise, direct sales)"
+  ],
+  "exposed": [
+   "Casual moviegoing and theater circuits losing to event-driven hits and streaming cannibalization",
+   "Print-focused wholesalers and greeting-card publishers declining to flat as digital and direct distribution bypass them",
+   "Traditional radio and talent-production studios facing commoditization from podcasting and home-studio technology"
+  ],
+  "diligence": [
+   "Does this media business own audience relationship or is it dependent on a platform (YouTube, Spotify, streaming service)?",
+   "For live/venue businesses, what's the capital intensity and how tight is capacity vs. demand?",
+   "Is this business collecting recurring direct revenue (subscriptions, memberships) or one-time transactional?"
+  ]
+ },
+ "real-estate": {
+  "outlook": "Real estate splits into winners and losers by use case. Housing undersupply and multifamily absorption support development in constrained markets, while industrial and AI-datacenter demand surge. Conversely, secondary office and traditional retail face structural decline. Apartment rents plateau after years of growth, forcing rent-stabilized markets into profitability crises. Conveyancing automates and consolidates, while property management follows rent and occupancy cycles with limited upside.",
+  "takeaway": "Prime office, industrial, and datacenters boom; secondary office and traditional retail face structural decline.",
+  "advantaged": [
+   "Institutional property managers and REIT platforms with scale to absorb vacant secondary office space and pivot to industrial or residential",
+   "AI-datacenter developers and power-adjacent land with government and hyperscaler demand outpacing supply",
+   "Online rental marketplaces (Apartments.com, Zillow Rentals) capturing scale and data leverage in high-velocity transaction markets"
+  ],
+  "exposed": [
+   "Regional mall operators managing obsolete suburban assets with no profitable adaptive-reuse path",
+   "Multifamily owners in overbuilt Sun Belt markets now competing on price with no rent upside",
+   "Small independent conveyancing shops and title firms squeezed by automation and consolidation"
+  ],
+  "diligence": [
+   "What's the actual economic occupancy and rent trend in this property or portfolio—is it benefiting from undersupply or facing absorption headwinds?",
+   "For developments: is this in a zoning-constrained, high-barrier market or a commodity supply-heavy market?",
+   "Is the business exposed to transaction volume (conveyancing, brokerage) or recurring occupancy cash flow?"
+  ]
+ },
+ "retail": {
+  "outlook": "Specialty retail dies unless it commands high-touch, expert, or premium positioning. Lingerie, furniture, cookware, and plus-size clothing all hemorrhage to online pure-plays and mass merchants. Toy and art sales migrate online. Only categories where curation, fitting, or premium brand experience matter—bridal, high-end jewelry, luxury—retain foot traffic and margins. Tariffs punish all importers, and home-goods weakness drags everything down.",
+  "takeaway": "Online and mass-merchant channels displace specialty retail except where expertise and high-touch experience drive loyalty.",
+  "advantaged": [
+   "Omnichannel and DTC-native brands (Skims, Rihanna's Savage X Fenty) capturing design control and margin without store overhead",
+   "Premium and high-touch specialties (luxury bridal, fine art auctions, collectibles) where curation and expert fitting command pricing power",
+   "Online marketplaces and logistics optimizers handling fragmented long-tail SKUs (toys, collectibles, niche home goods)"
+  ],
+  "exposed": [
+   "Brick-and-mortar specialty chains (furniture, cookware, plus-size apparel) losing share to online and mass-merchant private label",
+   "Import-dependent retailers facing tariff pass-through and consumer price sensitivity on discretionary goods",
+   "Undifferentiated mid-market players (legacy department store competitors) squeezed between online price and brand prestige"
+  ],
+  "diligence": [
+   "What percentage of sales are online and what's the trend? Is the store footprint contracting or expanding?",
+   "Does this retailer own the supply chain or brand, or is it reselling manufacturers' commoditized SKUs?",
+   "How tariff-exposed is COGS and what's the pricing power to pass through tariff cost increases?"
+  ]
+ },
+ "technology-and-digital": {
+  "outlook": "Tech bifurcates into defensible scale and niche specialization. AI, cloud, cybersecurity, and enterprise software command pricing power and growing budgets. Payment processing and fintech infrastructure expand with e-commerce and wallet velocity. But commodity bootcamps, general web design, and consumer-facing content compete toward zero. Data-center power scarcity reprices infrastructure and consolidates operators. Precision agriculture remains adoption-constrained by farm size and capital availability.",
+  "takeaway": "Enterprise, infrastructure, and AI-adjacent software are in high demand; consumer-facing and commodity services commoditize.",
+  "advantaged": [
+   "Enterprise software with compliance, cloud, or AI tailwinds (certification in security/cloud, payment processors, integrated workforce platforms)",
+   "Data-center and colocation operators with power access and grid relationships as hyperscalers compete for energy",
+   "Integrated e-trading, wealth and fintech platforms capturing net interest spreads and subscription monetization"
+  ],
+  "exposed": [
+   "Commodity bootcamps and IT training losing to free learning and AI-assisted self-education",
+   "Standalone web design services undercut by DIY builders, AI site generation, and offshore labor",
+   "Small SaaS and app developers facing margin compression in crowded markets without network effects or switching costs"
+  ],
+  "diligence": [
+   "Is this software sticky (switching costs, compliance lock-in, integrations) or commodity (easily replaced)?",
+   "For infrastructure (data center, payment): what's the competitive advantage—power access, regulatory status, switching-cost moat?",
+   "Does this business own the customer relationship and pricing power or is it a reseller or channel dependency?"
+  ]
+ },
+ "transport-and-logistics": {
+  "outlook": "Logistics confronts structural labor scarcity and tariff-spiked costs while passenger and freight demand normalizes. Airlines face record aircraft scarcity and tariff-driven production bottlenecks, but full capacity and rising labor expenses compress margins. Trucking implodes as bankruptcies and small-carrier exits compete with automated routing and fewer shipper dollars. Ports and airports recover to peak volumes but underfunded infrastructure and labor shortages limit profitability. Only specialized niches (hazmat, oversized loads) and large consolidated operators survive.",
+  "takeaway": "Scale and specialization survive labor and cost pressures; small generalists and mature commodity services exit.",
+  "advantaged": [
+   "Large integrated trucking and logistics platforms with AI routing, fleet scale, and fuel hedging offsetting per-unit margin compression",
+   "Specialized freight (hazmat, oversized loads, dangerous goods) where expertise and compliance licensing create pricing power",
+   "Port operators and airport systems with government backing and essential-infrastructure pricing authority"
+  ],
+  "exposed": [
+   "Small independent trucking companies squeezed between tariff-spiked fuel costs, driver scarcity, and shipper rate resistance",
+   "General freight trucking caught in structural oversupply and rate compression as bankruptcies reduce capacity but never absorb it",
+   "Public school bus contractors facing ridership declines and school-budget discipline with no pricing power"
+  ],
+  "diligence": [
+   "For trucking/freight: what's the weighted revenue by service type—is this generalist or specialized? What's the driver retention rate?",
+   "For aviation: what's the aircraft utilization and rental-rate environment? Is this exposed to airline bankruptcies?",
+   "Is this transportation business tied to labor unions, tariff-sensitive routes, or fuel pass-through contracts?"
+  ]
+ }
+}
