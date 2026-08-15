@@ -28,6 +28,8 @@ SCOREBOARD_HTML = os.path.join(ROOT, "company-scoreboard.html")
 COMPARISONS_JSON = os.path.join(ROOT, "company_comparisons.json")
 COMPARISONS_HTML = os.path.join(ROOT, "company-comparisons.html")
 PAGES_DIR = os.path.join(ROOT, "company-pages")
+_MODELLINE_PATH = os.path.join(ROOT, "business_model_prose.json")
+MODELLINE = json.load(open(_MODELLINE_PATH, encoding="utf-8")) if os.path.exists(_MODELLINE_PATH) else {}
 
 FORCES_BY_SLUG = {force["slug"]: force for force in FORCE_TRANSLATIONS}
 LENSES_BY_SLUG = {lens["slug"]: lens for lens in LENSES}
@@ -1000,6 +1002,7 @@ def build_company_records() -> list[dict[str, Any]]:
             constraints = dominant_lens["binding_constraints"]
             likely_losers = dominant_lens["likely_losers"]
             cluster_slug = dominant_lens_slug
+            business_truth = MODELLINE.get(cluster_slug, business_truth)
         elif pseudo_cluster_slug:
             pseudo = PSEUDO_CLUSTER_CONFIG[pseudo_cluster_slug]
             lens_title = pseudo["title"]
@@ -1009,6 +1012,7 @@ def build_company_records() -> list[dict[str, Any]]:
             constraints = pseudo["constraints"]
             likely_losers = pseudo["likely_losers"]
             cluster_slug = pseudo_cluster_slug
+            business_truth = MODELLINE.get(cluster_slug, business_truth)
         else:
             lens_title = "Unassigned"
             best_owner = "mixed / case-specific"
@@ -1215,7 +1219,7 @@ def build_clusters_page(clusters: list[dict[str, Any]]) -> str:
         f"""<article class="card">
   <div class="meta">{e(cluster['best_owner_type'])}</div>
   <h3>{e(cluster['title'])}</h3>
-  <p>{e(cluster['thesis'])}</p>
+  <p>{e(MODELLINE.get(cluster['slug'], cluster['thesis']))}</p>
   <div class="stats"><span>{cluster['company_count']} companies</span><span>{cluster['advantaged_count']} advantaged</span><span>{cluster['exposed_count']} exposed</span></div>
   <div class="meta" style="margin-top:14px">Signals</div>
   <div class="chips">{''.join(f'<span class="chip">{e(force)}</span>' for force in cluster['top_forces'])}</div>

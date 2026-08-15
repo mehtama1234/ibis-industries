@@ -202,6 +202,8 @@ def build_outlook_records() -> list[dict]:
     grouped = build_cluster_company_map(companies)
     prose_path = ROOT / "company_cluster_prose.json"
     cluster_prose = json.load(prose_path.open(encoding="utf-8")) if prose_path.exists() else {}
+    model_path = ROOT / "business_model_prose.json"
+    model_prose = json.load(model_path.open(encoding="utf-8")) if model_path.exists() else {}
     records = []
 
     for slug, members in grouped.items():
@@ -282,6 +284,7 @@ def build_outlook_records() -> list[dict]:
                 f"The investor question is which version of {cluster.get('title', slug.replace('-', ' ').title()).lower()} owns the bottleneck, routinizes the complexity, and keeps the new behavior legible enough to hold pricing, throughput, or renewal power."
             ),
         }
+        record["thesis"] = model_prose.get(slug, record["thesis"])
         prose = cluster_prose.get(slug)
         if prose:
             if prose.get("outlook"):

@@ -15,6 +15,7 @@ OUT_JSON = ROOT / "company_memos.json"
 OUT_HTML = ROOT / "company-memos.html"
 PAGES_OUT = ROOT / "company-memos"
 PROSE_JSON = ROOT / "company_memos_prose.json"  # human-quality authored prose, keyed by slug
+MODEL_PROSE_JSON = ROOT / "business_model_prose.json"  # authored business-model one-liners, keyed by cluster slug
 
 
 STATUS_LABELS = {
@@ -142,6 +143,9 @@ def build_lens_summary(record: dict, bucket: str, theme_titles: list[str]) -> st
     return f"{title} is being repriced industrially through {names}, where bottlenecks, compliance, infrastructure, procurement, and system ownership increasingly govern the margin pool around {cluster} economics."
 
 
+_MODEL_PROSE = json.load(MODEL_PROSE_JSON.open(encoding="utf-8")) if MODEL_PROSE_JSON.exists() else {}
+
+
 def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
     sector = top_sector(company) or "Unknown"
     related_themes = infer_related_themes(company, force_to_themes)
@@ -209,7 +213,7 @@ def build_record(company: dict, force_to_themes: dict[str, list[dict]]) -> dict:
         "status": company["status"],
         "status_label": STATUS_LABELS.get(company["status"], company["status"].title()),
         "business_model_cluster_title": company["business_model_cluster_title"],
-        "business_truth": company["business_truth"],
+        "business_truth": _MODEL_PROSE.get(company.get("business_model_cluster_slug"), company["business_truth"]),
         "top_sector": sector,
         "sector_angle": SECTOR_ANGLES.get(sector, "The key issue is whether the company sits on the right side of the sector's governing constraints."),
         "mention_count": company["mention_count"],

@@ -133,7 +133,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -351,7 +351,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -577,7 +577,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -801,7 +801,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -1030,7 +1030,7 @@
       ],
       "business_model_cluster_slug": "reimbursement-managed-care-operator",
       "business_model_cluster_title": "Reimbursement-Managed Care Operator",
-      "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+      "business_truth": "Reimbursement management, staffing coordination, and referral flow beat independent healthcare operators.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
       "constraints": [
@@ -1238,7 +1238,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -1454,7 +1454,7 @@
       ],
       "business_model_cluster_slug": "reimbursement-managed-care-operator",
       "business_model_cluster_title": "Reimbursement-Managed Care Operator",
-      "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+      "business_truth": "Reimbursement management, staffing coordination, and referral flow beat independent healthcare operators.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
       "constraints": [
@@ -1666,7 +1666,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -1875,7 +1875,7 @@
       ],
       "business_model_cluster_slug": "software-and-network-platform",
       "business_model_cluster_title": "Software and Network Platform",
-      "business_truth": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+      "business_truth": "Workflow, compute, and installed-base advantage compound across large customer systems for software leaders.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Scale matters because product, data, channel, and infrastructure reuse create operating leverage and lock-in.",
       "constraints": [
@@ -2101,7 +2101,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -2320,7 +2320,7 @@
       ],
       "business_model_cluster_slug": "reimbursement-managed-care-operator",
       "business_model_cluster_title": "Reimbursement-Managed Care Operator",
-      "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+      "business_truth": "Reimbursement management, staffing coordination, and referral flow beat independent healthcare operators.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
       "constraints": [
@@ -2540,7 +2540,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -2756,7 +2756,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -2961,7 +2961,7 @@
       ],
       "business_model_cluster_slug": "reimbursement-managed-care-operator",
       "business_model_cluster_title": "Reimbursement-Managed Care Operator",
-      "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+      "business_truth": "Reimbursement management, staffing coordination, and referral flow beat independent healthcare operators.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
       "constraints": [
@@ -3174,7 +3174,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -3407,7 +3407,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -3630,7 +3630,7 @@
       ],
       "business_model_cluster_slug": "software-and-network-platform",
       "business_model_cluster_title": "Software and Network Platform",
-      "business_truth": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+      "business_truth": "Workflow, compute, and installed-base advantage compound across large customer systems for software leaders.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Scale matters because product, data, channel, and infrastructure reuse create operating leverage and lock-in.",
       "constraints": [
@@ -3842,7 +3842,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -4050,7 +4050,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -4253,7 +4253,7 @@
       ],
       "business_model_cluster_slug": "software-and-network-platform",
       "business_model_cluster_title": "Software and Network Platform",
-      "business_truth": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+      "business_truth": "Workflow, compute, and installed-base advantage compound across large customer systems for software leaders.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Scale matters because product, data, channel, and infrastructure reuse create operating leverage and lock-in.",
       "constraints": [
@@ -4460,7 +4460,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -4661,7 +4661,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -4873,7 +4873,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -5108,7 +5108,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -5337,7 +5337,7 @@
       ],
       "business_model_cluster_slug": "inventory-and-credit-distributor",
       "business_model_cluster_title": "Inventory and Credit Distributor",
-      "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+      "business_truth": "Inventory stocking, credit terms, technical knowledge, and local reach entrench regional middlemen.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Scale matters because working capital, procurement, and service reliability make the middleman hard to remove.",
       "constraints": [
@@ -5569,7 +5569,7 @@
       ],
       "business_model_cluster_slug": "software-and-network-platform",
       "business_model_cluster_title": "Software and Network Platform",
-      "business_truth": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+      "business_truth": "Workflow, compute, and installed-base advantage compound across large customer systems for software leaders.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Scale matters because product, data, channel, and infrastructure reuse create operating leverage and lock-in.",
       "constraints": [
@@ -5794,7 +5794,7 @@
       ],
       "business_model_cluster_slug": "inventory-and-credit-distributor",
       "business_model_cluster_title": "Inventory and Credit Distributor",
-      "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+      "business_truth": "Inventory stocking, credit terms, technical knowledge, and local reach entrench regional middlemen.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Scale matters because working capital, procurement, and service reliability make the middleman hard to remove.",
       "constraints": [
@@ -6015,7 +6015,7 @@
       ],
       "business_model_cluster_slug": "inventory-and-credit-distributor",
       "business_model_cluster_title": "Inventory and Credit Distributor",
-      "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+      "business_truth": "Inventory stocking, credit terms, technical knowledge, and local reach entrench regional middlemen.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Scale matters because working capital, procurement, and service reliability make the middleman hard to remove.",
       "constraints": [
@@ -6234,7 +6234,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -6442,7 +6442,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -6640,7 +6640,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -6853,7 +6853,7 @@
       ],
       "business_model_cluster_slug": "inventory-and-credit-distributor",
       "business_model_cluster_title": "Inventory and Credit Distributor",
-      "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+      "business_truth": "Inventory stocking, credit terms, technical knowledge, and local reach entrench regional middlemen.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Scale matters because working capital, procurement, and service reliability make the middleman hard to remove.",
       "constraints": [
@@ -7082,7 +7082,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -7305,7 +7305,7 @@
       ],
       "business_model_cluster_slug": "insurance-risk-platform",
       "business_model_cluster_title": "Insurance Risk Platform",
-      "business_truth": "This is a risk-bearing insurance platform that wins when underwriting data, claims discipline, pricing power, and regulatory navigation scale together.",
+      "business_truth": "Underwriting data, claims discipline, and pricing power scale together for risk-bearing platforms.",
       "best_owner_type": "scaled risk manager",
       "why_owner_type": "The economics favor carriers with enough data, capital, and technology to reprice risk and absorb volatility faster than smaller rivals.",
       "constraints": [
@@ -7530,7 +7530,7 @@
       ],
       "business_model_cluster_slug": "healthcare-product-and-distribution-platform",
       "business_model_cluster_title": "Healthcare Product and Distribution Platform",
-      "business_truth": "This is a healthcare supply platform that wins when regulatory know-how, distribution reach, procurement leverage, and clinical product breadth sit between care delivery and manufacturers.",
+      "business_truth": "Regulatory expertise and procurement leverage position intermediaries between care delivery and manufacturers.",
       "best_owner_type": "scaled healthcare intermediary",
       "why_owner_type": "The winners are the operators that can combine compliance, inventory, contracting, and channel control across fragmented providers and institutional buyers.",
       "constraints": [
@@ -7744,7 +7744,7 @@
       ],
       "business_model_cluster_slug": "healthcare-product-and-distribution-platform",
       "business_model_cluster_title": "Healthcare Product and Distribution Platform",
-      "business_truth": "This is a healthcare supply platform that wins when regulatory know-how, distribution reach, procurement leverage, and clinical product breadth sit between care delivery and manufacturers.",
+      "business_truth": "Regulatory expertise and procurement leverage position intermediaries between care delivery and manufacturers.",
       "best_owner_type": "scaled healthcare intermediary",
       "why_owner_type": "The winners are the operators that can combine compliance, inventory, contracting, and channel control across fragmented providers and institutional buyers.",
       "constraints": [
@@ -7957,7 +7957,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -8160,7 +8160,7 @@
       ],
       "business_model_cluster_slug": "reimbursement-managed-care-operator",
       "business_model_cluster_title": "Reimbursement-Managed Care Operator",
-      "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+      "business_truth": "Reimbursement management, staffing coordination, and referral flow beat independent healthcare operators.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "Margin depends on throughput, payer mix, staffing, and documentation discipline, which favor scaled operators.",
       "constraints": [
@@ -8372,7 +8372,7 @@
       ],
       "business_model_cluster_slug": "regulated-workflow-infrastructure",
       "business_model_cluster_title": "Regulated Workflow Infrastructure",
-      "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+      "business_truth": "Regulatory complexity turns testing, claims, identity, and compliance into recurring software demand.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Recurring workflow, compliance, and auditability economics favor software-centric businesses with productized fulfillment.",
       "constraints": [
@@ -8598,7 +8598,7 @@
       ],
       "business_model_cluster_slug": "software-and-network-platform",
       "business_model_cluster_title": "Software and Network Platform",
-      "business_truth": "This is a software/network platform business that wins when workflows, compute, distribution, or installed-base leverage compound across a large customer system.",
+      "business_truth": "Workflow, compute, and installed-base advantage compound across large customer systems for software leaders.",
       "best_owner_type": "software-led consolidator",
       "why_owner_type": "Scale matters because product, data, channel, and infrastructure reuse create operating leverage and lock-in.",
       "constraints": [
@@ -8832,7 +8832,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -9059,7 +9059,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -9290,7 +9290,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -9518,7 +9518,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -9740,7 +9740,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -9952,7 +9952,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -10181,7 +10181,7 @@
       ],
       "business_model_cluster_slug": "niche-food-brand-producer",
       "business_model_cluster_title": "Niche Food Brand Producer",
-      "business_truth": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+      "business_truth": "Niche food makers navigate health-driven demand, input volatility, and retailer leverage through differentiation.",
       "best_owner_type": "specialist/niche expert",
       "why_owner_type": "This works when brand, formulation, and mix discipline matter enough to offset retailer leverage and volatile inputs.",
       "constraints": [
@@ -10387,7 +10387,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -10618,7 +10618,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -10826,7 +10826,7 @@
       ],
       "business_model_cluster_slug": "niche-food-brand-producer",
       "business_model_cluster_title": "Niche Food Brand Producer",
-      "business_truth": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+      "business_truth": "Niche food makers navigate health-driven demand, input volatility, and retailer leverage through differentiation.",
       "best_owner_type": "specialist/niche expert",
       "why_owner_type": "This works when brand, formulation, and mix discipline matter enough to offset retailer leverage and volatile inputs.",
       "constraints": [
@@ -11031,7 +11031,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -11259,7 +11259,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -11472,7 +11472,7 @@
       ],
       "business_model_cluster_slug": "niche-food-brand-producer",
       "business_model_cluster_title": "Niche Food Brand Producer",
-      "business_truth": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+      "business_truth": "Niche food makers navigate health-driven demand, input volatility, and retailer leverage through differentiation.",
       "best_owner_type": "specialist/niche expert",
       "why_owner_type": "This works when brand, formulation, and mix discipline matter enough to offset retailer leverage and volatile inputs.",
       "constraints": [
@@ -11685,7 +11685,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -11888,7 +11888,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -12090,7 +12090,7 @@
       ],
       "business_model_cluster_slug": "local-services-platform",
       "business_model_cluster_title": "Local Services Platform",
-      "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+      "business_truth": "Centralized scheduling, pricing, labor, and marketing consolidate fragmented local service categories.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
       "constraints": [
@@ -12295,7 +12295,7 @@
       ],
       "business_model_cluster_slug": "hospitality-and-experience-platform",
       "business_model_cluster_title": "Hospitality and Experience Platform",
-      "business_truth": "This is an experience platform that wins when brand, occupancy, distribution, and asset-light operating systems convert travel and leisure demand into repeatable unit economics.",
+      "business_truth": "Brand, occupancy management, and asset-light systems convert leisure demand into repeatable unit economics.",
       "best_owner_type": "asset-light scale operator",
       "why_owner_type": "Scale matters because booking channels, loyalty systems, and brand standards create leverage that independents struggle to match.",
       "constraints": [
@@ -12508,7 +12508,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -12729,7 +12729,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -12949,7 +12949,7 @@
       ],
       "business_model_cluster_slug": "local-services-platform",
       "business_model_cluster_title": "Local Services Platform",
-      "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+      "business_truth": "Centralized scheduling, pricing, labor, and marketing consolidate fragmented local service categories.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
       "constraints": [
@@ -13160,7 +13160,7 @@
       ],
       "business_model_cluster_slug": "local-services-platform",
       "business_model_cluster_title": "Local Services Platform",
-      "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+      "business_truth": "Centralized scheduling, pricing, labor, and marketing consolidate fragmented local service categories.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
       "constraints": [
@@ -13363,7 +13363,7 @@
       ],
       "business_model_cluster_slug": "local-services-platform",
       "business_model_cluster_title": "Local Services Platform",
-      "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+      "business_truth": "Centralized scheduling, pricing, labor, and marketing consolidate fragmented local service categories.",
       "best_owner_type": "scaled regional platform",
       "why_owner_type": "This business wins when dispatch, marketing, retention, and labor systems scale across fragmented local demand.",
       "constraints": [
@@ -13574,7 +13574,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -13779,7 +13779,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -13979,7 +13979,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -14182,7 +14182,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -14400,7 +14400,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -14637,7 +14637,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -14867,7 +14867,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -15098,7 +15098,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -15328,7 +15328,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -15561,7 +15561,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -15796,7 +15796,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -16020,7 +16020,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -16249,7 +16249,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -16475,7 +16475,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -16709,7 +16709,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -16937,7 +16937,7 @@
       ],
       "business_model_cluster_slug": "industrial-technology-platform",
       "business_model_cluster_title": "Industrial Technology Platform",
-      "business_truth": "This is an industrial technology platform that wins when engineering breadth, installed base, aftermarket pull-through, and specification status compound across many end markets.",
+      "business_truth": "Engineering breadth, installed base, and aftermarket pull-through compound across diverse industrial end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The winners are the manufacturers that can spread engineering, service, and sourcing across many categories while holding specification power.",
       "constraints": [
@@ -17166,7 +17166,7 @@
       ],
       "business_model_cluster_slug": "transport-and-logistics-network",
       "business_model_cluster_title": "Transport and Logistics Network",
-      "business_truth": "This is a network logistics business that wins when route density, labor coordination, fleet utilization, and customer integration create operating leverage across a physical network.",
+      "business_truth": "Route density, labor coordination, and fleet utilization create operating leverage across physical networks.",
       "best_owner_type": "scaled network operator",
       "why_owner_type": "The winners are the operators that can turn density, labor systems, and service reliability into structural cost and service advantages.",
       "constraints": [
@@ -17400,7 +17400,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -17629,7 +17629,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -17858,7 +17858,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -18083,7 +18083,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -18306,7 +18306,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -18537,7 +18537,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -18765,7 +18765,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -18988,7 +18988,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -19210,7 +19210,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -19437,7 +19437,7 @@
       ],
       "business_model_cluster_slug": "industrial-project-operator",
       "business_model_cluster_title": "Industrial Project Operator",
-      "business_truth": "This is a project operator business that wins when labor coordination, procurement, compliance, and execution at scale matter more than commodity bid pricing alone.",
+      "business_truth": "Coordinated labor, procurement, and execution at scale outweigh commodity bid competition in project work.",
       "best_owner_type": "scaled project platform",
       "why_owner_type": "The winners are the operators that can manage labor bottlenecks, bonding capacity, procurement risk, and schedule complexity across large programs.",
       "constraints": [
@@ -19665,7 +19665,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -19891,7 +19891,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -20117,7 +20117,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -20345,7 +20345,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -20575,7 +20575,7 @@
       ],
       "business_model_cluster_slug": "branded-food-scale-operator",
       "business_model_cluster_title": "Branded Food Scale Operator",
-      "business_truth": "This is a branded food and staples operator that wins when procurement, distribution, portfolio mix, and reformulation discipline offset retailer power and changing health preferences.",
+      "business_truth": "Portfolio discipline, reformulation agility, and procurement strength offset retailer power and preference shifts.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys procurement resilience and shelf access while portfolio management keeps the company on the right side of consumer change.",
       "constraints": [
@@ -20801,7 +20801,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -21023,7 +21023,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -21251,7 +21251,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -21474,7 +21474,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -21697,7 +21697,7 @@
       ],
       "business_model_cluster_slug": "transport-and-logistics-network",
       "business_model_cluster_title": "Transport and Logistics Network",
-      "business_truth": "This is a network logistics business that wins when route density, labor coordination, fleet utilization, and customer integration create operating leverage across a physical network.",
+      "business_truth": "Route density, labor coordination, and fleet utilization create operating leverage across physical networks.",
       "best_owner_type": "scaled network operator",
       "why_owner_type": "The winners are the operators that can turn density, labor systems, and service reliability into structural cost and service advantages.",
       "constraints": [
@@ -21934,7 +21934,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -22165,7 +22165,7 @@
       ],
       "business_model_cluster_slug": "scaled-consumer-brand-platform",
       "business_model_cluster_title": "Scaled Consumer Brand Platform",
-      "business_truth": "This is a scaled consumer products platform that wins when formulation, procurement, shelf access, and portfolio management offset retailer power and changing consumer taste.",
+      "business_truth": "Formulation innovation, shelf access, and portfolio scale offset retailer bargaining and taste volatility.",
       "best_owner_type": "scaled brand portfolio",
       "why_owner_type": "The model works when scale buys sourcing resilience, distribution clout, and enough portfolio breadth to keep up with consumer shifts.",
       "constraints": [
@@ -22394,7 +22394,7 @@
       ],
       "business_model_cluster_slug": "omnichannel-scale-retailer",
       "business_model_cluster_title": "Omnichannel Scale Retailer",
-      "business_truth": "This is a scaled merchant-platform business that wins when traffic, fulfillment, supplier terms, and customer data are centralized across physical and digital channels.",
+      "business_truth": "Centralized traffic, fulfillment, and supplier relationships across channels create defensibility for scaled merchants.",
       "best_owner_type": "scaled platform operator",
       "why_owner_type": "The economics favor operators that can spread logistics, merchandising, pricing, and media infrastructure across huge transaction volume.",
       "constraints": [
@@ -22621,7 +22621,7 @@
       ],
       "business_model_cluster_slug": "expert-services-platform",
       "business_model_cluster_title": "Expert Services Platform",
-      "business_truth": "This is an expert-services platform that wins when scarce talent, compliance-heavy delivery, and enterprise trust push buyers toward scaled firms rather than loose independent providers.",
+      "business_truth": "Scarce talent, compliance complexity, and enterprise trust consolidate around scaled firms over independents.",
       "best_owner_type": "scaled expert network",
       "why_owner_type": "Talent, client trust, and workflow standardization favor operators that can productize expertise without losing credibility.",
       "constraints": [
@@ -22840,7 +22840,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -23057,7 +23057,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
@@ -23274,7 +23274,7 @@
       ],
       "business_model_cluster_slug": "industrial-scale-manufacturer",
       "business_model_cluster_title": "Industrial Scale Manufacturer",
-      "business_truth": "This is a scaled industrial manufacturer that wins when specification, installed base, procurement leverage, and production discipline create defensibility across cyclical end markets.",
+      "business_truth": "Engineering specification, procurement leverage, and production discipline compound across cyclical end markets.",
       "best_owner_type": "scaled industrial platform",
       "why_owner_type": "The economics favor manufacturers that can spread engineering, sourcing, and capacity planning across many end uses while staying inside mission-critical specs.",
       "constraints": [
