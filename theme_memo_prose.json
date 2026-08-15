@@ -1,0 +1,132 @@
+{
+ "barbelled-consumer-america": {
+  "operator_read": "Build into the extremes: either own the ruthless value position with margins that survive cost compression, or own a premium category where status and specialization justify higher prices. The exhausting middle is collapsing fast—undifferentiated mid-market brands get squeezed by comparison shopping and private-label gains.",
+  "investor_read": "Look for businesses that thrive at the poles: value operators with locked-in efficiency and brand equity, or premium players with defensible status or specialized quality. Avoid exposed mid-tier businesses with weak emotional distinction and no cost advantage.",
+  "what_to_build": [
+   "Ruthless value position with durable cost edges",
+   "Premium category leadership with status or specialization"
+  ],
+  "what_to_avoid": [
+   "Undifferentiated mid-market brands",
+   "Physical-retail-only models without omnichannel"
+  ],
+  "bottom_line": "The middle market is the squeeze—capture one pole or get crushed."
+ },
+ "wellness-recodes-daily-life": {
+  "operator_read": "Reposition your category around health-aligned benefits or functional outcomes rather than pure indulgence. GLP-1 adoption and sober-curious norms are real demand shifts; brands that reformulate and justify their offer in health language keep pricing power, while empty calories and undefended indulgence shrink.",
+  "investor_read": "Track adoption of health-modified subcategories and functional claims in snacks, beverages, and beauty. Bet on companies that win by reformulating or creating new need-states, and avoid plays dependent on growth in traditional sugar, alcohol, or indulgent categories that are shrinking.",
+  "what_to_build": [
+   "Functional or health-modified versions of consumption categories",
+   "Entirely new categories around biometric self-monitoring and optimization"
+  ],
+  "what_to_avoid": [
+   "Traditional indulgence without reformulation",
+   "Alcohol-centric venues unprepared for sober participation"
+  ],
+  "bottom_line": "Wellness is now the default OS—reformulate or retreat."
+ },
+ "experience-status-and-community": {
+  "operator_read": "Physical venues that can function as stages for memory-making, discovery, or community participation win; mere transactional retail does not. Invest in programming, curation, and aesthetic differentiation—experiences and fandom create stickiness that e-commerce does not disrupt.",
+  "investor_read": "Favor venues with scarcity (hard-to-replicate location, programming, or affiliation), high operating leverage, and repeat spend tied to participation identity. Avoid generic retail that relies on foot traffic and merchandise velocity alone.",
+  "what_to_build": [
+   "Venue or community infrastructure with identity-based participation",
+   "Live entertainment or experiential retail that creates memory and status"
+  ],
+  "what_to_avoid": [
+   "Generic shopping environments",
+   "Merchandise-focused retail without community or curation"
+  ],
+  "bottom_line": "Memories and community now move spend more than objects."
+ },
+ "aging-care-and-the-assistance-economy": {
+  "operator_read": "Winning positions are either high-volume, payer-approved care services with margin discipline, or specialized tech and monitoring solutions that extend home-based care. Labor cost is the vise—automate what you can, but know that scale and payer relationships gatekeep real upside.",
+  "investor_read": "Underwrite on payer acceptance and unit economics under Medicare reimbursement, not on aging volume alone. Focus on home-first platforms, chronic-care chain systems, and infrastructure that reduce labor per patient or extend compliance at scale.",
+  "what_to_build": [
+   "Home-based care services optimized for payer reimbursement",
+   "Chronic care workflow platforms that reduce labor per patient"
+  ],
+  "what_to_avoid": [
+   "Senior housing dependent on wage-inflated staff",
+   "Device makers exposed to price-per-unit compression"
+  ],
+  "bottom_line": "Aging demand is real but payer-gated—scale and reimbursement math determine winners."
+ },
+ "work-without-the-old-firm": {
+  "operator_read": "Enterprise wins by building fractional-ready platforms and credentials that help workers make atomic skills marketable; vendor wins by managing the fractional workforce. The full-time pyramid is thinning—junior talent increasingly comes in via credentials and gigs, not slow ladders.",
+  "investor_read": "Track fractional staffing adoption in mid-market services, credential uptake, and platform growth in expert networks. Avoid businesses that depend on long, deep junior pipelines or that can't adapt hiring to task-based and fractional models.",
+  "what_to_build": [
+   "Fractional staffing or expert-network platforms",
+   "Credentials and credentials-to-job pipelines"
+  ],
+  "what_to_avoid": [
+   "Deep junior training programs dependent on long career ladders",
+   "Businesses unable to work with fractional or part-time labor"
+  ],
+  "bottom_line": "Permanent jobs are fragmenting—build for fractional and task-based work."
+ },
+ "physical-reindustrialization-and-infrastructure": {
+  "operator_read": "Nearshore positioning, electrician and trades capacity, and power-centric site control are now strategic assets. Tariffs and AI infrastructure demand make materials expensive and supply chains political—move fast on location and labor, or lock in with tied supply relationships.",
+  "investor_read": "Back infrastructure bets (power, cooling, trades labor), nearshore reshoring of specification goods, and sites near data centers or AI buildout. Avoid distant pure-export manufacturing and logistics-only plays that depend on old cost arbitrage.",
+  "what_to_build": [
+   "Nearshore or domestic manufacturing for tariff-hedged goods",
+   "Electrical trades and HVAC service capacity near data centers"
+  ],
+  "what_to_avoid": [
+   "Far-flung low-cost manufacturing",
+   "Logistics-only models without strategic site value"
+  ],
+  "bottom_line": "Physical proximity and power access now determine competitive advantage."
+ },
+ "scale-financialization-and-the-owned-economy": {
+  "operator_read": "If you own land, IP, or financial rails, hold it—asset owners capture more durable economics than visible operators. If you operate, align with a scaled platform that internalizes compliance and capital access, because fragmented independence is increasingly exhausting.",
+  "investor_read": "Asset-backed platforms and scale owners outperform visible operators. Back roll-ups in essential services, infrastructure ownership, and platforms that control purchasing and financing leverage. Avoid bets on small, fragmented, independent operators.",
+  "what_to_build": [
+   "Scaled platforms that consolidate fragmented markets",
+   "Real-estate, IP, or financial rail ownership"
+  ],
+  "what_to_avoid": [
+   "Independently-operated Main Street businesses",
+   "Franchises or platforms heavily dependent on franchisee economics"
+  ],
+  "bottom_line": "Asset owners and scaled platforms win; fragmented independence loses."
+ },
+ "regulated-software-and-admin-state": {
+  "operator_read": "Build workflow software around mandatory complexity that customers cannot skip—compliance, reimbursement, identity, cyber, audit trails, testing. These create durable, volume-independent demand loops. Avoid selling discretionary efficiency; sell necessary control.",
+  "investor_read": "Bet on businesses that monetize regulatory overhead and mandatory infrastructure—identity, compliance automation, healthcare admin software, audit tools. These are recession-resistant and favor scale; avoid purely discretionary SaaS and advisory services.",
+  "what_to_build": [
+   "Compliance and documentation software for regulated industries",
+   "Identity, fraud, and verification infrastructure"
+  ],
+  "what_to_avoid": [
+   "Discretionary efficiency software",
+   "Advisory services without software leverage"
+  ],
+  "bottom_line": "Mandatory complexity is the durable moat—build into regulation, not out of it."
+ },
+ "space-housing-and-local-friction": {
+  "operator_read": "Capital is rotating away from offices toward housing, logistics land, and power-centric sites. Lock in housing-adjacent development and adaptive reuse of obsolete office space; avoid dependence on office occupancy or speculative urban land without data-center or logistics demand.",
+  "investor_read": "Underwrite on housing fundamentals and supply constraints, not office recovery. Back logistics-land developers, adaptive reuse projects, and neighborhoods stable in residential activity. Avoid office-dependent assets and purely speculative urban real estate.",
+  "what_to_build": [
+   "Housing, mixed-use, and neighborhood-anchored development",
+   "Adaptive reuse of office and malls into residential"
+  ],
+  "what_to_avoid": [
+   "Office-dependent real estate",
+   "Urban land without logistics or data-center proximity"
+  ],
+  "bottom_line": "Office obsolescence is permanent—capital flows to housing and logistics land."
+ },
+ "machine-intelligence-and-compute-buildout": {
+  "operator_read": "Workflow embedding and infrastructure positioning are both durable—become the software that replaces clerical and analytical work, or own cooling, power, and permitting assets near data centers. Avoid consumer-facing AI features without durable workflow adoption or moat.",
+  "investor_read": "Bet on infrastructure winners (power, cooling, colocation, permitting), workflow-compression software in boring industries (finance, logistics, healthcare), and platforms that can bear massive capex. Avoid consumer-facing AI feature plays without network effects or scale efficiencies.",
+  "what_to_build": [
+   "Workflow software that compresses knowledge work",
+   "Data-center infrastructure and power-access assets"
+  ],
+  "what_to_avoid": [
+   "Consumer-facing AI features without workflow lock-in",
+   "Compute plays outside power-scarce regions"
+  ],
+  "bottom_line": "AI is infrastructure and workflow compression—not a consumer feature story."
+ }
+}

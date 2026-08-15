@@ -2222,6 +2222,17 @@ def company_badge(status: str) -> str:
 
 
 def build_theme_page(theme: dict) -> str:
+    _seen: set = set()
+
+    def dd(items: list) -> str:
+        out = []
+        for item in items:
+            if item in _seen:
+                continue
+            _seen.add(item)
+            out.append(item)
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
     questions = "".join(f"<li>{e(question)}</li>" for question in theme["questions"])
     core_mechanisms = "".join(f"<li>{e(item)}</li>" for item in theme["core_mechanisms"])
     strategic_implications = "".join(f"<li>{e(item)}</li>" for item in theme["strategic_implications"])
@@ -2241,18 +2252,18 @@ def build_theme_page(theme: dict) -> str:
     for subtheme in theme["subthemes"]:
         microthemes = "".join(f'<span class="chip">{e(item)}</span>' for item in subtheme["microthemes"])
         force_chips = "".join(force_chip(force, prefix="../") for force in subtheme["forces"])
-        driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"])
-        pressure_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["pressure_points"])
-        signal_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"])
-        consequence_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["strategic_consequences"])
-        rewrite_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["market_rewrites"])
-        stakeholder_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["stakeholder_map"])
-        counterforce_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["counterforces"])
-        follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"])
-        behavioral_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["behavioral_expression"])
-        economic_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["economic_mechanics"])
-        timing_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["timing_markers"])
-        hazard_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["execution_hazards"])
+        driver_items = dd(subtheme["structural_drivers"])
+        pressure_items = dd(subtheme["pressure_points"])
+        signal_items = dd(subtheme["signals_to_watch"])
+        consequence_items = dd(subtheme["strategic_consequences"])
+        rewrite_items = dd(subtheme["market_rewrites"])
+        stakeholder_items = dd(subtheme["stakeholder_map"])
+        counterforce_items = dd(subtheme["counterforces"])
+        follow_on_items = dd(subtheme["follow_on_effects"])
+        behavioral_items = dd(subtheme["behavioral_expression"])
+        economic_items = dd(subtheme["economic_mechanics"])
+        timing_items = dd(subtheme["timing_markers"])
+        hazard_items = dd(subtheme["execution_hazards"])
         industry_items = "".join(
             f"<li><b>{e(item['title'])}</b> <span class=\"meta\">{e(item['sector'])}</span><br>{e(item['one_sentence'])}</li>"
             for item in subtheme["industries"]

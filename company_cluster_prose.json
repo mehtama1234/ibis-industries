@@ -1,0 +1,405 @@
+{
+ "industrial-scale-manufacturer": {
+  "outlook": "Scale and specification are becoming table stakes as compute cycles compress design windows and compliance costs redistribute unevenly. Winners will be those who fuse procurement discipline with installed-base stickiness, while those dependent on undifferentiated volume face a relentless margin squeeze through 2026.",
+  "takeaway": "Operators with procurement leverage and customer lock-in survive; commodity-scale players don't.",
+  "advantaged": [
+   "Diversified industrial platforms leveraging multi-market procurement discipline to absorb input cost shocks",
+   "Incumbents with mission-critical installed bases that lock buyers into replacement cycles"
+  ],
+  "exposed": [
+   "Single-end-market manufacturers facing cyclical demand and eroding specification advantages",
+   "High-capex, low-utilization businesses unable to flex capacity fast enough"
+  ],
+  "tension": "Procurement leverage only protects if customers remain sticky—but compute-driven product cycles shorten switching costs for fast-moving segments, forcing manufacturers to run capital hard or get stranded."
+ },
+ "expert-services-platform": {
+  "outlook": "Talent scarcity and compliance are the new moat. Clients increasingly demand proven expertise and regulatory guardrails from a single partner rather than assembling independent consultants. Platforms that concentrate scarce talent and automate utilization will compound; generalist firms will fragment.",
+  "takeaway": "Talent density and compliance automation separate scaled networks from independent boutiques.",
+  "advantaged": [
+   "Firms that retain top talent at scale through algorithmic utilization and portfolio diversification",
+   "Platforms embedding compliance playbooks and industry-specific frameworks"
+  ],
+  "exposed": [
+   "Talent-light firms competing on price alone without differentiated expertise",
+   "Consultancies with high client concentration and weak utilization metrics"
+  ],
+  "tension": "Scaling talent pools requires paying up for scarce expertise; but squeezing utilization without losing people means constant portfolio churn and risk of burnout-driven attrition."
+ },
+ "omnichannel-scale-retailer": {
+  "outlook": "Omnichannel integration is table stakes; the real battle is fulfillment economics and supplier control. Winners centralize inventory and customer data to play suppliers off each other and own last-mile delivery. Those still splitting channels or dependent on external logistics face rising fulfillment costs and margin compression.",
+  "takeaway": "Fulfillment control and supplier leverage drive omnichannel profits, not channel presence alone.",
+  "advantaged": [
+   "Integrated retailers with unified inventory and owned logistics networks",
+   "Platforms with sufficient scale to dictate terms to suppliers and replace underperforming fulfillment"
+  ],
+  "exposed": [
+   "Multi-channel retailers with fragmented inventory and outsourced logistics",
+   "Smaller pure-plays that can't achieve the scale required for supplier negotiation"
+  ],
+  "tension": "Fulfillment capital is massive and locks in cost structures for years; but outsourcing means you're hostage to someone else's network, making the capex choice existential."
+ },
+ "healthcare-product-and-distribution-platform": {
+  "outlook": "Regulatory complexity and margin pressure are creating a winner-take-most dynamic for healthcare intermediaries. The Graying Market will demand specialized distribution and compliance. Platforms that own clinical validation, product breadth, and regulatory track records will consolidate margin from manufacturers and care providers alike.",
+  "takeaway": "Regulatory credibility and product-line control beat pure distribution scale in healthcare.",
+  "advantaged": [
+   "Platforms with deep compliance relationships and integrated clinical validation",
+   "Distributors with exclusive products and care-provider switching costs"
+  ],
+  "exposed": [
+   "Pure-play logistics operators without clinical expertise or supplier relationships",
+   "Smaller regional distributors without scale to absorb regulatory and product expansion costs"
+  ],
+  "tension": "You must invest in clinical relationships and regulatory depth to command pricing power, but manufacturers and care providers both push back on costs, squeezing margins even as compliance taxes rise."
+ },
+ "insurance-risk-platform": {
+  "outlook": "Underwriting data precision and claims discipline separate winners from losers as catastrophe inflation and regulatory capital requirements rise. Platforms that use compute to price risk more accurately than competitors will price in margin; others will face regulatory pressure and claims cost shocks.",
+  "takeaway": "Underwriting data and claims efficiency create pricing power; without it, you're squeezed between regulators and loss inflation.",
+  "advantaged": [
+   "Insurers with proprietary underwriting data and AI-driven pricing models",
+   "Risk managers that own claims networks and have proven cost-control disciplines"
+  ],
+  "exposed": [
+   "Undifferentiated insurers with commodity underwriting and generic risk models",
+   "Carriers exposed to catastrophic tail risks without reinsurance or capital buffers"
+  ],
+  "tension": "Better pricing requires data and models; but regulators limit how much you can act on what you know, and competitive pressure pushes you to underprice known risks anyway."
+ },
+ "software-and-network-platform": {
+  "outlook": "Compute Super-Cycle is reshaping who wins: platforms that embed compute into workflows command pricing power, while those selling pure connectivity or undifferentiated software face commoditization. Distribution and installed-base lock-in matter, but only if the software itself drives customer value in compute-native tasks.",
+  "takeaway": "Workflow embeddedness in compute wins; pure distribution or generic software doesn't.",
+  "advantaged": [
+   "Platforms that have woven compute into customer workflows and have high switching costs",
+   "Infrastructure leaders with distribution moats and expansion into higher-margin software/services"
+  ],
+  "exposed": [
+   "Pure-play connectivity providers without differentiated software or workflow integration",
+   "Legacy software vendors clinging to older deployment models and unable to evolve into cloud-native offerings"
+  ],
+  "tension": "You need compute + software synergy to avoid commoditization, but investing in both requires capital discipline and a clear wedge; spreading into too many bets dilutes both and makes you a generalist again."
+ },
+ "industrial-project-operator": {
+  "outlook": "Labor scarcity and project complexity are rising, but so are opportunities for operators who treat labor coordination and execution risk as core intellectual property. Winners will use compute to optimize crew scheduling, safety, and procurement; the Real-Estate Reckoning will reshape project economics for a few years, but execution excellence is durable.",
+  "takeaway": "Labor coordination and execution IP beat commodity bidding in high-complexity projects.",
+  "advantaged": [
+   "Operators with proven labor networks and algorithmic scheduling systems",
+   "Large-scale consolidators that cross-pollinate execution playbooks across projects"
+  ],
+  "exposed": [
+   "Small regional contractors dependent on spot labor and thin margins",
+   "Project operators with poor execution records and high cost overruns"
+  ],
+  "tension": "You must invest in labor relationships and execution systems upfront, but projects are episodic; sustaining high-overhead execution teams between project cycles is a constant capital drain."
+ },
+ "transport-and-logistics-network": {
+  "outlook": "Route density and utilization are the battleground. Operators with real-time visibility into loads, labor, and fuel costs will extract margin; those optimizing routes through compute will out-compete diesel-and-dispatch shops. Labor scarcity means automation and partner leverage are becoming as important as headcount.",
+  "takeaway": "Network density and algorithmic dispatch separate efficient operators from volume-chasing ones.",
+  "advantaged": [
+   "Large integrated networks with sufficient density to absorb underutilized routes and power optimization",
+   "Operators with automation in dispatch and proof of labor-productivity gains"
+  ],
+  "exposed": [
+   "Regional carriers with sparse networks and high per-shipment operating costs",
+   "Labor-dependent operators facing wage inflation and unable to modernize dispatch"
+  ],
+  "tension": "Building network density requires capital and time; but once built, the operating leverage is dramatic—yet one major disruption (fuel shock, labor strike, customer shift) can strand capital invested in older infrastructure."
+ },
+ "scaled-consumer-brand-platform": {
+  "outlook": "Retailer power is peaking while consumer preferences fragment faster. Winners are those who own formulation speed, procurement discipline, and portfolio optionality; they can experiment, pivot, and refresh while selling at margin. Single-brand or slow-moving portfolios will atrophy under retailer pressure and changing taste.",
+  "takeaway": "Portfolio optionality and procurement agility beat single-brand stickiness.",
+  "advantaged": [
+   "Large conglomerates with diverse portfolios that can cross-subsidize innovation and shelf access",
+   "Brands with direct consumer data and ability to reformulate faster than retailer-private labels"
+  ],
+  "exposed": [
+   "Single-brand or category-focused companies facing retailer private-label pressure",
+   "Slow-moving incumbents unable to pivot offerings as consumer preferences shift"
+  ],
+  "tension": "Owning formulation and procurement requires sustained capital and risk appetite for continuous refresh; but shelf access depends on retailer terms, which erode with every brand you can't move."
+ },
+ "media-rights-and-audience-platform": {
+  "outlook": "Attention is fragmenting, but rights and franchises are consolidating. Winners will own durable IP and distribute across multiple formats (theater, streaming, advertising) to amortize content cost. Pure-play streaming and single-format media are stuck in the middle: too small to absorb content inflation, too specialized to diversify margin.",
+  "takeaway": "Multi-format distribution and owned IP drive durable media profits; single-channel exposure is increasingly untenable.",
+  "advantaged": [
+   "Conglomerates with diversified IP franchises and multiple distribution channels",
+   "Rights holders that own content and can renegotiate format economics as platforms shift"
+  ],
+  "exposed": [
+   "Pure-play streamers without owned IP or ancillary revenue streams",
+   "Linear broadcasters dependent on ad-supported model and eroding audience"
+  ],
+  "tension": "Owning durable franchises and distributing across formats requires massive upfront investment and long payback cycles; but single-format exposure to one platform's whims is a race to the bottom."
+ },
+ "energy-and-environmental-infrastructure": {
+  "outlook": "Regulated assets and field-service density create durable defensibility, but capital intensity is rising and regulatory pushback on returns is increasing. Winners will optimize field execution through compute and diversify into high-margin environmental services. Those dependent on commodity energy or single-jurisdiction regulation face squeeze.",
+  "takeaway": "Field execution efficiency and service diversification beat pure-asset ownership.",
+  "advantaged": [
+   "Operators with dense field networks and proven cost discipline in operations and maintenance",
+   "Infrastructure companies with diversified assets across geographies and regulatory regimes"
+  ],
+  "exposed": [
+   "Single-jurisdiction or single-asset operators facing regulatory rate pressure",
+   "Pure-asset plays without field service optionality or cost-control capabilities"
+  ],
+  "tension": "Regulated assets feel durable, but regulatory returns are under pressure; expanding into higher-margin environmental services requires different skills and capital, forcing difficult portfolio bets."
+ },
+ "local-services-and-leisure-platform": {
+  "outlook": "Fragmentation is the baseline, and consolidation is slow—but that's the opportunity. Winners are platforms that aggregate local demand, franchise or operate repeatable units, and use bookings data to optimize utilization. Compute and labor scarcity will slow growth; profit will come from unit-level efficiency, not top-line expansion.",
+  "takeaway": "Booking density and unit-level operational efficiency beat geographic expansion.",
+  "advantaged": [
+   "Franchisors with proven unit economics and central systems that improve over time",
+   "Platforms with owned locations and algorithmic pricing based on demand density"
+  ],
+  "exposed": [
+   "Purely marketplace or booking models without operational leverage at the unit level",
+   "Operators with high fixed costs and inability to flex labor in demand downturns"
+  ],
+  "tension": "Scaling requires either franchising (less control, weaker network effects) or operating more units (higher labor risk); neither path avoids the core tension between growth and unit profitability."
+ },
+ "hospitality-and-experience-platform": {
+  "outlook": "Asset-light models are under pressure from occupancy volatility and labor shortages. Winners will own fewer assets but engineer them for higher utilization; they'll use dynamic pricing and customer data to smooth demand. Real-estate complexity and bifurcated consumer demand will reward those with brand stickiness and flexible cost structures.",
+  "takeaway": "Dynamic pricing, brand loyalty, and flexible labor beat asset accumulation.",
+  "advantaged": [
+   "Brands with loyalty programs and data-driven pricing that smooth demand seasonality",
+   "Platforms with flexible unit economics and ability to adjust staffing to occupancy"
+  ],
+  "exposed": [
+   "Asset-heavy operators with fixed labor costs and low flexibility in downturns",
+   "Undifferentiated or mid-market brands caught between luxury and budget segments"
+  ],
+  "tension": "Lowering asset ownership was supposed to reduce risk, but it also reduces pricing power; you're left optimizing margins on marginal occupancy, not returns on invested capital."
+ },
+ "branded-food-scale-operator": {
+  "outlook": "Margin pressure from retailers and input costs is structural; winners are those who treat portfolio mix and reformulation as strategic weapons. The Health Reckoning is forcing continuous innovation. Operators that can't invest in R&D or absorb procurement volatility will lose shelf access and consumer trust to both retailers and smaller, nimble competitors.",
+  "takeaway": "Portfolio versatility and reformulation speed are the new competitive edge against retailer power.",
+  "advantaged": [
+   "Large-scale operators with procurement discipline and diversified sourcing to weather input volatility",
+   "Brands with proven reformulation playbooks and direct consumer feedback loops"
+  ],
+  "exposed": [
+   "Single-category or single-product operators facing retailer private-label competition",
+   "Slow-moving incumbents unable to respond to health-driven demand shifts"
+  ],
+  "tension": "Retail consolidation means shelf space is finite and held by buyers obsessed with turns; but defending it requires constant innovation and inventory risk that smaller, nimbler competitors can better absorb."
+ },
+ "real-estate-and-facilities-platform": {
+  "outlook": "Real-estate volatility is creating opportunity for operators who can manage tenant relationships and layer recurring services on top of core property income. Winners will use compute for tenant workflows and facility optimization; asset-light service platforms will win before traditional REIT structures do. Utilization uncertainty will remain until post-2026 market reset.",
+  "takeaway": "Recurring service revenue and workflow integration matter more than pure asset ownership.",
+  "advantaged": [
+   "Service-heavy platforms that own tenant relationships and sell facility-optimization software",
+   "Operators with diversified portfolios across property types and geographies"
+  ],
+  "exposed": [
+   "Pure-asset holders dependent on rent collection without service differentiation",
+   "Single-geography or single-property-type operators exposed to local market shocks"
+  ],
+  "tension": "Layering recurring services requires tenant buy-in and capital; but if you can't prove your software/services reduce their costs, they'll self-optimize or shop elsewhere."
+ },
+ "specialty-retail-platform": {
+  "outlook": "Niche demand capture is the moat, but niches are fragmenting faster and consumer acquisition is expensive. Winners will be platforms with owned distribution, merchandising expertise, and customer data that let them refresh offerings ahead of demand shifts. Pure-play specialists relying on trend cycles or supplier leverage will face brutal margin compression.",
+  "takeaway": "Merchandise agility and customer data beat trend-riding or supplier relationships.",
+  "advantaged": [
+   "Multi-format retailers with owned distribution and ability to cross-sell across channels",
+   "Specialists with proprietary customer data and proven speed in merchandising refresh"
+  ],
+  "exposed": [
+   "Pure-play specialists without diversified channels or owned distribution",
+   "High-CAC retailers without proven repeat-purchase or margin recovery on customer acquisition"
+  ],
+  "tension": "Niches offer margin, but they also attract new entrants quickly; defending requires constant new product introduction and customer data leverage, not just price or selection advantage."
+ },
+ "workflow-and-advisory-services-platform": {
+  "outlook": "These platforms thrive when they move upstream into mission-critical workflows, but face a hard ceiling: attracting and retaining talent stays expensive, and clients keep trying to build internal equivalents. The super-cycle pushes them to automate advisory steps, yet the graying market still demands human judgment. Winners will lock clients deeper through workflow embedding.",
+  "takeaway": "Embed so deep that client switching costs exceed the cost of keeping you.",
+  "advantaged": [
+   "Platform incumbents with decade-old installations—switching is organizational suicide",
+   "Operators who train client staff to depend on their tools and know-how"
+  ],
+  "exposed": [
+   "Small practices that sell high-touch expertise without repeatable workflows",
+   "Generalists competing against AI-assisted automation in commodity advisory tasks"
+  ],
+  "tension": "Talent scarcity makes scaling harder than deploying software, while clients expect AI-driven productivity gains without paying more for human expertise."
+ },
+ "industrial-technology-platform": {
+  "outlook": "Industrial platforms ride two opposing waves: installed base lock-in keeps revenue stable, but margin compression and rising input costs squeeze renewal rates. The super-cycle favors integrated players who can absorb capex costs through spec-in status, while fragmented smaller players get sandwiched. The compliance tax adds weight to larger, integrated systems.",
+  "takeaway": "Scale and breadth matter more than innovation; boring, specified equipment wins.",
+  "advantaged": [
+   "Multi-market players whose spec-in status across sectors compounds into procurement leverage",
+   "Aftermarket parts and service businesses that capture full lifecycle economics"
+  ],
+  "exposed": [
+   "Single-application suppliers vulnerable to substitution or in-house engineering",
+   "Companies dependent on thin-margin commodity products with high utilization risk"
+  ],
+  "tension": "Specification status offers moat, but capex cycle risk and rising material costs force operators to choose between pricing power and volume."
+ },
+ "regulated-workflow-infrastructure": {
+  "outlook": "Regulation is a permanent jobs program for these businesses—testing, claims, compliance, and identity software stay sticky because complexity keeps rising. The compute super-cycle accelerates automation of repeatable workflows, freeing labor for higher-judgment tasks. Talent concentration and high customer acquisition costs reward scale, not scrappy startups. Winners consolidate and absorb smaller players.",
+  "takeaway": "Compliance complexity is durable demand that favors consolidated, capital-heavy operators.",
+  "advantaged": [
+   "Enterprises with multiple regulatory silos that can cross-sell compliance solutions",
+   "Consolidated players that amortize customer acquisition over many service lines"
+  ],
+  "exposed": [
+   "Point-solution vendors dependent on a single regulatory domain facing spec-in competition",
+   "Smaller operators unable to afford the labor needed for custom integration work"
+  ],
+  "tension": "Regulatory moat creates demand but also requires constant updating; customer acquisition cost stays high because switching between compliance systems is painful."
+ },
+ "specified-product-manufacturer": {
+  "outlook": "Small manufacturers win here only if their products are genuinely hard to substitute—but that moat narrows when competitors can retool or when bigger players copy the design. Labor costs and capital intensity squeeze margins relentlessly. The compute super-cycle helps optimize production, but doesn't solve the fundamental problem: scale is capital-intensive and technical talent is scarce. Operators survive by staying narrow and feeding into larger systems.",
+  "takeaway": "Narrow specification moat only holds if you're the only maker or customers accept no alternatives.",
+  "advantaged": [
+   "Manufacturers of critical components for large OEMs where requalification is prohibitively expensive",
+   "Producers of custom-engineered products that lock customers through legacy systems"
+  ],
+  "exposed": [
+   "Commodity industrial producers competing on price with larger, capital-rich rivals",
+   "Specialized manufacturers whose moat erodes as competitors enter or in-house alternatives emerge"
+  ],
+  "tension": "Specification defensibility is real but fragile; raising labor or capital without raising prices forces margin compression."
+ },
+ "niche-food-brand-producer": {
+  "outlook": "These producers live between consumer preference volatility and cost compression—a precarious spot. Health trends create demand spikes, but retailers capture most margin through bargaining power. Input costs surge while consumer loyalty remains shallow. The margin vise tightens when transport, labor, and commodity inputs all inflate together. Consolidation favors producers who can spread risk across multiple SKUs and distribution channels.",
+  "takeaway": "Health-driven demand is real but fragile; retailers hold the actual pricing power.",
+  "advantaged": [
+   "Multi-channel producers (retail, foodservice, direct) that reduce retailer dependence",
+   "Brands with genuine consumer loyalty that justify shelf space during margin compression"
+  ],
+  "exposed": [
+   "Single-channel producers locked into retailer relationships with declining bargaining power",
+   "Trend-dependent brands that lose shelf space when health fads shift or input costs spike"
+  ],
+  "tension": "Consumer preference changes create new demand windows, but procurement volatility and retailer power destroy profitability before scale arrives."
+ },
+ "inventory-and-credit-distributor": {
+  "outlook": "Distributors remain valuable when inventory, credit, and technical know-how make direct-to-consumer models uneconomical for buyers. The channel is shifting—direct purchasing, platform aggregation, and supplier financing all pressure the middleman. But local availability, just-in-time credit, and technical support still matter in fragmented B2B markets. Capital requirements and utilization risk are real, but winners will own regional niches with sticky customer bases.",
+  "takeaway": "You survive if you're faster to resupply or cheaper to finance than a marketplace.",
+  "advantaged": [
+   "Distributors with dense regional networks and established credit relationships",
+   "Operators who bundle technical support and inventory localization into their value"
+  ],
+  "exposed": [
+   "Distributors with high capital intensity and low utilization in slowdown periods",
+   "Middle-tier players without brand loyalty or technical differentiation losing share to aggregators"
+  ],
+  "tension": "Platform competition and supplier-direct models erode margin, yet distributors still need capital to stock inventory and extend credit."
+ },
+ "local-services-platform": {
+  "outlook": "These platforms consolidate fragmented service categories by centralizing scheduling, pricing, and labor management. But they face the hard constraint that local service work is labor-intensive and difficult to automate. Wage pressure from the labor squeeze makes pricing power crucial—yet raising prices drives customers to fragmented independents. The fractional-worker economy gives platforms access to more supply, but quality control becomes harder. Scale plays win, but returns plateau.",
+  "takeaway": "Centralize labor allocation and pricing, but margin stays capped by wage growth.",
+  "advantaged": [
+   "Multi-location chains that can redeploy labor across markets and maintain utilization",
+   "Platform operators with enough scale to invest in workforce training and retention"
+  ],
+  "exposed": [
+   "Single-location or small-cluster operators that can't absorb wage inflation",
+   "Businesses dependent on high-quality labor without pricing power to retain it"
+  ],
+  "tension": "Automation lags in service delivery, so platforms win through labor efficiency, but tightening labor markets make wage costs the dominant economic constraint."
+ },
+ "utilization-managed-experience-venue": {
+  "outlook": "Experience venues thrive when the venue itself becomes the draw—bouldering gyms, karaoke, entertainment arcades. These win or lose on utilization and customer preference. The channel shift means walk-in traffic is less reliable; operators must capture loyalty and event demand. Health trends favor active experiences over passive ones, but venue costs are capital-intensive and inflexible. Franchise models help spread capital risk, yet per-location profitability depends entirely on local demand volatility.",
+  "takeaway": "You win by selling utilization and experiences, but you lose if you can't fill the venue.",
+  "advantaged": [
+   "Venues in high-traffic urban locations with deep local event-hosting networks",
+   "Operators that bundle classes, competitions, or memberships to smooth utilization"
+  ],
+  "exposed": [
+   "Standalone venues in weak demographic areas without sustained local demand",
+   "Experience operators that can't adjust pricing or capacity when consumer preference shifts"
+  ],
+  "tension": "Capital is locked in the building and inventory; operators can't redeploy or cut cost without destroying the customer experience that drives utilization."
+ },
+ "reimbursement-managed-care-operator": {
+  "outlook": "Healthcare consolidation favors operators who master reimbursement, staffing, and referral flow better than local competitors. The graying market drives steady volume growth, but compliance costs and regulatory burden keep rising. Reimbursement rates stay under pressure from payers, making operational efficiency the only lever left. Scale is essential—larger operators absorb regulatory cost across more locations. Smaller independents get squeezed into acquisition or shutdown.",
+  "takeaway": "Win by running tighter operations and referral loops than independents can match.",
+  "advantaged": [
+   "Consolidated networks with regional density and payer negotiation leverage",
+   "Operators who integrate staffing, referral, and compliance into unified systems"
+  ],
+  "exposed": [
+   "Independent local operators lacking scale to negotiate payer rates",
+   "Smaller practices without capital to absorb compliance and technology investment"
+  ],
+  "tension": "Regulatory burden increases but reimbursement rates stagnate; only scale and operational tightness survive."
+ },
+ "care-and-family-demand-platform": {
+  "outlook": "Aging households and working parents create genuine, durable demand for care—childcare, senior care, family services. But labor scarcity is the binding constraint: care work is labor-intensive, wages are rising, and regulation limits operational leverage. Real estate costs add another squeeze. Platforms win by centralizing operations and spreading fixed costs, yet returns remain capped by labor economics and regulatory compliance. Consolidation helps, but this sector never reaches venture-scale returns.",
+  "takeaway": "Huge demand, but labor and regulation set a low ceiling on profitability.",
+  "advantaged": [
+   "Consolidated regional operators that amortize regulatory compliance and training across many locations",
+   "Integrated networks that shift demand between childcare and elder care by season"
+  ],
+  "exposed": [
+   "Single-site operators unable to absorb wage inflation or unexpected staffing turnover",
+   "Unlicensed or informal providers squeezed by rising compliance requirements"
+  ],
+  "tension": "Demand is stable and growing, but labor scarcity and regulation allow only modest profitability."
+ },
+ "event-and-gifting-commerce-platform": {
+  "outlook": "These platforms win by turning episodic life events—weddings, births, graduations—into repeatable customer acquisition funnels. Discovery and personalization drive engagement, but customer acquisition cost remains painfully high. Seasonality creates cash-flow volatility. Fulfillment quality becomes a competitive weapon, yet margins compress under price-comparison pressure. Consolidation favors players with network effects and data—standalone gifting platforms struggle against broader commerce platforms with existing customer bases.",
+  "takeaway": "Episodic demand is valuable only if you can convert it to repeat purchasing.",
+  "advantaged": [
+   "Platforms with existing customer bases that can cross-sell gifting without new acquisition cost",
+   "Operators who use personalization data to reduce seasonal volatility and lift repeat rates"
+  ],
+  "exposed": [
+   "Standalone gifting platforms dependent on paid acquisition for every seasonal burst",
+   "Vendors with high fulfillment complexity or quality variance that erode customer retention"
+  ],
+  "tension": "Seasonal spikes create acquisition funnels, but unpredictable fulfillment and high customer acquisition cost destroy unit economics."
+ },
+ "industrial-distribution-platform": {
+  "outlook": "Industrial distributors remain valuable where inventory density, branch networks, and technical fulfillment create switching costs. But the margin vise tightens relentlessly—suppliers push direct, buyers increasingly compare on platforms, and pricing power erodes. The channel shift accelerates as buyers source direct or through aggregators. Only operators with fortress branch density and customer stickiness survive. Consolidation and vertical integration are the only escape routes.",
+  "takeaway": "You hold your position only if restocking speed and credit availability remain valuable.",
+  "advantaged": [
+   "Distributors with dense regional branch networks that guarantee same-day availability",
+   "Operators with deep technical expertise and credit relationships that larger platforms can't replicate"
+  ],
+  "exposed": [
+   "Distributors with low asset utilization or branch density losing share to direct suppliers",
+   "Middle-tier players without technical differentiation or credit programs losing ground to aggregators"
+  ],
+  "tension": "Margin compression and channel shift erode profitability, yet inventory intensity and regional branch networks require sustained capital investment."
+ },
+ "gaming-and-betting-platform": {
+  "outlook": "Digital wagering platforms capture market share through state-by-state licensing, product engagement, and data-driven unit economics. The compliance tax is structural—regulatory access and licensing are non-negotiable costs that favor capital-rich players. Customer acquisition remains expensive despite market maturity. Operators must maintain engagement through continuous product innovation while holding margins through tight hold-rate management. Consolidation among licensees continues as weaker players exit.",
+  "takeaway": "Licensing and compliance favor consolidation; the winner is whoever manages customer acquisition cost and hold rate best.",
+  "advantaged": [
+   "Operators with multiple state licenses and ability to cross-market products across jurisdictions",
+   "Data-driven platforms that use engagement analytics to reduce churn and lift lifetime value"
+  ],
+  "exposed": [
+   "Single-state or limited-license operators unable to amortize regulatory cost across geographies",
+   "Players dependent on paid acquisition without retention levers or product differentiation"
+  ],
+  "tension": "Regulatory access creates moat but imposes constant compliance cost; customer acquisition cost rises as market matures."
+ },
+ "digital-platform-and-software-network": {
+  "outlook": "These platforms win through distribution scale, ecosystem lock-in, and the ability to compound network effects faster than point-solution competitors. The great consolidation accelerates as platforms absorb smaller players and integrate services. Infrastructure cost stays high, but distribution breadth and data access create durable moats. Winners maintain relevance by releasing features faster and cheaper than startups, though regulatory burden on larger platforms is rising. Market concentration continues.",
+  "takeaway": "Ecosystem position and distribution network matter more than feature innovation.",
+  "advantaged": [
+   "Incumbents with installed bases that can shift customer adoption and cross-sell at low acquisition cost",
+   "Platforms with infrastructure scale and data that smaller competitors can't afford to match"
+  ],
+  "exposed": [
+   "Point-solution vendors unable to compete on distribution or data scale",
+   "Smaller networks squeezed by larger players integrating similar functionality into core products"
+  ],
+  "tension": "Infrastructure cost and customer acquisition cost favor scale, but regulatory scrutiny on large platforms increases as consolidation deepens."
+ },
+ "education-and-tutoring-platform": {
+  "outlook": "Learning-support platforms consolidate fragmented tutoring demand through curriculum credibility, distribution, and measurable outcomes. The channel shift accelerates digital delivery and reduces dependency on physical location. Scale helps spread curriculum development and marketing cost, but customer acquisition remains expensive because educational trust is earned slowly. The compute super-cycle enables personalized learning, yet real outcomes still depend on human attention. Winners balance technology scale with local partnerships or franchise models.",
+  "takeaway": "Outcomes credibility and distribution scale both matter, but neither alone is enough.",
+  "advantaged": [
+   "Networks with proven track records of measurable student improvement and strong brand trust",
+   "Hybrid models that combine local presence or franchise partnerships with digital tools"
+  ],
+  "exposed": [
+   "Point-solution tutoring platforms struggling to prove outcomes against established competitors",
+   "Purely digital players without offline distribution or measurable credibility in local markets"
+  ],
+  "tension": "Distribution and technology can be scaled, but building credible outcomes and customer acquisition channels takes years and won't yield venture returns."
+ }
+}

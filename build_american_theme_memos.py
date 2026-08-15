@@ -329,7 +329,20 @@ def load_themes() -> list[dict]:
 
 
 def build_theme_record(theme: dict) -> dict:
-    memo = MEMOS[theme["slug"]]
+    memo = dict(MEMOS[theme["slug"]])
+    _prose_path = ROOT / "theme_memo_prose.json"
+    _theme_memo_prose = json.load(_prose_path.open(encoding="utf-8")) if _prose_path.exists() else {}
+    prose = _theme_memo_prose.get(theme["slug"])
+    if prose:
+        if prose.get("operator_read"):
+            memo["operator_angle"] = prose["operator_read"]
+        if prose.get("investor_read"):
+            memo["investor_angle"] = prose["investor_read"]
+        if prose.get("what_to_build"):
+            memo["best_hunting_grounds"] = prose["what_to_build"]
+        if prose.get("what_to_avoid"):
+            memo["avoid_zones"] = prose["what_to_avoid"]
+        memo["bottom_line"] = prose.get("bottom_line", "")
     exposed_companies = []
     advantaged_companies = []
     for subtheme in theme["subthemes"]:
@@ -371,7 +384,21 @@ def brief_card(brief: dict) -> str:
 </article>"""
 
 
-def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -> str:
+def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "", seen: set | None = None) -> str:
+    seen = seen if seen is not None else set()
+
+    def dd(items: list, limit: int, tx=None) -> str:
+        out = []
+        for item in items:
+            value = tx(item) if tx else item
+            if value in seen:
+                continue
+            seen.add(value)
+            out.append(value)
+            if len(out) >= limit:
+                break
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
     forces = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in subtheme["forces"]
@@ -383,35 +410,35 @@ def render_subtheme_application(theme: dict, subtheme: dict, prefix: str = "") -
   <div class="chips">{forces}</div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Pressure points</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['pressure_points'][:3])}</ul>
+    <ul class="list">{dd(subtheme['pressure_points'], 3)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Strategic consequences</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['strategic_consequences'][:3])}</ul>
+    <ul class="list">{dd(subtheme['strategic_consequences'], 3)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Market rewrites</div>
-    <ul class="list">{''.join(f"<li>{e(simplify_second_order(item))}</li>" for item in subtheme['market_rewrites'][:2])}</ul>
+    <ul class="list">{dd(subtheme['market_rewrites'], 2, simplify_second_order)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Counterforces</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['counterforces'][:2])}</ul>
+    <ul class="list">{dd(subtheme['counterforces'], 2)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Behavioral expression</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['behavioral_expression'][:3])}</ul>
+    <ul class="list">{dd(subtheme['behavioral_expression'], 3)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Economic mechanics</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['economic_mechanics'][:3])}</ul>
+    <ul class="list">{dd(subtheme['economic_mechanics'], 3)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Timing markers</div>
-    <ul class="list">{''.join(f"<li>{e(simplify_timing_marker(item))}</li>" for item in subtheme['timing_markers'][:2])}</ul>
+    <ul class="list">{dd(subtheme['timing_markers'], 2, simplify_timing_marker)}</ul>
   </div>
   <div class="panel" style="margin-top:12px;padding:12px">
     <div class="meta">Execution hazards</div>
-    <ul class="list">{''.join(f"<li>{e(item)}</li>" for item in subtheme['execution_hazards'][:2])}</ul>
+    <ul class="list">{dd(subtheme['execution_hazards'], 2)}</ul>
   </div>
 </article>"""
 
@@ -456,7 +483,8 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     representative_companies = "".join(company_chips[:6]) or '<span class="chip">none surfaced</span>'
     advantaged = "".join(company_link(company, prefix=prefix) for company in theme["advantaged_examples"]) or '<span class="chip">none surfaced</span>'
     exposed = "".join(company_link(company, prefix=prefix) for company in theme["exposed_examples"]) or '<span class="chip">none surfaced</span>'
-    subcards = "".join(render_subtheme_application(theme, subtheme, prefix=prefix) for subtheme in theme["subthemes"])
+    _sub_seen: set = set()
+    subcards = "".join(render_subtheme_application(theme, subtheme, prefix=prefix, seen=_sub_seen) for subtheme in theme["subthemes"])
     return f"""<section class="memo">
   <div class="meta">{e(theme['lens'])} memo</div>
   <h3>{e(theme['title'])}</h3>
@@ -466,6 +494,7 @@ def render_memo(theme: dict, prefix: str = "") -> str:
     <div class="meta">Deep theme read</div>
     <p>{e(theme['deep_read'])}</p>
   </div>
+  {f'<div class="lead"><p><b>Bottom line:</b> {e(theme["bottom_line"])}</p></div>' if theme.get('bottom_line') else ''}
   <div class="chips">{theme_brief_chip(theme, prefix)}{theme_taxonomy_chip(theme, prefix)}{force_chips}</div>
   <div class="split">
     <div class="panel">

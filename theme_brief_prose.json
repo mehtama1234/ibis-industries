@@ -1,0 +1,52 @@
+{
+ "barbelled-consumer-america": {
+  "brief": "American shoppers are splitting decisively into value-seekers and premium spenders, leaving the middle market caught in the crossfire. Inflation, instant price comparison, and better private-label alternatives have made undifferentiated mid-tier goods harder to sell. Only operators specializing in reliable cheapness or defensible premium gain leverage.",
+  "signal": "Private-label penetration and value-format traffic growth accelerate while mid-tier retailers face tightening margins and shifting shopper traffic.",
+  "bet": "Build or acquire an omnichannel operator with either ruthless cost discipline or authentic premium positioning—undifferentiated middle ground collapses."
+ },
+ "wellness-recodes-daily-life": {
+  "brief": "Health and fitness have stopped being a niche preference and become a filter through which ordinary people make daily choices about food, drink, and self-care. GLP-1 adoption, the sober-curious movement, and constant biometric self-tracking have normalized health-first decision-making at scale. Categories and brands that align with this shift gain resilience; those that ignore it face volume erosion.",
+  "signal": "Mainstream beverage and snacking volume contracts as consumption shifts toward functional alternatives and health-aligned formats.",
+  "bet": "Acquire or build functional food and beverage capabilities in high-traffic categories where health-conscious trade-up or substitution is already underway."
+ },
+ "experience-status-and-community": {
+  "brief": "Conspicuous consumption of objects has lost ground to participation in experiences, curated aesthetics, and membership in communities. Digital saturation and goods affordability inequality have made shared experiences—travel, events, leisure, fandom—more culturally important as status markers. Venues, platforms, and creators that host these experiences command pricing power.",
+  "signal": "Discretionary spend increasingly flows toward events, travel, and social participation while volume of owned goods per household stabilizes or declines.",
+  "bet": "Invest in well-sited physical venues, experience platforms, or creator ecosystems that generate durable communities and repeat participation."
+ },
+ "aging-care-and-the-assistance-economy": {
+  "brief": "America's aging population is flooding demand into healthcare, home services, devices, and financial planning, but labor scarcity and payer control are squeezing the sector's ability to convert that need into sustainable economics. Reimbursement power, caregiver availability, and home-based care logistics will determine which aging-focused businesses survive and scale. Only vertically integrated or highly automated operators can defend margins.",
+  "signal": "Home care and community-based services see rising demand while institutional care capacity tightens and wage pressure accelerates.",
+  "bet": "Build or acquire integrated home-care delivery networks with technology that substitutes for scarce labor or creates efficiency across the care chain."
+ },
+ "work-without-the-old-firm": {
+  "brief": "The traditional full-time employment ladder is unraveling into fractional roles, gigs, expert networks, and task-based contracting. Higher labor costs, AI assistance, and employer caution around headcount have made variable staffing more attractive than permanent hiring. Workers are responding by seeking portable credentials and shorter skill cycles, but entry-level access and stability are eroding.",
+  "signal": "Fractional hiring, freelance platform volumes, and skills certification demand grow while permanent junior-role openings contract.",
+  "bet": "Build infrastructure for fractional work coordination, skills credentialing, or portable benefits that capture value from the shift away from traditional employment."
+ },
+ "physical-reindustrialization-and-infrastructure": {
+  "brief": "Tariff policy, AI data-center demand, and federal spending have made physical infrastructure and manufacturing location strategically important again. Land, power, cooling, and skilled trades are now bottlenecks that reprice almost everything in goods production and construction. Sites with electricity and permitting speed gain leverage over traditional low-cost manufacturing locations.",
+  "signal": "Tariff pass-through into consumer and business goods accelerates while domestic manufacturing capacity utilization and trades employment rise.",
+  "bet": "Acquire or build nearshore manufacturing, electrical and cooling infrastructure, or logistics assets in power-rich corridors before scarcity pricing fully sets in."
+ },
+ "scale-financialization-and-the-owned-economy": {
+  "brief": "The economy is consolidating around scaled operators, platform owners, and financial infrastructure holders while independent Main Street ownership loses ground to PE roll-ups and franchising. Higher rates, regulatory complexity, and labor management challenges all favor large operators over fragments. Whoever owns the assets or controls the rails captures more durable economics than the visible service operator on top.",
+  "signal": "M&A and franchise expansion accelerate in fragmented service categories while independent ownership percentage declines across healthcare, home services, and retail.",
+  "bet": "Acquire or build asset-owning platforms that centralize purchasing power, compliance, or capital access for fragmented operator networks."
+ },
+ "regulated-software-and-admin-state": {
+  "brief": "A growing slice of economic value comes from software and services that manage mandatory complexity: compliance, identity verification, healthcare documentation, fraud prevention, and audit trails that customers cannot skip. Regulatory burden keeps rising, which creates durable demand that is only loosely tied to end-market growth cycles. Scale and product maturity in this space create defensible, recurring revenue.",
+  "signal": "Healthcare administrative overhead, compliance software spending, and identity/fraud verification solutions expand faster than core industry volumes.",
+  "bet": "Build or acquire regulatory compliance, audit, identity verification, or reimbursement administration software targeted at regulated industries where enforcement is tightening."
+ },
+ "space-housing-and-local-friction": {
+  "brief": "Higher mortgage rates, hybrid work, and persistent housing shortages are reshaping where Americans work and live, leaving office space stranded while housing remains locked in supply constraints. Data-center demand and logistics corridors are attracting capital to utility-rich land while neighborhoods with stable foot traffic gain new importance. Local economic value is increasingly determined by physical proximity to infrastructure flows rather than downtown density alone.",
+  "signal": "Office vacancy rises and conversion accelerates while housing prices and warehouse/data-center land values remain elevated in supply-constrained regions.",
+  "bet": "Acquire or develop adaptive-reuse opportunities in weak office markets or logistics-linked land near power and broadband infrastructure."
+ },
+ "machine-intelligence-and-compute-buildout": {
+  "brief": "AI is simultaneously rewriting workflows, demanding massive infrastructure investment, and concentrating capital and power around whoever can afford the compute and data stack. Model training and inference are reshaping labor demand across white-collar work while power, cooling, and data-center land have become the real bottlenecks. The largest platform and infrastructure players are consolidating control over both the technology and the physical assets it requires.",
+  "signal": "Data-center construction and power infrastructure projects accelerate while workflows in finance, logistics, and administrative work compress around AI-enabled tools.",
+  "bet": "Invest in AI-powered workflow compression in established industries where administrative overhead is high, or in power and cooling infrastructure that feeds the compute demand."
+ }
+}

@@ -312,14 +312,27 @@ def brief_card(brief: dict) -> str:
 </article>"""
 
 
-def render_subtheme_application(subtheme: dict, prefix: str = "") -> str:
+def render_subtheme_application(subtheme: dict, prefix: str = "", seen: set | None = None) -> str:
+    seen = seen if seen is not None else set()
+
+    def dd(items: list, limit: int) -> str:
+        out = []
+        for item in items:
+            if item in seen:
+                continue
+            seen.add(item)
+            out.append(item)
+            if len(out) >= limit:
+                break
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
     force_chips = "".join(
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in subtheme["forces"][:3]
     )
-    pressure = "".join(f"<li>{e(item)}</li>" for item in subtheme["pressure_points"][:2])
-    signals = "".join(f"<li>{e(item)}</li>" for item in subtheme["signals_to_watch"][:2])
-    consequences = "".join(f"<li>{e(item)}</li>" for item in subtheme["strategic_consequences"][:2])
+    pressure = dd(subtheme["pressure_points"], 2)
+    signals = dd(subtheme["signals_to_watch"], 2)
+    consequences = dd(subtheme["strategic_consequences"], 2)
     return f"""<article class="subcard">
   <div class="meta">{e(subtheme['theme_title'])}</div>
   <h4><a href="{e(prefix)}themes/{e(subtheme['theme_slug'])}.html#{e(subtheme['slug'])}">{e(subtheme['title'])}</a></h4>
@@ -353,7 +366,8 @@ def render_sector(record: dict, prefix: str = "") -> str:
         for item in record["subtheme_map"][:4]
     )
     industry_cards = "".join(brief_card(item) for item in record["example_industries"][:4])
-    subtheme_cards = "".join(render_subtheme_application(item, prefix=prefix) for item in record["subtheme_map"])
+    _seen: set = set(record["theme_tensions"][:4]) | set(record["theme_signals"][:4])
+    subtheme_cards = "".join(render_subtheme_application(item, prefix=prefix, seen=_seen) for item in record["subtheme_map"])
 
     def company_block(rows: list[dict], label: str, cls: str) -> str:
         chips = "".join(company_chip(row, prefix=prefix) for row in rows) or '<span class="chip">none surfaced</span>'

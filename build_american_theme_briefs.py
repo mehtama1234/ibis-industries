@@ -312,7 +312,14 @@ def load_theme_records() -> list[dict]:
 
 
 def build_theme_brief(theme: dict) -> dict:
-    brief = BRIEFS[theme["slug"]]
+    brief = dict(BRIEFS[theme["slug"]])
+    _prose_path = ROOT / "theme_brief_prose.json"
+    _tbp = json.load(_prose_path.open(encoding="utf-8")) if _prose_path.exists() else {}
+    _p = _tbp.get(theme["slug"])
+    if _p:
+        brief["brief_lead"] = _p.get("brief", "")
+        brief["brief_signal"] = _p.get("signal", "")
+        brief["brief_bet"] = _p.get("bet", "")
     return {
         **theme,
         **brief,
@@ -354,15 +361,29 @@ def build_theme_card(theme: dict) -> str:
 </article>"""
 
 
-def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "") -> str:
-    driver_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["structural_drivers"][:3])
-    signal_items = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in subtheme["signals_to_watch"][:3])
-    rewrite_items = "".join(f"<li>{e(simplify_second_order(item))}</li>" for item in subtheme["market_rewrites"][:2])
-    follow_on_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["follow_on_effects"][:2])
-    behavioral_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["behavioral_expression"][:3])
-    economic_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["economic_mechanics"][:3])
-    timing_items = "".join(f"<li>{e(simplify_signal(item))}</li>" for item in subtheme["timing_markers"][:2])
-    hazard_items = "".join(f"<li>{e(item)}</li>" for item in subtheme["execution_hazards"][:2])
+def render_subtheme_digest(theme: dict, subtheme: dict, prefix: str = "", seen: set | None = None) -> str:
+    seen = seen if seen is not None else set()
+
+    def dd(items: list, limit: int, tx=None) -> str:
+        out = []
+        for item in items:
+            value = tx(item) if tx else item
+            if value in seen:
+                continue
+            seen.add(value)
+            out.append(value)
+            if len(out) >= limit:
+                break
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
+    driver_items = dd(subtheme["structural_drivers"], 3)
+    signal_items = dd(subtheme["signals_to_watch"], 3, simplify_signal)
+    rewrite_items = dd(subtheme["market_rewrites"], 2, simplify_second_order)
+    follow_on_items = dd(subtheme["follow_on_effects"], 2)
+    behavioral_items = dd(subtheme["behavioral_expression"], 3)
+    economic_items = dd(subtheme["economic_mechanics"], 3)
+    timing_items = dd(subtheme["timing_markers"], 2, simplify_signal)
+    hazard_items = dd(subtheme["execution_hazards"], 2)
     href = f'{e(prefix)}themes/{e(theme["slug"])}.html#{e(subtheme["slug"])}'
     return f"""<article class="subcard">
   <div class="meta">Subtheme</div>
@@ -427,11 +448,23 @@ def render_theme_section(theme: dict, prefix: str = "") -> str:
         f'<a class="chip" href="{e(prefix)}forces/{e(force["slug"])}/index.html">{e(force["title"])}</a>'
         for force in theme["forces"]
     )
-    subtheme_digests = "".join(render_subtheme_digest(theme, subtheme, prefix=prefix) for subtheme in theme["subthemes"])
+    _digest_seen: set = set()
+    subtheme_digests = "".join(render_subtheme_digest(theme, subtheme, prefix=prefix, seen=_digest_seen) for subtheme in theme["subthemes"])
+    brief_lead = f'<div class="lead"><p>{e(theme["brief_lead"])}</p></div>' if theme.get("brief_lead") else ""
+    brief_extra = ""
+    if theme.get("brief_signal") or theme.get("brief_bet"):
+        parts = []
+        if theme.get("brief_signal"):
+            parts.append(f'<div class="panel"><div class="meta">Clearest signal</div><p>{e(theme["brief_signal"])}</p></div>')
+        if theme.get("brief_bet"):
+            parts.append(f'<div class="panel"><div class="meta">The bet</div><p>{e(theme["brief_bet"])}</p></div>')
+        brief_extra = f'<div class="split">{"".join(parts)}</div>'
     return f"""<section class="theme">
   <div class="meta">{e(theme['lens'])}</div>
   <h3>{e(theme['title'])}</h3>
   <p><b>{e(theme['hook'])}</b></p>
+  {brief_lead}
+  {brief_extra}
   {long_read}
   <div class="panel" style="margin-top:14px">
     <div class="meta">Deep theme read</div>

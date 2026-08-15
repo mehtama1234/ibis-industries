@@ -200,6 +200,8 @@ def build_outlook_records() -> list[dict]:
     themes = load_themes()
     force_theme_map = build_force_theme_map(themes)
     grouped = build_cluster_company_map(companies)
+    prose_path = ROOT / "company_cluster_prose.json"
+    cluster_prose = json.load(prose_path.open(encoding="utf-8")) if prose_path.exists() else {}
     records = []
 
     for slug, members in grouped.items():
@@ -280,6 +282,14 @@ def build_outlook_records() -> list[dict]:
                 f"The investor question is which version of {cluster.get('title', slug.replace('-', ' ').title()).lower()} owns the bottleneck, routinizes the complexity, and keeps the new behavior legible enough to hold pricing, throughput, or renewal power."
             ),
         }
+        prose = cluster_prose.get(slug)
+        if prose:
+            if prose.get("outlook"):
+                record["outlook_thesis"] = prose["outlook"]
+            record["cluster_takeaway"] = prose.get("takeaway", "")
+            record["prose_advantaged"] = prose.get("advantaged", [])
+            record["prose_exposed"] = prose.get("exposed", [])
+            record["prose_tension"] = prose.get("tension", "")
         records.append(record)
 
     records.sort(key=lambda item: (-item["company_count"], item["title"]))
@@ -297,10 +307,23 @@ def render_company_chip(company: dict, prefix: str = "") -> str:
     return f'<span class="chip">{e(company["title"])}</span>'
 
 
-def render_lens(lens: dict, prefix: str = "") -> str:
+def render_lens(lens: dict, prefix: str = "", seen: set | None = None) -> str:
+    seen = seen if seen is not None else set()
+
+    def dedup(items: list[str], limit: int) -> list[str]:
+        out = []
+        for item in items:
+            if item in seen:
+                continue
+            seen.add(item)
+            out.append(item)
+            if len(out) >= limit:
+                break
+        return out
+
     theme_chips = "".join(f'<span class="chip">{e(title)}</span>' for title in lens["theme_titles"][:4])
-    tensions = "".join(f"<li>{e(item)}</li>" for item in lens["tensions"][:3])
-    signals = "".join(f"<li>{e(item)}</li>" for item in lens["signals"][:3])
+    tensions = "".join(f"<li>{e(item)}</li>" for item in dedup(lens["tensions"], 3))
+    signals = "".join(f"<li>{e(item)}</li>" for item in dedup(lens["signals"], 3))
     subthemes = "".join(render_subtheme_chip(prefix, item) for item in lens["subthemes"][:6]) or '<span class="chip">no surfaced subthemes</span>'
     return f"""<article class="lens">
   <div class="meta">{e(lens['label'])} lens</div>
@@ -325,7 +348,8 @@ def render_lens(lens: dict, prefix: str = "") -> str:
 
 
 def render_record(record: dict, prefix: str = "") -> str:
-    lenses = "".join(render_lens(lens, prefix=prefix) for lens in record["lens_cards"])
+    lens_seen: set = set()
+    lenses = "".join(render_lens(lens, prefix=prefix, seen=lens_seen) for lens in record["lens_cards"])
     sector_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["dominant_sectors"][:5])
     constraint_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["dominant_constraints"][:6])
     theme_term_chips = "".join(f'<span class="chip">{e(item)}</span>' for item in record["recurring_theme_terms"][:6])
@@ -358,15 +382,16 @@ def render_record(record: dict, prefix: str = "") -> str:
   <div class="meta" style="margin-top:14px">Where it shows up</div>
   <div class="chips">{sector_chips}</div>
   <div class="chips">{theme_term_chips}</div>
-  <div class="chips">{theme_term_chips}</div>
+  {f'<div class="lead"><p><b>Bottom line:</b> {e(record["cluster_takeaway"])}</p></div>' if record.get('cluster_takeaway') else ''}
+  {f'<div class="panel" style="margin-top:14px"><div class="meta">The core tension</div><p>{e(record["prose_tension"])}</p></div>' if record.get('prose_tension') else ''}
   <div class="split">
     <div class="panel">
-      <div class="meta">What to do</div>
-      <p>{e(record['operator_angle'])}</p>
+      <div class="meta">Who's advantaged</div>
+      <ul class="list">{"".join(f"<li>{e(item)}</li>" for item in record.get('prose_advantaged', [])) or f"<li>{e(record['operator_angle'])}</li>"}</ul>
     </div>
     <div class="panel">
-      <div class="meta">What to underwrite</div>
-      <p>{e(record['investor_angle'])}</p>
+      <div class="meta">Who's exposed</div>
+      <ul class="list">{"".join(f"<li>{e(item)}</li>" for item in record.get('prose_exposed', [])) or f"<li>{e(record['investor_angle'])}</li>"}</ul>
     </div>
   </div>
   <div class="split">
