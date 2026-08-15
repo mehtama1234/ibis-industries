@@ -1599,14 +1599,29 @@ def build_subtheme_deep_read(theme: dict, subtheme: dict, industries: list[dict]
     )
 
 
+_FRAME_VARIANTS_PATH = ROOT / "force_frame_variants.json"
+FRAME_VARIANTS = json.load(_FRAME_VARIANTS_PATH.open(encoding="utf-8")) if _FRAME_VARIANTS_PATH.exists() else {}
+
+
+def _frame_field(force_slug: str, field: str, subtheme: dict) -> str | None:
+    """Return a force frame line, rotating across authored variants by subtheme so a
+    widely-linked force does not show the same driver/pressure/signal verbatim everywhere."""
+    variants = FRAME_VARIANTS.get(force_slug, {}).get(field)
+    if variants:
+        seed = sum(ord(c) for c in (subtheme.get("slug", "") + field))
+        return variants[seed % len(variants)]
+    base = FORCE_FRAMES.get(force_slug)
+    return base[field] if base else None
+
+
 def build_subtheme_drivers(subtheme: dict, forces: list[dict]) -> list[str]:
     drivers = []
     for item in subtheme["microthemes"][:2]:
         drivers.append(f"Demand and behavior are reorganizing around {item}.")
     for force in forces[:2]:
-        frame = FORCE_FRAMES.get(force["slug"])
-        if frame:
-            drivers.append(sentence_ready(frame["driver"]) + ".")
+        val = _frame_field(force["slug"], "driver", subtheme)
+        if val:
+            drivers.append(sentence_ready(val) + ".")
     return drivers[:4]
 
 
@@ -1617,18 +1632,18 @@ def build_subtheme_pressure_points(subtheme: dict, industries: list[dict], force
         one_sentence = sentence_tail(item.get("one_sentence", "baseline customer expectations"))
         points.append(f"{sector.capitalize()} operators have to absorb this shift in a market where {one_sentence}.")
     for force in forces[:2]:
-        frame = FORCE_FRAMES.get(force["slug"])
-        if frame:
-            points.append(sentence_ready(frame["pressure"]) + ".")
+        val = _frame_field(force["slug"], "pressure", subtheme)
+        if val:
+            points.append(sentence_ready(val) + ".")
     return points[:4]
 
 
 def build_subtheme_signals(subtheme: dict, industries: list[dict], companies: list[dict], forces: list[dict]) -> list[str]:
     signals = []
     for force in forces[:2]:
-        frame = FORCE_FRAMES.get(force["slug"])
-        if frame:
-            signals.append(sentence_ready(frame["signal"]) + ".")
+        val = _frame_field(force["slug"], "signal", subtheme)
+        if val:
+            signals.append(sentence_ready(val) + ".")
     if companies:
         advantaged = sum(1 for item in companies if item.get("status") == "advantaged")
         exposed = sum(1 for item in companies if item.get("status") == "exposed")
@@ -1685,10 +1700,10 @@ def build_subtheme_stakeholders(subtheme: dict, industries: list[dict], companie
 def build_subtheme_counterforces(subtheme: dict, forces: list[dict]) -> list[str]:
     counterforces = []
     for force in forces[:2]:
-        frame = FORCE_FRAMES.get(force["slug"])
-        if frame:
+        val = _frame_field(force["slug"], "pressure", subtheme)
+        if val:
             counterforces.append(
-                f"This subtheme still faces resistance because {lower_first(frame['pressure'].rstrip('.'))}."
+                f"This subtheme still faces resistance because {lower_first(val.rstrip('.'))}."
             )
     if subtheme["microthemes"]:
         counterforces.append(

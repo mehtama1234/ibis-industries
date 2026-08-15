@@ -1,0 +1,274 @@
+{
+ "the-hollow-middle": {
+  "driver": [
+   "Demand keeps separating into value-safe and premium-defensible positions",
+   "Middle-market customers increasingly choose either lowest-cost options or visibly superior premium offerings",
+   "Customer preferences are polarizing: shoppers want either unbeatable value or undeniable quality and cachet"
+  ],
+  "pressure": [
+   "Undifferentiated middle-market offers lose both pricing room and emotional clarity",
+   "Generic mid-tier products face margin collapse and struggle to convince buyers why they matter",
+   "Operators stuck in the middle cannot compete on cost or command premium pricing for differentiation"
+  ],
+  "signal": [
+   "Mix shifts toward either obvious value packs or visibly better premium tiers",
+   "Market share concentrates in budget and deluxe segments; mid-tier offerings shrink",
+   "Best-sellers cluster at bargain prices and exclusive premium positions; middle shelf hollows out"
+  ]
+ },
+ "the-channel-shift": {
+  "driver": [
+   "Discovery, comparison, and fulfillment are being reorganized by digital channels",
+   "How customers find, evaluate, and buy products is shifting decisively online and toward convenience",
+   "Digital platforms and mobile-first fulfillment are replacing traditional retail as the primary shopping frontier"
+  ],
+  "pressure": [
+   "Operators that do not control demand or service convenience get commoditized faster",
+   "Businesses without strong digital presence or efficient last-mile delivery face margin compression",
+   "Operators locked out of key digital channels or slower delivery lose customers to nimbler competitors"
+  ],
+  "signal": [
+   "Traffic, basket construction, and repeat behavior move toward low-friction channels",
+   "Customer journeys and spending consolidate in platforms with one-click checkout and fast shipping",
+   "Volume and loyalty metrics show clear preference for mobile apps, social commerce, and same-day delivery"
+  ]
+ },
+ "the-margin-vise": {
+  "driver": [
+   "Input, labor, and service costs are staying elevated against selective customer willingness to pay",
+   "Wages, materials, and operational expenses remain stubbornly high while customer price tolerance flatlines",
+   "Cost inflation in labor, components, and logistics outpaces customers' acceptance of higher prices"
+  ],
+  "pressure": [
+   "Categories with weak differentiation get forced into promotion or mix deterioration",
+   "Undifferentiated products must either cut prices or sacrifice quality, eroding returns",
+   "Operators without strong brand loyalty face a choice: lose money on price or lose volume to cheaper alternatives"
+  ],
+  "signal": [
+   "Operators lean harder on pricing architecture, pack-size changes, and cost takeout",
+   "Companies shrink portions, bundle aggressively, switch to cheaper materials, and automate labor",
+   "Supply chains pivot to lower-cost regions; premium lines shift downmarket; value-size skus multiply"
+  ]
+ },
+ "the-health-reckoning": {
+  "driver": [
+   "Health behavior is moving from niche preference to mainstream social filter",
+   "Wellness, nutrition, and fitness have shifted from fringe choices to core lifestyle identity",
+   "What people eat, drink, and how they move has become a mainstream marker of personal values"
+  ],
+  "pressure": [
+   "Legacy products and routines face reformulation pressure from wellness expectations",
+   "Established brands must redesign formulas and positioning or risk losing health-conscious segments",
+   "Traditional products now face social and commercial pressure to reduce sugar, prove clean ingredients"
+  ],
+  "signal": [
+   "Protein, low-sugar, sober-curious, and health-tracking language becomes more central",
+   "Growth accelerates in functional beverages, plant-based meat, and sleep-wellness categories",
+   "Marketing emphases shift to ingredient transparency, macros, and alignment with personal health goals"
+  ]
+ },
+ "the-experience-economy": {
+  "driver": [
+   "Status and discretionary spend are moving toward participation, memory, and live presence",
+   "Affluent consumers increasingly value memorable, shareable experiences over owning more stuff",
+   "Social status and life satisfaction now derive from doing things and going places rather than accumulating goods"
+  ],
+  "pressure": [
+   "Generic goods and generic venues struggle to justify spend against curated experiences",
+   "Ordinary retail locations and commodity products face margin pressure from experiential alternatives",
+   "Standard shopping and mass-produced items compete poorly for discretionary budgets against travel and events"
+  ],
+  "signal": [
+   "Winners show stronger repeat visitation, programming leverage, and social shareability",
+   "Venues with curated events, Instagrammable moments, and community programming outperform static locations",
+   "Revenue concentrates in destinations offering unique programming, social proof, and memorable moments"
+  ]
+ },
+ "the-graying-market": {
+  "driver": [
+   "Older households are becoming a larger and more economically decisive cohort",
+   "Aging populations control growing wealth and influence spending patterns across many categories",
+   "Senior consumers now represent a dominant demographic and purchasing power segment in most developed markets"
+  ],
+  "pressure": [
+   "Care intensity, mobility limits, and age-linked financial needs reshape category economics",
+   "Healthcare, assistance, and age-appropriate design become cost drivers and competitive requirements",
+   "Products and services must address chronic needs, physical limitations, and financial security concerns of older adults"
+  ],
+  "signal": [
+   "Demand tilts toward chronic care, assistance, protection, and age-adapted convenience",
+   "Market growth concentrates in home health, accessible housing, simplified tech, and financial advisory",
+   "Fastest-growing segments serve mobility, memory, safety, and independence needs of aging populations"
+  ]
+ },
+ "the-labor-squeeze": {
+  "driver": [
+   "Scarce labor and wage pressure are forcing redesign in service and physical operations",
+   "Shortage of workers and rising wages are pushing businesses to eliminate labor-dependent processes",
+   "Tight labor markets and wage inflation are compelling companies to rethink staffing and operational workflows"
+  ],
+  "pressure": [
+   "Throughput and quality become harder to defend when skilled labor is the bottleneck",
+   "Operators cannot scale output or maintain service levels when they cannot hire or retain workers",
+   "Service speed and consistency deteriorate as labor scarcity forces companies to cut staff or reduce hours"
+  ],
+  "signal": [
+   "Automation, scheduling discipline, retention tactics, and selective simplification accelerate",
+   "Investment shifts toward self-service kiosks, robotics, workforce management software, and higher wages",
+   "Businesses simplify menus and services; invest in employee development; deploy technology to reduce headcount"
+  ]
+ },
+ "the-pricing-power-collapse": {
+  "driver": [
+   "Buyers with payer leverage or concentrated purchasing power are capping monetization",
+   "Large customers, government agencies, and insurance companies are using their scale to force price concessions",
+   "Concentrated buyer power—from Amazon to hospital systems to governments—constrains supplier pricing autonomy"
+  ],
+  "pressure": [
+   "Headline demand overstates actual return capture where reimbursement or procurement rules dominate",
+   "Volume growth does not translate to profit when buyers dictate prices or reimbursement rates",
+   "Rising sales mask margin deterioration when powerful buyers control what they will pay"
+  ],
+  "signal": [
+   "Margin performance diverges more from volume growth in payer-shaped sectors",
+   "Healthcare, government contracting, and big-retail suppliers show volume gains but flat or falling profits",
+   "Earnings misses appear in high-volume segments; supplier profitability depends entirely on payer relationships"
+  ]
+ },
+ "the-compliance-tax": {
+  "driver": [
+   "Mandatory documentation, testing, privacy, and audit overhead keep thickening",
+   "Regulatory requirements for data privacy, product safety, and audit trails are multiplying and tightening",
+   "Compliance burden—from GDPR to SOC 2 to supply chain audits—continues to grow every year"
+  ],
+  "pressure": [
+   "More value accrues to those who can operationalize rule complexity at scale",
+   "Businesses that can absorb compliance costs and automate governance gain competitive advantage over smaller rivals",
+   "Only large operators with dedicated compliance staff and systems can compete in heavily regulated sectors"
+  ],
+  "signal": [
+   "Workflow software, certification, and managed compliance budgets keep deepening",
+   "Enterprise spending on governance tools, auditors, and compliance staff accelerates",
+   "Smaller competitors are driven out or forced to buy compliance services; consolidation accelerates"
+  ]
+ },
+ "the-fractional-worker": {
+  "driver": [
+   "Employment is becoming more modular, rented, and task-specific",
+   "Work relationships are shifting from permanent staff to contractors, freelancers, and project-based engagement",
+   "Full-time employment is declining as companies increasingly hire specialists for discrete projects rather than roles"
+  ],
+  "pressure": [
+   "Traditional ladders, benefits, and firm-sponsored stability weaken at the edges first",
+   "Career progression and employer-provided healthcare become less reliable; workers seek portable benefits",
+   "Employees lose job security and health insurance linkage; companies reduce payroll and pension obligations"
+  ],
+  "signal": [
+   "Advisory retainers, project staffing, and portable admin layers gain relevance",
+   "Consulting, managed service providers, and independent contractor platforms expand rapidly",
+   "Individual workers build personal brands and sell services directly; firms operate leaner with fewer permanent roles"
+  ]
+ },
+ "the-compute-super-cycle": {
+  "driver": [
+   "AI and compute demand are simultaneously compressing workflows and straining physical infrastructure",
+   "Artificial intelligence applications are automating work while consuming massive amounts of computing power and electricity",
+   "Generative AI adoption is driving unprecedented demand for data centers, GPUs, and power infrastructure simultaneously"
+  ],
+  "pressure": [
+   "Capital, power, and data-center access become competitive variables rather than background inputs",
+   "Access to computing capacity and reliable electricity are now strategic constraints, not commodities",
+   "Companies without power supply agreements, cooling infrastructure, or GPU access fall behind in AI capabilities"
+  ],
+  "signal": [
+   "Automation budgets, inference demand, and power-ready site competition keep rising",
+   "Companies invest heavily in AI tools and compete for data-center real estate near power sources",
+   "Tech company capex shifts toward AI infrastructure; power-adjacent industrial land commands premium valuations"
+  ]
+ },
+ "atoms-strike-back": {
+  "driver": [
+   "Physical supply chains, manufacturing capacity, and infrastructure have regained strategic value",
+   "Reliable access to factories, materials, and transportation networks is no longer a given global commodity",
+   "Geopolitical risk and supply chain fragility have restored importance to domestic production and logistics control"
+  ],
+  "pressure": [
+   "Operators are re-exposed to land, freight, material, and plant constraints",
+   "Companies face bottlenecks in shipping, raw materials, and factory availability; physical assets became competitive",
+   "Scarcity of manufacturing space and logistics capacity forces companies to rethink offshoring and just-in-time models"
+  ],
+  "signal": [
+   "Domestic capability, logistics resilience, and buildout bottlenecks matter more in valuation",
+   "Companies invest in reshoring; investors value supply chain resilience and regional manufacturing hubs",
+   "Real estate and logistics assets command premium prices; domestic suppliers gain pricing power"
+  ]
+ },
+ "commodity-whiplash": {
+  "driver": [
+   "Volatile material and energy inputs are transmitting instability into downstream pricing",
+   "Oil, metals, and agricultural commodity swings create unpredictable cost spikes across every downstream industry",
+   "Commodity price volatility—from energy to semiconductors to rare earths—is cascading into consumer product costs"
+  ],
+  "pressure": [
+   "Thin-margin models are less able to absorb policy or commodity shocks cleanly",
+   "Low-margin businesses cannot pass through cost increases and cannot absorb them; margins evaporate on price swings",
+   "Companies with fixed-price contracts or commodity-exposed supply chains face earnings collapse when prices spike"
+  ],
+  "signal": [
+   "Sourcing optionality and contract discipline become visibly more strategic",
+   "Companies negotiate long-term supplier contracts and diversify sourcing to hedge price risk",
+   "Procurement sophistication—hedging strategies and multi-region sourcing—becomes visible in financial performance"
+  ]
+ },
+ "the-real-estate-reckoning": {
+  "driver": [
+   "The value of place is being repriced by rates, hybrid work, logistics, and compute demand",
+   "Rising interest rates, remote work, and AI infrastructure needs are reordering which locations command premium rent",
+   "Traditional commercial real estate is losing value while logistics hubs, power-adjacent land, and remote-friendly housing surge"
+  ],
+  "pressure": [
+   "Commodity space loses relevance while utility-linked or flow-linked sites gain rent",
+   "Generic office and retail space faces obsolescence; demand concentrates in data centers, distribution, and tech hubs",
+   "Landlords of ordinary commercial space struggle; only premium locations near power grids or ports retain value"
+  ],
+  "signal": [
+   "Adaptive reuse, housing lock-in, and power-adjacent land become recurring decision points",
+   "Office towers convert to apartments; rural land near power stations attracts investment; logistics parks boom",
+   "Real estate decisions increasingly hinge on proximity to electricity, broadband, and supply chain nodes"
+  ]
+ },
+ "the-great-consolidation": {
+  "driver": [
+   "Ownership scale is increasingly rewarded in sectors burdened by complexity",
+   "Large, integrated companies outcompete fragmented independent operators in heavily regulated or tech-heavy industries",
+   "Scale advantages in software licensing, regulatory compliance, and supply chain procurement make size decisive"
+  ],
+  "pressure": [
+   "Independent operators face rising disadvantages in procurement, software, and compliance",
+   "Solo practitioners and small firms cannot afford enterprise software; large suppliers squeeze independents out",
+   "Consolidation becomes the only survival path for standalone operators facing rising regulatory and tech costs"
+  ],
+  "signal": [
+   "Platform control, roll-ups, and centralized purchasing keep widening the gap",
+   "Aggregators and platforms grow faster; independent market share shrinks; M&A activity in fragmented sectors accelerates",
+   "Survivors cluster in niches too small to roll up; generalists get gobbled into platforms"
+  ]
+ },
+ "money-gets-unbundled": {
+  "driver": [
+   "Financial products, risk management, and payment rails are fragmenting into specialized layers",
+   "Banking, insurance, payments, and lending are disaggregating into modular services from specialized providers",
+   "Fintech companies and embedded finance are breaking apart the traditional financial services bundle"
+  ],
+  "pressure": [
+   "Intermediaries without privileged data, trust, or embedded distribution lose ground",
+   "Generalist banks and brokers face margin pressure from specialists who own a single data rich layer",
+   "Traditional financial institutions cannot compete with point solutions that own deep customer data or workflow integration"
+  ],
+  "signal": [
+   "Verification, underwriting precision, and workflow adjacency become stronger moats",
+   "Profit concentrates in data-rich risk assessment, embedded payments at point of sale, and vertical-specific lending",
+   "Winners own customer data or workflow; losers are squeezed out or relegated to commoditized transaction fees"
+  ]
+ }
+}
