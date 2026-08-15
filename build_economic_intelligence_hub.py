@@ -111,19 +111,20 @@ NARRATIVE_BLOCKS = [
     {
         "title": "The Short Read",
         "body": (
-            "The economy in 2025-2026 still has demand, but it has fewer easy places to turn demand "
-            "into durable profit. Labor is scarce, capital is more selective, AI is both software "
-            "and infrastructure, consumers are split between value and premium, and regulation plus "
-            "reimbursement are steering more industries than they first appear to."
+            "Demand is not the scarce thing anymore — turning it into durable profit is. Across 1,491 "
+            "industries the same shape keeps appearing: the market is still there, but labor, power, "
+            "capital, compliance, and channel access have quietly become the gatekeepers, and only the "
+            "operators built to clear those gates keep the margin."
         ),
     },
     {
         "title": "What Keeps Repeating",
         "body": (
-            "Across the corpus, the same pressures keep showing up: labor scarcity, demographic aging, "
-            "consumer bifurcation, platform channel shift, health behavior change, AI-driven workflow "
-            "compression, power and data-center buildout, political supply chains, and consolidation "
-            "as the answer to rising complexity."
+            "Read the industries side by side and a handful of pressures surface again and again: labor "
+            "scarcity, an aging population, consumers splitting into value and premium, the move from "
+            "stores to platforms, health rewiring what people buy, AI compressing knowledge work, the "
+            "power and data-center buildout, tariff-politicized supply chains, and consolidation as the "
+            "default answer to rising complexity."
         ),
     },
     {
@@ -438,7 +439,7 @@ def main():
 <p class="sub">{e(INTRO)}</p>
 <div class="strip">
   <div class="kpi"><div class="n">{taxonomy['metadata']['industry_brief_count']}</div><div class="l">Industries</div></div>
-  <div class="kpi"><div class="n">{taxonomy['metadata']['force_count']}</div><div class="l">Forces</div></div>
+  <div class="kpi"><div class="n">{taxonomy['metadata']['force_count']}</div><div class="l">Core forces</div></div>
   <div class="kpi"><div class="n">{len(domains)}</div><div class="l">Domains</div></div>
   <div class="kpi"><div class="n">{taxonomy['metadata']['operator_playbook_count']}</div><div class="l">Operator lenses</div></div>
 </div>
