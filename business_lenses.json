@@ -8,7 +8,7 @@
     "economic_role": "service operator",
     "primary_customer": "Households and small local commercial buyers",
     "value_chain_position": "Last-mile local service delivery with centralized demand capture and operations",
-    "business_truth": "This is a service operator business that wins when fragmented local service categories become better businesses when scheduling, pricing, labor, and marketing are centralized.",
+    "business_truth": "A multi-site services business wins by centralizing the messy work—scheduling, labor, pricing, marketing—while staying locally relevant.",
     "primary_industry_slug": "hair-and-nail-salons-in-the-us",
     "adjacent_industry_slugs": [
       "hair-salons",
@@ -109,7 +109,9 @@
       "Hair Salons shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Gym & Fitness Franchises shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Gym, Health & Fitness Clubs in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Households and small commercial buyers need services that are timely and trustworthy, but labor and pricing power are the knots. Regional scale lets platforms recruit reliably, train consistently, and set competitive prices without franchisees cutting corners. When utilization is low or labor is hard to hold, the entire model shudders.",
+    "lens_the_bet": "Winners link centralized operations to real labor outcomes—stable workers, lower turnover, predictable service delivery—while losers remain operationally fragmented, neither truly local nor truly scaled."
   },
   {
     "slug": "specified-product-manufacturer",
@@ -120,7 +122,7 @@
     "economic_role": "manufacturer",
     "primary_customer": "Contractors, labs, OEMs, distributors, and institutional buyers",
     "value_chain_position": "Upstream product supplier inside specified and replacement-driven demand chains",
-    "business_truth": "This is a manufacturer business that wins when small industrial manufacturers can be defensible when they make narrow, specified products that customers cannot easily substitute.",
+    "business_truth": "A narrow-spec industrial producer wins by sitting reliably inside procurement flows that buyers cannot easily rewire.",
     "primary_industry_slug": "laboratory-casework-manufacturing",
     "adjacent_industry_slugs": [
       "laboratory-fume-hoods-manufacturing",
@@ -198,7 +200,9 @@
       "Laboratory Fume Hoods Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Industrial & Fluid Power Valve Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Industrial & Commercial Fan & Blower Manufacturing shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Contractors, labs, and OEMs need parts that meet exacting technical standards or regulatory checkboxes; switching costs are high. The manufacturer's bind is labor scarcity and capital intensity, both worsened by AI-driven reshoring and the push to nearshore. Scale helps only where it solves the labor or compliance problem—not where it chases volume.",
+    "lens_the_bet": "Winners hold irreplaceable technical position and earn pricing power from that lock-in; losers chase generic commoditization and get crushed by faster, cheaper suppliers."
   },
   {
     "slug": "reimbursement-managed-care-operator",
@@ -209,7 +213,7 @@
     "economic_role": "service operator",
     "primary_customer": "Patients, payers, referral sources, and care coordinators",
     "value_chain_position": "Direct care delivery inside payer and referral systems",
-    "business_truth": "This is a service operator business that wins when healthcare service operators win when they manage reimbursement, staffing, referral flow, and compliance better than local independents.",
+    "business_truth": "A care operator survives by threading the needle between staff costs, regulatory demands, and reimbursement rates that keep shrinking.",
     "primary_industry_slug": "elderly-and-disabled-services-in-the-us",
     "adjacent_industry_slugs": [
       "eating-disorder-clinics",
@@ -296,7 +300,9 @@
       "Eating Disorder Clinics shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "DNA & DNA Forensic Laboratories shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Laboratory Testing Services in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Patients, payers, and referral sources form the demand side, but the real pressure is compliance and low wages—both drive care quality down and burnout up. Regional scale can negotiate better referral flows and staffing density, but only if regulatory burden doesn't devour the gain. Pricing power has all but vanished.",
+    "lens_the_bet": "Winners build systems that reduce labor friction and compliance overhead in tandem; losers run on thin margins with interchangeable staff and are first to collapse when reimbursement tightens."
   },
   {
     "slug": "utilization-managed-experience-venue",
@@ -307,7 +313,7 @@
     "economic_role": "service operator",
     "primary_customer": "Consumers, families, corporate groups, and event buyers",
     "value_chain_position": "Consumer-facing destination format combining space, programming, and optional food/drink",
-    "business_truth": "This is a service operator business that wins when experience businesses survive the channel shift when the venue itself is the product and utilization can be managed tightly.",
+    "business_truth": "An experience venue wins by filling seats and programming them cleverly so crowds feel they've found something genuine and scarce.",
     "primary_industry_slug": "arcade-food-and-entertainment-complexes-in-the-us",
     "adjacent_industry_slugs": [
       "dance-studios",
@@ -395,7 +401,9 @@
       "Dance Studios shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Karaoke Bars shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Golf Driving Ranges & Family Fun Centers in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Consumers and groups book for status and novelty, but demand is fickle and shaped by what they hear and see online. The venue's leverage is channel access—getting people through the door—and the scarcity of prime locations. When health concerns spike or the novelty fades, occupancy collapses fast.",
+    "lens_the_bet": "Winners build repeatable programming that keeps people coming back and use scale to own multiple high-traffic locations; losers over-rely on novelty and end up as empty, over-capitalized shells."
   },
   {
     "slug": "niche-food-brand-producer",
@@ -406,7 +414,7 @@
     "economic_role": "manufacturer",
     "primary_customer": "Retailers, wholesalers, foodservice buyers, and consumers via branded channels",
     "value_chain_position": "Branded or niche producer upstream of retail and distribution intermediaries",
-    "business_truth": "This is a manufacturer business that wins when niche food producers live between health-driven demand shifts, input-cost volatility, and retailer/wholesaler bargaining power.",
+    "business_truth": "A niche food brand wins by owning a taste preference that justifies a price premium and fighting to keep that preference alive in a crowded shelf.",
     "primary_industry_slug": "cocoa-and-drinking-chocolate-production",
     "adjacent_industry_slugs": [
       "coffee-creamer-production",
@@ -486,7 +494,9 @@
       "Coffee Creamer Production shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Kombucha Production in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Hot Sauce Production shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Consumers, retailers, and distributors all shape the path to market, but the real squeeze comes from input costs and channel power—retailers and wholesalers take heavy cuts. Health-conscious positioning attracts consumers but demands costly sourcing. Staying niche is the moat; going mass-market is where most die.",
+    "lens_the_bet": "Winners stay disciplined about their positioning and build direct channels that bypass margin-eating intermediaries; losers chase volume, lose their edge, and get out-competed by better-funded brands with similar profiles."
   },
   {
     "slug": "regulated-workflow-infrastructure",
@@ -497,7 +507,7 @@
     "economic_role": "claims/admin/compliance layer",
     "primary_customer": "Insurers, employers, healthcare operators, regulated enterprises, and public-sector buyers",
     "value_chain_position": "Workflow, identity, testing, and claims infrastructure inside mandatory systems",
-    "business_truth": "This is a claims/admin/compliance layer business that wins when complexity creates businesses: testing, claims, identity, forensic work, hr, and compliance software turn regulation into recurring demand.",
+    "business_truth": "An infrastructure platform wins by turning regulatory tedium into sticky, recurring revenue that enterprises cannot live without.",
     "primary_industry_slug": "insurance-claims-processing-software",
     "adjacent_industry_slugs": [
       "identity-management-software-in-the-us",
@@ -592,7 +602,9 @@
       "Identity Management Software in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Identity Theft Protection Services shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Forensic Accounting Services shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Insurers, employers, and regulated enterprises must manage claims, compliance, and identity regardless of profit motive—demand is baked in by law. The hard part is building software that scales, stays compliant as rules shift, and earns customer trust. Customer acquisition costs are steep because enterprises move slowly.",
+    "lens_the_bet": "Winners build products so integrated into mandatory workflows that switching is prohibitively painful; losers over-engineer, miss regulatory changes, or get killed by larger platforms bundling the capability into suites."
   },
   {
     "slug": "inventory-and-credit-distributor",
@@ -603,7 +615,7 @@
     "economic_role": "distributor",
     "primary_customer": "Contractors, institutions, retailers, and small operators who need availability and working-capital relief",
     "value_chain_position": "Middle layer between producers and fragmented end buyers",
-    "business_truth": "This is a distributor business that wins when distribution businesses are attractive when inventory, credit, technical knowledge, or local availability makes the middleman hard to remove.",
+    "business_truth": "A distributor survives by being the one contractors and small operators call when they need stock fast and cannot wait for capital to clear.",
     "primary_industry_slug": "electrical-equipment-wholesaling-in-the-us",
     "adjacent_industry_slugs": [
       "coal-and-ore-wholesaling-in-the-us",
@@ -705,7 +717,9 @@
       "Coal & Ore Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Dairy Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Egg & Poultry Wholesaling in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Contractors, institutions, and retailers depend on just-in-time inventory and working-capital relief—both are genuine, urgent needs. The distributor floats inventory and credit, earning a spread, but is squeezed by producer direct-to-consumer and by digital ordering that erodes the speed advantage. Capital costs and channel leverage are the twin pressures.",
+    "lens_the_bet": "Winners optimize logistics and relationships to deliver speed and reliability that digital-alone cannot match; losers become pure margin-thin logistics and are crushed by Amazon-like operators or squeezed out by producers recapturing distribution."
   },
   {
     "slug": "care-and-family-demand-platform",
@@ -716,7 +730,7 @@
     "economic_role": "service operator",
     "primary_customer": "Families, seniors, caregivers, payers, and public/private support systems",
     "value_chain_position": "Direct support layer sitting between households and institutional care systems",
-    "business_truth": "This is a service operator business that wins when aging households, working parents, and health complexity create durable demand for care businesses, but labor and regulation cap returns.",
+    "business_truth": "A care platform wins by being the coordinator families and seniors call when they need help but the system is too fragmented to navigate alone.",
     "primary_industry_slug": "elderly-and-disabled-services-in-the-us",
     "adjacent_industry_slugs": [
       "early-childhood-learning-centers",
@@ -804,6 +818,8 @@
       "Early Childhood Learning Centers shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Child Education & Developmental Center Franchises shows how this model spills into adjacent markets once the same operator logic starts repeating.",
       "Family Counseling & Crisis Intervention Services in the US shows how this model spills into adjacent markets once the same operator logic starts repeating."
-    ]
+    ],
+    "lens_whats_happening": "Aging populations and complex care situations drive steady demand, reinforced by payers and public systems that need partners to manage overflow. The operator's crunch is labor scarcity, low reimbursement, and a tangle of compliance rules—all three feed each other. Regional scale can pool labor and negotiate harder with payers, but only if quality is not sacrificed.",
+    "lens_the_bet": "Winners build labor-efficient operations that coordinate care across modalities and earn trust that stickies both families and payers; losers run on unsustainable staffing models and eventually burn out or exit when reimbursement fades."
   }
 ]

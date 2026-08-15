@@ -142,6 +142,8 @@ def top_sectors(playbook: dict) -> list[str]:
 
 
 def build_records():
+    _prose_path = os.path.join(ROOT, "business_lens_prose.json")
+    lens_prose = json.load(open(_prose_path, encoding="utf-8")) if os.path.exists(_prose_path) else {}
     records = []
     for playbook in PLAYBOOKS:
         cfg = BUSINESS_LENS_CONFIG[playbook["slug"]]
@@ -202,6 +204,12 @@ def build_records():
                 ],
             }
         )
+        prose = lens_prose.get(records[-1]["slug"])
+        if prose:
+            if prose.get("headline"):
+                records[-1]["business_truth"] = prose["headline"]
+            records[-1]["lens_whats_happening"] = prose.get("whats_happening", "")
+            records[-1]["lens_the_bet"] = prose.get("the_bet", "")
     return records
 
 
@@ -251,12 +259,14 @@ def build_detail_page(record: dict) -> str:
 <div class="eyebrow">Business lens · US · 2025–2026</div>
 <h1>{e(record['title'])}</h1>
 <p class="sub">{e(record['business_truth'])}</p>
+{f'<div class="lead"><p>{e(record["lens_whats_happening"])}</p></div>' if record.get('lens_whats_happening') else ''}
 <div class="split">
   <main class="stack">
     <div class="panel">
       <div class="meta">Business truth</div>
       <h2>What this business really is</h2>
       <p>{e(record['core_offer'])}</p>
+      {f'<p><b>The bet:</b> {e(record["lens_the_bet"])}</p>' if record.get('lens_the_bet') else ''}
       <p><b>Primary customer:</b> {e(record['primary_customer'])}</p>
       <p><b>Value-chain position:</b> {e(record['value_chain_position'])}</p>
       <div class="chips">{sectors}</div>

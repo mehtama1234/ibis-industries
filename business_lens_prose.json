@@ -1,0 +1,42 @@
+{
+ "local-services-platform": {
+  "headline": "A multi-site services business wins by centralizing the messy work—scheduling, labor, pricing, marketing—while staying locally relevant.",
+  "whats_happening": "Households and small commercial buyers need services that are timely and trustworthy, but labor and pricing power are the knots. Regional scale lets platforms recruit reliably, train consistently, and set competitive prices without franchisees cutting corners. When utilization is low or labor is hard to hold, the entire model shudders.",
+  "the_bet": "Winners link centralized operations to real labor outcomes—stable workers, lower turnover, predictable service delivery—while losers remain operationally fragmented, neither truly local nor truly scaled."
+ },
+ "specified-product-manufacturer": {
+  "headline": "A narrow-spec industrial producer wins by sitting reliably inside procurement flows that buyers cannot easily rewire.",
+  "whats_happening": "Contractors, labs, and OEMs need parts that meet exacting technical standards or regulatory checkboxes; switching costs are high. The manufacturer's bind is labor scarcity and capital intensity, both worsened by AI-driven reshoring and the push to nearshore. Scale helps only where it solves the labor or compliance problem—not where it chases volume.",
+  "the_bet": "Winners hold irreplaceable technical position and earn pricing power from that lock-in; losers chase generic commoditization and get crushed by faster, cheaper suppliers."
+ },
+ "reimbursement-managed-care-operator": {
+  "headline": "A care operator survives by threading the needle between staff costs, regulatory demands, and reimbursement rates that keep shrinking.",
+  "whats_happening": "Patients, payers, and referral sources form the demand side, but the real pressure is compliance and low wages—both drive care quality down and burnout up. Regional scale can negotiate better referral flows and staffing density, but only if regulatory burden doesn't devour the gain. Pricing power has all but vanished.",
+  "the_bet": "Winners build systems that reduce labor friction and compliance overhead in tandem; losers run on thin margins with interchangeable staff and are first to collapse when reimbursement tightens."
+ },
+ "utilization-managed-experience-venue": {
+  "headline": "An experience venue wins by filling seats and programming them cleverly so crowds feel they've found something genuine and scarce.",
+  "whats_happening": "Consumers and groups book for status and novelty, but demand is fickle and shaped by what they hear and see online. The venue's leverage is channel access—getting people through the door—and the scarcity of prime locations. When health concerns spike or the novelty fades, occupancy collapses fast.",
+  "the_bet": "Winners build repeatable programming that keeps people coming back and use scale to own multiple high-traffic locations; losers over-rely on novelty and end up as empty, over-capitalized shells."
+ },
+ "niche-food-brand-producer": {
+  "headline": "A niche food brand wins by owning a taste preference that justifies a price premium and fighting to keep that preference alive in a crowded shelf.",
+  "whats_happening": "Consumers, retailers, and distributors all shape the path to market, but the real squeeze comes from input costs and channel power—retailers and wholesalers take heavy cuts. Health-conscious positioning attracts consumers but demands costly sourcing. Staying niche is the moat; going mass-market is where most die.",
+  "the_bet": "Winners stay disciplined about their positioning and build direct channels that bypass margin-eating intermediaries; losers chase volume, lose their edge, and get out-competed by better-funded brands with similar profiles."
+ },
+ "regulated-workflow-infrastructure": {
+  "headline": "An infrastructure platform wins by turning regulatory tedium into sticky, recurring revenue that enterprises cannot live without.",
+  "whats_happening": "Insurers, employers, and regulated enterprises must manage claims, compliance, and identity regardless of profit motive—demand is baked in by law. The hard part is building software that scales, stays compliant as rules shift, and earns customer trust. Customer acquisition costs are steep because enterprises move slowly.",
+  "the_bet": "Winners build products so integrated into mandatory workflows that switching is prohibitively painful; losers over-engineer, miss regulatory changes, or get killed by larger platforms bundling the capability into suites."
+ },
+ "inventory-and-credit-distributor": {
+  "headline": "A distributor survives by being the one contractors and small operators call when they need stock fast and cannot wait for capital to clear.",
+  "whats_happening": "Contractors, institutions, and retailers depend on just-in-time inventory and working-capital relief—both are genuine, urgent needs. The distributor floats inventory and credit, earning a spread, but is squeezed by producer direct-to-consumer and by digital ordering that erodes the speed advantage. Capital costs and channel leverage are the twin pressures.",
+  "the_bet": "Winners optimize logistics and relationships to deliver speed and reliability that digital-alone cannot match; losers become pure margin-thin logistics and are crushed by Amazon-like operators or squeezed out by producers recapturing distribution."
+ },
+ "care-and-family-demand-platform": {
+  "headline": "A care platform wins by being the coordinator families and seniors call when they need help but the system is too fragmented to navigate alone.",
+  "whats_happening": "Aging populations and complex care situations drive steady demand, reinforced by payers and public systems that need partners to manage overflow. The operator's crunch is labor scarcity, low reimbursement, and a tangle of compliance rules—all three feed each other. Regional scale can pool labor and negotiate harder with payers, but only if quality is not sacrificed.",
+  "the_bet": "Winners build labor-efficient operations that coordinate care across modalities and earn trust that stickies both families and payers; losers run on unsustainable staffing models and eventually burn out or exit when reimbursement fades."
+ }
+}
