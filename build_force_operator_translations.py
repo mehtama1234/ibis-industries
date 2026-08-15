@@ -268,8 +268,6 @@ def build_html(records):
   <div class="chips">{losers}</div>
   <div class="meta" style="margin-top:14px">Tensions</div>
   <ul class="list"><li>{e('This force becomes most dangerous when ' + ', '.join(r['binding_constraints'][:2]) + ' stop looking operational and start determining category structure.')}</li></ul>
-  <div class="meta" style="margin-top:14px">Second-order effects</div>
-  <ul class="list"><li>{e('Once this force intensifies, adjacent operator models and ownership structures usually start repricing before the headline category fully does.')}</li></ul>
   <p><b>What to do</b></p>
   <ul class="list">{moves}</ul>
 </article>"""

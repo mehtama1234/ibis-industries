@@ -1232,7 +1232,6 @@ def build_clusters_page(clusters: list[dict[str, Any]]) -> str:
   <div class="meta" style="margin-top:14px">Tensions</div>
   <p class="small">{e('This cluster gets stressed when ' + ', '.join(cluster.get('top_constraints', [])[:2]) + ' stop looking manageable and start defining the economics.')}</p>
   <div class="meta" style="margin-top:14px">Second-order effects</div>
-  <p class="small">{e('If the cluster thesis is right, the spillover shows up in adjacent company behavior, not just in the headline leaders.')}</p>
 </article>"""
         for cluster in clusters
     )

@@ -1834,14 +1834,11 @@ def build_theme_core_mechanisms(theme: dict, subthemes: list[dict], forces: list
 
 def build_theme_implications(theme: dict, subthemes: list[dict]) -> list[str]:
     implications = []
-    for subtheme in subthemes[:3]:
+    for subtheme in subthemes[:4]:
         if subtheme["strategic_consequences"]:
             implications.append(
                 f"{subtheme['title']} implies that {lower_first(subtheme['strategic_consequences'][0].rstrip('.'))}."
             )
-    implications.append(
-        "The common winner profile is the operator that can make the new behavior easier to understand, easier to repeat, and easier to monetize than peers can."
-    )
     return implications[:4]
 
 
