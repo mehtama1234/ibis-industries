@@ -20,3 +20,11 @@ extract_pilot.py
 prep_200.py
 _save_trends.py
 __pycache__/
+
+# Internal build scratch / handoffs — keep local, do not publish
+_*.json
+HANDOFF_WORKER.md
+WORKER_HANDOFF.md
+scratchpad/
+.agents/
+.codex/
