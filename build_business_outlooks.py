@@ -197,11 +197,24 @@ def render_subtheme_chip(prefix: str, subtheme: dict) -> str:
     return f'<a class="chip" href="{e(prefix)}themes/{e(subtheme["theme_slug"])}.html#{e(subtheme["slug"])}">{e(subtheme["title"])}</a>'
 
 
-def render_lens(lens: dict, prefix: str = "") -> str:
+def render_lens(lens: dict, prefix: str = "", seen: set | None = None) -> str:
+    seen = seen if seen is not None else set()
+
+    def dd(items: list, limit: int) -> str:
+        out = []
+        for item in items:
+            if item in seen:
+                continue
+            seen.add(item)
+            out.append(item)
+            if len(out) >= limit:
+                break
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
     theme_chips = "".join(f'<span class="chip">{e(title)}</span>' for title in lens["theme_titles"][:4])
-    tensions = "".join(f"<li>{e(item)}</li>" for item in lens["tensions"][:3])
-    signals = "".join(f"<li>{e(item)}</li>" for item in lens["signals"][:3])
-    second_order = "".join(f"<li>{e(item)}</li>" for item in lens["second_order"][:3])
+    tensions = dd(lens["tensions"], 3)
+    signals = dd(lens["signals"], 3)
+    second_order = dd(lens["second_order"], 3)
     subthemes = "".join(render_subtheme_chip(prefix, item) for item in lens["subthemes"][:5]) or '<span class="chip">no surfaced subthemes</span>'
     return f"""<article class="lens">
   <div class="meta">{e(lens['label'])} lens</div>
@@ -230,7 +243,8 @@ def render_lens(lens: dict, prefix: str = "") -> str:
 
 
 def render_record(record: dict, prefix: str = "") -> str:
-    lenses = "".join(render_lens(lens, prefix=prefix) for lens in record["lens_cards"])
+    _lens_seen: set = set()
+    lenses = "".join(render_lens(lens, prefix=prefix, seen=_lens_seen) for lens in record["lens_cards"])
     forces = "".join(f'<span class="chip">{e(force["title"])}</span>' for force in record.get("linked_forces", [])[:4])
     constraints = "".join(f'<span class="chip">{e(item)}</span>' for item in record.get("binding_constraints", [])[:4])
     sectors = "".join(f'<span class="chip">{e(item)}</span>' for item in record.get("sectors", [])[:4])

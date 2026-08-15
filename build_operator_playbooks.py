@@ -94,8 +94,21 @@ def build_page(record, briefs_by_slug):
         f"<li>{e('Does ' + q[0].lower() + q[1:])}</li>" if q else ""
         for q in record["operator_questions"][:3]
     )
-    tensions = "".join(f"<li>{e(item)}</li>" for item in record["tension_items"][:3])
-    second_order = "".join(f"<li>{e(item)}</li>" for item in record["second_order_items"][:3])
+    _seen: set = set()
+
+    def _dd(items, limit):
+        out = []
+        for item in items:
+            if item in _seen:
+                continue
+            _seen.add(item)
+            out.append(item)
+            if len(out) >= limit:
+                break
+        return "".join(f"<li>{e(x)}</li>" for x in out)
+
+    tensions = _dd(record["tension_items"], 3)
+    second_order = _dd(record["second_order_items"], 3)
     devs = "".join(
         f'<div class="dev"><b>{e(d["industry"])}</b><br>{e(d["development"])}</div>'
         for d in record["recent_developments"][:8]

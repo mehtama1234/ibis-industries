@@ -519,6 +519,13 @@ def main() -> None:
         record["prose"] = prose_map.get(record["slug"])
         if record["prose"]:
             matched += 1
+            # Also overwrite the legacy templated snippet fields so downstream
+            # readers (capstones, hubs) inherit the authored prose, not templates.
+            prose = record["prose"]
+            if prose.get("headline"):
+                record["investor_memo"] = prose["headline"]
+            if prose.get("operator_take"):
+                record["operator_memo"] = prose["operator_take"]
     print(f"authored prose matched for {matched}/{len(records)} memos")
 
     PAGES_OUT.mkdir(exist_ok=True)
